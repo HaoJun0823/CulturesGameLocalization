@@ -24,8 +24,7 @@ CulturesGameLocalization/
 │   └── ZH-CN/             # 汉化内容（安装时对位游戏目录）
 │       ├── map_xml/       # 128 个主战役地图 XML
 │       ├── map_xml_user/  # 28 个 C2M 用户战役地图 XML
-│       ├── text/l10/      # 游戏内字符串(ini) + 超文本百科(hlt/txt/pcx)
-│       └── translate_cli.py  # 统一汉化 CLI
+│       └── text/l10/      # 游戏内字符串(ini) + 超文本百科(hlt/txt/pcx)
 ├── Tools/                 # 汉化工具链（说明见 Tools/README.md）
 ├── Output/                # 由构建工具生成的地图本地化 XML（132 张，见下）
 ├── translation_version_choose.csv  # 地图版本选择表（map_id → 游戏版本 2/3/5）
@@ -38,7 +37,7 @@ CulturesGameLocalization/
 
 | 工具 | 用途 |
 |------|------|
-| `Localization/ZH-CN/translate_cli.py` | 统一 CLI：`scan`（盘点）/`repair`（修复非法 XML）/`verify`（校验对齐）/`inject`（注入字典）/`commit` |
+| `Tools/translate_cli.py` | 统一 CLI：`scan`（盘点）/`repair`（修复非法 XML）/`verify`（校验对齐）/`inject`（注入字典）/`commit` |
 | `Tools/audit_all_maps.py` | 全量三重审计：合法性 / 正确性 / 完整性（128 + 28 全覆盖，验收标准） |
 | `Tools/trans_scan.py` | 列出某文件全部待译空槽（CHN 空、GER 有原文），附德语预览 |
 | `Tools/audit_names.py` | 人名/专名一致性自检（锚点法，找出仅一字之差的异体译名） |

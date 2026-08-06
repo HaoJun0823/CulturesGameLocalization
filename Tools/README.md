@@ -7,6 +7,23 @@
 
 ## 工具清单
 
+### `translate_cli.py` — 统一汉化 CLI（主工具）
+
+- **用途**：单文件入口，替代旧散装 `trans_*.py` / `inject.py` / `selfcheck.py`：
+  - `scan` 盘点 128 个 XML 的完成度(A/B/C)、CRLF、GER 污染
+  - `repair` 内容保全式修复非法 XML 结构（补 `<briefings>`、修被吃的首个 `<block id>`），先过 minidom 校验、不合法绝不落盘
+  - `verify` 校验单文件：XML 解析 / CRLF / CHN 槽数==GER / 空 CHN
+  - `inject` 从 `archive/` 读取翻译字典注入（archive 未随仓库分发，仅本地可用）
+  - `commit` 在仓库根执行 git 提交
+- **路径**：自动定位到本文件上一级 `Localization/ZH-CN/` 下的 `map_xml`，不依赖本机绝对路径。
+- **用法**：
+  ```bash
+  python Tools/translate_cli.py scan
+  python Tools/translate_cli.py verify campaign_01_01.xml   # 传文件名（相对 map_xml）
+  python Tools/translate_cli.py repair [files...] [--apply]
+  ```
+- **注意**：`verify`/`repair` 参数传**文件名**（相对 `map_xml/`），不要传全路径。
+
 ### `loc_tools.py` — XML 真解析核心库（依赖库）
 
 - **用途**：用 `xml.etree.ElementTree` 解析地图 XML，

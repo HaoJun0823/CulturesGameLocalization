@@ -8,16 +8,18 @@
           去重 </strings>），修复结果先过 minidom 校验，不合法绝不落盘
   verify  校验单文件：XML 解析 / CRLF / GER 污染 / CHN 槽数==GER 槽数 / 空 CHN
   inject  从 archive/ 读取翻译字典 T，注入到占位 <text lang="CHN" />，注入后强制校验
-  commit  以 git -c core.autocrlf=false 提交（子模块 chn_v1）
+  commit  在仓库根以 git -c core.autocrlf=false 提交
 
-运行：python translate_cli.py <subcommand> [args]
+汉化内容根：本文件上一级 Localization/ZH-CN/（map_xml / map_xml_user / text）。
+运行：python Tools/translate_cli.py <subcommand> [args]
 """
 import os, re, sys, argparse, importlib.util
 from xml.dom import minidom
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-MAP_XML = os.path.join(HERE, "map_xml")
-ARCHIVE = os.path.join(HERE, "archive")
+LOC_ROOT = os.path.join(HERE, "..", "Localization", "ZH-CN")   # 汉化内容根
+MAP_XML = os.path.join(LOC_ROOT, "map_xml")
+ARCHIVE = os.path.join(LOC_ROOT, "archive")                      # 字典留档（未随仓库分发）
 
 # --------------------------------------------------------------------------
 # 基础工具
@@ -371,10 +373,11 @@ def cmd_inject(args):
 def cmd_commit(args):
     import subprocess
     msg = args.msg or "汉化：CLI 批量修复/注入"
-    # 仅提交 map_xml 与 CLI/archive 相关改动
-    subprocess.run(["git", "-c", "core.autocrlf=false", "add", "-A"], cwd=HERE, check=True)
+    # 在仓库根（本文件上一级）执行 git 提交
+    repo_root = os.path.dirname(HERE)
+    subprocess.run(["git", "-c", "core.autocrlf=false", "add", "-A"], cwd=repo_root, check=True)
     r = subprocess.run(["git", "-c", "core.autocrlf=false", "commit", "-m", msg],
-                       cwd=HERE, capture_output=True, text=True)
+                       cwd=repo_root, capture_output=True, text=True)
     print(r.stdout.strip())
     if r.returncode != 0:
         print(r.stderr.strip())

@@ -845,13 +845,14 @@ def build_map(xml_file: Path, output_dir: Path, language: str,
     # CHN 语言构建修正：
     #  1) 编码：XML 配置写 GB2312，但游戏外挂实际读取 GBK。
     #     GB2312 无法编码「——」「·」「瞭/祇/脅」等字形，强制用 GBK（GB2312 超集）。
-    #  2) C2M 用户地图（IsC2M=true）：官方 C2M 包语言目录固定为 text/ger/（无 l10/CHN
-    #     概念），中文即覆盖 ger；alias 需用 ger，编码统一 GBK。
+    #  2) 输出目录：无论主战役还是 C2M 用户地图，中文统一输出到 text/l10/——
+    #     l10 是外挂汉化注入的目标语言目录（项目规范「chn输出为l10」），
+    #     与源数据里是否只有 ger 无关（GAME_5_MAP 普通地图源也只有 ger，但 l10 照样加载）。
+    #     因此 C2M 的 alias 也统一为 l10（若 XML 配置 alias 为 CHN/ger 等则覆盖）。
     if language.upper() == "CHN":
         lang_config = dict(data.get("lang_configs", {}).get(language, {}))
         lang_config["encoding"] = "GBK"          # 无论 GB2312 还是 windows-1252 都统一 GBK
-        if data.get("IsC2M"):
-            lang_config["alias"] = "ger"         # C2M 包内语言目录固定 ger
+        lang_config["alias"] = "l10"             # 中文输出目录统一 text/l10/
     else:
         lang_config = data.get("lang_configs", {}).get(language, {})
     output_lang = lang_config.get("alias", language)

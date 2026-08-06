@@ -56,7 +56,7 @@ CulturesGameLocalization/
 `Output/` 中的 156 个地图目录是**可直接放进游戏的地图本地化文件**（由 `LOC_CN` 的汉化 XML 构建）：
 
 - 主战役（128 个）：`Output/<map_id>/text/l10/strings.ini` + `briefings/briefings.txt`，GBK 编码
-- C2M 用户战役（28 个）：`Output/<map_id>/text/ger/...`（C2M 包语言目录固定为 ger）
+- C2M 用户战役（28 个）：同样输出 `Output/<map_id>/text/l10/...`（中文统一用 l10 目录，与主战役一致）
 
 构建命令（使用 `Tools/loc_tools.py build`，已内置 GBK 编码修正与 block id ASCII 化）：
 
@@ -68,6 +68,8 @@ python -c "import sys; sys.path.insert(0,'Tools'); import loc_tools; from pathli
 ```
 
 > 说明：中文统一用 **GBK** 编码（游戏外挂实际读取编码，GB2312 无法编码「——」「瞭」等字形）；
+> 中文输出目录统一为 **`text/l10/`**（项目规范「chn输出为l10」——l10 是外挂汉化注入的目标语言目录，
+> 主战役与 C2M 一致；源数据里只有 ger 是官方原始包，不影响 l10 加载）；
 > briefings 的 block id 按官方汉化策略做 ASCII 化（`10minutenspäter` → `10minutenspaeter`）。
 > 历史版本：`Output/` 曾由 `Tools/build_maps_from_versions.py` 生成 132 张源数据 XML 模板
 > （见 `translation_version_choose.csv` 版本选择表），已由可直接加载的 l10 文件取代。

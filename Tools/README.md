@@ -34,7 +34,8 @@
   - `build` 从 XML 构建游戏可加载的 ini/txt——构建 CHN 时**自动用 GBK 编码**
     （GB2312 无法编码「——」「瞭」等字形；游戏外挂实际读 GBK），
     briefings 的 **block id 自动 ASCII 化**（`10minutenspäter` → `10minutenspaeter`，
-    官方汉化同策略），C2M 地图（IsC2M=true）输出到 `text/ger/`（C2M 包语言目录固定 ger）
+    官方汉化同策略），中文输出目录统一为 **`text/l10/`**（主战役与 C2M 一致，
+    项目规范「chn输出为l10」；l10 是外挂汉化注入的目标语言目录，与源数据语言目录无关）
   - `validate` 校验 XML 完整性
 - **注意**：它是共享库，也是带 CLI 的工具。
 

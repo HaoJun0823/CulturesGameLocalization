@@ -43,6 +43,7 @@ CulturesGameLocalization/
 | `Tools/audit_names.py` | 人名/专名一致性自检（锚点法，找出仅一字之差的异体译名） |
 | `Tools/loc_tools.py` | XML 真解析核心库（其余工具共享依赖） |
 | `Tools/build_maps_from_versions.py` | 按版本表从游戏源数据构建地图本地化 XML（→ `Output/`） |
+| `Tools/cultures2_converter.py` | Cultures 2 ini/cif 互转 + c2m 打包解包（提取自 Cultures-map-editor，GPL-3.0） |
 
 ## 汉化范围与质量
 

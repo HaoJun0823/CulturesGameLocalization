@@ -68,6 +68,18 @@
 - **用法**：在仓库根运行 `python tools/audit_names.py`
 - 自动定位 `Localization/ZH-CN/` 与 `language_union.csv`，不依赖本机绝对路径。
 
+### `cultures2_converter.py` — Cultures 2 ini/cif 转换 + c2m 打包解包
+
+- **用途**：独立 CLI 工具，提取自 [Cultures-map-editor](https://github.com/Mikulus6/Cultures-map-editor)
+  （CulturesNation 社区，GPL-3.0）：
+  - `cif2ini <in.cif> [out.ini]` —— 解密的 Cultures 2 初始化文件转 ini 文本
+  - `ini2cif <in.ini> [out.cif]` —— ini 文本加密回 cif（往返字节级一致）
+  - `c2m-unpack <in.c2m> [out_dir]` —— 解包用户战役 c2m 归档
+  - `c2m-pack <in_dir> [out.c2m]` —— 打包目录为 c2m（输入含 `currentusermap/` 时自动识别为归档根）
+- **依赖**：仅标准库，无第三方依赖。
+- **致谢/版权**：见脚本头部 docstring（原项目作者 Mikulus 及贡献者、格式研究文献 Bacter/Siguza/Watto、GPL-3.0 许可）。
+
+
 ### `build_maps_from_versions.py` — 按版本表构建地图本地化 XML
 
 - **用途**：读取 `translation_version_choose.csv`（map_id, version_choose 两列），

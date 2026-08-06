@@ -38,9 +38,8 @@ CulturesGameLocalization/
 | 工具 | 用途 |
 |------|------|
 | `Tools/translate_cli.py` | 统一 CLI：`scan`（盘点）/`repair`（修复非法 XML）/`verify`（校验对齐）/`inject`（注入字典）/`commit` |
-| `Tools/audit_all_maps.py` | 全量三重审计：合法性 / 正确性 / 完整性（128 + 28 全覆盖，验收标准） |
-| `Tools/trans_scan.py` | 列出某文件全部待译空槽（CHN 空、GER 有原文），附德语预览 |
-| `Tools/audit_names.py` | 人名/专名一致性自检（锚点法，找出仅一字之差的异体译名） |
+| `Tools/audit_all_maps.py` | 全量三重审计：合法性 / 正确性 / 完整性（128 + 28 全覆盖，验收标准，支持任意语言对比） |
+| `Tools/trans_scan.py` | 列出某文件全部待译空槽（源语言有原文、目标语言为空），附源语言预览（支持任意语言对比） |
 | `Tools/loc_tools.py` | XML 真解析核心库（其余工具共享依赖） |
 | `Tools/build_maps_from_versions.py` | 按版本表从游戏源数据构建地图本地化 XML（→ `Output/`） |
 | `Tools/cultures2_converter.py` | Cultures 2 ini/cif 互转 + c2m 打包解包（提取自 Cultures-map-editor，GPL-3.0） |

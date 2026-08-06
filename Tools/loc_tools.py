@@ -181,10 +181,17 @@ class BriefingsParser:
     
     @classmethod
     def build(cls, blocks: Dict[str, List[Dict[str, str]]], filepath: Path, encoding: str = "windows-1252") -> None:
-        """从结构化数据生成 briefings.txt"""
+        """从结构化数据生成 briefings.txt
+
+        block id 中的德语变音符号（ä/ö/ü/ß）会被 ASCII 化（fix_1251_chars）：
+        官方中文版（POL_OLDCHN）的 block id 全部为 ASCII，游戏引擎按 ASCII id
+        匹配对话段；变音 id 无法用 GBK 编码，故必须转写（10minutenspäter →
+        10minutenspaeter）。
+        """
         lines = []
         for block_id, nodes in blocks.items():
-            lines.append(f"[blockstart:{block_id}]")
+            ascii_id = fix_1251_chars(block_id)
+            lines.append(f"[blockstart:{ascii_id}]")
             for i, node in enumerate(nodes):
                 if node['type'] == 'text':
                     text_lines = node['value'].strip('\n').split('\n')
@@ -194,7 +201,7 @@ class BriefingsParser:
                         lines.append(line)
                 else:
                     lines.append(f"<{node['type']}:{node['value']}>")
-            lines.append(f"[blockend:{block_id}]")
+            lines.append(f"[blockend:{ascii_id}]")
             lines.append("")
         
         filepath.parent.mkdir(parents=True, exist_ok=True)
@@ -835,7 +842,18 @@ def build_map(xml_file: Path, output_dir: Path, language: str,
     strings_data = data.get("strings", {})
     briefings_data = data.get("briefings", {})
     
-    lang_config = data.get("lang_configs", {}).get(language, {})
+    # CHN 语言构建修正：
+    #  1) 编码：XML 配置写 GB2312，但游戏外挂实际读取 GBK。
+    #     GB2312 无法编码「——」「·」「瞭/祇/脅」等字形，强制用 GBK（GB2312 超集）。
+    #  2) C2M 用户地图（IsC2M=true）：官方 C2M 包语言目录固定为 text/ger/（无 l10/CHN
+    #     概念），中文即覆盖 ger；alias 需用 ger，编码统一 GBK。
+    if language.upper() == "CHN":
+        lang_config = dict(data.get("lang_configs", {}).get(language, {}))
+        lang_config["encoding"] = "GBK"          # 无论 GB2312 还是 windows-1252 都统一 GBK
+        if data.get("IsC2M"):
+            lang_config["alias"] = "ger"         # C2M 包内语言目录固定 ger
+    else:
+        lang_config = data.get("lang_configs", {}).get(language, {})
     output_lang = lang_config.get("alias", language)
     encoding = lang_config.get("encoding", "windows-1252")
     apply_fix_1251 = lang_config.get("fix_1251", False)

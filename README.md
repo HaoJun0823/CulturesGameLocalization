@@ -53,18 +53,24 @@ CulturesGameLocalization/
 
 ## 构建地图本地化 XML（可选）
 
-`Output/` 中的 132 张地图 XML 由 `Tools/build_maps_from_versions.py` 按版本选择表
-从游戏原始数据生成（85 张取 GAME_5、46 张取 GAME_2、1 张取 GAME_3），
-可用作对照或重新生成模板：
+`Output/` 中的 156 个地图目录是**可直接放进游戏的地图本地化文件**（由 `LOC_CN` 的汉化 XML 构建）：
+
+- 主战役（128 个）：`Output/<map_id>/text/l10/strings.ini` + `briefings/briefings.txt`，GBK 编码
+- C2M 用户战役（28 个）：`Output/<map_id>/text/ger/...`（C2M 包语言目录固定为 ger）
+
+构建命令（使用 `Tools/loc_tools.py build`，已内置 GBK 编码修正与 block id ASCII 化）：
 
 ```bash
-python Tools/build_maps_from_versions.py \
-    --csv translation_version_choose.csv \
-    --src "<含 GAME_2/3/5_MAP 的源数据根目录>" \
-    --output Output
+# 主战役（128）
+python Tools/loc_tools.py build -i Localization/ZH-CN/map_xml -l CHN -o Output
+# C2M 用户战役（28，含子目录递归）
+python -c "import sys; sys.path.insert(0,'Tools'); import loc_tools; from pathlib import Path; [loc_tools.build_map(f, Path('Output'), 'CHN') for f in sorted(Path('Localization/ZH-CN/map_xml_user').rglob('*.xml'))]"
 ```
 
-> 游戏原始数据（GAME_2/3/5_MAP 等）**不随本仓库分发**，`--src` 需指向本机源数据。
+> 说明：中文统一用 **GBK** 编码（游戏外挂实际读取编码，GB2312 无法编码「——」「瞭」等字形）；
+> briefings 的 block id 按官方汉化策略做 ASCII 化（`10minutenspäter` → `10minutenspaeter`）。
+> 历史版本：`Output/` 曾由 `Tools/build_maps_from_versions.py` 生成 132 张源数据 XML 模板
+> （见 `translation_version_choose.csv` 版本选择表），已由可直接加载的 l10 文件取代。
 
 ## 免责声明
 

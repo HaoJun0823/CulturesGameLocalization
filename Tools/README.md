@@ -29,7 +29,14 @@
 - **用途**：用 `xml.etree.ElementTree` 解析地图 XML，
   按结构读出 `strings[sid]` 与 `briefings[bid]` 的各语言文本（GER/ENG/POL/CHN）。
 - **谁依赖它**：`audit_all_maps.py`、`audit_names.py`、`build_maps_from_versions.py` 都 `import` 它。
-- **注意**：它不是命令行工具，是共享库（自带 extract/build/validate 等 CLI 子命令，见 `--help`）。
+- **CLI 子命令**（`python Tools/loc_tools.py <cmd> --help`）：
+  - `extract` / `extract-batch` 从游戏源数据提取为 XML
+  - `build` 从 XML 构建游戏可加载的 ini/txt——构建 CHN 时**自动用 GBK 编码**
+    （GB2312 无法编码「——」「瞭」等字形；游戏外挂实际读 GBK），
+    briefings 的 **block id 自动 ASCII 化**（`10minutenspäter` → `10minutenspaeter`，
+    官方汉化同策略），C2M 地图（IsC2M=true）输出到 `text/ger/`（C2M 包语言目录固定 ger）
+  - `validate` 校验 XML 完整性
+- **注意**：它是共享库，也是带 CLI 的工具。
 
 ### `audit_all_maps.py` — 全量三重审计（验收标准）
 

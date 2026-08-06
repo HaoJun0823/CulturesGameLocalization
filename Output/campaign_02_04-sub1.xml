@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_02_04-sub1" export_map_id="campaign_02_04-sub1" map_md5="0fad1ca57aef71702f0a856de93d1ba6" IsC2M="false">
+  <languages>
+    <language code="GER" alias="GER" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="GER">@Finde drei Schwerter verstorbener Könige!</text>
+    </string>
+    <string id="50">
+      <text lang="GER">Bjarnis Stamm</text>
+    </string>
+    <string id="51">
+      <text lang="GER">Franken</text>
+    </string>
+    <string id="52">
+      <text lang="GER">Wikinger</text>
+    </string>
+    <string id="71">
+      <text lang="GER">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="GER">Cyra</text>
+    </string>
+    <string id="73">
+      <text lang="GER">Hatschi</text>
+    </string>
+    <string id="74">
+      <text lang="GER">Sigurd</text>
+    </string>
+    <string id="75">
+      <text lang="GER">Ykol</text>
+    </string>
+    <string id="99">
+      <text lang="GER">SCHWERTER DER KÖNIGE - Die Kette des Fenris - Sub1</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="GER">
+        <text> 
+Eine tiefe, unheimliche Gruft tat sich vor uns auf... Unfassbar, dass an diesem Ort so viele berühmte Könige ihre letzte Ruhe gefunden hatten... 
+</text>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="GER">
+        <text> 
+Der fränkische Tyrann hatte uns nicht aufhalten können, aber überall trafen wir auf seine gefährlichen Grabräuber. Wir mussten vorsichtig und mit List vorgehen, denn sie waren uns zahlenmäßig weit überlegen! 
+
+Die Tore waren mit ausgeklügelten Schließmechanismen versehen. Holztore ließen sich nur mit Schaltern öffnen, Metalltore waren durch wilde Tiere geblockt oder wurden ausgelöst durch unsichtbare Schließmechanismen, die meist im Boden eingelassen waren. Leicht konnte man in eine Falle geraten!  
+
+Finde die drei Schwerter der alten Könige!
+</text>
+      </lang>
+    </block>
+    <block id="01_player_1_seen_franks">
+      <lang code="GER">
+        <text> 
+GRABRÄUBER 
+
+Die Grabräuber und Soldaten des fränkischen Tyrann ließen nicht lange auf sich warten... Als wir die Katakomben betraten, griffen sie uns sofort an. Wir mussten uns eine kluge Taktik erdenken, um ihnen nicht zu unterliegen!
+</text>
+      </lang>
+    </block>
+    <block id="02_player_2_seen_viking">
+      <lang code="GER">
+        <text> 
+EINGESPERRTE WIKINGER
+
+Diese armen Wikinger wurden schon seit einiger Zeit von diesen fränkischen Barbaren gefangen gehalten. Sie boten uns ihre Hilfe an, wenn wir sie aus ihrem Gefängnis befreien würden. 
+</text>
+      </lang>
+    </block>
+    <block id="03_viking">
+      <lang code="GER">
+        <text> 
+Die befreiten Wikinger jubelten und freuten sich über ihre wiedergewonnene Freiheit. Sofort wollten sie uns bei unserer Mission beiseite stehen.
+</text>
+      </lang>
+    </block>
+    <block id="04_sword">
+      <lang code="GER">
+        <text> 
+In einer der Buchten fanden wir ein uraltes Schwert. Die Verzierungen und Gravuren wiesen darauf hin, dass es einmal vor langer Zeit in dem Besitz eines sehr einflussreichem König gewesen ist. Aber es strahlte keine Magie aus und war für unsere Zwecke unbrauchbar.
+</text>
+      </lang>
+    </block>
+    <block id="05_switch1">
+      <lang code="GER">
+        <text> 
+TORE OFFEN! Schalter 1
+
+Als wir den Schalter betätigten, öffneten sich zwei Tore unweit von hier. Wir mussten einen unserer Leute auf dem Schalter zurücklassen, damit diese Tore sich nicht wieder schließen.
+</text>
+      </lang>
+    </block>
+    <block id="06_switch2">
+      <lang code="GER">
+        <text> 
+TORE OFFEN! Schalter 2
+
+Als wir den Schalter betätigten, öffneten sich fünf Tore in der näheren Umgebung. Wir mussten einen unserer Leute auf dem Schalter zurücklassen, damit diese Tore sich nicht wieder schließen.
+</text>
+      </lang>
+    </block>
+    <block id="07">
+      <lang code="GER">
+        <text> 
+In einer der Buchten fanden wir ein uraltes Schwert. Die Verzierungen und Gravuren wiesen darauf hin, dass es einmal vor langer Zeit in dem Besitz eines sehr einflussreichem König gewesen ist, aber der König dieses Schwertes lebte noch! 
+
+SCHADE! Wir konnten das Schwert für unsere Zwecke nicht gebrauchen!
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="200">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin Cyra erlag durch deine Unachtsamkeit! Ohne diese Heldin wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="300">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Hatschi erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
+</text>
+      </lang>
+    </block>
+    <block id="400">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Sigurd erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="500">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Ykol erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="GER">
+        <text> 
+Unser Auftrag war erfüllt, denn wir hatten die drei Schwerter der alten Könige gefunden. Dies sollte die erste Zutat für die Fenriskette sein. 
+</text>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="GER">
+        <text> 
+Um zu erfahren, worum es sich bei der nächsten magischen Ingredienz handelt, mussten wir die alte Abtei wieder aufsuchen. Weitere spannende Abenteuer würden uns noch bei unserer Mission erwarten....
+</text>
+      </lang>
+    </block>
+    <block id="50_endheader">
+      <lang code="GER">
+        <text> 
+
+MISSION GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="GER">
+        <text>
+
+SCHWERTER DER KÖNIGE
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_03_05_sub1" export_map_id="campaign_03_05_sub1" map_md5="5c5874846024ad0ecd425989ae1144c2" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">@寻找年幼的希罗斯特拉特斯，将其关入地牢！</text>
+      <text lang="ger">@SUCHE HEROSTRATIS DEN JÜNGEREN UND SPERRE IHN INS VERLIES!</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">寻找地牢！</text>
+      <text lang="ger">Suche das Verlies!</text>
+    </string>
+    <string id="2">
+      <text lang="CHN">设法绕过希罗斯特拉特斯的随从！</text>
+      <text lang="ger">Versuche an Herostrates Jüngern vorbei zu gelangen!</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">与英雄一同返回入口！</text>
+      <text lang="ger">Gehe mit den Helden zurück zum Eingang!</text>
+    </string>
+    <string id="55">
+      <text lang="CHN">希罗斯特拉特斯的继承者</text>
+      <text lang="ger">Herostrates Erben</text>
+    </string>
+    <string id="56">
+      <text lang="CHN">希罗斯特拉特斯</text>
+      <text lang="ger">Herostrates</text>
+    </string>
+    <string id="65">
+      <text lang="CHN">继承者</text>
+      <text lang="ger">Erben</text>
+    </string>
+    <string id="66">
+      <text lang="CHN">希罗斯特拉特斯</text>
+      <text lang="ger">Herostrates</text>
+    </string>
+    <string id="71">
+      <text lang="CHN">比雅尼</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="CHN">希拉</text>
+      <text lang="ger">Cyra</text>
+    </string>
+    <string id="73">
+      <text lang="CHN">哈奇</text>
+      <text lang="ger">Hatschi</text>
+    </string>
+    <string id="74">
+      <text lang="CHN">西格德</text>
+      <text lang="ger">Sigurd</text>
+    </string>
+    <string id="75">
+      <text lang="CHN">诺伯特</text>
+      <text lang="ger">Norbert</text>
+    </string>
+    <string id="76">
+      <text lang="CHN">玛尼</text>
+      <text lang="ger">Mani</text>
+    </string>
+    <string id="77">
+      <text lang="CHN">希罗斯特拉特斯</text>
+      <text lang="ger">Herostrates</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">希罗斯特拉特斯继承者</text>
+      <text lang="ger">HEROSTRATES ERBEN </text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="CHN">
+        <text>
+为消弭神庙之危，我们循那伙纵火贼穿过山道，竟入一似是另一世界之境。此地方可自那唯一入口进入。若非亲眼所见，我们绝不会相信——这火山内部竟别有洞天！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Um die Bedrohung vom Tempel abzuwenden, folgten wir der Scharr Brandstifter durch einen Berggang in eine scheinbar andere Welt. Dieser Ort konnte nur durch diesen einen Eingang betreten werden. Nie hätten wir einen solchen Ort in den Bergen vermutet!
+
+</text>
+        <usericon>1,40,298</usericon>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="CHN">
+        <text>
+
+
+欲治住"希罗斯特拉特斯之裔"，须避开其门徒与吐火之龙！
+
+唯寻得幼者希罗斯特拉特斯，将其囚于地牢，使他再不能煽惑众人，攻击方止。
+
+寻得幼者希罗斯特拉特斯，将其囚入地牢！当心秘道！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Um den "Erben Herostrates" das Handwerk zu legen, mussten wir an seinen Jüngern und den Feuer speienden Drachen vorbei! 
+
+Schließlich würden die Angriffe erst enden, nachdem man Herostrates den Jüngeren gefunden hat und in einen Verlies in Verwahrung hält, damit er keine weiteren Menschen anstiften kann.
+
+Finde Herostrates den Jüngeren und sperre ihn in ein Verlies! Achte auf geheime Gänge!
+</text>
+      </lang>
+    </block>
+    <block id="01">
+      <lang code="CHN">
+        <text>
+
+
+希罗斯特拉特斯之裔
+
+"嘿，你们！谁准你们踏入我等领地？"
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DIE ERBEN HEROSTRATES
+
+"Hey, ihr da! Wer hat euch den Zutritt in unser Gebiet gestattet?"
+</text>
+      </lang>
+    </block>
+    <block id="02">
+      <lang code="CHN">
+        <text>
+
+
+希罗斯特拉特斯之裔秘窟
+
+"你们想把我们的首领希罗斯特拉特斯关进地牢？我们绝不容许！"
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DAS GEHEIMVERSTECK DER ERBEN
+
+"Ihr wollt unseren Anführer Herostrates in ein Verlies sperren? Das werden wir nie zulassen!"
+</text>
+      </lang>
+    </block>
+    <block id="03">
+      <lang code="CHN">
+        <text>
+
+
+地牢看守
+
+"幸会！我候你们多时了。希罗斯特拉特斯之裔纵火行恶，于人无益。
+
+
+        
+        </text>
+        <text>
+
+
+
+此地神圣，希罗斯特拉特斯之裔从不至此。将他囚于此间，我自会看管。"
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+VERLIESWÄCHTER
+
+"Ich grüße Euch! Ich habe euch erwartet. Die Erben stellen furchtbare Dinge durch ihre Brandstiftereien an, die niemanden nützen.
+
+</text>
+        <usericon>1,43,175</usericon>
+        <text>
+
+Dieser Platz ist heilig und wird von den Erben Herostrates nicht aufgesucht. Sperrt Herostrates hier hinein. Dann werde ich mich um ihn kümmern."
+</text>
+      </lang>
+    </block>
+    <block id="04">
+      <lang code="CHN">
+        <text>
+
+
+希罗斯特拉特斯
+
+"你们要把我关进地牢？休想我会乖乖跟你们走！"
+
+
+        
+        </text>
+        <text>
+
+
+
+将希罗斯特拉特斯押入地牢！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+HEROSTRATES
+
+"Ihr wollt mich in ein Verlies sperren? Glaubt bloß nicht, dass ich euch einfach so folge!"
+
+</text>
+        <usericon>2,7</usericon>
+        <text>
+
+Bringe Herostrates in ein Verlies!
+</text>
+      </lang>
+    </block>
+    <block id="05">
+      <lang code="CHN">
+        <text>
+
+
+希罗斯特拉特斯身陷地牢！
+
+我们成功了！希罗斯特拉特斯困于地牢，自此由地牢看守看管。其门徒再不能将他救出。
+
+
+        
+        </text>
+        <text>
+
+
+
+率众英雄返回入口！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+HEROSTRATES IM VERLIES!
+
+Wir hatten es geschafft! Herostrates war in dem Verlies gefangen und wurde von nun an vom Verlieswächter bewacht. Seine Jünger würden ihn hier nicht befreien können.
+
+</text>
+        <usericon>2,7</usericon>
+        <text>
+
+Gehe mit deinen Helden zurück zum Eingang! 
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+英雄气概，还是鲁莽？当比雅尼殒命，众神落泪……失此英雄，你便无缘得见任务终局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="200">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+一时疏忽，人生便急转直下！你的女英雄希拉因你大意而殒命！失此英雄，你便无缘得见任务终局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="300">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+一时疏忽，人生便急转直下！你的挚友与英雄哈奇因你大意而殒命！失此英雄，你便无缘得见任务终局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held HATSCHI erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
+</text>
+      </lang>
+    </block>
+    <block id="400">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+一时疏忽，人生便急转直下！你的挚友与英雄西格德因你大意而殒命！失此英雄，你便无缘得见任务终局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held SIGURD erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="500">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+一时疏忽，人生便急转直下！你的挚友与英雄——巨龙诺伯特——因你大意而殒命！失此英雄，你便无缘得见任务终局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="CHN">
+        <text>
+
+
+我们将希罗斯特拉特斯交予地牢看守后，便返回山界入口。在那里他备受看管，再不能煽人纵火。
+
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Wir waren zum Eingang der Bergwelt zurückgekehrt, nachdem wir Herostrates dem Verlieswächter überlassen hatten. Dort war er in guter Obhut und würde niemanden mehr zur Brandstifterei anstiften.
+
+</text>
+        <usericon>1,24,287</usericon>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="CHN" />
+      <lang code="ger" />
+    </block>
+    <block id="50_endheader">
+      <lang code="CHN">
+        <text>
+
+
+任务成功！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+MISSION GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="600">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+一时疏忽，人生便急转直下！玛尼——比雅尼与希拉之子——因你大意而殒命！失此英雄，你便无缘得见任务终局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+
+
+希罗斯特拉特斯之裔
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DIE ERBEN HEROSTRATES
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

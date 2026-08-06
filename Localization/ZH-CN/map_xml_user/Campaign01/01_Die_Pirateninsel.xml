@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="01_Die_Pirateninsel" export_map_id="01_Die_Pirateninsel" map_md5="c29c81b6b2985ce255895d622849f5ef" IsC2M="true">
+  <languages>
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">海盗岛</text>
+      <text lang="ger">Die Pirateninsel</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">我们顺道去了一趟加勒比海，好好享受一场尽兴的假期……</text>
+      <text lang="ger">Wir machten einen Abstecher in die Karibik, um uns einen ausgiebigen Urlaub zu gönnen.....</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+    </string>
+    <string id="4">
+      <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+    </string>
+    <string id="50">
+      <text lang="CHN">玩家0</text>
+      <text lang="ger">Spieler0</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">玩家1</text>
+      <text lang="ger">Spieler1</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">玩家2</text>
+      <text lang="ger">Spieler2</text>
+    </string>
+    <string id="53">
+      <text lang="CHN">玩家3</text>
+      <text lang="ger">Spieler3</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="findmappos1">
+      <lang code="CHN">
+        <text>呀嗬，朋友们，我叫费利克斯，属于 s-ki-mos 部族。我们居住在遥远的北方。那是一个只有冰雪的世界。我想回家，可北方住着一个可怕的海盗，在这里作恶多端。无数次袭击都出自他手。他劫掠那些仍在此安居的平和岛民。他自封红海盗梅林。你们愿意帮我回到家乡吗？
+我也会知恩图报的。
+任务目标：消灭在北方拥有一座岛的梅林。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Juhuu Freunde, ich heiße Felix und gehöre zum Stamm der s-ki-mos. Wir leben weit weit im Norden. In einer Welt die nur aus Schnee und Eis besteht. Ich möchte nach Hause doch im Norden lebt ein schrecklicher Pirat, der hier sein Unwesen treibt. Zahlreiche Überfälle gehen auf sein Konto. Er plündert die friedlichen Inselbewohner aus, die noch hier leben. Er nennt sich selbst Merlin, der rote Korsar. Würdet ihr mir helfen in meine Heimat zu gelangen?
+Ich würde mich auch erkenntlich zeigen.
+Missionsziel: Vernichte Merlin, der im Norden eine Insel besitzt. 
+
+</text>
+      </lang>
+    </block>
+    <block id="lost_body">
+      <lang code="CHN">
+        <text>你失败了！！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Du hast verloren !!
+
+</text>
+      </lang>
+    </block>
+    <block id="lost_header">
+      <lang code="CHN">
+        <text>任务失败！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Mission verloren!
+
+</text>
+      </lang>
+    </block>
+    <block id="playerdied1">
+      <lang code="CHN">
+        <text>玩家1已阵亡。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 1 ist gestorben.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerdied2">
+      <lang code="CHN">
+        <text>玩家2已阵亡。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 2 ist gestorben.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerdied3">
+      <lang code="CHN">
+        <text>梅林的大本营已被摧毁，可他本人却乘一艘快船逃脱了。由于我们还得把费利克斯从他那座荒凉的岛上接出来，还得收拾行装，一时无法立刻追赶。可我们终会再见到他，这一点是确定无疑的……</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Merlins Hauptquartier war vernichtet, doch konnte er selbst auf einem schnellen Schiff entkommen. Da wir noch Felix von seiner trostlosen Insel holen mußten, und unsere Sachen packen mußten, konnten wir nicht sofort hinter ihm her. Doch wir würden ihn wiedersehen, so viel stand fest....
+
+</text>
+      </lang>
+    </block>
+    <block id="playerenemy1">
+      <lang code="CHN">
+        <text>玩家1现在转为敌对。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 1 ist jetzt feindlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerenemy2">
+      <lang code="CHN">
+        <text>玩家2现在转为敌对。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 2 ist jetzt feindlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerfriendly1">
+      <lang code="CHN">
+        <text>谢谢你们微薄的贡品。现在你们可以派商人来了。不过先警告你们：若你们派采金工来，我们立刻攻击你们……</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Danke für den bescheidenen Tribut. Ihr dürft nun eure Händler schicken. Doch seit gewarnt. Falls ihr Goldabbauer schickt greifen wir euch sofort an....
+
+</text>
+      </lang>
+    </block>
+    <block id="playerfriendly2">
+      <lang code="CHN">
+        <text>哦，谢谢你们的贡品，现在你们可以派商人到我们这里来了。不过要当心。若你们派采铁工来，我们立刻攻击你们……</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Oh, danke für den Tribut, ihr dürft nun eure Händler zu uns schicken. Doch hütet euch. Wenn ihr Eisenabbauer schickt, greifen wir euch sofort an....
+
+</text>
+      </lang>
+    </block>
+    <block id="playerfriendly3">
+      <lang code="CHN">
+        <text>玩家3现在转为友好。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 3 ist jetzt freundlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerneutral3">
+      <lang code="CHN">
+        <text>玩家3现在转为中立。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 3 ist jetzt neutral.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerseen1">
+      <lang code="CHN">
+        <text>萨拉马雷孔姆！！
+我们是萨拉马雷古姆的萨拉马雷卡人，衷心问候你们，尊贵的勇士。你们在寻找黄金，好铸造硬币来换取治疗药水？嗯，那好吧。只需一点贡品，我们便能给你们提供几笔不错的交易。你们意下如何？
+任务目标：向萨拉马雷卡人缴纳所要求的贡品，因为唯有如此你才能达成目标。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Sallamaleikumgum !!
+Wir die Sallamaleikas von Sallamaleigum grüßen Euch herzlich ihr ehrenwerten  Recken. Ihr sucht Gold, um Münzen herzustellen für Eure Heiltränke ? Hmm, na ok. Für einen kleinen Tribut könnten wir euch ein paar gute Handelsangebote unterbreiten. Was haltet ihr davon ? 
+Missionsziel: Zahle den Sallamaleikas den gewünschten Tribut, denn nur so kannst Du Dein Ziel erreichen.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerseen2">
+      <lang code="CHN">
+        <text>站住！！你们来这儿做什么？这么说你们需要铁来打造铁质工具？我们有的是铁，不过先给我们缴一份贡品，然后咱们再谈买卖。
+任务目标：缴纳所要求的贡品，唯有如此你才能得到你为达成目标所需的铁。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Halt !! Was wollt ihr hier ? So ihr braucht Eisen um Eisenwerkzeuge herzustellen? Wir haben Eisen im Überfluß, doch zahlt und zunächst einen Tribut, dann reden wir übers Geschäft.
+Missionsziel: Zahle den gewünschten Tribut, nur so kannst Du Eisen bekommen, den Du für dein Ziel brauchst.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerseen3">
+      <lang code="CHN">
+        <text>站住！！
+我，红海盗梅林，加勒比海的统治者、所有岛屿之王、海盗世界的大公与大君主，奉劝你们立刻消失，否则我的弓箭手会把你们消灭。
+任务目标：消灭红海盗梅林及其大本营。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Halt !! 
+Ich Merlin, der rote Korsar, Herrscher der Karibik, König über sämtliche Inseln, Großfürst und Großmogul der Piratenwelt, rate euch sofort zu verschwinden oder meine Bogenschützen werden euch vernichten. 
+Missionsziel: Vernichte Merlin den roten Korsaren und sein Hauptquartier.
+
+</text>
+      </lang>
+    </block>
+    <block id="start_body">
+      <lang code="CHN">
+        <text>假期到了。万岁，终于盼到了，我们心想。我们在一座绝妙的岛上安顿下来，把船拖上了岸，打算拿它当仓库用。来这儿的路上，我们在远处望见了一座被冰雪覆盖的岛屿。可我们个个都累坏了，只想上岛歇着，便升起顶帆朝我们的度假岛驶去……
+我们决定先储备些物资，日后再去瞧瞧西南方那座冰雪小岛。
+任务目标：储备50件铁质工具和50瓶大型治疗药水。
+探索西南方的冰岛。为此建造一艘船。
+
+
+制作者：尤基</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Es war Urlaub angesagt. Hurra, endlich dachten wir. Wir hatten uns auf einer tollen Insel niedergelassen, unser Schiff an Land gezogen, welches wir als Lager benutzen wollten. Auf dem Weg hierher hatten wir in weiter Ferne eine mit Eis bedeckte Insel bemerkt. Da wir aber alle Reif für die Insel waren fuhren wir mit gesetztem Topsegel unsere Urlaubsinsel an.....
+Wir beschlossen ein paar Waren einzulagern und uns dann später mal diese kleine Eisinsel im Südwesten anzuschauen.
+Missionsziel: Lagere 50 Eisenwerkzeuge und 50 große Heiltränke ein. 
+Erkunde die Eisinsel im Südwesten. Baue dazu ein Schiff.
+
+
+Erstellt von: Yogi
+
+</text>
+      </lang>
+    </block>
+    <block id="start_header">
+      <lang code="CHN">
+        <text>海盗岛</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Die Pirateninsel
+
+</text>
+      </lang>
+    </block>
+    <block id="won_body">
+      <lang code="CHN">
+        <text>呼，这可是件苦差事。我们终于储备好了所需的物资，把费利克斯从他的岛上接了出来，梅林也被赶出了他的岛。可他逃脱了，这让我们十分不快。既然他朝北方逃去，而费利克斯的族人也住在北方，我们便预感到了不祥。我们想尽快追上去，免得梅林的爪牙再酿出更多祸端。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Puh, das war ein hartes Stück Arbeit gewesen. Endlich hatten wir die erforderlichen Waren eingelagert, hatten Felix von seiner Insel geholt und Merlin war von seiner Insel vertrieben worden. Doch war er entkommen, und das paßte uns gar nicht. Da er Richtung Norden geflohen war, und das Volk von Felix auch im Norden lebte ahnten wir schreckliches. Wir wollten schnell hinterher, damit Merlins Schergen nicht noch mehr Unheil anrichtete.
+
+</text>
+      </lang>
+    </block>
+    <block id="won_header">
+      <lang code="CHN">
+        <text>任务达成！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Mission gewonnen!
+
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

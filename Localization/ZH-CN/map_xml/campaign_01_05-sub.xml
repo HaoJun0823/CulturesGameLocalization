@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_01_05-sub" export_map_id="campaign_01_05-sub" map_md5="ec43d034e7f22a49d1d3a3e7c25b4f76" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">解救皇帝的女儿！</text>
+      <text lang="eng">Rescue the Emperor's daughter!</text>
+      <text lang="ger">Befreie die Tochter des Kaisers!</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">匪徒</text>
+      <text lang="eng">Brigands</text>
+      <text lang="ger">Banditen</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">公主</text>
+      <text lang="eng">Princess</text>
+      <text lang="ger">Prinzessin</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">米克拉加德 - 支线</text>
+      <text lang="eng">MIKLAGARD - Sub</text>
+      <text lang="ger">MIKLAGARD - Sub</text>
+    </string>
+    <string id="101">
+      <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+    <string id="102">
+      <text lang="CHN">西格德</text>
+      <text lang="eng">Sigurd</text>
+      <text lang="ger">Sigurd</text>
+    </string>
+    <string id="103">
+      <text lang="CHN">希拉</text>
+      <text lang="eng">Cyra</text>
+      <text lang="ger">Cyra</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="bjarnitot">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+英雄气概，还是鲁莽轻率？当比雅尼倒下，诸神也在恸哭……他们的命运已定，人类的末日随之降临。
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When Bjarni died the gods were crying ... their fate was sealed and with it the end of the human world.
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ihr Ende war besiegelt und mit ihnen das Ende der Welt der Menschen!
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+地牢
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE DUNGEON
+
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+DER KERKER
+
+</text>
+      </lang>
+    </block>
+    <block id="heldtot">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+全完了！预言中的景象再无实现之日！
+
+尽管拼死抵抗，预言里的一位英雄仍被敌军优势兵力击倒！
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+This is the end! The vision can never be fulfilled now!
+
+Despite a fierce fight, one of your heroes was overwhelmed by the enemy!
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Das ist das Ende! Die Vision wird sich nun niemals erfüllen können!
+
+Trotz erbitterter Gegenwehr wurde einer der Helden von der Übermacht des Gegners überwältigt!
+</text>
+      </lang>
+    </block>
+    <block id="knopf">
+      <lang code="CHN">
+        <text>
+一声刺耳的吱呀巨响骤然响起……
+
+……继而是一阵金属碰撞的哗啦声！
+
+这必有深意！
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+We heard a loud, creaking sound ...
+
+... and a metallic rattle!
+
+It had to mean something!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Ein lautes, knarrendes Geräusch ertönte...
+
+... dann ein metallenes Rasseln!
+
+Das musste etwas zu bedeuten haben!
+</text>
+      </lang>
+    </block>
+    <block id="verließ">
+      <lang code="CHN">
+        <text>
+我们终于寻得那秘牢的隐蔽后门，皇帝的女儿正囚于其中。因不知敌方虚实，悄然潜入此刻至关重要。
+
+于是我决意独往，可我们的法兰克英雄执意相随，无可劝阻。一条幽暗的地下通道在我们眼前展开……前方会有什么等着我们？
+
+解救皇帝的女儿！
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>                                                                                           
+Finally, we had discovered the hidden back entrance to the secret dungeon where the Emperor's daughter was being held captive. It was now vital for us to creep in undetected, as we had no idea how strong the enemy might be. 
+
+I decided to go alone, but the Frankish hero insisted on accompanying me, and would not be dissuaded. A small, underground passage opened before us ... 
+Who knew what lay ahead?
+
+
+Rescue the Emperor's daughter!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>                                                                                           
+Wir hatten endlich den versteckten Hintereingang zu dem geheimen Verließ entdeckt, wo die Tochter des Kaisers gefangengehalten wurde. Nun war es von größter Wichtigkeit, sich unbemerkt einzuschleichen, da wir nicht wussten, wie stark der Gegner war. 
+
+Daher beschloss ich alleine zu gehen, aber unser Frankenheld bestand darauf, mich zu begleiten und ließ sich nicht umstimmen. Ein dunkler, unterirdischer Mauergang eröffnet sich vor uns... 
+Was würde uns erwarten?
+
+
+Befreie die Tochter des Kaisers!
+</text>
+      </lang>
+    </block>
+    <block id="wachen">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务成功！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+凭智谋与些许运气，我们制服守卫，救出了拜占庭皇帝的女儿。
+
+我们循原路匆匆回到地面，早有不耐烦的同伴在入口处迎候，如释重负。此刻还须将疲惫而惶惑的公主安然送回其父王身边。
+
+护送皇帝的女儿安全回到其父王身边。
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION SUCCESSFUL!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+
+Cunning and a lot of luck had permitted us to overwhelm the guards and free the daughter of the Byzantine Emperor. 
+
+We hurriedly made our way back to the surface and were welcomed back by our relieved men, who had been waiting impatiently for us to return. All we had to do now was return the exhausted, confused princess safely to her father.
+
+
+Escort the Emperor's daughter safely to her father.
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION GEWONNEN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+
+Mit List und viel Glück hatten wir die Wachen überwunden und die Tochter des byzantinischen Kaisers befreien können. 
+
+Eilig gelangten wir auf dem gleichen Weg wieder ans Tageslicht und wurden von unseren erleichterten Männern begrüßt, die am Eingang ungeduldig gewartet hatten. Jetzt mussten wir die erschöpfte und verwirrte Prinzessin noch sicher zu ihrem Vater geleiten.
+
+
+Geleite die Tochter des Kaisers sicher zu ihrem Vater.
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

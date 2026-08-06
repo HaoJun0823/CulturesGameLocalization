@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_02_01" export_map_id="campaign_02_01" map_md5="82111538a9c9b6b9a973e7acd8c6eda2" IsC2M="false">
+  <languages>
+    <language code="GER" alias="GER" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="GER">Siedele, bis du Nachricht von Hatschi erhältst.</text>
+    </string>
+    <string id="1">
+      <text lang="GER">Stelle Hatschi 20 Soldaten und errichte 4 Verteidigungstürme in seinem Dorf.</text>
+    </string>
+    <string id="2">
+      <text lang="GER">@Befreie Hatschis Dorf von der Schlangenplage!</text>
+    </string>
+    <string id="3">
+      <text lang="GER">Liefere Miguel 20 Goldbrocken.</text>
+    </string>
+    <string id="4">
+      <text lang="GER">Zahle den Tribut, um mit den Sarazenen handeln zu können.</text>
+    </string>
+    <string id="5">
+      <text lang="GER">Zahle den von den Byzantinern geforderten Tribut, wenn du Söldner und einen Handelspartner gewinnen möchtest.</text>
+    </string>
+    <string id="6">
+      <text lang="GER">Folge Ykol zum 'Verlassenen Dorf'.</text>
+    </string>
+    <string id="7">
+      <text lang="GER">Finde den Goldberg.</text>
+    </string>
+    <string id="8">
+      <text lang="GER">Beseitige die Schlangen im 'Verlassenen Dorf'.</text>
+    </string>
+    <string id="32">
+      <text lang="GER">Zahle 10 Weizen Tribut, wenn du mit dem Fischerdorf Handel treiben willst.</text>
+    </string>
+    <string id="33">
+      <text lang="GER">Zahle 10 Möbel Tribut, wenn du mit den Byzantinern Handel treiben willst.</text>
+    </string>
+    <string id="34">
+      <text lang="GER">Zahle 20 Gold Tribut, wenn du von Miguel Informationen erhalten möchtest.</text>
+    </string>
+    <string id="35">
+      <text lang="GER">Zahle 5 Möbel Tribut für weitere 5 Langbogenschützen.</text>
+    </string>
+    <string id="50">
+      <text lang="GER">Bjarnis Stamm</text>
+    </string>
+    <string id="51">
+      <text lang="GER">Hatschis Dorf</text>
+    </string>
+    <string id="52">
+      <text lang="GER">Sarazenen</text>
+    </string>
+    <string id="53">
+      <text lang="GER">Byzantiner</text>
+    </string>
+    <string id="54">
+      <text lang="GER">Miguel</text>
+    </string>
+    <string id="55">
+      <text lang="GER">Schlangenkrieger</text>
+    </string>
+    <string id="56">
+      <text lang="GER">Dorf</text>
+    </string>
+    <string id="71">
+      <text lang="GER">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="GER">Cyra</text>
+    </string>
+    <string id="73">
+      <text lang="GER">Hatschi</text>
+    </string>
+    <string id="75">
+      <text lang="GER">Ykol</text>
+    </string>
+    <string id="76">
+      <text lang="GER">Miguel</text>
+    </string>
+    <string id="98">
+      <text lang="GER">Die Wikinger landen an der Küste Arabiens, um ihren alten Freund Hatschi zu helfen. Denn unheimliche Schlangenwesen verunsichern das Land...</text>
+    </string>
+    <string id="99">
+      <text lang="GER">DIE PLAGE</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="GER">
+        <text> 
+Ich bin Bjarni, Sohn des Leif. Als kleiner Junge war ich mit meiner Sippe ausgezogen und hatte ein unbekanntes Land weit im Westen entdeckt. Mit fremdartigen, rothäutigen Menschen, die uns nach vielen gefahrvollen Abenteuern ihr Freundschaft geschenkt hatten.
+
+Mein letztes Abenteuer hatte mich auf meiner Suche, das Geheimnis um eine besorgniserregende Vision zu ergründen, durch ganz Europa bis ins Morgenland geführt. Unterwegs hatten sich mir drei tapfere Recken aus den fernen Ländern, durch die mein Weg mich führte, angeschlossen. Gemeinsam war es uns nach zahlreichen Abenteuern gelungen, die furchtbare Midgardschlange zu besiegen und die Welt vor dem Untergang zu bewahren. Denn dies war meine Vision und mein Schicksal gewesen...
+
+Es hatte eine rauschende Siegesfeier gegeben, doch dann war die Zeit gekommen, da sich unsere Wege trennen mussten...
+</text>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="GER">
+        <text> 
+Hatschi, der tapfere Sarazene und furchtlose Kämpfer, war nach dem Fest in seine Heimatstadt im Morgenland zurückgekehrt. 
+Auch Sigurd, der berühmte Held aus dem Frankenreich, sehnte sich wieder nach dem saftigen Grün der Wiesen und Wälder seiner Heimat und hatte sich einer Karawane nach Norden angeschlossen. 
+
+Und Cyra, die wackere Prinzessin aus Byzanz... Trotz all der Gefahren, die wir gemeinsam bestanden, oder vielleicht auch gerade deswegen, hatte sich eine tiefe Zuneigung zwischen uns entwickelt. Es schien so, als hätten die Götter uns seit Urzeiten füreinander bestimmt gehabt...
+
+Unsere Wege sollten sich nicht mehr trennen, und so reisten wir nach Byzanz an den Hof von Cyras Vater, welcher Kaiser dieses prachtvollen  Reiches war. 
+Der Glanz und der Reichtum am Palast des Kaisers waren unbeschreiblich! Uns fehlte es hier an nichts. Die besten Köche kredenzten Speisen aus aller Welt, wir labten uns an den besten Weinen des Reiches, und Bedienstete pflegten unsere Körper mit wohlduftenden Ölen und Salben.
+Es war ein Leben wie es die Götter nicht besser führen konnten, und so verging ein Tag um den anderen in Sorglosigkeit und Frieden.
+
+Doch wie so oft wurde auch diesmal unser Frieden und unser Glück allzu früh und abrupt gestört... 
+
+Eines Tages ereilte uns ein dringender Hilferuf unseres Freundes Hatschi. Seine Heimat wurde von unheimlichen Schlangenwesen heimgesucht, die Chaos und Zerstörung über das Land brachten. Er brauchte dringend Hilfe, und da er uns hier zu finden hoffte, hatte er uns seinen Boten geschickt.
+
+Trotz des angenehmen Lebens, das wir führten, zögerten Cyra und ich keine Sekunde und waren bereit, die Strapazen auf uns zu nehmen und unserem Gefährten zu Hilfe zu eilen...
+</text>
+      </lang>
+    </block>
+    <block id="01_nach_30_Sekunden">
+      <lang code="GER">
+        <text> 
+Kaum waren wir an Land gegangen und hatten begonnen unsere Zelte aufzuschlagen, ereilte uns eine Nachricht unseres alten Freundes Hatschi. Doch traurig und erschreckend war seine Kunde: Weite Teile Arabiens wurden bereits von der Schlangenplage heimgesucht. Diese dunklen Geschöpfe griffen viele Dörfer in Hatschis Umgebung an und befanden sich bereits an den Toren zu Hatschis Dorf. Wir mussten uns beeilen, um unsere Wirtschaft und unser Militär aufzubauen...
+
+Befreie Hatschis Dorf von der Schlangenplage! 
+</text>
+      </lang>
+    </block>
+    <block id="02_flüchtlinge">
+      <lang code="GER">
+        <text> 
+Der Schrecken saß diesen Flüchtlingen aus dem Dorf noch im Nacken. Zu viele Schlangenkreaturen hatten sie dazu gebracht, ihre Heimat zu verlassen. Nur die Mutigsten blieben zurück - geführt von unserem alten Freund Hatschi. Die anderen baten uns, schnellstens der Plage ein Ende zu setzen, bevor sie sich über ganz Arabien ausbreiten konnte. 
+</text>
+      </lang>
+    </block>
+    <block id="03_Angriffswelle_1">
+      <lang code="GER">
+        <text> 
+Mit einem ohrenbetäubenden Zischen fielen diese unheimlichen Schlangenwesen über uns herein. Ob wir dieser Attacke standhalten konnten? 
+</text>
+      </lang>
+    </block>
+    <block id="04_Angriffswelle_2">
+      <lang code="GER">
+        <text> 
+Die Angriffswellen der Schlangenbiester schienen nicht abzubrechen! 
+
+Hatschi hatte deshalb einen seiner Leute ausgesandt, um die Ursache der Schlangenplage zu erforschen. Dieser uns unbekannte Gefährte namens YKOL stand unserem Freund Hatschi schon seit einiger Zeit zur Seite. Er war aus dem weiten Norden gekommen und wollte den südlichen Teil der Welt durchreisen. Als er jedoch von dem Schlangenproblem erfuhr, war er geblieben, um zu helfen. Schon bald würden wir ihn kennen lernen...
+</text>
+      </lang>
+    </block>
+    <block id="05_Angriffswelle_3">
+      <lang code="GER">
+        <text> 
+Diese schrecklichen Schlangenwesen fielen ein weiteres Mal über uns herein. Ihre Angriffe wurden immer gewaltiger. Hoch im Norden braute sich etwas Unheimliches zusammen. Ob wir einer weiteren Angriffswelle standhalten konnten? 
+</text>
+      </lang>
+    </block>
+    <block id="06_Megangriff1">
+      <lang code="GER">
+        <text> 
+Gewaltiger und furchteinflößender als bei jedem Angriff zuvor fielen die Schlangenwesen über uns herein. Dieses Mal würden wir sie nicht so einfach vertreiben können. Es waren einfach zu viele! 
+</text>
+      </lang>
+    </block>
+    <block id="07_Megangriff2">
+      <lang code="GER">
+        <text> 
+Ein weiteres Mal fiel ein Heer der Schlangenwesen über uns herein. Sie schienen überall zu sein! Würden wir sie dieses Mal noch zurückschlagen können?
+</text>
+      </lang>
+    </block>
+    <block id="08_player_2_seen_sarazene">
+      <lang code="GER">
+        <text> 
+Unweit der Küste trafen wir auf Sarazenen. Sie waren weitgehend von der Schlangenplage verschont geblieben und uns nicht feindlich gesinnt. 
+
+Gegen einen geringen Tribut konnten wir mit ihnen vielleicht Handel treiben...
+</text>
+      </lang>
+    </block>
+    <block id="09_handel_sarazene">
+      <lang code="GER">
+        <text> 
+Als wir den Sarazenen den Tribut überbrachten, waren sie uns alsbald sehr freundlich gesinnt.
+
+Wir wären jederzeit willkommen, ließ man uns wissen und sogleich bot man uns günstige Handelsverträge an.  
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="10_player_3_seen_byzantine">
+      <lang code="GER">
+        <text> 
+Unsere Kundschafter stießen auf ein Byzantinerdorf. Sie betrachteten uns mit Argwohn, waren aber nicht feindlich gesinnt. 
+
+Gegen einen geringen Tribut konnten wir mit ihnen vielleicht Handel treiben und Söldner anheuern...
+</text>
+      </lang>
+    </block>
+    <block id="11_handel_byzantine">
+      <lang code="GER">
+        <text> 
+Als wir unseren guten Willen durch die Tributzahlung unter Beweis gestellt hatten, bot man uns Freundschaft und Hilfe bei unserer weiteren Mission an. Die Byzantiner stellten uns 5 ihrer tapfersten Langbogenschützen als Söldner oberhalb der Brücke ab und boten uns noch mehr Verstärkung an. 
+
+Zahle den Byzantinern den geforderten Tribut für weitere Söldner, sofern deine Wikinger sie benötigen. 
+</text>
+      </lang>
+    </block>
+    <block id="12_player_1_seen_sarazene">
+      <lang code="GER">
+        <text> 
+Als wir auf Hatschis Dorf trafen, wurden wir freundlich empfangen. Zu lange wurden diese armen Menschen von der Schlangenplage heimgesucht. Nun wollten wir ihnen zur Seite stehen.
+
+Hilf dem Dorf und kümmere dich auch um Hatschi!
+</text>
+      </lang>
+    </block>
+    <block id="13_player_4_seen_Miguel">
+      <lang code="GER">
+        <text> 
+Als wir die Brücke passierten kam ein fliegender Händler auf uns zu. Er stellte sich als  Miguel vor und gab uns folgenden Hinweis: "Im Süden gibt es einen mächtigen Goldberg. Leider sind meine Knochen zu alt, um ihn selbst abzubauen. Aber wenn ihr es schafft, mir 20 Goldbrocken in mein Lagerhaus zu bringen, werde ich euch noch so manchen guten Rat geben!"
+
+Finde den Goldberg und liefere Miguel 20 Goldbrocken!
+</text>
+      </lang>
+    </block>
+    <block id="14_Miguel_tipps">
+      <lang code="GER">
+        <text> 
+Nachdem wir mit Miguel einiges Gold getauscht hatten, gab er uns wichtige Hinweise, wie wir die Schlangenplage eindämmen konnten. 
+
+Er riet uns, Wachtürme an den Übergangsstellen des ausgetrockneten Flussufers im Norden zu errichten und diese mit Bogenschützen zu besetzen. 
+
+"An dieser Stelle werdet ihr Kisten mit Wachtürmen und Bogenschützen finden. Aber seit auf der Hut vor den Raubtieren der Wüste!" sprach er ...
+</text>
+      </lang>
+    </block>
+    <block id="15_Ykol">
+      <lang code="GER">
+        <text> 
+Wie aus dem Nichts tauchte Hatschis Freund Ykol auf, der nun seit längerer Zeit verschwunden war. "Meine Freunde! Ihr habt es wohl geschafft, die Schlangenplage zu bändigen, aber sie werden wiederkehren!" 
+Seine Nachforschungen quer durch Arabien hatten Früchte getragen. Er rief uns zu: "Folgt mir zum verlassenen Dorf, ich bin der Ursache der Schlangenplage auf der Spur!" 
+So machten wir uns auf den Weg - ungewiss, wohin uns diese Reise führen würde...
+
+Folge mit deinen Helden Ykol zum verlassenen Dorf. 
+</text>
+      </lang>
+    </block>
+    <block id="16_söldner">
+      <lang code="GER">
+        <text> 
+Erneut stellten uns die freundlichen Byzantiner Söldner zur Verfügung, die oberhalb der Brücke auf uns warteten. Ihre tapfersten Langbogenschützen zogen mit uns gegen die Schlangenplage! Sie boten uns noch mehr Verstärkung an, sollten wir ihre Hilfe benötigen. 
+
+Zahle den Byzantinern den geforderten Tribut für weitere Söldner, sofern deine Wikinger sie benötigen.   
+</text>
+      </lang>
+    </block>
+    <block id="17_lost">
+      <lang code="GER">
+        <text> 
+MISSION VERLOREN!
+
+Oh je! Ein ganzes Volk fiel den Schlangenwesen zum Opfer! Deinen Wikingern ist es nicht gelungen, die Plage aufzuhalten...    
+</text>
+      </lang>
+    </block>
+    <block id="18">
+      <lang code="GER">
+        <text> 
+Das musste der Goldberg sein, von dem der Händler Miguel uns erzählt hatte!  
+</text>
+      </lang>
+    </block>
+    <block id="19">
+      <lang code="GER">
+        <text> 
+Ykol hatte das "Verlassene Dorf" bereits erreicht...
+Seltsam, die wilden Tiere schienen ihm nichts anhaben zu können...  
+</text>
+      </lang>
+    </block>
+    <block id="20">
+      <lang code="GER">
+        <text> 
+Viele unserer Waren befanden sich in unseren Hand-, Ochsenkarren und im Schiff. 
+
+Nutze die Waren aus den Fahrzeugen, wenn du sie benötigst!
+</text>
+      </lang>
+    </block>
+    <block id="200">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="300">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Hatschi erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
+</text>
+      </lang>
+    </block>
+    <block id="500">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Ykol erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="GER">
+        <text> 
+Als wir das verlassene Dorf erreichten und keine Schlangenwesen antrafen, wussten wir, dass wir die Schlangenbrut zwar zurückgedrängt hatten, aber dass sie auch nicht endgültig besiegt sei. 
+Unser neuer Freund Ykol verließ uns alsbald wieder, um seine Nachforschungen zu überprüfen. Uns erwarteten indes andere Aufgaben...
+</text>
+      </lang>
+    </block>
+    <block id="50_endheader">
+      <lang code="GER">
+        <text> 
+
+MISSION GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="GER">
+        <text> 
+
+DIE PLAGE
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

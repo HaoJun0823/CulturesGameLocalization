@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="_campaign_04_04" export_map_id="_campaign_04_04" map_md5="86d876ddf06bb9e6fd71bdeeb0feed18" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">@解放土龙！</text>
+      <text lang="ger">@BEFREIE DIE ERDDRACHEN!</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">建立一座小型聚落。</text>
+      <text lang="ger">Baue eine kleine Siedlung auf.</text>
+    </string>
+    <string id="2">
+      <text lang="CHN">可选：向牧民部族进献鞋作贡金，他们便献上交易要约。</text>
+      <text lang="ger">Optional: Reiche dem Hirtenvolk die Schuhe zum Tribut und sie offerieren ihre Handelsangebote.</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">可选：在牧民营地建起 3 座瞭望塔以资支援。</text>
+      <text lang="ger">Optional: Errichte 3 Wachtürme in den Hirtensiedlungen zu deren Unterstützung.</text>
+    </string>
+    <string id="4">
+      <text lang="CHN">向巴布尔缴纳其所索贡金，换取中立姿态。</text>
+      <text lang="ger">Zahle den geforderten Tribut an Babul für eine neutrale Haltung.</text>
+    </string>
+    <string id="5">
+      <text lang="CHN">向方尖碑环中的魔法龙运送 80 木材与 40 黏土！</text>
+      <text lang="ger">Liefere 80 Holz und 40 Lehm zu den Zauberdrachen in den Obeliskenkreis!</text>
+    </string>
+    <string id="6">
+      <text lang="CHN">可选：为换取牧人的勇兵，缴 5 单位铁作贡金。</text>
+      <text lang="ger">Optional: Zahle den Hirten für tapfere Soldaten 5 Eisen Tribut.</text>
+    </string>
+    <string id="7">
+      <text lang="CHN">可选：解放水龙。</text>
+      <text lang="ger">Optional: Befreie die Wasserdrachen.</text>
+    </string>
+    <string id="8">
+      <text lang="CHN">可选：与你的英雄进入水之殿。</text>
+      <text lang="ger">Optional: Gehe mit deinen Helden in den Wassertempel.</text>
+    </string>
+    <string id="9">
+      <text lang="CHN">可选：将龙带回水之殿。</text>
+      <text lang="ger">Optional: Bringe die Drachen zurück in den Wassertempel.</text>
+    </string>
+    <string id="10">
+      <text lang="CHN">深入地下地牢，解放其余的龙！</text>
+      <text lang="ger">Gehe in die unterirdischen Kerker und befreie die anderen Drachen!</text>
+    </string>
+    <string id="11">
+      <text lang="CHN">向魔法龙进献草药，以求和平化解。</text>
+      <text lang="ger">Reiche den Zauberdrachen Kräuter für eine friedliche Lösung.</text>
+    </string>
+    <string id="12">
+      <text lang="CHN">可选：缴纳贡金换取更多佣兵。</text>
+      <text lang="ger">Optional: Zahle den Tribut für weitere Söldner.</text>
+    </string>
+    <string id="13">
+      <text lang="CHN">向巴布尔缴纳其所索贡金，以释放水龙。</text>
+      <text lang="ger">Zahle den geforderten Tribut an Babul für die Freilassung der Wasserdachen.</text>
+    </string>
+    <string id="20">
+      <text lang="CHN">瞭望塔 %d/3</text>
+      <text lang="ger">Wachtürme %d/3</text>
+    </string>
+    <string id="21">
+      <text lang="CHN">木材 %d/80</text>
+      <text lang="ger">Holz %d/80</text>
+    </string>
+    <string id="23">
+      <text lang="CHN">黏土 %d/40</text>
+      <text lang="ger">Lehm %d/40</text>
+    </string>
+    <string id="25">
+      <text lang="CHN">瞭望塔已建成</text>
+      <text lang="ger">Wachtürme errichtet</text>
+    </string>
+    <string id="26">
+      <text lang="CHN">物资已送达</text>
+      <text lang="ger">Waren geliefert</text>
+    </string>
+    <string id="32">
+      <text lang="CHN">可选：向牧民部族进献鞋作贡金。</text>
+      <text lang="ger">Optional: Reiche den Hirtenvolk die Schuhe zum Tribut.</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">牧民部族</text>
+      <text lang="ger">Hirtenvolk</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">巴布尔</text>
+      <text lang="ger">Babul</text>
+    </string>
+    <string id="53">
+      <text lang="CHN">纳帕利亚人</text>
+      <text lang="ger">Napalianer</text>
+    </string>
+    <string id="54">
+      <text lang="CHN">魔法龙</text>
+      <text lang="ger">Zauberdrachen</text>
+    </string>
+    <string id="55">
+      <text lang="CHN">土龙</text>
+      <text lang="ger">Erdrachen</text>
+    </string>
+    <string id="56">
+      <text lang="CHN">水龙</text>
+      <text lang="ger">Wasserdrachen</text>
+    </string>
+    <string id="61">
+      <text lang="CHN">牧.</text>
+      <text lang="ger">Hirt.</text>
+    </string>
+    <string id="62">
+      <text lang="CHN">巴布尔</text>
+      <text lang="ger">Babul</text>
+    </string>
+    <string id="63">
+      <text lang="CHN">纳.</text>
+      <text lang="ger">Napal.</text>
+    </string>
+    <string id="64">
+      <text lang="CHN">阿布拉斯</text>
+      <text lang="ger">Abras</text>
+    </string>
+    <string id="65">
+      <text lang="CHN">特拉斯</text>
+      <text lang="ger">Terras</text>
+    </string>
+    <string id="66">
+      <text lang="CHN">阿夸斯</text>
+      <text lang="ger">Aquas</text>
+    </string>
+    <string id="71">
+      <text lang="CHN">比雅尼</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="CHN">希拉</text>
+      <text lang="ger">Cyra</text>
+    </string>
+    <string id="75">
+      <text lang="CHN">玛尼</text>
+      <text lang="ger">Mani</text>
+    </string>
+    <string id="76">
+      <text lang="CHN">诺伯特</text>
+      <text lang="ger">Norbert</text>
+    </string>
+    <string id="77">
+      <text lang="CHN">涌泉</text>
+      <text lang="ger">SPRUDEL</text>
+    </string>
+    <string id="78">
+      <text lang="CHN">水妖</text>
+      <text lang="ger">NIXE</text>
+    </string>
+    <string id="79">
+      <text lang="CHN">波涛</text>
+      <text lang="ger">WELLE</text>
+    </string>
+    <string id="98">
+      <text lang="CHN">在故河道之畔，我们建起一处小营地。由此，我们便能统领解放土龙的远征。</text>
+      <text lang="ger">In der Nähe eines alten Flussbettes errichteten wir ein kleines Lager. Von hier aus würden wir unsere Expedition zur Befreiung der Erddrachen leiten können.</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">解放土龙</text>
+      <text lang="ger">BEFREIUNG DER ERDDRACHEN</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="CHN">
+        <text>
+不远处必有一场战斗，因为和煦的夜里我们听见声响，扰人清梦。我们须查明这些争斗的根源。或许龙也卷入其中？
+建立你的村庄，去寻找地龙。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Wir schlugen unser Lager entlang des Flusses auf. Dieser Landeplatz würde eine gute Basis abgeben, von hier aus konnten wir uns auf die Suche nach den Erddrachen begeben.
+</text>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="CHN">
+        <text>
+牧人
+“宁可信龙，也别信人！我们在这片土地的小村落里住了数百年，如今却有别人来叫我们不好过！”这些可怜牧人抱怨道。
+他们向我们讲述昔日与龙的共处，以及人类如何到来、将龙抓捕掳走，当作马戏团噱头与动物园禽兽在他乡展览。
+
+他们对我们非友非敌，我们须赢得其信任。
+他们留意到我们脚上鞋匠的好手艺，虽已穿得破旧磨损，却仍想要几双留着！
+给牧人几双鞋，他们便会向你献上交易报价！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+Unweit von hier mussten Kämpfe stattfinden, denn wir hörten in den lauen Nächten Geräusche, die uns den Schlaf raubten. Wir mussten den Ursachen dieser Auseinandersetzungen auf den Grund gehen. Vielleicht waren ja auch Drachen in diese verwickelt?
+
+Baue dein Dorf auf und suche nach den Erddrachen.
+</text>
+      </lang>
+    </block>
+    <block id="01">
+      <lang code="CHN">
+        <text>
+鞋子已送达！
+
+我们已将鞋子作为贡品交给牧人。他们当下便改变了对我们的姿态。对鞋子的欣喜如此之大，竟向我们开出极为优厚的交易条件。
+        </text>
+        <usericon>1,380,19</usericon>
+        <text>
+他们还向我们讲起或许
+
+最强大的龙族：魔法龙。
+
+若说有谁能助我们完成
+
+任务，必是这一族无疑。</text>
+      </lang>
+      <lang code="ger">
+        <text> 
+HIRTEN
+
+"Den Drachen ist eher zu trauen, als den Menschen! Wir leben in kleinen Dörfen schon Jahrhunderte in diesem Land und nun machen uns die anderen das Leben schwer!" beschwerten sich diese armen Hirten.
+
+</text>
+        <usericon>1,380,19</usericon>
+        <text>
+
+Sie erzählten uns von ihrer früheren Gemeinschaft mit den Drachen und wie Menschen kamen, diese einfingen und verschleppten, um sie als Zirkusattraktionen und Zootiere in ihrem Land zur Schau zu stellen.
+
+Sie selbst waren uns weder Freund noch Feind, so mussten wir ihr Vertrauen gewinnen. 
+
+Sie bemerkten unsere guten Schuharbeiten, auch wenn diese schon sehr ausgetreten und abgenutzt waren. Sie wollten gerne ein paar Exemplare davon für sich haben! 
+
+Reiche den Hirten ein paar Schuhe und sie werden dir ihre Handelsangebote offerieren! 
+</text>
+      </lang>
+    </block>
+    <block id="02">
+      <lang code="CHN">
+        <text>
+牧人民
+
+族的雇佣兵</text>
+        <usericon>1,395,25</usericon>
+        <text>
+“你们看来勇气可嘉！我们愿助你们一臂之力！我们虽是朴素之民，但与你们并肩作战，便有一线胜机！”牧人们说道。
+“若你们在巴布尔以南那座几近被毁的聚落里建起 3 座瞭望塔，我们便倾力支援你们！”
+注意：要建造建筑，你的维京人须近在咫尺！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+SCHUHE GELIEFERT!
+
+Wir hatten den Hirten die Schuhe zum Tribut überreicht. Sie wechselten ihre Haltung uns gegenüber augenblicklich. Ihre Freude über die Schuhe war sogar so groß, dass sie uns überaus günstige Handelsangebote anboten. 
+
+</text>
+        <usericon>1,395,25</usericon>
+        <text>
+
+Auch erzählten sie uns von der wohl mächtigsten Drachenart: den ZAUBERDRACHEN. Wenn uns jemand bei unserer Mission unterstützen konnte, dann sicherlich dieser Stamm.
+</text>
+      </lang>
+    </block>
+    <block id="03">
+      <lang code="CHN">
+        <text>
+瞭望塔
+
+已建成！</text>
+        <usericon>1,248,119</usericon>
+        <text>
+我们为牧人民族筑起了防御，但愿能抵挡巴布尔的一切侵扰。
+
+他们感激不尽，又增派士兵相助。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+SÖLDNER vom HIRTENVOLK
+
+"Ihr scheint sehr tapfer zu sein! Wir werden euch unterstützen! Zwar sind wir ein einfaches Volk, aber im Kampf mit euch haben wir eine Chance!" sprachen die Hirten.
+
+</text>
+        <usericon>1,248,119</usericon>
+        <text>
+
+"Baut ihr 3 Wachtürme in der fast zerstörten Siedlung südlich von Babul, dann werden wir euch noch mehr unterstützen!"
+
+Beachte: Um Gebäude zu setzen, müssen sich deine Wikinger in der Nähe aufhalten!
+</text>
+      </lang>
+    </block>
+    <block id="04">
+      <lang code="CHN">
+        <text>
+牧人增援更多士兵！
+
+凭这份贡品，我们从牧人处换得更多士兵。难以置信，这小小民族竟能动员如此众多的雇佣兵……
+        </text>
+        <usericon>1,201,261</usericon>
+      </lang>
+      <lang code="ger">
+        <text> 
+WACHTÜRME ERRICHTET!
+
+Wir hatten dem Hirtenvolk eine Verteidigung aufgebaut, die hoffentlich allen Übergriffen von Babul standhalten würde. Sie zeigten sich überaus dankbar und unterstützten uns mit weiteren Soldaten. 
+
+</text>
+        <usericon>1,201,261</usericon>
+      </lang>
+    </block>
+    <block id="05">
+      <lang code="CHN">
+        <text>
+魔法龙
+“你们对我们并无恶意……我们魔法龙对恶人嗅觉敏锐。或许你们真能助龙一臂之力？”
+
+“证明你们的本事吧——将下列货物运抵西边方尖碑圈，魔法龙的支援便少不了。
+向龙群运送 80 木材与 40 黏土。”
+        </text>
+        <usericon>1,201,261</usericon>
+      </lang>
+      <lang code="ger">
+        <text> 
+WEITERE SOLDATEN VON HIRTEN!
+
+Für diesenn Tribut erhielten wir von den Hirten weitere Soldaten. Kaum zu glauben, wieviele Söldner dieses kleine Völkchen mobilisieren konnte...
+
+</text>
+        <usericon>1,201,261</usericon>
+      </lang>
+    </block>
+    <block id="06">
+      <lang code="CHN">
+        <text>
+货物已交给魔法龙！
+
+我们将货物交予魔法龙。他们把方尖碑圈那处化为充盈魔法之地，治愈了我们的生命能量，并开启了通往纳帕利亚人领地的更多传送门。
+        </text>
+        <usericon>1,321,394</usericon>
+        <text>
+他们提起一种隐形药剂，说可为我们来酿造，好避开一切与纳帕利亚人的冲突。若我们送去所需草药，他们必竭尽全力。
+
+向魔法龙进献草药，谋求和平解决。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+ZAUBERDRACHEN
+
+"Ihr meint es nicht böse mit uns... Wir Zauberdrachen haben ein feines Gespür für schlechte Menschen. Vielleicht könnt ihr den Drachen ja beistehen?"
+
+</text>
+        <usericon>1,321,394</usericon>
+        <text>
+
+"Stellt euer Können unter Beweis, indem ihr uns folgende Waren in den Obeliskenkreis westlich von hier liefert und die Unterstützung von uns Zauberdrachen ist euch sicher."
+
+Liefere den Drachen 80 Holz und 40 Lehm.
+</text>
+      </lang>
+    </block>
+    <block id="07">
+      <lang code="CHN">
+        <text>
+隐
+
+形药剂</text>
+        <usericon>1,262,416</usericon>
+        <text>
+魔法龙将药剂交予我们英雄。仿佛施了魔法，我们隐去了身形——唯有自己人能依稀辨出轮廓。
+
+药剂不能持久，魔法龙便引我们抄最近的小路前往地下地牢。我们如受遥控般穿过了纳帕利亚人的营地……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+WAREN AN ZAUBERDRACHEN GELIEFERT!
+
+Wir hatten die Waren den Zauberdrachen geliefert. Sie verwandelten die Stelle des Obeliskenkreises in eine Stelle voller Magie an der unsere Lebensenergie geheilt wurde und öffneten weitere Portale in die Regionen der Napalianer.
+
+</text>
+        <usericon>1,262,416</usericon>
+        <text>
+
+Sie sprachen von einen Unsichtbarkeitstrank, den sie uns brauen könnten, um jeder Konfliktsituation mit den Napalianern aus dem Weg zu gehen. Wenn wir ihnen die nötigen Kräuter liefern, würden sie ihr Bestes dazu tun. 
+
+Reiche den Zauberdrachen Kräuter für eine friedliche Lösung.
+</text>
+      </lang>
+    </block>
+    <block id="08">
+      <lang code="CHN">
+        <text>水
+
+龙</text>
+        <usericon>2,1</usericon>
+        <text>
+“这些可恶的人类！他们抓了我们的兄弟，关进狭窄牢笼。我们这边余者尚多，可地龙境况凄惨，几近灭族！”水龙们悲诉。
+解放水龙与地龙。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+UNSICHTBARKEITSTRANK
+
+Die Zauberdrachen überreichten den Trank an uns Helden. Und wie von Zauberhand wurden wir unsichtbar - nur unsere eigenen Leute konnten unsere Umrisse wage erkennen. 
+
+</text>
+        <usericon>2,1</usericon>
+        <text>
+
+Da der Trank nicht lange anhalten würde, leiteten uns die Zauberdrachen auf kürzestem Weg zu den unterirdischen Kerkern. Wie ferngesteuert liefen wir durch das Lager der Napalianer... 
+</text>
+      </lang>
+    </block>
+    <block id="09">
+      <lang code="CHN">
+        <text>
+水龙
+        </text>
+        <usericon>1,115,29</usericon>
+        <text>
+“你们竟把他们完好无损地带回来了！”当我们与其他龙回到神庙，水龙们喜出望外。
+
+与你的英雄及龙群一同前往神庙！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+WASSERDRACHEN
+
+</text>
+        <usericon>1,115,29</usericon>
+        <text>
+
+"Diese elenden Menschen! Sie haben unsere Brüder gefangen und halten sie nun in engen Käfigen. Von uns sind noch genug da, aber den Erddrachen ergeht es wirklich schlecht, sie sind nahezu ausgerottet!" klagten die Wasserdrachen. 
+
+Befreie die Wasserdrachen und die Erddrachen. 
+</text>
+      </lang>
+    </block>
+    <block id="10">
+      <lang code="CHN">
+        <text>
+任务
+
+失败！</text>
+        <usericon>1,123,14</usericon>
+        <text>
+是英勇，还是鲁莽？比雅尼陨落之时，诸神落泪……少了这位英雄，任务的结局将永远对你隐藏。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+WASSERDRACHEN
+
+"Ihr habt sie uns unversehrt wiedergebracht!" freuten sich die Wasserdrachen, als wir mit den anderen Drachen zurück zum Tempel kamen. 
+ 
+</text>
+        <usericon>1,123,14</usericon>
+        <text>
+ 
+Gehe mit deinen Helden und den Drachen zum Tempel!
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="CHN">
+        <text>
+任务失败！
+        </text>
+        <text>
+“偶尔我们也在此瞥见稀有的地龙。它们如今下落如何？”
+解放其他龙！
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="11">
+      <lang code="CHN">
+        <text>
+纳帕
+
+利亚人</text>
+        <usericon>2,9</usericon>
+        <text>
+“嘿，你们！这儿不欢迎任何人！再敢靠前
+
+一步，我们立刻开火！”
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+WASSERDRACHEN BEFREIT!
+
+"Endlich sind wir aus den Fängen dieser grausamen Menschen befreit worden. Kaum vorstellbar was sonst mit uns geschehen wäre. Die Drachen die sie abtransportiert hatten, haben wir niemals wieder gesehen!"
+
+</text>
+        <usericon>2,9</usericon>
+        <text>
+
+"Ab und zu bekamen wir hier auch die seltenen Erddrachen zu Gesicht. Was aus denen wohl geworden ist?"
+
+Befreie die anderen Drachen!
+</text>
+      </lang>
+    </block>
+    <block id="12">
+      <lang code="CHN">
+        <text>
+巴布尔
+
+“嘿，你们！我们城里不欢迎你们！缴贡便不伤你们！但别太好奇！多少多管闲事的鼻子，在我们城里都没好下场！”
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+NAPALINER
+
+"Hey, ihr da! Niemand ist hier willkommen! Wir eröffnen sofort das Feuer, wagt ihr euch einen Schritt weiter!"
+</text>
+      </lang>
+    </block>
+    <block id="13">
+      <lang code="CHN">
+        <text>
+已向巴布尔缴纳贡品！
+
+我们向巴布尔缴了巨额贡品，他们这才不情愿地放了水龙。他们说水龙本就是易擒的猎物，随时可再袭而掠之……
+        </text>
+        <usericon>1,106,243</usericon>
+      </lang>
+      <lang code="ger">
+        <text> 
+BABUL
+
+"Hey, ihr da! Ihr seid nicht willkommen in unserer Stadt! Zahlt uns einen Tribut und wir werden euch nichts tun! Aber seid nicht zu neugierig! Schon vielen Schnüfflernasen ist es nicht gut ergangen in unserer Stadt!"
+
+</text>
+        <usericon>1,106,243</usericon>
+      </lang>
+    </block>
+    <block id="14">
+      <lang code="CHN">
+        <text>
+地下地牢入口
+        </text>
+        <usericon>1,86,196</usericon>
+        <text>
+“你无权闯入地牢。去助牧人民族与水龙，再带英雄回来，那时便放你通行！”
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+TRIBUT AN BABUL ÜBERREICHT!
+
+</text>
+        <usericon>1,86,196</usericon>
+        <text>
+
+Wir hatten BABUL den enormen Tribut bezahlt und so gaben sie die Wasserdachen widerwillig frei. Sie meinten, die Wasserdrachen seien eh solch leichte Opfer, das sie sie auch jederzeit wieder überfallen und plündern könnten...
+</text>
+      </lang>
+    </block>
+    <block id="15">
+      <lang code="CHN">
+        <text>
+已向巴布尔缴纳贡品！
+
+“眼下我们对你们中立，但别把鼻子伸进与你们无关的事里！”
+        </text>
+        <usericon>1,39,473</usericon>
+      </lang>
+      <lang code="ger">
+        <text> 
+EINGANG ZU DEN UNTERIRDISCHEN KERKER
+
+Du hast keine Erlaubnis, in die KERKER vorzudringen. Geh und hilf dem Hirtenvolk und den Wasserdrachen. Kehre dann mit deinen Helden hierher zurück, und der Zugang sei dir gewährt!
+
+</text>
+        <usericon>1,39,473</usericon>
+      </lang>
+    </block>
+    <block id="16">
+      <lang code="CHN">
+        <text>
+纳帕利
+
+亚人败北！</text>
+        <usericon>1,86,196</usericon>
+      </lang>
+      <lang code="ger">
+        <text> 
+TRIBUT AN BABUL ÜBERREICHT!
+
+"Fürs Erste stehen wir neutral zu euch, aber steckt eure Nasen nicht in Dinge, die euch nichts angehen!"
+
+</text>
+        <usericon>1,86,196</usericon>
+      </lang>
+    </block>
+    <block id="17">
+      <lang code="CHN">
+        <text>
+魔法之地
+我们撞见传送装置。可惜出口必被封死，于我们毫无用处。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+NAPALIANER BESIEGT!
+</text>
+      </lang>
+    </block>
+    <block id="18">
+      <lang code="CHN">
+        <text>
+巴布尔重又敌对！
+        </text>
+        <usericon>1,238,79</usericon>
+        <text>
+“你们把鼻子伸进了与你们无关的事里！缴贡，我们便给你们想要的东西。”
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+MAGISCHE FELDER
+
+</text>
+        <usericon>1,238,79</usericon>
+        <text>
+
+Wir stießen auf Teleporter. Leider mussten die Ausgänge blockiert sein und so waren sie uns leider zu nichts nutze.
+</text>
+      </lang>
+    </block>
+    <block id="19">
+      <lang code="CHN">
+        <text>
+50 枚金币
+
+这只魔法箱中装着 50 枚金币，自动送抵我们的总部！
+        </text>
+        <usericon>1,106,243</usericon>
+      </lang>
+      <lang code="ger">
+        <text> 
+BABUL WIEDER FEINDLICH!
+
+"Ihr habt eure Nasen in Dinge gesteckt die euch nichts angehen! Zahlt den Tribut und wir geben euch was ihr haben wollt."
+
+</text>
+        <usericon>1,106,243</usericon>
+      </lang>
+    </block>
+    <block id="20">
+      <lang code="CHN">
+        <text>
+任务失败！
+        </text>
+        <usericon>1,186,38</usericon>
+        <text>
+一时的轻率，生命便转瞬即逝！你的女英雄希拉，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+50 MÜNZEN
+
+</text>
+        <usericon>1,186,38</usericon>
+        <text>
+
+In dieser magischen Kiste befanden sich 50 Goldmünzen, die automatisch in unser Hauptquartier gelangten!
+</text>
+      </lang>
+    </block>
+    <block id="200">
+      <lang code="CHN">
+        <text>
+任务失败！
+        </text>
+        <text>
+哎呀，水龙死了。没了它们，任务的结局将永远对你隐藏！
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="21">
+      <lang code="CHN">
+        <text>
+巴布尔败北！
+
+我们大败巴布尔！他们再也不能加害牧人民族。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+WASSERDRACHEN GESTORBEN!
+
+Oh je, die WASSERDACHEN sind gestorben. Ohne sie wird dir das Ende der Mission verborgen bleiben!
+</text>
+      </lang>
+    </block>
+    <block id="22">
+      <lang code="CHN">
+        <text>
+发现投石机
+
+是谁把这些投石机留在此处？总之它们于我们大有用处！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+BABUL BESIEGT!
+
+Wir hatten BABUL siegreich geschlagen! Nie wieder würden sie dem Hirtenvolk einen Schaden zufügen. 
+</text>
+      </lang>
+    </block>
+    <block id="23">
+      <lang code="CHN">
+        <text>
+己方营地已建成！
+        </text>
+        <usericon>1,42,295</usericon>
+        <text>
+不久，温暖酥脆面包的独特香气将抚慰我们的鼻息，因为烘焙坊为我们营地奠定了稳固的粮食根基。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+KATAPULTE GEFUNDEN
+
+</text>
+        <usericon>1,42,295</usericon>
+        <text>
+
+Wer hatte diese Katapulte hier wohl stehen lassen? Uns konnten sie jedenfalls gute Dienste erweisen!
+</text>
+      </lang>
+    </block>
+    <block id="24">
+      <lang code="CHN">
+        <text>
+墓地
+
+“难以置信，我们竟在沙漠中央看见此景。这必是处墓地，但从超大的墓碑便可看出，绝非寻常。”
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+EIGENES LAGER ERRICHTET!
+
+Der unverwechselbare Duft von warmem knusprigem Brot würde bald unsere Nasen verwöhnen, denn mit der Bäckerei hatten wir eine stabile Nahrungsgrundlage für unser Lager geschaffen.
+</text>
+      </lang>
+    </block>
+    <block id="25">
+      <lang code="CHN">
+        <text>
+所有水龙已解放！
+如今我们终于解放了巴布尔处所有的水龙。
+
+他们都向我们讲起稀有的地龙。无人再见过它们。有传言说它们被关在地下地牢中。”
+护送水龙前往水之神庙！
+        </text>
+        <usericon>1,257,298</usericon>
+      </lang>
+      <lang code="ger">
+        <text> 
+FRIEDHOF
+
+"Unglaublich, was wir inmitten der Wüste vor uns sahen. Dies mußte ein Friedhof sein, aber kein gewöhnlicher, das konnten wir an den übergroßen Grabsteinen erkennen. 
+
+</text>
+        <usericon>1,257,298</usericon>
+      </lang>
+    </block>
+    <block id="26">
+      <lang code="CHN">
+        <text>
+传送装
+
+置已激活！</text>
+        <usericon>2,9</usericon>
+        <text>
+为感解放水龙之恩，水龙
+
+们激活了沙漠中的传送装置。</text>
+      </lang>
+      <lang code="ger">
+        <text> 
+ALLE WASSERDRACHEN BEFREIT!
+
+Nun hatten wir endlich alle Wasserdrachen in Babul befreit.
+
+</text>
+        <usericon>2,9</usericon>
+        <text>
+
+Alle erzählten uns von den seltenen Erddrachen. Die niemand mehr gesehen hatte. Man munkelte von unterirdischen Kerkern, in denen sie festgehalten wurden."
+
+Geleite die Wasserdrachen zum Wassertempel!
+</text>
+      </lang>
+    </block>
+    <block id="27">
+      <lang code="CHN">
+        <text>
+地龙！
+
+我们终于寻得了地龙！
+        </text>
+        <usericon>1,31,335</usericon>
+      </lang>
+      <lang code="ger">
+        <text> 
+TELEPORTER AKTIVIERT!
+
+Zum Dank für die Befreiung der Wasserdrachen aktivierten die Wasserdrachen die Teleporter in der Wüste. 
+
+</text>
+        <usericon>1,31,335</usericon>
+      </lang>
+    </block>
+    <block id="28">
+      <lang code="CHN">
+        <text>
+50 枚金币
+
+这只魔法箱中装着 50 枚金币，自动送抵我们的总部！
+        </text>
+        <usericon>1,125,141</usericon>
+      </lang>
+      <lang code="ger">
+        <text> 
+ERDDRACHEN!
+
+Endlich hatten wir Erddrachen gefunden!
+
+</text>
+        <usericon>1,125,141</usericon>
+      </lang>
+    </block>
+    <block id="29">
+      <lang code="CHN">
+        <text>
+任务失败！
+        </text>
+        <usericon>1,125,142</usericon>
+        <text>
+一时的轻率，生命便转瞬即逝！你的挚友、英雄之龙诺伯特，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+50 MÜNZEN
+
+</text>
+        <usericon>1,125,142</usericon>
+        <text>
+
+In dieser magischen Kiste befanden sich 50 Goldmünzen, die automatisch in unser Hauptquartier gelangten!
+</text>
+      </lang>
+    </block>
+    <block id="500">
+      <lang code="CHN">
+        <text>任务失败！</text>
+        <text>生活中的片刻疏忽，人生如此迅速！ 你的朋友兼英雄——巨龙诺伯特——因你的疏忽而丧命！失去这位英雄，你将无法得知任务的结局。</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="CHN">
+        <text>
+玛尼却郁郁不乐，因为与挚友分别的时刻近了。他们共同勇敢闯过多少冒险，如今它却要随其他地龙离去。
+有人望见几名纳帕利亚人朝我们故乡方向而去。难道我们永不能与他们和平共处？他们的文化与我们如此迥异……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Aus dem Kerker konnten wir nicht nur Erddrachen, sondern auch einige Zauber- und Wasserdrachen befreien. Aber für Norbert war das Kennenlernen seiner Artgenossen am wichtigsten. Wie viel konnte er von ihnen lernen! 
+  
+</text>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="CHN">
+        <text>任务
+
+胜利！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Mani indess war traurig, da nun der Abschied von seinem besten Freund bevor stand. So viele Abenteuer hatten sie gemeinsam tapfer durchgestanden und nun würde er mit den anderen Erddrachen ziehen.
+
+Einige Napalianer wurden gesehen, wie sie in die Richtung unserer Heimat zogen. Würden wir nie mit ihnen in Frieden leben können? Ihre Kultur war so verschieden der unseren...  
+</text>
+      </lang>
+    </block>
+    <block id="50_endheader">
+      <lang code="CHN">
+        <text>
+任务成功！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+MISSION GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="600">
+      <lang code="CHN">
+        <text>任务失败！</text>
+        <text>生活中的片刻疏忽，人生如此迅速！ 玛尼——比雅尼与希拉之子——因你的疏忽而丧命！失去这位英雄，你将无法得知任务的结局。</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+地龙的解放
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DIE BEFREIUNG DER ERDDRACHEN
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

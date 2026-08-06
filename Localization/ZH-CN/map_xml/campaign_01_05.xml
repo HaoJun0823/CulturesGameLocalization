@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_01_05" export_map_id="campaign_01_05" map_md5="66c42840f42b76f91999ab91c9e87492" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">使维京人口达到 20 人。</text>
+      <text lang="eng">Reach a population of 20 Vikings.</text>
+      <text lang="ger">Erreiche eine Population von 20 Wikingern.</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">寻找公主的下落。</text>
+      <text lang="eng">Find the princess.</text>
+      <text lang="ger">Suche nach der Prinzessin.</text>
+    </string>
+    <string id="2">
+      <text lang="CHN">护送公主安全抵达宫殿。</text>
+      <text lang="eng">Escort the princess safely to the palace.</text>
+      <text lang="ger">Geleite die Prinzessin sicher zum Palast.</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">扬帆驶向指定的泊位。</text>
+      <text lang="eng">Sail to the specified place.</text>
+      <text lang="ger">Segele zu dem zugewiesenen Platz.</text>
+    </string>
+    <string id="4">
+      <text lang="CHN">组建 15 名士兵，并带他们向皇帝报到。</text>
+      <text lang="eng">Equip 15 soldiers and take them to the Emperor.</text>
+      <text lang="ger">Rüste 15 Soldaten aus und melde dich mit ihnen beim Kaiser.</text>
+    </string>
+    <string id="5">
+      <text lang="CHN">缴纳所需的贡金。</text>
+      <text lang="eng">Pay the demanded tribute.</text>
+      <text lang="ger">Zahle den gewünschten Tribut.</text>
+    </string>
+    <string id="6">
+      <text lang="CHN">与比雅尼和西格德一同进入隐秘的地牢。</text>
+      <text lang="eng">Enter the secret dungeon with Bjarni AND Sigurd.</text>
+      <text lang="ger">Betrete mit Bjarni UND Sigurd das geheime Verlies.</text>
+    </string>
+    <string id="11">
+      <text lang="CHN">过桥费</text>
+      <text lang="eng">Bridge toll.</text>
+      <text lang="ger">Brückenzoll</text>
+    </string>
+    <string id="50">
+      <text lang="CHN">比雅尼的部族</text>
+      <text lang="eng">Bjarni's Tribe</text>
+      <text lang="ger">Bjarnis Stamm</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">拜占庭人</text>
+      <text lang="eng">Byzantium</text>
+      <text lang="ger">Byzanz</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">山间要塞</text>
+      <text lang="eng">Mountain Fortress</text>
+      <text lang="ger">Bergfestung</text>
+    </string>
+    <string id="53">
+      <text lang="CHN">桥卫</text>
+      <text lang="eng">Bridge Guard</text>
+      <text lang="ger">Brückenwächter</text>
+    </string>
+    <string id="56">
+      <text lang="CHN">匪徒</text>
+      <text lang="eng">Brigands</text>
+      <text lang="ger">Banditen</text>
+    </string>
+    <string id="63">
+      <text lang="CHN">守卫</text>
+      <text lang="eng">Guard</text>
+      <text lang="ger">Wächter</text>
+    </string>
+    <string id="98">
+      <text lang="CHN">历经数周艰险航行，维京人终于在拜占庭的港口靠岸。无数传说都述及这座城市的恢宏与富庶——他们亦称之为米克拉加德。</text>
+      <text lang="eng">After a dangerous voyage of a few weeks, the Vikings sail into the harbour of Byzantium. Many sagas contain tales about the incredible size and wealth of this city - the city known as Miklagard.</text>
+      <text lang="ger">Nach einigen Wochen gefahrvoller Fahrt landen die Wikinger im Hafen von Byzanz. Viele Erzählungen berichten von der gewaltigen Größe und dem Reichtum dieser Stadt, die sie auch Miklagard nannten.</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">米克拉加德</text>
+      <text lang="eng">MIKLAGARD</text>
+      <text lang="ger">MIKLAGARD</text>
+    </string>
+    <string id="100">
+      <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+    <string id="101">
+      <text lang="CHN">西格德</text>
+      <text lang="eng">Sigurd</text>
+      <text lang="ger">Sigurd</text>
+    </string>
+    <string id="102">
+      <text lang="CHN">希拉</text>
+      <text lang="eng">Cyra</text>
+      <text lang="ger">Cyra</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="abschied">
+      <lang code="CHN">
+        <text>
+凭智谋与些许运气，我们制服守卫，救出了拜占庭皇帝的女儿。我们循原路匆匆回到地面，早有不耐烦的同伴在入口处迎候，如释重负。
+
+此刻还须将疲惫而惶惑的公主安然送回其父王身边。
+
+护送公主安全回到其父王身边。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>	
+We hurriedly made our way back to the surface and were welcomed back by our relieved men, who had been waiting impatiently for us to return. 
+
+All we had to do now was return the exhausted, confused princess safely to her father.
+
+
+Escort the Emperor's daughter safely to her father.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>	
+Mit List und viel Glück hatten wir die Wachen überwunden und die Tochter des byzantinischen Kaisers befreien können. Eilig gelangten wir auf dem gleichen Weg wieder ans Tageslicht und wurden von unseren erleichterten Männern begrüßt, die am Eingang ungeduldig gewartet hatten. 
+
+Jetzt mussten wir die erschöpfte und verwirrte Prinzessin noch sicher zu ihrem Vater geleiten.
+
+
+Geleite die Prinzessin sicher zu ihrem Vater.
+</text>
+      </lang>
+    </block>
+    <block id="ankunft">
+      <lang code="CHN">
+        <text>
+抵达指定地点后，只见此地沃土丰饶、物产殷实，确可无忧栖居。
+
+若我们能证明自身价值，皇帝或许更易听纳我们的恳求。
+
+在指定地点定居，并让你的村庄住满 20 名维京人。
+
+但须当心！此地游荡着许多恶徒，他们定不愿见你们在此扎根！
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Upon reaching the place assigned to us, we saw that the land was good and rich, a place where we might lead a carefree life. 
+
+Maybe the Emperor would listen to our request if we proved worthy.
+
+
+Settle in the assigned location and create homes for 20 Vikings in your village.
+
+Be warned! There are many dangerous fellows who will not be happy to see you settle here!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Als wir an dem zugewiesenen Platz angekommen waren, sahen wir, das es gutes, reiches Land war. Hier konnte man sicherlich sorglos leben. 
+
+Vielleicht würde der Kaiser unsere Bitten eher anhören, wenn wir uns als würdig erwiesen.
+
+
+Siedele auf den zugewiesenen Platz und lasse in deinem Dorf 20 Wikinger wohnen.
+
+Seid jedoch gewarnt! Es treiben sich hier viele üble Gesellen herum, denen es sicherlich ein Dorn im Auge ist, euch hier siedeln zu sehen!
+</text>
+      </lang>
+    </block>
+    <block id="auftrag">
+      <lang code="CHN">
+        <text>
+一年光阴流逝，我们再次请求觐见皇帝，而如其所诺，此次获准。
+
+方才城池与宫殿已令我们叹服，待步入御座大厅，我们几乎屏息！走向皇座时，自觉渺小卑微。皇帝端坐于众多廷臣与官员之中，于黄金宝座上和颜悦色地听取我们的恳求。
+
+他确然持有一角我们的地图。他审视着我们开口道："久闻你等英勇无畏……
+调集一支精锐战士的军队带来见我，我便有任务交付你们！"
+
+集结 15 名士兵，带他们去见皇帝。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Once a year had passed, we again requested an audience with the Emperor, and were granted it as promised. 
+
+If the city and the palace had impressed us, our hearts missed a beat at the sight of the throne room! We felt small and insignificant as we advanced towards the imperial throne. The Emperor himself sat on the golden throne, surrounded by a number of courtiers and officials, and graciously listened to our request. 
+
+It seemed he really did possess a piece of the map. He eyed us appraisingly and said, "Much is told of your bravery and courage ... 
+Form an army of your best warriors and bring them here. I have a task for you!"
+
+
+Equip 15 soldiers and take them to the Emperor.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Nachdem ein Jahr verstrichen war, baten wir erneut um eine Audienz beim Kaiser und wie versprochen, wurde sie uns nun gewährt. 
+
+Hatte uns bereits die Stadt und der Palast beeindruckt, so stockte uns nun fast der Atem, als wir den Thronsaal betraten! Wir kamen uns sehr klein und unbedeutend vor, als wir zum kaiserlichen Thron schritten. Der Kaiser saß inmitten einer Vielzahl Höflinge und Beamter auf seinem goldenen Thron und hörte sich unsere Bitte gnädig an. 
+
+Tatsächlich besaß er einen Teil unserer Karte. Prüfend schaute er uns an und sprach: "Von eurem Mut und eurer Tapferkeit hört man viel... 
+Stellt mir eine Armee eurer besten Krieger auf und bringt sie hierher. Dann habe ich einen Auftrag für euch!"
+
+
+Rüste 15 Soldaten aus und bringe sie zum Kaiser.
+</text>
+      </lang>
+    </block>
+    <block id="auftrag2">
+      <lang code="CHN">
+        <text>
+当我们备齐所需战士、抵达宫殿前广场，皇帝立刻传召于我。
+
+"我有任务交付你们！"他怅然说道，"数月来我爱女未归，无人知晓其下落。哈德拉迪将军坚称是宿敌撒拉逊人掳走了她，可我疑心是近来搅得西北不宁的强盗所为。
+
+我拨给你们几名亲卫禁军，他们会在城外候你。寻得我女儿，护她平安归来，你们便能拿到为寻此图而来的那块地图碎片。"
+
+找到皇帝的女儿，护送她安全抵达宫殿。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+As soon as we had gathered the warriors and reached the courtyard in front of the palace, the Emperor summoned me at once. 
+
+"I have a task for you!" he said wistfully. "My beloved daughter has not returned home for many moons now, and nobody knows her whereabouts. General Hardradi insists that our Saracen enemies have abducted her, but I suspect the brigands who have been terrorising the north-west for some time. 
+
+You will be accompanied by a few men of my imperial bodyguard. They are waiting for you outside the city. Find my daughter and return her safely, then I shall give you the piece of the map that brought you to Byzantium." 
+
+
+Find the Emperor's daughter and return her safely to the palace.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Als wir die gewünschten Krieger beisammen hatten und auf den Platz vor dem Palast eintrafen, ließ mich der Kaiser sofort zu sich rufen. 
+
+"Ich habe einen Auftrag für euch!" sprach er wehmütig. "Seit vielen Monden ist meine geliebte Tochter nicht mehr nach Hause gekehrt und niemand weiß etwas über ihren Verbleib. General Hardradi behauptet fest, unsere Feinde die Sarazenen haben sie entführt, aber ich habe die Banditen im Verdacht, die seit einiger Zeit den Nord-Westen unsicher machen. 
+
+Ich gebe euch einige Männer meiner Leibgarde mit. Sie erwarten euch vor der Stadt. Findet meine Tochter und geleitet sie sicher zu mir zurück, dann werdet ihr den Teil der Karte erhalten, für den ihr nach Byzanz gekommen seid." 
+
+
+Finde die Tochter des Kaisers und geleite sie sicher zum Palast.
+</text>
+      </lang>
+    </block>
+    <block id="banditenauftrag">
+      <lang code="CHN">
+        <text>
+一条劫掠的踪迹为我们指往强盗巢穴。可眼前所见，令我们血脉凝固！
+
+我们原以为是一群乌合之众、散兵游勇，孰料眼前竟是座驻有训练有素士兵的坚固堡垒！其中必有蹊跷……
+
+莫非哈德拉迪将军终究是对的，他们确受撒拉逊人资助？此役绝不会轻松！
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+A trail of devastation led us to the brigands' hideout. But what we found made our blood run cold! 
+
+We had expected to encounter a wild horde of badly organised, lawless villains - but we were facing a mighty fortress full of trained soldiers! Something strange was happening here ... 
+
+Was General Hardradi right after all? Were they being supported by the Saracens? It would not be easy to prevail here!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Eine Spur der Verwüstung wies uns den Weg zum Versteck der Banditen. Doch was wir vorfanden, ließ uns das Blut in den Adern erstarren! 
+
+Wir hatten einen wilden Haufen schlechtorganisierter Gesetzloser erwartet, doch hier standen wir vor einer starken Festung mit ausgebildeten Soldaten! Hier ging irgendetwas seltsames vor... 
+
+Hatte General Hardradi am Ende doch Recht und sie wurden von den Sarazenen unterstützt? Es würde nicht einfach werden, hier zu bestehen!
+</text>
+      </lang>
+    </block>
+    <block id="banditenohne">
+      <lang code="CHN">
+        <text>
+强盗！
+
+我们抵达西北群山时，骤然遭其无预警袭击。我们立时察觉，这帮人不可小觑。
+
+若无切实缘由，我们不该无谓招惹他们！
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Brigands!
+
+As we reached the mountains in the north-west, we were suddenly attacked without warning. These people were in earnest, as we soon discovered. 
+
+We should avoid provoking them without a very good reason!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Banditen! 
+
+Als wir die Berge im Nord-Westen erreichten, wurden wir plötzlich und ohne Vorwarnung angegriffen. Mit diesen Leuten war nicht zu spaßen, das merkten wir gleich. 
+
+Wir sollten sie nicht unnötig reizen, bevor wir dazu keinen wirklich guten Grund hatten!
+</text>
+      </lang>
+    </block>
+    <block id="banditensieg">
+      <lang code="CHN">
+        <text>
+我们击败了掳走公主的强盗，她却踪影全无！
+
+一名俘虏供称，公主被转移至不远处、设防森严的巢穴。可无论我们如何逼问，是谁主使、又如此武装了这帮强盗，他即便以自由相换也不肯吐露半字！
+
+我们不敢耽搁，立刻启程向北。
+
+从强盗堡垒以北的巢穴中解救公主。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+We had defeated the brigands who had abducted the princess, but she was nowhere to be found! 
+
+One of the captives informed us that the princess had been taken to a secure hiding place not far to the north. But when we asked who had supported the brigands and armed them so well, he refused to answer, even in exchange for freedom!
+
+We wasted no time, but set out towards the north at once.
+
+
+Release the princess from the hiding place north of the brigands' fortress.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Wir hatten die Banditen besiegt, die die Prinzessin entführt hatten, doch sie war nirgends zu finden! 
+
+Einer der Gefangenen berichtete, das die Prinzessin in ein gutgesichertes Versteck nicht weit nördlich von hier gebracht worden war. Doch auf unsere Fragen, wer die Banditen angestiftet und so gut ausgerüstet hatte, wollte er uns, selbst im Tausch gegen seine Freiheit, nicht antworten!
+
+Wir verloren keine Zeit und machten uns sogleich auf den Weg nach Norden.
+
+
+Befreie die Prinzessin aus dem Versteck nördlich der Banditenfestung.
+</text>
+      </lang>
+    </block>
+    <block id="begin_00">
+      <lang code="CHN">
+        <text>
+历经数周艰险航行，我们终于驶入黄金之城拜占庭的港湾。我们的诸多传说与故事都述及这座东罗马皇都的宏伟与富庶，我们亦称其为米克拉加德。
+
+而当我们真切立于城门前，其辉光超越了以往所见的一切！巍峨城墙似要直插云霄，大理石宫殿镀金屋顶夹道而立。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Our dangerous voyage continued for weeks before we finally sailed into the harbour of the golden city of Byzantium. Many sagas contained tales about the incredible size and wealth of this capital city of the Eastern Roman Empire - the city we knew as Miklagard. 
+
+But the splendour that greeted us as we approached the city gates greatly surpassed anything we had ever seen. The mighty walls seemed to reach to the clouds, and marble palaces with golden rooftops lined the streets.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Nach einigen Wochen gefahrvoller Fahrt segelten wir endlich in den Hafen der goldenen Stadt Byzanz ein. Viele unserer Sagen und Erzählungen berichteten von der gewaltigen Größe und dem Reichtum der Hauptstadt des oströmischen Kaiserreiches, die wir auch Miklagard nannten. 
+
+Doch als wir nun leibhaftig vor ihren Toren standen, übertraf ihr Glanz alles, was wir jemals gesehen hatten! Die mächtigen Mauern schienen sich in den Himmel zu recken und Marmorpaläste mit goldenen Dächern säumten die Strassen.
+</text>
+      </lang>
+    </block>
+    <block id="begin_01">
+      <lang code="CHN">
+        <text>
+盛装打扮的市民为我们指路，去见城中最高长官。等候多时后他果然接见了我们，却略带倨傲地打量着我们寒酸的衣着。他的答复令人泄气。
+
+我们这些被唤作"瓦良格卫队"的人虽受欢迎，但按他们的规矩，至少要等上一年才能觐见皇帝。在此之前，他们会拨给我们一处可建聚落的地方。
+
+向西航行至指定地点。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+Magnificently clothed citizens directed us to the city's principal official. After a long wait, he finally received us, looking down his nose as he studied our shabby clothing. The information he gave us had a sobering effect. 
+
+He told us that we Warägers, as he called us, would be welcomed to their city, but that their laws determined it would be at least a year before we would be granted an audience with the Emperor. Until then, we would be given a place where we would be allowed to settle.
+
+
+Sail to your new lands in the west.
+</text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Prächtig gekleidete Bürger wiesen uns den Weg zum obersten Stadtbeamten, der uns nach einiger Wartezeit auch tatsächlich empfing und leicht überheblich unsere ärmliche Kleidung musterte. Seine Auskunft war ernüchternd. 
+
+Wir Waräger, wie sie uns nannten, wären zwar willkommen, aber wir würden erst frühestens in einem Jahr zum Kaiser vorgelassen werden, so ihre Bestimmungen. Bis dahin würde man uns einen Platz zuweisen, an dem wir eine Siedlung gründen konnten.
+
+
+Segele zu dem zugewiesenen Platz im Westen.
+</text>
+      </lang>
+    </block>
+    <block id="bjarnitot">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+英雄气概，还是鲁莽轻率？当比雅尼倒下，诸神也在恸哭……他们的命运已定，人类的末日随之降临。
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When Bjarni died the gods were crying ... their fate was sealed and with it the end of the human world.
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ihr Ende war besiegelt und mit ihnen das Ende der Welt der Menschen.
+</text>
+      </lang>
+    </block>
+    <block id="block">
+      <lang code="CHN">
+        <text>
+眼前现出一道幽暗入口，支撑的梁木已向地面倾斜。
+
+若无充分理由，你的维京人绝不会有人愿踏入其中！
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>                                                                                           
+A dark entrance opened before us, supported by beams that bowed under its weight. 
+
+No Viking would enter this place without a very good reason! 
+</text>
+      </lang>
+      <lang code="ger">
+        <text>                                                                                           
+Vor uns tat sich ein dunkler Eingang auf, dessen Stützbalken sich schon gegen Boden neigten. 
+
+Ohne einen triftigen Grund würde dort aber sicherlich keiner deiner Wikinger hineingehen! 
+</text>
+      </lang>
+    </block>
+    <block id="brücke">
+      <lang code="CHN">
+        <text>
+在西北方向，我们撞见一座小堡垒，扼守着两条河流上的渡口。
+
+旅人过桥本须缴过桥费，但既从皇城而来，守军便放我们免费通行。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+In the north-west, we came upon a small fort that guarded the crossings of two rivers. 
+
+Travellers normally had to pay toll to get to the other side, but since we came from the capital, they allowed us to pass free of charge.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Im Nordwesten stießen wir auf ein kleines Fort, das die Übergänge über zwei Flüsse bewachte. 
+
+Um hinüberzugelangen, mussten Reisende eigentlich einen Brückenzoll entrichten, aber da wir aus der Hauptstadt kamen, ließ man uns umsonst passieren.
+</text>
+      </lang>
+    </block>
+    <block id="end_00">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务成功！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+我们终于将公主安然送回其父王身边。她表现得无比勇敢，展现出惊人的胆魄。此刻她疲惫地退回内室，临别却不忘向我投来一抹令人心醉的微笑。
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION SUCCESSFUL!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+
+At last, we had safely returned the Emperor's daughter. She had shown far more courage than we could ever have expected. Now, however, she was exhausted and departed to her private chambers, though not without granting me a beguiling smile. 
+</text>
+      </lang>
+      <lang code="ger">
+        <text>	
+MISSION GEWONNEN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Endlich hatten wir die Tochter des Kaisers sicher zu ihrem Vater gebracht. Sie hatte sich mehr als tapfer gehalten und erstaunlich viel Mut bewiesen. Nun zog sie sich erschöpft in ihre Privatgemächer zurück, aber nicht ohne mir zum Abschied noch ein betörendes Lächeln zu schenken. 
+</text>
+      </lang>
+    </block>
+    <block id="end_01">
+      <lang code="CHN">
+        <text>
+皇帝信守诺言，且格外感念：盛大典礼之上，他将另一块地图碎片交予我，那图所指正是通往世界蛇之岛的路。
+
+此外，他册封我为帝国亲卫队——那支声名显赫的瓦良格卫队——的将军，此卫队自古便偏爱我们这等北方子弟。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>	
+The Emperor kept his promise and proved eminently grateful: After an impressive ceremony, he handed me the second piece of the map that would show us the way to the isle of the Midgard serpent. 
+
+He also appointed me general of his imperial bodyguard, the famed Waräger Guard, which had consisted mainly of northerners like us since time immemorial.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>	
+Der Kaiser hielt sein Versprechen und zeigte sich darüber hinaus überaus dankbar: nach einer feierlichen Zeremonie überreichte er mir das zweite Stück zu jener Karte, welche den Weg zur Insel der Midgardschlange wies. 
+
+Außerdem ernannte er mich zum General seiner kaiserlichen Leibwache, der berühmten Warägergarde, die seit alters her bevorzugt aus Nordmännern wie uns bestand.
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+米克拉加德
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+MIKLAGARD
+
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+MIKLAGARD
+
+</text>
+      </lang>
+    </block>
+    <block id="platz">
+      <lang code="CHN">
+        <text>
+山间堡垒
+
+在极北之地，我们撞见拜占庭卫队大将哈德拉迪的山间堡垒。此处待我们并不友善，遂决定远远避开这片区域。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+THE MOUNTAIN FORTRESS
+
+Far north we came upon the mountain fortress of a great soldier of the Byzantine Guard, General Hardradi. We were not well received and decided to avoid this area if we could.  
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+DIE BERGFESTE
+
+Hoch im Norden stießen wir auf die Bergfestung des großen Generals der Byzantinischen Garde, Hardradi. Hier wurden wir nicht sehr freundlich empfangen und so beschlossen wir, dieses Gebiet besser zu meiden.  
+</text>
+      </lang>
+    </block>
+    <block id="schlehmil1">
+      <lang code="CHN">
+        <text>
+行至一座桥前，我们被喝令止步：
+
+"站住！不许再往前！想过此桥，须缴过路费！若敢硬闯，定叫你吃不了兜着走！"
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+We were stopped when we reached a bridge. 
+
+"Halt! Not another step! If you wish to cross this bridge, you must pay! Dare to cross without paying, and you will regret it!"
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Als wir an eine Brücke kamen, wurden wir aufgehalten: 
+
+"Halt! Keinen Schritt weiter! Wer über diese Brücke will, muss Wegezoll bezahlen! Wagt ihr es trotzdem, so wird es euch schlecht ergehen!"
+</text>
+      </lang>
+    </block>
+    <block id="schlehmilohneAuftrag">
+      <lang code="CHN">
+        <text>
+我们一名手下途经林中极暗处，被一个鬼祟身影拦下：
+
+"多谢你们！你等现身，救我于在此作恶的群狼之口！作为报答，我警告你们——谷地上游潜伏着一伙狂暴盗匪，正候着你们！
+
+若沿路一路向北走到尽头，便能寻得公主！"
+
+未及我们再问，他便没入灌木丛中，踪影全无。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+As one of our men passed a particularly sinister part of the forest, he was addressed by a dubious character. 
+
+"I thank you! Your appearance has saved me from the wolves that haunt this place! In gratitude I must warn you of a wild horde of brigands lying in wait up in the valley! 
+
+You will find the princess if you follow the path all the way north!" 
+
+Before we were able to ask any more of him, he had vanished into the undergrowth.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Als einer unserer Männer an einer besonders dunklen Stelle des Waldes vorbeikam, wurde er von einer zwielichtigen Gestalt angesprochen: 
+
+"Ich danke euch! Ihr habt mich durch euer Auftauchen vor den Wölfen gerettet, die hier ihr Unwesen treiben! Zum Dank warne ich euch vor einer wilden Räuberbande, die weiter oben im Tal auf euch lauert! 
+
+Die Prinzessin werdet ihr finden, wenn ihr dem Weg bis zum Ende nach Norden folgt!" 
+
+Bevor wir noch weitere Fragen stellen konnten, verschwand er spurlos im Dickicht.
+</text>
+      </lang>
+    </block>
+    <block id="sigurdtot">
+      <lang code="CHN">
+        <text>
+当预言中的四位英雄之一西格德殒命，诺恩三女神的命运之线就此断裂。
+
+如今再无任何事物能阻挡世界蛇。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+When Sigurd, one of the four heroes from the prophecy, died, the Norns' thread of fate was broken. 
+
+Nothing could stop the Midgard serpent now.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Als Sigurd, einer der vier Helden der Prophezeiung, starb, zerriss der Schicksalsfaden der Nornen. 
+
+Nun würde nichts mehr die Midgardschlange aufhalten können.
+</text>
+      </lang>
+    </block>
+    <block id="spielertot">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+你失败了！你的维京人曾信任你，你却让他们失望。奥丁的宴席上，再没有你的位置。
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+You've failed! Your Vikings trusted you and you've let them down! There will be no place for you at Odin's table!
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Du hast versagt! Deine Wikinger hatten auf dich vertraut und du hast sie im Stich gelassen. An Odins Tafel wird kein Platz für dich sein!
+</text>
+      </lang>
+    </block>
+    <block id="sub">
+      <lang code="CHN">
+        <text>
+支线任务即将在此开启！请稍候 30 秒。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text />
+      </lang>
+      <lang code="ger">
+        <text>
+HIER WÜRDE JETZT DIE SUBMISSION BEGINNEN! BITTE 30 SEKUNDEN WARTEN.
+</text>
+      </lang>
+    </block>
+    <block id="tot">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+一时的疏忽，便酿成千古恨！公主因你的轻率而殒命。
+
+你再也无法完成使命，因为拜占庭皇帝绝不会把缺失的地图碎片交给你。
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A brief moment of carelessness - that's all it takes! The princess has died through your negligence! 
+
+You can never complete your mission now, for the Emperor of Byzantium will not give you the missing piece of the map.
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Die Prinzessin erlag durch deine Unachtsamkeit! 
+
+Jetzt kannst du deine Mission niemals beenden, denn der Kaiser von Byzanz wird dir das fehlende Kartenstück nun niemals überlassen.
+</text>
+      </lang>
+    </block>
+    <block id="tributundauftrag">
+      <lang code="CHN">
+        <text>
+我们刚缴过贡金，守桥人便如约来报：
+
+"规矩不可废！……既然你等依规缴了过桥费，便可畅行无阻！
+但须留意——这忠告我白送与你——西北方有野盗肆虐。在面见皇帝之前，你等切不可孤身前往！"
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+As soon as we had handed over the tribute, the bridge guards said, 
+
+"There must be order, after all! Since you have paid your toll as ordered, you may now pass unhindered! 
+But beware, ... this warning I give you freely ... Many brigands are raiding the north-west. Do not go there alone until you have spoken to the Emperor!"  
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Kaum hatten wir den Tribut übergeben, meldeten sich die Brückenwächter wie versprochen: 
+
+"Ordnung muss sein!... Da ihr nun vorschriftsmäßig den Brückenzoll gezahlt habt, dürft ihr nun ungehindert passieren! 
+Aber gebt acht,... diese Warnung erhaltet ihr von mir umsonst dazu... Im Nordwesten treiben wilde Räuber ihr Unwesen. Ihr solltet euch dort nicht alleine hinwagen, bevor ihr nicht mit dem Kaiser gesprochen habt!"  
+</text>
+      </lang>
+    </block>
+    <block id="verliessohne">
+      <lang code="CHN">
+        <text>
+地牢
+
+我的手下围在岩壁间那道幽暗入口旁，公主正被囚其中。他们急召我与我们的法兰克友人西格德前去，不愿因冒进危及公主性命。
+
+与比雅尼和西格德一同前往入口。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+THE DUNGEON
+
+My men stood around the dark entrance in the rock, behind which the princess was imprisoned. They hurriedly called me and our Frankish friend Sigurd, for they did not wish to endanger the princess by acting rashly.
+
+
+Take Bjarni and Sigurd to the entrance.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+DER KERKER
+
+Meine Männer standen um den dunklen Eingang im Felsen, hinter dem die Prinzessin gefangengehalten wurde. Eilig riefen sie mich und unseren fränkischen Freund Sigurd herbei, denn sie wollten das Leben der Prinzessin nicht durch überhastetes Handel in Gefahr bringen.
+
+
+Trete mit Bjarni und Sigurd an den Eingang.
+</text>
+      </lang>
+    </block>
+    <block id="verließ">
+      <lang code="CHN">
+        <text>
+地牢
+
+那便是秘牢的隐蔽入口！西格德与我屏息聆听黑暗中的动静。霉湿阴冷的气息扑面而来……
+
+无声……
+
+死寂……
+
+公主定然不是毫无看守，可若我们不加小心，她恐遭不测。于是我决意独身潜下，打对方一个措手不及。而忠心的西格德却不依不饶，执意相随。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>                                                                                           
+THE DUNGEON
+
+There it was: The hidden entrance to the dungeon! Sigurd and I listened hard. Putrid, clammy air drifted towards us ... 
+
+Nothing ... 
+
+Deadly silence ... 
+
+It seemed unlikely that the princess would be unguarded, and unless we were cautious, something might easily happen to her. I therefore decided to descend alone and surprise the enemy. But loyal Sigurd would not hear of it, and was not to be dissuaded from accompanying me. 
+</text>
+      </lang>
+      <lang code="ger">
+        <text>                                                                                           
+DER KERKER
+
+Da war er, der geheime Eingang zu dem Kerker! Angespannt lauschten Sigurd und ich ins Dunkle. Modrige, feucht-kalte Luft strömte uns entgegen... 
+
+Nichts... 
+
+Totenstille... 
+
+Bestimmt würde die Prinzessin dort nicht unbewacht sein, doch wenn wir nicht vorsichtig vorgingen, konnte es gut sein, dass ihr etwas zustoßen konnte. Daher beschloss ich, mich allein hinabzuschleichen, um den Gegner zu überraschen. Doch der treue Sigurd wollte davon nichts wissen und ließ sich nicht davon abbringen, mitzukommen. 
+</text>
+      </lang>
+    </block>
+    <block id="volktot">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+你的维京人不情愿地奉命攻击从前的同伴。
+
+太迟了！你惊骇地发现，自己再也无望完成使命！
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Grudgingly, your Vikings followed your orders and attacked their former friends. 
+
+Too late! You discover in horror that you cannot complete the mission now!
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Wiederwillig folgen deine Wikinger dem Befehl, ihre ehemaligen Freunde anzugreifen. 
+
+Zu spät! Entsetzt musst du feststellen, dass du nun niemals die Mission erfüllen kannst!
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

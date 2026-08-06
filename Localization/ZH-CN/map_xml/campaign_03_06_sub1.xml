@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_03_06_sub1" export_map_id="campaign_03_06_sub1" map_md5="d1d25ff9aa0c3c47f764ceff13c5d413" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">@在竞技中击败长跑者！</text>
+      <text lang="ger">@BESIEGE DEN LÄUFER IM WETTKAMPF!</text>
+    </string>
+    <string id="53">
+      <text lang="CHN">伊利斯的长跑者</text>
+      <text lang="ger">Der Läufer von Elis</text>
+    </string>
+    <string id="63">
+      <text lang="CHN">赛跑者</text>
+      <text lang="ger">Läufer</text>
+    </string>
+    <string id="74">
+      <text lang="CHN">西格德</text>
+      <text lang="ger">Sigurd</text>
+    </string>
+    <string id="77">
+      <text lang="CHN">赛跑者</text>
+      <text lang="ger">Läufer</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">竞技之争</text>
+      <text lang="ger">DER WETTSTREIT</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="CHN">
+        <text>
+
+埃利斯赛跑者状态正佳，西格德要胜过他，绝非易事！
+
+
+        </text>
+        <usericon>1,22,119</usericon>
+        <text>
+
+
+然他必须一试，因若胜此赛，奥林匹亚人与埃利斯人之助便稳了……
+
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Der Läufer von Elis war in Bestform, und es würde nicht einfach für Sigurd werden, ihn im Wettkampf zu schlagen! 
+
+</text>
+        <usericon>1,22,119</usericon>
+        <text>
+
+Trotzdem - er musste es versuchen, denn würde er den Kampf gewinnen, wäre uns die Unterstützung der Olympianer und der Eliser sicher...
+</text>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="CHN">
+        <text>
+
+于竞速中击败赛跑者！
+
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Besiege den Läufer im Wettkampf!
+</text>
+      </lang>
+    </block>
+    <block id="01">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+
+赛跑者殒命！这可不是裁定胜负的正当之法！
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Der Läufer ist gestorben! Dies ist keine faire Art, einen Wettkampf zu entscheiden!
+</text>
+      </lang>
+    </block>
+    <block id="02">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+
+真不走运！赛跑者分明快过你的挚友与英雄西格德。
+
+
+        </text>
+        <usericon>2,7</usericon>
+        <text>
+
+
+再试一回！
+
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+So ein Pech! Der Läufer war eindeutig schneller als dein Freund und Held Sigurd.
+
+</text>
+        <usericon>2,7</usericon>
+        <text>
+
+Versuch es ein weiteres Mal!
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="CHN">
+        <text>
+
+恭喜！这谁能料到西格德竟能做到！
+
+
+        </text>
+        <usericon>2,4</usericon>
+        <text>
+
+
+然他体育精神与意志极是坚卓，终得击败埃利斯赛跑者！
+
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Gratulation! Das hätte man dem Sigurd gar nicht zugetraut! 
+
+</text>
+        <usericon>2,4</usericon>
+        <text>
+
+Doch sein Sportsgeist und Willen war außerordentlich stark und so war es ihm möglich, den Läufer von Elis zu besiegen!
+</text>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="CHN" />
+      <lang code="ger" />
+    </block>
+    <block id="50_endheader">
+      <lang code="CHN">
+        <text>
+
+任务成功！
+
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+MISSION GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+
+竞速之赛
+
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DER WETTKAMPF
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

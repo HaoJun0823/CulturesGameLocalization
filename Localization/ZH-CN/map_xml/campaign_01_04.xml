@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_01_04" export_map_id="campaign_01_04" map_md5="4db33a55f3f0bf10d27fcbcbbf09e17f" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">支付 50 枚金币，赎回你的女眷。</text>
+      <text lang="eng">Pay 50 gold coins to ransom the women.</text>
+      <text lang="ger">Zahle 50 Goldmünzen, um deine Frauen freizukaufen.</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">击杀那可怖的怪物！</text>
+      <text lang="eng">Kill the terrible monster!</text>
+      <text lang="ger">Töte das schrecklich Monster!</text>
+    </string>
+    <string id="2">
+      <text lang="CHN">建立一座村庄，并将你的仓库填满补给。</text>
+      <text lang="eng">Build a settlement and fill your warehouse with supplies.</text>
+      <text lang="ger">Gründe ein Dorf und fülle dein Lager mit Vorräten.</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">向撒拉逊人支付 50 枚金币。</text>
+      <text lang="eng">Pay the Saracens 50 gold coins.</text>
+      <text lang="ger">Zahle den Sarazenen 50 Goldmünzen.</text>
+    </string>
+    <string id="4">
+      <text lang="CHN">向北进发，将这座城市从怪物手中解放！</text>
+      <text lang="eng">Go north and relieve the city of the monster.</text>
+      <text lang="ger">Ziehe nach Norden und befreie die Stadt von dem Monster!</text>
+    </string>
+    <string id="5">
+      <text lang="CHN">与当地居民进行交易。</text>
+      <text lang="eng">Trade with the locals.</text>
+      <text lang="ger">Handle mit den Einheimischen.</text>
+    </string>
+    <string id="6">
+      <text lang="CHN">整备你的船只，准备继续航行。</text>
+      <text lang="eng">Equip your ship to move on.</text>
+      <text lang="ger">Rüste dein Schiff für die Weiterfahrt aus.</text>
+    </string>
+    <string id="7">
+      <text lang="CHN">设法救出你的女眷。</text>
+      <text lang="eng">Find a way to free the women.</text>
+      <text lang="ger">Finde einen Weg, deine Frauen zu befreien.</text>
+    </string>
+    <string id="8">
+      <text lang="CHN">若要开展贸易，须先缴纳 10 枚金币作为贡金。</text>
+      <text lang="eng">To be able to trade, you must pay 10 gold coins tribute.</text>
+      <text lang="ger">Um handeln zu können, zahle erst 10 Goldmünzen Tribut.</text>
+    </string>
+    <string id="50">
+      <text lang="CHN">撒拉逊人</text>
+      <text lang="eng">Saracens</text>
+      <text lang="ger">Sarazenen</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">贝内文托</text>
+      <text lang="eng">Benevent</text>
+      <text lang="ger">Benevent</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">那不勒斯</text>
+      <text lang="eng">Napoli</text>
+      <text lang="ger">Napoli</text>
+    </string>
+    <string id="53">
+      <text lang="CHN">罗马</text>
+      <text lang="eng">Roma</text>
+      <text lang="ger">Roma</text>
+    </string>
+    <string id="98">
+      <text lang="CHN">维京人在意大利南岸登陆，准备补充新的补给。一切原本平静安详，直到那个瞬间来临……</text>
+      <text lang="eng">The Vikings land on the coast of Italy to gather supplies. Everything seems quiet and peaceful, until ...</text>
+      <text lang="ger">An der Küste Süditaliens landen die Wikinger, um sich mit neuen Vorräten einzudecken. Alles verläuft ruhig und friedlich, bis zu jenem Moment...</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">意大利</text>
+      <text lang="eng">ITALY</text>
+      <text lang="ger">ITALIEN</text>
+    </string>
+    <string id="100">
+      <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+    <string id="101">
+      <text lang="CHN">西格德</text>
+      <text lang="eng">Sigurd</text>
+      <text lang="ger">Sigurd</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="attacksaracen">
+      <lang code="CHN">
+        <text>
+你们真以为能逍遥法外？
+
+你们在狮子熟睡时撩拨了它！可你们唤醒了它，如今须得承受它可怕的怒火！
+
+你们这些卑劣之徒，大难临头了！
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Do you believe we will let this go unpunished?
+
+You have woken the sleeping dog, and now you shall feel the brunt of his rage!
+
+Beware, unworthy ones! Your end is nigh!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Glaubt ihr etwa, wir werden das ungestraft lassen?
+
+Ihr habt den Löwen gekitzelt, während er schlief! Doch ihr habt ihn damit geweckt und müsst nun seinen furchtbaren Zorn fürchten!
+
+Wehe euch, Unwürdige! Euer Ende ist nah!
+</text>
+      </lang>
+    </block>
+    <block id="begin_00">
+      <lang code="CHN">
+        <text>
+我们顶着逆风与诡谲的洋流航行良久，绕过西班牙，九死一生穿过直布罗陀海峡——突如其来的狂风几乎将我们甩上礁石。我们险险脱险，却已帆破人乏。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+For a long time, we sailed in adverse winds and fought treacherous currents, rounded Spain and faced grave danger to cross the Strait of Gibraltar, where a sudden thunderstorm nearly succeeded in shelling us against the cliffs. We escaped by a hair's breadth, but our sail was torn and tattered and our men had grown weary. 
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Lange segelten wir gegen widrige Winde und tückische Strömungen an, umrundeten Spanien und durchquerten unter großen Gefahren die Meerenge von Gibraltar, wo wir beinahe von einem überraschend aufziehenden Unwetter gegen die Klippen geschleudert wurden. Wir entkamen um Haaresbreite, doch war unser Segel zerfetzt und die Männer zu Tode erschöpft. 
+</text>
+      </lang>
+    </block>
+    <block id="begin_01">
+      <lang code="CHN">
+        <text>
+又漂流数日，我们决定靠上意大利海岸，稍作休整并补充给养。
+
+男人们外出狩猎，女眷们则就地扎营……
+
+在海滨建立聚落，并储满你的仓库补给。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+We remained adrift for a few days, then decided to head for the coast of Italy to recover and gather supplies. 
+
+Our women set up camp while we men went out to hunt ... 
+
+
+Build a settlement and fill your warehouse by the coast with supplies.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Noch einige Tage ließen wir uns treiben, dann beschlossen wir, die Küste Italiens anzulaufen, um uns zu erholen und uns mit Vorräten einzudecken. 
+
+Während wir Männer zur Jagd gingen, schlugen unsere Frauen das Lager auf... 
+
+
+Baue eine Siedlung auf und fülle dein Lager an der Küste mit Vorräten.
+</text>
+      </lang>
+    </block>
+    <block id="bjarnitot">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+是英勇，还是鲁莽？当比雅尼倒下，诸神也在恸哭……他们的命运已定，人类的末日也随之降临。
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When Bjarni died the gods were crying ... their fate was sealed and with it the end of the human world.
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ihr Ende war besiegelt und mit ihnen das Ende der Welt der Menschen.
+</text>
+      </lang>
+    </block>
+    <block id="bonischatz">
+      <lang code="CHN">
+        <text>
+金子！我们找到宝藏了！
+
+我们的同伴扛着箱子，凯旋般走回村庄。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Gold! We had found the treasure! 
+
+Our people triumphantly returned the chest to our village.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Gold! Wir hatten den Schatz gefunden! 
+
+Im Triumphzug brachten unsere Leute die Kiste in unser Dorf.
+</text>
+      </lang>
+    </block>
+    <block id="bonisonstig">
+      <lang code="CHN">
+        <text>
+我们找到一枚不起眼的护符，上面刻着奇异的纹样。它散发着诡异的微光。
+
+那必是至高魔法！
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+We had found a nondescript amulet bearing a mysterious inscription and emitting a curious glow. 
+
+It must be possessed of great magic!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Wir hatten ein unscheinbares Amulett mit seltsamen Zeichen darauf gefunden. Ein seltsamer Schimmer ging davon aus. 
+
+Das musste hohe Magie sein!
+</text>
+      </lang>
+    </block>
+    <block id="bonitrank">
+      <lang code="CHN">
+        <text>
+我们偶然得到一只怪味扑鼻的奇怪瓶子。
+
+这定是魔法药剂无疑！
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+A strange flask filled with a foul-smelling potion had fallen into our hands. 
+
+It had to be a magic potion!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Eine seltsame Flasche mit einem übelriechenden Trank war uns in die Hände gefallen. 
+
+Es konnte sich nur um einen magischen Trank handeln!
+</text>
+      </lang>
+    </block>
+    <block id="boniwaffe">
+      <lang code="CHN">
+        <text>
+我们找到了传说中的魔法兵器之一。
+
+若用之得法，它能在战斗中助我们大忙！
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+We had found one of the magic weapons our sagas mentioned. 
+
+Used correctly, it would be of great use to us in battle.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Wir hatten eine der magischen Waffen gefunden, von denn unsere Sagen erzählten. 
+
+Richtig eingesetzt, konnte sie uns im Kampf von großem Nutzen sein!
+</text>
+      </lang>
+    </block>
+    <block id="dorf1">
+      <lang code="CHN">
+        <text>
+贝内文托
+
+我们的斥候遇见一座法兰克人的村庄。他们心存戒备地打量我们，却无恶意。
+
+或许缴纳少许贡金，便能与之贸易？
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+BENEVENT
+
+Our scouts came across a Frankish village. The locals watched us suspiciously, but did not appear hostile. 
+
+Maybe we would be able to trade with them in exchange for a small tribute?
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+BENEVENT
+
+Unsere Kundschafter stießen auf ein Frankendorf. Sie betrachteten uns mit Argwohn, waren aber nicht feindlich gesinnt. 
+
+Gegen einen geringen Tribut konnten wir mit ihnen vielleicht Handel treiben?
+</text>
+      </lang>
+    </block>
+    <block id="dorf2">
+      <lang code="CHN">
+        <text>
+那不勒斯
+
+斥候在附近遇上法兰克人的城池，受到热情款待。对方立刻向我们提出缔结贸易协定。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+NAPOLI
+
+Our scouts were greeted kindly when they came across a Frankish village nearby. A trade agreement was immediately offered to us.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+NAPOLI
+
+Als unsere Kundschafter auf eine Stadt der Franken in der Nähe trafen, wurden sie freundlich empfangen. Sogleich bot man uns einen Handelsvertrag an.
+</text>
+      </lang>
+    </block>
+    <block id="dorftribut">
+      <lang code="CHN">
+        <text>
+我们以缴纳贡金表明了诚意，对方随即向我们伸出友谊之手，愿助我们完成余下的使命。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Once we had proved our good intentions by paying the tribute, we were offered friendship and assistance on our mission.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Als wir unseren guten Willen durch die Tributzahlung unter Beweis gestellt hatten, bot man uns Freundschaft und Hilfe bei unserer weiteren Mission an.
+</text>
+      </lang>
+    </block>
+    <block id="entführung">
+      <lang code="CHN">
+        <text>
+方才那是何物？营地方向传来尖叫？
+
+我们立刻抛下猎物，奔向独自留在登陆点、毫无防备的女眷们。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+What was that? Screams coming from the direction of our camp? 
+
+Dropping our bag, we ran back to our women, who had remained in the camp, alone and defenceless.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Was war das gewesen? Schreie aus der Richtung unseres Lagers? 
+
+Sogleich warfen wir unsere Jagdbeute fort und rannten zurück zu unseren Frauen, die alleine und schutzlos am Landeplatz zurückgeblieben waren.
+</text>
+      </lang>
+    </block>
+    <block id="frankeohnesub">
+      <lang code="CHN">
+        <text>
+我们袭击撒拉逊人，也顺带解救了一名法兰克骑士，他当即表示愿助我们一臂之力。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Our attack on the Saracens had freed a Frankish knight, who offered to help us at once.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Durch unseren Angriff auf die Sarazenen verhalfen wir auch einem fränkischen Ritter zur Freiheit, der uns sofort seine Hilfe anbot.
+</text>
+      </lang>
+    </block>
+    <block id="frauentot">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+何等耻辱！你既无力保护自己的女眷，更未能将她们从异教徒手中救出！
+
+你那拙劣的救援，葬送了所有女眷的性命！奇耻大辱！你不配在奥丁之侧求得一席！
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+What a disaster! First you were unable to protect your women, and now you've even failed to save them from the infidels!
+
+All the women died in your pitiful attempt to save them! Shame on you! You are not worthy of taking your place at Odin's side!
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Welch Schande! Zuerst warst du nicht in der Lage, deine Frauen zu beschützen, und dann gelingt es dir noch nicht einmal, sie aus den Händen der Ungläubigen zu befreien!
+
+Alle Frauen sind bei deinem kläglichen Rettungsversuch ums Leben gekommen! Schmach und Schande über dich! Du bist einem Platz an der Seite Odins nicht würdig!
+</text>
+      </lang>
+    </block>
+    <block id="gekillteskillerkaninchen">
+      <lang code="CHN">
+        <text>
+当我们把战胜巨兽的消息告诉惊恐的镇民，他们欣喜若狂！
+
+镇长欣然奉上许诺的金币，镇民们当即为我们举办盛大庆典。
+
+宴席间，我的一些手下与当地女子渐生情愫，坠入爱河。次日便有喜事结成。
+
+我黯然想起被掳走的妻子们，她们未能同享此刻。余下的赎金须尽快筹措——还是该以武力夺回她们？
+
+与当地居民交易，凑齐余下的赎金。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+The terrified citizens' joy was great when we told them of our victory over the beast! 
+
+The mayor happily handed us the gold he had promised, and the citizens arranged a feast in our honour. 
+
+During the feast, a few of my men made the acquaintance of the local women and fell in love. The weddings took place the very next day. 
+
+Saddened, I thought of our abducted wives, who could not be with us. We would have to gather the rest of the ransom as quickly as possible, or else free them in battle.
+
+
+Trade with the locals to collect money for the ransom.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Als wir den ängstlichen Stadtbewohnern die Nachricht vom Sieg über die Bestie brachten, war ihre Freude groß! 
+
+Glücklich überreichte der Bürgermeister uns die versprochenen Goldmünzen und die Bürger richteten sogleich ein großes Fest für uns aus. 
+
+Während der Feier kamen sich einige meiner Männer und einige einheimische Frauen näher und verliebten sich ineinander. Noch am nächsten Tag wurden Hochzeiten gehalten. 
+
+Traurig dachte ich an unsere geraubten Ehefrauen, die nicht bei uns sein konnten. Das restliche Lösegeld würden wir uns schnellstmöglich erhandeln müssen, oder sollten wir sie gar mit Waffengewalt zurückerobern?
+
+
+Handle mit den Einheimischen, um den Rest des Lösegeldes zusammen zu bekommen.
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+
+
+意大利
+
+
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+ITALY
+
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+ITALIEN
+
+</text>
+      </lang>
+    </block>
+    <block id="heldtot">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+全完了！预言中的愿景再无实现之日！尽管拼死抵抗，预言里的一位英雄仍被敌军优势兵力击倒！
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+This is the end! The vision can never be fulfilled now! Despite a fierce fight, one of your heroes was overwhelmed by the enemy!
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Das ist das Ende! Die Vision wird sich nun niemals erfüllen können! Trotz erbitterter Gegenwehr wurde einer der Helden aus der Prophezeiung von der Übermacht des Gegners überwältigt!
+</text>
+      </lang>
+    </block>
+    <block id="höhle">
+      <lang code="CHN">
+        <text>
+我们依镇民所言，在北方找到了怪物巢穴的入口。黑暗深处传来凄厉的哀嚎。我决意独自下探！
+
+我拔出维兰的魔法剑，拾级而下……维京人则守在洞口。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+We found the entrance to the monster's cave in the north, as the citizens had described it. A ghastly whimpering and moaning reached our ears. I volunteered to enter the cave alone!
+ 
+Drawing Wieland's magic sword, I began to descend ... My Vikings remained to guard the entrance.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Wir fanden den Eingang zur Höhle des Monsters, im Norden, wie von den Stadtbewohnern beschrieben. Grausliches Wimmern und Klagen erklang aus den  dunklen Tiefen. Ich erklärte mich bereit, den Abstieg in die Höhle alleine zu wagen!
+ 
+Das Zauberschwert Wielands gezogen, machte ich mich an den Abstieg... Meine Wikinger bewachten indes den Eingang.
+</text>
+      </lang>
+    </block>
+    <block id="höhleohneAuftrag">
+      <lang code="CHN">
+        <text>
+一道阴暗、半倾圮的入口横在眼前。若无非闯不可的理由，我们怕是永远不会踏入。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+A dark, half crumbled entrance opened before us. We would never use it unless there were a very good reason!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Ein dunkler, halb verfallener Eingang tat sich vor uns auf. Ohne einen triftigen Grund, würden wir ihn wohl nie benutzen!
+</text>
+      </lang>
+    </block>
+    <block id="kidnap">
+      <lang code="CHN">
+        <text>
+为时已晚！
+
+远处，我们眼睁睁看着凶悍的撒拉逊人把女眷拖上我们的船，随即消失在无垠海面，踪影全无。
+
+主屋前留下一封口信：若还想再见女眷，须缴来巨额金币作赎金！可此地四方压根无金矿可采……
+
+或许能说服当地人与我们联手，共抗撒拉逊人？……
+
+向撒拉逊人缴纳 50 金币赎金，或另寻他法解救女眷。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+It was too late! 
+
+From a distance, we saw wild Saracens dragging our women onto our ship and vanishing on the endless sea. 
+
+We found a message in the main house. They were demanding a large sum of gold as a ransom. We would have to pay it, if we ever wanted to see our wives again! Yet there was no gold to be mined anywhere around us ... 
+
+Maybe we would be able to persuade the locals to aid us against the Saracens?
+
+
+Give the Saracens a ransom of 50 gold pieces, or find another way to rescue the Viking women.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Es war zu spät! 
+
+Aus der Ferne sahen wir, wie wilde Sarazenen unsere Frauen auf unser Schiff zerrten und dann spurlos in der Weite der See verschwanden. 
+
+Beim Haupthaus fanden wir eine Nachricht. Sie verlangten eine größere Menge Goldmünzen als Lösegeld, wenn wir unsere Frauen jemals wieder sehen wollen! Dabei gab es hier weit und breit keine abbaubaren Goldvorkommen... 
+
+Vielleicht konnten wir die Einheimischen davon überzeugen, uns gegen die Sarazenen zu unterstützen? ...
+
+
+Liefere den Sarazenen 50 Goldmünzen Lösegeld, oder finde eine andere Möglichkeit, deine Frauen zu befreien.
+</text>
+      </lang>
+    </block>
+    <block id="monsterauftrag">
+      <lang code="CHN">
+        <text>
+罗马
+
+这片土地上稍大的城池坐落于山丘，高墙环绕。面见镇长前，我们须穿过重兵把守的城门、绕过无数卫兵。
+
+镇长对我们说："我们这座城也终日惶惶，惧怕撒拉逊人，不愿与你们并肩作战——那些盗匪太过危险。
+
+不过，若你们能替我们除掉北方洞穴里横行已久的怪物，我们愿奉上金币！"
+
+向北进发，将城市从怪物手中解放。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+ROMA
+
+The next great city on this stretch of land lay on a hill, surrounded by a high wall. Before we were permitted to see the mayor, we had to go through a heavily guarded gate and pass countless guards. 
+
+The mayor said, "Our city itself lives in fear of the Saracens, and we will not support you in battle. Those brigands are too dangerous. 
+
+But we would give you gold if you freed us from the monster in the nearby cave in the north. It has been rampaging here for ages!"
+
+
+Go north and relieve the city of the monster.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+ROMA
+
+Die nächste größere Stadt in diesem Landstrich lag auf einem Hügel und war von einer hohen Mauer umgeben. Bevor wir zum Bürgermeister vorgelassen wurden, mussten wir durch ein schwerbewachtes Tor und an unzähligen Wachen vorbei. 
+
+Der Bürgermeister sprach zu uns: "Unsere Stadt lebt selber in Angst und Schrecken vor den Sarazenen und wir wollen euch in einem Kampf nicht unterstützen, denn diese Räuber sind viel zu gefährlich. 
+
+Aber wir würden euch Gold geben, wenn ihr uns von dem Monster in der nahe gelegenen Höhle im Norden befreit, das seit langer Zeit hier sein Unwesen treibt!"
+
+
+Ziehe nach Norden und befreie die Stadt von dem Monster.
+</text>
+      </lang>
+    </block>
+    <block id="ohneBjarni">
+      <lang code="CHN">
+        <text>
+这是真正的英雄方能完成的使命！带维京人首领比雅尼，前往那座洞穴……
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+A mission for a true hero! Guide Bjarni, the Viking chief, to the cave ... 
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Das ist eine Mission für wahre Helden! Führe Bjarni, den Wikingerhäuptling, zu der Höhle... 
+</text>
+      </lang>
+    </block>
+    <block id="sarakampf">
+      <lang code="CHN">
+        <text>
+你的同伴正袭击一支敌族！但须当心——战局瞬息万变，稍有不慎便反噬自身。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Your people are attacking a hostile nation! Beware - luck can turn quickly in war, and can easily lead to your ruin.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Deine Leute greifen gerade ein feindliches Volk an! Doch Vorsicht ist angebracht - das Kriegsglück kann sich schnell wenden und dir leicht selbst zum Verhängnis werden.
+</text>
+      </lang>
+    </block>
+    <block id="soldierlimit">
+      <lang code="CHN">
+        <text>
+卑劣之徒！你们压根没打算缴那笔贡金吧？！既然如此，你们须自食其果！我们迟早要"以朋友之名"去你们那儿做客……
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Unworthy creature! 
+It appears you have no intention of paying the tribute?! Well, then you must face the consequences! 
+We will have to pay you a "friendly" visit at some time ...
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Unwürdiger! 
+Ihr denkt wohl gar nicht daran, den geforderten Tribut zu bezahlen?! Nun denn, dann werdet ihr auch die Folgen tragen müssen! 
+Wir werden euch demnächst wohl mal einen kleinen Besuch unter "Freunden" abstatten müssen...
+</text>
+      </lang>
+    </block>
+    <block id="spielertot">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+你失败了！你的维京人曾信任你，你却让他们失望。奥丁的宴席上，再没有你的位置。
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+You've failed! Your Vikings trusted you and you've let them down! There will be no place for you at Odin's table!
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Du hast versagt! Deine Wikinger hatten auf dich vertraut und du hast sie im Stich gelassen. An Odins Tafel wird kein Platz für dich sein.
+</text>
+      </lang>
+    </block>
+    <block id="won_00">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务成功！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+终于能将女眷拥入怀中，我们何等欣喜！
+
+我们满心欢喜地领她们回到营地——此时营地已长成一座像样的村庄。如今我们终能继续前往拜占庭的航程，当即着手整备船只。
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION SUCCESSFUL!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+It is impossible to describe the joy we felt when, finally, we were able to embrace our wives once more! 
+
+Happily we accompanied them back to the camp, which had by now grown into a stately village. At last we could continue our voyage to Byzantium. We immediately began equipping our ship. 
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION GEWONNEN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Wie freuten wir uns, als wir unsere Frauen endlich wieder in die Arme schließen konnten! 
+
+Überglücklich führten wir sie zurück in unser Lager, das inzwischen schon zu einem stattlichen Dorf angewachsen war. Nun endlich konnten wir unsere Fahrt nach Byzanz fortsetzen und begannen sogleich damit, unser Schiff auszurüsten. 
+</text>
+      </lang>
+    </block>
+    <block id="won_01">
+      <lang code="CHN">
+        <text>
+我们不忍离开这片饱受海盗蹂躏却待我们热忱的土地，许多与当地人结下情谊的同伴选择留下。然而当船首清风拂面，我已开始期盼前方等待我们的冒险。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+The community was sad to be leaving this hospitable country that had suffered so badly under the pirates. Many of us had made friends with the locals and chose to stay behind. 
+But as a crisp breeze brushed my face while I stood at the bow, I found myself looking forward to the adventures in store for us.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Ungern verließen wir dieses gastliche Land, dass so unter den Piraten zu leiden gehabt hatte, und viele der Unseren, die mit den Einheimischen Freundschaft geschlossen hatten, blieben zurück. 
+Doch als mir am Bug des Schiffes ein frischer Wind ins Gesicht blies, freute ich mich bereits auf die Abenteuer, die noch vor uns liegen mochten.
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_01_11" export_map_id="campaign_01_11" map_md5="ad4cab0b48ee5e4bd7bb6f9b4064b455" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">率领全部四位英雄，迎战强大的米德加德之蛇。</text>
+      <text lang="eng">Face the Midgard serpent with all four of your heroes.</text>
+      <text lang="ger">Stelle dich mit allen vier Helden der mächtigen Midgardschlange zum Kampf.</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">蛇族</text>
+      <text lang="eng">Serpent People</text>
+      <text lang="ger">Schlangenvolk</text>
+    </string>
+    <string id="98">
+      <text lang="CHN">历经漫长漂泊，维京人仿佛被魔法指引，于某个清晨搁浅在一片死寂焦黑的海岸。这必是终点——米德加德之蛇的领地，维格里德城墙！</text>
+      <text lang="eng">Following a long odyssey, the Vikings land one morning on a dead, barren coast, as though guided there by some invisible hand. This must be their destination, the realm of the Midgard serpent - Wigrid Wall!</text>
+      <text lang="ger">Wie von Zauberhand stranden die Wikinger nach einer langen Irrfahrt eines Morgens an einer toten, verbrannten Küste. Dies musste das Ziel sein, das Reich der Midgardschlange - Wigrid Wall!</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">维格里德城墙</text>
+      <text lang="eng">WIGRID WALL</text>
+      <text lang="ger">WIGRID WALL</text>
+    </string>
+    <string id="101">
+      <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+    <string id="102">
+      <text lang="CHN">西格德</text>
+      <text lang="eng">Sigurd</text>
+      <text lang="ger">Sigurd</text>
+    </string>
+    <string id="103">
+      <text lang="CHN">希拉</text>
+      <text lang="eng">Cyra</text>
+      <text lang="ger">Cyra</text>
+    </string>
+    <string id="104">
+      <text lang="CHN">哈奇</text>
+      <text lang="eng">Hatchie</text>
+      <text lang="ger">Hatschi</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="0">
+      <lang code="CHN">
+        <text>
+穿越奇异浓雾，漫长漂泊之后，一日清晨我们如被魔手牵引，搁浅于一片死寂焦黑的海岸。这必是我们的目标——世界蛇之域，传说中名为耶梦加得！
+
+是，我的幻象正是如此！一切将在此决断！世界蛇，诸神宿敌、众生之敌，早于其时便从海中升起——因诸神黄昏，那最后的神战，尚未开始！
+
+因尚未备战，诸神只得紧闭阿斯加德神堡之门，无法助我们凡人一臂。
+
+世界蛇狂怒滔天，以其瘟疫之息笼罩人间。米德加尔特之命运，此刻独系我们手中……
+
+寻找世界蛇，将其摧毁！
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Following a long odyssey through thick mist, we landed one morning on a dead, barren coast, as though some invisible hand had guided us there. This had to be our destination, the realm of the Midgard serpent, whom the legends called Jormungand! 
+
+Yes, this was what I had seen in my vision! This was where fate would be decided! The Midgard serpent, the ancient adversary of the gods and enemy of the living, had risen from the seas - far ahead of time, for Ragnarok, the final battle of the gods, had not yet begun! 
+
+As they were not yet ready for the fight, the gods were forced to close the gates of the fortress Asgard and could not stand by us mortals. 
+
+Fuming with rage, the serpent was beginning to smother the world with its pestilent breath. The fate of Midgard was in our hands alone ...
+
+
+Find the Midgard serpent and destroy it! 
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Nach einer langen Irrfahrt durch seltsam dichte Nebel strandeten wir eines Morgens wie von Zauberhand an einer toten, verbrannten Küste. Dies musste unser Ziel sein, das Reich der Midgardschlange, in den Legenden Jormungander genannt! 
+
+Ja, so hatte ich es in meiner Vision gesehen! Hier würde sich alles entscheiden! Die Midgardschlange, alter Widersacher der Götter, Feind alles Lebendigen, hatte sich hier aus dem Meer erhoben - lange vor der Zeit, denn Ragnarök, die letzte Schlacht der Götter, hatte noch nicht begonnen! 
+
+Da sie für diesen Kampf noch nicht gerüstet waren, mussten die Götter die Tore ihrer Feste Asgard schließen und konnten uns Sterblichen nicht beistehen. 
+
+Voll ohnmächtiger Wut tobend begann die Schlange nun, die Welt der Menschen mit ihrem Pesthauch zu überziehen. Das Schicksal Midgards lag jetzt allein in unseren Händen...
+
+
+Findet die Midgardschlange und vernichtet sie! 
+</text>
+      </lang>
+    </block>
+    <block id="1">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务成功！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+伴随震耳欲聋的咆哮，世界蛇殒灭。这压倒性的威胁终被除去！
+
+我们合力成就诸神未能之事——我们胜利了！
+
+阿斯加德之门重开！金光迸涌，刺破蛇之永夜。已笼罩部分世界的阴影消散，枯萎中毒之物重焕生机。
+
+刹那间，西方四大文明稍稍靠近，携手免除了众人的覆灭之灾。至于这新得的情谊将导向何方，且待未来见证……
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION SUCCESSFUL!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+The Midgard serpent died with a deafening roar. The overpowering danger had been averted! 
+
+Together, we had achieved what the gods had been unable to accomplish - we had won! 
+
+The Gates of Asgard reopened! A golden light streamed from the fortress and penetrated the serpent's eternal night. The shadow that had already begun to cover the world dispersed, and all that had withered and been poisoned was now blossoming. 
+
+For a moment, the four great cultures of the west had come a little closer, and united to ward off the downfall of the world. Only the future would show what our new-found friendships would bring ...
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION GEWONNEN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Mit einem ohrenbetäubenden Gebrüll verging die Midgardschlange. Die übermächtige Gefahr war gebannt! 
+
+Gemeinsam hatten wir das geschafft, was die Götter nicht vermocht hatten - wir hatten gesiegt! 
+
+Die Tore Asgards öffneten sich wieder! Ein goldenes Licht brach daraus hervor und durchdrang die ewige Nacht der Schlange. Der Schatten, der die Welt schon in manchen Teilen bedeckt hatte, verschwand und es erblühte, was bereits verdorrt und vergiftet war. 
+
+Für einen Moment lang waren die vier großen Kulturen des Westens ein klein wenig näher zusammengerückt und hatten zusammen das sichere Verderben für alle abgewendet. Was wir nun mit den neugewonnenen Freundschaften anfangen würden, sollte die Zukunft zeigen...
+</text>
+      </lang>
+    </block>
+    <block id="2">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+英雄气概，还是鲁莽轻率？当比雅尼倒下，诸神也在恸哭……他们的命运已定，人类的末日随之降临。
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When Bjarni died the gods were crying ... their fate was sealed and with it the end of the human world.
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ihr Ende war besiegelt und mit ihnen das Ende der Welt der Menschen.
+</text>
+      </lang>
+    </block>
+    <block id="3">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+一时的疏忽，便酿成千古恨！预言中的英雄西格德因你的轻率而殒命。世界就此倾覆。
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A brief moment of carelessness - that's all it takes! Sigurd, the hero from the prophecy, has died through your negligence! The world is doomed.
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Held Sigurd aus der Prophezeiung erlag durch deine Unachtsamkeit! Die Welt ist verloren.
+</text>
+      </lang>
+    </block>
+    <block id="4">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+一时的疏忽，便酿成千古恨！预言中的女英雄希拉因你的轻率而殒命。世界就此倾覆。
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A brief moment of carelessness - that's all it takes! Cyra, the heroine from the prophecy, has died through your negligence! The world is doomed
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin Cyra aus der Prophezeiung erlag durch deine Unachtsamkeit! Die Welt ist verloren.
+</text>
+      </lang>
+    </block>
+    <block id="5">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+一时的疏忽，便酿成千古恨！预言中的英雄哈奇因你的轻率而殒命。世界就此倾覆。
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A brief moment of carelessness - that's all it takes! Hatchie, the hero from the prophecy, has died through your negligence! The world is doomed.
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Held Hatschi aus der Prophezeiung erlag durch deine Unachtsamkeit! Die Welt ist verloren.
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+维格里德墙
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+WIGRID WALL
+
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+WIGRID WALL
+
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

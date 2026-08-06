@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="19_Kongo" export_map_id="19_Kongo" map_md5="800dcd9ef9347100d01ef9e97430b5c9" IsC2M="true">
+  <languages>
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">刚果</text>
+      <text lang="ger">Kongo</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">我们来到了邻近的刚果。对抗坦克的决战将在此地打响。</text>
+      <text lang="ger">Wir kamen ins benachbarte Kongo.Hier sollte die entscheidene Schlacht gegen Tank stattfinden.</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+    </string>
+    <string id="4">
+      <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+    </string>
+    <string id="50">
+      <text lang="CHN">玩家0</text>
+      <text lang="ger">Spieler0</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">玩家1</text>
+      <text lang="ger">Spieler1</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">玩家2</text>
+      <text lang="ger">Spieler2</text>
+    </string>
+    <string id="53">
+      <text lang="CHN">玩家3</text>
+      <text lang="ger">Spieler3</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="findmappos1">
+      <lang code="CHN">
+        <text>坦克的影像突然浮现！！由于那只是幻影，我们无法攻击他。
+站住，不许再往前一步。从这里起便是我的国度。你们最好退回去，否则必死无疑。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Plötzlich erschien ein Bild von Tank !! Da es nur ein Trugbild war, konnten wir ihn nicht angreifen.
+Halt, keinen Schritt weiter. Ab hier beginnt mein Reich. Zieht euch lieber zurück, sonst werdet ihr sterben.
+
+</text>
+      </lang>
+    </block>
+    <block id="lost_body">
+      <lang code="CHN">
+        <text>你失败了！！要不去玩一局挑棒游戏吧。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Du hast verloren !! Versuchs doch mal mit ner Runde Mikado.
+
+</text>
+      </lang>
+    </block>
+    <block id="lost_header">
+      <lang code="CHN">
+        <text>任务失败！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Mission verloren!
+
+</text>
+      </lang>
+    </block>
+    <block id="playerdied1">
+      <lang code="CHN">
+        <text>马弗里克的匪徒已成为过去。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Mavericks Banditen sind Geschichte.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerdied2">
+      <lang code="CHN">
+        <text>伊沃克的匪徒已成为过去。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Yvoks Banditen sind Geschichte.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerdied3">
+      <lang code="CHN">
+        <text>坦克已死，维京人万岁！！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Tank ist tot, lang leben die Wickinger !!
+
+</text>
+      </lang>
+    </block>
+    <block id="playerfriendly1">
+      <lang code="CHN">
+        <text>玩家1现在转为友好。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 1 ist jetzt freundlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerfriendly2">
+      <lang code="CHN">
+        <text>玩家2现在转为友好。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 2 ist jetzt freundlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerfriendly3">
+      <lang code="CHN">
+        <text>玩家3现在转为友好。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 3 ist jetzt freundlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerneutral1">
+      <lang code="CHN">
+        <text>玩家1现在转为中立。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 1 ist jetzt neutral.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerneutral2">
+      <lang code="CHN">
+        <text>玩家2现在转为中立。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 2 ist jetzt neutral.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerneutral3">
+      <lang code="CHN">
+        <text>玩家3现在转为中立。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 3 ist jetzt neutral.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerseen1">
+      <lang code="CHN">
+        <text>我们突然遭到袭击。我，坦克的朋友马弗里克，告诉你们，你们绝到不了坦克的大本营，因为在那之前我们就会先把你们收拾干净。
+任务目标：消灭马弗里克及其匪徒。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Plötzlich wurden wir angegriffen. Ich Maverick,Freund von Tank sage euch, Ihr werdet niemals das Hauptquartier von Tank erreichen, denn vorher machen WIR euch fertig.
+Missionsziel: Vernichte Maverick und seine Banditen.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerseen2">
+      <lang code="CHN">
+        <text>利箭突然朝我们射来。我，刚果的统治者、坦克的朋友伊沃克，告诉你们，你们绝到不了坦克的大本营，因为在那之前我们就会先把你们收拾干净。
+任务目标：击败伊沃克的匪徒！！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Plötzlich schossen Pfeile auf uns. Ich Yvoks, Herrscherin des Kongos, Freundin von Tank sage euch, ihr werdet niemals das Hauptquartier von Tank erreichen, denn vorher machen WIR euch fertig.
+Missionsziel: Besiege Yvoks Banditen !!
+
+</text>
+      </lang>
+    </block>
+    <block id="playerseen3">
+      <lang code="CHN">
+        <text>为了这场对我们妇女的怯懦屠杀，我们要把坦克吊死在最高的那棵棕榈树上。
+任务目标：消灭坦克及其随从。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Für diesen feigen Mord an unseren Frauen, wollten wir Tank an der höchsten Palme aufhängen.
+Missionsziel: Vernichte Tank und sein Gefolge.
+
+</text>
+      </lang>
+    </block>
+    <block id="start_body">
+      <lang code="CHN">
+        <text>当我们进军刚果时，我们的“朋友”突然向我们发难，几乎掳走了我们所有的妇女。远远地我们还能听见她们的尖叫，却再也无力相救。那个佯装成我们朋友、我们还供给了他大量武器的人，不是别人，正是坦克本人。他又一次夺走了我们的朋友。可这将是最后一次，因为如今他已落入陷阱。
+任务目标：击败坦克及其所有盟友！！
+
+
+制作者：尤基</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Als wir in den Kongo einmarschierten, griffen uns unsere Freunde urplötzlich an, und entführten fast alle Frauen von uns. Noch von weitem konnten wir ihre Schreie hören, doch wir konnten ihnen nicht mehr helfen. Der, der sich uns als Freund ausgegeben hatte, und den wir mit sovielen Waffen beliefert hatten, war kein anderer als Tank persönlich gewesen. Ein weiteres Mal hatte er uns die Freunde genommen. Doch es sollte das letzte Mal sein, denn hier saß er in der Falle.
+Missionsziel: Besiege Tank und all seine Verbündeten !!
+
+
+Erstellt von: Yogi
+
+</text>
+      </lang>
+    </block>
+    <block id="start_header">
+      <lang code="CHN">
+        <text>刚果</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Kongo
+
+</text>
+      </lang>
+    </block>
+    <block id="won_body">
+      <lang code="CHN">
+        <text>我们把不可能化为了可能。坦克及其盟友都已被击败。我们终于可以离开这片土地了。我们朝南非进发，因为我们又该去呼吸一下海上的气息了……</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Wir hatten das unmögliche möglich gemacht. Tank und seine Verbündeten waren besiegt. Endlich konnten wir dieses Land verlassen. Wir machten uns auf Richtung Südafrika, denn wir mußten mal wieder die Seeluft schnuppern....
+
+</text>
+      </lang>
+    </block>
+    <block id="won_header">
+      <lang code="CHN">
+        <text>任务达成！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Mission gewonnen!
+
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

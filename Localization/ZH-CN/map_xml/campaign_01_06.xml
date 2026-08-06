@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_01_06" export_map_id="campaign_01_06" map_md5="ee6c44a9020ef74e9e9bdd70d41c3223" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="1">
+      <text lang="CHN">寻找你北面失联的驻军。</text>
+      <text lang="eng">Search for the lost garrison to the north.</text>
+      <text lang="ger">Suche die vermisste Garnison nördlich von dir.</text>
+    </string>
+    <string id="2">
+      <text lang="CHN">组建 30 名士兵。</text>
+      <text lang="eng">Equip 30 soldiers.</text>
+      <text lang="ger">Rüste 30 Soldaten aus.</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">消灭撒拉逊人，或与其指挥官会面。</text>
+      <text lang="eng">Destroy the Saracens or meet their commander.</text>
+      <text lang="ger">Vernichte die Sarazenen oder treff dich mit ihrem Komandanten.</text>
+    </string>
+    <string id="5">
+      <text lang="CHN">当心那位背信的将军！</text>
+      <text lang="eng">Beware of the traitorous general!</text>
+      <text lang="ger">Vorsicht vor dem verräterischen General!</text>
+    </string>
+    <string id="6">
+      <text lang="CHN">击溃将军的部队。</text>
+      <text lang="eng">Defeat the troops of the general.</text>
+      <text lang="ger">Besiege die Truppen des Generals.</text>
+    </string>
+    <string id="21">
+      <text lang="CHN">缴纳贡金，以重新安抚撒拉逊人。</text>
+      <text lang="eng">Pay tribute to appease the Saracens.</text>
+      <text lang="ger">Zahle den Tribut, um die Sarazenen wieder friedlich zu stimmen.</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">撒拉逊人</text>
+      <text lang="eng">Saracens</text>
+      <text lang="ger">Sarazenen</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">哈德拉迪</text>
+      <text lang="eng">Hardradi</text>
+      <text lang="ger">Hardradi</text>
+    </string>
+    <string id="98">
+      <text lang="CHN">身为瓦良格卫队的队长，维京人受命前往拜占庭的东部边境。数周以来，哈德拉迪将军的驻军音讯全无……</text>
+      <text lang="eng">As the Emperor's main Waräger Guard the Vikings are sent to the eastern border zone of Byzantium, from whence General Hardradi's garrison has sent no word for weeks now ...</text>
+      <text lang="ger">In der neuen Eigenschaft als Hauptleute der Warägergarde werden die Wikinger in das östliche Grenzgebiet von Byzanz gesandt, von wo sich die Garnison des Generals Hardradi seit Wochen nicht mehr gemeldet hatte...</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">瓦良格卫队</text>
+      <text lang="eng">The WARÄGER GUARD</text>
+      <text lang="ger">DIE WARÄGERGARDE</text>
+    </string>
+    <string id="100">
+      <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+    <string id="101">
+      <text lang="CHN">西格德</text>
+      <text lang="eng">Sigurd</text>
+      <text lang="ger">Sigurd</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="bjarnitot">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+何等黑暗的一天！在敌人最后一击下，比雅尼在孤立无援中倒下。世界蛇已然升起，再无人能阻挡它。
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+What a bad day! Bjarni died at the enemy's last blow, abandoned by his friends. The Midgard serpent rose, and there was nobody left to stop it.
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Was für ein schwarzer Tag! Unter dem letzten Hieb des Feindes starb Bjarni von seinen Freunden verlassen. Die Midgardschlange erhob sich und es gab niemanden mehr, der sie aufhalten konnte.
+</text>
+      </lang>
+    </block>
+    <block id="frieden">
+      <lang code="CHN">
+        <text>
+我们与撒拉逊人缔结和平，满心欢喜开往拜占庭驻军。可那里又是何等恶毒的惊喜在等！
+
+将军失态地迎上前来："你这贪慕虚名的蠢材！你竟与敌讲和！！你怎敢！
+你以为你是谁？！这帝国容不下两位名将此并立！我绝不容你等荣耀归朝！我苦候此机数年，更令部众掳走公主以嫁祸撒拉逊人！唯如此皇帝方肯宣战！全部荣耀只归我一人！"
+
+我们不敢信自己的耳朵，可当其部众动手攻来，一切骤然明了！
+
+击败那背信的将军。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+We had made peace with the Saracens. Full of joy we went back to the Byzantine garrison. But there was a nasty surprise waiting for us there! 
+
+The General was utterly beside himself. "You're a fool craving for glory! You've made PEACE with our enemies!! How dare you! 
+Who do you think you are?! There is no room in this realm for TWO famous generals! I will not let YOU return to the Emperor in glory! I haven't waited for this chance for nothing, I didn't have the princess kidnapped to cast suspicion on the Saracens for nothing! It was the only way the Emperor would agree to wage war upon them! The glory is MINE!" 
+
+We could hardly believe our ears, but when his men started attacking us, we fully understood at once!
+
+
+Defeat the traitorous General.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Wir hatten Frieden mit den Sarazenen geschlossen und voller Freude zogen wir zur byzantinischen Garnison. Doch welch üble Überraschung erwartete uns dort! 
+
+Völlig außer sich kam uns der General entgegen: "Du ruhmessüchtiger Narr! Du hast FRIEDEN mit unseren Feinden geschlossen!! Wie konntest du es wagen! 
+Was bildest du dir ein?! Für ZWEI berühmte Generäle ist kein Platz in diesem Reich! Ich werde nicht zulassen, dass IHR ruhmreich zum Kaiser zurückkehrt! Ich habe nicht umsonst jahrelang auf diese Gelegenheit gewartet und meine Leute sogar die Prinzessin entführen lassen, um den Verdacht auf die Sarazenen zu lenken! Denn nur so hat der Kaiser endlich einem Krieg zugestimmt! MIR allein gebührt der ganze Ruhm!" 
+
+Wir glaubten unseren Ohren nicht zu trauen, aber als seine Männer begannen, uns anzugreifen, wurde uns schlagartig einiges klar!
+
+
+Besiege den verräterischen General.
+</text>
+      </lang>
+    </block>
+    <block id="friedensgespräch">
+      <lang code="CHN">
+        <text>
+原来并非陷阱！撒拉逊指挥官手无寸铁立于总部之前，静候我们。
+
+他早闻我族英勇睿智，以国士之礼相迎。谈判冗长艰苦，终就和平条约达成一致。指挥官含笑执手作别：
+
+"我看你等是英勇诚实的男儿！若你等转告哈德拉迪将军莫再挑衅，我等必如约退兵、谨守和平。
+但须警惕，吾友！他绝非如你等般诚实！"
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+It was no trap after all! The Saracen commander was waiting for us in front of his headquarters, and he wasn't carrying any weapons. 
+
+He had heard much of the courage and wisdom of our people, and saluted us like a statesman. The negotiations were long and hard, but we finally agreed on a peace treaty. The commander extended his hand and smiled: 
+
+"I see that you are brave and honest men! We will withdraw as we have promised and keep the peace, if you inform General Hardradi that he should not provoke us any longer. 
+But be warned, my friend! He is not such an honest man as you are!"
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Es war also doch keine Falle gewesen! Der Kommandant der Sarazenen stand unbewaffnet vor seinem Hauptquartier und erwartete uns. 
+
+Er hatte schon viel über die Tapferkeit und Klugheit unseres Volkes gehört und begrüßte uns in staatsmännischer Form. Die Verhandlungen selbst erwiesen sich als lang und zäh, doch schließlich einigten wir uns auf einen Friedensvertrag. Lächelnd reichte der Kommandant uns zum Abschied die Hand: 
+
+"Ich sehe, dass ihr mutige und ehrliche Männer seid! Wir werden uns wie versprochen zurückziehen und Frieden halten, wenn ihr eurem General Hardradi mitteilt, er möge uns nicht mehr länger provozieren. 
+Aber seid gewarnt, mein Freund! Er ist kein so ehrlicher Mann wie ihr es seid!"
+</text>
+      </lang>
+    </block>
+    <block id="garnison">
+      <lang code="CHN">
+        <text>
+驻军
+
+那支失联的驻军驻扎在靠近边境、设防森严之处。高墙矗立、箭塔林立，环绕着营盘。
+
+我们表明身份，大门洞开，将军哈德拉迪迎上前来。他寸步之间都透着惯受服从的威压。
+
+"率你部助我攻打撒拉逊人！我拜占庭驻军阵中尚有空位，合力必能将其击破！"
+
+将你的军队扩充至 30 名士兵。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>	
+THE GARRISON
+
+The lost garrison was lying well reinforced close to the border. High walls with strong watchtowers surrounded the army camp. 
+
+When we disclosed our identity, the gate was opened and General Hardradi came to meet us. He was every inch a man who expects people to obey him.  
+
+"Support me with your people in the fight against the Saracens! There is much space in the ranks of our Byzantine garrison. We will surely defeat them together!" 
+
+
+Expand your army up to 30 soldiers.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>	
+DIE GARNISON
+
+Die vermisste Garnison lag stark befestigt unweit der Grenze. Hohe Mauern mit starken Wachtürmen umgaben das Heerlager. 
+
+Als wir uns zu erkennen gaben, öffnete man uns das Tor und der General Hardradi trat uns entgegen. Zoll für Zoll ein Mann, der es gewohnt war, dass man ihm Gehorsam entgegenbrachte.  
+
+"Leiste mir mit deinen Leuten Unterstützung im Kampf gegen die Sarazenen! In den Reihen unserer byzantinischen Garnison ist noch genug Platz. Zusammen können wir sie sicher besiegen!" 
+
+
+Baue deine Armee auf 30 Soldaten aus.
+</text>
+      </lang>
+    </block>
+    <block id="gewonnen_00">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务成功！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+眼见胜算无望，哈德拉迪率部向皇城方向退去。
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION SUCCESSFUL!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+When Hardradi saw that he could not win, he retreated towards the capital.
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION GEWONNEN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Als Hardradi sah, dass er nicht mehr gewinnen konnte, zog sich der General in Richtung Hauptstadt zurück.
+</text>
+      </lang>
+    </block>
+    <block id="gewonnen_01">
+      <lang code="CHN">
+        <text>
+我们虽胜，却忧心他此刻在盘算什么。他曾为夺权不择手段——掳走公主以挑起战端，已露其无忌。
+
+他绝不会束手就擒。我们必须尽快面见皇帝示警，以防不测！只盼尚不为迟……
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+We had won, but I was worried what he might be planning. He had shown himself to be unscrupulous in his striving for power, even having the princess kidnapped in order to provoke war. 
+
+It was unlikely that he would simply give up without a fight now.
+We had to reach the Emperor as quickly as possible in order to warn him and prevent the worst from happening! I could only hope that it was not too late ...
+
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Wir hatten gesiegt, doch machte ich mir Sorgen darum, was er jetzt im Schilde führte. Er hatte gezeigt, wie skrupellos er nach der Macht strebte, als er die Prinzessin entführen ließ, um einen Krieg zu provozieren. 
+
+Er würde sich jetzt sicherlich nicht kampflos ergeben. Wir mussten schnellstens zum Kaiser, um ihn zu warnen und das Schlimmste zu verhindern! Ich hoffte nur, dass es noch nicht zu spät war...
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+瓦良格卫队
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE WARÄGER GUARD
+
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+DIE WARÄGERGARDE
+
+</text>
+      </lang>
+    </block>
+    <block id="hilfesarazenen">
+      <lang code="CHN">
+        <text>
+撒拉逊指挥官果为真君子。闻及将军的图谋，他亲率部众来援。
+
+令皇帝知晓其部下的背叛，本也符合他族之利……
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+The commander of the Saracens turned out to be a real man of honour. When he heard what the General was up to, he supported us with his troops. 
+
+It was in the interest of his own people for the Emperor to find out about his soldier's treason ... 
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Der Kommandant der Sarazenen erwies sich als wahrer Ehrenmann. Als er vernahm, was der General im Schilde führte, kam er uns mit seinen Truppen zur Hilfe. 
+
+Lag es doch auch im Interesse seines Volkes, dass der Kaiser vom Verrat seines Untergebenen erfuhr... 
+</text>
+      </lang>
+    </block>
+    <block id="krieggeneral">
+      <lang code="CHN">
+        <text>
+我们攻打将军及其军队时，尚不知将陷何局……
+
+一座塔楼中传出恶毒狞笑，将军居高临下喝道："你以为你是谁？！这帝国容不下两位名将此并立！我绝不容你等荣耀归朝！我苦候此机数年，更令部众掳走公主以嫁祸撒拉逊人！唯如此皇帝方肯宣战！全部荣耀只归我一人！"
+
+我们不敢信自己的耳朵，可当其部众动手攻来，一切骤然明了！
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+When we attacked the General and his army, we didn't know what lay in store for us ...
+
+Malicious laughter rang from one of the towers, the General shouted down from above, "Who do you think you are?! There is no room in this realm for TWO famous generals! I will not let YOU return to the Emperor in glory! I haven't waited for this chance for nothing, I didn't have the princess kidnapped to cast suspicion on the Saracens for nothing! It was the only way the Emperor would agree to wage war upon them! The glory is MINE!"
+
+We could hardly believe our ears, but when his men started attacking us, we fully understood at once!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Als wir den General und seine Armee angriffen, wussten wir nicht, worauf wir uns da einließen...
+
+Aus einem der Türme erklang ein bösartiges Lachen und der General rief von oben herab: "Was bildest du dir ein?! Für ZWEI berühmte Generäle ist kein Platz in diesem Reich! Ich werde nicht zulassen, dass IHR ruhmreich zum Kaiser zurückkehrt! Ich habe nicht umsonst jahrelang auf diese Gelegenheit gewartet und meine Leute sogar die Prinzessin entführen lassen, um den Verdacht auf die Sarazenen zu lenken! Nur so hat der Kaiser endlich einem Krieg zugestimmt! MIR allein gebührt der ganze Ruhm!"
+
+Wir glaubten unseren Ohren nicht zu trauen, aber als seine Männer begannen uns anzugreifen, wurde uns schlagartig einiges klar!
+</text>
+      </lang>
+    </block>
+    <block id="sarazenenfeindlich">
+      <lang code="CHN">
+        <text>
+我们进攻撒拉逊人时，其一使者出面喊话：
+
+"我等不欲与你们交战！缴下贡金，我等便再开一面之恩！"
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+When we attacked the Saracens, one of their negotiators approached. 
+
+"We don't wish to war with you! Pay tribute and we'll be lenient!"
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Als wir die Sarazenen angriffen, meldete sich einer ihrer Unterhändler: 
+
+"Wir wünschen keinen Krieg mit euch! Zahlt Tribut und wir lassen noch einmal Gnade vor Recht ergehen!"
+</text>
+      </lang>
+    </block>
+    <block id="sarazenenfriedlich">
+      <lang code="CHN">
+        <text>
+我部撞上撒拉逊人的一支先遣队。宿敌终于现身！
+
+可令我等惊愕的是，他们并未进攻，反以我们的语言高声说道：
+
+"我撒拉逊人与你们维京人向来无怨，日后也不欲结仇！但若你等来犯，我等必灭之！"
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Our people encountered an advance division of the Saracens. The enemy was in sight! 
+
+But we were amazed when they didn't attack, and called us in our own language, 
+
+"We Saracens have never had any trouble with you Vikings and don't want any in the future either! But we will destroy you if you attack us!" 
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Unsere Leute stießen auf eine Vorausabteilung der Sarazenen. Da war er endlich, der Feind! 
+
+Doch wie erstaunt waren wir, als sie nicht angriffen und uns stattdessen in unserer eigenen Sprache anriefen: 
+
+"Wir Sarazenen hatten bisher noch keinen Streit mit euch Wikingern und wollen auch in Zukunft keinen! Aber wir werden euch vernichten, wenn ihr uns angreift!" 
+</text>
+      </lang>
+    </block>
+    <block id="sarazenentot">
+      <lang code="CHN">
+        <text>
+我们击败撒拉逊人，凯旋般开赴拜占庭驻军。可等待我们的又是何等惊诧！
+
+将军失态地迎上前来："你这贪慕虚名的蠢材！你竟单枪匹马灭了敌军！！你怎敢！
+你以为你是谁？！这帝国容不下两位名将此并立！我绝不容你等荣耀归朝！我苦候此机数年，更令部众掳走公主以嫁祸撒拉逊人！唯如此皇帝方肯宣战！全部荣耀只归我一人！"
+
+我们不敢信自己的耳朵，可当其部众动手攻来，一切骤然明了！
+
+击败那背信的将军。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+We had defeated the Saracens, and returned to the Byzantine garrison in a triumphant procession. But there was a nasty surprise in store for us! 
+
+The General was utterly beside himself. "You're a fool craving for glory! You've made PEACE with our enemies!! How dare you! 
+Who do you think you are?! There is no room in this realm for TWO famous generals! I will not let YOU return to the Emperor in glory! I haven't waited for this chance for nothing, I didn't have the princess kidnapped to cast suspicion on the Saracens for nothing! It was the only way the Emperor would agree to wage war upon them! The glory is MINE!" 
+
+We could hardly believe our ears, but when his men started attacking us, we fully understood at once!
+
+
+Defeat the traitorous General.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Wir hatten die Sarazenen besiegt und im Triumphzug zogen wir zur byzantinischen Garnison. Doch welche Überraschung erwartete uns dort! 
+
+Völlig außer sich kam uns der General entgegen: "Du ruhmessüchtiger Narr! Du hast die Feinde im ALLEINGANG geschlagen!! Wie konntest du es wagen! 
+Was bildest du dir ein?! Für ZWEI berühmte Generäle ist kein Platz in diesem Reich! Ich werde nicht zulassen, dass IHR ruhmreich zum Kaiser zurückkehrt! Ich habe nicht umsonst jahrelang auf diese Gelegenheit gewartet und meine Leute sogar die Prinzessin entführen lassen, um den Verdacht auf die Sarazenen zu lenken! Denn nur so hat der Kaiser endlich einem Krieg zugestimmt! MIR allein gebührt der ganze Ruhm!" 
+
+Wir glaubten unseren Ohren nicht zu trauen, aber als seine Männer begannen, uns anzugreifen, wurde uns schlagartig einiges klar!
+
+
+Besiege den verräterischen General.
+</text>
+      </lang>
+    </block>
+    <block id="soldatenbereit">
+      <lang code="CHN">
+        <text>
+我们已将军备充实至满员，将军催逼我们尽早进攻撒拉逊人。
+
+我尚在犹豫：若将其击败，虽尽了本分、终得继续旅程！然入夜远方号角声起，撒拉逊人遣使来营：
+
+"见你等厉兵秣马欲战，然我两族素无嫌隙！我指挥官视你等为堂堂男儿，故邀你首领来我大营议和。若不敢来，尽管攻来，我等亦不惧你！"
+
+消灭撒拉逊人，或遣比雅尼东赴撒拉逊堡垒议和！
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+We had built up our army. The General urged us to attack the Saracens. 
+
+I hadn't made up my mind yet: If we defeated them, we would have fulfilled our duty and would be able to travel on! But in the evening a horn blew in the distance, and the Saracens sent negotiators to our camp. 
+
+"We see that you're preparing to wage war upon us, but our people have had no dispute so far! Our commander considers you to be honourable men, therefore he invites your leader to peace talks in our headquarters. If you dare not come, you may well attack us, because we are not afraid of you!"
+
+
+Destroy the Saracens or send Bjarni to the Saracens' stronghold in the east!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Wir hatten unsere Armee nun auf Sollstärke aufgebaut und der General drängte uns dazu, die Sarazenen endlich anzugreifen. 
+
+Ich war noch unschlüssig: Wenn wir sie besiegen würden, hatten wir zwar unsere Pflicht erfüllt und konnten unsere Reise endlich fortsetzen! Doch am Abend erklang aus der Ferne ein Hornsignal und die Sarazenen schickten Unterhändler in unser Lager: 
+
+"Wir sehen, dass ihr zum Krieg gegen uns rüstet, doch haben unsere Völker bisher keinen Streit gehabt! Unser Kommandant hält euch für einen Ehrenmann und fordert daher euren Anführer auf, zu Friedensgesprächen in unser Hauptquartier zu kommen. Riskiert ihr das nicht, so mögt ihr uns ruhig angreifen, denn dann fürchten wir euch nicht!"
+
+
+Vernichte die Sarazenen oder schicke Bjarni zu Friedensgesprächen in die Sarazenenfestung im Osten!
+</text>
+      </lang>
+    </block>
+    <block id="spielertot">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+当预言中的四位英雄之一西格德殒命，诺恩三女神的命运之线就此断裂。如今再无任何事物能阻挡世界蛇。
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+When Sigurd, one of the four heroes from the prophecy, died, the Norns' thread of fate was broken. Now nothing would be able to stop the Midgard serpent.
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Als Sigurd, einer der vier Helden der Prophezeiung, starb, zerriss der Schicksalsfaden der Nornen. Nun würde nichts mehr die Midgardschlange aufhalten können.
+</text>
+      </lang>
+    </block>
+    <block id="start_00">
+      <lang code="CHN">
+        <text>
+拜占庭的局势极度紧张！这个古老皇朝已濒临与撒拉逊人开战的边缘！
+
+皇帝起初力求和平解决，向对方提出一份或可换来此地持久和平的条约。然而此势在拜占庭内部亦非毫无争议，尤其将军哈德拉迪屡屡警示反对。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>                                                                                           
+The situation in Byzantium was more than tense. The ancient empire was facing the prospect of war with the Saracens! 
+
+The Emperor had tried for a long time to find a peaceful solution, and had offered to sign a contract with his rival that would have meant lasting peace for the region. It was a development that did not go undisputed, even in Byzantium. General Hardradi in particular had uttered constant warnings.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Die Lage in Byzanz war mehr als angespannt! Das alte Kaiserreich befand sich kurz vor einem Krieg mit den Sarazenen! 
+
+Der Kaiser hatte zunächst nach einer friedlichen Lösung gesucht und dem Gegner einen Vertrag angeboten, der zu einem dauerhaften Frieden in dieser Region hätte führen können. Eine Entwicklung, die auch in Byzanz nicht unumstritten war. Vor allem General Hardradi hatte immer wieder davor gewarnt.
+</text>
+      </lang>
+    </block>
+    <block id="start_01">
+      <lang code="CHN">
+        <text>
+如今，因我们挫败了其女被掳之图，皇帝的态度为之一变。他以瓦良格卫队新任统领之衔，将我们派往东部边境——将军哈德拉迪的驻军已数周没有音讯。
+
+寻找被围的驻军，施以援手。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>  
+Well, the attempted kidnapping of his daughter, which we had thankfully been able to avert, changed the Emperor's views. He sent us, his new main Waräger Guard, to the eastern border zone, from whence General Hardradi's garrison had sent no word for weeks now.
+
+
+Find the besieged garrison and support it.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>	
+Nun, durch die Entführung seiner Tochter, die wir hatten vereiteln können, änderte sich die Meinung des Kaisers. In unserer neuen Eigenschaft als Hauptleute der Warägergarde sandte er uns nun in das östliche Grenzgebiet, von wo sich die Garnison des Generals Hardradi seit Wochen nicht mehr gemeldet hatte.
+
+
+Suche die belagerte Garnison und leiste ihr Unterstützung.
+</text>
+      </lang>
+    </block>
+    <block id="tribut">
+      <lang code="CHN">
+        <text>
+我们刚缴过贡金，撒拉逊人便重与我们修好。
+
+他们终究不是如人所谤那般好战之族！不过——他们的宽宏也非无穷无尽，我等最好不要再相激惹。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+As soon as we had paid the tribute, the Saracens made peace with us again. 
+
+They were not such a violent people as we had been told after all! Nonetheless - their generosity was unlikely to be infinite. It would be safer not provoke them any more.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Kaum hatten wir den Tribut bezahlt, schlossen die Sarazenen wieder Frieden mit uns. 
+
+Sie waren also doch kein so kriegslüsternes Volk, wie man uns hatte weismachen wollen! Dennoch - auch ihr Großmut würde nicht unendlich groß sein. Wir sollten sie lieber nicht mehr reizen.
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="_campaign_04_05" export_map_id="_campaign_04_05" map_md5="3581f6416a79754c7a8ae4ce61966e81" IsC2M="false">
+  <languages>
+    <language code="GER" alias="GER" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="GER">@VERTREIBE DIE NAPALIANER ENDGÜLTIG!</text>
+    </string>
+    <string id="1">
+      <text lang="GER">Repariere dein Dorf!</text>
+    </string>
+    <string id="2">
+      <text lang="GER">Besuche erneut die Waldposten:</text>
+    </string>
+    <string id="3">
+      <text lang="GER">Suche den Posten der Waldtempelwächter auf.</text>
+    </string>
+    <string id="4">
+      <text lang="GER">Optional: Zahle den Waldtempelwächter 10 Pilze zum Tribut.</text>
+    </string>
+    <string id="5">
+      <text lang="GER">Besuche Prof. Wamugo</text>
+    </string>
+    <string id="6">
+      <text lang="GER">Gib Prof. Wamugo 15 kl. Heiltränke für die Tauben.</text>
+    </string>
+    <string id="7">
+      <text lang="GER">Suche den Posten der Kräutersammler auf.</text>
+    </string>
+    <string id="8">
+      <text lang="GER">Optional: Reiche den Posten der Kräutersammler 10 Münzen für Waffen.</text>
+    </string>
+    <string id="9">
+      <text lang="GER">Suche den Händlerposten auf.</text>
+    </string>
+    <string id="10">
+      <text lang="GER">Handele mit dem Händler 20 Waren.</text>
+    </string>
+    <string id="11">
+      <text lang="GER">Suche den Posten der Schulkinder im Palmenhain auf.</text>
+    </string>
+    <string id="12">
+      <text lang="GER">Beseitige die Giftwolke.</text>
+    </string>
+    <string id="13">
+      <text lang="GER">Finde 5 orangene Drachen, die dir erneut bei der Mission helfen.</text>
+    </string>
+    <string id="14">
+      <text lang="GER">Reiche den Kabalianern 25 Met zum Tribut, um sie wieder neutral zu stimmen.</text>
+    </string>
+    <string id="15">
+      <text lang="GER">Optional: Zahle den Waldtempelwächter 10 Pilze zum Tribut.</text>
+    </string>
+    <string id="34">
+      <text lang="GER">Optional: Zahle den Waldtempelwächter 10 Pilze zum Tribut.</text>
+    </string>
+    <string id="35">
+      <text lang="GER">Optional: Gib den Kräutersammlern 10 Münzen für Waffen und Rüstungen.</text>
+    </string>
+    <string id="36">
+      <text lang="GER">Reiche den Napalianern 50 große Heiltränke zum Tribut.</text>
+    </string>
+    <string id="50">
+      <text lang="GER">Bjarnis Stamm</text>
+    </string>
+    <string id="51">
+      <text lang="GER">Steindrachen</text>
+    </string>
+    <string id="52">
+      <text lang="GER">Feuerdrachen</text>
+    </string>
+    <string id="53">
+      <text lang="GER">Wasserdrachen</text>
+    </string>
+    <string id="54">
+      <text lang="GER">Wikinger</text>
+    </string>
+    <string id="55">
+      <text lang="GER">Waldposten</text>
+    </string>
+    <string id="56">
+      <text lang="GER">Napalianer</text>
+    </string>
+    <string id="58">
+      <text lang="GER">Erddrachen</text>
+    </string>
+    <string id="59">
+      <text lang="GER">Zauberdrachen</text>
+    </string>
+    <string id="61">
+      <text lang="GER">Gerols</text>
+    </string>
+    <string id="62">
+      <text lang="GER">Lumis</text>
+    </string>
+    <string id="63">
+      <text lang="GER">Aquas</text>
+    </string>
+    <string id="64">
+      <text lang="GER">Wikis</text>
+    </string>
+    <string id="65">
+      <text lang="GER">Waldp.</text>
+    </string>
+    <string id="66">
+      <text lang="GER">Napal.</text>
+    </string>
+    <string id="68">
+      <text lang="GER">Terras</text>
+    </string>
+    <string id="69">
+      <text lang="GER">Abras</text>
+    </string>
+    <string id="71">
+      <text lang="GER">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="GER">Cyra</text>
+    </string>
+    <string id="75">
+      <text lang="GER">Mani</text>
+    </string>
+    <string id="76">
+      <text lang="GER">Norbert</text>
+    </string>
+    <string id="77">
+      <text lang="GER">Prof. Wamugo</text>
+    </string>
+    <string id="98">
+      <text lang="GER">Um wieder die gewohnten Bahnen unseres Lebens aufzunehmen, beschlossen wir, zur Siedlungsstätte zurückzukehren. Sie war ja das eigentliche Ziel unserer Reise...</text>
+    </string>
+    <string id="99">
+      <text lang="GER">HEIMKEHR</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="GER">
+        <text> 
+Wir beschlossen zur Siedlungsstätte zurückzukehren, die das eigentliche Ziel unserer Reise war, um dort unser Leben wieder in gewohnten Bahnen aufzunehmen. Einiges würde sich wohl nach der Zeit, die wir nicht da waren, verändert haben.
+</text>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="GER">
+        <text>
+Doch was war das? Unser Dorf war zerstört. Wir waren unserem Stamm verpflichtet und mussten uns nun um den Aufbau des Dorfes kümmern. Gleichzeitig beschlossen wir einen Boten auszusenden, der andere Wikinger vor solchen Übergriffen warnen sollte. 
+
+Errichte dein Dorf schicke einen Boten zu den anderen Völkern. 
+</text>
+      </lang>
+    </block>
+    <block id="01">
+      <lang code="GER">
+        <text> 
+WALDPOSTEN 1 - DIE TEMPELWÄCHTER
+
+"Schön euch wieder zu sehen!" sprachen die Tempelwächter. 
+
+</text>
+        <usericon>1,201,69</usericon>
+        <text>
+
+"Ihr habt uns damals beigestanden. Nun ist euch unsere Hilfe sicher, nutzt unsere Kräuter und Tränke aus dem Lagerhaus!
+Gegen einen Tribut stellen wir euch auch gerne noch mehr her!" 
+...
+"Ihr sucht die orangenen Drachen? Die sind im Palmenhain und beschützen die Kinder."
+
+</text>
+        <usericon>2,13</usericon>
+      </lang>
+    </block>
+    <block id="02">
+      <lang code="GER">
+        <text> 
+TRIBUT AN TEMPELWÄCHTER BEZAHLT!
+
+"Diese frische Pilze ergeben fantastische Tränke. Hoffentlich werden sie euch munden! Wir produzieren auch gerne Nachschub, gegen einen Tribut, versteht sich..." 
+
+</text>
+        <usericon>1,201,69</usericon>
+      </lang>
+    </block>
+    <block id="03">
+      <lang code="GER">
+        <text> 
+POSTEN 2 - KRÄUTERSAMMLER
+
+"Damals habt ihr uns neues Werkzeug geliefert, als unser altes vom Rost zerfressen war. Mittlerweile haben wir eine eigene Werkzeugschmiede. Wir mussten uns gegen die Napalianer zur Wehr setzen, deshalb produzieren wir auch Waffen und Rüstungen."
+
+</text>
+        <usericon>1,358,90</usericon>
+        <text>
+
+"Verfügt über uns, wenn ihr wollt!"
+...
+"Ihr sucht die orangenen Drachen? Die sind im Palmenhain und beschützen die Kinder."
+
+</text>
+        <usericon>2,13</usericon>
+      </lang>
+    </block>
+    <block id="04">
+      <lang code="GER">
+        <text> 
+TRIBUT AN KRÄUTERSAMMLER BEZAHLT!
+
+"Der Posten, der ursprünglich aus Kräutersammlern bestand, stellte nun fantastische Waffen und Rüstungen her, die wir für unsere Zwecke dank der Tribute nutzen konnten. Als Bonus gaben sie uns sogar noch ein Katapult hinzu." 
+
+</text>
+        <usericon>1,350,120</usericon>
+      </lang>
+    </block>
+    <block id="05">
+      <lang code="GER">
+        <text> 
+BERGE DER GEROLS - DER STEINDRACHEN
+
+Einstmals gab es in diesem steinigen Gebirge alte weise Steindrachen, doch nun waren sie alle verschwunden... 
+
+</text>
+        <usericon>1,312,65</usericon>
+      </lang>
+    </block>
+    <block id="06">
+      <lang code="GER">
+        <text> 
+WIKINGERDORF
+
+"Es ist schlimmer geworden, seitdem ihr weg wart. Die Napalianer haben sich wieder weiter ausgebreitet. Selbst ihr kleinerer Stützpunkt im Westen ist nun von dieser Giftwolke umgeben."
+
+</text>
+        <usericon>1,365,345</usericon>
+        <text>
+
+"Wir stehen euch mit allem was uns zur Verfügung steht zur Seite!"
+</text>
+      </lang>
+    </block>
+    <block id="07">
+      <lang code="GER">
+        <text> 
+HÄNDLERPOSTEN
+
+"Ihr seid wieder da! Nun wird sicher alles wieder gut!" 
+
+</text>
+        <usericon>1,246,361</usericon>
+        <text> 
+
+"Durch die Übergriffe der Napalianer stecke ich leider wieder in einer Handelsflaute, aber wenn ihr mit mir Handel treibt, wird mein Freund euch wieder helfen, die Giftwolken um das Napalianerlager zu beseitigen."
+</text>
+      </lang>
+    </block>
+    <block id="08">
+      <lang code="GER">
+        <text> 
+WAREN MIT HÄNDLER GEHANDELT
+
+"Mein Geschäft boomt, dank eurer Hilfe! Auch ich werde euch zur gegebener Zeit mit meinem Hausdrachen helfen."
+
+</text>
+        <usericon>1,246,361</usericon>
+      </lang>
+    </block>
+    <block id="09">
+      <lang code="GER">
+        <text> 
+ORT DER FEUERDACHEN
+
+Einstmals war dies der Ort, an dem es viele Feuerdrachen gab. Doch nun waren sie alle verschwunden... 
+
+</text>
+        <usericon>1,152,345</usericon>
+      </lang>
+    </block>
+    <block id="10">
+      <lang code="GER">
+        <text> 
+PROF. WAMUGO
+
+"Geduldet euch meine Freunde, meine Tauben sind auf den Weg! Gut, dass ihr euch für die friedliche Lösung entschieden habt."
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="11">
+      <lang code="GER">
+        <text> 
+PROF. WAMUGO
+
+"Ich habe meinen Unterricht in den Palmenhain verlegt, denn der weite Weg ist für die Kinder in diesen gefährlichen Zeiten unzumutbar! Ich ahnte schon, dass die Napalianer keine Ruhe geben würden. Ich habe für eine friedliche Lösung an alle Drachen Briefe geschrieben, nur sind meine Brieftauben etwas malade. So möchte ich sie nur ungern auf die Reise schicken, denn wir wollen doch sicher sein, dass sie auch ankommen? Ihr versteht?"
+
+</text>
+        <usericon>2,7</usericon>
+        <text>
+
+Gib Prof. WAMUGO 15 kleine Heiltränke zum Tribut für seine Brieftauben, wenn du eine friedliche Lösung wünschst!
+</text>
+      </lang>
+    </block>
+    <block id="12">
+      <lang code="GER">
+        <text> 
+WALDDORFSCHULE DER WASSERDRACHEN
+
+</text>
+        <usericon>1,78,530</usericon>
+        <text>
+
+"Aufgrund der Umstände war Prof. Wamugo's Schule geschlossen!"
+</text>
+      </lang>
+    </block>
+    <block id="13">
+      <lang code="GER">
+        <text> 
+SCHULE AM PALMENHAIN
+
+"Ihr seid zurück! Unsere Kinder haben viel gelernt, denn Prof. Wamugo unterrichtet nun auch hier." 
+
+</text>
+        <usericon>1,376,559</usericon>
+        <text>
+
+Gehe zu Professor WAMUGO.
+</text>
+      </lang>
+    </block>
+    <block id="14">
+      <lang code="GER">
+        <text> 
+DER ALTE MANN
+
+</text>
+        <usericon>1,98,211</usericon>
+        <text>
+
+"Es ist schlimmer geworden mit den Napalianern...
+Nun umgibt diese Giftwolke beide Stützpunkte und die Hausdrachen der Waldposten schützen die Kinder im Palmenhain bis auf einen einzigen beim Händler."
+
+</text>
+        <usericon>2,13</usericon>
+      </lang>
+    </block>
+    <block id="15">
+      <lang code="GER">
+        <text> 
+ALLE ORANGENEN DRACHEN!
+
+Nun hatten wir die Posten der Waldhüter aufgesucht und die orangenen Drachen gegen die Giftwolke versammelt. 
+
+</text>
+        <usericon>2,13</usericon>
+        <text>
+
+Wir konnten nun gegen die Napalianer kriegerisch vorgehen oder Prof. Wamugo's Vorschlag der friedlichen Einigung annehmen! Die Wahl lag bei uns...
+</text>
+      </lang>
+    </block>
+    <block id="16">
+      <lang code="GER">
+        <text> 
+GIFTWOLKE BESEITIGT
+
+In Windeseile sammelten sich die Hausdrachen der Waldposten um die Giftwolke um die Stützpunkte der Napalianer zu neutralisieren!
+
+</text>
+        <usericon>1,372,261</usericon>
+        <text>
+
+Nun war der Weg frei und die Entscheidung lag bei uns...
+</text>
+      </lang>
+    </block>
+    <block id="17">
+      <lang code="GER">
+        <text> 
+DER ALTE MANN
+
+</text>
+        <usericon>1,252,502</usericon>
+        <text>
+
+"Die Wasserdrachen rüsten sich für den Ernstfall im Wassertempel. Sicherlich gibt euch der alte AQUAROM eine Armee von Wasserdrachen zum Geleit, wenn ihr es ernsthaft meint."
+</text>
+      </lang>
+    </block>
+    <block id="18">
+      <lang code="GER">
+        <text> 
+AQUAS - DIE WASSERDRACHEN
+
+"Es ist eine Schande, dass immer wieder Unruhestifter gibt. Dabei sind wir friedliebenden Drachen selten aus der Reserve zu locken..."
+
+</text>
+        <usericon>1,169,577</usericon>
+        <text>
+
+"...aber unter diesen Umständen bleibt uns nichts anderes übrig.
+Im Wasserdrachentempel rüsten wir uns gegen den Feind. Aber nur euer stärkster Held hat Zutritt zu ihm!"
+
+Gehe mit Bjarni zum Wasserdrachentempel, wenn du Verstärkung benötigst.
+</text>
+      </lang>
+    </block>
+    <block id="19">
+      <lang code="GER">
+        <text> 
+NAPALIANER
+
+"Keinen Schritt näher! Noch einmal werden wir uns nicht in die Irre führen lassen!"
+
+</text>
+        <usericon>1,23,295</usericon>
+        <text> 
+ 
+"Geht, oder wir sind gezwungen unsere Waffen zu gebrauchen!"
+</text>
+      </lang>
+    </block>
+    <block id="20">
+      <lang code="GER">
+        <text> 
+NAPALIANER
+
+"Ihr habt es so gewollt! Unsere Waffen werden euch vernichten. Zahlt den Tribut und wir werden unsere Haltung zu euch überdenken, aber nur, wenn ihr sofort unsere Stützpunkte verlasst!"
+
+Zahle den Tribut, um sie wieder neutral zu stimmen!
+</text>
+      </lang>
+    </block>
+    <block id="200">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="21">
+      <lang code="GER">
+        <text> 
+TRIBUT GELEISTET!
+
+"Nun werden wir unsere Haltung zu euch überdenken, aber wagt euch nicht wieder in unser Terrain!" riefen uns die Napalianer zu und änderten ihren Diplomatiestatus uns gegenüber.
+
+</text>
+        <usericon>1,581,291</usericon>
+      </lang>
+    </block>
+    <block id="22">
+      <lang code="GER">
+        <text> 
+NAPALIANER BESIEGT!
+
+Zwar waren die Napalianer geschlagen, doch war nicht auch eine friedliche Einigung möglich gewesen? 
+
+</text>
+        <usericon>1,373,262</usericon>
+      </lang>
+    </block>
+    <block id="23">
+      <lang code="GER">
+        <text> 
+ALLE DRACHEN VERSAMMELT!
+
+Es war unglaublich! Aus alle Himmelsrichtungen strömten unsere alten Freunde die Drachen herbei, um uns zu helfen!
+
+</text>
+        <usericon>1,361,269</usericon>
+        <text> 
+
+Unter ihnen auch Norbert. 
+
+</text>
+        <usericon>2,6</usericon>
+        <text> 
+
+WAMUGO hatte Wort gehalten!
+</text>
+      </lang>
+    </block>
+    <block id="24">
+      <lang code="GER">
+        <text> 
+HILFE DURCH DIE DRACHEN!
+
+Es war unglaublich! Aus alle Himmelsrichtungen strömten unsere alten Freunde die Drachen herbei, um uns zu helfen!
+
+</text>
+        <usericon>1,319,120</usericon>
+        <text> 
+
+Nun konnten wir gemeinsam gegen die Napalianer vorgehen!
+</text>
+      </lang>
+    </block>
+    <block id="25">
+      <lang code="GER" />
+    </block>
+    <block id="500">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="GER">
+        <text> 
+Dank unserer Freunde war es uns gelungen, die Napalianer endgültig aus diesen Landstrichen zu vertreiben und ihnen ihre Boshaftigkeiten abzugewöhnen. Niemals wieder sollten sie anderen Menschen noch Drachen Leid zufügen. Dies war das Versprechen, das wir uns gaben.  
+</text>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="GER">
+        <text>
+Die schönste Freude jedoch war es Norbert wieder in die Arme zu schießen. Der kleine Drache war gewachsen und hatte bereits viel von den anderen Erddrachen gelernt und seine ganz eigenen Erfahrungen gemacht. Trotzdem war es, als wäre er nie von uns gegangen. Er und die anderen Drachen waren uns so vertraut und fortan sollten die Menschen und Drachen allerorts in Frieden leben... 
+</text>
+      </lang>
+    </block>
+    <block id="50_endheader">
+      <lang code="GER">
+        <text> 
+KAMPAGNE GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="600">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="GER">
+        <text> 
+HEIMKEHR
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

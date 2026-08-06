@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_03_01_sub" export_map_id="campaign_03_01_sub" map_md5="be676653b10a952d7efab87f3b04ab0e" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">@寻得圣火！</text>
+      <text lang="ger">@SUCHE DAS HEILIGE FEUER!</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">设法打开闸门！</text>
+      <text lang="ger">Finde eine Möglichkeit das Tor zu öffnen!</text>
+    </string>
+    <string id="56">
+      <text lang="CHN">山地部族矿工</text>
+      <text lang="ger">Bergvolkarbeiter</text>
+    </string>
+    <string id="57">
+      <text lang="CHN">守卫</text>
+      <text lang="ger">Wachen</text>
+    </string>
+    <string id="66">
+      <text lang="CHN">工人</text>
+      <text lang="ger">Arbeiter</text>
+    </string>
+    <string id="67">
+      <text lang="CHN">守卫</text>
+      <text lang="ger">Wachen</text>
+    </string>
+    <string id="71">
+      <text lang="CHN">比雅尼</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="CHN">希拉</text>
+      <text lang="ger">Cyra</text>
+    </string>
+    <string id="73">
+      <text lang="CHN">哈奇</text>
+      <text lang="ger">Hatschi</text>
+    </string>
+    <string id="74">
+      <text lang="CHN">西格德</text>
+      <text lang="ger">Sigurd</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">圣火</text>
+      <text lang="ger">DAS HEILIGE FEUER</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="CHN">
+        <text>
+矿井深处，沙漠那无情的炎热几乎感受不到了。
+        </text>
+        <text>
+霉腐的气味钻进我们的肺里，附近传来矿工们响亮的锤击声。他们到底把圣火藏在了哪里？
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Tief unten im Bergstollen war von der unbarmherzigen Hitze der Wüste kaum etwas zu spüren.
+
+</text>
+        <usericon>1,38,49</usericon>
+        <text>
+
+Modriger Geruch durchdrang unsere Lungen und aus der nahen Umgebung hörten wir den schallenden Hammerschlag der Bergarbeiter. Wo nur mochten sie das heilige Feuer aufbewahren?
+</text>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="CHN">
+        <text>
+
+
+寻找圣火。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Suche das Heilige Feuer.
+</text>
+      </lang>
+    </block>
+    <block id="01">
+      <lang code="CHN">
+        <text>
+
+
+山地部族
+
+“喂，你们这些人！是谁准许你们进入我们的矿场的？”
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+BERGVOLK
+
+"Hey, ihr da! Wer hat euch den Zutritt in unsere Bergwerke gestattet?"
+</text>
+      </lang>
+    </block>
+    <block id="02">
+      <lang code="CHN">
+        <text>
+
+
+矿工
+
+“别伤害我们！我们只是在这里干自己的活儿，矿场上头发生了什么，我们几乎一无所知！”
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+ARBEITER
+
+"Tut uns nichts! Wir gehen hier doch nur unserer Arbeit nach und wissen kaum, was oberhalb des Bergwerkes geschieht!" 
+
+</text>
+        <usericon>1,23,62</usericon>
+      </lang>
+    </block>
+    <block id="03">
+      <lang code="CHN">
+        <text>
+
+
+你还无法通过这道大门！
+        
+        </text>
+        <text>
+
+想办法把大门打开！
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Der Zugang zu dem Tor ist dir noch verwehrt!
+
+</text>
+        <usericon>1,121,52</usericon>
+        <text>
+
+Finde eine Möglichkeit, das Tor zu öffnen!
+</text>
+      </lang>
+    </block>
+    <block id="04">
+      <lang code="CHN">
+        <text>
+
+
+你的维京人现在可以通过这道大门了！但要提防躲在门后守护圣火的卫兵！
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Deine Wikinger dürfen das Tor nun passieren! Doch hüte dich vor den Wächtern des heiligen Feuers, die sich hinter dem Tor verbergen!
+
+</text>
+        <usericon>1,121,52</usericon>
+      </lang>
+    </block>
+    <block id="05">
+      <lang code="CHN">
+        <text>
+
+
+生命能量
+
+一股奇异的魔力笼罩着这个地方……
+        
+        </text>
+        <text>
+
+我们所有的战士都感到脱胎换骨、焕然一新！
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+LEBENSENERGIE
+
+Eine seltsame Magie umgab diesen Ort... 
+
+</text>
+        <usericon>1,96,77</usericon>
+        <text>
+
+All unsere Männer fühlten sich wie neu geboren!
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+是英勇还是鲁莽？当比雅尼倒下时，众神为之落泪……失去这位英雄，你将无缘见到任务的结局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="200">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+一时的疏忽，人生便会急转直下！你的女英雄希拉因你的大意而丧命！失去这位英雄，你将无缘见到任务的结局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="300">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+一时的疏忽，人生便会急转直下！你的挚友与英雄哈奇因你的大意而丧命！失去这位英雄，你将无缘见到任务的结局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held HATSCHI erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
+</text>
+      </lang>
+    </block>
+    <block id="400">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+一时的疏忽，人生便会急转直下！你的挚友与英雄西格德因你的大意而丧命！失去这位英雄，你将无缘见到任务的结局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held SIGURD erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="CHN">
+        <text>
+
+
+我们终于夺回了法罗斯灯塔所需的圣火。撒拉逊山地部族可没让我们轻易得手。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Endlich hatten wir das Feuer für den Leuchtturm von Pharos zurückerobert. Das Sarazenenbergvolk hatte uns dieses Unterfangen nicht gerade leicht gemacht.
+
+</text>
+        <usericon>1,137,14</usericon>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="CHN" />
+      <lang code="ger" />
+    </block>
+    <block id="50_endheader">
+      <lang code="CHN">
+        <text>
+
+
+任务成功！
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+MISSION GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+
+
+圣火
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DAS HEILIGE FEUER
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

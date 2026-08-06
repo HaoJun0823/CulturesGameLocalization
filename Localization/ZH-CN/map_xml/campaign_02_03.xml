@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_02_03" export_map_id="campaign_02_03" map_md5="ae51e888e8005c8ccdbb1a161cf0613d" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">建立你的村庄！</text>
+      <text lang="ger">Baue dein Dorf auf!</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">制作糕点，并通过贡金送往西格德处！</text>
+      <text lang="ger">Produziere Kuchen und schicke ihn an Sigurd per Tribut!</text>
+    </string>
+    <string id="2">
+      <text lang="CHN">与全部四位英雄一同抵达西格德处！</text>
+      <text lang="ger">Gelange mit ALLEN vier Helden zu Sigurd!</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">设法消灭群狼，或将它们引开！</text>
+      <text lang="ger">Versuche, die Wölfe zu vernichten, oder sie wegzulocken!</text>
+    </string>
+    <string id="4">
+      <text lang="CHN">通过贡金向饲喂点填入 50 单位食物，或交易 20 单位食物！</text>
+      <text lang="ger">Fülle die Futterstelle mit 50 Nahrung über Tribut oder handele 20 Nahrung!</text>
+    </string>
+    <string id="5">
+      <text lang="CHN">为西格德寻一件合适的贺礼。</text>
+      <text lang="ger">Finde ein geeignetes Gastgeschenk für Sigurd.</text>
+    </string>
+    <string id="6">
+      <text lang="CHN">此刻遣送你全部英雄前往西格德处！</text>
+      <text lang="ger">Schicke nun ALLE deine Helden zu Sigurd!</text>
+    </string>
+    <string id="31">
+      <text lang="CHN">通过贡金向饲喂点填入 50 单位食物，或交易 20 单位食物！</text>
+      <text lang="ger">Fülle die Futterstelle mit 50 Nahrung über Tribut oder handele 20 Nahrung!</text>
+    </string>
+    <string id="32">
+      <text lang="CHN">对抗群狼可需军事支援？那就缴纳：</text>
+      <text lang="ger">Brauchst du militärische Unterstützung im Kampf gegen die Wölfe? Dann zahle:</text>
+    </string>
+    <string id="33">
+      <text lang="CHN">向西格德缴纳 17 份糕点作为贺礼贡金。</text>
+      <text lang="ger">Reiche Sigurd 17 Kuchen als Gastgeschenk zum Tribut.</text>
+    </string>
+    <string id="34">
+      <text lang="CHN">若要与法兰克人的港口小镇贸易，须缴纳：</text>
+      <text lang="ger">Wenn du mit dem fränkischen Hafenstädtchen Handel treiben willst, zahle:</text>
+    </string>
+    <string id="50">
+      <text lang="CHN">比雅尼的部族</text>
+      <text lang="ger">Bjarnis Stamm</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">猎人</text>
+      <text lang="ger">Jäger</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">拜占庭人</text>
+      <text lang="ger">Byzantiner</text>
+    </string>
+    <string id="53">
+      <text lang="CHN">西格德的要塞</text>
+      <text lang="ger">Sigurds Festung</text>
+    </string>
+    <string id="54">
+      <text lang="CHN">港口小镇</text>
+      <text lang="ger">Hafenstädtchen</text>
+    </string>
+    <string id="55">
+      <text lang="CHN">西格德</text>
+      <text lang="ger">Sigurd</text>
+    </string>
+    <string id="56">
+      <text lang="CHN">小镇</text>
+      <text lang="ger">Städtchen</text>
+    </string>
+    <string id="71">
+      <text lang="CHN">比雅尼</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="CHN">希拉</text>
+      <text lang="ger">Cyra</text>
+    </string>
+    <string id="73">
+      <text lang="CHN">哈奇</text>
+      <text lang="ger">Hatschi</text>
+    </string>
+    <string id="74">
+      <text lang="CHN">西格德</text>
+      <text lang="ger">Sigurd</text>
+    </string>
+    <string id="75">
+      <text lang="CHN">伊科尔</text>
+      <text lang="ger">Ykol</text>
+    </string>
+    <string id="98">
+      <text lang="CHN">赴格陵兰途中，我们本欲邀旧友西格德参加我们的婚礼。然而野狼群正围困着他的堡垒……</text>
+      <text lang="ger">Auf dem Weg nach Grönland wollten wir unseren alten Freund Sigurd zu unserer Hochzeit einladen. Doch wilde Wolfsrudel belagerten seine Feste...</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">故友</text>
+      <text lang="ger">ALTE FREUNDE</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="CHN">
+        <text>
+眼前出现了欧洲林木葱郁的海岸——那是强悍国王与诸多著名英雄的国度，比如我们的老友西格德。在遥远的北方，他的城堡拔地而起，距此处不过数日路程。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Vor uns tauchte die bewaldete Küste Europas auf, das Land mächtiger Könige und vieler berühmter Helden - wie unserem alten Freund Sigurd. Weit im Norden erhob sich seine Feste, einige Tagesmärsche von hier entfernt.
+</text>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="CHN">
+        <text>
+密林之间，一望无际的青翠草地与肥沃田野引人驻足。我们须在此寻找合适的营地，因为西格德在城堡接待我们之前，我们还想先备一份像样的见面礼。
+
+探索周边，为你的维京人解决粮食，并为西格德备好见面礼。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Zwischen dichten Wäldern lagen einladend grüne Wiesen und fruchtbare Felder soweit das Auge reichte. Hier mussten wir uns nun einen geeigneten Lagerplatz suchen, denn bevor uns Sigurd auf seiner Burg empfing, wollten wir noch ein geeignetes Gastgeschenk finden.  
+
+Erkunde die Gegend, kümmere dich um Nahrung für deine Wikinger und um ein Gastgeschenk für Sigurd. 
+</text>
+      </lang>
+    </block>
+    <block id="01_Sigurd">
+      <lang code="CHN">
+        <text>
+西格德
+
+我们刚把见面礼送往西格德处，便收到了他的口信：
+“数周来，我的城堡一直遭野狼群威胁！它们饿红了眼，成群结队，连小村镇也敢袭击。我本想在此接待你们，却怕那路途太过凶险，我的朋友们！”
+
+想办法将周边的狼引开，或减少其数量，好让你全部英雄都能抵达西格德面前！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+SIGURD
+
+Kaum übersandten wir das Gastgeschenk an Sigurd, erreichte uns seine Nachricht: 
+"Meine Feste wird seit Wochen von wilden Wolfsrudeln bedroht! Diese sind so ausgehungert, das sie sich in Rudeln versammeln und selbst kleinere Ortschaften angreifen. Gerne würde ich euch hier empfangen, aber ich befürchte, der Weg ist viel zu gefährlich, meine Freunde!" 
+
+Finde einen Weg, die Wölfe der Umgebung wegzulocken, oder deren Anzahl zu minimieren, um mit allen deinen Helden zu Sigurd zu gelangen!
+</text>
+      </lang>
+    </block>
+    <block id="02_wölfe">
+      <lang code="CHN">
+        <text>
+当野狼群初次袭击我们时，我们察觉此地的狼格外凶暴，数量也多得惊人。
+
+后来才看清，野狼群封锁了通往西格德城堡的所有道路。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Als uns ein wildes Wolfsrudel das erste Mal attackierte, fiel uns auf, dass in diesem Landstrich die Wölfe besonders aggressiv waren und in rauen Mengen vorkamen.
+ 
+Später erkannten wir, dass die wilden Wolfsrudel alle Wege zu Sigurds Feste belagerten. 
+</text>
+      </lang>
+    </block>
+    <block id="03_Jäger1">
+      <lang code="CHN">
+        <text>
+猎人
+
+“你们可听说过那些狼群，还是已经撞上了？”这位猎人朝我们喊道。“西边山岩的谷地里有一处投喂点。若喂足鲜肉，或许就能把狼诱入埋伏！”他建议道。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+JÄGER
+
+"Habt ihr auch von den Wolfsrudeln gehört, oder seit ihr ihnen gar schon begegnet?" rief uns dieser Jägersmann zu. 
+"In der Talsenke im Massiv, westlich von hier, ist eine Futterstelle. Wenn man die mit genügend Frischfutter versorgt, kann man die Wölfe so vielleicht in einen Hinterhalt locken!" riet er uns.
+</text>
+      </lang>
+    </block>
+    <block id="04_Jäger2">
+      <lang code="CHN">
+        <text>
+猎人
+
+“唉，这些野兽！简直连一步门都不敢出！”这位勇敢的猎人对我们说。
+“若把这些投喂点填满食物，狼或许会被气味引来。藏好的陷阱坑自会收拾它们！可我一人绝办不到！”
+
+协助猎人，将投喂点填满食物！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+JÄGER
+
+"Oh, diese wilden Bestien! Man kann sich kaum noch einen Schritt aus dem Haus wagen!" sprach uns dieser tapfere Jäger an. 
+"Wenn man diese Futterstellen hier mit genügend Nahrung füllt, könnten die Wölfe vielleicht von dem Geruch angelockt werden. Die versteckten Bodengruben tun dann ihr Übriges! Aber alleine schaff ich das nie!" 
+
+Hilf dem Jäger, die Futterstellen mit Nahrung zu füllen!
+</text>
+      </lang>
+    </block>
+    <block id="05_player_2_seen_byzantine">
+      <lang code="CHN">
+        <text>
+当我们抵达拜占庭村庄，受到了热情接待。
+
+我们随时都受欢迎——他们传话道，并立刻向我们提出了优厚的贸易契约与纳贡提议。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Als wir auf das byzantinische Dorf trafen, wurden wir freundlich empfangen. 
+
+Wir wären jederzeit wieder willkommen, ließ man uns wissen, und man bot uns sofort günstige Handelsverträge und Tributvorschläge an.
+</text>
+      </lang>
+    </block>
+    <block id="06_player_3_burg">
+      <lang code="CHN">
+        <text>
+一名侦察兵先行前往西格德的城堡。当他空手站在堡前，希拉将我拉到一旁说：“比雅尼，我们不该空手去见西格德！那太失礼了。咱们给他烤些蛋糕吧。”
+既然自家女眷的话向来有理，我们便照做了……
+
+为西格德烤制美味蛋糕，并通过贡品送达。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Einer unserer Kundschafter ging voraus zu Sigurds Feste. Als er mit leeren Händen vor Sigurds Burg stand, zog mich Cyra zur Seite und sagte: "Bjarni, wir sollten nicht ohne ein Gastgeschenk bei Sigurd erscheinen! Das wäre sehr unhöflich. Lass uns für ihn Kuchen backen." 
+Und da unsere Frauen eigentlich ja immer Recht haben, wollten wir dies auch tun...
+
+Backe leckeren Kuchen für Sigurd und liefere ihn per Tribut.
+</text>
+      </lang>
+    </block>
+    <block id="07_player_4_seen_franks">
+      <lang code="CHN">
+        <text>
+港口小镇
+
+西向一处宜人的海岸边，座落着法兰克人的小港口。缴纳少许贡品，我们或许能将这些朴实的百姓变为贸易伙伴。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DAS HAFENSTÄDTCHEN
+
+An einer einladenden Küste in westlicher Richtung lag ein kleines fränkisches Hafenstädtchen. Über einen geringen Tribut konnten wir diese einfachen Leute vielleicht als Handelspartner gewinnen.
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+是英勇，还是鲁莽？比雅尼死时，诸神也为之落泪……少了这位英雄，你便无从知晓任务的结局。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="10_wölfe_send">
+      <lang code="CHN">
+        <text>
+陷阱
+
+当投喂点积足饲料，四面八方传来诡异的嗥叫与嘶吼……
+
+周边狼群成群涌向投喂点，正贪婪扑食时，陷阱啪地合拢！
+片刻之后，狼群困入陷阱坑，通往西格德城堡的道路通畅。猎人的计划奏效了！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DIE FALLE
+
+Als sich genug Futter in der Futterstelle befand, hörten wir ein unheimliches Jaulen und Fauchen aus allen Richtungen...
+
+Die Wölfe der Umgebung zogen in Rudeln zur Futterstelle, und als sie sich gierig über das Futter hermachten, schnappte die Falle zu! 
+Einen Moment später waren die Wölfe in den Bodengruben gefangen und die Wege zu Sigurds Burg frei. Der Plan der Jäger hatte funktioniert!     
+</text>
+      </lang>
+    </block>
+    <block id="11_söldner">
+      <lang code="CHN">
+        <text>
+友善的拜占庭人派来雇佣兵，在投喂点等候我们。他们最勇敢的铁矛兵与短剑士如今随我们出征！
+若我们需要，他们愿提供更多增援。
+
+若你的维京人需要，请向拜占庭人缴纳所索贡品，换取更多雇佣兵。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Die freundlichen Byzantiner stellten uns Söldner zur Verfügung, die an der Futterstelle auf uns warteten. Ihre tapfersten Eisenspeerträger und Kurzschwertkämpfer zogen nun mit uns! 
+Sie boten uns noch mehr Verstärkung an, sollten wir ihre Hilfe benötigen. 
+
+Zahle den Byzantinern den geforderten Tribut für weitere Söldner, sofern deine Wikinger sie benötigen.
+</text>
+      </lang>
+    </block>
+    <block id="12_hero_siggi">
+      <lang code="CHN">
+        <text>
+西格德
+
+“见到你们真好！我看，你们还结识了新同伴！”西格德说道。“朋友们，你们可知——我这城堡里的日子，如今有些乏味了。我打算加入你们，重回你们身侧并肩作战！”
+听到老战友这番话，我们欢欣雀跃！我们的伙伴终于再次聚首，一如往昔岁月……
+
+西格德继续道：“正如你们所见，狼患令举国不安。我的子民几乎不敢踏出城堡围墙，而我能调遣抗狼的部下也寥寥无几。你们可否助我将狼驱离这片土地？合力之下，必能轻松达成！”
+这算什么问题——我们岂会拒绝朋友的恳求……
+
+协助西格德驱赶狼群！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+SIGURD
+
+"Es tut gut, euch wiederzusehen! Und wie ich sehe, habt ihr einen neuen Gefährten gefunden!" sprach Sigurd. "Wisst ihr, Freunde - mir ist das Hofleben hier inzwischen etwas öde geworden. Ich habe vor, mich euch anzuschließen und wieder an eurer Seite kämpfen!"
+Diese Nachricht unseres alten Kampfgefährten vernahmen wir mit großem Jubel und großer Freude! Endlich war unsere Gemeinschaft wieder vereint. So wie damals, in alten Zeiten...
+
+Sigurd fuhr fort: "Wie ihr bemerkt habt, herrscht überall im Land Unruhe wegen der Wolfsplage. Mein Volk traut sich kaum noch vor die Mauern dieser Feste und mir stehen nur wenige Männer zur Verfügung, mit denen ich gegen diese Rudel ausziehen kann. Wollt ihr mir nicht helfen, die Wölfe aus dem Land zu treiben? Gemeinsam werden wir das problemlos schaffen!"
+Welch eine Frage - als würden wir die Bitte eines Freundes ausschlagen...
+
+
+Hilf Sigurd, die Wölfe zu vertreiben!
+</text>
+      </lang>
+    </block>
+    <block id="13">
+      <lang code="CHN">
+        <text>
+当我们的维京人摧毁了港口小镇，也断送了本可与之贸易的珍贵货物……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Als unsere Wikinger das Hafenstädtchen zerstörten, betrogen wir uns selbst um die wertvollen Waren, die man uns zum Handel angeboten hätte...
+</text>
+      </lang>
+    </block>
+    <block id="14">
+      <lang code="CHN">
+        <text>
+摧毁拜占庭要塞，并未给维京人带来半点好处……我们究竟为何要与拜占庭人开战？
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Die Zerstörung der Byzantinerfestung hatte uns Wikingern wohl keinen Vorteil gebracht... Warum eigentlich hatten wir den Krieg mit den Byzantinern gesucht?
+</text>
+      </lang>
+    </block>
+    <block id="200">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命中片刻的鲁莽，转瞬即至！你的女英雄希拉因你的疏忽而殒命！少了这位女英雄，你便无从知晓任务的结局。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin Cyra erlag durch deine Unachtsamkeit! Ohne diese Heldin wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="300">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命中片刻的鲁莽，转瞬即至！你的朋友与英雄哈奇因你的疏忽而殒命！少了这位英雄，你便无从知晓任务的结局。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Hatschi erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
+</text>
+      </lang>
+    </block>
+    <block id="400">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命中片刻的鲁莽，转瞬即至！你的朋友与英雄西格德因你的疏忽而殒命！少了这位英雄，你便无从知晓任务的结局。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Sigurd erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="500">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+生命中片刻的鲁莽，转瞬即至！伊科尔因你的疏忽而殒命！少了这位英雄，你便无从知晓任务的结局。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Ykol erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="CHN">
+        <text>
+我们终于抵达西格德的城堡，击退了狼群。西格德为重逢欣喜，为此举办盛大庆典。这个夜晚，自对抗世界蛇的惨烈一役后（见《Cultures 2 - 阿斯加德之门》），朋友们首次再度聚首。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Endlich hatten wir die Burg Sigurds erreicht und die Wölfe zurückgedrängt. Sigurd freute sich über das Wiedersehen, und um es zu besiegeln gab es eine große Feier. An diesem Abend waren wir Freunde erstmals wieder geeint nach dem schrecklichen Kampf gegen die Midgardschlange (siehe "Cultures 2 - Die Tore Asgards"). 
+</text>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="CHN">
+        <text>
+西格德讲述狼群的威胁，说它们数周来已让此地不得安宁。当他吐出下面一番话，维京人群中响起一片哗然：
+
+“有传言称，恐怖的芬里尔狼——所有狼形恶魔中最危险者——已挣脱魔法锁链，将狼患带向这片土地……”
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Sigurd erzählte von der Bedrohung durch die Wölfe und dass sie in diesem Gebiet schon seit Wochen die Gegend unsicher machen. Als er die folgenden Worte sprach, ging ein Raunen durch die Reihen der Wikinger: 
+
+"Es wird gemunkelt, der schreckliche Fenriswolf selbst, der gefährlichste aller Dämonen in Wolfsgestalt, habe sich von seiner magischen Kette gerissen und die Wolfsplage über das Land gebracht..." 
+</text>
+      </lang>
+    </block>
+    <block id="50_endheader">
+      <lang code="CHN">
+        <text>
+
+任务成功！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+
+MISSION GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="8_handel_player_4">
+      <lang code="CHN">
+        <text>
+我们向港口小镇缴纳少许贡品后，对方传话：我们随时都受欢迎。此外还向我们提出了优厚的贸易契约。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Nachdem wir dem Hafenstädtchen den geringen Tribut überbrachten, ließ man uns wissen, dass wir jederzeit willkommen wären. Außerdem bot man uns günstige Handelsverträge an. 
+</text>
+      </lang>
+    </block>
+    <block id="9_lost">
+      <lang code="CHN">
+        <text>
+任务失败！
+
+哎呀！整个民族都覆灭了！你的维京人未能顺利完成此任务……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+MISSION VERLOREN!
+
+Oh je! Ein ganzes Volk ging zugrunde! Deinen Wikingern ist es nicht gelungen, diese Mission erfolgreich zu bestehen...     
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+
+老友
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+ALTE FREUNDE
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

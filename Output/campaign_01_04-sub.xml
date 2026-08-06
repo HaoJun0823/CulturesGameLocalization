@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_01_04-sub" export_map_id="campaign_01_04-sub" map_md5="0a8fa1bf67556fd55b1c8916f3d3d984" IsC2M="false">
+  <languages>
+    <language code="GER" alias="GER" encoding="windows-1252" fix_1251="false" />
+    <language code="ENG" alias="ENG" encoding="windows-1252" fix_1251="false" />
+    <language code="POL" alias="POL" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="GER">Töte das grauenhafte Monster, doch hüte dich vor den Wölfen!</text>
+      <text lang="ENG">Kill the dreadful monster, but beware of the wolves!</text>
+      <text lang="POL">Zabij strasznego potwora, ale strze¿ siê wilków!</text>
+    </string>
+    <string id="99">
+      <text lang="GER">ITALIEN - Sub</text>
+      <text lang="ENG">ITALY - Sub</text>
+      <text lang="POL">ITALIA - zadanie dodatkowe</text>
+    </string>
+    <string id="101">
+      <text lang="GER">Bjarni</text>
+      <text lang="ENG">Bjarni</text>
+      <text lang="POL">Bjarni</text>
+    </string>
+    <string id="102">
+      <text lang="GER">Sigurd</text>
+      <text lang="ENG">Sigurd</text>
+      <text lang="POL">Sigurd</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="bjarnitot">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ihr Ende war besiegelt und mit ihnen das Ende der Welt der Menschen.
+</text>
+      </lang>
+      <lang code="ENG">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When Bjarni died the gods were crying ... their fate was sealed and with it the end of the human world.
+</text>
+      </lang>
+      <lang code="POL">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroizm czy g³upota? Bjarni zgin¹³, a bogowie p³acz¹... Ich los jest ju¿ przes¹dzony - tak samo jak zniszczenie œwiata ludzi.
+</text>
+      </lang>
+    </block>
+    <block id="bonisonstig">
+      <lang code="GER">
+        <text>
+Wir hatten ein unscheinbares Amulett mit seltsamen Zeichen darauf gefunden. Ein seltsamer Schimmer ging davon aus. 
+
+Das musste hohe Magie sein!
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+We had found a nondescript amulet bearing a mysterious inscription and emitting a curious glow. 
+
+It must be possessed of great magic!
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+ZnaleŸliœmy trudny do opisania, emanuj¹cy jak¹œ energi¹ amulet z dziwn¹ inskrypcj¹.
+
+Z pewnoœci¹ posiada olbrzymi¹ moc magiczn¹!
+</text>
+      </lang>
+    </block>
+    <block id="bonitrank">
+      <lang code="GER">
+        <text>
+Eine seltsame Flasche mit einem übelriechenden Trank war uns in die Hände gefallen. 
+
+Es konnte sich nur um einen magischen Trank handeln!
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+A strange flask filled with a foul-smelling potion had fallen into our hands. 
+
+It had to be a magic potion!
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Wpad³a nam w rêce dziwna flasza wype³niona straszliwie œmierdz¹cym p³ynem.
+
+To z pewnoœci¹ jakaœ magiczna mikstura!
+</text>
+      </lang>
+    </block>
+    <block id="boniwaffe">
+      <lang code="GER">
+        <text>
+Wir hatten eine der magischen Waffen gefunden, von denn unsere Sagen erzählten. Richtig eingesetzt, konnte sie uns im Kampf von großem Nutzen sein.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+We had found one of the magic weapons our sagas mentioned. Used correctly, it would be of great use to us in battle.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Natknêliœmy siê na jedn¹ z magicznych broni opisywanych w naszych sagach. Jeœli w³aœciwie j¹ wykorzystamy, to mo¿e nam ogromnie u³atwiæ prowadzenie wojen...
+</text>
+      </lang>
+    </block>
+    <block id="frankenheld">
+      <lang code="GER">
+        <text>
+Als ich hinuntergeklettert war in den Schlund der Tiefe, fand ich schnell den Ursprung der Geräusche! Nahe dem Eingang kauerte ein schwer bewaffneter Hüne, dem die Furcht ins Gesicht geschrieben stand. 
+
+Mit zittriger Stimme warnte er mich: "Tief im Inneren der Höhle herrscht ein böses, furchtbares Monster, das Schrecklichste, das ich in meiner Laufbahn als Drachentöter je gesehen habe! Es ist so abscheulich und gar grässlich anzusehen, dass jeder der es erblickt, vor Grauen erstarrt!" 
+
+Obwohl ihm die Zähne klapperten vor Angst, bestand er darauf mich zu begleiten, als ich meinen Weg beunruhigt fortsetzte...
+
+
+Suche das Monster im Labyrinth und stelle dich ihm!
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+I had not long climbed into the mouth of the deep when I discovered the source of the sounds! Close to the entrance cowered a heavily armed giant of a man, fear written plainly in his every feature. 
+
+His voice shook as he warned me, "Deep within the cave dwells an evil, terrible monster, the most fearsome beast I have seen in all my years as a dragon slayer! It is so heinous and hideous to look upon that all who see it are turned rigid with fright!" 
+
+Though his teeth chattered with fear, he insisted on accompanying me as I continued nervously ...
+
+
+Find the monster in the maze and face it!
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Ledwo zag³êbi³em siê nieco w jaskinie, gdy odkry³em Ÿród³o s³yszalnych a¿ na powierzchni upiornych dŸwiêków. W pobli¿u przejœcia tuli³ siê do œciany uzbrojony po zêby wojownik olbrzymiej postury. Z ka¿dego elementu jego osoby emanowa³o zwierzêce wrêcz przera¿enie.
+
+£ami¹cym siê g³osem ostrzeg³ mnie: "W g³êbinach tej jaskini ¿yje przesi¹kniêty z³em, straszny potwór - najgorsza bestia jak¹ w ¿yciu widzia³em, a jako zabójca smoków widzia³em niejedno. Jest tak straszna i okropna, ¿e ka¿dy, kto na ni¹ spojrzy kamienieje z przera¿enia! "
+
+Nadal szczêkaj¹c zêbami ze strachu wymóg³ jednak na mnie zezwolenie na towarzyszenie sobie w g³¹b pieczary...
+
+
+Odszukaj potwora w labiryncie i staw mu czo³a!
+</text>
+      </lang>
+    </block>
+    <block id="hasenareal">
+      <lang code="GER">
+        <text>
+Dies musste das Ungeheuer sein, vor dem sich die Einwohner der Frankenstadt fürchteten!
+
+...
+
+Ein KANINCHEN mit feuerroten, blutunterlaufenen Augen starrte uns an!!!
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+This had to be the monster the citizens of the Frankish city were afraid of!
+
+...
+
+A RABBIT with fiery red, bloodshot eyes was staring at us!!!
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+I to tego potwora tak siê bali wszyscy Frankowie?!?!
+
+...
+
+Naprzeciwko mnie widzia³em ma³e, z³oœliwe i przekrwione oczka... KRÓLIKA!!!
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="GER">
+        <text>
+
+DIE MONSTERHÖHLE
+
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+
+THE MONSTER'S DEN
+
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+
+LEGOWISKO POTWORA
+
+</text>
+      </lang>
+    </block>
+    <block id="heldtot">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns - so schnell kommt es im Leben! Einer der Helden aus der Prophezeiung erlag durch deine Unachtsamkeit! Die Welt ist verloren!
+</text>
+      </lang>
+      <lang code="ENG">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A brief moment of carelessness - that's all it takes! One of the heroes from the prophecy has died through your negligence! The world is doomed!
+</text>
+      </lang>
+      <lang code="POL">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Chwila nieuwagi wystarczy! Jeden z bohaterów z przepowiedni zgin¹³ przez twoje niedopatrzenie! Œwiat jest skazany na zag³adê!
+</text>
+      </lang>
+    </block>
+    <block id="monsterbesiegt">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION GEWONNEN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Die Bestie, vor der sich der Franke so gefürchtet hatte, war besiegt! 
+
+Die Stadtbewohner konnten nun wieder in Ruhe schlafen. Ich dankte dem stolzen Franken, der sich im nachhinein als echter Held bewiesen hatte für seine Hilfe und lud ihn in unser Dorf ein. 
+
+Am Abend, als die Methumpen kreisten, erzählte ich ihm von unserer Mission. Sofort war er Feuer und Flamme, und bestand darauf, uns zu begleiten, war er doch ein waschechter Drachentöter! 
+
+Ich kniff die Augen zusammen und betrachtete ihn im Flammenschein genauer - ER WAR ES! Er war einer der Helden, die ich in meiner Vision gesehen hatte!
+</text>
+      </lang>
+      <lang code="ENG">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION SUCCESSFUL!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+The beast that the Frank had been so afraid of had been defeated! 
+
+The city's inhabitants were able to sleep peacefully once more. I thanked the proud Frank, who had proven a true hero after all, for his help, and invited him to our village. 
+
+In the evening, as we drank a few mugs of mead, I told him of our mission. The dragon slayer at once insisted on accompanying us! 
+
+I screwed up my eyes and studied him by the light of the fire - IT WAS HIM! He was one of the heroes I had seen in my vision!
+</text>
+      </lang>
+      <lang code="POL">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA ZAKOÑCZONA SUKCESEM!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Bestia, której Frankowie bali siê tak bardzo, zosta³a pokonana!
+
+Mieszkañcy miasta mogli znów spaæ spokojnie. Podziêkowa³em dumnemu rycerzowi za pomoc - jednak okaza³ siê byæ prawdziwym bohaterem! - i zaprosi³em go do naszej osady.
+
+Wieczorem, po wychyleniu kilku rogów miodu, opowiedzia³em mu o naszej misji. Zabójca smoków natychmiast wyrazi³ chêæ przy³¹czenia siê do nas.
+
+Popatrzy³em na niego uwa¿nie w œwietle ogniska - to niesamowite! By³ jednym z bohaterów z mojej wizji!
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

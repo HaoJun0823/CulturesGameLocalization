@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="singleplayer_03_02" export_map_id="singleplayer_03_02" map_md5="8bc5867180e2f96233aa6559c19e50fe" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">建立你的食物供给！</text>
+      <text lang="ger">Baue deine Nahrungsversorgung auf!</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">开采 100 金与 100 铁，运入你的某一仓库！</text>
+      <text lang="ger">Baue 100 Gold und 100 Eisen ab und schaffe sie in eines deiner Lager!</text>
+    </string>
+    <string id="2">
+      <text lang="CHN">铸造 50 金币，作为归乡赠予比雅尼的小礼！</text>
+      <text lang="ger">Präge 50 Goldmünzen, als kleines Heimkehrgeschenk an Bjarni!</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">探索你周围的环境！</text>
+      <text lang="ger">Erkunde deine Umgebung!</text>
+    </string>
+    <string id="4">
+      <text lang="CHN">协助邻族在指定位置重建村庄！</text>
+      <text lang="ger">Hilf dem Nachbarstamm, sein Dorf an den gewünschten Stellen wieder aufzubauen!</text>
+    </string>
+    <string id="5">
+      <text lang="CHN">至少聚集 15 头牛与羊！</text>
+      <text lang="ger">Treibe mindestens 15 Ochsen und Schafe zusammen!</text>
+    </string>
+    <string id="6">
+      <text lang="CHN">带 10 名平民前往邻村总部参加落成庆典！</text>
+      <text lang="ger">Gehe mit 10 Zivilisten zum Richtfest beim Hauptquartier des Nachbarortes!</text>
+    </string>
+    <string id="7">
+      <text lang="CHN">你如今已有 %d / 15 头牛！</text>
+      <text lang="ger">Du hast jetzt %d von 15 Kühen!</text>
+    </string>
+    <string id="8">
+      <text lang="CHN">你如今已有 %d / 15 只羊！</text>
+      <text lang="ger">Du hast jetzt %d von 15 Schafen!</text>
+    </string>
+    <string id="9">
+      <text lang="CHN">已开采 %d 金</text>
+      <text lang="ger">%d abgebautes Gold</text>
+    </string>
+    <string id="10">
+      <text lang="CHN">已开采 %d 铁</text>
+      <text lang="ger">%d abgebautes Eisen</text>
+    </string>
+    <string id="11">
+      <text lang="CHN">已铸造 %d 硬币</text>
+      <text lang="ger">%d geprägte Münzen</text>
+    </string>
+    <string id="50">
+      <text lang="CHN">探险队</text>
+      <text lang="ger">Erkundungstrupp</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">探险队</text>
+      <text lang="ger">Erkundungstrupp</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">火山灾民</text>
+      <text lang="ger">Vulkangeschädigte</text>
+    </string>
+    <string id="53">
+      <text lang="CHN">火山灾民</text>
+      <text lang="ger">Vulkangeschädigte</text>
+    </string>
+    <string id="98">
+      <text lang="CHN">给新手：一支小小的探险队已深入内陆，去开辟新的资源、或许再建一座新村。</text>
+      <text lang="ger">Für Einsteiger: Ein kleiner Erkundungstrupp war tief ins Innere des Landes vorgestoßen, um neue Rohstoffquellen zu erschließen und eventuell ein neues Dorf zu errichten.</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">救援行动</text>
+      <text lang="ger">DIE HILFSAKTION</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="01">
+      <lang code="CHN">
+                <text>
+我们的东道主早已在等候我们的族人，于是傍晚为他们举办了一场盛大的答谢庆典，向我们致敬。
+
+在故乡，人们定会为我们深感骄傲。我们不仅发现了宝贵的资源，更结识了新朋友，还订立了极有利的交易协定！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Unsere Gastgeber hatten schon auf unsere Leute gewartet, und so wurde am Abend eine große Dankesfeier zu unseren Ehren abgehalten.
+
+In unserer Heimat würde man sehr stolz auf uns sein. Nicht nur, dass wir wertvolle Rohstoffe entdeckt hatten. Nein, wir hatten sogar neue Freunde gefunden und ein sehr günstiges Handelsabkommen geschlossen!
+</text>
+      </lang>
+    </block>
+    <block id="02">
+      <lang code="CHN">
+                <text>
+维京人的侦察队已从这片世界消失。无人曾知那些同胞究竟遭遇了什么。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Der Aufklärungstrupp der Wikinger war von dieser Welt verschwunden. Niemand hatte je erfahren, was mit den Angehörigen geschehen war. 
+</text>
+      </lang>
+    </block>
+    <block id="03">
+      <lang code="CHN">
+                <text>
+我们暂且保障了食物供给，并开始在火山脚下开采资源。
+
+然而好奇心驱使我们越走越远，于是我们派出一名侦察兵去探察这片土地……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Wir hatten unsere Nahrungsversorgung vorläufig sicher gestellt und damit begonnen, die Rohstoffe am Fuße des Vulkans abzubauen. 
+
+Doch unsere Neugierde trieb uns immer weiter vom Dorf weg, und so schickten wir einen Kundschafter los, das Land zu erforschen...
+</text>
+      </lang>
+    </block>
+    <block id="04">
+      <lang code="CHN">
+                <text>
+我们想给家乡村庄的首领带去远征所获的宝贵资源，而此刻终告完成：我们已开采出 100 金与 100 铁！
+
+如今我们还要锦上添花，再铸 50 枚硬币，以证明此行的重要性与价值……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Wir wollten unserem Häuptling im Heimatdorf wertvolle Rohstoffe von unserer Exkursion mitbringen, und endlich war es geschafft: wir hatten 100 Gold und Eisen abgebaut! 
+
+Jetzt wollten wir als Krönung noch 50 Münzen prägen, auf dass wir Wichtigkeit und Nutzen unseres Unternehmens unter Beweis stellen konnten...
+</text>
+      </lang>
+    </block>
+    <block id="05">
+      <lang code="CHN">
+                <text>
+火山灾民
+
+当我们的侦察兵在火山脚下遇见另一支部族，映入眼帘的竟是一幅满目疮痍的景象！
+
+那看似地震的灾变，实则是一场短暂却极其猛烈的火山喷发，炽热的熔岩一路撕裂了村庄……
+许多房屋只剩余烬，居民们方才侥幸保住性命。
+
+这个部族赖以生存的庞大牛群与羊群，在震动中四散奔逃。
+他们绝望至极，恳请我们相助，将畜群驱回村中，同时他们要规划新村、为新的房舍奠基。
+
+只是须先等待熔岩流稍许冷却……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+DIE VULKANOPFER
+
+Als unser Kundschafter auf einen anderen Stamm am Fuße des Vulkanes traf, bot sich seinen Augen ein Bild der Zerstörung!
+
+Das vermeintliche Erdbeben war in der Tat ein kurzer, aber äußerst heftiger Vulkanausbruch gewesen, dessen glühende Lava sich ihren Weg durch das Dorf gebahnt hatte... 
+Von vielen Häusern war nur noch Asche über geblieben, und die Einwohner waren gerade so mit Leib und Leben davon gekommen.
+
+Die große Herde Rinder und Schafe, von der dieser Stamm lebte, war beim Beben auseinandergestoben und fortgerannt.
+Außer sich vor Verzweiflung baten sie uns, zu helfen, ihre Herde zurück ins Dorf zu treiben, während man ein neues Dorf planen und die Grundsteine für neue Gebäude legen wollte.
+
+Doch zuerst musste man warten, bis sich die Lavaströme etwas abgekühlt hatten...
+</text>
+      </lang>
+    </block>
+    <block id="06">
+      <lang code="CHN">
+                <text>
+漫长的劳作后，终于大功告成：归乡的硬币铸好了！如今在启程回家前，我们只需再助邻人一臂之力……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Nach langer Arbeit war es endlich geschafft: die Münzen für unsere Rückkehr waren geprägt! Nun mussten wir nur noch unseren Nachbarn helfen, bevor wir uns auf den Heimweg machen konnten...
+</text>
+      </lang>
+    </block>
+    <block id="07">
+      <lang code="CHN">
+                <text>
+我们的侦察兵已聚齐 15 头牛羊，替邻人重整了畜群。他们衷心致谢，并向我们讲述了进一步的打算。
+
+他们想把村庄重建得与灾前一模一样，只是众人仍深为这场灾祸所苦。
+
+为深化友谊——危难中自当助友——我们主动揽下了工地兴建之事。此时熔岩已稍冷却，我们便能立即动工。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Unser Kundschafter hatte 15 Ochsen und Schafe eingesammelt und so die Herde unserer Nachbarn wieder aufgebaut. Man dankte uns herzlich und berichtete uns von den weiteren Plänen.
+
+Man wollte das Dorf genau so wieder aufbauen, wie es vor der Katastrophe dagestanden hatte, doch waren alle noch sehr von dem Unheil mitgenommen.
+
+Um unsere Freundschaft zu vertiefen - und Freunden hilft man schließlich in der Not - boten wir an, den Aufbau der Baustellen selbst in die Hand zu nehmen. Da die Lava inzwischen etwas abgekühlt war, konnten wir uns sofort an die Arbeit machen.
+</text>
+      </lang>
+    </block>
+    <block id="08">
+      <lang code="CHN">
+                <text>
+大功告成，村庄焕发新旧交融的光彩！如今落成庆典可以开始了……
+我们尽数受邀前去畅饮欢庆。既无法全体前往，便派出十人代表团，去参加在我们新朋友总部举行的庆典。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Die Arbeit war getan, das Dorf erstrahlte in neuem, alten Glanze! Nun konnte die Einweihungsparty beginnen... 
+Wir wurden alle eingeladen zum Trinken und zum Feiern. Da wir nicht alle gehen konnten, sandten wir eine Abordnung von zehn Leuten zu der Feier, die beim Hauptquartier unserer neuen Freunde stattfinden sollte.
+</text>
+      </lang>
+    </block>
+    <block id="09">
+      <lang code="CHN">
+                <text>
+落成庆典
+
+我们的东道主早已在等候我们的族人，于是傍晚为他们举办了一场盛大的答谢庆典，向我们致敬。
+
+我们结识了新朋友，订立了新的贸易协定。众人欢喜满足，可我们的使命尚未全然完成……
+
+我们还须为族人备办金与铁。邻居们满怀感激，愿以低价将这些货物与硬币让与我们——如今我们尽可轻松购得！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+EINWEIHUNGSPARTY
+
+Unsere Gastgeber hatten schon auf unsere Leute gewartet, und so wurde am Abend eine große Dankesfeier zu unseren Ehren abgehalten.
+
+Wir hatten neue Freunde gefunden und ein neues Handelsabkommen geschlossen. Alle waren glücklich und zufrieden, doch unsere Mission war noch nicht ganz vollendet...
+
+Wir mussten ja noch Gold und Eisen für unsere Leute besorgen. Voller Dankbarkeit boten uns unsere Nachbarn jene Waren und Münzen zu einem niedrigen Preis - so konnten wir diese jetzt einfach erhandeln!
+</text>
+      </lang>
+    </block>
+    <block id="10">
+      <lang code="CHN">
+                <text>
+火山喷发
+
+那是什么？大地震颤摇晃……必是火山！它当真喷发了……所幸熔岩未流经我们的村庄。无人受重伤……
+
+唯独我们的房屋受损严重——须赶在下一次震动前迅速修缮！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+VULKANAUSBRUCH
+
+Was war das? Die Erde bebte und zitterte... Es musste der Vulkan sein! Er brach wohl tatsächlich aus... Doch die Lava floss glücklicherweise nicht durch unser Dorf. Niemand wurde ernsthaft verletzt... 
+
+Nur unsere Häuser hatten starken Schaden genommen - wir mussten sie schnell reparieren, bevor es zu einem weiteren Beben kam!
+</text>
+      </lang>
+    </block>
+    <block id="11">
+      <lang code="CHN">
+                <text>
+漫长艰辛的劳作后，我们终于达成：归乡的硬币铸好了！新的贸易协定、新的朋友、还有一小笔财宝——我们归乡时，定会让众人引以为傲！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Nach langer, harter Arbeit hatten wir es endlich geschafft: die Münzen für unsere Rückkehr waren geprägt! Ein neues Handelsabkommen, neue Freunde und ein kleiner Schatz - man würde bei unserer Rückkehr sehr stolz auf uns sein!
+</text>
+      </lang>
+    </block>
+    <block id="12">
+      <lang code="CHN">
+                <text>
+火山灾民
+
+当我们的侦察兵在火山脚下遇见另一支部族，映入眼帘的竟是一幅满目疮痍的景象！
+
+那看似地震的灾变，实则是一场短暂却极其猛烈的火山喷发，炽热的熔岩啃噬了这座村庄……
+
+许多房屋只剩余烬，居民们方才侥幸保住性命。
+
+这个部族赖以生存的庞大牛群与羊群，在震动中四散奔逃……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+DIE VULKANOPFER
+
+Als unser Kundschafter auf einen anderen Stamm am Fuße des Vulkanes traf, bot sich seinen Augen ein Bild der Zerstörung!
+
+Das vermeintliche Erdbeben war in der Tat ein kurzer, aber äußerst heftiger Vulkanausbruch gewesen, dessen glühende Lava sich durch dieses Dorf gefressen hatte... 
+
+Von vielen Häusern war nur noch Asche über geblieben, und die Einwohner waren gerade so mit Leib und Leben davon gekommen.
+
+Die große Herde Rinder und Schafe, von der dieser Stamm lebte, war beim Beben auseinandergestoben und fortgerannt...
+</text>
+      </lang>
+    </block>
+    <block id="13">
+      <lang code="CHN">
+                <text>
+求救
+
+我们收到邻人几近绝望的口信：他们恳请我们协助，将畜群驱回村中，同时他们要规划新村、为新的房舍奠基。
+
+只是须先等待熔岩流稍许冷却……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+ERSUCHEN UM HILFE
+
+Uns erreichte eine Nachricht von unseren Nachbarn, die außer sich vor Verzweiflung waren: sie baten uns, dabei zu helfen, ihre Herde zurück ins Dorf zu treiben, während man ein neues Dorf planen und die Grundsteine für neue Gebäude legen wollte.
+
+Doch zuerst musste man warten, bis sich die Lavaströme etwas abgekühlt hatten...
+</text>
+      </lang>
+    </block>
+    <block id="14">
+      <lang code="CHN">
+                <text>
+硬币就绪
+
+漫长的劳作后，终于大功告成：
+归乡的硬币铸好了！然而在启程回家前，我们还想与邻人共庆一场答谢之宴……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+MÜNZEN FERTIG
+
+Nach langer Arbeit war es endlich geschafft: 
+die Münzen für unsere Rückkehr waren geprägt! Wir wollten jedoch noch ein Dankesfest mit unseren Nachbarn feiern, bevor wir uns auf den Heimweg machten...
+</text>
+      </lang>
+    </block>
+    <block id="begin_00">
+      <lang code="CHN">
+                <text>
+春日里美好的一天，我们的部族决定派出一支侦察队深入内陆，去寻找新的资源。
+
+当我们抵达一座火山脚下，简直不敢相信自己的眼睛！火山将宝贵的资源喷吐而出，抛入山谷。金、铁与碎石密布一处——我们只消开采入库！
+
+可惜我们忘了，这样一座"雷山"所能释放的伟力……
+
+起初我们想建一座小聚落，为妻小备好房舍与充足的食物，况且我们的矿工也须先积累足够经验……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+Eines schönen Tages im Frühling hatte unser Stamm beschlossen, einen Aufklärungstrupp tiefer ins Landesinnere eindringen zu lassen, um nach neuen Rohstoffquellen zu suchen.
+
+Als wir am Fuße eines Vulkanes angelangten, glaubten wir, unseren Augen nicht zu trauen! Überall hatte der Vulkan wertvolle Rohstoffe ausgespieen und ins Tal befördert. Gold, Eisen und Steingeröll lagen dicht beieinander - wir brauchten sie nur noch abzubauen und einzulagern! 
+
+Leider vergaßen wir die Gewalt, die von solch einem "Donnerberg" ausgehen konnte...
+
+Zunächst wollten wir eine kleine Siedlung mit Häusern für unsere Frauen und einer ausreichenden Nahrungsversorgung aufbauen. Außerdem mussten unsere Abbauer erst genügend Erfahrung sammeln...
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+                <text>
+救援行动 / 雷山
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+DIE HILFSAKTION / DER DONNERBERG"
+
+</text>
+      </lang>
+    </block>
+    <block id="lost">
+      <lang code="CHN">
+                <text>
+任务失败！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+MISSION VERLOREN!
+
+</text>
+      </lang>
+    </block>
+    <block id="won">
+      <lang code="CHN">
+                <text>
+任务成功！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+MISSION GEWONNEN!
+
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

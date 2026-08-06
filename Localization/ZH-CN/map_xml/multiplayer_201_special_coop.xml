@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="multiplayer_201_special_coop" export_map_id="multiplayer_201_special_coop" map_md5="8d445a79a991e9c006b176aabac2a4e3" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">合作：暴风雪</text>
+      <text lang="ger">COOP: Schneetreiben</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">6 个维京部族，对抗一支强大而好战的维京部族的敌军。</text>
+      <text lang="ger">6 Wikingerstämme kämpfen gegen feindliche Truppen eines mächtigen und angriffslustigen Wikingerstammes.</text>
+    </string>
+    <string id="2">
+      <text lang="CHN">与邻邦结盟，将敌方维京人逐出这片土地！</text>
+      <text lang="ger">Verbünde dich mit deinen Nachbarn und vertreibe die feindlichen Wikinger aus diesem Land!</text>
+    </string>
+    <string id="10">
+      <text lang="CHN">格陵兰人</text>
+      <text lang="ger">Grünländer</text>
+    </string>
+    <string id="11">
+      <text lang="CHN">格陵</text>
+      <text lang="ger">Grün</text>
+    </string>
+    <string id="20">
+      <text lang="CHN">文兰人</text>
+      <text lang="ger">Vinländer</text>
+    </string>
+    <string id="21">
+      <text lang="CHN">文兰</text>
+      <text lang="ger">Vin</text>
+    </string>
+    <string id="30">
+      <text lang="CHN">海卢兰人</text>
+      <text lang="ger">Helluländer</text>
+    </string>
+    <string id="31">
+      <text lang="CHN">海卢</text>
+      <text lang="ger">Hellu</text>
+    </string>
+    <string id="40">
+      <text lang="CHN">马克兰人</text>
+      <text lang="ger">Markländer</text>
+    </string>
+    <string id="41">
+      <text lang="CHN">马克</text>
+      <text lang="ger">Mark</text>
+    </string>
+    <string id="50">
+      <text lang="CHN">普拉特兰人</text>
+      <text lang="ger">Plattländer</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">普拉特</text>
+      <text lang="ger">Platt</text>
+    </string>
+    <string id="60">
+      <text lang="CHN">高地人</text>
+      <text lang="ger">Highländer</text>
+    </string>
+    <string id="61">
+      <text lang="CHN">高地</text>
+      <text lang="ger">High</text>
+    </string>
+    <string id="70">
+      <text lang="CHN">暗境人</text>
+      <text lang="ger">Finsterländer</text>
+    </string>
+    <string id="71">
+      <text lang="CHN">幽暗</text>
+      <text lang="ger">Finst</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="begin_00">
+      <lang code="CHN">
+                <text>
+对你的部族而言，这是个艰难时世。
+
+你与爱好和平的邻居们，由来已久地同历忧患。
+
+然而这片土地上所有部族，已携手共抗外侮。
+
+若你愿分几个维京人给某位邻居，只需将他们就近交付便可。
+
+贴士：
+你的行囊中备有几封用于建筑的信。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+Es ist keine leichte Zeit für deinen Stamm.
+
+Du und deine friedlichen Nachbarn werden seit geraumer Zeit von einem großen Wikingerstamm terrorisiert, der sich selbst zum alleinigen Herrscher im Land ernannt hat.
+
+Aber alle Stämme des Landes haben sich gemeinsam gegen diesen Feind gewappnet und wollen sich gegenseitig im Kampf unterstützen! Nur in einem gemeinsamen Gegenschlag werdet ihr eine Chance gegen die Übermacht des Feindes haben.
+
+Wenn du einem deiner Nachbarn ein paar Wikinger überlassen möchtest, schicke sie zur heiligen Flamme seines Stammes. Lass deine Leute den magischen Kreis des Feuers betreten, und sie werden zukünftig auf die Befehle deines Partners hören - denn sie gehören dann zu seinem Stamm!
+
+Tipp:
+Es befinden sich ein paar Briefe für Gebäude in deinem Besitz, nutze sie schnell und weise!
+</text>
+      </lang>
+    </block>
+    <block id="begin_01">
+      <lang code="CHN">
+                <text>
+恭喜！
+
+那帮恶徒已被驱逐！历经浴血苦战……
+
+如今和平可期，并肩作战的部族们终得安享宁静。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+GLÜCKWUNSCH!
+
+Die üblen Typen wurden vertrieben! Nach erbitterten Kämpfen ist das Land von Schrecken und Tyrannei befreit!
+
+Nun kann Frieden einziehen, und die Stämme, die Seite an Seite gekämpft haben, können hervorragende Beziehungen aufbauen!
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+                <text>
+风雪
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+SCHNEETREIBEN
+
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

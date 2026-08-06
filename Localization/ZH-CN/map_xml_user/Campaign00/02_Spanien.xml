@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="02_Spanien" export_map_id="02_Spanien" map_md5="e2c43f5aa7e29fc5c375dd316bb404a6" IsC2M="true">
+  <languages>
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">西班牙</text>
+      <text lang="ger">Spanien</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">你已抵达西班牙。</text>
+      <text lang="ger">Du bist in Spanien angekommen.</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+    </string>
+    <string id="4">
+      <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+    </string>
+    <string id="50">
+      <text lang="CHN">玩家0</text>
+      <text lang="ger">Spieler0</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">玩家1</text>
+      <text lang="ger">Spieler1</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">玩家2</text>
+      <text lang="ger">Spieler2</text>
+    </string>
+    <string id="53">
+      <text lang="CHN">玩家3</text>
+      <text lang="ger">Spieler3</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="lost_body">
+      <lang code="CHN">
+        <text>你失败了！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Du hast verloren!
+
+</text>
+      </lang>
+    </block>
+    <block id="lost_header">
+      <lang code="CHN">
+        <text>任务失败！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Mission verloren!
+
+</text>
+      </lang>
+    </block>
+    <block id="playerdied1">
+      <lang code="CHN">
+        <text>玩家1已阵亡。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 1 ist gestorben.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerdied2">
+      <lang code="CHN">
+        <text>玩家2已阵亡。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 2 ist gestorben.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerdied3">
+      <lang code="CHN">
+        <text>玩家3已阵亡。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 3 ist gestorben.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerenemy2">
+      <lang code="CHN">
+        <text>玩家2现在转为敌对。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 2 ist jetzt feindlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerenemy3">
+      <lang code="CHN">
+        <text>玩家3现在转为敌对。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 3 ist jetzt feindlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerfriendly1">
+      <lang code="CHN">
+        <text>玩家1现在转为友好。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 1 ist jetzt freundlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerfriendly2">
+      <lang code="CHN">
+        <text>玩家2现在转为友好。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 2 ist jetzt freundlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerneutral1">
+      <lang code="CHN">
+        <text>玩家1现在转为中立。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 1 ist jetzt neutral.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerneutral3">
+      <lang code="CHN">
+        <text>玩家3现在转为中立。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 3 ist jetzt neutral.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerseen1">
+      <lang code="CHN">
+        <text>站住！不许再往前一步。这是我们的领土。滚开。
+利箭朝我们射来。这里似乎是通往葡萄牙王国的边界。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Halt! Keinen Schritt weiter. Das ist unser Land. Schert Euch weg.
+Pfeile schossen auf uns zu. Dies schien die Grenze zum portugisischen Reichs zu sein.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerseen2">
+      <lang code="CHN">
+        <text>你好，我们是法国人。给我们缴纳一份“微薄的”贡品，我们便乐意与你们通商。
+你们有蜂蜜酒吗？我们的族人想要很多蜂蜜酒。顺带一提，我们打造的长剑和板甲是全法国最好的……</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Bonjour, wir sind die Franzosen. Zahlt uns einen "bescheidenen" Tribut, und wir handeln gerne mit Euch.
+Habt Ihr Met ? Unser Volk möchte viel Met. Wir stellen übrigens die besten Langschwerter und Plattenrüstungen in ganz Frankeich her....
+
+</text>
+      </lang>
+    </block>
+    <block id="playerseen3">
+      <lang code="CHN">
+        <text>呀嗬，欢迎啊，可爱的人们。你们究竟是谁呀？
+你们的胡子怎么这么长？
+你们头上戴的头盔怎么这么古怪？
+你们的头发怎么这么长？
+不管怎样，显然这个民族是头一回见到维京人。我们坐下来，先一起喝了几瓶蜂蜜酒。随后他们便向我们提出了慷慨的交易条件。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Juhuu, willkommen ihr lieben Leut'. Wer seit ihr denn ?
+Was habt ihr für lange Bärte?
+Was habt ihr für komische Helme auf ?
+Was habt ihr für lange Haare?
+Klar war jedenfalls, daß dieses Volk zum ersten Mal einen Wickinger sah. Wir setzten uns hin und tranken erstmal ein paar Flaschen Met zusammen. Daraufhin bekamen wir großzügige Handelsangebote unterbreitet.
+
+</text>
+      </lang>
+    </block>
+    <block id="start_body">
+      <lang code="CHN">
+        <text>我们终于抵达了西班牙。我们的舵手醉得厉害，竟在近岸处把船撞上了一处暗礁。我们只抢救出寥寥几箱武器，这让比雅尼极为不满。
+他怒气冲冲地向我们下令：
+立刻在仓库中储备40把长剑、40件防御护符和40副板甲。
+他还接着命令道，西边住着葡萄牙人。
+把他们统统消灭！！
+可我们究竟为何非得航行到西班牙，他却只字未提。
+罢了，我们只好一边嘟囔一边动工。可这些护符又该从哪儿弄来？
+我们决定派出一名侦察兵。也许这附近还有可以通商的族群……
+
+1. 建立你的村庄
+2. 击败西边的葡萄牙人
+3. 在你未来的仓库中储备40把长剑、40件防御护符和40副板甲。
+
+
+制作者：尤基</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Endlich waren wir in Spanien angekommen. Unser Steuermann war so betrunken, daß er vor der Küste auf ein Riff gefahren war. Wir konnten nur wenige Kisten mit Waffen retten, was Bjarni gar nicht gut fand.
+Zornig darüber gab er uns folgenden Befehl:
+Lagert jetzt 40 Langschwerter, 40 Verteidigungsamulette und 40 Plattenrüstungen in die Lager ein.
+Außerdem, so befahl er weiter, leben im Westen die Portugiesen.
+Vernichtet Sie alle !!
+Aber warum wir nach Spanien segeln mußten, sagte er nicht.
+Naja, murrend gingen wir ans Werk. Aber woher sollten wir die Amulette bekommen?
+Wir beschlossen einen Kundschafter loszuschicken. Vielleicht gab es ja hier noch Völker mit denen man handeln kann..........
+
+1.Baue Dein Dorf auf
+2.Besiege die Potugiesen im Westen
+3.Lagere 40 Langschwerter, 40 Verteidigungsamulette und 40 Plattenrüstungen in Deine zukünftigen Lagerhäuser ein.
+
+
+Erstellt von: Yogi
+
+</text>
+      </lang>
+    </block>
+    <block id="start_header">
+      <lang code="CHN">
+        <text>西班牙</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spanien
+
+</text>
+      </lang>
+    </block>
+    <block id="won_body">
+      <lang code="CHN">
+        <text>我们终于储备好了所有物资，也击败了葡萄牙人。
+干得好，比雅尼称赞我们。你们可真了不起。现在我们该出发了。
+我们的下一个目标是法国。
+我们惊讶地面面相觑。比雅尼到底想在法国做什么？
+再说法国人会不会张开双臂欢迎我们，实在很难说。于是我们把货物装上牛车，踏上了前往法国的路。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Endlich hatten wir alle Waren eingelagert, und die Portugiesen besiegt.
+Bravo, lobte uns Bjarni. Ihr seit ja richtig gut. Laßt uns jetzt aufbrechen.
+Unser nächstes Ziel ist Frankreich.
+Erstaunt schauten wir uns an. Was wollte Bjarni denn in Frankreich ?
+Und ob uns die Franzosen mit offenen Armen empfingen, war doch mehr als fraglich. Wir beluden also unsere Ochsen, und machten uns auf den Weg Richtung Frankreich.
+
+</text>
+      </lang>
+    </block>
+    <block id="won_header">
+      <lang code="CHN">
+        <text>任务达成！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Mission gewonnen!
+
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

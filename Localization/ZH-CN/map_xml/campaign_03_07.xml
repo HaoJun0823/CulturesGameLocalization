@@ -1,0 +1,1405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_03_07" export_map_id="campaign_03_07" map_md5="96614770692b345a9fb3b86a92447098" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">@协助建成并守卫吉萨金字塔！</text>
+      <text lang="ger">@HILF BEI DER FERTIGSTELLUNG UND DER VERTEIDIGUNG DER PYRAMIDEN VON GIZEH!</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">建立一座小型聚落。</text>
+      <text lang="ger">Baue eine kleine Siedlung auf.</text>
+    </string>
+    <string id="2">
+      <text lang="CHN">前往工地。</text>
+      <text lang="ger">Gehe zum Bauplatz.</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">向金字塔运送 50 石料、40 大理石柱与 70 金。</text>
+      <text lang="ger">Bringe 50 Steine, 40 Marmorsäulen und 70 Gold zu den Pyramiden.</text>
+    </string>
+    <string id="4">
+      <text lang="CHN">务必在金字塔旁建起至少一座仓库。</text>
+      <text lang="ger">Baue möglichst mindestens ein Lagerhaus bei den Pyramiden.</text>
+    </string>
+    <string id="5">
+      <text lang="CHN">为埃及人提供至少 25 名士兵。</text>
+      <text lang="ger">Stelle den Ägyptern mindestens 25 Soldaten zur Verfügung.</text>
+    </string>
+    <string id="6">
+      <text lang="CHN">击退暗黑军团的进攻。</text>
+      <text lang="ger">Wehre die Angriffe des dunklen Heeres ab.</text>
+    </string>
+    <string id="7">
+      <text lang="CHN">向商人缴纳 45 单位蜂蜜作贡金。</text>
+      <text lang="ger">Zahle den Händler 45 Schalen Honig als Tribut.</text>
+    </string>
+    <string id="8">
+      <text lang="CHN">为换取佣兵，向拜占庭人缴纳其所索贡金。</text>
+      <text lang="ger">Zahle den Byzantinern für Söldner den geforderten Tribut.</text>
+    </string>
+    <string id="9">
+      <text lang="CHN">向贝都因人进献武器作贡金，他们便随你们出战。</text>
+      <text lang="ger">Reiche den Beduinen Waffen zum Tribut und sie ziehen mit euch in den Kampf.</text>
+    </string>
+    <string id="10">
+      <text lang="CHN">与你的英雄返回金字塔！</text>
+      <text lang="ger">Gehe mit deine Helden zurück zu den Pyramiden!</text>
+    </string>
+    <string id="11">
+      <text lang="CHN">前往商人米格尔处！</text>
+      <text lang="ger">Gehe zu Miguel, dem Händler!</text>
+    </string>
+    <string id="12">
+      <text lang="CHN">若需米格尔相助，便向其缴纳贡金！</text>
+      <text lang="ger">Zahle Miguel den Tribut, wenn du seine Hilfe brauchst!</text>
+    </string>
+    <string id="13">
+      <text lang="CHN">若想援助此族，便去寻其余贝都因部落！</text>
+      <text lang="ger">Suche die anderen Beduinenstämme, wenn du diesem Volk helfen willst!</text>
+    </string>
+    <string id="14">
+      <text lang="CHN">为换取法老战士，向埃及人缴纳其所索贡金。</text>
+      <text lang="ger">Zahle den Ägyptern für Pharaonenkrieger den geforderten Tribut.</text>
+    </string>
+    <string id="15">
+      <text lang="CHN">向魔法师进献 100 单位草药，以筑魔法护壁。</text>
+      <text lang="ger">Reiche den Magiern 100 Kräuter für den magischen Schutzwall.</text>
+    </string>
+    <string id="20">
+      <text lang="CHN">石料 %d/50</text>
+      <text lang="ger">Steine %d/50</text>
+    </string>
+    <string id="21">
+      <text lang="CHN">大理石柱 %d/40</text>
+      <text lang="ger">Marmorsäulen %d/40</text>
+    </string>
+    <string id="22">
+      <text lang="CHN">金 %d/70</text>
+      <text lang="ger">Gold %d/70</text>
+    </string>
+    <string id="23">
+      <text lang="CHN">物资已送达</text>
+      <text lang="ger">Waren geliefert</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">吉萨</text>
+      <text lang="ger">Gizeh</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">贝都因人</text>
+      <text lang="ger">Beduinen </text>
+    </string>
+    <string id="53">
+      <text lang="CHN">商人</text>
+      <text lang="ger">Händler</text>
+    </string>
+    <string id="54">
+      <text lang="CHN">拜占庭人</text>
+      <text lang="ger">Byzantiner</text>
+    </string>
+    <string id="55">
+      <text lang="CHN">撒拉逊人</text>
+      <text lang="ger">Sarazenen</text>
+    </string>
+    <string id="56">
+      <text lang="CHN">暗黑军团</text>
+      <text lang="ger">Dunkles Heer</text>
+    </string>
+    <string id="58">
+      <text lang="CHN">法师</text>
+      <text lang="ger">Magier</text>
+    </string>
+    <string id="61">
+      <text lang="CHN">吉萨</text>
+      <text lang="ger">Gizeh</text>
+    </string>
+    <string id="62">
+      <text lang="CHN">贝.</text>
+      <text lang="ger">Bedui.</text>
+    </string>
+    <string id="63">
+      <text lang="CHN">商.</text>
+      <text lang="ger">Händl.</text>
+    </string>
+    <string id="64">
+      <text lang="CHN">拜.</text>
+      <text lang="ger">Byza.</text>
+    </string>
+    <string id="65">
+      <text lang="CHN">撒.</text>
+      <text lang="ger">Sara.</text>
+    </string>
+    <string id="66">
+      <text lang="CHN">军</text>
+      <text lang="ger">Heer</text>
+    </string>
+    <string id="68">
+      <text lang="CHN">法师</text>
+      <text lang="ger">Magier</text>
+    </string>
+    <string id="71">
+      <text lang="CHN">比雅尼</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="CHN">希拉</text>
+      <text lang="ger">Cyra</text>
+    </string>
+    <string id="73">
+      <text lang="CHN">哈奇</text>
+      <text lang="ger">Hatschi</text>
+    </string>
+    <string id="74">
+      <text lang="CHN">西格德</text>
+      <text lang="ger">Sigurd</text>
+    </string>
+    <string id="75">
+      <text lang="CHN">诺伯特</text>
+      <text lang="ger">Norbert</text>
+    </string>
+    <string id="76">
+      <text lang="CHN">玛尼</text>
+      <text lang="ger">Mani</text>
+    </string>
+    <string id="98">
+      <text lang="CHN">在帝王谷，吉萨金字塔的外壁须以白裳覆裹、打磨光滑，方能如巨晶般在阳光下熠熠生辉。我们须借尼罗河三个月的泛滥之机行事。然而即便是我们，亦难免敌袭……</text>
+      <text lang="ger">Im Tal der Könige sollten die Außenflächen der Pyramiden von Gizeh weiß verkleidet und geglättet werden, um wie Riesenkristalle in der Sonne zu leuchten. Wir mussten die drei Überschwemmungsmonate des Nils dazu nutzen. Doch waren auch wir nicht gefeit vor feindlichen Übergriffen...</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">吉萨金字塔</text>
+      <text lang="ger">DIE PYRAMIDEN VON GIZEH</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="CHN">
+        <text>
+帝王谷的无穷壮美在我们眼前展现。吉萨金字塔建于第四王朝胡夫、哈夫拉、门卡拉三王之治。其远古之龄，令我们深生敬畏。
+
+这四面可攀的层级金字塔，今须由我们来唤醒其中沉睡的力量。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Die unendliche Schönheit des Tals der Könige breitete sich vor uns aus. Die Pyramiden von Gizeh wurden zur Zeit der 4. Dynastie von den Königen Cheops, Chepren und Mykerinos errichtet. Ihr Alter hauchte uns tiefe Ehrfurcht ein.
+
+Die allseitig erklimmbaren Schichtpyramiden sollten nun von uns und den anderen Völkern wie einst an ihren Außenflächen weiß verkleidet und geglättet werden, so dass sie bei Tag wie Kristalle in der Sonne leuchten oder bei Nacht unter den Sternen und im gleißenden Mondlicht geheimnisvoll schimmern. Damit sollte jene geheimnisvolle Macht, die in jedem der Weltwunder schlummerte, wieder aktiviert werden.
+</text>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="CHN">
+        <text>
+
+
+历年以来，金字塔之续建，恒在尼罗河三汛月中进行。我等亦须借此良机，重覆其外壁。
+
+然我等亦难免敌袭……
+
+助建金字塔，并助其御敌！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Über Jahre hinweg erfolgte bereits der Weiterbau der Pyramiden in den drei Überschwemmungsmonaten des Nils. Auch wir mussten diese Zeit nutzen, die Pyramide erneut zu verkleiden. 
+
+Doch waren wir auch nicht gefeit vor feindlichen Übergriffen...
+
+Bau die Pyramiden aus und hilf bei deren Verteidigung!
+</text>
+      </lang>
+    </block>
+    <block id="01">
+      <lang code="CHN">
+        <text>
+
+
+吉萨市民
+
+
+        
+        </text>
+        <text>
+
+
+
+"黑暗威胁带来的悲郁，曾一度笼罩我城。我们不畏，乐将士兵随你出战！
+
+只须以些许蜜酒为行军之资作贡，我军便随你向东向北进发！"
+
+若愿，可缴贡以雇埃及佣兵。
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DIE BÜRGER VON GIZEH
+
+</text>
+        <usericon>1,254,387</usericon>
+        <text>
+
+"Die Traurigkeit und der Schwermut, den die dunkle Bedrohung mit sich bringt, befiel unsere Stadt schon einmal. Wir fürchten uns nicht davor und sind gerne bereit, unsere Soldaten mit euch in den Kampf zu schicken! 
+
+Reicht uns nur etwas Met als Marschverpflegung zum Tribut, und unsere Truppen werden mit euch gen Osten und Nordosten ziehen!"
+
+Zahle, wenn du möchtest, den Tribut für ägyptische Söldner.
+</text>
+      </lang>
+    </block>
+    <block id="02">
+      <lang code="CHN">
+        <text>
+
+
+吉萨金字塔
+
+
+        
+        </text>
+        <text>
+
+
+
+"黑暗威胁四处蔓延。此国中几无族群不染悲郁！更糟的是，我等哨兵见暗黑之师自东、自东北逼来。
+我们必须阻挡！请助我们护住金字塔，并毕其工！"
+
+下次进攻时，以本部兵马守稳金字塔！于金字塔派驻 25 名士兵！
+
+若有必要，于工地周遭多建货仓，运送 50 石、70 金与 40 大理石柱！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DIE PYRAMIDEN VON GIZEH
+
+</text>
+        <usericon>1,113,309</usericon>
+        <text>
+
+"Die dunkle Bedrohung breitet sich überall aus. Es gibt kaum ein Volk in diesem Land, das nicht von Schwermut und Traurigkeit befallen ist! Zu allem Übel sahen unsere Späher auch düstere Truppen von Osten und Nordosten heranziehen. 
+Wir müssen sie aufhalten! Bitte, ihr müsst uns helfen, die Pyramiden zu schützen und deren Bau zu vollenden!"
+
+Sichere die Pyramiden mit eigenen Truppen beim nächsten Angriff! Stelle 25 Soldaten zu den Pyramiden!
+
+Baue, wenn nötig, mehrere Lagerhäuser um den Bauplatz und liefere 50 Steine, 70 Gold und 40 Marmorsäulen! 
+</text>
+      </lang>
+    </block>
+    <block id="03">
+      <lang code="CHN">
+        <text>
+
+
+黑暗威胁
+
+
+        
+        </text>
+        <text>
+
+
+
+离我们登陆处不远，传来呼喊与金铁交鸣之声。
+金字塔莫非危在旦夕？
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DIE DUNKLE BEDROHUNG
+
+</text>
+        <usericon>1,152,337</usericon>
+        <text>
+
+Nicht weit von unserem Landeplatz entfernt vernahmen wir Schreie und Metallklirren.
+Sollten sich die Pyramiden in ernsthafter Gefahr befinden?
+</text>
+      </lang>
+    </block>
+    <block id="04">
+      <lang code="CHN">
+        <text>
+
+
+货物已送达
+
+所需货物已运抵工地。金字塔覆面之工，自此当速进。
+
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+WAREN GELIEFERT
+
+Wir hatten die benötigten Waren am Bauplatz abgeliefert. Damit sollte die Verkleidung der Pyramiden nun schnell voran gehen. 
+
+</text>
+        <usericon>1,113,309</usericon>
+      </lang>
+    </block>
+    <block id="05">
+      <lang code="CHN">
+        <text>
+
+
+所有主线目标皆已达成！
+
+我们成功了——覆好金字塔外壁，并以我等大军将黑暗威胁拒于此奇迹之外！蛇形之众，见我联族之众势大，仓皇远遁！
+
+
+        
+        </text>
+        <text>
+
+
+
+率众英雄前往金字塔！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+ALLE HAUPTMISSIONSZIELE ERFÜLLT!
+
+Wir hatten es geschafft, die Pyramide zu verkleiden und mit unserem Heer die dunkle Bedrohung von diesem Weltwunder fernzuhalten! Die Schlangenwesen suchten bei der Übermacht unserer vereinten Völker das Weite! 
+
+</text>
+        <usericon>2,1 </usericon>
+        <text>
+
+Gehe mit deinen Helden zu den Pyramiden!
+</text>
+      </lang>
+    </block>
+    <block id="06">
+      <lang code="CHN">
+        <text>
+
+
+黑暗威胁
+
+
+        
+        </text>
+        <text>
+
+
+
+恐怖之师再度席卷此地。我等兵马，能挡得住么？
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DIE DUNKLE BEDROHUNG
+
+</text>
+        <usericon>2,12</usericon>
+        <text>
+
+Das Heer des Schreckens fiel erneut über diesen Landstrich herein. Ob unsere Truppen ihnen standhalten würden?
+</text>
+      </lang>
+    </block>
+    <block id="07">
+      <lang code="CHN">
+        <text>
+
+
+黑暗威胁
+
+
+        
+        </text>
+        <text>
+
+
+
+你于金字塔尚未派驻 25 名士兵！此番还能否挡下黑暗大军的进攻？
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DIE DUNKLE BEDROHUNG
+
+</text>
+        <usericon>2,1 </usericon>
+        <text>
+
+Du hast bei den Pyramiden noch keine 25 Soldaten postiert! Ob du die Angriffe des dunklen Heeres nun noch abwenden kannst?
+</text>
+      </lang>
+    </block>
+    <block id="08">
+      <lang code="CHN">
+        <text>
+
+
+黑暗威胁
+
+
+        
+        </text>
+        <text>
+
+
+
+恐怖之师再度席卷此地。我等兵马，能挡得住么？
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DIE DUNKLE BEDROHUNG
+
+</text>
+        <usericon>1,152,337</usericon>
+        <text>
+
+Das Heer des Schreckens fiel erneut über diesen Landstrich herein. Ob unsere Truppen ihnen standhalten würden?
+</text>
+      </lang>
+    </block>
+    <block id="09">
+      <lang code="CHN">
+        <text>
+
+
+贝都因人
+
+
+        
+        </text>
+        <text>
+
+
+
+"我等可怜的兄弟！"贝都因人哀叹，"他们几无活路，又常遭这些黑暗恶物侵扰。我们兵器不足，无以成军。然族中自愿者却不少……
+
+向我们纳武器为贡，我们便随你出战。"
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+BEDUINEN
+
+</text>
+        <usericon>1,369,364</usericon>
+        <text>
+
+"Unsere armen Brüder!" klagten die Beduinen. "Sie haben kaum genug zum Leben und werden ständig von diesen dunklen Bestien heimgesucht. Wir haben nicht genug Waffen, um ein eigenes Heer aufzustellen. Freiwillige gäbe es in unserem Stamm ja genug...
+
+Reicht uns Waffen zum Tribut und wir ziehen mit euch in den Kampf." 
+</text>
+      </lang>
+    </block>
+    <block id="10">
+      <lang code="CHN">
+        <text>
+
+
+贝都因人
+
+
+        
+        </text>
+        <text>
+
+
+
+"我等男儿已备战！"贝都因人言道，"他们比此地任何战士都勇，将与你们并肩而战！"
+
+若再献兵器，便有更多战士随你出战。
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+BEDUINEN
+
+</text>
+        <usericon>1,369,364</usericon>
+        <text>
+
+"Unsere Männer sind kampfbereit!" sprachen die Beduinen. "Sie sind tapferer als alle anderen Krieger hierzulande und werden mit euch Seite an Seite kämpfen!"
+
+Für noch mehr Waffen wollten uns noch mehr Krieger in den Kampf folgen.
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+英雄气概，还是鲁莽？当比雅尼殒命，众神落泪……失此英雄，你便无缘得见任务终局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="11">
+      <lang code="CHN">
+        <text>
+
+
+商族
+
+"这集市周遭独此一处尚好。别处哪有这般丰货。然须先向我等证友！寻那商人米格尔。他会告知交易之条件。"
+
+
+        
+        </text>
+        <text>
+
+
+
+寻访商人米格尔！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+HÄNDLERVOLK
+
+"Dieser Handelsplatz ist der einzig gute in der Umgebung. Nirgendwo sonst findet ihr ein so reichhaltiges Angebot. Doch erst müsst ihr uns eure Freundschaft beweisen! Sucht nach Miguel, dem Händler. Er wird euch die Bedingungen für unseren Handel nennen."
+
+</text>
+        <usericon>1,341,263</usericon>
+        <text>
+
+Suche nach Miguel, dem Händler!
+</text>
+      </lang>
+    </block>
+    <block id="12">
+      <lang code="CHN">
+        <text>
+
+
+商人
+
+"我有许多珍货相献。然你等享用之前，须先予我一点薄礼，以表善意。"
+
+
+        
+        </text>
+        <text>
+
+
+
+向米格尔缴纳所索之贡！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+HÄNDLER
+
+"Wir haben viele Kostbarkeiten anzubieten. Doch bevor ihr in deren Genuss kommt, müsst ihr mir eine kleine Spende als Zeichen eures guten Willens überlassen."
+ 
+</text>
+        <usericon>1,315,271</usericon>
+        <text>
+
+Reiche Miguel den geforderten Tribut!
+</text>
+      </lang>
+    </block>
+    <block id="13">
+      <lang code="CHN">
+        <text>
+
+
+已向商人纳贡！
+
+
+        
+        </text>
+        <text>
+
+
+
+"你等已证善意，作为回礼，我将这两牛车大理石相赠。
+你等建业正用得着，不是么？咳，礼尚往来嘛。
+
+或许我那些优厚之约略掺了些诳语，然你等尽可来我货仓中看！"
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+TRIBUT AN HÄNDLER ÜBERREICHT!
+
+</text>
+        <usericon>1,315,273</usericon>
+        <text>
+
+"Ihr habt eure guten Absichten bewiesen und als Zeichen meines guten Willens überlasse ich euch diese beiden Ochsenkarren voller Marmor. 
+Ihr könnt sie gut für euer Vorhaben gebrauchen, nicht wahr? Na ja, eine Hand wäscht die andere. 
+
+Vielleicht hab ich ja ein bisschen geflunkert mit meinen günstigen Angeboten, aber schaut euch ruhig in meinen Lagerhäusern!"
+</text>
+      </lang>
+    </block>
+    <block id="14">
+      <lang code="CHN">
+        <text>
+
+
+拜占庭人
+
+
+        
+        </text>
+        <text>
+
+
+
+"我们助建金字塔，甚至派出士兵守卫。实已力尽。因我等娇妻，总不愿独守空闺……
+虽说，为你等的好器皿，有些妇人定肯遣夫出战……嘿嘿"
+
+向拜占庭人纳器皿为贡，以雇佣兵！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+BYZANTINER
+
+</text>
+        <usericon>1,38,69</usericon>
+        <text>
+
+"Wir unterstützen die Bauarbeiten an den Pyramiden und stellten sogar unsere Soldaten zum Schutz auf. Mehr können wir beinahe nicht tun. Denn unsere lieben Frauen wollen schließlich auch nicht alleine zu Hause bleiben...
+Obwohl, für euer tolles Geschirr würden manche Frauen ihre Männer sicherlich in den Kampf schicken... hehehe"
+
+Reiche den Byzantinern Geschirr zum Tribut, um Söldner anzuheuern! 
+</text>
+      </lang>
+    </block>
+    <block id="15">
+      <lang code="CHN">
+        <text>
+
+
+已向拜占庭人纳贡！
+
+
+        
+        </text>
+        <text>
+
+
+
+我们刚将些许器皿予拜占庭妇人，她们便遣装备齐整的丈夫上阵！她们从夫处得食甚多，足以数月不须另备粮草！此正合我意……
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+TRIBUT AN BYZANTINER BEZAHLT!
+
+</text>
+        <usericon>1,116,318</usericon>
+        <text>
+
+Kaum hatten wir den Byzantinerfrauen etwas Geschirr zukommen lassen, schickten sie ihre Ehemänner gut gerüstet in den Krieg! Sie hatten so viel Nahrung von ihren Frauen mit auf den Weg bekommen, dass sie monatelang keine zusätzliche Nahrung brauchen würden! Uns sollte dies recht sein...
+</text>
+      </lang>
+    </block>
+    <block id="16">
+      <lang code="CHN">
+        <text>
+
+
+撒拉逊人
+
+
+        
+        </text>
+        <text>
+
+
+
+"昔年此地金矿丰饶，我村因而富足。今矿脉渐竭，我们不久便须离乡……"
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+SARAZENEN
+
+</text>
+        <usericon>1,95,460</usericon>
+        <text>
+
+"Einstmals gab es hier große Goldvorkommen und unserem Dorf ging es gut. Doch nun versiegen diese Vorkommen langsam und wir werden das Land bald verlassen müssen..."
+</text>
+      </lang>
+    </block>
+    <block id="17">
+      <lang code="CHN">
+        <text>
+
+
+老者
+
+
+        
+        </text>
+        <text>
+
+
+
+"尼罗河畔土地肥沃，物产丰盈。唯此岸金矿稀疏。北面远地，对岸之处，金山绵绵，不可胜数。
+
+然凡擅入那为阴影笼罩之地者，黑暗大军无不放过。"
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DER ALTE MANN
+
+</text>
+        <usericon>1,221,177</usericon>
+        <text>
+
+"Das Land am Nil ist fruchtbar und reich an Rohstoffen. Nur die Goldvorkommen sind an dieser Seite des Flusses spärlich gesät. Hoch im Norden, auf der anderen Seite, gibt es Goldberge in Hülle und Fülle. 
+
+Doch greifen die dunklen Heere jeden an, der sich in das Gebiet wagt, welches von den Schatten überzogen wurde."
+</text>
+      </lang>
+    </block>
+    <block id="18">
+      <lang code="CHN">
+        <text>
+
+
+老者
+
+
+        
+        </text>
+        <text>
+
+
+
+"穿过这些魔法之野时，务须当心！对岸不远，便是黑暗大军。他们亦通传送门之术！"
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DER ALTE MANN
+
+</text>
+        <usericon>1,57,348</usericon>
+        <text>
+
+"Gebt acht, wenn ihr diese magischen Felder durchschreitet! Auf der anderen Seite ist das dunkle Heer nicht weit entfernt. Auch ist ihnen das Wissen über die Teleporter nicht fremd!"
+</text>
+      </lang>
+    </block>
+    <block id="19">
+      <lang code="CHN">
+        <text>
+
+
+撒拉逊人
+
+"昔年此地金矿丰饶，我村因而富足。今矿脉渐竭，我们不久便须离乡……
+
+
+        
+        </text>
+        <text>
+
+
+
+什么？你在北方寻得金矿？！我们便迁去开采，然后平分……"
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+SARAZENEN
+
+"Einstmals gab es hier große Goldvorkommen und unserem Dorf ging es gut. Doch nun versiegen diese Vorkommen langsam und wir werden das Land bald verlassen müssen...
+
+</text>
+        <usericon>1,95,460</usericon>
+        <text>
+
+Wie? Ihr habt ein Goldvorkommen im Norden ausfindig gemacht?! Wir werden dorthin ziehen, es abbauen und dann können wir es teilen..."
+</text>
+      </lang>
+    </block>
+    <block id="20">
+      <lang code="CHN">
+        <text>
+
+
+撒拉逊人
+
+
+        
+        </text>
+        <text>
+
+
+
+"幸会，诸位！如约，我们已在北方扎营，为你等与我等采金。
+
+这处货仓，自此归你等所有！"
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+SARAZENEN
+
+</text>
+        <usericon>1,386,20</usericon>
+        <text>
+
+"Seid gegrüßt, ihr Lieben! Wie versprochen haben wir hier im Norden unsere Lager aufgeschlagen, um Gold für euch und uns abzubauen. 
+
+Das eine Lagerhaus soll von nun an euch gehören!"
+</text>
+      </lang>
+    </block>
+    <block id="200">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+一时疏忽，人生便急转直下！你的女英雄希拉因你大意而殒命！失此英雄，你便无缘得见任务终局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="21">
+      <lang code="CHN">
+        <text>
+
+
+贝都因人
+
+
+        
+        </text>
+        <text>
+
+
+
+"我们活在惊惧中，因常被这些黑暗战士威胁。能否助我们？去探望我等兄弟，他们定会相助！"
+
+若欲助撒拉逊人，寻访其他贝都因绿洲。
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+BEDUINEN
+
+</text>
+        <usericon>1,456,181</usericon>
+        <text>
+
+"Wir leben in Angst und Schrecken, denn wir werden ständig von diesen dunklen Kriegern bedroht. Könnt ihr uns vielleicht helfen? Besucht unsere Brüder, sie werden uns bestimmt Hilfe zukommen lassen!"
+
+Suche die anderen Beduinenoasen, wenn du den Sarazenen helfen willst.
+</text>
+      </lang>
+    </block>
+    <block id="22">
+      <lang code="CHN">
+        <text>
+
+
+金字塔被毁
+
+
+        
+        </text>
+        <text>
+
+
+
+哀哉，一座金字塔被毁，再不能重建！任务败矣！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+PYRAMIDE ZERSTÖRT
+
+</text>
+        <usericon>1,113,309</usericon>
+        <text>
+
+Oh weh, eine Pyramide ist zerstört und kann nicht wieder errichtet werden! Die Mission ist gescheitert!
+</text>
+      </lang>
+    </block>
+    <block id="23">
+      <lang code="CHN">
+        <text>
+
+
+吉萨已陷
+
+
+        
+        </text>
+        <text>
+
+
+
+吉萨陷落！失此城中勤恳之民，任务败矣！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+GIZEH IST ZERSTÖRT
+
+</text>
+        <usericon>1,254,387</usericon>
+        <text>
+
+Gizeh ist gefallen! Ohne die fleißigen Menschen dieser Stadt ist die Mission gescheitert!
+</text>
+      </lang>
+    </block>
+    <block id="24">
+      <lang code="CHN">
+        <text>
+
+
+拜占庭士兵
+
+
+        
+        </text>
+        <text>
+
+
+
+这些拜占庭士兵，来自北方一城。我们必能在彼处寻得更多守御金字塔之援！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+BYZANTINERSOLDATEN
+
+</text>
+        <usericon>1,96,287</usericon>
+        <text>
+
+Diese Byzantinersoldaten gehörten zu einer Stadt im Norden. Sicherlich würden wir da noch mehr Unterstützung für die Verteidigung der Pyramiden finden!
+</text>
+      </lang>
+    </block>
+    <block id="25">
+      <lang code="CHN">
+        <text>
+
+
+金矿！
+
+
+        
+        </text>
+        <text>
+
+
+
+此地名含金矿，其大难量。借此，凑齐建金字塔所需之金，当非难事！
+
+西南远处的撒拉逊村落，必能助你开采。他们皆是训练有素的矿工……
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+GOLDVORKOMMEN!
+
+</text>
+        <usericon>1,392,43</usericon>
+        <text>
+
+In diesem Gebiet befand sich ein unvorstellbar großes Goldvorkommen. Damit sollte es ein Leichtes sein, das geforderte Gold für den Pyramidenbau zusammen zu bekommen! 
+
+Ein Sarazenendorf im weiten Südwesten würde uns beim Abbau sicherlich behilflich sein. Sie waren gut ausgebildete Abbauer...
+</text>
+      </lang>
+    </block>
+    <block id="26">
+      <lang code="CHN">
+        <text>
+
+
+法老战士
+
+
+        
+        </text>
+        <text>
+
+
+
+"我等战士已备战！"埃及人言道，"他们比此地任何战士都勇，将与你们并肩而战！"
+
+若再献蜜酒，便有更多战士随你出战。
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+PHARAONENKRIEGER
+
+</text>
+        <usericon>1,224,366</usericon>
+        <text>
+
+"Unsere Krieger sind kampfbereit!" sprachen die Ägypter. "Sie sind tapferer als alle anderen Krieger hierzulande und werden mit euch Seite an Seite kämpfen!"
+
+Für noch mehr Met wollten uns noch mehr Krieger in den Kampf begleiten.
+</text>
+      </lang>
+    </block>
+    <block id="27">
+      <lang code="CHN">
+        <text>
+
+
+魔法师
+
+
+        
+        </text>
+        <text>
+
+
+
+"是，我们闻黑暗之族侵扰，正调制一剂汤药，能令其陷入深眠。然须用极多草药！
+
+向我们纳草药为贡，我们便为你等调合。"
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+MAGIER
+
+</text>
+        <usericon>1,480,573</usericon>
+        <text>
+
+"Ja, wir hörten von den Übergriffen des Dunklen Volkes und wir arbeiten an einer Tinktur, die sie in ein tiefes Koma fallen lässt. Dafür brauchen wir aber sehr viele Kräuter!
+
+Reicht uns Kräuter zum Tribut, und wir werden sie für euch zusammenmischen."
+</text>
+      </lang>
+    </block>
+    <block id="28">
+      <lang code="CHN">
+        <text>
+
+
+魔法师
+
+
+        
+        </text>
+        <text>
+
+
+
+"多谢草药。汤药已调成，遍撒金字塔周遭。于你等无害，然黑暗之众触之即灭。
+
+然当心！药力有时限，过时便散！若欲续用，须再献草药！"
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+MAGIER
+
+</text>
+        <usericon>1,480,573</usericon>
+        <text>
+
+"Vielen Dank für die Kräuter. Die Tinktur ist gemischt und im Umkreis der Pyramiden verteilt. Für euch ist sie ungefährlich, aber die dunklen Wesen werden daran vergehen. 
+
+Doch gebt acht! Sie hält nur eine bestimmte Zeit, dann ist sie verdunstet! Wollt ihr sie erneuern, müsst ihr uns die Kräuter nochmals liefern!"
+</text>
+      </lang>
+    </block>
+    <block id="300">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+一时疏忽，人生便急转直下！你的挚友与英雄哈奇因你大意而殒命！失此英雄，你便无缘得见任务终局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held HATSCHI erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
+</text>
+      </lang>
+    </block>
+    <block id="400">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+一时疏忽，人生便急转直下！你的挚友与英雄西格德因你大意而殒命！失此英雄，你便无缘得见任务终局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held SIGURD erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="500">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+一时疏忽，人生便急转直下！你的挚友与英雄——巨龙诺伯特——因你大意而殒命！失此英雄，你便无缘得见任务终局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="CHN">
+        <text>
+
+
+我们成功了——覆好金字塔外壁，并以我等大军将黑暗威胁拒于此奇迹之外！
+
+蛇形之众，见我联族之众势大，仓皇远遁！
+
+今金字塔昼如水晶映日，夜则在星与皓月下幽幽生辉……
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Wir hatten es geschafft, die Pyramide zu verkleiden und mit unserem Heer die dunkle Bedrohung von diesem Weltwunder fernzuhalten! 
+
+Die Schlangenwesen suchten bei der Übermacht unserer vereinten Völker das Weite!
+ 
+Nun leuchteten die Pyramiden am Tag wie Kristalle in der Sonne und schimmerten geheimnisvoll bei Nacht unter den Sternen im gleißenden Mondlicht...
+</text>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="CHN">
+        <text>
+
+
+当昔年诸奇迹尚并立于大地之时，海中升起一雄伟之岛，岛心矗一巨柱方尖碑。
+
+此乃其一，最后一道世界奇迹，能将诸力尽纳于一身……
+
+然诸贤之议会茫然无措，因方尖碑早该展露其力。于是我们下一目标既定：奔赴第八大奇迹！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+In der Zeit, als einst alle Weltwunder noch auf der Erde vereint standen, erhob sich eine mächtige Insel im Meer, auf dem ein mächtiger Obelisk thronte. 
+
+Dies war das eine, das letzte Weltwunder, das die Kraft aller in sich binden konnte...
+
+Die Weisen des Völkerrates jedoch waren ratlos, denn der Obelisk hätte seine Kraft schon längst entfalten müssen. So war unser nächstes Ziel beschlossen: wir machten uns auf zum ACHTEN WELTWUNDER!
+</text>
+      </lang>
+    </block>
+    <block id="50_endheader">
+      <lang code="CHN">
+        <text>
+
+
+任务成功！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+MISSION GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="600">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+一时疏忽，人生便急转直下！玛尼——比雅尼与希拉之子——因你大意而殒命！失此英雄，你便无缘得见任务终局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+
+
+吉萨金字塔
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DIE PYRAMIDEN VON GIZEH
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

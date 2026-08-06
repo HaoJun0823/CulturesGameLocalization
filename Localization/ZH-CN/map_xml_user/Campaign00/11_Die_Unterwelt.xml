@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="11_Die_Unterwelt" export_map_id="11_Die_Unterwelt" map_md5="1a0c7392fbbfd8c3ba4171ce0ca0b947" IsC2M="true">
+  <languages>
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">地下世界</text>
+      <text lang="ger">Die Unterwelt</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">我们抵达了地下世界。这里究竟会有什么在等着我们呢？</text>
+      <text lang="ger">Wir waren in der Unterwelt angekommen. Was würde und hier nur erwarten?</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+    </string>
+    <string id="4">
+      <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+    </string>
+    <string id="50">
+      <text lang="CHN">玩家0</text>
+      <text lang="ger">Spieler0</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">玩家1</text>
+      <text lang="ger">Spieler1</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">玩家2</text>
+      <text lang="ger">Spieler2</text>
+    </string>
+    <string id="53">
+      <text lang="CHN">玩家3</text>
+      <text lang="ger">Spieler3</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="findmappos1">
+      <lang code="CHN">
+        <text>宝箱！？！嗯，里面究竟会装着什么呢？？</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Schatztruhen !?! Hmm, was mochte dort nur drin sein??
+
+</text>
+      </lang>
+    </block>
+    <block id="findmappos2">
+      <lang code="CHN">
+        <text>嗯，从这里往前似乎再也找不到能吃的东西了。我们打算先回去酿些营养药水……</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Hmm, ab hier schien es wohl nichts essbares mehr zu geben. Wir wollten erstmal zurück um Nahrungstränke herzustellen....
+
+</text>
+      </lang>
+    </block>
+    <block id="lost_body">
+      <lang code="CHN">
+        <text>你失败了！！
+要不去玩一局大富翁吧。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Du hast verloren !!
+Versuchs doch mal mit einer Partie Monopoly.
+
+</text>
+      </lang>
+    </block>
+    <block id="lost_header">
+      <lang code="CHN">
+        <text>任务失败！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Mission verloren!
+
+</text>
+      </lang>
+    </block>
+    <block id="playerdied1">
+      <lang code="CHN">
+        <text>我们诅咒你们。愿黑暗之蛇将你们毁灭。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Wir verfluchen Euch.Mögen die Schlangen der Finsternis Euch vernichten.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerdied2">
+      <lang code="CHN">
+        <text>守门者也被消灭了。如今我们可以踏入那道门了。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Die Torwächter waren auch vernichtet.Nun konnten wir das Tor betreten.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerdied3">
+      <lang code="CHN">
+        <text>嘶嘶、咝咝、吐信……我们一句也没听懂。这该不会又是一句诅咒吧？</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Zisch,Pfeiff,Züngel...Wir verstanden nur Bahnhof.Sollte das wieder ein Fluch gewesen sein?
+
+</text>
+      </lang>
+    </block>
+    <block id="playerfriendly1">
+      <lang code="CHN">
+        <text>玩家1现在转为友好。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 1 ist jetzt freundlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerfriendly2">
+      <lang code="CHN">
+        <text>玩家2现在转为友好。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 2 ist jetzt freundlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerfriendly3">
+      <lang code="CHN">
+        <text>玩家3现在转为友好。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 3 ist jetzt freundlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerneutral1">
+      <lang code="CHN">
+        <text>玩家1现在转为中立。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 1 ist jetzt neutral.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerneutral2">
+      <lang code="CHN">
+        <text>玩家2现在转为中立。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 2 ist jetzt neutral.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerneutral3">
+      <lang code="CHN">
+        <text>玩家3现在转为中立。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 3 ist jetzt neutral.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerseen1">
+      <lang code="CHN">
+        <text>守卫！！
+站住，外来者。我们是帝王谷入口的守卫。若还惜命，就别再往前。
+任务目标1：消灭守卫。
+任务目标2：找到通往帝王谷的入口。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Die Wächter !!
+Halt ihr Fremden. Wir sind die Wächter des Eingangs vom Tal der Könige. Wenn euch an eurem Leben etwas liegt geht nicht weiter.
+Missionsziel 1: Vernichte die Wächter.
+Missionsziel 2: Suche den Eingang zum Tal der Könige. 
+
+</text>
+      </lang>
+    </block>
+    <block id="playerseen2">
+      <lang code="CHN">
+        <text>守门者！！
+你们将葬身此地，一个声音喊道。他这话倒也不算全错，毕竟这些守门者在人数上占了上风……
+任务目标：消灭守门者。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Die Torwächter !!
+Hier werdet ihr sterben rief eine Stimme. Ganz unrecht hatte er nicht damit, schließlich waren diese Torwächter in der Überzahl...
+Missionsziel:Vernichte die Torwächter.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerseen3">
+      <lang code="CHN">
+        <text>黑暗之蛇！！
+原来这就是那句诅咒。它们像秃鹫一样朝我们扑来。若想抵达帝王谷，我们也必须把它们消灭。
+任务目标：消灭黑暗之蛇。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Die Schlangen der Finsternis !!
+Dies war also der Fluch gewesen. Wie Aasgeier fielen sie über uns her. Wir mußten auch sie vernichten, wollten wir zum Tal der Könige kommen.
+Missionsziel: Vernichte die Schlangen der Finsternis.
+
+</text>
+      </lang>
+    </block>
+    <block id="start_body">
+      <lang code="CHN">
+        <text>喂，你只该找到入口，不该走进去。是你先进去的，我只是跟着你罢了。才不是呢。才不是呢。就在这时，我们中有人已经探过了周边。喂，大伙儿别吵了，北边有一座美丽的山谷。是个安家落户的理想之地。真的？太好了。那还等什么，走……
+任务目标：找到北边的山谷并建立一处新的定居点，之后继续探索周边。
+
+
+制作者：尤基</text>
+      </lang>
+      <lang code="ger">
+        <text>
+He, Du solltest den Eingang nur finden, aber nicht hineingehen. Du bist hineingegangen, ich bin Dir nur gefolgt. Nee Du. Nee Du. Inzwischen hatte einer von uns die Gegend erkundet. Hee Leute, streitet Euch nicht, im Norden liegt ein schönes Tal. Ein idealer Platz zum Siedeln. Echt? Super. Nichts wie hin...
+Missionsziel:Suche das Tal im Norden und baue eine neue Siedlung auf, danach erkunde die Gegend weiter.
+
+
+Erstellt von: Yogi
+
+</text>
+      </lang>
+    </block>
+    <block id="start_header">
+      <lang code="CHN">
+        <text>地下世界</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Die Unterwelt
+
+</text>
+      </lang>
+    </block>
+    <block id="won_body">
+      <lang code="CHN">
+        <text>我们险之又险地取得了胜利。帝王谷里又会有什么在等着我们呢？</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Wir hatten um haaresbreite gesiegt. Was würde uns im Tal der Könige erwarten?
+
+</text>
+      </lang>
+    </block>
+    <block id="won_header">
+      <lang code="CHN">
+        <text>任务达成！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Mission gewonnen!
+
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="multiplayer_202_special_millitär" export_map_id="multiplayer_202_special_millitar" map_md5="7bdf3beb82473a6516b05ea3a883c845" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+<string id="0">
+      <text lang="CHN">龙之地 I</text>
+      <text lang="ger">DRACHENLAND I</text>
+    </string>
+<string id="1">
+      <text lang="CHN">5 名玩家：巨龙定期出巢，给民众带来灾祸！密林中的恶狼阻断了所有退路……</text>
+      <text lang="ger">5 Spieler: Die Drachen kommen regelmäßig aus ihren Höhlen, um Unheil über die Bevölkerung zu bringen! Die Wölfe im dichten Wald verhindern jede Flucht...</text>
+    </string>
+<string id="2">
+      <text lang="CHN">你来到此地，是为了将巨龙重新封印回巢穴！</text>
+      <text lang="ger">Du bist hier, um die Drachen wieder in ihren Höhlen einzusperren!</text>
+    </string>
+<string id="3">
+      <text lang="CHN">训练足够士兵，在狼林中寻找隐藏的开关并启动它们。开关会不定期出现在各位置，每启动一处便封闭一座龙巢之门。</text>
+      <text lang="ger">Generiere genügend Soldaten, um im Wolfswald nach verborgenen Schaltern zu suchen und sie zu betätigen. Die Schalter erscheinen in unregelmäßigen Abständen an ihren Positionen und schließen jeweils eine Tür einer Drachenhöhle.</text>
+    </string>
+<string id="5">
+      <text lang="CHN">抵御巨龙的进攻——它们会频繁来袭。</text>
+      <text lang="ger">Verteidige dich gegen die Angriffe der Drachen, die dich häufig angreifen werden.</text>
+    </string>
+<string id="6">
+      <text lang="CHN">四座龙巢尽数封闭，则全员任务达成。</text>
+      <text lang="ger">Sind alle vier Drachenhöhlen verschlossen, ist die Mission für alle gewonnen.</text>
+    </string>
+<string id="10">
+      <text lang="CHN">维京人</text>
+      <text lang="ger">Wikinger</text>
+    </string>
+<string id="11">
+      <text lang="CHN">维京 1</text>
+      <text lang="ger">Wiki. 1</text>
+    </string>
+<string id="20">
+      <text lang="CHN">维京人</text>
+      <text lang="ger">Wikinger</text>
+    </string>
+<string id="21">
+      <text lang="CHN">维京 2</text>
+      <text lang="ger">Wiki. 2</text>
+    </string>
+<string id="30">
+      <text lang="CHN">维京人</text>
+      <text lang="ger">Wikinger</text>
+    </string>
+<string id="31">
+      <text lang="CHN">维京 3</text>
+      <text lang="ger">Wiki. 3</text>
+    </string>
+<string id="40">
+      <text lang="CHN">维京人</text>
+      <text lang="ger">Wikinger</text>
+    </string>
+<string id="41">
+      <text lang="CHN">维京 4</text>
+      <text lang="ger">Wiki. 4</text>
+    </string>
+<string id="50">
+      <text lang="CHN">维京人</text>
+      <text lang="ger">Wikinger</text>
+    </string>
+<string id="51">
+      <text lang="CHN">维京 5</text>
+      <text lang="ger">Wiki. 5</text>
+    </string>
+<string id="70">
+      <text lang="CHN">狼族生物</text>
+      <text lang="ger">Wolfskreaturen</text>
+    </string>
+<string id="71">
+      <text lang="CHN">恶狼</text>
+      <text lang="ger">Wölfe</text>
+    </string>
+<string id="80">
+      <text lang="CHN">巨龙</text>
+      <text lang="ger">Drachen</text>
+    </string>
+<string id="81">
+      <text lang="CHN">巨龙</text>
+      <text lang="ger">Drachen</text>
+    </string>
+</strings>
+<briefings>
+<block id="01"><lang code="CHN"><text>
+石门闭合！
+
+西北方深处的洞穴之门，在轰然巨响中缓缓合拢。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+TOR GESCHLOSSEN!
+
+Das Tor zur Höhle weit im Nordwesten hat sich unter lautem Dröhnen geschlossen...
+</text>
+      </lang>
+    </block>
+
+    <block id="02">
+      <lang code="CHN">
+                <text>
+石门闭合！
+
+东北方深处的洞穴之门，在轰然巨响中缓缓合拢。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+TOR GESCHLOSSEN!
+
+Das Tor zur Höhle weit im Nordosten hat sich unter lautem Dröhnen geschlossen...
+</text>
+      </lang>
+    </block>
+
+    <block id="03">
+      <lang code="CHN">
+                <text>
+石门闭合！
+
+东南方深处的洞穴之门，在轰然巨响中缓缓合拢。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+TOR GESCHLOSSEN!
+
+Das Tor zur Höhle weit im Südosten hat sich unter lautem Dröhnen geschlossen...
+</text>
+      </lang>
+    </block>
+
+    <block id="04">
+      <lang code="CHN">
+                <text>
+石门闭合！
+
+西南方深处的洞穴之门，在轰然巨响中缓缓合拢。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+TOR GESCHLOSSEN!
+
+Das Tor zur Höhle weit im Südwesten hat sich unter lautem Dröhnen geschlossen...
+</text>
+      </lang>
+    </block>
+
+    <block id="begin_00">
+      <lang code="CHN">
+                <text>
+这片土地正陷于危难！
+
+盘踞群山的恐怖巨龙倾巢而出，为祸四方。
+
+我们必须顶住它们的攻势，设法将其逐回巢穴。
+
+相传狼林深处，藏着启动古老机关的法门，可助此役。
+
+但当心！潜行密林的恶狼，会悄悄扑向落单之人。
+
+抵御巨龙，寻得狼林中的开关，它们能……
+
+提示：
+此处资源虽丰，但玩家越多，竞争越烈。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+Es herrscht Not im Land!
+
+Die furchtbaren Drachen, die in den Bergen hausen, sind aus ihren Höhlen gekrochen, um in den Dörfern hier nach Beute zu jagen!
+Sie werden bald hier sein, und sie kehren regelmäßig wieder. Mit ihren Überfällen bringen sie viel Unheil über die Bevölkerung! 
+
+Wir müssen ihren Angriffen stand halten und versuchen, sie wieder in ihren Höhlen einzuschließen! 
+
+Im Wolfswald soll es zu diesem Zweck alte Mechanismen geben, welche die schweren Eisentüren zu den vier Drachenhöhlen schließen, aus denen die Biester kommen. Diese Schalter sind die meiste Zeit unsichtbar, tauchen aber von Zeit zu Zeit auf. Dann muss man schnell die Chance nutzen und die Schalter betätigen! 
+
+Doch nimm dich in acht! Wölfe, die sich im dichten Wald verstecken, erschweren dieses Vorhaben erheblich... 
+
+
+
+Wehre dich gegen die Drachen und finde die Schalter im Wolfswald, welche die Drachenhöhlen verschließen! Geh' nicht unbedacht in den Wald oder entferne dich zu weit vom Hauptlager, bevor deine Leute zum Kampf gerüstet sind!
+
+HINWEIS:
+Rohstoffe gibt es hier zwar genug, doch je mehr Spieler mitspielen, desto begrenzter wird der Platz. Wenn mehr Platz benötigt wird, muss man sich diesen gegen die Wolfskreaturen erkämpfen...
+</text>
+      </lang>
+    </block>
+
+    <block id="header">
+      <lang code="CHN">
+                <text>
+龙之地 I
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+DRACHENLAND I
+
+</text>
+      </lang>
+    </block>
+</briefings>
+</localization>

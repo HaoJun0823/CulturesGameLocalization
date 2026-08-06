@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_03_06_sub2" export_map_id="campaign_03_06_sub2" map_md5="7a473108b75610b3e3fda0f335b1b97a" IsC2M="false">
+  <languages>
+    <language code="GER" alias="GER" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="GER">@GELANGE ZUM ARTEFAKT!</text>
+    </string>
+    <string id="53">
+      <text lang="GER">Eliser</text>
+    </string>
+    <string id="63">
+      <text lang="GER">Eliser</text>
+    </string>
+    <string id="71">
+      <text lang="GER">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="GER">Cyra</text>
+    </string>
+    <string id="73">
+      <text lang="GER">Hatschi</text>
+    </string>
+    <string id="74">
+      <text lang="GER">Sigurd</text>
+    </string>
+    <string id="75">
+      <text lang="GER">Norbert</text>
+    </string>
+    <string id="76">
+      <text lang="GER">Mani</text>
+    </string>
+    <string id="79">
+      <text lang="GER">Eliser</text>
+    </string>
+    <string id="99">
+      <text lang="GER">DAS FLAMMENMEER</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="GER">
+        <text> 
+Eine unwirtliche Gegend verbarg sich unter der Kaserne. Dies waren die ehemaligen Kellerräume der Spartaner!
+
+</text>
+        <usericon>1,108,35</usericon>
+        <text>
+
+Aber wie musste sich dieser Ort verändert haben! Sie schienen ihre Stadt auf einem Vulkan errichtet zu haben.
+</text>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="GER">
+        <text> 
+Gelange zum Artefakt. Pass auf feuerspeiende Felswände auf! 
+</text>
+      </lang>
+    </block>
+    <block id="01">
+      <lang code="GER">
+        <text> 
+KELLERWÄCHTER
+
+"Früher waren diese Lager gefüllt, aber nun reißen die Felsspalten auf und überall tritt Feuer aus. Alle Zugänge zu den Lagern sind blockiert.
+
+</text>
+        <usericon>1,100,55</usericon>
+        <text>
+
+Die Schalter, die früher mal die Tore zu den Lagern öffneten, sind eingerostet, bis auf einen. Doch was soll ich Fliegengewicht da schon ausrichten..."
+</text>
+      </lang>
+    </block>
+    <block id="02">
+      <lang code="GER">
+        <text> 
+VORSICHT!
+
+Die Flammen haben schon so manchen Helden sein Leben gekostet!
+</text>
+      </lang>
+    </block>
+    <block id="03">
+      <lang code="GER">
+        <text> 
+FLAMMEN GELÖSCHT!
+
+Gemeinsam hatten wir es geschafft, den Schalter zu betätigen, aber er öffnete keine Tür! Ein starker Luftzug durchströmte die Hallen und blies die blockierenden Flammen für eine gewisse Zeit aus.
+</text>
+      </lang>
+    </block>
+    <block id="04">
+      <lang code="GER">
+        <text> 
+SCHALTER BETÄTIGT
+
+Zwar schafften wir es, den Schalter zu betätigen, aber es zeigte sich dadurch keinerlei Wirkung.
+
+</text>
+        <usericon>1,90,70</usericon>
+      </lang>
+    </block>
+    <block id="05">
+      <lang code="GER">
+        <text> 
+SCHALTER
+
+Dieser Schalter zeigte keine Wirkung. Vielleicht war die Kraft eines Einzelnen nicht stark genug...
+
+</text>
+        <usericon>1,85,50</usericon>
+      </lang>
+    </block>
+    <block id="06">
+      <lang code="GER">
+        <text> 
+SCHALTER
+
+Zwar schafften wir es, den Schalter zu betätigen, aber es zeigte sich dadurch keinerlei Wirkung.
+
+</text>
+        <usericon>1,111,65</usericon>
+      </lang>
+    </block>
+    <block id="07">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+So ein Pech! Der ELISER starb in den Flammen.
+Die Mission war gescheitert.
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="200">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="400">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held SIGURD erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="500">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="GER">
+        <text> 
+Das wäre geschafft! Endlich hielten wir das Artefakt in unseren Händen und konnten das Flammenmeer verlassen. 
+
+Und wir wollten auch keine Minute länger verweilen!
+</text>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="GER">
+        <usericon>1,136,102</usericon>
+      </lang>
+    </block>
+    <block id="50_endheader">
+      <lang code="GER">
+        <text> 
+MISSION GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="600">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="GER">
+        <text> 
+DAS FLAMMENMEER
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

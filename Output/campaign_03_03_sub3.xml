@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_03_03_sub3" export_map_id="campaign_03_03_sub3" map_md5="de806c0d97818eeb236fee07c1fc82fd" IsC2M="false">
+  <languages>
+    <language code="GER" alias="GER" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="GER">Shortdescription 0</text>
+    </string>
+    <string id="1">
+      <text lang="GER">Shortdescription 1</text>
+    </string>
+    <string id="50">
+      <text lang="GER">Spieler</text>
+    </string>
+    <string id="51">
+      <text lang="GER">Wächter</text>
+    </string>
+    <string id="60">
+      <text lang="GER">Spieler</text>
+    </string>
+    <string id="61">
+      <text lang="GER">Wächter</text>
+    </string>
+    <string id="71">
+      <text lang="GER">Bjarni</text>
+    </string>
+    <string id="98">
+      <text lang="GER">KOLOSS-ORAKEL</text>
+    </string>
+    <string id="99">
+      <text lang="GER">KOLOSS-ORAKEL</text>
+    </string>
+    <string id="100">
+      <text lang="GER">Sprich mit dem Orakel. Wage dich in seine Nähe!</text>
+    </string>
+    <string id="110">
+      <text lang="GER">Verlasse das Orakel wieder...</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="GER">
+        <text> 
+In den Gewölben des Tempels führte ein Weg hinunter zum heiligen Platz des Orakels. Doch was wir hier sahen, ließ uns den Atem stocken!
+
+Das Orakel - es war niemand geringeres als Circe! Tochter des Sonnengottes Helios und der Mondgöttin Perse! 
+Sie war eine mächtige Zauberin und vor allem dafür berüchtigt, Männern die Sinne zu verdrehen und sie in Tiere zu verwandeln!
+
+Welches Schicksal mochte uns hier erwarten? Hatte man uns in eine Falle gelockt?
+
+
+Erreiche das Orakel.
+</text>
+      </lang>
+    </block>
+    <block id="09_end_header">
+      <lang code="GER" />
+    </block>
+    <block id="09_end_text1">
+      <lang code="GER">
+        <text> 
+AUSGANG
+
+Nun, das war ja doch einfacher gewesen, als wir uns das vorgestellt hatten.
+
+Gespannt traten wir ins Freie um zu sehen, wie sich der Zorn der Götter bemerkbar machen würde...
+</text>
+      </lang>
+    </block>
+    <block id="10">
+      <lang code="GER">
+        <text> 
+CIRCE
+
+Als wir Circe gegenüber traten, richtete die Göttin mit geheimnisvoller Stimme das Wort an uns:
+
+"Durch mich spricht Helios, Gott der Sonne, Beschützer von Rhodos.
+Höre, Fremder, wisse, eure Not ward mir bekannt. Fallen soll Demetrios, elender Frevler, mit all seinen Mannen!
+Wer den Zorn der Götter heraufbeschwört, soll arges erleiden!
+
+Als Preis errichte eine Statue mir zu Ehren. Mächtig und strahlend, auf dass sie meinem Namen Ehre mache auf alle Zeit! 
+Sie soll die Stadt Rhodos zieren und sie stets an meine Hilfe erinnern! 
+
+Geh nun hinauf und sieh!"
+
+
+Verlasse das Orakel.
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="20">
+      <lang code="GER">
+        <text> 
+WÄCHTER DES ORAKELS
+
+Das musste ja so kommen... 
+Vor uns tauchte ein riesiger Dämon aus der Dunkelheit auf, der das Orakel bewachte!
+
+Mögen die Götter uns gnädig sein!
+</text>
+      </lang>
+    </block>
+    <block id="200">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="300">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held HATSCHI erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
+</text>
+      </lang>
+    </block>
+    <block id="400">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held SIGURD erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="500">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Obwohl man dich gewarnt hatte, hast du deine besten Freunde angegriffen! 
+
+So wirst du deine Mission nicht beenden können!
+</text>
+      </lang>
+    </block>
+    <block id="600">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Der Wächter der Orakels war stärker als du. 
+
+Nun wirst du nie erfahren, welches Geheimnis das Orakel birgt!
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="GER">
+        <text> 
+DAS ORAKEL
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

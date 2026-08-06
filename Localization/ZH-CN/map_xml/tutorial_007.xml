@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="tutorial_007" export_map_id="tutorial_007" map_md5="3b3960bc810b3db47d36a928a49a51c3" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">打开那些箱子！</text>
+      <text lang="ger">Öffne die Kisten!</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">用药剂武装你的维京战士！</text>
+      <text lang="ger">Rüste deine Wikingersoldaten mit den Tränken aus!</text>
+    </string>
+    <string id="2">
+      <text lang="CHN">用护符武装你的维京战士。</text>
+      <text lang="ger">Rüste deinen Wikingersoldaten mit Amuletten aus.</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">制服那些强盗！</text>
+      <text lang="ger">Stelle die Räuber!</text>
+    </string>
+    <string id="4">
+      <text lang="CHN">让木工打造 5 件木质工具！</text>
+      <text lang="ger">Lass vom Schreiner 5 Holzwerkzeuge herstellen!</text>
+    </string>
+    <string id="5">
+      <text lang="CHN">让铁匠打造 5 件铁质工具！</text>
+      <text lang="ger">Lass vom Schmied 5 Eisenwerkzeuge herstellen!</text>
+    </string>
+    <string id="6">
+      <text lang="CHN">将木工的生产转为家具，并制作 5 件！</text>
+      <text lang="ger">Stelle die Produktion des Schreiners auf Möbel und lass 5 Stück herstellen!</text>
+    </string>
+    <string id="7">
+      <text lang="CHN">将陶匠的生产转为器皿，并制作 5 件！</text>
+      <text lang="ger">Stelle die Produktion des Töpfers auf Geschirr und lass 5 Stück herstellen!</text>
+    </string>
+    <string id="8">
+      <text lang="CHN">让裁缝制作鞋子！</text>
+      <text lang="ger">Lass vom Näher Schuhe herstellen!</text>
+    </string>
+    <string id="9">
+      <text lang="CHN">让德鲁伊炼制 5 单位油！</text>
+      <text lang="ger">Lass vom Druiden 5 Öl herstellen!</text>
+    </string>
+    <string id="10">
+      <text lang="CHN">前往此地以南的撒拉逊绿洲！</text>
+      <text lang="ger">Begib dich zur Sarazenenoase südlich von hier!</text>
+    </string>
+    <string id="11">
+      <text lang="CHN">找齐装有护符的所有箱子！</text>
+      <text lang="ger">Finde alle Kisten mit den Amuletten!</text>
+    </string>
+    <string id="50">
+      <text lang="CHN">比雅尼的部族</text>
+      <text lang="ger">Bjarnis Stamm</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">撒拉逊绿洲</text>
+      <text lang="ger">Sarazenenoase</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">撒拉逊城</text>
+      <text lang="ger">Sarazenenstadt</text>
+    </string>
+    <string id="53">
+      <text lang="CHN">城市</text>
+      <text lang="ger">Stadt</text>
+    </string>
+    <string id="54">
+      <text lang="CHN">强盗</text>
+      <text lang="ger">Räuber</text>
+    </string>
+    <string id="55">
+      <text lang="CHN">绿洲</text>
+      <text lang="ger">Oase</text>
+    </string>
+    <string id="71">
+      <text lang="CHN">比雅尼</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+    <string id="98">
+      <text lang="CHN">本关介绍增益道具与武器，并示范其用法与获取途径。</text>
+      <text lang="ger">Hier werden Bonusgegenstände und Waffen eingeführt und gezeigt, wie sie angewendet werden und wo man sie erhält.</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">7) 增益道具与武器</text>
+      <text lang="ger">7) BONUSGEGENSTÄNDE UND WAFFEN</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00">
+      <lang code="CHN">
+        <text>这里介绍奖励物品和武器，
+
+以及如何制造与获取它们。
+
+按照左侧菜单栏上方出现的任务提示操作即可。</text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Hier werden die Bonusgegenstände und Waffen eingeführt. 
+-	Aufsammeln
+-	Benutzen
+-	Auswirkungen/Anwendungen 
+-	Selbstproduzieren
+-	Abjagen von Bonusgegenständen
+-	Soldaten und Helden 
+
+Es gibt auch Dinge außer Wohnhäuser und Ehepartner, mit denen sich ein Wikinger ausrüsten kann und die direkten Einfluss auf seine Bedürfnisbefriedigung, seine Produktivität oder seine Fähigkeiten haben - die so genannten Bonusgegenstände.
+
+Die meisten Bonusgegenstände zeichnen sich dadurch aus, dass sie erst hergestellt werden müssen und sich durch ihre Benutzung langsam verbrauchen und erneuert werden müssen. Es gibt aber auch Bonusgegenstände, die Wikinger durch andere Völker erhalten oder auf ihrer Reise entdecken, meist in KISTEN...
+</text>
+      </lang>
+    </block>
+    <block id="01">
+      <lang code="CHN">
+        <text>
+箱子
+
+有可以打开的各种箱子——无论是男人、女人还是孩子。任何人都可以打开箱子。
+
+试着打开附近的箱子。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+KISTEN
+
+Es gibt Kisten, die von jedem Wikinger - ob Mann oder Frau - geöffnet werden können und so genannte magische Kisten, die nur einem Druiden oder Helden zugänglich sind. 
+Kisten beinhalten meist seltene und sehr nützliche Dinge, wie Tränke und Amulette. In manchen Fällen verbergen sich auch mächtige Hausbaubriefe in den Kisten. Und man hat schon von Kisten gehört, aus denen wilde Tiere und Menschen gesprungen sind...
+Um eine Kiste zu öffnen, musst du einen Wikinger ausgewählt haben und mit dem Mauszeiger über die Kiste fahren. Erscheint ein Hinweistext "Truhe öffnen", bestätige diesen mit einem Rechtsklick. 
+
+Öffne die drei Kisten in westlicher Richtung, darin befinden sich Tränke für deine Soldaten! 
+</text>
+      </lang>
+    </block>
+    <block id="02">
+      <lang code="CHN">
+        <text>
+药剂
+
+如果你在箱子里找不到药剂，也可以自己制作它们。
+
+制药需要对草药的深入了解。
+
+让你的德鲁伊来生产它们吧。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+TRÄNKE
+
+Wenn du die Tränke nicht in Kisten findest, aber sie trotzdem benötigst, müssen sie vom Druiden in der großen Alchemistenhütte hergestellt werden. Für die Herstellung dieser werden nicht nur Pilze und Öl gebraucht, sondern auch Wasser und Kräuter. Für geheime und höchst seltenen Zutaten benötigt der Druide zusätzlich Gold. Alle Wikinger, bis auf Frauen und Helden können mit diesen Versorgungs-, Heil-, und Kampftränken ausgestattet werden. Die kleinen Tränke können sie 2-mal benutzen, die großen Tränke 5-mal. Danach sind sie verbraucht.
+
+Es gibt NAHRUNGSTRÄNKE, die den Hunger stillen;  WACHTRÄNKE die vor Müdigkeit schützen und HEILTRÄNKE, die Verletzungen lindern. 
+
+Rüste deine Wikingersoldaten mit den Tränken aus, indem du alle - bis auf BJARNI! - als Gruppe auswählst und die Leertaste betätigst. Wähle das Menü "WECHSLE AUSRÜSTUNG" und weise ihnen die Tränke zu! Auch kannst du jedem Einzelnen sagen, wie viele Tränke er von einer Sorte nehmen soll, indem du im Figurenmenü jedes Einzelnen die runden gelben Button betätigst. Dadurch öffnet sich ebenfalls das Ausrüstungsmenü. 
+</text>
+      </lang>
+    </block>
+    <block id="03">
+      <lang code="CHN">
+        <text>
+很好，你找到了所有装有药剂的箱子！
+
+前往南边的撒拉逊人定居点，寻找装有护身符的箱子。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Gut du hast alle Kisten mit Tränken gefunden!
+
+Begib dich, nachdem du deine Soldaten mit Tränken ausgestattet hast zur Sarazenenoase südlich von hier! Dort wirst du geheimnisvolle Amulette finden!
+</text>
+      </lang>
+    </block>
+    <block id="04">
+      <lang code="CHN">
+        <text>
+护身符
+
+它们无法制造，只能找到或通过交易获得。护身符赋予佩戴者特殊的能力。
+
+例如，有些护身符能提高攻击力，有些能提供保护。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+AMULETTE
+ 
+Sie können nicht hergestellt, nur gefunden oder im Tausch mit anderen Völkern erworben werden. Alle männlichen Wikinger, bis auf Helden, können mit Amuletten ausgestattet werden. Sie verleihen dem Träger bestimmte Eigenschaften und verbrauchen sich nie. Es gibt verschieden Arten der Amulette:
+Ein Nahrungsamulett schützt den Träger vor Hunger, ein Wachbleibamulett vor Müdigkeit, ein Stärkeamulett verleiht den Träger Mut und Tapferkeit und erhöht die Stärke des Trägers beim Angriff um 50 Prozent, ein Verteidigungsamulett schwächt Angriffe wilder Tiere und feindlicher Völker ab, ein Trefferamulett verstärkt mit einer Wahrscheinlichkeit von 20 Prozent die Stärke des Trägers bei Angriffen auf wilde Tiere und Feinde um 100 Prozent und 
+mit einem Windamulett verleiht kann sich der Träger schneller fortbewegen. 
+
+Finde alle sechs Amulette im Sarazenendorf und rüste deinen Wikingersoldaten mit Amuletten aus, indem du vorgehst, wie bei den Tränken.
+</text>
+      </lang>
+    </block>
+    <block id="05">
+      <lang code="CHN">
+        <text>好！你已找到撒拉逊人村庄里的所有护
+
+身符！护身符会赋予
+
+你的士兵特殊的能力。
+
+但你要处理掉那些强盗，
+
+他们威胁着你的维京人。</text>
+      </lang>
+      <lang code="ger">
+        <text> 
+GUT! Du hast alle Amulette im Sarazenendorf gefunden! Wenn du mit offenen Augen durch das Dorf inspiziert hast, müssten dir auch einige Waffen aufgefallen sein. 
+
+RÜSTUNGEN UND WAFFEN
+
+Waffen und Rüstungen können einerseits von deinem Wikingerstamm hergestellt werden, andererseits kann man sie anderen Kriegern im Kampf auch abjagen. Denn jeder besiegte Krieger hinterlässt seine Waffe, Rüstung und auch seine unangebrochenen Tränke und Amulette. Mit diesen kannst du deine Wikingersoldaten dann problemlos ausstatten. 
+
+Probier dies aus! Unweit nördlich von hier, treiben fünf Räuber ihr Unwesen, die oft über das Sarazenendorf herfallen und auch eine Bedrohung für dein Dorf darstellen können. Stelle sie und nutze ihre Ausrüstungsgegenstände!
+
+
+P.S. Eine Übersicht, welche Waffen gegen welche Rüstung effektiv ist und welche nicht, findest du in der Hilfe und in der Waffeneffizienzübersicht im Handbuch. 
+</text>
+      </lang>
+    </block>
+    <block id="06">
+      <lang code="CHN">
+        <text>
+你出色地解决了强盗！现在箱子不会再被盗走了。
+但你村子里仍然缺少药剂和护身符的持续供应。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Die Räuber hast du mit Bravur gestellt! Du kannst die Karte gerne noch nach weiteren Kisten und Ausrüstungsgegenständen absuchen ... 
+</text>
+      </lang>
+    </block>
+    <block id="07">
+      <lang code="CHN">
+        <text>
+……不过回到你的平民百姓
+
+身上，他们也需要神奇的物件。
+
+为了让你的维京人更加幸福，你还可以生
+
+产家具和其他奢侈品。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+... aber zurück zu deiner zivilen Bevölkerung, denn auch hier kannst du viel zum Wohlergehen beitragen:
+
+HOLZWERKZEUG
+
+Erhöhung der Produktivität eines Arbeiters. In derselben Zeit wird er mit einem Holzwerkzeug aus derselben Menge Rohstoffe mehr Waren herstellen als ohne Holzwerkzeug. Holzwerkzeuge werden vom Schreiner hergestellt.
+
+Lass vom Schreiner 5 Holzwerkzeuge herstellen und verteile sie an die Bevölkerung, indem du im Extra Menü (der Button mit dem Kistensymbol) den Befehl "immer Holzwerkzeug an Zivilisten vereilen" AN schaltest!
+</text>
+      </lang>
+    </block>
+    <block id="08">
+      <lang code="CHN">
+        <text>
+铁制工具
+
+铁制工具比木制工具更能提高工人的生产力。也就是说，产出会更高。
+
+铁制工具由铁匠用铁锭制作而成。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+EISENWERKZEUG
+
+Eisenwerkzeuge steigern die Produktivität eines Arbeiters noch stärker als Holzwerkzeuge. Sprich, der Output ist damit noch höher. Eisenwerkzeuge werden vom Schmied hergestellt.
+
+Lass vom Schmied Eisenwerkzeuge herstellen und verteile sie an die Bevölkerung, indem du vorgehst, wie bei den Holzwerkzeugen!
+</text>
+      </lang>
+    </block>
+    <block id="09">
+      <lang code="CHN">
+        <text>
+家具
+
+当住所内有家具（床）时，居民的睡眠质量会大大提升。他们的睡眠需求会完全满足！
+
+家具由木匠铺中的木工制作。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+MÖBEL
+
+Sind Möbel (Betten) in der Wohnung, schlafen die Bewohner wesentlich besser. Ihr Schlafbedarf wird vollständig gedeckt! Möbel werden vom Schreiner hergestellt und von den Frauen ins Wohnhaus gebracht.
+
+Stelle die Produktion des Schreiners in deinem Dorf auf Möbel um und rüste deine Wohnhäuser damit aus!
+</text>
+      </lang>
+    </block>
+    <block id="10">
+      <lang code="CHN">
+        <text>
+餐具
+
+有了餐具，女人们可以把饭菜做得更美味。这能提高维京人的幸福感。
+
+餐具由陶匠在陶艺坊中制作。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+GESCHIRR
+
+Mit Geschirr können Frauen das Essen verfeinern und aus einem Essen zwei machen!
+Geschirr wird vom Töpfer hergestellt.
+
+Stelle die Produktion des Töpfers auf Geschirr um und rüste deine Wohnhäuser damit aus!
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="CHN">
+        <text>
+英勇还是鲁莽？比雅尼死去时，众神为之落泪……
+没有这位英雄，你将无法完成使命。
+下次小心！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen Held wäre dir in den Kampagnen das Ende verborgen geblieben und du hättest von vorne beginnen müssen! 
+
+</text>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+      </lang>
+    </block>
+    <block id="11">
+      <lang code="CHN">
+        <text>
+鞋子
+
+每个赤脚的维京人都会为一双合脚的鞋感到高兴。
+
+鞋子可以增加移动速度，还能保护脚免受伤害。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+SCHUHE
+
+Jeder barfüssige Wikinger freut sich über ein paar Schuhe, denn diese machen das Laufen angenehmer. Ein Wikinger mit Schuhen läuft schneller und verliert beim Laufen weniger Energie, sodass er nicht so schnell hungrig bzw. müde wird. Schuhe werden in der Näherei hergestellt.
+
+Lass vom Näher Schuhe herstellen und verteile sie an die Bevölkerung und bringe fünf ins Hauptquartier!
+</text>
+      </lang>
+    </block>
+    <block id="12">
+      <lang code="CHN">
+        <text>
+油脂（圣火）
+
+每个住宅建筑外面都有一盏油灯。灯需要油脂来燃烧。
+
+油脂由德鲁伊在炼金工坊里用香草和动物脂肪制作。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+ÖL (Heiliges Feuer)
+
+Außen an jedem Wohngebäude befindet sich eine Metallschale, die eine Frau mit Öl füllen und daran das Heilige Feuer entzünden kann. Wenn diese bläuliche Flamme brennt, kann der Mann zu Hause beten. Sein Bedarf an Religion wird dort vollständig gedeckt! Öl wird vom Druiden hergestellt. 
+
+Lass vom Druiden 5 Öl herstellen und bringe sie ins Haupthaus!
+</text>
+      </lang>
+    </block>
+    <block id="13">
+      <lang code="CHN">
+        <text>
+太棒了！
+
+现在，如果你按顺序完成了所有步骤，你就掌握了游戏最重要的方面。
+
+通过魔法对象和特殊武器，你的维京人将战无不胜！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+SUPER!
+
+Nun hast du, wenn du der Reihe nach vorgegangen bist, alle Tutorials perfekt bestanden! 
+
+Du kannst übrigens jederzeit die einzelnen Tutorials unabhängig voneinander erneut spielen, um dein Wissen über die Spielmechanismen aufzufrischen. 
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+奖励物品与武器——通过药剂和护身符强化军队
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+BONUSGEGENSTÄNDE UND WAFFEN
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

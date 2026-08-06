@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="singleplayer_01_09" export_map_id="singleplayer_01_09" map_md5="99a236446479fee56224647b6ec8763d" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+<string id="0">
+      <text lang="CHN">猎杀最多的狼</text>
+      <text lang="eng">Kill the most wolves.</text>
+      <text lang="ger">Erlege die meisten Wölfe</text>
+    </string>
+<string id="50">
+      <text lang="CHN">比雅尼的子民</text>
+      <text lang="eng">Bjarni's Tribe</text>
+      <text lang="ger">Bjarnis Volk</text>
+    </string>
+<string id="51">
+      <text lang="CHN">法兰克国王</text>
+      <text lang="eng">King of the Franks</text>
+      <text lang="ger">Frankenkönig</text>
+    </string>
+<string id="52">
+      <text lang="CHN">拜占庭人</text>
+      <text lang="eng">Byzantines</text>
+      <text lang="ger">Byzantiner</text>
+    </string>
+<string id="98">
+      <text lang="CHN">国王号召全民参与一年一度的猎狼行动。今年，谁将成为狩猎之王？</text>
+      <text lang="eng">The King is inviting everyone to take part in the yearly wolf hunt. Who will be King of the Hunt this year?</text>
+      <text lang="ger">Der König ruft zur alljährlichen Wolfsjagd auf. Wer wird dieses Jahr König der Jagd?</text>
+    </string>
+<string id="99">
+      <text lang="CHN">大狩猎</text>
+      <text lang="eng">THE GREAT HUNT</text>
+      <text lang="ger">AUF DER JAGD</text>
+    </string>
+<string id="100">
+      <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+</strings>
+<briefings>
+<block id="0"><lang code="CHN">
+                <text>
+和每年春天一样，国王今年再次号召举行盛大的狩猎。他要求每位臣民肃清境内的狼群——那些寒冬里饿着肚子在牲畜棚周围游荡的狼群……
+
+谁能将森林里的狼清除干净，谁就会被封为狩猎之王，并且整整一年免除一切赋税。
+
+今年，你的维京人下定决心要夺下这个奖赏，但他们遇到了强劲的对手：著名的拜占庭猎人在河对岸安营扎寨，同样志在必得。
+
+谁能在最短的时间内猎杀最多的狼？
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Like every spring, the King is inviting everyone to take part in the great hunt. His subjects are asked to free the country of the wolf packs that lurk around the stables in winter ...
+
+Whoever manages to free the woods from the wolves will be proclaimed King of the Hunt and will not have to pay taxes for a year.
+
+This year your Vikings intend to obtain the prize, but they have strong competition: Famous Byzantine hunters have settled on the other side of the river, and intend to win as well.
+
+
+Who will hunt the most wolves within the shortest time?
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Wie jeden Frühling ruft der König auch dieses Jahr wieder zur großen Jagd auf. Jeder seiner Untertanen ist dazu angehalten, das Land von den Wolfsrudeln zu befreien, die im Winter hungrig um die Viehställe gestrichen sind...
+
+Wer es Schafft, die Wälder von den Wölfen zu befreien, wird zum König der Jagd ausgerufen und wird zudem für ein Jahr von allen Abgaben befreit.
+
+Dieses Jahr haben sich deine Wikinger fest vorgenommen, den Preis zu erringen, aber sie haben starke Konkurrenz: Berühmte byzantinische Jäger haben sich auf der anderen Seite des Flusses niedergelassen und wollen den Preis ebenfalls für sich.
+
+
+Wer wird in kürzester Zeit die meisten Wölfe erlegen?
+</text>
+      </lang>
+    </block>
+
+    <block id="1">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+                <text>
+任务成功！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+                <text>
+成了！在一场盛大的典礼上，国王以最隆重的排场接见了我们。在欢腾的宴会上，他授予我们“狩猎之王”的荣誉称号。
+
+满载丰厚礼物的我们，几天后回到村庄——今年一整年，村庄都免于一切赋税。
+
+明年，我们要再来一较高下！
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION SUCCESSFUL!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Success! The King received us in a glorious ceremony. We received the honorary title "Kings of the Hunt". 
+
+Loaded with gifts, we returned to our village, which had been freed from any taxes for a year. 
+
+Next year we would try again!
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION GEWONNEN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Geschafft! In einer prachtvollen Zeremonie empfing uns der König mit allem Pomp. Bei einem rauschenden Fest verlieh er uns den Ehrentitel "König der Jagd". 
+
+Mit reichen Geschenken beladen kehrten wir einige Tage später in unser Dorf zurück, das für dieses Jahr von allen Abgaben befreit worden war. 
+
+Das nächste Jahr würden wir es wieder versuchen!
+</text>
+      </lang>
+    </block>
+
+    <block id="2">
+      <lang code="CHN">
+                <text>
+真是飞来横祸！你的英雄比雅尼，如今只能无奈地翘辫子了！下次可得小心些！
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+What a shame! Your hero Bjarni is sadly pushing up daisies! You had better take more care next time!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Was für ein Unglück! Bjarni, dein Held, schaut sich nun leider die Radieschen von unten an! Pass beim nächsten Mal besser auf!
+</text>
+      </lang>
+    </block>
+
+    <block id="3">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+                <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+                <text>
+输了！其他猎人抢在了我们前头！我们满心不情愿，却也不得不承认他们确实比我们更胜一筹。
+
+还是说，那仅仅是运气使然？当国王在盛大典礼上把“狩猎之王”的头衔授予他们时，我们暗暗发誓：明年定要再来！
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+You failed! The other hunters were faster! Reluctantly we had to admit that they had been better than us. 
+
+Or was it just luck? When the King gave them the title "Kings of the Hunt", we swore that we'd try again next year!
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Verloren! Die anderen Jäger waren uns zuvorgekommen! Widerwillig mussten wir uns eingestehen, dass sie besser waren als wir. 
+
+Oder war es nur Glück gewesen? Als der König ihnen in einer prächtigen Zeremonie den Titel "König der Jagd" verlieh, schworen wir uns, es nächstes Jahr wieder zu versuchen!
+</text>
+      </lang>
+    </block>
+
+    <block id="4">
+      <lang code="CHN">
+                <text>
+在这片国土的首都，国王坐镇于此。在这里，我们可以进行贸易。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+Here, in the capital, the King resided. Here we would be able to trade.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Hier, in der Hauptstadt des Landes, residierte der König. Hier konnten wir Handel treiben.
+</text>
+      </lang>
+    </block>
+
+    <block id="5">
+      <lang code="CHN">
+                <text>
+当我们遇见那些陌生的猎人时，并未受到多少热情的款待。他们志在必得地要夺下这个头衔，为此不惜不择手段！
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+When we met the strange hunters, we weren't exactly received with joy. They wanted that title, and would use any means to get it!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Als wir auf die fremden Jäger trafen, wurden wir nicht sonderlich freundlich empfangen. Sie wollten unbedingt den Titel erlangen und dazu war ihnen jedes Mittel recht!
+</text>
+      </lang>
+    </block>
+
+    <block id="6">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+                <text>
+任务成功！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+                <text>
+我们的战士将那些外人击溃逃窜。国王对这场较量的结局并不十分满意——这势必会引发外交上的纠葛。但如今，他再也无法将奖赏从我们手中夺走了！
+
+在一场欢腾的宴会上，他授予我们“狩猎之王”的荣誉称号。满载丰厚礼物的我们，几天后回到村庄——今年一整年，村庄都免于一切赋税。
+
+明年，我们要再来一较高下！
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION SUCCESSFUL!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+The strangers fled from our soldiers. The King wasn't too happy about the outcome of the competition, as it implied diplomatic disturbances. But he couldn't deny us the title! 
+
+The King received us in a glorious ceremony. We received the honorary title "Kings of the Hunt". Loaded with many gifts we returned to our village, which had been freed from any taxes for a year. 
+
+We would try the same again next year!
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION GEWONNEN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Unsere Krieger schlugen die Fremden in die Flucht. Der König war über diese Lösung des Wettstreites nicht allzu erfreut, würde es doch sicher zu diplomatischen Verwicklungen kommen. Doch den Preis konnte er uns nun nicht mehr verwehren! 
+
+Bei einem rauschenden Fest verlieh er uns den Ehrentitel "König der Jagd". Mit reichen Geschenken beladen kehrten wir einige Tage später in unser Dorf zurück, das für dieses Jahr von allen Abgaben befreit worden war. 
+
+Das nächste Jahr würden wir es wieder versuchen!
+</text>
+      </lang>
+    </block>
+
+    <block id="enemy">
+      <lang code="CHN">
+                <text>
+“你们很快就会知道，咱们谁更胜一筹！”其他猎人回应道。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+"You shall soon see which of us is stronger!" the hunters replied. 
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+"Ihr werdet schon sehen, wer von uns der Stärkere ist!" erwiderten die anderen Jäger auf unsere Reaktion. 
+</text>
+      </lang>
+    </block>
+
+    <block id="header">
+      <lang code="CHN">
+                <text>
+大狩猎
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE GREAT HUNT
+
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+AUF DER JAGD
+
+</text>
+      </lang>
+    </block>
+
+    <block id="playerdied">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+                <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+                <text>
+竞争对手将你的整个部族击溃，自然也由此赢得了这场狩猎。
+
+从逻辑上讲，你确实成了输家——可逝者又何必在乎什么逻辑……
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Your competition has eliminated your entire tribe, and they have won the hunt as well.
+
+Theoretically, you have lost. But what does a dead person care about failure ...
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Die Konkurrenz hat deinen gesamten Stamm niedergestreckt und somit natürlich die Jagd gewonnen.
+
+Was dich logisch gesehen zum Verlierer macht, aber was kümmern sich Tote schon um Logik...
+</text>
+      </lang>
+    </block>
+
+    <block id="sabotage">
+      <lang code="CHN">
+                <text>
+我们的狩猎看似进展顺利，却有风声传来：竞争对手正密谋发动阴险的突袭，意图将我们拒于胜利门外！
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+Our hunt was going well, but we heard rumours that our competition was planning a mean attack to keep us from winning!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Unsere Jagd schien gut voranzugehen, doch uns erreichten Gerüchte, die Konkurrenz plane einen hinterhältigen Angriff, um uns am Sieg zu hindern!
+</text>
+      </lang>
+    </block>
+</briefings>
+</localization>

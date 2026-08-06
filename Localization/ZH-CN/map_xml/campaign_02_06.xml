@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_02_06" export_map_id="campaign_02_06" map_md5="71af9ed1e22d706580a45984a238b471" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">@寻得世界树尤克特拉希尔，恳请进入冥界！</text>
+      <text lang="ger">@Finde die Weltenesche Yggdrasil und erbitte den Einlass zur Unterwelt!</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">寻找东北面的维京人村庄。</text>
+      <text lang="ger">Suche das Wikingerdorf im Nordosten.</text>
+    </string>
+    <string id="2">
+      <text lang="CHN">向维京人村庄缴纳其所索贡金，以获取情报与贸易协定。</text>
+      <text lang="ger">Zahle den Wikingerdorf den geforderten Tribut für Informationen und Handelsverträge.</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">建造一座神殿。</text>
+      <text lang="ger">Baue einen Tempel.</text>
+    </string>
+    <string id="4">
+      <text lang="CHN">与全部英雄一同抵达世界树尤克特拉希尔。</text>
+      <text lang="ger">Erreiche mit ALLEN Helden die Weltenesche Yggdrasil.</text>
+    </string>
+    <string id="31">
+      <text lang="CHN">向维京人村庄缴纳 10 单位铁制工具作贡金。</text>
+      <text lang="ger">Reiche dem Wikingerdorf 10 Eisenwerkzeuge zum Tribut.</text>
+    </string>
+    <string id="50">
+      <text lang="CHN">比雅尼的部族</text>
+      <text lang="ger">Bjarnis Stamm</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">维京人</text>
+      <text lang="ger">Wikinger</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">世界树教团</text>
+      <text lang="ger">Yggdrasils-Orden</text>
+    </string>
+    <string id="71">
+      <text lang="CHN">比雅尼</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="CHN">希拉</text>
+      <text lang="ger">Cyra</text>
+    </string>
+    <string id="73">
+      <text lang="CHN">哈奇</text>
+      <text lang="ger">Hatschi</text>
+    </string>
+    <string id="74">
+      <text lang="CHN">西格德</text>
+      <text lang="ger">Sigurd</text>
+    </string>
+    <string id="75">
+      <text lang="CHN">伊科尔</text>
+      <text lang="ger">Ykol</text>
+    </string>
+    <string id="98">
+      <text lang="CHN">当希拉为芬里尔狼戴上锁链，她便随它一同被拽入了瓦尔哈拉。可有办法将她救回？</text>
+      <text lang="ger">Als Cyra dem Fenriswolf die Kette anlegte, wurde sie zusammen mit ihm nach Walhalla gezogen. Gibt es eine Möglichkeit sie zu retten?</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">北地</text>
+      <text lang="ger">NORDLAND</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="CHN">
+        <text>
+失去希拉后，深沉的悲恸笼罩着我们！她的躯体自灵魂随芬里尔离去后，竟一刻也未衰老。
+某种不真实的东西环绕着她，我们竟无法将她的身躯归还大地……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Tiefe Trauer umgab uns nach dem Verlust von Cyra! Ihr lebloser Körper schien um keine Minute zu altern, seitdem ihr Geist mit Fenrir fortgezogen wurde. 
+Etwas Unwirkliches umgab sie, und wir vermochten es nicht, ihren Körper der Erde zurückzugeben... 
+</text>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="CHN">
+        <text>
+精通神话的伊科尔说，希拉的灵魂被夺走，现游荡于诸神的世界阿斯加德，但或许仍有法子将它唤回。
+
+寥寥数人曾寻访阿斯加德而不付性命。据他说，路径兀儿德之泉畔那长青的宇宙树尤克特拉希尔。此树承托世界，枝桠伸展天际乃至大地，连结神国阿斯加德与人间米德加尔特，亦连结冥府赫尔与尼弗尔海姆。
+
+前往宇宙树尤克特拉希尔。但在此之前，先在周边搜寻线索！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Ykol, der in mythologischen Dingen sehr bewandert war, sprach davon, dass Cyras Geist entrissen wurde und in Asgard, der Wlt der Götter, weile, aber dass es eventuell einen Weg geben wurde, ihn wieder zu ihr zurück zu bringen. 
+
+Nur wenige hatten es geschafft, Asgard aufzusuchen, ohne mit ihrem Leben zu bezahlen. Der Weg dahin, so meinte er, führt über die immergrüne Weltenesche Yggdrasil am Brunnen der Urd. Dieser Baum trägt die Welt, seine Zweige breiten sich über den Himmel aus bis zur Erde, sie verbinden das Götterland Asgard mit dem Menschenland Midgard, und beide wiederum mit den unterirdischen Reichen Hel und Niflheim.
+
+Begib dich zur Weltenesche Yggdrasil. Zuvor suche jedoch die Umgebung nach Hinweisen ab!
+</text>
+      </lang>
+    </block>
+    <block id="01_player_1_seen_neutral">
+      <lang code="CHN">
+        <text>
+村庄
+
+我们撞见一座维京村庄。他们心存疑虑地打量我们，却无敌意。其中有人是守护世界树的“尤克特拉希尔之序”的成员。
+这些维京人还拥有此贫瘠之地极为稀缺的原材料。
+
+缴纳贡品，我们或许就能与他们贸易，并探听世界树的消息……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DORF
+
+Wir stießen auf ein Wikingerdorf. Sie betrachteten uns mit Argwohn, waren uns jedoch nicht feindlich gesinnt. Unter ihnen befanden sich Wächter der Weltenesche, genannt: "Yggdrasils Orden". 
+Diese Wikinger besaßen außerdem Rohstoffe, die sehr knapp in diesen kargen Gebieten bemessen waren.
+
+Gegen einen Tribut konnten wir mit ihnen vielleicht Handel treiben und etwas über die Weltenesche erfahren...
+</text>
+      </lang>
+    </block>
+    <block id="02_tribut1">
+      <lang code="CHN">
+        <text>
+村庄
+
+我们送去贡品后，村庄向我们提出诸多贸易契约，并给出一条有用的提示，教我们如何获准接近世界树。
+
+“白蜡树的守护者‘尤克特拉希尔之序’，只放行心地纯净之人进入冥界之门。昔日有人为此建起一座神庙，凭这份纯洁证明踏入异界。可后来神庙被毁，守护者比以往更加多疑……”
+
+新建一座神庙，守护者便会认可你们的善意。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DORF
+
+Nachdem wir ihnen den Tribut überbracht hatten, bot uns das Dorf zahlreiche Handelsverträge an und gab uns einen hilfreichen Tipp, um zur Weltenesche vorgelassen zu werden.
+ 
+"Die Hüter der Esche, "Yggdrasils Orden", lässt nur Menschen zum Eingang zur Unterwelt, die reinen Herzens sind. Früher errichten einige Menschen aus diesem Grund einen heiligen Tempel und gelangten durch diesen Beweis ihrer Reinheit in die andere Welt. Doch dann wurde der Tempel zerstört und die Wächter sind misstrauischer denn je..."
+
+Errichtet einen neuen Tempel und die Wächter werden eure guten Absichten billigen. 
+</text>
+      </lang>
+    </block>
+    <block id="03_player_2_seen_orden">
+      <lang code="CHN">
+        <text>
+尤克特拉希尔之序
+
+“我们只放行心地纯净之人前往世界树尤克特拉希尔，因为这冥界之门屡遭恶人利用！”他们说道。“若你们仍敢逼近门口，便是寻死！”
+
+“证明你灵魂的纯洁，建起一处新的圣地！在那里谦卑守候片刻，我们的兄弟便会来接你们。届时，冥界之路便向你们敞开！”
+
+建造一座新神庙。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+YGGRADILS ORDEN
+
+"Wir lassen nur diejenigen zur Weltenesche Yggdrasil, die reinen Herzens kommen, denn allzu oft wurde dieser Eingang zur Unterwelt für das Werk des Bösen benutzt!" sprachen sie. "Falls ihr es trotzdem wagt, näher an den Eingang heranzutreten, seit ihr des Todes!"
+
+"Stellt die Reinheit eurer Seele unter Beweis und errichtet einen neuen geweihten Ort! Harrt dort einige Zeit in Demut aus, und unsere Brüder werden euch holen kommen. Dann sei euch der Weg in die Unterwelt gewährt!"
+
+Baue einen neuen Tempel. 
+</text>
+      </lang>
+    </block>
+    <block id="04_orden_temple">
+      <lang code="CHN">
+        <text>
+尤克特拉希尔之序
+
+“我们只放行心地纯净之人前往世界树尤克特拉希尔，因为这冥界之门屡遭恶人利用！”他们说道。
+
+“但如我们睿智之眼所见，你们已费力建起一座神圣神庙！那就穿过门扉吧。
+
+我们放行你，比雅尼，与你两位友人哈奇和西格德同行！”
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+YGGDRASILS ORDEN
+
+"Wir lassen nur diejenigen zur Weltenesche Yggdrasil, die reinen Herzens kommen, denn allzu oft wurde dieser Eingang zur Unterwelt für das Werk des Bösen benutzt!" sprachen sie.
+
+"Aber wie unsere weisen Augen sehen können, habt ihr bereits mit viel Mühe einen heiligen Tempel errichtet! Geht also durch die Pforte. 
+
+Wir lassen dich, Bjarni, mit deinen beiden Freunden Hatschi und Sigurd passieren!"
+</text>
+      </lang>
+    </block>
+    <block id="05_Ykol">
+      <lang code="CHN">
+        <text>
+接下来发生的事，令我们哑然失声……
+
+伊科尔竟违抗教团之命，疾步从严厉的守护者身旁掠过。然而他们似乎根本没注意到他……
+他喊道：“朋友们，跟我来！”此后便不再为我们所见……
+
+他能否安然寻得通往神界之路？毕竟守护者本未准许他靠近世界树！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Was dann geschah, verschlug uns die Sprache...
+
+Ykol widersetzte sich einfach den Anweisungen des Ordens und lief in Windeseile an den gestrengen Wächtern vorbei. Diese schienen ihn jedoch gar nicht zu bemerken... 
+Er rief: "Mir nach, Freunde!" und wart fortan nicht mehr von uns gesehen... 
+
+Ob er unbeschadet den Weg in die Welt der Götter finden würde? Ihm hatten die Wächter den Zutritt zur Weltenesche ja eigentlich gar nicht gestattet! 
+</text>
+      </lang>
+    </block>
+    <block id="06_temple">
+      <lang code="CHN">
+        <text>
+神庙建成！
+
+一座宏伟神庙直插云霄，将周边化为圣地。如今尤克特拉希尔之序该放我们前往世界树了……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+TEMPEL GEBAUT! 
+
+Ein prächtiger Tempel erhob sich gen Himmel und verwandelte die Umgebung in geweihtes Land. Nun sollte uns YGGRADILS ORDEN zur Weltenesche vorlassen...
+</text>
+      </lang>
+    </block>
+    <block id="07_heldentot">
+      <lang code="CHN">
+        <text>
+尤克特拉希尔之序
+
+“如今你们死到临头！你们竟不听我们的警告！”
+
+言毕，你们的维京英雄与首领便沦为教团恐怖诅咒的牺牲品，惨死当场。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+YGGRADILS ORDEN 
+
+"Nun seid ihr des Todes! Ihr wolltet ja nicht auf unsere Warnung hören!"
+
+Mit diesen Worten fielen die Helden und Anführer deiner Wikinger einem furchtbaren Fluch des Ordens zum Opfer und starben eines schrecklichen Todes.
+</text>
+      </lang>
+    </block>
+    <block id="08">
+      <lang code="CHN">
+        <text>
+
+……
+
+我不止一次，见希拉的灵魂在北方之地的洁白之境漫步。她似触不可及，消失时未留一丝痕迹。
+
+有时我几乎觉得，她想警示我们一场迫近的危险……
+[blockend: 08]
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+
+...
+
+Mehr als einmal sah ich den Geist Cyras an den weißen Orten des Nordlandes wandeln. Kaum greifbar erschien sie und verschwand, ohne mir eine Spur zu hinterlassen. 
+
+Manchmal schien es mir fast, sie wolle uns vor einer drohenden Gefahr warnen...
+[blockend: 08]
+
+
+
+
+
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+是英勇，还是鲁莽？比雅尼死时，诸神也为之落泪……少了这位英雄，你便无从知晓任务的结局。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="300">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命中片刻的鲁莽，转瞬即至！你的朋友与英雄哈奇因你的疏忽而殒命！少了这位英雄，你便无从知晓任务的结局。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Hatschi erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
+</text>
+      </lang>
+    </block>
+    <block id="400">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命中片刻的鲁莽，转瞬即至！你的朋友与英雄西格德因你的疏忽而殒命！少了这位英雄，你便无从知晓任务的结局。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Sigurd erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="500">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命中片刻的鲁莽，转瞬即至！伊科尔因你的疏忽而殒命！少了这位英雄，你便无从知晓任务的结局。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Ykol erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="CHN">
+        <text>
+世界树尤克特拉希尔的入口被虬结的树根环绕。一道黑暗诡谲的深渊将我们拽向深处。在抵达阿斯加德的众神之前，我们还须先穿越死亡女神赫尔的国度。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Der Eingang zur Weltenesche Yggdrasil war umgeben von knorrigen Baumwurzeln. Ein dunkler, unheimlicher Schlund zog uns in die Tiefe. Dort würden wir erst das Reich der Totengöttin Hel durchqueren müssen, bevor wir zu den Göttern in Asgard gelangen konnten. 
+</text>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="CHN">
+        <text>
+我们愈沉愈深，四周愈暖愈暗，很快便忘却了北方之地的冰寒气候……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Je tiefer wir gelangten, desto wärmer und dunkler wurde die Umgebung, und schnell hatten wir das eisige Klima von Nordland vergessen ...
+</text>
+      </lang>
+    </block>
+    <block id="50_endheader">
+      <lang code="CHN">
+        <text>
+
+任务成功！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+
+MISSION GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+
+北方之地
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+
+NORDLAND
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

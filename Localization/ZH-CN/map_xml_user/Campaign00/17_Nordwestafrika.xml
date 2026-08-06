@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="17_Nordwestafrika" export_map_id="17_Nordwestafrika" map_md5="ea0a9b94da1bb27f651a2c82eb3749ae" IsC2M="true">
+  <languages>
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">西北非洲</text>
+      <text lang="ger">Nordwestafrika</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">我们抵达了西北非洲。可坦克和他的撒拉逊人却踪影全无。</text>
+      <text lang="ger">Wir hatten Nordwestafrika erreicht. Aber von Tank und seinen Sarazenen war nichts zu sehen.</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+    </string>
+    <string id="4">
+      <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+    </string>
+    <string id="50">
+      <text lang="CHN">玩家0</text>
+      <text lang="ger">Spieler0</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">玩家1</text>
+      <text lang="ger">Spieler1</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">玩家2</text>
+      <text lang="ger">Spieler2</text>
+    </string>
+    <string id="53">
+      <text lang="CHN">玩家3</text>
+      <text lang="ger">Spieler3</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="lost_body">
+      <lang code="CHN">
+        <text>这张地图太难了吗？要不去玩一局九子棋吧。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+War die Karte zu schwer? Versuchs doch mal mit ner Runde Mühle.
+
+</text>
+      </lang>
+    </block>
+    <block id="lost_header">
+      <lang code="CHN">
+        <text>任务失败！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Mission verloren!
+
+</text>
+      </lang>
+    </block>
+    <block id="playerdied1">
+      <lang code="CHN">
+        <text>摩洛哥已被摧毁。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Marokko ist vernichtet.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerdied2">
+      <lang code="CHN">
+        <text>达喀尔已被摧毁。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Dakar ist vernichtet.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerdied3">
+      <lang code="CHN">
+        <text>玩家3已阵亡。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 3 ist gestorben.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerenemy3">
+      <lang code="CHN">
+        <text>玩家3现在转为敌对。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 3 ist jetzt feindlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerfriendly1">
+      <lang code="CHN">
+        <text>玩家1现在转为友好。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 1 ist jetzt freundlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerfriendly2">
+      <lang code="CHN">
+        <text>玩家2现在转为友好。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 2 ist jetzt freundlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerfriendly3">
+      <lang code="CHN">
+        <text>谢谢你们的武器。现在你们可以派商人来了。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Danke für die Waffen. Ihr dürft nun eure Händler schicken.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerneutral1">
+      <lang code="CHN">
+        <text>玩家1现在转为中立。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 1 ist jetzt neutral.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerneutral2">
+      <lang code="CHN">
+        <text>玩家2现在转为中立。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 2 ist jetzt neutral.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerseen1">
+      <lang code="CHN">
+        <text>摩洛哥！！
+站住，我们是坦克——非洲唯一真正统治者——的朋友，命令你们投降。否则我们就把你们屠戮殆尽。
+任务目标：消灭摩洛哥。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Marokko !!
+Halt, wir die Freunde von Tank, dem einzig wahren Herrscher über Afrika, geben euch den Befehl euch zu ergeben. Ansonsten werden wir euch niedermetzeln.
+Missionsziel: Vernichte Marokko.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerseen2">
+      <lang code="CHN">
+        <text>达喀尔！！
+站住，我们是坦克——非洲唯一真正的国王——的朋友，命令你们掉头返回，否则你们将被我们的军队消灭。
+任务目标：消灭达喀尔。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Dakar !!
+Halt, wir die Freunde von Tank, dem einzig wahren König von Afrika geben euch den Befehl umzukehren, ansonsten werdet ihr von unseren Truppen vernichtet.
+Missionsziel: Vernichte Dakar.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerseen3">
+      <lang code="CHN">
+        <text>撒拉逊人！！
+我们是伊巴丹的族人，问候你们，尊贵的维京人。那个自称非洲之王的坦克在拿饥饿逼迫我们。可幸亏有我们的营养药水，我们才得以活命。我们乐意与你们并肩对抗坦克，可为此我们需要武器。有个提议：你们给我们武器，我们则回赠你们酿造营养药水的材料。也许我们甚至还能匀给你们几瓶大型营养药水。不过请先给我们缴一点微薄的贡品……</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Sarazenen !!
+Wir das Volk von Ibadan, grüßen Euch edle Wickinger. Tank, der sich selbst König über Afrika nennt, hungert uns aus. Doch Dank unserer Nahrungstränke, schaffen wir es zu überleben. Wir würden gerne mit euch Seite an Seite gegen Tank kämpfen, doch benötigen wir Waffen dazu. Einen Vorschlag: Ihr gebt uns Waffen, und wir geben Euch dafür Zutaten damit ihr euch Nahrungstränke herstellen könnt. Eventuell können wir euch sogar ein paar große Nahrungstränke überlassen. Doch zunächst zahlt uns einen kleinen bescheidenen Tribut...
+
+</text>
+      </lang>
+    </block>
+    <block id="start_body">
+      <lang code="CHN">
+        <text>我们一登陆，就在近岸处遭到撒拉逊酋长盟友的袭击。因此我们把大本营扎在了内陆。可撒拉逊酋长坦克却踪影全无。于是我们只得更深入地向非洲腹地挺进。为了不让敌人留在身后，我们决定把近岸处的所有敌人统统消灭。此外我们日后还会遇到粮食问题。因此我们同样决定储备20瓶大型营养药水。可我们找不到黄金，只得四处查看这附近是否有商人。
+任务目标1：杀死所有对你怀有敌意的族群。
+任务目标2：储备20瓶大型营养药水。
+
+
+制作者：尤基</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Schon bei der Ankunft wurden wir in Küstennähe von Verbündeten des Sarazenenhäuptlings angegriffen. Deshalb schlugen wir unser Hauptquartier im Landesinneren auf. Von Tank, dem Sarazenenhäuptling war jedoch nichts zu entdecken. Deshalb mußten wir tiefer in das Herz Afrikas vordringen. Damit wir keine Feinde im Rücken hatten, beschlossen wir sämtliche Feinde die sich in Küstennähe befanden zu vernichten. Außerdem würden wir später Nahrungsprobleme bekommen. Deshalb beschlossen wir ebenfalls 20 große Nahrungstränke einzulagern. Da wir aber kein Gold fanden, mußten wir schauen, ob es hier in der Nähe Händler gab.
+Missionsziel 1: Töte alle Völker, die Dir feindlich gesinnt sind.
+Missionsziel 2: Lagere 20 große Nahrungstränke ein.
+
+
+Erstellt von: Yogi
+
+</text>
+      </lang>
+    </block>
+    <block id="start_header">
+      <lang code="CHN">
+        <text>西北非洲</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Nordwestafrika
+
+</text>
+      </lang>
+    </block>
+    <block id="won_body">
+      <lang code="CHN">
+        <text>我们取得了胜利。敌人已被消灭，所需的营养药水也多亏南方的撒拉逊人得以储备。顶着炽热的沙漠骄阳，我们继续朝非洲腹地进军，只为最终向撒拉逊酋长坦克复仇……</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Wir hatten gesiegt. Die Feinde waren vernichtet, und die benötigten Nahrungstränke waren Dank der Sarazenen im Süden eingelagert. Durch die heiße Wüstensonne marschierten wir weiter ins Landesinnere Afrikas, um uns endlich an Tank, dem Sarazenenhäuptling zu rächen...
+
+</text>
+      </lang>
+    </block>
+    <block id="won_header">
+      <lang code="CHN">
+        <text>任务达成！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Mission gewonnen!
+
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

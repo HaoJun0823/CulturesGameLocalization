@@ -1,0 +1,1400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_03_01" export_map_id="campaign_03_01" map_md5="7f8073aa484fa839e25a181ee00d1116" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">寻找一处合适的登陆点。</text>
+      <text lang="ger">Suche einen geeigneten Landeplatz.</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">建立一座小型聚落。</text>
+      <text lang="ger">Baue eine kleine Siedlung auf.</text>
+    </string>
+    <string id="2">
+      <text lang="CHN">向灯塔运送 100 块碎石与 50 块大理石。</text>
+      <text lang="ger">Bringe 100 Bruchsteine und 50 Marmorblöcke zum Leuchtturm.</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">动身寻访建筑师索斯特拉托斯并将其解救。</text>
+      <text lang="ger">Begib dich auf die Suche nach dem Architekten Sostratos und befreie ihn.</text>
+    </string>
+    <string id="4">
+      <text lang="CHN">向流浪者缴纳 120 枚钱币与 10 单位蜂蜜酒，否则与之交战。</text>
+      <text lang="ger">Zahle den Vagabunden 120 Münzen und 10 Met oder bekämpfe sie.</text>
+    </string>
+    <string id="5">
+      <text lang="CHN">向流浪者缴纳其所索物资：</text>
+      <text lang="ger">Zahle den Vagabunden die geforderten Waren:</text>
+    </string>
+    <string id="6">
+      <text lang="CHN">搜查流浪者的营地。</text>
+      <text lang="ger">Durchsuche das Vagabundenlager.</text>
+    </string>
+    <string id="7">
+      <text lang="CHN">将索斯特拉托斯带往灯塔。</text>
+      <text lang="ger">Bringe Sostratos zum Leuchtturm.</text>
+    </string>
+    <string id="8">
+      <text lang="CHN">寻得圣火。</text>
+      <text lang="ger">Finde das heilige Feuer.</text>
+    </string>
+    <string id="9">
+      <text lang="CHN">向山地部族缴纳 15 份大型治疗药剂作贡金，否则与之交战。</text>
+      <text lang="ger">Zahle dem Bergvolk 15 große Heiltränke Tribut oder bekämpfe sie.</text>
+    </string>
+    <string id="10">
+      <text lang="CHN">由一名英雄将圣火带往灯塔。</text>
+      <text lang="ger">Bringe das Feuer mit einem Helden zum Leuchtturm.</text>
+    </string>
+    <string id="11">
+      <text lang="CHN">与维京人交易 5 把长剑。</text>
+      <text lang="ger">Handele mit den Wikingern 5 Langschwerter.</text>
+    </string>
+    <string id="12">
+      <text lang="CHN">@加固法罗斯灯塔！</text>
+      <text lang="ger">@BEFESTIGE DEN LEUCHTTURM VON PHAROS!</text>
+    </string>
+    <string id="13">
+      <text lang="CHN">向维京人缴纳 10 枚防御护符作贡金。</text>
+      <text lang="ger">Reiche den Wikingern 10 Verteidigungsamulette zum Tribut.</text>
+    </string>
+    <string id="14">
+      <text lang="CHN">在灯塔附近建起一座仓库。</text>
+      <text lang="ger">Errichte ein Lagerhaus in der Nähe des Leuchtturmes.</text>
+    </string>
+    <string id="15">
+      <text lang="CHN">打开闸门，与全部英雄一同抵达矿坑入口。</text>
+      <text lang="ger">Öffne die Tore und gelange mit allen Helden zum Eingang der Bergwerke.</text>
+    </string>
+    <string id="16">
+      <text lang="CHN">与全部英雄一同抵达山岳入口！</text>
+      <text lang="ger">Gelange mit ALLEN Helden zum Eingang des Berges!</text>
+    </string>
+    <string id="19">
+      <text lang="CHN">向游牧民缴纳 15 份大型治疗药剂作贡金。</text>
+      <text lang="ger">Zahle den Nomaden 15 große Heiltränke Tribut.</text>
+    </string>
+    <string id="21">
+      <text lang="CHN">碎石 %d/100</text>
+      <text lang="ger">Bruchsteine %d/100</text>
+    </string>
+    <string id="22">
+      <text lang="CHN">大理石 %d/50</text>
+      <text lang="ger">Marmor %d/50</text>
+    </string>
+    <string id="23">
+      <text lang="CHN">物资已送达</text>
+      <text lang="ger">Waren geliefert</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">亚历山大港</text>
+      <text lang="ger">Alexandria</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">游牧民</text>
+      <text lang="ger">Nomaden</text>
+    </string>
+    <string id="53">
+      <text lang="CHN">建筑师</text>
+      <text lang="ger">Architekten</text>
+    </string>
+    <string id="54">
+      <text lang="CHN">维京人</text>
+      <text lang="ger">Wikinger</text>
+    </string>
+    <string id="55">
+      <text lang="CHN">流浪者</text>
+      <text lang="ger">Vagabunden</text>
+    </string>
+    <string id="56">
+      <text lang="CHN">山地部族</text>
+      <text lang="ger">Bergvolk</text>
+    </string>
+    <string id="61">
+      <text lang="CHN">亚历.</text>
+      <text lang="ger">Alexa.</text>
+    </string>
+    <string id="62">
+      <text lang="CHN">游牧.</text>
+      <text lang="ger">Nomad.</text>
+    </string>
+    <string id="63">
+      <text lang="CHN">建.</text>
+      <text lang="ger">Archi</text>
+    </string>
+    <string id="64">
+      <text lang="CHN">维.</text>
+      <text lang="ger">Wiki.</text>
+    </string>
+    <string id="65">
+      <text lang="CHN">流.</text>
+      <text lang="ger">Vagab.</text>
+    </string>
+    <string id="66">
+      <text lang="CHN">山.</text>
+      <text lang="ger">Bergvo.</text>
+    </string>
+    <string id="71">
+      <text lang="CHN">比雅尼</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="CHN">希拉</text>
+      <text lang="ger">Cyra</text>
+    </string>
+    <string id="73">
+      <text lang="CHN">哈奇</text>
+      <text lang="ger">Hatschi</text>
+    </string>
+    <string id="74">
+      <text lang="CHN">西格德</text>
+      <text lang="ger">Sigurd</text>
+    </string>
+    <string id="75">
+      <text lang="CHN">索斯特拉托斯</text>
+      <text lang="ger">Sostratos</text>
+    </string>
+    <string id="76">
+      <text lang="CHN">玛尼</text>
+      <text lang="ger">Mani</text>
+    </string>
+    <string id="79">
+      <text lang="CHN">索斯特拉托斯之父</text>
+      <text lang="ger">Sostratos Vater</text>
+    </string>
+    <string id="98">
+      <text lang="CHN">我们旅途中的第一处世界奇观，坐落于亚历山大港外法罗斯岛上。那座传说之城尖塔与圆顶，透着异样而神秘的气息，令我们凝望。</text>
+      <text lang="ger">Das erste Weltwunder unserer Reise befand sich auf der Insel Pharos vor Alexandria. Fremdartig und geheimnisvoll wirkten die spitzen Türme und runde Kuppeln der sagenumwobenen Stadt auf uns.</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">法罗斯灯塔</text>
+      <text lang="ger">DER LEUCHTTURM VON PHAROS</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="CHN">
+        <text>
+阴影与混沌威胁着世界。一股黑暗之力不断在大地上蔓延，将人化作野兽，将生命化作死亡。忧郁与绝望的情绪，渐渐攫住了人心。昔日欢声笑语之处，如今唯余悲伤与消沉。那些曾经伟大而强盛的王国，如今所余的，不过是对它们的追忆……
+
+于是，诸族议会齐聚一堂，共谋出路。
+
+当信使携着古老传说的讯息抵达议会，人们解读出往昔的征兆：唯有令人类最伟大、最辉煌的伟业重现于世，方能封印这股黑暗之力。它们那神秘的力量，或可镇住邪恶。
+
+于是，诸族议会决意：古代世界的所有世界奇迹，都必须重新建起……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+Schatten und Chaos bedrohten die Welt. Eine dunkle Macht breitete sich unaufhörlich über Länder hinweg aus, verwandelte Menschen in Bestien, Leben in Tod. Ein Gefühl des Schwermuts und der Hoffnungslosigkeit bemächtigte sich nach und nach der Menschen. Wo einst Frohsinn herrschte, kehrten Traurigkeit und Depression ein. Alles was von einst großen und mächtigen Königreichen übrig blieb, waren die Gedanken daran...
+
+Und so war der Rat aller Völker zusammen getreten, um nach einem Ausweg zu suchen.
+
+Als der Gesandte den Rat mit der Kunde von der alten Sage erreichte, deutete man die Zeichen der Vergangenheit: Die dunkle Macht konnte nur dadurch gebannt werden, indem man die größten und ruhmreichsten Werke der Menschheit wieder aufleben lässt. Ihre geheimnisvolle Kraft könnte das Böse bannen.
+
+Und so beschloss der Völkerrat, dass alle Weltwunder der antiken Welt neu errichtet werden müssen... 
+
+</text>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="CHN">
+        <text>
+
+然而，即便是仅存的最后两座世界奇迹——吉萨金字塔，与亚历山大港外法罗斯岛上的灯塔——亦已岌岌可危。连绵不断的地震撼动着灯塔，而入侵的黑暗战士与野兽大军，则威胁着金字塔。诸族必须齐心协力，迅速行动。
+
+吉萨金字塔一线由拜占庭人、埃及人与撒拉逊人共同守卫，而你的维京族群，则将偕同当世最伟大的英雄，肩负起守护亚历山大灯塔、使其免于倾颓的重任。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Doch selbst die letzten beiden Weltwunder, die noch erhalten waren, die Pyramiden von Gizeh und der Leuchtturm der Insel Pharos vor Alexandria, sind bedroht. Ständige Erdbeben erschüttern den Leuchtturm, und einfallende Heere dunkler Krieger und Bestien bedrohen die Pyramiden. Gemeinsam müssen die Völker rasch handeln. 
+
+Während die Stellung an den Pyramiden von Gizeh von den Byzantinern, Ägyptern und Sarazenen verteidigt wird, obliegt es deinem Wikingervolk mit den größten Helden der Gegenwart, den Leuchtturm Alexandrias vor dem Einsturz zu bewahren.
+</text>
+      </lang>
+    </block>
+    <block id="01">
+      <lang code="CHN">
+        <text>
+
+发现登陆点！
+        </text>
+        <usericon>1,294,174</usericon>
+        <text>
+在这处小海湾，我们寻得了理想的登陆点。青翠肥美的草地，正邀我们在此扎营安顿。
+
+卸下货物，建立一座小型聚落。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+LANDEPLATZ GEFUNDEN!
+
+</text>
+        <usericon>1,294,174</usericon>
+        <text>
+
+In dieser kleinen Bucht fanden wir den idealen Landeplatz. Saftige grüne Wiesen luden uns ein, unsere Quartiere an dieser Stelle zu errichten.
+
+Entlade die Güter und baue eine kleine Siedlung auf.
+</text>
+      </lang>
+    </block>
+    <block id="02">
+      <lang code="CHN">
+        <text>
+
+游牧部族
+
+灯塔已有大半损毁，若我们不迅速行动，这处世界奇迹恐难挺过下一轮震荡！
+周边其他游牧部族的许多采石工，也已如这些人一般辛勤地开采着石料。
+        </text>
+        <usericon>1,341,264</usericon>
+        <text>
+可惜他们缺少足够的搬运工与商人，无法将石料运往灯塔附近的仓库。我们正可助他们一臂之力……
+
+将100块石料与50块大理石运至灯塔。若你愿意，可善用游牧部族的贸易报价！
+
+提示：紧挨主基地建一口水井。若有搬运工在主基地劳作，他会不断将水运入基地——而水正是你所需的贸易物资。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+NOMADENSTÄMME 
+
+Ein großer Teil des Leuchtturms war bereits zerstört, und wenn wir nicht rasch handelten, würde dieses Weltwunder den nächsten Erschütterungen kaum standhalten können! 
+Viele Abbauer anderer Nomadenstämme aus der Umgebung bauten ebenso wie diese hier bereits tüchtig Stein ab. 
+
+</text>
+        <usericon>1,341,264</usericon>
+        <text>
+
+Leider hatten sie nicht die nötigen Träger und Händler, um sie in ein nahes Lagerhaus am Leuchtturm zu bringen. Wir konnten ihnen dabei behilflich sein...
+
+Bringe 100 Steine und 50 Marmorblöcke zum Leuchtturm. Nutze, wenn du willst, dazu die Handelsangebote des Nomadenstammes! 
+
+Tipp: Baue einen Brunnen direkt neben das Hauptquartier. Arbeitet ein Träger im Hauptquartier, liefert er ständig Wasser hinein, welches du als Handelsware benötigst.
+</text>
+      </lang>
+    </block>
+    <block id="03">
+      <lang code="CHN">
+        <text>
+
+物资已送达
+达成新的建造阶段！
+        </text>
+        <usericon>1,219,71</usericon>
+        <text>
+我们已将所需物资送抵灯塔旁的仓库，亚历山大港的居民对此感激不已。然而工程仍进展艰难。不久前，流浪者在山中掳走了这座建筑的工程师，自那以后，便无人真正知晓该如何续建。或许流浪者也肯讲道理，双方能达成和解……
+
+从流浪者营地中救出建筑师索斯特拉托斯，并将他带回灯塔。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+WAREN GELIEFERT
+NEUE BAUSTUFE ERREICHT!
+
+</text>
+        <usericon>1,219,71</usericon>
+        <text>
+
+Wir hatten die benötigten Waren im Lagerhaus am Leuchtturm abgeliefert und die Bewohner Alexandrias dankten es uns. Trotzdem ging die Arbeit nur mühsam voran. Vor kurzem hatten Vagabunden in den Bergen den Ingenieur des Bauwerkes entführt und seitdem wusste niemand so richtig, wie er gebaut werden sollte. Vielleicht ließen die Vagabunden aber auch mit sich reden und man konnte eine friedliche Einigung finden... 
+
+Befreie den Architekten SOSTRATOS aus dem Vagabundenlager und bringe ihn zum Leuchtturm.
+</text>
+      </lang>
+    </block>
+    <block id="04">
+      <lang code="CHN">
+        <text>
+
+流浪者
+
+"喂！你们几个！我们村里容不得闯入者！
+        </text>
+        <usericon>1,538,280</usericon>
+        <text>
+还是说，你们是来替建筑师索斯特拉托斯支付赎金的？！不过，我们向亚历山大人索要的赎金，如今可不够了！我们要得更多，毕竟龙饲料也越来越贵了！
+再说，都说你们维京人酿蜜酒是一绝。若能来上几桶，我们也乐意笑纳！"
+
+交纳贡品，或将流浪者逐出这片土地！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+VAGABUNDEN
+
+"Hey! Ihr da! Wir dulden keine Eindringlinge in unserem Dorf!
+
+</text>
+        <usericon>1,538,280</usericon>
+        <text>
+
+Oder seid ihr hier, um das Lösegeld für den Architekten SOSTRATOS zu bezahlen?! Das Lösungsgeld, das wir von den Alexandrinern verlangten, ist allerdings nicht mehr ausreichend! Wir wollen nun mehr, denn Drachenfutter wird auch immer teurer! 
+Außerdem könnt ihr Wikinger fantastisch Met ansetzen, so sagt man. Auch davon wären uns ein paar Fässer recht willkommen!" 
+
+Zahle den Tribut oder vertreibe die Vagabunden von diesem Landstrich!
+</text>
+      </lang>
+    </block>
+    <block id="05">
+      <lang code="CHN">
+        <text>
+
+流浪者
+
+"你们的酒合我们胃口，念在这赎金的份上，你们尽可在我们营中随意查看、随意取用——连那建筑师也一并带走吧！反正他对我们也毫无用处！"流浪者说罢，便沉沉醉倒，各自回屋去了……
+        </text>
+        <usericon>1,562,272</usericon>
+      </lang>
+      <lang code="ger">
+        <text> 
+VAGABUNDEN
+
+"Euer Bier hat uns gemundet und aufgrund des Lösegeldbetrages könnt ihr euch ungehindert in unserem Lager umsehen und euch mitnehmen, was ihr wollt - sogar den Architekten! Er ist uns eh zu nichts nütze!" sprachen die Vagabunden, bevor sie in einen tiefen Rausch verfielen und in ihre Häuser verschwanden... 
+
+</text>
+        <usericon>1,562,272</usericon>
+      </lang>
+    </block>
+    <block id="06">
+      <lang code="CHN">
+        <text>
+
+索斯特拉托斯
+
+"向你们致意。想必是亚历山大人派你们来寻我的，因为我的作品尚未竣工！
+        </text>
+        <usericon>2,5</usericon>
+        <text>
+没有我，他们多半是建不成的。可否劳烦诸位护送我回灯塔？
+
+将索斯特拉托斯带回灯塔。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+SOSTRATOS
+
+"Ich grüße euch. Euch müssen die Alexandriner zu mir geschickt haben, denn mein Werk ist noch nicht vollendet! 
+
+</text>
+        <usericon>2,5</usericon>
+        <text>
+
+Ohne mich werden sie es wohl nicht schaffen. Würdet ihr mich zum Leuchtturm begleiten?
+
+Bringe SOSTRATOS zum Leuchtturm.
+</text>
+      </lang>
+    </block>
+    <block id="07">
+      <lang code="CHN">
+        <text>
+
+建筑师抵达灯塔
+达成新的建造阶段！
+        </text>
+        <usericon>2,5</usericon>
+        <text>
+深谙其道的建筑师索斯特拉托斯，就灯塔的建造给出了必要的指点。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+ARCHITEKT AM LEUCHTTURM
+NEUE BAUSTUFE ERREICHT!
+
+</text>
+        <usericon>2,5</usericon>
+        <text>
+
+Der Architekt SOSTRATOS, der sein Handwerk bestens verstand, gab die nötigen Anweisungen zum Bau des Leuchtturmes. 
+</text>
+      </lang>
+    </block>
+    <block id="08">
+      <lang code="CHN">
+        <text>
+
+亚历山大港
+
+这便是那传说之城亚历山大港的城门！
+        </text>
+        <usericon>1,243,371</usericon>
+        <text>
+满怀好奇与忐忑，我们踏入了它的腹地。
+它将为我们准备些什么？
+
+漫游亚历山大港，开启那些隐藏的箱子！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+ALEXANDRIA
+
+Dies waren die Tore der sagenumwobenen Stadt Alexandria! 
+
+</text>
+        <usericon>1,243,371</usericon>
+        <text>
+
+Voller Neugier und Ungewissheit betraten wir ihr Innerstes. 
+Was würde sie für uns bereithalten? 
+
+Durchstreife Alexandria und öffne die verborgenen Kisten!
+</text>
+      </lang>
+    </block>
+    <block id="09">
+      <lang code="CHN">
+        <text>
+
+卫兵！
+
+两名面目阴沉的卫兵迎面拦住我们：
+
+"站住！休得再前进一步！否则叫你们好看！"
+        </text>
+        <usericon>2,12</usericon>
+      </lang>
+      <lang code="ger">
+        <text> 
+WACHEN!
+
+Zwei finster aussehende Wachen traten uns entgegen: 
+
+"Halt! Keinen Schritt weiter! Oder euch wird es schlecht ergehen!"
+
+</text>
+        <usericon>2,12</usericon>
+      </lang>
+    </block>
+    <block id="10">
+      <lang code="CHN">
+        <text>
+
+大门开启！
+
+当我们踏上这处开关，不远处的两扇大门随之开启！
+        </text>
+        <usericon>1,51,471</usericon>
+        <text>
+门后究竟藏着什么？其中一扇必定通向矿场深处，那圣火多半便藏于其中！须留一名部众守在开关上，我们方能通过大门……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+TORE GEÖFFNET!
+
+Als wir diesen Schalter betraten, öffneten sich unweit von hier zwei Tore! 
+
+</text>
+        <usericon>1,51,471</usericon>
+        <text>
+
+Was sich wohl hinter ihnen verbergen mochte? Sicherlich führte uns eines davon in das Innere der Bergwerke, wo vermutlich das heilige Feuer aufbewahrt wurde! Einer unserer Männer musste auf dem Schalter verharren, damit wir die Tore passieren konnten...
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+是逞勇还是鲁莽？比雅尼陨落之时，诸神亦为之落泪……少了这位英雄，你便无缘得知此役的结局。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="11">
+      <lang code="CHN">
+        <text>
+
+维京斥候
+
+"我的族人派我前来探查撒拉逊人的矿场！他们心怀不轨，还盗走了灯塔的圣火！"
+        </text>
+        <usericon>2,8</usericon>
+        <text>
+这名维京人说，那些大门无法开启。附近某处必定藏着钥匙或开关！
+
+开启大门！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+WIKINGERKUNDSCHAFTER
+
+"Mein Volk hat mich ausgesandt, die Bergwerke der Sarazenen zu erforschen! Sie haben nichts Gutes im Sinn, und sie haben das heilige Feuer des Leuchtturmes gestohlen!" 
+
+</text>
+        <usericon>2,8</usericon>
+        <text>
+
+Die Tore lassen sich nicht öffnen, meinte dieser Wikinger. Irgendwo in der Nähe musste sich ein Schlüssel oder ein Schalter befinden! 
+
+Öffne die Tore!
+</text>
+      </lang>
+    </block>
+    <block id="12">
+      <lang code="CHN">
+        <text>
+
+山地部族的大门无法开启，某处必定藏着钥匙或开关……
+        </text>
+        <usericon>1,51,471</usericon>
+      </lang>
+      <lang code="ger">
+        <text> 
+Die Tore des Bergvolkes ließen sich nicht öffnen, irgendwo musste sich ein Schlüssel oder ein Schalter befinden...
+
+</text>
+        <usericon>1,51,471</usericon>
+      </lang>
+    </block>
+    <block id="13">
+      <lang code="CHN">
+        <text>
+
+维京人
+
+在这片沿尼罗河而铺展、颇为肥沃的平原上，也有别的维京人定居于此。
+        </text>
+        <usericon>1,109,240</usericon>
+        <text>
+倘若我们向他们交付所索取的贡品，他们便愿在我们的使命中出手相助……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+WIKINGER 
+
+In diesen doch recht fruchtbaren Ebenen entlang des Nils hatten sich auch andere Wikinger niedergelassen. 
+
+</text>
+        <usericon>1,109,240</usericon>
+        <text>
+
+Falls wir ihnen die geforderten Waren zum Tribut reichen würden, wollten sie uns bei unserer Mission unterstützen...
+</text>
+      </lang>
+    </block>
+    <block id="14">
+      <lang code="CHN">
+        <text>
+
+族群已归附！
+
+我们已向这些维京人交付了所索取的贡品。他们如今愿向我们施以援手。
+        </text>
+        <usericon>1,122,195</usericon>
+        <text>
+我们可在他们的领地中再建一座村庄，他们的士兵也愿在战斗中与我们并肩。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+VOLK ÜBERNOMMEN!
+
+Wir hatten den Wikingern die geforderten Waren als Tribut gereicht. Sie boten uns nun ihre Unterstützung an. 
+
+</text>
+        <usericon>1,122,195</usericon>
+        <text>
+
+Wir konnten in ihren Reihen ein weiteres Dorf errichten, und auch ihre Soldaten wollten uns in kämpferischen Auseinandersetzungen zur Seite stehen.
+</text>
+      </lang>
+    </block>
+    <block id="15">
+      <lang code="CHN">
+        <text>
+
+游牧族群
+
+在这片与外界隔绝之地，一处沙漠中的小小绿洲展现在我们眼前。
+
+此处一切仍平静如常，人们友善而热忱。无人料到，我们重建世界奇迹的使命，是何等紧迫……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+NOMADENVOLK
+
+Unberührt von der restlichen Welt tat sich hier eine kleine Oase inmitten der Wüste vor uns auf. 
+
+Hier verlief alles noch in ruhigen Bahnen, die Menschen waren freundlich und entgegenkommend. Niemand ahnte, wie dringlich unsere Mission war, die Weltwunder erneut zu errichten... 
+</text>
+      </lang>
+    </block>
+    <block id="16">
+      <lang code="CHN">
+        <text>
+
+流浪者
+
+"你竟敢闯到这里？我们来教教你规矩！！！"
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+VAGABUNDEN
+
+"Du wagst es, hier einzudringen? Wir werden dir Manieren beibringen!!!"
+</text>
+      </lang>
+    </block>
+    <block id="17">
+      <lang code="CHN">
+        <text>
+
+山地部族
+
+"那是什么？
+        </text>
+        <usericon>1,97,458</usericon>
+        <text>
+滚开！！我们宝贵的金矿，绝不会不战而拱手让给你们这些流窜而来的诺曼人！！！
+还是说，你们愿向我们进贡？"
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+BERGVOLK
+
+"Was war das? 
+
+</text>
+        <usericon>1,97,458</usericon>
+        <text>
+
+Verschwindet!! Unsere wertvollen Goldvorkommen werden wir keinen dahergelaufenen Normannen kampflos überlassen!!! 
+Oder seid ihr bereit, uns einen Tribut zu leisten?"
+</text>
+      </lang>
+    </block>
+    <block id="18">
+      <lang code="CHN">
+        <text>
+
+山地部族
+
+"只要你们不来犯，我们便不会加害于你们！但你们若敢染指我们的金矿，休怪我们不客气！"
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+BERGVOLK
+
+"Solange ihr uns nicht angreift, werden wir euch nichts tun! Aber wehe, ihr rührt unsere Goldvorhaben an!"
+</text>
+      </lang>
+    </block>
+    <block id="19">
+      <lang code="CHN">
+        <text>
+
+山地部族
+        </text>
+        <usericon>1,97,458</usericon>
+        <text>
+"你竟敢来犯我们？
+休想好过，你这异教徒！我们的兄弟会前来相助，把你赶回海里去！"
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+BERGVOLK
+
+</text>
+        <usericon>1,97,458</usericon>
+        <text>
+
+"Du wagst es, uns anzugreifen?
+Wehe dir, oh Ungläubiger! Unsere Brüder werden uns zu Hilfe kommen und dich zurück aufs Meer jagen!"
+</text>
+      </lang>
+    </block>
+    <block id="20">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+建筑师索斯特拉托斯已然殒命！你将再也无法建成灯塔！此役已告失败！！
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Der Architekt SOSTRATOS ist gestorben! Nun wirst du den Leuchtturm nie errichten können! Die Mission ist gescheitert!!
+</text>
+      </lang>
+    </block>
+    <block id="200">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命里片刻的轻率，便致此般后果！你的女英雄希拉，因你的疏忽而殒命！少了这位英雄，你便无缘得知此役的结局。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="21">
+      <lang code="CHN">
+        <text>
+
+山地部族投降了！
+        </text>
+        <usericon>1,97,458</usericon>
+        <text>
+山地部族见我们的战术与战力令他们无从抵挡，终于俯首认输，极不情愿地将金矿让予我们，放弃了采矿。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+BERGVOLK KAPITULIERT!
+
+</text>
+        <usericon>1,97,458</usericon>
+        <text>
+
+Als das Bergvolk sah, dass es unserer Taktik und Kampfesstärke nichts entgegenzusetzen hatte, gaben sie schließlich auf, überließen uns widerwillig ihre Goldvorkommen und gaben ihren Bergbau auf.
+</text>
+      </lang>
+    </block>
+    <block id="22">
+      <lang code="CHN">
+        <text>
+
+老者
+
+起初我们还以为那是海市蜃楼。可就在沙漠正中，竟真的有一位老者伫立在我们面前！他从何而来，唯有奥丁知晓……
+        </text>
+        <usericon>1,395,262</usericon>
+        <text>
+"我被劫掠了！被东边山里那些卑劣的流浪者所劫！"老翁迎向我们，愤然咒骂着。
+"他们身边竟还有龙相随！可我这把老骨头对他们没用，便把我放了。那被囚的可怜工程师，等着他的必是更凄惨的下场！……"
+
+"在这茫茫大漠里，人极易迷失方向，"老者向我们低语，"我从北方来，那里的土地尘土遍布、空旷荒凉。南方只零星散布着几座游牧村落，而若举目西望，便能望见亚历山大城的穹顶。"
+
+那些明亮的田野，四周环绕着五人高的方尖碑，笼罩着一股奇异的魔力。下方的那处会将你送往尼罗河彼岸，另一处则送你返回！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DER ALTE MANN
+
+Zuerst dachten wir, es sei eine Fata Morgana. Doch tatsächlich stand plötzlich mitten in der Wüste ein alter Mann vor uns! Woher er kam, weiß nur Odin alleine...
+
+</text>
+        <usericon>1,395,262</usericon>
+        <text>
+
+"Ausgeraubt wurde ich! Von diesen elenden Vagabunden in den Bergen im Osten!", fluchte der alte Greis, als er uns entgegenkam. 
+"Sogar Drachen hatten sie an ihrer Seite! Aber für mich alten Menschen hatten sie keine Verwendung und ließen mich frei. Den armen Ingenieur, den sie gefangen halten, erwartet gewiss ein schlimmeres Schicksal!..."  
+
+"In der weiten, weiten Wüste kann man sich leicht verlaufen", flüsterte uns der alte Mann zu. "Ich komme aus dem Norden und das Land dort ist staubig und leer. Im Süden gibt es nur vereinzelt einige Nomadendörfer, und schweift man mit dem Blick nach Westen, kann man die Kuppeln der Stadt Alexandria erkennen."
+
+Eine seltsame Magie umgibt jene hellen Felder, die von den fünfmannshohen Obelisken umgeben sind. Das Untere bringt dich jenseits des Nils, auf dem Anderen gelangst du zurück!
+</text>
+      </lang>
+    </block>
+    <block id="23">
+      <lang code="CHN">
+        <text>
+
+老者
+
+这片土地充满了惊奇！我们忽然遇见一位老者，正沉沉地拄着一根弯曲的手杖。
+        </text>
+        <usericon>1,171,237</usericon>
+        <text>
+"哦，又来了些维京人！"老者喃喃道，"这地方的维京人快比撒拉逊人还多了！不过西边那些北方人倒是些友善的家伙，虽说粗犷了些，只是他们对南边的山地部族素无好感……"
+
+"他们没有首领，正寻着一位强有力的领袖……或许你们能收服这个族群？"他捻着胡须咕哝道。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DER ALTE MANN
+
+Dieses Land war voller Überraschungen! Plötzlich trafen wir auf einen alten Mann, der sich schwer auf einen krummen Stock stützte.
+
+</text>
+        <usericon>1,171,237</usericon>
+        <text>
+
+"Oh, noch mehr Wikinger!", murmelte der alte Mann. "Hier gibt es bald mehr Wikinger als Sarazenen! Aber die Nordländer westlich von hier sind eigentlich nette, wenn auch etwas raue Gesellen, die allerdings nicht viel für das Bergvolk im Süden übrig haben..."
+
+"Sie besitzen keinen Häuptling und suchen nach einer starken Führung... vielleicht könnt ihr das Volk ja übernehmen?"... brummelte er in seinen Bart hinein.
+</text>
+      </lang>
+    </block>
+    <block id="24">
+      <lang code="CHN">
+        <text>
+
+亚历山大港的船只
+
+在港口入口处，我们遇上了几艘亚历山大港居民与商人的船只。
+        </text>
+        <usericon>1,215,138</usericon>
+        <text>
+他们早已在此等候我们，并为我们指定了一处合适的聚居地。不久，我们便会得知更多关于此番使命的详情……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+SCHIFFE ALEXANDRIAS
+
+In der Hafeneinfahrt begegneten uns einige Schiffe der Bewohner und Händler Alexandrias.
+
+</text>
+        <usericon>1,215,138</usericon>
+        <text>
+
+Sie erwarteten uns bereits und wiesen uns einen geeigneten Siedlungsplatz zu. Bald würden wir mehr von unserer Mission erfahren...
+</text>
+      </lang>
+    </block>
+    <block id="25">
+      <lang code="CHN">
+        <text>
+
+索斯特拉托斯之父
+        </text>
+        <usericon>2,9</usericon>
+        <text>
+"哦，我可怜的孩子。你们可曾寻见他？他和我一样是建筑师，正着手加固他毕生最伟大的杰作——亚历山大灯塔。为换他平安归来，我愿倾尽所有！他定是被人掳走了！凡能寻得并救出他者，我必以重赏相酬！"
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+SOSTRATOS VATER
+
+</text>
+        <usericon>2,9</usericon>
+        <text>
+
+"Oh mein armer Junge. Habt ihr ihn schon gefunden? Er ist Architekt wie ich, und er war dabei, sein größtes Werk, den Leuchtturm Alexandrias, zu befestigen. Was würde ich geben, um ihn wieder bei mir zu haben! Sicherlich wurde er entführt! Jeder der ihn findet und befreit, erhält eine große Belohnung von mir!" 
+</text>
+      </lang>
+    </block>
+    <block id="26">
+      <lang code="CHN">
+        <text>
+
+索斯特拉托斯之父
+        </text>
+        <usericon>2,9</usericon>
+        <text>
+"哦，我可怜的孩子。是你们寻见了他！赞美真主！收下我这些珍贵的护符吧！"
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+SOSTRATOS VATER
+
+</text>
+        <usericon>2,9</usericon>
+        <text>
+
+"Oh mein armer Junge. Ihr wart es, die ihn gefunden habt! Allah sei gepriesen! Nehmt diese wertvollen Amulette von mir!"
+</text>
+      </lang>
+    </block>
+    <block id="27">
+      <lang code="CHN">
+        <text>
+
+地震！！！
+
+我们在此地驻留未久，可这地震的威势竟如此浩大！那昔日巍峨壮丽的灯塔，就此轰然崩塌。
+        </text>
+        <usericon>1,219,76</usericon>
+        <text>
+这座受损的灯塔，断然挺不过接连的震荡了！
+
+将100块碎石与50块大理石运至灯塔，以供修缮之用。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+ERDBEBEN!!!
+
+Noch nicht lange verweilten wir in diesem Gebiet, aber diese Erdbeben hatten ein gewaltiges Ausmaß! Der einstmals so prächtige Leuchtturm fiel in sich zusammen. 
+
+</text>
+        <usericon>1,219,76</usericon>
+        <text>
+
+Lange hielt der beschädigte Leuchtturm den Beben bestimmt nicht mehr stand!
+
+Bringe 100 Bruchsteine und 50 Marmorblöcke für die Reparaturarbeiten zum Leuchtturm.
+</text>
+      </lang>
+    </block>
+    <block id="28">
+      <lang code="CHN">
+        <text>
+
+地震！！！
+
+每一次震荡都在损毁法罗斯灯塔！我们必须加紧手中的工程！
+        </text>
+        <usericon>1,219,76</usericon>
+      </lang>
+      <lang code="ger">
+        <text> 
+ERDBEBEN!!!
+
+Jedes Beben beschädigte den Leuchtturm von Pharos! Wir mussten uns mit unseren Arbeiten beeilen!
+
+</text>
+        <usericon>1,219,76</usericon>
+      </lang>
+    </block>
+    <block id="29">
+      <lang code="CHN">
+        <text>
+
+地震！！！
+
+这场地震已几乎无法撼动新建成的灯塔。尽管如此，我们仍应加紧寻找圣火！
+        </text>
+        <usericon>1,219,55</usericon>
+      </lang>
+      <lang code="ger">
+        <text> 
+ERDBEBEN!!!
+
+Dieses Erdbeben konnte dem neu errichteten Leuchtturm kaum etwas anhaben. Trotzdem sollten wir uns mit der Suche nach dem heiligen Feuer beeilen!
+
+</text>
+        <usericon>1,219,55</usericon>
+      </lang>
+    </block>
+    <block id="30">
+      <lang code="CHN">
+        <text>
+
+撒拉逊人的仓库
+        </text>
+        <usericon>1,240,126</usericon>
+        <text>
+这座仓库想必是撒拉逊人专为灯塔工程而建。可他们为何偏要交易这些物资？我们以为更明智之举，是将它们运入我们自己的仓库，只将多余的物资放出交易。
+
+如有必要，另建一座属于自己的仓库，别忘了用路标标示出贸易路线！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+LAGERHAUS DER SARAZENEN
+
+</text>
+        <usericon>1,240,126</usericon>
+        <text>
+
+Dieses Lagerhaus hatten Sarazenen wohl extra für die Bauarbeiten am Leuchtturm errichtet. Aber warum wollten sie gerade diese Waren handeln? Wir hielten es für klüger, sie besser in ein eigenes Lagerhaus bringen und nur überschüssige Ware zum Handel freigeben.
+
+Errichte, wenn nötig, ein EIGENES Lagerhaus und vergiss nicht, den Handelsweg mit Wegweisern zu versehen!
+</text>
+      </lang>
+    </block>
+    <block id="300">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命里片刻的轻率，便致此般后果！你的挚友与英雄哈奇，因你的疏忽而殒命！少了这位英雄，你便无缘得知此役的结局。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held HATSCHI erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
+</text>
+      </lang>
+    </block>
+    <block id="31">
+      <lang code="CHN">
+        <text>
+
+你尚无权使用这处开关！！！
+        </text>
+        <usericon>1,51,471</usericon>
+      </lang>
+      <lang code="ger">
+        <text> 
+Du hast noch nicht die Befugnis, diesen Schalter zu benutzen!!!
+
+</text>
+        <usericon>1,51,471</usericon>
+      </lang>
+    </block>
+    <block id="32">
+      <lang code="CHN">
+        <text>
+
+赎金
+
+亚历山大港给了我们最初索要的100枚硬币赎金，还拨来几名士兵，助我们制伏流浪者、救出工程师。至于是与他们一战，还是照付赎金，抉择如今全在我们……
+        </text>
+        <usericon>2,14</usericon>
+      </lang>
+      <lang code="ger">
+        <text> 
+LÖSEGELD 
+
+Alexandria gab uns das ursprünglich geforderte Lösegeld von 100 Münzen und stellte uns einige Soldaten zur Verfügung, um die Vagabunden zu stellen und den Ingenieur zu befreien. Die Entscheidung, ob wir sie bekämpfen oder die Lösegeldforderung begleichen sollten, lag nun ganz bei uns...
+
+</text>
+        <usericon>2,14</usericon>
+      </lang>
+    </block>
+    <block id="33">
+      <lang code="CHN">
+        <text>
+
+仓库已建成！
+
+我们已建起一座仓库。如今只需将所需物资囤入其中，或运至其附近便可。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+LAGERHAUS ERRICHTET!
+
+Wir hatten ein Lagerhaus errichtet. Nun mussten wir nur noch die benötigten Waren dort einlagern oder in dessen Nähe transportieren.
+</text>
+      </lang>
+    </block>
+    <block id="34">
+      <lang code="CHN">
+        <text>
+
+族群已击败！
+
+你的维京士兵英勇无畏，尽显其胆识与骁勇，终于赢得了胜利！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+VOLK BESIEGT!
+
+Deine Wikingersoldaten stellten ihren Mut und ihre Tapferkeit heldenhaft unter Beweis und konnten den Sieg davontragen!
+</text>
+      </lang>
+    </block>
+    <block id="35">
+      <lang code="CHN">
+        <text>
+
+魔法田野
+
+这些明亮的田野，四周环绕着五人高的方尖碑，笼罩着一股奇异的魔力。一处会将你送往尼罗河彼岸，另一处则送你返回！
+        </text>
+        <usericon>1,410,263</usericon>
+      </lang>
+      <lang code="ger">
+        <text> 
+MAGISCHE FELDER
+
+Eine seltsame Magie umgibt diese hellen Felder, die von den fünfmannshohen Obelisken umgeben waren. Das Eine bringt dich jenseits des Nils, auf dem Anderen gelangst du zurück!
+
+</text>
+        <usericon>1,410,263</usericon>
+      </lang>
+    </block>
+    <block id="36">
+      <lang code="CHN">
+        <text>
+
+物资已送达
+达成新的建造阶段！
+
+我们已将所需物资送抵灯塔旁的仓库，亚历山大港的居民对此感激不已。
+        </text>
+        <usericon>1,219,76</usericon>
+      </lang>
+      <lang code="ger">
+        <text> 
+WAREN GELIEFERT
+NEUE BAUSTUFE ERREICHT!
+
+Wir hatten die benötigten Waren im Lagerhaus am Leuchtturm abgeliefert und die Bewohner Alexandrias dankten es uns. 
+
+</text>
+        <usericon>1,219,76</usericon>
+      </lang>
+    </block>
+    <block id="37">
+      <lang code="CHN">
+        <text>
+
+寻找圣火
+
+灯塔不久便以昔日的辉煌重现眼前，世间再无任何地震能将它夷为平地！
+        </text>
+        <usericon>1,219,55</usericon>
+        <text>
+可仍有些东西尚缺……灯塔虽如中流砥柱般矗立，却无法为航海者指引入城之路——它缺了它的光！
+这处世界奇迹之巅，不该燃着寻常之火，亚历山大人要从山中夺回那圣火。叛离的撒拉逊游牧者，正用它在矿场中开采黄金。
+
+前往西南方寻找圣火，并将它带回灯塔。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DIE SUCHE NACH DEM HEILIGEN FEUER
+
+Bald stand der Leuchtturm in alter Pracht vor uns und kein Erdbeben dieser Welt sollte ihn mehr dem Erdboden gleichmachen können! 
+
+</text>
+        <usericon>1,219,55</usericon>
+        <text>
+
+Aber irgend etwas fehlte noch... Zwar Stand der Leuchtturm wie ein Fels in der Brandung, aber er wies keinem Seefahrer den Weg in die Stadt - ihm fehlte sein Leuchten! 
+Kein gewöhnliches Feuer sollte an der Spitze dieses Weltwunders brennen, die Alexandriner wollten das heilige Feuer aus den Bergen zurückerobern. Abtrünnige Sarazenennomaden benutzten es in ihren Bergwerken zum Goldabbau. 
+
+Suche nach dem heiligen Feuer im Südwesten und bringe es zum Leuchtturm.
+</text>
+      </lang>
+    </block>
+    <block id="38">
+      <lang code="CHN">
+        <text>
+
+玛尼
+        </text>
+        <usericon>2,6</usericon>
+        <text>
+玛尼是比雅尼与希拉之子。这是他头一回随他们一同冒险。务必护他周全，莫让他遭遇任何不测！
+
+自黑暗威胁降临以来，有些孩子便不再长大。玛尼便是其中之一……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+MANI
+
+</text>
+        <usericon>2,6</usericon>
+        <text>
+
+Mani ist der Sohn von Bjarni und Cyra. Erstmals ist er bei ihren Abenteuern dabei. Pass gut auf, dass ihm nichts Böses widerfährt!
+
+Seit der dunklen Bedrohung werden manche Kinder nicht älter. Mani ist einer von ihnen...
+</text>
+      </lang>
+    </block>
+    <block id="39">
+      <lang code="CHN">
+        <text>
+
+玛尼还太小！
+        </text>
+        <usericon>2,6</usericon>
+        <text>
+玛尼一心想有朝一日成为英雄，如希拉与比雅尼那般。可对这场使命而言，他还太过年幼！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+MANI IST NOCH ZU KLEIN!
+
+</text>
+        <usericon>2,6</usericon>
+        <text>
+
+MANI möchte einmal ein Held werden, wie Cyra und Bjarni. Doch für diese Mission ist er noch zu klein!
+</text>
+      </lang>
+    </block>
+    <block id="40">
+      <lang code="CHN">
+        <text>
+
+老者
+
+这座城市充满了惊奇！在骆驼群间，我们遇见一位老者，正沉沉地拄着一根弯曲的手杖。
+        </text>
+        <usericon>1,211,309</usericon>
+        <text>
+"你们若从北面出城，"他喃喃道，"便会遇上索斯特拉托斯之父，其子的遭遇令他备受煎熬。你们若再往西行，便会遇上另一些北方人。他们没有首领，正寻着一位强有力的领袖……或许你们能收服这个族群？"他捻着胡须咕哝道。
+
+"至于西南方的山地部族，可是天底下最贪金的一群！千万提防他们，他们容不得任何人踏入自己的地界！"
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DER ALTE MANN
+
+Diese Stadt war voller Überraschungen! Zwischen Kamelen trafen wir auf einen alten Mann, der sich schwer auf einen krummen Stock stützte.
+
+</text>
+        <usericon>1,211,309</usericon>
+        <text>
+
+"Verlasst ihr die Stadt im Norden", murmelte er, "trefft ihr auf SOSTRATES VATER, den das Schicksal seines Sohnes schwer zu schaffen macht. Geht ihr dann weiter in westliche Richtung, trefft ihr auf andere Nordländer. Sie besitzen keinen Häuptling und suchen nach einer starken Führung... vielleicht könnt ihr das Volk ja übernehmen?"... brummelte er in seinen Bart hinein. 
+
+"Das Bergvolk im Südwesten jedoch ist das goldgierigste Völkchen unter der Sonne! Nehmt euch vor ihnen in acht, sie dulden niemanden in ihrem Gebiet!"
+</text>
+      </lang>
+    </block>
+    <block id="400">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命里片刻的轻率，便致此般后果！你的挚友与英雄西格德，因你的疏忽而殒命！少了这位英雄，你便无缘得知此役的结局。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held SIGURD erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="CHN">
+        <text>
+
+我们成功了！法罗斯灯塔，这或许是全世界最高的建筑，重又绽放光辉，航海者远在海上便能望见它。自此，它再度为他们担保着安然入港的航路。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Wir hatten es geschafft! Der Leuchtturm von Pharos, das wohl höchste Gebäude der ganzen Erde, erstrahlte wieder und konnte von Seefahrern bis weit aufs Meer hinaus gesehen werden. Von nun an garantierte er ihnen wieder die sichere Einfahrt in den Hafen. 
+
+</text>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="CHN">
+        <text>
+
+亚历山大港的居民对我们的相助满怀感激，愿为我们大办庆典。然而，下一项任务已在等候着我们：巴比伦的塞弥拉弥斯空中花园，将是我们的下一处目的地……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Der Bewohner Alexandrias zeigten sich voll Dankbarkeit für unsere Mithilfe und wollten uns zu Ehren ein großes Fest veranstalten. Doch uns erwartete bereits die nächste Aufgabe: die HÄNGENDEN GÄRTEN VON SEMIRAMIS in Babylon sollten unser nächster Bestimmungsort sein...
+</text>
+      </lang>
+    </block>
+    <block id="50_endheader">
+      <lang code="CHN">
+        <text>
+
+任务成功！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+MISSION GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="600">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命里片刻的轻率，便致此般后果！比雅尼与希拉之子玛尼，因你的疏忽而殒命！少了他，你便无缘得知此役的结局。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI, Sohn von Bjarni und Cyra, erlag durch deine Unachtsamkeit! Ohne ihn wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+
+法罗斯灯塔
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DER LEUCHTTURM VON PHAROS
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

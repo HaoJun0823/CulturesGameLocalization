@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_02_04-sub2" export_map_id="campaign_02_04-sub2" map_md5="60eea4f16983c31a073bd7c10968f4d0" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">@解答神谕者的谜题！</text>
+      <text lang="ger">@Löse das Orakel!</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">寻找一处登陆点！</text>
+      <text lang="ger">Suche einen Landeplatz!</text>
+    </string>
+    <string id="2">
+      <text lang="CHN">探查这片区域！</text>
+      <text lang="ger">Erforsche die Gegend!</text>
+    </string>
+    <string id="50">
+      <text lang="CHN">比雅尼的部族</text>
+      <text lang="ger">Bjarni's Stamm</text>
+    </string>
+    <string id="71">
+      <text lang="CHN">比雅尼</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="CHN">希拉</text>
+      <text lang="ger">Cyra</text>
+    </string>
+    <string id="73">
+      <text lang="CHN">哈奇</text>
+      <text lang="ger">Hatschi</text>
+    </string>
+    <string id="74">
+      <text lang="CHN">西格德</text>
+      <text lang="ger">Sigurd</text>
+    </string>
+    <string id="75">
+      <text lang="CHN">伊科尔</text>
+      <text lang="ger">Ykol</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">沉默者之岛 - 芬里尔之链 - 支线2</text>
+      <text lang="ger">INSEL DER SCHWEIGSAMEN - Die Kette des Fenris - Sub2</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="CHN">
+        <text>
+雾气散去，一座小巧静谧的岛屿海岸在眼前浮现。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+Als sich der Nebel lichtete, tauchte vor uns das Ufer einer kleinen verträumten Insel auf. 
+</text>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="CHN">
+        <text>
+这是为异族生灵所造的所在，其安宁与和谐于我们人类而言陌生，却仍迷人……
+
+寻找一处登陆点！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Dies war ein Platz, der für andere Wesen gemacht war, seine Ruhe und Harmonie erschien uns Menschen fremd, aber doch bezaubernd...
+
+Suche einen Landeplatz! 
+</text>
+      </lang>
+    </block>
+    <block id="01_landed">
+      <lang code="CHN">
+        <text>
+岛屿海岸提供了良好的登陆条件，我们便在西侧一处小湾登岛。一切如此静谧平和，一种无声的魔法笼罩此地……
+
+靠岸停船，让人们下船，去探索周边！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Die Ufer der Insel boten gute Landemöglichkeiten, und so suchten wir uns eine kleine Bucht im Westen, um die Insel zu betreten. Alles war sehr ruhig und friedlich, ein unausgesprochener Zauber lag auf diesem Ort...
+
+Docke das Schiff an und lass die Leute von Bord gehen, um die Gegend zu erforschen!
+</text>
+      </lang>
+    </block>
+    <block id="02_unicorn">
+      <lang code="CHN">
+        <text>
+
+独角兽
+
+在一片林间空地，我们遇见一道明亮闪耀的身影。它如童话般美丽，耀得人目眩。独角兽以平静友善的言语示意，我们备受欢迎，若解开此地谜题，它便赠我们一根独角兽的魔法之角。一切如梦——我们虽不通其语，却字字听懂……
+
+解开神谕！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+
+EINHORN
+
+Auf einer Lichtung trafen wir auf ein helle, leuchtende Gestalt. Sie war märchenhaft schön und blendete unsere Augen. In einer ruhigen, freundlichen Sprache gab uns das Einhorn zu verstehen, dass wir willkommen seien und sie uns eines der magischen Hörner der Einhörner überlassen würde, wenn wir das Rätsel um diesen Platz lösen würden. 
+Alles war wie in einem Traum - wir verstanden jedes ihrer Worte, ohne der Sprache mächtig zu sein... 
+
+Löse das Orakel!
+</text>
+      </lang>
+    </block>
+    <block id="03_besetzt">
+      <lang code="CHN">
+        <text>
+你们必须从开关上下来，否则独角兽不会开口！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Du musst von den Schaltern herunter gehen, sonst schweigt das Einhorn!
+</text>
+      </lang>
+    </block>
+    <block id="04_erklärung1">
+      <lang code="CHN">
+        <text>
+“要回答我的谜题，”独角兽说道，“请站上三个开关之一。牢记下列记号！若解不开谜题，须重访此岛！”
+
+“你们看，这是开关 A”
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+"Um auf meine Rätsel zu antworten" sprach das Einhorn "begebt euch auf einen der drei Schalter. Merkt euch die folgenden Symbole gut! Löst ihr das Rätsel nicht, so müsst ihr die Insel erneut aufsuchen!"
+
+"Hier seht ihr SCHALTER A"
+</text>
+      </lang>
+    </block>
+    <block id="05_erklärung2">
+      <lang code="CHN">
+        <text>
+
+“你们看，这是开关 B”
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+"Hier seht ihr SCHALTER B"
+</text>
+      </lang>
+    </block>
+    <block id="06_erklärung3">
+      <lang code="CHN">
+        <text>
+
+“而这，是开关 C”
+
+我的每个谜题都有 3 个可能的答案，但只有一个正确。按下对应开关来回答我！你们准备好猜谜了吗？
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+"Und das ist SCHALTER C" 
+
+Auf jedes meiner Rätsel gibt es 3 mögliche Antworten, aber nur eine davon ist richtig. Antwortet mir, indem ihr den entsprechenden Schalter betätigt! Seid ihr bereit für dieses Rätsel?" 
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+是英勇，还是鲁莽？比雅尼死时，诸神也为之落泪……少了这位英雄，你便无从知晓任务的结局。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="10_frage3">
+      <lang code="CHN">
+        <text>
+谜题 3
+
+“比雅尼是谁之子？”
+
+A) 斯努里·斯图拉松
+B) 埃里克·贡纳松
+C) 莱夫·埃里克松
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+RÄTSEL 3
+
+"Wessen Sohn ist Bjarni?" 
+
+A) Snoori Sturlarson
+B) Erick Gunnarson
+C) Leif Erickson
+</text>
+      </lang>
+    </block>
+    <block id="11_right">
+      <lang code="CHN">
+        <text>
+
+答对了！！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+
+RICHTIG!!
+</text>
+      </lang>
+    </block>
+    <block id="200">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命中片刻的鲁莽，转瞬即至！你的女英雄希拉因你的疏忽而殒命！少了这位女英雄，你便无从知晓任务的结局。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin Cyra erlag durch deine Unachtsamkeit! Ohne diese Heldin wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="300">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命中片刻的鲁莽，转瞬即至！你的朋友与英雄哈奇因你的疏忽而殒命！少了这位英雄，你便无从知晓任务的结局。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Hatschi erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
+</text>
+      </lang>
+    </block>
+    <block id="400">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命中片刻的鲁莽，转瞬即至！你的朋友与英雄西格德因你的疏忽而殒命！少了这位英雄，你便无从知晓任务的结局。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Sigurd erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="500">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命中片刻的鲁莽，转瞬即至！伊科尔因你的疏忽而殒命！少了这位英雄，你便无从知晓任务的结局。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Ykol erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="CHN">
+        <text>
+我们答对了谜题，从那生灵手中获赠一截兽角，其中蕴藏独角兽全部的魔法本领。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Wir hatten die Rätsel richtig beantwortet und erhielten von dem Wesen ein Horn, das all die magischen Fähigkeiten der Einhörner in sich barg.   
+</text>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="CHN">
+        <text>
+至此，第二种魔法原料也已寻得，我们可返回修道院。任务途中，还有更多惊险冒险等着我们……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Somit war auch die zweite magische Ingredienz gefunden und wir konnten uns zurück zur Abtei begeben. Weitere spannende Abenteuer würden uns noch auf unserer Mission erwarten....
+</text>
+      </lang>
+    </block>
+    <block id="50_endheader">
+      <lang code="CHN">
+        <text>
+
+任务成功！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+
+MISSION GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="7_falsch">
+      <lang code="CHN">
+        <text>
+噗！
+
+答错了！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+MÖP!
+
+Falsche Antwort!
+</text>
+      </lang>
+    </block>
+    <block id="8_frage1">
+      <lang code="CHN">
+        <text>
+谜题 1
+
+“骆驼有何别称？”
+
+A) 沙漠之舟
+B) 贝都因摇床
+C) 饼屎客
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+RÄTSEL 1 
+
+"Welchen Beinahmen hat ein Kamel?" 
+
+A) Wüstenschiff 
+B) Beduinenschaukler 
+C) Fladenscheißer
+</text>
+      </lang>
+    </block>
+    <block id="9_frage2">
+      <lang code="CHN">
+        <text>
+谜题 2
+
+“大恶狼吞下了几只小羊？”
+
+A) 7
+B) 6
+C) 5
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+RÄTSEL 2
+
+"Wie viele Geißlein verspeiste der Böse Wolf?" 
+
+A) 7
+B) 6 
+C) 5
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+
+寂静之岛
+
+
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+INSEL DER SCHWEIGSAMEN
+
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

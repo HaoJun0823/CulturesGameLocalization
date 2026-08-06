@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="13_Das_Tal_der_Könige" export_map_id="13_Das_Tal_der_Könige" map_md5="f8e18cca05797bde8f7b9d545fa1c02d" IsC2M="true">
+  <languages>
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">帝王谷</text>
+      <text lang="ger">Das Tal der Könige</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">我们终于抵达了帝王谷。</text>
+      <text lang="ger">Endlich waren wir im Tal der Könige angekommen.</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+    </string>
+    <string id="4">
+      <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+    </string>
+    <string id="50">
+      <text lang="CHN">玩家0</text>
+      <text lang="ger">Spieler0</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">玩家1</text>
+      <text lang="ger">Spieler1</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">玩家2</text>
+      <text lang="ger">Spieler2</text>
+    </string>
+    <string id="53">
+      <text lang="CHN">玩家3</text>
+      <text lang="ger">Spieler3</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="findmappos1">
+      <lang code="CHN">
+        <text>这里似乎是一座被废弃的村庄。我们急切地升起了我们的红旗。从今往后，这里便归我们所有。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Dies schien ein verlassenes Dorf zu sein. Eifrig hießten wir unsere rote Flagge. Dies sollte von nun an uns gehören.
+
+</text>
+      </lang>
+    </block>
+    <block id="findmappos2">
+      <lang code="CHN">
+        <text>站住！！我，凯撒三世，宣称这座山背后的全部土地归我。不许再往前。什么？你们无论如何都要继续？哪怕我警告过你们？
+阿布拉卡达布拉，辛萨拉宾班巴萨拉丁沙拉丁。等你们抵达我的村庄，只怕早就饿死了……</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Halt !! Ich Caesar III beanspruche das ganze Land hinter diesem Berg. Geht nicht weiter. Was ? Ihr wollt trotzdem weitergehen? Trotz meiner Warnung?
+Abrakadabra, Simsalabimbambasaladusaladim. Bis ihr mein Dorf erreicht  werdet ihr verhungert sein.... 
+
+</text>
+      </lang>
+    </block>
+    <block id="lost_body">
+      <lang code="CHN">
+        <text>你失败了。要不去玩一局挑棒游戏吧。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Du hast verloren. Versuchs doch mal mit ner Runde Mikado.
+
+</text>
+      </lang>
+    </block>
+    <block id="lost_header">
+      <lang code="CHN">
+        <text>任务失败！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Mission verloren!
+
+</text>
+      </lang>
+    </block>
+    <block id="playerdied1">
+      <lang code="CHN">
+        <text>玩家1已阵亡。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 1 ist gestorben.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerdied2">
+      <lang code="CHN">
+        <text>凯撒的大军已被击败。如今通往那道门的路畅通无阻了。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Caesars Horden waren besiegt. Nun war der Weg zum Tor frei.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerdied3">
+      <lang code="CHN">
+        <text>玩家3已阵亡。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 3 ist gestorben.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerenemy1">
+      <lang code="CHN">
+        <text>玩家1现在转为敌对。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 1 ist jetzt feindlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerenemy3">
+      <lang code="CHN">
+        <text>玩家3现在转为敌对。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 3 ist jetzt feindlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerfriendly2">
+      <lang code="CHN">
+        <text>玩家2现在转为友好。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 2 ist jetzt freundlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerneutral1">
+      <lang code="CHN">
+        <text>玩家1现在转为中立。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 1 ist jetzt neutral.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerneutral2">
+      <lang code="CHN">
+        <text>玩家2现在转为中立。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 2 ist jetzt neutral.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerneutral3">
+      <lang code="CHN">
+        <text>玩家3现在转为中立。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 3 ist jetzt neutral.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerseen1">
+      <lang code="CHN">
+        <text>嗬嗬！！
+我是DJ文化王。我衷心问候你们。我是西北方之王。来吧，派你们的商人来。我们有绝佳的货物供你们选购。要当心东北方，凯撒三世带着他的大军住在那里。别去招惹他。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Huhu !!
+Ich bin König DJ Culture. Ich grüße Euch recht herzlich. Ich bin der König vom Nordwesten. Kommt, schickt Eure Händler. Wir haben tolle Warenangebote für Euch. Hütet Euch vor dem Nordosten, dort lebt Caesar III mit seinen Horden. Kommt ihm nicht in die Quere.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerseen2">
+      <lang code="CHN">
+        <text>凯撒的大军！！
+站住，我，凯撒三世，东北方的统治者，警告你们别再往前，否则我们就像宰乳猪一样把你们宰了。
+任务目标：消灭凯撒的大军。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Caesars Horden !!
+Halt, ich Caesar III, Herrscher des Nordostens warne Euch nicht weiterzugehen, sonst schlachten wir Euch ab wie die Spanferkel.
+Missionsziel: Vernichte Caesars Horden.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerseen3">
+      <lang code="CHN">
+        <text>呀嗬！！
+我，东南方的统治者伯迪，问候你们这些好汉。来吧，派你们的商人来，我们有绝佳的货物供你们选购。要当心东北方。凯撒三世带着他那帮恶徒盘踞在那里。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Juhuu !!
+Ich Birdy, Herrscherin des Südostens grüße Euch ihr Mannen. Kommt schickt Eure Händler, wir haben tolle Waren im Angebot. Hütet Euch vor dem Nordosten. Dort haust Caesar III mit seinen Schlechtern.
+
+</text>
+      </lang>
+    </block>
+    <block id="start_body">
+      <lang code="CHN">
+        <text>熬过试炼的只剩两名士兵了。喂，来吧，咱们继续往北走走，一个对另一个说道。我好像看到那边有什么东西。从这么远？另一个回道。你这眼神可真好。那当然。喂，这次咱们可得酿够药水，好让下一场冒险有得用，你说呢？行行行，另一个只是简短地应了一声。
+任务目标1：储备50瓶大型营养药水和50瓶大型治疗药水。
+任务目标2：找到通往地上世界的那道门，好离开这片土地。
+
+
+制作者：尤基</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Gerade mal zwei Soldaten hatten die Prüfung überlebt.He komm laß uns mal weiter Richtung Norden gehen, sagte der eine zum anderen. Ich glaube ich habe da etwas gesehen. Von hier aus? entgegnete der andere. Hast Du aber ne gute Brille auf. Na klaro. He diesmal werden wir uns aber genügend Tränke brauen, damit wir genug für die nächsten Abenteuer haben, was meinst Du? Jojo, antwortete der andere nur kurz.
+Missionsziel 1: Lagere 50 große Nahrungs - und 50 große Heiltränke ein.
+Missionsziel 2: Finde das Tor zur Oberwelt, um dieses Land wieder zu verlassen.
+
+
+Erstellt von: Yogi
+
+</text>
+      </lang>
+    </block>
+    <block id="start_header">
+      <lang code="CHN">
+        <text>帝王谷</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Das Tal der Könige
+
+</text>
+      </lang>
+    </block>
+    <block id="won_body">
+      <lang code="CHN">
+        <text>我们又一次成功了。凯撒的大军已被击败，通往地上世界的路终于畅通。可我们又会从哪里冒出来呢？</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Wir hatten es ein weiteres Mal geschafft. Caesars Horden waren besiegt, und der Weg zur Oberwelt endlich frei. Aber wo würden wir herauskommen ?
+
+</text>
+      </lang>
+    </block>
+    <block id="won_header">
+      <lang code="CHN">
+        <text>任务达成！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Mission gewonnen!
+
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

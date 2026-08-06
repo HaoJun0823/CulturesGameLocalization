@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_01_07" export_map_id="campaign_01_07" map_md5="2604d1e4e82cd0b421f67a37044bc332" IsC2M="false">
+  <languages>
+    <language code="GER" alias="GER" encoding="windows-1252" fix_1251="false" />
+    <language code="ENG" alias="ENG" encoding="windows-1252" fix_1251="false" />
+    <language code="POL" alias="POL" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="GER">Besiege den verräterischen General.</text>
+      <text lang="ENG">Defeat the traitorous general.</text>
+      <text lang="POL">Pokonaj genera³a-zdrajcê.</text>
+    </string>
+    <string id="1">
+      <text lang="GER">Erobere die letzte Festung des Generals im nördlichen Gebirge.</text>
+      <text lang="ENG">Conquer the general's last stronghold in the northern mountains.</text>
+      <text lang="POL">Zdob¹dŸ ostatni¹ fortecê genera³a w górach pó³nocy.</text>
+    </string>
+    <string id="2">
+      <text lang="GER">Zahle den Tribut, um den General friedlich zu stimmen.</text>
+      <text lang="ENG">Pay the tribute to appease the general.</text>
+      <text lang="POL">Udobruchaj genera³a, p³ac¹c mu.</text>
+    </string>
+    <string id="3">
+      <text lang="GER">Gehe in dein Dorf.</text>
+      <text lang="ENG">Go to your village.</text>
+      <text lang="POL">Udaj siê do swojej wioski.</text>
+    </string>
+    <string id="21">
+      <text lang="GER">Zahle den gewünschten Tribut für einen Handelsvertrag.</text>
+      <text lang="ENG">Pay the demanded tribute for a trade agreement.</text>
+      <text lang="POL">Zap³aæ za podpisanie umowy handlowej.</text>
+    </string>
+    <string id="22">
+      <text lang="GER">Stimme die Byzantiner wieder friedlich.</text>
+      <text lang="ENG">Appease Byzantium again.</text>
+      <text lang="POL">Jeszcze raz uspokój Bizancjum.</text>
+    </string>
+    <string id="51">
+      <text lang="GER">Byzantiner</text>
+      <text lang="ENG">Byzantines</text>
+      <text lang="POL">Bizantyjczycy</text>
+    </string>
+    <string id="52">
+      <text lang="GER">Hardradis Soldaten</text>
+      <text lang="ENG">Hardradi's Soldiers</text>
+      <text lang="POL">Wojska Hardrady</text>
+    </string>
+    <string id="53">
+      <text lang="GER">Brückenwächter</text>
+      <text lang="ENG">Bridge Guard</text>
+      <text lang="POL">Stra¿nik mostu</text>
+    </string>
+    <string id="54">
+      <text lang="GER">Flüchtlinge</text>
+      <text lang="ENG">Refugees</text>
+      <text lang="POL">Uciekinierzy</text>
+    </string>
+    <string id="98">
+      <text lang="GER">Der General hatte die Kontrolle über die Armee an sich gerissen und den nördlichen Teil von Byzanz erobert. Nun würde es auf die Warägergarde ankommen, wohin sich die Waagschale des Schicksals senken wird.</text>
+      <text lang="ENG">The general has taken control of the army and conquered the northern part of Byzantium. The future now depends on the Waräger Guard. Their efforts will determine which way fate will go.</text>
+      <text lang="POL">Genera³ przej¹³ dowództwo nad wojskiem i opanowa³ pó³nocn¹ czêœæ imperium. Dalszy rozwój wypadków zale¿y teraz od postawy Stra¿y Waregów...</text>
+    </string>
+    <string id="99">
+      <text lang="GER">DIE SCHLACHT UM BYZANZ</text>
+      <text lang="ENG">THE BATTLE FOR BYZANTIUM</text>
+      <text lang="POL">WOJNA O BIZANCJUM</text>
+    </string>
+    <string id="101">
+      <text lang="GER">Bjarni</text>
+      <text lang="ENG">Bjarni</text>
+      <text lang="POL">Bjarni</text>
+    </string>
+    <string id="102">
+      <text lang="GER">Sigurd</text>
+      <text lang="ENG">Sigurd</text>
+      <text lang="POL">Sigurd</text>
+    </string>
+    <string id="103">
+      <text lang="GER">Cyra</text>
+      <text lang="ENG">Cyra</text>
+      <text lang="POL">Cyra</text>
+    </string>
+    <string id="104">
+      <text lang="GER">General Hardradi</text>
+      <text lang="ENG">General Hardradi</text>
+      <text lang="POL">Genera³ Hardrada</text>
+    </string>
+    <string id="105">
+      <text lang="GER">Sven Herulfson</text>
+      <text lang="ENG">Sven Herulfson</text>
+      <text lang="POL">Swen Herulfson</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="14">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Das ist das Ende! Die Vision wird sich nun niemals erfüllen können! Trotz erbitterter Gegenwehr wurde einer der Helden von der Übermacht des Gegners überwältigt!
+</text>
+      </lang>
+      <lang code="ENG">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+This is the end! The vision can never be fulfilled now! Despite a fierce fight, one of your heroes was overwhelmed by the enemy!
+</text>
+      </lang>
+      <lang code="POL">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+To ju¿ koniec! Wizja Bjarniego nie mo¿e ju¿ zostaæ spe³niona - pomimo dzielnej walki jeden z twoich bohaterów pad³ po ciosami wrogów!
+</text>
+      </lang>
+    </block>
+    <block id="armee">
+      <lang code="GER">
+        <text>
+...
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+...
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+...
+</text>
+      </lang>
+    </block>
+    <block id="bjarnitot">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ihr Ende war besiegelt und mit ihnen das Ende der Welt der Menschen.
+</text>
+      </lang>
+      <lang code="ENG">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When Bjarni died the gods were crying ... their fate was sealed and with it the end of the human world.
+</text>
+      </lang>
+      <lang code="POL">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroizm czy g³upota? Bjarni zgin¹³, a bogowie p³acz¹... Ich los jest ju¿ przes¹dzony - tak samo jak zniszczenie œwiata ludzi.
+</text>
+      </lang>
+    </block>
+    <block id="brückenwächter">
+      <lang code="GER">
+        <text>
+Im Nordwesten trafen wir auf das Fort der Brückenwächter. Sie hatten sich bisher noch erfolgreich gegen die Truppen des Generals zur Wehr setzen können. 
+
+Freudig stellten sie uns einige ihrer Katapulte zur Verfügung, um uns gegen ihn zu unterstützen.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+In the north-west we found the fort of the bridge guards. So far, they had managed to withstand the force of the General's troops. 
+
+They happily supplied us with some of their catapults to support us in our fight against him.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Na pó³nocnym zachodzie napotkaliœmy fort strzeg¹cy mostu, któremu uda³o siê jak do tej pory wytrzymaæ napór wojsk Genera³a.
+
+Z radoœci¹ przekazali nam kilka katapult, aby wesprzeæ nasz¹ walkê przeciwko wspólnemu wrogowi.
+</text>
+      </lang>
+    </block>
+    <block id="byzanzsiegkaisertot">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Wir hatten Byzanz eingenommen! Die Ruinen der einst so stolzen Stadt lagen nun in unserer Hand. Noch am selben Tag krönte ich mich in den rauchenden Mauern der eingestürzten Kathedrale zum Imperator des oströmischen Reiches. 
+
+Doch was für ein trauriges Königreich war das, wo wir unsere eigenen Freunde verraten und vertrieben hatten! Über meinen anfänglichen Triumph vergaß ich das eigentliche Ziel unserer Reise. Hatte der Kaiser gewusst, wo wir das letzte Kartenstück finden konnten, so war es jetzt zu spät, ihn zu fragen.
+</text>
+      </lang>
+      <lang code="ENG">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+We had managed to conquer Byzantium. The ruins of the once so proud city were in our hands. The very same day, I crowned myself the new Emperor of Byzantium. 
+
+But it was a sad realm which I ruled, having betrayed and driven out our own friends! I had forgotten the reason for our travels. If the Emperor had known where we might find the last piece of the map, it was now too late to ask him.
+</text>
+      </lang>
+      <lang code="POL">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Udao nam siê podbiæ Bizancjum. Niepodzielnie panowaliœmy nad ruinami tego niegdyœ tak dumnego miasta... Jeszcze tego samego dnia koronowa³em siê na Cesarza Imperium Rzymskiego na Wschodzie.
+
+Niezwykle smutne by³o jednak to pañstwo, w którym rz¹dy zdoby³em dziêki zdradzie i wypêdzeniu przyjació³! W zapomnienie posz³y powody naszych podró¿y - jeœli Cesarz kiedykolwiek wiedzia³ coœ o poszukiwanej przez nas mapie, to by³o ju¿ zdecydowanie za póŸno, aby siê o to zapytaæ.
+</text>
+      </lang>
+    </block>
+    <block id="flucht">
+      <lang code="GER">
+        <text>
+Weiter im Norden trafen wir auf eine byzantinische Siedlung, deren Bewohner vor dem General geflüchtet waren. 
+
+Sie waren geschwächt und würden uns im Kampf gegen den General nicht unterstützen, aber vielleicht konnten wir Handel mit Ihnen betreiben.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+Further in the north we found a Byzantine settlement, whose inhabitants had fled from the General. 
+
+They were weakened and wouldn't support us in our fight against the General, but maybe we could trade with them.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Na pó³nocy napotkaliœmy osadê Bizantyjczyków, którzy uciekli przed wojenn¹ po¿og¹.
+
+Nie byli doœæ silni, aby wesprzeæ nas w walce, ale mo¿e da siê z nimi pohandlowaæ?
+</text>
+      </lang>
+    </block>
+    <block id="genaralinbyzanz">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Als der General Byzanz einnahm, verbreitete er Angst und Schrecken in der Bevölkerung und ließ sich sogleich zum neuen Imperator des oströmischen Reiches krönen. 
+
+Den alten Kaiser und seine Tochter ließ er in ein tiefes Verließ werfen und regierte lange Jahre mit eiserner Hand. Seine Verbündeten betrog er und Verträge mit ihm waren nicht das Pergament wert, auf das sie geschrieben waren. 
+
+Uns forderte er auf, das Land zu verlassen und drohte mit Krieg, sollten wir uns nicht unterwerfen. Hatte der Kaiser gewusst, wo wir das letzte Kartenstück finden konnten, so war es jetzt zu spät, ihn zu fragen. 
+</text>
+      </lang>
+      <lang code="ENG">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+When the General conquered Byzantium, he spread fear and desperation among the population, and was soon crowned the new emperor of the Byzantine Empire. 
+
+The former Emperor and his daughter were thrust into a deep dungeon, and the General's bold reign lasted for many years. He cheated on his allies, and contracts he made were worth no more than the paper they were written on. 
+
+He ordered us to leave the country and threatened to wage war upon us if we wouldn't submit to his reign. If the Emperor had known where we might find the last piece of the map, it was now too late to ask him. 
+</text>
+      </lang>
+      <lang code="POL">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Genera³ podbi³ Bizancjum i szybko doprowadzi³ do swojej koronacji na Cesarza, zastraszaj¹c opornych i pokonuj¹c otwarcie wrogich.
+
+By³y Cesarz wraz z córk¹ wyl¹dowali w g³êbokim lochu. Odwa¿ne rz¹dy Hardrady trwa³y wiele lat, znaczone oszukiwaniem sojuszników i podpisywaniem mnóstwa bezwartoœciowych uk³adów.
+
+My otrzymaliœmy kategoryczny nakaz opuszczenia Cesarstwa - gdybyœmy odmówili podporz¹dkowania siê jego rz¹dom, mia³ nam wydaæ bezlitosn¹ wojnê. Jeœli Cesarz kiedykolwiek wiedzia³ coœ o poszukiwanej przez nas mapie, to by³o ju¿ zdecydowanie za póŸno, aby siê o to zapytaæ.
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="GER">
+        <text>
+
+DIE SCHLACHT UM BYZANZ
+
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+
+BATTLE FOR BYZANTIUM
+
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+
+WOJNA O BIZANCJUM
+
+</text>
+      </lang>
+    </block>
+    <block id="nachricht">
+      <lang code="GER">
+        <text>
+Als wir auf die ersten Vorposten des Generals trafen, ließ er uns eine Nachricht übermitteln: Wenn wir uns bereiterklärten, an seiner Seite zu kämpfen, so würde er uns reich belohnen, sollte er erst Kaiser sein.
+
+
+Zahle, wenn du auf den Vorschlag des Generals eingehen willst, den geforderten Tribut.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+When we came across the General's first outpost, he sent us a message: If we were willing to fight on his side, he'd reward us plentifully once he was emperor.
+
+
+Pay the demanded tribute if you want to accept the General's proposal.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Pierwszy posterunek si³ Hardrady przekaza³ nam wiadomoœæ od niego: jeœli zechcemy siê do niego przy³¹czyæ, to gdy ju¿ zostanie Cesarzem, nie omieszka hojnie nas wynagrodziæ.
+
+
+Zap³aæ ustalon¹ sumê, jeœli chcesz przyj¹æ propozycjê Genera³a.
+</text>
+      </lang>
+    </block>
+    <block id="rückzug">
+      <lang code="GER">
+        <text>
+Als der General sah, wie unsere Armee ihm Verlust um Verlust beibrachte, befahl er den Rückzug in sein geheimes Hauptquartier im Norden. 
+
+Nahezu uneinnehmbar waren die alten Mauern, in denen wir ihn nun zur Schlacht fordern mussten, wollten wir seiner Schreckensherrschaft ein für allemal ein Ende bereiten.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+When the General saw how our army caused him more and more losses, he ordered a retreat into his secret headquarters in the north. 
+
+The old walls where we challenged him for battle were hardly conquerable - but we had to conquer them if we wanted to terminate his reign of terror.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Hardrada zorientowa³ siê, ¿e nasza armia przysparza mu kolejnych pora¿ek i nakaza³ odwrót do swojej górskiej fortecy.
+
+Stare mury wygl¹da³y na niemo¿liwe do zdobycia, jednak musieliœmy je przebyæ, aby na zawsze zakoñczyæ dyktaturê strachu.
+</text>
+      </lang>
+    </block>
+    <block id="soldaten">
+      <lang code="GER">
+        <text>
+Als die Bewohner von Byzanz sahen, dass unsere Armee, die wir zu ihrer Rettung aufstellten, wuchs und wuchs, schöpften sie neuen Mut. 
+
+Der Kaiser rief alle Gardesoldaten zusammen, die er entbehren konnte, und schickte sie auf die andere Seite des Flusses, um sie unserem Oberbefehl zu unterstellten.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+When the inhabitants of Byzantium saw that our army, which we set up to save them, was growing and growing, their courage waxed.
+
+The Emperor called together all soldiers of the guard he could spare and sent them to the other side of the river, to place them under our command.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Mieszkañcy Bizancjum z rosn¹cym sercem patrzyli na nasz¹ rosn¹c¹ armiê - armiê, która mia³a ich broniæ!
+
+Cesarz zebra³ wszystkich wojowników i gwardzistów, jacy nie byli mu niezbêdnie potrzebni, pos³a³ ich na drug¹ stronê rzeki i przekaza³ pod moje dowództwo
+</text>
+      </lang>
+    </block>
+    <block id="spieler_attakiert_Byzanz">
+      <lang code="GER">
+        <text>
+Wir griffen Byzanz an!
+
+Der Kaiser war sprachlos über unser Vergehen, hatte er uns doch bisher als zuverlässige Verbündete und Freunde kennen gelernt!
+
+"Um der alten Freundschaft Willen mag ich euch diese Schandtat verzeihen. Doch zahlt zuerst 30 Goldmünzen als Strafe für eure Tat! Danach mag wieder Frieden herrschen zwischen unseren Völkern. 
+Bis dahin haltet euch von unseren Straßen fern. Meine Soldaten werden jeden angreifen, der sich in ihre Nähe wagt!
+
+Solltet ihr uns jedoch weiter bekämpfen, werdet ihr niemals das Ende eurer Mission erfahren! Vergesst dies nie!"
+
+
+Zahle dem Kaiser von Byzanz 30 Goldmünzen, um den Frieden wieder herzustellen.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text />
+      </lang>
+      <lang code="POL">
+        <text />
+      </lang>
+    </block>
+    <block id="spieler_zahlt_tribut">
+      <lang code="GER">
+        <text>
+General Hardradi nahm vergnügt unseren Tribut entgegen.
+
+Doch in dem Moment, da die Prinzessin von dem Handel erfuhr, trat die stolze Tochter des Kaisers von Byzanz mir entgegen.
+
+"Hast du denn nichts verstanden? Glaubst du tatsächlich, dass Hardradi genug Ehre hat, Frieden zu geben und seine Waffen nieder zu legen? Niemals! Ich werde meinen Vater bitten, dir um meiner Willen zu verzeihen und den Frieden zwischen unseren Völkern zu wahren! Wartet hier auf mich, bis ich zurück bin."
+
+Tatsächlich kam die Prinzessin nach wenigen Stunden mit froher Kunde zurück. Der Kaiser verzieh uns in Gedenken an die Befreiung seiner Tochter. Und mehr noch - er stellte uns sogar einige seiner besten Krieger zur Verfügung. Sie sollten uns im Kampf gegen den General helfen.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text />
+      </lang>
+      <lang code="POL">
+        <text />
+      </lang>
+    </block>
+    <block id="spielertot">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Du hast versagt! 
+
+Deine Wikinger hatten auf dich vertraut und du hast sie im Stich gelassen. An Odins Tafel wird kein Platz für dich sein.
+</text>
+      </lang>
+      <lang code="ENG">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+You have failed! 
+
+Your Vikings trusted you and you've let them down! There will be no place for you at Odin's table!
+</text>
+      </lang>
+      <lang code="POL">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Nie powiod³o ci siê!
+
+Twoi Wikingowie ci zaufali, a ty ich zawiod³eœ! Nie znajdzie siê dla ciebie miejsce przy stole Odyna!
+</text>
+      </lang>
+    </block>
+    <block id="start_00">
+      <lang code="GER">
+        <text>
+Auf dem schnellsten Wege machten wir uns auf in die Hauptstadt. Vor der Stadt erwartete uns bereits ungeduldig die völlig aufgelöste Prinzessin, die mich flehentlich um Hilfe bat. Anscheinend waren wir zu spät gekommen! 
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+We headed for the capital the fastest way we could. The princess was waiting outside the city, distraught and quite beside herself, begging me for help. It appeared we had arrived too late. 
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Dotarliœmy do stolicy jak najszybciej siê da³o, ale i tak wydawa³o siê, ¿e jest ju¿ za póŸno. Na przedmieœciach spotkaliœmy czekaj¹c¹ na nas ksiê¿niczkê, zap³akan¹ i prawie za³aman¹.
+</text>
+      </lang>
+    </block>
+    <block id="start_01">
+      <lang code="GER">
+        <text>
+Der General hatte die Kontrolle über die Armee an sich gerissen und den nördlichen Teil der Stadt erobert, von wo aus er den Kaiser zur Übergabe der Krone aufforderte. Außer ein paar kaisertreuen Eliteeinheiten hatte die Stadt keine Verteidigung mehr. 
+
+Jetzt würde es ganz auf uns und die Warägergarde ankommen, wohin sich die Waagschale des Schicksals senken würde...
+
+
+Baue dein Heer auf und rücke dann gegen den Gegner vor.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+The General had taken control of the army and conquered the northern part of the city, and was now ordering the Emperor to resign. There was no defence excepting a few elite units loyal to the Emperor. 
+
+The future now depended on us and the Waräger Guard. Our efforts would determine which way fate would go.
+
+
+Build up your army and advance against the enemy.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Hardrada obj¹³ dowodzenie nad wojskiem, zaj¹³ pó³nocn¹ czêœæ miasta i za¿¹da³ abdykacji cesarza, któremu wiarê dochowa³o jedynie kilka elitarnych jednostek.
+
+Dalszy rozwój wypadków zale¿a³ od nas, Stra¿y Waregów!
+
+
+Rozbuduj swoje wojska i zaatakuj wroga.
+</text>
+      </lang>
+    </block>
+    <block id="wikiflucht">
+      <lang code="GER">
+        <text>
+Was war das?
+Völlig unerwartet tauchte vor uns ein Dorf unserer Landsleute auf! 
+
+Hier, wo vor kurzer Zeit noch öde Steppe und wilde Baumgruppen das Bild der Landschaft geprägt hatten, standen nun zahlreiche Hütten und Werkstätten in typischer Wikingermanier. 
+Doch noch erstaunter waren wir, als wir unter den Bewohnern zahlreiche Freunde aus unserem Dorf erkannten...
+
+Was war hier geschehen? Mit schwante Übles, als ich hinter einem Felsen das Gesicht meines alten Kampfgefährten Sven Herulfsons erkannte, der gerade Bruchsteine aus dem Felsen schlug. Ich trat von hinten an ihn heran und legte ihm zum Gruß die Hand auf die Schulter.
+
+Zu Tode erschrocken drehte er sich zu mir herum und brach in Tränen aus, als er mich erkannte. 
+"Bjarni, wo seid ihr gewesen? Wo wart ihr, als dieser elende General Hardradi unser Dorf überfallen und dem Erdboden gleich gemacht hat? Wo wart ihr da nur? Ach Bjarni..."
+
+Schluchzend sackte er n meinen Armen zusammen. Mir wurde unwohl, diesen tapferen Krieger so elend vor mir zu sehen. Schreckliches musste geschehen sein, was das bewirken konnte.
+
+Als er wieder bei sich war, erfuhren wir, dass General Hardradi unser Dorf überfallen und bis auf die Grundmauern zerstört hatte. Der Kaiser hatte die Überlebenden gütig aufgenommen und ihnen vor den Toren von Byzanz dieses Stück Land geschenkt, auf dem sie nun eine neue Lebensgrundlage geschaffen hatten.
+
+Wir trauerten um die gefallenen Kameraden, doch das sollte Hardradi nicht umsonst getan haben! 
+
+Kein Wikinger lässt solch Freveltat ungesühnt geschehen...
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+The refugees of our village had started to build up a new settlement in front of the gates of the city. 
+
+They were truly happy to see us.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Uciekinierzy z naszej osady za³o¿yli nowe osiedle przed bramami miasta.
+
+Nie muszê chyba dodawaæ, jak bardzo siê ucieszyli, mog¹c nas zobaczyæ...
+</text>
+      </lang>
+    </block>
+    <block id="won_00">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION GEWONNEN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Der Sieg war unser! 
+
+Ein Jubel erschallte in den Strassen von Byzanz und meine Männer und ich wurden in einem Triumphzug durch die Stadt geführt, fast wie in den Tagen der alten Cäsaren. 
+Der Kaiser überschüttete uns mit Geschenken und Ehrungen und seine Tochter belohnte mich mit einem heimlichen Kuss, der mir mehr galt, als alles Gold und Ruhm.
+</text>
+      </lang>
+      <lang code="ENG">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION SUCCESSFUL!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Victory was ours! 
+
+Cheers resounded in the streets of Byzantium, and my men and I were led through the town in a triumphal procession, almost as the Caesars were in the olden days. 
+
+The Emperor showered us with gifts and honours, and his daughter secretly rewarded me with a kiss I valued more than all the gold and glory.
+</text>
+      </lang>
+      <lang code="POL">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA ZAKOÑCZONA SUKCESEM!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Odnieœliœmy zwyciêstwo!
+
+Ca³e miasto wyleg³o na ulice, gdy tryumfalnie wkroczyliœmy na jego ulice niczym staro¿ytni cezarowie.
+
+Cesarz obsypa³ nas podarunkami i zaszczytami, a ksiê¿niczka w tajemnicy obdarzy³a mnie poca³unkiem, który by³ dla mnie wa¿niejszy od ca³ego z³ota i s³awy tego œwiata.
+</text>
+      </lang>
+    </block>
+    <block id="won_01">
+      <lang code="GER">
+        <text>
+Am Abend entflohen wir den Feierlichkeiten für einen Moment und ich erzählte der Prinzessin vom Grund unserer weiten Reise. 
+Überrascht sah sie mich mit einem seltsamen Ausdruck an! Sie hatte damals im Verließ des Generals eine ganz ähnliche Vision gehabt! 
+
+Konnte es tatsächlich sein, dass SIE einer jener Helden aus meiner Vision war? Von dem letzten Kartenstück jedenfalls wusste sie, dass man es im fernen Orient gesehen haben wollte. Ihre Tante in Alexandria hatte ihr davon erzählt.
+ 
+Wir schmiedeten noch lange Pläne, wie wir ihren Vater überzeugen konnten, dass sie uns begleiten dürfe. Sie gab schließlich vor, ihre Tante besuchen zu wollen, und schon wenige Tage später brachen wir auf.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+That evening, we fled the festivities and I told the princess of the reason behind our voyage. 
+
+She stared at me, surprise mingled with a curious expression on her face. She said she had experienced a very similar vision in the General's dungeon. 
+
+Could it be that she was one of the heroes I had seen? She told me that the last piece of the map had supposedly been seen in the Far East. Her aunt in Alexandria had mentioned it.
+ 
+We spent a long time planning how we would persuade her father to let her go with us. Finally, she claimed to want to visit her aunt, and a few days later, we were on our way.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Wieczorem d³ugo z ni¹ rozmawia³em, informuj¹c miêdzy innymi o przyczynie naszych podró¿y.
+
+Powiedzia³a, ¿e sama mia³a podobn¹ wizjê podczas niewoli w lochu Genera³a.
+
+Czy to mo¿liwe, by ta krucha, lecz odwa¿na niewiasta by³a jedn¹ z postaci z mojej wizji? Wspomnia³a równie¿, ¿e jej ciotka z Aleksandrii mówi³a coœ o kawa³ku staro¿ytnej mapy - mapy prowadz¹cej do wyspy Wê¿a Midgardu!
+
+D³ugo siê zastanawialiœmy, jak przekonaæ cesarza do puszczenia córki w tak d³ug¹ podró¿. Stanê³o na tym, ¿e odwiedzi ona swoj¹ ciotkê, a my bêdziemy j¹ eskortowaæ. Kilka dni póŸniej byliœmy ju¿ w drodze.
+</text>
+      </lang>
+    </block>
+    <block id="zerstörtesdorf">
+      <lang code="GER">
+        <text>
+***KOMPLETT RAUS
+Die Tränen standen uns in den Augen, als wir uns unserem alten Dorf näherten. 
+
+Tatsächlich hatte der General Hardradi unser Heim bis auf die Grundmauern zerstört. Unsere Trauer und Wut war kaum zu beschreiben, und so schworen wir ihm bittere Rache, als wir auf die rauchenden Trümmer unserer einst so stolzen Siedlung blickten!
+***KOMPLETT RAUS
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+We were near to tears as we approached our old village. 
+
+General Hardradi had indeed destroyed our home, leaving nothing standing but the foundations. Our sorrow and rage could hardly be put into words, thus we swore bitter revenge as we looked down on the fuming ruins of our once so proud settlement!
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Widok zgliszcz naszej wioski poruszy³ nawet najtwardszych spoœród nas.
+
+Genera³ rzeczywiœcie zniszczy³ nasze domy, nie pozostawiaj¹c kamienia na kamieniu. Trudno nawet wyobraziæ sobie nasz¹ ¿a³oœæ i nasz gniew. Patrz¹c na dogorywaj¹ce zgliszcza naszej niegdyœ wspania³ej osady poprzysiêgliœmy zemstê i walkê do ostatniej kropli krwi!
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

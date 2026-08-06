@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="singleplayer_02_07" export_map_id="singleplayer_02_07" map_md5="423cb8eb3f176e1cc36b14361ee54b26" IsC2M="false">
+  <languages>
+    <language code="GER" alias="GER" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="GER">Bekämpfe deine Gegner, oder mache dir einfach nur das Land zunutze!</text>
+    </string>
+    <string id="1">
+      <text lang="GER">Zahle den drei Stämmen ihren Tribut, damit sie sich dir anschließen!</text>
+    </string>
+    <string id="3">
+      <text lang="GER">Um friedlich zu siegen, schaffe mehr als die Hälfte(10) der hier aufgelisteten Waren in entsprechender Stückzahl in deine Lager:                GRUNDRESSOURCEN:                                                                                          500 Lehm, Stein, Holz, Weizen, Kuchen, Eisen, Gold,                               1000 Nahrung;                                                                                  ERWEITERTE WAREN:                                                                                       500 Mehl, Holzwerkzeug,                                                                          300 Backstein, Steinblöcke, Möbel, Wolle, Schuhe,                                            200 Dachziegel, Marmor, Eisenwerkzeug, Münzen!</text>
+    </string>
+    <string id="4">
+      <text lang="GER">Um auf weniger diplomatischem Weg zu siegen, vernichte alle drei Gegner!</text>
+    </string>
+    <string id="10">
+      <text lang="GER">Dein Stamm</text>
+    </string>
+    <string id="11">
+      <text lang="GER">Dein Stamm</text>
+    </string>
+    <string id="20">
+      <text lang="GER">Plattländer</text>
+    </string>
+    <string id="21">
+      <text lang="GER">Platt</text>
+    </string>
+    <string id="30">
+      <text lang="GER">Helluländer</text>
+    </string>
+    <string id="31">
+      <text lang="GER">Hellu</text>
+    </string>
+    <string id="40">
+      <text lang="GER">Markländer</text>
+    </string>
+    <string id="41">
+      <text lang="GER">Mark</text>
+    </string>
+    <string id="98">
+      <text lang="GER">Mache dir das Land zu Eigen oder vertreibe deine Gegner! Dies wird einmal das Land deiner Wikingerkolonie sein!</text>
+    </string>
+    <string id="99">
+      <text lang="GER">ZEIT DER KOLONIALISIERUNG</text>
+    </string>
+    <string id="110">
+      <text lang="GER">Zahle folgenden Tribut, damit sich der Stamm dir anschließt:</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="begin_00">
+      <lang code="GER">
+        <text>
+Konkurrierende Wikingerstämme haben sich das gleiche Land zur Besiedlung ausgesucht! Sie beginnen mit nichts, aber sie wollen die Herrschaft über alles!
+
+Spiel wie du willst! Du hast keine Übergriffe zu fürchten.
+
+Um zu siegen, mache deinen Stamm zum stärksten in diesem Land! Suche dir einen Ort, den du für geeignet hältst. Wer am nächsten zu den Rohstoffen siedelt, hält den Schlüssel zum Sieg in der Hand...
+
+In diesem Land gibt es auch viele Schätze zu entdecken!    
+
+Tipp: 
+Um dein neues Hauptquartier setzen zu können, hast du einen Brief bekommen! An deinem Startpunkt gibt es weder Gold noch Eisen, trotzdem solltest du auf die Ressourcen dort nicht verzichten!
+
+Um zu gewinnen, musst du entweder die anderen Stämme besiegen oder genügend Rohstoffe produzieren und in deine Lager bringen. Um auf diese Weise zu gewinnen brauchst du aber sehr viele Rohstoffe!
+
+Sobald du einen Stamm vollständig besiegt hast, gibt es kein Zurück mehr - es wird dann KEINEN friedlichen Lösungsweg mehr geben!
+
+Wenn du dich für den friedlichen Weg über das Anhäufen von Rohstoffen entschieden hast, dann solltest du eventuell den Verbrauch von Wohnhäusern verringern. Es wäre doch schade, wenn deine Wikinger stetig Rohstoffe verbrauchen, die du versuchst zu horten!
+</text>
+      </lang>
+    </block>
+    <block id="begin_01">
+      <lang code="GER">
+        <text>
+
+Du hast alle anderen Völker bezwungen!
+Das Land ist nun dein Eigen, und niemand kann es dir mehr streitig machen!
+
+Wenn du magst, kannst du gerne noch weiter siedeln!
+</text>
+      </lang>
+    </block>
+    <block id="begin_02">
+      <lang code="GER">
+        <text>
+
+Verschwinde aus unserem Land, wir sind die wahren Eigentümer!
+</text>
+      </lang>
+    </block>
+    <block id="begin_03">
+      <lang code="GER">
+        <text>
+
+Was willst du in unserer Kolonie? Du hast hier nichts zu suchen!
+</text>
+      </lang>
+    </block>
+    <block id="begin_04">
+      <lang code="GER">
+        <text>
+
+Wir sind die rechtmäßigen Herrscher dieses Landes! Geh, solange du noch kannst!
+</text>
+      </lang>
+    </block>
+    <block id="begin_05">
+      <lang code="GER">
+        <text>
+
+Die Plattländer haben diese Welt verlassen!
+</text>
+      </lang>
+    </block>
+    <block id="begin_06">
+      <lang code="GER">
+        <text>
+
+Die Helluländer haben diese Welt verlassen!
+</text>
+      </lang>
+    </block>
+    <block id="begin_07">
+      <lang code="GER">
+        <text>
+
+Die Markländer haben diese Welt verlassen!
+</text>
+      </lang>
+    </block>
+    <block id="begin_08">
+      <lang code="GER">
+        <text>
+
+Du hast unheimlich viele Ressourcen abgebaut!
+Niemand wird dir dein Land mehr streitig machen! Die anderen Stämme werden sich dir anschließen, wenn du ihnen ihre Tribute zollst. Das dürfte dir jedoch nicht schwer fallen!
+</text>
+      </lang>
+    </block>
+    <block id="begin_09">
+      <lang code="GER">
+        <text>
+
+Das Land ist nun dein Eigen, es haben sich dir alle anderen Stämme angeschlossen!
+
+Die Zukunft des Landes liegt nun in deinen Händen! Auch nach vielen Generationen wird man noch von diesem denkwürdigen Tag berichten...
+
+Wenn du magst, kannst du gerne noch weiter siedeln!
+</text>
+      </lang>
+    </block>
+    <block id="begin_10">
+      <lang code="GER">
+        <text>
+
+Die Plattländer haben sich deinem Stamm angeschlossen!
+</text>
+      </lang>
+    </block>
+    <block id="begin_11">
+      <lang code="GER">
+        <text>
+
+Die Helluländer haben sich deinem Stamm angeschlossen!
+</text>
+      </lang>
+    </block>
+    <block id="begin_12">
+      <lang code="GER">
+        <text>
+
+Die Markländer haben sich deinem Stamm angeschlossen!
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="GER">
+        <text>
+
+ZEIT DER KOLONIALISIERUNG
+
+</text>
+      </lang>
+    </block>
+    <block id="won">
+      <lang code="GER">
+        <text>
+
+MISSION GEWONNEN!
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

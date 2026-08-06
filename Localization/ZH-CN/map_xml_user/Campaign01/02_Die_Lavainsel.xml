@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="02_Die_Lavainsel" export_map_id="02_Die_Lavainsel" map_md5="c0ca5cddb4075c3925d8121a67adc1ca" IsC2M="true">
+  <languages>
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">熔岩岛</text>
+      <text lang="ger">Die Lavainsel</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">费利克斯的族人在这里曾有一处小型前哨，可当我们抵达时，它却已不见踪影……</text>
+      <text lang="ger">Das Volk von Felix hatte hier einen kleinen Außenposten, doch als wir ankamen war er verschwunden.....</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+    </string>
+    <string id="4">
+      <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+    </string>
+    <string id="50">
+      <text lang="CHN">玩家0</text>
+      <text lang="ger">Spieler0</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">玩家1</text>
+      <text lang="ger">Spieler1</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">玩家2</text>
+      <text lang="ger">Spieler2</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="findmappos1">
+      <lang code="CHN">
+        <text>谢谢你们，我的朋友们，为我建起这座小小的居所。在熔岩岛上要多加小心。据说那里没有能吃的东西。不过那只是传言，因为凡是踏上那座岛的人都再没回来过……
+此外，此地西南方还住着一个岛屿民族。当年我们曾从他们那里换到过珍贵的货物。
+任务目标：去拜访西南方的那个民族。为此建造一艘船。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Danke, das ihr für mich dieses kleine Domizil gebaut habt meine Freunde. Seit auf der Lavainsel auf der Hut. Es heißt es gäbe dort nichts essbares. Es ist aber nur ein Gerücht, denn jeder der die Insel betreten hatte kam niemals zurück.....
+Außerdem gibt es südwestlich von hier noch ein Inselvolk. Damals haben wir von Ihnen wertvolle Waren erhandeln können.
+Missionsziel: Suche das Volk im Südwesten auf. Baue dazu ein Schiff.
+
+</text>
+      </lang>
+    </block>
+    <block id="findmappos2">
+      <lang code="CHN">
+        <text>站住！！我，熔岩魔女雪莉，警告你们！！你们若再往前，那便是你们的末日！！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Halt !! Ich Cherry, die Lavadämonin warne euch !! Wenn ihr weitergeht wird es euer Untergang sein !!
+
+</text>
+      </lang>
+    </block>
+    <block id="lost_body">
+      <lang code="CHN">
+        <text>你失败了！！要不去下一局国际象棋吧。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Du hast verloren !! Versuchs doch mal mit ner Runde Schach.
+
+</text>
+      </lang>
+    </block>
+    <block id="lost_header">
+      <lang code="CHN">
+        <text>任务失败！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Mission verloren!
+
+</text>
+      </lang>
+    </block>
+    <block id="playerdied1">
+      <lang code="CHN">
+        <text>玩家1已阵亡。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 1 ist gestorben.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerdied2">
+      <lang code="CHN">
+        <text>卡萝终于获救了，重逢之际她扑进了费利克斯的怀里。可红海盗梅林又一次从我们手中逃脱。他在远离岛屿的一处小海湾里备好了一艘逃亡之船，正朝费利克斯的家乡驶去……</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Endlich, Karo war befreit und fiel Felix in die Arme als sie sich wiedersahen. Merlin, der rote Korsar aber konnte uns wieder entkommen. Er hatte in einer kleinen Bucht abseits der Insel ein Fluchtschiff bereitgestellt, und steuerte die Heimat von Felix an.....
+
+</text>
+      </lang>
+    </block>
+    <block id="playerenemy1">
+      <lang code="CHN">
+        <text>玩家1现在转为敌对。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 1 ist jetzt feindlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerfriendly1">
+      <lang code="CHN">
+        <text>谢谢你们的草药。你们若想要护符，就派商人过来吧。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Danke für die Kräuter. Wenn ihr Amulette haben wollt, schickt eure Händler vorbei.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerfriendly2">
+      <lang code="CHN">
+        <text>玩家2现在转为友好。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 2 ist jetzt freundlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerneutral2">
+      <lang code="CHN">
+        <text>玩家2现在转为中立。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 2 ist jetzt neutral.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerseen1">
+      <lang code="CHN">
+        <text>呀嗬！！我，撒拉逊人的大公夫人斯图普西，问候你们。你们身上碰巧有草药吗？我们需要草药，因为我们的草药园丁驾船在此地以南撞上了暗礁。给我们送来草药，你们便可与我们通商。要知道，我们能制作一流的护符和药水。这么说你们在找熔岩岛？可那里没有能吃的东西，而且岛上的海盗太强了。这对你们绝不是件轻松的差事……</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Juhuu !! Ich Stupsie, Großfürstin der Sarazenen grüße Euch. Habt ihr zufällig Kräuter für uns? Wir brauchen Kräuter, denn unser Kräutergärtner ist mit seinem Schiff südlich von hier auf ein Riff gefahren. Bringt uns Kräuter und ihr dürft mit uns handeln. Wir stellen nämlich erstklassige Amulette und Tränke her müßt ihr wissen. So ihr sucht die Lavainsel? Dort gibt es aber nichts essbares, und die Piraten sind dort zu mächtig. Es wird keine leichte Aufgabe werden für euch......
+
+</text>
+      </lang>
+    </block>
+    <block id="playerseen2">
+      <lang code="CHN">
+        <text>站住！！我，七海海盗、加勒比海的统治者、红旗海盗的大公与大君主、卡萝未来的丈夫梅林，命令你们退回去，否则我的精锐士兵会把你们消灭……
+我们真的强到足以抵挡这样一支占尽优势的敌军吗？</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Halt !! Ich Merlin, Pirat der sieben Meere, Herrscher über der Karibik, Großfürst und Großmogul der Piraten der roten Flagge, zukünftiger  Mann von Karo, gebe euch den Befehl euch zurückzuziehen, ansonsten werden meine Elite-Soldaten Euch vernichten....
+Waren wir auch stark genug um gegen so eine Übermacht zu bestehen?
+
+</text>
+      </lang>
+    </block>
+    <block id="start_body">
+      <lang code="CHN">
+        <text>那座岛空空荡荡，看不到任何前哨。在海滩上我们遇到了一个受伤的人。这些该死的海盗，他骂道。他们不知从哪儿冒出来，从海上向我们发起进攻。足有数百人。我们毫无胜算。费利克斯忽然跑了过来。我的妻子呢？我的妻子卡萝在哪儿？那受伤的人用最后的力气告诉我们，海盗把她掳走了，掳到了他们那座又名熔岩岛的岛上。我们先为费利克斯建起一座小小的居所，此外他还想试着当个渔夫，好分散心神。之后我们便要去寻找熔岩岛……
+任务目标：找到熔岩岛，消灭红海盗的手下。
+
+
+制作者：尤基</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Die Insel war leer, kein Außenposten zu sehen. Am Strand trafen wir auf einen verletzten Mann. Diese verdammten Piraten, schimpfte er. Wie aus dem nichts kamen sie vom Meer und griffen uns an. Es waren hunderte. Wir hatten keine Chance. Plötzlich kam Felix angelaufen. Und meine Frau ? Wo ist meine Frau Karo? Mit den letzten Worten sagte uns der Verletzte noch das die Piraten sie entführt,und auf ihre Insel die man auch Die Lavainsel nennt verschleppt hatten. Wir bauten zunächst für Felix ein kleines Domizil, außerdem wollte er sich als Fischer versuchen, um sich abzulenken. Danach wollten wir die Lavainsel suchen....
+Missionsziel: Finde die Lavainsel, und vernichte die Piraten des roten Korsaren.
+
+
+Erstellt von: Yogi
+
+</text>
+      </lang>
+    </block>
+    <block id="start_header">
+      <lang code="CHN">
+        <text>熔岩岛</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Die Lavainsel
+
+</text>
+      </lang>
+    </block>
+    <block id="won_body">
+      <lang code="CHN">
+        <text>我们取得了胜利。红海盗的爪牙也被逐出了这个世界。可梅林又一次从我们眼皮底下溜掉了。从他船尾的航迹判断，他朝北方驶去，径直驶向费利克斯及其族人的家园世界……</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Wir hatten gesiegt. Die Schergen des roten Korsaren waren auch von dieser Welt vertrieben. Doch wieder einmal ging uns Merlin durch die Lappen. Seinem Kielwasser zu urteilen, fuhr er Richtung Norden, direkt in die Heimatwelt von Felix und seinem Volk...
+
+</text>
+      </lang>
+    </block>
+    <block id="won_header">
+      <lang code="CHN">
+        <text>任务达成！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Mission gewonnen!
+
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

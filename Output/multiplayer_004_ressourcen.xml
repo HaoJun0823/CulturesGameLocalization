@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="multiplayer_004_ressourcen" export_map_id="multiplayer_004_ressourcen" map_md5="99908e17dc42dd7e92abdb50e6ddbe59" IsC2M="false">
+  <languages>
+    <language code="GER" alias="GER" encoding="windows-1252" fix_1251="false" />
+    <language code="ENG" alias="ENG" encoding="windows-1252" fix_1251="false" />
+    <language code="POL" alias="POL" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="GER">Wirtschaft: INTIMES TREIBEN</text>
+      <text lang="ENG">Economy: CLOSE AND PERSONAL</text>
+      <text lang="POL">Ekonomia: TWARZ¥ W TWARZ</text>
+    </string>
+    <string id="1">
+      <text lang="GER">4 Wikingerstämme kämpfen um die Vorherrschaft in einem sehr kleinen Land. Die Ressourcen sind knapp - sichere sie dir, bevor andere sie abbauen!</text>
+      <text lang="ENG">4 Viking tribes fight for predominance over a very small area of land. Resources are in short supply - secure them for yourself, before the others do!</text>
+      <text lang="POL">4 wikiñskie plemiona walcz¹ o w³adzê nad t¹ wyj¹tkowo ma³¹ po³aci¹ l¹du. Surowców naturalnych nie ma tu zbyt wiele - zbierz je, zanim zrobi¹ to inni!</text>
+    </string>
+    <string id="2">
+      <text lang="GER">Sammle alle Ressourcen, die du bekommen kannst! Zum Sieg brauchst du viele Ressourcen (50 Lehm, 75 Stein, 75 Eisen, 100 Gold). Bringe sie in eines deiner Lager. Wird ein Lager zerstört, gehören die Rohstoffe nicht mehr dir!</text>
+      <text lang="ENG">Collect any resources you can! You will need many resources to win (50 units of clay, 75 of stone, 75 of iron, 100 of gold). Take them to your warehouse. If a warehouse is destroyed, the resources it holds are lost!</text>
+      <text lang="POL">Zbierz jak najwiêcej surowców - do zwyciêstwa bêdziesz potrzebowaæ 50 jednostek gliny, 75 kamienia i ¿elaza oraz 100 z³ota. Umieœæ swoje zasoby w magazynie, uwa¿aj jednak, gdy¿ jego zniszczenie równa siê stracie przechowywanych w nim towarów!</text>
+    </string>
+    <string id="10">
+      <text lang="GER">Grönländer</text>
+      <text lang="ENG">Greenlander</text>
+      <text lang="POL">Grenlandczyk</text>
+    </string>
+    <string id="11">
+      <text lang="GER">Grönländer</text>
+      <text lang="ENG">Greenlander</text>
+      <text lang="POL">Grenlandczyk</text>
+    </string>
+    <string id="20">
+      <text lang="GER">Vinländer</text>
+      <text lang="ENG">Vinlander</text>
+      <text lang="POL">Winlandczyk</text>
+    </string>
+    <string id="21">
+      <text lang="GER">Vinländer</text>
+      <text lang="ENG">Vinlander</text>
+      <text lang="POL">Winlandczyk</text>
+    </string>
+    <string id="30">
+      <text lang="GER">Helluländer</text>
+      <text lang="ENG">Hellulander</text>
+      <text lang="POL">Hellulandczyk</text>
+    </string>
+    <string id="31">
+      <text lang="GER">Helluländer</text>
+      <text lang="ENG">Hellulander</text>
+      <text lang="POL">Hellulandczyk</text>
+    </string>
+    <string id="40">
+      <text lang="GER">Markländer</text>
+      <text lang="ENG">Marklander</text>
+      <text lang="POL">Marklandczyk</text>
+    </string>
+    <string id="41">
+      <text lang="GER">Markländer</text>
+      <text lang="ENG">Marklander</text>
+      <text lang="POL">Marklandczyk</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="begin_00">
+      <lang code="GER">
+        <text>
+Schon lange gab es Gebietsstreitigkeiten zwischen den Einwohnern des Landes. Dabei ging es vor allem um die knappen Fischreservate, die sich alle teilen mussten. 
+In letzter Zeit war es sogar zu handfesten Auseinandersetzungen gekommen.
+
+"Die Ressourcen werden knapp! Wir müssen etwas unternehmen...". So oder so ähnlich dachte wohl jeder der Stammeshäuptlinge.
+
+Sammle soviel und so schnell du kannst! Wenn die anderen nicht schnell genug sind, werden sie aus Rohstoffmangel das Tal verlassen müssen...
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+The dispute over supremacy in the territory has been long, and is greatly due to the short supply of fish that people have had to share. 
+Recently, there have even been fights.
+
+"Our resources are low! We've got to do something ...," is more or less what every tribal leader thinks.
+
+Collect as many resources as fast as you can! If the others are not fast enough, they will have to leave the valley ...
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Spór o panowanie nad tym terytorium trwa ju¿ od wielu lat, zaœ jego podstawow¹ przyczyn¹ s¹ kurcz¹ce siê w szybkim tempie ³awice ryb.
+Ostatnio dosz³o nawet do zbrojnych staræ.
+
+"Koñcz¹ siê nasze zapasy! Musimy z tym coœ zrobiæ..." myœli ka¿dy z plemiennych przywódców.
+
+ZgromadŸ jak najwiêcej zapasów! Plemiê, które zostanie w tyle, bêdzie musia³o wynieœæ siê z doliny...
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="GER">
+        <text>
+
+INTIMES TREIBEN
+
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+
+CLOSE AND PERSONAL
+
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+
+TWARZ¥ W TWARZ
+
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="21_Südafrika" export_map_id="21_Südafrika" map_md5="db8e5e3e317a8364a14f4b6046c00eaf" IsC2M="true">
+  <languages>
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">南非</text>
+      <text lang="ger">Südafrika</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">我们嗅到了南非海岸清新的微风，思乡之情渐渐涌上心头。</text>
+      <text lang="ger">Wir rochen die frische Brise der südafrikanischen Küste und bekamen langsam Heimweh.</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+    </string>
+    <string id="4">
+      <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+    </string>
+    <string id="50">
+      <text lang="CHN">玩家0</text>
+      <text lang="ger">Spieler0</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">玩家1</text>
+      <text lang="ger">Spieler1</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">玩家2</text>
+      <text lang="ger">Spieler2</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="lost_body">
+      <lang code="CHN">
+        <text>你失败了！！尽管这张地图其实根本不可能失败。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Du hast verloren !! Obwohl man bei dieser Karte eigentlich gar nicht verlieren kann.
+
+</text>
+      </lang>
+    </block>
+    <block id="lost_header">
+      <lang code="CHN">
+        <text>任务失败！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Mission verloren!
+
+</text>
+      </lang>
+    </block>
+    <block id="playerdied1">
+      <lang code="CHN">
+        <text>玩家1已阵亡。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 1 ist gestorben.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerdied2">
+      <lang code="CHN">
+        <text>玩家2已阵亡。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 2 ist gestorben.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerenemy1">
+      <lang code="CHN">
+        <text>玩家1现在转为敌对。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 1 ist jetzt feindlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerenemy2">
+      <lang code="CHN">
+        <text>玩家2现在转为敌对。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 2 ist jetzt feindlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerfriendly1">
+      <lang code="CHN">
+        <text>谢谢你们的货物。现在派你们的商人来，把护符带走吧。它们可是全非洲最时兴的东西。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Danke für die Waren. Schickt nun Eure Händler, und holt euch Amulette. Sie sind der letzte Schrei in ganz Afrika.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerneutral2">
+      <lang code="CHN">
+        <text>玩家2现在转为中立。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 2 ist jetzt neutral.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerseen1">
+      <lang code="CHN">
+        <text>你们好，朋友们。我，南非的统治者茜碧，欢迎你们来到我的国度。尽情享受我们的款待吧，想住多久都行。只需一点贡品，我们便会给你们绝佳的护符。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Hallo Freunde. Ich Ceebee, Herrscherin über Südafrika begrüße Euch in meinem Land. Genießt unsere Gastfreundschaft solange ihr möchtet. Für einen kleinen Tribut würden wir Euch tolle Amulette geben.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerseen2">
+      <lang code="CHN">
+        <text>银月的村庄！！
+你们好，朋友们，我不是说过从今往后我们就是你们的朋友了吗？派你们的商人来吧，我们会给你们独一无二的交易条件。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Silbermonds Dorf !!
+Hallo Freunde, sagte ich nicht das wir von nun an Eure Freunde sind? Schickt Eure Händler, wir machen Euch einzigartige Angebote.
+
+</text>
+      </lang>
+    </block>
+    <block id="start_body">
+      <lang code="CHN">
+        <text>我们终于抵达了非洲最南端。我们那两个走散的人也找到了回来的路。思乡之情渐渐涌上心头。是时候扬帆返乡了。可如此漫长的旅程需要一些干粮。
+任务目标：在仓库中储备以下物资：
+20件营养护符、20件力量护符、20件耐力护符、20单位食物和20份蛋糕。
+
+
+制作者：尤基</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Endlich waren wir an der südlichsten Spitze Afrikas.Unsere zwei Ausreißer hatten auch den Weg zurückgefunden. Langsam packte uns das Heimweh. Es war an der Zeit, Richtung Heimat zu segeln.Doch brauchten wir für eine so lange Reise etwas Proviant.
+Missionsziel: Lagere folgende Waren in Dein Lager:
+20 Nahrungsamulette,20 Stärkeamulette,20 Wachbleibamulette,20 Einheiten Nahrung und 20 Kuchen.
+
+
+Erstellt von: Yogi
+
+</text>
+      </lang>
+    </block>
+    <block id="start_header">
+      <lang code="CHN">
+        <text>南非</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Südafrika
+
+</text>
+      </lang>
+    </block>
+    <block id="won_body">
+      <lang code="CHN">
+        <text>我们很快就储备好了物资。我们多么盼望着回到家乡维格利德之墙。我们为欧洲和非洲带来了和平，也经历了精彩的冒险。我们迅速装满船只，不久便扬帆返乡……</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Schnell hatten wir die Waren eingelagert. Wie freuten wir uns auf unsere Heimat Wigrid Wall. Wir hatten Europa und Afrika den Frieden gebracht und tolle Abenteuer erlebt. Schnell beluden wir unsere Schiffe und segelten schon bald Richtung Heimat...
+
+</text>
+      </lang>
+    </block>
+    <block id="won_header">
+      <lang code="CHN">
+        <text>任务达成！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Mission gewonnen!
+
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

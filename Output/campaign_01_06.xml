@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_01_06" export_map_id="campaign_01_06" map_md5="ee6c44a9020ef74e9e9bdd70d41c3223" IsC2M="false">
+  <languages>
+    <language code="GER" alias="GER" encoding="windows-1252" fix_1251="false" />
+    <language code="ENG" alias="ENG" encoding="windows-1252" fix_1251="false" />
+    <language code="POL" alias="POL" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="1">
+      <text lang="GER">Suche die vermisste Garnison nördlich von dir.</text>
+      <text lang="ENG">Search for the lost garrison to the north.</text>
+      <text lang="POL">Poszukaj zaginionego garnizonu na pó³nocy.</text>
+    </string>
+    <string id="2">
+      <text lang="GER">Rüste 30 Soldaten aus.</text>
+      <text lang="ENG">Equip 30 soldiers.</text>
+      <text lang="POL">Wystaw 30 wojów.</text>
+    </string>
+    <string id="3">
+      <text lang="GER">Vernichte die Sarazenen oder treff dich mit ihrem Komandanten.</text>
+      <text lang="ENG">Destroy the Saracens or meet their commander.</text>
+      <text lang="POL">Zniszcz Saracenów lub spotkaj siê z ich wodzem.</text>
+    </string>
+    <string id="5">
+      <text lang="GER">Vorsicht vor dem verräterischen General!</text>
+      <text lang="ENG">Beware of the traitorous general!</text>
+      <text lang="POL">Strze¿ siê genera³a-zdrajcy!</text>
+    </string>
+    <string id="6">
+      <text lang="GER">Besiege die Truppen des Generals.</text>
+      <text lang="ENG">Defeat the troops of the general.</text>
+      <text lang="POL">Pokonaj si³y genera³a.</text>
+    </string>
+    <string id="21">
+      <text lang="GER">Zahle den Tribut, um die Sarazenen wieder friedlich zu stimmen.</text>
+      <text lang="ENG">Pay tribute to appease the Saracens.</text>
+      <text lang="POL">Uspokój Saracenów p³ac¹c trybut.</text>
+    </string>
+    <string id="51">
+      <text lang="GER">Sarazenen</text>
+      <text lang="ENG">Saracens</text>
+      <text lang="POL">Saraceni</text>
+    </string>
+    <string id="52">
+      <text lang="GER">Hardradi</text>
+      <text lang="ENG">Hardradi</text>
+      <text lang="POL">Hardrada</text>
+    </string>
+    <string id="98">
+      <text lang="GER">In der neuen Eigenschaft als Hauptleute der Warägergarde werden die Wikinger in das östliche Grenzgebiet von Byzanz gesandt, von wo sich die Garnison des Generals Hardradi seit Wochen nicht mehr gemeldet hatte...</text>
+      <text lang="ENG">As the Emperor's main Waräger Guard the Vikings are sent to the eastern border zone of Byzantium, from whence General Hardradi's garrison has sent no word for weeks now ...</text>
+      <text lang="POL">Wikingowie zostaj¹ przyjêci na s³u¿bê Cesarza jako jego osobiœci Waregowie-stra¿nicy i wys³ani na wschodni¹ granicê imperium, sk¹d od kilku tygodni nie dawa³ znaku ¿ycia garnizon genera³a Hardrady...</text>
+    </string>
+    <string id="99">
+      <text lang="GER">DIE WARÄGERGARDE</text>
+      <text lang="ENG">The WARÄGER GUARD</text>
+      <text lang="POL">STRA¯ WAREGÓW</text>
+    </string>
+    <string id="100">
+      <text lang="GER">Bjarni</text>
+      <text lang="ENG">Bjarni</text>
+      <text lang="POL">Bjarni</text>
+    </string>
+    <string id="101">
+      <text lang="GER">Sigurd</text>
+      <text lang="ENG">Sigurd</text>
+      <text lang="POL">Sigurd</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="bjarnitot">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Was für ein schwarzer Tag! Unter dem letzten Hieb des Feindes starb Bjarni von seinen Freunden verlassen. Die Midgardschlange erhob sich und es gab niemanden mehr, der sie aufhalten konnte.
+</text>
+      </lang>
+      <lang code="ENG">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+What a bad day! Bjarni died at the enemy's last blow, abandoned by his friends. The Midgard serpent rose, and there was nobody left to stop it.
+</text>
+      </lang>
+      <lang code="POL">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Có¿ za czarny dzieñ w historii plemienia! Opuszczony przez wszystkich, Bjarni skona³ pod ciosami wrogów. Potworny w¹¿ Midgardu powsta³ i nie by³o komu go powstrzymaæ...
+</text>
+      </lang>
+    </block>
+    <block id="frieden">
+      <lang code="GER">
+        <text>
+Wir hatten Frieden mit den Sarazenen geschlossen und voller Freude zogen wir zur byzantinischen Garnison. Doch welch üble Überraschung erwartete uns dort! 
+
+Völlig außer sich kam uns der General entgegen: "Du ruhmessüchtiger Narr! Du hast FRIEDEN mit unseren Feinden geschlossen!! Wie konntest du es wagen! 
+Was bildest du dir ein?! Für ZWEI berühmte Generäle ist kein Platz in diesem Reich! Ich werde nicht zulassen, dass IHR ruhmreich zum Kaiser zurückkehrt! Ich habe nicht umsonst jahrelang auf diese Gelegenheit gewartet und meine Leute sogar die Prinzessin entführen lassen, um den Verdacht auf die Sarazenen zu lenken! Denn nur so hat der Kaiser endlich einem Krieg zugestimmt! MIR allein gebührt der ganze Ruhm!" 
+
+Wir glaubten unseren Ohren nicht zu trauen, aber als seine Männer begannen, uns anzugreifen, wurde uns schlagartig einiges klar!
+
+
+Besiege den verräterischen General.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+We had made peace with the Saracens. Full of joy we went back to the Byzantine garrison. But there was a nasty surprise waiting for us there! 
+
+The General was utterly beside himself. "You're a fool craving for glory! You've made PEACE with our enemies!! How dare you! 
+Who do you think you are?! There is no room in this realm for TWO famous generals! I will not let YOU return to the Emperor in glory! I haven't waited for this chance for nothing, I didn't have the princess kidnapped to cast suspicion on the Saracens for nothing! It was the only way the Emperor would agree to wage war upon them! The glory is MINE!" 
+
+We could hardly believe our ears, but when his men started attacking us, we fully understood at once!
+
+
+Defeat the traitorous General.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Zawarliœmy z Saracenami uk³ad pokojowy. Z wielk¹ radoœci¹ udaliœmy siê do siedziby garnizonu, jednak tam czeka³a na nas doœæ niemi³a niespodzianka.
+
+Genera³ straci³ panowanie nad sob¹. "G³upcze! Zawar³eœ POKÓJ z naszymi wrogami?! Jak œmia³eœ!!
+Za kogo ty siê uwa¿asz, kmiotku?! Myœlisz sobie, ¿e w tej krainie jest miejsce dla DWÓCH s³awnych wodzów? To Ÿle myœlisz!! Nigdy nie wrócisz do Bizancjum w glorii zwyciêzcy - nie po to tyle czeka³em na swoj¹ szansê, nie po to porwa³em ksiê¿niczkê i rzuci³em podejrzenie na Saracenów! To by³ jedyny sposób, aby Cesarz zgodzi³ siê na wypowiedzenie im wojny! Ca³a chwa³a nale¿y siê MNIE!!!"
+
+Nie wierzyliœmy w³asnym uszom - treœæ s³ów Hardrady dotar³a do nas dopiero gdy jego wojska zaczê³y nas atakowaæ!
+
+
+Pokonaj zdradzieckiego Genera³a.
+</text>
+      </lang>
+    </block>
+    <block id="friedensgespräch">
+      <lang code="GER">
+        <text>
+Es war also doch keine Falle gewesen! Der Kommandant der Sarazenen stand unbewaffnet vor seinem Hauptquartier und erwartete uns. 
+
+Er hatte schon viel über die Tapferkeit und Klugheit unseres Volkes gehört und begrüßte uns in staatsmännischer Form. Die Verhandlungen selbst erwiesen sich als lang und zäh, doch schließlich einigten wir uns auf einen Friedensvertrag. Lächelnd reichte der Kommandant uns zum Abschied die Hand: 
+
+"Ich sehe, dass ihr mutige und ehrliche Männer seid! Wir werden uns wie versprochen zurückziehen und Frieden halten, wenn ihr eurem General Hardradi mitteilt, er möge uns nicht mehr länger provozieren. 
+Aber seid gewarnt, mein Freund! Er ist kein so ehrlicher Mann wie ihr es seid!"
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+It was no trap after all! The Saracen commander was waiting for us in front of his headquarters, and he wasn't carrying any weapons. 
+
+He had heard much of the courage and wisdom of our people, and saluted us like a statesman. The negotiations were long and hard, but we finally agreed on a peace treaty. The commander extended his hand and smiled: 
+
+"I see that you are brave and honest men! We will withdraw as we have promised and keep the peace, if you inform General Hardradi that he should not provoke us any longer. 
+But be warned, my friend! He is not such an honest man as you are!"
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+To jednak nie by³a pu³apka - wódz Saracenów czeka³ na mnie przed swoj¹ baz¹. Bez broni!
+
+Wiele ju¿ s³ysza³ o odwadze i m¹droœci mego ludu i odda³ nam czeœæ niczym m¹¿ stanu. Negocjacje by³y d³ugie i trudne, ale uwieñczyliœmy je sukcesem. Wódz poda³ mi rêkê, mówi¹c:
+
+"Rzeczywiœcie, odwa¿ni z was i uczciwi ludzie! Wycofamy siê zgodnie z uk³adem, ale poinformujcie Genera³a Hardradê, aby przesta³ nas prowokowaæ!
+Uwa¿ajcie - to nie jest cz³owiek o waszej uczciwoœci!"
+</text>
+      </lang>
+    </block>
+    <block id="garnison">
+      <lang code="GER">
+        <text>	
+DIE GARNISON
+
+Die vermisste Garnison lag stark befestigt unweit der Grenze. Hohe Mauern mit starken Wachtürmen umgaben das Heerlager. 
+
+Als wir uns zu erkennen gaben, öffnete man uns das Tor und der General Hardradi trat uns entgegen. Zoll für Zoll ein Mann, der es gewohnt war, dass man ihm Gehorsam entgegenbrachte.  
+
+"Leiste mir mit deinen Leuten Unterstützung im Kampf gegen die Sarazenen! In den Reihen unserer byzantinischen Garnison ist noch genug Platz. Zusammen können wir sie sicher besiegen!" 
+
+
+Baue deine Armee auf 30 Soldaten aus.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>	
+THE GARRISON
+
+The lost garrison was lying well reinforced close to the border. High walls with strong watchtowers surrounded the army camp. 
+
+When we disclosed our identity, the gate was opened and General Hardradi came to meet us. He was every inch a man who expects people to obey him.  
+
+"Support me with your people in the fight against the Saracens! There is much space in the ranks of our Byzantine garrison. We will surely defeat them together!" 
+
+
+Expand your army up to 30 soldiers.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+GARNIZON
+
+Zaginiony' garnizon by³ ulokowany w pobli¿u granicy. Gdy tam dotarliœmy, okaza³o siê, ¿e jest dobrze zaopatrzony, a wojskowy obóz otaczaj¹ wysokie mury i potê¿ne wie¿e stra¿nicze.
+
+Ujawniliœmy nasz¹ to¿samoœæ i brama otworzy³a siê na oœcie¿. Na spotkanie wyszed³ nam sam Genera³ Hardrada - cz³owiek, który przywyk³ do tego, ¿e inni wype³niaj¹ jego rozkazy.
+
+"Wspomó¿cie mnie w mojej walce z Saracenami! Bizantyjskie garnizony nie maj¹ jeszcze wprawdzie pe³nych stanów, jednak razem z pewnoœci¹ pokonamy tych dzikusów!"
+
+
+Zwiêksz swoj¹ armiê do 30 wojów.
+</text>
+      </lang>
+    </block>
+    <block id="gewonnen_00">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION GEWONNEN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Als Hardradi sah, dass er nicht mehr gewinnen konnte, zog sich der General in Richtung Hauptstadt zurück.
+</text>
+      </lang>
+      <lang code="ENG">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION SUCCESSFUL!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+When Hardradi saw that he could not win, he retreated towards the capital.
+</text>
+      </lang>
+      <lang code="POL">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA ZAKOÑCZONA SUKCESEM!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Hardrada dostrzeg³, ¿e nie ma szans na zwyciêstwo i wycofa³ siê w kierunku stolicy.
+</text>
+      </lang>
+    </block>
+    <block id="gewonnen_01">
+      <lang code="GER">
+        <text>
+Wir hatten gesiegt, doch machte ich mir Sorgen darum, was er jetzt im Schilde führte. Er hatte gezeigt, wie skrupellos er nach der Macht strebte, als er die Prinzessin entführen ließ, um einen Krieg zu provozieren. 
+
+Er würde sich jetzt sicherlich nicht kampflos ergeben. Wir mussten schnellstens zum Kaiser, um ihn zu warnen und das Schlimmste zu verhindern! Ich hoffte nur, dass es noch nicht zu spät war...
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+We had won, but I was worried what he might be planning. He had shown himself to be unscrupulous in his striving for power, even having the princess kidnapped in order to provoke war. 
+
+It was unlikely that he would simply give up without a fight now.
+We had to reach the Emperor as quickly as possible in order to warn him and prevent the worst from happening! I could only hope that it was not too late ...
+
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Odnieœliœmy zwyciêstwo, ale obawia³em siê, co planuje nasz przeciwnik - udowodni³ ju¿, ¿e w walce o w³adzê nie kieruje siê ¿adnymi zasadami.
+
+Nie zawaha³ siê nakazaæ porwanie ksiê¿niczki w celu wywo³ania wojny...
+Trzeba by³o dotrzeæ do cesarza i ostrzec go. Hardrada raczej nie podda³by siê bez walki.
+
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="GER">
+        <text>
+
+DIE WARÄGERGARDE
+
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+
+THE WARÄGER GUARD
+
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+
+STRA¯ WAREGÓW
+
+</text>
+      </lang>
+    </block>
+    <block id="hilfesarazenen">
+      <lang code="GER">
+        <text>
+Der Kommandant der Sarazenen erwies sich als wahrer Ehrenmann. Als er vernahm, was der General im Schilde führte, kam er uns mit seinen Truppen zur Hilfe. 
+
+Lag es doch auch im Interesse seines Volkes, dass der Kaiser vom Verrat seines Untergebenen erfuhr... 
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+The commander of the Saracens turned out to be a real man of honour. When he heard what the General was up to, he supported us with his troops. 
+
+It was in the interest of his own people for the Emperor to find out about his soldier's treason ... 
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Wódz Saracenów okaza³ siê byæ cz³owiekiem honoru - gdy dowiedzia³ siê, co szykuje Hardrada, wspomóg³ nas swoimi wojskami.
+
+Równie¿ w interesie jego ludu by³o poinformowanie Cesarza o generalskiej zdradzie...
+</text>
+      </lang>
+    </block>
+    <block id="krieggeneral">
+      <lang code="GER">
+        <text>
+Als wir den General und seine Armee angriffen, wussten wir nicht, worauf wir uns da einließen...
+
+Aus einem der Türme erklang ein bösartiges Lachen und der General rief von oben herab: "Was bildest du dir ein?! Für ZWEI berühmte Generäle ist kein Platz in diesem Reich! Ich werde nicht zulassen, dass IHR ruhmreich zum Kaiser zurückkehrt! Ich habe nicht umsonst jahrelang auf diese Gelegenheit gewartet und meine Leute sogar die Prinzessin entführen lassen, um den Verdacht auf die Sarazenen zu lenken! Nur so hat der Kaiser endlich einem Krieg zugestimmt! MIR allein gebührt der ganze Ruhm!"
+
+Wir glaubten unseren Ohren nicht zu trauen, aber als seine Männer begannen uns anzugreifen, wurde uns schlagartig einiges klar!
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+When we attacked the General and his army, we didn't know what lay in store for us ...
+
+Malicious laughter rang from one of the towers, the General shouted down from above, "Who do you think you are?! There is no room in this realm for TWO famous generals! I will not let YOU return to the Emperor in glory! I haven't waited for this chance for nothing, I didn't have the princess kidnapped to cast suspicion on the Saracens for nothing! It was the only way the Emperor would agree to wage war upon them! The glory is MINE!"
+
+We could hardly believe our ears, but when his men started attacking us, we fully understood at once!
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Zaatakowaliœmy Genera³a i jego wojska, nie przeczuwaj¹c nawet, co nas czeka...
+
+Z jednej z wie¿ dotar³ do nas z³owrogi rechot i s³owa Hardrady: "Za kogo ty siê uwa¿asz, kmiotku?! Myœlisz sobie, ¿e w tej krainie jest miejsce dla DWÓCH s³awnych wodzów? To Ÿle myœlisz!! Nigdy nie wrócisz do Bizancjum w glorii zwyciêzcy - nie po to tyle czeka³em na swoj¹ szansê, nie po to porwa³em ksiê¿niczkê i rzuci³em podejrzenie na Saracenów! To by³ jedyny sposób, aby Cesarz zgodzi³ siê na wypowiedzenie im wojny! Ca³a chwa³a nale¿y siê MNIE!!!"
+
+Nie wierzyliœmy w³asnym uszom - treœæ s³ów Hardrady dotar³a do nas dopiero gdy jego wojska zaczê³y nas atakowaæ!
+</text>
+      </lang>
+    </block>
+    <block id="sarazenenfeindlich">
+      <lang code="GER">
+        <text>
+Als wir die Sarazenen angriffen, meldete sich einer ihrer Unterhändler: 
+
+"Wir wünschen keinen Krieg mit euch! Zahlt Tribut und wir lassen noch einmal Gnade vor Recht ergehen!"
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+When we attacked the Saracens, one of their negotiators approached. 
+
+"We don't wish to war with you! Pay tribute and we'll be lenient!"
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Gdy zaatakowaliœmy Saracenów, odpowiedzieli wys³aniem do nas negocjatora.
+
+"Nie chcemy wojny z wami! Jeœli nam zap³acicie, jesteœmy sk³onni zapomnieæ o tym incydencie!"
+</text>
+      </lang>
+    </block>
+    <block id="sarazenenfriedlich">
+      <lang code="GER">
+        <text>
+Unsere Leute stießen auf eine Vorausabteilung der Sarazenen. Da war er endlich, der Feind! 
+
+Doch wie erstaunt waren wir, als sie nicht angriffen und uns stattdessen in unserer eigenen Sprache anriefen: 
+
+"Wir Sarazenen hatten bisher noch keinen Streit mit euch Wikingern und wollen auch in Zukunft keinen! Aber wir werden euch vernichten, wenn ihr uns angreift!" 
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+Our people encountered an advance division of the Saracens. The enemy was in sight! 
+
+But we were amazed when they didn't attack, and called us in our own language, 
+
+"We Saracens have never had any trouble with you Vikings and don't want any in the future either! But we will destroy you if you attack us!" 
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Nasi ludzie napotkali saraceñskie forpoczty. Widzieliœmy wroga na w³asne oczy!
+
+Jakie¿ by³o nasze zdziwienie, gdy nie tylko nas nie zaatakowali, ale i wezwali nas w naszym w³asnym jêzyku!
+
+"Nigdy nie mieliœmy ¿adnych zatargów z wami, Wikingami, i nie chcemy ich mieæ w przysz³oœci! Jeœli jednak nas zaatakujecie, odpowiemy z ca³¹ bezwzglêdnoœci¹! "
+</text>
+      </lang>
+    </block>
+    <block id="sarazenentot">
+      <lang code="GER">
+        <text>
+Wir hatten die Sarazenen besiegt und im Triumphzug zogen wir zur byzantinischen Garnison. Doch welche Überraschung erwartete uns dort! 
+
+Völlig außer sich kam uns der General entgegen: "Du ruhmessüchtiger Narr! Du hast die Feinde im ALLEINGANG geschlagen!! Wie konntest du es wagen! 
+Was bildest du dir ein?! Für ZWEI berühmte Generäle ist kein Platz in diesem Reich! Ich werde nicht zulassen, dass IHR ruhmreich zum Kaiser zurückkehrt! Ich habe nicht umsonst jahrelang auf diese Gelegenheit gewartet und meine Leute sogar die Prinzessin entführen lassen, um den Verdacht auf die Sarazenen zu lenken! Denn nur so hat der Kaiser endlich einem Krieg zugestimmt! MIR allein gebührt der ganze Ruhm!" 
+
+Wir glaubten unseren Ohren nicht zu trauen, aber als seine Männer begannen, uns anzugreifen, wurde uns schlagartig einiges klar!
+
+
+Besiege den verräterischen General.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+We had defeated the Saracens, and returned to the Byzantine garrison in a triumphant procession. But there was a nasty surprise in store for us! 
+
+The General was utterly beside himself. "You're a fool craving for glory! You've made PEACE with our enemies!! How dare you! 
+Who do you think you are?! There is no room in this realm for TWO famous generals! I will not let YOU return to the Emperor in glory! I haven't waited for this chance for nothing, I didn't have the princess kidnapped to cast suspicion on the Saracens for nothing! It was the only way the Emperor would agree to wage war upon them! The glory is MINE!" 
+
+We could hardly believe our ears, but when his men started attacking us, we fully understood at once!
+
+
+Defeat the traitorous General.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Pokonaliœmy Saracenów i wróciliœmy do siedziby garnizonu ze œpiewem na ustach. Czeka³a nas tam jednak niemi³a niespodzianka!!
+
+Genera³ straci³ panowanie nad sob¹. "G³upcze! Sam pokona³eœ naszych wrogów?! Jak œmia³eœ!!
+Za kogo ty siê uwa¿asz, kmiotku?! Myœlisz sobie, ¿e w tej krainie jest miejsce dla DWÓCH s³awnych wodzów? To Ÿle myœlisz!! Nigdy nie wrócisz do Bizancjum w glorii zwyciêzcy - nie po to tyle czeka³em na swoj¹ szansê, nie po to porwa³em ksiê¿niczkê i rzuci³em podejrzenie na Saracenów! To by³ jedyny sposób, aby Cesarz zgodzi³ siê na wypowiedzenie im wojny! Ca³a chwa³a nale¿y siê MNIE!!!"
+
+Nie wierzyliœmy w³asnym uszom - treœæ s³ów Hardrady dotar³a do nas dopiero gdy jego wojska zaczê³y nas atakowaæ!
+
+
+Pokonaj zdradzieckiego Genera³a.
+</text>
+      </lang>
+    </block>
+    <block id="soldatenbereit">
+      <lang code="GER">
+        <text>
+Wir hatten unsere Armee nun auf Sollstärke aufgebaut und der General drängte uns dazu, die Sarazenen endlich anzugreifen. 
+
+Ich war noch unschlüssig: Wenn wir sie besiegen würden, hatten wir zwar unsere Pflicht erfüllt und konnten unsere Reise endlich fortsetzen! Doch am Abend erklang aus der Ferne ein Hornsignal und die Sarazenen schickten Unterhändler in unser Lager: 
+
+"Wir sehen, dass ihr zum Krieg gegen uns rüstet, doch haben unsere Völker bisher keinen Streit gehabt! Unser Kommandant hält euch für einen Ehrenmann und fordert daher euren Anführer auf, zu Friedensgesprächen in unser Hauptquartier zu kommen. Riskiert ihr das nicht, so mögt ihr uns ruhig angreifen, denn dann fürchten wir euch nicht!"
+
+
+Vernichte die Sarazenen oder schicke Bjarni zu Friedensgesprächen in die Sarazenenfestung im Osten!
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+We had built up our army. The General urged us to attack the Saracens. 
+
+I hadn't made up my mind yet: If we defeated them, we would have fulfilled our duty and would be able to travel on! But in the evening a horn blew in the distance, and the Saracens sent negotiators to our camp. 
+
+"We see that you're preparing to wage war upon us, but our people have had no dispute so far! Our commander considers you to be honourable men, therefore he invites your leader to peace talks in our headquarters. If you dare not come, you may well attack us, because we are not afraid of you!"
+
+
+Destroy the Saracens or send Bjarni to the Saracens' stronghold in the east!
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Rozbudowaliœmy nasze si³y zbrojne. Genera³ pragn¹³, abyœmy jak najszybciej zaatakowali Saracenów.
+
+Ja nie by³em jeszcze na to zdecydowany, choæ... Jeœli pokonamy Saracenów, to spe³nimy nasz obowi¹zek i bêdziemy mogli kontynuowaæ nasz¹ podró¿! Wieczorem us³yszeliœmy w oddali dŸwiêk rogu i wkrótce do naszego obozu przybyli islamscy pos³owie.
+
+"Widzimy wasze przygotowania wojenne, jednak w przesz³oœci naszych narodów nie by³o ¿adnych zatargów! Nasz wódz uznaje ciê za ludzi honoru i zaprasza waszego wodza na rozmowy pokojowe w naszej bazie. Jeœli nie przyjdziecie, to atakujcie - my siê was nie boimy!"
+
+
+Zniszcz Saracenów lub wyœlij Bjarniego na rozmowy pokojowe do wschodniej bazy przeciwnika.
+</text>
+      </lang>
+    </block>
+    <block id="spielertot">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Als Sigurd, einer der vier Helden der Prophezeiung, starb, zerriss der Schicksalsfaden der Nornen. Nun würde nichts mehr die Midgardschlange aufhalten können.
+</text>
+      </lang>
+      <lang code="ENG">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+When Sigurd, one of the four heroes from the prophecy, died, the Norns' thread of fate was broken. Now nothing would be able to stop the Midgard serpent.
+</text>
+      </lang>
+      <lang code="POL">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Chwila nieuwagi wystarczy! Sigurd, bohater z przepowiedni, zgin¹³ przez twoje niedopatrzenie! Œwiat jest skazany na zag³adê!
+</text>
+      </lang>
+    </block>
+    <block id="start_00">
+      <lang code="GER">
+        <text>
+Die Lage in Byzanz war mehr als angespannt! Das alte Kaiserreich befand sich kurz vor einem Krieg mit den Sarazenen! 
+
+Der Kaiser hatte zunächst nach einer friedlichen Lösung gesucht und dem Gegner einen Vertrag angeboten, der zu einem dauerhaften Frieden in dieser Region hätte führen können. Eine Entwicklung, die auch in Byzanz nicht unumstritten war. Vor allem General Hardradi hatte immer wieder davor gewarnt.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>                                                                                           
+The situation in Byzantium was more than tense. The ancient empire was facing the prospect of war with the Saracens! 
+
+The Emperor had tried for a long time to find a peaceful solution, and had offered to sign a contract with his rival that would have meant lasting peace for the region. It was a development that did not go undisputed, even in Byzantium. General Hardradi in particular had uttered constant warnings.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Sytuacja w Bizancjum by³a ogromnie napiêta. Staro¿ytne imperium szykowa³o siê powoli do wojny z Saracenami!
+
+Cesarz od d³u¿szego czasu robi³ wszystko co w jego mocy aby do tego nie dopuœciæ. Zdecydowa³ siê nawet na podpisanie umowy, która umo¿liwi³aby ustanowienie w okolicy trwa³ego pokoju. To posuniêcie by³o jednak przedmiotem gor¹cych dyskusji - wiele zastrze¿eñ zg³asza³ miêdzy innymi Genera³ Hardrada.
+</text>
+      </lang>
+    </block>
+    <block id="start_01">
+      <lang code="GER">
+        <text>	
+Nun, durch die Entführung seiner Tochter, die wir hatten vereiteln können, änderte sich die Meinung des Kaisers. In unserer neuen Eigenschaft als Hauptleute der Warägergarde sandte er uns nun in das östliche Grenzgebiet, von wo sich die Garnison des Generals Hardradi seit Wochen nicht mehr gemeldet hatte.
+
+
+Suche die belagerte Garnison und leiste ihr Unterstützung.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>  
+Well, the attempted kidnapping of his daughter, which we had thankfully been able to avert, changed the Emperor's views. He sent us, his new main Waräger Guard, to the eastern border zone, from whence General Hardradi's garrison had sent no word for weeks now.
+
+
+Find the besieged garrison and support it.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Od czasu niedopuszczenia przez nas do porwania córki Cesarza zacz¹³ on nam ufaæ i postanowi³ w tej trudnej sytuacji wys³aæ swoj¹ now¹ stra¿ Waregów na wschodni¹ granicê, sk¹d od kilku ju¿ tygodni Hardrada i jego wojska nie dawali znaku ¿ycia.
+
+
+Odszukaj oblê¿ony garnizon i udziel mu wszelkiej pomocy.
+</text>
+      </lang>
+    </block>
+    <block id="tribut">
+      <lang code="GER">
+        <text>
+Kaum hatten wir den Tribut bezahlt, schlossen die Sarazenen wieder Frieden mit uns. 
+
+Sie waren also doch kein so kriegslüsternes Volk, wie man uns hatte weismachen wollen! Dennoch - auch ihr Großmut würde nicht unendlich groß sein. Wir sollten sie lieber nicht mehr reizen.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+As soon as we had paid the tribute, the Saracens made peace with us again. 
+
+They were not such a violent people as we had been told after all! Nonetheless - their generosity was unlikely to be infinite. It would be safer not provoke them any more.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Gdy tylko im zap³aciliœmy, Saraceni natychmiast ponownie zawarli z nami pokój.
+
+Nie byli wcale tak krwio¿erczy, jak ich opisywano! Ich wspania³omyœlnoœæ jednak prawdopodobnie ma swoje granice - lepiej ich w przysz³oœci nie prowokowaæ.
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

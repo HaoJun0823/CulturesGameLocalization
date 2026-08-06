@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_01_09-sub" export_map_id="campaign_01_09-sub" map_md5="" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">抵达村庄。</text>
+      <text lang="eng">Reach the village.</text>
+      <text lang="ger">Erreiche das Dorf.</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">与德鲁伊交谈。</text>
+      <text lang="eng">Talk to the druid.</text>
+      <text lang="ger">Spreche mit dem Druiden.</text>
+    </string>
+    <string id="2">
+      <text lang="CHN">前往造船匠处。</text>
+      <text lang="eng">Go to the shipbuilder.</text>
+      <text lang="ger">Gehe zum Bootsbauer.</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">缴纳所需的贡金。</text>
+      <text lang="eng">Pay the demanded tribute.</text>
+      <text lang="ger">Zahle den gewünschten Tribut.</text>
+    </string>
+    <string id="4">
+      <text lang="CHN">寻得诺恩三女神。</text>
+      <text lang="eng">Find the Norns.</text>
+      <text lang="ger">Finde die Nornen.</text>
+    </string>
+    <string id="5">
+      <text lang="CHN">支付 30 单位蜂蜜酒与 20 块金矿。</text>
+      <text lang="eng">Pay 30 mead and 20 pieces of gold.</text>
+      <text lang="ger">Bezahle 30 Met und 20 Goldbrocken.</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="kampfsieg">
+      <lang code="CHN">
+        <text>
+胜利属于我们！我们终将三族尽数击败，由此辟出穿越沙漠之路。
+
+在村庄等候商队。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Victory was ours! We had managed to defeat all three peoples and thus make our way through the desert.   
+
+Wait for the caravan in the village.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Der Sieg war unser! Wir hatten es geschafft alle drei Völker zu besiegen und uns damit einen Weg durch die Wüste zu bahnen.   
+
+Warte im Dorf auf die Karawane.
+</text>
+      </lang>
+    </block>
+    <block id="lost">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+我们未能将首领们安然送过河。刚留其二独处，他们便互相攻伐。和谈告吹。必有人要我等为此负责。
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+We succeeded in taking the leaders across the river safely. As soon as we left two of them on their own, they attacked each other. The peace talks have failed. People are bound to blame us.
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Wir hatten es nicht geschafft, die Anführer sicher über den Fluss zu bringen. Kaum hatten wir zwei von ihnen alleine gelassen, so griffen sie sich gegenseitig an. Die Friedensgespräche waren gescheitert. Sicher würde man uns dafür verantwortlich machen. .
+</text>
+      </lang>
+    </block>
+    <block id="start">
+      <lang code="CHN">
+        <text>
+我们当真说动了三族首领来议和。如今只需将他们送过河对岸，且莫让他们彼此加害——这却非易事，他们本就势同水火。
+我们每次只能以船载一族渡河，若将其二留于任一岸独处，须防他们互攻。拜占庭人敌视撒拉逊人，撒拉逊人又与法兰克人交战，唯拜占庭人与法兰克人彼此中立。
+
+将各族首领送至河对岸，且莫令他们互相加害。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+We had managed to convince the leaders of the three peoples to hold peace talks. Now we had to take them over to the other side of the river and to prevent any attacks among them at the same time. This wasn't easy, for they couldn't stand the sight of one another. 
+We were only able to take one party in our boat at a time, so we had to make sure the remaining two wouldn't begin fighting among them as soon as we left them on one of the sides of the river. The Byzantines were hostile to the Saracens, the Saracens were at war with the Franks. The Byzantines and the Franks were neutral to one another. 
+
+Take the leaders of the peoples to the other side of the river and prevent conflict.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Wir hatten es tatsächlich geschafft, die Anführer der drei Völker zu einem Friedensgespräch zu überzeugen. Nun mussten wir sie nur noch auf die andere Seite des Flusses bringen, ohne das sie sich gegenseitig etwas antaten, was sich aber als nicht so einfach herausstellte, waren sie sich doch spinnefeind. 
+Wir konnten jeweils nur eine Partei mit unseren Boot übersetzen, dabei mussten wir allerdings verhindern, das sich die zurückbleibenden Beiden nicht angreifen würden, sollten wir sie an einem der beiden Ufer alleine lassen. Die Byzantiner waren den Sarazenen gegenüber feindlich gesinnt, die Sarazenen wiederum befanden sich im Krieg mit den Franken. Die Byzantiner und die Franken standen sich neutral gegenüber. 
+
+Bringe die Anführer der Völker zu der anderen Seite des Flusses, ohne dass sie sich gegenseitig etwas antun.
+</text>
+      </lang>
+    </block>
+    <block id="won">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务成功！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+我们做到了，和谈成功。三族首领达成停战。它能维持多久虽未可知，但足以让商队启程。
+
+在村庄等候商队。
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION SUCCESSFUL!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+
+We did it, the peace negotiations were a success. The leaders of the three peoples agreed on a ceasefire. Nobody knew how long it would last, but it should be long enough to let the caravan continue its travels. 
+
+Wait for the caravan in the village.
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION GEWONNEN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+
+Wir hatten es geschafft, die Friedensverhandlungen waren erfolgreich. Die Anführer der drei Völker einigten sich auf einen Waffenstillstand. Wie lange er halten würde, stand in den Sternen, aber es würde ausreichen, um die Karawane ziehen zu lassen. 
+
+Warte im Dorf auf die Karawane.
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

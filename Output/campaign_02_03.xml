@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_02_03" export_map_id="campaign_02_03" map_md5="ae51e888e8005c8ccdbb1a161cf0613d" IsC2M="false">
+  <languages>
+    <language code="GER" alias="GER" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="GER">Baue dein Dorf auf!</text>
+    </string>
+    <string id="1">
+      <text lang="GER">Produziere Kuchen und schicke ihn an Sigurd per Tribut!</text>
+    </string>
+    <string id="2">
+      <text lang="GER">Gelange mit ALLEN vier Helden zu Sigurd!</text>
+    </string>
+    <string id="3">
+      <text lang="GER">Versuche, die Wölfe zu vernichten, oder sie wegzulocken!</text>
+    </string>
+    <string id="4">
+      <text lang="GER">Fülle die Futterstelle mit 50 Nahrung über Tribut oder handele 20 Nahrung!</text>
+    </string>
+    <string id="5">
+      <text lang="GER">Finde ein geeignetes Gastgeschenk für Sigurd.</text>
+    </string>
+    <string id="6">
+      <text lang="GER">Schicke nun ALLE deine Helden zu Sigurd!</text>
+    </string>
+    <string id="31">
+      <text lang="GER">Fülle die Futterstelle mit 50 Nahrung über Tribut oder handele 20 Nahrung!</text>
+    </string>
+    <string id="32">
+      <text lang="GER">Brauchst du militärische Unterstützung im Kampf gegen die Wölfe? Dann zahle:</text>
+    </string>
+    <string id="33">
+      <text lang="GER">Reiche Sigurd 17 Kuchen als Gastgeschenk zum Tribut.</text>
+    </string>
+    <string id="34">
+      <text lang="GER">Wenn du mit dem fränkischen Hafenstädtchen Handel treiben willst, zahle:</text>
+    </string>
+    <string id="50">
+      <text lang="GER">Bjarnis Stamm</text>
+    </string>
+    <string id="51">
+      <text lang="GER">Jäger</text>
+    </string>
+    <string id="52">
+      <text lang="GER">Byzantiner</text>
+    </string>
+    <string id="53">
+      <text lang="GER">Sigurds Festung</text>
+    </string>
+    <string id="54">
+      <text lang="GER">Hafenstädtchen</text>
+    </string>
+    <string id="55">
+      <text lang="GER">Sigurd</text>
+    </string>
+    <string id="56">
+      <text lang="GER">Städtchen</text>
+    </string>
+    <string id="71">
+      <text lang="GER">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="GER">Cyra</text>
+    </string>
+    <string id="73">
+      <text lang="GER">Hatschi</text>
+    </string>
+    <string id="74">
+      <text lang="GER">Sigurd</text>
+    </string>
+    <string id="75">
+      <text lang="GER">Ykol</text>
+    </string>
+    <string id="98">
+      <text lang="GER">Auf dem Weg nach Grönland wollten wir unseren alten Freund Sigurd zu unserer Hochzeit einladen. Doch wilde Wolfsrudel belagerten seine Feste...</text>
+    </string>
+    <string id="99">
+      <text lang="GER">ALTE FREUNDE</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="GER">
+        <text> 
+Vor uns tauchte die bewaldete Küste Europas auf, das Land mächtiger Könige und vieler berühmter Helden - wie unserem alten Freund Sigurd. Weit im Norden erhob sich seine Feste, einige Tagesmärsche von hier entfernt.
+</text>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="GER">
+        <text> 
+Zwischen dichten Wäldern lagen einladend grüne Wiesen und fruchtbare Felder soweit das Auge reichte. Hier mussten wir uns nun einen geeigneten Lagerplatz suchen, denn bevor uns Sigurd auf seiner Burg empfing, wollten wir noch ein geeignetes Gastgeschenk finden.  
+
+Erkunde die Gegend, kümmere dich um Nahrung für deine Wikinger und um ein Gastgeschenk für Sigurd. 
+</text>
+      </lang>
+    </block>
+    <block id="01_Sigurd">
+      <lang code="GER">
+        <text>
+SIGURD
+
+Kaum übersandten wir das Gastgeschenk an Sigurd, erreichte uns seine Nachricht: 
+"Meine Feste wird seit Wochen von wilden Wolfsrudeln bedroht! Diese sind so ausgehungert, das sie sich in Rudeln versammeln und selbst kleinere Ortschaften angreifen. Gerne würde ich euch hier empfangen, aber ich befürchte, der Weg ist viel zu gefährlich, meine Freunde!" 
+
+Finde einen Weg, die Wölfe der Umgebung wegzulocken, oder deren Anzahl zu minimieren, um mit allen deinen Helden zu Sigurd zu gelangen!
+</text>
+      </lang>
+    </block>
+    <block id="02_wölfe">
+      <lang code="GER">
+        <text> 
+Als uns ein wildes Wolfsrudel das erste Mal attackierte, fiel uns auf, dass in diesem Landstrich die Wölfe besonders aggressiv waren und in rauen Mengen vorkamen.
+ 
+Später erkannten wir, dass die wilden Wolfsrudel alle Wege zu Sigurds Feste belagerten. 
+</text>
+      </lang>
+    </block>
+    <block id="03_Jäger1">
+      <lang code="GER">
+        <text> 
+JÄGER
+
+"Habt ihr auch von den Wolfsrudeln gehört, oder seit ihr ihnen gar schon begegnet?" rief uns dieser Jägersmann zu. 
+"In der Talsenke im Massiv, westlich von hier, ist eine Futterstelle. Wenn man die mit genügend Frischfutter versorgt, kann man die Wölfe so vielleicht in einen Hinterhalt locken!" riet er uns.
+</text>
+      </lang>
+    </block>
+    <block id="04_Jäger2">
+      <lang code="GER">
+        <text> 
+JÄGER
+
+"Oh, diese wilden Bestien! Man kann sich kaum noch einen Schritt aus dem Haus wagen!" sprach uns dieser tapfere Jäger an. 
+"Wenn man diese Futterstellen hier mit genügend Nahrung füllt, könnten die Wölfe vielleicht von dem Geruch angelockt werden. Die versteckten Bodengruben tun dann ihr Übriges! Aber alleine schaff ich das nie!" 
+
+Hilf dem Jäger, die Futterstellen mit Nahrung zu füllen!
+</text>
+      </lang>
+    </block>
+    <block id="05_player_2_seen_byzantine">
+      <lang code="GER">
+        <text> 
+Als wir auf das byzantinische Dorf trafen, wurden wir freundlich empfangen. 
+
+Wir wären jederzeit wieder willkommen, ließ man uns wissen, und man bot uns sofort günstige Handelsverträge und Tributvorschläge an.
+</text>
+      </lang>
+    </block>
+    <block id="06_player_3_burg">
+      <lang code="GER">
+        <text> 
+Einer unserer Kundschafter ging voraus zu Sigurds Feste. Als er mit leeren Händen vor Sigurds Burg stand, zog mich Cyra zur Seite und sagte: "Bjarni, wir sollten nicht ohne ein Gastgeschenk bei Sigurd erscheinen! Das wäre sehr unhöflich. Lass uns für ihn Kuchen backen." 
+Und da unsere Frauen eigentlich ja immer Recht haben, wollten wir dies auch tun...
+
+Backe leckeren Kuchen für Sigurd und liefere ihn per Tribut.
+</text>
+      </lang>
+    </block>
+    <block id="07_player_4_seen_franks">
+      <lang code="GER">
+        <text> 
+DAS HAFENSTÄDTCHEN
+
+An einer einladenden Küste in westlicher Richtung lag ein kleines fränkisches Hafenstädtchen. Über einen geringen Tribut konnten wir diese einfachen Leute vielleicht als Handelspartner gewinnen.
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="10_wölfe_send">
+      <lang code="GER">
+        <text> 
+DIE FALLE
+
+Als sich genug Futter in der Futterstelle befand, hörten wir ein unheimliches Jaulen und Fauchen aus allen Richtungen...
+
+Die Wölfe der Umgebung zogen in Rudeln zur Futterstelle, und als sie sich gierig über das Futter hermachten, schnappte die Falle zu! 
+Einen Moment später waren die Wölfe in den Bodengruben gefangen und die Wege zu Sigurds Burg frei. Der Plan der Jäger hatte funktioniert!     
+</text>
+      </lang>
+    </block>
+    <block id="11_söldner">
+      <lang code="GER">
+        <text> 
+Die freundlichen Byzantiner stellten uns Söldner zur Verfügung, die an der Futterstelle auf uns warteten. Ihre tapfersten Eisenspeerträger und Kurzschwertkämpfer zogen nun mit uns! 
+Sie boten uns noch mehr Verstärkung an, sollten wir ihre Hilfe benötigen. 
+
+Zahle den Byzantinern den geforderten Tribut für weitere Söldner, sofern deine Wikinger sie benötigen.
+</text>
+      </lang>
+    </block>
+    <block id="12_hero_siggi">
+      <lang code="GER">
+        <text> 
+SIGURD
+
+"Es tut gut, euch wiederzusehen! Und wie ich sehe, habt ihr einen neuen Gefährten gefunden!" sprach Sigurd. "Wisst ihr, Freunde - mir ist das Hofleben hier inzwischen etwas öde geworden. Ich habe vor, mich euch anzuschließen und wieder an eurer Seite kämpfen!"
+Diese Nachricht unseres alten Kampfgefährten vernahmen wir mit großem Jubel und großer Freude! Endlich war unsere Gemeinschaft wieder vereint. So wie damals, in alten Zeiten...
+
+Sigurd fuhr fort: "Wie ihr bemerkt habt, herrscht überall im Land Unruhe wegen der Wolfsplage. Mein Volk traut sich kaum noch vor die Mauern dieser Feste und mir stehen nur wenige Männer zur Verfügung, mit denen ich gegen diese Rudel ausziehen kann. Wollt ihr mir nicht helfen, die Wölfe aus dem Land zu treiben? Gemeinsam werden wir das problemlos schaffen!"
+Welch eine Frage - als würden wir die Bitte eines Freundes ausschlagen...
+
+
+Hilf Sigurd, die Wölfe zu vertreiben!
+</text>
+      </lang>
+    </block>
+    <block id="13">
+      <lang code="GER">
+        <text> 
+Als unsere Wikinger das Hafenstädtchen zerstörten, betrogen wir uns selbst um die wertvollen Waren, die man uns zum Handel angeboten hätte...
+</text>
+      </lang>
+    </block>
+    <block id="14">
+      <lang code="GER">
+        <text> 
+Die Zerstörung der Byzantinerfestung hatte uns Wikingern wohl keinen Vorteil gebracht... Warum eigentlich hatten wir den Krieg mit den Byzantinern gesucht?
+</text>
+      </lang>
+    </block>
+    <block id="200">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin Cyra erlag durch deine Unachtsamkeit! Ohne diese Heldin wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="300">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Hatschi erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
+</text>
+      </lang>
+    </block>
+    <block id="400">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Sigurd erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="500">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Ykol erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="GER">
+        <text> 
+Endlich hatten wir die Burg Sigurds erreicht und die Wölfe zurückgedrängt. Sigurd freute sich über das Wiedersehen, und um es zu besiegeln gab es eine große Feier. An diesem Abend waren wir Freunde erstmals wieder geeint nach dem schrecklichen Kampf gegen die Midgardschlange (siehe "Cultures 2 - Die Tore Asgards"). 
+</text>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="GER">
+        <text> 
+Sigurd erzählte von der Bedrohung durch die Wölfe und dass sie in diesem Gebiet schon seit Wochen die Gegend unsicher machen. Als er die folgenden Worte sprach, ging ein Raunen durch die Reihen der Wikinger: 
+
+"Es wird gemunkelt, der schreckliche Fenriswolf selbst, der gefährlichste aller Dämonen in Wolfsgestalt, habe sich von seiner magischen Kette gerissen und die Wolfsplage über das Land gebracht..." 
+</text>
+      </lang>
+    </block>
+    <block id="50_endheader">
+      <lang code="GER">
+        <text> 
+
+MISSION GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="8_handel_player_4">
+      <lang code="GER">
+        <text> 
+Nachdem wir dem Hafenstädtchen den geringen Tribut überbrachten, ließ man uns wissen, dass wir jederzeit willkommen wären. Außerdem bot man uns günstige Handelsverträge an. 
+</text>
+      </lang>
+    </block>
+    <block id="9_lost">
+      <lang code="GER">
+        <text> 
+MISSION VERLOREN!
+
+Oh je! Ein ganzes Volk ging zugrunde! Deinen Wikingern ist es nicht gelungen, diese Mission erfolgreich zu bestehen...     
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="GER">
+        <text>
+
+ALTE FREUNDE
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

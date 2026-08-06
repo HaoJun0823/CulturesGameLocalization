@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="singleplayer_02_06" export_map_id="singleplayer_02_06" map_md5="e9975330c4168b42610439baab20db5b" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="1">
+      <text lang="CHN">探索桥那边的区域。</text>
+      <text lang="ger">Erforsche das Gebiet jenseits der Brücke.</text>
+    </string>
+    <string id="2">
+      <text lang="CHN">解救被诅咒的山谷。</text>
+      <text lang="ger">Erlöse das verwunschene Tal.</text>
+    </string>
+    <string id="50">
+      <text lang="CHN">维京人</text>
+      <text lang="ger">Wikinger</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">蒙瑟雷</text>
+      <text lang="ger">Montseraine</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">蛇魔</text>
+      <text lang="ger">Schlangendämonen</text>
+    </string>
+    <string id="98">
+      <text lang="CHN">解救被诅咒的山谷。</text>
+      <text lang="ger">Erlöse das verwunschene Tal.</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">暗影之谷</text>
+      <text lang="ger">TAL DER SCHATTEN</text>
+    </string>
+    <string id="100">
+      <text lang="CHN">比雅尼</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00">
+      <lang code="CHN">
+                <text>
+旅途之中，你与部下被带到了一处偏僻的山谷。青翠的草甸与疏朗的林木宁静如画地在你们眼前铺展。可这里总有些地方全然不对劲。一股不祥的预感几乎触手可及地悬在空中。此处究竟发生了什么？西面，一座小桥的那边，城市的塔楼巍然耸立。这里曾有过怎样的变故？
+
+派一名侦察兵过桥向西，探一探那座城。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+Auf deiner Wanderschaft hat es dich und deine Männer in ein abgelegenes Tal verschlagen. Friedlich und malerisch breiten sich grüne Wiesen und lichte Wälder vor euch aus. Doch irgendwas stimmt hier ganz und gar nicht. Ein unheimliches Gefühl des Unheils liegt fast greifbar in der Luft. Was mag hier geschehen sein? Im Westen, jenseits einer kleinen Brücke, erheben sich die Türme einer Stadt. Was ist hier vorgefallen?
+
+Sende einen Kundschafter über die Brücke nach Westen und erkunde die Stadt.
+</text>
+      </lang>
+    </block>
+    <block id="01">
+      <lang code="CHN">
+                <text>
+诅咒已破，山谷得救！百年来头一回，居民们无忧无虑的笑声再度响起。国王信守诺言，要将半个王国相赠，你们却彬彬有礼地谢绝，重新踏上遍历世界的征途，迎向新的冒险。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+Der Fluch ist gebrochen, das Tal erlöst! Zum ersten mal seit 100 Jahren hört man die Bewohner wieder unbeschwert lachen. Der König steht zu seinem Wort und will euch die Hälfte seines Königreiches schenken, doch ihr lehnt höflich ab und begebt euch wieder auf eure Wanderschaft durch die Welt, neuen Abenteuern entgegen.
+</text>
+      </lang>
+    </block>
+    <block id="02">
+      <lang code="CHN">
+                <text>
+你的整个部族都死绝了！
+你将他们尽数弃之不顾！奥丁震怒！他的长桌之上，断无你的座位！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+Dein ganzes Volk ist gestorben! 
+Du hast sie alle im Stich gelassen! Odin ist entzürnt! An seiner langen Tafel wird kein Platz für dich sein!
+</text>
+      </lang>
+    </block>
+    <block id="03">
+      <lang code="CHN">
+                <text>
+你的侦察兵抵达了强大的城市蒙瑟雷。然昔日荣光早已消逝。街上少有行人，一见你们便惊恐地缩回门内。这片土地上的国王召你们前去。他满怀悲怆，讲述起国中的往事：
+
+百年之前，他的先祖触动了最好深藏不露的力量。自那时起，山谷与其居民便受了诅咒。在古老祭坛的废墟间，可怖的恶魔游荡。
+老国君许诺，若你们寻得七座祭坛，并在那里剿灭魔物守卫，便将半个王国相赠。届时地狱之门将再度闭合，诅咒也会破除。
+
+搜寻这片土地上七座古老的祭坛，消灭魔物守卫。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Deine Kundschafter gelangen in die mächtige Stadt Montseraine. Doch der einstige Glanz ist lange vergangen. Nur wenige Menschen begegnen dir auf den Straßen und verschwinden angstvoll in den Hauseingängen, sobald sie euch zu Gesicht bekommen. Der König dieses Landes lässt euch zu sich bitten. Gramgebeugt erzählt er die Geschichte des Landes: 
+
+Vor 100 Jahren hat sein Vorfahre an Mächten gerührt, die lieber im verborgenen geblieben wären. Seit dieser Zeit sind das Tal und seine Bewohner verflucht. In den Ruinen der alten Kultstätten gehen fürchterliche Dämonen um. 
+Der alte Herrscher verspricht euch die Hälfte seines Königreiches, wenn ihr die sieben Kultstätten findet und dort die Dämonenwächter vernichtet. Dann wird  das Tor zur Hölle wieder geschlossen und der Fluch gebrochen sein.
+
+Suche die sieben alten Kultstätten des Landes und vernichte die Dämonenwächter.
+</text>
+      </lang>
+    </block>
+    <block id="04">
+      <lang code="CHN">
+                <text>
+何等的不幸！
+当比雅尼倒在敌军的绝对优势之下，你的维京人勇气尽失，部族四散奔逃。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Welch großes Unglück! 
+Als Bjarni unter der Übermacht des Feindes fällt, verlässt deine Wikinger aller Mut und dein Volk zerstreut sich in alle Himmelsrichtungen.
+</text>
+      </lang>
+    </block>
+    <block id="05">
+      <lang code="CHN">
+                <text>
+你已将幽谷七座魔法祭坛之一从恶魔手中解放！随着一声可怖的啸鸣，那些邪物遁回了来处。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Du hast eine der sieben magischen Kultstätten des verwunschenen Tales von den Dämonen befreit! Mit einem fürchterlichen Laut verschwinden die Unholde dorthin, woher sie gekommen waren.
+</text>
+      </lang>
+    </block>
+    <block id="06">
+      <lang code="CHN">
+                <text>
+你的维京人百般不情愿地听令，进攻起那曾向你们求救的被咒之民。
+
+当首批居民倒在你们剑下，山谷的诅咒便转移到了你们身上。你们自此永世受谴！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Wiederwillig folgen deine Wikinger dem Befehl und greifen das verwunschene Volk an, das euch um Hilfe gebeten hatte. 
+
+Als die ersten Einwohner unter euren Schwertern fallen, geht der Fluch des Tales auf euch über. Ihr seid nun für alle Zeiten verdammt!
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+                <text>
+幽谷
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+DAS VERWUNSCHENE TAL
+
+</text>
+      </lang>
+    </block>
+    <block id="lost">
+      <lang code="CHN">
+                <text>
+任务失败！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+MISSION VERLOREN!
+</text>
+      </lang>
+    </block>
+    <block id="won">
+      <lang code="CHN">
+                <text>
+任务成功！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+MISSION GEWONNEN!
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

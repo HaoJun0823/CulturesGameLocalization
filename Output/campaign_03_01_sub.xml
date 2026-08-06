@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_03_01_sub" export_map_id="campaign_03_01_sub" map_md5="be676653b10a952d7efab87f3b04ab0e" IsC2M="false">
+  <languages>
+    <language code="GER" alias="GER" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="GER">@SUCHE DAS HEILIGE FEUER!</text>
+    </string>
+    <string id="1">
+      <text lang="GER">Finde eine Möglichkeit das Tor zu öffnen!</text>
+    </string>
+    <string id="56">
+      <text lang="GER">Bergvolkarbeiter</text>
+    </string>
+    <string id="57">
+      <text lang="GER">Wachen</text>
+    </string>
+    <string id="66">
+      <text lang="GER">Arbeiter</text>
+    </string>
+    <string id="67">
+      <text lang="GER">Wachen</text>
+    </string>
+    <string id="71">
+      <text lang="GER">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="GER">Cyra</text>
+    </string>
+    <string id="73">
+      <text lang="GER">Hatschi</text>
+    </string>
+    <string id="74">
+      <text lang="GER">Sigurd</text>
+    </string>
+    <string id="99">
+      <text lang="GER">DAS HEILIGE FEUER</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="GER">
+        <text> 
+Tief unten im Bergstollen war von der unbarmherzigen Hitze der Wüste kaum etwas zu spüren.
+
+</text>
+        <usericon>1,38,49</usericon>
+        <text>
+
+Modriger Geruch durchdrang unsere Lungen und aus der nahen Umgebung hörten wir den schallenden Hammerschlag der Bergarbeiter. Wo nur mochten sie das heilige Feuer aufbewahren?
+</text>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="GER">
+        <text> 
+Suche das Heilige Feuer.
+</text>
+      </lang>
+    </block>
+    <block id="01">
+      <lang code="GER">
+        <text> 
+BERGVOLK
+
+"Hey, ihr da! Wer hat euch den Zutritt in unsere Bergwerke gestattet?"
+</text>
+      </lang>
+    </block>
+    <block id="02">
+      <lang code="GER">
+        <text> 
+ARBEITER
+
+"Tut uns nichts! Wir gehen hier doch nur unserer Arbeit nach und wissen kaum, was oberhalb des Bergwerkes geschieht!" 
+
+</text>
+        <usericon>1,23,62</usericon>
+      </lang>
+    </block>
+    <block id="03">
+      <lang code="GER">
+        <text> 
+Der Zugang zu dem Tor ist dir noch verwehrt!
+
+</text>
+        <usericon>1,121,52</usericon>
+        <text>
+
+Finde eine Möglichkeit, das Tor zu öffnen!
+</text>
+      </lang>
+    </block>
+    <block id="04">
+      <lang code="GER">
+        <text> 
+Deine Wikinger dürfen das Tor nun passieren! Doch hüte dich vor den Wächtern des heiligen Feuers, die sich hinter dem Tor verbergen!
+
+</text>
+        <usericon>1,121,52</usericon>
+      </lang>
+    </block>
+    <block id="05">
+      <lang code="GER">
+        <text> 
+LEBENSENERGIE
+
+Eine seltsame Magie umgab diesen Ort... 
+
+</text>
+        <usericon>1,96,77</usericon>
+        <text>
+
+All unsere Männer fühlten sich wie neu geboren!
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="200">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="300">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held HATSCHI erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
+</text>
+      </lang>
+    </block>
+    <block id="400">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held SIGURD erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="GER">
+        <text> 
+Endlich hatten wir das Feuer für den Leuchtturm von Pharos zurückerobert. Das Sarazenenbergvolk hatte uns dieses Unterfangen nicht gerade leicht gemacht.
+
+</text>
+        <usericon>1,137,14</usericon>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="GER" />
+    </block>
+    <block id="50_endheader">
+      <lang code="GER">
+        <text> 
+MISSION GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="GER">
+        <text> 
+DAS HEILIGE FEUER
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

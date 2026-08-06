@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="multiplayer_007_special_coop" export_map_id="multiplayer_007_special_coop" map_md5="160892dba101e83c4db158c61d342541" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+<string id="0">
+      <text lang="CHN">军事：合作</text>
+      <text lang="eng">Military: CO-OP</text>
+      <text lang="ger">Militär: COOP</text>
+    </string>
+<string id="1">
+      <text lang="CHN">2 名玩家：与同伴一道对抗北方强敌！</text>
+      <text lang="eng">2 players: Fight with your partner against a powerful enemy in the north!</text>
+      <text lang="ger">2 Spieler: Kämpfe mit deinem Partner gegen einen mächtigen Feind im Norden!</text>
+    </string>
+<string id="2">
+      <text lang="CHN">建起你的聚落并加以巩固。若自觉能守住村寨，便尝试与邻邦携手，共灭此敌！</text>
+      <text lang="eng">Build up your settlement and fortify it. Try to destroy your enemy together with your neighbouring tribe as soon as your village seems strong enough!</text>
+      <text lang="ger">Baue deine Siedlung auf und befestige sie. Versuche, gemeinsam mit deinem Nachbarstamm den Gegner zu vernichten, wenn du meinst, dein Dorf verteidigen zu können!</text>
+    </string>
+<string id="10">
+      <text lang="CHN">格陵兰人</text>
+      <text lang="eng">Greenlander</text>
+      <text lang="ger">Grönländer</text>
+    </string>
+<string id="11">
+      <text lang="CHN">格陵兰人</text>
+      <text lang="eng">Greenlander</text>
+      <text lang="ger">Grönländer</text>
+    </string>
+<string id="20">
+      <text lang="CHN">文兰人</text>
+      <text lang="eng">Vinlander</text>
+      <text lang="ger">Vinländer</text>
+    </string>
+<string id="21">
+      <text lang="CHN">文兰人</text>
+      <text lang="eng">Vinlander</text>
+      <text lang="ger">Vinländer</text>
+    </string>
+<string id="30">
+      <text lang="CHN">海卢兰人</text>
+      <text lang="eng">Hellulander</text>
+      <text lang="ger">Helluländer</text>
+    </string>
+<string id="31">
+      <text lang="CHN">海卢兰人</text>
+      <text lang="eng">Hellulander</text>
+      <text lang="ger">Helluländer</text>
+    </string>
+</strings>
+<briefings>
+<block id="begin_00"><lang code="CHN">
+                <text>
+在维京人的土地上，两个部族联手后逐渐坐大，俨然一方霸主。
+
+所幸你还有个邻居，与你同历此险，正可互为臂助。
+
+同心协力，你们或许能在战斗中站稳脚跟……
+
+提示：开局起你便坐拥一批宝贵资源。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+In the land of the Vikings, two powerful tribes have joined forces and thus created a large village of warriors.
+Urged on by their new strength, they have decided to wipe the land clean of all other tribes - including YOURS!
+
+Fortunately, your neighbour is facing the same problem. 
+
+Together you may be able to prevail in battle.
+
+
+Hint:
+From the beginning, you own valuable permits! Use them wisely to build up your village.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Im Land der Wikinger hatte sich durch den Zusammenschluss zweier mächtiger Stämme ein großes, kriegerisches Dorf gebildet.
+Schnell beschloss man, das Land von allen anderen Stämmen zu säubern - und das betrifft auch DEINEN Stamm!
+
+Zum Glück hast du noch einen Nachbarn, dem die gleiche Gefahr droht. 
+
+Gemeinsam könnt ihr es vielleicht schaffen, euch im Kampf zu behaupten.
+
+
+Hinweis:
+Du bist bereits von Beginn an im Besitz wertvoller Schriftrollen! Nutze sie geschickt, um dein Dorf aufzubauen.
+</text>
+      </lang>
+    </block>
+
+    <block id="header">
+      <lang code="CHN">
+                <text>
+合作
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+CO-OP
+
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+COOP
+
+</text>
+      </lang>
+    </block>
+</briefings>
+</localization>

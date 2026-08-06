@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="singleplayer_01_07" export_map_id="singleplayer_01_07" map_md5="39be5e73932c485e0de39bf28f75105f" IsC2M="false">
+  <languages>
+    <language code="GER" alias="GER" encoding="windows-1252" fix_1251="false" />
+    <language code="ENG" alias="ENG" encoding="windows-1252" fix_1251="false" />
+    <language code="POL" alias="POL" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="GER">Überbringe den Friedensvertrag an den fränkischen König.</text>
+      <text lang="ENG">Take the peace treaty to the Frankish King.</text>
+      <text lang="POL">Przedstaw traktat pokojowy frankijskiemu królowi.</text>
+    </string>
+    <string id="1">
+      <text lang="GER">Zahle den Tribute an Merobaudes.</text>
+      <text lang="ENG">Pay the tribute to Merobaudes.</text>
+      <text lang="POL">Zap³aæ Merobaudesowi.</text>
+    </string>
+    <string id="2">
+      <text lang="GER">Zahle den Tribute an den Stadthalter.</text>
+      <text lang="ENG">Pay the tribute to the governor.</text>
+      <text lang="POL">Zap³aæ majordomusowi.</text>
+    </string>
+    <string id="3">
+      <text lang="GER">Hilf deinen Landsleuten und besiege Merobaudes.</text>
+      <text lang="ENG">Help your fellow countrymen and defeat Merobaudes.</text>
+      <text lang="POL">Pomó¿ swoim ziomkom i pokonaj Merobaudesa.</text>
+    </string>
+    <string id="4">
+      <text lang="GER">2 Schwertkämpfer und 1 Bogenschütze</text>
+      <text lang="ENG">2 sword fighters and 1 archer</text>
+      <text lang="POL">2 wojów z mieczami i 1 ³ucznik</text>
+    </string>
+    <string id="5">
+      <text lang="GER">1 Speerträger und 2 Bogenschütze</text>
+      <text lang="ENG">1 spear fighter and 2 archers</text>
+      <text lang="POL">1 woj z w³óczni¹ i 2 ³uczników</text>
+    </string>
+    <string id="6">
+      <text lang="GER">Friedenszahlung</text>
+      <text lang="ENG">Peace tribute</text>
+      <text lang="POL">Op³ata za pokój</text>
+    </string>
+    <string id="7">
+      <text lang="GER">Freundschaftszahlung</text>
+      <text lang="ENG">Friendship tribute</text>
+      <text lang="POL">Op³ata za przyjaŸñ</text>
+    </string>
+    <string id="50">
+      <text lang="GER">Bjarnis Volk</text>
+      <text lang="ENG">Bjarni's People</text>
+      <text lang="POL">Lud Bjarniego</text>
+    </string>
+    <string id="51">
+      <text lang="GER">Rebellen</text>
+      <text lang="ENG">Rebels</text>
+      <text lang="POL">Rebelianci</text>
+    </string>
+    <string id="52">
+      <text lang="GER">Sklaven</text>
+      <text lang="ENG">Slaves</text>
+      <text lang="POL">Niewolnicy</text>
+    </string>
+    <string id="53">
+      <text lang="GER">Außenposten</text>
+      <text lang="ENG">Outpost</text>
+      <text lang="POL">Posterunek</text>
+    </string>
+    <string id="54">
+      <text lang="GER">Franken</text>
+      <text lang="ENG">Franks</text>
+      <text lang="POL">Frankowie</text>
+    </string>
+    <string id="98">
+      <text lang="GER">Überbringe die Friedensbotschaft an den fränkischen König.</text>
+      <text lang="ENG">Take the peace missive to the Frankish King.</text>
+      <text lang="POL">Przedstaw ofertê pokoju królowi Franków.</text>
+    </string>
+    <string id="99">
+      <text lang="GER">DIE REBELLION</text>
+      <text lang="ENG">THE REBELLION</text>
+      <text lang="POL">REBELIA</text>
+    </string>
+    <string id="101">
+      <text lang="GER">Bjarni</text>
+      <text lang="ENG">Bjarni</text>
+      <text lang="POL">Bjarni</text>
+    </string>
+    <string id="102">
+      <text lang="GER">Merobaudes</text>
+      <text lang="ENG">Merobaudes</text>
+      <text lang="POL">Merobaudes</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="bjarnidead">
+      <lang code="GER">
+        <text>
+
+Als Bjarni starb, weinten die Götter. Nun würde er uns bei unserer Mission nicht mehr zur Seite stehen können!
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+
+When Bjarni died, the gods were crying. Now he wouldn't be able to support us in our mission!
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+
+Na wieœæ o œmierci Bjarniego bogowie zap³akali. Teraz nikt nie pomo¿e nam wywi¹zaæ siê z naszego zadania!
+</text>
+      </lang>
+    </block>
+    <block id="charter">
+      <lang code="GER">
+        <text>
+
+Das Dorf stellte uns die versprochenen Söldner. Wir sollten auf sie zukommen, wenn wir noch mehrere Männer benötigen würden.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+
+The village supplied us with the mercenaries as promised. They said we should just ask them if we needed more men.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+
+Zgodnie z obietnic¹, wioska dostarczy³a nam kilku najemników. W razie potrzeby mamy ich poprosiæ o dodatkowe wsparcie.
+</text>
+      </lang>
+    </block>
+    <block id="goldwar">
+      <lang code="GER">
+        <text>
+
+Da wir nicht auf die Worte des Stadthalters hörten, wurde uns Aufgrund unserer schlechten Manieren der Krieg erklärt.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+
+Since we hadn't heeded the governor's words, he declared war on us due to our bad manners.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+
+Jako ¿e nie us³uchaliœmy ostrze¿eñ gubernatora, ten wypowiedzia³ nam wojnê.
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="GER">
+        <text>
+
+DIE REBELLION
+
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+
+THE REBELLION
+
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+
+REBELIA
+
+</text>
+      </lang>
+    </block>
+    <block id="mardead">
+      <lang code="GER">
+        <text>
+MEROBAUDES 
+
+Die letzten Worte Merobaudes waren Worte des Hasses. Mit starren Blick und eiskalter Miene sprach er: "Meine Männer werden meinen Tod rächen!"
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+MEROBAUDES 
+
+Merobaudes' last words were words of hatred. With a stern glare and a cold face he said, "My men will avenge my death!"
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+MEROBAUDES
+
+Merobaudes z³o¿eczy³ nam do samego koñca. Obrzucaj¹c nas zimnym spojrzeniem wycedzi³ przez zêby: "Moi ludzie pomszcz¹ moj¹ œmieræ!"
+</text>
+      </lang>
+    </block>
+    <block id="outpost">
+      <lang code="GER">
+        <text>
+Wir näherten uns zwei Türmen, die von einigen Soldaten bewacht wurden.
+Zuerst begegneten sie uns mit grimmiger Miene und schroffen Ton. Doch nachdem sie merkten, dass wir nicht aus dem Rebellendorf im Wald stammten, ließen sie uns passieren.
+
+
+Melde dich bei dem Stadthalter in der Nähe des Lagerhauses.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+We approached two towers, which were guarded by some soldiers.
+At first they greeted us with angry faces and a gruff tone. But when they had discovered that we were not from the rebel village in the forest, they let us pass.
+
+
+Report to the governor near the warehouse.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Zbli¿yliœmy siê do dwóch wie¿, strze¿onych przez grupkê ¿o³nierzy.
+Pocz¹tkowo przygl¹dali siê nam nieufnie i grubiañsko traktowali. Ale gdy zorientowali siê, ¿e nie pochodzimy ze zbuntowanej, leœnej wioski, pozwolili nam przejœæ dalej.
+
+
+Zg³oœ siê do gubernatora, znajdziesz go w pobli¿u magazynu.
+</text>
+      </lang>
+    </block>
+    <block id="outpostinside">
+      <lang code="GER">
+        <text>
+STADTHALTER
+
+"Wenn du, Wikinger, etwas von dem Gold erhandeln willst, müsstest du mir erst einmal deine Gunst erweisen." mahnte uns dieser fränkische Stadthalter.
+ 
+"Eine schöne Plattenrüstung und ein Schwert würden mir sehr wohl gefallen. Ich  könnte dir dann als Gegenleistung viele Türen öffnen, zumindest zu unseren Lagerbeständen!"
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+GOVERNOR
+
+"If you want to trade some of the gold, Vikings, you will have to do me a favour first," the Frankish governor said.
+ 
+"I would like a nice suit of plate armour and a sword. In exchange I could open many doors for you, at least to our warehouses!"
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+GUBERNATOR
+
+"Jeœli chcecie wymieniæ u nas trochê swojego z³ota, Wikingowie, bêdziecie musieli wyœwiadczyæ mi najpierw ma³¹ przys³ugê," powiedzia³ gubernator.
+
+"Przyda³aby mi siê ³adna zbroja p³ytowa i miecz. W zamian otworzê przed wami nasze bramy... a przynajmniej drzwi do naszych magazynów!"
+</text>
+      </lang>
+    </block>
+    <block id="outposttribute">
+      <lang code="GER">
+        <text>
+STADTHALTER
+
+"Danke für das Geschenk, Wikinger" sprach der Stadthalter, als wir ihm die Plattenrüstung und das Schwert übergaben. 
+
+"Schau einfach bei unserem Lager rein, dort findest du einige Handelsangebote die deinen Wünschen entsprechen."
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+GOVERNOR
+
+"Thank you for the gift, Vikings," the governor said when we had given him the plate armour and the sword.
+
+"Take a look at our warehouse. You'll find some trade offers there that you might like."
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+GUBERNATOR
+
+"Dziêkujê za podarunek, Wikingowie," powiedzia³ gubernator, widz¹c lœni¹c¹ zbrojê i miecz.
+
+"Rozejrzyjcie siê po naszym magazynie. Powinniœcie znaleŸæ tu kilka interesuj¹cych rzeczy."
+</text>
+      </lang>
+    </block>
+    <block id="p0attackp3">
+      <lang code="GER">
+        <text>
+STADTHALTER 
+
+Das bedeutet Krieg!
+
+Ein Angriff gegen die Soldaten des Außenpostens wird sicherlich bald Konsequenzen nach sich ziehen. Wer Merobaudes zum Feind hat, wird kein Auge in der Nacht mehr ruhig schließen können!
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+GOVERNOR 
+
+This means war!
+
+There are bound to be consequences for an attack against the soldiers of the outpost. No one who makes an enemy of Merobaudes will ever sleep peacefully again!
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+GUBERNATOR
+
+To oznacza wojnê!
+
+Przez ten atak na posterunek wojskowy bêdziemy mieli nie lada k³opoty. Kto ma Merobaudesa za nieprzyjaciela, nie mo¿e spaæ spokojnie!
+</text>
+      </lang>
+    </block>
+    <block id="p0attackp4">
+      <lang code="GER">
+        <text>
+MEROBAUDES
+
+"Du wagst es, mich anzugreifen! Ich werde dich von meinen Land vertreiben wie einen räudigen Hund!"
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+MEROBAUDES
+
+"How dare you attack me! I will kick you out of my country like a dog!"
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+MEROBAUDES
+
+"Jak œmiesz mnie atakowaæ! Przepêdzê ciê z mego kraju jak wœciek³ego psa!"
+</text>
+      </lang>
+    </block>
+    <block id="p3dead">
+      <lang code="GER">
+        <text>
+
+Nachdem wir den Außenposten der Franken stark beschädigt hatten, schlossen sich uns all die Arbeitssklaven dankbar an.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+
+After we had badly damaged the outpost of the Franks, all the slaves joined us willingly.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+
+Po tym, jak uda³o siê nam uszkodziæ posterunek Franków, niewolnicy ochoczo stanêli po naszej stronie.
+</text>
+      </lang>
+    </block>
+    <block id="p3p4killed">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION GEWONNEN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Merobaudes Schreckensherrschaft war beendet und unsere Landsmänner konnten endlich wieder in Frieden leben.
+</text>
+      </lang>
+      <lang code="ENG">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION SUCCESSFUL!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Merobaudes' reign of terror had ended, and our fellow countrymen were able to live in peace once more.
+</text>
+      </lang>
+      <lang code="POL">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA ZAKOÑCZONA POMYŒLNIE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Tyrania Merobaudesa dobieg³a koñca. Nasi rodacy mogli ¿yæ w spokoju.
+</text>
+      </lang>
+    </block>
+    <block id="p4tribute">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION GEWONNEN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Nachdem wir den Tribut bezahlt hatten, nahm Merobaudes endlich den Friedensvertrag an und ließ uns in Frieden ziehen.
+</text>
+      </lang>
+      <lang code="ENG">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION SUCCESSFUL!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+After we had paid the tribute, Merobaudes finally accepted the peace treaty and let us go in peace.
+</text>
+      </lang>
+      <lang code="POL">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA ZAKOÑCZONA POMYŒLNIE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Po zap³aceniu przez nas trybutu, Merobaudes przyj¹³ wreszcie traktat pokojowy i pozwoli³ nam odejœæ w pokoju.
+</text>
+      </lang>
+    </block>
+    <block id="playerdied">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Wir hatten bei dem Versuch, uns in diesem Gebiet anzusiedeln, versagt. 
+</text>
+      </lang>
+      <lang code="ENG">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Our plan to settle in this territory had failed. 
+</text>
+      </lang>
+      <lang code="POL">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA ZAKOÑCZONA NIEPOWODZENIEM!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Nasz plan zasiedlenia tego terytorium nie powiód³ siê.
+</text>
+      </lang>
+    </block>
+    <block id="rebellen">
+      <lang code="GER">
+        <text>
+
+Wir stießen auf ein winziges Dorf einfacher Leute mitten im Wald. Wie entsetzt waren wir, als uns diese braven Menschen von den üblen Machenschaften des Herrschers dieses Landes Merobaudes erzählten. 
+
+Unglaublich erschienen uns ihre Berichte, von seinen einfallenden Truppen, welche gezielt die unbewaffneten, aber kräftigen Männer in seine Goldminen verschleppen und die Schwachen zurücklassen. Diese armen Leute wollten sich zur Wehr setzen und rüsteten langsam gegen Merobaudes auf, um ihn den Krieg zu erklären und ihre Landsleute zu befreien.
+
+
+Sie baten uns an, mit ihnen Handel zu treiben und wiesen uns auf die Möglichkeit hin, Söldner anzuheuern.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+
+We found a very small village in the middle of the forest. We were appalled when these nice people told us about the malicious machinations of the ruler Merobaudes. 
+
+We could hardly believe their reports about his invading troops, who kidnapped strong, unarmed men to work in their gold mines and left the weak behind. These poor people just wanted to defend themselves and thus started arming themselves to declare war on him and to free their fellow countrymen.
+
+
+They offered to trade with us and told us that we could hire mercenaries if we wanted.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+
+Na œrodku lasu znaleŸliœmy maleñk¹ osadê. Niedowierzaj¹c w³asnym uszom s³uchaliœmy opowieœci tych mi³ych ludzi o okrucieñstwach i intrygach króla Merobaudesa.
+
+A¿ trudno uwierzyæ w historie o jego siepaczach, którzy porywaj¹ silnych, m³odych mê¿czyzn do niewolniczej pracy w kopalniach. Ci biedacy postanowili stawiæ mu czo³a, zaczêli wiêc siê zbroiæ i wkrótce zamierzaj¹ odbiæ swoich wspó³plemieñców.
+
+
+Zaoferowali nam wymianê handlow¹ a tak¿e swoich najemników, za odpowiedni¹ cenê oczywiœcie.
+</text>
+      </lang>
+    </block>
+    <block id="seep4">
+      <lang code="GER">
+        <text>
+MEROBAUDES
+
+"Seid willkommen verehrter Wikinger, ich habe schon von eurer Ankunft erfahren. Leider habe ich keinerlei Interesse an eurem Friedensvertrag, aber wenn ihr mir einen gewissen Tribut bezahlt, lasse ich euch hier in Ruhe eure Sieldung aufbauen. 
+
+Sicherlich wird es euch leicht fallen, die 30 Goldstücke aufzutreiben", lachte Merobaudes und ließ uns mit diesen Worten allein.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+MEROBAUDES
+
+"Be welcome, venerable Viking. I had already been informed of your arrival. Unfortunately, I have no wish to sign a peace treaty, but if you pay a certain tribute, I will let you settle in peace. 
+
+It will surely be easy for you to organise the 30 gold pieces," Merobaudes laughed and left us alone with these words.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+MEROBAUDES
+
+"Witaj, mê¿ny synu pó³nocy. Uprzedzono mnie ju¿ o twoim przybyciu. Niestety, nie zamierzam podpisywaæ ¿adnych traktatów pokojowych, ale jeœli zap³acicie odpowiedni trybut, pozwolê wam osiedliæ siê tutaj.
+
+Zebranie 30 sztuk z³ota nie powinno wam nastrêczyæ zbytnich trudnoœci," zaœmia³ siê Merobaudes wychodz¹c z sali.
+</text>
+      </lang>
+    </block>
+    <block id="starttext">
+      <lang code="GER">
+        <text>
+Ein Unwetter brach auf hoher See über uns herein und unser Schiff hielt diesem nicht stand. Um Haaresbreite hätten wir die französische Küste nie erreicht... 
+
+Unser Auftrag war es, dem Herrscher dieses Landes, dem fränkischen König Merobaudes, einen Friedensvertrag zu überbringen. 
+Seine Festung, so erzählten unsere Stammesältesten, soll sich inmitten eines Sees im Norden befinden.
+
+
+Überbringe den Friedensvertrag an den fränkischen König. 
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+We were on the deep seas when we saw ourselves confronted with a thunderstorm too strong for our ship to resist. We were lucky to reach the French coast at all ... 
+
+We had been ordered to take a peace treaty to the ruler of these lands, the Frankish King Merobaudes. 
+His stronghold was said to be in the middle of a lake in the north.
+
+
+Take the peace treaty to the Frankish King. 
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Znajdowaliœmy siê na œrodku morza, gdy niespodziewanie spad³ na nas sztorm, któremu nasz statek nie móg³ sprostaæ. Mamy szczêœcie, ¿e jakimœ cudem uda³o siê nam dotrzeæ do wybrze¿y Francji.
+
+Rozkazano nam zawrzeæ traktat pokojowy z w³adc¹ tych ziem, królem Merobaudesem.
+Jego twierdza mia³a siê wznosiæ na œrodku jeziora, gdzieœ na pó³nocy.
+
+
+Zawrzyj traktat pokojowy z królem Franków.
+</text>
+      </lang>
+    </block>
+    <block id="warngold">
+      <lang code="GER">
+        <text>
+STADTHALTER 
+
+"Ich gebe dir wenige Minuten, Merobaudes Goldminen zu verlassen. Solltest du dann noch hier sein, wirst du die Konsequenzen tragen müssen!"
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+GOVERNOR 
+
+"I will give you a few minutes to leave Merobaudes' gold mines. If you are still here after that, you'll have to face the consequences!"
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+GUBERNATOR
+
+"Dajê ci kilka minut na opuszczenie kopalni Merobaudesa. Jeœli bêdziesz tu gdy wrócê, poniesiesz surowe konsekwencje!"
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

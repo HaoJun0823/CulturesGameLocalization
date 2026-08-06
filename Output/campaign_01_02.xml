@@ -1,0 +1,1421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_01_02" export_map_id="campaign_01_02" map_md5="d76cd4311a064aede7334e19472a21bd" IsC2M="false">
+  <languages>
+    <language code="GER" alias="GER" encoding="windows-1252" fix_1251="false" />
+    <language code="ENG" alias="ENG" encoding="windows-1252" fix_1251="false" />
+    <language code="POL" alias="POL" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="GER">Erkunde die Gegend und kümmere dich um Nahrung für deine Wikinger.</text>
+      <text lang="ENG">Explore the area and provide food for your Vikings.</text>
+      <text lang="POL">Zbadaj okolicê i dostarcz swoim ludziom ¿ywnoœci.</text>
+    </string>
+    <string id="5">
+      <text lang="GER">Vertreibe die räuberischen Wikinger - mit Gewalt oder indem du Tribut zahlst.</text>
+      <text lang="ENG">Drive the pillaging Vikings out of the country - by force or by paying tribute.</text>
+      <text lang="POL">OszczêdŸ krainê od gniewu wikiñskich najeŸdŸców - si³¹ lub okupem.</text>
+    </string>
+    <string id="15">
+      <text lang="GER">Suche den Prinzen.</text>
+      <text lang="ENG">Find the prince.</text>
+      <text lang="POL">Odszukaj ksiêcia.</text>
+    </string>
+    <string id="16">
+      <text lang="GER">Suche die Prinzessin.</text>
+      <text lang="ENG">Find the princess.</text>
+      <text lang="POL">Odszukaj ksiê¿niczkê.</text>
+    </string>
+    <string id="17">
+      <text lang="GER">Erreiche den Eingang zum Tal von St. Pierre.</text>
+      <text lang="ENG">Reach the entrance to the valley of St. Pierre.</text>
+      <text lang="POL">Udaj siê do wejœcia do doliny St. Pierre.</text>
+    </string>
+    <string id="18">
+      <text lang="GER">Erreiche den Eingang zum Tal von St. Pierre.</text>
+      <text lang="ENG">Reach the entrance to the valley of St. Pierre.</text>
+      <text lang="POL">Udaj siê do wejœcia do doliny St. Pierre.</text>
+    </string>
+    <string id="19">
+      <text lang="GER">Geleite die Prinzessin sicher zur Abtei von St. Pierre.</text>
+      <text lang="ENG">Escort the princess safely to the abbey of St. Pierre.</text>
+      <text lang="POL">Eskortuj ksiê¿niczkê do opactwa St. Pierre.</text>
+    </string>
+    <string id="31">
+      <text lang="GER">Zahle den räuberischen Wikingern 20 Speere und 20 Waffenröcke, wenn du willst, dass sie das Land verlassen.</text>
+      <text lang="ENG">Pay tribute if you want the pillaging Vikings to leave the country.</text>
+      <text lang="POL">Zap³aæ okup, aby wikiñscy najeŸdŸcy opuœcili krainê.</text>
+    </string>
+    <string id="50">
+      <text lang="GER">Bjarnis Stamm</text>
+      <text lang="ENG">Bjarni's Tribe</text>
+      <text lang="POL">Plemiê Bjarniego</text>
+    </string>
+    <string id="51">
+      <text lang="GER">Paris</text>
+      <text lang="ENG">Paris</text>
+      <text lang="POL">Pary¿</text>
+    </string>
+    <string id="52">
+      <text lang="GER">Ratingen</text>
+      <text lang="ENG">Ratingen</text>
+      <text lang="POL">Ratyzbona</text>
+    </string>
+    <string id="53">
+      <text lang="GER">Wikingerstamm</text>
+      <text lang="ENG">Viking Tribe</text>
+      <text lang="POL">Plemiê Wikingów</text>
+    </string>
+    <string id="54">
+      <text lang="GER">Oberkirch</text>
+      <text lang="ENG">Oberkirch</text>
+      <text lang="POL">Oberkirch</text>
+    </string>
+    <string id="63">
+      <text lang="GER">Wikinger</text>
+      <text lang="ENG">Viking</text>
+      <text lang="POL">Wiking</text>
+    </string>
+    <string id="98">
+      <text lang="GER">Die Wikinger stranden an der Küste der Normandie und müssen neue Freundschaften schließen, um in diesem Land bestehen zu können.</text>
+      <text lang="ENG">The Vikings have run aground at the coast of Normandy. They have to make new friends to be able to survive in this country.</text>
+      <text lang="POL">Wikingowie rozbili siê u wybrze¿y Normandii. Teraz musz¹ nawi¹zaæ przyjaŸnie, które umo¿liwi¹ im przetrwanie w tym obcym kraju.</text>
+    </string>
+    <string id="99">
+      <text lang="GER">NORMANDIE</text>
+      <text lang="ENG">NORMANDY</text>
+      <text lang="POL">NORMANDIA</text>
+    </string>
+    <string id="100">
+      <text lang="GER">Bjarni</text>
+      <text lang="ENG">Bjarni</text>
+      <text lang="POL">Bjarni</text>
+    </string>
+    <string id="101">
+      <text lang="GER">Normannenprinz</text>
+      <text lang="ENG">Norman Prince</text>
+      <text lang="POL">Normañski ksi¹¿e</text>
+    </string>
+    <string id="102">
+      <text lang="GER">Frankenprinzessin</text>
+      <text lang="ENG">Frankish Princess</text>
+      <text lang="POL">Frankoñska ksiê¿niczka</text>
+    </string>
+    <string id="109">
+      <text lang="GER">Informant</text>
+      <text lang="ENG">Informer</text>
+      <text lang="POL">Informator</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="10minutenspäter">
+      <lang code="GER">
+        <text>
+Irgendwie mussten die räuberischen Wikinger im Osten von unseren Plänen erfahren haben, denn einige Tage später erschien einer ihrer Botschafter bei uns im Dorf. 
+
+Gegen einen hohen Tribut würden sie das Land kampflos verlassen. Andernfalls wären sie auf unsere Angriffe bestens vorbereitet. 
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+Somehow, the pillaging Vikings in the east must have heard of our plans, for a few days later their messenger came to our village. 
+
+He said they would be prepared to leave the country without a fight, for a high tribute. Otherwise, he claimed, they were well prepared to repel our attacks. 
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Wikiñscy bandyci ze wschodu musieli jako poznaæ nasze plany - kilka dni po naradzie w naszej wiosce zjawi³ siê ich pos³aniec.
+
+Powiedzia³, ¿e s¹ gotowi opuciæ krainê w ka¿dej chwili - ale to bêdzie nas s³ono kosztowaæ. Jeli nie zap³acimy, to mamy siê szykowaæ na za¿art¹ walkê...
+</text>
+      </lang>
+    </block>
+    <block id="abbauer">
+      <lang code="GER">
+        <text>
+HINWEIS
+
+Abbauer bilden die Grundlage für alle Bauvorhaben. Am Anfang sammeln sie Lehm, Holz oder Stein. Mit der nötigen Erfahrung können sie in späteren Missionen aber auch Gold oder Erz abbauen. 
+
+Der Abbauer übt einen Beruf ohne eigene Arbeitsstätte aus. Die Art eines Rohstoffes, der gesammelt werden soll, kann ebenso wie die Ware, die ein Arbeiter produziert, geändert werden. Voraussetzung dafür ist stets nur, dass der Arbeiter die entsprechende Erfahrung besitzt und ggf. die Arbeitsstätte in der entsprechenden Ausbaustufe vorhanden ist. 
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+NOTE
+
+Extractors are the basis of every construction. At first, they will collect clay, wood or stone. However, once they have the necessary experience, you can use them to mine gold and ore in later missions. 
+
+The extractor does not have a set work place. You can change the type of raw material to be collected, just as you can change the goods produced by a worker. The only requirement is that the worker must possess the necessary experience and that a work place of the required upgrade level is available if required. 
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+UWAGA
+
+Wikingowie pozyskuj¹cy surowce to podstawa ka¿dej budowy. Najpierw zajm¹ siê oni pozyskiwaniem gliny, drewna i kamienia, wraz ze wzrostem dowiadczenia zajmuj¹c siê tak¿e zdobywaniem z³ota i rudy.
+
+Takiego Wikinga nie przydzielasz do jednego miejsca pracy - wystarczy, ¿e okrelisz typ surowca, jaki ma zdobywaæ. Jedynym ograniczeniem pozostaje poziom dowiadczenia.
+</text>
+      </lang>
+    </block>
+    <block id="aufdeckungwaffenlieferung">
+      <lang code="GER">
+        <text>
+Ohne großes Blutvergießen auf beiden Seiten hatten wir durch unsere Tributzahlung das Land von den räuberischen Wikingern befreit und einen Krieg verhindert! 
+
+Tankred, der verräterische Frankenfürst, hatte sein wahres Gesicht gezeigt und würde nun seiner gerechten Strafe nicht entrinnen können.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+Without much bloodshed, our tribute had freed the Frankish Empire from the villainous Vikings, and prevented the war! 
+
+Tankred, the traitorous Frankish lord, had shown his true colours and would not be able to escape punishment.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Dziêki trybutowi uda³o nam siê sk³oniæ wikiñskich najedców do opuszczenia tych ziem praktycznie bez rozlewu krwi oraz nie dopuciæ do wybuchu wojny!
+
+Tankred, zdradziecki wielmo¿a, pokaza³ swoj¹ prawdziw¹ naturê i nie umknie d³ugiemu ramieniu sprawiedliwoci!
+</text>
+      </lang>
+    </block>
+    <block id="bjarnitot">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Was für ein schwarzer Tag! Unter dem letzten Hieb des Feindes starb Bjarni, von seinen Freunden verlassen. Die schreckliche Midgardschlange erhob sich, und es gab niemanden mehr, der sie aufhalten konnte.
+</text>
+      </lang>
+      <lang code="ENG">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A black day indeed! Left all alone by his friends, Bjarni died at the enemy's last stroke. The terrible Midgard serpent arose, and there was no one left to stop it.
+</text>
+      </lang>
+      <lang code="POL">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Có¿ za czarny dzieñ w historii plemienia! Opuszczony przez wszystkich, Bjarni skona³ pod ciosami wrogów. Potworny w¹¿ Midgardu powsta³ i nie by³o komu go powstrzymaæ...
+</text>
+      </lang>
+    </block>
+    <block id="briefprinz">
+      <lang code="GER">
+        <text>
+Als wir dem Prinzen den Brief der Prinzessin brachten, war er überglücklich und bat uns um einen großen Dienst. 
+
+Er wollte sie heimlich ehelichen, doch dazu müssten wir die Prinzessin heimlich durch das Tal von St. Pierre zur Abtei geleiten, ohne dass ihrem Vater etwas zu Ohren kam...
+
+
+Erreiche den Eingang zum Tal von St. Pierre. Du findest ihn in den Bergen zwischen Ratingen und Paris.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+When we brought the princess' letter to the prince, he was overjoyed and asked a great favour of us. 
+
+The prince wished to wed her in secret, but we would have to escort her safely through the valley of St. Pierre and to the abbey without her father's knowledge ...
+
+
+Reach the entrance to the valley of St. Pierre. It lies in the mountains between Ratingen and Paris.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Gdy ksi¹¿ê otrzyma³ list, nie próbowa³ nawet ukryæ swej wielkiej radoci. Poprosi³ nas jednak o wielk¹ przys³ugê.
+
+M³odzi pragnêli siê pobraæ w tajemnicy. Aby tak siê sta³o, musielibymy eskortowaæ ksiê¿niczkê przez dolinê St. Pierre i do opactwa bez wiedzy jej ojca...
+
+
+Dotrzyj do wejcia do doliny St. Pierre. Znajdziesz je w górach pomiêdzy Ratyzbon¹ i Pary¿em.
+</text>
+      </lang>
+    </block>
+    <block id="briefprinzessin">
+      <lang code="GER">
+        <text>
+Als wir der Prinzessin den Brief des Prinzen brachten, war sie überglücklich und bat uns um einen großen Dienst. 
+
+Der Prinz wollte sie heimlich ehelichen, doch dazu müssten wir sie heimlich durch das Tal von St. Pierre zur Abtei zu geleiten, ohne dass ihrem Vater etwas zu Ohren kam...
+
+
+Erreiche den Eingang zum Tal von St. Pierre. Du findest ihn in den Bergen zwischen Ratingen und Paris.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+When we brought the prince's letter to the princess, she was overjoyed and asked a great favour of us. 
+
+The prince wished to wed her in secret, but we would have to escort her safely through the valley of St. Pierre and to the abbey without her father's knowledge ...
+
+
+Reach the entrance to the valley of St. Pierre. It lies in the mountains between Ratingen and Paris.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Gdy ksiê¿niczka otrzyma³a list, nie próbowa³a nawet ukryæ swej wielkiej radoci. Poprosi³a nas jednak o wielk¹ przys³ugê.
+
+M³odzi pragnêli siê pobraæ w tajemnicy. Aby tak siê sta³o, musielibymy eskortowaæ ksiê¿niczkê przez dolinê St. Pierre i do opactwa bez wiedzy jej ojca...
+
+
+Dotrzyj do wejcia do doliny St. Pierre. Znajdziesz je w górach pomiêdzy Ratyzbon¹ i Pary¿em.
+</text>
+      </lang>
+    </block>
+    <block id="eingang">
+      <lang code="GER">
+        <text>
+Die Prinzessin wartet schon ziemlich lange am Eingang vom Tal zu St. Piere auf dich. 
+
+Lass sie nicht länger warten!
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+The princess has been waiting for you at the entrance to the valley of St. Pierre for some time now. 
+
+Don't keep her waiting any longer!
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Ksiê¿niczka czeka na ciebie przy wejciu do doliny St. Pierre ju¿ od d³u¿szego czasu.
+
+Nie ka¿ jej czekaæ zbyt d³ugo!
+</text>
+      </lang>
+    </block>
+    <block id="end_00">
+      <lang code="GER">
+        <text>
+Nachdem die letzen Feinde das Land verlassen hatten, erkannte der Frankenkönig endlich, wer die ganze Zeit seine wahren Feinde gewesen waren. 
+
+Voll Reue schloss er den Prinzen und die Prinzessin in seine Arme und gab ihnen seinen Segen. Er bot den Normannen Land an, auf dem sie von nun an siedeln konnten. Dafür erkannten sie die fränkische Krone an und schützten künftig das Land vor Angriffen feindlicher Wikinger. 
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+When the last of the enemies had left the country, the King of the Franks finally understood who his enemies had been all along. 
+
+Plagued by guilt, he embraced the prince and princess and gave them his blessing. He offered the Normans a piece of land, and allowed them to settle there. In return, they acknowledged his sovereign rights and thenceforth protected the land from the Viking attacks. 
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Gdy ostatni z wrogów opuci³ krainê, król Franków zorientowa³ siê, kim tak naprawdê byli jego wrogowie.
+
+Mêczony wyrzutami sumienia b³ogos³awi³ zwi¹zek ksiêcia z ksiê¿niczk¹, a Normanom nada³ w posiadanie ziemiê w zamian za co uznali go oni za swojego suzerena i poprzysiêgli chroniæ kraj przed przysz³ymi wikiñskimi najazdami.
+</text>
+      </lang>
+    </block>
+    <block id="end_01">
+      <lang code="GER">
+        <text>
+Nun, da wir den fränkischen König so sehr unterstützt hatten, verriet er uns, dass es einer Sage nach in England eine Karte geben sollte, die uns den Weg nach Wigrid Wall weisen konnte. 
+
+Noch am nächsten Tag brachen ich und einige Getreue auf und setzten Segel in Richtung Britannien...
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+Now that we had supported the King of the Franks in this manner, he explained about a saga that told of a map in England that would guide us to Wigrid Wall. 
+
+The very next day, I departed with a few loyal fellows, and we set sail for Britain ...
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Poniewa¿ pomoglimy królowi, postanowi³ opowiedzieæ nam staro¿ytn¹ legendê o angielskiej mapie wskazuj¹cej drogê do muru Wigrid.
+
+Nastêpnego dnia wraz z kilkoma najwierniejszymi towarzyszami wyruszy³em do Anglii.
+</text>
+      </lang>
+    </block>
+    <block id="frankenstadt">
+      <lang code="GER">
+        <text>
+PARIS
+
+Im Landesinneren trafen wir auf eine große Stadt der stolzen Franken, die diese "Paris" nannten.
+
+Hinter mächtigen Wällen stand die Burg ihres Königs. Doch die Menschen begegneten uns hier mit Argwohn. Allzu oft waren sie bereits von plündernden Wikingern überfallen worden, die mit ihren Langbooten des Nachts die Flüsse hinaufgesegelt kamen und ihre Städte angriffen. 
+
+Wir konnten mit ihnen Handel treiben, doch sollten wir uns hüten, sie zu sehr zu reizen.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+PARIS
+
+Inland we came across a large city of proud Franks, which they called "Paris".
+
+Behind the mighty bulwark stood their sovereign's castle. But the people here faced us with mistrust and suspicion. Too often had they been attacked by pillaging Vikings, sailing up the rivers in their longboats by night to plunder the cities. 
+
+We could trade with them, but we would have to avoid provoking them.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+PARY¯
+
+W g³êbi l¹du natknêlimy siê na du¿e miasto dumnych Franków. Nazywaj¹ je 'Pary¿'.
+
+Za potê¿nymi murami widaæ by³o zamek lokalnego pana. Ludnoæ patrzy³a na nas podejrzliwie - zbyt czêsto budzi³ ich w rodku nocy wrzask podobnych do nas najedców podp³ywaj¹cych pod frankijskie domy w swoich Drakkarach...
+
+Mylê, ¿e mo¿na z nimi pohandlowaæ. Trzeba jednak uwa¿aæ, aby ich nie sprowokowaæ...
+</text>
+      </lang>
+    </block>
+    <block id="fras">
+      <lang code="GER">
+        <text>
+OBERKIRCH
+
+Weit im Süden kamen unsere Leute in die Stadt des Frankenfürsten Tankred. Allzu freundlich wurden wir nicht empfangen, als wir ihm unsere Begrüßungsgeschenke überreichen wollten. Der Burgvogt ließ uns mit Hunden vom Hof jagen!                    
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+OBERKIRCH
+
+Way down in the south, our people came to the city of the Frankish Lord Tankred. We were not too well received as we attempted to present him with our gifts of introduction. The castellan had the dogs chase us from the court!                    
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+OBERKIRCH
+
+Na dalekim po³udniu natknêlimy siê na miasto frankijskiego lorda imieniem Tankred. Próbowalimy stan¹æ przed jego obliczem ze zwyczajowymi podarkami, jednak nie przyjêto nas najlepiej - majordomus rozkaza³ poszczuæ nas psami i pogoniæ z dziedziñca!
+</text>
+      </lang>
+    </block>
+    <block id="fras2">
+      <lang code="GER">
+        <text>
+OBERKIRCH
+
+Eine starke Burg der Franken ragte vor uns in den Himmel. Hier herrschte Tankred, einer ihrer Fürsten. Misstrauen schlug uns entgegen. Hier waren wir nicht willkommen!                       
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+OBERKIRCH
+
+A powerful Frankish castle towered before us. This was the stronghold of Tankred, one of their lords. We were greeted with suspicion. We were not welcome here!                       
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+OBERKIRCH
+
+Przed nami wznosi³y siê blanki potê¿nego frankijskiego zamczyska. To warownia Tankreda, jednego z miejscowych wielmo¿ów. Powitano nas niezwykle podejrzliwie - to oczywiste, ¿e nie jestemy w tej okolicy mile widziani!
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="GER">
+        <text>
+NORMANDIE
+
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+NORMANDY
+
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+NORMANDIA
+
+</text>
+      </lang>
+    </block>
+    <block id="header_won">
+      <lang code="GER">
+        <text>
+
+MISSION GEWONNEN!
+
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+
+MISSION SUCCESSFUL!
+
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+
+MISJA ZAKOÑCZONA SUKCESEM!
+
+</text>
+      </lang>
+    </block>
+    <block id="hilfe">
+      <lang code="GER">
+        <text>
+Es war vollbracht und wir geleiteten das Liebespaar sicher zurück. Doch als der fränkische König von der Heirat seiner Tochter mit dem Prinzen der Normannen erfuhr, war er darüber so erbost, dass er allen Nordmännern mit Vergeltung drohte. 
+
+Der Prinz und die Prinzessin waren verzweifelt! Das hatten sie mit ihrer Heirat nicht bezweckt! 
+
+Gemeinsam sonnen wir darüber nach, wie die Gunst des Königs wieder zu erringen sei. Wir wollten ihm beweisen, dass es durchaus auch ehrenhafte Normannen gab, indem wir die plündernden Wikinger aus dem Land vertrieben, die dem Volk des Königs soviel Schaden zugefügt hatten.
+
+Der Normannenprinz gab uns seine besten Krieger zum Geleit, die an der Brücke auf unsere Befehle warteten.
+
+Besiege zusammen mit den Normannen die räuberischen Wikinger oder vertreibe sie aus dem Land.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+It was done. We escorted the lovers safely back. But when the Frankish King learnt of his daughter's marriage to the Norman prince, he became so angry that he threatened to take his revenge on all northerners. 
+
+The prince and princess despaired! This was not what they had aimed to achieve! 
+
+Together we conferred upon how to regain the King's favour. We intended to prove that there was such a thing as an honourable Norman by driving the pillaging Vikings from the land, who had caused so much damage to the King.
+
+The Norman prince sent his best warriors to fight with us. They awaited our orders by the bridge.
+
+Fight with the Normans to defeat the villainous Vikings, or drive them from the country.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Sta³o siê. Bezpiecznie eskortowalimy zakochanych, jednak gdy dowiedzia³ siê o tym król Franków... Wpad³ we  wciek³oæ i poprzysi¹g³ zemstê na wszystkich ludziach pó³nocy!
+
+Ksi¹¿ê i jego ¿ona byli zrozpaczeni - chodzi³o im o co wrêcz przeciwnego!
+
+Razem zastanawialimy siê, jak wróciæ w królewskie ³aski. Postanowilimy udowodniæ, ¿e jednak istniej¹ honorowi Normanowie. Musielimy wypêdziæ z kraju wikiñskich najedców, naszych pobratymców, którzy wyrz¹dzili królowi tak wielkie szkody...
+
+Normañski ksi¹¿ê wspomóg³ nas swoimi najlepszymi wojami. Oczekiwali moich rozkazów przy mocie.
+
+Wraz z Normanami pokonaj wikiñskich najedców lub zmu ich do opuszczenia tej krainy.
+</text>
+      </lang>
+    </block>
+    <block id="höhleohne">
+      <lang code="GER">
+        <text>
+Wir kamen an eine Felsschlucht, zu der ein Weg führte. Einheimische erzählten uns, hier ginge es zum Tal von St. Pierre. Da wir dort nichts zu schaffen hatten, zogen wir weiter.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+We came to a rocky canyon, to which led a path. The locals told us this was the path to the valley of St. Pierre. Since we had no business there, we moved on.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Dotarlimy do kamienistego parowu prowadz¹cego do cie¿ki. Okoliczni mieszkañcy powiedzieli nam, ¿e cie¿ka prowadzi do doliny St. Pierre. Nie mielimy tu nic do roboty, wiêc skierowalimy siê gdzie indziej.
+</text>
+      </lang>
+    </block>
+    <block id="informant">
+      <lang code="GER">
+        <text>
+DER INFORMANT
+
+Als einer unserer Leute an eine dunkle Stelle eines kleinen Waldes kam, trat plötzlich eine vermummte Gestalt auf ihn zu: 
+
+"Psssst... nicht so laut! Man nennt mich den Informanten. EINE Auskunft bekommt ihr noch umsonst, weil wir heute zum ersten mal aufeinander treffen..." Verstohlen schaute er sich um...
+
+"Wenn ihr euch in diesem Land Freunde machen wollt, sucht nach einem Prinzen, der sich vor Liebeskummer verzehrt! Das wird euch in eurer Mission weiterbringen! Du findest ihn weit im Süden in der Nähe der Stadt Ratingen!"
+ 
+Bevor noch unser Mann fragen konnte, woher er von unserer Mission erfahren hatte, verschwand die geheimnisvolle Gestalt spurlos.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+THE INFORMER
+
+As one of our people approached a dark area within a small wood, a masked figure suddenly stepped forward: 
+
+"Hush ... you make too much noise! People call me the informer. I will give you ONE piece of information free of charge, since this is the first time we have met ..." He looked around him furtively ...
+
+"If you seek to make friends in this country, search for a prince with an aching heart! Finding him will help you on your mission! He is in the south, close to the city of Ratingen!"
+ 
+Before our man was able to ask how he had heard of our mission, the secretive informer vanished without a trace.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+INFORMATOR
+
+Jeden z twoich ludzi zbli¿y³ siê do najciemniejszej g³uszy ma³ego lasu, gdy nagle wyskoczy³a stamt¹d zamaskowana postaæ i powiedzia³a:
+
+"Ciiii... Ale ha³asujecie! Mówi¹ o mnie 'Informator'. Dam wam JEDN¥ radê za darmo - spotykamy siê po raz pierwszy..." Postaæ rozejrza³a siê nerwowo.
+
+"Jeli szukacie przyjació³ w tej krainie, to odszukajcie ksiêcia o z³amanym sercu. Pomo¿e wam w wype³nieniu misji! Znajdziecie go na po³udniu, w pobli¿u Ratyzbony!"
+
+Zanim twój cz³owiek zd¹¿y³ zapytaæ postaæ, sk¹d siê dowiedzia³a o naszej misji, ju¿ jej nie by³o. Przeszukanie okolicy nic nie da³o...
+</text>
+      </lang>
+    </block>
+    <block id="informantseen">
+      <lang code="GER">
+        <text>
+Was war das? 
+
+Hinten in den Büschen schien sich etwas bewegt zu haben!
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+What was that? 
+
+Something seems to have moved in the bushes behind!
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Co to by³o?
+
+Chyba co siê poruszy³o w tych zarolach!
+</text>
+      </lang>
+    </block>
+    <block id="jäger">
+      <lang code="GER">
+        <text>
+HINWEIS
+
+Der Jäger hat nun genügend Erfahrung und könnte als Näher oder Viehzüchter arbeiten. 
+
+Als Näher benötigt er die Arbeitsstätte Näherei, um aus Leder Schuhe herzustellen. 
+
+Für den Beruf des Viehzüchters braucht er eine Viehzüchterei, die in der Nähe von weidenden Tieren errichtet werden sollte. Diese können dann mit einem Kundschafter eingefangen werden. 
+Schafe liefern ihm Wolle und Fleisch, während Rinder der Produktion von Leder und Fleisch dienen.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+NOTE
+
+The huntsman is experienced enough to work as a tailor or stock farmer. 
+
+A tailor needs a tailor's workshop to produce leather shoes. 
+
+A stock farmer needs a cattle farm, which should be built close to grazing animals. These can be caught by a scout. 
+Sheep provide wool and meat, while cattle provide meat and leather.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+UWAGA
+
+Dowiadczenie myliwego upowa¿nia go do zajêcia siê szyciem skórzanego obuwia w odpowiednim warsztacie.
+
+Bez problemu poradzi on sobie równie¿ z hodowl¹ zwierz¹t.
+
+Farma hodowlana powinna siê znajdowaæ w pobli¿u terenów, na których pas¹ siê zwierzêta. Ich oswojeniem zajmuj¹ siê zwiadowcy.
+Owce daj¹ we³nê i miêso, a byd³o - miêso i skóry.
+</text>
+      </lang>
+    </block>
+    <block id="kisten">
+      <lang code="GER">
+        <text>
+HINWEIS
+
+Die Nornen hatten uns fünf alte, geheimnisvolle Kisten mitgegeben, die wir erst öffnen sollten, wenn wir wieder festen Boden unter den Füßen haben würden. Nun war es soweit! 
+
+Öffne mit einem beliebigen Wikinger die Kisten. In ihnen sind Schriftrollen verborgen, die es dir erlauben, bestimmte Häuser zu bauen und deinen Wikingern eine Menge Arbeit abnehmen. 
+
+Über das Extras-Fenster (das Kistensymbol am linken Bildschirmrand) kannst du die einzelnen Schriftrollen auswählen und sofort einsetzen.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+NOTE
+
+The Norns had given us five old, mysterious chests, which we were not to open until we were back on solid ground. That time had come! 
+
+Use any Viking to open the chests. They contain scrolls that will enable you to construct certain buildings, and will save your Vikings a lot of hard work. 
+
+Use the "Extras" window (the chest icon on the left-hand-side of the screen) to select and employ a scroll.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+UWAGA
+
+Norny da³y nam piêæ staro¿ytnych i tajemniczych skrzyñ, które mielimy otworzyæ dopiero na sta³ym l¹dzie. Ten czas w³anie nadszed³!
+
+Skrzyniê mo¿e otworzyæ dowolny Wiking - w rodku znajduj¹ siê tajemne zwoje, które umo¿liwi¹ Ci budowê pewnych budowli i oszczêdz¹ twoim ludziom sporo zachodu.
+
+Wyboru i u¿ycia zwojów dokonujesz w oknie 'Dodatki' (ikona skrzyni z lewej strony ekranu).
+</text>
+      </lang>
+    </block>
+    <block id="militärmacht">
+      <lang code="GER">
+        <text>
+Wir waren in arger Bedrängnis, denn die vereinten Truppen der Plünderer und des Verräters standen gegen uns.
+ 
+Doch da! Was war das? Von Ferne hörten wir ein Hornsignal! Der Normannenprinz hatte sein Versprechen gehalten und schickte uns in größter Not seine Unterstützung. 
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+We were in great distress, for the combined forces of the plunderers and traitors stood against us.
+ 
+But there! What was that? From far off we heard the sound of a horn! The Norman prince was true to his word, and sent us his support in our hour of need. 
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Wydawa³o siê, ¿e nie mamy wiêkszych szans, gdy¿ po³¹czone si³y najedców i zdrajców przerasta³y nas znacznie liczebnoci¹.
+
+Nagle jednak z oddali da³o siê us³yszeæ dwiêk rogu. Ksi¹¿e Normanów dotrzyma³ s³owa i wspar³ nas w godzinie najwiêkszej próby.
+</text>
+      </lang>
+    </block>
+    <block id="näher2">
+      <lang code="GER">
+        <text>
+HINWEIS
+
+Dein Näher hat nun genügend Erfahrung bei der Herstellung von Schuhen und könnte auch Lederrüstungen herstellen. Die Näherei müsste dazu umgebaut werden. 
+
+Mit zunehmender Erfahrung wird er zudem die Fähigkeit lernen, Waffenröcke herzustellen.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+NOTE
+
+The tailor has gained enough experience at making shoes to produce leather armour. This requires you to convert the tailor's workshop.
+
+As he gains experience, the tailor will be able to make tunics.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+UWAGA
+
+Szycie obuwia idzie twojemu Wikingowi tak dobrze, ¿e mo¿e ju¿ siê przerzuciæ na skórzane zbroje.
+
+Jeli rozbudujesz jego warsztat, to w dalszej perspektywie Wiking zajmie siê zapewne szyciem strojów.
+</text>
+      </lang>
+    </block>
+    <block id="plüwis">
+      <lang code="GER">
+        <text>
+Als unsere Leute auf ein Lager fremder Wikinger trafen, wurden wir unfreundlich empfangen. Sie waren aus dem Norden in dieses Land gekommen, um Beute zu machen. Obwohl sie Landsleute von uns waren, hatten wir mit dieser Räuberbande doch wenig gemein. 
+
+Wir sollten ihnen nur nicht in die Quere kommen, warnten sie uns zum Abschied!
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+Our people came across a camp of strange Vikings, where we were badly received. They had journeyed to this country from the north, hoping for rich pickings. Though they were our countrymen, we had little in common with this band of brigands. 
+
+As we left, they warned us not to cross them!
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Napotkalimy obozowisko obcych Wikingów.  le nas tam przyjêto - ci wojownicy przybyli z pó³nocy w nadziei wielkich grabie¿y. To wprawdze nasi krajanie, ale nie mielimy praktycznie nic wspólnego z t¹ bandyck¹ zbieranin¹.
+
+Na odchodnym ostrzegli nas, abymy nie wchodzili im w drogê.
+</text>
+      </lang>
+    </block>
+    <block id="prinz">
+      <lang code="GER">
+        <text>	
+An einer malerischen Burgruine trafen wir auf einen Prinzen aus dem Volk der Normannen, der vor sich hinträumte. 
+
+"Die Welt hat keine schönere Prinzessin gesehen, als die Tochter des Frankenkönigs... Warum nur ist ihr Vater so verstockt und stimmt einer Heirat nicht zu?... 
+
+Oh Reisende!", so sprach er uns mit flehenden Worten an, "Könntet ihr mir nicht helfen und Julia einen Brief zukommen lassen? Mir selbst ist dies unmöglich..."
+
+
+Bringe den Brief zur Prinzessin. Sie wartet in einem Hain am nördlichen Ende von Paris, jener großen Frankenstadt im Südosten.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>	
+Close to a picturesque castle ruin, we met a prince of the Norman people, daydreaming. 
+
+"The world has seen no princess more beautiful than the Frankish King's daughter ... Why must her father be so obstinate, and so against our union? 
+
+Oh travellers!" he begged us, "will you help me, and take this letter to Juliet? I cannot go myself ..."
+
+
+Take the letter to the princess. She's waiting in the flowery grove in the north of Paris, the great Frankish city in the south-east.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+W pobli¿u malowniczej ruiny napotkalimy ni¹cego na jawie ksiêcia Normanów.
+
+"wiat nie widzia³ istoty piêkniejszej od córki króla Franków... Dlaczegó¿ to jej ojciec tak bardzo siê upiera? Dlaczego tak bardzo siê sprzeciwia naszemu zwi¹zkowi?
+
+Zacni podró¿nicy! Czy pomo¿ecie mi i zaniesiecie jej ten list? Mnie nie dopuszcz¹ przed jej oblicze..."
+
+
+Dostarcz list ksiê¿niczce. Znajdziesz j¹ w ukwieconym zagajniku na pó³noc od Pary¿a, wielkiego frankijskiego miasta na po³udniowym wschodzie.
+</text>
+      </lang>
+    </block>
+    <block id="prinzessin">
+      <lang code="GER">
+        <text>                                                                                           
+In einem Blumenhain trafen wir auf eine fränkische Prinzessin. Diese schien sehr traurig zu sein und tat uns folgende Bitte auf: "Seit geraumer Zeit liebe ich den Sohn eines normannischen Königs, nur leider ist es uns nicht gestattet, uns öffentlich zu treffen, und seit kurzem ist es mir vollends unmöglich, ihn zu sehen!
+ 
+Mein Vater will nichts von unserer Liebe wissen und untersagt mir jeglichen Kontakt. Könntet ihr nicht meinem geliebten Romeo eine Nachricht zukommen lassen?"
+
+
+Bringe den Brief zum Prinzen. Er hält sich westlich von Ratingen auf, jener großen Normannenstadt im Südwesten.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>                                                                                           
+In a flowery grove we encountered a Frankish princess. She appeared very sad and voiced this request, "For a long time now I have loved the son of a Norman King, but we are not permitted to meet in public, and for some time now I have not been able to see him at all!
+ 
+My father refuses to hear of our love and has forbidden us to communicate. Could you take a message to my beloved Romeo?"
+
+
+Take the letter to the prince. He's to the west of Ratingen, the large Norman city in the south-west.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+W ukwieconym zagajniku spotkalimy frankijsk¹ ksiê¿niczkê. Wydawa³a siê byæ bardzo smutna... "Od d³u¿szego ju¿ czasu kocham syna normañskiego w³adcy, nie wolno nam siê jednak spotykaæ publicznie, a od pewnego czasu w ogóle nie uda³o mi siê z nim zobaczyæ!
+
+Mój ojciec nie przyjmuje do wiadomoci naszej mi³oci i zabroni³ nam siê kontaktowaæ. Czy mo¿ecie dostarczyæ wiadomoæ mojemu ukochanemu?"
+
+
+Dostarcz list ksiêciu. Znajdziesz go na zachód od Ratyzbony, du¿ej normañskiej osady na po³udniowym zachodzie.
+</text>
+      </lang>
+    </block>
+    <block id="schmied">
+      <lang code="GER">
+        <text>
+HINWEIS
+
+Der Erzabbauer hat nun genügend Erfahrung und könnte ein Schmied werden. Dazu benötigt er als Arbeitsstätte eine Schmiede, um dort aus Eisen und Holz Eisenwerkzeug und später auch Eisenspeere und Kurzschwerter herzustellen.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+NOTE
+
+The ore miner is experienced enough to become a blacksmith. He needs a smithy to produce iron tools and later iron spears and shortswords using iron and wood.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+UWAGA
+
+Wiking pozyskuj¹cy do tej pory rudê nabra³ doæ dowiadczenia w obchodzeniu siê z ni¹, aby zaj¹æ siê teraz kowalstwem. Jeli wybudujesz mu odpowiednie miejsce pracy, to za pomoc¹ drewna i rudy bêdzie produkowa³ ¿elazne narzêdzia, a póniej tak¿e ¿elazne w³ócznie i krótkie miecze.
+</text>
+      </lang>
+    </block>
+    <block id="schmied2">
+      <lang code="GER">
+        <text>
+HINWEIS
+
+Der Schmied hat nun genügend Erfahrung und könnte auch Langschwerter herstellen. Die Schmiede müsste dazu ausgebaut werden. 
+
+Später kann er noch die Fähigkeit lernen, Kettenhemden oder sogar Plattenrüstungen herzustellen.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+NOTE
+
+The blacksmith is experienced enough to produce longswords. This requires you to upgrade the smithy. 
+
+He will later be able to learn to produce chain mail and even plate armour.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+UWAGA
+
+Twój kowal mo¿e ju¿ produkowaæ d³ugie miecze, o ile zapewnisz mu odpowiednie warunki pracy.
+
+Dziêki rozbudowie jego warsztatu bêdziesz potem móg³ otrzymywaæ równie¿ kolczugi, a nawet zbroje p³ytowe.
+</text>
+      </lang>
+    </block>
+    <block id="schreinerei">
+      <lang code="GER">
+        <text>
+HINWEIS
+
+Dein Holzabbauer hat nun genügend Erfahrung und könnte ein Schreiner werden. Dazu benötigt er als Arbeitsstätte eine Schreinerei, um aus dem gefällten Holz Holzwerkzeuge herzustellen.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+NOTE
+
+Your woodcutter is experienced enough to become a carpenter. He needs a carpenter's workshop in order to produce wooden tools.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+UWAGA
+
+Drwal ma ju¿ doæ dowiadczenia, aby zaj¹æ siê ciesielk¹ - jeli zatrudnisz go w warsztacie narzêdziowym, to bêdzie móg³ produkowaæ drewniane narzêdzia.
+</text>
+      </lang>
+    </block>
+    <block id="schreinerei2">
+      <lang code="GER">
+        <text>
+HINWEIS
+
+Der Schreiner hat nun genügend Erfahrung bei der Herstellung von Holzwerkzeugen erlangt und könnte auch Möbel herstellen. Die Schreinerei müsste dazu ausgebaut werden.
+ 
+Hat er dann in der Möbelherstellung genug Erfahrung gesammelt, wird er sogar Holzspeere herstellen können. 
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+NOTE
+
+The carpenter has gained enough experience at toolmaking to produce furniture. This requires an upgrade of the carpenter's workshop.
+ 
+Once he has gained enough experience at making furniture, he will even be able to make wooden spears. 
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+UWAGA
+
+Ciela zdoby³ ju¿ doæ dowiadczenia, aby przerzuciæ siê na produkcjê mebli, musisz jednak wpierw rozbudowaæ jego warsztat.
+
+Gdy i meble nie bêd¹ przed nim mia³y ¿adnych tajemnic, bêdzie siê móg³ zaj¹æ produkcj¹ drewnianych w³óczni.
+</text>
+      </lang>
+    </block>
+    <block id="schreinerei3">
+      <lang code="GER">
+        <text>
+HINWEIS
+
+Der Schreiner hat nun genügend Erfahrung gesammelt, um auch Handkarren herzustellen. Die Schreinerei muss dazu ein weiteres Mal ausgebaut werden. 
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+NOTE
+
+The carpenter has gained enough experience to produce handcarts. This requires you to upgrade the carpenter's workshop once more. 
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+UWAGA
+
+Ciela ma ju¿ dowiadczenie upowa¿niaj¹ce go do zajêcia siê produkcj¹ taczek, musisz jednak wpierw rozbudowaæ jego warsztat.
+</text>
+      </lang>
+    </block>
+    <block id="schreinerei4">
+      <lang code="GER">
+        <text>
+HINWEIS
+
+Der Schreiner hat nun genügend Erfahrung gesammelt und könnte auch Ochsenkarren herstellen. Die Schreinerei müsste dazu aber noch ein weiteres Mal ausgebaut werden. 
+
+Später kann der Schreiner sogar Handelsschiffe herstellen.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+NOTE
+
+The carpenter has gained enough experience to produce ox carts. This requires you to upgrade the carpenter's workshop once more. 
+
+The carpenter will later be able to construct merchant ships.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+UWAGA
+
+Ciela jest ju¿ tak dowiadczony, ¿e mo¿e zaj¹æ siê budow¹ du¿ych wozów przeznaczonych do ci¹gniêcia przez wo³y. Niestety, najpierw musisz jeszcze raz rozbudowaæ jego miejsce pracy...
+
+Dalszy wzrost dowiadczenia tego Wikinga umo¿liwi mu z czasem zajêcie siê produkcj¹ statków handlowych.
+</text>
+      </lang>
+    </block>
+    <block id="spielertot">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Du hast versagt! Deine Wikinger hatten auf dich vertraut und du hast sie im Stich gelassen. An Odins Tafel wird kein Platz für dich sein!
+</text>
+      </lang>
+      <lang code="ENG">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+You've failed! Your Vikings trusted you and you've let them down! There will be no place for you at Odin's table!
+</text>
+      </lang>
+      <lang code="POL">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Nie powiod³o ci siê! Twoi Wikingowie ci zaufali, a ty ich zawiod³e! Nie znajdzie siê dla ciebie miejsce przy stole Odyna!
+</text>
+      </lang>
+    </block>
+    <block id="spielertot2">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Widerwillig folgten deine Wikinger dem Befehl, ihre ehemaligen Freunde anzugreifen. Zu spät! Entsetzt musst du feststellen, dass du nun niemals die Mission erfüllen kannst!
+</text>
+      </lang>
+      <lang code="ENG">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Grudgingly, your Vikings followed your orders and attacked their former friends. Too late! You discover in horror that you cannot complete the mission now!
+</text>
+      </lang>
+      <lang code="POL">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Twoi ludzie z niechêci¹ podporz¹dkowali siê rozkazom i zaatakowali dawnych przyjació³. Za póno! Z przera¿eniem orientujesz siê, ¿e teraz nie mo¿esz ju¿ wykonaæ swojej misji!
+</text>
+      </lang>
+    </block>
+    <block id="spielertot3">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Tapfer schlugen sich die überrumpelten Gegner, doch schließlich waren sie unterlegen. Als deine Männer plündernd durch die rauchenden Ruinen ziehen, wird dir bewusst, dass dir die anderen Völker in diesem Land niemals mehr vertrauen werden.
+</text>
+      </lang>
+      <lang code="ENG">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Taken unawares, the enemies fought bravely, but at last they were defeated. As your men plunder the smoking ruins, you suddenly realise that no one will ever trust you again in this country.
+</text>
+      </lang>
+      <lang code="POL">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Wróg walczy³ dzielnie, ale zaskoczony nie móg³ siê broniæ wiecznie i w koñcu uleg³. Twoi ludzie pl¹druj¹ dymi¹ce zgliszcza, a ty nagle orientujesz siê, ¿e to ju¿ koniec - nikt ci ju¿ nigdy nie zaufa w tym kraju!
+</text>
+      </lang>
+    </block>
+    <block id="start_00">
+      <lang code="GER">
+        <text>
+Gefahrvoll und stürmisch war unsere Fahrt nach Süden, und mehr als einmal entkamen wir nur knapp dem Verderben. Aber die Götter schienen wohlwollend über unsere Reise zu wachen, und so erreichten wir endlich nach langer Irrfahrt die Küste des Frankenreiches. 
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+Our voyage south was perilous and stormy, and more than once we were lucky to escape alive. But the gods seemed to look favourably on us, and so, after a long odyssey, we reached the coast of the Frankish Empire. 
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Nasza podró¿ na po³udnie by³a niebezpieczna. Wiele razy mielimy szczêcie ujæ z ¿yciem z potê¿nych burz - Aegir nam jednak sprzyja³. Po d³ugiej wyprawie dotarlimy na wybrze¿e pañstwa Franków.
+</text>
+      </lang>
+    </block>
+    <block id="start_01">
+      <lang code="GER">
+        <text>
+Unser Schiff war schwer beschädigt, aber das Land, das sich vor uns auftat, war fruchtbar und waldig - ein idealer Platz zum Jagen und Aufstocken unsere Vorräte, die wir fast vollständig aufgebraucht hatten.
+
+
+Erkunde die Gegend und kümmere dich um Nahrung für deine Wikinger. 
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+Our vessel was badly damaged, but the land ahead was fertile and wooded, an ideal place to hunt and stock up on our provisions, which had almost been depleted.
+
+
+Explore the area and provide food for your Vikings. 
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Nasz okrêt by³ powa¿nie uszkodzony, ale kraina, w której wyl¹dowalimy by³a ¿yzna i poroniêta lasami obiecuj¹cymi wielk¹ obfitoæ zwierzyny - idealne miejsce do polowania i uzupe³nienia naszych bêd¹cych na wyczerpaniu zapasów.
+
+
+Zbadaj okolicê i zdob¹d ¿ywnoæ dla swoich ludzi.
+</text>
+      </lang>
+    </block>
+    <block id="steinmetz">
+      <lang code="GER">
+        <text>
+HINWEIS
+
+Der Steinabbauer hat nun genügend Erfahrung und könnte als Steinmetz arbeiten. Dazu benötigt er als Arbeitsstätte eine Steinmetzhütte. Dort kann er dann aus dem Bruchstein behauenen Stein herstellen.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+NOTE
+
+Your stonecutter is experienced enough to become a stonemason. He needs a stonemason's workshop in order to turn quarrystone into hewn stone.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+UWAGA
+
+Wiking pozyskuj¹cy kamieñ ma ju¿ doæ dowiadczenia, aby zaj¹æ siê obróbk¹ tego surowca w warsztacie kamieniarskim.
+</text>
+      </lang>
+    </block>
+    <block id="steinmetz2">
+      <lang code="GER">
+        <text>
+HINWEIS
+
+Dein Steinmetz hat nun genügend Erfahrung und die Steinmetzhütte ist schon fast zu klein für seine Waren. 
+
+Ein Ausbau der Steinmetzhütte wäre sinnvoll. Um aus Bruchstein Marmor herzustellen, braucht der Steinmetz  als Arbeitsstätte eine Steinmetzhütte 2. Für den Ausbau der Steinmetzhütte benötigst du jedoch Kacheln, die nur in einer Töpferei 2 hergestellt werden können.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+NOTE
+
+Your stonemason is very experienced and his workshop is almost too small for his goods. 
+
+You should upgrade the stonemason's workshop. To make marble out of quarrystone, your stonemason requires a stonemason's workshop 2. However, upgrading the stonemason's workshop requires the use of tiles which can only be produced in a pottery 2.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+UWAGA
+
+Twój kamieniarz jest ju¿ bardzo dowiadczony w swojej pracy, a jego warsztat ledwo mieci produkowane dobra.
+
+Dobrym pomys³em wydaje siê rozbudowa warsztatu kamieniarskiego w polerski, co umo¿liwi kamieniarzowi produkcjê marmuru. Rozbudowa taka jest jednak niemo¿liwa bez dachówek produkowanych z wykorzystaniem odpowiedniego pieca...
+</text>
+      </lang>
+    </block>
+    <block id="substart">
+      <lang code="GER">
+        <text>
+Wir erreichten den Eingang zum Tal von St. Pierre. Nun mussten wir nur noch die Prinzessin heil und gesund zur Abtei bringen. 
+
+Das klang leicht, doch ich hatte ein ungutes Gefühl! Als wir durch die dunkle Klamm zum Tal marschierten, lag eindeutig Ärger in der Luft.
+
+
+Geleite die Prinzessin sicher zur Abtei von St. Pierre.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+We reached the entrance to the valley of St. Pierre. All we had to do now was escort the princess safely to the abbey.
+
+It sounded simple enough, but I had a bad feeling about it! As we marched through the dark space, I sensed trouble ahead.
+
+
+Escort the princess safely to the abbey of St. Pierre.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Stanêlimy u wejcia do doliny St. Pierre. Wystarczy³o teraz bezpiecznie odstawiæ ksiê¿niczkê do opactwa.
+
+Wydawa³o siê to proste, ale co mi tu nie pasowa³o. W czasie marszu przez ciemnoæ nie mog³em siê pozbyæ wra¿enia, ¿e czekaj¹ nas k³opoty.
+
+
+Odstaw ksiê¿niczkê do opactwa St. Pierre.
+</text>
+      </lang>
+    </block>
+    <block id="tankred">
+      <lang code="GER">
+        <text>
+Als wir die räuberischen Wikinger angriffen, erreichte uns plötzlich die Nachricht, das in unserem Rücken der Frankenfürst Tankred gegen uns vorrückte. 
+
+Dieser Schuft hatte also die ganze Zeit die Plünderungen begünstigt, um sich persönlich zu bereichern und er war es auch gewesen, der uns im Tal von St Pierre aufgelauert hatte! 
+
+Wir mussten einfach siegen! Der König musste von diesem feigen Verrat erfahren!
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+As we attacked the pillaging Vikings, news reached us that Frankish lord Tankred was approaching from behind. 
+
+So the villain had been furthering the plundering all along to increase his own riches, and he had ambushed us in the valley of St. Pierre! 
+
+We simply had to win! The King would have to learn of this cowardly treason!
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Szykowalimy siê w³anie do ataku na wikiñskich bandytów, gdy dotar³y do nas informacje o zbli¿aniu siê do naszych ty³ów frankijskiej armii pod wodz¹ lorda Tankreda.
+
+Tak wiêc to ten ³otr wspiera³ pl¹druj¹cych najedców, aby zwiêkszyæ w³asn¹ fortunê i to on zorganizowa³ zasadzkê, w któr¹ wpadlimy w dolinie St. Pierre!
+
+Teraz nie mielimy wyboru - musielimy zwyciê¿yæ! Król Franków musia³ siê dowiedzieæ o tej potwornej zdradzie!
+</text>
+      </lang>
+    </block>
+    <block id="tributzahlung">
+      <lang code="GER">
+        <text>
+Wir hatten mit großer Mühe die hohe Tributforderung aufgebracht, wonach die plündernden Wikinger versprachen, das Land zu verlassen. Ohne großes Blutvergießen auf beiden Seiten hatten wir durch unsere Tributzahlung das Frankenreich von den räuberischen Wikingern befreit und einen Krieg verhindert!
+
+Sichtlich erfreut über die gute Beute, die sie durch uns gemacht hatten, verrieten sie uns, dass der Frankenfürst Tankred sie bisher mit Waffen beliefert hatte. 
+
+Er hatte also die ganze Zeit die Plünderungen begünstigt, um sich persönlich zu bereichern und er war es auch gewesen, der uns im Tal von St Pierre aufgelauert hatte! Der König würde von diesem feigen Verrat erfahren und der Verräter würde seiner gerechten Strafe nicht entrinnen können!
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+We had collected the tribute with great trouble, and the pillaging Vikings promised to leave the country. Without much bloodshed, our tribute had freed the Frankish Empire from the villainous Vikings, and prevented the war!
+
+Clearly delighted with the excellent haul we had provided, they told us that the Frankish Lord Tankred had kept them supplied with weaponry. 
+
+So the villain had been furthering the plundering all along to increase his own riches, and he had ambushed us in the valley of St. Pierre! The King would know of this heinous treachery, and the traitor would not escape punishment!
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+Z trudem zebralimy trybut, jakiego ¿¹dali najedcy. Obiecali opuciæ ten kraj - uratowalimy go praktycznie bez rozlewu krwi!
+
+Najedcy okazali siê wyj¹tkowo rozmowni, gdy ju¿ dobrali siê do trybutu. Dowiedzielimy siê miêdzy innymi, ¿e przez ca³y czas w uzbrojenie zaopatrywa³ ich frankijski lord Tankred!
+
+Tak wiêc to ten ³otr wspiera³ najazdy, aby zwiêkszyæ w³asn¹ fortunê i to on zorganizowa³ zasadzkê, w któr¹ wpadlimy w dolinie St. Pierre! Król dowie siê o tej potwornej zdradzie, a sam zdrajca nie ujdzie s³usznej pomcie!
+</text>
+      </lang>
+    </block>
+    <block id="töpferei">
+      <lang code="GER">
+        <text>
+HINWEIS
+
+Dein Lehmabbauer hat nun genügend Erfahrung und könnte ein Töpfer werden. Dazu benötigt er als Arbeitsstätte eine Töpferei. Dort kann er als erstes Backsteine herstellen, die als Bauwaren dringend benötigt werden.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+NOTE
+
+Your clay-worker is experienced enough to become a potter. He needs a pottery where he can produce bricks to be used as building materials.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+UWAGA
+
+Wiking pozyskuj¹cy glinê ma ju¿ doæ dowiadczenia, aby zaj¹æ siê produkcj¹ budulca - cegie³ - przy pomocy odpowiedniego pieca.
+</text>
+      </lang>
+    </block>
+    <block id="töpferei2">
+      <lang code="GER">
+        <text>
+HINWEIS
+
+Der Töpfer hat nun genügend Erfahrung bei der Herstellung von Backsteinen für deine Wikinger erlangt und könnte nun auch Ziegel herstellen. 
+
+Diese brauchst du zum Bau von Gebäuden, die anstatt der Strohdächer gedeckte Dächer haben. 
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+NOTE
+
+The potter has gained enough experience at making bricks for your Vikings, and is now able to produce tiles. 
+
+Tiles are required in order to build houses that have tiled roofs rather than thatched ones. 
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+UWAGA
+
+Twój robotnik nabra³ ju¿ du¿ego dowiadczenia w produkcji cegie³ i mo¿e siê przerzuciæ na wypalanie dachówek.
+
+Umo¿liwi¹ one budowê domostw i zak³adów, dla których kryte s³om¹ dachy to za ma³o.
+</text>
+      </lang>
+    </block>
+    <block id="töpferei3">
+      <lang code="GER">
+        <text>
+HINWEIS
+
+Der Töpfer hat nun genügend Erfahrung bei der Herstellung von Ziegel erlangt und könnte nun auch Geschirr herstellen. Dazu muss die Töpferei ein weiteres Mal ausgebaut werden. 
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+NOTE
+
+The potter has gained enough experience at making tiles to produce crockery. This requires you to upgrade the pottery once more. 
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+UWAGA
+
+Dowiadczenie robotnika pracuj¹cego z glin¹ wzros³o ju¿ do poziomu umo¿liwiaj¹cego mu przestawienie siê na produkcjê naczyñ - musisz mu tylko najpierw stworzyæ ku temu odpowiednie warunki.
+</text>
+      </lang>
+    </block>
+    <block id="wikidorf">
+      <lang code="GER">
+        <text>
+RATINGEN
+
+Unweit der Küste trafen wir auf Landsleute aus dem Norden, die sich hier bereits vor geraumer Zeit niedergelassen hatten. Von den Franken wurden sie Normannen genannt und das Land, das sie besiedelt hatten, Normandie. 
+
+Als wir ihnen versicherten, in friedlicher Absicht gekommen zu sein, luden sie uns sofort herzlich ein, mit ihnen Handel zu treiben, warnten uns aber gleichzeitig vor anderen Wikingern, die plündernd und raubend immer wieder dieses Land überfielen.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+RATINGEN
+
+Not far from the shore we came upon a group of fellow countrymen from the north, who had settled here a long time ago. The Franks called them "Normans", and the land they inhabited "Normandy". 
+
+Once we had assured them that our intentions were peaceful, they heartily invited us to trade with them, but also warned us of other Vikings who frequently fell upon this land, pillaging and plundering.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+RATYZBONA
+
+Niedaleko od brzegu napotkalimy osadê naszych pobratymców z pó³nocy. Osiedlili siê tu ju¿ dawno temu; Frankowie nazywaj¹ ich Normanami, a krainê, któr¹ zamieszkuj¹ - Normandi¹.
+
+Zapewnilimy ich, ¿e przybywamy w pokoju. Zaprosili nas do udzia³u w wymianie handlowej, ale i ostrzegli przed najazdami innych wikiñskich plemion, które czêsto pl¹drowa³y i niszczy³y okoliczne ziemie.
+</text>
+      </lang>
+    </block>
+    <block id="won">
+      <lang code="GER">
+        <text>
+GEWONNEN! Der Sieg war unser!
+
+Zusammen mit unseren normannischen Freunden hatten wir den mächtigen Gegner besiegt und die räuberischen Wikinger aus dem Land vertrieben. 
+
+Tankred, der verräterische Frankenfürst, hatte sein wahres Gesicht gezeigt und würde nun seiner gerechten Strafe nicht entrinnen können.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+WE WON! Victory was ours!
+
+Together with our Norman friends, we had defeated the mighty enemy and driven the pillaging Vikings from the land. 
+
+Tankred, the traitorous Frankish lord, had shown his true colours and would not be able to escape punishment.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+WYGRALIMY! Zwyciêstwo jest nasze!
+
+Wraz z normañskimi przyjació³mi zdo³alimy pokonaæ potê¿nego przeciwnika i wygnaæ wikiñskich najedców z tej okolicy.
+
+Tankred, zdradziecki wielmo¿a, pokaza³ swoj¹ prawdziw¹ naturê i nie umknie d³ugiemu ramieniu sprawiedliwoci!
+</text>
+      </lang>
+    </block>
+    <block id="wölfe">
+      <lang code="GER">
+        <text>
+GEFAHR!
+
+Ein wildes Knurren und Heulen tönte an den Strand - Wölfe! Wilde Bestien, die alles angriffen, was ihnen in den Weg kam.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+DANGER!
+
+Wild growling and howling echoed down to the beach - wolves! Ferocious beasts that would attack anything that got in their way.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+NIEBEZPIECZEÑSTWO!
+
+Na pla¿ê sp³ywaj¹ echa dzikich pomruków i posêpnych wyæ. To wilki, grone bestie, które zaatakuj¹ ka¿dego, kto im wejdzie w drogê!
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

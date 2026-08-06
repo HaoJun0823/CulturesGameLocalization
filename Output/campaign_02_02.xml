@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_02_02" export_map_id="campaign_02_02" map_md5="1f6e266dd038230a506b267444eab4ca" IsC2M="false">
+  <languages>
+    <language code="GER" alias="GER" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="GER">Ziehe entlang des Tales und baue dort ein eigenes Dorf auf.</text>
+    </string>
+    <string id="1">
+      <text lang="GER">Reiche dem Dorf 15 Wasser und 10 Kuchen zum Tribut.</text>
+    </string>
+    <string id="2">
+      <text lang="GER">Zahle 20 Nahrung Tribut, wenn du die Sarazenen neutral stimmen willst. (Du musst den Sarazenen erst einen Besuch abstatten, damit sie dir den Tribut anbieten!)</text>
+    </string>
+    <string id="3">
+      <text lang="GER">Zahle 10 Met Tribut, wenn du mit den Sarazenen Handel treiben willst.</text>
+    </string>
+    <string id="4">
+      <text lang="GER">Folge Ykol zu den geheimnisvollen Katakomben von Schumsali.</text>
+    </string>
+    <string id="5">
+      <text lang="GER">Finde das Dorf der Sarazenenflüchtlinge!</text>
+    </string>
+    <string id="6">
+      <text lang="GER">@Hilf dem Dorf in seiner Hungersnot und finde dann den Eingang zu den geheimnisvollen Katakomben von Schumsali.</text>
+    </string>
+    <string id="7">
+      <text lang="GER">Besuche die Sarazenen im Nordosten, vielleicht lassen sie sich auf einen Tribut ein? Aber sei vorsichtig!</text>
+    </string>
+    <string id="8">
+      <text lang="GER">Suche den Eingang zu den geheimnisvollen Katakomben nördlich des Gebirges.</text>
+    </string>
+    <string id="32">
+      <text lang="GER">Zahle 20 Nahrung Tribut, wenn du die Sarazenen neutral stimmen willst.</text>
+    </string>
+    <string id="33">
+      <text lang="GER">Zahle 10 Met Tribut, wenn du mit den Sarazenen Handel treiben willst.</text>
+    </string>
+    <string id="34">
+      <text lang="GER">Reiche Hatschis Nachbarn 15 Wasser und 10 Kuchen zum Tribut.</text>
+    </string>
+    <string id="50">
+      <text lang="GER">Bjarnis Stamm</text>
+    </string>
+    <string id="51">
+      <text lang="GER">Verlassenes Dorf</text>
+    </string>
+    <string id="52">
+      <text lang="GER">Sarazenen</text>
+    </string>
+    <string id="53">
+      <text lang="GER">Byzantiner</text>
+    </string>
+    <string id="54">
+      <text lang="GER">Hatschis Nachbarn</text>
+    </string>
+    <string id="55">
+      <text lang="GER">Schlangenkrieger</text>
+    </string>
+    <string id="56">
+      <text lang="GER">Nachbarn</text>
+    </string>
+    <string id="71">
+      <text lang="GER">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="GER">Cyra</text>
+    </string>
+    <string id="73">
+      <text lang="GER">Hatschi</text>
+    </string>
+    <string id="75">
+      <text lang="GER">Ykol</text>
+    </string>
+    <string id="98">
+      <text lang="GER">Die Schlangenwesen sind kein regionales Problem, sondern tauchen in ganz Arabien auf! Das Land leidet als Folge davon an einer großen Hungersnot...</text>
+    </string>
+    <string id="99">
+      <text lang="GER">DIE GROSSE HUNGERSNOT</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="GER">
+        <text> 
+Dieses Dorf, zu dem uns Ykol ursprünglich führte, stand schon lange leer. Aber nachdem wir die Schlangenplage etwas zurückgedrängt hatten, sammelten sich Sarazenennomaden aus der Umgebung, um das Dorf wiederzubeleben. Vor einer Talenge trennten sich unsere Wege, denn der Eingang zu unserem nächsten Ziel - den sagenumwobenen Katakomben - war uns noch nicht bekannt... 
+</text>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="GER">
+        <text> 
+So widmete sich Ykol weiter seinen Nachforschungen und wollte uns alsbald Nachricht geben. Wir erhielten indes den Hilferuf eines mit Hatschi befreundeten Volkes, das nicht mehr in der Lage war, sich selbst zu verpflegen. 
+Die Schlangenplage war längst kein regionales Problem mehr. Auch in diesem Gebiet breitete sich aufgrund der Plage eine große Hungersnot aus. Aber zu knapp bemessen waren unsere Vorräte, um viel abgeben zu können. Erst mussten wir einen geeigneten Siedelplatz finden, um dem Dorf Hilfe zu leisten. Also machten sich unsere Dorfbewohner auf den Weg...
+
+Ziehe entlang des Tales und baue dort ein eigenes Dorf auf. Aber zuvor öffne die Kisten und statte deine Soldaten mit den Tränken aus!
+</text>
+      </lang>
+    </block>
+    <block id="01_informant_seen">
+      <lang code="GER">
+        <text> 
+DER ALTE MANN
+
+"Oh, es sind Reisende unter euch, die sich in diesem kargen Gebiet nicht auskennen. Geht entlang dieses Tales und ihr werdet ein weites, fruchtbares Tal finden. Dort könnt ihr euer Lager aufschlagen..."
+
+"Und ihr Kundschafter: vergesst nicht, Wegweiser zu bauen!"
+</text>
+      </lang>
+    </block>
+    <block id="02_Tal_erreicht">
+      <lang code="GER">
+        <text> 
+DAS TAL
+
+Ein weites, fruchtbares Tal breitete sich vor unseren Augen aus. Hier konnten wir unser Lager aufschlagen und uns der Verpflegung des Dorfes widmen. Die Waren in unseren Hand- und Ochsenkarren konnten wir gut für den Anfang gebrauchen...
+
+Baue dein Dorf auf. Benutze dazu die Waren aus den Hand- und Ochsenkarren!
+</text>
+      </lang>
+    </block>
+    <block id="03_flüchtlinge">
+      <lang code="GER">
+        <text> 
+FLÜCHTLINGE
+
+Halb verhungert und mit eingefallenen Gesichtern kamen uns diese Flüchtlingen aus dem Dorf entgegen...  Zu lange hatten sie durch die Schlangenkreaturen Hunger leiden müssen, die sie schlussendlich dazu gebracht hatten, ihr Dorfes zu verlassen. 
+Ihr Weg war voller Gefahren gewesen! Aber ihre Augen waren voller Hoffnung, als sie von uns aufgenommen wurden und wir ihnen rasche Hilfe anboten. 
+
+Bringe dem Dorf südwestlich von dir die gewünschten Nahungsmittel! 
+</text>
+      </lang>
+    </block>
+    <block id="04_Angriffswelle">
+      <lang code="GER">
+        <text> 
+Mit einem ohrenbetäubenden Zischen fielen diese unheimlichen Schlangenwesen auch in diesem Landstrich über uns herein. Ob wir dieser Attacke standhalten konnten? 
+</text>
+      </lang>
+    </block>
+    <block id="07">
+      <lang code="GER" />
+    </block>
+    <block id="08_player_3_seen_byzantine">
+      <lang code="GER">
+        <text> 
+Auf der anderen Seite der labyrinthartigen warteten einige Vorposten eines Forts feindlicher Byzantiner. Diese vereidigten ihr Gebiet und waren um nichts auf der Welt freundlich zu stimmen. 
+</text>
+      </lang>
+    </block>
+    <block id="09_player_4_seen_sarazene">
+      <lang code="GER">
+        <text> 
+Als wir auf das Dorf, von dem uns Hatschi berichtete, trafen, wurden wir freundlich empfangen. Zu lange hatten diese armen Menschen Hunger leiden müssen. Nun wollten wir ihnen zur Seite stehen.
+
+Hilf dem Dorf seine Hungersnot zu überstehen, indem du ihnen Wasser und Kuchen zum Tribut reichst.
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="10_handel_player_4">
+      <lang code="GER">
+        <text> 
+Als wir dem Dorf die Nahrungsmittel überbrachten, waren sie überglücklich und zeigten sich äußerst dankbar.
+
+Wir wären jederzeit wieder willkommen, ließ man uns wissen und man bot uns die günstigen Handelsverträge an. 
+</text>
+      </lang>
+    </block>
+    <block id="11_informant">
+      <lang code="GER">
+        <text> 
+DER ALTE MANN
+
+"Vorsicht! Die Sarazenen hinter dieser Schlucht sind so ausgehungert, dass sie nicht einmal ihre eigenen Landsleute in Frieden passieren lassen!" sprach er uns an. "Vielleicht könnt ihr sie aber durch ein oder zwei Tributzahlungen besänftigen..."
+
+Zahle den Sarazenen 20 Nahrung Tribut, um sie neutral zu stimmen und weitere 10 Met, um mit ihnen Handel zu treiben. Du musst den Sarazenen aber erst einen Besuch abstatten, damit sie dir den Tribut anbieten!
+</text>
+      </lang>
+    </block>
+    <block id="12_player_2_seen_sarazene">
+      <lang code="GER">
+        <text> 
+Diesen Sarazenen war der Hunger ins Gesicht geschrieben! Kein Wunder, dass sie so aggressiv auf jeden Reisenden und Mit-Esser reagierten. Wir sollten sie meiden, wenn wir keine Bekanntschaft mit ihre Pfeile machen wollten!
+
+Vielleicht konnten wir sie mit einen Nahrungstribut besänftigen?
+</text>
+      </lang>
+    </block>
+    <block id="13_tribut1">
+      <lang code="GER">
+        <text> 
+Als wir den Sarazenen den Tribut überbrachten, legten sie ihre Waffen gegen uns nieder. 
+
+Doch warnten sie uns: Sollten wir böses im Schilde führen, oder uns gar an ihren Vorräten vergreifen, würde sich ihre neutrale Haltung wieder in eine feindliche kehren. Vielleicht sollten wir ihnen als Zeichen unseres guten Willens einen weiteren Tribut überbringen?
+</text>
+      </lang>
+    </block>
+    <block id="14_tribut2">
+      <lang code="GER">
+        <text> 
+Als wir den Sarazenen den Tribut überbrachten, waren sie uns alsbald freundlicher gesinnt. 
+
+Zwar misstrauten sie immer noch unseren guten Absichten, aber sie machten uns dennoch einige eigenwillige Handelsangebote.
+</text>
+      </lang>
+    </block>
+    <block id="15_Ykol">
+      <lang code="GER">
+        <text> 
+YKOL
+
+"Meine Freunde, ihr habt es zwar geschafft, eines der Dörfer vor dem Hungertod zu bewahren, aber es gibt bereits drei neue Probleme. Und auch die Schlangenplage ist nur vorübergehend gebannt, denn diese Biester werden wiederkehren!"
+
+Er berichtete uns von seinen Nachforschungen in alten arabischen Bibliotheken und dass er dort einen Hinweis auf die Gewölbe von Schumsali gefunden hatte, die sich hinter dem nördlichen Berg befanden. 
+"In ihnen hält sich ein mächtiger Geist auf." sprach Ykol. 
+Den Weg dorthin konnten wir über den Westweg nehmen, wo wir uns gegen zahlreiche Feinde unserer Haut erwehren mussten, oder wir versuchten den Ostweg, auf dem weniger Gefahren auf uns lauerten. 
+
+Welchen Weg wir wählen würden, lag ganz bei uns...
+
+Ykol würde uns führen, wenn die Sarazenen im Nordosten uns gegenüber neutral oder freundlich gesinnt wären...
+</text>
+      </lang>
+    </block>
+    <block id="16_dungeon_erreicht">
+      <lang code="GER">
+        <text> 
+DIE GEWÖLBE
+
+Endlich! Wir hatten das Portal zu den Gewölben von Schumsali erreicht. All unsere Hoffnungen stützten sich auf Ykols Nachforschungen, die uns bis hier her brachten. Im Inneren der Gewölbe wollte er uns erzählen, warum ein mächtiger Geist uns bei unserer Aufgabe helfen musste...
+Hatten wir doch bisher alle Gefahren durch unsere Tapferkeit, Stärke und unseren Mut bestehen können...
+
+Wir waren sehr gespannt...
+</text>
+      </lang>
+    </block>
+    <block id="17_lost">
+      <lang code="GER">
+        <text> 
+MISSION VERLOREN!
+
+Oh je! Ein ganzes Volk fiel den Schlangenwesen zum Opfer! Deinen Wikingern ist es nicht gelungen, der Plage standzuhalten...    
+</text>
+      </lang>
+    </block>
+    <block id="18_lost">
+      <lang code="GER">
+        <text> 
+MISSION VERLOREN!
+
+Oh je! Ein ganzes Volk wurde von der Hungersnot dahingerafft! Deinen Wikingern ist es nicht gelungen, dem Volk die nötige Unterstützung zu leisten...    
+</text>
+      </lang>
+    </block>
+    <block id="19">
+      <lang code="GER">
+        <text> 
+YKOL
+
+"Mir nach, meine Freunde! Der friedliche Weg zu den Katakomben ist gebahnt!" 
+</text>
+      </lang>
+    </block>
+    <block id="200">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin Cyra erlag durch deine Unachtsamkeit! Ohne diese Heldin wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="300">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Hatschi erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
+</text>
+      </lang>
+    </block>
+    <block id="500">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Ykol erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="GER">
+        <text> 
+Mit Hilfe des Flaschengeistes war es uns gelungen, die Schlangenplage und die Hungersnot zu bekämpfen und so ließen wir die geheimnisvollen Katakomben von Schumsali hinter uns... 
+</text>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="GER">
+        <text> 
+Die beunruhigenden Geschehnisse der letzten Zeit, die aus unserer Sicht nur durch dunkle Magie verursacht sein konnten, konnten auch nur durch Magie wieder behoben werden. Es erschreckte uns, dass all unsere menschliche Kraft und unser Mut hier nicht bestehen konnten... 
+
+Ykol schlug mir vor, meiner geliebten Cyra das "Herz des Odin" als Zeichen meiner Zuneigung zu überreichen. Wer hätte es mehr verdient, ein Amulett der Götter zu tragen?  
+</text>
+      </lang>
+    </block>
+    <block id="50_endheader">
+      <lang code="GER">
+        <text> 
+
+MISSION GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="GER">
+        <text> 
+
+DIE GROSSE HUNGERSNOT
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

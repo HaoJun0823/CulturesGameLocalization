@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_03_05" export_map_id="campaign_03_05" map_md5="4c6a0c7c6ddac526aef2b2e78ebcae91" IsC2M="false">
+  <languages>
+    <language code="GER" alias="GER" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="GER">@ERRICHTE DEN ARTEMIS TEMPEL ZU EPHESOS.</text>
+    </string>
+    <string id="1">
+      <text lang="GER">Baue eine kleine Siedlung auf.</text>
+    </string>
+    <string id="2">
+      <text lang="GER">Gehe zum Tempelbauplatz.</text>
+    </string>
+    <string id="3">
+      <text lang="GER">Suche eine Möglichkeit den Sumpf zurückzudrängen und den Tempelbauplatz zu befestigen.</text>
+    </string>
+    <string id="4">
+      <text lang="GER">Bringe 127 Marmorsäulen zum Tempelbauplatz.</text>
+    </string>
+    <string id="5">
+      <text lang="GER">Zahle dem Hafenvolk 15 Eisenwerkzeuge zum Tribut.</text>
+    </string>
+    <string id="6">
+      <text lang="GER">Gib den Soldaten 15 Met zum Tribut für ihre Unterstützung.</text>
+    </string>
+    <string id="7">
+      <text lang="GER">Suche Amelia.</text>
+    </string>
+    <string id="8">
+      <text lang="GER">Bringe Amelia zu ihren Eltern.</text>
+    </string>
+    <string id="9">
+      <text lang="GER">Finde Herostrates den Jüngeren und stecke ihn in das Verlies.</text>
+    </string>
+    <string id="10">
+      <text lang="GER">Zahle dem Händler 15 Schalen Honig zum Tribut.</text>
+    </string>
+    <string id="11">
+      <text lang="GER">Gehe mit deinen Helden zu dem geheimen Eingang in den Bergen!</text>
+    </string>
+    <string id="12">
+      <text lang="GER">Gehe mit deinen Helden in den Sumpf zu den Sumpfweisen!</text>
+    </string>
+    <string id="14">
+      <text lang="GER">Gehe mit deinen Helden zurück zu dem Artemis-Tempel!</text>
+    </string>
+    <string id="15">
+      <text lang="GER">Gib den Soldaten des Generals nochmals 50 Met für ihre Unterstützung.</text>
+    </string>
+    <string id="20">
+      <text lang="GER">Marmorsäulen %d/127</text>
+    </string>
+    <string id="21">
+      <text lang="GER">Waren geliefert</text>
+    </string>
+    <string id="51">
+      <text lang="GER">Ephesos</text>
+    </string>
+    <string id="52">
+      <text lang="GER">Hafenvolk </text>
+    </string>
+    <string id="53">
+      <text lang="GER">Händler</text>
+    </string>
+    <string id="54">
+      <text lang="GER">Sarazenen</text>
+    </string>
+    <string id="55">
+      <text lang="GER">Herostrates Erben</text>
+    </string>
+    <string id="61">
+      <text lang="GER">Ephes.</text>
+    </string>
+    <string id="62">
+      <text lang="GER">Hafenv.</text>
+    </string>
+    <string id="63">
+      <text lang="GER">Händler</text>
+    </string>
+    <string id="64">
+      <text lang="GER">Saraz.</text>
+    </string>
+    <string id="65">
+      <text lang="GER">Erben</text>
+    </string>
+    <string id="71">
+      <text lang="GER">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="GER">Cyra</text>
+    </string>
+    <string id="73">
+      <text lang="GER">Hatschi</text>
+    </string>
+    <string id="74">
+      <text lang="GER">Sigurd</text>
+    </string>
+    <string id="75">
+      <text lang="GER">Norbert</text>
+    </string>
+    <string id="76">
+      <text lang="GER">Mani</text>
+    </string>
+    <string id="78">
+      <text lang="GER">Amelia</text>
+    </string>
+    <string id="79">
+      <text lang="GER">Hermeias</text>
+    </string>
+    <string id="80">
+      <text lang="GER">Der General</text>
+    </string>
+    <string id="98">
+      <text lang="GER">Das Bau des Artemis Tempels zu Ephesos wird durch eine Schaar Brandstifter - die Erben Herostrates - bedroht und von ansteigendem Sumpfgelände gefährdet...</text>
+    </string>
+    <string id="99">
+      <text lang="GER">DER TEMPEL DER ARTEMIS </text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="GER">
+        <text> 
+Hier in Ephesos sollte der größte Tempel der Antike bis zum Artemisfest im April wieder errichtet werden! Und die Bauarbeiten dafür waren bereits in vollem Gange. Das konnte uns unseren Auftrag erleichtern. So mussten wir nicht alleine diese schwere Aufgabe erledigen.
+
+</text>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="GER">
+        <text> 
+Die Menschen von Ephesos hatten den Tempel schon fast fertig errichtet, aber ihnen machte das ansteigende Sumpfgelände zu schaffen. Nichts desto trotz sollte der Bau so schnell wie möglich fertig werden, damit wir anschließend bei der Errichtung der Zeusstatue des Phidias in Olympia helfen konnten. 
+
+Folge der mächtigen Straße nach Norden zur Baustelle des Artemis-Tempels. Dort erhältst du nähere Anweisungen.
+</text>
+      </lang>
+    </block>
+    <block id="01">
+      <lang code="GER">
+        <text> 
+DIE BÜRGER VON EPHESOS
+
+"Seid gegrüßt! Wir haben euch schon erwartet. Es ist wirklich schrecklich mit diesen Brandstiftern. Es wird Zeit, dass ihnen jemand das Handwerk legt!"
+</text>
+      </lang>
+    </block>
+    <block id="02">
+      <lang code="GER">
+        <text> 
+BAUPLATZ DES ARTEMIS TEMPELS
+
+"Oh je, dabei war der Bau schon so vorangeschritten, beinahe fertig gestellt!" trauerten die fleißigen Bauarbeiter von Ephesos. 
+
+</text>
+        <usericon>1,269,121</usericon>
+        <text>
+
+"Es wird Jahre dauern, den Tempel wieder zu errichten, denn uns fehlen die Marmorsäulen dazu!"
+
+Baue, wenn nötig, mehrere Lagerhäuser um den Tempelbauplatz und liefere 127 Marmorsäulen! 
+
+Dazu kam noch die Ausbreitung des Sumpfes:
+
+"Allein ein Balken wiegt 20 Tonnen und selbst wenn die Göttin Artemis persönlich ihn an die richtige Stelle hebt - der sumpfige Boden wird ihm nicht mehr standhalten." sprach der Architekt. "Wir müssen die Ausbreitung des Sumpfes verhindern, wenn hier dieses wichtige Monument wieder errichtet werden soll!"
+
+
+Suche eine Möglichkeit, den Sumpf zurückzudrängen und den Tempelbauplatz zu befestigen.
+</text>
+      </lang>
+    </block>
+    <block id="03">
+      <lang code="GER">
+        <text> 
+100 MARMORSÄULEN
+
+Der lydische König Krösus der Jüngere spendet 100 Marmorsäulen für die Errichtung des Artemistempels. 
+</text>
+      </lang>
+    </block>
+    <block id="04">
+      <lang code="GER">
+        <text> 
+WAREN GELIEFERT
+
+Wir hatten die benötigten Waren am Bauplatz abgeliefert. Der Tempelbau dauerte von diesem Zeitpunkt an nicht mehr lange. 
+
+</text>
+        <usericon>1,269,121</usericon>
+      </lang>
+    </block>
+    <block id="05">
+      <lang code="GER">
+        <text> 
+ALLE HAUPTMISSIONSZIELE ERFÜLLT!
+
+Wir hatten sowohl Herostrates den Jüngeren gefangen genommen, die Ausbreitung des Sumpfes verhindert, als auch die erforderlichen Bauwaren geliefert. Der Vollendung des Tempels stand nun nichts mehr im Weg!
+
+Suche mit deinen Helden den Tempelplatz auf, um dich vom ordnungsgemäßen Bau zu überzeugen! 
+</text>
+      </lang>
+    </block>
+    <block id="06">
+      <lang code="GER">
+        <text> 
+BEFESTIGUNG DES TEMPELBAUPLATZES
+
+Die Erben Herostrates hatten wir verbannt und durch Zauberhand konnte die Natur für eine Zeit lang zurückgehalten werden, bevor sie erneut ihren Tribut fordern und der Tempel wieder im Sumpf versinken würde...
+
+... die Tempelarbeiten konnten endlich beginnen!
+</text>
+      </lang>
+    </block>
+    <block id="07">
+      <lang code="GER">
+        <text> 
+DIE ERBEN HEROSTRATES
+
+Oh je! Der Bau des Tempels war bedroht! Eine Scharr Brandstifter, die ERBEN HEROSTRATES, fielen über ihn her und entfachten ein Feuer, dem dieser Bau nicht standhalten konnte!
+
+</text>
+        <usericon>1,258,128</usericon>
+        <text>
+
+Angeführt wurden sie von Herostrates dem Jüngeren. Dessen Urahn Herostratos hatte den alten Tempel damals schon völlig niedergebrannt, mit dem krankhaften Ehrgeiz, Berühmtheit zu erfahren! Seine "Jünger" verfolgen nun das gleiche Ziel und werden die Baustelle des Tempels stetig wieder angreifen. 
+
+Die Angriffe werden erst dann enden, nachdem man Herostrates den Jüngeren gefunden und in einem Verlies in Verwahrung genommen hat, so dass er keine weiteren Menschen anstiften kann.
+
+Finde Herostrates den Jüngeren und sperre ihn in ein Verlies! 
+</text>
+      </lang>
+    </block>
+    <block id="08">
+      <lang code="GER">
+        <text> 
+Nur vier tapfere Helden sollten diesen Ort betreten, wenn sie den Auftrag dazu erhalten! 
+</text>
+      </lang>
+    </block>
+    <block id="09">
+      <lang code="GER">
+        <text> 
+HAFENVOLK
+
+Als wir die Küste erforschten, kamen uns Bewohner eines kleinen Hafendorfes entgegen. Sie waren uns weder Freund noch Feind. 
+
+</text>
+        <usericon>1,146,352</usericon>
+        <text>
+
+Sie hörten von unseren guten Eisenwerkzeugen. Auch wenn sie schon sehr abgenutzt waren, wollten sie gerne ein paar Exemplare davon für sich haben! 
+
+Reiche dem Hafenvolk ein paar Eisenwerkzeuge zum Tribut und sie werden dir ihre Handelsangebote offerieren! 
+</text>
+      </lang>
+    </block>
+    <block id="10">
+      <lang code="GER">
+        <text> 
+TRIBUT AN HAFENVOLK ÜBERREICHT!
+
+Wir hatten dem Hafenvolk die Werkzeuge zum Tribut überreicht und sie wechselten ihre Haltung zu uns augenblicklich. 
+
+</text>
+        <usericon>1,146,352</usericon>
+        <text>
+
+Ihre Freude war darüber sogar so groß, dass sie uns überaus günstige Handelsangebote machten. 
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="11">
+      <lang code="GER">
+        <text> 
+SARARZENENSTADT
+
+Als wir die Wüste erforschten, kamen uns die Bewohner einer Stadt entgegen. Sie waren uns überaus freundlich gesonnen.
+
+</text>
+        <usericon>1,398,28</usericon>
+        <text>
+
+Leider lag große Trauer über diesem Volk, da ein alter und geachteter Mann der Stadt seit einigen Tagen seine Tochter vermisste. Wir beschlossen, ihn aufzusuchen... 
+
+Suche Hermeias! 
+</text>
+      </lang>
+    </block>
+    <block id="12">
+      <lang code="GER">
+        <text> 
+HERMEIAS
+
+"Oh meine arme Tochter! Sie wollte nur ein paar seltene Pflanzen sammeln und hat sich dabei bestimmt in dem Wald südwestlich von hier verlaufen... oder ihr ist gar Schreckliches passiert..."
+
+</text>
+        <usericon>2,9</usericon>
+        <text>
+
+"Könnt ihr sie nicht zurückbringen? Meine Beine sind schon alt und schwer. Es würde Tage dauern, bis ich sie erreicht habe."
+
+Suche Hermeias Tochter Amelia!
+</text>
+      </lang>
+    </block>
+    <block id="13">
+      <lang code="GER">
+        <text> 
+HERMEIAS
+
+"Oh meine Tochter! Ihr habt sie gefunden! Ich werde dem lydischen König vorsprechen, damit er euch bei eurer Mission unterstützt!"
+
+</text>
+        <usericon>2,9</usericon>
+      </lang>
+    </block>
+    <block id="14">
+      <lang code="GER">
+        <text> 
+AMELIA
+
+"Oh, mein Vater wird sich sicher schon große Sorgen um mich machen! Könntet ihr mich zu ihm zurück begleiten? Ich möchte mich nicht noch einmal verlaufen!"
+
+</text>
+        <usericon>2,8</usericon>
+        <text>
+
+Begleite Amelia zurück zu ihrem Vater!
+</text>
+      </lang>
+    </block>
+    <block id="15">
+      <lang code="GER">
+        <text> 
+HÄNDLER
+
+Als wir die Küste erforschten, begegnete uns ein Handelsvolk. Sie waren uns weder Freund noch Feind und wollten mit uns nur nach einem Tribut Handel treiben und uns ein Geschenk überreichen.
+
+</text>
+        <usericon>1,184,439</usericon>
+        <text>
+
+Reiche dem Händlern ein paar Schalen Honig zum Tribut und sie werden dir ihre Handelsangebote offerieren und dir ein Geschenk überreichen! 
+</text>
+      </lang>
+    </block>
+    <block id="16">
+      <lang code="GER">
+        <text> 
+HÄNDLER
+
+Wir hatten den Händlern den Tribut überreicht und sie übergaben uns zum Dank 30 der begehrten Marmorsäulen...
+
+</text>
+        <usericon>1,186,443</usericon>
+        <text>
+
+...und boten sich günstige Handelsverträge an.
+</text>
+      </lang>
+    </block>
+    <block id="17">
+      <lang code="GER">
+        <text> 
+DER ALTE MANN
+
+"Der Sumpf ist heimtückisch, und gefährliche Tiere treiben dort ihr Unwesen. Aber wollt ihr zu den Sumpfweisen, dann folgt den Weg nach Nordosten!" sagte der alte Mann. 
+
+</text>
+        <usericon>1,251,59</usericon>
+        <text>
+
+Dann verschwand er wieder im Nebel, ebenso plötzlich, wie er gekommen war... 
+</text>
+      </lang>
+    </block>
+    <block id="18">
+      <lang code="GER">
+        <text> 
+DER ALTE MANN
+
+"Ein nettes Mädchen kam vor Tagen den Weg entlang und wollte zum Wald im Westen. Ich hab sie den Weg nicht zurückkommen sehen... 
+
+</text>
+        <usericon>1,121,288</usericon>
+        <text>
+
+Hoffentlich ist ihr nichts passiert..." sagte der alte Mann. 
+Dann verschwand er wieder im Nebel, ebenso plötzlich, wie er gekommen war...
+</text>
+      </lang>
+    </block>
+    <block id="19">
+      <lang code="GER">
+        <text> 
+DER ALTE MANN
+
+</text>
+        <usericon>1,243,386</usericon>
+        <text>
+
+"Ein Händlervolk hat sich weiter im Süden niedergelassen. Sind sie dir erst einmal freundlich gesinnt, sind ihre Gaben und Handelsangebote sehr großzügig!" sagte der alte Mann. 
+Dann verschwand er wieder im Nebel, ebenso plötzlich, wie er gekommen war...
+</text>
+      </lang>
+    </block>
+    <block id="20">
+      <lang code="GER">
+        <text> 
+DER GENERAL VON EPHESOS
+
+"Seid gegrüßt, Fremde! Was die Erben Herostrates da immer wieder mit unseren Tempel anstellen, ist nicht zu fassen!" 
+
+</text>
+        <usericon>2,10</usericon>
+        <text>
+
+"Ich rüste meine Soldaten für den Ernstfall. Bisher sind sie doch sehr ängstlich und scheuen die Feuerleger. Doch mit ein bisschen Met von euch werden sie bestimmt mutig und können ein Ablenkungsmanöver starten. Der Eingang in das Berglager wäre dann frei. Und dann könnten so tapfere Helden, wie ihr es seid, Herostrates bestimmt das Handwerk legen!"
+
+Zahle, wenn du willst, den Tribut für das Ablenkungsmanöver.
+</text>
+      </lang>
+    </block>
+    <block id="200">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="21">
+      <lang code="GER">
+        <text> 
+TRIBUT AN GENERAL VON EPHESOS BEZAHLT!
+
+</text>
+        <usericon>2,10</usericon>
+        <text>
+
+"Euer Met gibt meinen Männern den Mut, den sie brauchen. Nun kann uns nichts mehr halten und wir werden das Ablenkungsmanöver augenblicklich starten! Ihr könnt so vielleicht unbeschadet von Westen über die Brücke zum Eingang des Berges gelangen."
+
+"Falls euch diese Hilfe nicht genug ist, könnt ihr uns erneut einen Tribut leisten. Wir werden dann alle uns zur Verfügung stehenden Mittel einsetzen! Darauf gebe ich euch mein Wort!"
+</text>
+      </lang>
+    </block>
+    <block id="22">
+      <lang code="GER">
+        <text> 
+EPHESER BEKÄMPFEN HEROSTRATOS ERBEN!
+
+</text>
+        <usericon>1,197,104</usericon>
+        <text>
+
+Die Armee des Generals trat den Brandstiftern unerschrocken entgegen. Diese konnten ihnen kaum etwas anhaben!
+</text>
+      </lang>
+    </block>
+    <block id="23">
+      <lang code="GER">
+        <text> 
+HATSCHI GEHT AUF ERKUNDUNGSTOUR!
+
+</text>
+        <usericon>2,3</usericon>
+        <text>
+
+Hatschi beschloss, sich das Gebiet oberhalb des Tempels genauer anzuschauen. 
+</text>
+      </lang>
+    </block>
+    <block id="24">
+      <lang code="GER">
+        <text> 
+MANI und NORBERT sind nun groß genug und sollten an den Abenteuern der Helden teilnehmen!
+
+</text>
+        <usericon>2,5</usericon>
+      </lang>
+    </block>
+    <block id="25">
+      <lang code="GER">
+        <text> 
+DIE ERBEN HEROSTRATES
+
+Dies war die Feste der Erben Herostrates. In dem Bergmassiv sollte sich ein geheimer Eingang befinden, wo sich Herostrates selbst verborgen hielt!
+
+</text>
+        <usericon>1,143,43</usericon>
+        <text>
+
+Gehe mit ALLEN deinen Helden zum Eingang in den Bergen! 
+</text>
+      </lang>
+    </block>
+    <block id="26">
+      <lang code="GER">
+        <text> 
+WAREN GELIEFERT
+
+Wir hatten die benötigten Waren am Bauplatz abgeliefert. Doch der Tempelbau konnte noch nicht beginnen. 
+
+</text>
+        <usericon>1,269,121</usericon>
+        <text>
+
+Wir mussten zuvor den BEIDEN anderen Aufgaben nachgehen: die Verhinderung der Ausbreitung des Sumpfes, sowie die Abwendung der Brandstifterischaaren der Erben Herostrates! 
+
+Die Bauarbeiter von Ephesos nahmen die Waren in ihre Obhut, wollten aber erst mit dem Bau fortfahren, wenn beide Gefahren gebannt waren...
+</text>
+      </lang>
+    </block>
+    <block id="27">
+      <lang code="GER">
+        <text> 
+TRIBUT AN GENERAL VON EPHESOS BEZAHLT!
+
+</text>
+        <usericon>2,10</usericon>
+        <text>
+
+"Euer Met und euer Geld ist Lohn genug für meine Armee. Wir werden bis auf den letzen Mann kämpfen!" 
+</text>
+      </lang>
+    </block>
+    <block id="400">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held SIGURD erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="500">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="GER">
+        <text> 
+Da stand er nun in seiner vollen Schönheit! Der größte Tempel der antiken Zeit erstrahlte wieder in neuem Glanze! Wir konnten wirklich stolz auf uns sein! 
+
+Trotz der vielen Hindernisse hatten wir es geschafft, den Tempel rechtzeitig zum Artemisfest im April fertig zu stellen!
+</text>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="GER">
+        <text> 
+Weder der Brandstifter Herostrates mit seinen Jüngern, noch die Ausbreitung des Sumpfes oder das schwere Beschaffen der erforderlichen Bauwaren hatte uns von unserem Vorhaben abbringen können. 
+
+Doch verweilten wir nicht lange, denn unser Blick streifte gen Westen.
+Dort musste das Sechste der Antiken Weltwunder wieder ins Leben gerufen werden...
+</text>
+      </lang>
+    </block>
+    <block id="50_endheader">
+      <lang code="GER">
+        <text> 
+MISSION GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="600">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="GER">
+        <text> 
+DER ARTEMIS-TEMPEL IN EPHESOS
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

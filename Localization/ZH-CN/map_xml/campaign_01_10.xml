@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_01_10" export_map_id="campaign_01_10" map_md5="194858897ca2b4b7d2c007ce0d57c808" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">抵达巴格达。</text>
+      <text lang="eng">Reach Baghdad.</text>
+      <text lang="ger">Erreiche Bagdad.</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">寻找此地东面的盗贼。</text>
+      <text lang="eng">Find the thief to the east.</text>
+      <text lang="ger">Finde den Dieb östlich von hier.</text>
+    </string>
+    <string id="2">
+      <text lang="CHN">将你的部下从塞壬的魅惑中解救出来。</text>
+      <text lang="eng">Free your men from the spell of the sirens.</text>
+      <text lang="ger">Befreie deine Männer aus dem Bann der Sirenen.</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">派遣希拉去对付塞壬。</text>
+      <text lang="eng">Send Cyra to the sirens.</text>
+      <text lang="ger">Schicke Cyra zu den Sirenen.</text>
+    </string>
+    <string id="4">
+      <text lang="CHN">寻找戈拉梅迪斯的号角。</text>
+      <text lang="eng">Find the horn of Golamedis.</text>
+      <text lang="ger">Finde das Horn des Golamedis.</text>
+    </string>
+    <string id="5">
+      <text lang="CHN">前往巴格达南面港口的辛巴达处。</text>
+      <text lang="eng">Go to Sindbad at the harbour in the south of Baghdad.</text>
+      <text lang="ger">Gehe zu Sindbad am Hafen südlich von Bagdad.</text>
+    </string>
+    <string id="6">
+      <text lang="CHN">与全部四位英雄一同抵达宝藏神殿。</text>
+      <text lang="eng">Go to the treasure temple with all FOUR heroes.</text>
+      <text lang="ger">Gelange mit allen VIER Helden zum Schatztempel.</text>
+    </string>
+    <string id="7">
+      <text lang="CHN">向东前往赏金猎人处。</text>
+      <text lang="eng">Go to the bounty hunters in the east.</text>
+      <text lang="ger">Gehe nach Osten zu den Kopfgeldjägern.</text>
+    </string>
+    <string id="8">
+      <text lang="CHN">向游牧民缴纳 15 份大型治疗药剂作贡金。</text>
+      <text lang="eng">Pay the nomads a tribute of 15 large healing potions.</text>
+      <text lang="ger">Zahle den Nomaden 15 große Heiltränke Tribut.</text>
+    </string>
+    <string id="9">
+      <text lang="CHN">搜查赏金猎人的营地。</text>
+      <text lang="eng">Search the bounty hunters' camp.</text>
+      <text lang="ger">Durchsuche das Lager der Kopfgeldjäger.</text>
+    </string>
+    <string id="10">
+      <text lang="CHN">与哈奇一同前往宝藏神殿。</text>
+      <text lang="eng">Go to the treasure temple with Hatchie.</text>
+      <text lang="ger">Gehe mit Hatschi zum Schatztempel.</text>
+    </string>
+    <string id="21">
+      <text lang="CHN">缴纳 15 份大型治疗药剂作贡金。</text>
+      <text lang="eng">Pay a tribute of 15 large healing potions.</text>
+      <text lang="ger">Zahle 15 große Heiltränke Tribut.</text>
+    </string>
+    <string id="50">
+      <text lang="CHN">比雅尼的村庄</text>
+      <text lang="eng">Bjarni's Village</text>
+      <text lang="ger">Bjarnis Dorf</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">撒拉逊村庄</text>
+      <text lang="eng">Saracen Village</text>
+      <text lang="ger">Sarazenen Dorf</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">巴格达</text>
+      <text lang="eng">Baghdad</text>
+      <text lang="ger">Bagdad</text>
+    </string>
+    <string id="53">
+      <text lang="CHN">强盗</text>
+      <text lang="eng">Thief</text>
+      <text lang="ger">Räuber</text>
+    </string>
+    <string id="54">
+      <text lang="CHN">赏金猎人</text>
+      <text lang="eng">Bounty Hunter</text>
+      <text lang="ger">Kopfgeldjäger</text>
+    </string>
+    <string id="55">
+      <text lang="CHN">哈奇</text>
+      <text lang="eng">Hatchie</text>
+      <text lang="ger">Hatschi</text>
+    </string>
+    <string id="56">
+      <text lang="CHN">港口民</text>
+      <text lang="eng">Harbour People</text>
+      <text lang="ger">Hafenvolk</text>
+    </string>
+    <string id="57">
+      <text lang="CHN">人民阵线</text>
+      <text lang="eng">The People's Front</text>
+      <text lang="ger">Volksfront</text>
+    </string>
+    <string id="61">
+      <text lang="CHN">村庄</text>
+      <text lang="eng">Village</text>
+      <text lang="ger">Dorf</text>
+    </string>
+    <string id="64">
+      <text lang="CHN">赏金猎人</text>
+      <text lang="eng">Bounty Hunter</text>
+      <text lang="ger">Kopfgeldjäger</text>
+    </string>
+    <string id="66">
+      <text lang="CHN">港口民</text>
+      <text lang="eng">Harbour People</text>
+      <text lang="ger">Hafenvolk</text>
+    </string>
+    <string id="67">
+      <text lang="CHN">人民阵线</text>
+      <text lang="eng">People's Front</text>
+      <text lang="ger">Volksfront</text>
+    </string>
+    <string id="98">
+      <text lang="CHN">这座传说之城巴格达，在底格里斯河谷中于维京人眼前铺展开来。诸多传说都述及其如童话般的美丽，却无一能及其实……</text>
+      <text lang="eng">The Vikings see the legendary city of Baghdad sprawling in the Tigris valley below. Many of their legends describe the magical beauty of Sarkland, but what they see takes their breath away ...</text>
+      <text lang="ger">Die sagenumwobene Stadt Bagdad breitete sich vor den Wikingern im Tal des Tigris aus. Viele ihrer Legenden erzählten von der märchenhaften Schönheit Särklands, doch keine wurde ihr gerecht...</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">巴格达</text>
+      <text lang="eng">BAGHDAD</text>
+      <text lang="ger">BAGDAD</text>
+    </string>
+    <string id="100">
+      <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+    <string id="101">
+      <text lang="CHN">哈奇</text>
+      <text lang="eng">Hatchie</text>
+      <text lang="ger">Hatschi</text>
+    </string>
+    <string id="102">
+      <text lang="CHN">希拉</text>
+      <text lang="eng">Cyra</text>
+      <text lang="ger">Cyra</text>
+    </string>
+    <string id="103">
+      <text lang="CHN">西格德</text>
+      <text lang="eng">Sigurd</text>
+      <text lang="ger">Sigurd</text>
+    </string>
+    <string id="104">
+      <text lang="CHN">辛巴达</text>
+      <text lang="eng">Sindbad</text>
+      <text lang="ger">Sindbad</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="12">
+      <lang code="CHN">
+        <text>
+这些在沙漠中生活的游牧民，似乎是赏金猎人。我们的箭雨在他们靠近时朝我们倾泻而下！
+
+他们到底隐藏着什么秘密？
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+These nomads in the desert seemed to be bounty hunters. Their arrows showered down upon us when we dared approach them! 
+
+What might their dark secret be?
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Diese in der Wüste lebenden Nomaden schienen Kopfgeldjäger zu sein. Ihre Pfeile prasselten auf uns hernieder als wir uns in ihre Nähe wagten! 
+
+Was mochte ihr dunkles Geheimnis sein?
+</text>
+      </lang>
+    </block>
+    <block id="13">
+      <lang code="CHN">
+        <text>
+
+再向南行，我们遇见撒拉逊人，待我们极热诚。
+
+他们传话：随时欢迎，并即刻提出优厚贸易条约。
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Further south we met Saracens who gave us a warm welcome. 
+
+They told us we would be welcome any time and offered us favourable trade contracts.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Etwas weiter im Süden trafen wir auf Sarazenen, die uns herzlich empfingen. 
+
+Wir wären jederzeit willkommen, ließ man uns wissen und sogleich bot man uns günstige Handelsverträge an.
+</text>
+      </lang>
+    </block>
+    <block id="14">
+      <lang code="CHN">
+        <text>
+
+更北远处住着撒拉逊人，绝非可轻侮之辈！
+
+他们立时向我们的斥候开火。
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Further north was a settlement of Saracens who would abide no opposition! 
+
+They opened fire on our scouts at once.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Etwas weiter entfernt im Norden siedelten Sarazenen, mit denen nicht zu spaßen war! 
+
+Sofort eröffneten sie das Feuer auf unsere Kundschafter.
+</text>
+      </lang>
+    </block>
+    <block id="15">
+      <lang code="CHN">
+        <text>
+
+在我们的营地之东，住着几名自号"巴格达人民阵线"的撒拉逊人。
+
+一伙颇为无害之辈……
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+East of our settlement lived some Saracens who called themselves "The People's Front of Baghdad".
+
+A harmless people ...
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Östlich von unseren Siedelplatz hatten sich ein paar Sarazenen niedergelassen, die sich "Die Volksfront von Bagdad" nannten. 
+
+Ein eher harmloses Völkchen...
+</text>
+      </lang>
+    </block>
+    <block id="16">
+      <lang code="CHN">
+        <text>
+
+你尚缺第四位、也是最后一位英雄，方能成此使命。你竟还未认出他？
+
+寻找盗贼哈奇。
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+The fourth and last hero of your vision is still lacking for the accomplishment of your mission. Have you not recognised him yet? 
+
+
+Find the thief Hatchie.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Der vierte und letzte Held deiner Vision fehlt dir zur Erfüllung dieser Mission. Hast du ihn etwa noch nicht erkannt? 
+
+
+Finde den Dieb Hatschi.
+</text>
+      </lang>
+    </block>
+    <block id="17">
+      <lang code="CHN">
+        <text>
+
+那神秘沙漠神庙终现眼前！
+
+幽谷中古老石砌望去便令人发毛。寂然无声，四野无人。
+
+当我们四人——西格德、希拉、我与神偷哈奇——终齐立于阴森入口前，决意独入幽深地穴。
+
+多亏哈奇，我们开了那厚重门扉上的暗锁，无他必败。继而我们潜入不祥的幽暗，其中怪啸嘶嘶……
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+There it was, right ahead: the mysterious desert temple! 
+
+The old walls were terrifying to look at. No sound could be heard, there was no living soul near or far in the enchanted valley. 
+
+When we four - Sigurd, Cyra, Hatchie and myself - stood together in front of the dark entrance, we decided to descend into the dark vaults on our own. 
+
+Thanks to Hatchie, we overcame the hidden lock at the massive portal, which we would never have been able to pass without him. Then we proceeded into the sinister darkness, where a strange hissing sound could be heard ...
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Da lag er nun vor uns, der geheimnisvolle Wüstentempel! 
+
+Unheimlich war es anzusehen, das alte Gemäuer in dem verwunschenen Talkessel. Kein Laut war zu hören, keine lebende Seele weit und breit. 
+
+Als wir vier endlich alle gemeinsam vor dem düsteren Eingang standen, Sigurd, Cyra, ich und Hatschi, der Meisterdieb, beschlossen wir, den Abstieg in die dunklen Gewölbe alleine zu wagen. 
+
+Dank Hatschi überwanden wir das verborgene Schloss am massiven Eingangsportal, an dem wir ohne ihn sicherlich gescheitert wären. Dann drangen wir in die unheilvolle Finsternis vor, die von seltsam zischelnden Geräuschen durchdrungen war...
+</text>
+      </lang>
+    </block>
+    <block id="18">
+      <lang code="CHN">
+        <text>
+
+"你竟敢攻击我们！"赏金猎者喝道。
+
+"你等绝非我对手，唯有我们才有资格领取哈里发为引渡囚犯所赏的酬金！"
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+"You dare to attack us!" the bounty hunters shouted.
+
+"You don't stand a chance against us, only we have a right to the Caliph's reward for handing over the prisoner!"
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+"Du wagst es, uns anzugreifen!", riefen die Kopfgeldjäger. 
+
+"Gegen uns hast du keine Chance, und nur wir haben Anrecht auf die Bezahlung des Kalifen für die Auslieferung des Gefangenen!"
+</text>
+      </lang>
+    </block>
+    <block id="19">
+      <lang code="CHN">
+        <text>
+
+线人
+
+"若有赏金猎人擒得那盗贼，定然欢喜，"线人向我们搭话，"若你等别无线索，不如东行。
+
+那里正居赏金猎人，必已循你盗贼之踪！"
+
+向东行。
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+THE INFORMER
+
+"There are bounty hunters who would be quite happy to catch the thief before you," the informer told us.
+
+"If you have no more clues, I would suggest you go east. There is the bounty hunters' base. They will have found your thief's trail already!"
+
+
+Go to the east.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+DER INFORMANT
+
+"Einige Kopfgeldjäger wären bestimmt nicht unerfreut, wenn sie den Dieb vor euch fassen würden", sprach der Informant uns an. 
+
+"Wenn ihr keine weitere Spur habt, so würde ich nach Osten gehen. Dort sind Kopfgeldjäger ansässig und haben bestimmt schon die Fährte zu eurem Dieb aufgenommen!"
+
+
+Gehe nach Osten.
+</text>
+      </lang>
+    </block>
+    <block id="20">
+      <lang code="CHN">
+        <text>
+
+这座港村如画般卧于河弯。
+
+在此我们备受欢迎。
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+The harbour village was a picturesque sight at the turn of a river. 
+
+We were received graciously.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Dieses Hafendorf lag malerisch in einer Flussbiegung. 
+
+Hier wurden wir freundlich empfangen.
+</text>
+      </lang>
+    </block>
+    <block id="Dena">
+      <lang code="CHN">
+        <text>
+
+塞壬奈何不得希拉，但你手下仍困于魅惑。
+
+唯传说中的戈拉梅迪司之角，能令塞壬暂默。然角在塞壬身后峡谷，唯有不畏塞壬、并经受沙漠雄狮考验之女子，方能取之……
+
+与希拉同寻戈拉梅迪司之角！
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+The sirens cannot do any harm to Cyra, but your men are still caught in their spell. 
+
+Only the legendary horn of Golamedis can silence the sirens for a certain time. But since the horn is in the ravine beyond the sirens, only a woman can find it, as she can resist the sirens and stand up to the lions of the desert ...
+
+
+Have Cyra seek the horn of Golamedis! 
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Die Sirenen können Cyra nichts anhaben, aber deine Männer sind weiter in ihrem Bann gefangen. 
+
+Nur das sagenhafte Horn Golamedis könnte die Sirenen eine Zeit lang verstummen lassen. Aber da sich das Horn in der Schlucht hinter den Sirenen befindet, kann nur eine Frau es finden, die den Sirenen standhält und sich gegen die Löwen der Wüste bewährt...
+
+
+Suche mit Cyra das Horn von Golamedis! 
+</text>
+      </lang>
+    </block>
+    <block id="Hatschi">
+      <lang code="CHN">
+        <text>
+
+深入赏金猎人营地，我们寻得那囚徒。他名哈奇，出人意料地聪慧可敬。
+
+篝火旁我们道出来历，他只了然颔首。言我们在此寻得他，或许是定数，是命运……他低语，陷入沉思。
+
+次日晨，哈里发使者至。他已知哈奇获救，遂交其使命：东北远处有迷谷，入者无一生还。
+
+谷尽头，依传说有座被诅咒的沙漠神庙，藏无尽珍宝与魔法奇物。
+唯神偷哈奇能入，我等当助之。
+
+与哈奇同寻东北方的神秘沙漠神庙。
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Deep in the camp of the bounty hunters we met a prisoner. His name was Hatchie, and contrary to all expectations he seemed to be a clever and honourable man. 
+
+At the campfire we told him our story and he nodded his head. He murmured that our finding him must have been "kismet" - fate - and fell into a pensive silence. 
+
+The next morning, messengers of the Caliph arrived. He had heard of Hatchie's rescue, and now had a task for him: Far in the north-east there was a mysterious valley nobody had ever returned from alive. 
+
+There were rumours that at the end of this valley stood an enchanted desert temple, where immeasurable wealth and enchanted treasures were to be found. 
+Only Hatchie, a master thief, would be able to enter there. It was our task to help him.
+
+
+Find the mysterious desert temple in the north-east with Hatchie.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Tief im Lager der Kopfgeldjäger trafen wir auf den Gefangenen. Sein Name war Hatschi und er schien wider Erwarten ein kluger und ehrenhafter Mann zu sein. 
+
+Am Lagerfeuer erzählten wir ihm unsere Geschichte und er nickte nur wissend mit dem Kopf. Dass wir ihn hier gefunden hätten, sei dann wohl Kismet gewesen, Schicksal... murmelte er und verfiel in nachdenkliches Schweigen. 
+
+Am nächsten Morgen trafen Boten des Kalifen ein. Er hatte von der Befreiung Hatschis erfahren und hatte nun einen Auftrag für ihn: Hoch im Nordosten gab es ein geheimnisvolles Tal, aus dem niemand mehr lebend zurückgekehrt war. 
+
+Am Ende dieses Tales lag der Sage nach ein verwunschener Wüstentempel, in dem es unermessliche Reichtümer und zauberkräftige Schätze gäbe. 
+Nur Hatschi als Meisterdieb konnte dort eindringen und wir sollten ihm dabei helfen.
+
+
+Suche zusammen mit Hatschi den geheimnisvollen Wüstentempel im Nordosten.
+</text>
+      </lang>
+    </block>
+    <block id="bann">
+      <lang code="CHN">
+        <text>
+
+我部正穿深岩谷，忽闻魅惑旋律。歌声蛊惑至深，令他们既不能劳作，亦失自主之志。
+
+他们已困于传说塞壬的魅惑之中！
+
+将你的手下从魅惑中解救。
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Our men were on their way through a deep mountain ravine, when they heard an enchanting melody. The singing was so bewitching that they were unable to proceed with their work, nor did they seem to possess a will of their own. 
+
+They were spellbound by the legendary sirens!
+
+
+Free your men from this spell.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Unsere Männer waren gerade unterwegs durch eine tiefe Felsenschlucht, als sie eine zauberhafte Melodie vernahmen. Der Gesang betörte sie so sehr, dass sie weder ihrer Arbeit nachgehen konnten, noch einen eigenen Willen zeigten. 
+
+Sie waren gefangen im Bann der sagenumwobenen Sirenen!
+
+
+Befreie deine Männer aus diesem Bann.
+</text>
+      </lang>
+    </block>
+    <block id="bjarnitot">
+      <lang code="CHN">
+        <text>
+
+任务失败！
+        
+        </text>
+        <text>
+
+英雄气概，还是鲁莽轻率？当比雅尼倒下，诸神也在恸哭……他们的命运已定，人类的末日随之降临。
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When Bjarni died the gods were crying ... their fate was sealed and with it the end of the human world.
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ihr Ende war besiegelt und mit ihnen das Ende der Welt der Menschen.
+</text>
+      </lang>
+    </block>
+    <block id="end_00">
+      <lang code="CHN">
+        <text>
+
+任务成功！
+        
+        </text>
+        <text>
+
+凭智谋我们制服守门者，潜入重防的沙漠神庙。盟友奋战英勇，而我新友哈奇尤显身手。
+
+见他力战，我恍然：唯他，而非他人，才是我幻象中的第三位英雄！
+
+既得最后地图碎片、幻象英雄尽聚，我们便可启程践诺。拼合碎片，认出通向我们须与四同伴迎最后挑战的维格里德墙之路。
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION SUCCESSFUL!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+It took a great deal of cunning to get past the guards and reach the heavily guarded desert temple. Our allies did well, especially our new friend Hatchie. 
+
+As I watched him fight, I realised that only he could be the third hero I had seen in my vision!
+
+Now that we had the last piece of the map and all the heroes of my vision had been united, we departed to fulfil the prophecy. We placed the pieces of the map together and saw the path that would lead us to Wigrid Wall, where our fellowship of four would face the final challenge. 
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION GEWONNEN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Mit List und Tücke konnten wir die Torwächter überwinden und so in den schwer bewachten Wüstentempel eindringen. Wacker schlugen sich dabei unsere Verbündeten, und als einer der Geschicktesten tat sich dabei unser neuer Freund Hatschi hervor. 
+
+Als ich ihn hier so kämpfen sah, wurde mir klar, dass nur er und niemand anderes der dritte Held aus meiner Vision sein konnte!
+
+Nun, da wir auch das letzte Kartenstück besaßen und alle Helden aus jener Vision beisammen waren, konnten wir aufbrechen, um die Prophezeiung zu erfüllen. Wir setzten die Bruchstücke der Karte zusammen und erkannten den Weg, der uns zu Wigrid Wall führte, wo wir vier Gefährten uns der letzten Herausforderung stellen mussten. 
+</text>
+      </lang>
+    </block>
+    <block id="end_01">
+      <lang code="CHN">
+        <text>
+
+在那海中孤岛，我们将与世界蛇相遇，迎战命运。
+
+我执起维兰的魔法剑——图勒的精灵王曾预言它终将助我——忧然望向未来……
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+There, on an isle amid a deep sea, we would encounter the Midgard serpent and fight a fateful battle. 
+
+I grasped Wieland's magic sword, which the Spirit King in Thule had said would serve me well, and turned anxiously to face the future ...
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Dort, auf dieser Insel mitten im Meer, würden wir auf die Midgardschlange treffen und uns unserem Schicksalskampf stellen. 
+
+Ich ergriff Wielands Zauberschwert, von dem der Geisterkönig in Thule vorhergesagt hatte, dass es mir noch hilfreich sein werde und blickte sorgenvoll in die Zukunft...
+</text>
+      </lang>
+    </block>
+    <block id="findedieb">
+      <lang code="CHN">
+        <text>
+
+一座奇绝如童话的宫殿现于眼前！金碧辉煌的大厅中，巴格达哈里发端坐宝座，向我们言道：
+
+"我久闻你们诺曼人之名，或肯相助。一狂徒盗贼在此作乱，实刺我眼。捕获他，我必重赏。若带不来，尔等项上人头不保！"
+
+寻找盗贼。从东边开始搜寻。
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+A wonderful, fairytale palace rose in front of us! The Caliph was seated on a precious throne in his golden and richly adorned hall, and spoke to us. 
+
+"I have heard much of you Nordic people, and I may be able to help you. A reckless thief is causing trouble hereabouts - he is a true thorn in my side. I will reward you well if you capture him. If you don't bring him to me, I'll have your head instead!"
+
+
+Find the thief. Start searching eastwards from here.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Ein wundersamer, märchenhafter Palast tat sich vor uns auf! In einer goldenen, reich verzierten Halle saß der Kalif von Bagdad auf seinen prächtigen Thron und sprach zu uns: 
+
+"Ich hab von euch Normannen schon viel gehört und vielleicht wäre ich bereit, euch zu helfen. Ein verwegener Dieb treibt in der Gegend sein Unwesen und ist mir ein Dorn im Auge. Für seine Ergreifung werde ich euch reich belohnen. Bringt ihr ihn mir nicht, so wird das euch euren Kopf kosten!"
+
+
+Finde den Dieb. Beginne mit deiner Suche östlich von hier.
+</text>
+      </lang>
+    </block>
+    <block id="hatschitot">
+      <lang code="CHN">
+        <text>
+
+任务失败！
+        
+        </text>
+        <text>
+
+你失败了！你幻象中那位撒拉逊之地的英雄已然殒命。你竟未曾认出他？！
+
+奥丁的宴席上，再没有你的位置。
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+You have failed! Death came upon the hero from the country of the Saracens. Did you not recognise him?? 
+
+There will be no place for you at Odin's table.
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Du hast versagt! Der Held aus dem Lande der Sarazenen aus deiner Vision erlag dem Tode. Hast Du ihn nicht erkannt?? 
+
+An Odins Tafel wird nun kein Platz mehr für dich sein.
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+
+巴格达
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+BAGHDAD
+
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+BAGDAD
+
+</text>
+      </lang>
+    </block>
+    <block id="heldtot">
+      <lang code="CHN">
+        <text>
+
+任务失败！
+        
+        </text>
+        <text>
+
+全完了！
+
+预言中的景象再无实现之日！尽管拼死抵抗，预言里的一位英雄仍被敌军优势兵力击倒！
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+This is the end! 
+
+The vision can never be fulfilled now! Despite a fierce fight, one of your heroes was overwhelmed by the enemy!
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Das ist das Ende! 
+
+Die Vision wird sich nun niemals erfüllen können! Trotz erbitterter Gegenwehr wurde einer der Helden von der Übermacht des Gegners überwältigt!
+</text>
+      </lang>
+    </block>
+    <block id="sindbad">
+      <lang code="CHN">
+        <text>
+
+港口处我们遇见航海家辛巴达。他远游四方，故事颇多，某次冒险中亦曾逢塞壬：
+
+"什么？又是她们？！那塞壬嚎个没完，真烦人！她们莫非无家、别无事做？唯有一法：派一坚强女子往塞壬处，因女子不似男子易为所惑！
+
+她当穿越其域，吹响传说中的戈拉梅迪司之角，便能将塞壬暂驱……"
+
+派希拉前往塞壬处。
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+At the harbour we met Sindbad the Sailor. He had many stories to tell of his long travels. On one of these adventures he had met the sirens as well. 
+
+"What? THEM again?! Their howling is really nerve-racking! Don't they have a home and something to do?! There is only one thing you can do: Send a strong woman to the sirens, as she will not be enchanted as easily! 
+
+She shall explore the area and blow the legendary horn of Golamedis - this will scare the sirens off for some time at least ..."
+
+
+Send Cyra to the sirens. 
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Am Hafen trafen wir Sindbad, den Seefahrer. Von seinen weiten Reisen wusste er viele Geschichten zu erzählen und war bei einem seiner Abenteuer auch bereits den Sirenen begegnet: 
+
+"Was? DIE schon wieder?! Die nerven, die Sirenen, mit ihrem Gejaule! Haben die kein zu Hause und nix anderes zu tun?! Da hilft nur eins: Schickt eine starke Frau zu den Sirenen, denn Frauen lassen sich nicht so leicht betören wie Männer! 
+
+Sie soll das Gebiet durchqueren und in das sagenhafte Horn von Golamedis blasen, das verscheucht die Sirenen für eine gewisse Zeit..."
+
+
+Schicke Cyra zu den Sirenen. 
+</text>
+      </lang>
+    </block>
+    <block id="sindbadvorsirenen">
+      <lang code="CHN">
+        <text>
+
+港口处我们遇见一位饱经风霜的老者。
+
+"哦，我看你们也是见多识广。嗯，我或还能助你们一臂……
+
+若在此地遇困，只管去寻航海家辛巴达。"
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+At the harbour we met an old weathered man. 
+
+"Oh, I see you come from far away. Well, I may be able to help you one day ... 
+
+So, if you ever have trouble in this area, just ask for Sindbad the Sailor."
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Am Hafen trafen wir auf einen wettergegerbten alten Mann. 
+
+"Oh, ich sehe, ihr seid ebenfalls weit herumgekommen. Nun, ich könnte für euch noch einmal nützlich sein... 
+
+Also falls ihr mal Probleme in diesem Landstrich bekommt, dann fragt einfach nach Sindbad, dem Seefahrer."
+</text>
+      </lang>
+    </block>
+    <block id="sirenenverscheucht">
+      <lang code="CHN">
+        <text>
+
+希拉刚寻得角吹响，它便碎成无数片！
+
+然当其巨响震起，塞壬尖啸飞遁，维京男儿重获自由、神智复常。希拉终将众人脱出恶魅。入谷之路已通——然能通几时？？
+
+携四位英雄同往宝藏神庙。
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+No sooner had Cyra found the horn and blown it than it burst into countless pieces! 
+
+But, at the same moment it had sounded, the sirens flew away screaming. The Vikings were in full possession of their faculties again. Cyra had managed to free the men from the evil spell. The way into the valley was free now - but for how long??
+
+
+Go to the treasure temple with your four heroes.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Kaum hatte Cyra das Horn gefunden und geblasen, zerbarst es in unzählige viele Stücke! 
+
+Aber in dem Moment, da sein mächtiger Ton erklungen war, flogen die Sirenen kreischend davon und die Wikingermänner waren wieder frei und bei vollem Verstand. Cyra hatte es geschafft, die Männer aus dem bösen Bann zu befreien. Der Weg ins Tal war nun frei - doch für wie lange??
+
+
+Gehe mit allen vier Helden zum Schatztempel.
+</text>
+      </lang>
+    </block>
+    <block id="start_00">
+      <lang code="CHN">
+        <text>
+
+历经炽热中无尽的煎熬，我们的商队翻过最后一道山口，传说中的巴格达城在底格里斯河谷中铺展开来。
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+After seemingly endless trials in the searing heat, our caravan crossed the final mountain pass to see the legendary city of Baghdad sprawling in the Tigris valley below. 
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Nach endlosen Strapazen in glühender Hitze zog unsere Karawane über den letzten Bergpass, als sich vor uns im Tal des Tigris die sagenumwobene Stadt Bagdad ausbreitete. 
+</text>
+      </lang>
+    </block>
+    <block id="start_01">
+      <lang code="CHN">
+        <text>
+
+诸多传说述及萨尔克之地如梦的美，而我们所见，却令呼吸为之一窒！那城壮丽绝伦，任何歌谣旋律都难状此神工之奇！
+
+满怀新望、目标在胸，我们驱赶牲口，欲于黄昏前抵城。
+
+可刚望见巍峨城门，守卫便上前拦路。我们无畏维京人、勇敢冒险者的威名早已先行，巴格达哈里发立时要见我们，交付使命。
+
+长途跋涉后，那蒸浴与凉酒的心愿，怕只得留待日后再偿……
+
+料理维京人的基本给养。沿底格里斯河东行前往巴格达，面见哈里发宫殿。
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Many of our legends described the magical beauty of Sarkland, but what we saw took our breath away! The city was so beautiful and magnificent that no song or tune could ever do justice to this wonder of the gods! 
+
+Filled with a new hope with the end of our struggles almost in sight, we drove our animals onward to reach the city before evening fell.
+
+But we had hardly reached the mighty gate when guards approached us and barred our way. Our reputation as fearless Vikings and daring adventurers had preceded us, and the Caliph of Baghdad desired to speak with us at once to give us a mission. 
+
+I could see that I would have to wait for a steaming bath and a cool goblet of wine after our long journey for a while longer ...
+
+
+Take care of your Vikings' provisions. Follow the river Tigris to the east, to Baghdad and the Caliph's palace.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Viele unserer Legenden erzählten von der märchenhaften Schönheit Särklands, doch was wir sahen, raubte uns den Atem! So wunderschön und prächtig war der Anblick jener Stadt, dass kein Lied und keine Melodie diesem Wunder von Götterhand gerecht werden konnte! 
+
+Voll neuer Hoffnung und das Ziel vor Augen trieben wir unsere Tiere an, um noch vor dem Abend die Stadt zu erreichen.
+
+Doch kaum hatten wir endlich das mächtige Stadttor in Sichtweite, als die Wachen auf uns zutraten und uns den Weg versperrten. Unser Ruf als furchtlose Wikinger und verwegene Abenteurer war uns bereits vorausgeeilt, so dass der Kalif von Bagdad uns umgehend sprechen wollte, um uns einen Auftrag zu erteilen. 
+
+Meinen sehnlichen Wunsch nach einem dampfenden Bad und einem kühlen Becher Wein nach der langen Reise musste ich mir wohl später erfüllen...
+
+
+Kümmere dich um die Grundversorgung deiner Wikinger. Folge dem Fluss Tigris nach Osten nach Bagdad und begib dich zum Palast des Kalifen.
+</text>
+      </lang>
+    </block>
+    <block id="warning">
+      <lang code="CHN">
+        <text>
+
+阿布·德尔·西卜恩
+
+外乡人，愿安拉与你们同在！
+我自北方来，那里恶徒横行。我方脱身，却恐他们尾随而至！
+
+当心！他们必不久将至！你等须备一战……
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+ABU DEL SIBN
+
+Allah be with you, strangers!
+I come from the north, where sinister rabble are lurking. I was able to flee, but I fear they are after me!
+
+Watch out! They'll be here soon! You should prepare yourself for a fight with them ...
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+ABU DEL SIBN
+
+Allah sei mit euch, Fremde!
+Ich komme aus dem Norden, wo sich übles Gesindel herumtreibt. Ich konnte gerade noch fliehen, doch ich fürchte, sie sind mir auf den Fersen!
+
+Nehmt euch in acht! Sie werden bestimmt bald hier sein! Ihr solltet euch auf einen Kampf mit ihnen vorbereiten...
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

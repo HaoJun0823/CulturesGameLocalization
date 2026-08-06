@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="singleplayer_01_06" export_map_id="singleplayer_01_06" map_md5="a420a7c8350c99fc37875168001016d8" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">成为你部族中的岛王！</text>
+      <text lang="eng">Become the Island King of your people!</text>
+      <text lang="ger">Werde zum König Deines Volkes!</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">将部族中的十人训练为战士！</text>
+      <text lang="eng">Turn ten people of your tribe into soldiers!</text>
+      <text lang="ger">Mache zehn Deines Stammes zu Kriegern!</text>
+    </string>
+    <string id="2">
+      <text lang="CHN">建造一艘船！</text>
+      <text lang="eng">Build a ship!</text>
+      <text lang="ger">Baue ein Schiff!</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">在至少三座其他岛屿建立小型营地以定居！</text>
+      <text lang="eng">Settle on at least three additional isles by building a small camp there!</text>
+      <text lang="ger">Siedle auf mindestens drei anderen Inseln indem Du dort ein kleines Lager errichtest!</text>
+    </string>
+    <string id="4">
+      <text lang="CHN">助你的部族达到 100 人口！</text>
+      <text lang="eng">Help your tribe establish a population of 100!</text>
+      <text lang="ger">Laß Deinen Stamm eine Population von 100 Leuten erreichen!</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">王室子孙</text>
+      <text lang="eng">Royal Children</text>
+      <text lang="ger">Königskinder</text>
+    </string>
+    <string id="98">
+      <text lang="CHN">建立起 100 名维京人的人口！为此你也应在其他岛屿定居。</text>
+      <text lang="eng">Establish a population of 100 Vikings! To do so you should settle on other isles as well!</text>
+      <text lang="ger">Baue eine Bevölkerung mit 100 Wikingern auf! Siedle dafür auch auf anderen Inseln!</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">岛屿王国</text>
+      <text lang="eng">ISLAND REALM</text>
+      <text lang="ger">INSELREICH</text>
+    </string>
+  </strings>/strings>
+  <briefings>
+    <block id="0">
+      <lang code="CHN">
+                                <text>
+你是这座小岛引以为傲的首领，可惜岛子实在太小。你满心想当国王，可那至少要 100 名居民才行。
+
+多亏奥丁保佑，近旁还有几座迷你邻岛——它们以资源与建筑用地诱人。若你的资源告罄，或急寻新居处，定能在那里有所收获！
+
+你能否在数岛之间建立起并维系一套运转良好的经济？这可是桩真正艰巨的任务！
+
+待人口达 100（其中至少 10 名战士），你便是名副其实的岛王！
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+You are the proud chief of your island ... but it is quite small. 
+You'd so much like to be King, but you need 100 inhabitants.
+
+Odin be praised - there are some more isles in the neighbourhood - and these attract you with their resources and their land. Should your resources run out or you need new places to settle, you're bound to find some there!
+
+Will you manage to establish a functioning economy across several isles and to maintain it? 
+A truly demanding task! 
+
+
+Achieve a population of 100 inhabitants, including at least 10 soldiers. Then you will be a true Island King!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Du bist der stolze Herr über eine Insel, doch ist dein Land nur sehr klein. 
+Dabei wärest du so gerne König, aber das geht erst ab 100 Einwohnern. 
+
+Odin sei Dank gibt es weitere winzige Nachbarinseln - und diese locken mit ihren Rohstoffen und ihrem Bauland. Sollten deine Ressourcen zur Neige gehen oder suchst du dringend neue Siedlungsmöglichkeiten, wirst du dort bestimmt fündig werden!
+
+Schaffst du es, über mehrere der Inseln hinweg eine funktionierende Wirtschaft zu etablieren und aufrecht zu erhalten? 
+Eine wahrhaft schwierige Aufgabe! 
+
+
+Erreiche eine Bevölkerung von 100 Einwohnern, von denen mindestens 10 Mann Krieger sein müssen. Dann kannst du dich mit Fug und Recht Inselkönig nennen!
+</text>
+      </lang>
+    </block>
+    <block id="1">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+                                <text>
+任务成功！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+                                <text>
+与大自然之力鏖战良久——维京人终究胜出！
+
+不过他们在贪婪撒拉逊人的岛上定居却不尽如人意。维京人只得臣服于其统治。尽管屡求和，部族间敌意仍存！
+
+但维京人尽可为其和平定居之举自豪，而你亦当之无愧地自称“岛王”！
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION SUCCESSFUL!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+It was a long battle against the forces of nature - but the Vikings managed to defeat them! 
+
+They were not so successful at settling on the isle of the Saracens, though. The Vikings had to submit to their rule. Despite all attempts at making peace, there were still hostilities between the tribes!
+
+But the Vikings had a right be proud of their peaceful settling mission, and you earned the right to call yourself "Island King"!
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION GEWONNEN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Es war ein langer Kampf gegen die Naturgewalten - doch die Wikinger konnten den Sieg davontragen! 
+
+Nicht so erfolgreich waren sie beim Siedeln auf der Insel der geizigen Sarazenen. Die Wikinger mussten sich deren Hoheit auf ihrer Insel unterordnen. Trotz aller Friedensgesuche herrschten weiter Feindseligkeiten zwischen den Stämmen!
+
+Aber auf ihre friedliche Siedlungsmission konnten die Wikinger stolz sein, und mit Recht kannst du dich nun "Inselkönig" nennen!
+</text>
+      </lang>
+    </block>
+    <block id="2">
+      <lang code="CHN">
+                                <text>
+这接待实在算不上友善。
+
+“我们，骄傲的撒拉逊人，将抗击此岛上的任何闯入者……我们不与任何人分享，也绝不施舍！
+
+滚开，否则格杀勿论！”
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+It was certainly not a friendly reception.
+
+"We, the proud Saracens, will fight any intruder on this island ... 
+We share with nobody, and we don't give anything away!
+
+Be gone, or you will be eliminated!"
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Das war nun wirklich kein freundlicher Empfang:
+
+"Wir, die stolzen Sarazenen, bekämpfen jeden Eindringling auf dieser Insel... 
+Wir teilen mit niemandem, wir geben nichts!
+
+Verschwindet, oder ihr seid des Todes!"
+</text>
+      </lang>
+    </block>
+    <block id="3">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+                                <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+                                <text>
+维京人曾英勇抗击强敌，终不免落败。
+
+诱人岛屿王国的故事，到此为止！
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+The Vikings had fought bravely against their enemies, but in the end they were defeated.
+
+This is the end of the story of the tempting island realm!
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Die Wikinger hatten hart und unerschütterlich gegen die Gewalt angekämpft, doch zum Schluss waren sie erlegen.
+
+Damit endete die Geschichte um das verlockende Inselreich!
+</text>
+      </lang>
+    </block>
+    <block id="4">
+      <lang code="CHN">
+                                <text>
+
+
+你已造出一艘船——凭此船，你便能在各岛间建立起运转良好的经济！
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+You've now built a ship - with this ship you can start building up a functioning economy on the isles!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Du hast nun ein Schiff gebaut - und mit diesem kannst du nun beginnen, eine laufende, inselübergreifende Wirtschaft aufzubauen!
+</text>
+      </lang>
+    </block>
+    <block id="5">
+      <lang code="CHN">
+                                <text>
+
+
+维京人满怀探索之志踏上此岛，以发现者的勇气与胆魄定居于第三岛！
+
+如今他们可壮大为强盛之族，并推举首领为王！
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+The Vikings reached the third isle with the will to explore, and with much spirit and courage they settled on it!
+
+Now they would grow to a powerful population, they would appoint their leader as King!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Mit Forscherdrang hatten die Wikinger das Eiland betreten und mit viel Entdeckergeist und Mut die dritte Insel besiedelt!
+
+Nun konnten sie eine mächtige Bevölkerung werden, und ihren Anführer würden sie zum König ernennen!
+</text>
+      </lang>
+    </block>
+    <block id="6">
+      <lang code="CHN">
+                                <text>
+
+
+撒拉逊部族已在这座岛的争夺中落败——他们再不会来烦你！
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+The tribe of Saracens has lost the fight for this isle - they will never trouble you again!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Der Stamm der Sarazenen hat den Kampf um diese Insel verloren - er wird dich nie mehr belästigen!
+</text>
+      </lang>
+    </block>
+    <block id="7">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+                                <text>
+与大自然及贪婪的撒拉逊部族鏖战良久，维京人终获辉煌胜利！
+
+凭你的战功，撒拉逊人不得不放弃此岛……如今维京人是岛屿王国中唯一的部族，而你便是至高无上的“岛王”！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+                
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION SUCCESSFUL!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+It was a long fight against the forces of nature and the tribe of Saracens. But the Vikings achieved a glorious victory! 
+
+Thanks to your military success, the Saracens had to give up the isle ...
+The Vikings are the only tribe in the island realm now, and you are their sovereign, the Island King!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Es war ein langer Kampf gegen die Naturgewalten und den geizigen Stamm der Sarazenen. Aber die Wikinger konnten einen glorreichen Sieg davontragen! 
+
+Die Sarazenen haben die Insel dank deiner militärischen Erfolge aufgeben müssen...
+Die Wikinger sind nun der alleinige Stamm im Inselreich, und du bist der souveräne "Inselkönig"!
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+                                <text>
+
+
+岛屿王国
+
+
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+ISLAND REALM
+
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+INSELREICH
+
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

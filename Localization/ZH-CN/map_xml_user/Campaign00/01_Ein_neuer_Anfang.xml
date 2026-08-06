@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="01_Ein_neuer_Anfang" export_map_id="01_Ein_neuer_Anfang" map_md5="d27030d5a022170314e64f37bf076f2e" IsC2M="true">
+  <languages>
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">新的开端</text>
+      <text lang="ger">Ein neuer Anfang</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">一场新的冒险正等待着我们。</text>
+      <text lang="ger">Ein neues Abenteuer erwartet uns.</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+    </string>
+    <string id="4">
+      <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+    </string>
+    <string id="50">
+      <text lang="CHN">玩家0</text>
+      <text lang="ger">Spieler0</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="lost_body">
+      <lang code="CHN">
+        <text>你未能完成该任务！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Du hast die Mission verloren!
+
+</text>
+      </lang>
+    </block>
+    <block id="lost_header">
+      <lang code="CHN">
+        <text>任务失败！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Mission verloren!
+
+</text>
+      </lang>
+    </block>
+    <block id="start_body">
+      <lang code="CHN">
+        <text>我们在村中的生活本来平静而安宁，直到有一天比雅尼王突然说道：
+我的部下们变得又懒又肥。是时候再次扬帆出海，去经历新的冒险了。快去，备好一艘船，升起风帆。可最后他只找到一名忠实的追随者愿意与比雅尼同行。于是他俩只得两人出海……
+
+我们最终发现了一座小岛。也许这里会有愿意成婚的姑娘吧？……
+
+比雅尼王命令我：
+1. 建立一座新的村庄
+2. 在你的仓库中储备20把长剑、20副板甲、20件锁甲和20把短剑。
+此外仓库中还须有20瓶大型治疗药水。
+比雅尼要这么多武器做什么？
+他是不是知道一些不愿明说的事？
+好吧，眼下我们得先找到愿意成婚的姑娘，然后再设法满足比雅尼的心愿。
+
+
+制作者：尤基</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Unser Leben im Dorf verlief ruhig und friedlich, als plötzlich König Bjarni meinte:
+Meine Männer sind faul und fett geworden. Es wird Zeit, daß wir wieder in See stechen um neue Abenteuer zu erleben. Los, macht ein Schiff klar, und setzt die Segel. Schließlich fand er nur einen treuen Anhänger, der bereit war mit Bjarni mitzusegeln. Also stachen sie nur zu zweit in die See.......
+
+Wir fanden schließlich eine kleine Insel. Vielleicht gibt es hier ja heiratswillige Frauen ?.....
+
+König Bjarni befahl mir:
+1. Errichte eine neues Dorf
+2. Lagere 20 Langschwerter, 20 Plattenrüstungen, 20 Kettenhemden und 20 Kurzschwerter in Deine Lagerhäuser ein.
+Außerdem müssen 20 Große Heiltränke im Lagerhaus sein.
+Was wollte Bjarni mit so vielen Waffen ?
+Wußte er mehr als er zugeben wollte ?
+Nun, erstmal mußten wir willige Mädels finden zum heiraten, dann wollten wir versuchen Bjarnis Wunsch zu erfüllen.
+
+
+Erstellt von: Yogi
+
+</text>
+      </lang>
+    </block>
+    <block id="start_header">
+      <lang code="CHN">
+        <text>新的开端</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Ein neuer Anfang
+
+</text>
+      </lang>
+    </block>
+    <block id="won_body">
+      <lang code="CHN">
+        <text>我们刚备齐所需的物资，比雅尼便催促我们继续启程。我们把大量武器装上船，比雅尼命令我们朝西班牙的方向航行。
+比雅尼在西班牙究竟想做什么？
+我们宁可不多问，毕竟不想扫了比雅尼的兴致。
+不过我们中有些人愿意留在这里，因为他们已经爱上了此地的宁静。
+西班牙又会有什么在等着我们呢？</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Kaum hatten wir die erforderlichen Waren hergestellt, drängte uns Bjarni zum weiterreisen. Wir beluden unser Schiff mit den vielen Waffen, und Bjarni befahl uns in Richtung Spanien zu segeln.
+Was wollte Bjarni in Spanien?
+Wir wollten lieber nicht so viele Fragen stellen, schließlich wollten wir Bjarnis Stimmung nicht vermiesen.
+Einige von uns wollten jedoch hier bleiben, denn sie hatten die Ruhe hier zu lieben gelernt.
+Was uns wohl in Spanien erwartete ?
+
+</text>
+      </lang>
+    </block>
+    <block id="won_header">
+      <lang code="CHN">
+        <text>任务达成！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Mission gewonnen!
+
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

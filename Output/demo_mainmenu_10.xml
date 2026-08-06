@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="demo_mainmenu_10" export_map_id="demo_mainmenu_10" map_md5="ba8cccb0718619ea72284d5df0c61893" IsC2M="false">
+  <languages>
+    <language code="GER" alias="GER" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="GER">Suche einen geeigneten Landeplatz.</text>
+    </string>
+    <string id="1">
+      <text lang="GER">Baue eine kleine Siedlung auf.</text>
+    </string>
+    <string id="2">
+      <text lang="GER">Bringe 100 Steine und 50 Marmorblöcke zum Leuchtturm.</text>
+    </string>
+    <string id="3">
+      <text lang="GER">Befreie den Architekten Sostratos.</text>
+    </string>
+    <string id="4">
+      <text lang="GER">Zahle den Vagabunden 150 Münzen und 10 Met oder bekämpfe sie.</text>
+    </string>
+    <string id="5">
+      <text lang="GER">Zahle den Vagabunden weitere 10 Met oder bekämpfe sie.</text>
+    </string>
+    <string id="6">
+      <text lang="GER">Durchsuche das Vagabundenlager.</text>
+    </string>
+    <string id="7">
+      <text lang="GER">Bringe Sostratos zum Leuchturm.</text>
+    </string>
+    <string id="8">
+      <text lang="GER">Finde das heilige Feuer.</text>
+    </string>
+    <string id="9">
+      <text lang="GER">Zahle dem Bergvolk 15 große Heiltränke Tribut oder bekämpfe sie.</text>
+    </string>
+    <string id="10">
+      <text lang="GER">Bringe das Feuer mit einem Helden zum Leuchtturm.</text>
+    </string>
+    <string id="11">
+      <text lang="GER">Handele mit den Wikingern 5 Langschwerter.</text>
+    </string>
+    <string id="12">
+      <text lang="GER">@BEFESTIGE DEN LEUCHTURM VON PHAROS!</text>
+    </string>
+    <string id="13">
+      <text lang="GER">Reiche den Wikingern 10 Verteidigungsamulette zum Tribut.</text>
+    </string>
+    <string id="19">
+      <text lang="GER">Zahle den Nomaden 15 große Heiltränke Tribut.</text>
+    </string>
+    <string id="51">
+      <text lang="GER">Alexandria</text>
+    </string>
+    <string id="52">
+      <text lang="GER">Nomaden</text>
+    </string>
+    <string id="53">
+      <text lang="GER">Händler</text>
+    </string>
+    <string id="54">
+      <text lang="GER">Wikinger</text>
+    </string>
+    <string id="55">
+      <text lang="GER">Vagabunden</text>
+    </string>
+    <string id="56">
+      <text lang="GER">Bergvolk</text>
+    </string>
+    <string id="61">
+      <text lang="GER">Alexa.</text>
+    </string>
+    <string id="62">
+      <text lang="GER">Nomad.</text>
+    </string>
+    <string id="64">
+      <text lang="GER">Wiki.</text>
+    </string>
+    <string id="65">
+      <text lang="GER">Vagab.</text>
+    </string>
+    <string id="66">
+      <text lang="GER">Bergvo.</text>
+    </string>
+    <string id="71">
+      <text lang="GER">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="GER">Cyra</text>
+    </string>
+    <string id="73">
+      <text lang="GER">Hatschi</text>
+    </string>
+    <string id="74">
+      <text lang="GER">Sigurd</text>
+    </string>
+    <string id="75">
+      <text lang="GER">Sostratos</text>
+    </string>
+    <string id="76">
+      <text lang="GER">Sostratos Vater</text>
+    </string>
+    <string id="98">
+      <text lang="GER">Das erste Weltwunder unserer Reise befand sich auf der Insel Pharos vor Alexandria. Fremdartig und geheimnisvoll wirkten die spitzen Türme und runde Kuppeln der sagenumwobenen Stadt auf uns.</text>
+    </string>
+    <string id="99">
+      <text lang="GER">DER LEUCHTURM VON PHAROS</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="GER">
+        <text> 
+Schatten und Chaos bedrohen die Welt. Eine dunkle Macht breitet sich unaufhörlich über Länder hinweg aus. Alles was von einst großen und mächtigen Königreichen übrig bleibt, sind die Gedanken daran...
+Eine alte Sage der Ägypter besagt, dass die dunkle Macht nur dadurch gebannt werden kann, indem man die größten und ruhmreichsten Werke der Menschheit aufleben lässt. Und so beschließt der Völkerrat, dass alle Weltwunder der antiken Welt, wieder errichtet werden müssen...
+
+</text>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="GER">
+        <text> 
+Aber sogar die letzten zwei erhalten Weltwunder die Pyramiden von Gizeh und der Leuchtturm der Insel Pharos vor Alexandria sind bedroht. Ständige Erdbeben erschüttern den Leuchtturm und einfallende Heere dunkler Krieger und Bestien bedrohen die Pyramiden. Gemeinsam müssen die Völker rasch handeln. Während die Stellung an den Pyramiden von Gizeh von den Byzantinern und Sarazenen verteidigt wird, obliegt es deinem Wikingervolk, den Leuchtturm Alexandrias vor dem Einsturz zu bewahren.
+</text>
+      </lang>
+    </block>
+    <block id="01">
+      <lang code="GER">
+        <text> 
+Hier hatten wir den idealen Landeplatz gefunden! 
+
+Docke die Schiffe an, entlade die Güter und baue eine kleine Siedlung auf. 
+</text>
+      </lang>
+    </block>
+    <block id="02">
+      <lang code="GER">
+        <text> 
+Kaum waren wir an Land gegangen und hatten begonnen unser Lager aufzuschlagen, ereilte uns eine Nachricht der Einwohner Alexandrias. Doch traurig und erschreckend war ihre Kunde: Ein großer Teil des Leuchtturms war bereits zerstört und wenn wir nicht schnell handeln würden wäre dieses Weltwunder den nächsten Erschütterungen kaum standhalten können! 
+Viele Abbauer anderer Nomadenstämme aus der Umgebung bauten bereits tüchtig Stein ab. Leider hatten sie nicht die nötigen Träger und Händler, um sie in einem nahen Lagerhaus am Leuchtturm zu bringen.
+
+Bringe 100 Steine und 50 Marmorblöcke zum Leuchtturm. 
+</text>
+      </lang>
+    </block>
+    <block id="03">
+      <lang code="GER">
+        <text> 
+
+Wir hatten die benötigten Waren im Lagerhaus am Leuchtturm abgeliefert und die Bewohner Alexandrias dankten es uns. Trotzdem ging die Arbeit nur mühsam voran. Vor kurzem hatten Vagabunden in den Bergen den Ingenieur des Bauwerkes entführt und seitdem wusste niemand so richtig, wie er gebaut werden sollte. Vielleicht ließen die Vagabunden aber auch mit sich reden und man konnte eine friedliche Einigung finden... 
+
+Befreie den Architekten Sostratos aus dem Vagabundenlager und bringe ihn zum Leuchtturm. 
+</text>
+      </lang>
+    </block>
+    <block id="04">
+      <lang code="GER">
+        <text> 
+VAGABUNDEN
+
+"Hey! Ihr da! Wir dulden keine Eindringlinge in unserem Dorf! Oder seid ihr hier das Lösegeld für den Architekten Sostratos zu bezahlen! Das geforderte Lösungsgeld ist allerdings nicht mehr ausreichend! Wir wollen mehr und außerdem könnt ihr Wikinger fantastisch Met ansetzen, so sagt man. Auch davon wären uns ein paar Fässer recht willkommen!" 
+
+Zahle den Tribut oder vertreibe die Vagabunden von diesem Landstrich!  
+</text>
+      </lang>
+    </block>
+    <block id="05">
+      <lang code="GER">
+        <text> 
+VAGABUNDEN
+
+"Euer Bier hat uns gemundet, falls ihr uns noch ein paar Fässer gebt könnt ihr euch ungehindert in unseren Lager umsehen und euch mitnehmen was ihr wollt - sogar den Architekten Er ist uns eh zu nichts nütze!" 
+
+Zahle den Tribut oder vertreibe die Vagabunden von diesem Landstrich!  
+</text>
+      </lang>
+    </block>
+    <block id="06">
+      <lang code="GER">
+        <text> 
+
+SOSTRATOS
+
+"Ich grüße Euch, euch müssen die Alexandriner zu mir geschickt haben, denn mein Werk ist noch nicht vollendet! 
+Ohne mich werden sie es wohl nicht schaffen. Würdet ihr mich zum Leuchtturm begleiten?
+
+Bringe Sostratos zum Leuchtturm. 
+</text>
+      </lang>
+    </block>
+    <block id="07">
+      <lang code="GER">
+        <text> 
+
+Die benötigten Waren wurden aufgebraucht und der Architekt Sostratos, der sein Handwerk verstand, gab die nötigen Anweisungen dazu. Bald stand de Leuchtturm in alter Pracht vor uns und kein Erdbeben dieser Welt sollte ihn den Erdboden gleichmachen können! Aber Irgendetwas fehlte noch. Zwar Stand der Leuchtturm wie ein Fels in der Brandung, aber er wies keinem Seefahrer den Weg in die Stadt, denn ihm fehlte sein Leuchten. Kein gewöhnliches Feuer sollte an der Spitze dieses Weltwunders brennen, die Alexandriner wollten das heilige Feuer aus den Bergen zurückerobern. Abtrünnige Sarazenennomaden benutzten es in ihren Bergwerken zum Goldabbau. 
+
+Suche nach dem heiligen Feuer im Südwesten und bringe es zum Leuchtturm. 
+</text>
+      </lang>
+    </block>
+    <block id="08">
+      <lang code="GER">
+        <text>
+
+ALEXANDRIA
+
+Dies waren die Tore der sagenumwobenen Stadt Alexandria! 
+
+Voller Neugier und Ungewissheit betraten wir ihr Innerstes. 
+Was würde sie für uns bereithalten? 
+
+Durchstreife Alexandria und öffne die Kisten!
+</text>
+      </lang>
+    </block>
+    <block id="09">
+      <lang code="GER">
+        <text>
+
+WACHEN!
+
+Zwei finster aussehende Wachen traten uns entgegen: 
+
+"Halt! Keinen Schritt weiter! Oder euch wird es schlecht ergehen!"
+</text>
+      </lang>
+    </block>
+    <block id="10">
+      <lang code="GER">
+        <text>
+
+Als wir diesen Schalter betraten öffneten sich unweit von hier zwei Tore! 
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="11">
+      <lang code="GER">
+        <text>
+
+"Mein Volk hat mich ausgesandt, die Bergwerke der Sarazenen zu erforschen! Sie haben nichts Gutes im Sinn und stahlen das heilige Feuer des Leuchtturmes!" Dieses Tor lässt sich nicht öffnen, meinte dieser Wikinger. Irgendwo in der Nähe musste sich ein Schlüssel oder ein Schalter befinden! 
+</text>
+      </lang>
+    </block>
+    <block id="12">
+      <lang code="GER">
+        <text>
+
+Dieses Tor lies sich nicht öffnen, irgendwo musste sich ein Schlüssel oder ein Schalter befinden...
+</text>
+      </lang>
+    </block>
+    <block id="13">
+      <lang code="GER">
+        <text>
+
+WIKINGER 
+
+In diesen doch recht fruchtbaren Ebenen entlang des Nils hatten sich auch andere Wikinger niedergelassen. 
+
+Falls wir ihnen die geforderten Waren zum Tribut reichen würden, wollten sie uns bei unserer Mission unterstützen...
+</text>
+      </lang>
+    </block>
+    <block id="14">
+      <lang code="GER">
+        <text>
+
+Wir hatten den Wikingern die geforderten Waren als Tribut gereicht und sie boten uns ihre Unterstützung an. 
+
+Wir konnten in ihren Reihen ein weiteres Dorf errichten und ihre Soldaten wollten uns in kämpferischen Auseinandersetzungen zur Seite stehen.
+</text>
+      </lang>
+    </block>
+    <block id="15">
+      <lang code="GER">
+        <text>
+
+Unberührt von der restlichen Welt tat sich hier eine kleine Oase inmitten der Wüste vor uns auf. 
+
+Hier verlief alles noch in ruhigen Bahnen, die Menschen waren freundlich und entgegenkommend. Und ahnte wie dringlich unsere Mission war, die Weltwunder erneut zu errichten... 
+</text>
+      </lang>
+    </block>
+    <block id="16">
+      <lang code="GER">
+        <text>
+
+VAGABUNDEN
+
+"Du wagst es, hier einzudringen? Wir werden dir Manieren beibringen!!!"
+</text>
+      </lang>
+    </block>
+    <block id="17">
+      <lang code="GER">
+        <text>
+
+BERGVOLK
+
+"Was war das? 
+
+Verschwindet!! Unsere wertvollen Goldvorkommen werden wir keinen dahergelaufenen Normannen kampflos überlassen!!! 
+Oder seid ihr bereit, uns einen Tribut zu leisten?"
+</text>
+      </lang>
+    </block>
+    <block id="18">
+      <lang code="GER">
+        <text>
+
+BERGVOLK
+
+"Solange ihr uns nicht angreift, werden wir euch nichts tun! Aber wehe, ihr rührt unsere Goldvorhaben an!"
+</text>
+      </lang>
+    </block>
+    <block id="19">
+      <lang code="GER">
+        <text>
+
+BERGVOLK
+
+"Du wagst es, uns anzugreifen?
+Wehe dir, oh Ungläubiger! Unsere Brüder werden uns zu Hilfe kommen und dich zurück aufs Meer jagen!"
+</text>
+      </lang>
+    </block>
+    <block id="20">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Der Architekt Sostratos ist gestorben! Nun wirst du den Leuchtturm nie errichten können! Die Mission ist gescheitert!!
+</text>
+      </lang>
+    </block>
+    <block id="200">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="21">
+      <lang code="GER">
+        <text>
+
+Als das Nomadenvolk sah, dass es unserer Taktik und Kampfesstärke nichts entgegenzusetzen hatte, gaben sie schließlich auf und überließen uns widerwillig ihre Goldvorkommen und gaben ihren Bergbau auf.
+</text>
+      </lang>
+    </block>
+    <block id="22">
+      <lang code="GER">
+        <text>
+
+Zuerst dachten wir, es sei eine Fata Morgana. Doch tatsächlich stand plötzlich mitten in der Wüste ein alter Mann vor uns! Woher er kam, weiß nur Odin alleine...
+
+"Ausgeraubt wurde ich! Von diesen elenden Vagabunden in den Bergen im Osten!" fluchte der alte Greis, als er uns entgegenkam. 
+
+"Für mich alten Menschen hatten sie keine Verwendung und ließen mich frei, aber den armen Ingenieur, den sie gefangen halten, erwartet gewiss ein schlimmeres Schicksal! Möge Allah mit ihm sein..."  
+
+"In der weiten, weiten Wüste kann man sich leicht verlaufen", flüsterte uns der alte Mann zu. "Ich komme aus dem Norden und das Land dort ist staubig und leer, im Süden gibt es nur vereinzelt einige Nomadendörfer und schweift man mit den Blick nach Westen, kann man das Leuchten der güldenen Kuppeln der Stadt Alexandria erkennen." 
+</text>
+      </lang>
+    </block>
+    <block id="23">
+      <lang code="GER">
+        <text>
+
+Dieses Land war voller Überraschungen! Plötzlich trafen wir auf einen alten Mann, der sich schwer auf einen krummen Stock stützte.
+
+"Oh, noch mehr Wikinger!", murmelte der alte Mann. " Hier gibt es bald mehr Wikinger als Sarazenen! Aber die Nordländer westlich von hier sind eigentlich nette, wenn auch etwas raue Gesellen, die allerdings nicht viel für die das Bergvolk im Süden übrig haben..."
+</text>
+      </lang>
+    </block>
+    <block id="24">
+      <lang code="GER">
+        <text>
+
+In unserer Hafeneinfahrt begegneten uns einige Schiffe der Bewohner und Händler Alexandrias. 
+
+Sie erwarteten uns bereits und wiesen uns einen geeigneten Siedlungsplatz zu. Bald würden wir mehr von unserer Mission erfahren...
+</text>
+      </lang>
+    </block>
+    <block id="25">
+      <lang code="GER">
+        <text>
+
+SOSTRATOS VATER
+
+"Oh mein armer Junge. Habt ihr ihn schon gefunden? Was würde ich geben , um ihn wieder bei mir zu haben!"
+</text>
+      </lang>
+    </block>
+    <block id="26">
+      <lang code="GER">
+        <text>
+
+SOSTRATOS VATER
+
+"Oh mein armer Junge. Ihr wart es, die ihn gefunden habt! Allah sei gepriesen! Nehmt diese wertvollen Amulette von mir!"
+</text>
+      </lang>
+    </block>
+    <block id="27">
+      <lang code="GER">
+        <text>
+
+ERDBEBEN!!!
+
+Noch nicht lange verweilten wir in diesem Gebiet, aber diese Erdbeben hatten ein gewaltiges Ausmaß! Lange hielt der beschädigte Leuchtturm den Beben bestimmt nicht mehr stand!
+</text>
+      </lang>
+    </block>
+    <block id="28">
+      <lang code="GER">
+        <text>
+
+ERDBEBEN!!!
+
+Jedes Beben beschädigte den Leuchtturm von Pharos! Wir mussten uns mit unseren Arbeiten beeilen!
+</text>
+      </lang>
+    </block>
+    <block id="29">
+      <lang code="GER">
+        <text>
+
+ERDBEBEN!!!
+
+Dieses Erdbeben konnte dem neu errichteten Leuchtturm kaum etwas anhaben. Trotzdem sollten wir uns mit der Suche nach dem heiligen Feuer beeilen!
+</text>
+      </lang>
+    </block>
+    <block id="30">
+      <lang code="GER">
+        <text>
+
+Dieses Lagerhaus hatten die Sarazenen extra für die Bauarbeiten am Leuchtturm errichtet.
+</text>
+      </lang>
+    </block>
+    <block id="300">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Hatschi erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
+</text>
+      </lang>
+    </block>
+    <block id="31">
+      <lang code="GER">
+        <text>
+
+Du hast noch nicht die Befugnis, diesen Schalter zu benutzen!!!
+</text>
+      </lang>
+    </block>
+    <block id="32">
+      <lang code="GER">
+        <text>
+
+Alexandria gab uns das ursprünglich geforderte Lösegeld von 140 Münzen und stellte uns einige Soldaten zur Verfügung, um die Vagabunden zu stellen und den Ingenieur zu befreien.
+</text>
+      </lang>
+    </block>
+    <block id="400">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Sigurd erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="GER">
+        <text> 
+Wir hatten es geschafft! Der Leuchtturm von Pharos, das wohl höchste Gebäude der ganzen Erde erstrahlte wieder und konnte von Seefahrern bis weit ins Meer gesehen werden. Von nun an garantierte er ihnen wieder die sichere Einfahrt in den Hafen. 
+
+</text>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="GER">
+        <text> 
+Der Bewohner Alexandrias zeigten sich voller Dankbarkeit für unsere Mithilfe und wollte uns zu Ehren ein Fest veranstalten. Doch uns erwartete bereits die nächste Aufgabe, die Hängenden Gärten von Semiramis sollte unser nächster Bestimmungsort sein…
+</text>
+      </lang>
+    </block>
+    <block id="50_endheader">
+      <lang code="GER">
+        <text> 
+
+MISSION GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="GER">
+        <text>
+
+DIE HÄNGENDEN GÄRTEN VON SEMIRAMIS
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

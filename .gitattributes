@@ -1,0 +1,10 @@
+# 强制纯 LF，避免 Windows core.autocrlf 把文本转 CRLF
+*.py eol=lf
+*.xml eol=lf
+*.md eol=lf
+*.txt eol=lf
+*.csv eol=lf
+*.hlt eol=lf
+*.ini eol=lf
+.gitignore eol=lf
+.gitattributes eol=lf

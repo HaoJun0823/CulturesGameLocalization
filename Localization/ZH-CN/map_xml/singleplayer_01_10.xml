@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="singleplayer_01_10" export_map_id="singleplayer_01_10" map_md5="9db21d16481cbf0f73f28527ecf786c8" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+<string id="0">
+      <text lang="CHN">守住阿卡城，歼灭撒拉逊大军</text>
+      <text lang="eng">Hold the city of Akkon and defeat the Saracen army.</text>
+      <text lang="ger">Halte die Stadt Akkon und vernichte das Sarazenenheer</text>
+    </string>
+<string id="1">
+      <text lang="CHN">雇佣 5 名雇佣兵</text>
+      <text lang="eng">Hire 5 mercenaries</text>
+      <text lang="ger">Heuere 5 Söldner an</text>
+    </string>
+<string id="50">
+      <text lang="CHN">比雅尼的子民</text>
+      <text lang="eng">Bjarni's People</text>
+      <text lang="ger">Bjarnis Volk</text>
+    </string>
+<string id="51">
+      <text lang="CHN">阿卡</text>
+      <text lang="eng">Akkon</text>
+      <text lang="ger">Akkon</text>
+    </string>
+<string id="52">
+      <text lang="CHN">撒拉逊大军</text>
+      <text lang="eng">Saracen Army</text>
+      <text lang="ger">Sarazenenheer</text>
+    </string>
+<string id="53">
+      <text lang="CHN">拜占庭人</text>
+      <text lang="eng">Byzantines</text>
+      <text lang="ger">Byzantiner</text>
+    </string>
+<string id="98">
+      <text lang="CHN">一支庞大的撒拉逊军队已在阿卡城门外现身……！</text>
+      <text lang="eng">A massive army of Saracens has been sighted outside the gates of the city of Akkon ...!</text>
+      <text lang="ger">Ein gewaltiges Heer der Sarazenen wurde vor den Toren der Stadt Akkon gesichtet...!</text>
+    </string>
+<string id="99">
+      <text lang="CHN">阿卡之战</text>
+      <text lang="eng">THE BATTLE OF AKKON</text>
+      <text lang="ger">DIE SCHLACHT UM AKKON</text>
+    </string>
+<string id="100">
+      <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+</strings>
+<briefings>
+<block id="0"><lang code="CHN">
+                <text>
+维京人登陆圣地，靠近被诺曼人攻占的阿卡城。
+这座虽小却至关重要的港口城市，是十字军补给的桥头堡，绝不可落入敌手。
+
+侦察兵报告：一支庞大的撒拉逊军队正逼近！
+
+率你的士兵驰援这座危城，在敌军进攻前加固三处可能的入口！倘若港口那座著名的大教堂被毁，整场十字军东征都将岌岌可危。
+
+歼灭这支军队，使它再也无法构成威胁。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+The Vikings land close to the city of Akkon in the Holy Land, which has been conquered by the Normans. 
+This small but important harbour city represents the bridgehead for the supplies of the crusaders. It must not fall into the hands of the enemy.
+
+Scouts have reported that a big army of Saracens is closing in!
+
+Support the city with your soldiers and fortify the three possible entries before the army attacks! If the famous cathedral in the port is destroyed, the entire crusade is jeopardised. 
+
+
+Destroy the army, so it is no more a threat.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Die Wikinger landen in der Nähe der von Normannen eroberten Stadt Akkon im heiligen Land. 
+Diese kleine, aber wichtige Hafenstadt bildete den Brückenkopf für die Versorgung der Kreuzritter des Kreuzzuges und darf auf keinen Fall in die Hände des Feindes geraten.
+
+Kundschafter haben das Anrücken eines großen Sarazenenheeres gemeldet! 
+
+Leiste der bedrängten Stadt Unterstützung mit deinen Soldaten und befestige die drei möglichen Zugänge, bevor das Heer angreift! Wird die berühmte Kathedrale im Hafen zerstört, ist der ganze Kreuzzug gefährdet. 
+
+
+Vernichte das Heer, so dass es in Zukunft keine Bedrohung mehr darstellt.
+</text>
+      </lang>
+    </block>
+
+    <block id="1">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+                <text>
+任务成功！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+                <text>
+胜利了！胜券在握！曾不可一世的撒拉逊大军残部溃退而去。
+
+多亏你英勇出击，阿卡得以保全，耶路撒冷城外十字军大军的补给也有了保障。你的英名必将载入史册！
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION SUCCESSFUL!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Success! Victory is yours! The remains of the once so proud army of the Saracens are withdrawing. 
+
+Thanks to your courageous actions, Akkon and with it the supply of the crusaders' army at Jerusalem is saved. Your name will go down in history!                                                                                
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION GEWONNEN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Gewonnen! Der Sieg ist dein! Geschlagen ziehen sich die Reste des einst so stolzen Sarazenenheeres zurück. 
+
+Dank eures beherzten Eingreifens ist Akkon, und damit die Versorgung des Kreuzfahrerheeres vor Jerusalem, gesichert. Euer Name wird in die Geschichte eingehen!                                                                                
+</text>
+      </lang>
+    </block>
+
+    <block id="2">
+      <lang code="CHN">
+                <text>
+太可怕了！比雅尼牺牲了！如今你的维京村庄只能在没有英雄的情况下勉力支撑。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+How terrible! Bjarni is dead! Now your Viking village must make do without its hero.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Wie schrecklich! Bjarni ist tot! Jetzt muss dein Wikingerdorf ohne seinen Helden auskommen.
+</text>
+      </lang>
+    </block>
+
+    <block id="3">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+                <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+                <text>
+当撒拉逊人摧毁阿卡的大教堂时，守军阵中响起一片惊呼。
+
+消息如野火般传开。难道十字军的胜利并非天意？守军很快丧失了斗志，撒拉逊人便势如破竹。耶路撒冷城外的十字军大军失去了最重要的补给线，就此失势溃败。
+
+你们别无选择，只能带着耻辱、为人所不齿地返回家乡。
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+When the Saracens destroyed the cathedral of Akkon, a scream went through the rows of defenders. 
+
+The news travelled fast. Maybe the victory of the crusaders was not divinely ordained after all? They lost their courage fast, and the Saracens had no more resistance to face.
+
+The crusading army outside Jerusalem was lost without its most important supply lines. It was beaten. You cannot do anything but return home as a humiliated loser.
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Als die Sarazenen die Kathedrale von Akkon zerstörten, ging ein Aufschrei durch die Reihen der Verteidiger. 
+
+Die Kunde verbreitete sich wie ein Lauffeuer. War der Sieg der Kreuzritter vielleicht doch nicht gottgewollt? Schnell verloren sie den Mut, und die Sarazenen hatten leichtes Spiel. 
+
+Das Kreuzritterheer vor Jerusalem verlor ohne seinen wichtigsten Nachschubweg die Oberhand und wurde zurückgeschlagen. Euch bleibt nichts anderes übrig, als gedemütigt und von allen geächtet nach Hause zurückzukehren.
+</text>
+      </lang>
+    </block>
+
+    <block id="4">
+      <lang code="CHN">
+                <text>
+安条克
+
+当你们抵达一处拜占庭前哨，受到了热烈欢迎。在这里，你们与盟友为伍，定能从他们手中换得重要的物资与士兵。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+ANTIOCHIA
+
+When you arrive at the Byzantine outpost, you receive a warm welcome. You are among allies, and will surely receive important goods and soldiers.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+ANTIOCHIA
+
+Als ihr zu einem byzantinischen Außenposten kommt, werdet ihr herzlich empfangen. Hier seid ihr bei Verbündeten, von denen ihr sicher wichtige Waren und Soldaten erhandeln könnt.
+</text>
+      </lang>
+    </block>
+
+    <block id="5">
+      <lang code="CHN">
+                <text>
+强大的撒拉逊大军已映入眼帘！此刻愿上帝垂怜！唯有彻胜，方能决定这片区域未来数年的势力格局。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+The powerful Saracen army is in sight! God have mercy on you now! Only a complete victory will settle the balance of power in this region for the next years.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Das mächtige Sarazenenheer ist in Sicht! Nun gnade euch Gott! Nur ein vollständiger Sieg wird die Machtverhältnisse in dieser Region für die nächsten Jahre klären.
+</text>
+      </lang>
+    </block>
+
+    <block id="6">
+      <lang code="CHN">
+                <text>
+阿卡
+
+阿卡的街巷中，居民向我们欢呼雀跃，可我们真能将他们从撒拉逊大军手中救下吗？在大教堂前的广场上
+
+——那是我们誓死守卫之地——宗主教接见了我们，并将城中部分士兵交由我们调遣。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+AKKON
+
+The people of Akkon cheered us enthusiastically, but would we be able to save them from the Saracen army? 
+
+In front of the cathedral we would have to defend at any cost, the patriarch received us and placed some soldiers of the city under our command.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+AKKON
+
+In den Strassen von Akkon jubelten uns die Bewohner begeistert zu, doch würden wir sie vor dem Sarazenenheer retten können? 
+
+Auf dem Platz vor der Kathedrale, die wir um jeden Preis verteidigen mussten, empfing uns der Patriarch und unterstellte einige Soldaten der Stadt unserem Kommando.
+</text>
+      </lang>
+    </block>
+
+    <block id="charterMercenary">
+      <lang code="CHN">
+                <text>
+安条克如约送来了雇佣兵，并提醒我们：若还需更多兵员，日后尽可再向他们求援。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+Antiochia sent us the promised soldiers and said that we could address them later on if we needed more men.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Antochia sendete uns die versprochenen Söldner mit dem Hinweis, wir könnten uns später noch mal an sie wenden, wenn wir noch mehr Männer bräuchten.
+</text>
+      </lang>
+    </block>
+
+    <block id="header">
+      <lang code="CHN">
+                <text>
+阿卡之战
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE BATTLE OF AKKON
+
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+DIE SCHLACHT UM AKKON
+
+</text>
+      </lang>
+    </block>
+
+    <block id="playerdied">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+                <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+                <text>
+命运弄人，你的全体子民竟尽数罹难。至此，阿卡人几乎再无希望……
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+A sad turn of fate has killed your entire population. There is hardly any hope left for the people of Akkon ...
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Durch eine Fügung des Schicksals wurde deine gesamte Bevölkerung hingerafft. Damit besteht für die Akkonnen kaum noch Hoffnung...
+</text>
+      </lang>
+    </block>
+</briefings>
+</localization>

@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_02_07-sub" export_map_id="campaign_02_07-sub" map_md5="1a6826e6c1bb9e164e692700c988ef4d" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">@与诸英雄一同抵达通往阿斯加德平原之门！</text>
+      <text lang="ger">@Erreiche mit den Helden gemeinsam das Tor in die Ebenen Asgards!</text>
+    </string>
+    <string id="50">
+      <text lang="CHN">比雅尼的部族</text>
+      <text lang="ger">Bjarnis Stamm</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">幽灵战士</text>
+      <text lang="ger">Geisterkrieger</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">蛇战士</text>
+      <text lang="ger">Schlangenkrieger</text>
+    </string>
+    <string id="53">
+      <text lang="CHN">狼人战士</text>
+      <text lang="ger">Werwölfkrieger</text>
+    </string>
+    <string id="71">
+      <text lang="CHN">比雅尼</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="CHN">希拉</text>
+      <text lang="ger">Cyra</text>
+    </string>
+    <string id="73">
+      <text lang="CHN">哈奇</text>
+      <text lang="ger">Hatschi</text>
+    </string>
+    <string id="74">
+      <text lang="CHN">西格德</text>
+      <text lang="ger">Sigurd</text>
+    </string>
+    <string id="75">
+      <text lang="CHN">伊科尔</text>
+      <text lang="ger">Ykol</text>
+    </string>
+    <string id="98">
+      <text lang="CHN">海姆达尔吹响号角之时，比弗罗斯特桥不仅为我们开启、由此连通阿斯加德之路，更引发了一场冰风暴，令万物冻结。</text>
+      <text lang="ger">Als Heimdall in sein Horn blies, öffnete sich nicht nur die Brücke Bifrost für uns und somit der Weg nach Asgard, sondern ein Eissturm brach los und lies alles gefrieren.</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">冰之世界</text>
+      <text lang="ger">EISWELT</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="CHN">
+        <text>
+
+海姆达尔吹响号角，不仅为我们开启了彩虹桥比弗罗斯特、铺展了通往阿斯加德之路……
+
+一场浩大的冰风暴骤然爆发，将周遭一切凝为寒冰。周遭景致瞬息化作冰冷、坚硬而惨白刺目的世界，刺得我们睁不开眼，四肢也阵阵刺痛。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Als Heimdall in sein Horn blies, öffnete sich nicht nur die Brücke Bifrost für uns und somit der Weg nach Asgard... 
+
+Plötzlich brach auch ein gewaltiger Eissturm los und lies alles um uns herum zu Eis erstarren. Die Umgebung verwandelte sich blitzschnell in eine kalte, harte und grellweiße Welt, so dass unsere Augen geblendet wurden und unsere Glieder schmerzten. 
+</text>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="CHN">
+        <text>
+
+伊科尔忽然又出现了！他多半是抢在我们之前抵达了入口……可他方才去了何处？？
+他说离队期间有更要紧的事要办，如今总算归来。罢了。
+
+纵然我满心疑窦，纵然一丝疑虑悄然爬上心头，但在这黑暗险恶的疆域里他安然无恙，我们终究还是欣慰的。寻得通往神界之入口，也令我们喜不自胜。
+
+然而以诸神之名——我们想象中的阿斯加德，绝非这般模样！举目尽是冰雪覆盖，寒冷而荒芜，整个世界似已死寂冰封。此处竟是诸神栖居之所？此处竟能令他们安适？这，便是那应许的乐土？？
+
+满怀疑惑，我们踏入——又一座迷宫……
+很快便见分晓：这片粗粝的冰世界，处处暗藏凶险。
+
+带领众英雄共同抵达通往阿斯加德平原的传送门！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Plötzlich war Ykol wieder da! Irgendwie hatte er es wohl geschafft, den Eingang vor uns zu erreichen... Aber wo war er gewesen??
+Er meinte, er habe in seiner Abwesenheit wichtigere Dinge zu erledigen gehabt und sei ja nun wieder da. Nun ja.
+
+Trotz aller Zweifel, die ich hegte und trotz dem leisen Misstrauen, dass mich beschlichen hatte, waren wir letztlich froh darüber, dass ihm in diesem dunklen, gefährlichen Reich nichts geschehen war, Auch freuten wir uns, den Eingang in die Götterwelt gefunden zu haben. 
+
+Aber bei den Asen - SO hatten wir uns Asgard NICHT vorgestellt! Alles was von Eis bedeckt, es war kalt und unwirtlich und die ganze Welt schien tot und erstarrt zu sein. HIER sollten Götter leben? HIER sollten sie sich wohl fühlen? DAS sollte das Paradies sein??
+
+Zweifelnd betraten wir - ein weiteres Labyrinth...
+Und es stellte sich sehr bald heraus, dass diese raue Eiswelt voller Gefahren steckte. 
+
+Erreiche mit den Helden gemeinsam das Portal in die Ebenen Asgards!
+</text>
+      </lang>
+    </block>
+    <block id="01_player_1_seen">
+      <lang code="CHN">
+        <text>
+
+幽灵战士
+
+已故维京人的魂魄，似乎附在了这些战士空洞的躯壳之中。我们并不愿与同族同胞的士兵为敌，可一旦过于靠近，他们便不会给我们别的选择！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+GEISTERKRIEGER 
+
+Die Seelen verstorbener Wikinger schienen in diesen leeren Hüllen der Krieger zu stecken. Uns missfiel es, gegen Soldaten unseres eigenen Volkes kämpfen zu müssen, aber wenn wir ihnen zu nahe kommen würden, ließen sie uns keine andere Wahl!
+</text>
+      </lang>
+    </block>
+    <block id="02">
+      <lang code="CHN">
+        <text>
+
+寻得船只！
+
+在这虚幻之境，此船或许还能助我们一臂之力。若别无他途，我们便可借水路前行。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+SCHIFF GEFUNDEN!
+
+Hier in dieser unwirklichen Welt mochte uns dieses Schiff noch einen guten Dienst erweisen. Wenn kein anderer Weg uns weiterführen würde, konnten wir damit den Wasserweg benutzen.
+</text>
+      </lang>
+    </block>
+    <block id="03">
+      <lang code="CHN">
+        <text>
+
+闸门开启！开关 1
+
+我们扳动开关时，附近一扇门应声开启。须留一名部众守在开关上，方能令此门不致重新闭合。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+TORE OFFEN! Schalter 1
+
+Als wir den Schalter betätigten, öffnete sich ein Tor in der näheren Umgebung. Wir mussten einen unserer Leute auf dem Schalter zurücklassen, damit sich dieses Tore nicht wieder schloss. 
+</text>
+      </lang>
+    </block>
+    <block id="04">
+      <lang code="CHN">
+        <text>
+闸门开启！开关 2
+
+我们扳动开关时，附近一扇门应声开启。须留一名部众守在开关上，方能令此门不致重新闭合。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+TORE OFFEN! Schalter 2
+
+Als wir den Schalter betätigten, öffnete sich ein Tor in der näheren Umgebung. Wir mussten einen unserer Leute auf dem Schalter zurücklassen, damit sich dieses Tore nicht wieder schloss.
+</text>
+      </lang>
+    </block>
+    <block id="05">
+      <lang code="CHN">
+        <text>
+闸门开启！开关 3
+
+我们扳动开关时，附近一扇门应声开启。须留一名部众守在开关上，方能令此门不致重新闭合。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+TORE OFFEN! Schalter 3
+
+Als wir den Schalter betätigten, öffnete sich ein Tor in der näheren Umgebung. Wir mussten einen unserer Leute auf dem Schalter zurücklassen, damit sich dieses Tore nicht wieder schloss.
+</text>
+      </lang>
+    </block>
+    <block id="06">
+      <lang code="CHN">
+        <text>
+闸门开启！开关 4
+
+我们扳动开关时，附近一扇门应声开启。须留一名部众守在开关上，方能令此门不致重新闭合。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+TORE OFFEN! Schalter 4
+
+Als wir den Schalter betätigten, öffnete sich ein Tor in der näheren Umgebung. Wir mussten einen unserer Leute auf dem Schalter zurücklassen, damit sich dieses Tore nicht wieder schloss.
+</text>
+      </lang>
+    </block>
+    <block id="07">
+      <lang code="CHN">
+        <text>
+闸门开启！开关 5
+
+我们扳动开关时，附近一扇门应声开启。须留一名部众守在开关上，方能令此门不致重新闭合。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+TORE OFFEN! Schalter 5
+
+Als wir den Schalter betätigten, öffnete sich ein Tor in der näheren Umgebung. Wir mussten einen unserer Leute auf dem Schalter zurücklassen, damit sich dieses Tore nicht wieder schloss.
+</text>
+      </lang>
+    </block>
+    <block id="08">
+      <lang code="CHN">
+        <text>
+闸门开启！开关 6
+
+我们扳动开关时，附近一扇门应声开启。须留一名部众守在开关上，方能令此门不致重新闭合。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+TORE OFFEN! Schalter 6
+
+Als wir den Schalter betätigten, öffnete sich ein Tor in der näheren Umgebung. Wir mussten einen unserer Leute auf dem Schalter zurücklassen, damit sich dieses Tore nicht wieder schloss.
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+是逞勇还是鲁莽？比雅尼陨落之时，诸神亦为之落泪……少了这位英雄，你便无缘得知此役的结局。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="200">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命里片刻的轻率，便致此般后果！你的女英雄希拉，因你的疏忽而殒命！少了这位女英雄，你便无缘得知此役的结局。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin Cyra erlag durch deine Unachtsamkeit! Ohne diese Heldin wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="300">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命里片刻的轻率，便致此般后果！你的挚友与英雄哈奇，因你的疏忽而殒命！少了这位英雄，你便无缘得知此役的结局。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Hatschi erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
+</text>
+      </lang>
+    </block>
+    <block id="400">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命里片刻的轻率，便致此般后果！你的挚友与英雄西格德，因你的疏忽而殒命！少了这位英雄，你便无缘得知此役的结局。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Sigurd erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="500">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命里片刻的轻率，便致此般后果！伊科尔因你的疏忽而殒命！少了这位英雄，你便无缘得知此役的结局。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Ykol erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="CHN">
+        <text>
+
+一座巍峨的传送门，傲然矗立于盘曲迷宫的尽头，几乎未受冰雪侵蚀。它流光溢彩，当我们穿门而过，一片美妙绝伦的平原在眼前铺展——我们几乎已不敢相信它的存在。满心敬畏，我们跪伏于地……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Ein großes Portal stand stolz und nahezu unberührt vom Eis am Ende des verwinkelten Labyrinths. Es schillerte in allen erdenklichen Farben, und als wir hindurch schritten, breitete sich vor uns eine wunderbare Ebene aus, an deren Existenz wir schon nicht mehr geglaubt hatten. Voller Ehrfurcht knieten wir nieder...
+</text>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="CHN">
+        <text>
+
+一道宏伟的阶梯，盘绕上一处高丘。这，必是诸神之国！而我们距此，仅余数百级阶梯之遥……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Um eine Anhöhe wand sich eine majestätische Treppe. DIES musste das Reich der Götter sein! Und wir waren nur noch einige hundert Treppenstufen davon entfernt ...
+</text>
+      </lang>
+    </block>
+    <block id="50_endheader">
+      <lang code="CHN">
+        <text>
+任务成功！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+
+MISSION GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+冰世界
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+
+EISWELT
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

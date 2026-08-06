@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="16_Wigrid_Wall" export_map_id="16_Wigrid_Wall" map_md5="b6b72963afad371fb3e8028c54af89f0" IsC2M="true">
+  <languages>
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">维格利德之墙</text>
+      <text lang="ger">Wigrid Wall</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">我们终于回到了家乡维格利德之墙。</text>
+      <text lang="ger">Endlich waren wir daheim in Wigrid Wall.</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+    </string>
+    <string id="4">
+      <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+    </string>
+    <string id="50">
+      <text lang="CHN">玩家0</text>
+      <text lang="ger">Spieler0</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">玩家1</text>
+      <text lang="ger">Spieler1</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">玩家2</text>
+      <text lang="ger">Spieler2</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="lost_body">
+      <lang code="CHN">
+        <text>你失败了！！要不去玩一局“别生气”棋吧。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Du hast verloren !! Versuchs doch mal mit ner Runde "Mensch ärgere Dich nicht".
+
+</text>
+      </lang>
+    </block>
+    <block id="lost_header">
+      <lang code="CHN">
+        <text>任务失败！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Mission verloren!
+
+</text>
+      </lang>
+    </block>
+    <block id="playerdied1">
+      <lang code="CHN">
+        <text>我们最后一位朋友如今也走了。我们埋葬了死者，发誓要复仇。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Der letzte unserer Freunde war nun auch dahin. Wir begruben die Toten, und schworen Rache.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerdied2">
+      <lang code="CHN">
+        <text>撒拉逊酋长已被击败，可他本人却逃脱了。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Der Sarazenhäuptling war besiegt, doch er selbst konnte entkommen.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerenemy1">
+      <lang code="CHN">
+        <text>玩家1现在转为敌对。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 1 ist jetzt feindlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerfriendly2">
+      <lang code="CHN">
+        <text>玩家2现在转为友好。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 2 ist jetzt freundlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerneutral1">
+      <lang code="CHN">
+        <text>玩家1现在转为中立。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 1 ist jetzt neutral.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerneutral2">
+      <lang code="CHN">
+        <text>玩家2现在转为中立。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 2 ist jetzt neutral.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerseen1">
+      <lang code="CHN">
+        <text>当我们回到自己的村庄时，眼前是何等骇人的景象。一切都被烧成了灰烬。死亡的浓烟仍盘旋在屋顶之上。这究竟会是谁干的？一名幸存者还向我们说起一个自称坦克的撒拉逊酋长。正是他无缘无故地袭击了这座和平的村庄。据说他已退回了遥远的北方。我们商议该如何是好。很久以前，我们曾在此地东南方埋下过一些宝箱。它们是否还在？借助它们，我们或许能重建一座新村庄。此外我们还需要武器，大量的武器。
+任务目标1：在仓库中储备以下物资：100把长剑、100把短剑、100支铁矛、100副板甲和100件锁甲。寻找撒拉逊酋长坦克。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Was für ein grauenhafter Anblick bot sich uns, als wir in unser Dorf kamen. Alles war niedergebrannt. Der Rauch des Todes schwebte noch über den Dächern. Wer konnte das gewesen sein?  Ein Überlebender berichtete uns noch von einem Sarazenhäuptling der sich Tank nennt. Er war es gewesen, der das friedliche Dorf ohne Grund angegriffen hatte. Er soll sich in den hohen Norden zurückgezogen haben. Wir berieten was zu tun sei. Vor langer Zeit hatten wir südöstlich von hier Schatztruhen vergraben.Ob sie noch da waren? Mit ihrer Hilfe könnten wir ein neues Dorf errichten. Außerdem brauchten wir Waffen, viele Waffen.
+Missionsziel 1:Lagere folgende Waren in Dein Lager: 100 Langschwerter, 100 Kurzschwerter, 100 Eisenspeere, 100 Plattenrüstungen und 100 Kettenhemden. Suche Tank, den Sarazenenhäuptling.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerseen2">
+      <lang code="CHN">
+        <text>站住！！我，撒拉逊酋长、维格利德之墙的新王、非洲及所有阿拉伯地区的统治者坦克，命令你们向我臣服。否则我便命令我的军队把你们屠戮殆尽，就像我们已经对你们的朋友做过的那样。要我们臣服？呸，你们很快就会尝到我们刀刃的钢铁滋味，我们心想。
+任务目标2：消灭撒拉逊酋长坦克及其随从。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Halt !! Ich Tank, Häuptling der Sarazenen, neuer König von Wigrid Wall, Herrscher über Afrika und aller arabischen Länder, gebe Euch den Befehl Euch mir zu unterwerfen. Andernfalls gebe ich meinen Truppen den Befehl Euch niederzumetzeln, genauso wie wir es schon mit Euren Freunden gemacht haben. Wir uns unterwerfen? Paah, ihr werdet schon bald den Stahl unserer Klingen spüren dachten wir.
+Missionsziel 2: Vernichte Tank den Sarazenenhäuptling und sein Gefolge.
+
+</text>
+      </lang>
+    </block>
+    <block id="start_body">
+      <lang code="CHN">
+        <text>当我们弃船上岸、朝村庄走去时，空气中弥漫着一股新鲜的烟味。哦，太好了，我们心想，有新鲜的香肠吃了。可我们那位来自冰之世界的新朋友却说：“不，那是死亡的浓烟。”我们茫然地面面相觑，同时也为朋友们担起心来。我们急忙朝村庄赶去……
+
+
+制作者：尤基</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Als wir unsere Schiffe verließen, um in unser Dorf zu gehen lag frischer Rauch in der Luft. Oh prima, dachten wir, es gibt frische Würstchen. Doch unser neuer Freund aus der Eiswelt sagte:"Nein, das ist der Rauch des Todes". Wir schauten uns verdutzt an, und sorgten uns zugleich um unsere Freunde. Eilig machten wir uns auf in unser Dorf...
+
+
+Erstellt von: Yogi
+
+</text>
+      </lang>
+    </block>
+    <block id="start_header">
+      <lang code="CHN">
+        <text>维格利德之墙</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Wigrid Wall
+
+</text>
+      </lang>
+    </block>
+    <block id="won_body">
+      <lang code="CHN">
+        <text>我们储备好了所有所需的武器，并把撒拉逊酋长赶出了我们的家乡。可他本人却乘船逃走了。既已立誓复仇，我们便想立刻追赶。可我们不得不留下许多士兵，好让家乡这一次能免遭袭击。撒拉逊酋长坦克只可能逃往一个他能找到盟友的国度。因此我们朝非洲最北端驶去……</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Wir hatten alle erforderlichen Waffen eingelagert und den Sarazenhäuptling aus unserer Heimat vertrieben. Doch hatte er selbst mit einem Schiff die Flucht ergriffen. Da wir Rache geschworen hatten, wollten wir sofort hinterher. Doch wir mußten viele Soldaten zurücklassen, damit unsere Heimat diesmal vor Angriffen geschützt war. Der Sarazenhäuptling Tank konnte nur in ein Land fliehen wo er Verbündete fand. Wir steuerten deshalb die nördlichste Spitze von Afrika an...
+
+</text>
+      </lang>
+    </block>
+    <block id="won_header">
+      <lang code="CHN">
+        <text>任务达成！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Mission gewonnen!
+
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

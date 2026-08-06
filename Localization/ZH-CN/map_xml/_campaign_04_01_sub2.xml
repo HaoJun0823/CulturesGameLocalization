@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="_campaign_04_01_sub2" export_map_id="_campaign_04_01_sub2" map_md5="e3129947521d9d8443eb864278da33ae" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">@抵达阿夸里乌斯！</text>
+      <text lang="ger">@GELANGE ZU AQUARIUS!</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">与阿夸里乌斯的守龙交谈。</text>
+      <text lang="ger">Sprich mit dem Wachdrachen von Aquarius.</text>
+    </string>
+    <string id="2">
+      <text lang="CHN">借火龙之力熔铸雕像！</text>
+      <text lang="ger">Schmelze mit dem Feuerdrachen die Statue!</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">与英雄一同返回出口！</text>
+      <text lang="ger">Gehe mit den Helden zurück zum Ausgang!</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">火龙</text>
+      <text lang="ger">Feuerdrachen</text>
+    </string>
+    <string id="53">
+      <text lang="CHN">阿夸斯 - 水龙</text>
+      <text lang="ger">Aquas - Wasserdrachen</text>
+    </string>
+    <string id="62">
+      <text lang="CHN">卢米斯</text>
+      <text lang="ger">Lumis</text>
+    </string>
+    <string id="63">
+      <text lang="CHN">阿夸斯</text>
+      <text lang="ger">Aquas</text>
+    </string>
+    <string id="75">
+      <text lang="CHN">诺伯特</text>
+      <text lang="ger">Norbert</text>
+    </string>
+    <string id="76">
+      <text lang="CHN">玛尼</text>
+      <text lang="ger">Mani</text>
+    </string>
+    <string id="77">
+      <text lang="CHN">阿夸里乌斯</text>
+      <text lang="ger">Aquarius</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">海底</text>
+      <text lang="ger">UNTER DEM MEER</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="CHN">
+        <text>
+而那座冰雕像就矗立在那里，挡住了通往阿夸里乌斯的去路！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Mani und Norbert betraten wieder den Wassertempel der AQUAS unter dem Meer. In dieser fremden Umgebung, verliefen alle ihre Bewegungen langsamer und es schimmerte vor ihren Augen.
+
+</text>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="CHN">
+        <text>
+阿夸里乌斯守卫
+“噢，我看你们带了一条卢米斯族的火龙来。它们怕水，正如我们怕火。他定是鼓起了莫大的勇气。不知他能否融化这冰？”
+只管走向冰像，若你们不成，恐怕便无人能成了！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+Und dort war sie, die Eisstatue, die den Weg zu Aquarius versperrte!
+</text>
+      </lang>
+    </block>
+    <block id="01">
+      <lang code="CHN">
+        <text>
+阿夸里
+
+乌斯守卫</text>
+        <usericon>2,9</usericon>
+        <text>
+“你们当真做到了。我们着实小看了火龙。这份恩情我们永志不忘。随我来见阿夸里乌斯吧！”
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+AQUARIUS WACHE
+
+"Oh, wie ich sehe habt ihr einen der Lumis, der Feuerdrachen mitgebracht. Sie scheuen das Wasser, wie wir das Feuer. Es muss ihn große Überwindung gekostet haben. Ob er das Eis wohl schmelzen kann?
+
+</text>
+        <usericon>2,9</usericon>
+        <text>
+
+Tretet ruhig zur Eisstatue, wenn ihr es nicht schafft, dann schafft es wahrscheinlich niemand!"
+</text>
+      </lang>
+    </block>
+    <block id="02">
+      <lang code="CHN">
+        <text>
+阿夸里乌斯
+“欢迎来到海底之国！”阿夸里乌斯用咕噜作响的声音说道，嘴里还冒出小小的气泡。
+
+“鱼儿们已将你们的冒险告知于我。多亏你们，神殿入口重又畅通。我会传信给睿智的和平使者格拉乌霍尔姆，告知我们已与火龙言归于好，届时他必放你们进去，助你们一臂之力。
+返回出口！”
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+AQUARIUS WACHE
+
+"Ihr habt es tatsächlich vollbracht. Wir haben die Feuerdrachen wahrlich unterschätzt. Unser Dank sei für immer Euer. Folgt mir nun zu AQUARIUS!"
+</text>
+      </lang>
+    </block>
+    <block id="03">
+      <lang code="CHN">
+        <text>
+任务
+
+失败！</text>
+        <usericon>2,8</usericon>
+        <text>
+一时的轻率，生命便转瞬即逝！你的挚友、英雄之龙诺伯特，因你的疏忽
+
+而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+AQUARIUS
+
+"Willkommen im Reich unter dem Meer!" sprach Aquarius mit gurgelnder Stimme, das ihm kleine Blubberbläschen aus dem Maul stiegen.
+
+</text>
+        <usericon>2,8</usericon>
+        <text>
+ 
+ "Die Fische erzählten mir bereits von eurem Abenteuer. Dank euch ist der Eingang zum Tempel nun wieder frei. Ich sende den weisen Friedensstifter GRAUHOLM die Nachricht, dass wir uns mit den Feuerdrachen versöhnt haben, dann gewährt er euch Zutritt und wird euch helfen."
+ 
+Gehe zurück zum Ausgang!
+</text>
+      </lang>
+    </block>
+    <block id="500">
+      <lang code="CHN">
+        <text>
+任务失败！
+        </text>
+        <text>
+睿智的格拉乌霍尔姆定会对此甚感欣慰！
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="CHN">
+        <text>
+玛尼与诺伯特凭着热心助人，竟促成了整个族群的联合！阿夸斯与卢米斯重归于好！
+        </text>
+        <usericon>2,6</usericon>
+        <text>
+睿智的格拉乌霍尔姆一定会为此感到欣慰！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Mani und Norbert hatten es geschafft durch ihre Hilfsbereitschaft ganze Völker zusammenzuführen! Die Aquas und die Lumis waren sich wieder wohlgesonnen! Das war ein Erfolg!
+
+</text>
+        <usericon>2,6</usericon>
+        <text>
+
+Der weise GRAUHOLM würde dies sicherlich zu schätzen wissen!
+</text>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="CHN" />
+      <lang code="ger" />
+    </block>
+    <block id="50_endheader">
+      <lang code="CHN">
+        <text>
+任务成功！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+MISSION GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="600">
+      <lang code="CHN">
+        <text>任务失败！</text>
+        <text>生活中的片刻疏忽，人生如此迅速！ 玛尼——比雅尼与希拉之子——因你的疏忽而丧命！失去这位英雄，你将无法得知任务的结局。</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+海底之下
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+UNTER DEM MEER
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

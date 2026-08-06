@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="06_Die_Entscheidung" export_map_id="06_Die_Entscheidung" map_md5="5563c5e3940d63ed5466029ed907254a" IsC2M="true">
+  <languages>
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">抉择</text>
+      <text lang="ger">Die Entscheidung</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">我们抵达了S-KI-MOS的家乡。尽管我们再三警告他们提防梅林，费利克斯和卡萝还是想回到他们的村庄。</text>
+      <text lang="ger">Wir waren in der Heimat der S-KI-MOS.Felix und Karo wollten zu Ihrem Dorf trotz unserer Warnungen vor Merlin.</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+    </string>
+    <string id="4">
+      <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+    </string>
+    <string id="50">
+      <text lang="CHN">玩家0</text>
+      <text lang="ger">Spieler0</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">玩家1</text>
+      <text lang="ger">Spieler1</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">玩家2</text>
+      <text lang="ger">Spieler2</text>
+    </string>
+    <string id="53">
+      <text lang="CHN">玩家3</text>
+      <text lang="ger">Spieler3</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="findmappos1">
+      <lang code="CHN">
+        <text>梅林的前哨！！
+这处前哨我们很快就能摧毁。
+任务目标：摧毁梅林的前哨。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Merlins Außenposten !!
+Diesen Außenposten würden wir schnell vernichten.
+Missionsziel: Vernichte Merlins Außenposten.
+
+</text>
+      </lang>
+    </block>
+    <block id="findmappos2">
+      <lang code="CHN">
+        <text>精锐近卫队的前哨！！
+这里想必是梅林精锐近卫队的一处前哨。
+任务目标：摧毁该前哨。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Außenposten der Elite-Leibgarde !!
+Dies mußte ein Außenposten der Elite-Leibgarde Merlins sein.
+Missionsziel: Vernichte den Außenposten.
+
+</text>
+      </lang>
+    </block>
+    <block id="lost_body">
+      <lang code="CHN">
+        <text>我们败了。进攻者太强了。忽然，我们头顶的天空裂开，一个声音对我们说道。朋友们，我再给你们一次机会，从头重新开始吧……</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Wir hatten verloren.Die Angreifer waren zu stark gewesen.Plötzlich tat sich der Himmel über uns auf, und eine Stimme sprach zu uns. Freunde, ich gebe Euch eine zweite Chance, fangt einfach nochmals von vorne an....
+
+</text>
+      </lang>
+    </block>
+    <block id="lost_header">
+      <lang code="CHN">
+        <text>任务失败！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Mission verloren!
+
+</text>
+      </lang>
+    </block>
+    <block id="playerdied1">
+      <lang code="CHN">
+        <text>我们终于把梅林连同他的前哨一并摧毁了。如今和平终将重返……</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Endlich hatten wir Merlin mitsamt seinem Außenposten vernichtet. Nun würde endlich wieder Frieden einkehren....
+
+</text>
+      </lang>
+    </block>
+    <block id="playerdied2">
+      <lang code="CHN">
+        <text>通过一名信使，我们收到了一个可怕的消息。梅林的军队袭击了费利克斯及其族人的村庄，把那里的一切生灵尽数抹除。我们的悲痛化作了仇恨与愤怒。我们发誓要复仇……</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Durch einen Boten bekamen wir eine schreckliche Nachricht. Merlins Truppen hatten das Dorf von Felix und seinem Volk angegriffen und alles lebende dort ausgelöscht. Unsere Trauer änderte sich in Hass und Zorn um. Wir schworen Rache........
+
+</text>
+      </lang>
+    </block>
+    <block id="playerdied3">
+      <lang code="CHN">
+        <text>我们终于把梅林的精锐近卫队连同他的前哨一并摧毁了。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Endlich hatten wir Merlins Elite-Leibgarde mitsamt seinem Außenposten vernichtet.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerenemy2">
+      <lang code="CHN">
+        <text>玩家2现在转为敌对。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 2 ist jetzt feindlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerfriendly1">
+      <lang code="CHN">
+        <text>玩家1现在转为友好。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 1 ist jetzt freundlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerfriendly3">
+      <lang code="CHN">
+        <text>玩家3现在转为友好。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 3 ist jetzt freundlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerneutral1">
+      <lang code="CHN">
+        <text>玩家1现在转为中立。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 1 ist jetzt neutral.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerneutral2">
+      <lang code="CHN">
+        <text>玩家2现在转为中立。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 2 ist jetzt neutral.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerneutral3">
+      <lang code="CHN">
+        <text>玩家3现在转为中立。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 3 ist jetzt neutral.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerseen1">
+      <lang code="CHN">
+        <text>梅林的军队！！
+我，七海海盗、加勒比海的统治者梅林，现在就要把你们消灭。你们绕过我的前哨，休想不受惩罚……
+任务目标：消灭红海盗梅林。
+找到那处前哨并将其一并摧毁。
+提示：也许你只能从海路抵达那处前哨……</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Merlins Truppen !!
+Ich Merlin, Pirat der sieben Meere,Herrscher über die Karibik werde Euch nun vernichten. Ihr seit nicht ungestraft an meinem Außenposten vorbeigekommen....
+Missionsziel: Vernichte Merlin den roten Korsaren.
+Suche den Außenposten und vernichte ihn ebenfalls.
+Tip: Vielleicht erreichst Du den Außenposten nur über den Seeweg....
+
+
+</text>
+      </lang>
+    </block>
+    <block id="playerseen2">
+      <lang code="CHN">
+        <text>这里想必就是费利克斯和他的S-KI-MOS族人的村庄了。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Dies war wohl das Dorf von Felix und seinen S-KI-MOS.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerseen3">
+      <lang code="CHN">
+        <text>梅林的精锐近卫队！！
+我，梅林精锐近卫队的总指挥官马弗里克，预言你们的覆灭。可你们怎能绕过我的前哨而不受惩罚？
+任务目标：消灭梅林的精锐近卫队。
+找到精锐近卫队的前哨并将其一并摧毁。
+提示：也许你只能从海路抵达那处前哨……</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Merlins Elite-Leibgarde !!
+Ich Maverick, Oberbefehlshaber von Merlins Elite-Leibgarde prophezeie Euch den Untergang.Doch wie konntet ihr ungestraft an meinem Außenposten vorbeikommen?
+Missionsziel: Vernichte Merlins Elite-Leibgarde.
+Suche den Außenposten der Elite-Leibgarde und vernichte ihn ebenfalls.
+Tip: Vielleicht erreichst Du den Außenposten nur über den Seeweg....
+
+</text>
+      </lang>
+    </block>
+    <block id="start_body">
+      <lang code="CHN">
+        <text>他俩就这样走了。我们劝他们留下来和我们一起，可思乡之情实在太浓。尤其是卡萝，能再见到自己的孩子让她欣喜不已。为保险起见，我们建了几座瞭望塔。毕竟世事难料。我们的侦察兵禀报说，这片土地上浆果灌木极少。这么说来我们大概得酿些营养药水，好继续朝内陆挺进。梅林的踪影我们还没能瞥见，不过想必很快就会……
+任务目标：找到红海盗梅林，将他彻底消灭。
+提示：尽快扩建你的防御。
+酿造营养药水以探索内陆。
+
+
+制作者：尤基</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Da gingen die beiden also dahin.Wir rieten ihnen bei uns zu bleiben, aber das Heimweh war halt zu groß.Vor allem Karo freute sich ihre Kinder wiederzusehen.Wir hatten sicherheitshalber ein paar Wachtürme gebaut. Man konnte ja nie wissen.Unser Kundschafter berichtete uns von einer sehr geringen Anzahl an Beerensträuchern im Land. Also mußten wir wohl Nahrungstränke brauen, damit wir weiter ins Landesinnere vordringen konnten.Von Merlin hatten wir noch nichts erblicken können, aber das würden wir bestimmt schon bald....
+Missionsziel: Finde Merlin, den roten Korsaren und vernichte ihn endgültig.
+Tip: Baue schnell Deine Verteidigung aus.
+Braue Nahrungstränke um das Landesinnere zu erkunden.
+
+
+Erstellt von: Yogi
+
+</text>
+      </lang>
+    </block>
+    <block id="start_header">
+      <lang code="CHN">
+        <text>抉择</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Die Entscheidung
+
+</text>
+      </lang>
+    </block>
+    <block id="won_body">
+      <lang code="CHN">
+        <text>我们成功了。梅林和他的爪牙都已被消灭。可代价高昂。费利克斯和他的族人被灭绝了。既然这片美丽的土地上再无生灵，我们中有些人便决定留下来，建立一处新的殖民地。忽然，一艘船从我们那遥远的家乡维格利德之墙驶来。那个饿得半死的船长向我们讲述了家乡遭遇的重大变故。
+不过，那已是另一个故事了。也许某一天我会讲给你们听……</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Wir hatten es geschafft. Merlin und seine Schergen waren vernichtet.Doch der Preis war hoch. Felix und sein Volk waren vernichtet worden. Da es auf diesem schönen Landstrich kein Leben mehr gab, beschlossen einige von uns hierzubleiben und eine neue Kolonie zu gründen. Plötzlich kam ein Schiff aus unserer weit weit entfernten Heimat Wigrid Wall. Der halbverhungerte Kapitän erzählte und von großen Problemen in unserer Heimat.
+Doch dies ist eine neue Geschichte. Vielleicht erzähle ich sie euch irgendwann einmal...........
+
+</text>
+      </lang>
+    </block>
+    <block id="won_header">
+      <lang code="CHN">
+        <text>任务达成！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Mission gewonnen!
+
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

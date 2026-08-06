@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="weinachten_2002" export_map_id="weinachten_2002" map_md5="4b725b58c890e01bdbf563326a026228" IsC2M="false">
+  <languages>
+    <language code="GER" alias="GER" encoding="windows-1252" fix_1251="false" />
+    <language code="ENG" alias="ENG" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="GER">@HILF DEN ESKIMOS, VEREINE DIE VÖLKER!</text>
+      <text lang="ENG">@HELP THE ESKIMOS, UNITE THE TRIBES!</text>
+    </string>
+    <string id="1">
+      <text lang="GER">Baue eine kleine Siedlung auf.</text>
+      <text lang="ENG">Build up a small settlement.</text>
+    </string>
+    <string id="2">
+      <text lang="GER">Suche den Stamm der Graukimos und Gelbimos auf.</text>
+      <text lang="ENG">Visit the tribe of the Greykimos and Yellimos.</text>
+    </string>
+    <string id="3">
+      <text lang="GER">Gehe zur Näherei.</text>
+      <text lang="ENG">Go to the tailor's workshop.</text>
+    </string>
+    <string id="4">
+      <text lang="GER">Gehe zu den Nornen im Westen.</text>
+      <text lang="ENG">Go to the Norns in the west.</text>
+    </string>
+    <string id="5">
+      <text lang="GER">Suche eine Möglichkeit den Regen zu vertreiben und Schnee herbeizurufen.</text>
+      <text lang="ENG">Find a way to stop the rain and summon snow.</text>
+    </string>
+    <string id="6">
+      <text lang="GER">Suche nach einer friedlichen Einigung.</text>
+      <text lang="ENG">Try to find a way for a peaceful union.</text>
+    </string>
+    <string id="7">
+      <text lang="GER">Liefere 10 Kuchen an die Graukimos zum Tribut!</text>
+      <text lang="ENG">Pay 10 cakes to the Greykimos as a tribute!</text>
+    </string>
+    <string id="8">
+      <text lang="GER">Liefere 10 Met an die Gelbimos zum Tribut!</text>
+      <text lang="ENG">Pay 10 mead to the Yellimos as a tribute!</text>
+    </string>
+    <string id="9">
+      <text lang="GER">Gib den Wikinger 15 Säcke Wolle zum Tribut.</text>
+      <text lang="ENG">Pay the Vikings 15 sacks of wool as a tribute.</text>
+    </string>
+    <string id="10">
+      <text lang="GER">Bringe die Eskimos zur Näherei, wenn die Stämme befreundet sind!</text>
+      <text lang="ENG">Take the Eskimos to the tailor's workshop if the tribes are friendly!</text>
+    </string>
+    <string id="11">
+      <text lang="GER">Bringe die roten Eskimos zu den Schwarzimos.</text>
+      <text lang="ENG">Take the red Eskimos to the Blackimos.</text>
+    </string>
+    <string id="50">
+      <text lang="GER">Wikinger</text>
+      <text lang="ENG">Vikings</text>
+    </string>
+    <string id="51">
+      <text lang="GER">Wikinger</text>
+      <text lang="ENG">Vikings</text>
+    </string>
+    <string id="52">
+      <text lang="GER">Eskimos</text>
+      <text lang="ENG">Eskimos</text>
+    </string>
+    <string id="53">
+      <text lang="GER">Graukimos</text>
+      <text lang="ENG">Greykimos</text>
+    </string>
+    <string id="54">
+      <text lang="GER">Gelbimos</text>
+      <text lang="ENG">Yellimos</text>
+    </string>
+    <string id="55">
+      <text lang="GER">Schwarzimos</text>
+      <text lang="ENG">Blackimos</text>
+    </string>
+    <string id="61">
+      <text lang="GER">Wiki.</text>
+      <text lang="ENG">Viki.</text>
+    </string>
+    <string id="62">
+      <text lang="GER">Eski.</text>
+      <text lang="ENG">Eski.</text>
+    </string>
+    <string id="63">
+      <text lang="GER">Grauki.</text>
+      <text lang="ENG">Greyki.</text>
+    </string>
+    <string id="64">
+      <text lang="GER">Gelbi.</text>
+      <text lang="ENG">Yelli.</text>
+    </string>
+    <string id="65">
+      <text lang="GER">Schwarz.</text>
+      <text lang="ENG">Black.</text>
+    </string>
+    <string id="71">
+      <text lang="GER">Bjarni</text>
+      <text lang="ENG">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="GER">Nanuk</text>
+      <text lang="ENG">Nanuk</text>
+    </string>
+    <string id="76">
+      <text lang="GER">Häuptling</text>
+      <text lang="ENG">Chieftain</text>
+    </string>
+    <string id="98">
+      <text lang="GER">Im Land der Eskimos schlagen die Wikinger erneut ihre Zelte auf. Doch die Bewohner haben große Sorgen. Die verschiedenen Stämme führen gegeneinander Krieg und Regen bedroht ihre Existenz…</text>
+      <text lang="ENG">The Vikings pitch their tents in the land of the Eskimos. But the locals are very worried. The different tribes are at war with one another and rain threatens their existence ...</text>
+    </string>
+    <string id="99">
+      <text lang="GER">*LEISE RIESELT DER SCHNEE...</text>
+      <text lang="ENG">*LET IT SNOW ...</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="GER">
+        <text> 
+Vor uns breitete sich eine glitzernde Winterlandschaft aus, in der Schneeflocken auf den gefrorenen Boden fielen...
+
+</text>
+        <usericon>1,130,400</usericon>
+        <text>
+
+Aber so kalt und eisig es auch war, wir beschlossen erst einmal unsere Lager aufzuschlagen und die Gegend zu erkunden...
+</text>
+      </lang>
+      <lang code="ENG">
+        <text> 
+A glittering winter landscape lay before us, snowflakes were floating down to the frozen ground ...
+
+</text>
+        <usericon>1,130,400</usericon>
+        <text>
+
+But despite the cold and ice, we decided to set up camp here and to explore the area ...
+</text>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="GER">
+        <text> 
+Baue eine kleine Siedlung auf.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text> 
+Build up a small settlement.
+</text>
+      </lang>
+    </block>
+    <block id="01">
+      <lang code="GER">
+        <text> 
+ESKIMOS
+
+"Bitte, helft uns!" riefen die Eskimos als sie uns entgegenkamen. "Ganz furchtbare Dinge ereignen sich bei uns im Norden!"
+
+</text>
+        <usericon>2,2</usericon>
+        <text>
+
+"Seitdem unser Häuptling verschwunden ist, herrscht kein Frieden mehr und andauernder Regen bedroht unsere Existenz. Die Stämme sind feindselig und streiten sich um jedes Gebiet, dass noch nicht vom Schneematsch zerfressen ist. Die Graukimos kämpfen gegen die Gelbimos."
+
+</text>
+        <usericon>2,3</usericon>
+        <text>
+
+"Jedes Volk beschuldigt ein anderes, für das Verschwinden unseres Häuptlings verantwortlich zu sein.
+Bitte, ihr müsst uns helfen!"
+
+Suche eine Möglichkeit die Auseinandersetzungen und den Regen zu beenden.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text> 
+ESKIMOS
+
+"Please help us!" the Eskimos shouted when they approached us. "There are dreadful things happening in the north!"
+
+</text>
+        <usericon>2,2</usericon>
+        <text>
+
+"Since our chief has disappeared, there is no more peace and eternal rain is threatening our existence. The tribes are hostile and they fight over every piece of land that has not yet been covered with slush. The Greykimos are fighting against the Yellimos."
+
+</text>
+        <usericon>2,3</usericon>
+        <text>
+
+"Every tribe accuses the other of being responsible for the disappearance of their chief.
+Please, you must help us!"
+
+Find a way to end the conflict and stop the rain.
+</text>
+      </lang>
+    </block>
+    <block id="02">
+      <lang code="GER">
+        <text> 
+WIKINGER
+
+"Freunde, seid willkommen! Nehmt Platz an unserer Festtafel!" luden uns die Wikinger sofort zu sich ein.
+
+</text>
+        <usericon>1,46,297</usericon>
+        <text>
+
+"Wir haben eine fantastische Näherei! Geht und schaut sie euch an. Gerne könnt Ihr auch jederzeit mit uns Handel treiben."
+</text>
+      </lang>
+      <lang code="ENG">
+        <text> 
+VIKINGS
+
+"Welcome, friends! Take a seat at our table," the Vikings invited us at once.
+
+</text>
+        <usericon>1,46,297</usericon>
+        <text>
+
+"We have got a fantastic tailor's workshop! Go and take a look at it. You can trade with us any time."
+</text>
+      </lang>
+    </block>
+    <block id="03">
+      <lang code="GER">
+        <text> 
+GRAUKIMOS
+
+"Diese elenden Gelbimos! Die denken sie wären etwas Besseres!"
+
+</text>
+        <usericon>2,3</usericon>
+        <text>
+
+"Wir würden ja einen Frieden zustimmen, aber haben sie uns Nahrung gestohlen und unseren Häuptling entführt!"
+
+Liefere 10 Kuchen zum Tribut, damit die Graukimos einem Gespräch zustimmen!
+</text>
+      </lang>
+      <lang code="ENG">
+        <text> 
+GREYKIMOS
+
+"Those miserable Yellimos! They think they are better than everyone else!"
+
+</text>
+        <usericon>2,3</usericon>
+        <text>
+
+"We would agree to live in peace with them, but they have stolen our food and kidnapped our chieftain!"
+
+Pay 10 cakes as a tribute so that the Greykimos will agree to negotiate!
+</text>
+      </lang>
+    </block>
+    <block id="04">
+      <lang code="GER">
+        <text> 
+GELBIMOS
+
+"Diese elenden Graukimos! Die denken sie wären etwas Besseres!" 
+
+</text>
+        <usericon>2,4</usericon>
+        <text>
+
+"Wir würden ja einen Frieden zustimmen, aber haben sie unseren Häuptling entführt und uns unser Met gestohlen, welches wir von dem freundlichen Wikingerstamm erhielten!"
+
+Liefere 10 Met zum Tribut, damit die Gelbimos einem Gespräch zustimmen!
+</text>
+      </lang>
+      <lang code="ENG">
+        <text> 
+YELLIMOS
+
+"Those miserable Greykimos! They think they are better than everyone else!" 
+
+</text>
+        <usericon>2,4</usericon>
+        <text>
+
+"We would agree to live in peace with them, but they have kidnapped our chieftain and stolen the mead we were given by the friendly Viking tribe!"
+
+Pay 10 mead as a tribute so that the Yellimos will agree to negotiate!
+</text>
+      </lang>
+    </block>
+    <block id="05">
+      <lang code="GER">
+        <text> 
+TRIBUT AN GRAUKIMOS BEZAHLT!
+
+Die Graukimos erhielten von uns den gewünschten Kuchen. 
+
+</text>
+        <usericon>2,3</usericon>
+        <text>
+
+Erst nachdem an beide Parteien der Tribut entrichtet wurde, ließen sie sich auf Gespräche ein.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text> 
+THE TRIBUTE HAS BEEN PAID TO THE GREYKIMOS!
+
+The Greykimos have received the cake from us. 
+
+</text>
+        <usericon>2,3</usericon>
+        <text>
+
+Only after the tribute had been paid to both parties did they agree to negotiate.
+</text>
+      </lang>
+    </block>
+    <block id="06">
+      <lang code="GER">
+        <text> 
+TRIBUT AN GELBIMOS BEZAHLT
+
+Die Gelbimos erhielten von uns den gewünschten Met. 
+
+</text>
+        <usericon>2,4</usericon>
+        <text>
+
+Erst nachdem an beide Parteien der Tribut entrichtet wurde, ließen sie sich auf Gespräche ein.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text> 
+THE TRIBUTE HAS BEEN PAID TO THE YELLIMOS!
+
+The Yellimos have received the mead from us. 
+
+</text>
+        <usericon>2,4</usericon>
+        <text>
+
+Only after the tribute had been paid to both parties did they agree to negotiate.
+</text>
+      </lang>
+    </block>
+    <block id="07">
+      <lang code="GER">
+        <text> 
+VÖLKER FREUNDLICH
+
+Erst nachdem an beide Parteien der Tribut entrichtet wurde, ließen sie sich auf Gespräche ein und hörten auf sich zu bekämpfen.
+
+</text>
+        <usericon>2,4</usericon>
+        <text>
+
+Es stellte sich heraus, dass alle Anschuldigungen grundlos gewesen waren, weder bestohlen sich die Völker untereinander, noch war einer der Stämme verantwortlich für das Verschwinden des Häuptlings. 
+Die Eskimos indes waren uns so dankbar, dass sie von nun an zu unseren Volk gehörten, solange wir sie brauchten...
+
+</text>
+        <usericon>1,134,407</usericon>
+      </lang>
+      <lang code="ENG">
+        <text> 
+THE TRIBES ARE FRIENDLY
+
+Only after the tribute had been paid to both parties did they agree to negotiate and end the fighting.
+
+</text>
+        <usericon>2,4</usericon>
+        <text>
+
+It turned out that all the accusations had been unjust. Neither of the tribes had stolen from the other, nor was either of them responsible for the disappearance of the chieftain. 
+The Eskimos were so grateful that they agreed to join our people for as long as we needed them ...
+
+</text>
+        <usericon>1,134,407</usericon>
+      </lang>
+    </block>
+    <block id="08">
+      <lang code="GER">
+        <text> 
+VERBOTENER PFAD!
+
+</text>
+        <usericon>1,177,74</usericon>
+        <text>
+
+Dieser Eskimopfad darfst du erst betreten, wenn du Frieden ins Land gebracht hast und dir die Völker ihre Unterstützung anbieten!
+</text>
+      </lang>
+      <lang code="ENG">
+        <text> 
+FORBIDDEN PATH!
+
+</text>
+        <usericon>1,177,74</usericon>
+        <text>
+
+You can only use this Eskimo path if you have brought peace to this land and if the people have offered you their support!
+</text>
+      </lang>
+    </block>
+    <block id="09">
+      <lang code="GER">
+        <text> 
+SCHWARZIMOS
+
+"Verrat! Dieser Weg ist nur Eskimos erlaubt und alle Stämme sollten mit sich selber beschäftigt sein. Wir haben doch genügend Unruhe gestiftet, oder etwa nicht? 
+
+</text>
+        <usericon>1,184,50</usericon>
+        <text>
+
+Wir dachten, wir hätten den Häuptling zum Fest nur für uns alleine! Darauf wollen wir nicht verzichten! Wir geben ihn nicht her! So!"
+
+Finde eine Möglichkeit, sie davon zu überzeugen den Häuptling freizulassen.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text> 
+BLACKIMOS
+
+"Treason! This path must only be used by Eskimos. All other tribes should keep to themselves. Haven't we already caused enough unrest? 
+
+</text>
+        <usericon>1,184,50</usericon>
+        <text>
+
+We thought we'd have the chieftain to ourselves for the feast! We don't intend to give that up! We will not let him go! So there!"
+
+Find a way to persuade them to set the chieftain free.
+</text>
+      </lang>
+    </block>
+    <block id="10">
+      <lang code="GER">
+        <text> 
+NÄHEREI
+
+"Passend zum großen Fest nähen wir rote Kleidung für die Eskimos. Sie sind ja ganz lieb, aber können so schlecht teilen..." sprachen die Näher.
+
+</text>
+        <usericon>1,66,287</usericon>
+        <text>
+
+"Jedes Jahr entfacht ein neuer Streit, wo der Häuptling (bisher der einzige mit roter Kleidung) das Fest verbringt! Hoffentlich reicht unsere Wolle und wir werden rechtzeitig fertig..."
+
+Bringe 15 Säcke zur Näherei!
+</text>
+      </lang>
+      <lang code="ENG">
+        <text> 
+TAILOR'S WORKSHOP
+
+"We will make red clothes for the great feast for the Eskimos. They are quite nice really, but they just don't know how to share," the tailors said.
+
+</text>
+        <usericon>1,66,287</usericon>
+        <text>
+
+"Every year there is new argument over where the chieftain (so far the only one to have red clothes) will spend the feast! Let's hope we have enough wool and that we will be finished in time ..."
+
+Take 15 sacks to the tailor's workshop!
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+      <lang code="ENG">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
+    </block>
+    <block id="11">
+      <lang code="GER">
+        <text> 
+NÄHEREI
+
+"Wir haben die rote Kleidung rechtzeitig hergestellt. Nun müssten die Eskimos nur vorbeikommen und sie abholen."
+
+</text>
+        <usericon>1,66,287</usericon>
+        <text>
+
+Bringe die Eskimos zur Näherei, wenn die Graukimos und Gelbimos versöhnt sind! 
+</text>
+      </lang>
+      <lang code="ENG">
+        <text> 
+TAILOR'S WORKSHOP
+
+"We have made the red clothes in time. Now the Eskimos only have to come and collect them."
+
+</text>
+        <usericon>1,66,287</usericon>
+        <text>
+
+Take the Eskimos to the tailor's workshop as soon as the Greykimos and Yellimos have been appeased! 
+</text>
+      </lang>
+    </block>
+    <block id="12">
+      <lang code="GER">
+        <text> 
+ESKIMOS
+
+"Mit so schicker roter Kleidung sehen wir aus wie unser Häuptling!" sprachen die Eskimos. 
+
+</text>
+        <usericon>1,66,287</usericon>
+        <text>
+
+"Wir könnten allen Stämmen eine Freude machen und ihnen zum Fest einen Besuch abstatten, vielleicht kann man so Konflikte friedlich lösen?"
+
+Bringe die Eskimos zu den Schwarzimos. Sie zeigen dir den Weg!
+</text>
+      </lang>
+      <lang code="ENG">
+        <text> 
+ESKIMOS
+
+"We will look like our chieftain with these beautiful red clothes," the Eskimos said. 
+
+</text>
+        <usericon>1,66,287</usericon>
+        <text>
+
+"We could make all the tribes happy and visit them during the feast, maybe the conflict can be solved peacefully that way."
+
+Take the Eskimos to the Blackimos. They will show you the way!
+</text>
+      </lang>
+    </block>
+    <block id="13">
+      <lang code="GER">
+        <text> 
+SCHWARZIMOS
+
+"Wir trauen unseren Augen nicht! Dann ist der, den wir für unser Fest entführt hatten, nicht der Einzige? So haben wir ihm vielleicht Unrecht getan. Wir dachten, wir wären das glücklichste Volk dieses Jahr... es tut uns so leid..."
+
+</text>
+        <usericon>1,183,51</usericon>
+        <text>
+
+"Wenn einer von euch bei uns bleiben will, geben wir ihm selbstverständlich seine Freiheit wieder, oder wollen wir alle gemeinsam feiern?"
+
+Die rot gekleideten Eskimos nahmen gern die Einladung an...
+</text>
+      </lang>
+      <lang code="ENG">
+        <text> 
+BLACKIMOS
+
+"Can we trust our eyes? Does this mean the one we kidnapped is not the only one? Maybe we have done him an injustice. We thought we'd be the happiest tribe of the year ... we are so sorry ..."
+
+</text>
+        <usericon>1,183,51</usericon>
+        <text>
+
+"If one of you is willing to stay here, we will let this one go, of course. Or shall we all celebrate together?"
+
+The Eskimos in red happily accepted the invitation ...
+</text>
+      </lang>
+    </block>
+    <block id="14">
+      <lang code="GER">
+        <text> 
+SCHWARZIMO GESTORBEN!
+
+Ein Schwarzimo ist gestorben! Ist das die rechte Art Konflikte zu lösen?
+</text>
+      </lang>
+      <lang code="ENG">
+        <text> 
+A BLACKIMO HAS DIED!
+
+A Blackimo has died! Is this the right way to solve a conflict?
+</text>
+      </lang>
+    </block>
+    <block id="15">
+      <lang code="GER">
+        <text> 
+VOLK GESTORBEN!
+
+Zwar hatten wir die Schwarzimos besiegt aber zu welch einen Preis? War es dies wert oder hätte es nicht auch eine andere Lösung gegeben?
+</text>
+      </lang>
+      <lang code="ENG">
+        <text> 
+A TRIBE HAS DIED!
+
+We had defeated the Blackimos, but at what price? Was it really worth it? Wouldn't there have been a better solution?
+</text>
+      </lang>
+    </block>
+    <block id="16">
+      <lang code="GER">
+        <text> 
+NORNEN
+
+"Ihr seid gekommen, den Regen zu verbannen?" 
+
+</text>
+        <usericon>1,29,109</usericon>
+        <text>
+
+"Erst wenn die Stämme sich wieder vereinen, werden wir dem Regen Einhalt gebieten! Kommt wieder, wenn ihr dies vollbracht habt!".
+</text>
+      </lang>
+      <lang code="ENG">
+        <text> 
+NORNS
+
+"You have come to stop the rain?" 
+
+</text>
+        <usericon>1,29,109</usericon>
+        <text>
+
+"The rain will not stop until the tribes have been reunited! Come back when you have accomplished this!"
+</text>
+      </lang>
+    </block>
+    <block id="17">
+      <lang code="GER">
+        <text> 
+NORNEN
+
+"Ihr seid gekommen, den Regen zu verbannen?" 
+
+</text>
+        <usericon>1,29,109</usericon>
+        <text>
+
+"Ihr habt es geschafft die zwei Stämme zu vereinen, dafür werden wir dem Regen Einhalt gebieten. Seht wie wunderschön weiß die Umgebung erstrahlt, wenn Neuschnee fällt...".
+</text>
+      </lang>
+      <lang code="ENG">
+        <text> 
+NORNS
+
+"You have come to stop the rain?" 
+
+</text>
+        <usericon>1,29,109</usericon>
+        <text>
+
+"You have managed to unite the two tribes. As a reward, we will order the rain to stop. See how beautifully the landscape glitters when the snow falls ..."
+</text>
+      </lang>
+    </block>
+    <block id="18">
+      <lang code="GER">
+        <text> 
+DER ALTE MANN
+
+"Es ist verflixt mit diesen Eingeborenen! Sie bringen durch ihre Streitereien das ganze Wetter durcheinander. Die Nornen im Westen werden erst wieder Schnee fallen lassen, wenn sie sich vertragen haben!"
+
+</text>
+        <usericon>1,128,289</usericon>
+        <text>
+
+"Hoch im Norden, hinter dem verborgenen Pfad, gibt es ein Volk, das noch weniger teilen kann, als die zwei Stämme der Gelbimos und Graukimos zusammen!"
+</text>
+      </lang>
+      <lang code="ENG">
+        <text> 
+THE OLD MAN
+
+"Blast these natives! They even disrupt the weather with their conflict. The Norns in the west will only let the snow fall if they make peace!"
+
+</text>
+        <usericon>1,128,289</usericon>
+        <text>
+
+"High up in the north, behind the hidden path, there is a tribe which is even worse at sharing than the two tribes of the Yellimos and Greykimos put together!"
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="GER">
+        <text> 
+Wir hatten es geschafft! Die Eskimos, Gelbimos, Graukimos und sogar die Schwarzimos waren sich einig und feierten ein gemeinsames Fest mit den komischen roten Männern. 
+
+</text>
+        <usericon>2,1</usericon>
+        <text>
+
+Auch der Regen war verbannt und der hässliche Schneematsch, der zuvor das Land bedeckte, war von einer glitzernden weißen Schneepracht überdeckt... 
+</text>
+      </lang>
+      <lang code="ENG">
+        <text> 
+We had made it! The Eskimos, Yellimos, Greykimos and even the Blackimos had come to an agreement and celebrated with the strange red men. 
+
+</text>
+        <usericon>2,1</usericon>
+        <text>
+
+The rain had stopped as well and the horrible slush which had covered the land became hidden under a glittering white blanket of snow ... 
+</text>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="GER">
+        <text> 
+…
+</text>
+      </lang>
+      <lang code="ENG">
+        <text> 
+…
+</text>
+      </lang>
+    </block>
+    <block id="50_endheader">
+      <lang code="GER">
+        <text> 
+MISSION GEWONNEN! 
+</text>
+      </lang>
+      <lang code="ENG">
+        <text> 
+MISSION COMPLETED! 
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="GER">
+        <text> 
+LEISE RIESELT DER SCHNEE...
+</text>
+      </lang>
+      <lang code="ENG">
+        <text> 
+LET IT SNOW ...
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

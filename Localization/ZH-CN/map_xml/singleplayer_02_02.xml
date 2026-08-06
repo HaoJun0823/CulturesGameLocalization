@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="singleplayer_02_02" export_map_id="singleplayer_02_02" map_md5="8e47c7614e2baa0611ef595773003517" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+<string id="0">
+      <text lang="CHN">建起你的村庄！</text>
+      <text lang="ger">Baue dein Dorf auf!</text>
+    </string>
+<string id="1">
+      <text lang="CHN">探索这片区域！</text>
+      <text lang="ger">Erkunde die Gegend!</text>
+    </string>
+<string id="2">
+      <text lang="CHN">将好战之族逐出你的岛屿！</text>
+      <text lang="ger">Vertreibe das Kriegerische Volk von deiner Insel!</text>
+    </string>
+<string id="3">
+      <text lang="CHN">摧毁好战之族的本土基地！</text>
+      <text lang="ger">Zerstöre die Heimatbasis des Kriegerischen Volkes!</text>
+    </string>
+<string id="4">
+      <text lang="CHN">抵御可能的来犯之敌，保卫你的部族！</text>
+      <text lang="ger">Verteidige deinen Stamm vor möglichen Aggressoren!</text>
+    </string>
+<string id="50">
+      <text lang="CHN">比雅尼的部族</text>
+      <text lang="ger">Bjarnis Stamm</text>
+    </string>
+<string id="51">
+      <text lang="CHN">前哨 1</text>
+      <text lang="ger">Vorposten 1</text>
+    </string>
+<string id="52">
+      <text lang="CHN">好战者</text>
+      <text lang="ger">Kriegstreiber</text>
+    </string>
+<string id="53">
+      <text lang="CHN">前哨 2</text>
+      <text lang="ger">Vorposten 2</text>
+    </string>
+<string id="71">
+      <text lang="CHN">比雅尼</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+<string id="98">
+      <text lang="CHN">维京人正欲在一座冰雪小岛上定居，却撞见了某个好战部族的前哨。此役极为艰巨！</text>
+      <text lang="ger">Die Wikinger wollen auf einem verschneiten Eiland siedeln, als sie auf die Vorposten eines kriegerischen Volkes stoßen. Diese Mission erweist sich als sehr schwer!</text>
+    </string>
+<string id="99">
+      <text lang="CHN">冷战</text>
+      <text lang="ger">KALTER KRIEG</text>
+    </string>
+</strings>
+<briefings>
+<block id="begin_00"><lang code="CHN">
+                <text>
+我们在北方这座小岛登陆，因为船上的补给几乎耗尽。眼下我们无从逃离。须先攒足补给、探查周遭——此地或许藏着危险，或是不欢迎我们的人。
+
+不过这地方看来很适合建起新家园，尽管天寒地冻。我们决定暂留此地，在此过冬。
+
+提示：
+你已备有几封可建造任意房屋的书信！不过或许该留到日后急需之时！
+
+金矿山附近的蘑菇能让你酿出许多药剂。日后定能派上用场！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+Wir waren auf diesem nördlichen Eiland gelandet, da beinahe alle Vorräte unserer Schiffe aufgebraucht waren. Vorerst hatten wir keine Chance, von hier zu entkommen. Erst mussten wir genügend Vorräte sammeln und die Gegend erkunden - vielleicht gab es hier Gefahren oder Menschen, denen wir nicht willkommen waren.
+
+Dabei schien der Ort durchaus geeignet, um sich ein neues zu Hause aufzubauen, obwohl es hier sehr kalt war. Wir beschlossen, vorerst zu bleiben und den Winter hier zu verbringen.
+
+Tipp:
+Du besitzt bereits ein paar Briefe zum Setzen beliebiger Häuser! Du solltest sie dir jedoch vielleicht für später aufheben, wenn du sie nötig brauchen kannst!
+
+Die Pilze nahe des Goldberges werden es dir ermöglichen, viele Tränke zu brauen. Du wirst sie später sicherlich brauchen können!
+</text>
+      </lang>
+    </block>
+
+    <block id="begin_01">
+      <lang code="CHN">
+                <text>
+前哨 1
+
+“谁在那儿？站住！
+我们是部族在大陆上的第一处前哨！这是我们的岛！要么自动消失，要么我们奉陪，把你的部族从这里赶走！”
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+VORPOSTEN 1
+
+Wer da? Stehen bleiben!
+Wir sind der erste Vorposten unseres Stammes auf dem Festland! Dies ist unsere Insel! Verschwinde freiwillig, oder wir werden deinen Stamm von hier vertreiben!
+</text>
+      </lang>
+    </block>
+
+    <block id="begin_02">
+      <lang code="CHN">
+                <text>
+前哨 2
+
+“谁在那儿？站住！
+我们是部族在大陆上的第二处前哨！这是我们的岛！要么自动消失，要么我们奉陪，把你的部族从这里赶走！”
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+VORPOSTEN 2
+
+Wer da? Stehen bleiben! 
+Wir sind der Vorposten zwei unseres Stammes auf dem Festland! Dies ist unsere Insel! Verschwinde freiwillig, oder wir werden deinen Stamm von hier vertreiben!
+</text>
+      </lang>
+    </block>
+
+    <block id="begin_03">
+      <lang code="CHN">
+                <text>
+闯入者！你们来此作甚？……士兵，消灭他们！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Eindringlinge! Was wollt ihr hier? ... Soldaten, vernichtet sie!
+</text>
+      </lang>
+    </block>
+
+    <block id="begin_04">
+      <lang code="CHN">
+                <text>
+比雅尼牺牲了！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Bjarni ist gestorben!
+</text>
+      </lang>
+    </block>
+
+    <block id="begin_05">
+      <lang code="CHN">
+                <text>
+胜利！好战之族已被击败——我们再不必担心侵扰！
+
+我们如今要回到小岛，将它宣布为新的家园！我们为这座岛奋战得如此惨烈，日久竟已将它收进了心底。
+
+我们在大陆上建起前哨——它会在大陆方向的新威胁来临时向我们示警。不过眼下已无可忧……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Sieg! Das Volk der Kriegstreiber war besiegt - wir hatten keine Übergriffe mehr zu fürchten! 
+
+Wir wollten nun auf unser Eiland zurückkehren - und es zu unserer neuen Heimat erklären! Wir hatten so erbittert um diese Insel gekämpft, dass wir sie im Laufe der Zeit in unsere Herzen geschlossen hatten.
+
+Auf dem Festland errichteten wir unseren Vorposten - der uns vor neuen Gefahren warnen würde, die vom Festland her drohen könnten. Doch vorerst hatten wir nichts mehr zu befürchten...
+</text>
+      </lang>
+    </block>
+
+    <block id="begin_06">
+      <lang code="CHN">
+                <text>
+维京人全军覆没！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Die Wikinger wurden vernichtet!
+</text>
+      </lang>
+    </block>
+
+    <block id="begin_07">
+      <lang code="CHN">
+                <text>
+这处前哨提到“这是第一处前哨”——那么此处定还有另一处！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Dieser Vorposten erwähnte "dies sei der erste Vorposten" - also musste es noch einen anderen hier geben!
+</text>
+      </lang>
+    </block>
+
+    <block id="begin_08">
+      <lang code="CHN">
+                <text>
+这处前哨提到“这是第二处前哨”——那么此处定还有另一处！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Dieser Vorposten erwähnte "dies sei Vorposten zwei" - also musste es noch einen anderen hier geben!
+</text>
+      </lang>
+    </block>
+
+    <block id="begin_09">
+      <lang code="CHN">
+                <text>
+如今轮到好战之族的另一处前哨了！！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Jetzt kommt der andere Vorposten der Kriegstreiber dran!!
+</text>
+      </lang>
+    </block>
+
+    <block id="begin_10">
+      <lang code="CHN">
+                <text>
+如今轮到好战之族的另一处前哨了！！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Jetzt kommt der andere Vorposten der Kriegstreiber dran!!
+</text>
+      </lang>
+    </block>
+
+    <block id="begin_11">
+      <lang code="CHN">
+                <text>
+前哨已被击败，如今这座岛上只剩我们……
+
+可好战之族定会再来进犯，而我们只想安宁度日。因此须先发制人，决意攻打他们本岛。
+我们回到村庄，让木匠造出一队船只，为进攻备战。
+
+谁又知道，若好战之族得知前哨的下场，会发生什么！
+我们定要时刻提防！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Die Vorposten waren besiegt, so dass wir nun alleine auf dieser Insel waren...
+
+Doch die Kriegstreiber würden sicher wieder angreifen, und wir wollten doch nur in Frieden leben. Daher mussten wir dem Feind zuvorkommen, und beschlossen, ihn nun auf seinem Eiland anzugreifen.
+Wir kehrten zurück in unser Dorf, wo unser Zimmermann eine Flotte von Schiffen herstellen sollte, um uns für einen Angriff zu rüsten. 
+Und wer wusste schon, was geschehen würde, wenn der Stamm der Kriegstreiber mitbekam, was mit seinen Außenposten geschehen war!
+
+Wir wollten also auf der Hut sein!
+</text>
+      </lang>
+    </block>
+
+    <block id="begin_12">
+      <lang code="CHN">
+                <text>
+战斗已毕，黑暗的来犯者尽数覆灭。
+可似乎仍有若干敌人的追随者，我们须将他们寻出、加以管束，以免冲突死灰复燃！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Der Kampf war vorüber, die finsteren Angreifer waren vernichtet. 
+Doch es schien noch einige Anhänger unserer Feinde zu geben, die wir aufspüren und in ihre Schranken weisen wollten, um ein erneutes Aufflackern des Konfliktes zu vermeiden!
+</text>
+      </lang>
+    </block>
+
+    <block id="begin_13">
+      <lang code="CHN">
+                <text>
+啊——！是你们！你们毁了我们的前哨，还敢在此露面？我们要给你们点颜色看看——这就去摧毁你们的村庄！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Ahhhh! Ihr seid es! Ihr habt unsere Vorposten zerstört, und wagt es, euch hier blicken zu lassen? Wir werden es euch zeigen - denn nun werden wir euer Dorf zerstören!
+</text>
+      </lang>
+    </block>
+
+    <block id="begin_14">
+      <lang code="CHN">
+                <text>
+我们是这座岛的主人！滚开，否则格杀勿论！我们将不惜一切手段与你们为敌！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Wir sind die Herrscher dieser Insel! Schert euch fort, oder ihr seid des Todes! Wir werden euch mit allen Mitteln bekämpfen!
+</text>
+      </lang>
+    </block>
+
+    <block id="header">
+      <lang code="CHN">
+                <text>
+冷战
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+KALTER KRIEG
+
+</text>
+      </lang>
+    </block>
+
+    <block id="lost">
+      <lang code="CHN">
+                <text>
+任务失败！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+MISSION VERLOREN!
+</text>
+      </lang>
+    </block>
+
+    <block id="won">
+      <lang code="CHN">
+                <text>
+任务成功！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+MISSION GEWONNEN!
+</text>
+      </lang>
+    </block>
+</briefings>
+</localization>

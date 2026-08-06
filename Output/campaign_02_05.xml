@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_02_05" export_map_id="campaign_02_05" map_md5="0e5429ffeb417cbaaad5c7d56cec6385" IsC2M="false">
+  <languages>
+    <language code="GER" alias="GER" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="GER">Suche und vernichte den Fenriswolf!</text>
+    </string>
+    <string id="1">
+      <text lang="GER">Erreiche mit Cyra den Fenris.</text>
+    </string>
+    <string id="2">
+      <text lang="GER">Zahle dem fränkischen Volk 10 Met Tribut für 5 Söldner.</text>
+    </string>
+    <string id="3">
+      <text lang="GER">Reiche den Byzantinern 10 Werkzeuge zum Tribut, dass sie ihre Haltung in freundlich wandeln.</text>
+    </string>
+    <string id="4">
+      <text lang="GER">Zahle den Byzantinern 5 Gold Tribut für 5 Söldner.</text>
+    </string>
+    <string id="5">
+      <text lang="GER">Zahle dem fränkischen Volk 15 Met Tribut für 5 Söldner.</text>
+    </string>
+    <string id="6">
+      <text lang="GER">Zahle dem fränkischen Volk 20 Met Tribut für 5 Söldner.</text>
+    </string>
+    <string id="7">
+      <text lang="GER">Zahle dem fränkischen Volk 25 Met Tribut für 5 Söldner.</text>
+    </string>
+    <string id="8">
+      <text lang="GER">Zahle dem fränkischen Volk 30 Met Tribut für 5 Söldner.</text>
+    </string>
+    <string id="31">
+      <text lang="GER">Zahle dem fränkischen Volk 10 Met Tribut für 5 Söldner.</text>
+    </string>
+    <string id="32">
+      <text lang="GER">Für 15 Met Tribut werden weitere 5 fränkische Söldner zur Verfügung gestellt!</text>
+    </string>
+    <string id="33">
+      <text lang="GER">Für 20 Met Tribut werden weitere 5 fränkische Söldner zur Verfügung gestellt!</text>
+    </string>
+    <string id="34">
+      <text lang="GER">Für 25 Met Tribut werden weitere 5 fränkische Söldner zur Verfügung gestellt!</text>
+    </string>
+    <string id="35">
+      <text lang="GER">Für 30 Met Tribut werden weitere 5 fränkische Söldner zur Verfügung gestellt!</text>
+    </string>
+    <string id="36">
+      <text lang="GER">Reiche den Byzantinern 10 Werkzeuge, für eine freundliche Haltung.</text>
+    </string>
+    <string id="37">
+      <text lang="GER">Zahle den Byzantinern 5 Gold Tribut für 5 Söldner.</text>
+    </string>
+    <string id="38">
+      <text lang="GER">Für 5 Gold Tribut werden weitere 5 Söldner zur Verfügung gestellt!</text>
+    </string>
+    <string id="50">
+      <text lang="GER">Bjarnis Stamm</text>
+    </string>
+    <string id="51">
+      <text lang="GER">Franken</text>
+    </string>
+    <string id="52">
+      <text lang="GER">Byzantiner</text>
+    </string>
+    <string id="54">
+      <text lang="GER">Fenris Horden</text>
+    </string>
+    <string id="71">
+      <text lang="GER">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="GER">Cyra</text>
+    </string>
+    <string id="73">
+      <text lang="GER">Hatschi</text>
+    </string>
+    <string id="74">
+      <text lang="GER">Sigurd</text>
+    </string>
+    <string id="75">
+      <text lang="GER">Ykol</text>
+    </string>
+    <string id="98">
+      <text lang="GER">Mit der Fenriskette hatten wir eine wirksame Waffe gegen den Fenriswolf. Doch es sollte sich zeigen, dass nicht jeder die Macht besaß, zu ihm vorzudringen...</text>
+    </string>
+    <string id="99">
+      <text lang="GER">FENRIS HORDEN</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="GER">
+        <text> 
+Das Land, das sich vor und auftat, war fruchtbar und waldig - ein idealer Platz zum Jagen und Aufstocken unsere Vorräte, die wir fast vollständig aufgebraucht hatten. Wollten wir doch gut gerüstet in den Kampf gegen den Fenriswolf und seine Brut ziehen....
+</text>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="GER">
+        <text> 
+Baue dein Dorf mit Hilfe der magischen Kisten auf und rüste deine Soldaten mit Tränken und Amuletten aus.
+</text>
+      </lang>
+    </block>
+    <block id="01_player_1_seen_franken">
+      <lang code="GER">
+        <text> 
+Im Westen trafen wir auf freundliche Franken. Sie waren weitgehend von der Wolfsplage verschont geblieben und boten uns günstige Handelsverträge an. 
+
+Gegen einen geringen Tribut konnten wir vielleicht bei ihnen auch Söldner für die weitere Mission anheuern...
+</text>
+      </lang>
+    </block>
+    <block id="02_tribut_franken">
+      <lang code="GER">
+        <text> 
+Die Franken stellten uns 5 ihrer tapfersten Langschwertträger als Söldner oberhalb der Sümpfe zur Verfügung und boten uns für einen höheren Tribut noch mehr Verstärkung an. 
+
+Zahle den Franken den geforderten Tribut für weitere Söldner, sofern deine Wikinger sie benötigen.
+</text>
+      </lang>
+    </block>
+    <block id="03_player_2_seen_byzantine">
+      <lang code="GER">
+        <text> 
+Unsere Kundschafter stießen im Osten auf ein Byzantinerdorf. Sie betrachteten uns mit Argwohn, waren uns aber nicht feindlich gesinnt.
+
+Gegen einen geringen Tribut konnten wir mit ihnen vielleicht Handel treiben und Söldner anheuern...
+</text>
+      </lang>
+    </block>
+    <block id="04_tribut_byzantine">
+      <lang code="GER">
+        <text> 
+Als wir unseren guten Willen durch die Tributzahlung unter Beweis gestellt hatten, bot man uns Freundschaft und Hilfe bei unserer weiteren Mission an. Die Byzantiner stellten uns 5 ihrer tapfersten Langbogenschützen als Söldner oberhalb der Sümpfe zur Verfügung und boten uns noch mehr Verstärkung an. 
+
+Zahle den Byzantinern den geforderten Tribut für weitere Söldner, sofern deine Wikinger sie benötigen.
+</text>
+      </lang>
+    </block>
+    <block id="05_tribut2_byzantine">
+      <lang code="GER">
+        <text> 
+Als wir dem Byzantinerdorf den Tribut überbrachten, stellten sie uns sofort weitere Söldner oberhalb der Sümpfe zur Seite. 
+
+Wir können jederzeit wiederkommen, um neue Söldner anzuheuern, ließ man uns wissen und es bereite ihnen Vergnügen, mit uns Geschäfte zu machen! 
+
+Jaja, kein Wunder...
+</text>
+      </lang>
+    </block>
+    <block id="06_warnung">
+      <lang code="GER">
+        <text> 
+Unsere Männer hatten sich wacker bis zu diesem Ort geschlagen, doch konnten sie nicht zum Fenriswolf vordringen. Eine magische Aura umgab ihn....
+
+Ob jemand aus unserer Gruppe zu ihm durchdringen könnte?
+</text>
+      </lang>
+    </block>
+    <block id="07_cyrafenris">
+      <lang code="GER">
+        <text> 
+Cyra hatte sich zum Fenris durchgekämpft! Würde SIE ihm die Kette anlegen können?
+</text>
+      </lang>
+    </block>
+    <block id="08_tribut_franken">
+      <lang code="GER">
+        <text> 
+Die Franken stellten uns 5 ihrer tapfersten Langschwertträger als Söldner oberhalb der Sümpfe zur Verfügung und boten uns für den gleichen Tribut noch mehr Verstärkung an. 
+
+Zahle den Franken den geforderten Tribut für weitere Söldner, sofern deine Wikinger sie benötigen.
+</text>
+      </lang>
+    </block>
+    <block id="09">
+      <lang code="GER">
+        <text> 
+FENRIS HORDEN
+
+In diesem Landstrich gab es unzählige gefährliche Wölfe. Als wir das erste Mal auf sie trafen, schlossen sie sich in Rudeln zusammen und fielen zähnefletschend über uns her!
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="200">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin Cyra erlag durch deine Unachtsamkeit! Ohne diese Heldin wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="300">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Hatschi erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
+</text>
+      </lang>
+    </block>
+    <block id="400">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Sigurd erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="500">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Ykol erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="GER">
+        <text> 
+Doch was war geschehen???
+
+WARUM CYRA? schrie ich und merkte, dass ich in mich zusammenfiel.....
+
+</text>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="GER">
+        <text> 
+Ich begriff lange Zeit nicht, was geschehen war. Cyra vermochte es als Einzige, dem Fenriswolf die Kette anzulegen. Doch als sie dies tat, wurde sie zusammen mit ihm nach Walhalla gezogen! 
+
+Ein Meer voll endloser Traurigkeit legte sich über mein Leben ... 
+</text>
+      </lang>
+    </block>
+    <block id="50_endheader">
+      <lang code="GER">
+        <text> 
+
+MISSION GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="GER">
+        <text>
+
+FENRIS HORDEN 
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="_campaign_04_01_sub1" export_map_id="_campaign_04_01_sub1" map_md5="a86308534b3f9b4410ed97d26c2e7867" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">@抵达阿夸里乌斯！</text>
+      <text lang="ger">@GELANGE ZU AQUARIUS!</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">与阿夸里乌斯的守卫龙交谈。</text>
+      <text lang="ger">Sprich mit dem Wachdrachen von Aquarius.</text>
+    </string>
+    <string id="2">
+      <text lang="CHN">前往出口，在海面之上寻找解决之道。</text>
+      <text lang="ger">Gehe zum Ausgang und suche oberhalb des Meeres nach einer Lösung.</text>
+    </string>
+    <string id="53">
+      <text lang="CHN">阿夸斯——水龙</text>
+      <text lang="ger">Aquas - Wasserdrachen</text>
+    </string>
+    <string id="63">
+      <text lang="CHN">阿夸斯</text>
+      <text lang="ger">Aquas</text>
+    </string>
+    <string id="75">
+      <text lang="CHN">诺伯特</text>
+      <text lang="ger">Norbert</text>
+    </string>
+    <string id="76">
+      <text lang="CHN">玛尼</text>
+      <text lang="ger">Mani</text>
+    </string>
+    <string id="77">
+      <text lang="CHN">阿夸里乌斯</text>
+      <text lang="ger">Aquarius</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">深海之下</text>
+      <text lang="ger">UNTER DEM MEER</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="CHN">
+                <text>
+玛尼与诺伯特刚踏入水龙神殿的入口，便发觉自己置身于一处奇异陌生的境地。他们的动作都变得迟缓，眼前波光粼粼，仿佛正潜入水中。
+        </text>
+        <usericon>2,5</usericon>
+      </lang>
+      <lang code="ger">
+        <text> 
+Augenblicklich nachdem Mani und Norbert den Eingang des Wasserdrachentempels betraten fanden sie sich in eine seltsam fremden Umgebung wieder. Alle ihre Bewegungen verliefen langsamer und es schimmerte vor ihren Augen, also ob sie tauchen würden. 
+
+</text>
+        <usericon>2,5</usericon>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="CHN">
+                <text>
+这座神殿确实位于海底。玛尼与诺伯特正身处阿夸斯三座水之圣殿之一！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Dieser Tempel befand sich tatsächlich unter dem Meer. Mani und Norbert befanden sich in einem der drei Wassertempel der AQUAS! 
+</text>
+      </lang>
+    </block>
+    <block id="01">
+      <lang code="CHN">
+                <text>
+阿夸里乌斯守卫
+
+“真叫人火冒三丈！只可惜喷火这一天赋，我们水龙实在不太擅长……水龙的水域骤然变冷，转眼间，那座冰雕像便出现了。”
+        </text>
+        <usericon>1,44,69</usericon>
+                <text>
+
+
+如今它挡住了所有访客与我前往阿夸里乌斯的去路！谁敢靠近，便会被冻僵，如同这里这可怜的
+小生灵……
+        </text>
+        <usericon>1,76,22</usericon>
+                <text>
+
+
+没有阿夸里乌斯的智慧，我们一族将走向灭亡……
+
+你们能帮帮我们吗？一同前往出口，回到海面之上。若愿相助，请再度前来。水龙一族永远对你们善意相待！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+AQUARIUS WACHE
+
+"Es ist zum Feuerspeien! Nur das dieses Talent bei uns Wasserdrachen leider nicht sehr ausgeprägt ist...
+Die Gewässer der Wasserdrachen haben sich stark abgekühlt und auf einmal war sie da, diese EISSTATUE.
+
+</text>
+        <usericon>1,44,69</usericon>
+        <text>
+
+Nun versperrt sie allen Besuchern und mir den Weg zu AQUARIUS! Jeder der ihr zu nahe tritt friert fest, wie dieses arme 
+Geschöpf hier...
+
+</text>
+        <usericon>1,76,22</usericon>
+        <text>
+
+Unser Volk wird zu Grunde gehen ohne die Weisheiten von AQUARIUS...
+Könnt ihr uns helfen?
+
+Geht gemeinsam zum Ausgang, um wieder an die Meeresoberfläche zu gelangen. Kommt wieder, wenn ihr uns helfen könnt. Die Wasserdrachen sind euch immer freundlich gesonnen! 
+</text>
+      </lang>
+    </block>
+    <block id="500">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+                <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+                <text>
+一时的轻率，生命便转瞬即逝！你的挚友、英雄之龙诺伯特，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="CHN">
+        <usericon>1,24,287</usericon>
+      </lang>
+      <lang code="ger">
+        <usericon>1,24,287</usericon>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="CHN" />
+      <lang code="ger" />
+    </block>
+    <block id="50_endheader">
+      <lang code="CHN">
+                <text>
+任务成功！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+MISSION GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="600">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+                <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+                <text>
+一时的轻率，生命便转瞬即逝！比雅尼与希拉之子玛尼，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+                <text>
+海底
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+UNTER DEM MEER
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

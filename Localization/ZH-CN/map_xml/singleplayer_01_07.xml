@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="singleplayer_01_07" export_map_id="singleplayer_01_07" map_md5="39be5e73932c485e0de39bf28f75105f" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">把和平条约带给法兰克国王。</text>
+      <text lang="eng">Take the peace treaty to the Frankish King.</text>
+      <text lang="ger">Überbringe den Friedensvertrag an den fränkischen König.</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">向梅罗鲍德斯交纳贡品。</text>
+      <text lang="eng">Pay the tribute to Merobaudes.</text>
+      <text lang="ger">Zahle den Tribute an Merobaudes.</text>
+    </string>
+    <string id="2">
+      <text lang="CHN">向总督交纳贡品。</text>
+      <text lang="eng">Pay the tribute to the governor.</text>
+      <text lang="ger">Zahle den Tribute an den Stadthalter.</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">帮助你的同胞并击败梅罗鲍德斯。</text>
+      <text lang="eng">Help your fellow countrymen and defeat Merobaudes.</text>
+      <text lang="ger">Hilf deinen Landsleuten und besiege Merobaudes.</text>
+    </string>
+    <string id="4">
+      <text lang="CHN">2 名剑士和 1 名弓箭手</text>
+      <text lang="eng">2 sword fighters and 1 archer</text>
+      <text lang="ger">2 Schwertkämpfer und 1 Bogenschütze</text>
+    </string>
+    <string id="5">
+      <text lang="CHN">1 名矛兵和 2 名弓箭手</text>
+      <text lang="eng">1 spear fighter and 2 archers</text>
+      <text lang="ger">1 Speerträger und 2 Bogenschütze</text>
+    </string>
+    <string id="6">
+      <text lang="CHN">和平贡金</text>
+      <text lang="eng">Peace tribute</text>
+      <text lang="ger">Friedenszahlung</text>
+    </string>
+    <string id="7">
+      <text lang="CHN">友谊贡金</text>
+      <text lang="eng">Friendship tribute</text>
+      <text lang="ger">Freundschaftszahlung</text>
+    </string>
+    <string id="50">
+      <text lang="CHN">比雅尼的子民</text>
+      <text lang="eng">Bjarni's People</text>
+      <text lang="ger">Bjarnis Volk</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">叛军</text>
+      <text lang="eng">Rebels</text>
+      <text lang="ger">Rebellen</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">奴隶</text>
+      <text lang="eng">Slaves</text>
+      <text lang="ger">Sklaven</text>
+    </string>
+    <string id="53">
+      <text lang="CHN">前哨站</text>
+      <text lang="eng">Outpost</text>
+      <text lang="ger">Außenposten</text>
+    </string>
+    <string id="54">
+      <text lang="CHN">法兰克人</text>
+      <text lang="eng">Franks</text>
+      <text lang="ger">Franken</text>
+    </string>
+    <string id="98">
+      <text lang="CHN">把和平书信带给法兰克国王。</text>
+      <text lang="eng">Take the peace missive to the Frankish King.</text>
+      <text lang="ger">Überbringe die Friedensbotschaft an den fränkischen König.</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">叛乱</text>
+      <text lang="eng">THE REBELLION</text>
+      <text lang="ger">DIE REBELLION</text>
+    </string>
+    <string id="101">
+      <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+    <string id="102">
+      <text lang="CHN">梅罗鲍德斯</text>
+      <text lang="eng">Merobaudes</text>
+      <text lang="ger">Merobaudes</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="bjarnidead">
+      <lang code="CHN">
+                <text>
+比雅尼去世时，诸神都在落泪。如今他再也无法在我们的使命中鼎力相助了！
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+When Bjarni died, the gods were crying. Now he wouldn't be able to support us in our mission!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Als Bjarni starb, weinten die Götter. Nun würde er uns bei unserer Mission nicht mehr zur Seite stehen können!
+</text>
+      </lang>
+    </block>
+    <block id="charter">
+      <lang code="CHN">
+                <text>
+村庄依照承诺为我们送来了雇佣兵。若我们还需要更多人力，尽管去找他们便是。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+The village supplied us with the mercenaries as promised. They said we should just ask them if we needed more men.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Das Dorf stellte uns die versprochenen Söldner. Wir sollten auf sie zukommen, wenn wir noch mehrere Männer benötigen würden.
+</text>
+      </lang>
+    </block>
+    <block id="goldwar">
+      <lang code="CHN">
+                <text>
+由于我们未曾听从总督的劝告，他因我们举止无礼而向我们宣战。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+Since we hadn't heeded the governor's words, he declared war on us due to our bad manners.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Da wir nicht auf die Worte des Stadthalters hörten, wurde uns Aufgrund unserer schlechten Manieren der Krieg erklärt.
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+                <text>
+叛乱
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE REBELLION
+
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+DIE REBELLION
+
+</text>
+      </lang>
+    </block>
+    <block id="mardead">
+      <lang code="CHN">
+                <text>
+梅罗鲍德斯
+
+梅罗鲍德斯临终的话语充满恨意。他目光森然、面色如冰，说道：“我的人会为我复仇！”
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+MEROBAUDES 
+
+Merobaudes' last words were words of hatred. With a stern glare and a cold face he said, "My men will avenge my death!"
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+MEROBAUDES 
+
+Die letzten Worte Merobaudes waren Worte des Hasses. Mit starren Blick und eiskalter Miene sprach er: "Meine Männer werden meinen Tod rächen!"
+</text>
+      </lang>
+    </block>
+    <block id="outpost">
+      <lang code="CHN">
+                <text>
+我们走近两座由士兵把守的塔楼。起初他们面露怒色、语气生硬地接待我们。但发现我们并非来自森林中的叛军村庄后，便放我们通行了。
+
+前往仓库附近向总督报到。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+We approached two towers, which were guarded by some soldiers.
+At first they greeted us with angry faces and a gruff tone. But when they had discovered that we were not from the rebel village in the forest, they let us pass.
+
+
+Report to the governor near the warehouse.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Wir näherten uns zwei Türmen, die von einigen Soldaten bewacht wurden.
+Zuerst begegneten sie uns mit grimmiger Miene und schroffen Ton. Doch nachdem sie merkten, dass wir nicht aus dem Rebellendorf im Wald stammten, ließen sie uns passieren.
+
+
+Melde dich bei dem Stadthalter in der Nähe des Lagerhauses.
+</text>
+      </lang>
+    </block>
+    <block id="outpostinside">
+      <lang code="CHN">
+                <text>
+总督
+
+“维京人，你想用这些黄金做交易，得先讨我欢心。”这位法兰克总督劝诫道。
+ 
+“一副上好的板甲外加一柄长剑，正合我意。作为回报，我自能为你敞开许多大门——至少是我们的仓库！”
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+GOVERNOR
+
+"If you want to trade some of the gold, Vikings, you will have to do me a favour first," the Frankish governor said.
+ 
+"I would like a nice suit of plate armour and a sword. In exchange I could open many doors for you, at least to our warehouses!"
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+STADTHALTER
+
+"Wenn du, Wikinger, etwas von dem Gold erhandeln willst, müsstest du mir erst einmal deine Gunst erweisen." mahnte uns dieser fränkische Stadthalter.
+ 
+"Eine schöne Plattenrüstung und ein Schwert würden mir sehr wohl gefallen. Ich  könnte dir dann als Gegenleistung viele Türen öffnen, zumindest zu unseren Lagerbeständen!"
+</text>
+      </lang>
+    </block>
+    <block id="outposttribute">
+      <lang code="CHN">
+                <text>
+总督
+
+“谢谢你的礼物，维京人。”当我们把板甲和长剑交到他手上时，总督说道。
+
+“去我们的仓库看看吧，那里有些交易邀请，想必你会中意。”
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+GOVERNOR
+
+"Thank you for the gift, Vikings," the governor said when we had given him the plate armour and the sword.
+
+"Take a look at our warehouse. You'll find some trade offers there that you might like."
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+STADTHALTER
+
+"Danke für das Geschenk, Wikinger" sprach der Stadthalter, als wir ihm die Plattenrüstung und das Schwert übergaben. 
+
+"Schau einfach bei unserem Lager rein, dort findest du einige Handelsangebote die deinen Wünschen entsprechen."
+</text>
+      </lang>
+    </block>
+    <block id="p0attackp3">
+      <lang code="CHN">
+                <text>
+总督
+
+这意味着战争！
+
+袭击前哨的士兵，势必很快招致后果。凡与梅罗鲍德斯为敌者，夜里再难安眠！
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+GOVERNOR 
+
+This means war!
+
+There are bound to be consequences for an attack against the soldiers of the outpost. No one who makes an enemy of Merobaudes will ever sleep peacefully again!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+STADTHALTER 
+
+Das bedeutet Krieg!
+
+Ein Angriff gegen die Soldaten des Außenpostens wird sicherlich bald Konsequenzen nach sich ziehen. Wer Merobaudes zum Feind hat, wird kein Auge in der Nacht mehr ruhig schließen können!
+</text>
+      </lang>
+    </block>
+    <block id="p0attackp4">
+      <lang code="CHN">
+                <text>
+梅罗鲍德斯
+
+“你竟敢攻击我！我要像赶走一条癞皮狗一样，把你从我的土地上驱逐出去！”
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+MEROBAUDES
+
+"How dare you attack me! I will kick you out of my country like a dog!"
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+MEROBAUDES
+
+"Du wagst es, mich anzugreifen! Ich werde dich von meinen Land vertreiben wie einen räudigen Hund!"
+</text>
+      </lang>
+    </block>
+    <block id="p3dead">
+      <lang code="CHN">
+                <text>
+法兰克人的前哨站被我们重创之后，所有奴隶都心怀感激地投奔了我们。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+After we had badly damaged the outpost of the Franks, all the slaves joined us willingly.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Nachdem wir den Außenposten der Franken stark beschädigt hatten, schlossen sich uns all die Arbeitssklaven dankbar an.
+</text>
+      </lang>
+    </block>
+    <block id="p3p4killed">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+                <text>
+任务成功！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+                <text>
+梅罗鲍德斯的恐怖统治就此终结，我们的同胞终于得以重享安宁。
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION SUCCESSFUL!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Merobaudes' reign of terror had ended, and our fellow countrymen were able to live in peace once more.
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION GEWONNEN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Merobaudes Schreckensherrschaft war beendet und unsere Landsmänner konnten endlich wieder in Frieden leben.
+</text>
+      </lang>
+    </block>
+    <block id="p4tribute">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+                <text>
+任务成功！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+                <text>
+交纳贡金之后，梅罗鲍德斯终于接受了和平条约，放我们安然离去。
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION SUCCESSFUL!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+After we had paid the tribute, Merobaudes finally accepted the peace treaty and let us go in peace.
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION GEWONNEN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Nachdem wir den Tribut bezahlt hatten, nahm Merobaudes endlich den Friedensvertrag an und ließ uns in Frieden ziehen.
+</text>
+      </lang>
+    </block>
+    <block id="playerdied">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+                <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+                <text>
+我们试图在这片土地上定居的计划，失败了。
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Our plan to settle in this territory had failed. 
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Wir hatten bei dem Versuch, uns in diesem Gebiet anzusiedeln, versagt. 
+</text>
+      </lang>
+    </block>
+    <block id="rebellen">
+      <lang code="CHN">
+                <text>
+我们在森林深处偶遇一座极小村落，村民淳朴。当我们听闻这些善良之人讲述此地统治者梅罗鲍德斯的种种恶行时，惊恐不已。
+
+他们所言令人难以置信——入侵的军队专门掳走那些未武装却身强力壮的男子，押往金矿做苦工，只留下老弱。这些可怜的人想要自卫，便悄悄重整军备，准备向梅罗鲍德斯宣战，以解救同胞。
+
+他们恳请与我们交易，并告诉我们，若需要，可以雇佣雇佣兵。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+We found a very small village in the middle of the forest. We were appalled when these nice people told us about the malicious machinations of the ruler Merobaudes. 
+
+We could hardly believe their reports about his invading troops, who kidnapped strong, unarmed men to work in their gold mines and left the weak behind. These poor people just wanted to defend themselves and thus started arming themselves to declare war on him and to free their fellow countrymen.
+
+
+They offered to trade with us and told us that we could hire mercenaries if we wanted.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Wir stießen auf ein winziges Dorf einfacher Leute mitten im Wald. Wie entsetzt waren wir, als uns diese braven Menschen von den üblen Machenschaften des Herrschers dieses Landes Merobaudes erzählten. 
+
+Unglaublich erschienen uns ihre Berichte, von seinen einfallenden Truppen, welche gezielt die unbewaffneten, aber kräftigen Männer in seine Goldminen verschleppen und die Schwachen zurücklassen. Diese armen Leute wollten sich zur Wehr setzen und rüsteten langsam gegen Merobaudes auf, um ihn den Krieg zu erklären und ihre Landsleute zu befreien.
+
+
+Sie baten uns an, mit ihnen Handel zu treiben und wiesen uns auf die Möglichkeit hin, Söldner anzuheuern.
+</text>
+      </lang>
+    </block>
+    <block id="seep4">
+      <lang code="CHN">
+                <text>
+梅罗鲍德斯
+
+“尊贵的维京人，欢迎到来，我早已得知你们抵达的消息。可惜我对你们的和平条约毫无兴趣，但若你们向我交纳一笔贡金，我便容你们在此安然建立居所。
+
+“凑齐那 30 枚金币对你们想必轻而易举。”梅罗鲍德斯一笑，留下这句话便离我们而去。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+MEROBAUDES
+
+"Be welcome, venerable Viking. I had already been informed of your arrival. Unfortunately, I have no wish to sign a peace treaty, but if you pay a certain tribute, I will let you settle in peace. 
+
+It will surely be easy for you to organise the 30 gold pieces," Merobaudes laughed and left us alone with these words.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+MEROBAUDES
+
+"Seid willkommen verehrter Wikinger, ich habe schon von eurer Ankunft erfahren. Leider habe ich keinerlei Interesse an eurem Friedensvertrag, aber wenn ihr mir einen gewissen Tribut bezahlt, lasse ich euch hier in Ruhe eure Sieldung aufbauen. 
+
+Sicherlich wird es euch leicht fallen, die 30 Goldstücke aufzutreiben", lachte Merobaudes und ließ uns mit diesen Worten allein.
+</text>
+      </lang>
+    </block>
+    <block id="starttext">
+      <lang code="CHN">
+                <text>
+狂风巨浪在茫茫大海上向我们袭来，我们的船不堪一击。我们险些永远无法抵达法国海岸……
+
+我们的使命，是把和平条约带给此地的统治者——法兰克国王梅罗鲍德斯。部落长老说，他的堡垒位于北方一座湖泊的中央。
+
+把和平条约带给法兰克国王。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+We were on the deep seas when we saw ourselves confronted with a thunderstorm too strong for our ship to resist. We were lucky to reach the French coast at all ... 
+
+We had been ordered to take a peace treaty to the ruler of these lands, the Frankish King Merobaudes. 
+His stronghold was said to be in the middle of a lake in the north.
+
+
+Take the peace treaty to the Frankish King. 
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Ein Unwetter brach auf hoher See über uns herein und unser Schiff hielt diesem nicht stand. Um Haaresbreite hätten wir die französische Küste nie erreicht... 
+
+Unser Auftrag war es, dem Herrscher dieses Landes, dem fränkischen König Merobaudes, einen Friedensvertrag zu überbringen. 
+Seine Festung, so erzählten unsere Stammesältesten, soll sich inmitten eines Sees im Norden befinden.
+
+
+Überbringe den Friedensvertrag an den fränkischen König. 
+</text>
+      </lang>
+    </block>
+    <block id="warngold">
+      <lang code="CHN">
+                <text>
+总督
+
+“我给你几分钟，离开梅罗鲍德斯的金矿。若到时你还在此处，便须承担后果！”
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+GOVERNOR 
+
+"I will give you a few minutes to leave Merobaudes' gold mines. If you are still here after that, you'll have to face the consequences!"
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+STADTHALTER 
+
+"Ich gebe dir wenige Minuten, Merobaudes Goldminen zu verlassen. Solltest du dann noch hier sein, wirst du die Konsequenzen tragen müssen!"
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

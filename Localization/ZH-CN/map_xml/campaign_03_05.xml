@@ -1,0 +1,1273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_03_05" export_map_id="campaign_03_05" map_md5="4c6a0c7c6ddac526aef2b2e78ebcae91" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">@在以弗所兴建阿尔忒弥斯神庙。</text>
+      <text lang="ger">@ERRICHTE DEN ARTEMIS TEMPEL ZU EPHESOS.</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">建立一座小型聚落。</text>
+      <text lang="ger">Baue eine kleine Siedlung auf.</text>
+    </string>
+    <string id="2">
+      <text lang="CHN">前往神庙工地。</text>
+      <text lang="ger">Gehe zum Tempelbauplatz.</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">设法排退沼泽、加固神庙工地。</text>
+      <text lang="ger">Suche eine Möglichkeit den Sumpf zurückzudrängen und den Tempelbauplatz zu befestigen.</text>
+    </string>
+    <string id="4">
+      <text lang="CHN">向神庙工地运送 127 根大理石柱。</text>
+      <text lang="ger">Bringe 127 Marmorsäulen zum Tempelbauplatz.</text>
+    </string>
+    <string id="5">
+      <text lang="CHN">向港口民缴纳 15 单位铁制工具作贡金。</text>
+      <text lang="ger">Zahle dem Hafenvolk 15 Eisenwerkzeuge zum Tribut.</text>
+    </string>
+    <string id="6">
+      <text lang="CHN">向士兵缴纳 15 单位蜂蜜酒作贡金，换取其支援。</text>
+      <text lang="ger">Gib den Soldaten 15 Met zum Tribut für ihre Unterstützung.</text>
+    </string>
+    <string id="7">
+      <text lang="CHN">寻找阿梅利亚。</text>
+      <text lang="ger">Suche Amelia.</text>
+    </string>
+    <string id="8">
+      <text lang="CHN">将阿梅利亚送回双亲身边。</text>
+      <text lang="ger">Bringe Amelia zu ihren Eltern.</text>
+    </string>
+    <string id="9">
+      <text lang="CHN">寻得年幼的希罗斯特拉特斯，将其关入地牢。</text>
+      <text lang="ger">Finde Herostrates den Jüngeren und stecke ihn in das Verlies.</text>
+    </string>
+    <string id="10">
+      <text lang="CHN">向商人缴纳 15 单位蜂蜜作贡金。</text>
+      <text lang="ger">Zahle dem Händler 15 Schalen Honig zum Tribut.</text>
+    </string>
+    <string id="11">
+      <text lang="CHN">与你的英雄前往山中秘道！</text>
+      <text lang="ger">Gehe mit deinen Helden zu dem geheimen Eingang in den Bergen!</text>
+    </string>
+    <string id="12">
+      <text lang="CHN">与你的英雄进入沼泽中的泽地！</text>
+      <text lang="ger">Gehe mit deinen Helden in den Sumpf zu den Sumpfweisen!</text>
+    </string>
+    <string id="14">
+      <text lang="CHN">与你的英雄返回阿尔忒弥斯神庙！</text>
+      <text lang="ger">Gehe mit deinen Helden zurück zu dem Artemis-Tempel!</text>
+    </string>
+    <string id="15">
+      <text lang="CHN">再向将军的士兵缴纳 50 单位蜂蜜酒，换取其支援。</text>
+      <text lang="ger">Gib den Soldaten des Generals nochmals 50 Met für ihre Unterstützung.</text>
+    </string>
+    <string id="20">
+      <text lang="CHN">大理石柱 %d/127</text>
+      <text lang="ger">Marmorsäulen %d/127</text>
+    </string>
+    <string id="21">
+      <text lang="CHN">物资已送达</text>
+      <text lang="ger">Waren geliefert</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">以弗所</text>
+      <text lang="ger">Ephesos</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">港口民</text>
+      <text lang="ger">Hafenvolk </text>
+    </string>
+    <string id="53">
+      <text lang="CHN">商人</text>
+      <text lang="ger">Händler</text>
+    </string>
+    <string id="54">
+      <text lang="CHN">撒拉逊人</text>
+      <text lang="ger">Sarazenen</text>
+    </string>
+    <string id="55">
+      <text lang="CHN">希罗斯特拉特斯的继承者</text>
+      <text lang="ger">Herostrates Erben</text>
+    </string>
+    <string id="61">
+      <text lang="CHN">以弗.</text>
+      <text lang="ger">Ephes.</text>
+    </string>
+    <string id="62">
+      <text lang="CHN">港.</text>
+      <text lang="ger">Hafenv.</text>
+    </string>
+    <string id="63">
+      <text lang="CHN">商人</text>
+      <text lang="ger">Händler</text>
+    </string>
+    <string id="64">
+      <text lang="CHN">撒.</text>
+      <text lang="ger">Saraz.</text>
+    </string>
+    <string id="65">
+      <text lang="CHN">继承者</text>
+      <text lang="ger">Erben</text>
+    </string>
+    <string id="71">
+      <text lang="CHN">比雅尼</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="CHN">希拉</text>
+      <text lang="ger">Cyra</text>
+    </string>
+    <string id="73">
+      <text lang="CHN">哈奇</text>
+      <text lang="ger">Hatschi</text>
+    </string>
+    <string id="74">
+      <text lang="CHN">西格德</text>
+      <text lang="ger">Sigurd</text>
+    </string>
+    <string id="75">
+      <text lang="CHN">诺伯特</text>
+      <text lang="ger">Norbert</text>
+    </string>
+    <string id="76">
+      <text lang="CHN">玛尼</text>
+      <text lang="ger">Mani</text>
+    </string>
+    <string id="78">
+      <text lang="CHN">阿梅利亚</text>
+      <text lang="ger">Amelia</text>
+    </string>
+    <string id="79">
+      <text lang="CHN">赫尔梅亚斯</text>
+      <text lang="ger">Hermeias</text>
+    </string>
+    <string id="80">
+      <text lang="CHN">将军</text>
+      <text lang="ger">Der General</text>
+    </string>
+    <string id="98">
+      <text lang="CHN">以弗所的阿尔忒弥斯神庙之建，正受一群纵火者——希罗斯特拉特斯的继承者——所威胁，亦为不断蔓延的沼泽所危及……</text>
+      <text lang="ger">Das Bau des Artemis Tempels zu Ephesos wird durch eine Schaar Brandstifter - die Erben Herostrates - bedroht und von ansteigendem Sumpfgelände gefährdet...</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">阿尔忒弥斯神庙</text>
+      <text lang="ger">DER TEMPEL DER ARTEMIS </text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="CHN">
+        <text>
+我们来到以弗所，本是要在四月阿尔忒弥斯节前，重建古代最宏伟的神庙！建筑工程早已如火如荼。这倒省了我们不少力气——但黑暗势力显然也不会袖手旁观。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Hier in Ephesos sollte der größte Tempel der Antike bis zum Artemisfest im April wieder errichtet werden! Und die Bauarbeiten dafür waren bereits in vollem Gange. Das konnte uns unseren Auftrag erleichtern. So mussten wir nicht alleine diese schwere Aufgabe erledigen.
+
+</text>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="CHN">
+        <text>
+
+
+以弗所人几乎已将神庙建成，却为蔓延的沼泽所苦。尽管如此，此庙仍须尽快完工，好让我们随后能赴奥林匹亚，助菲迪亚斯竖起宙斯巨像。
+
+循北面大道前往阿尔忒弥斯神庙工地。那里自有详示。
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Die Menschen von Ephesos hatten den Tempel schon fast fertig errichtet, aber ihnen machte das ansteigende Sumpfgelände zu schaffen. Nichts desto trotz sollte der Bau so schnell wie möglich fertig werden, damit wir anschließend bei der Errichtung der Zeusstatue des Phidias in Olympia helfen konnten. 
+
+Folge der mächtigen Straße nach Norden zur Baustelle des Artemis-Tempels. Dort erhältst du nähere Anweisungen.
+</text>
+      </lang>
+    </block>
+    <block id="01">
+      <lang code="CHN">
+        <text>
+
+
+以弗所市民
+
+"幸会！我们早候着你们了。这些纵火贼实在可恶，是时候有人去治治他们了！"
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DIE BÜRGER VON EPHESOS
+
+"Seid gegrüßt! Wir haben euch schon erwartet. Es ist wirklich schrecklich mit diesen Brandstiftern. Es wird Zeit, dass ihnen jemand das Handwerk legt!"
+</text>
+      </lang>
+    </block>
+    <block id="02">
+      <lang code="CHN">
+        <text>
+
+
+阿尔忒弥斯神庙工地
+
+"哎呀，工程本已推进至此，几乎就要完工了！"以弗所勤恳的工匠们哀叹道。
+
+
+        
+        </text>
+        <text>
+
+
+
+"要重建此庙，非数年不能成，皆因我们缺了那大理石柱！"
+
+若有必要，于神庙工地周围多建货仓，运送 127 根大理石柱！
+
+况且沼泽尚在蔓延：
+
+"单是一梁便重二十吨，纵使阿尔忒弥斯女神亲临，将之安于其所——这沼泽软土也承它不住。"建筑师说道，"欲在此重现这重要丰碑，必止住沼泽的蔓延！"
+
+
+寻法退去沼泽，并加固神庙工地。
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+BAUPLATZ DES ARTEMIS TEMPELS
+
+"Oh je, dabei war der Bau schon so vorangeschritten, beinahe fertig gestellt!" trauerten die fleißigen Bauarbeiter von Ephesos. 
+
+</text>
+        <usericon>1,269,121</usericon>
+        <text>
+
+"Es wird Jahre dauern, den Tempel wieder zu errichten, denn uns fehlen die Marmorsäulen dazu!"
+
+Baue, wenn nötig, mehrere Lagerhäuser um den Tempelbauplatz und liefere 127 Marmorsäulen! 
+
+Dazu kam noch die Ausbreitung des Sumpfes:
+
+"Allein ein Balken wiegt 20 Tonnen und selbst wenn die Göttin Artemis persönlich ihn an die richtige Stelle hebt - der sumpfige Boden wird ihm nicht mehr standhalten." sprach der Architekt. "Wir müssen die Ausbreitung des Sumpfes verhindern, wenn hier dieses wichtige Monument wieder errichtet werden soll!"
+
+
+Suche eine Möglichkeit, den Sumpf zurückzudrängen und den Tempelbauplatz zu befestigen.
+</text>
+      </lang>
+    </block>
+    <block id="03">
+      <lang code="CHN">
+        <text>
+
+
+100 根大理石柱
+
+吕底亚幼王克罗伊斯，捐百根大理石柱以建阿尔忒弥斯神庙。
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+100 MARMORSÄULEN
+
+Der lydische König Krösus der Jüngere spendet 100 Marmorsäulen für die Errichtung des Artemistempels. 
+</text>
+      </lang>
+    </block>
+    <block id="04">
+      <lang code="CHN">
+        <text>
+
+
+货物已送达
+
+所需货物已运抵工地。自此神庙营建不日可成。
+
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+WAREN GELIEFERT
+
+Wir hatten die benötigten Waren am Bauplatz abgeliefert. Der Tempelbau dauerte von diesem Zeitpunkt an nicht mehr lange. 
+
+</text>
+        <usericon>1,269,121</usericon>
+      </lang>
+    </block>
+    <block id="05">
+      <lang code="CHN">
+        <text>
+
+
+所有主线目标皆已达成！
+
+我们既擒得幼者希罗斯特拉特斯，又止住沼泽蔓延，更运来所需建材。神庙竣工，再无阻滞！
+
+率众英雄亲临庙址，验看工程是否合度！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+ALLE HAUPTMISSIONSZIELE ERFÜLLT!
+
+Wir hatten sowohl Herostrates den Jüngeren gefangen genommen, die Ausbreitung des Sumpfes verhindert, als auch die erforderlichen Bauwaren geliefert. Der Vollendung des Tempels stand nun nichts mehr im Weg!
+
+Suche mit deinen Helden den Tempelplatz auf, um dich vom ordnungsgemäßen Bau zu überzeugen! 
+</text>
+      </lang>
+    </block>
+    <block id="06">
+      <lang code="CHN">
+        <text>
+
+
+神庙工地加固
+
+希罗斯特拉特斯之裔已被逐走，凭魔法之力，自然暂被遏止——然不久它必重索其债，神庙恐将再度沉入沼泽……
+
+……庙工终得开启！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+BEFESTIGUNG DES TEMPELBAUPLATZES
+
+Die Erben Herostrates hatten wir verbannt und durch Zauberhand konnte die Natur für eine Zeit lang zurückgehalten werden, bevor sie erneut ihren Tribut fordern und der Tempel wieder im Sumpf versinken würde...
+
+... die Tempelarbeiten konnten endlich beginnen!
+</text>
+      </lang>
+    </block>
+    <block id="07">
+      <lang code="CHN">
+        <text>
+
+
+希罗斯特拉特斯之裔
+
+哎呀！神庙营建危矣！一伙纵火贼——希罗斯特拉特斯之裔——扑将上来，燃起烈火，此庙几不能支！
+
+
+        
+        </text>
+        <text>
+
+
+
+其首领乃幼者希罗斯特拉特斯。其先祖赫罗斯特拉托斯，昔年便将旧庙焚为平地，只为一己癫狂的扬名之欲！其"门徒"今循旧辙，屡屡来犯工地。
+
+唯有寻得幼者希罗斯特拉特斯，将其囚于地牢，使他再不能煽惑众人，攻击方止。
+
+寻得幼者希罗斯特拉特斯，将其囚入地牢！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DIE ERBEN HEROSTRATES
+
+Oh je! Der Bau des Tempels war bedroht! Eine Scharr Brandstifter, die ERBEN HEROSTRATES, fielen über ihn her und entfachten ein Feuer, dem dieser Bau nicht standhalten konnte!
+
+</text>
+        <usericon>1,258,128</usericon>
+        <text>
+
+Angeführt wurden sie von Herostrates dem Jüngeren. Dessen Urahn Herostratos hatte den alten Tempel damals schon völlig niedergebrannt, mit dem krankhaften Ehrgeiz, Berühmtheit zu erfahren! Seine "Jünger" verfolgen nun das gleiche Ziel und werden die Baustelle des Tempels stetig wieder angreifen. 
+
+Die Angriffe werden erst dann enden, nachdem man Herostrates den Jüngeren gefunden und in einem Verlies in Verwahrung genommen hat, so dass er keine weiteren Menschen anstiften kann.
+
+Finde Herostrates den Jüngeren und sperre ihn in ein Verlies! 
+</text>
+      </lang>
+    </block>
+    <block id="08">
+      <lang code="CHN">
+        <text>
+
+
+唯四名勇毅英雄，受命方可入此秘地！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Nur vier tapfere Helden sollten diesen Ort betreten, wenn sie den Auftrag dazu erhalten! 
+</text>
+      </lang>
+    </block>
+    <block id="09">
+      <lang code="CHN">
+        <text>
+
+
+港口部落
+
+我们探勘海岸时，遇一小小港湾村落之民。他们于我们非友非敌。
+
+
+        
+        </text>
+        <text>
+
+
+
+他们听闻我们上好铁制工具，虽已磨损，仍欲讨得几件！
+
+向港口部落缴纳几件铁制工具为贡，他们便向你呈上交易之邀！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+HAFENVOLK
+
+Als wir die Küste erforschten, kamen uns Bewohner eines kleinen Hafendorfes entgegen. Sie waren uns weder Freund noch Feind. 
+
+</text>
+        <usericon>1,146,352</usericon>
+        <text>
+
+Sie hörten von unseren guten Eisenwerkzeugen. Auch wenn sie schon sehr abgenutzt waren, wollten sie gerne ein paar Exemplare davon für sich haben! 
+
+Reiche dem Hafenvolk ein paar Eisenwerkzeuge zum Tribut und sie werden dir ihre Handelsangebote offerieren! 
+</text>
+      </lang>
+    </block>
+    <block id="10">
+      <lang code="CHN">
+        <text>
+
+
+已向港口部落进贡！
+
+我们已将工具作贡奉上，他们对我等态度立转。
+
+
+        
+        </text>
+        <text>
+
+
+
+其喜甚，竟向我们开出极惠之交易条件。
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+TRIBUT AN HAFENVOLK ÜBERREICHT!
+
+Wir hatten dem Hafenvolk die Werkzeuge zum Tribut überreicht und sie wechselten ihre Haltung zu uns augenblicklich. 
+
+</text>
+        <usericon>1,146,352</usericon>
+        <text>
+
+Ihre Freude war darüber sogar so groß, dass sie uns überaus günstige Handelsangebote machten. 
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+英雄气概，还是鲁莽？当比雅尼殒命，众神落泪……失此英雄，你便无缘得见任务终局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="11">
+      <lang code="CHN">
+        <text>
+
+
+撒拉逊城
+
+我们探勘沙漠时，遇一城之民。他们对我们极为友善。
+
+
+        
+        </text>
+        <text>
+
+
+
+然此族笼罩深悲——城中一位德高望重老者，数日来寻不见其女。我们决意去探望他……
+
+寻访赫尔梅亚斯！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+SARARZENENSTADT
+
+Als wir die Wüste erforschten, kamen uns die Bewohner einer Stadt entgegen. Sie waren uns überaus freundlich gesonnen.
+
+</text>
+        <usericon>1,398,28</usericon>
+        <text>
+
+Leider lag große Trauer über diesem Volk, da ein alter und geachteter Mann der Stadt seit einigen Tagen seine Tochter vermisste. Wir beschlossen, ihn aufzusuchen... 
+
+Suche Hermeias! 
+</text>
+      </lang>
+    </block>
+    <block id="12">
+      <lang code="CHN">
+        <text>
+
+
+赫尔梅亚斯
+
+"噢，我可怜的女儿！她不过想去采些稀有草木，定是在西南面林中迷了路……抑或遭了什么不测……"
+
+
+        
+        </text>
+        <text>
+
+
+
+"你们能否将她带回？老朽腿脚沉重，走到她那里怕要数日。"
+
+寻访赫尔梅亚斯之女阿梅利亚！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+HERMEIAS
+
+"Oh meine arme Tochter! Sie wollte nur ein paar seltene Pflanzen sammeln und hat sich dabei bestimmt in dem Wald südwestlich von hier verlaufen... oder ihr ist gar Schreckliches passiert..."
+
+</text>
+        <usericon>2,9</usericon>
+        <text>
+
+"Könnt ihr sie nicht zurückbringen? Meine Beine sind schon alt und schwer. Es würde Tage dauern, bis ich sie erreicht habe."
+
+Suche Hermeias Tochter Amelia!
+</text>
+      </lang>
+    </block>
+    <block id="13">
+      <lang code="CHN">
+        <text>
+
+
+赫尔梅亚斯
+
+"噢，我儿！你们寻到她了！我当面见吕底亚王，请他助你们一臂之力！"
+
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+HERMEIAS
+
+"Oh meine Tochter! Ihr habt sie gefunden! Ich werde dem lydischen König vorsprechen, damit er euch bei eurer Mission unterstützt!"
+
+</text>
+        <usericon>2,9</usericon>
+      </lang>
+    </block>
+    <block id="14">
+      <lang code="CHN">
+        <text>
+
+
+阿梅利亚
+
+"噢，父亲定已为我忧心如焚！可否护送我回去？我可再不愿迷路了！"
+
+
+        
+        </text>
+        <text>
+
+
+
+护送阿梅利亚回到其父身边！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+AMELIA
+
+"Oh, mein Vater wird sich sicher schon große Sorgen um mich machen! Könntet ihr mich zu ihm zurück begleiten? Ich möchte mich nicht noch einmal verlaufen!"
+
+</text>
+        <usericon>2,8</usericon>
+        <text>
+
+Begleite Amelia zurück zu ihrem Vater!
+</text>
+      </lang>
+    </block>
+    <block id="15">
+      <lang code="CHN">
+        <text>
+
+
+商人
+
+我们探勘海岸，遇一商族。他们于我们非友非敌，只欲收贡贸易，并赠我们一份礼。
+
+
+        
+        </text>
+        <text>
+
+
+
+向商人缴纳几罐蜂蜜为贡，他们便向你呈上交易之邀，并赠你一份礼！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+HÄNDLER
+
+Als wir die Küste erforschten, begegnete uns ein Handelsvolk. Sie waren uns weder Freund noch Feind und wollten mit uns nur nach einem Tribut Handel treiben und uns ein Geschenk überreichen.
+
+</text>
+        <usericon>1,184,439</usericon>
+        <text>
+
+Reiche dem Händlern ein paar Schalen Honig zum Tribut und sie werden dir ihre Handelsangebote offerieren und dir ein Geschenk überreichen! 
+</text>
+      </lang>
+    </block>
+    <block id="16">
+      <lang code="CHN">
+        <text>
+
+
+商人
+
+我们已将贡奉予商人，他们为谢，竟赠我们 30 根渴求的大理石柱……
+
+
+        
+        </text>
+        <text>
+
+
+
+……更开出优厚商约。
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+HÄNDLER
+
+Wir hatten den Händlern den Tribut überreicht und sie übergaben uns zum Dank 30 der begehrten Marmorsäulen...
+
+</text>
+        <usericon>1,186,443</usericon>
+        <text>
+
+...und boten sich günstige Handelsverträge an.
+</text>
+      </lang>
+    </block>
+    <block id="17">
+      <lang code="CHN">
+        <text>
+
+
+老者
+
+"沼泽险恶，毒虫猛兽出没其间。然你若欲往沼泽智者处，循东北向之路便是。"老者言道。
+
+
+        
+        </text>
+        <text>
+
+
+
+言罢，他复没入雾中，来去一般突兀……
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DER ALTE MANN
+
+"Der Sumpf ist heimtückisch, und gefährliche Tiere treiben dort ihr Unwesen. Aber wollt ihr zu den Sumpfweisen, dann folgt den Weg nach Nordosten!" sagte der alte Mann. 
+
+</text>
+        <usericon>1,251,59</usericon>
+        <text>
+
+Dann verschwand er wieder im Nebel, ebenso plötzlich, wie er gekommen war... 
+</text>
+      </lang>
+    </block>
+    <block id="18">
+      <lang code="CHN">
+        <text>
+
+
+老者
+
+"前几日，一好姑娘沿此路去，欲往西面林中。我却未见她回来……
+
+
+        
+        </text>
+        <text>
+
+
+
+但愿她无恙……"老者言道。
+言罢，他复没入雾中，来去一般突兀……
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DER ALTE MANN
+
+"Ein nettes Mädchen kam vor Tagen den Weg entlang und wollte zum Wald im Westen. Ich hab sie den Weg nicht zurückkommen sehen... 
+
+</text>
+        <usericon>1,121,288</usericon>
+        <text>
+
+Hoffentlich ist ihr nichts passiert..." sagte der alte Mann. 
+Dann verschwand er wieder im Nebel, ebenso plötzlich, wie er gekommen war...
+</text>
+      </lang>
+    </block>
+    <block id="19">
+      <lang code="CHN">
+        <text>
+
+
+老者
+
+
+        
+        </text>
+        <text>
+
+
+
+"南面更远，有一商族定居。你等一旦与他们交好，其馈赠与交易之邀便极是慷慨！"老者言道。
+言罢，他复没入雾中，来去一般突兀……
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DER ALTE MANN
+
+</text>
+        <usericon>1,243,386</usericon>
+        <text>
+
+"Ein Händlervolk hat sich weiter im Süden niedergelassen. Sind sie dir erst einmal freundlich gesinnt, sind ihre Gaben und Handelsangebote sehr großzügig!" sagte der alte Mann. 
+Dann verschwand er wieder im Nebel, ebenso plötzlich, wie er gekommen war...
+</text>
+      </lang>
+    </block>
+    <block id="20">
+      <lang code="CHN">
+        <text>
+
+
+以弗所将军
+
+"幸会，异乡人！希罗斯特拉特斯之裔屡屡肆虐我庙，实在令人发指！"
+
+
+        
+        </text>
+        <text>
+
+
+
+"我正整备士兵以备不测。他们至今仍怯，畏那纵火者。然得你们些许蜜酒，定能壮胆，发动牵制之术。那时山中秘道入口便无人把守。如此，如你们这般勇毅的英雄，必能治住希罗斯特拉特斯！"
+
+若愿，可缴贡以行牵制之术。
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DER GENERAL VON EPHESOS
+
+"Seid gegrüßt, Fremde! Was die Erben Herostrates da immer wieder mit unseren Tempel anstellen, ist nicht zu fassen!" 
+
+</text>
+        <usericon>2,10</usericon>
+        <text>
+
+"Ich rüste meine Soldaten für den Ernstfall. Bisher sind sie doch sehr ängstlich und scheuen die Feuerleger. Doch mit ein bisschen Met von euch werden sie bestimmt mutig und können ein Ablenkungsmanöver starten. Der Eingang in das Berglager wäre dann frei. Und dann könnten so tapfere Helden, wie ihr es seid, Herostrates bestimmt das Handwerk legen!"
+
+Zahle, wenn du willst, den Tribut für das Ablenkungsmanöver.
+</text>
+      </lang>
+    </block>
+    <block id="200">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+一时疏忽，人生便急转直下！你的女英雄希拉因你大意而殒命！失此英雄，你便无缘得见任务终局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="21">
+      <lang code="CHN">
+        <text>
+
+
+已向以弗所将军缴贡！
+
+
+        
+        </text>
+        <text>
+
+
+
+"君之蜜酒，予我男儿以所需之勇。今再无可挡，牵制之术立时可发！你等或可安然自西越桥，直达山间入口。"
+
+"若此助不足，可再向我纳贡。我等必倾力而为！此言为誓！"
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+TRIBUT AN GENERAL VON EPHESOS BEZAHLT!
+
+</text>
+        <usericon>2,10</usericon>
+        <text>
+
+"Euer Met gibt meinen Männern den Mut, den sie brauchen. Nun kann uns nichts mehr halten und wir werden das Ablenkungsmanöver augenblicklich starten! Ihr könnt so vielleicht unbeschadet von Westen über die Brücke zum Eingang des Berges gelangen."
+
+"Falls euch diese Hilfe nicht genug ist, könnt ihr uns erneut einen Tribut leisten. Wir werden dann alle uns zur Verfügung stehenden Mittel einsetzen! Darauf gebe ich euch mein Wort!"
+</text>
+      </lang>
+    </block>
+    <block id="22">
+      <lang code="CHN">
+        <text>
+
+
+以弗所人迎战希罗斯特拉特斯之裔！
+
+
+        
+        </text>
+        <text>
+
+
+
+将军之师，无畏迎向纵火贼，后者几不能伤其分毫！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+EPHESER BEKÄMPFEN HEROSTRATOS ERBEN!
+
+</text>
+        <usericon>1,197,104</usericon>
+        <text>
+
+Die Armee des Generals trat den Brandstiftern unerschrocken entgegen. Diese konnten ihnen kaum etwas anhaben!
+</text>
+      </lang>
+    </block>
+    <block id="23">
+      <lang code="CHN">
+        <text>
+
+
+哈奇出发侦察！
+
+
+        
+        </text>
+        <text>
+
+
+
+哈奇决意细察神庙上方之地。
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+HATSCHI GEHT AUF ERKUNDUNGSTOUR!
+
+</text>
+        <usericon>2,3</usericon>
+        <text>
+
+Hatschi beschloss, sich das Gebiet oberhalb des Tempels genauer anzuschauen. 
+</text>
+      </lang>
+    </block>
+    <block id="24">
+      <lang code="CHN">
+        <text>
+
+
+玛尼与诺伯特已然长大，当随英雄们共历冒险！
+
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+MANI und NORBERT sind nun groß genug und sollten an den Abenteuern der Helden teilnehmen!
+
+</text>
+        <usericon>2,5</usericon>
+      </lang>
+    </block>
+    <block id="25">
+      <lang code="CHN">
+        <text>
+
+
+希罗斯特拉特斯之裔
+
+此乃希罗斯特拉特斯之裔的堡垒。山体之中，应有一处秘道入口，希罗斯特拉特斯便藏身其间！
+
+
+        
+        </text>
+        <text>
+
+
+
+与你的英雄前往山中秘道！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DIE ERBEN HEROSTRATES
+
+Dies war die Feste der Erben Herostrates. In dem Bergmassiv sollte sich ein geheimer Eingang befinden, wo sich Herostrates selbst verborgen hielt!
+
+</text>
+        <usericon>1,143,43</usericon>
+        <text>
+
+Gehe mit ALLEN deinen Helden zum Eingang in den Bergen! 
+</text>
+      </lang>
+    </block>
+    <block id="26">
+      <lang code="CHN">
+        <text>
+
+
+货物已送达
+
+所需货物已运抵工地。然庙工尚不能启。
+
+
+        
+        </text>
+        <text>
+
+
+
+我们须先了却另两桩要务：止住沼泽蔓延，并击退希罗斯特拉特斯之裔的纵火之众！
+
+以弗所工匠收下货物，却言两害未除，不愿续建……
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+WAREN GELIEFERT
+
+Wir hatten die benötigten Waren am Bauplatz abgeliefert. Doch der Tempelbau konnte noch nicht beginnen. 
+
+</text>
+        <usericon>1,269,121</usericon>
+        <text>
+
+Wir mussten zuvor den BEIDEN anderen Aufgaben nachgehen: die Verhinderung der Ausbreitung des Sumpfes, sowie die Abwendung der Brandstifterischaaren der Erben Herostrates! 
+
+Die Bauarbeiter von Ephesos nahmen die Waren in ihre Obhut, wollten aber erst mit dem Bau fortfahren, wenn beide Gefahren gebannt waren...
+</text>
+      </lang>
+    </block>
+    <block id="27">
+      <lang code="CHN">
+        <text>
+
+
+已向以弗所将军缴贡！
+
+
+        
+        </text>
+        <text>
+
+
+
+"君之蜜酒与金银，足酬我师。吾等将战至最后一人！"
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+TRIBUT AN GENERAL VON EPHESOS BEZAHLT!
+
+</text>
+        <usericon>2,10</usericon>
+        <text>
+
+"Euer Met und euer Geld ist Lohn genug für meine Armee. Wir werden bis auf den letzen Mann kämpfen!" 
+</text>
+      </lang>
+    </block>
+    <block id="400">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+一时疏忽，人生便急转直下！你的挚友与英雄西格德因你大意而殒命！失此英雄，你便无缘得见任务终局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held SIGURD erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="500">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+一时疏忽，人生便急转直下！你的挚友与英雄——巨龙诺伯特——因你大意而殒命！失此英雄，你便无缘得见任务终局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="CHN">
+        <text>
+
+
+它如今巍然立于眼前，尽显其美！这古代最宏伟的神庙，重焕新辉！我们着实可以自豪！
+
+纵有诸多阻碍，我们终在四月阿尔忒弥斯节前，及时将神庙建成！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Da stand er nun in seiner vollen Schönheit! Der größte Tempel der antiken Zeit erstrahlte wieder in neuem Glanze! Wir konnten wirklich stolz auf uns sein! 
+
+Trotz der vielen Hindernisse hatten wir es geschafft, den Tempel rechtzeitig zum Artemisfest im April fertig zu stellen!
+</text>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="CHN">
+        <text>
+
+
+无论是纵火者希罗斯特拉特斯与其门徒，沼泽的蔓延，还是筹措建材之艰，皆未能使我们偏离初衷。
+
+然我们未及久留，目光已投向西方。
+那里，远古世界第六大奇迹，正待重生……
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Weder der Brandstifter Herostrates mit seinen Jüngern, noch die Ausbreitung des Sumpfes oder das schwere Beschaffen der erforderlichen Bauwaren hatte uns von unserem Vorhaben abbringen können. 
+
+Doch verweilten wir nicht lange, denn unser Blick streifte gen Westen.
+Dort musste das Sechste der Antiken Weltwunder wieder ins Leben gerufen werden...
+</text>
+      </lang>
+    </block>
+    <block id="50_endheader">
+      <lang code="CHN">
+        <text>
+
+
+任务成功！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+MISSION GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="600">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+一时疏忽，人生便急转直下！玛尼——比雅尼与希拉之子——因你大意而殒命！失此英雄，你便无缘得见任务终局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+
+
+以弗所的阿尔忒弥斯神庙
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DER ARTEMIS-TEMPEL IN EPHESOS
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

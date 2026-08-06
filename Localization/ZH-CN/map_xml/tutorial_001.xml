@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="tutorial_001" export_map_id="tutorial_001" map_md5="28db945fe15cae24a5c42cb966f80780" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">选中克努特，将他送到标记位置。</text>
+      <text lang="ger">Wähle Knut aus und sende ihn zu der gekennzeichneten Stelle.</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">给克努特一个栖身之所。</text>
+      <text lang="ger">Gib Knut ein Dach über den Kopf.</text>
+    </string>
+    <string id="2">
+      <text lang="CHN">让克努特在农场里当农夫！</text>
+      <text lang="ger">Lass Knut als Farmer in der Farm arbeiten!</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">在附近找一个女人！</text>
+      <text lang="ger">Suche in der Umgebung nach einer Frau!</text>
+    </string>
+    <string id="4">
+      <text lang="CHN">把柳托夫、索尔比约恩、卡里、格罗娅和乌拉派往埃及人小村。</text>
+      <text lang="ger">Schicke Ljotolf, Thorbjorn, Kari, Groa und Ulla ins Ägypterdörfchen.</text>
+    </string>
+    <string id="53">
+      <text lang="CHN">埃及人小村</text>
+      <text lang="ger">Ägypterdörfchen</text>
+    </string>
+    <string id="71">
+      <text lang="CHN">克努特</text>
+      <text lang="ger">Knut </text>
+    </string>
+    <string id="72">
+      <text lang="CHN">乌拉</text>
+      <text lang="ger">Ulla</text>
+    </string>
+    <string id="73">
+      <text lang="CHN">索尔比约恩</text>
+      <text lang="ger">Thorbjorn</text>
+    </string>
+    <string id="74">
+      <text lang="CHN">卡里</text>
+      <text lang="ger">Kari</text>
+    </string>
+    <string id="75">
+      <text lang="CHN">格罗娅</text>
+      <text lang="ger">Groa</text>
+    </string>
+    <string id="76">
+      <text lang="CHN">柳托夫</text>
+      <text lang="ger">Ljotolf</text>
+    </string>
+    <string id="98">
+      <text lang="CHN">本教程将为你讲解角色的操控以及其他重要功能。</text>
+      <text lang="ger">In diesen Tutorial wird dir die Steuerung deiner Figuren und andere wesentliche Funktionen erklärt.</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">1) 操控</text>
+      <text lang="ger">1) STEUERUNG</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00">
+      <lang code="CHN">
+        <text>
+本教程旨在让你初步了解游戏的用户界面，并讲解操控你
+
+的维京人所需的最基本功能，
+
+以便他们能在新的国度中立足。
+
+按照屏幕左侧菜单栏旁边出现的任务提示依次操作即可。</text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Dieses Tutorial soll dir einen ersten Überblick über die Benutzerführung geben und wie man sich in der Spielwelt bewegt. Es wird dir die Auswahl und Steuerung deiner Figuren und andere wesentliche Funktionen wie: 
+
+-	Navigation in der Karte 
+-	Beschleunigung 
+-	Starten/Beenden/Anhalten des Spieles
+-	wesentliche Buttons &amp; Fenster 
+
+erklären.
+
+P.S. FENSTER SCHLIESSEN
+Du schließt alle Fenster durch Drücken des ESC - Buttons oder durch Klick mit der linken Maustaste auf den Button mit dem "x" rechts oben in der Ecke.
+(Durch einen Klick auf das Fähnchensymbol links in der Menüleiste kannst du dir dieses und alle nachfolgenden Fenster noch einmal anschauen.)
+</text>
+      </lang>
+    </block>
+    <block id="01">
+      <lang code="CHN">
+        <text>
+这位是克努特。
+        </text>
+        <usericon>2,1</usericon>
+        <text>
+克努特目前没有工作，整天无所事事。
+
+要选中他，在克努特身上点击鼠标左键即可。
+
+被选中的单位会以彩色圆圈高亮显示。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Dies ist Knut.
+
+</text>
+        <usericon>2,1</usericon>
+        <text>
+
+Knut ist arbeitslos hat den ganzen Tag nichts zu tun. 
+Um ihn anzuwählen, klicke einfach mit der linken Maustaste auf ihn. Die Figur fängt an, leicht zu blinken, und es erscheint das Figurenfenster am rechten Bildschirmrand.
+
+Wenn du Knut eine Anweisung geben willst, wähle ihn aus und drücke anschließend die Leertaste oder wähle ihn sofort mit einem rechten Maustastenklick aus und es erscheint ein Menü. Mit einem Linksklick auf die Aktionen entscheidest du, ob ein Wikinger einen neuen Beruf ausüben, heiraten, eine Wohnung beziehen, in die Schule gehen oder den Arbeitsplatz und Ausrüstung wechseln soll.
+
+Wähle Knut aus und sende ihn mit einem rechten Maustastenklick zu der gekennzeichneten Stelle.
+</text>
+      </lang>
+    </block>
+    <block id="02">
+      <lang code="CHN">
+        <text>
+很好！不过还可以更快捷！
+
+如果选中了一个单位，在其蓝色的标记点上再次点击鼠标左键，就会弹出一个任务菜单。
+
+单位的步行动作对应菜单最上方的图标。
+试着用这种方式将克努特派往地面上的标记位置吧！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+PRIMA! Das geht allerdings auch schneller und direkter!
+
+Wenn du mit einem ausgewählten Wikinger einen RECHTSKLICK auf ein Arbeitsgebäude ausführst, beginnt er in diesem Gebäude zu arbeiten und übernimmt auch automatisch den entsprechenden Beruf, sofern er die Fähigkeit besitzt ihn auszuführen. Klickst du mit rechts auf ein Wohngebäude, wird dein Wikinger sich dort einquartieren, insofern eine Wohnung frei ist. Wählst du mit einem Rechtsklick eine unbebaute Stelle, läuft dein Zögling direkt dort hin. Die HINWEISTEXTE am Mauszeiger geben Rückmeldung über die entsprechende Aktion. 
+
+Also: Gib Knut ein Dach über den Kopf und lass ihn als Farmer in der Farm arbeiten!
+</text>
+      </lang>
+    </block>
+    <block id="03">
+      <lang code="CHN">
+        <text>
+干得好！克努特现在有栖身之所了！
+
+接下来让他去当农夫。要给他分配职业，先选中克努特——如果还没选中的话。
+
+然后在蓝色标记点上点击鼠标左键打开任务菜单，选择锄头图标！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+GUT GEMACHT! Knut hat nun ein Dach übern Kopf!
+
+Nun lasse ihn als Farmer arbeiten!
+
+Übrigens: einen Befehl wieder abbrechen oder eine Figur deselektieren kannst du, indem du mit der linken Maustaste auf eine beliebige leere Stelle auf der Landschaft drückst.
+</text>
+      </lang>
+    </block>
+    <block id="04">
+      <lang code="CHN">
+        <text>
+太棒了！现在克努特有家也有工作了，生活无忧。
+
+不过是不是还缺点什么？
+
+有了：他还缺个女人！
+
+在定居点附近找找吧！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>  
+SEHR GUT! Nun hat Knut ein Heim und einen Beruf und ist gut versorgt, oder fehlt ihm da noch etwas? 
+
+Suche in der Umgebung nach einer Frau!
+
+
+NAVIGATION IN DER KARTE
+Führe den Mauszeiger über eine beliebige Stelle auf der Landschaft. Halte nun die mittlere Maustaste gedrückt und bewege die Maus. Der Bildausschnitt folgt nun den Mausbewegungen. Verfahre analog mit den Pfeiltasten.
+
+Möchtest du automatisch scrollen, sobald du mit den Mauszeiger auf den BILDSCHIRMRAND triffst, musst du dieses im OPTIONSMENÜ (F2) einstellen. Dieses findest du über den Button mit den Werkzeugen in der Leiste am linken Bildschirmrand. Drücke dann auf EINGABE und du kannst im mittleren Bereich des Fensters den Scrollmodus einstellen.
+</text>
+      </lang>
+    </block>
+    <block id="05">
+      <lang code="CHN">
+        <text>
+克努特找到了一个女人！
+        </text>
+        <usericon>2,2</usericon>
+        <text>
+让两人结婚吧——选中克努特，按空格键，然后选择那个女人为目标。这样他们就组成一个家庭了，同住一屋。
+
+如果需要，你也可以把房子升级到更大的。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Knut hat ein weibliches Wesen gefunden! 
+
+</text>
+        <usericon>2,2</usericon>
+        <text>
+
+Verheirate die beiden, indem du Knut auswählst und die Leertaste drückst. Wähle das Symbol mit den Doppelringen und Knut wird um Ulla werben. Sie zieht dann automatisch bei Knut zu Hause ein und kümmert sich um seinen Haushalt ...
+
+
+HILFE!
+Oftmals ist es leichter und schneller über Tastaturkürzel Befehle auszuführen. Die Tastaturbelegung (F 1) im HILFESYSTEM gibt dir darüber Auskunft.
+</text>
+      </lang>
+    </block>
+    <block id="06">
+      <lang code="CHN">
+        <text>
+暂停与游戏速度
+
+你可以随时按键盘上的 “p” 键暂停游戏，再按一次继续。
+
+按键盘上的 “l” 键可将游戏速度加倍；再按一次变为三倍，再按一次恢复常速。
+
+用鼠标左键点击左下屏幕边缘总览地图上的红点，你会看到一处埃及人的小村庄。现在试试调节游戏速度，看看他们动作有多迅捷！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+PAUSE UND SPIELGESCHWINDIGKEIT
+
+Du kannst das Spiel jederzeit durch Drücken der Taste "p" anhalten und wieder fortsetzen.
+
+Drücke die Taste "l" auf der Tastatur, um die Spielgeschwindigkeit zu verdoppeln. Drücke nochmals "l" um die Spielgeschwindigkeit zu verdreifachen, und nochmals, um die normale Geschwindigkeit wieder herzustellen.
+
+Klicke mit der linken Maustaste auf den roten Fleck in der Übersichtskarte am linken unteren Bildschirmrand. Du siehst ein kleines Dorf der Ägypter. Probiere nun die Spielgeschwindigkeit aus und schau, wie flink sie sich bewegen! 
+</text>
+      </lang>
+    </block>
+    <block id="07">
+      <lang code="CHN">
+        <text>
+编组
+
+你的两个维京人有访客来了！他们是柳托夫、索尔比约恩、卡里、格罗娅和乌拉。他们来找克努特，打算在新大陆闯荡一番。
+        </text>
+        <usericon>2,3</usericon>
+        <text>
+你可以在一个单位上按住鼠标左键，拖动出一个选择框来同时选中多个单位。
+
+选中多个单位后，同样可以打开任务菜单。
+
+试试同时选中所有人，把他们派往埃及人小村吧！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+GRUPPEN BILDEN
+
+Deine zwei Wikinger haben Besuch bekommen! Das sind Ljotolf, Thorbjorn, Kari und Groa.
+
+</text>
+        <usericon>2,3</usericon>
+        <text>
+
+Du kannst mehrere Figuren gleichzeitig selektieren, indem du mit der linken Maustaste auf eine freie Stelle auf der Karte klickst, die linke Maustaste gedrückt hältst und dann mit dem Mauszeiger einen Rahmen um die auszuwählenden Figuren ziehst. 
+
+Eine Gruppe stellst du zusammen, indem du die SHIFT-Taste gedrückt hältst, die gewünschten Wikinger (auf der Karte oder aus jedem beliebigen Fenster) mit der linken Maustaste einzeln anklickst und somit der Gruppe hinzufügen.
+Mit dem Drücken der STRG-Taste kannst du die einzelnen Wikinger wieder aus der Auswahl entfernen.
+Hast du eine Gruppe selektiert, die du vielleicht öfters benötigst, kannst du diese mit der STRG-Taste und einer Zahlentaste von 0-9 speichern. Zur Wiederauswahl dieser Gruppe drücke dann einfach die entsprechende Zahlentaste erneut. Eine Gruppe steuert man wie eine einzelne Figur.
+
+Probier dies aus. Schicke Ljotolf, Thorbjorn, Kari, Groa und Ulla ins Dorf der Ägypter!
+</text>
+      </lang>
+    </block>
+    <block id="08">
+      <lang code="CHN">
+        <text>
+任务目标
+点击屏幕左侧菜单栏中的小旗图标，会打开任务目标窗口。你可以在其中查看当前任务的进度。
+
+要关闭窗口，再次点击小旗图标即可。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+MISSIONSZIELE
+
+Wenn du auf das Fähnchensymbol in der Menüleiste am linken Bildschirmrand klickst, öffnet sich das Missionsfenster. In ihm kannst du alle Aufträge und Hinweise nachlesen und dir deine Ziele in Kurzform anschauen. Das Hauptziel, falls vorhanden, hebt sich etwas von den anderen Zielen ab. 
+Ein nochmaliger Klick auf das Fähnchensymbol schließt das Fenster.
+</text>
+      </lang>
+    </block>
+    <block id="09">
+      <lang code="CHN">
+        <text>
+迷路问题……
+
+你的维京人常常找不到路，尤其是在跨越岛屿的时候。
+
+但如果你在路径上修建道路，并跨越浅水区或河流修建桥梁
+
+，你的维京人就能找到最快的路线了。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+WEGFINDEPROBLEME...
+
+Oftmals haben deine Wikinger Probleme mit der Orientierung, dann bietet es sich an, von einem Kundschafter Wegweiser bauen zu lassen, das sich auch wirklich niemand verläuft!
+
+Lasse von dem Kundschafter Ljotolf Wegweiser bauen, wenn deine Wikinger den Weg nicht finden.
+
+Wähle ihn dazu aus und klicke auf das "Baue Wegweiser" - Symbol in seinem Aktionsmenü. Mit einen Klick auf die rechte Maustaste kannst du einen Wegweiser auf die nun hell erleuchteten Flächen setzen. Achte darauf, dass die Wegweiser stets verbunden sind! Dies erkennst du daran, dass die Schilder in die entsprechenden Richtungen zeigen.
+</text>
+      </lang>
+    </block>
+    <block id="10">
+      <lang code="CHN">
+        <text>
+恭喜！
+
+你已经学会了最重要的基本功能，现在可以开启一场真正的任务或自选地图的游戏了！
+
+选择"单人游戏"进入第一关，或者开始一场"自由游戏"—
+
+—当然，也可以试试"多人游戏"模式！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+GRATULATION! 
+
+Du hast die wesentlichen Grundfunktionen kennen gelernt und weißt, wie du eine Figur steuern und ihr Anweisungen geben kannst. Das nächste Kapitel soll den Fähigkeiten der Figuren gewidmet sein. 
+
+Also auf zum nächsten TUTORIAL!
+
+Im OPTIONSMENÜ (F2) kannst du das Spiel jederzeit NEU STARTEN, BEENDEN und auch SPEICHERN. 
+Für den Anfang solltest du jedes Tutorial am Ende speichern, um das Gelernte jederzeit wieder aufrufen zu können.
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+操控与其他重要功能
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DIE STEUERUNG UND ANDERE WESENTLICHE FUNKTIONEN
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="07_Germania" export_map_id="07_Germania" map_md5="dc5bd977f98101729a4d817f9b06c9c5" IsC2M="true">
+  <languages>
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">日耳曼尼亚</text>
+      <text lang="ger">Germania</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">你来到了美丽的日耳曼尼亚。</text>
+      <text lang="ger">Du kommst in das schöne Germania.</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+    </string>
+    <string id="4">
+      <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+    </string>
+    <string id="50">
+      <text lang="CHN">玩家0</text>
+      <text lang="ger">Spieler0</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">玩家1</text>
+      <text lang="ger">Spieler1</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">玩家2</text>
+      <text lang="ger">Spieler2</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="findmappos1">
+      <lang code="CHN">
+        <text>阿尔特纳城堡！！
+这里想必就是阿尔特纳城堡的废墟了。可究竟是谁有本事摧毁这么大的一座城堡？</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Burg Altena !!
+Dies mußten die Ruinen von Burg Altena sein. Aber wer war in der Lage eine so große Burg zu zerstören ?
+
+</text>
+      </lang>
+    </block>
+    <block id="lost_body">
+      <lang code="CHN">
+        <text>你失败了！！要不去玩一局“喵喵”纸牌吧。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Du hast verloren !! Versuchs doch mit der Partie Mau Mau.
+
+</text>
+      </lang>
+    </block>
+    <block id="lost_header">
+      <lang code="CHN">
+        <text>任务失败！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Mission verloren!
+
+</text>
+      </lang>
+    </block>
+    <block id="playerdied1">
+      <lang code="CHN">
+        <text>玩家1已阵亡。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 1 ist gestorben.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerdied2">
+      <lang code="CHN">
+        <text>匪徒们已被消灭。可那是什么？响起了一个声音。你们虽在此地击败了我们，但别踏进我们在意大利的家乡。到了那里，你们会被屠戮殆尽……</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Die Banditen sind vernichtet. Doch was war das? Es ertönte eine Stimme. Ihr habt uns zwar hier besiegt, doch kommt nicht in unsere Heimat nach Italien. Dort werdet ihr niedergemetzelt...
+
+</text>
+      </lang>
+    </block>
+    <block id="playerenemy1">
+      <lang code="CHN">
+        <text>玩家1现在转为敌对。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 1 ist jetzt feindlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerfriendly1">
+      <lang code="CHN">
+        <text>谢谢你们的甜点。现在你们可以派商人到我们这里来了。要当心东北方。那里盘踞着极其危险的匪徒。
+任务目标：找出东北方的匪徒。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Danke für die Süßigkeiten.Ihr könnt jetzt Händler zu uns schicken. Hütet Euch vor dem Nordosten. Dort hausen sehr gefährliche Banditen.
+Missionsziel:Suche die Banditen im Nordosten.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerfriendly2">
+      <lang code="CHN">
+        <text>玩家2现在转为友好。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 2 ist jetzt freundlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerneutral2">
+      <lang code="CHN">
+        <text>玩家2现在转为中立。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 2 ist jetzt neutral.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerseen1">
+      <lang code="CHN">
+        <text>荷兰人！！
+呀嗬，你们好，我们是荷兰人。你们有蜂蜜酒、蜂蜜或蛋糕吗？
+最好每样都来一点。只要你们给我们送来甜点，就能从我们这儿换到上好的硬币。
+嗯，看来我们的德鲁伊弗里迪说得没错。硬币对我们有用，因为剩下的硬币都在巴黎给士兵们花光了。
+任务目标：在仓库中储备50枚硬币。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Holländer !!
+Juhuu, grüßt Euch, wir sind die Holländer. Habt ihr Met oder Honig oder Kuchen ?
+Am besten von jedem etwas.Ihr bekommt auch tolle Münzen von uns, wenn ihr uns Süßigkeiten bringt.
+Hmm, also hatte unser Druide Fridi wohl doch recht gehabt. Münzen konnten wir gebrauchen, da wir die restlichen alle in Paris für unsere Soldaten ausgegeben hatten.
+Missionsziel: Lagere 50 Münzen in Dein Lager ein.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerseen2">
+      <lang code="CHN">
+        <text>匪徒！！
+利箭从四面八方朝我们射来。老天，我们心想。摧毁那座城堡的只可能是他们。
+我们发誓要复仇。
+任务目标：消灭匪徒。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Banditen !!
+Pfeile schossen aus allen Richtungen auf uns zu. Himmel, dachten wir. Nur sie können für die Vernichtung der Burg verantwortlich sein.
+Wir schworen Rache zu nehmen.
+Missionsziel: Vernichte die Banditen.
+
+</text>
+      </lang>
+    </block>
+    <block id="start_body">
+      <lang code="CHN">
+        <text>如今我们已抵达美丽的日耳曼尼亚。只是我们并不太清楚自己在这里究竟该做什么。忽然，我们的德鲁伊大师弗里迪走了过来。亲爱的朋友们，在我还年轻的时候，曾发现过一个自称荷兰人的和平民族。他们应当在遥远的西北方。在那里，用简简单单的蛋糕就能换到上好的硬币。我们满腹狐疑地看着弗里迪。他是不是又灌了太多蜂蜜酒？拿蛋糕换硬币？谁会干这种事？可我们在这片土地上又不认识旁人，便姑且派了一名侦察兵出去。
+任务目标：在西北方找到荷兰人。
+
+
+制作者：尤基</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Nun waren wir im schönen Germania angekommen.Nur wußten wir nicht so recht, was wir hier eigentlich sollten. Plötzlich kam Fridi unser Meisterdruide. Liebe Freunde,als ich noch jung an Jahren war, entdeckte ich ein friedliches Volk welches sich Holländer nennt. Sie müßten sich weit weit im Nordwesten befinden. Man konnte dort gegen einfachen Kuchen tolle Münzen erwerben. Mißtrauisch sahen wir uns Fridi an. Ob er wieder zuviel Met geschluckt hatte ? Kuchen gegen Münzen ? Wer macht denn sowas ? Aber da wir aber sonst niemanden in diesem Land kannten, schickten wir mal einen Kundschafter los.
+Missionsziel: Suche die Holländer im Nordwesten.
+
+
+Erstellt von: Yogi
+
+</text>
+      </lang>
+    </block>
+    <block id="start_header">
+      <lang code="CHN">
+        <text>日耳曼尼亚</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Germania
+
+</text>
+      </lang>
+    </block>
+    <block id="won_body">
+      <lang code="CHN">
+        <text>我们击败了匪徒，并与荷兰人结下了友谊。可匪徒的主要据点在意大利，于是我们立刻动身，要把他们在那里也一并消灭。
+然而要前往意大利，我们必须先经过奥地利……</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Wir hatten die Banditen besiegt und mit den Holländern Freundschaft geschlossen. Da die Banditen aber in Italien ihren Hauptstützpunkt hatten, brachen wir sofort auf um sie dort auch zu vernichten.
+Doch um nach Italien zu kommen, mußten wir zunächst nach Österreich....
+
+</text>
+      </lang>
+    </block>
+    <block id="won_header">
+      <lang code="CHN">
+        <text>任务达成！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Mission gewonnen!
+
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

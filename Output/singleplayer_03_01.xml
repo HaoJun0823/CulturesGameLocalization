@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="singleplayer_03_01" export_map_id="singleplayer_03_01" map_md5="a28160486117a180334348dc14470552" IsC2M="false">
+  <languages>
+    <language code="GER" alias="GER" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="GER">Suche den Druiden deines Stammes auf!</text>
+    </string>
+    <string id="1">
+      <text lang="GER">Bau das Gold ab und präge daraus Münzen, damit der Druide Tränke produzieren kann!</text>
+    </string>
+    <string id="2">
+      <text lang="GER">Finde den Stamm der Kameltreiber, der früher hier sein Wasser bezog!</text>
+    </string>
+    <string id="3">
+      <text lang="GER">Finde heraus, was mit der Wasserkarawane geschehen ist!</text>
+    </string>
+    <string id="4">
+      <text lang="GER">Sprich mit dem Häuptling der Oasenbauer!</text>
+    </string>
+    <string id="5">
+      <text lang="GER">Liefere dem Stamm der Oasenbauer 50 Wasser, und beschütze deine Händler vor den Wüstenräubern!</text>
+    </string>
+    <string id="6">
+      <text lang="GER">Suche den Tempel in der Stadt auf!</text>
+    </string>
+    <string id="7">
+      <text lang="GER">Baue ein Schiff und belade es mit Wasser!</text>
+    </string>
+    <string id="8">
+      <text lang="GER">Suche das Orakel per Schiff mit Bjarni und Mannschaft auf!</text>
+    </string>
+    <string id="9">
+      <text lang="GER">Entlade das Schiff und triff dich mit dem Orakelwächter!</text>
+    </string>
+    <string id="10">
+      <text lang="GER">BEFREIE DIE TRANSPORTKAMELE UND BEZWINGE DEN STAMM DER WÜSTENRÄUBER! ODER SUCHE NACH EINEM ANDEREN WEG.</text>
+    </string>
+    <string id="11">
+      <text lang="GER">@BEFREIE DAS WASSERORAKEL!</text>
+    </string>
+    <string id="50">
+      <text lang="GER">Bjarnis Stamm</text>
+    </string>
+    <string id="51">
+      <text lang="GER">Wikinger</text>
+    </string>
+    <string id="52">
+      <text lang="GER">Oasenbauer</text>
+    </string>
+    <string id="53">
+      <text lang="GER">Oasenb.</text>
+    </string>
+    <string id="54">
+      <text lang="GER">Wüstenräuber</text>
+    </string>
+    <string id="55">
+      <text lang="GER">Räuber</text>
+    </string>
+    <string id="56">
+      <text lang="GER">Wachen</text>
+    </string>
+    <string id="57">
+      <text lang="GER">Wachen</text>
+    </string>
+    <string id="58">
+      <text lang="GER">Kamelwache</text>
+    </string>
+    <string id="59">
+      <text lang="GER">Kamelwache</text>
+    </string>
+    <string id="71">
+      <text lang="GER">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="GER">Druide</text>
+    </string>
+    <string id="73">
+      <text lang="GER">Ältester Sohn des Druiden</text>
+    </string>
+    <string id="74">
+      <text lang="GER">Jüngster Sohn des Druiden</text>
+    </string>
+    <string id="75">
+      <text lang="GER">Häuptling Oasiens</text>
+    </string>
+    <string id="98">
+      <text lang="GER">Wir siedelten in einem fruchtbaren Tal unweit einer Wüste, als wir einem ehrgeizigen Wüstenprojekt unsere Dienste erweisen sollten.</text>
+    </string>
+    <string id="99">
+      <text lang="GER">DAS WASSERORAKEL</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="01">
+      <lang code="GER">
+        <text>
+
+Die Wüstenräuber waren geschlagen und die Kamele wieder frei! Unsere Mission war erfüllt. Die Wasserkarawane konnte wieder auferstehen!
+
+</text>
+      </lang>
+    </block>
+    <block id="02">
+      <lang code="GER">
+        <text>
+
+GEDEIHENDES LAND
+
+Der Regen war ins Land zurückgekehrt, und es fiel reichlicher als je zuvor! Die Oase der Oasenbauer ergrünte endlich und die Palmen begannen zu wachsen...
+
+Nun konnten die Erbauer in aller Ruhe ihre Kamele zusammensuchen und sie wieder auf die Reise schicken, um das neue Grün zu wahren...
+
+Man dankte uns, und eine neue Stammesfreundschaft war geboren...
+</text>
+      </lang>
+    </block>
+    <block id="03">
+      <lang code="GER">
+        <text>
+
+Als der Stamm um Bjarni aufgehört hatte zu existieren, waren alle Hoffnungen der Oasenbauer verloren, wieder an Wasser zu gelangen. Ihr Schicksal war besiegelt!
+
+Hier endet die Geschichte deiner Wikinger!
+
+</text>
+      </lang>
+    </block>
+    <block id="04">
+      <lang code="GER">
+        <text>
+
+Bjarni ist gestorben! Wer soll nun die Abenteuer bestreiten?
+
+</text>
+      </lang>
+    </block>
+    <block id="05">
+      <lang code="GER">
+        <text>
+
+Mit der Vernichtung der Oasenbauer war auch die letzte Hoffnung auf eine neue Oase gestorben!
+
+Deine Wikinger sollten sich schämen, solch Unheil über die Menschen zu bringen!
+
+</text>
+      </lang>
+    </block>
+    <block id="06">
+      <lang code="GER">
+        <text>
+
+DIE OASENBAUER
+
+Nach langer Reise durch die Wüste und nach vielen Entbehrungen durch Sonne und Sand erreichten wir Oasien, die Stadt der Wasserkarawane!
+
+Sie lag mitten im Nichts, und wir waren von ihrem Zustand entsetzt! Hier waren weder Bäume noch Gras noch Weizen zu sehen. Und am Schlimmsten - keinen Tropfen Wasser konnten wir finden!
+
+Früher soll es wohl wenigstens ab und zu geregnet haben, doch der letzte Schauer war schon all zu lange her...
+
+Nun, wie dem auch sei... Der Häuptling würde uns bei seinen Soldaten erwarten.
+
+Wir wollten nicht lang zögern und suchten ihn auf.
+
+</text>
+      </lang>
+    </block>
+    <block id="07">
+      <lang code="GER">
+        <text>
+
+DIE WÜSTENRÄUBER
+
+"Hi Ho! Wir sind die neuen Besitzer dieses Landes, seitdem wir über Wüste und Wasser triumphierten! Verschwindet, oder wir zeigen euch, wie stark wir sind!"
+
+
+HINWEIS:
+Du solltest dich so schnell wie möglich von hier entfernen, da die Wüstenräuber sehr leicht zu reizen sind und sie ihre Drohung ernst meinen!
+</text>
+      </lang>
+    </block>
+    <block id="08">
+      <lang code="GER">
+        <text>
+
+DRUIDE
+
+Als beim Druiden eintraf, war er überglücklich, mich zu sehen.
+
+Auch wenn er sein Eremitendasein sehr genoss, so drang er mich doch, weitere Goldabbauer hierher zu senden, damit sein Nachschub gesichert wäre.
+
+Ich versprach ihm meine Unterstützung, denn von des Druiden Nahrungstränken könnten letztlich alle profitieren.
+
+
+Etwas anderes schien ihm jedoch mehr Sorge zu bereiten...
+
+Der Wüstenkarawane, welche immer Wasser transportierte, schien etwas zugestoßen zu sein. Sonst kam sie stets regelmäßig zu dem Teich im Westen, doch der Druide hatte sie schon auffallend lange nicht mehr gesehen!
+
+Was war nur aus dem Kamelzug geworden? Mir als Abenteurer ließ diese Frage keine Ruhe mehr und ich beschloss, den Stamm der Karawane aufzusuchen.
+
+Ich wollte mit der Suche bei dem Wegweiser am Teich beginnen, er wies bestimmt den rechten Weg...
+</text>
+      </lang>
+    </block>
+    <block id="09">
+      <lang code="GER">
+        <text>
+
+HÄUPTLING
+
+Als ich dem Häuptling in die Augen sah, konnte ich Kummer und Schmerz darin sehen.
+
+Einst träumte er davon, ein Stück der Wüste nördlich seines Dorfes zu begrünen. Alles, was er brauchte, war genügend Wasser. Dieses fand er auch, ganz in der Nähe meines Stammes. Alles lief gut, das Projekt gedieh - die Wüste begann zu grünen.
+
+Doch dann wurde die Wasserkarawane überfallen!!!
+Finstere Schergen stahlen das kostbare Gut und entführten die Transportkamele. 
+
+Die Überlebenden jedoch überließen sie der Wüste, mit einer Botschaft für den Stamm: "Wer sich hier noch einmal blicken lässt, der ist des Todes! Alles Wasser gehört nun uns! Auch das Orakel hat das schon begriffen!"
+
+Seitdem wagte niemand mehr, die Wüste zu durchqueren... Und des Häuptlings Träume waren dahin.
+
+Fassungslos von solcher Bosheit wollte ich dem Häuptling helfen.
+
+Ich würde den Wassertransport fortsetzen, in dem ich vorläufig meine Ochsen vor den Karren spannte! Und wenn es jemand wagen sollte, sie anzugreifen, sollte er mein Schwert zu spüren bekommen...
+
+
+TIPP:
+Du solltest einen Brunnen direkt an der Wasserstelle errichten und von dort aus Handel treiben, denn dies ist der kürzeste Weg durch die Wüste!
+
+</text>
+        <usericon>1,83,267</usericon>
+        <text>
+
+Wenn du direkt daneben ein Lagerhaus errichtest und von Trägern Wasser einlagern lässt, kannst du sehr leicht einen Händler zwischen diesem Lager und dem Lager der Oasenbauer Handel treiben lassen.
+</text>
+      </lang>
+    </block>
+    <block id="10">
+      <lang code="GER">
+        <text>
+
+ZWISCHENLÖSUNG
+
+Der Häuptling war überglücklich über diese Lieferung, er hatte nicht mehr damit gerechnet! Wir erzählten ihm von unserem Kampf in der Wüste um Wasser und Vieh. 
+
+Der Häuptling dankte uns sehr für unseren Einsatz und unseren Mut. Dennoch war er verzweifelt: "Ach, wenn wir nur unsere Transportkamele zurück hätten und die Wüstenräuber uns nicht mehr belästigen würden..."
+
+Wir wollten ihm ja helfen, doch so sehr wir auch beratschlagten - es fiel uns doch keine Lösung ein. Da erhellte sich auf einmal das Gesicht des Häuptlings:
+
+"Natürlich! Das IST es! Erinnert ihr euch - sie sagten: ‚Auch Das Orakel musste das begreifen...' - Sie haben die Hüter des Wassers gelähmt! Diese Banditen! Genau! Das würde auch die lange Dürre erklären! Das muss es sein!" 
+Er war ganz aufgeregt, als er so sprach. 
+
+"Helft uns, tapferer Nordmann, und seht für uns beim Orakel nach dem Rechten. Wenn meine Vermutung stimmt, liegt dort die Wurzel allen Übels!"
+
+Der Häuptling nahm an, dass wir beim Tempel - dem einzigen Ort, an dem noch Palmen wuchsen - Hinweise auf das Orakel und den Weg dahin finden würden.
+
+Nun musste ich mich entscheiden: wollte ich lieber kämpfen oder friedlich siegen?
+
+
+HINWEIS:
+Wenn du dich für den kämpferische Weg entscheidest, musst du die Wachen in der Wüste besiegen, die Bewacher des Kamelverhaus und die Wüstenräuber selbst!
+
+Dieser Weg ist nicht leicht...
+</text>
+      </lang>
+    </block>
+    <block id="11">
+      <lang code="GER">
+        <text>
+
+ÜBERFALL
+
+Wir trafen auf die Schergen der Wüstenräuber und sie sprachen erneut ihre Drohung aus:
+ 
+"Alles Wasser dieses Landes ist nun unser! Auch das Orakel musste das begreifen! Nun seid ihr des Todes!"
+
+Diesmal war es keine leere Drohung mehr - sie griffen an!
+</text>
+      </lang>
+    </block>
+    <block id="12">
+      <lang code="GER">
+        <text>
+
+SIEG DER OCHSENKARAWANE
+
+Wir hatten die Angreifer zurückgedrängt, doch es war nur eine Frage der Zeit, bis sie wiederkehren würden...
+
+Schnellstmöglich wollten wir unser Ziel erreichen.
+
+Von dem Gerede um das Orakel würden wir dem Häuptling berichten.
+</text>
+      </lang>
+    </block>
+    <block id="13">
+      <lang code="GER">
+        <text>
+
+TEMPEL
+
+Wir hatten den Tempel betreten, doch viele Hinweise auf das Orakel fanden wir nicht. Doch in einer dunklen Ecke im Boden schimmerte ein bläuliches Licht aus der Tiefe hervor! Das musste ich mir unbedingt genauer ansehen! 
+
+Wir fanden eine Luke im Boden, durch die ich mich an einem Seil herab ließ... 
+
+Und mein Erstaunen wuchs ins Grenzenlose...
+
+</text>
+      </lang>
+    </block>
+    <block id="14">
+      <lang code="GER">
+        <text>
+
+Das Wesen hatte tatsächlich Wort gehalten - die Steine, die das Eiland umgaben, waren verschwunden, und wir hatten nun eine Anlegestelle für unser Schiff!
+
+</text>
+      </lang>
+    </block>
+    <block id="15">
+      <lang code="GER">
+        <text>
+
+Das Schiff war gebaut und beladen mit Wasser. Nun machten wir uns auf den Weg, das Orakel aufzusuchen und das Feuer ringsherum zu löschen!
+
+</text>
+      </lang>
+    </block>
+    <block id="16">
+      <lang code="GER">
+        <text>
+
+ORAKELWÄCHTER
+
+Der Wächter wusste schon von unserem Kommen durch den Orakeldiener und begrüßte mich mit meinem Namen:
+
+"Edler Bjarni, lösche dieses üble Feuer, das die Wüstenschurken stetig neu entfachen! Es lähmt meine Macht, und ich kann mich nicht dem Feuer nähern...
+
+Wenn es gelöscht ist, werde ich mich dankbar zeigen!"
+</text>
+      </lang>
+    </block>
+    <block id="17">
+      <lang code="GER">
+        <text>
+
+AN LAND GEGANGEN
+
+Während ich den Wächter des Orakels aufsuchen wollte, sollten meine Leute das Wasser von Bord bringen...
+
+</text>
+      </lang>
+    </block>
+    <block id="18">
+      <lang code="GER">
+        <text>
+
+GEBROCHENER BANN
+
+Das Wasser war an Land gebracht und die Löscharbeiten zügig fortgeschritten!
+Als die letzte Flamme erloschen war, wuchs das Orakel scheinbar an, und etwas schien zu geschehen...
+
+</text>
+      </lang>
+    </block>
+    <block id="19">
+      <lang code="GER">
+        <text>
+
+BESTRAFUNG
+
+Der Orakelwächter hatte schnell die Schuldigen bestraft...
+
+"Ihr gemeinen Schurken! Dachtet ihr, euer Bann würde ewig währen? Nun werdet ihr die Kräfte der Natur zu spüren bekommen! 
+
+Euer Dorf wird in der Erde versinken und wenn ihr überleben wollt, solltet ihr euch heute noch aus dem Staub machen! Verlasst diesen Ort und kehrt niemals wieder!
+
+</text>
+      </lang>
+    </block>
+    <block id="20">
+      <lang code="GER">
+        <text>
+
+HABT DANK!
+
+...und sich bei den Helfern bedankt:
+
+"Die Wüstenräuber haben dieses Land verlassen! Nun werden Friedfertigkeit und Ruhe einkehren!
+
+Habt Dank, ihr edles Wüstenvolk! Ihr habt Hilfe geholt und versucht, der Trockenheit zu trotzen!
+Zum Lohn schenken wir euch, was euch so lange vorenthalten blieb!
+
+Habt Dank auch ihr tapferen Wikinger, ihr habt uns von dem Bann der Schurken befreit!"
+</text>
+      </lang>
+    </block>
+    <block id="21">
+      <lang code="GER">
+        <text>
+
+Die Wüstenräuber waren besiegt - und ein Orakel bedankte sich für seine Rettung!? Erst viel später sollten wir erfahren, dass die Wüstenräuber die Kräfte jenes Wasserorakels gebannt hatten, um Herr über das wenige verbliebene Wasser in der Wüste zu werden. Sie wollten alle damit erpressen...
+
+Aber mit ihrer Niederlage war das Orakel wieder frei und das Böse besiegt!
+
+</text>
+      </lang>
+    </block>
+    <block id="22">
+      <lang code="GER">
+        <text>
+
+KAMELE
+
+Wir hatten die Kamele gefunden, doch sie wurden von einem Wachposten der Wüstenräuber gut bewacht. Die Wachen beschossen uns sofort... 
+
+Mit denen war nicht zu scherzen! Wenn wir kämpften, würden auch die anderen Wüstenräuber kommen, um die Kamele zu verteidigen...
+
+</text>
+      </lang>
+    </block>
+    <block id="23">
+      <lang code="GER">
+        <text>
+
+DIE OASENBAUER
+
+Wir fanden ein Volk in der Wüste, das uns nicht feindlich gesonnen war, uns aber auch keine weitere Beachtung schenkte. Man schien hier mit anderen Dingen beschäftigt zu sein...
+
+HINWEIS: 
+Der Druide im Südwesten deines Dorfes wartet schon auf dich! Du solltest ihm bald einen Besuch abstatten...
+</text>
+      </lang>
+    </block>
+    <block id="begin_00">
+      <lang code="GER">
+        <text>
+Wir hatten unser Lager am Rande der Wüste in einem fruchtbaren Tal aufgeschlagen. Unser Bäcker versorgte uns reichlich mit Nahrung, so dass wir bereits die Zeit gefunden hatten, einen Wunsch unserer Frauen zu erfüllen: den Bau einer Schule für unseren Nachwuchs...
+
+Unser Druide und seine Familie hatten hinter dem Hügel im Südwesten einen geeigneten Platz gefunden, um Rohstoffe für das heilige Öl abzubauen und es zu produzieren.
+
+Bei einem seiner Ausflüge stieß einer der Söhne des Druiden auf reiche Goldvorkommen in dem Gebirge, welches das fruchtbare Tal vor der sengende Hitze und Trockenheit der Wüste beschützt.
+Als er von dem Fund hörte, frohlockte der Druide - welch fantastische Tränke würde er mit dem Gold herstellen können!
+
+Doch dieses Vorhaben musste erst mit mir, Bjarni, dem Häuptling des Stammes, besprochen werden. Am nächsten Tag wollten wir uns also bei ihm zu Hause treffen.
+
+
+TIPPS:
+Du kannst dem Druiden und seinen Söhnen keinen anderen Beruf zuteilen - zu sehr lieben sie ihre Arbeit! Du kannst allerdings die von ihnen produzierten Ware bestimmen...
+
+
+Du solltest die Wüste nur mit genügend Met oder Nahrungstränken aufsuchen, denn ein unvorbereiteter Wanderer ist schnell ein verhungerter Wanderer!
+Wasser und Nahrung - darum dreht sich in der Wüste alles!
+
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="GER">
+        <text>
+
+DAS WASSERORAKEL
+
+</text>
+      </lang>
+    </block>
+    <block id="lost">
+      <lang code="GER">
+        <text>
+
+MISSION VERLOREN!
+
+</text>
+      </lang>
+    </block>
+    <block id="won">
+      <lang code="GER">
+        <text>
+
+MISSION GEWONNEN!
+
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

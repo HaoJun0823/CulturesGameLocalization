@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_02_08" export_map_id="campaign_02_08" map_md5="d1e1b67b380852c22bc9bad521233141" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">@找到奥丁，将希拉从魅惑中解救！</text>
+      <text lang="ger">@Finde Odin und befreie Cyra aus dem Bann!</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">向那些被冰封的神祇探问他们与你的过往。</text>
+      <text lang="ger">Befrage die eingefrorenen Götter nach ihrer und deiner Geschichte.</text>
+    </string>
+    <string id="2">
+      <text lang="CHN">击退洛基的全部幽灵战士！</text>
+      <text lang="ger">Bekämpfe alle Geisterkrieger Loki's!</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">步入瓦尔哈拉。</text>
+      <text lang="ger">Betritt Walhalla.</text>
+    </string>
+    <string id="4">
+      <text lang="CHN">击败伊科尔，从希拉手中夺回护符！</text>
+      <text lang="ger">Bekämpfe Ykol und entreiße Cyra das Amulett!</text>
+    </string>
+    <string id="5">
+      <text lang="CHN">沿石径前往阿斯加德的殿厅！</text>
+      <text lang="ger">Folge den steinernen Pfad zu den Hallen Asgards!</text>
+    </string>
+    <string id="50">
+      <text lang="CHN">比雅尼的部族</text>
+      <text lang="ger">Bjarnis Stamm</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">洛基的幽灵战士</text>
+      <text lang="ger">Loki's Geisterkrieger</text>
+    </string>
+    <string id="53">
+      <text lang="CHN">洛基</text>
+      <text lang="ger">Loki</text>
+    </string>
+    <string id="71">
+      <text lang="CHN">比雅尼</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="CHN">希拉</text>
+      <text lang="ger">Cyra</text>
+    </string>
+    <string id="73">
+      <text lang="CHN">哈奇</text>
+      <text lang="ger">Hatschi</text>
+    </string>
+    <string id="74">
+      <text lang="CHN">西格德</text>
+      <text lang="ger">Sigurd</text>
+    </string>
+    <string id="75">
+      <text lang="CHN">伊科尔（洛基）</text>
+      <text lang="ger">Ykol (Loki)</text>
+    </string>
+    <string id="98">
+      <text lang="CHN">我们终于抵达终点。这便是：阿斯加德——神祇的世界！</text>
+      <text lang="ger">Wir waren am Ziel angekommen. Dies war sie nun: Asgard - die Welt der Götter!</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">阿斯加德</text>
+      <text lang="ger">ASGARD</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="CHN">
+        <text>
+
+诸神的世界，以一幅虚幻之景在我们眼前展开。
+我们终于抵达终点！这便是：阿斯加德——诸神的世界！
+
+一道巍峨宽阔的阶梯，沿山势而上，通往另一片平原……
+
+……然而正当我们如被蛊惑般凝望这壮丽奇景，伊科尔忽然发出一阵阴冷恶毒的笑声，转身沿阶梯向上疾奔！他每跨过一级，那级阶梯便没入地下，转眼间阶梯下段已消隐无踪！
+
+此刻我终于了然——自踏入海尔之国起，那令我隐隐不安、却不敢深信的预感，终究成真——伊科尔，无论他是谁、怀揣何种图谋——他竟是在对我们耍弄诡诈的骗局！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Unwirklich tat sich die Welt der Götter vor uns auf.
+Wir waren endlich am Ziel angekommen! Dies war sie nun: Asgard - die Welt der Götter!
+ 
+Eine majestätisch breite Treppe führte den Berg hinauf auf eine weitere Ebene...
+
+... doch noch während wir wie gebannt von diesem prächtigen Anblick verharrten, rannte Ykol plötzlich mit einem hämischen und bösen Lachen davon und die Stufen hinauf! Kaum hatte er eine Stufe hinter sich gelassen, verschwand diese im Boden, so dass schon gleich der untere Teil der Treppe verschwunden war!
+
+Jetzt endlich offenbarte sich, was ich seit dem Eintritt in Hels Reich nur leise befürchtet, aber nicht ernsthaft zu glauben gewagt hatte - Ykol, wer immer er war oder was immer er geplant hatte - er spielte ein falsches Spiel mit uns! 
+</text>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="CHN">
+        <text>
+
+我的疑心比想象中更快得到了印证。伊科尔刚跨过几级阶梯、截断了我们与他之间的通路，便驻足转身，带着一副嘲弄的狞笑面向我们。胜券在握的他，向我们袒露了秘密……
+
+他自始至终都在对我们耍弄骗局！
+实则他欲在神界夺取霸主之位，向奥丁与全体诸神复仇，以雪当年被逐之恨！为此他不择手段……
+
+复仇？所为何来？？……
+被诸神放逐？一个凡人？？……
+伊科尔？？他究竟是谁？？……
+他下一步又意欲何为？？？
+
+无论如何——我们无论如何都要阻止他！
+
+沿石径前往阿斯加德神殿！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Mein Verdacht bestätigte sich schneller als gedacht. Kaum hatte Ykol einige Stufen hinter sich gelassen und den Weg zwischen ihm und uns versperrt, blieb er stehen und drehte sich mit einem höhnischen Grinsen zu uns um. Siegessicher offenbarte er uns sein Geheimnis...
+
+Die ganze Zeit hatte er falsches Spiel mit uns getrieben! 
+In Wahrheit wollte er die Oberhand in der Götterwelt gewinnen, sich an Odin und an allen anderen Göttern für seine Vertreibung rächen! Und dafür war ihm jedes Mittel recht gewesen... 
+
+Rächen? Wofür?? ... 
+Vertreibung durch die Götter?? Ein Mensch?? ... 
+Ykol?? Wer war er wirklich?? ...
+Was mochte er als Nächstes vorhaben??? 
+
+Wie auch immer - wir mussten ihn in jedem Fall aufhalten! 
+
+Folge den steinernen Pfad zu den Hallen Asgards!
+</text>
+      </lang>
+    </block>
+    <block id="01_player_1_seen">
+      <lang code="CHN">
+        <text>
+
+幽灵战士
+
+这些不死战士凭空向我们袭来，不宣而战……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+GEISTERKRIEGER
+
+Wie aus dem Nichts kamen diese untoten Krieger auf uns zu und griffen uns ohne Vorwarnung an... 
+</text>
+      </lang>
+    </block>
+    <block id="02_skadi">
+      <lang code="CHN">
+        <text>
+
+弗蕾亚
+
+"曾几何时，我们的世界威严不可侵犯，如今奥丁却已癫狂，我们尽成冰中之囚！"那冰雕开口对我们言道，我们立时认出，她便是弗蕾亚——司掌丰饶与战争的女神。
+
+洛基，亦即你们口中的伊科尔，那谎言之神，将灾祸降于我们与无数生灵之上。
+
+将阿拉伯的饥荒招致的，绝非他人，正是他本人！他以恶毒魔法，将困顿与悲苦倾覆于当地之人！而他以所谓的相助接近你们，不过是欺瞒尔等、骗取信任罢了！"
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+FREYA
+
+"Einstmals mächtig und unantastbar war unsere Welt, aber nun ist Odin von Sinnen und wir sind Gefangene im Eis!" sprach uns die Eisstatue an und wir erkannten sofort in ihr Freya, die Fruchtbarkeits- und Kriegsgöttin.
+
+Loki, den ihr Ykol nennt, er, der der Gott der Lüge und Falschheit ist, brachte das Unheil über uns und über so viele Menschen. 
+
+Niemand geringeres als er selbst war verantwortlich für die Hungersnot in Arabien. Mit seinem bösen Zauber hatte er die Not und das Elend über die Menschen dort gebracht! Und euch hat er mit seiner angeblichen Hilfsbereitschaft nur getäuscht, um sich euer Vertrauen zu erschleichen!" 
+</text>
+      </lang>
+    </block>
+    <block id="03_thor">
+      <lang code="CHN">
+        <text>
+
+巴德尔
+
+"曾几何时，我们的世界威严不可侵犯，如今奥丁却已癫狂，我们尽成冰中之囚！"那冰雕开口对我们言道，我们立时认出，正是那位仁善之神——司掌光明、纯净与疗愈的巴德尔，太阳之子、万善之源。
+
+"你们可还记得：洛基，亦即你们口中的伊科尔，那谎言之神，虽曾在对抗群狼时助你们一臂之力……
+
+然而那芬里尔狼，实由他亲手缔造！那狼链既开、狼祸降临大地，亦出自他手！你们助他寻得"奥丁之心"——这护符，比雅尼依洛基之劝，替希拉佩于颈间，竟令她得不死之身。洛基深知此效，也深知芬里尔必会因此将她拖入瓦尔哈拉，拖入那不死的国度！
+
+而这护符，又对奥丁本身施下情爱之咒，令他自此眼中唯有那凡间佩符之人。他再不理会周遭世界，遂在洛基的攻伐与复仇前，毫无防备、任人宰割！
+
+奥丁如今所陷危境，何其深重！"
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+BALDUR
+
+"Einstmals mächtig und unantastbar war unsere Welt, aber nun ist Odin von Sinnen und wir sind Gefangene im Eis!" sprach uns die Eisstatue an und wir erkannten in ihr sofort den freundlichen Gott des Lichtes, der Reinheit und der Heilung: 
+Baldur - den Sohn der Sonne und Urheber alles Guten.
+
+"Erinnert ihr euch: Loki, den ihr Ykol nennt, er, der der Gott der Lüge und Falschheit ist, stand euch zwar beim Kampf mit den Wölfen zur Seite...
+
+Er selbst aber war es, der den Fenriswolf einst erschuf! Und auch er war es, der ihn von der Kette lies, um die Wolfsplage über das Land zu bringen! Ihr habt ihm geholfen, "Das Herz Odins" zu finden. Dieses Amulett, welches du, Bjarni, auf Lokis Anraten Cyra um den Hals legtest, hat sie unsterblich werden lassen. Loki wusste um diese Wirkung, und er wusste auch, dass Fenrir sie aus diesem Grund mit nach Walhalla zerren würde, in die Welt der Unsterblichen! 
+
+Und hier warf das Amulett dann einen Liebesbann über Odin selbst, der seither nur noch Augen für dessen menschliche Trägerin hat. Er nimmt die Welt um sich herum nicht mehr wahr und ist somit den Angriffen und der Rache Lokis schutzlos ausgeliefert!
+
+Allzu groß ist die Gefahr, in der Odin nun schwebt!"
+</text>
+      </lang>
+    </block>
+    <block id="04_noird">
+      <lang code="CHN">
+        <text>
+
+尼奥尔德
+
+"曾几何时，我们的世界威严不可侵犯，如今奥丁却已癫狂，我们尽成冰中之囚！"那冰雕开口对我们言道，我们立时认出，正是司掌风与海之神尼奥尔德。
+
+"你们可还记得：洛基，亦即你们口中的伊科尔，那谎言之神，那蛇灾与饥荒，皆由他的黑暗魔法所酿！
+
+他造出这些可怖之物，将阿拉伯大半疆土夷为废墟！
+而在与他自己造物的对抗中，他骗取了你们的信任与情谊！
+
+如今你们又将他引至此地。托你们之助，他的复仇再无阻拦……"
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+NJIÖRD
+
+"Einstmals mächtig und unantastbar war unsere Welt, aber nun ist Odin von Sinnen und wir sind Gefangene im Eis!" sprach uns die Eisstatue an und wir erkannten sofort den Wind- und Meergott NJIÖRD. 
+
+"Erinnert ihr euch: Loki, den ihr Ykol nennt, er, der der Gott der Lüge und Falschheit ist, er selbst hatte die Schlangenplage und die Hungersnot mit seiner dunklen Magie verursacht! 
+
+Er erschuf diese Wesen des Grauens, die weite Teile Arabien auslöschten!
+Und im Kampf gegen seine eigenen Geschöpfe hat er dann euer Vertrauen und eure Freundschaft erschlichen!
+
+Und nun habt ihr ihn hierher geführt. Dank eures Zutuns steht seiner Rache nun nichts mehr im Wege..."
+
+</text>
+      </lang>
+    </block>
+    <block id="05_baldur">
+      <lang code="CHN">
+        <text>
+
+托尔
+
+"曾几何时，我们的世界威严不可侵犯，如今奥丁却已癫狂，我们尽成冰中之囚！"那冰雕开口对我们言道，我们立时认出托尔——其守护之力，显于雷电之威。
+
+"你们可还记得：洛基，亦即你们口中的伊科尔，在海尔之国与你们分道扬镳。
+
+然他并非为你们开路，而是抢在你们之前，去取海姆达尔之角！他暗中以维奥纳泽的冰饮涂于角上，待海姆达尔吹响那被施咒的号角，便在不知不觉间令诸神世界冰封。我们今日化作冰雕，正因于此！
+
+无力既久，我们唯有将自身的故事诉与你们……"
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+THOR
+
+"Einstmals mächtig und unantastbar war unsere Welt, aber nun ist Odin von Sinnen und wir sind Gefangene im Eis!" sprach uns die Eisstatue an und wir erkannten sofort Thor, dessen schützende Kraft sich in der Gewalt von Blitz und Donners zeigt.
+
+"Erinnert ihr Euch: Loki, den ihr Ykol nennt, er, der der Gott der Lüge und Falschheit ist, trennte sich von euch in Hel's Reich. 
+
+Aber nicht um den Weg für euch zu bahnen, sondern um vor euch Heimdalls Horn zu erreichen! Er bestrich es heimlich mit dem Eistrank der Wyonäzer, und als Heimdall in sein verzaubertes Horn blies, lies er damit ohne sein Wissen und Zutun die Welt der Götter gefrieren. Deshalb sind wir nun in Eisstatuen verwandelt! 
+
+In unserer Machtlosigkeit bleibt uns nur, euch unsere Geschichte zu erzählen..."
+</text>
+      </lang>
+    </block>
+    <block id="06_freya">
+      <lang code="CHN">
+        <text>
+
+弗丽嘉
+
+"曾几何时，我们的世界威严不可侵犯，如今我的夫君奥丁却已癫狂，我们尽成冰中之囚！"那冰雕开口对我们言道，我们立时认出弗丽嘉——奥丁之妻，司掌爱、女性、家族与家园的女神。
+
+"洛基，亦即你们口中的伊科尔，那谎言之神，将灾祸降于我们与无数生灵之上！
+去问其余诸神，他们自会向你们道出过往。
+
+他们会将诸神之战士拨于你们麾下，缺了他们，你们断难抵达阿斯加德神殿！"
+
+探询冰中之神，召集战士！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+FRIGG
+
+"Einstmals mächtig und unantastbar war unsere Welt, aber nun ist mein Gemahl Odin von Sinnen und wir sind Gefangene im Eis!" sprach uns die Eisstatue an und wir erkannten sofort Frigg, die Frau Odins und Göttin der Liebe, der Frauen, der Familie und des Heims.
+
+"Loki, den ihr Ykol nennt, er, der der Gott der Lüge und Falschheit ist, brachte das Unheil über uns und über so viele Menschen! 
+Befragt die anderen, und sie werden euch Auskunft über eure Vergangenheit geben. 
+
+Sie werden euch Krieger der Götter zur Seite stellen, ohne die ihr den Weg zu den Hallen Asgards nicht erreichen werdet!"
+
+Befrage die Götter im Eis und sammle die Krieger! 
+</text>
+      </lang>
+    </block>
+    <block id="07_tor">
+      <lang code="CHN">
+        <text>
+
+这些大门内藏着无数秘辛……
+
+无数幽灵战士，必正于这重重墙后静候着我们！我们须得准备一场恶战！！！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Diese Tore bargen so manches Geheimnis ... 
+
+Sicherlich würden noch unzählige Geisterkrieger hinter diesen Mauern auf uns warten! Wir mussten uns auf einen gewaltigen Kampf einstellen!!!  
+</text>
+      </lang>
+    </block>
+    <block id="08">
+      <lang code="CHN">
+        <text>
+
+我们已问遍所有冰雕之神。通往阿斯加德神殿之路，就此为我们敞开。冰中之神，再无可助我们的兵力了……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Wir hatten alle Eisstatuen befragt. Der Weg in die Hallen Asgards stand uns damit offen. Mehr Unterstützungen konnten wir von den Götter im Eis nicht erwarten ...
+</text>
+      </lang>
+    </block>
+    <block id="09_halle">
+      <lang code="CHN">
+        <text>
+
+神之殿
+
+在你未揭开诸神之秘、剿灭洛基的幽灵战士之前，此殿之门将始终为你紧闭。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DIE GÖTTERHALLE
+
+Bevor wir nicht die Geheimnisse der Götter gelüftet die Geisterkrieger Lokis vernichtet haben, bleibt dir der Zugang zu dieser Halle verwehrt.  
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+是逞勇还是鲁莽？比雅尼陨落之时，诸神亦为之落泪……少了这位英雄，你便无缘得知此役的结局。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="10_loki">
+      <lang code="CHN">
+        <text>
+
+洛基
+
+"你们这些卑劣的造物，竟如此轻易便被蒙蔽！如今诸神世界尽在我掌中，只因奥丁被你们珍视的希拉及其情爱护符迷惑，无助不堪！
+
+哈哈哈哈哈！"
+
+击败洛基及其残部，从希拉身上夺回护符，破除笼罩奥丁的魔咒！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+LOKI
+
+"Ihr nichtswürdigen Kreaturen, ihr seid so leicht zu blenden! Ich habe jetzt die Macht über die Götterwelt, denn Odin ist durch eure teure Cyra und ihr Liebesamulett geblendet und hilflos! 
+
+Hahahahaha!" 
+
+
+Bekämpfe Loki und seine letzten Krieger und entreiße Cyra das Amulett, um den Bann über Odin zu brechen!
+</text>
+      </lang>
+    </block>
+    <block id="11">
+      <lang code="CHN">
+        <text>
+
+冰战士
+
+冰中之女神拨予我们五名勇毅的冰战士。若寻得其余冰雕，我们定能为通往阿斯加德神殿之路，再赢得更多战士……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+EISKRIEGER
+
+Die Göttin im Eis stellte uns 5 tapfere Eiskrieger zur Seite. Wenn wir die anderen Statuen finden würden, konnten wir gewiss noch weitere Krieger für unseren Weg zu den Hallen Asgards gewinnen ....
+</text>
+      </lang>
+    </block>
+    <block id="12">
+      <lang code="CHN">
+        <text>
+我们已问明冰中之神的过往，亦剿灭了所有幽灵战士。通往最后一座神殿之路，就此敞开！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+
+Die Götter im Eis hatten wir zu ihrer und unserer Geschichte befragt und alle Geisterkrieger waren besiegt. Der Weg in die letzte Halle stand uns nun offen!
+</text>
+      </lang>
+    </block>
+    <block id="300">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命里片刻的轻率，便致此般后果！你的挚友与英雄哈奇，因你的疏忽而殒命！少了这位英雄，你便无缘得知此役的结局。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Hatschi erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
+</text>
+      </lang>
+    </block>
+    <block id="400">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命里片刻的轻率，便致此般后果！你的挚友与英雄西格德，因你的疏忽而殒命！少了这位英雄，你便无缘得知此役的结局。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Sigurd erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="CHN">
+        <text>
+
+我们同心协力，终将护符夺回手中。笼罩奥丁的那道情爱之咒，亦随之破除。那咒术曾令他眼中唯有护符佩者希拉，对周遭世界视而不见……洛基的复仇之路，正因此畅通无阻。
+
+何其诡诈的图谋！而如今它已破产，洛基的骗局，就此彻底终结！
+
+这护符之力，虽可造福良多，亦能酿祸无穷，绝不该再令它伤及人神分毫……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Gemeinsam hatten wir es geschafft, das Amulett an uns zu reißen. Damit war auch der Bann gebrochen, in den das Liebesamulett Odin gezogen hatte. Dieser hatte nur noch Augen für Cyra als Trägerin des Amulettes gehabt und die Welt um sich herum nicht mehr wahr genommen... womit für Loki und seinen Rachezug der Weg frei gewesen wäre. 
+
+Welch arglistiger Plan! Doch nun war er gescheitert und Lokis falsches Spiel endgültig beendet! 
+
+Die Macht des Amulettes, die zwar viel Gutes aber auch viel Böses bewirken konnte, sollte weder den Menschen noch den Göttern jemals wieder Schaden zufügen ...
+</text>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="CHN">
+        <text>
+
+……这，便是我们几位挚友在此日立下的誓约……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+... dies war das Versprechen, das wir Freunde uns an diesem Tage gaben ...
+</text>
+      </lang>
+    </block>
+    <block id="50_endheader">
+      <lang code="CHN">
+        <text>
+任务成功！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+
+MISSION GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+阿斯加德
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+
+ASGARD
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

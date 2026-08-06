@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_03_05_sub2" export_map_id="campaign_03_05_sub2" map_md5="d8eccc5e597038145370bc65976739a0" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">@寻一条穿越沼泽之路！</text>
+      <text lang="ger">@SUCHE EINEN WEG DURCH DIE SÜMPFE!</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">沼泽部族</text>
+      <text lang="ger">Sumpfvolk</text>
+    </string>
+    <string id="61">
+      <text lang="CHN">沼泽部族</text>
+      <text lang="ger">Sumpfvolk</text>
+    </string>
+    <string id="71">
+      <text lang="CHN">比雅尼</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="CHN">希拉</text>
+      <text lang="ger">Cyra</text>
+    </string>
+    <string id="73">
+      <text lang="CHN">哈奇</text>
+      <text lang="ger">Hatschi</text>
+    </string>
+    <string id="74">
+      <text lang="CHN">西格德</text>
+      <text lang="ger">Sigurd</text>
+    </string>
+    <string id="75">
+      <text lang="CHN">诺伯特</text>
+      <text lang="ger">Norbert</text>
+    </string>
+    <string id="76">
+      <text lang="CHN">玛尼</text>
+      <text lang="ger">Mani</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">迷失沼泽</text>
+      <text lang="ger">DIE VERLORENEN SÜMPFE</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="CHN">
+        <text>
+我们尚不知如何在沼泽中找到遏制其蔓延之法。
+        </text>
+        <text>
+以弗所居民说起"沼泽智者"，据说他们藏身于沼泽深处。
+
+或许他们能为我们指明道路。我们的希望全寄托于此……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Noch hatten wir keine Ahnung, wie wir in den Sümpfen eine Lösung gegen deren Ausbreitung finden könnten. 
+
+</text>
+        <usericon>1,208,156</usericon>
+        <text>
+
+Die Bewohner von Ephesos sprachen von "Sumpfweisen", die irgendwo verborgen in der Obhut des Sumpfes leben sollten. 
+
+Vielleicht konnten sie uns einen Weg aufzeigen. Darin lag unsere Hoffnung...
+</text>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="CHN">
+        <text>
+
+
+寻访沼泽智者！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Suche die Sumpfweisen auf!
+</text>
+      </lang>
+    </block>
+    <block id="01">
+      <lang code="CHN">
+        <text>
+
+
+沼泽部族
+
+"你们是来寻沼泽智者的？我等部族虽可入内，你们却断难通过沼泽之孔的试炼！"沼泽女子言道。
+
+
+        
+        </text>
+        <text>
+
+
+
+"然仍祝你们好运！穿过下一孔时，睁大眼睛，细察四周！"
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+SUMPFVOLK
+
+"Ihr seid gekommen, um die Sumpfweisen aufzusuchen? Unserem Volk ist das gestattet, aber ihr werdet die Prüfungen der Sumpflöcher sicherlich nicht bestehen!" sprachen die Sumpfvolkfrauen. 
+
+</text>
+        <usericon>1,409,47</usericon>
+        <text>
+
+"Aber wir wünschen euch dennoch viel Glück! Haltet die Augen offen und erkundet die Umgebung, wenn ihr das nächste Loch durchschreitet!"
+</text>
+      </lang>
+    </block>
+    <block id="02">
+      <lang code="CHN">
+        <text>
+
+
+沼泽之孔
+
+此地名为沼泽之孔。据闻人行其间极易迷途，因它将人送至全然异地。然我们须善加利用……
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+SUMPFLOCH
+
+In diesem Gebiet gab es Sumpflöcher. Unseren Berichten zu Folge konnte man sich durch diese leicht verirren, da sie die Menschen an einen völlig anderen Platz brachten. Aber wir mussten sie zu unseren Gunsten nutzen...
+</text>
+      </lang>
+    </block>
+    <block id="03">
+      <lang code="CHN">
+        <text>
+
+
+重返起点
+
+我们穿过此孔，竟回到任务之初。这断非正途！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+ZURÜCK ZUM ANFANG
+
+Als wir durch dieses Loch schritten, waren wir wieder am Anfang unserer Mission. Dies konnte also kaum der richtige Weg sein!
+</text>
+      </lang>
+    </block>
+    <block id="04">
+      <lang code="CHN">
+        <text>
+
+
+当心！
+
+我们无疑也须穿过此孔，心中却隐隐不安。对面究竟有何在候？
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+VORSICHT!
+
+Wir mussten zweifelsohne auch dieses Sumpfloch durchschreiten, aber dabei hatten wir ein komisches Gefühl im Magen. Was mochte uns wohl auf der anderen Seite erwarten?
+</text>
+      </lang>
+    </block>
+    <block id="05">
+      <lang code="CHN">
+        <text>
+
+
+生命能量
+
+一种奇异魔法笼罩此地……
+
+
+        
+        </text>
+        <text>
+
+
+
+我等众人，皆觉如获新生！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+LEBENSENERGIE
+
+Eine seltsame Magie umgab diesen Ort... 
+
+</text>
+        <usericon>1,268,116</usericon>
+        <text>
+
+All unsere Männer fühlten sich hier wie neu geboren!
+</text>
+      </lang>
+    </block>
+    <block id="06">
+      <lang code="CHN">
+        <text>
+
+
+哈奇
+
+"你们可回来了！什么事耽搁这么久？
+
+此处虽有入路，却无归途！"
+
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+HATSCHI
+
+"Da seid ihr ja wieder! Was hat euch denn so lange aufgehalten? 
+
+Hier gibt es zwar einen Weg hinein, aber keinen heraus!" 
+
+</text>
+        <usericon>2,3 </usericon>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+英雄气概，还是鲁莽？当比雅尼殒命，众神落泪……失此英雄，你便无缘得见任务终局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="200">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+一时疏忽，人生便急转直下！你的女英雄希拉因你大意而殒命！失此英雄，你便无缘得见任务终局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="300">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+一时疏忽，人生便急转直下！你的挚友与英雄哈奇因你大意而殒命！失此英雄，你便无缘得见任务终局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held HATSCHI erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
+</text>
+      </lang>
+    </block>
+    <block id="400">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+一时疏忽，人生便急转直下！你的挚友与英雄西格德因你大意而殒命！失此英雄，你便无缘得见任务终局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held SIGURD erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="500">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+一时疏忽，人生便急转直下！你的挚友与英雄——巨龙诺伯特——因你大意而殒命！失此英雄，你便无缘得见任务终局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="CHN">
+        <text>
+
+
+我们踏过桥，见沼泽智者迎面而来。他们以轻柔而低沉之声对我们言道：
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Als wir über die Brücke traten, sahen wir die Sumpfweisen auf uns zukommen. Sie sprachen mit sanfter, dumpfer Stimme zu uns:
+</text>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="CHN">
+        <text>
+
+
+沼泽智者
+
+"勇毅的英雄们！你们竟穿透重重险阻，来到我等沼泽智者面前！此等勇毅与壮志，当有所酬。
+
+
+        
+        </text>
+        <text>
+
+
+
+我们知你们所请，愿暂止沼泽蔓延。时日足够，只要你等用心，必能毕其工……
+
+然你等英雄哈奇，须留我等处些时日——我等沼泽智者，欲从他身上习知诸多异乡风物。"
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+SUMPFWEISEN
+
+"Ihr tapferen Helden! Ihr habt es geschafft und seid zu uns Sumpfweisen durchgedrungen! Dieser Mut und Ehrgeiz soll belohnt werden.
+
+</text>
+        <usericon>1,120,15</usericon>
+        <text>
+
+Wir kennen euer Anliegen und werden das Fortschreiten des Sumpfes für eine gewisse Zeit zurückhalten. Zeit genug, um euer Bauhaben zu vollenden, wenn ihr euch bemüht...
+
+Euer Held Hatschi jedoch soll dafür eine Weile bei uns bleiben, denn wir Sumpfweisen möchten von ihm vieles über die fremde Kultur seines Heimatlandes lernen."
+</text>
+      </lang>
+    </block>
+    <block id="50_endheader">
+      <lang code="CHN">
+        <text>
+
+
+任务成功！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+MISSION GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="600">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+一时疏忽，人生便急转直下！玛尼——比雅尼与希拉之子——因你大意而殒命！失此英雄，你便无缘得见任务终局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+
+
+迷失沼泽
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DIE VERLORENEN SÜMPFE
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

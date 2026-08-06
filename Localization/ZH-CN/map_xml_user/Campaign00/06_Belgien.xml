@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="06_Belgien" export_map_id="06_Belgien" map_md5="da41491c8dca8e2000183b7b2b02c1ae" IsC2M="true">
+  <languages>
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">比利时</text>
+      <text lang="ger">Belgien</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">你必须让比利时的民众免于饿死。</text>
+      <text lang="ger">Du mußt die Bevölkerung von Belgien vom Hungertod bewahren.</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+    </string>
+    <string id="4">
+      <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+    </string>
+    <string id="50">
+      <text lang="CHN">玩家0</text>
+      <text lang="ger">Spieler0</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">玩家1</text>
+      <text lang="ger">Spieler1</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">玩家2</text>
+      <text lang="ger">Spieler2</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="findmappos1">
+      <lang code="CHN">
+        <text>嗬嗬，我是森林巨魔凯撒。你们发现卢森堡人了吗？他们住在西南方。他们急需食物和器皿。另外雪莉也住在那里。她是全国最好的裁缝。她也许能帮上你们的大忙。顺带一提，我从遥远的北方给你们带来了一份礼物。
+巨魔咯咯笑着又消失了……</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Huhu, ich bin Caesar der Waldtroll. Habt ihr schon die Luxemburger entdeckt? Sie leben im Südwesten.Sie brauchen dringend Nahrung und Geschirr.Außerdem lebt dort Cherry. Sie ist die beste Näherin im ganzen Land.Sie kann Euch vielleicht gute Dienste leisten.Übigens, ich habe Euch ein Geschenk aus dem hohen Norden mitgebracht.
+Kichernd verschwand der Troll wieder......
+
+</text>
+      </lang>
+    </block>
+    <block id="lost_body">
+      <lang code="CHN">
+        <text>你失败了——尽管这个任务其实根本不可能失败。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Du hast verloren, obwohl man diese Mission eigentlich gar nicht verlieren kann.
+
+</text>
+      </lang>
+    </block>
+    <block id="lost_header">
+      <lang code="CHN">
+        <text>任务失败！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Mission verloren!
+
+</text>
+      </lang>
+    </block>
+    <block id="playerdied1">
+      <lang code="CHN">
+        <text>玩家1已阵亡。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 1 ist gestorben.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerdied2">
+      <lang code="CHN">
+        <text>玩家2已阵亡。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 2 ist gestorben.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerenemy1">
+      <lang code="CHN">
+        <text>玩家1现在转为敌对。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 1 ist jetzt feindlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerenemy2">
+      <lang code="CHN">
+        <text>玩家2现在转为敌对。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Spieler 2 ist jetzt feindlich.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerfriendly1">
+      <lang code="CHN">
+        <text>安特卫普的民众现在对你心怀友好。你现在可以与他们通商了。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Die Bevölkerung von Antwerpen ist Dir nun freundlich gesinnt. Du kannst nun mit Ihnen handeln.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerfriendly2">
+      <lang code="CHN">
+        <text>谢谢，谢谢你们的酒食。现在我们有力气为你们缝制衣袍了。要什么颜色呢？红色？？？？嗯，那好吧，不过要费些时日。在此期间你们可以与我们通商。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Danke danke für Speis und Trank. Wir haben jetzt die Kraft um Euch Eure Gewänder zu schneidern. Was für eine Farbe soll es sein ? ROT ???? Hmm, na gut, aber es wird länger dauern. Inzwischen könnt ihr mit uns handeln.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerseen1">
+      <lang code="CHN">
+        <text>安特卫普！！
+救命……我们饿坏啦！！
+请给我们一些吃的吧。不会让你们吃亏的。因为我们有你们需要的东西。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Antwerpen !!
+Hiilfe..Wir haben Huunger!!
+Bitte gebt uns etwas zu essen. Es soll nicht Euer Schaden sein. Wir haben nämlich etwas was ihr benötigt.
+
+</text>
+      </lang>
+    </block>
+    <block id="playerseen2">
+      <lang code="CHN">
+        <text>卢森堡！！
+救命……请帮帮我们吧，我们快要饿死了。我们有绝佳的护符给你们，但请先给我们送点吃的来。你们想要新衣袍？没问题，我们的裁缝大师雪莉会为你们缝制，当然，得收一点贡品。</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Luxemburg!!
+Hiilfe..Helft uns bitte, wir sterben fast vor Hunger. Wir haben tolle Amulette für Euch, aber zuerst bringt uns bitte etwas zu essen. Ihr möchtet neue Gewänder? Kein Problem, Cherry unsere Meisternäherin wird sie Euch schneidern, gegen einen kleinen Tribut versteht sich.
+
+</text>
+      </lang>
+    </block>
+    <block id="start_body">
+      <lang code="CHN">
+        <text>我们带着一小队人马朝比利时进发。那里正闹着严重的饥荒，我们想帮助当地民众。此外卢森堡有全国最好的裁缝。我们打算在继续前行之前请人为我们缝制别样的衣袍，因为穿着绿色衣袍日后太容易被发现了。而且我们的士兵也需要更好的装备。因此我们想弄到一些护符。
+任务目标：储备10件疾风护符和10件力量护符。
+
+
+制作者：尤基</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Wir brachen mit einer kleinen Mannschaft Richtung Belgien auf. Wir wollten der Bevölkerung helfen, da dort eine große Hungersnot herrschte. Außerdem gab es in Luxemburg die besten Näherinnen. Wir wollten uns nämlich  andere  Gewänder schneidern lassen, bevor wir weiterzogen, denn in den grünen Gewändern würden wir später zu schnell entdeckt werden. Außerdem mußten unsere Soldaten besser ausgerüstet werden. Wir wollten uns daher Amulette beschaffen.
+Missionsziel: Lagere jeweils 10 Windamulette und 10 Stärkeamulette ein.
+
+
+Erstellt von: Yogi
+
+</text>
+      </lang>
+    </block>
+    <block id="start_header">
+      <lang code="CHN">
+        <text>比利时</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Belgien
+
+</text>
+      </lang>
+    </block>
+    <block id="won_body">
+      <lang code="CHN">
+        <text>我们终于储备好了所需的护符。我们为身上的新衣袍感到自豪又欣喜，随后便离开了这片友善的土地，朝日耳曼尼亚进发。
+至于森林巨魔凯撒对我们耍的那个花招，我们迟早会报复回去……</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Wir hatten endlich die erforderlichen Amulette eingelagert. Stolz und glücklich über unsere neuen Gewänder verließen wir dieses freundliche Land Richtung Germania.
+Für den Streich den uns Caesar, der Waldtroll gespielt hatte sollte noch unsere Rache kommen...
+
+</text>
+      </lang>
+    </block>
+    <block id="won_header">
+      <lang code="CHN">
+        <text>任务达成！</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Mission gewonnen!
+
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

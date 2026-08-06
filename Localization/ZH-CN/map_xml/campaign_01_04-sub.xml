@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_01_04-sub" export_map_id="campaign_01_04-sub" map_md5="0a8fa1bf67556fd55b1c8916f3d3d984" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">击杀那可怖的怪物，但须提防周围的群狼！</text>
+      <text lang="eng">Kill the dreadful monster, but beware of the wolves!</text>
+      <text lang="ger">Töte das grauenhafte Monster, doch hüte dich vor den Wölfen!</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">意大利 - 支线</text>
+      <text lang="eng">ITALY - Sub</text>
+      <text lang="ger">ITALIEN - Sub</text>
+    </string>
+    <string id="101">
+      <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+    <string id="102">
+      <text lang="CHN">西格德</text>
+      <text lang="eng">Sigurd</text>
+      <text lang="ger">Sigurd</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="bjarnitot">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+英雄气概，还是鲁莽轻率？当比雅尼倒下，诸神也在恸哭……他们的命运已定，人类的末日随之降临。
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When Bjarni died the gods were crying ... their fate was sealed and with it the end of the human world.
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ihr Ende war besiegelt und mit ihnen das Ende der Welt der Menschen.
+</text>
+      </lang>
+    </block>
+    <block id="bonisonstig">
+      <lang code="CHN">
+        <text>
+我们寻得一枚不起眼的护符，其上刻着奇异纹样，隐隐透出诡谲微光。
+
+那必是至高魔法无疑！
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+We had found a nondescript amulet bearing a mysterious inscription and emitting a curious glow. 
+
+It must be possessed of great magic!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Wir hatten ein unscheinbares Amulett mit seltsamen Zeichen darauf gefunden. Ein seltsamer Schimmer ging davon aus. 
+
+Das musste hohe Magie sein!
+</text>
+      </lang>
+    </block>
+    <block id="bonitrank">
+      <lang code="CHN">
+        <text>
+一只怪味扑鼻的奇异瓶子落入我们手中。
+
+这定是魔法药剂无疑！
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+A strange flask filled with a foul-smelling potion had fallen into our hands. 
+
+It had to be a magic potion!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Eine seltsame Flasche mit einem übelriechenden Trank war uns in die Hände gefallen. 
+
+Es konnte sich nur um einen magischen Trank handeln!
+</text>
+      </lang>
+    </block>
+    <block id="boniwaffe">
+      <lang code="CHN">
+        <text>
+我们找到了传说中吟游诗人传唱的魔法兵器之一。若用之得法，它能在战斗中助我们大忙。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+We had found one of the magic weapons our sagas mentioned. Used correctly, it would be of great use to us in battle.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Wir hatten eine der magischen Waffen gefunden, von denn unsere Sagen erzählten. Richtig eingesetzt, konnte sie uns im Kampf von großem Nutzen sein.
+</text>
+      </lang>
+    </block>
+    <block id="frankenheld">
+      <lang code="CHN">
+        <text>
+当我攀下深渊之口，很快便寻到声响的源头！洞口近旁蜷着一名全副武装的巨汉，脸上写满惊怖。
+
+他声音发颤地警告我："洞穴深处盘踞着一头邪恶可怖的怪物，乃我屠龙生涯中所见最骇人之物！它狰狞不堪，任谁瞥见都要魂飞魄散！"
+
+虽则牙齿打颤，当我忧心忡忡继续前行时，他仍执意相随……
+
+在迷宫中寻得怪物，与之决战！
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+I had not long climbed into the mouth of the deep when I discovered the source of the sounds! Close to the entrance cowered a heavily armed giant of a man, fear written plainly in his every feature. 
+
+His voice shook as he warned me, "Deep within the cave dwells an evil, terrible monster, the most fearsome beast I have seen in all my years as a dragon slayer! It is so heinous and hideous to look upon that all who see it are turned rigid with fright!" 
+
+Though his teeth chattered with fear, he insisted on accompanying me as I continued nervously ...
+
+
+Find the monster in the maze and face it!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Als ich hinuntergeklettert war in den Schlund der Tiefe, fand ich schnell den Ursprung der Geräusche! Nahe dem Eingang kauerte ein schwer bewaffneter Hüne, dem die Furcht ins Gesicht geschrieben stand. 
+
+Mit zittriger Stimme warnte er mich: "Tief im Inneren der Höhle herrscht ein böses, furchtbares Monster, das Schrecklichste, das ich in meiner Laufbahn als Drachentöter je gesehen habe! Es ist so abscheulich und gar grässlich anzusehen, dass jeder der es erblickt, vor Grauen erstarrt!" 
+
+Obwohl ihm die Zähne klapperten vor Angst, bestand er darauf mich zu begleiten, als ich meinen Weg beunruhigt fortsetzte...
+
+
+Suche das Monster im Labyrinth und stelle dich ihm!
+</text>
+      </lang>
+    </block>
+    <block id="hasenareal">
+      <lang code="CHN">
+        <text>
+这必是法兰克人恐惧的那头怪物无疑！
+
+……
+
+一只双眼赤红、布满血丝的兔子死死瞪着我们！！！
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+This had to be the monster the citizens of the Frankish city were afraid of!
+
+...
+
+A RABBIT with fiery red, bloodshot eyes was staring at us!!!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Dies musste das Ungeheuer sein, vor dem sich die Einwohner der Frankenstadt fürchteten!
+
+...
+
+Ein KANINCHEN mit feuerroten, blutunterlaufenen Augen starrte uns an!!!
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+怪物洞穴
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE MONSTER'S DEN
+
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+DIE MONSTERHÖHLE
+
+</text>
+      </lang>
+    </block>
+    <block id="heldtot">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+一时的疏忽，便酿成千古恨！预言中的一位英雄因你的轻率而殒命，世界就此倾覆！
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A brief moment of carelessness - that's all it takes! One of the heroes from the prophecy has died through your negligence! The world is doomed!
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns - so schnell kommt es im Leben! Einer der Helden aus der Prophezeiung erlag durch deine Unachtsamkeit! Die Welt ist verloren!
+</text>
+      </lang>
+    </block>
+    <block id="monsterbesiegt">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务成功！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+法兰克人闻之色变的那头巨兽，终被斩除！
+
+镇民们如今方能安眠。我向那位临危显出真英雄本色的法兰克人致谢，并邀他来到我们的村庄。
+
+入夜篝火升腾，我向他道出我们的使命。他顿时热血沸腾，执意随行——毕竟他可是货真价实的屠龙者！
+
+我眯起眼，借着火光将他细看——果然是他！他正是我在幻象中见过的英雄之一！
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION SUCCESSFUL!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+The beast that the Frank had been so afraid of had been defeated! 
+
+The city's inhabitants were able to sleep peacefully once more. I thanked the proud Frank, who had proven a true hero after all, for his help, and invited him to our village. 
+
+In the evening, as we drank a few mugs of mead, I told him of our mission. The dragon slayer at once insisted on accompanying us! 
+
+I screwed up my eyes and studied him by the light of the fire - IT WAS HIM! He was one of the heroes I had seen in my vision!
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION GEWONNEN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Die Bestie, vor der sich der Franke so gefürchtet hatte, war besiegt! 
+
+Die Stadtbewohner konnten nun wieder in Ruhe schlafen. Ich dankte dem stolzen Franken, der sich im nachhinein als echter Held bewiesen hatte für seine Hilfe und lud ihn in unser Dorf ein. 
+
+Am Abend, als die Methumpen kreisten, erzählte ich ihm von unserer Mission. Sofort war er Feuer und Flamme, und bestand darauf, uns zu begleiten, war er doch ein waschechter Drachentöter! 
+
+Ich kniff die Augen zusammen und betrachtete ihn im Flammenschein genauer - ER WAR ES! Er war einer der Helden, die ich in meiner Vision gesehen hatte!
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

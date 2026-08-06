@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="multiplayer_007_ressourcen" export_map_id="multiplayer_007_ressourcen" map_md5="160892dba101e83c4db158c61d342541" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">经济：合作</text>
+      <text lang="eng">Economy: CO-OP</text>
+      <text lang="ger">Wirtschaft: COOP</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">2 名玩家：与同伴一道抵御北方强敌，并保障自己的资源补给！</text>
+      <text lang="eng">2 players: Defend yourself with your partner against a powerful enemy in the north and collect resources!</text>
+      <text lang="ger">2 Spieler: Verteidige dich mit Deinem Partner gegen einen mächtigen Feind im Norden und kümmere dich um deinen Rohstoffnachschub!</text>
+    </string>
+    <string id="2">
+      <text lang="CHN">建起你的聚落并加以巩固。积攒 150 木材、石料与铁各 75，以及 100 金。你不必消灭敌人，资源才是重中之重！</text>
+      <text lang="eng">Build up your settlement and fortify it. Collect 150 units of wood, 75 units each of stone and iron, as well as 100 units of gold. You don't have to destroy your enemy. Resources are more important!</text>
+      <text lang="ger">Baue deine Siedlung auf und befestige sie. Sammle 150 Holz, je 75 Stein und Eisen sowie 100 Gold. du mußt Deinen Feind nicht vernichten, nur die Rohstoffe haben Priorität!</text>
+    </string>
+    <string id="10">
+      <text lang="CHN">格陵兰人</text>
+      <text lang="eng">Greenlander</text>
+      <text lang="ger">Grönländer</text>
+    </string>
+    <string id="11">
+      <text lang="CHN">格陵兰人</text>
+      <text lang="eng">Greenlander</text>
+      <text lang="ger">Grönländer</text>
+    </string>
+    <string id="20">
+      <text lang="CHN">文兰人</text>
+      <text lang="eng">Vinlander</text>
+      <text lang="ger">Vinländer</text>
+    </string>
+    <string id="21">
+      <text lang="CHN">文兰人</text>
+      <text lang="eng">Vinlander</text>
+      <text lang="ger">Vinländer</text>
+    </string>
+    <string id="30">
+      <text lang="CHN">海卢兰人</text>
+      <text lang="eng">Hellulander</text>
+      <text lang="ger">Helluländer</text>
+    </string>
+    <string id="31">
+      <text lang="CHN">海卢兰人</text>
+      <text lang="eng">Hellulander</text>
+      <text lang="ger">Helluländer</text>
+    </string>
+  </strings>strings>
+  <briefings>
+    <block id="begin_00">
+      <lang code="CHN">
+                <text>
+在维京人的土地上，两个部族联手后逐渐坐大，俨然一方霸主。
+
+所幸你还有个邻居，与你同历此劫，正可互为臂助。
+
+同心协力，你们或许能守住村寨、抵御强敌……
+
+提示：开局起你便坐拥一批宝贵资源。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+In the land of the Vikings, two powerful tribes have joined forces and thus created a large village of warriors.
+Urged on by their new strength, they have decided to wipe the land clean of all other tribes - including YOURS!
+
+Fortunately, your neighbour is facing the same problem. 
+
+Together you may be able to defend your villages. You don't need to defeat the enemy, as long as you have sufficient resources in your warehouses.
+Collect them as fast as possible, then you way be able to prevent ...
+
+
+Note:
+From the beginning, you own valuable permits! Use them wisely to build up your village.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Im Land der Wikinger hatte sich durch den Zusammenschluss zweier mächtiger Stämme ein großes, kriegerisches Dorf gebildet.
+So erstarkt war es schnell beschlossene Sache, das Land von allen anderen Stämmen zu säubern - und das betrifft auch DEINEN Stamm!
+
+Zum Glück hast du aber noch einen Nachbarn, dem die gleiche Gefahr droht. 
+
+Zusammen könnt ihr es vielleicht schaffen, eure Dörfer zu verteidigen. Es ist nicht nötig, den Gegner zu vernichten, solange ihr genügend Rohstoffe im Lager habt. 
+Sammelt sie so schnell wie möglich, vielleicht kommt ihr einem Angriff ja zuvor...
+
+
+Hinweis:
+Du bist bereits von Beginn an im Besitz wertvoller Schriftrollen! Nutze sie geschickt, um dein Dorf aufzubauen.
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+                <text>
+合作
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+CO-OP
+
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+COOP
+
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

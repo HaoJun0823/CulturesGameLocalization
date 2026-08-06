@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_03_02_sub" export_map_id="campaign_03_02_sub" map_md5="d6a593d6bc3b42b0bdc569f0c2f01c8b" IsC2M="false">
+  <languages>
+    <language code="GER" alias="GER" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="GER">@SUCHE EINEN WEG, AN DIE BAUZEICHNUNG ZU GELANGEN!</text>
+    </string>
+    <string id="1">
+      <text lang="GER">Gelange in das Innere der Unterirdischen Hallen!</text>
+    </string>
+    <string id="2">
+      <text lang="GER">Folge den Frauen!</text>
+    </string>
+    <string id="3">
+      <text lang="GER">Vertreibe die Räuber!</text>
+    </string>
+    <string id="4">
+      <text lang="GER">Geh mit allen Helden und dem kleinen Drachen zu den Frauen zurück!</text>
+    </string>
+    <string id="51">
+      <text lang="GER">Drachen</text>
+    </string>
+    <string id="56">
+      <text lang="GER">Frauen</text>
+    </string>
+    <string id="57">
+      <text lang="GER">Räuber</text>
+    </string>
+    <string id="61">
+      <text lang="GER">Drachen</text>
+    </string>
+    <string id="66">
+      <text lang="GER">Frauen</text>
+    </string>
+    <string id="67">
+      <text lang="GER">Räuber</text>
+    </string>
+    <string id="71">
+      <text lang="GER">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="GER">Cyra</text>
+    </string>
+    <string id="73">
+      <text lang="GER">Hatschi</text>
+    </string>
+    <string id="74">
+      <text lang="GER">Sigurd</text>
+    </string>
+    <string id="76">
+      <text lang="GER">Norbert</text>
+    </string>
+    <string id="99">
+      <text lang="GER">UNTERIRDISCHE HALLEN</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="GER">
+        <text> 
+In diesen verborgenen Hallen hatten die Hirten also ihre Frauen untergebracht, um sie vor den Sarazenenräubern zu schützen. Der Eingang war gut gesichert. Wir hofften, dass uns niemand gefolgt war...
+
+</text>
+        <usericon>1,21,20</usericon>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="GER">
+        <text> 
+Finde einen Weg, um an die Bauzeichnungen zu gelangen!
+</text>
+      </lang>
+    </block>
+    <block id="01">
+      <lang code="GER">
+        <text> 
+FRAUEN
+
+"Seid ihr Eindringlinge? 
+
+</text>
+        <usericon>1,30,48</usericon>
+        <text>
+
+Unsere Männer brachten uns zu unserer Sicherheit in diese unterirdischen Hallen, damit uns nicht dasselbe Schicksal ereilt, wie viele der anderen Frauen unseres Volkes. 
+Sie wurden von den Räubern im Nordwesten entführt. Unsere Männer waren machtlos, bei deren Überzahl! Gehört ihr auch zu diesen Vagabunden? 
+Wie können wir euch trauen? Habt ihre diese schrecklichen Geräusche gehört? Die Drachen werden doch nicht in Gefahr sein?"
+</text>
+      </lang>
+    </block>
+    <block id="02">
+      <lang code="GER">
+        <text> 
+RÄUBER
+
+"Ha! Hier halten die Hirten also ihre Frauen und ihre Güter versteckt! Gut, dass wir euch komischem Gespann gefolgt sind! Wir hörten davon, wie ihr unseren Brüdern die Beute abgeluchst habt! Mit uns habt ihr jedoch bestimmt kein leichtes Spiel! Haha!" 
+</text>
+      </lang>
+    </block>
+    <block id="03">
+      <lang code="GER" />
+    </block>
+    <block id="04">
+      <lang code="GER">
+        <text> 
+DAS INNERE DER UNTERIRDISCHEN HALLEN
+
+"Ihr habt es bis ins Innere der großen unterirdischen Halle geschafft! Unsere Männer sollen euch geschickt haben? Aber woher wissen wir, dass wir euch trauen können? Ach, es wäre so schön, wieder frei unter der Sonne zu leben!" sprachen die Frauen der Hirten.
+ 
+...doch was war das, wir hörten wieder die Geräusche von der Südseite der Anlage... 
+Gab es etwa einen zweiten Eingang?
+</text>
+      </lang>
+    </block>
+    <block id="05">
+      <lang code="GER">
+        <text> 
+DANKE!
+
+"Ihr habt die Eindringlinge aus unseren Hallen verbannt. Dafür sind wir euch zu großem Dank verpflichtet! Ihr habt unser Vertrauen erworben, und dafür werden wir euch die verborgenen Baupläne der hängenden Gärten anvertrauen. Sie sind an einem geheimen Platz in den oberen Hallen!
+
+</text>
+        <usericon>1,50,16</usericon>
+        <text>
+
+Wir werden euch zurück zu unseren Männern begleiten. Denn die Gefahr durch die immer wieder einfallenden Räuber scheint durch euch nun gebannt! Es ist ein Jammer, dass die Räuber dieses gutmütige Drachenvolk nahezu ausgerottet haben. Aber ihr scheint ja einen neuen Freund an eurer Seite zu haben...
+
+Folgt uns nun in den oberen Saal!" 
+</text>
+      </lang>
+    </block>
+    <block id="06">
+      <lang code="GER">
+        <text> 
+GEFAHR!
+
+Kaum waren wir ein paar Schritte gegangen, da hörten wir schreckliche Geräusche! Jemandem geschah großes Leid, und das geschah nicht fern von hier!
+
+</text>
+        <usericon>1,37,138</usericon>
+      </lang>
+    </block>
+    <block id="07">
+      <lang code="GER">
+        <text> 
+DER KLEINE DRACHE
+
+Wir kamen zu spät! Die Räuber hatten das Leben der Drachen ausgelöscht!
+
+</text>
+        <usericon>1,37,138</usericon>
+        <text>
+
+Doch was war das?
+
+</text>
+        <usericon>1,57,157</usericon>
+        <text>
+
+Ein kleiner Drachen saß im Gebüsch und zitterte vor Angst. Dieser kleine Kerl musste das schreckliche Schicksal seiner Eltern mit ansehen und hatte nun niemanden mehr auf der Welt! Wir mussten uns seiner annehmen!
+
+Gehe zusammen mit den Drachen und allen Helden zurück zu den Frauen, sobald alle Räuber besiegt sind!
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="200">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="300">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held HATSCHI erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
+</text>
+      </lang>
+    </block>
+    <block id="400">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held SIGURD erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="500">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="GER">
+        <text> 
+"Lange sollt ihr leben! Denn ihr allein habt die Eindringlinge aus unseren Hallen verbannt. Nehmt nun als Dank diese Karte zum Bau der Hängenden Gärten. Sie lag seit Jahrhunderten verborgen in einer Felsspalte in den unterirdischen Hallen und kann euch nun von großem Nutzen sein."
+
+</text>
+        <usericon>1,50,16</usericon>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="GER" />
+    </block>
+    <block id="50_endheader">
+      <lang code="GER">
+        <text> 
+MISSION GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="GER">
+        <text> 
+UNTERIRDISCHE HALLEN
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

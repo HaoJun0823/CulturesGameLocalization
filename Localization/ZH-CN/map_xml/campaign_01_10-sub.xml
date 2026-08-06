@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_01_10-sub" export_map_id="campaign_01_10-sub" map_md5="702e8a8839925abd46491650dfef9bd6" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">解答神谕者的谜题，直抵沙漠神殿最隐秘的宝藏。</text>
+      <text lang="eng">Answer the oracle's questions and proceed to the secret treasure in the desert temple.</text>
+      <text lang="ger">Löse die Fragen des Orakels und dringe bis zum geheimsten Schatz des Wüstentempels vor.</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">蛇卫</text>
+      <text lang="eng">Serpent Guard</text>
+      <text lang="ger">Schlangenwächter</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">蛇卫</text>
+      <text lang="eng">Serpent Guard</text>
+      <text lang="ger">Schlangenwächter</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">巴格达 - 支线</text>
+      <text lang="eng">BAGHDAD - Sub</text>
+      <text lang="ger">BAGDAD - Sub</text>
+    </string>
+    <string id="101">
+      <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+    <string id="102">
+      <text lang="CHN">西格德</text>
+      <text lang="eng">Sigurd</text>
+      <text lang="ger">Sigurd</text>
+    </string>
+    <string id="103">
+      <text lang="CHN">希拉</text>
+      <text lang="eng">Cyra</text>
+      <text lang="ger">Cyra</text>
+    </string>
+    <string id="104">
+      <text lang="CHN">哈奇</text>
+      <text lang="eng">Hatchie</text>
+      <text lang="ger">Hatschi</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="3">
+      <lang code="CHN">
+        <text>
+任务失败！
+        </text>
+        <text>
+片刻的疏忽，人生便如此急转直下！预言中的英雄西格德因你的大意而陨落！世界已沦丧。
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A brief moment of carelessness - that's all it takes! Sigurd, the hero from the prophecy, has died through your negligence! The world is doomed.
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Held Sigurd aus der Prophezeiung erlag durch deine Unachtsamkeit! Die Welt ist verloren.
+</text>
+      </lang>
+    </block>
+    <block id="4">
+      <lang code="CHN">
+        <text>
+
+任务失败！
+        
+        </text>
+        <text>
+
+一时的疏忽，便酿成千古恨！预言中的女英雄希拉因你的轻率而殒命。世界就此倾覆。
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A brief moment of carelessness - that's all it takes! Cyra, the heroine from the prophecy, has died through your negligence! The world is doomed.
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin Cyra aus der Prophezeiung erlag durch deine Unachtsamkeit! Die Welt ist verloren.
+</text>
+      </lang>
+    </block>
+    <block id="5">
+      <lang code="CHN">
+        <text>
+
+任务失败！
+        
+        </text>
+        <text>
+
+一时的疏忽，便酿成千古恨！预言中的英雄哈奇因你的轻率而殒命。世界就此倾覆。
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A brief moment of carelessness - that's all it takes! Hatchie, the hero from the prophecy, has died through your negligence! The world is doomed.
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Held Hatschi aus der Prophezeiung erlag durch deine Unachtsamkeit! Die Welt ist verloren.
+</text>
+      </lang>
+    </block>
+    <block id="bjarnitot">
+      <lang code="CHN">
+        <text>
+
+任务失败！
+        
+        </text>
+        <text>
+
+英雄气概，还是鲁莽轻率？当比雅尼倒下，诸神也在恸哭……他们的命运已定，人类的末日随之降临。
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When Bjarni died the gods were crying ... their fate was sealed and with it the end of the human world.
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ihr Ende war besiegelt und mit ihnen das Ende der Welt der Menschen.
+</text>
+      </lang>
+    </block>
+    <block id="erklärung1">
+      <lang code="CHN">
+        <text>
+
+"此乃开关甲。"
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+"This is switch A."
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+"Hier siehst du Schalter A"
+</text>
+      </lang>
+    </block>
+    <block id="erklärung2">
+      <lang code="CHN">
+        <text>
+
+"此乃开关乙。"
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+"This is switch B."
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+"Hier siehst du Schalter B"
+</text>
+      </lang>
+    </block>
+    <block id="erklärung3">
+      <lang code="CHN">
+        <text>
+
+"此乃开关丙。"
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+"This is switch C."
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+"Hier siehst du Schalter C"
+</text>
+      </lang>
+    </block>
+    <block id="falsch">
+      <lang code="CHN">
+        <text>
+
+错了！
+
+你答错了神谕！每错一答，通关便更难！
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Wrong! 
+
+You have given a wrong answer! With every wrong answer, it will become harder for you to pass!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Falsch! 
+
+Du hast dem Orakel falsch geantwortet! Mit jeder falschen Antwort wird es schwieriger für dich zu bestehen!
+</text>
+      </lang>
+    </block>
+    <block id="frage1">
+      <lang code="CHN">
+        <text>
+
+"第一问：
+你最爱的颜色是？"
+
+A) 红……呃……不，绿……不，蓝！
+B) 鼻涕黄
+C) 鼻屎绿……还是霉蓝？
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+"First question:
+Which is your favourite colour?" 
+
+A) Red ... ehm ... no, green ... no, BLUE! 
+B) Snotty yellow
+C) Bogey green ... or mouldy blue?
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+"Erste Frage:
+Was ist Deine Lieblingsfarbe?" 
+
+A) Rot ...äh... nein Grün... nein BLAU! 
+B) Rotzgelb
+C) Popelgrün... oder doch Schimmelblau?
+</text>
+      </lang>
+    </block>
+    <block id="frage2">
+      <lang code="CHN">
+        <text>
+
+"第二问：
+何者更重：一磅羽毛，或一磅铁？"
+
+A) 不知，大概是一样重！
+B) 羽毛
+C) 铁
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+"Second question:
+Which is heavier: a pound of feathers or a pound of iron?" 
+
+A) No idea, maybe they're both the same!
+B) Feathers
+C) Iron
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+"Zweite Frage:
+Was ist schwerer: ein Pfund Federn oder ein Pfund Eisen?" 
+
+A) Keine Ahnung, wahrscheinlich gleich schwer!
+B) Federn
+C) Eisen
+</text>
+      </lang>
+    </block>
+    <block id="frage3">
+      <lang code="CHN">
+        <text>
+
+"第三问：
+法兰克王比拜占庭皇帝更贫。巴格达哈里发比法兰克王更富。拜占庭皇帝与巴格达哈里发一样富。谁最贫？"
+
+A) 巴格达哈里发
+B) 拜占庭皇帝
+C) 法兰克王
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+"Third question:
+The King of France is poorer than the Emperor of Byzantium. The Caliph of Baghdad is richer than the King of France. The Emperor of Byzantium is as rich as the Caliph of Baghdad. Who is the poorest?"
+
+A) The Caliph of Baghdad
+B) The Emperor of Byzantium
+C) The King of France
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+"Dritte Frage:
+Der König von Frankreich ist ärmer als der Kaiser von Byzanz. Der Kalif von Bagdad ist reicher als der König von Frankreich. Der Kaiser von Byzanz  ist genauso reich, wie der Kalif von Bagdad. Wer ist der ärmste?"
+
+A) Der Kalif von Bagdad
+B) Der Kaiser von Byzanz
+C) Der König von Frankreich
+</text>
+      </lang>
+    </block>
+    <block id="frage4">
+      <lang code="CHN">
+        <text>
+
+"第四问：
+斥候快于铁匠。铁匠慢于农夫。斥候慢于农夫。谁最快？"
+
+A) 农夫
+B) 斥候
+C) 铁匠
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+"Fourth question:
+The scout is faster than the smith. The smith is slower than the farmer. The scout is slower than the farmer. Who is the fastest?"
+
+A) The farmer 
+B) The scout
+C) The smith
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+"Vierte Frage:
+Der Kundschafter ist schneller als der Schmied. Der Schmied ist langsamer als der Farmer. Der Kundschafter ist langsamer als der Farmer. Wer ist der Schnellste?"
+
+A) Der Farmer 
+B) Der Kundschafter
+C) Der Schmied
+</text>
+      </lang>
+    </block>
+    <block id="frage5">
+      <lang code="CHN">
+        <text>
+
+"第五问：
+你于异邦建总部，其中所有窗皆朝北。你在何处？"
+
+A) 北极
+B) 南极
+C) 赤道
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+"Fifth question:
+Your headquarters are in a foreign country, where all windows point to the north. Where are you?" 
+
+A) At the North Pole
+B) At the South Pole
+C) On the equator
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+"Fünfte Frage:
+Du hast ein Hauptquartier in einem fremden Land aufgestellt, in dem alle Fenster nach Norden zeigen. Wo befindest Du dich?" 
+
+A) Am Nordpol
+B) Am Südpol
+C) Am Äquator
+</text>
+      </lang>
+    </block>
+    <block id="frage6">
+      <lang code="CHN">
+        <text>
+
+"第六问：
+此为何物：添之则小，减之则大！"
+
+A) 一杯蜜酒
+B) 比雅尼的袜子
+C) 一个土坑
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+"Sixth question:
+What is this: The more you put in it, the smaller it becomes; the more you take away from it, the bigger it becomes!"
+
+A) A mug of mead
+B) Bjarni's socks
+C) A hole in the ground
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+"Sechste Frage:
+Was ist das: Je mehr man hinzutut, desto kleiner wird es und je mehr man wegnimmt, desto größer wird es!"
+
+A) Ein Becher Met
+B) Bjarnis Socken
+C) Ein Erdloch
+</text>
+      </lang>
+    </block>
+    <block id="frage7">
+      <lang code="CHN">
+        <text>
+
+"第七问：
+若比雅尼之子乃我父之子，我者何人？"
+
+A) 我是比雅尼
+B) 我是比雅尼之子
+C) 我是比雅尼之父
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+"Seventh question:
+If Bjarni's son is my father's son ... who am I?" 
+
+A) I'm Bjarni
+B) I'm Bjarni's son
+C) I'm Bjarni's father
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+"Siebte Frage:
+Wenn Bjarnis Sohn der Sohn meines Vaters wäre, wer bin ich?" 
+
+A) Ich bin Bjarni
+B) Ich bin Bjarnis Sohn
+C) Ich bin Bjarnis Vater
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+
+神谕
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE ORACLE
+
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+DAS ORAKEL
+
+</text>
+      </lang>
+    </block>
+    <block id="orakel">
+      <lang code="CHN">
+        <text>
+
+"来者何人？"一声如自岩中轰鸣的巨响。
+
+"不速之徒！我是沙漠神庙之神谕！想过我这一关，须答七问，并败我蛇卫！
+
+每问有三答。扳动相应之开关以作答！谨记符号，我仅解说这一次！"
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+"Who's there?" a voice thundered, seeming to come from the rocks themselves. 
+
+"Unworthy intruders! I am the oracle of the desert temple! Whoever would pass me must first answer 7 questions, and defeat my serpent guards! 
+
+There are 3 answers to every question. Answer me by activating the corresponding switch! Try to remember the symbols well, I will explain this only once!" 
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+"Wer da?" donnerte eine Stimme, die aus den Felsen selbst zu kommen schien. 
+
+"Unwürdige Eindringlinge! Ich bin das Orakel des Wüstentempels! Wer an mir vorbei will, muss 7 Fragen beantworten und meine Schlangenwächter besiegen! 
+
+Auf jede Frage gibt es 3 Antworten. Antworte mir, indem du den entsprechenden Schalter betätigst! Merke dir die Symbole gut, ich erkläre es dir nur ein einziges Mal!" 
+</text>
+      </lang>
+    </block>
+    <block id="richtig">
+      <lang code="CHN">
+        <text>
+
+对了！
+
+神谕对你的回答感到满意。一名守卫消失了！
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Correct! 
+
+The oracle is content with your answer. One of the guards disappears!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Richtig! 
+
+Das Orakel ist mit deiner Antwort zufrieden. Einer der Wächter verschwindet!
+</text>
+      </lang>
+    </block>
+    <block id="schalterbesetzt">
+      <lang code="CHN">
+        <text>
+
+你必须离开开关，否则神谕将沉默！
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+You must leave the button, or the oracle will remain silent!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Du musst von den Schaltern herunter gehen, sonst schweigt das Orakel!
+</text>
+      </lang>
+    </block>
+    <block id="start">
+      <lang code="CHN">
+        <text>
+
+我们愈深入宝藏神庙的幽暗，直至哈奇寻得一支旧火炬并点燃。
+
+继而，在梯脚我们发现一段风化古铭，由我们本地的友人译出：
+
+我们已至神庙最深处，由远古殿卫把守。唯直面神谕方能过关。在此处既显智勇者，方得最后之赏……
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+We proceeded deeper and deeper into the darkness of the treasure temple, until Hatchie found an old torch and lit it. 
+
+Then, at the bottom of the stairs, we found an old weathered inscription, which was translated by our native friend:
+
+We were now in the innermost part of the temple, which was guarded by ancient temple guards. We would only prevail if we presented ourselves to the oracle. Only a man who was as clever as he was brave would win the final prize ...
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Immer tiefer drangen wir in die Finsternis des Schatztempels vor, bis Hatschi eine alte Fackel fand und sie entzündete. 
+
+Dann, am Fuße einer Treppe, fanden wir eine alte, verwitterte Inschrift, die uns unser einheimischer Freund übersetzte: 
+
+Wir waren nun im innersten Bereich des Tempels, der bewacht wurde von uralten Tempelwächtern. Bestehen würden wir nur, wenn wir uns einem Orakel stellen würden. Nur wer sich hier als ebenso klug wie mutig erwies, würde den letzten Preis erringen...
+</text>
+      </lang>
+    </block>
+    <block id="won">
+      <lang code="CHN">
+        <text>
+
+任务成功！
+        
+        </text>
+        <text>
+
+凭勇智我们克服了可怖的守门者，直入被诅咒沙漠神庙的最深处。
+
+一小室中，我们撞见一口远古箱匣。盖吱呀缓启。我们探头细看，呼吸为之一窒：
+那里既无奇物，亦无魔法珍宝……尘埃覆盖的箱底，静卧着我们遍寻半世所得的第三块地图碎片，它胜过一切瑰宝！
+
+当它终入手，我们喜不自胜。若空手回见哈里发，他必不悦。我们遂取了碎片，以最快之路离此国境。
+
+哈奇自请助我们一臂……
+        
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION SUCCESSFUL!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+With courage and cleverness we overcame the dreadful keepers of the gate and proceeded into the innermost regions of the enchanted desert temple. 
+
+In a little room we found an ancient chest. Its creaking lid opened slowly. When we carefully looked into it, we held our breath: 
+There were no miraculous things in it, no enchanted treasures ... on the bottom of the chest lay the last of the three pieces of the map we had searched half the world for. It was more valuable to us than any precious objects! 
+
+Our joy was great when we finally held it in our hands. However, the Caliph would not be at all amused if we returned with empty hands, therefore we decided to take the piece of the map and leave the country as fast as possible. 
+
+Hatchie offered to help us ...
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION GEWONNEN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Mit Mut und Klugheit hatten wir die fürchterlichen Torwächter überwunden und waren bis in den innersten Bereich des verwunschenen Wüstentempels vorgedrungen. 
+
+In einer kleinen Zelle stießen wir auf eine uralte Truhe. Langsam öffnete sich quietschend der Deckel. Als wir vorsichtig hineinsahen, stockte uns der Atem: 
+Keine Wunderdinge fanden wir dort, keine zauberkräftigen Schätze... Auf dem staubbedeckten Boden der Kiste lag es, das letzte der drei Kartenstücke, nach denen wir die halbe Welt durchsucht hatten und das uns mehr wert war, als alle Kostbarkeiten! 
+
+Groß war unsere Freude, als wir es endlich in Händen hielten. Der Kalif hingegen würde weniger erfreut sein, wenn wir mit leeren Händen zu ihm zurückkehrten. Wir beschlossen daher, das Kartenstück an uns zu nehmen und das Land auf dem schnellsten Wege zu verlassen. 
+
+Hatschi bot sich an, uns dabei zu helfen...
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="tutorial_005" export_map_id="tutorial_005" map_md5="b41088f968fbafc578d93bb2ca6f119d" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">指派一名商人掌管两座仓库，看看会发生什么。</text>
+      <text lang="ger">Weise einem Händler zwei Lagerhäuser zu und schau, was passiert.</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">为雷米与施泰尼的仓库运去 5 件铁质工具！</text>
+      <text lang="ger">Bringe dem Lagerhaus vom Lehmi und Steini 5 EISENWERKZEUGE!</text>
+    </string>
+    <string id="2">
+      <text lang="CHN">与法兰克村落交易 10 件家具！</text>
+      <text lang="ger">Handele 10 MÖBEL mit den Frankendörfchen!</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">为船只配属一名商人与一辆推车，并经由搬运工将至少 5 袋面粉装船！</text>
+      <text lang="ger">Weise dem Schiff einen Händler samt KARREN zu und belade das Schiff mit mindestens 5 Säcken MEHL, durch den Träger!</text>
+    </string>
+    <string id="4">
+      <text lang="CHN">乘船驶往撒拉逊岛屿！</text>
+      <text lang="ger">Fahre mit dem Schiff zu der Sarazeneninsel!</text>
+    </string>
+    <string id="5">
+      <text lang="CHN">卸下货物，与撒拉逊人展开贸易！</text>
+      <text lang="ger">Entlade die Waren und treibe mit den Sarazenen Handel!</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">法兰克人</text>
+      <text lang="ger">Franken</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">撒拉逊人</text>
+      <text lang="ger">Sarazenen</text>
+    </string>
+    <string id="71">
+      <text lang="CHN">索尔芬</text>
+      <text lang="ger">Thorfinn</text>
+    </string>
+    <string id="72">
+      <text lang="CHN">洛丁</text>
+      <text lang="ger">Lodin</text>
+    </string>
+    <string id="73">
+      <text lang="CHN">雷米</text>
+      <text lang="ger">Lehmi</text>
+    </string>
+    <string id="74">
+      <text lang="CHN">施泰尼</text>
+      <text lang="ger">Steini</text>
+    </string>
+    <string id="75">
+      <text lang="CHN">斯图尔拉</text>
+      <text lang="ger">Sturla</text>
+    </string>
+    <string id="76">
+      <text lang="CHN">斯诺里</text>
+      <text lang="ger">Snorri</text>
+    </string>
+    <string id="79">
+      <text lang="CHN">阿里</text>
+      <text lang="ger">Ari</text>
+    </string>
+    <string id="98">
+      <text lang="CHN">本关介绍与异族的陆上与海上贸易，以及商人在本村中的运用。</text>
+      <text lang="ger">Hier wirst du eingeführt, in den Land und Seehandel mit anderen Völkern, aber auch in die Verwendung des Händlers im eigenen Dorf.</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">5) 贸易</text>
+      <text lang="ger">5) HANDEL</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00">
+      <lang code="CHN">
+        <text>
+商品可以在村庄内部交换，也可以与外部民族进行贸易。
+
+要建立贸易联系，你首先需要一个运作良好的手推车系统和一个仓库。
+按照出现的任务提示进行操作。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Waren können innerhalb deines Dorfes, aber auch außerhalb des Dorfes zum Tausch angeboten werden. Zuständig dafür ist natürlich der Händler, der die Waren zwischen Produktionsstätten, Lagerhäusern und Hauptquartieren transportiert. 
+
+Hier wirst du eingeführt, in den Land und Seehandel mit anderen Völkern, aber auch in die Verwendung des Händlers im eigenen Dorf ...
+</text>
+      </lang>
+    </block>
+    <block id="01">
+      <lang code="CHN">
+        <text>商人
+
+这是索尔芬、洛丁和阿里，三位资质很好的年
+
+轻维京人，他们愿意为你效劳——作为商人。
+
+每位商人需要至少两座仓
+
+库，以便存放他们的货物。</text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DER HÄNDLER
+
+Das sind Thorfinn, Lodin und Ari, drei gut ausgebildete Händler. 
+
+Mit der Auswahl des Händlers öffnet sich in dessen Figurenmenü das Register Handel, womit du alle Handelseinstellungen vornehmen kannst.
+
+Als erstes musst du die beiden HANDELSSTÄTTEN ZUWEISEN. Wähle dazu im Figurenmenü für jedes Handelshaus den kleinen runden Button neben "Handelshaus" oder im Aktionsmenü des Händlers den Button mit der Waage und klicke auf die gewünschte Handelstätte. Wie bei allen Arbeitern kannst du auch dem Händler schnell über die rechte Maustaste die Handelshäuser zuweisen.
+Der Handel ist im eigenen Volk zwischen allen Gebäuden mit entsprechendem Lager, also auch zwischen den Produktionsstätten möglich. 
+
+Weise einem Händler zwei Lagerhäuser zu.
+</text>
+      </lang>
+    </block>
+    <block id="02">
+      <lang code="CHN">
+        <text>
+如果你不告诉商人该做什么，他会随心所欲地交易，而不考虑你的利益。
+
+给他分配两座仓库，以便他能有效工作。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Wenn du dem Händler weiter nichts sagst, wird er beliebige Waren transportieren, wie in diesem Falle Honig. 
+Hast du die beiden Handelsposten zugewiesen, solltest du den "HÄNDLER EINSTELLEN". Klicke dazu den entsprechenden Button im Figurenfenster des Händlers.
+
+Handelst du innerhalb deines Volkes, erscheint ein Fenster mit beiden Handelsposten und in der Mitte siehst du eine Liste mit den Waren, die gehandelt werden können. Klickst du nichts an, versucht der Händler, die Warenbestände der Lager auszugleichen. Die Pfeile neben der Liste symbolisieren einerseits die Richtung, in welche die Ware gebracht wird, andererseits wählst du damit auch deine Waren aus. 
+Klickst du mit einem Linksklick auf einen oder mehrere Pfeile, werden nur noch die Waren transportiert, deren Richtungspfeile aktiv, also hell sind. 
+</text>
+      </lang>
+    </block>
+    <block id="03">
+      <lang code="CHN">
+        <text>雷米和施泰尼需要工具（内部贸易）
+
+你的维京人经常需要工
+
+具来加快他们的工作。
+
+让你的手推车系统把货物送到各处吧。</text>
+      </lang>
+      <lang code="ger">
+        <text> 
+LEHMI UND STEINI BRAUCHEN WERKZEUG 
+(Handeln im eigenen Volk)
+
+Etwas abseits von deinen Dorf verrichten der Töpfer und der Steinmetz ihre Arbeit. Leider hatten sie vergessen die guten Eisenwerkzeuge mitzunehmen und arbeiten deshalb nicht sehr produktiv... 
+
+Wähle Thorfinn, Lodin oder Ari aus und weise ihm als Handelhaus 1 das nördliche und als Handelshaus 2 das südliche Lagerhaus bei der Töpferei zu! (Willst du ein anderes Handelhaus auswählen, wähle den Button Handelshaus wegnehmen und klicke auf das unerwünschte Handelshaus, um es zu deselektieren. Wähle dann ein neues aus.)
+
+Bringe dem Lagerhaus dann 5 EISENWERKZEUGE! 
+</text>
+      </lang>
+    </block>
+    <block id="04">
+      <lang code="CHN">
+        <text>
+手推车和牛车
+
+手推车对货物的内部运输至关重要。手推车越多，你的商人就越能充分发挥效率。
+
+每个仓库至少有一辆手推车。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+HANDARREN und OCHSENKARREN 
+
+Karren sind von großem Vorteil für die Träger und Händler, denn mit ihnen können bis zu 10 Waren bzw. bis zu 20 Waren gleichzeitig transportieren. Damit arbeitet ein Händler wesentlich effektiver. Um den Karren zu benutzen, muss ein Träger bzw. Händler dem Fahrzeug zugewiesen werden, erst dann ist es steuerbar. 
+Dies geschieht über den Aktionsbutton "Fahrzeug zuweisen". Wenn du den Button betätigt hast, leuchten die möglichen Fahrzeuge (Schiff, Hand- oder Ochsenkarren) hell auf. Klicke mit der rechten Maustaste auf einen Karren, um dem Wikinger deine Wahl mitzuteilen. 
+
+Hinweis:
+Du kannst einen Karren einem Wikinger auch über die Tooltip-Option direkt mit rechtem Mausklick als Fahrzeug zuweisen.
+</text>
+      </lang>
+    </block>
+    <block id="05">
+      <lang code="CHN">
+        <text>
+棒极了！
+
+现在雷米和施泰尼有了他们的工具，可以开始工作了。
+
+但商人还需要更多的商品来交易。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+TOLL!
+
+Nun haben Lehmi und Steini ihre Werkzeuge und können besser arbeiten.
+
+Unsere Händler werden indes neue Handelsbeziehungen zu einem Frankenvolk aufbauen...
+</text>
+      </lang>
+    </block>
+    <block id="06">
+      <lang code="CHN">
+        <text>与异族进行贸易
+
+要与另一个民族进行远程贸易
+
+，你必须与它签订贸易协定。
+
+可以通过向该民族进贡来获得这个协定。</text>
+      </lang>
+      <lang code="ger">
+        <text> 
+HANDELN MIT EINEM FREMDVOLK
+
+Zum Fernhandel mit einem anderen dir FREUNDLICH gesonnenen Volk, brauchst du einen gültigen Handelsvertrag und das andere Volk muss ein LAGERHAUS besitzen. Beide Voraussetzungen erfüllt dieses kleine Frankendorf an der Nordküste. Auch müssen deine Händler einem KARREN zugewiesen sein.
+
+Handelst du mit einem Fremdvolk, kannst du aus einem oder mehreren Angeboten des Handelspartners wählen, welche Waren dein Händler tauschen soll. Die linke Seite zeigt dabei an, welche Waren der befreundete Stamm anbietet. Die rechte Seite zeigt an, was er dafür haben will. 
+Klicke mit der linken Maustaste auf die Zeile mit dem gewünschten Angebot. Dein Händler wird dann versuchen, diese Waren zu handeln. 
+Willst du ein anderes Handelhaus auswählen, wähle den Button Handelshaus wegnehmen und klicke auf den unerwünschten Handelspartner, um ihn zu deselektieren, wähle dann den neuen Handelspartner aus.
+
+Handele mit den Franken 10 Möbel! Du erhältst dafür 20 Goldstücke.
+</text>
+      </lang>
+    </block>
+    <block id="07">
+      <lang code="CHN">
+        <text>
+非常好！
+
+你从法兰克人那里通过贸易获得了 20 枚金币。这证明了贸易是非常有利可图的！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+SEHR GUT!
+
+Du hast 20 Goldstücke von den Franken für deine Möbel erhalten. Damit hast du deinen Handelsvertrag erfüllt.
+</text>
+      </lang>
+    </block>
+    <block id="08">
+      <lang code="CHN">
+        <text>
+与此同时，我们转向远洋贸易。
+
+有时需要装载船只，将货物运往遥远的彼岸……
+
+为此，你需要将货物装上一
+
+艘船！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+In der Zwischenzeit widmen wir uns dem Überseehandel. Manchmal ist es notwendig Schiffe zu beladen, um Waren an ferne Ufer zu bringen... wie zu diesem freundlichen Sarazenendorf.
+
+Die Produktionsstätte für SCHIFFE ist die Schreinerei 4. Diese muss allerdings in Strandnähe gebaut sein, damit der Schreiner das Schiff direkt am Wasser bauen kann.
+
+Um ein Schiff zu beladen, muss ihm immer ein TRÄGER zugewiesen sein. Die Schifflagerverwaltung funktioniert, wie eine normale Lagerverwaltung über die einzelnen, in Warengruppen untergliederten Register. Klicke also auf das Schiff und dann auf die entsprechenden Pluszeichen der gewünschten Ware, um den Mindestbestand einzustellen.
+
+Belade das Schiff mit mindestens 5 Säcke Mehl und weise ihm einen TRÄGER samt KARREN zu. (Weise dazu erst dem Träger einen Karren als Fahrzeug zu, wähle dann den KARREN aus und weise ihm den Schiff zu.)
+</text>
+      </lang>
+    </block>
+    <block id="09">
+      <lang code="CHN">
+        <text>
+你的船已装载完毕，可以扬帆出海了！
+
+任何成年维京人都可以操控一艘分配给他的船。
+
+设置好航线，然后就可以欣赏你的维京人把船开往远方的情景了。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Dein Schiff ist nun beladen und es kann in See stechen!
+
+Steuern kann ein Schiff jeder erwachsene Wikinger, dem das Schiff als Fahrzeug zugewiesen ist - er wird dann automatisch Kommandant! Dies geschieht über den Aktionsbutton "FAHRZEUG ZUWEISEN". Wenn du den Button betätigt hast, leuchten die möglichen Fahrzeuge hell auf. Klicke mit der rechten Maustaste auf ein Schiff, um dem Wikinger deine Wahl mitzuteilen. 
+(Du kannst ein Schiff einem Wikinger auch über die Tooltip-Option direkt mit rechtem Mausklick als Fahrzeug zuweisen.)
+
+Steuere das Schiff, wie einen deiner Wikinger, mit den "SENDEN NACH" Befehl an das Ufer der Sarazenen. 
+</text>
+      </lang>
+    </block>
+    <block id="10">
+      <lang code="CHN">
+        <text>你已抵达撒拉
+
+森人的海岸。
+
+如果想在此靠岸，你必
+
+须先取得贸易许可证。</text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Du hast das Ufer der Sarazenen erreicht.
+Willst du mit dem Schiff anlegen, musst du es zuerst ANDOCKEN, denn nur im angedockten Zustand können Wikinger an und von Bord gehen ein Schiff be- und entladen!!! 
+
+Wähle dazu das Schiff aus und drücke die LEERTASTE, mit denen die aktuellen Aktionen des Schiffes angezeigt werden. Wähle den Punkt "Andocken" aus und klicke mit der rechten Maustaste auf eine der aufleuchtenden Stellen am Ufer. 
+Ein angedocktes Schiff erkennst du an den hochgezogenen Segeln.
+
+Ein Schiff hat zwar ein eigenes Lager, ähnlich dem Haupthaus und den Lagerhäusern, allerdings ist ein Schiff ein Transportmittel und kein Haus. Ein Handel direkt vom Schiff herunter ist also nicht möglich, dazu brauchst du eine feste HANDELSTATION, also ein Lagerhaus.
+
+Deine Wikinger waren schon fleißig und haben ein Lagerhaus am Sarazenenufer errichtet.
+Entlade die Waren (indem du das Schiff auswählst, die Leertaste und den Button "Alle Waren ausladen" drückst) und treibe mit den Sarazenen Handel!
+</text>
+      </lang>
+    </block>
+    <block id="11">
+      <lang code="CHN">
+        <text>太棒了！
+
+你也履行了与撒拉森人的贸易协定，
+
+现在可以去跟他们谈更多的交易了。</text>
+      </lang>
+      <lang code="ger">
+        <text> 
+FANTASTISCH!
+
+Du hast auch den Handelsvertrag mit den Sarazenen erfüllt und kannst dich jetzt zurecht als großer Händler bezeichnen.
+
+Auf zum nächsten Tutorial!
+</text>
+      </lang>
+    </block>
+    <block id="12">
+      <lang code="CHN">
+        <text>检查一下你是否已将北方的仓库分配为贸易站 1，
+
+并将南方的一座仓库作为另一个贸易站分配给了商人。</text>
+      </lang>
+      <lang code="ger">
+        <text> 
+
+Überprüfe ob du dem Händler das nördliche Lagerhaus als Handelshaus 1 und ein anderes Lagerhaus als Handelshaus 2 zugewiesen hast.
+
+Weise dem Händler die zwei Lagerhäuser zu!
+</text>
+      </lang>
+    </block>
+    <block id="13">
+      <lang code="CHN">
+        <text>
+让一名商人把铁制工具送到雷米的仓库和施泰尼的仓库，这两样货物可以继续交换。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+
+Lasse einen Händler Eisenwerkzeuge zum Lagerhaus von Lehmi und Steini bringen!
+</text>
+      </lang>
+    </block>
+    <block id="14">
+      <lang code="CHN">
+        <text>
+用法兰克人的家具换取黄金——这是非常划算的交易。你的商人已经与多方建立了广泛的联系。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+
+Handle bei Franken Möbel gegen Gold. 
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+贸易与航海——通过贸易获取外商的新商品
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+HANDEL UND SCHIFFFAHRT
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

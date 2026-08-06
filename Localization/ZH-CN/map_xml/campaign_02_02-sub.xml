@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_02_02-sub" export_map_id="campaign_02_02-sub" map_md5="966ee8d112e9f12e60f1e0b90f4c3bef" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">@与诸英雄一同抵达瓶中精灵！</text>
+      <text lang="ger">@Erreiche mit den Helden gemeinsam den Flaschengeist!</text>
+    </string>
+    <string id="50">
+      <text lang="CHN">比雅尼的部族</text>
+      <text lang="ger">Bjarnis Stamm</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">蛇战士</text>
+      <text lang="ger">Schlangenkrieger</text>
+    </string>
+    <string id="71">
+      <text lang="CHN">比雅尼</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="CHN">希拉</text>
+      <text lang="ger">Cyra</text>
+    </string>
+    <string id="73">
+      <text lang="CHN">哈奇</text>
+      <text lang="ger">Hatschi</text>
+    </string>
+    <string id="75">
+      <text lang="CHN">伊科尔</text>
+      <text lang="ger">Ykol</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">三个愿望 - 大饥荒 - 支线</text>
+      <text lang="ger">DREI WÜNSCHE - Die Große Hungersnot - Sub</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="CHN">
+        <text>
+“我们的勇敢、力量与全部勇气，在对付蛇灾时都帮不上什么忙，因为这灾祸源于黑暗的魔法技艺。可以说，源于神域……”伊科尔解释道。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+"Unsere Tapferkeit, unsere Stärke und all unser Mut können uns bei der Bekämpfung der Schlangenplage nicht viel weiterhelfen, denn die Plage hat ihre Ursache in dunkler, magischer Kunst. Im Göttlichen, sozusagen..." erklärte Ykol. 
+</text>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="CHN">
+        <text>
+“这地穴自太初之时便住着一尊神灵，他能化不可能为可能。唯有他足够强大，拥有所需的法力。
+
+但请想想：抵达他面前绝非易事。重重门扉挡住了去路……”
+
+打开门扉，找到神灵！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+"In diesem Gewölbe lebt seit Urzeiten ein Geist, der das Unmögliche möglich macht. Er allein ist mächtig genug und verfügt über die notwendige Zauberkraft. 
+
+Doch bedenkt: es ist wohl schwierig, zu ihm zu gelangen. Viele Tore versperren den Weg..."
+
+Öffne die Tore und finde den Geist!
+</text>
+      </lang>
+    </block>
+    <block id="01_schlangenwesen">
+      <lang code="CHN">
+        <text>
+蛇形生物
+
+竟还有这出！这些蠢货孽畜连地下也蔓延到了！
+不过看来它们并不怎么聪明。机关门让它们吃尽苦头，常常被关在这些地穴里数周之久！
+
+用机关门对付蛇形生物！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+SCHLANGENWESEN
+
+Auch das noch! Die blöden Biester hatten sich auch unter der Erde ausgebreitet! 
+Wie sich herausstellte, schienen sie aber nicht besonders klug zu sein. Denn die Türmechanismen machten ihnen schwer zu schaffen und so blieben sie oftmals über Wochen in diesen Gewölben eingesperrt!  
+
+Benutze die Türmechanismen gegen die Schlangenwesen!
+</text>
+      </lang>
+    </block>
+    <block id="02_tor">
+      <lang code="CHN">
+        <text>
+第一道门
+
+伴随着巨大的吱嘎声，不远处一扇木门缓缓开启。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DAS ERSTE TOR  
+
+Mit einem gewaltigen Knarren öffnete sich ein hölzernes Tor nicht fern von hier. 
+</text>
+      </lang>
+    </block>
+    <block id="03_tor">
+      <lang code="CHN">
+        <text>
+第二道门
+
+伴随着巨大的吱嘎声，不远处一扇木门缓缓开启。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DAS ZWEITE TOR 
+ 
+Mit einem gewaltigen Knarren öffnete sich ein hölzernes Tor nicht fern von hier. 
+</text>
+      </lang>
+    </block>
+    <block id="04_tor">
+      <lang code="CHN">
+        <text>
+第三道门
+
+伴随着巨大的吱嘎声，不远处一扇木门缓缓开启。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DAS DRITTE TOR  
+
+Mit einem gewaltigen Knarren öffnete sich ein hölzernes Tor nicht fern von hier.
+</text>
+      </lang>
+    </block>
+    <block id="05_genie">
+      <lang code="CHN">
+        <text>
+神灵
+
+我们找到了伊科尔所说、并被他寄予厚望的那尊神灵。
+
+他对我们开口道：
+
+“我只为那些愿意接受我谜题考验的人实现一个愿望！
+
+怎样？！
+
+……
+
+这些房间里共有三个开关。
+
+好好记住开关的记号，因为我只向你们展示一次！”
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+GEIST
+
+Wir hatten den Geist gefunden, von dem Ykol gesprochen hatte und von dem er sich soviel Gutes erhoffte.
+
+Er sprach uns an:
+ 
+"Nur denjenigen erfülle ich einen Wunsch, die bereit sind, sich meinem Rätsel zu stellen! 
+
+Also?!
+
+...
+
+In diesen Räumen hier befinden sich drei Schalter.
+
+Merke dir die Symbole der Schalter gut, denn ich zeige sie euch nur ein einziges Mal!" 
+</text>
+      </lang>
+    </block>
+    <block id="06_erklärung1">
+      <lang code="CHN">
+        <text>
+
+“你们看，这是开关 A”
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+"Hier seht ihr Schalter A"
+</text>
+      </lang>
+    </block>
+    <block id="07_erklärung2">
+      <lang code="CHN">
+        <text>
+
+“你们看，这是开关 B”
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+"Hier seht ihr Schalter B"
+</text>
+      </lang>
+    </block>
+    <block id="08_erklärung3">
+      <lang code="CHN">
+        <text>
+
+“而这，是开关 C”
+
+我的每个谜题都有 3 个可能的答案。但当心！其中只有一个正确。你们须将它找出来！
+
+按下对应的开关来回答我！
+
+你们准备好猜谜了吗？那就走近一步！”
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+"Und das ist Schalter C" 
+
+Auf jedes meiner Rätsel gibt es 3 mögliche Antworten. Aber Vorsicht! Nur eine davon ist die Richtige. Diese müsst ihr finden!
+
+Antwortet mir, indem ihr den entsprechenden Schalter betätigt!  
+
+Seid ihr bereit für dieses Rätsel? Dann tretet einen Schritt näher!"   
+</text>
+      </lang>
+    </block>
+    <block id="09_schalterbesetzt">
+      <lang code="CHN">
+        <text>
+
+你们必须从开关上下来，否则神灵不会开口！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Du musst von den Schaltern herunter gehen, sonst schweigt der Geist!
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+是英勇，还是鲁莽？比雅尼死时，诸神也为之落泪……少了这位英雄，你便无从知晓任务的结局。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="10_falsch">
+      <lang code="CHN">
+        <text>
+噗！
+
+答错了！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+MÖP!
+
+Falsche Antwort!
+</text>
+      </lang>
+    </block>
+    <block id="11_wunsch1">
+      <lang code="CHN">
+        <text>
+神灵
+
+“好吧，你们破解了谜题，我便遵从你们的愿望。我愿实现三个愿望。那么，你们的第一个愿望是什么？”
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+GEIST 
+
+"Nun, ihr habt das Rätsel bestanden und so füge ich mich euren Wünschen. Drei an der Zahl will ich euch erfüllen. Wohlan, was ist eurer erster Wunsch?" 
+</text>
+      </lang>
+    </block>
+    <block id="11_wunsch1a">
+      <lang code="CHN">
+        <text>
+我们大感错愕——只需说出一个愿望，任务便算完成。但尽管如此，我们仍坦然要求：
+
+“这片土地上的人民正受恶蛇威胁。尽管拼死抵抗，也只能将他们击退，却从未真正消灭。
+
+请消除蛇灾，让人们重归安宁生活！”
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Wir waren so perplex, dass unsere Mission einfach durch die Aussprache eines Wunsches erfüllt werden sollte. Aber trotzdem forderten wir frei heraus: 
+
+"Die Menschen in diesem Land werden von üblen Schlangenwesen bedroht. Trotz erbittertem Widerstand konnten sie nur zurückgedrängt, aber nie besiegt werden. 
+
+Bekämpfe die Schlangenplage, so dass die Menschen wieder in Frieden leben können!" 
+</text>
+      </lang>
+    </block>
+    <block id="12_wunsch2">
+      <lang code="CHN">
+        <text>
+噗嗤 嘶 砰！！！！
+……愿望就此实现……
+
+整场蛇灾瞬间被消灭！那些沦为蛇族牺牲品、却尚存一息的人，从施暴者的尸骸中站了起来！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+PFLOPF ZISCH PENG !!!!        
+... und der Wunsch ward erfüllt...
+ 
+Die ganze SCHLANGENPLAGE war mit einem Schlag vernichtet! Die Menschen, die ihnen zum Opfer gefallen waren, aber noch lebten, erhoben sich aus den sterblichen Überresten ihrer Peiniger!
+</text>
+      </lang>
+    </block>
+    <block id="12_wunsch2a">
+      <lang code="CHN">
+        <text>
+“这便是你们的第一个愿望。”神灵说道。“我还愿实现两个。
+
+那么，你们的第二个愿望是什么？”
+
+我们念及百姓：蛇灾虽已平息，但村庄与田地尽毁，人们还将长期忍饥挨饿……
+
+“神灵，若你有力为之，请终结这场饥荒！”
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+"Nun, dies war eurer erster Wunsch" sprach der Geist. "Zwei will ich euch noch erfüllen. 
+
+Wohlan, was ist eurer zweiter Wunsch?" 
+
+Wir sannen über die Menschen nach: Zwar war die Schlangenplage nun gebannt, aber die Menschen würden noch lange Zeit Hunger leiden müssen, denn ihre Dörfer und Äcker waren verwüstet... 
+
+"Geist, wenn es in deiner Macht steht, dann beende die Hungersnot!" 
+</text>
+      </lang>
+    </block>
+    <block id="13_wunsch3">
+      <lang code="CHN">
+        <text>
+噗嗤 嘶 砰！！！！
+……愿望就此实现……
+
+饥荒被驱散，人们获得了丰盛的食物。他们长久的苦痛，终告结束……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+PFLOPF ZISCH PENG !!!!        
+... und der Wunsch ward erfüllt...
+ 
+Die HUNGERSNOT ward gebannt und die Leute erhielten Nahrung im Überfluss. Ihre langen Qualen hatten ein Ende...
+</text>
+      </lang>
+    </block>
+    <block id="13_wunsch3a">
+      <lang code="CHN">
+        <text>
+“你们真是无私，我的谜题之友！”神灵赞许道。“那么，我还可实现你们最后一个愿望。你们的第三个愿望是什么？”
+
+我们思忖着第三个愿望，却似乎无人心中悬着什么要紧心愿。这时伊科尔冲上前，向神灯精灵求道：
+
+“请将‘奥丁之心’赠予比雅尼献给希拉——那是一件蕴含魔力的护符！正配得上一位拜占庭公主！”
+
+神灵虽不甚通晓北欧神话，却愿意看看自己能做什么…… ;0)
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+"Ihr seid sehr selbstlos, meine Rätselfreunde!" sprach der Geist anerkennend. "Nun, noch einen letzten Wunsch werde ich euch erfüllen. Wohlan, was ist eurer dritter Wunsch?" 
+
+Wir sannen über unseren dritten Wunsch nach, aber niemanden schien ein bedeutender Wunsch auf dem Herzen zu liegen. Da stürzte Ykol nach vorn und forderte vom Flaschengeist:
+
+"Gib Bjarni für Cyra das ‚Herz des Odins', ein Amulett mit magischen Fähigkeiten! Gerade würdig genug für eine Byzantinerprinzessin!" 
+
+Der Geist schien zwar nicht so sehr in der Nordischen Mythologie bewandert zu sein, aber er wollte schauen, was er tun kann... ;0)   
+</text>
+      </lang>
+    </block>
+    <block id="14">
+      <lang code="CHN">
+        <text>
+问题 1
+
+“阿拉丁有几个强盗？”
+
+A) 40
+B) 712
+C) 一个也没有！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+FRAGE 1 
+
+"Wieviele Räuber hatte Aladin?" 
+
+A) 40  
+B) 712
+C) gar keine!  
+</text>
+      </lang>
+    </block>
+    <block id="15">
+      <lang code="CHN">
+        <text>
+问题 2
+
+“沙漠之舟是哪种动物？”
+
+A) 雪兔
+B) 骆驼
+C) 腔棘鱼
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+FRAGE 2 
+
+"Was ist das Tier der Wüste?" 
+
+A) Schneehase
+B) Kamel 
+C) Quastenflosser
+</text>
+      </lang>
+    </block>
+    <block id="16">
+      <lang code="CHN">
+        <text>
+问题 3
+
+“沙漠中的海市蜃楼称作什么？”
+
+A) 海市蜃楼
+B) 爸爸蜃楼
+C) 北极光
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+FRAGE 3  
+
+"Wie nennt man eine Luftspiegelung in der Wüste?" 
+
+A) Fata Morgana  
+B) Papa Morgana
+C) Nordlichter
+</text>
+      </lang>
+    </block>
+    <block id="17">
+      <lang code="CHN">
+        <text>
+
+答对了！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+
+RICHTIG!
+</text>
+      </lang>
+    </block>
+    <block id="200">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命中片刻的鲁莽，转瞬即至！你的女英雄希拉因你的疏忽而殒命！少了这位女英雄，你便无从知晓任务的结局。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin Cyra erlag durch deine Unachtsamkeit! Ohne diese Heldin wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="300">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命中片刻的鲁莽，转瞬即至！你的朋友与英雄哈奇因你的疏忽而殒命！少了这位英雄，你便无从知晓任务的结局。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Hatschi erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
+</text>
+      </lang>
+    </block>
+    <block id="500">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命中片刻的鲁莽，转瞬即至！伊科尔因你的疏忽而殒命！少了这位英雄，你便无从知晓任务的结局。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Ykol erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="CHN">
+        <text>
+神灯精灵随最后一个愿望消散，却留下一枚熠熠生辉的红色护符。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Der Flaschengeist verschwand mit dem letzten Wunsch, aber er hinterlies ein leuchtend rotes Amulett. 
+</text>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="CHN">
+        <text>
+伊科尔立刻拾起它，交到我手中。我把它戴在希拉身上——据伊科尔说，它蕴含魔力，应能护佑佩戴者……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Sogleich hob es Ykol auf und brachte es mir. Ich legte es Cyra an, denn laut Ykol hatte es magische Fähigkeiten und sollte den Träger beschützten... 
+</text>
+      </lang>
+    </block>
+    <block id="50_endheader">
+      <lang code="CHN">
+        <text>
+
+任务成功！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+
+MISSION GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+
+三个愿望
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+DREI WÜNSCHE
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

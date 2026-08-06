@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_03_03_sub1" export_map_id="campaign_03_03_sub1" map_md5="5f535834e575d513d7c6208c032e1997" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">简短说明 0</text>
+      <text lang="ger">Shortdescription 0</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">简短说明 1</text>
+      <text lang="ger">Shortdescription 1</text>
+    </string>
+    <string id="50">
+      <text lang="CHN">玩家</text>
+      <text lang="ger">Spieler</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">德米特里奥斯</text>
+      <text lang="ger">Demetrios</text>
+    </string>
+    <string id="60">
+      <text lang="CHN">玩家</text>
+      <text lang="ger">Spieler</text>
+    </string>
+    <string id="61">
+      <text lang="CHN">德梅</text>
+      <text lang="ger">Demet</text>
+    </string>
+    <string id="71">
+      <text lang="CHN">比雅尼</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+    <string id="78">
+      <text lang="CHN">古纳尔</text>
+      <text lang="ger">Gunnar</text>
+    </string>
+    <string id="98">
+      <text lang="CHN">巨像密道</text>
+      <text lang="ger">KOLOSS-GEHEIMGANG</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">巨像密道</text>
+      <text lang="ger">KOLOSS-GEHEIMGANG</text>
+    </string>
+    <string id="100">
+      <text lang="CHN">将满载蜂蜜酒的推车运至隧道出口。已完全装满！</text>
+      <text lang="ger">Bring den Karren mit dem Met heil zum Ausgang des Tunnels. Komplett gefüllt!</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="CHN">
+        <text>
+把这车蜜酒安全送到出口。士兵们负责护送，抵御隧道中可能出现的敌人。
+        </text>
+        <text>
+记住：到达出口时，车必须是满的！
+所以别偷喝蜜酒！那不是给你的！
+
+祝你好运！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Bring den Karren voll Met heil zum Ausgang. Die Soldaten dienen als Eskorte gegen mögliche Feinde in den Gängen.
+
+</text>
+        <usericon>1,91,129</usericon>
+        <text>
+
+Und denk dran: Wenn du am Ausgang ankommst, muss der Karren VOLL sein! 
+Lass also die Finger vom Met! Der ist nicht für dich bestimmt!
+
+Viel Glück!
+</text>
+      </lang>
+    </block>
+    <block id="09_end_header">
+      <lang code="CHN">
+        <text>
+
+
+干得漂亮！
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+GUT GEMACHT! 
+</text>
+      </lang>
+    </block>
+    <block id="09_end_text1">
+      <lang code="CHN">
+        <text>
+
+
+你将那辆载有 10 瓶蜜酒的手推车安然送过密道。
+
+在外等候，直至梅特罗斯前来与你接头。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Du hast den Karren mit den 10 Flaschen Met heil durch den unterirdischen Gang gebracht! Sehr gut.
+
+Warte draußen, bis Metros zu dir kommt.
+</text>
+      </lang>
+    </block>
+    <block id="10">
+      <lang code="CHN">
+        <text>
+
+
+治愈之雾
+
+这些奇异的雾气显然有疗愈之效。
+
+只需在其间驻足片刻，伤势便迅速痊愈。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+HEILENDE NEBEL
+
+Diese seltsamen Nebel hatten offensichtlich eine heilende Wirkung!
+
+Man musste sich nur wenige Sekunden darin aufhalten, schon wurden alle Wunden geheilt!
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+是英勇还是鲁莽？当比雅尼倒下时，众神为之落泪……失去这位英雄，你将无缘见到任务的结局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="110">
+      <lang code="CHN">
+        <text>
+
+
+任务受挫
+
+载蜜酒的车被毁了！你的任务宣告失败。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+MISSION GESCHEITERT
+
+Der Wagen mit dem Met wurde zerstört! Dein Auftrag ist gescheitert!
+</text>
+      </lang>
+    </block>
+    <block id="120">
+      <lang code="CHN">
+        <text>
+
+
+增援
+
+佩特罗斯又派来几名部下作为增援。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+VERSTÄRKUNG
+
+Petros schickt dir noch ein paar Männer als Verstärkung. 
+Mehr Hilfe kann er dir allerdings nicht mehr anbieten...
+</text>
+      </lang>
+    </block>
+    <block id="200">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+一时的疏忽，人生便会急转直下！你的女英雄希拉因你的大意而丧命！失去这位英雄，你将无缘见到任务的结局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="300">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+一时的疏忽，人生便会急转直下！你的挚友与英雄哈奇因你的大意而丧命！失去这位英雄，你将无缘见到任务的结局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held HATSCHI erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
+</text>
+      </lang>
+    </block>
+    <block id="400">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+一时的疏忽，人生便会急转直下！你的挚友与英雄西格德因你的大意而丧命！失去这位英雄，你将无缘见到任务的结局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held SIGURD erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="500">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+尽管已有人警告于你，你竟攻击了自己最好的朋友！
+
+如此你将无法完成使命！
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Obwohl man dich gewarnt hatte, hast du deine besten Freunde angegriffen! 
+
+So wirst du deine Mission nicht beenden können!
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+
+
+密道
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DER GEHEIMGANG
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

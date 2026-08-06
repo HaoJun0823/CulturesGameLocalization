@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="_campaign_04_04" export_map_id="_campaign_04_04" map_md5="86d876ddf06bb9e6fd71bdeeb0feed18" IsC2M="false">
+  <languages>
+    <language code="GER" alias="GER" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="GER">@BEFREIE DIE ERDDRACHEN!</text>
+    </string>
+    <string id="1">
+      <text lang="GER">Baue eine kleine Siedlung auf.</text>
+    </string>
+    <string id="2">
+      <text lang="GER">Optional: Reiche dem Hirtenvolk die Schuhe zum Tribut und sie offerieren ihre Handelsangebote.</text>
+    </string>
+    <string id="3">
+      <text lang="GER">Optional: Errichte 3 Wachtürme in den Hirtensiedlungen zu deren Unterstützung.</text>
+    </string>
+    <string id="4">
+      <text lang="GER">Zahle den geforderten Tribut an Babul für eine neutrale Haltung.</text>
+    </string>
+    <string id="5">
+      <text lang="GER">Liefere 80 Holz und 40 Lehm zu den Zauberdrachen in den Obeliskenkreis!</text>
+    </string>
+    <string id="6">
+      <text lang="GER">Optional: Zahle den Hirten für tapfere Soldaten 5 Eisen Tribut.</text>
+    </string>
+    <string id="7">
+      <text lang="GER">Optional: Befreie die Wasserdrachen.</text>
+    </string>
+    <string id="8">
+      <text lang="GER">Optional: Gehe mit deinen Helden in den Wassertempel.</text>
+    </string>
+    <string id="9">
+      <text lang="GER">Optional: Bringe die Drachen zurück in den Wassertempel.</text>
+    </string>
+    <string id="10">
+      <text lang="GER">Gehe in die unterirdischen Kerker und befreie die anderen Drachen!</text>
+    </string>
+    <string id="11">
+      <text lang="GER">Reiche den Zauberdrachen Kräuter für eine friedliche Lösung.</text>
+    </string>
+    <string id="12">
+      <text lang="GER">Optional: Zahle den Tribut für weitere Söldner.</text>
+    </string>
+    <string id="13">
+      <text lang="GER">Zahle den geforderten Tribut an Babul für die Freilassung der Wasserdachen.</text>
+    </string>
+    <string id="20">
+      <text lang="GER">Wachtürme %d/3</text>
+    </string>
+    <string id="21">
+      <text lang="GER">Holz %d/80</text>
+    </string>
+    <string id="23">
+      <text lang="GER">Lehm %d/40</text>
+    </string>
+    <string id="25">
+      <text lang="GER">Wachtürme errichtet</text>
+    </string>
+    <string id="26">
+      <text lang="GER">Waren geliefert</text>
+    </string>
+    <string id="32">
+      <text lang="GER">Optional: Reiche den Hirtenvolk die Schuhe zum Tribut.</text>
+    </string>
+    <string id="51">
+      <text lang="GER">Hirtenvolk</text>
+    </string>
+    <string id="52">
+      <text lang="GER">Babul</text>
+    </string>
+    <string id="53">
+      <text lang="GER">Napalianer</text>
+    </string>
+    <string id="54">
+      <text lang="GER">Zauberdrachen</text>
+    </string>
+    <string id="55">
+      <text lang="GER">Erdrachen</text>
+    </string>
+    <string id="56">
+      <text lang="GER">Wasserdrachen</text>
+    </string>
+    <string id="61">
+      <text lang="GER">Hirt.</text>
+    </string>
+    <string id="62">
+      <text lang="GER">Babul</text>
+    </string>
+    <string id="63">
+      <text lang="GER">Napal.</text>
+    </string>
+    <string id="64">
+      <text lang="GER">Abras</text>
+    </string>
+    <string id="65">
+      <text lang="GER">Terras</text>
+    </string>
+    <string id="66">
+      <text lang="GER">Aquas</text>
+    </string>
+    <string id="71">
+      <text lang="GER">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="GER">Cyra</text>
+    </string>
+    <string id="75">
+      <text lang="GER">Mani</text>
+    </string>
+    <string id="76">
+      <text lang="GER">Norbert</text>
+    </string>
+    <string id="77">
+      <text lang="GER">SPRUDEL</text>
+    </string>
+    <string id="78">
+      <text lang="GER">NIXE</text>
+    </string>
+    <string id="79">
+      <text lang="GER">WELLE</text>
+    </string>
+    <string id="98">
+      <text lang="GER">In der Nähe eines alten Flussbettes errichteten wir ein kleines Lager. Von hier aus würden wir unsere Expedition zur Befreiung der Erddrachen leiten können.</text>
+    </string>
+    <string id="99">
+      <text lang="GER">BEFREIUNG DER ERDDRACHEN</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="GER">
+        <text> 
+Wir schlugen unser Lager entlang des Flusses auf. Dieser Landeplatz würde eine gute Basis abgeben, von hier aus konnten wir uns auf die Suche nach den Erddrachen begeben.
+</text>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="GER">
+        <text>
+Unweit von hier mussten Kämpfe stattfinden, denn wir hörten in den lauen Nächten Geräusche, die uns den Schlaf raubten. Wir mussten den Ursachen dieser Auseinandersetzungen auf den Grund gehen. Vielleicht waren ja auch Drachen in diese verwickelt?
+
+Baue dein Dorf auf und suche nach den Erddrachen.
+</text>
+      </lang>
+    </block>
+    <block id="01">
+      <lang code="GER">
+        <text> 
+HIRTEN
+
+"Den Drachen ist eher zu trauen, als den Menschen! Wir leben in kleinen Dörfen schon Jahrhunderte in diesem Land und nun machen uns die anderen das Leben schwer!" beschwerten sich diese armen Hirten.
+
+</text>
+        <usericon>1,380,19</usericon>
+        <text>
+
+Sie erzählten uns von ihrer früheren Gemeinschaft mit den Drachen und wie Menschen kamen, diese einfingen und verschleppten, um sie als Zirkusattraktionen und Zootiere in ihrem Land zur Schau zu stellen.
+
+Sie selbst waren uns weder Freund noch Feind, so mussten wir ihr Vertrauen gewinnen. 
+
+Sie bemerkten unsere guten Schuharbeiten, auch wenn diese schon sehr ausgetreten und abgenutzt waren. Sie wollten gerne ein paar Exemplare davon für sich haben! 
+
+Reiche den Hirten ein paar Schuhe und sie werden dir ihre Handelsangebote offerieren! 
+</text>
+      </lang>
+    </block>
+    <block id="02">
+      <lang code="GER">
+        <text> 
+SCHUHE GELIEFERT!
+
+Wir hatten den Hirten die Schuhe zum Tribut überreicht. Sie wechselten ihre Haltung uns gegenüber augenblicklich. Ihre Freude über die Schuhe war sogar so groß, dass sie uns überaus günstige Handelsangebote anboten. 
+
+</text>
+        <usericon>1,395,25</usericon>
+        <text>
+
+Auch erzählten sie uns von der wohl mächtigsten Drachenart: den ZAUBERDRACHEN. Wenn uns jemand bei unserer Mission unterstützen konnte, dann sicherlich dieser Stamm.
+</text>
+      </lang>
+    </block>
+    <block id="03">
+      <lang code="GER">
+        <text> 
+SÖLDNER vom HIRTENVOLK
+
+"Ihr scheint sehr tapfer zu sein! Wir werden euch unterstützen! Zwar sind wir ein einfaches Volk, aber im Kampf mit euch haben wir eine Chance!" sprachen die Hirten.
+
+</text>
+        <usericon>1,248,119</usericon>
+        <text>
+
+"Baut ihr 3 Wachtürme in der fast zerstörten Siedlung südlich von Babul, dann werden wir euch noch mehr unterstützen!"
+
+Beachte: Um Gebäude zu setzen, müssen sich deine Wikinger in der Nähe aufhalten!
+</text>
+      </lang>
+    </block>
+    <block id="04">
+      <lang code="GER">
+        <text> 
+WACHTÜRME ERRICHTET!
+
+Wir hatten dem Hirtenvolk eine Verteidigung aufgebaut, die hoffentlich allen Übergriffen von Babul standhalten würde. Sie zeigten sich überaus dankbar und unterstützten uns mit weiteren Soldaten. 
+
+</text>
+        <usericon>1,201,261</usericon>
+      </lang>
+    </block>
+    <block id="05">
+      <lang code="GER">
+        <text> 
+WEITERE SOLDATEN VON HIRTEN!
+
+Für diesenn Tribut erhielten wir von den Hirten weitere Soldaten. Kaum zu glauben, wieviele Söldner dieses kleine Völkchen mobilisieren konnte...
+
+</text>
+        <usericon>1,201,261</usericon>
+      </lang>
+    </block>
+    <block id="06">
+      <lang code="GER">
+        <text> 
+ZAUBERDRACHEN
+
+"Ihr meint es nicht böse mit uns... Wir Zauberdrachen haben ein feines Gespür für schlechte Menschen. Vielleicht könnt ihr den Drachen ja beistehen?"
+
+</text>
+        <usericon>1,321,394</usericon>
+        <text>
+
+"Stellt euer Können unter Beweis, indem ihr uns folgende Waren in den Obeliskenkreis westlich von hier liefert und die Unterstützung von uns Zauberdrachen ist euch sicher."
+
+Liefere den Drachen 80 Holz und 40 Lehm.
+</text>
+      </lang>
+    </block>
+    <block id="07">
+      <lang code="GER">
+        <text> 
+WAREN AN ZAUBERDRACHEN GELIEFERT!
+
+Wir hatten die Waren den Zauberdrachen geliefert. Sie verwandelten die Stelle des Obeliskenkreises in eine Stelle voller Magie an der unsere Lebensenergie geheilt wurde und öffneten weitere Portale in die Regionen der Napalianer.
+
+</text>
+        <usericon>1,262,416</usericon>
+        <text>
+
+Sie sprachen von einen Unsichtbarkeitstrank, den sie uns brauen könnten, um jeder Konfliktsituation mit den Napalianern aus dem Weg zu gehen. Wenn wir ihnen die nötigen Kräuter liefern, würden sie ihr Bestes dazu tun. 
+
+Reiche den Zauberdrachen Kräuter für eine friedliche Lösung.
+</text>
+      </lang>
+    </block>
+    <block id="08">
+      <lang code="GER">
+        <text> 
+UNSICHTBARKEITSTRANK
+
+Die Zauberdrachen überreichten den Trank an uns Helden. Und wie von Zauberhand wurden wir unsichtbar - nur unsere eigenen Leute konnten unsere Umrisse wage erkennen. 
+
+</text>
+        <usericon>2,1</usericon>
+        <text>
+
+Da der Trank nicht lange anhalten würde, leiteten uns die Zauberdrachen auf kürzestem Weg zu den unterirdischen Kerkern. Wie ferngesteuert liefen wir durch das Lager der Napalianer... 
+</text>
+      </lang>
+    </block>
+    <block id="09">
+      <lang code="GER">
+        <text> 
+WASSERDRACHEN
+
+</text>
+        <usericon>1,115,29</usericon>
+        <text>
+
+"Diese elenden Menschen! Sie haben unsere Brüder gefangen und halten sie nun in engen Käfigen. Von uns sind noch genug da, aber den Erddrachen ergeht es wirklich schlecht, sie sind nahezu ausgerottet!" klagten die Wasserdrachen. 
+
+Befreie die Wasserdrachen und die Erddrachen. 
+</text>
+      </lang>
+    </block>
+    <block id="10">
+      <lang code="GER">
+        <text> 
+WASSERDRACHEN
+
+"Ihr habt sie uns unversehrt wiedergebracht!" freuten sich die Wasserdrachen, als wir mit den anderen Drachen zurück zum Tempel kamen. 
+ 
+</text>
+        <usericon>1,123,14</usericon>
+        <text>
+ 
+Gehe mit deinen Helden und den Drachen zum Tempel!
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="11">
+      <lang code="GER">
+        <text> 
+WASSERDRACHEN BEFREIT!
+
+"Endlich sind wir aus den Fängen dieser grausamen Menschen befreit worden. Kaum vorstellbar was sonst mit uns geschehen wäre. Die Drachen die sie abtransportiert hatten, haben wir niemals wieder gesehen!"
+
+</text>
+        <usericon>2,9</usericon>
+        <text>
+
+"Ab und zu bekamen wir hier auch die seltenen Erddrachen zu Gesicht. Was aus denen wohl geworden ist?"
+
+Befreie die anderen Drachen!
+</text>
+      </lang>
+    </block>
+    <block id="12">
+      <lang code="GER">
+        <text> 
+NAPALINER
+
+"Hey, ihr da! Niemand ist hier willkommen! Wir eröffnen sofort das Feuer, wagt ihr euch einen Schritt weiter!"
+</text>
+      </lang>
+    </block>
+    <block id="13">
+      <lang code="GER">
+        <text> 
+BABUL
+
+"Hey, ihr da! Ihr seid nicht willkommen in unserer Stadt! Zahlt uns einen Tribut und wir werden euch nichts tun! Aber seid nicht zu neugierig! Schon vielen Schnüfflernasen ist es nicht gut ergangen in unserer Stadt!"
+
+</text>
+        <usericon>1,106,243</usericon>
+      </lang>
+    </block>
+    <block id="14">
+      <lang code="GER">
+        <text> 
+TRIBUT AN BABUL ÜBERREICHT!
+
+</text>
+        <usericon>1,86,196</usericon>
+        <text>
+
+Wir hatten BABUL den enormen Tribut bezahlt und so gaben sie die Wasserdachen widerwillig frei. Sie meinten, die Wasserdrachen seien eh solch leichte Opfer, das sie sie auch jederzeit wieder überfallen und plündern könnten...
+</text>
+      </lang>
+    </block>
+    <block id="15">
+      <lang code="GER">
+        <text> 
+EINGANG ZU DEN UNTERIRDISCHEN KERKER
+
+Du hast keine Erlaubnis, in die KERKER vorzudringen. Geh und hilf dem Hirtenvolk und den Wasserdrachen. Kehre dann mit deinen Helden hierher zurück, und der Zugang sei dir gewährt!
+
+</text>
+        <usericon>1,39,473</usericon>
+      </lang>
+    </block>
+    <block id="16">
+      <lang code="GER">
+        <text> 
+TRIBUT AN BABUL ÜBERREICHT!
+
+"Fürs Erste stehen wir neutral zu euch, aber steckt eure Nasen nicht in Dinge, die euch nichts angehen!"
+
+</text>
+        <usericon>1,86,196</usericon>
+      </lang>
+    </block>
+    <block id="17">
+      <lang code="GER">
+        <text> 
+NAPALIANER BESIEGT!
+</text>
+      </lang>
+    </block>
+    <block id="18">
+      <lang code="GER">
+        <text> 
+MAGISCHE FELDER
+
+</text>
+        <usericon>1,238,79</usericon>
+        <text>
+
+Wir stießen auf Teleporter. Leider mussten die Ausgänge blockiert sein und so waren sie uns leider zu nichts nutze.
+</text>
+      </lang>
+    </block>
+    <block id="19">
+      <lang code="GER">
+        <text> 
+BABUL WIEDER FEINDLICH!
+
+"Ihr habt eure Nasen in Dinge gesteckt die euch nichts angehen! Zahlt den Tribut und wir geben euch was ihr haben wollt."
+
+</text>
+        <usericon>1,106,243</usericon>
+      </lang>
+    </block>
+    <block id="20">
+      <lang code="GER">
+        <text> 
+50 MÜNZEN
+
+</text>
+        <usericon>1,186,38</usericon>
+        <text>
+
+In dieser magischen Kiste befanden sich 50 Goldmünzen, die automatisch in unser Hauptquartier gelangten!
+</text>
+      </lang>
+    </block>
+    <block id="200">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="21">
+      <lang code="GER">
+        <text> 
+WASSERDRACHEN GESTORBEN!
+
+Oh je, die WASSERDACHEN sind gestorben. Ohne sie wird dir das Ende der Mission verborgen bleiben!
+</text>
+      </lang>
+    </block>
+    <block id="22">
+      <lang code="GER">
+        <text> 
+BABUL BESIEGT!
+
+Wir hatten BABUL siegreich geschlagen! Nie wieder würden sie dem Hirtenvolk einen Schaden zufügen. 
+</text>
+      </lang>
+    </block>
+    <block id="23">
+      <lang code="GER">
+        <text> 
+KATAPULTE GEFUNDEN
+
+</text>
+        <usericon>1,42,295</usericon>
+        <text>
+
+Wer hatte diese Katapulte hier wohl stehen lassen? Uns konnten sie jedenfalls gute Dienste erweisen!
+</text>
+      </lang>
+    </block>
+    <block id="24">
+      <lang code="GER">
+        <text> 
+EIGENES LAGER ERRICHTET!
+
+Der unverwechselbare Duft von warmem knusprigem Brot würde bald unsere Nasen verwöhnen, denn mit der Bäckerei hatten wir eine stabile Nahrungsgrundlage für unser Lager geschaffen.
+</text>
+      </lang>
+    </block>
+    <block id="25">
+      <lang code="GER">
+        <text> 
+FRIEDHOF
+
+"Unglaublich, was wir inmitten der Wüste vor uns sahen. Dies mußte ein Friedhof sein, aber kein gewöhnlicher, das konnten wir an den übergroßen Grabsteinen erkennen. 
+
+</text>
+        <usericon>1,257,298</usericon>
+      </lang>
+    </block>
+    <block id="26">
+      <lang code="GER">
+        <text> 
+ALLE WASSERDRACHEN BEFREIT!
+
+Nun hatten wir endlich alle Wasserdrachen in Babul befreit.
+
+</text>
+        <usericon>2,9</usericon>
+        <text>
+
+Alle erzählten uns von den seltenen Erddrachen. Die niemand mehr gesehen hatte. Man munkelte von unterirdischen Kerkern, in denen sie festgehalten wurden."
+
+Geleite die Wasserdrachen zum Wassertempel!
+</text>
+      </lang>
+    </block>
+    <block id="27">
+      <lang code="GER">
+        <text> 
+TELEPORTER AKTIVIERT!
+
+Zum Dank für die Befreiung der Wasserdrachen aktivierten die Wasserdrachen die Teleporter in der Wüste. 
+
+</text>
+        <usericon>1,31,335</usericon>
+      </lang>
+    </block>
+    <block id="28">
+      <lang code="GER">
+        <text> 
+ERDDRACHEN!
+
+Endlich hatten wir Erddrachen gefunden!
+
+</text>
+        <usericon>1,125,141</usericon>
+      </lang>
+    </block>
+    <block id="29">
+      <lang code="GER">
+        <text> 
+50 MÜNZEN
+
+</text>
+        <usericon>1,125,142</usericon>
+        <text>
+
+In dieser magischen Kiste befanden sich 50 Goldmünzen, die automatisch in unser Hauptquartier gelangten!
+</text>
+      </lang>
+    </block>
+    <block id="500">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="GER">
+        <text> 
+Aus dem Kerker konnten wir nicht nur Erddrachen, sondern auch einige Zauber- und Wasserdrachen befreien. Aber für Norbert war das Kennenlernen seiner Artgenossen am wichtigsten. Wie viel konnte er von ihnen lernen! 
+  
+</text>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="GER">
+        <text>
+Mani indess war traurig, da nun der Abschied von seinem besten Freund bevor stand. So viele Abenteuer hatten sie gemeinsam tapfer durchgestanden und nun würde er mit den anderen Erddrachen ziehen.
+
+Einige Napalianer wurden gesehen, wie sie in die Richtung unserer Heimat zogen. Würden wir nie mit ihnen in Frieden leben können? Ihre Kultur war so verschieden der unseren...  
+</text>
+      </lang>
+    </block>
+    <block id="50_endheader">
+      <lang code="GER">
+        <text> 
+MISSION GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="600">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="GER">
+        <text> 
+DIE BEFREIUNG DER ERDDRACHEN
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

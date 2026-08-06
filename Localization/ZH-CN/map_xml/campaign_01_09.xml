@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_01_09" export_map_id="campaign_01_09" map_md5="" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="98">
+      <text lang="CHN">众多部族在此聚居，纷争也随之酝酿。而维京人，恰好身处这漩涡的中心。</text>
+      <text lang="eng">Many tribes live here, and there is trouble ahead. The Vikings are right in the middle of it.</text>
+      <text lang="ger">Viele Völker leben hier, und viel Ärger bahnt sich an. Die Wikinger genau mitten drin.</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">巴勒斯坦</text>
+      <text lang="eng">PALESTINE</text>
+      <text lang="ger">PALÄSTINA</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="Karawaneentdeckt">
+      <lang code="CHN">
+        <text>
+漫长艰辛的行军后，我们的斥候力竭筋疲，终寻得商队栖息的绿洲。
+
+商贾热情相迎。他们本乐意携我们同往巴格达，然只要法兰克人与撒拉逊人的战事不停，他们便无法启程。若能停战，他们立即可发。
+
+促成交战各方停战。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+After a long march full of privation, our scouts found the oasis where the caravan was camping. 
+
+The merchants received us graciously. They said they would like to take us to Baghdad, but they wouldn't be able to continue their travels as long as the war between the Franks and Saracens continued. If there were a ceasefire, however, they would soon be able to continue their travels.  
+
+
+Arrange a ceasefire between the warring parties.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Nach einem langen, entbehrungsreichen Marsch, fanden unsere Kundschafter völlig erschöpft und am Ende ihrer Kräfte die Oase, in der die Karawane lagerte. 
+
+Die Kaufleute empfingen uns freundlich. Gerne würden sie uns mit nach Bagdad nehmen, aber sie selbst könnten nicht eher weiter ziehen, solange der Krieg zwischen den Franken und Sarazenen andauerte. Gäbe es einen Waffenstillstand, so würden sie sogleich aufbrechen können.  
+
+
+Erreiche einen Waffenstillstand zwischen den Kriegsparteien.
+</text>
+      </lang>
+    </block>
+    <block id="Karawanefound">
+      <lang code="CHN">
+        <text>
+我们为村庄送去亟需之水，居民感激涕零，奉上厚礼。
+
+静谧时分，一异乡人近前。他名哈伦，似是见多识广之辈。
+
+"我闻你等困顿。既你等如此无私助村，我便告你或许能促成停战之法：将三族首领齐聚中立之地，共议和平。"
+
+寻得三族交战方的一位首领。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+When we brought the required water to the village, the locals were very grateful, and offered us precious gifts. 
+
+During a quiet moment, a stranger approached us. His name was Harun, and he appeared to have travelled far.
+
+"I have heard of your troubles. Since you have helped the villagers, I will tell you how to reach a ceasefire: Unite the leaders of the three peoples for peace talks in a neutral place."
+
+
+Reach one of the leaders of the three warring parties.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Als wir dem Dorf das dringend benötigte Wasser gebracht hatten, dankten uns die Bewohner überschwänglich und boten uns reiche Geschenke an. 
+
+In einer stillen Minute trat ein Fremder an uns heran. Sein Name war Harun und er war scheinbar ein weitgereister Mann. 
+
+"Ich habe von euren Schwierigkeiten gehört. Da ihr den Dorfbewohnern so selbstlos geholfen habt, verrate ich euch, wie ihr vielleicht einen Waffenstillstand erreichen könnt: Bringt die Anführer der drei Völker zu Friedensgesprächen an einem neutralen Ort zusammen."
+
+
+Erreiche einen der Anführer der drei Kriegsparteien.
+</text>
+      </lang>
+    </block>
+    <block id="KarawanenachDorf">
+      <lang code="CHN">
+        <text>
+我们再次抵村，哈伦目光了然地迎上来：
+
+"我闻你等困顿。既你等如此无私助村，我便告你或许能促成停战之法：将三族首领齐聚中立之地，共议和平。"
+
+寻得三族交战方的一位首领。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+When we returned to the village, HARUN received us with a knowing glance.
+
+"I have heard of your troubles. Since you have helped the villagers, I will tell you how to reach a ceasefire: Unite the leaders of the three peoples for peace talks in a neutral place."
+
+
+Reach one of the leaders of the three warring parties.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Als wir erneut zum Dorf kamen, empfing uns HARUN mit wissendem Blick:
+
+"Ich habe von euren Schwierigkeiten gehört. Da ihr den Dorfbewohnern so selbstlos geholfen habt, verrate ich euch, wie ihr vielleicht einen Waffenstillstand erreichen könnt: Bringt die Anführer der drei Völker zu Friedensgesprächen an einem neutralen Ort zusammen."
+
+
+Erreiche einen der Anführer der drei Kriegsparteien.
+</text>
+      </lang>
+    </block>
+    <block id="Karawanenotfound">
+      <lang code="CHN">
+        <text>
+我们为村庄送去亟需之水，居民感激涕零，奉上厚礼。
+
+静谧时分，一异乡人近前。他名哈伦，似是见多识广之辈。若他日需助，我等随时可去寻他……
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+When we brought the required water to the village, the locals were very grateful, and offered us precious gifts. 
+
+During a quiet moment, a stranger approached us. His name was Harun, and he appeared to have travelled far. He told us that we should visit him if ever we required help ...
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Als wir dem Dorf das dringend benötigte Wasser gebracht hatten, dankten uns die Bewohner überschwänglich und boten uns reiche Geschenke an. 
+
+In einer stillen Minute trat ein Fremder an uns heran. Sein Name war Harun und er war scheinbar ein weitgereister Mann. Sollten wir irgendwann Hilfe benötigen, so könnten wir jederzeit zu ihm kommen...
+</text>
+      </lang>
+    </block>
+    <block id="bjarnitot">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+英雄气概，还是鲁莽轻率？当比雅尼倒下，诸神也在恸哭……他们的命运已定，人类的末日随之降临。
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When Bjarni died the gods were crying ... their fate was sealed and with it the end of the human world.
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ihr Ende war besiegelt und mit ihnen das Ende der Welt der Menschen.
+</text>
+      </lang>
+    </block>
+    <block id="byzantiner">
+      <lang code="CHN">
+        <text>
+在北方，我们撞见拜占庭人的前哨。他们正图收复在巴勒斯坦的旧土。
+
+若不愿卷入冲突，我们最好对其敬而远之。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+In the north we came across a Byzantine outpost. From here they were trying to retake their old possessions in Palestine. 
+
+
+If we don't want to be involved in the conflict, we had better get out of their way.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Im Norden stießen wir auf einen Vorposten der Byzantiner. Von hier aus versuchten sie, ihre alten Besitztümer in Palästina zurück zu erobern. 
+
+
+Wenn wir in den Konflikt nicht hineingezogen werden wollten, sollten wir ihnen besser aus dem Weg gehen.
+</text>
+      </lang>
+    </block>
+    <block id="dorf">
+      <lang code="CHN">
+        <text>
+穿行沙漠时，我部遇见一座困顿小村。
+
+"过客行善！数月无雨，井泉枯竭。值此危难，你等岂可漠然径过！
+
+若肯相助，请携水而来！"
+
+向村庄运送 111 单位水。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+On our way through the desert our people came upon a small village which appeared to be in serious trouble.
+
+"Help us, travellers! It hasn't rained for months, and our wells have dried up. Do not ignore our distress!
+
+Please help us, bring us water!"
+
+
+Take 111 water to the village.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Auf unserem Weg durch die Wüste trafen unsere Leute auf ein kleines Dorf, das offensichtlich in großer Not war.
+
+"Helft uns Reisende! Seit Monaten hat es nicht mehr geregnet und unsere Brunnen sind versiegt. In solcher Not könnt ihr nicht achtlos an uns vorüberziehen! 
+
+Wollt ihr uns beistehen, so bringt uns Wasser!" 
+
+
+Bringe 111 Wasser zum Dorf.
+</text>
+      </lang>
+    </block>
+    <block id="dorfnachzeit">
+      <lang code="CHN">
+        <text>
+一日，东北小村的求援者寻至我们面前。
+
+"过客行善！数月无雨，井泉枯竭。值此危难，你等岂可漠然径过！
+
+若肯相助，请携水而来！"
+
+向东北方的村庄运送 111 单位水。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+One day, messengers from a small village in the north-east reached us.
+
+"Help us, travellers, we beg you! It hasn't rained for months, and our wells have dried up. Do not ignore our distress! 
+
+Please help us, bring us water!" 
+
+
+Take 111 water to the village in the north-east.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Eines Tages erschienen Bitsteller eines kleinen Dorfes aus dem Nordosten bei uns.
+
+"Helft uns Reisende! Seit Monaten hat es nicht mehr geregnet und unsere Brunnen sind versiegt. In solcher Not könnt ihr nicht achtlos an uns vorüberziehen! 
+
+Wollt ihr uns beistehen, so bringt uns Wasser!" 
+
+
+Bringe 111 Wasser zum Dorf im Nord-Osten.
+</text>
+      </lang>
+    </block>
+    <block id="end_00">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务成功！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+商队已抵达我们的村庄！
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION SUCCESSFUL!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+The caravan has reached our village! 
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION GEWONNEN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Die Karawane hatte unser Dorf erreicht! 
+</text>
+      </lang>
+    </block>
+    <block id="end_01">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务成功！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+我们终于得以离开这片贫瘠之地，烈日晒烤不息、毫不留情。若可信那灯神之言，在巴格达我们终将寻得最后那块地图碎片……！
+
+仅率少数男女，我们踏上穿越东方险途的漫漫征程——去迎向新的冒险！
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION SUCCESSFUL!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+At last we would be able to leave this bare land under the mercilessly burning sun. In Baghdad, we were to find the last piece of the map ... provided the genie of the lamp had been telling the truth! 
+
+Just a handful of men and women set out on the long and dangerous journey through the Orient - we were heading for our next adventure!
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION GEWONNEN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Endlich konnten wir dieses karge Land verlassen, auf das die Sonne so unermüdlich und gnadenlos hernieder brannte. In Bagdad nun sollten wir endlich das letzte Kartenstück finden... wenn man dem Lampengeist Glauben schenken konnte! 
+
+Nur mit einigen wenigen Männern und Frauen machten wir uns auf die weite, gefahrvolle Reise durch das Morgenland - unserem nächsten Abenteuer entgegen! 
+</text>
+      </lang>
+    </block>
+    <block id="franken">
+      <lang code="CHN">
+        <text>
+号角声起，我们与法兰克人相遇。一支浩大的十字军正旌旗蔽空，备战以夺圣地。
+
+我们最好莫要挡其去路！
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+The blasts of the trumpets greeted us when we met the Franks. A massive army of crusaders was preparing to conquer the Holy Land. 
+
+We had better not get in their way!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Fanfaren ertönten, als wir auf die Franken trafen. Ein gewaltiges Kreuzfahrerheer bereitete sich mit fliegenden Bannern vor, das heilige Land zu erobern. 
+
+Wir sollten ihnen dabei besser nicht in die Quere kommen!
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+巴勒斯坦
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+PALESTINE
+
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+PALÄSTINA
+
+</text>
+      </lang>
+    </block>
+    <block id="info">
+      <lang code="CHN">
+        <text>
+我们付过线人，他便吐露所求之讯。
+
+"东北远方一座绿洲中，有一支商队正启程赴巴格达。然唯一路径穿越沙漠，路遥艰辛，唯你等斥候装备精良方可抵达！"
+
+寻找东北方的商队。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+After we had paid, the informer gave us the desired information.
+
+"In a very distant oasis in the north-east waits a caravan on its way to Baghdad. The only way leads through the desert, though. It is a long and troublesome march, and you will only reach it if your scouts are well equipped!"
+
+
+Find the caravan in the north-east.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Als wir den Informanten bezahlt hatten, gab er uns die gewünschten Auskünfte.
+
+"In einer weit entfernten Oase im Nord-Osten wartet eine Karawane, die sich auf den Weg nach Bagdad befinden. Allerdings führt der einzige Weg durch die Wüste, ein weiter und beschwerlicher Marsch, nur zu erreichen, wenn deine Kundschafter gut ausgerüstet sind!"
+
+
+Finde die Karawane im Nord-Osten.
+</text>
+      </lang>
+    </block>
+    <block id="sarazenen">
+      <lang code="CHN">
+        <text>
+自东方逼近的，是撒拉逊人的大军，他们誓死守土，不容任何来犯。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+From the east the army of the Saracens approached, determined to defend their country against any intruder.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Aus dem Osten näherte sich das Heer der Sarazenen, wild entschlossen, ihr Land gegen jeden Eindringling zu verteidigen.
+</text>
+      </lang>
+    </block>
+    <block id="schlehmil">
+      <lang code="CHN">
+        <text>
+线人
+
+离营地不远，我们撞见旧识——那线人：
+
+"我以少许黄金为酬，向你们提供重要情报，或于你们前往巴格达的路上大有裨益。"
+
+向线人缴纳 10 金币。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+THE INFORMER
+
+Not far from our camp we met an old acquaintance, the informer. 
+
+"I will provide important information for a small amount of money. It might come in useful on your travels to Baghdad." 
+
+
+Pay the informer 10 gold pieces.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+DER INFORMANT
+
+Nicht weit von unserem Lager trafen wir auf einen alten Bekannten, den Informanten: 
+
+"Ich biete euch wichtige Informationen gegen eine geringe Menge Gold an, die euch für eure Weiterfahrt nach Bagdad von Nutzen sein könnte." 
+
+
+Zahle dem Informanten die 10 Goldstücke.
+</text>
+      </lang>
+    </block>
+    <block id="spielertot">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+你失败了！你的维京人曾信任你，你却让他们失望。奥丁的宴席上，再没有你的位置。
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+You've failed! Your Vikings trusted you and you've let them down! There will be no place for you at Odin's table!
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Du hast versagt! Deine Wikinger hatten auf dich vertraut und du hast sie im Stich gelassen. An Odins Tafel wird kein Platz für dich sein.
+</text>
+      </lang>
+    </block>
+    <block id="start_00">
+      <lang code="CHN">
+        <text>
+一片尘垢秃土在眼前铺展。顽石遍布，沃土稀少。
+
+赴巴格达途中，我们于巴勒斯坦海岸登陆，此地各国利益交错冲撞。法兰克人、拜占庭人与撒拉逊人的军队势同水火，彼此对立。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+A dusty, bare land stretched before us. A land of stone, with very little fertile soil. 
+
+On our way to Baghdad, we had landed on the Palestinian coast, in a region where the interests of many different nations clashed. The armies of the Franks, Byzantines and Saracens stood irreconcilably face to face, each of them claiming the holy sites. 
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Ein staubiges, kahles Land breitete sich vor uns aus. Viele Steine gab es hier, aber wenig fruchtbaren Boden. 
+
+Auf unserem Weg nach Bagdad waren wir an der Küste Palästinas gelandet, einem Gebiet, in dem die Interessen der verschiedenen Länder aufeinander stießen. Die Heere der Franken, Byzantiner und der Sarazenen standen sich unversöhnlich gegenüber. 
+</text>
+      </lang>
+    </block>
+    <block id="start_01">
+      <lang code="CHN">
+        <text>
+各方皆声称圣地为己所有。我们须在这片混乱中寻路穿越浩瀚沙漠。或许一支商队能为引我们前往巴格达的哈里发。
+
+勘察周边，加入一支向东的商队。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+We had to find a path through this turmoil, and cross the endless desert. Maybe a caravan from a nomadic tribe would show us the way to the Caliph of Baghdad.
+
+
+Explore the terrain and join a caravan to the east.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Jeder von ihnen beanspruchte die heiligen Stätten für sich. Durch dieses Chaos mussten wir nun einen Weg finden, die große Wüste zu durchqueren. Vielleicht würde uns eine Karawane den Weg zum Kalifen von Bagdad weisen.
+
+
+Erkunde die Gegend und schließe dich einer Karawane nach Osten an.
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

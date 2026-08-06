@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_03_02" export_map_id="campaign_03_02" map_md5="269c46371af775ddac9d73257340c11c" IsC2M="false">
+  <languages>
+    <language code="GER" alias="GER" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="GER">@HILF BEI DER ERRICHTUNG DER HÄNGENDEN GÄRTEN VON SEMIRAMIS!</text>
+    </string>
+    <string id="1">
+      <text lang="GER">Suche den Platz zur Errichtung der Gärten!</text>
+    </string>
+    <string id="2">
+      <text lang="GER">Baue eine kleine Siedlung auf.</text>
+    </string>
+    <string id="3">
+      <text lang="GER">Liefere 80 Holz, 40 Steine, 40 Lehm und 40 Ziegel zu den Gärten für die künstlichen Bergterrassen!</text>
+    </string>
+    <string id="4">
+      <text lang="GER">Errichte 9 Brunnen in der Nähe der Gärten, um Wasser zu fördern.</text>
+    </string>
+    <string id="5">
+      <text lang="GER">Suche 25 Rinder!</text>
+    </string>
+    <string id="6">
+      <text lang="GER">Befreie die Frauen der Hirten, um ihre Rinder und das Stück der Bauzeichnung zu erhalten.</text>
+    </string>
+    <string id="7">
+      <text lang="GER">Zahle den Räubern 50 Münzen oder bekämpfe sie.</text>
+    </string>
+    <string id="8">
+      <text lang="GER">Durchsuche das Räuberlager.</text>
+    </string>
+    <string id="9">
+      <text lang="GER">Bringe die Frauen zurück in ihr Dorf.</text>
+    </string>
+    <string id="10">
+      <text lang="GER">Finde die Bauzeichnungen.</text>
+    </string>
+    <string id="11">
+      <text lang="GER">Zahle den Babyloniern für tapfere Soldaten 5 Eisen Tribut.</text>
+    </string>
+    <string id="12">
+      <text lang="GER">Bringe den Kobulianern 10 Schuhe als Tribut.</text>
+    </string>
+    <string id="13">
+      <text lang="GER">Gehe zu den unterirdischen Hallen!</text>
+    </string>
+    <string id="14">
+      <text lang="GER">Gehe mit deine Helden zurück zu den Gärten!</text>
+    </string>
+    <string id="20">
+      <text lang="GER">Brunnen %d/9</text>
+    </string>
+    <string id="21">
+      <text lang="GER">Holz %d/80</text>
+    </string>
+    <string id="22">
+      <text lang="GER">Steine %d/40</text>
+    </string>
+    <string id="23">
+      <text lang="GER">Lehm %d/40</text>
+    </string>
+    <string id="24">
+      <text lang="GER">Ziegel %d/40</text>
+    </string>
+    <string id="25">
+      <text lang="GER">Brunnen errichtet</text>
+    </string>
+    <string id="26">
+      <text lang="GER">Waren geliefert</text>
+    </string>
+    <string id="27">
+      <text lang="GER">Kühe %d/25</text>
+    </string>
+    <string id="28">
+      <text lang="GER">Kühe gefangen</text>
+    </string>
+    <string id="51">
+      <text lang="GER">Kobul</text>
+    </string>
+    <string id="52">
+      <text lang="GER">Babylon</text>
+    </string>
+    <string id="53">
+      <text lang="GER">Hirtenvolk</text>
+    </string>
+    <string id="54">
+      <text lang="GER">Räuber</text>
+    </string>
+    <string id="55">
+      <text lang="GER">Nomaden</text>
+    </string>
+    <string id="56">
+      <text lang="GER">Bauarbeiternomaden</text>
+    </string>
+    <string id="61">
+      <text lang="GER">Kobul</text>
+    </string>
+    <string id="62">
+      <text lang="GER">Babylon</text>
+    </string>
+    <string id="63">
+      <text lang="GER">Hirten</text>
+    </string>
+    <string id="64">
+      <text lang="GER">Räuber</text>
+    </string>
+    <string id="65">
+      <text lang="GER">Nomad.</text>
+    </string>
+    <string id="66">
+      <text lang="GER">Dorf</text>
+    </string>
+    <string id="71">
+      <text lang="GER">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="GER">Cyra</text>
+    </string>
+    <string id="73">
+      <text lang="GER">Hatschi</text>
+    </string>
+    <string id="74">
+      <text lang="GER">Sigurd</text>
+    </string>
+    <string id="75">
+      <text lang="GER">Norbert</text>
+    </string>
+    <string id="76">
+      <text lang="GER">Mani</text>
+    </string>
+    <string id="98">
+      <text lang="GER">In der Nähe des alten Flussbettes des Euphrat errichteten wir eine neue Siedlung, denn dort sollten die sagenhaften hängenden Gärten der Semiramis einst der Wüste getrotzt haben...</text>
+    </string>
+    <string id="99">
+      <text lang="GER">DIE HÄNGENDEN GÄRTEN VON SEMIRAMIS</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="GER">
+        <text> 
+Wir siedelten entlang des Euphrat. Dort stand sie, die große und mächtige Stadt Babylon. Wohl hier in der Nähe hatte einst König Nebukadnezar die hängenden Gärten für seine Gemahlin erbauen lassen, weil diese bewaldete Berge liebte. Nach der sagenhaften Königin Semiramis von Assyrien erhielten diese Gärten ihren Namen.
+
+Dies war also das zweite Weltwunder der antiken Welt, das durch unsere Hilfe wieder errichtet werden musste...
+
+</text>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="GER">
+        <text> 
+Doch wir hatten tatkräftige Unterstützung: Die Babylonier versuchten schon seit einigen Monaten, die Umgebung zu bewässern, und sie züchteten hier die seltensten Pflanzenarten. Doch die Muttererde gab nicht genügend Nährstoffe frei, und auch die Pläne des hängenden Gartens waren scheinbar unvollständig... 
+
+Suche die Stelle zur Errichtung der sagenhaften hängenden Gärten auf. Dort erhältst du nähere Anweisungen. 
+</text>
+      </lang>
+    </block>
+    <block id="01">
+      <lang code="GER">
+        <text> 
+BAUPLATZ DER HÄNGENDEN GÄRTEN
+
+Hier fanden wir den geeigneten Platz, die Gärten zu errichten.
+Die Bewohner von Babylon und die Nomaden der umliegenden Dörfer hatten diese Stellen schon bewässert, aber das reichte bei Weitem nicht aus. 
+
+</text>
+        <usericon>1,368,115</usericon>
+        <text>
+
+Wir mussten einige Brunnen graben und uns um die Baumaterialien für die künstliche Terrassenlandschaft kümmern! 
+
+Baue 9 Brunnen in der Nähe der Gärten, um Wasser zu fördern. Liefere außerdem 80 Holz, 40 Steine, 40 Lehm und 40 Ziegel zu den Gärten für die künstlichen Bergterrassen! 
+</text>
+      </lang>
+    </block>
+    <block id="02">
+      <lang code="GER">
+        <text> 
+BRUNNEN ERRICHTET
+
+Wir hatten gute Arbeit geleistet, denn wir hatten es geschafft, 9 Brunnen in dem Gebiet zu errichten! Nun mussten wir nur noch die benötigten Waren zu diesem Bauplatz bringen. 
+</text>
+      </lang>
+    </block>
+    <block id="03">
+      <lang code="GER">
+        <text> 
+WAREN GELIEFERT!
+
+Wir hatten die benötigten Waren am Bauplatz abgeliefert. Aber noch mussten wir die Brunnen bauen, um die Gärten mit Wasser zu versorgen...
+</text>
+      </lang>
+    </block>
+    <block id="04">
+      <lang code="GER">
+        <text> 
+NEUE BAUSTUFE DES WELTWUNDERS
+
+Wir hatten die Brunnen gebaut und die benötigten Waren am Bauplatz abgeliefert. Es dauerte nun nicht lange, bis das Fundament gesetzt war. 
+
+</text>
+        <usericon>1,357,112</usericon>
+        <text>
+
+Aus dem übrigen Ton formten die Babylonier Tonkügelchen, in denen sie ihre Pflänzchen eingruben. Das Wasser wurde in diesen Tonkügelchen tagelang gespeichert - eine tolle Eigenschaft! Sie benannten diese Erfindung nach ihrer assyrischen Königen Semiramis. Später wurden diese Tonkügelchen jedoch berühmt als Seramis oder so ähnlich, da sich ein junger Gelehrter verschrieben hatte...
+ 
+Nun, da die Pläne des hängenden Gartens scheinbar unvollständig waren, kamen wir mit unserer Arbeit nicht recht weiter... 
+
+Suche nach dem anderen Teil des Bauplanes!
+
+
+Und richtig florieren wollten die Pflänzchen der Babylonier auch nicht. Die Vorfahren mussten bei ihrer Pflanzenzucht also noch irgendein Geheimnis angewandt haben?!
+
+Begib dich auf dessen Spur! Sammle Rinder!
+</text>
+      </lang>
+    </block>
+    <block id="05">
+      <lang code="GER">
+        <text> 
+KOBUL
+
+Als wir den Flussarm überquerten, kamen uns Bewohner eines kleinen Dorfes entgegen. Sie waren uns weder Freund noch Feind und wollten mit uns nur nach dem Zahlen eines Tributs Handel treiben. 
+
+</text>
+        <usericon>1,533,22</usericon>
+        <text>
+
+Sie bemerkten unsere guten Schuharbeiten, auch wenn diese schon sehr ausgetreten und abgenutzt waren. Sie wollten gerne ein paar Exemplare davon für sich haben! 
+
+Reiche den Kobulianern ein paar Schuhe und sie werden dir ihre Handelsangebote offerieren! 
+</text>
+      </lang>
+    </block>
+    <block id="06">
+      <lang code="GER">
+        <text> 
+BABYLON
+
+Dies waren die Tore der sagenumwobenen Stadt Babylon.
+Voller Neugier und Ungewissheit betraten wir ihr Innerstes. 
+
+</text>
+        <usericon>1,320,164</usericon>
+        <text>
+
+Was würde die Stadt für uns bereithalten? 
+</text>
+      </lang>
+    </block>
+    <block id="07">
+      <lang code="GER">
+        <text> 
+HIRTEN
+
+Weit im Süden lebte ein braves Hirtenvolk, dem ein großes Unglück widerfuhr.
+
+</text>
+        <usericon>1,321,382</usericon>
+        <text>
+
+"Unsere armen Frauen", klagten sie, "sie wurden in der Nacht entführt von wilden Sarazenenräubern!" Sie hatten bereits einen Suchtrupp ausgesandt, aber ohne Erfolg! "Helft uns, unsere Frauen wieder zu bekommen, und wir werden euch bei eurer Mission zur Seite stehen! Unsere übrigen Frauen haben wir in den unterirdischen Hallen untergebracht, damit sie vor diesen Barbaren verschont bleiben!"
+
+"Diese drei Drachen begleiteten uns heute morgen aus den unterirdischen Hallen. Wir leben in Eintracht miteinander und helfen uns in der Not. Sie werden auch euch gerne zur Seite stehen." 
+
+</text>
+        <usericon>2,20</usericon>
+        <text>
+
+Befreie die Frauen der Hirten!
+</text>
+      </lang>
+    </block>
+    <block id="08">
+      <lang code="GER">
+        <text> 
+RÄUBER
+
+"Hey, ihr da! Ihr seid nicht willkommen in unserem Lager! Zahlt uns einen Tribut und wir werden euch nichts tun!
+
+</text>
+        <usericon>1,103,196</usericon>
+      </lang>
+    </block>
+    <block id="09">
+      <lang code="GER">
+        <text> 
+NOMADEN
+
+Unberührt von der restlichen Welt tat sich hier eine kleine Oase inmitten der Wüste vor uns auf. 
+
+Hier verlief alles noch in ruhigen Bahnen, die Menschen waren freundlich und entgegenkommend. Und niemand ahnte, wie dringlich unsere Mission war, die Weltwunder erneut zu errichten... 
+</text>
+      </lang>
+    </block>
+    <block id="10">
+      <lang code="GER">
+        <text> 
+HIRTEN
+
+"Ihr habt uns unsere geliebten Frauen unversehrt wiedergebracht!" freuten sich die Hirten, als wir mit ihren Frauen zurück ins Dorf kamen. "Dafür geben wir euch alle unsere Kühe! Sie geben euch Milch und liefern Dung für seltene Pflanzen! Vielleicht könnt ihr sie gebrauchen?
+ 
+Auch ist für euch nun der Weg zu den unterirdischen Hallen frei! Dort haben wir die Frauen untergebracht, die nicht von den Sarazenen verschleppt worden waren. Wenn sie erfahren, wie ihr uns geholfen habt, werden sie euch sicherlich die Bauzeichnungen überlassen!"
+
+Gehe mit deinen Helden zu den unterirdischen Hallen!
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="11">
+      <lang code="GER">
+        <text> 
+NEUE BAUSTUFE DES WELTWUNDERS
+
+Anhand der bisher fehlenden Bauzeichnung musste es nun möglich sein, ein stabiles Gerüst der hängenden Gärten zu konstruieren. 
+
+</text>
+        <usericon>2,5</usericon>
+        <text>
+
+Wir hatten bei dieser Mission einen neuen kleinen Freund hinzugewonnen. Noch ahnten wir nicht, wie sehr er uns noch helfen würde!
+</text>
+      </lang>
+    </block>
+    <block id="12">
+      <lang code="GER">
+        <text> 
+NEUE BAUSTUFE DES WELTWUNDERS
+
+Die Gewächse des Gartens rekelten sich mit ihren prallen, glänzend grünen Blättern der Sonne entgegen und sprossen gen Himmel! Durch den Dung der Kühe erhielten die Pflanzen nun auch die nötigen Nährstoffe. 
+
+</text>
+        <usericon>1,357,112</usericon>
+      </lang>
+    </block>
+    <block id="13">
+      <lang code="GER">
+        <text> 
+TRIBUT AN KOBUL ÜBERREICHT!
+
+Wir hatten den Kobulianer die Schuhe zum Tribut überreicht. Sie wechselten ihre Haltung uns gegenüber augenblicklich. Ihre Freude über die Schuhe war sogar so groß, dass sie uns überaus günstige Handelsangebote anboten. 
+</text>
+      </lang>
+    </block>
+    <block id="14">
+      <lang code="GER">
+        <text> 
+TRIBUT AN RÄUBER ÜBERREICHT!
+
+Wir hatten den Räubern den enormen Tribut bezahlt und so gaben sie die Frauen der Sarazenenhirten widerwillig frei. Sie meinten, die Sarazenenhirten seien eh solch leichte Opfer, das sie sie auch jederzeit wieder überfallen und plündern könnten...
+</text>
+      </lang>
+    </block>
+    <block id="15">
+      <lang code="GER">
+        <text> 
+EINGANG ZU DEN UNTERIRDISCHEN HALLEN
+
+Du hast keine Erlaubnis, in die unterirdischen Hallen vorzudringen. Geh und hilf dem Hirtenvolk. Kehre dann mit deinen Helden hierher zurück, und der Zugang sei dir gewährt!
+
+</text>
+        <usericon>1,39,473</usericon>
+      </lang>
+    </block>
+    <block id="16">
+      <lang code="GER">
+        <text> 
+"Vielleicht würde Rinderdung den Pflanzen der hängenden Gärten gut tun?", sagten wir zu uns, als wir das erste Rind fanden...
+</text>
+      </lang>
+    </block>
+    <block id="17">
+      <lang code="GER">
+        <text> 
+BAUARBEITER
+
+"Wir sind hier, um bei den Bauarbeiten an den Hängenden Gärten zu helfen...", teilten und diese tüchtigen Leute oberhalb des Bauplatzes mit. 
+
+</text>
+        <usericon>1,373,35</usericon>
+        <text>
+
+"Gerne könnt ihr die Rohstoffe aus unserem Lager nutzen."
+</text>
+      </lang>
+    </block>
+    <block id="18">
+      <lang code="GER">
+        <text> 
+MAGISCHE FELDER
+
+Eine seltsame Magie umgibt diese hellen Felder, die von den fünfmannshohen Obelisken umgeben sind. Das Eine bringt dich zu einem Tal in der Wüste, auf dem Anderen gelangst du zurück!
+</text>
+      </lang>
+    </block>
+    <block id="19">
+      <lang code="GER">
+        <text> 
+50 BRUCHSTEINE
+
+</text>
+        <usericon>1,367,38</usericon>
+        <text>
+
+In dieser magischen Kiste befanden sich 50 Bruchsteine, die automatisch in unser Hauptquartier gelangten!
+</text>
+      </lang>
+    </block>
+    <block id="20">
+      <lang code="GER">
+        <text> 
+100 MÜNZEN
+
+</text>
+        <usericon>1,289,124</usericon>
+        <text>
+
+In dieser magischen Kiste befanden sich 100 Goldmünzen, die automatisch in unser Hauptquartier gelangten!
+</text>
+      </lang>
+    </block>
+    <block id="200">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="21">
+      <lang code="GER">
+        <text> 
+SARAZENENFRAUEN GESTORBEN!
+
+Oh je, die Frauen der Hirten sind gestorben. Ohne diese Frauen wird dir das Ende der Mission verborgen bleiben!
+</text>
+      </lang>
+    </block>
+    <block id="22">
+      <lang code="GER">
+        <text> 
+RÄUBER BESIEGT!
+
+Wir hatten die Räuber siegreich geschlagen! Nie wieder würden sie dem Hirtenvolk einen Schaden zufügen. 
+</text>
+      </lang>
+    </block>
+    <block id="23">
+      <lang code="GER">
+        <text> 
+KATAPULTE GEFUNDEN
+
+</text>
+        <usericon>1,103,74</usericon>
+        <text>
+
+Wer hatte diese Katapulte hier wohl stehen lassen? Uns konnten sie jedenfalls gute Dienste erweisen!
+</text>
+      </lang>
+    </block>
+    <block id="24">
+      <lang code="GER">
+        <text> 
+NEUE FREUNDE
+
+</text>
+        <usericon>2,6</usericon>
+        <text>
+
+Als sich MANI und NORBERT das erste Mal sahen, wussten sie sofort, dass sie die besten Freunde werden würden! 
+</text>
+      </lang>
+    </block>
+    <block id="25">
+      <lang code="GER">
+        <text> 
+MANI
+
+</text>
+        <usericon>2,6</usericon>
+        <text>
+
+Mani möchte einmal ein Held werden, wie Cyra und Bjarni. Doch für diese Mission ist er noch zu klein!
+</text>
+      </lang>
+    </block>
+    <block id="26">
+      <lang code="GER">
+        <text> 
+KÜHE GEFANGEN! 
+
+Wir hatten zwar die Kühe gefangen, aber ohne die Bauzeichnungen und dem vollendeten Bau der hängenden Gärten waren sie uns noch zu nichts nutze!
+</text>
+      </lang>
+    </block>
+    <block id="300">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held HATSCHI erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
+</text>
+      </lang>
+    </block>
+    <block id="400">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held SIGURD erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="500">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="GER">
+        <text> 
+Voller Stolz waren wir, als die ersten Pflanzen blühten und die Bäume in der künstlichen Terrassenlandschaft ihre Wurzeln schlugen.
+
+</text>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="GER">
+        <text> 
+Die Bewohner Babylons zeigten sich voll Dankbarkeit für unsere Mithilfe. Auch der Rat der Völker war überaus zufrieden mit uns. Unsere nächste Aufgabe erwartete uns nun im Land der Griechen: DER KOLOSS VON RHODOS!
+</text>
+      </lang>
+    </block>
+    <block id="50_endheader">
+      <lang code="GER">
+        <text> 
+MISSION GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="600">
+      <lang code="GER">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="GER">
+        <text> 
+DIE HÄNGENDEN GÄRTEN 
+VON SEMIRAMIS
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

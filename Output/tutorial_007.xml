@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="tutorial_007" export_map_id="tutorial_007" map_md5="3b3960bc810b3db47d36a928a49a51c3" IsC2M="false">
+  <languages>
+    <language code="GER" alias="GER" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="GER">Öffne die Kisten!</text>
+    </string>
+    <string id="1">
+      <text lang="GER">Rüste deine Wikingersoldaten mit den Tränken aus!</text>
+    </string>
+    <string id="2">
+      <text lang="GER">Rüste deinen Wikingersoldaten mit Amuletten aus.</text>
+    </string>
+    <string id="3">
+      <text lang="GER">Stelle die Räuber!</text>
+    </string>
+    <string id="4">
+      <text lang="GER">Lass vom Schreiner 5 Holzwerkzeuge herstellen!</text>
+    </string>
+    <string id="5">
+      <text lang="GER">Lass vom Schmied 5 Eisenwerkzeuge herstellen!</text>
+    </string>
+    <string id="6">
+      <text lang="GER">Stelle die Produktion des Schreiners auf Möbel und lass 5 Stück herstellen!</text>
+    </string>
+    <string id="7">
+      <text lang="GER">Stelle die Produktion des Töpfers auf Geschirr und lass 5 Stück herstellen!</text>
+    </string>
+    <string id="8">
+      <text lang="GER">Lass vom Näher Schuhe herstellen!</text>
+    </string>
+    <string id="9">
+      <text lang="GER">Lass vom Druiden 5 Öl herstellen!</text>
+    </string>
+    <string id="10">
+      <text lang="GER">Begib dich zur Sarazenenoase südlich von hier!</text>
+    </string>
+    <string id="11">
+      <text lang="GER">Finde alle Kisten mit den Amuletten!</text>
+    </string>
+    <string id="50">
+      <text lang="GER">Bjarnis Stamm</text>
+    </string>
+    <string id="51">
+      <text lang="GER">Sarazenenoase</text>
+    </string>
+    <string id="52">
+      <text lang="GER">Sarazenenstadt</text>
+    </string>
+    <string id="53">
+      <text lang="GER">Stadt</text>
+    </string>
+    <string id="54">
+      <text lang="GER">Räuber</text>
+    </string>
+    <string id="55">
+      <text lang="GER">Oase</text>
+    </string>
+    <string id="71">
+      <text lang="GER">Bjarni</text>
+    </string>
+    <string id="98">
+      <text lang="GER">Hier werden Bonusgegenstände und Waffen eingeführt und gezeigt, wie sie angewendet werden und wo man sie erhält.</text>
+    </string>
+    <string id="99">
+      <text lang="GER">7) BONUSGEGENSTÄNDE UND WAFFEN</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00">
+      <lang code="GER">
+        <text> 
+Hier werden die Bonusgegenstände und Waffen eingeführt. 
+-	Aufsammeln
+-	Benutzen
+-	Auswirkungen/Anwendungen 
+-	Selbstproduzieren
+-	Abjagen von Bonusgegenständen
+-	Soldaten und Helden 
+
+Es gibt auch Dinge außer Wohnhäuser und Ehepartner, mit denen sich ein Wikinger ausrüsten kann und die direkten Einfluss auf seine Bedürfnisbefriedigung, seine Produktivität oder seine Fähigkeiten haben - die so genannten Bonusgegenstände.
+
+Die meisten Bonusgegenstände zeichnen sich dadurch aus, dass sie erst hergestellt werden müssen und sich durch ihre Benutzung langsam verbrauchen und erneuert werden müssen. Es gibt aber auch Bonusgegenstände, die Wikinger durch andere Völker erhalten oder auf ihrer Reise entdecken, meist in KISTEN...
+</text>
+      </lang>
+    </block>
+    <block id="01">
+      <lang code="GER">
+        <text> 
+KISTEN
+
+Es gibt Kisten, die von jedem Wikinger - ob Mann oder Frau - geöffnet werden können und so genannte magische Kisten, die nur einem Druiden oder Helden zugänglich sind. 
+Kisten beinhalten meist seltene und sehr nützliche Dinge, wie Tränke und Amulette. In manchen Fällen verbergen sich auch mächtige Hausbaubriefe in den Kisten. Und man hat schon von Kisten gehört, aus denen wilde Tiere und Menschen gesprungen sind...
+Um eine Kiste zu öffnen, musst du einen Wikinger ausgewählt haben und mit dem Mauszeiger über die Kiste fahren. Erscheint ein Hinweistext "Truhe öffnen", bestätige diesen mit einem Rechtsklick. 
+
+Öffne die drei Kisten in westlicher Richtung, darin befinden sich Tränke für deine Soldaten! 
+</text>
+      </lang>
+    </block>
+    <block id="02">
+      <lang code="GER">
+        <text> 
+TRÄNKE
+
+Wenn du die Tränke nicht in Kisten findest, aber sie trotzdem benötigst, müssen sie vom Druiden in der großen Alchemistenhütte hergestellt werden. Für die Herstellung dieser werden nicht nur Pilze und Öl gebraucht, sondern auch Wasser und Kräuter. Für geheime und höchst seltenen Zutaten benötigt der Druide zusätzlich Gold. Alle Wikinger, bis auf Frauen und Helden können mit diesen Versorgungs-, Heil-, und Kampftränken ausgestattet werden. Die kleinen Tränke können sie 2-mal benutzen, die großen Tränke 5-mal. Danach sind sie verbraucht.
+
+Es gibt NAHRUNGSTRÄNKE, die den Hunger stillen;  WACHTRÄNKE die vor Müdigkeit schützen und HEILTRÄNKE, die Verletzungen lindern. 
+
+Rüste deine Wikingersoldaten mit den Tränken aus, indem du alle - bis auf BJARNI! - als Gruppe auswählst und die Leertaste betätigst. Wähle das Menü "WECHSLE AUSRÜSTUNG" und weise ihnen die Tränke zu! Auch kannst du jedem Einzelnen sagen, wie viele Tränke er von einer Sorte nehmen soll, indem du im Figurenmenü jedes Einzelnen die runden gelben Button betätigst. Dadurch öffnet sich ebenfalls das Ausrüstungsmenü. 
+</text>
+      </lang>
+    </block>
+    <block id="03">
+      <lang code="GER">
+        <text> 
+Gut du hast alle Kisten mit Tränken gefunden!
+
+Begib dich, nachdem du deine Soldaten mit Tränken ausgestattet hast zur Sarazenenoase südlich von hier! Dort wirst du geheimnisvolle Amulette finden!
+</text>
+      </lang>
+    </block>
+    <block id="04">
+      <lang code="GER">
+        <text> 
+AMULETTE
+ 
+Sie können nicht hergestellt, nur gefunden oder im Tausch mit anderen Völkern erworben werden. Alle männlichen Wikinger, bis auf Helden, können mit Amuletten ausgestattet werden. Sie verleihen dem Träger bestimmte Eigenschaften und verbrauchen sich nie. Es gibt verschieden Arten der Amulette:
+Ein Nahrungsamulett schützt den Träger vor Hunger, ein Wachbleibamulett vor Müdigkeit, ein Stärkeamulett verleiht den Träger Mut und Tapferkeit und erhöht die Stärke des Trägers beim Angriff um 50 Prozent, ein Verteidigungsamulett schwächt Angriffe wilder Tiere und feindlicher Völker ab, ein Trefferamulett verstärkt mit einer Wahrscheinlichkeit von 20 Prozent die Stärke des Trägers bei Angriffen auf wilde Tiere und Feinde um 100 Prozent und 
+mit einem Windamulett verleiht kann sich der Träger schneller fortbewegen. 
+
+Finde alle sechs Amulette im Sarazenendorf und rüste deinen Wikingersoldaten mit Amuletten aus, indem du vorgehst, wie bei den Tränken.
+</text>
+      </lang>
+    </block>
+    <block id="05">
+      <lang code="GER">
+        <text> 
+GUT! Du hast alle Amulette im Sarazenendorf gefunden! Wenn du mit offenen Augen durch das Dorf inspiziert hast, müssten dir auch einige Waffen aufgefallen sein. 
+
+RÜSTUNGEN UND WAFFEN
+
+Waffen und Rüstungen können einerseits von deinem Wikingerstamm hergestellt werden, andererseits kann man sie anderen Kriegern im Kampf auch abjagen. Denn jeder besiegte Krieger hinterlässt seine Waffe, Rüstung und auch seine unangebrochenen Tränke und Amulette. Mit diesen kannst du deine Wikingersoldaten dann problemlos ausstatten. 
+
+Probier dies aus! Unweit nördlich von hier, treiben fünf Räuber ihr Unwesen, die oft über das Sarazenendorf herfallen und auch eine Bedrohung für dein Dorf darstellen können. Stelle sie und nutze ihre Ausrüstungsgegenstände!
+
+
+P.S. Eine Übersicht, welche Waffen gegen welche Rüstung effektiv ist und welche nicht, findest du in der Hilfe und in der Waffeneffizienzübersicht im Handbuch. 
+</text>
+      </lang>
+    </block>
+    <block id="06">
+      <lang code="GER">
+        <text> 
+Die Räuber hast du mit Bravur gestellt! Du kannst die Karte gerne noch nach weiteren Kisten und Ausrüstungsgegenständen absuchen ... 
+</text>
+      </lang>
+    </block>
+    <block id="07">
+      <lang code="GER">
+        <text> 
+... aber zurück zu deiner zivilen Bevölkerung, denn auch hier kannst du viel zum Wohlergehen beitragen:
+
+HOLZWERKZEUG
+
+Erhöhung der Produktivität eines Arbeiters. In derselben Zeit wird er mit einem Holzwerkzeug aus derselben Menge Rohstoffe mehr Waren herstellen als ohne Holzwerkzeug. Holzwerkzeuge werden vom Schreiner hergestellt.
+
+Lass vom Schreiner 5 Holzwerkzeuge herstellen und verteile sie an die Bevölkerung, indem du im Extra Menü (der Button mit dem Kistensymbol) den Befehl "immer Holzwerkzeug an Zivilisten vereilen" AN schaltest!
+</text>
+      </lang>
+    </block>
+    <block id="08">
+      <lang code="GER">
+        <text>
+EISENWERKZEUG
+
+Eisenwerkzeuge steigern die Produktivität eines Arbeiters noch stärker als Holzwerkzeuge. Sprich, der Output ist damit noch höher. Eisenwerkzeuge werden vom Schmied hergestellt.
+
+Lass vom Schmied Eisenwerkzeuge herstellen und verteile sie an die Bevölkerung, indem du vorgehst, wie bei den Holzwerkzeugen!
+</text>
+      </lang>
+    </block>
+    <block id="09">
+      <lang code="GER">
+        <text> 
+MÖBEL
+
+Sind Möbel (Betten) in der Wohnung, schlafen die Bewohner wesentlich besser. Ihr Schlafbedarf wird vollständig gedeckt! Möbel werden vom Schreiner hergestellt und von den Frauen ins Wohnhaus gebracht.
+
+Stelle die Produktion des Schreiners in deinem Dorf auf Möbel um und rüste deine Wohnhäuser damit aus!
+</text>
+      </lang>
+    </block>
+    <block id="10">
+      <lang code="GER">
+        <text> 
+GESCHIRR
+
+Mit Geschirr können Frauen das Essen verfeinern und aus einem Essen zwei machen!
+Geschirr wird vom Töpfer hergestellt.
+
+Stelle die Produktion des Töpfers auf Geschirr um und rüste deine Wohnhäuser damit aus!
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="GER">
+        <text>
+
+Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen Held wäre dir in den Kampagnen das Ende verborgen geblieben und du hättest von vorne beginnen müssen! 
+
+</text>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+      </lang>
+    </block>
+    <block id="11">
+      <lang code="GER">
+        <text> 
+SCHUHE
+
+Jeder barfüssige Wikinger freut sich über ein paar Schuhe, denn diese machen das Laufen angenehmer. Ein Wikinger mit Schuhen läuft schneller und verliert beim Laufen weniger Energie, sodass er nicht so schnell hungrig bzw. müde wird. Schuhe werden in der Näherei hergestellt.
+
+Lass vom Näher Schuhe herstellen und verteile sie an die Bevölkerung und bringe fünf ins Hauptquartier!
+</text>
+      </lang>
+    </block>
+    <block id="12">
+      <lang code="GER">
+        <text>
+ÖL (Heiliges Feuer)
+
+Außen an jedem Wohngebäude befindet sich eine Metallschale, die eine Frau mit Öl füllen und daran das Heilige Feuer entzünden kann. Wenn diese bläuliche Flamme brennt, kann der Mann zu Hause beten. Sein Bedarf an Religion wird dort vollständig gedeckt! Öl wird vom Druiden hergestellt. 
+
+Lass vom Druiden 5 Öl herstellen und bringe sie ins Haupthaus!
+</text>
+      </lang>
+    </block>
+    <block id="13">
+      <lang code="GER">
+        <text>
+SUPER!
+
+Nun hast du, wenn du der Reihe nach vorgegangen bist, alle Tutorials perfekt bestanden! 
+
+Du kannst übrigens jederzeit die einzelnen Tutorials unabhängig voneinander erneut spielen, um dein Wissen über die Spielmechanismen aufzufrischen. 
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="GER">
+        <text> 
+BONUSGEGENSTÄNDE UND WAFFEN
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

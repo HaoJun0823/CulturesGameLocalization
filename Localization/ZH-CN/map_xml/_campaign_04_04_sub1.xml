@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="_campaign_04_04_sub1" export_map_id="_campaign_04_04_sub1" map_md5="1edc6b382d8e93723313907e31b70aea" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">@寻得你曾解放的三条水龙。</text>
+      <text lang="ger">@FINDE DIE DREI WASSERDRACHEN, DIE DU BEFREIT HATTEST.</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">与古尔普交谈。</text>
+      <text lang="ger">Sprich mit Gulp.</text>
+    </string>
+    <string id="53">
+      <text lang="CHN">阿夸斯 - 水龙</text>
+      <text lang="ger">Aquas - Wasserdrachen</text>
+    </string>
+    <string id="63">
+      <text lang="CHN">阿夸斯</text>
+      <text lang="ger">Aquas</text>
+    </string>
+    <string id="71">
+      <text lang="CHN">比雅尼</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="CHN">希拉</text>
+      <text lang="ger">Cyra</text>
+    </string>
+    <string id="74">
+      <text lang="CHN">古尔普</text>
+      <text lang="ger">GULP</text>
+    </string>
+    <string id="75">
+      <text lang="CHN">玛尼</text>
+      <text lang="ger">Mani</text>
+    </string>
+    <string id="76">
+      <text lang="CHN">诺伯特</text>
+      <text lang="ger">Norbert</text>
+    </string>
+    <string id="77">
+      <text lang="CHN">涌泉</text>
+      <text lang="ger">SPRUDEL</text>
+    </string>
+    <string id="78">
+      <text lang="CHN">水妖</text>
+      <text lang="ger">NIXE</text>
+    </string>
+    <string id="79">
+      <text lang="CHN">波涛</text>
+      <text lang="ger">WELLE</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">三叠瀑布</text>
+      <text lang="ger">DIE DREI WASSERFÄLLE</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="CHN">
+        <text>
+我们的同伴即刻各奔东西。我们须找到这座神庙的守卫，或许他能助我们一臂之力？
+寻找古尔普！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Wir waren den Drachen gefolgt und augenblicklich fanden wir uns in einer seltsam fremden Umgebung wieder. 
+Zweifellos befanden wir uns wieder in einem der vielen Wassertempel der AQUAS!
+</text>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="CHN">
+        <text>
+古尔普
+“你们当真立下大功，救回了我们的族裔。”
+
+“你们可还记挂着他们，记得他们的名字？其中有三条就在这瀑布旁。找到他们，他们会给你们备下惊喜！”
+寻回曾陪伴你的三条水龙。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+Unsere Begleiter gingen sofort ihrer Wege. Wir mußten den Wächter dieses Tempels finden, vielleicht konnte er uns bei unserer Mission unterstützen?
+
+Suche GULP!
+</text>
+      </lang>
+    </block>
+    <block id="01">
+      <lang code="CHN">
+        <text>
+斯普
+
+鲁德尔
+        </text>
+        <usericon>2,4</usericon>
+        <text>
+“你们认出我了！难不成那饶舌的斯普鲁德尔，
+
+当真钻进了你们的脑瓜？”
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+GULP
+
+"Ihr habt wahrlich Großes vollbracht, unsere Stammesangehörigen zu retten."
+
+</text>
+        <usericon>2,4</usericon>
+        <text>
+
+
+"Habt ihr sie euch eingeprägt, wißt ihr noch, wie sie heißen? Drei davon befinden sich hier an den Wasserfällen. Findet sie und sie halten eine Überraschung für euch bereit!"
+
+Finde die drei Wasserdrachen, die dich begleitet haben.
+</text>
+      </lang>
+    </block>
+    <block id="02">
+      <lang code="CHN">
+        <text>
+尼刻斯
+        </text>
+        <usericon>2,11</usericon>
+        <text>
+“你们认出我了！尼刻斯也会永远把你们珍藏心底！”
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+SPRUDEL
+
+</text>
+        <usericon>2,11</usericon>
+        <text>
+
+"Ihr habt mich erkannt! Da hat sich der gesprächige SPRUDEL wohl doch in eure Köpfe gequasselt?" 
+</text>
+      </lang>
+    </block>
+    <block id="03">
+      <lang code="CHN">
+        <text>
+薇蕾
+        </text>
+        <usericon>2,12</usericon>
+        <text>
+“你们认出我了！”
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+NIXE
+
+</text>
+        <usericon>2,12</usericon>
+        <text>
+
+"Ihr habt mich erkannt! NIXE wird euch auch immer im Herzen bei sich tragen!" 
+</text>
+      </lang>
+    </block>
+    <block id="04">
+      <lang code="CHN">
+        <text>
+任务失败！
+        </text>
+        <usericon>2,13</usericon>
+        <text>
+是英勇，还是鲁莽？比雅尼陨落之时，诸神落泪……少了这位英雄，任务的结局将永远对你隐藏。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+WELLE
+
+</text>
+        <usericon>2,13</usericon>
+        <text>
+
+"Ihr habt mich erkannt! "
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="CHN">
+        <text>
+任务失败！
+        </text>
+        <text>
+一时的轻率，生命便转瞬即逝！你的女英雄希拉，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="200">
+      <lang code="CHN">
+        <text>
+任务失败！
+        </text>
+        <text>
+“瀑布实则不过是一座小型水力发电站。借助浩渺水势，拨动三处开关，我们便能驱动地表之上的传送装置！”
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="CHN">
+        <text>
+为感救命之恩，也因它们于我们不止是寻常龙
+
+族，阿夸斯激活了传送装置。
+        </text>
+        <usericon>1,73,37</usericon>
+      </lang>
+      <lang code="ger">
+        <text> 
+ÜBERRASCHUNG!
+
+"Eigentlich sind die Wasserfälle nichts anderes als ein kleines Wasserkraftwerk. Mit Hilfe der immensen Wasserkraft und durch die Betätigung der drei Schalter, haben wir die Möglichkeit, die Teleporter auf der Erdoberfläche zu betreiben!"
+
+</text>
+        <usericon>1,73,37</usericon>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="CHN">
+        <text>
+干得漂亮！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Zum Dank für ihre Rettung, und weil sie für uns mehr waren als nur irgendwelche Drachen, aktivierten die Aquas die Teleporter. 
+</text>
+      </lang>
+    </block>
+    <block id="50_endheader">
+      <lang code="CHN">
+        <text>
+任务成功！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+MISSION GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+三瀑布
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DIE DREI WASSERFÄLLE
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

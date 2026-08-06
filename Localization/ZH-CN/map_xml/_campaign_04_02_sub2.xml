@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="_campaign_04_02_sub2" export_map_id="_campaign_04_02_sub2" map_md5="7d20ffc24444a7ac2a9ae50f8cba4f57" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">@抵达结晶！</text>
+      <text lang="ger">@GELANGE ZUM KRISTALL!</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">点燃火把。</text>
+      <text lang="ger">Entflamme die Fackeln.</text>
+    </string>
+    <string id="53">
+      <text lang="CHN">暗龙</text>
+      <text lang="ger">Dunkeldrachen</text>
+    </string>
+    <string id="63">
+      <text lang="CHN">暗龙</text>
+      <text lang="ger">Dunkeldrachen</text>
+    </string>
+    <string id="71">
+      <text lang="CHN">比雅尼</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="CHN">希拉</text>
+      <text lang="ger">Cyra</text>
+    </string>
+    <string id="73">
+      <text lang="CHN">派罗</text>
+      <text lang="ger">Pyro</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">扎彭杜施泰斯特</text>
+      <text lang="ger">ZAPPENDUSTER</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="CHN">
+        <text>
+我们把希望寄托于火龙派罗。它定能重新点燃熄灭的火把……
+点燃火把，寻得通往水晶之路。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Es war immer noch zappenduster in der Höhle. So sehr wir uns bemühten, wir gelangten nicht vom Fleck. Ein seltsames Energiefeld umgab die hohen Säulen und ließ uns nicht weiter ins Innere der Höhle. 
+</text>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="CHN">
+        <text>
+所有火把已点燃！
+
+洞穴入口处的火把尽数点亮！仿佛有魔法作祟，其中一根奇柱消失无踪，能量场随之瓦解。我们如今得以深入探勘洞穴！此处想必还有不少火把待人点燃。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text>
+Unseren Hoffnungen stützten sich auf PYRO, den Feuerdrachen. Er würde sicherlich die erloschenen Fackeln wieder entflammen... 
+ 
+Entflamme die Fackeln und finde den Weg zum Kristall.
+</text>
+      </lang>
+    </block>
+    <block id="01">
+      <lang code="CHN">
+        <text>
+所有火把已点燃！
+
+我们之友派罗点燃了所有火把。通往火水晶的道路已然畅通！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+ALLE FACKELN ENTZÜNDET!
+
+Hier am Eingang der Höhle waren nun alle Fackeln entzündet! Wie von Zauberhand war eine der seltsamen Säulen verschwunden und das Energiefeld gebrochen.
+Wir konnten nun das Innere der Höhle weiter erkunden! Sicherlich gab es hier noch viele Fackeln die es zu entflammen galt.
+</text>
+      </lang>
+    </block>
+    <block id="02">
+      <lang code="CHN">
+        <text>
+暗龙
+透过栅墙，我们望见黑色巨龙，它们看似危险，多半正守卫着水晶入口。
+
+我们须设法将它们引离此处。或许能把它们诱入彩虹之厅困住？
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+ALLE FACKELN ENTZÜNDET!
+
+Alle Fackeln wurden von unserem Freund Pyro entzündet. Der Weg zum Feuerkristall war nun frei!
+</text>
+      </lang>
+    </block>
+    <block id="03">
+      <lang code="CHN">
+        <text>
+巨龙
+
+已败北！</text>
+        <usericon>2,4</usericon>
+        <text>
+我们击溃了这些无色的造物，可这当真必要吗？难道不能将他们诱入彩虹之厅的陷阱？
+        </text>
+        <usericon>2,4</usericon>
+      </lang>
+      <lang code="ger">
+        <text> 
+DUNKELDRACHEN
+
+Durch die Gitterwände sahen wir schwarze Drachen, sie schienen gefährlich zu sein und bewachten wahrscheinlich den Eingang zum Kristall.
+
+</text>
+        <usericon>2,4</usericon>
+        <text>
+
+Wir mußten versuchen, sie von dort wegzulocken. Vielleicht konnten wir sie im Regenbogenraum einsperren?
+
+</text>
+        <usericon>1,43,61</usericon>
+      </lang>
+    </block>
+    <block id="04">
+      <lang code="CHN">
+        <text>
+巨龙已困入！
+
+我们做到了，所有暗龙都身陷彩虹之厅！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DRACHEN BESIEGT!
+
+Wir hatten die farblosen Geschöpfe besiegt, aber war dies wirklich nötig gewesen? Hätten wir sie nicht auch in eine Falle in den Regenbogenraum locken können?
+</text>
+      </lang>
+    </block>
+    <block id="05">
+      <lang code="CHN">
+        <text>
+密闭之厅
+        </text>
+        <usericon>2,4</usericon>
+        <text>
+只要不是所有火把都已点燃，这间厅堂的内部便始终对你隐藏！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DRACHEN EINGESPERRT!
+
+</text>
+        <usericon>2,4</usericon>
+        <text>
+
+Wir hatten es geschafft, alle Dunkeldrachen befanden sich im Regenbogenraum!
+</text>
+      </lang>
+    </block>
+    <block id="06">
+      <lang code="CHN">
+        <text>
+任务失败！
+
+是英勇，还是鲁莽？比雅尼陨落之时，诸神落泪……少了这位英雄，任务的结局将永远对你隐藏。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+VERSCHLOSSENER RAUM
+
+Das Innere dieses Raumes wird dir verborgen bleiben, solange nicht alle Fackeln entfacht sind!
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="CHN">
+        <text>
+任务失败！
+        </text>
+        <text>
+一时的轻率，生命便转瞬即逝！你的女英雄希拉，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="200">
+      <lang code="CHN">
+        <text>
+任务失败！
+        </text>
+        <text>
+一时的轻率，生命便转瞬即逝！你的挚友派罗因你的疏忽而殒命！少了它，任务的结局将永远对你隐藏。
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="300">
+      <lang code="CHN">
+        <text>任务失败！</text>
+        <text>生活中的片刻疏忽，人生如此迅速！ 你的朋友派罗因你的疏忽而丧命！失去他，你将无法得知任务的结局。</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund PYRO erlag durch deine Unachtsamkeit! Ohne ihn wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="CHN">
+        <text>
+干得漂亮！
+        </text>
+        <usericon>1,49,21</usericon>
+      </lang>
+      <lang code="ger">
+        <text> 
+Wir hatten den Krisall im Inneren der Höhle gefunden! Nun mußten wir ihn zum Waldhüter BORKENZAHN bringen.
+
+</text>
+        <usericon>1,49,21</usericon>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="CHN" />
+      <lang code="ger" />
+    </block>
+    <block id="50_endheader">
+      <lang code="CHN">
+        <text>
+任务成功！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+MISSION GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+水晶洞穴
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DIE DUNKLE HÖHLE
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

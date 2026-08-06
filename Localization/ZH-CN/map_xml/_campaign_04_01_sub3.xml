@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="_campaign_04_01_sub3" export_map_id="_campaign_04_01_sub3" map_md5="ecb03d59e80a134896f72db2765cd9fc" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">@向格拉乌霍尔姆打听诺伯特的身世！</text>
+      <text lang="ger">@ERFAHRE VON GRAUHOLM ÜBER NORBERTS HERKUNFT!</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">寻找罗希尔德与布劳施特鲁姆夫，将她们带往格拉乌霍尔姆。</text>
+      <text lang="ger">Suche Rothild und Blaustrump und bringe sie zu Grauholm.</text>
+    </string>
+    <string id="50">
+      <text lang="CHN">比雅尼的部族</text>
+      <text lang="ger">Bjarnis Stamm</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">石龙</text>
+      <text lang="ger">Steindrachen</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">火龙</text>
+      <text lang="ger">Feuerdrachen</text>
+    </string>
+    <string id="53">
+      <text lang="CHN">水龙</text>
+      <text lang="ger">Wasserdrachen</text>
+    </string>
+    <string id="61">
+      <text lang="CHN">格罗尔斯</text>
+      <text lang="ger">Gerols</text>
+    </string>
+    <string id="62">
+      <text lang="CHN">卢米斯</text>
+      <text lang="ger">Lumis</text>
+    </string>
+    <string id="63">
+      <text lang="CHN">阿夸斯</text>
+      <text lang="ger">Aquas</text>
+    </string>
+    <string id="71">
+      <text lang="CHN">格拉乌霍尔姆</text>
+      <text lang="ger">GRAUHOLM</text>
+    </string>
+    <string id="72">
+      <text lang="CHN">罗希尔德</text>
+      <text lang="ger">Rothild</text>
+    </string>
+    <string id="73">
+      <text lang="CHN">布劳施特鲁姆夫</text>
+      <text lang="ger">Blaustrump</text>
+    </string>
+    <string id="75">
+      <text lang="CHN">诺伯特</text>
+      <text lang="ger">Norbert</text>
+    </string>
+    <string id="76">
+      <text lang="CHN">玛尼</text>
+      <text lang="ger">Mani</text>
+    </string>
+    <string id="99">
+      <text lang="CHN">石龙圣殿</text>
+      <text lang="ger">DIE HEILIGE HALLE DER STEINDRACHEN</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="CHN">
+        <text>
+睿智的格拉乌霍尔姆可会知晓诺伯特的身世？他们很快便能得知答案……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Bis hierher hatten es Norbert und Mani geschafft. 
+Die heilige Halle der Steindrachen lag vor ihnen. 
+
+</text>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="CHN">
+        <text>
+环绕格拉乌霍尔姆的守卫龙
+“格拉乌霍尔姆已然在等候你们！随我们来见他！”
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Würde der weise Grauholm etwas über Norberts Herkunft wissen? 
+Bald nun sollten sie eine Antwort auf diese Frage erhalten...
+</text>
+      </lang>
+    </block>
+    <block id="01">
+      <lang code="CHN">
+        <text>
+格拉乌霍尔姆
+“你们当真做到了，化解了各族之间的芥蒂！”
+        </text>
+        <usericon>2,9</usericon>
+        <text>
+仅余一对尚未和好，不过我怀疑这两位并非因偏见、恐惧或嫉妒而争执……罗希尔德与布劳施特鲁姆夫，火龙与水龙的两位代表，把这里的日子搅得着实难熬……
+罗希尔德在西侧殿堂，布劳施特鲁姆夫在东侧。找到他们，带他们来见我，我便将你们的身世相告！”
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DIE WACHDRACHEN UM GRAUHOLM                        
+
+</text>
+        <usericon>2,9</usericon>
+        <text>
+
+"GRAUHOLM erwartet euch bereits! Folgt uns zu ihm!"
+</text>
+      </lang>
+    </block>
+    <block id="02">
+      <lang code="CHN">
+        <text>
+鲜花！
+
+玛尼与诺伯特在撮合二者时，不得不使了点小计谋……两条龙都倔强得很。这时他们有了个主意！
+        </text>
+        <usericon>2,1</usericon>
+        <text>
+或许送几束鲜花、说几句编造的好话？于是玛尼与诺伯
+
+特采了几朵蓝花，走向罗希尔德……
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+GRAUHOLM
+
+"Wahrlich, ihr habt es geschafft den Twist zwischen den einzelnen Völkern beizulegen!
+
+</text>
+        <usericon>2,1</usericon>
+        <text>
+
+Ein einziger ist noch übriggeblieben, doch ich bezweifele, dass diese zwei sich aus Untoleranz, Angst oder Neid streiten....
+Rothild und Blaustrump, zwei Vertreter der Feuer- und Wasserdrachen, machen sich das Leben hier wirklich schwer...
+
+Rothild ist in den Hallen im Westen und Blaustrump in denen im Osten. Findet und bringt sie zu mir und ich werde euch von eurer Herkunft berichten!
+</text>
+      </lang>
+    </block>
+    <block id="03">
+      <lang code="CHN">
+        <text>
+罗
+
+希尔德</text>
+        <usericon>1,10,116</usericon>
+        <text>
+“我才不要去见那个自命不凡的水龙！”罗希尔德说罢，便转过身去。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+BLUMEN!
+
+Mani und Norbert mussten bei der Versöhnung der beiden einen Trick anwenden...
+Die Drachen waren sehr dickköpfig. Dann hatten sie eine Idee! 
+
+</text>
+        <usericon>1,10,116</usericon>
+        <text>
+
+Vielleicht ein paar Blumen und ein paar geflunkelte nette Worte? 
+So pflückten Mani und Norbert ein paar blaue Blumen und gingen zu Rothild...
+</text>
+      </lang>
+    </block>
+    <block id="04">
+      <lang code="CHN">
+        <text>
+罗希尔德
+“蓝花，可真美呀！什么？这花是布劳施特鲁姆夫送来的？”
+
+身为水龙，倒颇有几分品味。或许我先前错看了他？
+好吧，我愿随你们前去。”
+        </text>
+        <usericon>2,2</usericon>
+      </lang>
+      <lang code="ger">
+        <text> 
+ROTHILD
+
+"Ich werde nicht mitkommen und diesen eingebildeten Wasserdrachen dort treffen!... tze"
+sprach Rothild und kehrte uns den Rücken zu.
+
+</text>
+        <usericon>2,2</usericon>
+      </lang>
+    </block>
+    <block id="05">
+      <lang code="CHN">
+        <text>
+布劳
+
+斯特伦普</text>
+        <usericon>2,2</usericon>
+        <text>
+“罗希尔德以为自己多了不得！不，我才不要去，免得碰上她。
+
+”布劳施特鲁姆夫说罢，转过身去。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+ROTHILD
+
+"Blaue Blumen, die sind aber wunderschön!
+Wie? Diese Blumen kommen von Blaustrump? 
+
+</text>
+        <usericon>2,2</usericon>
+        <text>
+
+Für einen Wasserdrachen hat er ja einen guten Geschmack. Vielleicht hatte ich mich ja in ihm getäuscht?
+
+Gut, ich werde Euch begleiten."
+</text>
+      </lang>
+    </block>
+    <block id="06">
+      <lang code="CHN">
+        <text>
+布劳施特鲁姆夫
+
+“什么，她喜欢我？此话当真？既然如此，我自然随你们去。其实我私下里，一直觉得她俏皮可爱。”
+        </text>
+        <usericon>2,3</usericon>
+      </lang>
+      <lang code="ger">
+        <text> 
+BLAUSTRUMP
+
+"Diese Rothild denkt sie wär etwas Besonderes! Nein ich werde nicht mitkommen und sie dort eventuell treffen."
+sprach Blaustrump und kehrte uns den Rücken zu.
+
+</text>
+        <usericon>2,3</usericon>
+      </lang>
+    </block>
+    <block id="07">
+      <lang code="CHN">
+        <text>
+罗希尔德与布劳施特鲁姆夫
+
+当这两头倔龙换了个眼光彼此相看，一切便水到渠成。虽血脉不同，他们却找到了彼此。”
+        </text>
+        <usericon>2,3</usericon>
+      </lang>
+      <lang code="ger">
+        <text> 
+BLAUSTRUMP
+
+"Wie, sie mag mich? Ist das wirklich wahr? Na wenn das so ist, werd ich euch natürlich begleiten. Insgeheim hab ich sie ja schon immer ganz süß gefunden."
+
+</text>
+        <usericon>2,3</usericon>
+      </lang>
+    </block>
+    <block id="08">
+      <lang code="CHN">
+        <text>
+任务失败！
+
+一时的轻率，生命便转瞬即逝！你的挚友、英雄之龙诺伯特，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+        </text>
+        <usericon>2,2</usericon>
+      </lang>
+      <lang code="ger">
+        <text> 
+ROTHILD UND BLAUSTRUMP
+
+Als die beiden dickköpfigen Drachen sich nun so mit anderen Augen sahen, verlief alles wie von selbst. Sie hatten trotz ihrer unterschiedlichen Abstammung zueinander gefunden." 
+
+</text>
+        <usericon>2,2</usericon>
+      </lang>
+    </block>
+    <block id="09">
+      <lang code="CHN" />
+      <lang code="ger" />
+    </block>
+    <block id="500">
+      <lang code="CHN">
+        <text>
+任务失败！
+        </text>
+        <text>
+可惜他们的温厚常被利用，成了托鲁曼人钟爱的猎物。唯极少数远离尘世者得以幸存。若世上尚有地龙，那必在丛林深处。
+向南而行吧！”
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="50_end">
+      <lang code="CHN">
+        <text>
+格拉乌霍尔姆
+
+"如今你们也让这两位重归于好。作为答谢，我便将所知关于你们身世的一切告诉你们：诺伯特，我年幼的土龙……"
+        </text>
+        <usericon>1,121,29</usericon>
+        <text>
+不幸的是，他们的善良常被人利用，他们曾是托鲁曼人热衷捕猎的目标。
+
+只有少数龙族在远离尘世之处幸存下来。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+GRAUHOLM
+
+"Nun habt ihr auch diese beiden zusammengebracht. Ich will euch zum Dank erzählen, was ich von Eurer Herkunft weiß:
+Norbert, mein junger Erdrache
+Die Erdrachen waren ein friedliches Volk, das niemals anderen Geschöpfen Leid zufügte. 
+
+</text>
+        <usericon>1,121,29</usericon>
+        <text>
+
+Leider wurde ihre Gutmütigkeit oftmals ausgenutzt und sie waren ein beliebtes Jagdziel der TORUMANNEN. Nur wenige haben abgeschieden von der restlichen Welt überlebt. 
+Wenn es noch Erdrachen gibt, dann im Dschungel. 
+
+Zieht also nach Süden!"
+</text>
+      </lang>
+    </block>
+    <block id="50_end1">
+      <lang code="CHN" />
+      <lang code="ger" />
+    </block>
+    <block id="50_endheader">
+      <lang code="CHN">
+        <text>
+任务成功！
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+MISSION GEWONNEN! 
+</text>
+      </lang>
+    </block>
+    <block id="600">
+      <lang code="CHN">
+        <text>任务失败！</text>
+        <text>生活中的片刻疏忽，人生如此迅速！ 玛尼——比雅尼与希拉之子——因你的疏忽而丧命！失去这位英雄，你将无法得知任务的结局。</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+石龙殿堂
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DIE HEILIGE HALLE DER STEINDRACHEN
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

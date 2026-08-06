@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="campaign_03_08" export_map_id="campaign_03_08" map_md5="4deaf314f5f2ada7328cc3d95b1a4799" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">@寻得各座世界奇观的圣物！</text>
+      <text lang="ger">@SUCHE DIE ARTEFAKTE DER EINZELNEN WELTWUNDER!</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">寻得亚历山大港灯塔的圣物。</text>
+      <text lang="ger">Finde das Artefakt des Leuchtturmes von Alexandria.</text>
+    </string>
+    <string id="2">
+      <text lang="CHN">寻得塞米拉米斯空中花园的圣物。</text>
+      <text lang="ger">Finde das Artefakt der hängenden Gärten der Semiramis.</text>
+    </string>
+    <string id="3">
+      <text lang="CHN">寻得罗德岛巨像的圣物。</text>
+      <text lang="ger">Finde das Artefakt der Kolosses von Rhodos.</text>
+    </string>
+    <string id="4">
+      <text lang="CHN">寻得摩索拉斯王陵的圣物。</text>
+      <text lang="ger">Finde das Artefakt der Grabstätte des Mausolos.</text>
+    </string>
+    <string id="5">
+      <text lang="CHN">寻得以弗所神庙的圣物。</text>
+      <text lang="ger">Finde das Artefakt des Tempels von Ephesos.</text>
+    </string>
+    <string id="6">
+      <text lang="CHN">寻得奥林匹亚宙斯巨像的圣物。</text>
+      <text lang="ger">Finde das Artefakt der Zeusstatue in Olympia.</text>
+    </string>
+    <string id="7">
+      <text lang="CHN">寻得吉萨金字塔的圣物。</text>
+      <text lang="ger">Finde das Artefakt der Pyramiden von Gizeh.                                                                         .</text>
+    </string>
+    <string id="8">
+      <text lang="CHN">前往方尖碑，查明暗黑势力迟迟未被驱逐的根由！</text>
+      <text lang="ger">Gehe zum Obelisken und suche nach der Ursache für die ausbleibende Vertreibung der dunklen Mächte!                                                                         .</text>
+    </string>
+    <string id="9">
+      <text lang="CHN">向撒拉逊人运入 30 大理石入城，否则与之交战！必要时自建仓库。</text>
+      <text lang="ger">Bringe den Sarazenen 30 Marmor in die Stadt oder bekämpfe sie! Baue, wenn nötig, ein eigenes Lagerhaus.</text>
+    </string>
+    <string id="10">
+      <text lang="CHN">统一这座分裂之城！寻得各方市长，将他们带往方尖碑！</text>
+      <text lang="ger">Vereine die geteilte Stadt! Suche die jeweiligen Bürgermeister auf und bringe sie zum Obelisken!</text>
+    </string>
+    <string id="11">
+      <text lang="CHN">向沼泽部族缴纳 25 单位草药作贡金！</text>
+      <text lang="ger">Reiche dem Moorvolk 25 Kräuter zum Tribut!</text>
+    </string>
+    <string id="12">
+      <text lang="CHN">由一名西北岛民的居民引航，前往遥远的东南岛民处！</text>
+      <text lang="ger">Fahre mit einem Bewohner des Inselvolkes im Nordwesten zu denen im weiten Südosten!</text>
+    </string>
+    <string id="13">
+      <text lang="CHN">与全部英雄返回方尖碑！</text>
+      <text lang="ger">Gehe mit ALLEN deinen Helden zurück zum Obelisken!</text>
+    </string>
+    <string id="20">
+      <text lang="CHN">大理石 %d/30</text>
+      <text lang="ger">Marmor %d/30</text>
+    </string>
+    <string id="21">
+      <text lang="CHN">物资已送达</text>
+      <text lang="ger">Waren geliefert</text>
+    </string>
+    <string id="51">
+      <text lang="CHN">撒拉逊人</text>
+      <text lang="ger">Sarazenen</text>
+    </string>
+    <string id="52">
+      <text lang="CHN">城区 1</text>
+      <text lang="ger">Stadtteil 1</text>
+    </string>
+    <string id="53">
+      <text lang="CHN">城区 2</text>
+      <text lang="ger">Stadtteil 2</text>
+    </string>
+    <string id="54">
+      <text lang="CHN">城区 3</text>
+      <text lang="ger">Stadtteil 3</text>
+    </string>
+    <string id="55">
+      <text lang="CHN">沼泽部族</text>
+      <text lang="ger">Moorvolk</text>
+    </string>
+    <string id="56">
+      <text lang="CHN">岛民</text>
+      <text lang="ger">Inselvolk</text>
+    </string>
+    <string id="61">
+      <text lang="CHN">撒.</text>
+      <text lang="ger">Saraz.</text>
+    </string>
+    <string id="62">
+      <text lang="CHN">城 1</text>
+      <text lang="ger">Stadt 1</text>
+    </string>
+    <string id="63">
+      <text lang="CHN">城 2</text>
+      <text lang="ger">Stadt 2</text>
+    </string>
+    <string id="64">
+      <text lang="CHN">城 3</text>
+      <text lang="ger">Stadt 3</text>
+    </string>
+    <string id="65">
+      <text lang="CHN">沼.</text>
+      <text lang="ger">Moorv.</text>
+    </string>
+    <string id="66">
+      <text lang="CHN">岛.</text>
+      <text lang="ger">Inselv.</text>
+    </string>
+    <string id="71">
+      <text lang="CHN">比雅尼</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="CHN">希拉</text>
+      <text lang="ger">Cyra</text>
+    </string>
+    <string id="73">
+      <text lang="CHN">哈奇</text>
+      <text lang="ger">Hatschi</text>
+    </string>
+    <string id="74">
+      <text lang="CHN">西格德</text>
+      <text lang="ger">Sigurd</text>
+    </string>
+    <string id="75">
+      <text lang="CHN">诺伯特</text>
+      <text lang="ger">Norbert</text>
+    </string>
+    <string id="76">
+      <text lang="CHN">玛尼</text>
+      <text lang="ger">Mani</text>
+    </string>
+    <string id="98">
+      <text lang="CHN">我们在那座岛上登陆，岛心矗立着一根巨力方尖碑——第八大奇迹。据先知所言，它当汇聚其余奇观之力，由此逐退暗黑势力……</text>
+      <text lang="ger">Wir landeten auf jener Insel, in deren Mitte ein mächtiger Obelisk - das achte Weltwunder - thronte. Nach den Vorhersagungen sollte er die Energien der anderen Wunder in sich bündeln und so die dunklen Mächte bannen... </text>
+    </string>
+    <string id="99">
+      <text lang="CHN">第八大奇迹</text>
+      <text lang="ger">DAS ACHTE WELTWUNDER</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="00_start">
+      <lang code="CHN">
+        <text>
+我们登上那岛，岛心矗一巨柱方尖碑——第八大奇迹。远望便见。据诸族议会预言，它当汇聚他奇迹之力，借此逐出黑暗。
+
+这项伟业，最终落在了我们肩上。
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Wir landeten auf jener Insel, in deren Mitte ein mächtiger Obelisk - das Achte Weltwunder - thronte. Schon von weitem konnten wir ihn sehen. Nach den Vorhersagungen des Völkerrates sollte er die Energien der anderen Wunder in sich bündeln und damit die dunklen Mächte bannen. 
+
+Als dies nach Fertigstellung der anderen sieben Wunder nicht geschehen war, sandte uns der Völkerrat zu diesem Ort, um dem Rätsel auf den Grund zu gehen...
+</text>
+      </lang>
+    </block>
+    <block id="00_start1">
+      <lang code="CHN">
+        <text>
+
+
+前往方尖碑，查明黑暗势力未能被逐之因！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+Gehe zum Obelisken und suche nach der Ursache für die ausbleibende Vertreibung der dunklen Mächte!
+</text>
+      </lang>
+    </block>
+    <block id="01">
+      <lang code="CHN">
+        <text>
+
+
+分裂之城
+
+"岛自海中升起时，我们盼得好土肥田，无人相争。今却须将城一分为三。
+
+三区各由一长治理。三人互不往来，因谁也不愿踏入他区！若有人能将这三个倔脑凑到一处，便好了！"分裂之城的居民怨道。
+
+
+        
+        </text>
+        <text>
+
+
+
+统一分裂之城！寻访各区长，带他们赴方尖碑！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DIE GETEILTE STADT
+
+"Als die Insel sich aus dem Meer erhob, hofften wir auf gutes, saftiges Land, das uns niemand streitig machen würde. Doch nun mussten wir unsere Stadt teilen. 
+
+Jeder einzelne der drei Bezirke wird von einem eigenen Bürgermeister verwaltet. Gespräche unter den dreien finden nicht statt, da keiner den Bereich des anderen betreten will! Wenn nur jemand diese drei Dickköpfe zusammen bringen könnte!" jammerten die Bewohner der geteilten Stadt.
+
+</text>
+        <usericon>1,127,180</usericon>
+        <text>
+
+Vereine die geteilte Stadt! Suche die jeweiligen Bürgermeister auf und bringe sie zum Obelisken!
+</text>
+      </lang>
+    </block>
+    <block id="02">
+      <lang code="CHN">
+        <text>
+
+
+方尖碑
+
+今就近观之，我们几不能呼吸！其宏大优雅，逾于他奇迹。碑脚四面，皆嵌他七奇迹圣物之台。然这些圣物竟告阙如！
+莫非在此定居之人，将它们窃去了？
+
+
+        
+        </text>
+        <text>
+
+
+
+我们当查明……
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+OBELISK
+
+Nun sahen wir ihn aus der Nähe und uns blieb fast der Atem stehen! Seine Größe und Anmut übertraf jedes andere Weltwunder. Am Fuß des Obelisken waren zu jeder Seite Podeste für die Artefakte der anderen sieben Weltwunder eingelassen. Doch diese Artefakte fehlten! 
+Sollten die Menschen, die sich hier niedergelassen hatten, sie etwa entwendet haben?
+
+</text>
+        <usericon>1,195,224</usericon>
+        <text>
+
+Wir sollten dies herausfinden... 
+</text>
+      </lang>
+    </block>
+    <block id="03">
+      <lang code="CHN">
+        <text>
+
+
+撒拉逊人
+
+"亚历山大灯塔，建于我土——用我等原料！"撒拉逊人忿道，"送来大理石，我们便将灯塔圣物归位看守，使他人不能擅取！"
+
+
+        
+        </text>
+        <text>
+
+
+
+向撒拉逊人运送 30 大理石入城，或与之交战！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+SARAZENEN
+
+"In unserem Land wurde der Leuchtturm von Alexandria erbaut, von UNSEREN Rohstoffen!" schimpften die Sarazenen. "Bringt uns Marmor und wir werden das Artefakt des Leuchtturmes vielleicht an seinen Platz zurückbringen und es bewachen, so dass niemand sonst es sich aneignen kann!"
+
+</text>
+        <usericon>1,314,182</usericon>
+        <text>
+
+Bringe den Sarazenen 30 Marmor in die Stadt oder bekämpfe sie! 
+</text>
+      </lang>
+    </block>
+    <block id="04">
+      <lang code="CHN">
+        <text>
+
+
+货物已送达
+
+
+        
+        </text>
+        <text>
+
+
+
+我们已将所索之物予撒拉逊人。他们守信，将亚历山大灯塔圣物送归原处。
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+WAREN GELIEFERT
+
+</text>
+        <usericon>1,195,221</usericon>
+        <text> 
+
+Wir hatten die geforderten Waren den Sarazenen geliefert. Sie hielten Wort und brachten das Artefakt des Leuchtturmes von Alexandria zurück an seinen Bestimmungsort. 
+</text>
+      </lang>
+    </block>
+    <block id="05">
+      <lang code="CHN">
+        <text>
+
+
+所有圣物皆已寻得！
+
+我们满心自豪，得以禀报：诸奇迹圣物，尽已寻得！
+
+
+        
+        </text>
+        <text>
+
+
+
+今率全体英雄返回方尖碑！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+ALLE ARTEFAKTE GEFUNDEN!
+
+Voller Stolz konnten wir berichten: Wir hatten alle Artefakte der Weltwunder gefunden!
+
+</text>
+        <usericon>1,195,221</usericon>
+        <text> 
+
+Gehe nun mit ALLEN deinen Helden zurück zum Obelisken!
+</text>
+      </lang>
+    </block>
+    <block id="06">
+      <lang code="CHN">
+        <text>
+
+
+北区区长
+
+
+        
+        </text>
+        <text>
+
+
+
+"我治城北之区。莫非你想说，我治事不力？"区长傲然叱我们。
+"我绝不踏足他区半步！休想！
+
+……
+
+什么？另两人愿与我于中立之地、在方尖碑前相会？此念倒似出自我口！"
+
+带区长赴方尖碑！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+BÜRGERMEISTER NORD
+
+</text>
+        <usericon>2,7</usericon>
+        <text>
+
+"Ich verwalte den nördlichen Bereich der Stadt. Wollt ihr mir etwa sagen, ich mache meine Arbeit nicht gut?" fuhr uns der Bürgermeister forsch an.
+"Ich werde nie einen Schritt in die Bereiche des anderen setzen! Kommt nicht in Frage!
+
+...
+
+Wie? Die anderen zwei wollen sich mit mir auf neutralen Boden treffen? Am Obelisken? Diese Idee hätte von mir stammen können!"
+
+Bringe den Bürgermeister zum Obelisken!
+</text>
+      </lang>
+    </block>
+    <block id="07">
+      <lang code="CHN">
+        <text>
+
+
+中区区长
+
+
+        
+        </text>
+        <text>
+
+
+
+"我治城中之地。莫非你想说，我治事不力？"区长傲然叱我们。
+"我绝不踏足他区半步！休想！
+
+……
+
+什么？另两人愿与我于中立之地、在方尖碑前相会？此念倒似出自我口！"
+
+带区长赴方尖碑！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+BÜRGERMEISTER MITTE
+
+</text>
+        <usericon>2,8</usericon>
+        <text>
+
+"Ich verwalte den mittleren Bereich der Stadt. Wollt ihr mir etwa sagen, ich mache meine Arbeit nicht gut?" fuhr uns der Bürgermeister forsch an.
+"Ich werde nie einen Schritt in die Bereiche des anderen setzen! Kommt nicht in Frage!
+
+...
+
+Wie? Die anderen zwei wollen sich mit mir auf neutralen Boden treffen? Am Obelisken? Diese Idee hätte von mir stammen können!"
+
+Bringe den Bürgermeister zum Obelisken!
+</text>
+      </lang>
+    </block>
+    <block id="08">
+      <lang code="CHN">
+        <text>
+
+
+南区区长
+
+
+        
+        </text>
+        <text>
+
+
+
+"我治城南之区。莫非你想说，我治事不力？"区长傲然叱我们。
+"我绝不踏足他区半步！休想！
+
+……
+
+什么？另两人愿与我于中立之地、在方尖碑前相会？此念倒似出自我口！"
+
+带区长赴方尖碑！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+BÜRGERMEISTER SÜD
+
+</text>
+        <usericon>2,9</usericon>
+        <text>
+
+"Ich verwalte den südlichen Bereich der Stadt. Wollt ihr mir etwa sagen, ich mache meine Arbeit nicht gut?" fuhr uns der Bürgermeister forsch an.
+"Ich werde nie einen Schritt in die Bereiche des anderen setzen! Kommt nicht in Frage!
+
+...
+
+Wie? Die anderen zwei wollen sich mit mir auf neutralen Boden treffen? Am Obelisken? Diese Idee hätte von mir stammen können!"
+
+Bringe den Bürgermeister zum Obelisken!
+</text>
+      </lang>
+    </block>
+    <block id="09">
+      <lang code="CHN">
+        <text>
+
+
+城市统一！
+
+
+        
+        </text>
+        <text>
+
+
+
+三区区长相聚，不消多时便和解了。因各以为，是先迈步者乃对方。
+各区所藏圣物，他们共行大典，归置于方尖碑前预定之处。
+
+三区长皆留驻此地，亲守此所！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+STADT VEREINT!
+
+</text>
+        <usericon>2,9</usericon>
+        <text>
+
+Als sich die Bürgermeister der Stadtteile zusammenfanden, dauerte es nicht mehr lange, bis sie sich versöhnten. Denn jeder dachte von dem anderen, er hätte den ersten Schritt getan. 
+Die Artefakte, die jeder einzelne Stadtteil beherbergte, legten sie gemeinsam in einer feierlichen Zeremonie an den dafür vorgesehenen Platz am Obelisken zurück.
+
+Jeder der drei Bürgermeister blieb dort und bewachte diesen Platz persönlich!
+</text>
+      </lang>
+    </block>
+    <block id="10">
+      <lang code="CHN">
+        <text>
+
+
+沼泽部族
+
+"我们藏有以弗所神庙之圣物。昔曾助你们遏以弗所沼泽之蔓。然因此，我等草药不得续种。
+
+今须你等效一力，以补此过。"沼泽智者言道。
+
+
+        
+        </text>
+        <text>
+
+
+
+向沼泽部族缴纳 25 份草药为贡！
+
+然而何等欢喜！
+
+
+        
+        </text>
+        <text>
+
+
+
+沼泽智者之中，竟有哈奇！再见他，真好！沼泽智者已习得他族中诸多风物，哈奇恰于其时重归我等。我们乐向沼泽智者纳此微薄之贡！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+MOORVOLK
+
+"Wir beherbergen das Artefakt des Tempels von Ephesos. Wir halfen euch einmal bei der Ausbreitung des Sumpfes in Ephesos. Allerdings konnten wir dadurch unsere Kräuter nicht weiter anbauen. 
+
+Nun sollt ihr uns einen Gefallen tun, um dies wieder gut zu machen." sprachen die Moorweisen.
+
+</text>
+        <usericon>1,241,475</usericon>
+        <text>
+
+Reiche dem Moorvolk 25 Kräuter zum Tribut!
+
+Doch welch' eine Freude!
+
+</text>
+        <usericon>2,3</usericon>
+        <text>
+
+Unter den Moorweisen befand sich auch Hatschi! Es tat so gut, ihn wieder zu sehen! Die Moorweisen hatten inzwischen vieles über seine Kultur gelernt, so dass Hatschi sich uns genau zur rechten Zeit wieder anschließen konnte. Gern wollten wir den Sumpfweisen nun den geringen Tribut reichen!
+</text>
+      </lang>
+    </block>
+    <block id="100">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+英雄气概，还是鲁莽？当比雅尼殒命，众神落泪……失此英雄，你便无缘得见任务终局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="11">
+      <lang code="CHN">
+        <text>
+
+
+沼泽部族
+
+"如此多珍贵草药！你等药圃匠人，确懂其道！我们便将神庙圣物归置原处，并助守之！"
+
+
+        
+        </text>
+        <text>
+
+
+
+不过须臾，几名妇人化烟而散。我们必于方尖碑前再遇她们……
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+MOORVOLK
+
+"So viele kostbare Kräuter! Euer Kräutergärtner versteht sein Handwerk! Wir legen das Artefakt des Tempels nun wieder an seinen vorherbestimmten Platz und stehen ihm beiseite!"
+
+</text>
+        <usericon>1,241,475</usericon>
+        <text>
+
+Kaum waren ein paar Augenblicke verstrichen, da lösten sich einige der Frauen in Rauch auf. Sicherlich würden wir sie am Obelisken wiedersehen...
+</text>
+      </lang>
+    </block>
+    <block id="12">
+      <lang code="CHN">
+        <text>
+
+
+岛民
+
+"我们藏有吉萨金字塔之圣物，因它本属我族！"这些撒拉逊人言道。
+"什么？激活方尖碑竟需此物？我等不知！我等怎敢擅取？
+我们这就送归原处。"
+
+
+        
+        </text>
+        <text>
+
+
+
+然我等东南远处的兄弟姐妹，却占下了宙斯巨像之圣物。他们不纳外乡人，亦不通你等言语。
+你等须至少带我族一人同往，他们方将圣物相付。"
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+INSELVOLK
+
+"Wir beherbergen das Artefakt der Pyramiden von Gizeh, denn sie gehören eigentlich unserem Volk!" meinten diese Sarazenen. 
+"Wie? Das Artefakt wird benötigt, um den Obelisken zu aktivieren? Das wussten wir nicht! Wie konnten wir es uns nur aneignen? 
+Wir bringen es zurück zu seinem Bestimmungsort."
+
+</text>
+        <usericon>1,107,50</usericon>
+        <text>
+
+Unsere Brüder und Schwestern weit im Südosten eigneten sich allerdings das Artefakt der Zeusstatue an. Sie heißen Fremde nicht willkommen und sprechen eure Sprache nicht. 
+Ihr müsst mindestens einen von uns mitnehmen, dann werden sie euch das Artefakt überlassen."
+</text>
+      </lang>
+    </block>
+    <block id="13">
+      <lang code="CHN">
+        <text>
+
+
+岛民
+
+
+        
+        </text>
+        <text>
+
+
+
+"亲人！欢迎！"这岛上的撒拉逊人，以本族之言相迎，据译所言。他们也立遣族人，将圣物送归真所。
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+INSELVOLK
+
+</text>
+        <usericon>1,339,435</usericon>
+        <text>
+
+"Verwandte! Seid Willkommen!" sprachen die Sarazenen dieser Insel in ihrer eigenen Sprache, wie uns übersetzt wurde. Auch sie schickten alsbald ihre Leute aus, um das Artefakt an seinen wahren Bestimmungsort zurückzubringen.
+</text>
+      </lang>
+    </block>
+    <block id="14">
+      <lang code="CHN">
+        <text>
+
+
+岛民
+
+
+        
+        </text>
+        <text>
+
+
+
+我们不解这岛民呼喝何意，然他们似不纳我们。
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+INSELVOLK
+
+</text>
+        <usericon>1,339,435</usericon>
+        <text>
+
+Wir verstanden nicht, was dieses Inselvolk uns entgegenrief, aber sie hießen uns scheinbar nicht willkommen.
+</text>
+      </lang>
+    </block>
+    <block id="15">
+      <lang code="CHN">
+        <text>
+
+
+老者
+
+
+        
+        </text>
+        <text>
+
+
+
+"这些不信者！诸圣物皆被盗！第一件为东面撒拉逊人所窃，第二三四件藏于西面分裂之城。第五件属南方岛上沼泽部族，第六七件在岛民手中。
+
+无此诸物，方尖碑便毫无价值！"
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DER ALTE MANN
+
+</text>
+        <usericon>1,166,220</usericon>
+        <text>
+
+"Diese Ungläubigen! Alle Artefakte wurden gestohlen! Das Erste raubten die Sarazenen im Osten, das Zweite, Dritte und Vierte beherbergt die geteilte Stadt im Westen. Das Fünfte besitzt das Moorvolk, das im Süden auf einer Insel lebt, das Sechste und Siebte haben die Inselbewohner. 
+
+Ohne diese Artefakte ist der Obelisk nichts wert!"
+</text>
+      </lang>
+    </block>
+    <block id="16">
+      <lang code="CHN">
+        <text>
+
+
+老者
+
+
+        
+        </text>
+        <text>
+
+
+
+"若你寻沼泽部族：唯舟可至。然当心，近处诸岛暗藏险阻！"
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DER ALTE MANN
+
+</text>
+        <usericon>1,141,362</usericon>
+        <text>
+
+"Falls ihr auf der Suche nach dem Moorvolk seid: ihr könnt sie nur mit Booten erreichen. Aber gebt Acht, es verbergen sich einige Gefahren auf den nahegelegenen Inseln!"
+</text>
+      </lang>
+    </block>
+    <block id="17">
+      <lang code="CHN">
+        <text>
+
+
+撒拉逊人遭攻！
+
+
+        
+        </text>
+        <text>
+
+
+
+你进攻了撒拉逊人。他们永不肯恕！
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+SARAZENEN ANGEGRIFFEN!
+
+</text>
+        <usericon>1,314,182</usericon>
+        <text>
+
+Du hast die Sarazenen angegriffen. Sie werden dir das nie vergeben! 
+</text>
+      </lang>
+    </block>
+    <block id="18">
+      <lang code="CHN">
+        <text>
+
+
+撒拉逊人覆灭！
+
+
+        
+        </text>
+        <text>
+
+
+
+你灭了撒拉逊人。圣物今归你手，然值否？
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+SARAZENEN GESTORBEN!
+
+</text>
+        <usericon>1,314,182</usericon>
+        <text>
+
+Du hast die Sarazenen vernichtet. Das Artefakt gehört nun dir, aber war es das wert? 
+</text>
+      </lang>
+    </block>
+    <block id="200">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+一时疏忽，人生便急转直下！你的女英雄希拉因你大意而殒命！失此英雄，你便无缘得见任务终局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="300">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+一时疏忽，人生便急转直下！你的挚友与英雄哈奇因你大意而殒命！失此英雄，你便无缘得见任务终局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held HATSCHI erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
+</text>
+      </lang>
+    </block>
+    <block id="400">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+一时疏忽，人生便急转直下！你的挚友与英雄西格德因你大意而殒命！失此英雄，你便无缘得见任务终局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held SIGURD erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="500">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+一时疏忽，人生便急转直下！你的挚友与英雄——巨龙诺伯特——因你大意而殒命！失此英雄，你便无缘得见任务终局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="600">
+      <lang code="CHN">
+        <text>
+
+
+任务失败！
+        
+        </text>
+        <text>
+
+
+一时疏忽，人生便急转直下！玛尼——比雅尼与希拉之子——因你大意而殒命！失此英雄，你便无缘得见任务终局。
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+
+
+第八大奇迹
+
+        
+        </text>
+      </lang>
+      <lang code="ger">
+        <text> 
+DAS ACHTE WELTWUNDER
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

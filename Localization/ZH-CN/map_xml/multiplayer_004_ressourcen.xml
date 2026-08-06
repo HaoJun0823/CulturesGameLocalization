@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="multiplayer_004_ressourcen" export_map_id="multiplayer_004_ressourcen" map_md5="99908e17dc42dd7e92abdb50e6ddbe59" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+<string id="0">
+      <text lang="CHN">经济：局促之地</text>
+      <text lang="eng">Economy: CLOSE AND PERSONAL</text>
+      <text lang="ger">Wirtschaft: INTIMES TREIBEN</text>
+    </string>
+<string id="1">
+      <text lang="CHN">4 个维京部族在一片极为狭小的土地上争夺霸权。资源紧俏——在别人开采之前，先把它抢到手！</text>
+      <text lang="eng">4 Viking tribes fight for predominance over a very small area of land. Resources are in short supply - secure them for yourself, before the others do!</text>
+      <text lang="ger">4 Wikingerstämme kämpfen um die Vorherrschaft in einem sehr kleinen Land. Die Ressourcen sind knapp - sichere sie dir, bevor andere sie abbauen!</text>
+    </string>
+<string id="2">
+      <text lang="CHN">采集一切你能弄到手的资源！欲取胜，你需要大量资源（50 黏土、75 石料、75 铁、100 金）。运进你的任一仓库。仓库若被摧毁，其中的资源便不再归你！</text>
+      <text lang="eng">Collect any resources you can! You will need many resources to win (50 units of clay, 75 of stone, 75 of iron, 100 of gold). Take them to your warehouse. If a warehouse is destroyed, the resources it holds are lost!</text>
+      <text lang="ger">Sammle alle Ressourcen, die du bekommen kannst! Zum Sieg brauchst du viele Ressourcen (50 Lehm, 75 Stein, 75 Eisen, 100 Gold). Bringe sie in eines deiner Lager. Wird ein Lager zerstört, gehören die Rohstoffe nicht mehr dir!</text>
+    </string>
+<string id="10">
+      <text lang="CHN">格陵兰人</text>
+      <text lang="eng">Greenlander</text>
+      <text lang="ger">Grönländer</text>
+    </string>
+<string id="11">
+      <text lang="CHN">格陵兰人</text>
+      <text lang="eng">Greenlander</text>
+      <text lang="ger">Grönländer</text>
+    </string>
+<string id="20">
+      <text lang="CHN">文兰人</text>
+      <text lang="eng">Vinlander</text>
+      <text lang="ger">Vinländer</text>
+    </string>
+<string id="21">
+      <text lang="CHN">文兰人</text>
+      <text lang="eng">Vinlander</text>
+      <text lang="ger">Vinländer</text>
+    </string>
+<string id="30">
+      <text lang="CHN">海卢兰人</text>
+      <text lang="eng">Hellulander</text>
+      <text lang="ger">Helluländer</text>
+    </string>
+<string id="31">
+      <text lang="CHN">海卢兰人</text>
+      <text lang="eng">Hellulander</text>
+      <text lang="ger">Helluländer</text>
+    </string>
+<string id="40">
+      <text lang="CHN">马克兰人</text>
+      <text lang="eng">Marklander</text>
+      <text lang="ger">Markländer</text>
+    </string>
+<string id="41">
+      <text lang="CHN">马克兰人</text>
+      <text lang="eng">Marklander</text>
+      <text lang="ger">Markländer</text>
+    </string>
+</strings>
+<briefings>
+<block id="begin_00">
+      <lang code="CHN">
+                <text>
+长久以来，住民之间一直存在领地纷争。谁都想把邻居挤出这片弹丸之地。
+
+"资源越来越紧了！我们得做点什么……"
+
+能抢多少就抢多少、能抢多快就抢多快！若让别人占了先，你就输了。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+The dispute over supremacy in the territory has been long, and is greatly due to the short supply of fish that people have had to share. 
+Recently, there have even been fights.
+
+"Our resources are low! We've got to do something ...," is more or less what every tribal leader thinks.
+
+Collect as many resources as fast as you can! If the others are not fast enough, they will have to leave the valley ...
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Schon lange gab es Gebietsstreitigkeiten zwischen den Einwohnern des Landes. Dabei ging es vor allem um die knappen Fischreservate, die sich alle teilen mussten. 
+In letzter Zeit war es sogar zu handfesten Auseinandersetzungen gekommen.
+
+"Die Ressourcen werden knapp! Wir müssen etwas unternehmen...". So oder so ähnlich dachte wohl jeder der Stammeshäuptlinge.
+
+Sammle soviel und so schnell du kannst! Wenn die anderen nicht schnell genug sind, werden sie aus Rohstoffmangel das Tal verlassen müssen...
+</text>
+      </lang>
+    </block>
+
+    <block id="header">
+      <lang code="CHN">
+                <text>
+局促之地
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+CLOSE AND PERSONAL
+
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+INTIMES TREIBEN
+
+</text>
+      </lang>
+    </block>
+</briefings>
+</localization>

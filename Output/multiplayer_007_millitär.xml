@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="multiplayer_007_millitär" export_map_id="multiplayer_007_millitär" map_md5="160892dba101e83c4db158c61d342541" IsC2M="false">
+  <languages>
+    <language code="GER" alias="GER" encoding="windows-1252" fix_1251="false" />
+    <language code="ENG" alias="ENG" encoding="windows-1252" fix_1251="false" />
+    <language code="POL" alias="POL" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="GER">Militär: NOCOOP</text>
+      <text lang="ENG">Military: NON CO-OP</text>
+      <text lang="POL">Walka: BRAK POROZUMIENIA</text>
+    </string>
+    <string id="1">
+      <text lang="GER">2 Spieler: Kämpfe gegen deinen Nachbarn und gegen einen mächtigen Feind im Norden!</text>
+      <text lang="ENG">2 players: Fight your neighbour and a powerful enemy in the north!</text>
+      <text lang="POL">2 graczy: pokonaj nie tylko s¹siada, ale i potê¿nego wroga z pó³nocy!</text>
+    </string>
+    <string id="2">
+      <text lang="GER">Baue deine Siedlung auf und befestige sie. Besiege deine Gegner!</text>
+      <text lang="ENG">Build up your settlement and fortify it. Defeat your enemies!</text>
+      <text lang="POL">Za³ó¿ osadê, ufortyfikuj j¹ i pokonaj wrogów!</text>
+    </string>
+    <string id="10">
+      <text lang="GER">Grönländer</text>
+      <text lang="ENG">Greenlander</text>
+      <text lang="POL">Grenlandczyk</text>
+    </string>
+    <string id="11">
+      <text lang="GER">Grönländer</text>
+      <text lang="ENG">Greenlander</text>
+      <text lang="POL">Grenlandczyk</text>
+    </string>
+    <string id="20">
+      <text lang="GER">Vinländer</text>
+      <text lang="ENG">Vinlander</text>
+      <text lang="POL">Winlandczyk</text>
+    </string>
+    <string id="21">
+      <text lang="GER">Vinländer</text>
+      <text lang="ENG">Vinlander</text>
+      <text lang="POL">Winlandczyk</text>
+    </string>
+    <string id="30">
+      <text lang="GER">Helluländer</text>
+      <text lang="ENG">Hellulander</text>
+      <text lang="POL">Hellulandczyk</text>
+    </string>
+    <string id="31">
+      <text lang="GER">Helluländer</text>
+      <text lang="ENG">Hellulander</text>
+      <text lang="POL">Hellulandczyk</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="begin_00">
+      <lang code="GER">
+        <text>
+Im Land der Wikinger hatte sich durch den Zusammenschluss zweier mächtiger Stämme ein großes, kriegerisches Dorf gebildet.
+So erstarkt beschloss man schnell, das Land von allen anderen Stämmen zu säubern - und das betrifft auch DEINEN Stamm!
+
+Zu allem Unglück hast du auch noch einen Nachbarn, der zwar in der gleichen Gefahr schwebt, aber mit dir schon seit langem im Clinch liegt. 
+
+Daher versucht nun jeder alleine, sich im Kampf zu behaupten. Baue besser deine Verteidigung aus, bevor du selbst jemanden angreifst!
+
+
+Hinweis:
+Du bist bereits von Beginn an im Besitz wertvoller Schriftrollen! Nutze sie geschickt, um dein Dorf aufzubauen.
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+In the land of the Vikings, two powerful tribes have joined forces and thus created a large village of warriors.
+Urged on by their new strength, they have decided to wipe the land clean of all other tribes - including YOURS!
+
+Unfortunately, though your neighbour faces the same problem, you have been at odds with him for a long time. 
+
+So now it is every man for himself. Build up your defences before attacking your rivals!
+
+
+Note:
+From the beginning, you own valuable permits! Use them wisely to build up your village.
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+W krainie Wikingów dwa potê¿ne plemiona po³¹czy³y swe si³y, zak³adaj¹c wspólnie ogromn¹ osadê wojowników.
+Ufne we w³asne si³y, po³¹czone plemiona postanowi³y pozbyæ siê swoich s¹siadów - ³¹cznie z TOB¥!
+
+Niestety, choæ pobliskie plemiê ma ten sam problem, ze wzglêdu na dawne spory nie zamierza ciê wspomóc.
+
+Tak wiêc ka¿dy walczy za siebie. Rozbuduj umocnienia nim zaatakujesz przeciwnika!
+
+
+Uwaga:
+Wykorzystaj swoj¹ siln¹ pozycjê na pocz¹tku gry! M¹drze zaplanuj rozbudowê osady.
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="GER">
+        <text>
+
+NOCOOP
+
+</text>
+      </lang>
+      <lang code="ENG">
+        <text>
+
+NON CO-OP
+
+</text>
+      </lang>
+      <lang code="POL">
+        <text>
+
+BRAK POROZUMIENIA
+
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

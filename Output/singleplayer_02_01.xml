@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="singleplayer_02_01" export_map_id="singleplayer_02_01" map_md5="560961774be4884f389ff29e8424e3d9" IsC2M="false">
+  <languages>
+    <language code="GER" alias="GER" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="GER">Baue deine Nahrungsversorgung auf!</text>
+    </string>
+    <string id="1">
+      <text lang="GER">Vernichte die Bedrohung im Schlangenmoor!</text>
+    </string>
+    <string id="2">
+      <text lang="GER">Öffne den Eingang zum geheimen Stollen, der zur anderen Seite des Gebirges führt!</text>
+    </string>
+    <string id="3">
+      <text lang="GER">Öffne den Zugang zu der Höhle, in der sich der zweite Schalter befindet!</text>
+    </string>
+    <string id="4">
+      <text lang="GER">Zahle den Tribut, um mit dem Bergbauervolk handeln zu können.</text>
+    </string>
+    <string id="6">
+      <text lang="GER">Finde das Versteck der Flüchtlinge! Du hast nur wenig Zeit!</text>
+    </string>
+    <string id="7">
+      <text lang="GER">Vernichte die Wolfsmenschen, welche dem Stamm Miguels so viel Kummer und Leid brachten!</text>
+    </string>
+    <string id="8">
+      <text lang="GER">Betritt mit Bjarni den Eingang der Wolfshöhle!</text>
+    </string>
+    <string id="9">
+      <text lang="GER">Schenke Miguel per Tribut ein Langschwert, einen Eisenspeer und einen Langbogen, damit er mit diesen Waffen üben kann!</text>
+    </string>
+    <string id="11">
+      <text lang="GER">Erkunde deine Umgebung!</text>
+    </string>
+    <string id="12">
+      <text lang="GER">Erwirb eine Landkarte von Miguel!</text>
+    </string>
+    <string id="13">
+      <text lang="GER">Betritt nun mit Bjarni den Stollen im Nordwesten, durch den Miguel in das Tal kam!</text>
+    </string>
+    <string id="14">
+      <text lang="GER">Schenke den Flüchtlingen die geforderten Waren.</text>
+    </string>
+    <string id="15">
+      <text lang="GER">Erforsche das Schlangenlabyrinth!</text>
+    </string>
+    <string id="16">
+      <text lang="GER">Gib Miguel Kuchen und Met!</text>
+    </string>
+    <string id="17">
+      <text lang="GER">Bezahle Miguel den Tribut, um mit ihm handeln zu können!</text>
+    </string>
+    <string id="18">
+      <text lang="GER">Versuche, so schnell wie möglich auf die andere Seite des Tals zu gelangen. Vielleicht findest du noch Überlebende!</text>
+    </string>
+    <string id="21">
+      <text lang="GER">Gib Miguel etwas zu essen und geselle dich dann wieder zu ihm!</text>
+    </string>
+    <string id="30">
+      <text lang="GER">Gib Miguel folgende Waren für mehr Infos:</text>
+    </string>
+    <string id="31">
+      <text lang="GER">Wenn du möchtest, gib Miguel seine Leckereien!</text>
+    </string>
+    <string id="32">
+      <text lang="GER">Zahle den Preis, wenn du die Karte haben möchtest.</text>
+    </string>
+    <string id="34">
+      <text lang="GER">Zahle für die Möglichkeit, mit Miguel zu handeln:</text>
+    </string>
+    <string id="35">
+      <text lang="GER">Gib den Bergbauern:</text>
+    </string>
+    <string id="36">
+      <text lang="GER">Schenke Miguel folgende Waffen:</text>
+    </string>
+    <string id="37">
+      <text lang="GER">Schenke den Flüchtlingen die geforderten Waren.</text>
+    </string>
+    <string id="50">
+      <text lang="GER">Bjarnis Stamm</text>
+    </string>
+    <string id="51">
+      <text lang="GER">Bjarni</text>
+    </string>
+    <string id="52">
+      <text lang="GER">Bergbauervolk</text>
+    </string>
+    <string id="53">
+      <text lang="GER">Bergb.</text>
+    </string>
+    <string id="54">
+      <text lang="GER">Miguel</text>
+    </string>
+    <string id="55">
+      <text lang="GER">Mig</text>
+    </string>
+    <string id="56">
+      <text lang="GER">Schlangenkrieger</text>
+    </string>
+    <string id="57">
+      <text lang="GER">Schl.</text>
+    </string>
+    <string id="58">
+      <text lang="GER">Wolfsmenschen</text>
+    </string>
+    <string id="59">
+      <text lang="GER">Wölfe</text>
+    </string>
+    <string id="60">
+      <text lang="GER">Miguels Stamm</text>
+    </string>
+    <string id="61">
+      <text lang="GER">Wache</text>
+    </string>
+    <string id="62">
+      <text lang="GER">Lager</text>
+    </string>
+    <string id="63">
+      <text lang="GER">Lager</text>
+    </string>
+    <string id="71">
+      <text lang="GER">Bjarni</text>
+    </string>
+    <string id="72">
+      <text lang="GER">Miguel</text>
+    </string>
+    <string id="98">
+      <text lang="GER">Die Wikinger bauen gerade eine neue Siedlung auf, als sie von einem fahrenden Händler in ein großes Abenteuer gerissen werden.</text>
+    </string>
+    <string id="99">
+      <text lang="GER">DAS GEHEIME VOLK</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="begin_00">
+      <lang code="GER">
+        <text>
+Wir hatten dieses Land betreten, da es offenbar unbewohnt war. Niemand würde uns bedrohen, denn niemanden schienen wir hier zu stören! Der Boden war fruchtbar und gut!
+
+Wir wollten hier bleiben, und so begannen wir zu siedeln! Unsere Kundschafter sollten ausschwärmen, um das Land zu erkunden.
+
+Tipp: In deinem Gepäck befinden sich wertvolle Briefe!
+</text>
+      </lang>
+    </block>
+    <block id="begin_01">
+      <lang code="GER">
+        <text>
+
+MIGUEL, DER HÄNDLER
+
+"Seid gegrüßt, Wikinger! Ich bin Miguel, fahrender Händler aus dem Norden!
+Als ich eure Ankunft in diesem Land bemerkte, dachte ich, ich schaue mal vorbei...
+
+Mein Volk lebt im Nordwesten, in einem tiefen Wald, nahe der Küste. Wir leben friedlich und ohne Armut, im Einklang mit der Natur!
+
+Eines Tages jedoch war plötzlich der Durchgang ins Sumpflabyrinth durch mächtige Felsbrocken versperrt! Früher konnten wir dort jagen, denn Wild gab es an jenem Ort im Überfluss.
+
+Wir hörten lautes Zischen und merkwürdige Geräusche, aber es führte kein Weg mehr in den Sumpf! 
+Bis einer unserer Kundschafter im Nordwesten einen Bergstollen fand, durch den hindurch wir den Sumpf umgehen konnten.
+
+Ich wollte mich auf den Weg machen, um das Geheimnis des Moores zu lüften und eventuell den neuen Herrschern über dieses Gebiet ein paar attraktive Handelsangebote zu unterbreiten! Vielleicht könnten wir uns ja auf diesem Wege auch über unsere alten Jagdgründe einigen...
+ 
+Hach, aber was red' ich - ich habe einen Mords Kohldampf! Und meine Nahrungsvorräte gehen langsam zur Neige. Ich würde dir ja gern mehr erzählen, aber mit knurrendem Magen... 
+
+Gib mir etwas zu essen und geselle dich dann wieder zu mir. Dann erzähle ich euch mehr über dieses Land!"
+
+Tipp: 
+Du kannst Miguel die Nahrung per Tribut bezahlen! Wenn du seine Geschichte dann hören möchtest, musst du mit Bjarni vor ihn treten...
+</text>
+      </lang>
+    </block>
+    <block id="begin_02">
+      <lang code="GER">
+        <text>
+
+BERGVOLK
+
+"Hallo Fremde... Was macht ihr hier? Wir mögen hier keine Eindringlinge, noch nie haben sie Gutes für unser Volk gebracht! 
+
+Die letzten Gäste haben unsere Jagdgründe ausgebeutet, bis kein Tier mehr zu jagen war. 
+Nun leiden wir Hunger, besonders unsere Arbeiter ganz tief im Stollen! Geht hinein und überzeugt euch von unserer Lage, aber macht euch keine falschen Hoffnungen: bei uns gibt es derzeit nichts zu holen!"
+
+Tipp: 
+Tritt mit Bjarni vor den Eingang der Höhle - ihm wird man dann Einlass gewähren!
+</text>
+      </lang>
+    </block>
+    <block id="begin_03">
+      <lang code="GER">
+        <text>
+
+BERGVOLK
+
+"Wir danken dir, edler Fremder! Es gibt also doch noch ehrenvolle Menschen. Wir wollen uns bei dir bedanken - zu diesem Zweck werden wir ein Lagerhaus am Fuße dieses Gebirges errichten! 
+Von dort aus kannst du dann lohnenden Handel treiben - und wir werden für dich besondere Preise machen!"
+</text>
+      </lang>
+    </block>
+    <block id="begin_04">
+      <lang code="GER">
+        <text>
+
+SCHLANGENLABYRINTH
+
+Wir betraten das Schlangenlabyrinth mit Sorge in den Köpfen, aber mit Mut in den Herzen! Wir wollten die Schalter finden, welche Miguel die Heimreise ermöglichen sollten und uns eine Passage zu seinem Stamm eröffnen würde! Handel und Freundschaft konnte unsere Stämme verbinden - und das war ein lohnendes Ziel für dieses Abenteuer!
+</text>
+      </lang>
+    </block>
+    <block id="begin_05">
+      <lang code="GER">
+        <text>
+
+Was war das? Der Rückweg war plötzlich versperrt - wir waren mit den Schlangenwesen auf engstem Raum gefangen! Eine Falle! Sie hatten uns eine Falle gestellt!
+</text>
+      </lang>
+    </block>
+    <block id="begin_06">
+      <lang code="GER">
+        <text>
+
+SCHALTER
+
+Dieser Schalter hatte ein Bild eines mit Schnee bedeckten Gebirges am Rand eingraviert. Wahrscheinlich handelte es sich um einen Schalter, der den Eingang zum Bergmassiv öffnen würde... Und damit zu der Höhle, in die sich niemand von Miguels Stamm hineinwagte! 
+Und ringsherum roch es nach einer Falle...
+</text>
+      </lang>
+    </block>
+    <block id="begin_07">
+      <lang code="GER">
+        <text>
+
+SCHALTER
+
+Was dieser Schalter wohl bewirkte? Wir waren ratlos...
+</text>
+      </lang>
+    </block>
+    <block id="begin_08">
+      <lang code="GER">
+        <text>
+
+MIGUELS MAHLZEIT
+
+"Ahhh... Danke für die Mahlzeit! Das tat gut! Also höre die Geschichten, die ich dir zu erzählen hab: 
+
+Als ich den Bergstollen durchquerte, stieß ich auf merkwürdige Kreaturen und auf seltsame nebelhafte Gebilde, die eine belebende Wirkung auf mich auszuüben schienen! Wenn ich ein paar Sekunden in ihnen verweilte, spürte ich neue Lebenskraft in mir!
+Und als ich dann den Stollenausgang erreichte, muss ich wohl aus Versehen irgendeinen Mechanismus ausgelöst haben - das Gitter zum Stollen schloss sich mit einem lauten metallischen Kreischen.
+Seitdem sitze ich hier, entfernt und ausgesperrt von meiner Heimat, mit all den Waren im Gepäck! 
+
+Aber ich konnte schon viele Dinge über diesen Teil des Landes und über den Sumpf in Erfahrung bringen:
+Der Sumpf wird von unheimlichen Schlangenwesen kontrolliert - ein Handel mit diesen ist ganz und gar unmöglich... 
+Ich habe zwei Eingänge zum Sumpf entdeckt, nordöstlich von meinem Lager!
+
+Ich denke, den Stollen, durch den ich hier her fand, kann man wieder öffnen! Am Tor des Stollen waren zwei Schalter dargestellt, einer im Sumpf, und einer in einer Höhle! Irgendwo im Labyrinth muss es Schalter geben, die zu diesem Zweck gebaut wurden! Am linken Eingang zum Moor habe ich einen dieser Schalter gesichtet - sicherlich gibt es davon noch mehr im Reich der Schlangen! Doch ich bin zu schwach, um gegen sie anzutreten!
+
+Puhhh, das war jetzt ganz schön viel auf einmal. Ein kleiner Nachtisch wäre nicht schlecht... Ach bitte - gib mir Met und ein wenig Kuchen! Das würde mir bestimmt nicht schlecht tun!
+
+Übrigens: im Südosten gibt es einen Stamm, der Eisenerz fördert und verarbeitet. Vielleicht könnt ihr ja mit diesem handeln?
+
+Hmmmm, Met und Kuchen, wär das fein... Wenn ihr wollt, verkaufe ich euch eine Karte des Landes, die ich selbst angefertigt habe! 
+Die Position der Bergbauer, der Höhle und des Stollen sind dort eingezeichnet!
+Viele Gefahren musste ich überwinden, um diese präzisen Aufzeichnungen machen zu können!!! Daher ist sie auch nicht gerade billig...
+
+Ihr erlaubt, ich brauche jetzt eine kleine Verdauungspause! Wenn ich nur ein wenig Met hätte..."
+
+Tipp: 
+Gib Miguel den Met per Tribut!
+</text>
+      </lang>
+    </block>
+    <block id="begin_09">
+      <lang code="GER">
+        <text>
+
+AUF DIE FREUNDSCHAFT!
+
+"Danke, danke für die Gabe! Lasst uns anstoßen, auf unsere neue Freundschaft! 
+
+Met 1:
+Dies ist ein großes Land, voller Abenteuer und Naturschauspiele...Hicks...habt ihr den wunderbaren Wasserfall im Gebirge nordwestlich schon gesehen? Hicks...fantastisch oder?
+
+Met 2:
+Hicks... Im Sumpfgebiet gibt es eine Höhle, die wir nie zu betreten wagten...hicks, wir waren nie die allertapfersten... Hicks! Dort gehen schon seit langem unergründliche Dinge vor! Hicks!!! Wir fürchten eine große Gefahr, die von dort aus für uns ausgeht...
+
+Met 3:
+Hicks, hier ... hicks... seht, was ich tolles habe... eine Landkarte, die ich von einem sonderbaren Kunden habe... er hat sie mir für ein paar Münzen überlassen... hicks... seitdem tue ich immer so, als hätte ich sie selbst gezeichnet, das macht meistens Eindruck! Hicks... ihr könnt ja mal gucken... hicks... aber nicht mitnehmen... hicks... gäähnn...bin ich jetzt müde!!! Gute Nacht!"
+</text>
+      </lang>
+    </block>
+    <block id="begin_10">
+      <lang code="GER">
+        <text>
+
+HILFERUF
+
+"Wikinger! Ihr habt den Hilferuf vernommen! Bitte helft mir und meinem Volk... ich gebe euch auch dieses wertvolle Amulett umsonst, es dient als Erkennungszeichen meines Volkes!
+Nun geht schnell, und bekämpft diese Monster! Ich werde mich hier so lange verstecken. Der Laden bleibt für euch geöffnet!"
+</text>
+      </lang>
+    </block>
+    <block id="begin_11">
+      <lang code="GER">
+        <text>
+
+RÜCKZUG
+
+"Hilfe! Wir werden angegriffen! Überall sind diese Wölfe! Sie sind in der Überzahl! Rettet euch, rettet euch in die heilige Stätte! Lauft was ihr könnt! Hilfe! Helft uns doch!!!"
+</text>
+      </lang>
+    </block>
+    <block id="begin_12">
+      <lang code="GER">
+        <text>
+
+SCHALTER
+
+Der Schalter, den Miguel bereits erwähnte, zeigte die Silhouette des Bergmassivs im Süden. Es musste also der erste der beiden Schalter sein, welche die Passage öffnen würden!
+</text>
+      </lang>
+    </block>
+    <block id="begin_13">
+      <lang code="GER">
+        <text>
+
+"Seht! Der Ausgang ist wieder fei!"
+</text>
+      </lang>
+    </block>
+    <block id="begin_14">
+      <lang code="GER">
+        <text>
+
+Ein Tor am Eingang versperrte uns den Weg. Sicherlich konnte man es irgendwie öffnen!
+</text>
+      </lang>
+    </block>
+    <block id="begin_15">
+      <lang code="GER">
+        <text>
+
+Das Tor hatte sich geöffnet, aber die Höhle musste kurz vor dem Einsturz stehen! 
+Überall war dort Wasser zu erkennen, und Geröll, das von der Decke fiel. Auch der Eingang war fast verschüttet, und es war fraglich, ob überhaupt jemand die andere Seite erreichen würde! 
+
+Also betrat nur ich alleine, Bjarni, Sohn des Leif, die dunkle Höhle, da ich die Gestalt und den Mut hatte, durch den engen Stollen hindurch zu kriechen.
+
+Tipp:
+Nur Bjarni kann die Höhle betreten!
+</text>
+      </lang>
+    </block>
+    <block id="begin_16">
+      <lang code="GER">
+        <text>
+
+DIE ANDERE SEITE
+
+Die Sonne blendete mich. Ein weiterer Steinrutsch hatte auch mir nun den Rückweg versperrt, so wie einst Miguel. 
+
+Aber das war mir egal, zuerst musste ich dessen Stammesversteck finden!
+
+Alleine hatten seine Gefolgsleute wohl keine Chance gegen die Wölfe! Und ich auch nicht! Es musste einen Weg geben, ihnen zu helfen.
+
+Aber vorerst musste auch ich auf der Hut vor den Wölfen sein...
+</text>
+      </lang>
+    </block>
+    <block id="begin_17">
+      <lang code="GER">
+        <text>
+
+WÄCHTER
+
+"Wer da?! 
+Ah, Gott sei Dank, es sind nicht diese Wolfskreaturen! 
+Wir sind die verbliebenen Wächter unserer Herren, und wir beschützen deren letzte Zufluchtstelle! Es ist die heilige Grotte tief unter dem Meeresoberspiegel!"
+</text>
+      </lang>
+    </block>
+    <block id="begin_18">
+      <lang code="GER">
+        <text>
+
+HAUPTWACHE
+
+"Zeigt, das ihr würdig seid und man euch vertrauen kann, dann lasse ich euren Anführer hindurch!
+Unser Volk muss Hunger leiden, seit es die Höhle nicht mehr verlassen kann. Jede Menge Nahrung, Kuchen und Süßwasser werden benötigt! Gebt uns diese Dinge, und wir werden euch vertrauen!"
+</text>
+      </lang>
+    </block>
+    <block id="begin_19">
+      <lang code="GER">
+        <text>
+
+"Eigentlich sollte ich sauer sein auf euch, wegen der geklauten Karte... Na ja.
+
+Aber weil ihr mir schließlich helfen wollt, werde ich euch ein Amulett meines Volkes geben. Es ist sehr wertvoll und hat mich immer beschützt - also behandelt es mit Respekt! 
+
+Ich will es euch kostenlos überlassen, aber ich muss mich dann ohne dessen Schutz behaupten - daher bitte ich euch, mir vorher ein paar Waffen und Rüstungen zu geben, damit ich den Umgang mit diesen Waffen lernen kann!"
+</text>
+      </lang>
+    </block>
+    <block id="begin_20">
+      <lang code="GER">
+        <text>
+
+LANDKARTE
+
+"Hier ist die Karte, die ich euch versprochen habe! Glaubt mir, die hundert Münzen ist sie allemal wert!"
+</text>
+      </lang>
+    </block>
+    <block id="begin_21">
+      <lang code="GER">
+        <text>
+
+GEHEIMVERSTECK
+
+"Ihr tragt das Amulett. Ich sehe, ihr seid würdig! Geht hinein, edler Bjarni, und seht, was aus unserem Volk geworden ist!"
+</text>
+      </lang>
+    </block>
+    <block id="begin_22">
+      <lang code="GER">
+        <text>
+
+Ich war zurück im Licht, und die Barrieren waren tatsächlich verschwunden! Also hatte es der Trupp geschafft!
+So war nun der Weg für meine Soldaten frei - und ich beschloss, mit ihrer Hilfe dem Chaos ein Ende zu bereiten! 
+
+Ich ließ meine Soldaten durch das Moor anrücken - die Schlacht gegen die Wölfe konnte beginnen!
+</text>
+      </lang>
+    </block>
+    <block id="begin_23">
+      <lang code="GER">
+        <text>
+
+Als der letzte Wolfsmensch vernichtet war, strömten die Massen nur so aus ihrem unterirdischen "Verlies" hervor. Sie dankten mir und meinen Wikingern ob ihrer heldenhaften Taten, und auch Miguel war so überglücklich, dass er uns seinen Laden überließ - mit all den Schätzen und Reichtümern, die er während seiner Reisen aufgetrieben hatte!
+
+Wir Wikinger lebten fortan in Frieden mit unseren dankbaren Nachbarn, und schon bald gab es die ersten Vermählungen zwischen den Stammesangehörigen...
+</text>
+      </lang>
+    </block>
+    <block id="begin_24">
+      <lang code="GER">
+        <text>
+
+Der Eingang war verschlossen! Irgendwo mussten wir einen Schalter übersehen haben...
+</text>
+      </lang>
+    </block>
+    <block id="begin_25">
+      <lang code="GER">
+        <text>
+
+Der Eingang war offen! Wie gewohnt war ich es, der meinen Leuten die Angst nahm, indem ich mich allein auf Erkundungstour machte...
+
+Tipp: 
+Der Eingang ist offen, aber außer Bjarni hat niemand den Mut, hinein zu gehen. Nur Bjarni kann die Höhle betreten!
+</text>
+      </lang>
+    </block>
+    <block id="begin_26">
+      <lang code="GER">
+        <text>
+
+Als ich aus der Höhle wieder an Tageslicht trat, berichteten mir meine Soldaten, dass in der Zwischenzeit Schatztruhen aufgetaucht waren - Truhen wahrscheinlich voll mit Schätzen und Materialien!
+</text>
+      </lang>
+    </block>
+    <block id="begin_27">
+      <lang code="GER">
+        <text>
+
+Der Eingang war verschlossen! Irgendwo mussten wir einen Schalter übersehen haben!
+</text>
+      </lang>
+    </block>
+    <block id="begin_28">
+      <lang code="GER">
+        <text>
+
+WOLFSHÖHLE
+
+Der Eingang war offen, und ich beschloss, allein hineinzugehen! 
+
+Wenn diese Höhle tatsächlich so gefährlich war, dann wollte ich nicht die Leben all meiner tapferen Untertanen für dieses kleine Abenteuer aufs Spiel setzen!
+
+Der Rest sollte den Eingang bewachen, falls irgendwelche unliebsamen Überraschungen auftreten würden!
+</text>
+      </lang>
+    </block>
+    <block id="begin_29">
+      <lang code="GER">
+        <text>
+
+INFORMANT
+
+"Seid auf der Hut, schreckliche Geräusche dringen des Nachts aus dieser Höhle!
+
+Es soll Stellen in dieser Höhle geben, die einem die Lebenskraft zurückgeben!!! Wer sich in den dunkelblauen Nebel des Lebens stellt, wird die neue Kraft in sich verspüren! 
+
+Doch wer weiß das schon genau..."
+</text>
+      </lang>
+    </block>
+    <block id="begin_30">
+      <lang code="GER">
+        <text>
+
+Als die Truppe wieder vereint war, erzählte ich von meinen Erlebnissen in der Höhle und wie froh ich war, dass ich vor diesen riesigen Wolfsmenschen hatte fliehen können, obwohl ich ihre "Haustiere" getötet hatte! 
+
+Irgendwie schienen die Wolfsmenschen mit etwas ganz anderem beschäftigt zu sein...
+
+Egal, es war geschafft, der Stollen, durch den Miguel gekommen war, musste nun eigentlich offen sein. Ich beschloss, noch einmal bei dem Händler vorbeizuschauen, um ihm zu berichten. 
+
+Und vielleicht hatte er ja auch etwas Neues, dass er handeln wollte...
+</text>
+      </lang>
+    </block>
+    <block id="begin_31">
+      <lang code="GER">
+        <text>
+
+Miguel übergab uns das Amulett und freute sich über seine neuen Waffen! 
+Die Ehrfurcht, mit der er das Amulett aus der Hand gab und uns anvertraute, war fast körperlich zu spüren...
+</text>
+      </lang>
+    </block>
+    <block id="begin_32">
+      <lang code="GER">
+        <text>
+
+WOLFSVOLK
+
+"Wir sind das Wolfsvolk! Ihr habt uns nach ewigen Zeiten endlich befreit, habt durch euer Auftauchen die alten Pforten geöffnet!
+ 
+Geht uns aus dem Weg, denn dies ist nun unser Territorium! Wir sind zwar vorerst nur an dieser Seite des Landes interessiert, doch wir werden jeden vernichten, der sich uns in den Weg stellt! 
+Die geheime Zufluchtsstätte dieser Feiglinge finden wir auch noch - und dann wird unser Sieg komplett sein!"
+
+Ich hätte mich am liebsten sofort dem Kampf gestellt, aber allein war ich einfach unterlegen. Und der Rückweg durch die Höhle war mir versperrt! 
+Also musste ich das geheime Versteck zuerst finden, und ich musste mich beeilen! 
+
+Wenn ich Miguels Stamm rechtzeitig finden konnte, würde man mir dort vielleicht einen anderen Weg für meine Truppen weisen.
+</text>
+      </lang>
+    </block>
+    <block id="begin_33">
+      <lang code="GER">
+        <text>
+
+NIEDERLAGE!
+
+Es war zu spät, die Wölfe hatten den Stamm vor mir entdeckt! 
+Ich hatte versagt, Miguels Freunde waren geschlagen!
+</text>
+      </lang>
+    </block>
+    <block id="begin_34">
+      <lang code="GER">
+        <text>
+
+"Ihr seid würdig! Wer so edelmütig den Leidenden hilft, darf ungehindert passieren! Euer Anführer kann vorbei!"
+</text>
+      </lang>
+    </block>
+    <block id="begin_35">
+      <lang code="GER">
+        <text>
+
+Bjarni ist gestorben!
+</text>
+      </lang>
+    </block>
+    <block id="begin_36">
+      <lang code="GER">
+        <text>
+
+"Weil ihr mir helfen wollt, werde ich euch ein Amulett meines Volkes überlassen. Es ist sehr wertvoll, und hat mich immer beschützt - also behandelt es mit Respekt! 
+
+Ich will es euch zwar kostenlos überlassen, aber ich muss mich dann ohne dessen Schutz behaupten - daher bitte ich euch, mir vorher ein paar Waffen und Rüstungen zu geben, damit ich den Umgang mit diesen Waffen lernen kann!"
+</text>
+      </lang>
+    </block>
+    <block id="begin_37">
+      <lang code="GER">
+        <text>
+
+"Mein Lager steht euch nun zum Handel offen!"
+
+Tipp: 
+Um manche Waren mit Miguel handeln zu können, benötigst du einen Ochsenkarren!
+</text>
+      </lang>
+    </block>
+    <block id="begin_38">
+      <lang code="GER">
+        <text>
+
+"Wikinger! Ihr habt den Hilferuf vernommen! Bitte, helft mir und meinem Volk... 
+
+Geht schnell, und bekämpft diese Monster! Ich werde mich hier so lange verstecken. Der Laden bleibt für euch geöffnet!"
+</text>
+      </lang>
+    </block>
+    <block id="begin_39">
+      <lang code="GER">
+        <text>
+
+"Unser Lager steht euch nun zum Handel offen!"
+</text>
+      </lang>
+    </block>
+    <block id="begin_40">
+      <lang code="GER">
+        <text>
+
+Meine Soldaten sollten an den Barrieren im Sumpf warten, während ich mich auf den Weg machte, um den Stollen nun endlich zu durchqueren!
+</text>
+      </lang>
+    </block>
+    <block id="begin_41">
+      <lang code="GER">
+        <text>
+
+Mit Entschlossenheit betrat ich nun die Höhle!
+</text>
+      </lang>
+    </block>
+    <block id="begin_42">
+      <lang code="GER">
+        <text>
+
+Wir werden dir nun unsere Dankbarkeit erweisen! Unser bester Mann wird ein Handelslager für euch errichten...
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="GER">
+        <text>
+
+DAS GEHEIMVERSTECK
+
+</text>
+      </lang>
+    </block>
+    <block id="lost">
+      <lang code="GER">
+        <text>
+
+MISSION VERLOREN!
+</text>
+      </lang>
+    </block>
+    <block id="won">
+      <lang code="GER">
+        <text>
+
+MISSION GEWONNEN!
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

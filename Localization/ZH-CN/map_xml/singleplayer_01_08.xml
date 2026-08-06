@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="singleplayer_01_08" export_map_id="singleplayer_01_08" map_md5="a96c028ac48ae0a647f312add75a8ac8" IsC2M="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+  </languages>
+  <strings>
+<string id="0">
+      <text lang="CHN">探索这座岛屿。</text>
+      <text lang="eng">Explore the isle.</text>
+      <text lang="ger">Erkunde die Insel.</text>
+    </string>
+<string id="1">
+      <text lang="CHN">向所有亡者之墓致以敬意，以安抚逝者。</text>
+      <text lang="eng">Appease the dead by paying them homage.</text>
+      <text lang="ger">Besänftige die Toten, indem du allen Gräbern der Toten die Ehre erweist.</text>
+    </string>
+<string id="50">
+      <text lang="CHN">比雅尼的子民</text>
+      <text lang="eng">Bjarni's People</text>
+      <text lang="ger">Bjarnis Volk</text>
+    </string>
+<string id="51">
+      <text lang="CHN">巫师</text>
+      <text lang="eng">The Sorcerer</text>
+      <text lang="ger">Der Hexer</text>
+    </string>
+<string id="52">
+      <text lang="CHN">蛇族</text>
+      <text lang="eng">Serpent People</text>
+      <text lang="ger">Schlangenvolk</text>
+    </string>
+<string id="98">
+      <text lang="CHN">维京人漂泊至一座诡异的岛屿……此间处处透着诡异！</text>
+      <text lang="eng">The Vikings land on a strange isle ... something is not quite right here!</text>
+      <text lang="ger">Die Wikinger stranden an einer seltsamen Insel... Irgendetwas ist hier ganz und gar nicht in Ordnung!</text>
+    </string>
+<string id="99">
+      <text lang="CHN">亡者之岛</text>
+      <text lang="eng">THE ISLE OF THE DEAD</text>
+      <text lang="ger">DIE INSEL DER TOTEN</text>
+    </string>
+<string id="100">
+      <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
+      <text lang="ger">Bjarni</text>
+    </string>
+</strings>
+<briefings>
+<block id="0"><lang code="CHN">
+                <text>
+维京人在遥远的北方登陆一处异域海岸，准备在此过冬。突如其来的早冬令他们无法继续航行。
+
+他们刚一踏上沙滩，便感到一阵莫名的寒意……此间处处透着诡异……在登陆点西南方向，隐约可见奇异的废墟轮廓……
+
+探索登陆点周围的环境。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+The Vikings land on a foreign shore in the high north to spend the winter there. They're surprised by the early and sudden start of winter, and cannot continue their journey. 
+
+But they have hardly set foot on the shore before they sense something very strange ... something is not quite right here ... there are strange ruins to the south-west of the landing place ...
+
+
+Explore the surroundings of the landing place.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Die Wikinger landen an einer fremden Küste im hohen Norden, um zu überwintern. Vom frühen und plötzlichen Wintereinbruch überrascht, können sie ihre Fahrt nicht fortsetzen. 
+
+Doch kaum haben sie den ersten Fuß auf den Strand gesetzt, überkommt sie ein unheimliches Gefühl... Irgendetwas ist hier ganz und gar nicht in Ordnung... Südwestlich des Landeplatzes sind schemenhaft seltsame Ruinen zu erkennen...
+
+
+Erkunde die Umgebung des Landeplatzes.
+</text>
+      </lang>
+    </block>
+
+    <block id="1">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+                <text>
+任务成功！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+                <text>
+岛屿的诅咒已被破除，亡者的灵魂得到安抚。你们完成了从未有活人能做到之事！
+
+维京人获得了祖先的允诺，可在此过冬。在部族的篝火旁，人们将传颂你们与亡者之岛的故事！
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION SUCCESSFUL!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+The curse is broken, the spirits of the dead are appeased. You have done what no living human ever managed before! 
+
+The Vikings have been given permission to spend the winter here by their forefathers. A new story will be told by the campfires: the story of the Isle of the Dead! 
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION GEWONNEN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Der Fluch der Insel ist gebrochen, die Geister der Toten sind besänftigt. Was nie zuvor ein lebender Mensch vollbracht hat, habt ihr geschafft! 
+
+Die Wikinger haben von den Ahnen die Erlaubnis hier zu überwintern. An den Lagerfeuern eures Volkes wird man sich die Geschichte erzählen, von euch und der Insel der Toten! 
+</text>
+      </lang>
+    </block>
+
+    <block id="2">
+      <lang code="CHN">
+                <text>
+你的英雄比雅尼因你的疏忽而殒命！如今你的维京村落将失去英雄，勉力支撑！
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+Your hero Bjarni died due to your inattentiveness! Now your Viking village will have to make do without its hero!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Dein Held Bjarni starb durch deine Unachtsamkeit! Jetzt muss dein Wikingerdorf ohne seinen Helden auskommen!
+</text>
+      </lang>
+    </block>
+
+    <block id="3">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+                <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+                <text>
+当岛屿的诅咒笼罩你的族人，一切皆已覆灭。
+
+从今往后，你们将被诅咒永远囚禁于此，非生非死，直到有人前来将你们解救。
+        </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+When the curse of the isle came down on your people, everything was lost.
+
+From now on you are condemned to remain here forever, neither alive nor dead, until somebody comes to free you.
+</text>
+      </lang>
+      <lang code="ger">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION VERLOREN!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Als sich der Fluch der Insel über dein Volk senkte, war alles verloren. 
+
+Ihr werdet von nun an dazu verdammt sein, auf immer hier gefangen zu sein, weder zu leben, noch zu sterben, bis jemand kommt, um euch zu erlösen.
+</text>
+      </lang>
+    </block>
+
+    <block id="4">
+      <lang code="CHN">
+                <text>
+一位昔日强大国王的陵墓！
+
+你已向他致以敬意，从而安抚了他不安的灵魂。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+The grave of a once powerful king! 
+
+You have paid him homage and thus appeased his restless spirit.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Das Grab eines einstmals mächtigen Königs! 
+
+Du hast ihm deine Ehre erwiesen und seinen ruhelosen Geist damit besänftigt.
+</text>
+      </lang>
+    </block>
+
+    <block id="5">
+      <lang code="CHN">
+                <text>
+岛屿的诅咒已降临到你的一名族人身上！所有胆敢惊扰此岛安宁者，都将很快遭遇同样的命运！
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+The curse has struck one of your people! The same will happen to all who dare to disturb the peace of this isle!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Der Fluch der Insel hat einen deiner Leute getroffen! So wird es bald allen ergehen, die es gewagt haben, die Ruhe dieser Insel zu stören!
+</text>
+      </lang>
+    </block>
+
+    <block id="6">
+      <lang code="CHN">
+                <text>
+在营地不远处，侦察兵发现了一圈风化的石环——那是远古一位强大国王的陵墓。
+
+维京人惊觉，他们竟无意间登上了传说中的亡者之岛，凡人不得踏入之地。
+
+除非你们向长眠此岛的七位国王之墓逐一致以敬意、安抚亡魂，否则岛屿的诅咒将降临在你们所有人身上。
+
+寻找其余六座陵墓——它们如巨大的石环般矗立，纪念着逝者。当心守墓人与岛屿的诅咒！
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+Far from the camp, the scouts find a weathered circle of stone - the ancient grave of a mighty sovereign of olden days. 
+
+The Vikings are shocked to discover that, quite by accident, they have landed on the legendary Isle of the Dead - an island no living human may set foot on. 
+
+The curse of the isle will strike you all, unless you pay homage to the seven kings who were buried on this isle, and thus appease the spirits.
+
+
+Search for the remaining six graves, circles of stone that were erected in their memory. Watch out for the guards of the graves and the curse of the island!
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+Unweit des Lagers stoßen die Kundschafter auf einen verwitterten Steinkreis - das uralte Grab eines mächtigen Königs aus grauer Vorzeit. 
+
+Mit Erschrecken stellen die Wikinger fest, dass sie unbeabsichtigt auf der sagenumwobenen Insel der Toten gelandet sind, die kein Sterblicher betreten darf. 
+
+Der Fluch der Insel wird euch alle treffen, es sei denn, ihr schafft es, den sieben Gräbern der sieben Könige, die hier auf der Insel begraben wurden, die Ehre zu erweisen und damit die Geister zu besänftigen.
+
+
+Suche die restlichen sechs Gräber auf, die wie riesige Steinkreise ihren Gedenken mahnen. Hüte dich vor den Grabwächtern und dem Fluch der Insel!
+</text>
+      </lang>
+    </block>
+
+    <block id="header">
+      <lang code="CHN">
+                <text>
+亡者之岛
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE ISLE OF THE DEAD
+
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+DIE INSEL DER TOTEN
+
+</text>
+      </lang>
+    </block>
+</briefings>
+</localization>

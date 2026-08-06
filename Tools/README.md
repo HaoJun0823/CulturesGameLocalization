@@ -104,6 +104,31 @@ language_union.csv（术语表）
 
 ### 三、构建/转换工具
 
+#### `scan_map_dat.py` — 递归扫描 map.dat 生成索引 CSV
+
+- **用途**：递归搜索输入目录下所有 `map.dat`，计算 MD5，输出 CSV
+  （map_id, md5, map_path, lang_root），供 `build_maps_from_csv.py` 按 MD5 关联源地图数据。
+- **特性**：C2M 解包态（map.dat 在 `currentusermap/` 内）自动取地图真实 ID（父目录名）。
+- **用法**：
+  ```bash
+  python Tools/scan_map_dat.py "G:/.../GAME_5_MAP/GER" "G:/.../GAME_2_MAP/GER" --output map_index.csv
+  ```
+
+#### `build_maps_from_csv.py` — 按 CSV 索引整合输出完整地图
+
+- **用途**：读 CSV（`scan_map_dat.py` 生成），对每个 XML 用其 `map_md5` 找到源地图目录，
+  调用 `loc_tools.build_map` 复制源数据（map.cif/dat/ini + sfx）+ 写入中文 `text/l10/`；
+  **IsC2M=true 的 XML 自动打包为 .c2m**（包内带 `currentusermap\` 前缀 + 源 text/ger 原文 + 中文 l10）。
+- **用法**：
+  ```bash
+  # 先建索引
+  python Tools/scan_map_dat.py "G:/.../GAME_5_MAP/GER" --output map_index.csv
+  # 整合输出（目录或单文件）
+  python Tools/build_maps_from_csv.py --input Localization/ZH-CN/map_xml --csv map_index.csv --output Output
+  python Tools/build_maps_from_csv.py --input Localization/ZH-CN/map_xml_user --csv map_index.csv --output Output
+  ```
+- **参数**：`--lang`（默认 CHN）、`--keep-c2m-dir`（C2M 打包后保留中间目录）。
+
 #### `cultures2_converter.py` — Cultures 2 ini/cif 转换 + c2m 打包解包
 
 - **用途**：独立 CLI 工具，提取自 [Cultures-map-editor](https://github.com/Mikulus6/Cultures-map-editor)

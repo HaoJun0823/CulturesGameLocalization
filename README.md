@@ -42,6 +42,8 @@ CulturesGameLocalization/
 | `Tools/trans_scan.py` | 列出某文件全部待译空槽（源语言有原文、目标语言为空），附源语言预览（支持任意语言对比） |
 | `Tools/loc_tools.py` | XML 真解析核心库（其余工具共享依赖） |
 | `Tools/build_maps_from_versions.py` | 按版本表从游戏源数据构建地图本地化 XML（→ `Output/`） |
+| `Tools/scan_map_dat.py` | 递归扫描 map.dat，计算 MD5 输出索引 CSV |
+| `Tools/build_maps_from_csv.py` | 按 CSV 索引整合输出完整地图（数据 + 中文 l10，C2M 自动打包 .c2m） |
 | `Tools/cultures2_converter.py` | Cultures 2 ini/cif 互转 + c2m 打包解包（提取自 Cultures-map-editor，GPL-3.0） |
 
 ## 汉化范围与质量

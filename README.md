@@ -55,10 +55,10 @@ CulturesGameLocalization/
 
 `Output/` 中的 156 个地图目录是**可直接放进游戏的地图本地化文件**（由 `LOC_CN` 的汉化 XML 构建）：
 
-- 主战役（128 个）：`Output/<map_id>/text/l10/strings.ini` + `briefings/briefings.txt`，GBK 编码
+- 主战役（128 个）：`Output/<map_id>/text/l10/strings.ini` + `briefings/briefings.txt`，GB2312 编码
 - C2M 用户战役（28 个）：同样输出 `Output/<map_id>/text/l10/...`（中文统一用 l10 目录，与主战役一致）
 
-构建命令（使用 `Tools/loc_tools.py build`，已内置 GBK 编码修正与 block id ASCII 化）：
+构建命令（使用 `Tools/loc_tools.py build`，已内置 GB2312 编码与 block id ASCII 化）：
 
 ```bash
 # 主战役（128）
@@ -67,7 +67,9 @@ python Tools/loc_tools.py build -i Localization/ZH-CN/map_xml -l CHN -o Output
 python -c "import sys; sys.path.insert(0,'Tools'); import loc_tools; from pathlib import Path; [loc_tools.build_map(f, Path('Output'), 'CHN') for f in sorted(Path('Localization/ZH-CN/map_xml_user').rglob('*.xml'))]"
 ```
 
-> 说明：中文统一用 **GBK** 编码（游戏外挂实际读取编码，GB2312 无法编码「——」「瞭」等字形）；
+> 说明：中文统一用 **GB2312** 编码（游戏仅支持 GB2312，不支持 GBK 扩展）。
+> 汉化源文本已保证 GB2312 兼容：超集字形在源 XML 中直接改掉——破折号用 `--`、
+> 人名间隔号用 `・`、瞭望塔/瞭望手改「哨塔/哨兵」、神祇改「神明」、脅改「威胁」；
 > 中文输出目录统一为 **`text/l10/`**（项目规范「chn输出为l10」——l10 是外挂汉化注入的目标语言目录，
 > 主战役与 C2M 一致；源数据里只有 ger 是官方原始包，不影响 l10 加载）；
 > briefings 的 block id 按官方汉化策略做 ASCII 化（`10minutenspäter` → `10minutenspaeter`）。

@@ -31,8 +31,9 @@
 - **谁依赖它**：`audit_all_maps.py`、`audit_names.py`、`build_maps_from_versions.py` 都 `import` 它。
 - **CLI 子命令**（`python Tools/loc_tools.py <cmd> --help`）：
   - `extract` / `extract-batch` 从游戏源数据提取为 XML
-  - `build` 从 XML 构建游戏可加载的 ini/txt——构建 CHN 时**自动用 GBK 编码**
-    （GB2312 无法编码「——」「瞭」等字形；游戏外挂实际读 GBK），
+  - `build` 从 XML 构建游戏可加载的 ini/txt——构建 CHN 时**用 GB2312 编码**
+    （游戏仅支持 GB2312；汉化源文本已保证 GB2312 兼容：破折号用 `--`、
+    人名间隔号用 `・`、瞭望塔/瞭望手→哨塔/哨兵、神祇→神明、脅→威胁），
     briefings 的 **block id 自动 ASCII 化**（`10minutenspäter` → `10minutenspaeter`，
     官方汉化同策略），中文输出目录统一为 **`text/l10/`**（主战役与 C2M 一致，
     项目规范「chn输出为l10」；l10 是外挂汉化注入的目标语言目录，与源数据语言目录无关）

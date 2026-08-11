@@ -1,50 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="singleplayer_01_09" export_map_id="singleplayer_01_09" map_md5="99a236446479fee56224647b6ec8763d" IsC2M="false">
+<localization version="1.3" map_id="singleplayer_01_09" export_map_id="singleplayer_01_09" map_md5="99a236446479fee56224647b6ec8763d" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
-<string id="0">
+    <string id="0">
       <text lang="CHN">猎杀最多的狼</text>
       <text lang="eng">Kill the most wolves.</text>
       <text lang="ger">Erlege die meisten Wölfe</text>
+      <text lang="pol">Zabij jak najwięcej wilków.</text>
     </string>
-<string id="50">
+    <string id="50">
       <text lang="CHN">比雅尼的子民</text>
       <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarnis Volk</text>
+      <text lang="pol">Lud Bjarniego</text>
     </string>
-<string id="51">
+    <string id="51">
       <text lang="CHN">法兰克国王</text>
       <text lang="eng">King of the Franks</text>
       <text lang="ger">Frankenkönig</text>
+      <text lang="pol">Król Franków</text>
     </string>
-<string id="52">
+    <string id="52">
       <text lang="CHN">拜占庭人</text>
       <text lang="eng">Byzantines</text>
       <text lang="ger">Byzantiner</text>
+      <text lang="pol">Bizantyjczycy</text>
     </string>
-<string id="98">
+    <string id="98">
       <text lang="CHN">国王号召全民参与一年一度的猎狼行动。今年，谁将成为狩猎之王？</text>
       <text lang="eng">The King is inviting everyone to take part in the yearly wolf hunt. Who will be King of the Hunt this year?</text>
       <text lang="ger">Der König ruft zur alljährlichen Wolfsjagd auf. Wer wird dieses Jahr König der Jagd?</text>
+      <text lang="pol">Król zaprasza wszystkich na doroczne łowy. Kto tym razem upoluje najwięcej wilków?</text>
     </string>
-<string id="99">
+    <string id="99">
       <text lang="CHN">大狩猎</text>
       <text lang="eng">THE GREAT HUNT</text>
       <text lang="ger">AUF DER JAGD</text>
+      <text lang="pol">WIELKIE ŁOWY</text>
     </string>
-<string id="100">
+    <string id="100">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
-</strings>
-<briefings>
-<block id="0"><lang code="CHN">
-                <text>
+  </strings>
+  <briefings>
+    <block id="0">
+      <lang code="CHN">
+        <text>
 和每年春天一样，国王今年再次号召举行盛大的狩猎。他要求每位臣民肃清境内的狼群--那些寒冬里饿着肚子在牲畜棚周围游荡的狼群……
 
 谁能将森林里的狼清除干净，谁就会被封为狩猎之王，并且整整一年免除一切赋税。
@@ -78,16 +87,27 @@ Dieses Jahr haben sich deine Wikinger fest vorgenommen, den Preis zu erringen, a
 Wer wird in kürzester Zeit die meisten Wölfe erlegen?
 </text>
       </lang>
-    </block>
+      <lang code="pol">
+        <text>
+Jak każdej wiosny, król zaprasza wszystkich do udziału w wielkich łowach. Jego poddani mają oczyścić królestwo ze stad wilków, nękających zagrody zimową porą.
 
+Ten, kto oczyści z wilków cały las, zostanie okrzyknięty Królem Łowów i zostanie zwolniony na rok z płacenia podatków.
+
+W tym roku, o nagrodę pokuszą się również twoi Wikingowie, ale mają silnych przeciwników. Po drugiej stronie rzeki osiedlili się słynni, bizantyjscy myśliwi, którzy również wezmą udział w łowach.
+
+
+Kto wybije najwięcej wilków w jak najkrótszym czasie?
+</text>
+      </lang>
+    </block>
     <block id="1">
       <lang code="CHN">
         <font>$local$\fonts\fonthead16bld.fnt</font>
-                <text>
+        <text>
 任务成功！
         </text>
         <font>$local$\fonts\font12.fnt</font>
-                <text>
+        <text>
 成了！在一场盛大的典礼上，国王以最隆重的排场接见了我们。在欢腾的宴会上，他授予我们“狩猎之王”的荣誉称号。
 
 满载丰厚礼物的我们，几天后回到村庄--今年一整年，村庄都免于一切赋税。
@@ -123,11 +143,24 @@ Mit reichen Geschenken beladen kehrten wir einige Tage später in unser Dorf zur
 Das nächste Jahr würden wir es wieder versuchen!
 </text>
       </lang>
-    </block>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA ZAKOŃCZONA POMYŚLNIE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Wygraliśmy! Król zgotował nam wspaniałe przyjęcie. Otrzymaliśmy zaszczytny tytuł "Króla Łowów".
 
+Obładowani podarkami, wracamy do swojej wioski, która przez rok nie będzie musiała płacić podatków.
+
+W przyszłym roku ponownie spróbujemy szczęścia!
+</text>
+      </lang>
+    </block>
     <block id="2">
       <lang code="CHN">
-                <text>
+        <text>
 真是飞来横祸！你的英雄比雅尼，如今只能无奈地翘辫子了！下次可得小心些！
         </text>
       </lang>
@@ -143,16 +176,21 @@ What a shame! Your hero Bjarni is sadly pushing up daisies! You had better take 
 Was für ein Unglück! Bjarni, dein Held, schaut sich nun leider die Radieschen von unten an! Pass beim nächsten Mal besser auf!
 </text>
       </lang>
-    </block>
+      <lang code="pol">
+        <text>
 
+Wielka szkoda! Twój bohater, Bjarni, wącha kwiatki od spodu! Następnym razem spróbuj być bardziej rozważny!
+</text>
+      </lang>
+    </block>
     <block id="3">
       <lang code="CHN">
         <font>$local$\fonts\fonthead16bld.fnt</font>
-                <text>
+        <text>
 任务失败！
         </text>
         <font>$local$\fonts\font12.fnt</font>
-                <text>
+        <text>
 输了！其他猎人抢在了我们前头！我们满心不情愿，却也不得不承认他们确实比我们更胜一筹。
 
 还是说，那仅仅是运气使然？当国王在盛大典礼上把“狩猎之王”的头衔授予他们时，我们暗暗发誓：明年定要再来！
@@ -182,11 +220,22 @@ Verloren! Die anderen Jäger waren uns zuvorgekommen! Widerwillig mussten wir un
 Oder war es nur Glück gewesen? Als der König ihnen in einer prächtigen Zeremonie den Titel "König der Jagd" verlieh, schworen wir uns, es nächstes Jahr wieder zu versuchen!
 </text>
       </lang>
-    </block>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA ZAKOŃCZONA NIEPOWODZENIEM!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Nie udało ci się! Pozostali myśliwi byli szybsi! Wstyd przyznać, ale okazali się lepsi od nas.
 
+A może po prostu mieli szczęście? Gdy nasz władca nadał im zaszczytny tytuł Króla Łowów przysięgliśmy, że w przyszłym roku postaramy się jeszcze bardziej!
+</text>
+      </lang>
+    </block>
     <block id="4">
       <lang code="CHN">
-                <text>
+        <text>
 在这片国土的首都，国王坐镇于此。在这里，我们可以进行贸易。
         </text>
       </lang>
@@ -202,11 +251,16 @@ Here, in the capital, the King resided. Here we would be able to trade.
 Hier, in der Hauptstadt des Landes, residierte der König. Hier konnten wir Handel treiben.
 </text>
       </lang>
-    </block>
+      <lang code="pol">
+        <text>
 
+Oto stolica, siedziba monarchy. Tutaj będziemy mogli prowadzić handel.
+</text>
+      </lang>
+    </block>
     <block id="5">
       <lang code="CHN">
-                <text>
+        <text>
 当我们遇见那些陌生的猎人时，并未受到多少热情的款待。他们志在必得地要夺下这个头衔，为此不惜不择手段！
         </text>
       </lang>
@@ -222,16 +276,21 @@ When we met the strange hunters, we weren't exactly received with joy. They want
 Als wir auf die fremden Jäger trafen, wurden wir nicht sonderlich freundlich empfangen. Sie wollten unbedingt den Titel erlangen und dazu war ihnen jedes Mittel recht!
 </text>
       </lang>
-    </block>
+      <lang code="pol">
+        <text>
 
+Napotkani myśliwi bynajmniej nie byli względem nas przyjaźnie nastawieni. Zamierzali zdobyć ten tytuł i nie przebierali w środkach!
+</text>
+      </lang>
+    </block>
     <block id="6">
       <lang code="CHN">
         <font>$local$\fonts\fonthead16bld.fnt</font>
-                <text>
+        <text>
 任务成功！
         </text>
         <font>$local$\fonts\font12.fnt</font>
-                <text>
+        <text>
 我们的战士将那些外人击溃逃窜。国王对这场较量的结局并不十分满意--这势必会引发外交上的纠葛。但如今，他再也无法将奖赏从我们手中夺走了！
 
 在一场欢腾的宴会上，他授予我们“狩猎之王”的荣誉称号。满载丰厚礼物的我们，几天后回到村庄--今年一整年，村庄都免于一切赋税。
@@ -267,11 +326,24 @@ Bei einem rauschenden Fest verlieh er uns den Ehrentitel "König der Jagd". Mit 
 Das nächste Jahr würden wir es wieder versuchen!
 </text>
       </lang>
-    </block>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA ZAKOŃCZONA POMYŚLNIE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Obcy uciekli przed naszymi wojownikami. Król nie był zachwycony wynikiem zawodów. Wiedział, że oznacza on problemy natury dyplomatycznej. Ale nie mógł nie przyznać nam zasłużonego tytułu!
 
+Król zgotował nam wspaniałe przyjęcie. Otrzymaliśmy zaszczytny tytuł "Króla Łowów". Obładowani podarkami, wracamy do swojej wioski, która przez rok nie będzie musiała płacić podatków.
+
+W przyszłym roku znowu spróbujemy szczęścia!
+</text>
+      </lang>
+    </block>
     <block id="enemy">
       <lang code="CHN">
-                <text>
+        <text>
 “你们很快就会知道，咱们谁更胜一筹！”其他猎人回应道。
         </text>
       </lang>
@@ -287,11 +359,16 @@ Das nächste Jahr würden wir es wieder versuchen!
 "Ihr werdet schon sehen, wer von uns der Stärkere ist!" erwiderten die anderen Jäger auf unsere Reaktion. 
 </text>
       </lang>
-    </block>
+      <lang code="pol">
+        <text>
 
+"Wkrótce przekonamy się, kto tu jest silniejszy!" odpowiedzieli myśliwi.
+</text>
+      </lang>
+    </block>
     <block id="header">
       <lang code="CHN">
-                <text>
+        <text>
 大狩猎
         </text>
       </lang>
@@ -309,16 +386,22 @@ AUF DER JAGD
 
 </text>
       </lang>
-    </block>
+      <lang code="pol">
+        <text>
 
+WIELKIE ŁOWY
+
+</text>
+      </lang>
+    </block>
     <block id="playerdied">
       <lang code="CHN">
         <font>$local$\fonts\fonthead16bld.fnt</font>
-                <text>
+        <text>
 任务失败！
         </text>
         <font>$local$\fonts\font12.fnt</font>
-                <text>
+        <text>
 竞争对手将你的整个部族击溃，自然也由此赢得了这场狩猎。
 
 从逻辑上讲，你确实成了输家--可逝者又何必在乎什么逻辑……
@@ -348,11 +431,22 @@ Die Konkurrenz hat deinen gesamten Stamm niedergestreckt und somit natürlich di
 Was dich logisch gesehen zum Verlierer macht, aber was kümmern sich Tote schon um Logik...
 </text>
       </lang>
-    </block>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA ZAKOŃCZONA NIEPOWODZENIEM!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Twoi przeciwnicy wyeliminowali całe twoje plemię i wygrali zawody.
 
+Teoretycznie powinieneś teraz martwić się przegraną. Ale martwi nie muszą się już niczym... martwić.
+</text>
+      </lang>
+    </block>
     <block id="sabotage">
       <lang code="CHN">
-                <text>
+        <text>
 我们的狩猎看似进展顺利，却有风声传来：竞争对手正密谋发动阴险的突袭，意图将我们拒于胜利门外！
         </text>
       </lang>
@@ -368,6 +462,12 @@ Our hunt was going well, but we heard rumours that our competition was planning 
 Unsere Jagd schien gut voranzugehen, doch uns erreichten Gerüchte, die Konkurrenz plane einen hinterhältigen Angriff, um uns am Sieg zu hindern!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+Nasze łowy przebiegały pomyślnie, ale dotarły do nas pogłoski, iż nasi współzawodnicy planują atak, by uniemożliwić nam zwycięstwo!
+</text>
+      </lang>
     </block>
-</briefings>
+  </briefings>
 </localization>

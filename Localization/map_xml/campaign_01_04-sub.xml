@@ -1,30 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_01_04-sub" export_map_id="campaign_01_04-sub" map_md5="0a8fa1bf67556fd55b1c8916f3d3d984" IsC2M="false">
+<localization version="1.3" map_id="campaign_01_04-sub" export_map_id="campaign_01_04-sub" map_md5="0a8fa1bf67556fd55b1c8916f3d3d984" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">击杀那可怖的怪物，但须提防周围的群狼！</text>
       <text lang="eng">Kill the dreadful monster, but beware of the wolves!</text>
       <text lang="ger">Töte das grauenhafte Monster, doch hüte dich vor den Wölfen!</text>
+      <text lang="pol">Zabij strasznego potwora, ale strzeż się wilków!</text>
     </string>
     <string id="99">
       <text lang="CHN">意大利 - 支线</text>
       <text lang="eng">ITALY - Sub</text>
       <text lang="ger">ITALIEN - Sub</text>
+      <text lang="pol">ITALIA - zadanie dodatkowe</text>
     </string>
     <string id="101">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="102">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="pol">Sigurd</text>
     </string>
   </strings>
   <briefings>
@@ -62,6 +67,17 @@ MISSION VERLOREN!
 Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ihr Ende war besiegelt und mit ihnen das Ende der Welt der Menschen.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroizm czy głupota? Bjarni zginął, a bogowie płaczą... Ich los jest już przesądzony - tak samo jak zniszczenie świata ludzi.
+</text>
+      </lang>
     </block>
     <block id="bonisonstig">
       <lang code="CHN">
@@ -83,6 +99,13 @@ It must be possessed of great magic!
 Wir hatten ein unscheinbares Amulett mit seltsamen Zeichen darauf gefunden. Ein seltsamer Schimmer ging davon aus. 
 
 Das musste hohe Magie sein!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Znaleźliśmy trudny do opisania, emanujący jakąś energią amulet z dziwną inskrypcją.
+
+Z pewnością posiada olbrzymią moc magiczną!
 </text>
       </lang>
     </block>
@@ -108,6 +131,13 @@ Eine seltsame Flasche mit einem übelriechenden Trank war uns in die Hände gefa
 Es konnte sich nur um einen magischen Trank handeln!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Wpadła nam w ręce dziwna flasza wypełniona straszliwie śmierdzącym płynem.
+
+To z pewnością jakaś magiczna mikstura!
+</text>
+      </lang>
     </block>
     <block id="boniwaffe">
       <lang code="CHN">
@@ -123,6 +153,11 @@ We had found one of the magic weapons our sagas mentioned. Used correctly, it wo
       <lang code="ger">
         <text>
 Wir hatten eine der magischen Waffen gefunden, von denn unsere Sagen erzählten. Richtig eingesetzt, konnte sie uns im Kampf von großem Nutzen sein.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Natknęliśmy się na jedną z magicznych broni opisywanych w naszych sagach. Jeśli właściwie ją wykorzystamy, to może nam ogromnie ułatwić prowadzenie wojen...
 </text>
       </lang>
     </block>
@@ -162,6 +197,18 @@ Obwohl ihm die Zähne klapperten vor Angst, bestand er darauf mich zu begleiten,
 Suche das Monster im Labyrinth und stelle dich ihm!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Ledwo zagłębiłem się nieco w jaskinie, gdy odkryłem źródło słyszalnych aż na powierzchni upiornych dźwięków. W pobliżu przejścia tulił się do ściany uzbrojony po zęby wojownik olbrzymiej postury. Z każdego elementu jego osoby emanowało zwierzęce wręcz przerażenie.
+
+Łamiącym się głosem ostrzegł mnie: "W głębinach tej jaskini żyje przesiąknięty złem, straszny potwór - najgorsza bestia jaką w życiu widziałem, a jako zabójca smoków widziałem niejedno. Jest tak straszna i okropna, że każdy, kto na nią spojrzy kamienieje z przerażenia! "
+
+Nadal szczękając zębami ze strachu wymógł jednak na mnie zezwolenie na towarzyszenie sobie w głąb pieczary...
+
+
+Odszukaj potwora w labiryncie i staw mu czoła!
+</text>
+      </lang>
     </block>
     <block id="hasenareal">
       <lang code="CHN">
@@ -191,6 +238,15 @@ Dies musste das Ungeheuer sein, vor dem sich die Einwohner der Frankenstadt für
 Ein KANINCHEN mit feuerroten, blutunterlaufenen Augen starrte uns an!!!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+I to tego potwora tak się bali wszyscy Frankowie?!?!
+
+...
+
+Naprzeciwko mnie widziałem małe, złośliwe i przekrwione oczka... KRÓLIKA!!!
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -209,6 +265,13 @@ THE MONSTER'S DEN
         <text>
 
 DIE MONSTERHÖHLE
+
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+LEGOWISKO POTWORA
 
 </text>
       </lang>
@@ -245,6 +308,17 @@ MISSION VERLOREN!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 Ein kleiner Moment des Leichtsinns - so schnell kommt es im Leben! Einer der Helden aus der Prophezeiung erlag durch deine Unachtsamkeit! Die Welt ist verloren!
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Chwila nieuwagi wystarczy! Jeden z bohaterów z przepowiedni zginął przez twoje niedopatrzenie! Świat jest skazany na zagładę!
 </text>
       </lang>
     </block>
@@ -295,6 +369,22 @@ Die Stadtbewohner konnten nun wieder in Ruhe schlafen. Ich dankte dem stolzen Fr
 Am Abend, als die Methumpen kreisten, erzählte ich ihm von unserer Mission. Sofort war er Feuer und Flamme, und bestand darauf, uns zu begleiten, war er doch ein waschechter Drachentöter! 
 
 Ich kniff die Augen zusammen und betrachtete ihn im Flammenschein genauer - ER WAR ES! Er war einer der Helden, die ich in meiner Vision gesehen hatte!
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA ZAKOŃCZONA SUKCESEM!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Bestia, której Frankowie bali się tak bardzo, została pokonana!
+
+Mieszkańcy miasta mogli znów spać spokojnie. Podziękowałem dumnemu rycerzowi za pomoc - jednak okazał się być prawdziwym bohaterem! - i zaprosiłem go do naszej osady.
+
+Wieczorem, po wychyleniu kilku rogów miodu, opowiedziałem mu o naszej misji. Zabójca smoków natychmiast wyraził chęć przyłączenia się do nas.
+
+Popatrzyłem na niego uważnie w świetle ogniska - to niesamowite! Był jednym z bohaterów z mojej wizji!
 </text>
       </lang>
     </block>

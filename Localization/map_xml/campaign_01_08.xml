@@ -1,135 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_01_08" export_map_id="campaign_01_08" map_md5="76efd6b66ba170c6571b7a6792b1464c" IsC2M="false">
+<localization version="1.3" map_id="campaign_01_08" export_map_id="campaign_01_08" map_md5="76efd6b66ba170c6571b7a6792b1464c" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">寻找贾法尔的仓库。</text>
       <text lang="eng">Find Jafar's warehouse.</text>
       <text lang="ger">Suche Jafars Lagerhaus.</text>
+      <text lang="pol">Odszukaj Magazyn Jafara.</text>
     </string>
     <string id="1">
       <text lang="CHN">与贾法尔交易 5 把长剑。</text>
       <text lang="eng">Trade 5 longswords with Jafar.</text>
       <text lang="ger">Handle mit Jafar 5 Langschwerter.</text>
+      <text lang="pol">Sprzedaj Jafarowi 5 długich mieczy.</text>
     </string>
     <string id="2">
       <text lang="CHN">寻找岩石花园。</text>
       <text lang="eng">Find the rock garden.</text>
       <text lang="ger">Suche den Felsengarten.</text>
+      <text lang="pol">Odszukaj kamienisty ogród.</text>
     </string>
     <string id="3">
       <text lang="CHN">解救阿里巴巴。</text>
       <text lang="eng">Free Ali Baba.</text>
       <text lang="ger">Befreie Ali Baba.</text>
+      <text lang="pol">Uwolnij Ali Babę.</text>
     </string>
     <string id="4">
       <text lang="CHN">向强盗缴纳 10 单位蜂蜜酒。</text>
       <text lang="eng">Pay the thieves 10 mead.</text>
       <text lang="ger">Zahle den Räubern 10 Met.</text>
+      <text lang="pol">Wydaj rozbójnikom 10 dzbanów miodu pitnego.</text>
     </string>
     <string id="5">
       <text lang="CHN">再向强盗缴纳 10 单位蜂蜜酒。</text>
       <text lang="eng">Pay the thieves another 10 mead.</text>
       <text lang="ger">Zahle den Räubern weitere 10 Met.</text>
+      <text lang="pol">Wydaj rozbójnikom kolejne 10 dzbanów miodu pitnego.</text>
     </string>
     <string id="6">
       <text lang="CHN">把阿里带回他年幼的弟弟身边。</text>
       <text lang="eng">Take Ali Baba to his brother.</text>
       <text lang="ger">Bringe Ali zu seinem kleinen Bruder.</text>
+      <text lang="pol">Zaprowadź Ali Babę do jego brata.</text>
     </string>
     <string id="7">
       <text lang="CHN">寻找那盏神灯。</text>
       <text lang="eng">Find the lamp.</text>
       <text lang="ger">Finde die Lampe.</text>
+      <text lang="pol">Odszukaj lampę.</text>
     </string>
     <string id="9">
       <text lang="CHN">搜查强盗的营地。</text>
       <text lang="eng">Search the thieves' camp.</text>
       <text lang="ger">Durchsuche das Räuberlager.</text>
+      <text lang="pol">Przeszukaj obóz rozbójników.</text>
     </string>
     <string id="10">
       <text lang="CHN">向游牧民缴纳 15 份大型治疗药剂作贡金。</text>
       <text lang="eng">Pay the nomads 15 large healing potions tribute.</text>
       <text lang="ger">Zahle den Nomaden 15 große Heiltränk Tribut.</text>
+      <text lang="pol">Zapłać Beduinom trybut opiewający na 15 dużych napojów leczniczych.</text>
     </string>
     <string id="51">
       <text lang="CHN">亚历山大港</text>
       <text lang="eng">Alexandria</text>
       <text lang="ger">Alexandria</text>
+      <text lang="pol">Aleksandria</text>
     </string>
     <string id="52">
       <text lang="CHN">游牧民</text>
       <text lang="eng">Nomads</text>
       <text lang="ger">Nomaden</text>
+      <text lang="pol">Beduini</text>
     </string>
     <string id="53">
       <text lang="CHN">贾法尔</text>
       <text lang="eng">Jafar</text>
       <text lang="ger">Jafar</text>
+      <text lang="pol">Jafar</text>
     </string>
     <string id="54">
       <text lang="CHN">阿里巴巴</text>
       <text lang="eng">Ali Baba</text>
       <text lang="ger">Ali Baba</text>
+      <text lang="pol">Ali Baba</text>
     </string>
     <string id="55">
       <text lang="CHN">强盗</text>
       <text lang="eng">Thieves</text>
       <text lang="ger">Räuber</text>
+      <text lang="pol">Rozbójnicy</text>
     </string>
     <string id="56">
       <text lang="CHN">撒拉逊人</text>
       <text lang="eng">Saracens</text>
       <text lang="ger">Sarazenen</text>
+      <text lang="pol">Saraceni</text>
     </string>
     <string id="61">
       <text lang="CHN">亚历山.</text>
       <text lang="eng">Alexan.</text>
       <text lang="ger">Alexan.</text>
+      <text lang="pol">Aleks.</text>
     </string>
     <string id="98">
       <text lang="CHN">尖塔与圆顶透着全然异样而神秘的气息。那座传说中的灯塔之火，为维京人指引着通往亚历山大港的航路……</text>
       <text lang="eng">Strange turrets and domes reach into the sky. The fire of the legendary lighthouse guides the Vikings to the port of Alexandria ...</text>
       <text lang="ger">Völlig fremdartig und geheimnisvoll wirken die spitzen Türme und runde Kuppeln. Das Feuer des sagenumwobenen Leuchtturmes wies den Wikingern den Weg in den Hafen von Alexandria...</text>
+      <text lang="pol">Ku niebu wznoszą się dziwne wieże i kopuły - światło legendarnej Latarni Morskiej kieruje Wikingów do portu w Aleksandrii...</text>
     </string>
     <string id="99">
       <text lang="CHN">亚历山大港</text>
       <text lang="eng">ALEXANDRIA</text>
       <text lang="ger">ALEXANDRIA</text>
+      <text lang="pol">ALEKSANDRIA</text>
     </string>
     <string id="100">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="101">
       <text lang="CHN">贾法尔</text>
       <text lang="eng">Jafar</text>
       <text lang="ger">Jafar</text>
+      <text lang="pol">Jafar</text>
     </string>
     <string id="102">
       <text lang="CHN">阿里巴巴</text>
       <text lang="eng">Ali Baba</text>
       <text lang="ger">Ali Baba</text>
+      <text lang="pol">Ali Baba</text>
     </string>
     <string id="103">
       <text lang="CHN">阿里巴巴的兄弟</text>
       <text lang="eng">Ali Baba's Brother</text>
       <text lang="ger">Ali Babas Bruder</text>
+      <text lang="pol">Brat Ali Baby</text>
     </string>
     <string id="104">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="pol">Cyra</text>
     </string>
     <string id="105">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="pol">Sigurd</text>
     </string>
   </strings>
   <briefings>
@@ -165,6 +191,18 @@ MISSION VERLOREN!
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Der Frankenheld aus der Prophezeiung erlag durch deine Unachtsamkeit! 
 Deine Vision wird sich nun niemals erfüllen können, die Welt ist verloren!
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Chwila nieuwagi wystarczy! Frankijski bohater z przepowiedni zginął przez twoje niedopatrzenie!
+Świat jest skazany na zagładę!
 </text>
       </lang>
     </block>
@@ -206,6 +244,18 @@ Ich habe erstaunliche Dinge über euch Wikinger gehört, also gelingt es euch si
 Suche den Felsengarten weit im Südwesten.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Gdy Jafar otrzymał ostatni ładunek, żażądaliśmy informacji, jakie przyrzekł w zamian.
+
+Nie wyglądał jednak na zadowolonego - "Owszem, dostarczyliście mi potrzebnych towarów, ale mam chyba prawo zmienić zdanie? Przynieście mi starą, bezwartościową lampę ukrytą w tajemnym ogrodzie!
+
+Tyle się słyszy o was, Wikingach... Na pewno poradzicie sobie bez problemów."
+
+
+Odszukaj ogród daleko na południowym zachodzie.
+</text>
+      </lang>
     </block>
     <block id="15">
       <lang code="CHN">
@@ -242,6 +292,17 @@ MISSION VERLOREN!
 Als die Byzantinerheldin der Prophezeiung starb, zerriss der Schicksalsfaden der Nornen. Nun würde nichts mehr die Midgardschlange aufhalten können."
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Bizantyjska bohaterka z przepowiedni nie żyje, a Norny straciły kontrolę nad losem świata. Nic już nie powstrzyma Węża Midgardu!
+</text>
+      </lang>
     </block>
     <block id="16">
       <lang code="CHN">
@@ -274,6 +335,16 @@ Dies waren die Tore der sagenumwobenen Stadt Alexandria!
 
 Voller Neugier und Ungewissheit betraten wir ihr Innerstes. 
 Was würde sie für uns bereithalten?
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+ALEKSANDRIA
+
+To mury sławnej Aleksandrii!
+
+Pełni ciekawości, ale i z pewną niepewnością wkroczyliśmy do miasta.
+Co nas tu czeka?
 </text>
       </lang>
     </block>
@@ -310,6 +381,17 @@ MISSION VERLOREN!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 Ali Baba ist gestorben! Nun wirst du den Eingang zum Zaubergarten nie öffnen können! Der Kaufmann Jafar schäumt vor Wut und wird dir niemals einen Hinweis auf das letzte Kartenstück geben! Die Mission ist gescheitert!!
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Ali Baba nie żyje! Teraz już nigdy nie zdołamy dostać się do ogrodu i zdobyć lampy, bez której Jafar nie zdradzi nam miejsca, w którym znajduje się ostatni kawałek mapy! Wszystko stracone!
 </text>
       </lang>
     </block>
@@ -357,6 +439,20 @@ Wenn ihr meinen Bruder, den großen Ali Baba, befreit und ihn wieder hierher zu 
 Befreie Ali Baba bei den Räubern im fernen Osten! 
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Przybyliśmy do dziwnego, ogrodzonego miejsca. Wejście blokowała kamienna brama, a obok niej stał płacząc mały chłopiec.
+
+Zobaczywszy nas, pociągnął jeszcze ze dwa razy nosem i zawołał: "Pewnie chcecie dostać się do ogrodu, ale nie znacie hasła, co? Pamiętałem je kiedyś... Ale teraz nie!
+
+Na pewno zna je mój brat, Ali... Ale wczoraj porwało go 40 rozbójników... Banda pijaków z okolicznych gór.
+
+Jeśli uwolnicie mojego brata, wielkiego Ali Babę i go do mnie przyprowadzicie, to prawdopodobnie da się coś dla was zrobić..."
+
+
+Uwolnij Ali Babę z bandyckiej niewoli na wschodzie!
+</text>
+      </lang>
     </block>
     <block id="19">
       <lang code="CHN">
@@ -374,6 +470,11 @@ Befreie Ali Baba bei den Räubern im fernen Osten!
       <lang code="ger">
         <text>
 "Du wagst es, uns Räuber anzugreifen? Wir werden euch Manieren beibringen!!!"
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+"Śmiesz atakować nas, rozbójników? Nauczymy cię, jak się tu zachowywać, psie niewierny!"
 </text>
       </lang>
     </block>
@@ -401,6 +502,13 @@ Be gone!! We will not leave our valuable gold deposits to any Nordic scum withou
 Verschwindet!! Unsere wertvollen Goldvorkommen werden wir keinen dahergelaufenen Normannen kampflos überlassen!!!"
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+"Co to?
+
+Won! Nie oddamy naszych cennych złotonośnych pól jakimś obdartusom z północy! Przygotujcie się do walki!!"
+</text>
+      </lang>
     </block>
     <block id="21">
       <lang code="CHN">
@@ -424,6 +532,13 @@ Two sinister-looking guards approached us.
 Zwei finster aussehende Wachen traten uns entgegen: 
 
 "Halt! Keinen Schritt weiter! Oder euch wird es schlecht ergehen!"
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Podeszło do nas dwóch groźnie wyglądających strażników.
+
+"Stać! Ani kroku dalej, albo pożałujecie! "
 </text>
       </lang>
     </block>
@@ -457,6 +572,15 @@ Zuerst dachten wir, es sei eine Fata Morgana. Doch tatsächlich stand plötzlich
 Im Süden gibt es nur vereinzelt einige Nomadendörfer und schweift man mit den Blick nach Westen, kann man das Leuchten der güldenen Kuppeln der Stadt Alexandria erkennen." 
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Myśleliśmy, że to fatamorgana, ale nie - nagle przed nami na środku pustyni pojawił się starzec! Jeden Odyn wie, skąd się tam wziął...
+
+"Łatwo się zgubić na wielkiej pustyni," wyszeptał staruch. "Ja jestem z północy - tutaj ziemia jest brudna i opuszczona, wiele się też słyszy o bandytach i rozbójnikach.
+
+Na południu znajdziecie tylko kilka koczowniczych osad, za to na zachodzie - złote dachy Aleksandrii."
+</text>
+      </lang>
     </block>
     <block id="23">
       <lang code="CHN">
@@ -480,6 +604,13 @@ This land was full of surprises! All of a sudden, we met an old man, who was lea
 Dieses Land war voller Überraschungen! Plötzlich trafen wir auf einen alten Mann, der sich schwer auf einen krummen Stock stützte.
 
 "Oh, dieses Schlitzohr Jafar!", jammerte der alte Mann. "Gebt acht, wenn ihr Handel mit ihm treiben wollt. Schon viele Kostbarkeiten verschwanden unter Wert in seinem Lagerhaus und wurden nie wieder gesehen! Wollt ihr es dennoch wagen, findet ihr ihn nur ein paar Schritte östlich von hier..."
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Ta kraina nie przestaje nas zaskakiwać! Ni stąd ni zowąd spotykamy starca opierającego się niezdarnie na kosturze.
+
+"Jafar, stary złodziej! Uważajcie na niego, jeśli chcecie z nim handlować - niejeden cenny przedmiot udało mu się zagarnąć znacznie poniżej ceny... Jeśli jednak chcecie zaryzykować spotkanie z nim, to znajdziecie go kilka kroków na wschód stąd."
 </text>
       </lang>
     </block>
@@ -513,6 +644,15 @@ Mitten in der Einöde stand plötzlich ein alter Mann vor uns, der sich schwer a
 "Für mich alten Menschen hatten sie keine Verwendung und ließen mich frei, aber den armen Ali, den sie gefangen halten, erwartet gewiss ein schlimmeres Schicksal! Möge Allah mit ihm sein..."  
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Na środku pustkowia nagle drogę zastąpił nam starzec opierający się o zakrzywioną laskę.
+
+"Zaatakowali mnie rozbójnicy! Po drugiej stronie tych gór!
+
+Ze mnie, starca, nic im by nie przyszło, więc mnie puścili, ale pochwycili również Alego... Biedak - cóż za straszny los go czeka... Niech Allah go wspiera!"
+</text>
+      </lang>
     </block>
     <block id="25">
       <lang code="CHN">
@@ -538,6 +678,13 @@ Unberührt von der restlichen Welt tat sich hier eine kleine Oase inmitten der W
 Hier verlief alles noch in ruhigen Bahnen, die Menschen waren freundlich und entgegenkommend. Und niemand ahnte etwas von unserer Mission... 
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Zobaczyliśmy przed sobą małą, nienaruszoną przez świat zewnętrzny oazę.
+
+Było tu spokojnie, mieszkańcy zaś - mimo iż niezwykle przyjacielscy i skorzy do pomocy - nie posiadali żadnych informacji dotyczących naszej misji.
+</text>
+      </lang>
     </block>
     <block id="26">
       <lang code="CHN">
@@ -555,6 +702,11 @@ When the nomadic people saw that they were no match for our tactics and strength
       <lang code="ger">
         <text>
 Als das Nomadenvolk sah, das es unserer Taktik und Kampfesstärke nichts entgegenzusetzen hatte, gaben sie schließlich auf und überließen uns widerwillig ihre Goldvorkommen.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Koczownicy spostrzegli, że zarówno nasza taktyka jak i siła zbrojna znacznie ich przewyższają i poddali nam swoje złotonośne złoża.
 </text>
       </lang>
     </block>
@@ -590,6 +742,16 @@ Wir hatten Ali Baba gefunden.
 Bringe Ali Baba zu seinem Bruder.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Znaleźliśmy Ali Babę.
+
+"Ogromniem wam wdzięczny za ocalenie, nieznajomi! Długo już bym nie wytrzymał wrzasków tych opryszków. Zaprowadźcie mnie do mojego młodszego brata, a nagroda was nie ominie!"
+
+
+Zaprowadź Ali Babę do jego brata.
+</text>
+      </lang>
     </block>
     <block id="aliimgarten">
       <lang code="CHN">
@@ -621,6 +783,16 @@ Zum Dank verriet uns Ali tatsächlich das geheime Zauberwort. Als wir es laut au
 
 
 Finde die Lampe.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Zaprowadziliśmy Ali Babę do jego młodszego brata. Malec nadal czekał przy kamiennej bramie magicznego ogrodu i nie posiadał się z radości, gdy ujrzał brata.
+
+Sam Ali Baba z wdzięczności zdradził nam tajemne słowa, które powodowały otworzenie bram. Przed nami wszystkie wspaniałości tego niezwykłego miejsca...
+
+
+Odszukaj lampę.
 </text>
       </lang>
     </block>
@@ -668,6 +840,20 @@ Wenn ihr meinen Bruder, den großen Ali Baba, befreit und ihn wieder hierher zu 
 Befreie Ali Baba bei den Räubern im fernen Osten! 
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Po dość długich poszukiwaniach udało nam się wreszcie odnaleźć miejsce, o którym wspominał kupiec. Wejście blokowała kamienna brama, a obok niej stał płacząc mały chłopiec.
+
+Zobaczywszy nas, pociągnął jeszcze ze dwa razy nosem i zawołał: "Pewnie chcecie dostać się do ogrodu, ale nie znacie hasła, co? Pamiętałem je kiedyś... Ale teraz nie!
+
+Na pewno zna je mój brat, Ali... Ale wczoraj porwało go 40 rozbójników... Banda pijaków z okolicznych gór.
+
+Jeśli uwolnicie mojego brata, wielkiego Ali Babę i go do mnie przyprowadzicie, to prawdopodobnie da się coś dla was zrobić..."
+
+
+Uwolnij Ali Babę z bandyckiej niewoli na wschodzie!
+</text>
+      </lang>
     </block>
     <block id="bjarnitot">
       <lang code="CHN">
@@ -704,6 +890,17 @@ MISSION VERLOREN!
 Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ihr Ende war besiegelt und mit ihnen das Ende der Welt der Menschen.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroizm czy głupota? Bjarni zginął, a bogowie płaczą... Ich los jest już przesądzony - tak samo jak zniszczenie świata ludzi.
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -724,6 +921,13 @@ ALEXANDRIA
         <text>
 
 ALEXANDRIA
+
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+ALEKSANDRIA
 
 </text>
       </lang>
@@ -770,6 +974,20 @@ Da wir keine andere Spur hatten, willigten wir widerwillig ein.
 
 
 Handle mit Jafar 5 Langschwerter.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+JAFAR
+
+Odnaleźliśmy Jafara, ale za pożądane przez nas informacje podyktował nader wysoką cenę...
+
+Twierdził, że wie, gdzie można znaleźć fragment poszukiwanej przez nas mapy. W zamian zażądał, abyśmy handlowali z nim pewnymi dobrami na wyjątkowo niekorzystnych warunkach.
+
+Niechętnie, ale się zgodziliśmy - w końcu nie mieliśmy innego wyboru.
+
+
+Sprzedaj Jafarowi 5 długich mieczy.
 </text>
       </lang>
     </block>
@@ -830,6 +1048,24 @@ Mit diesen Worten verschwand er im Nichts.
 Nun wussten wir, wo sich das letzte Kartenstück befand! Der reiche Kaufmann Jafar war zornig, als er von der Befreiung des Lampengeistes erfuhr. Wilde Flüche ausstoßend drohte er uns mit Vergeltung. 
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA ZAKOŃCZONA SUKCESEM!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+W Magicznym Ogrodzie widzieliśmy wiele dziwów.
+
+Jednak nic porównywalnego z lampą, której szukaliśmy. Stała na piedestale w odległej części ogrodu. Gdy podniosłem tę kupę starej rdzy, zaczęła nagle świecić mdłym światłem.
+
+Przestraszony, upuściłem lampę, co spowodowało pojawienie się przezroczystej istoty - dżinna. Zawołał on z wielką radością: "Wolny! Nareszcie wolny! W zamian za uwolnienie mnie odpowiem na pytanie, które was sprowadziło w te odległe strony. Przedmiot, którego szukacie, znajduje się w Bagdadzie."
+
+Dżinn zniknął po tych słowach.
+
+Jafar był wściekły, gdy się o tym dowiedział - wrzeszczał, przeklinał i groził nam...
+</text>
+      </lang>
     </block>
     <block id="lampe_01">
       <lang code="CHN">
@@ -847,6 +1083,11 @@ Since there was nothing more to keep us in Egypt, we decided to leave that same 
       <lang code="ger">
         <text>
 Da uns nun hier in Ägypten nichts mehr hielt, beschlossen wir, noch in der selben Nacht mit einigen mutigen Männern und Frauen aufzubrechen. Die anderen wollten zurück nach Hause segeln.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Doszliśmy do wniosku, że nie mamy już czego szukać w Egipcie i jeszcze tego samego wieczora wyruszyliśmy do Bagdadu. W tym samym czasie część naszych towarzyszy skierowała się w przeciwną stroną - do domu.
 </text>
       </lang>
     </block>
@@ -879,6 +1120,15 @@ Nun würde es uns ein Leichtes sein, unbemerkt an ihnen vorbeizuschleichen und A
 Finde und befreie Ali Baba.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Rozbójnicy leżeli porozwalani dookoła ogniska, chrapiąc donośnie.
+Teraz nietrudno będzie cichaczem uwolnić Ali Babę...
+
+
+Odszukaj i uwolnij Ali Babę.
+</text>
+      </lang>
     </block>
     <block id="littlealinichtgefunden">
       <lang code="CHN">
@@ -907,6 +1157,15 @@ Nun würde es für uns ein Leichtes sein, unbemerkt an ihnen vorbeizuschleichen 
 
 
 Durchsuche das Räuberlager.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Rozbójnicy leżeli porozwalani dookoła ogniska, chrapiąc donośnie.
+Teraz nietrudno będzie cichaczem uwolnić Ali Babę...
+
+
+Przeszukaj obóz rozbójników.
 </text>
       </lang>
     </block>
@@ -942,6 +1201,16 @@ Den Räubern schien unser Met vorzüglich zu munden. Als wir ihnen die letzten F
 Zahle den Räubern erneut 10 Met.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Rozbójnicy naprawdę polubili nasz miód. Zanim dostarczyliśmy ostatni dzban, byli już w świetnych humorach.
+
+"Ach to wy, ludzie północy... Wasz miód jest... naaaaaaa-praaaaaa-wdęęęęęęęę świeeeeeeee-tnyyyyyy!! Dajcie nam go więcej, a porządnie się zaprzyjaźnimy!"
+
+
+Przekaż rozbójnikom kolejne 10 dzbanów miodu pitnego.
+</text>
+      </lang>
     </block>
     <block id="revenge">
       <lang code="CHN">
@@ -962,6 +1231,12 @@ You shall be sorry, oh disbelieving one! Our brothers will help us and hunt you 
         <text>
 Du wagst es, uns anzugreifen?
 Wehe dir, oh Ungläubiger! Unsere Brüder werden uns zu Hilfe kommen und dich zurück aufs Meer jagen!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Śmiesz nas atakować?
+Zapłacisz za to, psie niewierny! Nasi bracia nas wesprą - pokonamy was i odepchniemy z powrotem do morza, z którego tu przybyliście!
 </text>
       </lang>
     </block>
@@ -1003,6 +1278,18 @@ Bringt Met, dann lassen wir euch ungehindert ziehen."
 Zahle den Räubern 10 Met als Tribut, um sie friedlich zu stimmen.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Moi ludzi mijali właśnie małą dolinkę, gdy dobiegły ich głośne wrzaski i dziki rechot. Wygląda na to, że w tej okolicy obozują rozbójnicy.
+
+Nagle słyszymy ostry głos: "Pieniądze lub napitek! Nikt stąd nie odchodzi znając drogę do naszej kryjówki... ale wiele słyszeliśmy o waszym wikińskim miodzie pitnym! Dzięki niemu uratujecie swoje skóry!
+
+Dostarczcie nam miodu pitnego, a pozwolimy wam odejść."
+
+
+Przekaż rozbójnikom 10 dzbanów miodu pitnego, aby wprowadzić ich w przyjazny nastrój.
+</text>
+      </lang>
     </block>
     <block id="räuberbesiegt">
       <lang code="CHN">
@@ -1036,6 +1323,16 @@ Wir hatten die Räuber im Kampf geschlagen. Nun würde es für uns ein Leichtes 
 Durchsuche das Räuberlager.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Zwyciężyliśmy!
+
+Pokonaliśmy rozbójników po ciężkim boju. Teraz bez żadnych przeszkód możemy przeszukać ich obóz.
+
+
+Przeszukaj obóz rozbójników.
+</text>
+      </lang>
     </block>
     <block id="start_00">
       <lang code="CHN">
@@ -1053,6 +1350,11 @@ The fire of the legendary lighthouse guided us to the port of Alexandria. Strang
       <lang code="ger">
         <text>
 Das Feuer des sagenumwobenen Leuchtturmes wies uns den Weg in den Hafen von Alexandria. Seltsame spitze Türme und runde Kuppeln wuchsen in den Himmel, alles wirkte völlig fremdartig und geheimnisvoll. 
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Ogień legendarnej Latarni Morskiej doprowadził nas do portu w Aleksandrii.
 </text>
       </lang>
     </block>
@@ -1086,6 +1388,16 @@ Entmutigt forschten wir in der großen Universität und bei den weitgereisten H�
 
 
 Suche das Lagerhaus des Kaufmannes Jafar.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Okazało się, że ciotka księżniczki opuściła to tajemnicze miasto pełne dziwnych gmachów i wieżyczek.
+
+Nie mogliśmy ryzykować i powiedzieć o naszej misji komu innemu, zdesperowani postanowiliśmy więc spróbować dowiedzieć się czegoś na słynnym uniwersytecie i miejskich bazarach. Spotkani tam doświadczeni kupcy skierowali nas do Jafara, bogatego sprzedawcy magicznych artefaktów.
+
+
+Odszukaj magazyn kupca Jafara.
 </text>
       </lang>
     </block>

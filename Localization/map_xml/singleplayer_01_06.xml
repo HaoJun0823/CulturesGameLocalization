@@ -1,56 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="singleplayer_01_06" export_map_id="singleplayer_01_06" map_md5="a420a7c8350c99fc37875168001016d8" IsC2M="false">
+<localization version="1.3" map_id="singleplayer_01_06" export_map_id="singleplayer_01_06" map_md5="a420a7c8350c99fc37875168001016d8" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">成为你部族中的岛王！</text>
       <text lang="eng">Become the Island King of your people!</text>
       <text lang="ger">Werde zum König Deines Volkes!</text>
+      <text lang="pol">Zostań Królem Wysp swojego ludu!</text>
     </string>
     <string id="1">
       <text lang="CHN">将部族中的十人训练为战士！</text>
       <text lang="eng">Turn ten people of your tribe into soldiers!</text>
       <text lang="ger">Mache zehn Deines Stammes zu Kriegern!</text>
+      <text lang="pol">Wystaw co najmniej 10 wojów!</text>
     </string>
     <string id="2">
       <text lang="CHN">建造一艘船！</text>
       <text lang="eng">Build a ship!</text>
       <text lang="ger">Baue ein Schiff!</text>
+      <text lang="pol">Wybuduj statek!</text>
     </string>
     <string id="3">
       <text lang="CHN">在至少三座其他岛屿建立小型营地以定居！</text>
       <text lang="eng">Settle on at least three additional isles by building a small camp there!</text>
       <text lang="ger">Siedle auf mindestens drei anderen Inseln indem Du dort ein kleines Lager errichtest!</text>
+      <text lang="pol">Osiedl się na co najmniej trzech dalszych wyspach, zakładając tam małe obozy!</text>
     </string>
     <string id="4">
       <text lang="CHN">助你的部族达到 100 人口！</text>
       <text lang="eng">Help your tribe establish a population of 100!</text>
       <text lang="ger">Laß Deinen Stamm eine Population von 100 Leuten erreichen!</text>
+      <text lang="pol">Doprowadź swoje plemię do liczebności 100!</text>
     </string>
     <string id="51">
       <text lang="CHN">王室子孙</text>
       <text lang="eng">Royal Children</text>
       <text lang="ger">Königskinder</text>
+      <text lang="pol">Królewskie dzieci</text>
     </string>
     <string id="98">
       <text lang="CHN">建立起 100 名维京人的人口！为此你也应在其他岛屿定居。</text>
       <text lang="eng">Establish a population of 100 Vikings! To do so you should settle on other isles as well!</text>
       <text lang="ger">Baue eine Bevölkerung mit 100 Wikingern auf! Siedle dafür auch auf anderen Inseln!</text>
+      <text lang="pol">Zwiększ populację do 100 Wikingów poprzez osiedlanie się na innych wyspach!</text>
     </string>
     <string id="99">
       <text lang="CHN">岛屿王国</text>
       <text lang="eng">ISLAND REALM</text>
       <text lang="ger">INSELREICH</text>
+      <text lang="pol">WYSPIARSKIE KRÓLESTWO</text>
     </string>
-  </strings>/strings>
+  </strings>
   <briefings>
     <block id="0">
       <lang code="CHN">
-                                <text>
+        <text>
 你是这座小岛引以为傲的首领，可惜岛子实在太小。你满心想当国王，可那至少要 100 名居民才行。
 
 多亏奥丁保佑，近旁还有几座迷你邻岛--它们以资源与建筑用地诱人。若你的资源告罄，或急寻新居处，定能在那里有所收获！
@@ -88,15 +97,29 @@ Eine wahrhaft schwierige Aufgabe!
 Erreiche eine Bevölkerung von 100 Einwohnern, von denen mindestens 10 Mann Krieger sein müssen. Dann kannst du dich mit Fug und Recht Inselkönig nennen!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Jesteś dumnym wodzem swojej wyspy... choć nie jest ona zbyt duża.
+Bardzo chciałbyś zostać królem, ale do tego potrzeba ci 100 mieszkańców.
+
+Chwała Odynowi - w pobliżu znajdują się jeszcze inne wyspy, które kuszą zapasami surowców naturalnych i żyznymi ziemiami. Gdyby twoje zapasy uległy wyczerpaniu, wiesz przynajmniej gdzie ich szukać.
+
+Czy uda ci się ustanowić sprawne państwo rozrzucone na kilku wyspach i zapewnić mu dobrobyt?
+To poważne wyzwanie!
+
+
+Twoje państwo musi sobie liczyć 100 mieszkańców, w tym co najmniej 10 wojów. Dopiero wtedy staniesz się prawdziwym królem wysp!
+</text>
+      </lang>
     </block>
     <block id="1">
       <lang code="CHN">
         <font>$local$\fonts\fonthead16bld.fnt</font>
-                                <text>
+        <text>
 任务成功！
         </text>
         <font>$local$\fonts\font12.fnt</font>
-                                <text>
+        <text>
 与大自然之力鏖战良久--维京人终究胜出！
 
 不过他们在贪婪撒拉逊人的岛上定居却不尽如人意。维京人只得臣服于其统治。尽管屡求和，部族间敌意仍存！
@@ -132,10 +155,24 @@ Nicht so erfolgreich waren sie beim Siedeln auf der Insel der geizigen Sarazenen
 Aber auf ihre friedliche Siedlungsmission konnten die Wikinger stolz sein, und mit Recht kannst du dich nun "Inselkönig" nennen!
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA WYKONANA POMYŚLNIE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Walka z siłami natury nie była łatwa, ale Wikingowie wyszli z niej obronną ręką!
+
+Niestety, nie udało się im zasiedlić wyspy Saracenów. Wikingowie musieli uznać ich zwierzchność. Mimo licznych prób zawarcia pokoju, pomiędzy dwoma plemionami wciąż dochodziło do spięć.
+
+Ale Wikingowie mogli być dumni z osiągnięć swojej misji pokojowej, a ty możesz z czystym sumieniem tytułować się Królem Wysp!
+</text>
+      </lang>
     </block>
     <block id="2">
       <lang code="CHN">
-                                <text>
+        <text>
 这接待实在算不上友善。
 
 “我们，骄傲的撒拉逊人，将抗击此岛上的任何闯入者……我们不与任何人分享，也绝不施舍！
@@ -163,15 +200,25 @@ Wir teilen mit niemandem, wir geben nichts!
 Verschwindet, oder ihr seid des Todes!"
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Nie było to przyjacielskie powitanie.
+
+"Jesteśmy dumnym plemieniem Saracenów. Nie tolerujemy obcych na naszej wyspie...
+Nie zamierzamy dzielić się z nikim!
+
+Odejdźcie, albo czeka was śmierć!"
+</text>
+      </lang>
     </block>
     <block id="3">
       <lang code="CHN">
         <font>$local$\fonts\fonthead16bld.fnt</font>
-                                <text>
+        <text>
 任务失败！
         </text>
         <font>$local$\fonts\font12.fnt</font>
-                                <text>
+        <text>
 维京人曾英勇抗击强敌，终不免落败。
 
 诱人岛屿王国的故事，到此为止！
@@ -201,10 +248,22 @@ Die Wikinger hatten hart und unerschütterlich gegen die Gewalt angekämpft, doc
 Damit endete die Geschichte um das verlockende Inselreich!
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA ZAKOŃCZONA NIEPOWODZENIEM!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Wikingowie dzielnie stawili czoła nieprzyjacielowi, ale w końcu musieli uznać jego wyższość.
+
+Tak oto kończą się twoje marzenia o kwitnącym, wyspiarskim królestwie.
+</text>
+      </lang>
     </block>
     <block id="4">
       <lang code="CHN">
-                                <text>
+        <text>
 
 
 你已造出一艘船--凭此船，你便能在各岛间建立起运转良好的经济！
@@ -222,10 +281,16 @@ You've now built a ship - with this ship you can start building up a functioning
 Du hast nun ein Schiff gebaut - und mit diesem kannst du nun beginnen, eine laufende, inselübergreifende Wirtschaft aufzubauen!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+Wybudowałeś statek - dzięki niemu możesz rozwijać współpracę między wyspami twojego przyszłego królestwa.
+</text>
+      </lang>
     </block>
     <block id="5">
       <lang code="CHN">
-                                <text>
+        <text>
 
 
 维京人满怀探索之志踏上此岛，以发现者的勇气与胆魄定居于第三岛！
@@ -249,10 +314,18 @@ Mit Forscherdrang hatten die Wikinger das Eiland betreten und mit viel Entdecker
 Nun konnten sie eine mächtige Bevölkerung werden, und ihren Anführer würden sie zum König ernennen!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+Wikingowie dotarli do trzeciej wyspy, gdzie wkrótce powstało ich osiedle.
+
+Jeśli ich populacja wzrośnie wystarczająco, wkrótce zostaniesz prawdziwym królem!
+</text>
+      </lang>
     </block>
     <block id="6">
       <lang code="CHN">
-                                <text>
+        <text>
 
 
 撒拉逊部族已在这座岛的争夺中落败--他们再不会来烦你！
@@ -270,17 +343,22 @@ The tribe of Saracens has lost the fight for this isle - they will never trouble
 Der Stamm der Sarazenen hat den Kampf um diese Insel verloren - er wird dich nie mehr belästigen!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+Plemię Saracenów przegrało walkę o swoją wyspę. Już nigdy nie sprawi ci kłopotu.
+</text>
+      </lang>
     </block>
     <block id="7">
       <lang code="CHN">
         <font>$local$\fonts\fonthead16bld.fnt</font>
-                                <text>
+        <text>
 与大自然及贪婪的撒拉逊部族鏖战良久，维京人终获辉煌胜利！
 
 凭你的战功，撒拉逊人不得不放弃此岛……如今维京人是岛屿王国中唯一的部族，而你便是至高无上的“岛王”！
         </text>
         <font>$local$\fonts\font12.fnt</font>
-                
       </lang>
       <lang code="eng">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -303,10 +381,23 @@ Die Sarazenen haben die Insel dank deiner militärischen Erfolge aufgeben müsse
 Die Wikinger sind nun der alleinige Stamm im Inselreich, und du bist der souveräne "Inselkönig"!
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA ZAKOŃCZONA POMYŚLNIE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Walka z siłami natury i z plemieniem Saracenów nie była łatwa. A jednak Wikingowie wyszli z niej obronną ręką!
+
+Dzięki twojemu kunsztowi wojennemu, Saraceni zostali zmuszeni do porzucenia wyspy...
+Wikingowie rządzą teraz niepodzielnie wyspiarskim królestwem, pod światłym przewodnictwem swojego władcy - Króla Wysp!
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
-                                <text>
+        <text>
 
 
 岛屿王国
@@ -325,6 +416,13 @@ ISLAND REALM
         <text>
 
 INSELREICH
+
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+WYSPIARSKIE KRÓLESTWO
 
 </text>
       </lang>

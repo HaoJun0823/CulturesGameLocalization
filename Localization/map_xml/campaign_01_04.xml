@@ -1,95 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_01_04" export_map_id="campaign_01_04" map_md5="4db33a55f3f0bf10d27fcbcbbf09e17f" IsC2M="false">
+<localization version="1.3" map_id="campaign_01_04" export_map_id="campaign_01_04" map_md5="4db33a55f3f0bf10d27fcbcbbf09e17f" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">支付 50 枚金币，赎回你的女眷。</text>
       <text lang="eng">Pay 50 gold coins to ransom the women.</text>
       <text lang="ger">Zahle 50 Goldmünzen, um deine Frauen freizukaufen.</text>
+      <text lang="pol">Okup za niewiasty wynosi 50 sztuk złota.</text>
     </string>
     <string id="1">
       <text lang="CHN">击杀那可怖的怪物！</text>
       <text lang="eng">Kill the terrible monster!</text>
       <text lang="ger">Töte das schrecklich Monster!</text>
+      <text lang="pol">Zabij potworną bestię!</text>
     </string>
     <string id="2">
       <text lang="CHN">建立一座村庄，并将你的仓库填满补给。</text>
       <text lang="eng">Build a settlement and fill your warehouse with supplies.</text>
       <text lang="ger">Gründe ein Dorf und fülle dein Lager mit Vorräten.</text>
+      <text lang="pol">Załóż osadę i wypełnij Magazyn zapasami.</text>
     </string>
     <string id="3">
       <text lang="CHN">向撒拉逊人支付 50 枚金币。</text>
       <text lang="eng">Pay the Saracens 50 gold coins.</text>
       <text lang="ger">Zahle den Sarazenen 50 Goldmünzen.</text>
+      <text lang="pol">Zapłać Saracenom 50 sztuk złota.</text>
     </string>
     <string id="4">
       <text lang="CHN">向北进发，将这座城市从怪物手中解放！</text>
       <text lang="eng">Go north and relieve the city of the monster.</text>
       <text lang="ger">Ziehe nach Norden und befreie die Stadt von dem Monster!</text>
+      <text lang="pol">Udaj się na północ i uratuj miasto od potwora.</text>
     </string>
     <string id="5">
       <text lang="CHN">与当地居民进行交易。</text>
       <text lang="eng">Trade with the locals.</text>
       <text lang="ger">Handle mit den Einheimischen.</text>
+      <text lang="pol">Pohandluj z tubylcami.</text>
     </string>
     <string id="6">
       <text lang="CHN">整备你的船只，准备继续航行。</text>
       <text lang="eng">Equip your ship to move on.</text>
       <text lang="ger">Rüste dein Schiff für die Weiterfahrt aus.</text>
+      <text lang="pol">Wyposaż swój statek na dalszą podróż.</text>
     </string>
     <string id="7">
       <text lang="CHN">设法救出你的女眷。</text>
       <text lang="eng">Find a way to free the women.</text>
       <text lang="ger">Finde einen Weg, deine Frauen zu befreien.</text>
+      <text lang="pol">Znajdź sposób na uwolnienie niewiast.</text>
     </string>
     <string id="8">
       <text lang="CHN">若要开展贸易，须先缴纳 10 枚金币作为贡金。</text>
       <text lang="eng">To be able to trade, you must pay 10 gold coins tribute.</text>
       <text lang="ger">Um handeln zu können, zahle erst 10 Goldmünzen Tribut.</text>
+      <text lang="pol">Handel będzie możliwy po wpłaceniu wadium w wysokości 10 sztuk złota.</text>
     </string>
     <string id="50">
       <text lang="CHN">撒拉逊人</text>
       <text lang="eng">Saracens</text>
       <text lang="ger">Sarazenen</text>
+      <text lang="pol">Saraceni</text>
     </string>
     <string id="51">
       <text lang="CHN">贝内文托</text>
       <text lang="eng">Benevent</text>
       <text lang="ger">Benevent</text>
+      <text lang="pol">Benewent</text>
     </string>
     <string id="52">
       <text lang="CHN">那不勒斯</text>
       <text lang="eng">Napoli</text>
       <text lang="ger">Napoli</text>
+      <text lang="pol">Neapol</text>
     </string>
     <string id="53">
       <text lang="CHN">罗马</text>
       <text lang="eng">Roma</text>
       <text lang="ger">Roma</text>
+      <text lang="pol">Rzym</text>
     </string>
     <string id="98">
       <text lang="CHN">维京人在意大利南岸登陆，准备补充新的补给。一切原本平静安详，直到那个瞬间来临……</text>
       <text lang="eng">The Vikings land on the coast of Italy to gather supplies. Everything seems quiet and peaceful, until ...</text>
       <text lang="ger">An der Küste Süditaliens landen die Wikinger, um sich mit neuen Vorräten einzudecken. Alles verläuft ruhig und friedlich, bis zu jenem Moment...</text>
+      <text lang="pol">Wikingowie lądują w Italii w celu uzupełnienia zapasów. Wszystko wydaje się być w porządku, aż tu nagle...</text>
     </string>
     <string id="99">
       <text lang="CHN">意大利</text>
       <text lang="eng">ITALY</text>
       <text lang="ger">ITALIEN</text>
+      <text lang="pol">ITALIA</text>
     </string>
     <string id="100">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="101">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="pol">Sigurd</text>
     </string>
   </strings>
   <briefings>
@@ -121,6 +139,15 @@ Ihr habt den Löwen gekitzelt, während er schlief! Doch ihr habt ihn damit gewe
 Wehe euch, Unwürdige! Euer Ende ist nah!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+I co - liczysz na to, że puścimy to płazem?!
+
+Skoro obudziłeś śpiącego psa, to cierp teraz jego gniew!
+
+Strzeżcie się, niewierni! Wasz koniec już bliski!
+</text>
+      </lang>
     </block>
     <block id="begin_00">
       <lang code="CHN">
@@ -136,6 +163,11 @@ For a long time, we sailed in adverse winds and fought treacherous currents, rou
       <lang code="ger">
         <text>
 Lange segelten wir gegen widrige Winde und tückische Strömungen an, umrundeten Spanien und durchquerten unter großen Gefahren die Meerenge von Gibraltar, wo wir beinahe von einem überraschend aufziehenden Unwetter gegen die Klippen geschleudert wurden. Wir entkamen um Haaresbreite, doch war unser Segel zerfetzt und die Männer zu Tode erschöpft. 
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przez wiele dni walczyliśmy z przeciwnymi wiatrami i niekorzystnymi prądami. Ominęliśmy Hiszpanię, ale w Cieśninie Gibraltarskiej nagły sztorm o mało co nie roztrzaskał naszego okrętu o brzeg.
 </text>
       </lang>
     </block>
@@ -167,6 +199,16 @@ Während wir Männer zur Jagd gingen, schlugen unsere Frauen das Lager auf...
 
 
 Baue eine Siedlung auf und fülle dein Lager an der Küste mit Vorräten.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Udało się nam uratować, ale podarte żagle i zmęczona załoga skłoniły mnie do skierowania się do słonecznej Italii w celu dokonania niezbędnych napraw i uzupełnienia zapasów.
+
+Niewiasty rozbiły obóz, a my wyruszyliśmy na polowanie.
+
+
+Wybuduj osiedle i wypełnij nadmorski magazyn zapasami.
 </text>
       </lang>
     </block>
@@ -204,6 +246,17 @@ MISSION VERLOREN!
 Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ihr Ende war besiegelt und mit ihnen das Ende der Welt der Menschen.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroizm czy głupota? Bjarni zginął, a bogowie płaczą... Ich los jest już przesądzony - tak samo jak zniszczenie świata ludzi.
+</text>
+      </lang>
     </block>
     <block id="bonischatz">
       <lang code="CHN">
@@ -225,6 +278,13 @@ Our people triumphantly returned the chest to our village.
 Gold! Wir hatten den Schatz gefunden! 
 
 Im Triumphzug brachten unsere Leute die Kiste in unser Dorf.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Złoto! Znaleźliśmy skarb!
+
+Nasi ludzie tryumfalnie wnieśli skrzynię do osady.
 </text>
       </lang>
     </block>
@@ -250,6 +310,13 @@ Wir hatten ein unscheinbares Amulett mit seltsamen Zeichen darauf gefunden. Ein 
 Das musste hohe Magie sein!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Znaleźliśmy trudny do opisania, emanujący jakąś energią amulet z dziwną inskrypcją.
+
+Z pewnością posiada olbrzymią moc magiczną!
+</text>
+      </lang>
     </block>
     <block id="bonitrank">
       <lang code="CHN">
@@ -273,6 +340,13 @@ Eine seltsame Flasche mit einem übelriechenden Trank war uns in die Hände gefa
 Es konnte sich nur um einen magischen Trank handeln!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Wpadła nam w ręce dziwna flasza wypełniona straszliwie śmierdzącym płynem.
+
+To z pewnością jakaś magiczna mikstura!
+</text>
+      </lang>
     </block>
     <block id="boniwaffe">
       <lang code="CHN">
@@ -294,6 +368,13 @@ Used correctly, it would be of great use to us in battle.
 Wir hatten eine der magischen Waffen gefunden, von denn unsere Sagen erzählten. 
 
 Richtig eingesetzt, konnte sie uns im Kampf von großem Nutzen sein!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Natknęliśmy się na jedną z magicznych broni opisywanych w naszych sagach.
+
+Jeśli właściwie ją wykorzystamy, to może nam ogromnie ułatwić prowadzenie wojen...
 </text>
       </lang>
     </block>
@@ -325,6 +406,15 @@ Unsere Kundschafter stießen auf ein Frankendorf. Sie betrachteten uns mit Argwo
 Gegen einen geringen Tribut konnten wir mit ihnen vielleicht Handel treiben?
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+BENEWENT
+
+Nasi zwiadowcy natknęli się na frankijską wioskę. Miejscowi przyglądali im się podejrzliwie, ale nie przejawiali wrogości.
+
+Może zgodzą się z nami handlować w zamian za mały trybut?
+</text>
+      </lang>
     </block>
     <block id="dorf2">
       <lang code="CHN">
@@ -348,6 +438,13 @@ NAPOLI
 Als unsere Kundschafter auf eine Stadt der Franken in der Nähe trafen, wurden sie freundlich empfangen. Sogleich bot man uns einen Handelsvertrag an.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+NEAPOL
+
+W tej frankijskiej wiosce powitano nas z otwartymi ramionami, natychmiast oferując zawarcie umowy handlowej.
+</text>
+      </lang>
     </block>
     <block id="dorftribut">
       <lang code="CHN">
@@ -363,6 +460,11 @@ Once we had proved our good intentions by paying the tribute, we were offered fr
       <lang code="ger">
         <text>
 Als wir unseren guten Willen durch die Tributzahlung unter Beweis gestellt hatten, bot man uns Freundschaft und Hilfe bei unserer weiteren Mission an.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Wpłacenie trybutu uznano za gwarancję naszych dobrych intencji i zaoferowano przyjaźń i pomoc w naszych staraniach.
 </text>
       </lang>
     </block>
@@ -388,6 +490,13 @@ Was war das gewesen? Schreie aus der Richtung unseres Lagers?
 Sogleich warfen wir unsere Jagdbeute fort und rannten zurück zu unseren Frauen, die alleine und schutzlos am Landeplatz zurückgeblieben waren.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Co to? Krzyki dobiegające z naszego obozu?
+
+Rzuciliśmy nasze tobołki i popędziliśmy do osady. Do osady, w której pozostawiliśmy nasze niewiasty - same i bezbronne!
+</text>
+      </lang>
     </block>
     <block id="frankeohnesub">
       <lang code="CHN">
@@ -403,6 +512,11 @@ Our attack on the Saracens had freed a Frankish knight, who offered to help us a
       <lang code="ger">
         <text>
 Durch unseren Angriff auf die Sarazenen verhalfen wir auch einem fränkischen Ritter zur Freiheit, der uns sofort seine Hilfe anbot.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Nasz atak na Saracenów pozwolił na uwolnienie się frankijskiemu rycerzowi. Natychmiast zaoferował on nam swe usługi
 </text>
       </lang>
     </block>
@@ -444,6 +558,19 @@ MISSION VERLOREN!
 Welch Schande! Zuerst warst du nicht in der Lage, deine Frauen zu beschützen, und dann gelingt es dir noch nicht einmal, sie aus den Händen der Ungläubigen zu befreien!
 
 Alle Frauen sind bei deinem kläglichen Rettungsversuch ums Leben gekommen! Schmach und Schande über dich! Du bist einem Platz an der Seite Odins nicht würdig!
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Co za nieszczęście! Najpierw nie jesteście w stanie ochronić swoich matek, żon i sióstr, a teraz nawet nie umiecie ich wyswobodzić z łap tych bestii!
+
+Twoja żałosna próba uratowania niewiast skończyła się śmiercią ich wszystkich! Wstydź się - nie jesteś godzien miejsca u boku Odyna!
 </text>
       </lang>
     </block>
@@ -489,6 +616,20 @@ Traurig dachte ich an unsere geraubten Ehefrauen, die nicht bei uns sein konnten
 Handle mit den Einheimischen, um den Rest des Lösegeldes zusammen zu bekommen.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Przerażeni mieszczanie nie posiadali się z radości, gdy usłyszeli o śmierci potwora.
+
+Burmistrz z zadowoleniem wręczył nam obiecaną nagrodę, a jego podwładni szybko przygotowali fetę na naszą cześć.
+
+Podczas uroczystości kilku moich ludzi zawarło bliższe znajomości z lokalnymi niewiastami. Następnego dnia odbyły się uroczyste zaślubiny.
+
+To mi tylko przypomniało o naszych niewiastach... Musimy jak najszybciej zebrać potrzebną sumę lub uwolnić je siłą!
+
+
+Handluj z tubylcami dopóki nie zdobędziesz pełnej sumy okupu.
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -511,6 +652,13 @@ ITALY
         <text>
 
 ITALIEN
+
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+ITALIA
 
 </text>
       </lang>
@@ -549,6 +697,17 @@ MISSION VERLOREN!
 Das ist das Ende! Die Vision wird sich nun niemals erfüllen können! Trotz erbitterter Gegenwehr wurde einer der Helden aus der Prophezeiung von der Übermacht des Gegners überwältigt!
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+To już koniec! Wizja Bjarniego nie może już zostać spełniona - pomimo dzielnej walki jeden z twoich bohaterów padł po ciosami wrogów!
+</text>
+      </lang>
     </block>
     <block id="höhle">
       <lang code="CHN">
@@ -572,6 +731,13 @@ Wir fanden den Eingang zur Höhle des Monsters, im Norden, wie von den Stadtbewo
 Das Zauberschwert Wielands gezogen, machte ich mich an den Abstieg... Meine Wikinger bewachten indes den Eingang.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Dzięki opisowi tubylców bez problemu znaleźliśmy wejście do jaskini na północy. Do naszych uszu dotarły upiorne wrzaski i porykiwania... Postanowiłem sam się zapuścić w głąb legowiska potwora!
+
+Dobyłem magicznego miecza Wielanda i zacząłem iść w dół. Moi ludzie pozostali na górze, pilnując wejścia.
+</text>
+      </lang>
     </block>
     <block id="höhleohneAuftrag">
       <lang code="CHN">
@@ -587,6 +753,11 @@ A dark, half crumbled entrance opened before us. We would never use it unless th
       <lang code="ger">
         <text>
 Ein dunkler, halb verfallener Eingang tat sich vor uns auf. Ohne einen triftigen Grund, würden wir ihn wohl nie benutzen!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przed nami ziało czernią na wpół zawalone wejście do jaskini. Zdecydowanie musimy mieć jakiś powód, zanim choćby pomyślimy o wejściu do środka!
 </text>
       </lang>
     </block>
@@ -632,6 +803,20 @@ Vielleicht konnten wir die Einheimischen davon überzeugen, uns gegen die Saraze
 Liefere den Sarazenen 50 Goldmünzen Lösegeld, oder finde eine andere Möglichkeit, deine Frauen zu befreien.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Za późno!
+
+Z odległości ujrzeliśmy, jak dzicy Saraceni wciągają nasze niewiasty na nasz własny statek i odpływają z nimi w siną dal.
+
+W głównym domostwie wioski znaleźliśmy jednak notatkę - Saraceni żądali bardzo wysokiego okupu za uwolnienie naszych żon, sióstr i matek. W okolicy nie było jednak ani jednego miejsca, z którego dałoby się wykopać choć jeden samorodek złotego kruszcu...
+
+Może uda nam się przekonać tubylców do wsparcia nas i przeciwstawienia się Saracenom?
+
+
+Przekaż Saracenom okup w wysokości 50 sztuk złota lub znajdź inny sposób na uratowanie niewiast.
+</text>
+      </lang>
     </block>
     <block id="monsterauftrag">
       <lang code="CHN">
@@ -675,6 +860,20 @@ Aber wir würden euch Gold geben, wenn ihr uns von dem Monster in der nahe geleg
 Ziehe nach Norden und befreie die Stadt von dem Monster.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+RZYM
+
+Kolejne wielkie miasto tej krainy rozciągało się na wzgórzu i było otoczone wysokim murem. Zanim otrzymaliśmy audiencję u jego burmistrza, musieliśmy przekroczyć silnie obsadzoną bramę i niekończące się kontrole po zęby uzbrojonych straży.
+
+Burmistrz rzekł: "Nasze miasto również obawia się Saraceńskich najazdów - nie możemy wam pomóc w walce. Ci bandyci są zbyt niebezpieczni.
+
+Możemy was jednak wynagrodzić złotem, jeśli uda się wam pokonać potwora żyjącego w jaskini na północy. Nęka nas już od wielu lat."
+
+
+Udaj się na północ i uratuj miasto od zagrożenia, jakie stwarza bestia.
+</text>
+      </lang>
     </block>
     <block id="ohneBjarni">
       <lang code="CHN">
@@ -692,6 +891,11 @@ A mission for a true hero! Guide Bjarni, the Viking chief, to the cave ...
 Das ist eine Mission für wahre Helden! Führe Bjarni, den Wikingerhäuptling, zu der Höhle... 
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+To dopiero zadanie dla prawdziwego bohatera! Doprowadź wodza Wikingów, Bjarniego, do wejścia do jaskini...
+</text>
+      </lang>
     </block>
     <block id="sarakampf">
       <lang code="CHN">
@@ -707,6 +911,11 @@ Your people are attacking a hostile nation! Beware - luck can turn quickly in wa
       <lang code="ger">
         <text>
 Deine Leute greifen gerade ein feindliches Volk an! Doch Vorsicht ist angebracht - das Kriegsglück kann sich schnell wenden und dir leicht selbst zum Verhängnis werden.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Twoi wojowie atakują gotowego na wszystko przeciwnika! Uważaj - bóstwa wojny są wyjątkowo kapryśne...
 </text>
       </lang>
     </block>
@@ -728,6 +937,13 @@ We will have to pay you a "friendly" visit at some time ...
 Unwürdiger! 
 Ihr denkt wohl gar nicht daran, den geforderten Tribut zu bezahlen?! Nun denn, dann werdet ihr auch die Folgen tragen müssen! 
 Wir werden euch demnächst wohl mal einen kleinen Besuch unter "Freunden" abstatten müssen...
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Niewierny psie!
+Nie zamierzasz zapłacić okupu?! Licz się z konsekwencjami!
+Złożymy ci kiedyś 'przyjacielską' wizytę...
 </text>
       </lang>
     </block>
@@ -763,6 +979,17 @@ MISSION VERLOREN!
         <picture>$local$\graphics\People_Dead_F.pcx</picture>
         <text>
 Du hast versagt! Deine Wikinger hatten auf dich vertraut und du hast sie im Stich gelassen. An Odins Tafel wird kein Platz für dich sein.
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Nie powiodło ci się! Twoi Wikingowie ci zaufali, a ty ich zawiodłeś! Nie znajdzie się dla ciebie miejsce przy stole Odyna!
 </text>
       </lang>
     </block>
@@ -803,6 +1030,18 @@ Wie freuten wir uns, als wir unsere Frauen endlich wieder in die Arme schließen
 Überglücklich führten wir sie zurück in unser Lager, das inzwischen schon zu einem stattlichen Dorf angewachsen war. Nun endlich konnten wir unsere Fahrt nach Byzanz fortsetzen und begannen sogleich damit, unser Schiff auszurüsten. 
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA ZAKOŃCZONA SUKCESEM!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Nasza radość po ponownym zobaczeniu naszych niewiast była niemożliwa do opisania. Mogliśmy wreszcie wrócić do naszego obozu - a właściwie już sporej wioski.
+
+Natychmiast zaczęliśmy przygotowywania do dalszej drogi, ale wielu moich towarzyszy postanowiło nie opuszczać tej słonecznej krainy przyjaznych ludzi, która tak wiele ucierpiała od arabskich piratów.
+</text>
+      </lang>
     </block>
     <block id="won_01">
       <lang code="CHN">
@@ -820,6 +1059,12 @@ But as a crisp breeze brushed my face while I stood at the bow, I found myself l
         <text>
 Ungern verließen wir dieses gastliche Land, dass so unter den Piraten zu leiden gehabt hatte, und viele der Unseren, die mit den Einheimischen Freundschaft geschlossen hatten, blieben zurück. 
 Doch als mir am Bug des Schiffes ein frischer Wind ins Gesicht blies, freute ich mich bereits auf die Abenteuer, die noch vor uns liegen mochten.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Ja jednak nie mogłem się doczekać oczekujących na nas przygód.
+Z radością stanąłem na dziobie mojego Drakkara, pozwalając wiatrowi smagać mnie po twarzy a wodzie pluskać u mych stóp.
 </text>
       </lang>
     </block>

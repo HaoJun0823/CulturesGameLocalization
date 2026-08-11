@@ -1,50 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_01_10-sub" export_map_id="campaign_01_10-sub" map_md5="702e8a8839925abd46491650dfef9bd6" IsC2M="false">
+<localization version="1.3" map_id="campaign_01_10-sub" export_map_id="campaign_01_10-sub" map_md5="702e8a8839925abd46491650dfef9bd6" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">解答神谕者的谜题，直抵沙漠神殿最隐秘的宝藏。</text>
       <text lang="eng">Answer the oracle's questions and proceed to the secret treasure in the desert temple.</text>
       <text lang="ger">Löse die Fragen des Orakels und dringe bis zum geheimsten Schatz des Wüstentempels vor.</text>
+      <text lang="pol">Odpowiedz na pytania wyroczni i dotrzyj do skarbu ukrytego w pustynnej świątyni.</text>
     </string>
     <string id="51">
       <text lang="CHN">蛇卫</text>
       <text lang="eng">Serpent Guard</text>
       <text lang="ger">Schlangenwächter</text>
+      <text lang="pol">Wężowy strażnik</text>
     </string>
     <string id="52">
       <text lang="CHN">蛇卫</text>
       <text lang="eng">Serpent Guard</text>
       <text lang="ger">Schlangenwächter</text>
+      <text lang="pol">Wężowy strażnik</text>
     </string>
     <string id="99">
       <text lang="CHN">巴格达 - 支线</text>
       <text lang="eng">BAGHDAD - Sub</text>
       <text lang="ger">BAGDAD - Sub</text>
+      <text lang="pol">BAGDAD - zadanie dodatkowe</text>
     </string>
     <string id="101">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="102">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="pol">Sigurd</text>
     </string>
     <string id="103">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="pol">Cyra</text>
     </string>
     <string id="104">
       <text lang="CHN">哈奇</text>
       <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
+      <text lang="pol">Hatchie</text>
     </string>
   </strings>
   <briefings>
@@ -77,6 +86,17 @@ MISSION VERLOREN!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Held Sigurd aus der Prophezeiung erlag durch deine Unachtsamkeit! Die Welt ist verloren.
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Chwila nieuwagi wystarczy! Sigurd, bohater z przepowiedni, zginął przez twoje niedopatrzenie! Świat jest skazany na zagładę!
 </text>
       </lang>
     </block>
@@ -115,6 +135,17 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin Cyra aus der Prophezeiung erlag durch deine Unachtsamkeit! Die Welt ist verloren.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Chwila nieuwagi wystarczy! Cyra, bohaterka z przepowiedni, zginęła przez twoje niedopatrzenie! Świat jest skazany na zagładę!
+</text>
+      </lang>
     </block>
     <block id="5">
       <lang code="CHN">
@@ -149,6 +180,17 @@ MISSION VERLOREN!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Held Hatschi aus der Prophezeiung erlag durch deine Unachtsamkeit! Die Welt ist verloren.
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Chwila nieuwagi wystarczy! Hatchie, bohater z przepowiedni, zginął przez twoje niedopatrzenie! Świat jest skazany na zagładę!
 </text>
       </lang>
     </block>
@@ -187,6 +229,17 @@ MISSION VERLOREN!
 Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ihr Ende war besiegelt und mit ihnen das Ende der Welt der Menschen.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroizm czy głupota? Bjarni zginął, a bogowie płaczą... Ich los jest już przesądzony - tak samo jak zniszczenie świata ludzi.
+</text>
+      </lang>
     </block>
     <block id="erklärung1">
       <lang code="CHN">
@@ -204,6 +257,11 @@ Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ihr Ende war
       <lang code="ger">
         <text>
 "Hier siehst du Schalter A"
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+"Przełącznik A."
 </text>
       </lang>
     </block>
@@ -225,6 +283,11 @@ Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ihr Ende war
 "Hier siehst du Schalter B"
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+"Przełącznik B."
+</text>
+      </lang>
     </block>
     <block id="erklärung3">
       <lang code="CHN">
@@ -242,6 +305,11 @@ Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ihr Ende war
       <lang code="ger">
         <text>
 "Hier siehst du Schalter C"
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+"Przełącznik C."
 </text>
       </lang>
     </block>
@@ -267,6 +335,13 @@ You have given a wrong answer! With every wrong answer, it will become harder fo
 Falsch! 
 
 Du hast dem Orakel falsch geantwortet! Mit jeder falschen Antwort wird es schwieriger für dich zu bestehen!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Błąd!
+
+Zła odpowiedź! Każdy kolejny nieprawidłowy wybór utrudni ci przejście!
 </text>
       </lang>
     </block>
@@ -303,6 +378,16 @@ B) Rotzgelb
 C) Popelgrün... oder doch Schimmelblau?
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+"Pierwsze pytanie:
+Jaki jest twój ulubiony kolor?"
+
+A) Czerwony... eee... zaraz... zielony... nie, NIEBIESKI!
+B) Jasnożółty
+C) Ciemnozielony... a może mętnoniebieski?
+</text>
+      </lang>
     </block>
     <block id="frage2">
       <lang code="CHN">
@@ -335,6 +420,16 @@ Was ist schwerer: ein Pfund Federn oder ein Pfund Eisen?"
 A) Keine Ahnung, wahrscheinlich gleich schwer!
 B) Federn
 C) Eisen
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+"Drugie pytanie:
+Co jest cięższe - kilogram pierza czy kilogram żelaza?"
+
+A) Nie mam pojęcia - może ważą tyle samo?
+B) Pierze
+C) Żelazo
 </text>
       </lang>
     </block>
@@ -371,6 +466,16 @@ B) Der Kaiser von Byzanz
 C) Der König von Frankreich
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+"Trzecie pytanie:
+Król Franków jest biedniejszy od Cesarza Bizancjum. Kalif Bagdadu jest bogatszy od króla Franków. Cesarz Bizancjum dorównuje Bogactwem Kalifowi Bagdadu. Który z trzech władców jest najbiedniejszy?"
+
+A) Kalif Bagdadu
+B) Cesarz Bizancjum
+C) Król Franków
+</text>
+      </lang>
     </block>
     <block id="frage4">
       <lang code="CHN">
@@ -403,6 +508,16 @@ Der Kundschafter ist schneller als der Schmied. Der Schmied ist langsamer als de
 A) Der Farmer 
 B) Der Kundschafter
 C) Der Schmied
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+"Czwarte pytanie:
+Zwiadowca jest szybszy od kowala. Kowal jest wolniejszy od farmera. Zwiadowca jest wolniejszy od farmera. Który z nich jest najszybszy?"
+
+A) Farmer
+B) Zwiadowca
+C) Kowal
 </text>
       </lang>
     </block>
@@ -439,6 +554,16 @@ B) Am Südpol
 C) Am Äquator
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+"Piąte pytanie:
+Zakładasz osadę w obcym kraju, gdzie wszystkie okna są skierowane na północ. Gdzie jesteś?"
+
+A) Na Biegunie Północnym
+B) Na Biegunie Południowym
+C) Na równiku
+</text>
+      </lang>
     </block>
     <block id="frage6">
       <lang code="CHN">
@@ -471,6 +596,16 @@ Was ist das: Je mehr man hinzutut, desto kleiner wird es und je mehr man wegnimm
 A) Ein Becher Met
 B) Bjarnis Socken
 C) Ein Erdloch
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+"Szóste pytanie:
+Co to jest: im więcej włożysz do środka tego czegoś, tym staje się mniejsze. Im więcej z niego wyjmiesz, tym jest większe!"
+
+A) Róg z miodem
+B) Onuce Bjarniego
+C) Dziura w ziemi
 </text>
       </lang>
     </block>
@@ -507,6 +642,16 @@ B) Ich bin Bjarnis Sohn
 C) Ich bin Bjarnis Vater
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+"Siódme pytanie:
+Jeśli syn Bjarniego jest synem mojego ojca... to kim ja jestem?"
+
+A) Bjarnim
+B) Synem Bjarniego
+C) Ojcem Bjarniego
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -527,6 +672,13 @@ THE ORACLE
         <text>
 
 DAS ORAKEL
+
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+WYROCZNIA
 
 </text>
       </lang>
@@ -561,6 +713,15 @@ There are 3 answers to every question. Answer me by activating the corresponding
 Auf jede Frage gibt es 3 Antworten. Antworte mir, indem du den entsprechenden Schalter betätigst! Merke dir die Symbole gut, ich erkläre es dir nur ein einziges Mal!" 
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+"Kto tam?" zagrzmiał głos wydający wydobywać się z kamiennych ścian.
+
+"Niemądrzy intruzi! Jam jest wyrocznią pustynnej świątyni! Kto chce mnie minąć, musi odpowiedzieć na siedem pytań i pokonać moich wężowych strażników!
+
+Każde z pytań ma trzy możliwe odpowiedzi. Wyboru właściwej dokonujecie przez uruchomienie odpowiedniego przycisku. Postarajcie się dobrze zapamiętać symbole - nie będę ich powtarzać!"
+</text>
+      </lang>
     </block>
     <block id="richtig">
       <lang code="CHN">
@@ -586,6 +747,13 @@ Richtig!
 Das Orakel ist mit deiner Antwort zufrieden. Einer der Wächter verschwindet!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Dobrze!
+
+Wyrocznia uznaje twoją odpowiedź. Jeden ze strażników znika w tajemniczy sposób!
+</text>
+      </lang>
     </block>
     <block id="schalterbesetzt">
       <lang code="CHN">
@@ -603,6 +771,11 @@ You must leave the button, or the oracle will remain silent!
       <lang code="ger">
         <text>
 Du musst von den Schaltern herunter gehen, sonst schweigt das Orakel!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Zostaw ten przełącznik, albo wyrocznia się nie odezwie!
 </text>
       </lang>
     </block>
@@ -634,6 +807,15 @@ Immer tiefer drangen wir in die Finsternis des Schatztempels vor, bis Hatschi ei
 Dann, am Fuße einer Treppe, fanden wir eine alte, verwitterte Inschrift, die uns unser einheimischer Freund übersetzte: 
 
 Wir waren nun im innersten Bereich des Tempels, der bewacht wurde von uralten Tempelwächtern. Bestehen würden wir nur, wenn wir uns einem Orakel stellen würden. Nur wer sich hier als ebenso klug wie mutig erwies, würde den letzten Preis erringen...
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Schodziliśmy coraz głębiej w świątynne ciemności, dopóki Hatchie nie znalazł i  nie zapalił pochodni.
+
+Na dole schodów znaleźliśmy starą i mocno już wytartą inskrypcję, którą przetłumaczył nasz saraceński przyjaciel.
+
+Dowiedzieliśmy się, że jesteśmy w wewnętrznej części świątyni chronionej przez pradawnych strażników. Jedyną szansą na przeżycie było stanięcie przed wyrocznią, a jedyną szansą na zdobycie głównej nagrody - potwierdzenie, że nasza mądrość dorównuje naszemu męstwu.
 </text>
       </lang>
     </block>
@@ -689,6 +871,23 @@ Keine Wunderdinge fanden wir dort, keine zauberkräftigen Schätze... Auf dem st
 Groß war unsere Freude, als wir es endlich in Händen hielten. Der Kalif hingegen würde weniger erfreut sein, wenn wir mit leeren Händen zu ihm zurückkehrten. Wir beschlossen daher, das Kartenstück an uns zu nehmen und das Land auf dem schnellsten Wege zu verlassen. 
 
 Hatschi bot sich an, uns dabei zu helfen...
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA ZAKOŃCZONA SUKCESEM!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Dzięki odwadze i mądrości udało nam się pokonać potwornych strażników bramy i dostać się w najświętsze pomieszczenia tego zaklętego budynku.
+
+W słabo oświetlonym pokoju znaleźliśmy prastarą skrzynię. Gdy z trudem podnieśliśmy skrzypiące, drewniane wieko, zaparło nam dech w piersiach.
+Wprawdzie nie znaleźliśmy spodziewanych klejnotów i drogocennych przedmiotów, ale na dnie leżało coś, czego szukaliśmy przez pół znanego świata i co ceniliśmy wyżej nad wszystkie skarby znanych i nieznanych lądów: trzecia, ostatnia część mapy!
+
+Nie posiadaliśmy się z radości mając całą mapę, zdawaliśmy sobie jednak sprawę, że Kalifa nie ucieszy wynik naszej wyprawy.
+
+Postanowiliśmy z pomocą Hatchiego opuścić tę krainę jak najciszej i jak najszybciej.
 </text>
       </lang>
     </block>

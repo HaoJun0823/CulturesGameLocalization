@@ -1,65 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_01_02-sub" export_map_id="campaign_01_02-sub" map_md5="62fc2066daeff42ef29ae235e837509d" IsC2M="false">
+<localization version="1.3" map_id="campaign_01_02-sub" export_map_id="campaign_01_02-sub" map_md5="62fc2066daeff42ef29ae235e837509d" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
-<string id="0">
+    <string id="0">
       <text lang="CHN">护送公主安全抵达山谷尽头的修道院！</text>
       <text lang="eng">Escort the princess safely to the abbey at the end of the valley!</text>
       <text lang="ger">Geleite die Prinzessin sicher zur Abtei am Ende des Tales.</text>
+      <text lang="pol">Eskortuj księżniczkę do opactwa na końcu doliny!</text>
     </string>
-<string id="50">
+    <string id="50">
       <text lang="CHN">比雅尼的部族</text>
       <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarnis Stamm</text>
+      <text lang="pol">Plemię Bjarniego</text>
     </string>
-<string id="51">
+    <string id="51">
       <text lang="CHN">劫掠者</text>
       <text lang="eng">Plunderers</text>
       <text lang="ger">Trupp Plünderer</text>
+      <text lang="pol">Najeźdźcy</text>
     </string>
-<string id="52">
+    <string id="52">
       <text lang="CHN">坦克雷德的部队</text>
       <text lang="eng">Tankred's Troop</text>
       <text lang="ger">Tankreds Truppe</text>
+      <text lang="pol">Oddział Tankreda</text>
     </string>
-<string id="99">
+    <string id="99">
       <text lang="CHN">诺曼底 - 支线</text>
       <text lang="eng">NORMANDY - Sub</text>
       <text lang="ger">NORMANDIE - Sub</text>
+      <text lang="pol">NORMANDIA - zadanie dodatkowe</text>
     </string>
-<string id="100">
+    <string id="100">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
-<string id="101">
+    <string id="101">
       <text lang="CHN">公主</text>
       <text lang="eng">Princess</text>
       <text lang="ger">Prinzessin</text>
+      <text lang="pol">Księżniczka</text>
     </string>
-<string id="102">
+    <string id="102">
       <text lang="CHN">王子</text>
       <text lang="eng">Prince</text>
       <text lang="ger">Prinz</text>
+      <text lang="pol">Książe</text>
     </string>
-<string id="103">
+    <string id="103">
       <text lang="CHN">牧师</text>
       <text lang="eng">Parson</text>
       <text lang="ger">Priester</text>
+      <text lang="pol">Opat</text>
     </string>
-</strings>
-<briefings>
-<block id="bjarnietot"><lang code="CHN"><font>$local$\fonts\fonthead16bld.fnt</font>
-                        <text>
+  </strings>
+  <briefings>
+    <block id="bjarnietot">
+      <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
 任务失败！
         </text>
         <font>$local$\fonts\font12.fnt</font>
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
-                        <text>
+        <text>
 是英勇还是鲁莽？比雅尼陨落之时，诸神为之垂泪……他们的命运就此注定，人间世界也随之终结。
         </text>
       </lang>
@@ -85,16 +97,26 @@ MISSION VERLOREN!
 Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ihr Ende war besiegelt und mit ihnen das Ende der Welt der Menschen.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroizm czy głupota? Bjarni zginął, a bogowie płaczą... Ich los jest już przesądzony - tak samo jak zniszczenie świata ludzi.
+</text>
+      </lang>
     </block>
-
     <block id="end">
       <lang code="CHN">
         <font>$local$\fonts\fonthead16bld.fnt</font>
-                        <text>
+        <text>
 任务成功！
         </text>
         <font>$local$\fonts\font12.fnt</font>
-                        <text>
+        <text>
 有情人重逢，欣喜若狂。王子对我说道：“高贵的维京首领啊，多谢你将公主安然无恙地带到我们面前。我们的爱，将成为北方人与法兰克人和解的基石。若你的部族有难，我们必鼎力相助！”婚礼简朴，却动人心弦。至今我仍乐意回想那一刻。
 
 我们作为证婚人见证了他们的结合，献上最诚挚的祝福。随后我们离开这对新人，返回了自己的村庄。
@@ -122,11 +144,22 @@ Die beiden Liebenden waren überglücklich, als sie sich endlich wieder sahen, u
 Die Trauung war schlicht, aber überaus ergreifend. Noch heute denke ich gerne daran zurück. Wir blieben als Trauzeugen und gaben ihnen noch unsere besten Wünsche mit für die Zukunft. Dann verließen wir die beiden und kehrten zurück in unser Dorf.
 </text>
       </lang>
-    </block>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA ZAKOŃCZONA SUKCESEM!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Młodzi wprost nie posiadali się z radości, gdy wreszcie się spotkali. Książę rzekł: "Dziękujemy ci, o szlachetny Wikingu, za bezpieczne doprowadzenie księżniczki. Nasza miłość położy podwaliny pod pokojowe współistnienie ludów północy i Franków. Jeśli będziesz kiedykolwiek potrzebował naszej pomocy, możesz na nią liczyć!"
 
+Ceremonia ślubna była prosta, ale bardzo wzruszająca - po dziś dzień lubię ją wspominać... Złożyliśmy młodej parze najszczersze życzenia szczęścia na nowej drodze życia i powróciliśmy do naszej wioski.
+</text>
+      </lang>
+    </block>
     <block id="freunde">
       <lang code="CHN">
-                        <text>
+        <text>
 行至岔路口，我们撞见一队形容粗野的诺曼战士，显然正在搜寻我们！
 
 “喂！你就是人称比雅尼的那位？”为首的喊道。“可算找到你们了！诺曼王子派我们来相助，护你们平安穿过山谷。”
@@ -146,11 +179,17 @@ An einer Weggabelung trafen wir auf einen Trupp wild aussehender Normannenkriege
 "Holla! Seid ihr der, den sie Bjarni nennen?", rief ihr Anführer. "Endlich finden wir euch! Der Normannenprinz hat uns vorausgeschickt, um euch beizustehen, das Tal unbeschadet zu durchqueren."
 </text>
       </lang>
-    </block>
+      <lang code="pol">
+        <text>
+Na rozwidleniu traktu spotykamy kilku groźnie wyglądających normańskich wojowników. Najwyraźniej to właśnie nas szukali!
 
+"Ej, ty! Ciebie nazywają Bjarni? Nareszcie udało nam się ciebie znaleźć! Nasz pan, normański książę, nakazał nam wesprzeć twe siły podczas przedzierania się przez tę dolinę."
+</text>
+      </lang>
+    </block>
     <block id="header">
       <lang code="CHN">
-                        <text>
+        <text>
 
 
 圣皮埃尔
@@ -172,11 +211,17 @@ ST. PIERRE
 
 </text>
       </lang>
-    </block>
+      <lang code="pol">
+        <text>
 
+ST. PIERRE
+
+</text>
+      </lang>
+    </block>
     <block id="katapult">
       <lang code="CHN">
-                        <text>
+        <text>
 夺取这座投石机轻而易举。或许日后能派上用场。
         </text>
       </lang>
@@ -190,11 +235,15 @@ It had been easy as winking to capture the catapult. Maybe it would be of some u
 Dieses Katapult zu erobern war ein Kinderspiel gewesen. Vielleicht konnte man es noch irgendwie gebrauchen?
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Zdobycie tej katapulty było wyjątkowo proste - może ten sprzęt się do czegoś przyda?
+</text>
+      </lang>
     </block>
-
     <block id="neuesoldaten">
       <lang code="CHN">
-                        <text>
+        <text>
 王子派来的五名士兵来得正是时候--我们一路上已然损失惨重……
         </text>
       </lang>
@@ -208,17 +257,21 @@ The five soldiers sent by the prince arrived just in time, for we had already su
 Die fünf Soldaten des Prinzen kamen gerade zur rechten Zeit zur Hilfe, hatten wir doch schon auf unseren Weg herbe Verluste hinnehmen müssen...
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Tych pięciu wojów przybyło w najwłaściwszym momencie - w trakcie dotychczasowej drogi ponieśliśmy już poważne straty...
+</text>
+      </lang>
     </block>
-
     <block id="priestertot">
       <lang code="CHN">
         <font>$local$\fonts\fonthead16bld.fnt</font>
-                        <text>
+        <text>
 任务失败！
         </text>
         <font>$local$\fonts\font12.fnt</font>
         <picture>$local$\graphics\People_Dead_F.pcx</picture>
-                        <text>
+        <text>
 你的维京人给牧师带去的只有火与死亡！何其耻辱！杀害无辜，便是自绝于友谊与和平之路。
         </text>
       </lang>
@@ -244,17 +297,27 @@ MISSION VERLOREN!
 Feuer und Tod brachten deine Wikinger über den Priester! Was für eine Schande! Indem du die Unschuldigen tötest, versperrst du dir selbst den Weg der Freundschaft und des Friedens.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Nie sprowadziłeś do tego opactwa nic prócz śmierci i pożogi. Zabijając niewinnych, odrzucasz realną możliwość zawiązania w tej krainie przyjaźni i wstąpienia na drogę pokoju.
+</text>
+      </lang>
     </block>
-
     <block id="prinzessintot">
       <lang code="CHN">
         <font>$local$\fonts\fonthead16bld.fnt</font>
-                        <text>
+        <text>
 任务失败！
         </text>
         <font>$local$\fonts\font12.fnt</font>
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
-                        <text>
+        <text>
 你失手了！公主死了！她曾信赖你的守护，你却让她失望！法兰克人与诺曼人皆要你为她的死负责！
         </text>
       </lang>
@@ -280,17 +343,27 @@ MISSION VERLOREN!
 Du hast versagt! Die Prinzessin ist gestorben! Sie hatten auf deinen Beistand vertraut und du hast sie im Stich gelassen! Sowohl die Franken als auch die Normannen machen dich für ihren Tod verantwortlich!
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Zawiodłeś! Księżniczka nie żyje! Zaufała ci, a ty ją opuściłeś - zarówno Frankowie jak i Normanowie obarczają cię odpowiedzialnością za tę śmierć!
+</text>
+      </lang>
     </block>
-
     <block id="prinztot">
       <lang code="CHN">
         <font>$local$\fonts\fonthead16bld.fnt</font>
-                        <text>
+        <text>
 任务失败！
         </text>
         <font>$local$\fonts\font12.fnt</font>
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
-                        <text>
+        <text>
 你失手了！王子死了！他曾信赖你的守护，你却背叛了他。法兰克人与北方人皆要你为他的死负责！
         </text>
       </lang>
@@ -316,11 +389,21 @@ MISSION VERLOREN!
 Du hast versagt! Der Prinz ist gestorben! Er hatte auf deinen Beistand vertraut und du hast ihn verraten. Sowohl die Franken als auch die Nordmänner machen dich für seinen Tod verantwortlich!
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Zawiodłeś! Książe nie żyje! Zaufał ci, a ty go opuściłeś - zarówno Frankowie jak i Normanowie obarczają cię odpowiedzialnością za tę śmierć!
+</text>
+      </lang>
     </block>
-
     <block id="start">
       <lang code="CHN">
-                        <text>
+        <text>
 穿过幽暗通道短行片刻，狭窄的岩隙豁然开朗，化作一片广阔的绿色山谷。远处坐落着古老的圣皮埃尔修道院，王子与牧师正在那里等候我们。
 
 国王的对手定是探知了我们的计划！谷中四处游荡着劫掠维京人的哨兵，也有法兰克领主坦克雷德的士兵--他们显然不愿错失擒获我们的良机。多年来，他们似乎一直在等这样一个重创法兰克王的机会！
@@ -350,6 +433,17 @@ Auf solch eine Gelegenheit, dem König der Franken zu schaden, hatten sie ansche
 Geleite die Prinzessin sicher zur Abtei!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Po krótkim marszu przez ciemność ściany wąskiego przejścia rozstąpiły się w szeroką, zieloną dolinę. Na jej odległym krańcu oczekiwało na nas starożytne opactwo St. Pierre, a w nim opat i książę.
+
+Wrogowie króla musieli się jakoś dowiedzieć o naszych planach! Dolinę patrolowały grupki wikińskich najeźdźców oraz siły frankijskiego lorda Tankreda.
+Wygląda na to, że tak jedni jak i drudzy od lat czekali na podobna okazję do zaszkodzenia miejscowemu monarsze!
+
+
+Eskortuj księżniczkę do opactwa!
+</text>
+      </lang>
     </block>
-</briefings>
+  </briefings>
 </localization>

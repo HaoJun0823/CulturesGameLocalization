@@ -1,56 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="singleplayer_01_04" export_map_id="singleplayer_01_04" map_md5="a80776f2a0f7ae5ffa5dcbc854bd50e5" IsC2M="false">
+<localization version="1.3" map_id="singleplayer_01_04" export_map_id="singleplayer_01_04" map_md5="a80776f2a0f7ae5ffa5dcbc854bd50e5" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
-<string id="0">
+    <string id="0">
       <text lang="CHN">将你的硬币储备增至 150 枚！</text>
       <text lang="eng">Triple your amount of coins to 150!</text>
       <text lang="ger">Verdreifache deine Münzvorräte auf 150 Taler!</text>
+      <text lang="pol">Potrój swoje zasoby złota do 150 sztuk!</text>
     </string>
-<string id="50">
+    <string id="50">
       <text lang="CHN">比雅尼的子民</text>
       <text lang="eng">Bjarni's People</text>
       <text lang="ger">Bjarnis Volk</text>
+      <text lang="pol">Plemię Bjarniego</text>
     </string>
-<string id="51">
+    <string id="51">
       <text lang="CHN">维京人1</text>
       <text lang="eng">Vikings1</text>
       <text lang="ger">Wikinger1</text>
+      <text lang="pol">Wikingowie</text>
     </string>
-<string id="52">
+    <string id="52">
       <text lang="CHN">维京人2</text>
       <text lang="eng">Vikings2</text>
       <text lang="ger">Wikinger2</text>
+      <text lang="pol">Inni Wikingowie</text>
     </string>
-<string id="53">
+    <string id="53">
       <text lang="CHN">法兰克人</text>
       <text lang="eng">Franks</text>
       <text lang="ger">Franken</text>
+      <text lang="pol">Frankowie</text>
     </string>
-<string id="98">
+    <string id="98">
       <text lang="CHN">海塔布--施莱湾对岸最大的贸易据点之一，拥有自己的铸币厂。在此，维京人须证明他们能靠交易货物获利！</text>
       <text lang="eng">Haitabu - one of the biggest trading places with its own coin mint on the other side of the Schlei. Here the Vikings shall prove that they can trade their goods profitably!</text>
       <text lang="ger">Haitabu - eine der größten Handelsplätze mit eigener Münzprägung am anderen Ufer der Schlei. Hier sollen Ihre Wikinger beweisen, das sie Waren gewinnbringend tauschen können!</text>
+      <text lang="pol">Haitabu to jedno z największych targowisk po drugiej stronie Schlei, ma nawet własną mennicę. Tutaj twoi Wikingowie będą mogli udowodnić, że znają się na handlu!</text>
     </string>
-<string id="99">
+    <string id="99">
       <text lang="CHN">海塔布</text>
       <text lang="eng">HAITABU</text>
       <text lang="ger">HAITABU</text>
+      <text lang="pol">HAITABU</text>
     </string>
-<string id="100">
+    <string id="100">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
-</strings>
-<briefings>
-<block id="0">
+  </strings>
+  <briefings>
+    <block id="0">
       <lang code="CHN">
-                <text>
+        <text>
 海塔布--施莱湾对岸最大的贸易据点之一，拥有自己的铸币厂。在此，维京人须证明他们能靠交易货物获利！
 
 将你的硬币储备从 50 枚增至 150 枚！
@@ -72,16 +81,23 @@ Haitabu - eine der größten Handelsplätze mit eigener Münzprägung am anderen
 Verdreifache deine Münzvorräte von 50 auf 150 Taler!
 </text>
       </lang>
-    </block>
+      <lang code="pol">
+        <text>
+Haitabu - jedno z największych centrów wymiany handlowej, bijące własną monetę po dugiej stronie Schlei. Wikingowie udowodnią tutaj, że potrafią z korzyścią sprzedawać swoje dobra!
 
+
+Zwiększ swój zapas monet z 50 do 150!
+</text>
+      </lang>
+    </block>
     <block id="1">
       <lang code="CHN">
         <font>$local$\fonts\fonthead16bld.fnt</font>
-                <text>
+        <text>
 任务成功！
         </text>
         <font>$local$\fonts\font12.fnt</font>
-                <text>
+        <text>
 我们的维京人成功扩充了硬币储备。
         </text>
       </lang>
@@ -105,11 +121,20 @@ MISSION GEWONNEN!
 Unsere Wikinger hatten es geschafft, ihre Münzvorräte erfolgreich zu vermehren.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA WYKONANA POMYŚLNIE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Naszym Wikingom udało się pomnożyć zapas monet.
+</text>
+      </lang>
     </block>
-
     <block id="2">
       <lang code="CHN">
-                <text>
+        <text>
 你的英雄比雅尼因你的疏忽而殒命！如今维京村庄将失去英雄，勉力支撑。
         </text>
       </lang>
@@ -123,16 +148,20 @@ Your hero Bjarni died due to your inattentiveness! Now your Viking village will 
 Dein Held Bjarni ist durch deine Unachtsamkeit gestorben! Jetzt muss dein Wikingerdorf ohne seinen Helden auskommen.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Przez twój brak uwagi bohater Bjarni zginął! Teraz twoje plemię będzie musiało radzić sobie bez swojego bohatera.
+</text>
+      </lang>
     </block>
-
     <block id="3">
       <lang code="CHN">
         <font>$local$\fonts\fonthead16bld.fnt</font>
-                <text>
+        <text>
 任务失败！
         </text>
         <font>$local$\fonts\font12.fnt</font>
-                <text>
+        <text>
 可惜你的维京人未能充实硬币储备，一场厄运更夺走了全体族人的性命。
         </text>
       </lang>
@@ -156,11 +185,20 @@ MISSION VERLOREN!
 Leider haben es deine Wikinger nicht geschafft, ihre Münzvorräte aufzustocken, und durch eine Fügung des Schicksals wurde deine gesamte Bevölkerung hingerafft.  
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA ZAKOŃCZONA NIEPOWODZENIEM!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Niestety, twoim Wikingom nie udało się pomnożyć zapasu monet. W wyniku twojej nieporadności całe plemię skazane jest na zagładę.
+</text>
+      </lang>
     </block>
-
     <block id="4">
       <lang code="CHN">
-                <text>
+        <text>
 北方岛屿上、距我们营地不远的那座友善小维京村庄，似乎是个理想的贸易伙伴。
         </text>
       </lang>
@@ -174,11 +212,15 @@ The small, friendly Viking village not far from our camp on the northern isle se
 Dieses kleine freundliche Wikingervolk unweit unseres Lagerplatzes auf der nördlichsten Insel schien ein geeigneter Handelspartner zu sein. 
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Niewielka, zaprzyjaźniona osada Wikingów na północnej wyspie wydawała się idealnym partnerem do wymiany handlowej.
+</text>
+      </lang>
     </block>
-
     <block id="5">
       <lang code="CHN">
-                <text>
+        <text>
 在船上，我们于远离营地的偏远岛屿遇见一支部族友善的维京人。
 
 他们立刻表示愿意与我们交易。
@@ -198,11 +240,17 @@ Mit unseren Schiff stießen wir auf ein freundliches Wikingervolk auf einer etwa
 Sie unterbreiteten uns sofort ihre Handelsangebote. 
 </text>
       </lang>
-    </block>
+      <lang code="pol">
+        <text>
+Nasz statek napotkał przyjazne plemię Wikingów na niewielkiej wyspie, dalej od naszego obozu.
 
+Nowi znajomi natychmiast zaoferowali nam wymianę handlową.
+</text>
+      </lang>
+    </block>
     <block id="6">
       <lang code="CHN">
-                <text>
+        <text>
 法兰克人的交易条件须极具吸引力，才值得我们再走这一趟漫长的商路。
         </text>
       </lang>
@@ -216,11 +264,15 @@ The trading offer of the Frankish people would have to be very advantageous to j
 Das Handelsangebot dieses Frankenvolkes musste schon überzeugend sein, dass wir diese lange Handelsroute noch einmal auf uns nehmen würden.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Oferta Franków musiałaby być niezwykle korzystna, żeby opłaciło się nam ponownie odbywać tak długą podróż.
+</text>
+      </lang>
     </block>
-
     <block id="header">
       <lang code="CHN">
-                <text>
+        <text>
 
 
 海塔布
@@ -242,6 +294,13 @@ HAITABU
 
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+HAITABU
+
+</text>
+      </lang>
     </block>
-</briefings>
+  </briefings>
 </localization>

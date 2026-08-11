@@ -1,45 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_01_05-sub" export_map_id="campaign_01_05-sub" map_md5="ec43d034e7f22a49d1d3a3e7c25b4f76" IsC2M="false">
+<localization version="1.3" map_id="campaign_01_05-sub" export_map_id="campaign_01_05-sub" map_md5="ec43d034e7f22a49d1d3a3e7c25b4f76" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">解救皇帝的女儿！</text>
       <text lang="eng">Rescue the Emperor's daughter!</text>
       <text lang="ger">Befreie die Tochter des Kaisers!</text>
+      <text lang="pol">Uratuj córkę Cesarza!</text>
     </string>
     <string id="51">
       <text lang="CHN">匪徒</text>
       <text lang="eng">Brigands</text>
       <text lang="ger">Banditen</text>
+      <text lang="pol">Bandyci</text>
     </string>
     <string id="52">
       <text lang="CHN">公主</text>
       <text lang="eng">Princess</text>
       <text lang="ger">Prinzessin</text>
+      <text lang="pol">Księżniczka</text>
     </string>
     <string id="99">
       <text lang="CHN">米克拉加德 - 支线</text>
       <text lang="eng">MIKLAGARD - Sub</text>
       <text lang="ger">MIKLAGARD - Sub</text>
+      <text lang="pol">MIKLAGARD - zadanie dodatkowe</text>
     </string>
     <string id="101">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="102">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="pol">Sigurd</text>
     </string>
     <string id="103">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="pol">Cyra</text>
     </string>
   </strings>
   <briefings>
@@ -77,6 +85,17 @@ MISSION VERLOREN!
 Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ihr Ende war besiegelt und mit ihnen das Ende der Welt der Menschen!
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroizm czy głupota? Bjarni zginął, a bogowie płaczą... Ich los jest już przesądzony - tak samo jak zniszczenie świata ludzi.
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -95,6 +114,13 @@ THE DUNGEON
         <text>
 
 DER KERKER
+
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+LOCH
 
 </text>
       </lang>
@@ -139,6 +165,19 @@ Das ist das Ende! Die Vision wird sich nun niemals erfüllen können!
 Trotz erbitterter Gegenwehr wurde einer der Helden von der Übermacht des Gegners überwältigt!
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+To już koniec! Wizja Bjarniego nie może już zostać spełniona!
+
+Pomimo dzielnej walki jeden z twoich bohaterów padł pod ciosami wrogów!
+</text>
+      </lang>
     </block>
     <block id="knopf">
       <lang code="CHN">
@@ -166,6 +205,15 @@ Ein lautes, knarrendes Geräusch ertönte...
 ... dann ein metallenes Rasseln!
 
 Das musste etwas zu bedeuten haben!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Usłyszeliśmy głośny zgrzyt...
+
+...a potem metaliczny łoskot!
+
+To musiało coś oznaczać!
 </text>
       </lang>
     </block>
@@ -199,6 +247,17 @@ Was würde uns erwarten?
 
 
 Befreie die Tochter des Kaisers!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Wreszcie udało się nam odszukać ukryte tylne wejście do tajemnego lochu, w którym przetrzymywano córkę Cesarza. Teraz najważniejsze było ciche zakradnięcie się do środka, gdyż nie mieliśmy pojęcia, jak silne są straże.
+
+Postanowiłem iść sam, ale nasz frankijski przyjaciel nie chciał o tym nawet słyszeć. Uparł się, aby mi towarzyszyć! Przed nami otwierało się małe, podziemne przejście...
+Co nas czeka w nim czeka?
+
+
+Uratuj córkę Cesarza!
 </text>
       </lang>
     </block>
@@ -247,6 +306,22 @@ Eilig gelangten wir auf dem gleichen Weg wieder ans Tageslicht und wurden von un
 
 
 Geleite die Tochter des Kaisers sicher zu ihrem Vater.
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA ZAKOŃCZONA SUKCESEM!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+
+Dzięki sprytowi i dużej dozie szczęścia udało nam się wywieść strażników w pole i uratować córkę Cesarza Bizancjum.
+
+Szybko wróciliśmy na powierzchnię, gdzie z ulgą powitali nas moi ludzie. Niecierpliwiło już ich to bezczynne czekanie. Teraz trzeba jeszcze tylko odprowadzić zmęczoną i skołowaną księżniczkę do pałacu ojca.
+
+
+Eskortuj księżniczkę do Cesarza
 </text>
       </lang>
     </block>

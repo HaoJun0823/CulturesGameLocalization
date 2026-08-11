@@ -1,69 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="singleplayer_01_01" export_map_id="singleplayer_01_01" map_md5="c421573b900473915baeae7f6bb88e2d" IsC2M="false">
+<localization version="1.3" map_id="singleplayer_01_01" export_map_id="singleplayer_01_01" map_md5="c421573b900473915baeae7f6bb88e2d" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
-<string id="0">
+    <string id="0">
       <text lang="CHN">自由世界</text>
       <text lang="eng">FREE WORLD</text>
       <text lang="ger">FREIE WELT</text>
+      <text lang="pol">PUSTA KRAINA</text>
     </string>
-<string id="1">
+    <string id="1">
       <text lang="CHN">辽阔的疆域向你敞开，邀你在此定居。</text>
       <text lang="eng">A vast realm invites you to settle there.</text>
       <text lang="ger">Ein großes Reich lädt zum siedeln ein.</text>
+      <text lang="pol">Przed twoimi oczami rozpościera się wielka, pusta kraina.</text>
     </string>
-<string id="2">
+    <string id="2">
       <text lang="CHN">尽情游玩，不设目标，想玩多久就玩多久……</text>
       <text lang="eng">Play without objectives for as long as you like ...</text>
       <text lang="ger">Spielen ohne Ziel. Solange man Spaß hat...</text>
+      <text lang="pol">Graj tak długo jak chcesz, bez żadnych celów i wymagań.</text>
     </string>
-<string id="10">
+    <string id="10">
       <text lang="CHN">奥伯基尔希</text>
       <text lang="eng">Oberkircher</text>
       <text lang="ger">Oberkircher</text>
+      <text lang="pol">Oberkirchczyk</text>
     </string>
-<string id="11">
+    <string id="11">
       <text lang="CHN">奥伯基尔希</text>
       <text lang="eng">Oberkircher</text>
       <text lang="ger">Oberkircher</text>
+      <text lang="pol">Oberkirchczyk</text>
     </string>
-<string id="20">
+    <string id="20">
       <text lang="CHN">米尔海姆人</text>
       <text lang="eng">Muelheimer</text>
       <text lang="ger">Mülheimer</text>
+      <text lang="pol">Muelheimczyk</text>
     </string>
-<string id="21">
+    <string id="21">
       <text lang="CHN">米尔海姆人</text>
       <text lang="eng">Muelheimer</text>
       <text lang="ger">Mülheimer</text>
+      <text lang="pol">Muelheimczyk</text>
     </string>
-<string id="30">
+    <string id="30">
       <text lang="CHN">拉廷根</text>
       <text lang="eng">Ratinger</text>
       <text lang="ger">Ratinger</text>
+      <text lang="pol">Ratyzbończyk</text>
     </string>
-<string id="31">
+    <string id="31">
       <text lang="CHN">拉廷根</text>
       <text lang="eng">Ratinger</text>
       <text lang="ger">Ratinger</text>
+      <text lang="pol">Ratyzbończyk</text>
     </string>
-<string id="40">
+    <string id="40">
       <text lang="CHN">莱茵兰人</text>
       <text lang="eng">Rheinlaender</text>
       <text lang="ger">Rheinländer</text>
+      <text lang="pol">Renlandczyk</text>
     </string>
-<string id="41">
+    <string id="41">
       <text lang="CHN">莱茵兰人</text>
       <text lang="eng">Rheinlaender</text>
       <text lang="ger">Rheinländer</text>
+      <text lang="pol">Renlandczyk</text>
     </string>
-</strings>
-<briefings>
-<block id="begin_00"><lang code="CHN"><text>
+  </strings>
+  <briefings>
+    <block id="begin_00">
+      <lang code="CHN">
+        <text>
 辽阔的疆域向你敞开，邀你定居于此。
 
 随性游玩，不设目标，没有任务……
@@ -85,11 +99,18 @@ Ein großes Reich lädt zum Siedeln ein.
 Spielen Sie, wie es Ihnen gefällt. Kein Ziel, keine Aufgabe...
 </text>
       </lang>
-    </block>
+      <lang code="pol">
+        <text>
+Ta rozległa kraina aż się prosi, by ją skolonizować.
 
+
+Masz wolną rękę. Żadnych celów, żadnych zadań...
+</text>
+      </lang>
+    </block>
     <block id="header">
       <lang code="CHN">
-                <text>
+        <text>
 
 
 自由世界
@@ -111,6 +132,13 @@ FREIE WELT
 
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+PUSTA KRAINA
+
+</text>
+      </lang>
     </block>
-</briefings>
+  </briefings>
 </localization>

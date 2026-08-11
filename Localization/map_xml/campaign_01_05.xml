@@ -1,105 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_01_05" export_map_id="campaign_01_05" map_md5="66c42840f42b76f91999ab91c9e87492" IsC2M="false">
+<localization version="1.3" map_id="campaign_01_05" export_map_id="campaign_01_05" map_md5="66c42840f42b76f91999ab91c9e87492" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">使维京人口达到 20 人。</text>
       <text lang="eng">Reach a population of 20 Vikings.</text>
       <text lang="ger">Erreiche eine Population von 20 Wikingern.</text>
+      <text lang="pol">Zwiększ liczebność swojego plemienia do 20 Wikingów.</text>
     </string>
     <string id="1">
       <text lang="CHN">寻找公主的下落。</text>
       <text lang="eng">Find the princess.</text>
       <text lang="ger">Suche nach der Prinzessin.</text>
+      <text lang="pol">Odszukaj księżniczkę.</text>
     </string>
     <string id="2">
       <text lang="CHN">护送公主安全抵达宫殿。</text>
       <text lang="eng">Escort the princess safely to the palace.</text>
       <text lang="ger">Geleite die Prinzessin sicher zum Palast.</text>
+      <text lang="pol">Eskortuj księżniczkę do pałacu.</text>
     </string>
     <string id="3">
       <text lang="CHN">扬帆驶向指定的泊位。</text>
       <text lang="eng">Sail to the specified place.</text>
       <text lang="ger">Segele zu dem zugewiesenen Platz.</text>
+      <text lang="pol">Płyń we wskazane miejsce.</text>
     </string>
     <string id="4">
       <text lang="CHN">组建 15 名士兵，并带他们向皇帝报到。</text>
       <text lang="eng">Equip 15 soldiers and take them to the Emperor.</text>
       <text lang="ger">Rüste 15 Soldaten aus und melde dich mit ihnen beim Kaiser.</text>
+      <text lang="pol">Wyposaż 15 wojów i zaprowadź ich przed oblicze Cesarza.</text>
     </string>
     <string id="5">
       <text lang="CHN">缴纳所需的贡金。</text>
       <text lang="eng">Pay the demanded tribute.</text>
       <text lang="ger">Zahle den gewünschten Tribut.</text>
+      <text lang="pol">Zapłać okup.</text>
     </string>
     <string id="6">
       <text lang="CHN">与比雅尼和西格德一同进入隐秘的地牢。</text>
       <text lang="eng">Enter the secret dungeon with Bjarni AND Sigurd.</text>
       <text lang="ger">Betrete mit Bjarni UND Sigurd das geheime Verlies.</text>
+      <text lang="pol">Wprowadź zarówno Bjarniego jak i Sigurda do tajnego lochu.</text>
     </string>
     <string id="11">
       <text lang="CHN">过桥费</text>
       <text lang="eng">Bridge toll.</text>
       <text lang="ger">Brückenzoll</text>
+      <text lang="pol">Myto</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的部族</text>
       <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarnis Stamm</text>
+      <text lang="pol">Plemię Bjarniego</text>
     </string>
     <string id="51">
       <text lang="CHN">拜占庭人</text>
       <text lang="eng">Byzantium</text>
       <text lang="ger">Byzanz</text>
+      <text lang="pol">Bizancjum</text>
     </string>
     <string id="52">
       <text lang="CHN">山间要塞</text>
       <text lang="eng">Mountain Fortress</text>
       <text lang="ger">Bergfestung</text>
+      <text lang="pol">Górska forteca</text>
     </string>
     <string id="53">
       <text lang="CHN">桥卫</text>
       <text lang="eng">Bridge Guard</text>
       <text lang="ger">Brückenwächter</text>
+      <text lang="pol">Strażnik mostu</text>
     </string>
     <string id="56">
       <text lang="CHN">匪徒</text>
       <text lang="eng">Brigands</text>
       <text lang="ger">Banditen</text>
+      <text lang="pol">Bandyci</text>
     </string>
     <string id="63">
       <text lang="CHN">守卫</text>
       <text lang="eng">Guard</text>
       <text lang="ger">Wächter</text>
+      <text lang="pol">Strażnik</text>
     </string>
     <string id="98">
       <text lang="CHN">历经数周艰险航行，维京人终于在拜占庭的港口靠岸。无数传说都述及这座城市的恢宏与富庶--他们亦称之为米克拉加德。</text>
       <text lang="eng">After a dangerous voyage of a few weeks, the Vikings sail into the harbour of Byzantium. Many sagas contain tales about the incredible size and wealth of this city - the city known as Miklagard.</text>
       <text lang="ger">Nach einigen Wochen gefahrvoller Fahrt landen die Wikinger im Hafen von Byzanz. Viele Erzählungen berichten von der gewaltigen Größe und dem Reichtum dieser Stadt, die sie auch Miklagard nannten.</text>
+      <text lang="pol">Po niebezpiecznej, kilkutygodniowej podróży Wikingowie docierają do portów Bizancjum - miasta, o którego bogactwie krążą legendy, a które w sagach nosi miano 'Miklagard'.</text>
     </string>
     <string id="99">
       <text lang="CHN">米克拉加德</text>
       <text lang="eng">MIKLAGARD</text>
       <text lang="ger">MIKLAGARD</text>
+      <text lang="pol">MIKLAGARD</text>
     </string>
     <string id="100">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="101">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="pol">Sigurd</text>
     </string>
     <string id="102">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="pol">Cyra</text>
     </string>
   </strings>
   <briefings>
@@ -131,6 +151,16 @@ Jetzt mussten wir die erschöpfte und verwirrte Prinzessin noch sicher zu ihrem 
 
 
 Geleite die Prinzessin sicher zu ihrem Vater.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Szybko wróciliśmy na powierzchnię, gdzie z ulgą powitali nas moi ludzie. Niecierpliwiło już ich to bezczynne czekanie.
+
+Teraz trzeba jeszcze tylko odprowadzić zmęczoną i skołowaną księżniczkę do pałacu ojca.
+
+
+Eskortuj księżniczkę do Cesarza
 </text>
       </lang>
     </block>
@@ -168,6 +198,18 @@ Vielleicht würde der Kaiser unsere Bitten eher anhören, wenn wir uns als würd
 Siedele auf den zugewiesenen Platz und lasse in deinem Dorf 20 Wikinger wohnen.
 
 Seid jedoch gewarnt! Es treiben sich hier viele üble Gesellen herum, denen es sicherlich ein Dorn im Auge ist, euch hier siedeln zu sehen!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przybyliśmy na przydzielone nam ziemie - okazało się, że te tereny są żyzne i da się na nich wieść spokojne życie bez trosk.
+
+Może Cesarz wysłucha naszej prośby, gdy udowodnimy mu swoją wartość?
+
+
+Osiedl się na darowanych terenach i stwórz domy dla 20 Wikingów.
+
+Uważaj jednak, gdyż nie każdemu spodoba się twoje przybycie w tę okolicę!
 </text>
       </lang>
     </block>
@@ -210,6 +252,19 @@ Stellt mir eine Armee eurer besten Krieger auf und bringt sie hierher. Dann habe
 Rüste 15 Soldaten aus und bringe sie zum Kaiser.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Minął rok. Ponownie poprosiliśmy o audiencję u Cesarza i tym razem bez problemu uzyskaliśmy na nią zgodę.
+
+Wprawdzie i miasto i pałac wywarły na nas niezatarte wrażenie, ale ta sala tronowa przebiła wszystko, co do kiedykolwiek widzieliśmy - wydawaliśmy się w niej być tacy mali, tak mało znaczący... Sam Cesarz siedział na szczerozłotym tronie, otoczony licznymi dworzanami i urzędnikami. Był na tyle wspaniałomyślny, że wysłuchał naszej prośby.
+
+Okazało się, że rzeczywiście posiada fragment poszukiwanej przez nas mapy. Gdy wspomnieliśmy o niej, spojrzał na nas ze zdziwieniem i rzekł: "Wiele się mówi o waszej odwadze i waszych dotychczasowych czynach...
+Przyprowadź mi tu armię waszych najdzielniejszych wojów! Mam dla nich zadanie!"
+
+
+Wyposaż 15 wojów i zaprowadź ich do Cesarza.
+</text>
+      </lang>
     </block>
     <block id="auftrag2">
       <lang code="CHN">
@@ -247,6 +302,18 @@ Ich gebe euch einige Männer meiner Leibgarde mit. Sie erwarten euch vor der Sta
 Finde die Tochter des Kaisers und geleite sie sicher zum Palast.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Gdy tylko stanąłem przed bramami pałacu na czele moich wojów, Cesarz natychmiast wezwał mnie przed swoje oblicze.
+
+"Mam dla ciebie zadanie!" powiedział, zasępiony. "Moja ukochana córka od dawna już nie wraca do pałacu i nikt nie wie, gdzie jej szukać. Generał Hardrada twierdzi, że musieli ją porwać nasi saraceńscy wrogowie, ale ja podejrzewam bandytów, którzy od pewnego czasu terroryzują północno-zachodnią część mojego państwa.
+
+Kilku członków mojej osobistej gwardii czeka na ciebie przed bramą - dołączcie do nich i odszukajcie moją córkę. Gdy wróci tu cała i zdrowa, dam ci kawałek mapy, który cię sprowadził aż do Bizancjum. "
+
+
+Odszukaj córkę Cesarza i doprowadź ją bezpiecznie do pałacu.
+</text>
+      </lang>
     </block>
     <block id="banditenauftrag">
       <lang code="CHN">
@@ -276,6 +343,15 @@ Wir hatten einen wilden Haufen schlechtorganisierter Gesetzloser erwartet, doch 
 Hatte General Hardradi am Ende doch Recht und sie wurden von den Sarazenen unterstützt? Es würde nicht einfach werden, hier zu bestehen!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Szlak zniszczeń i pożogi doprowadził nas prosto do bandyckiej kryjówki. Nie spodziewaliśmy się jednak zastać tam tego, co ujrzeliśmy...
+
+Liczyliśmy na walkę z hordą źle zorganizowanych, wyjętych spod prawa wyrzutków, a tymczasem naprzeciw nas wyrosła pełna doskonale wyćwiczonych wojów forteca! Źle się dzieje w państwie bizantyjskim...
+
+Czyżby Hardrada jednak miał rację? Czy Saraceni naprawdę wspierali tych bandziorów? To nie będzie łatwa walka!
+</text>
+      </lang>
     </block>
     <block id="banditenohne">
       <lang code="CHN">
@@ -303,6 +379,15 @@ Banditen!
 Als wir die Berge im Nord-Westen erreichten, wurden wir plötzlich und ohne Vorwarnung angegriffen. Mit diesen Leuten war nicht zu spaßen, das merkten wir gleich. 
 
 Wir sollten sie nicht unnötig reizen, bevor wir dazu keinen wirklich guten Grund hatten!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Bandyci!
+
+Dotarliśmy do podnóży gór na północnym zachodzie, gdzie spadł na nas niczym niezapowiedziany atak. Miejscowi wojownicy nie żartowali.
+
+Lepiej ich nie prowokować bez dobrej przyczyny!
 </text>
       </lang>
     </block>
@@ -342,6 +427,18 @@ Wir verloren keine Zeit und machten uns sogleich auf den Weg nach Norden.
 Befreie die Prinzessin aus dem Versteck nördlich der Banditenfestung.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Wprawdzie pokonaliśmy bandytów, którzy porwali księżniczkę, ale jej samej nigdzie nie dało się znaleźć.
+
+Jeden z jeńców poinformował nas, że zabrano ją do bezpiecznej kryjówki na dalekiej północy. Odmówił jednak odpowiedzi na pytanie kto zbroił i trenował te wojska - nawet w zamian za swą wolność!
+
+Postanowiliśmy nie marnować czasu i od razu ruszyliśmy na północ.
+
+
+Uwolń księżniczkę z północnej bandyckiej kryjówki!
+</text>
+      </lang>
     </block>
     <block id="begin_00">
       <lang code="CHN">
@@ -363,6 +460,13 @@ But the splendour that greeted us as we approached the city gates greatly surpas
 Nach einigen Wochen gefahrvoller Fahrt segelten wir endlich in den Hafen der goldenen Stadt Byzanz ein. Viele unserer Sagen und Erzählungen berichteten von der gewaltigen Größe und dem Reichtum der Hauptstadt des oströmischen Kaiserreiches, die wir auch Miklagard nannten. 
 
 Doch als wir nun leibhaftig vor ihren Toren standen, übertraf ihr Glanz alles, was wir jemals gesehen hatten! Die mächtigen Mauern schienen sich in den Himmel zu recken und Marmorpaläste mit goldenen Dächern säumten die Strassen.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Nasza niebezpieczna podróż trwała jeszcze wiele tygodni, zanim nie zawinęliśmy do portu wielkiego, cudownego Bizancjum - stolicy Wschodniego Imperium Rzymskiego, miasta, którego bogactwo i rozmiary stanowią przedmiot wielu opowieści. Miasta, które znaliśmy jako Miklagard.
+
+Legendy okazały się mniej olśniewające od prawdy - poruszając się po mieście nie mogliśmy się nadziwić wspaniałości tutejszych kościołów i pałaców o dachach ze złota oraz wysokości sięgających aż po niebo murów.
 </text>
       </lang>
     </block>
@@ -394,6 +498,16 @@ Wir Waräger, wie sie uns nannten, wären zwar willkommen, aber wir würden erst
 
 
 Segele zu dem zugewiesenen Platz im Westen.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Trafiliśmy przed oblicze miejskiego urzędnika, który po długim oczekiwaniu (i krytycznym zlustrowaniu naszych lichych strojów) powiedział nam, że Waregowie (jak nas nazwał) są zawsze mile widziani w jego mieście, ale na audiencję u cesarza możemy liczyć nie wcześniej niż za rok...
+
+Tymczasem mieliśmy otrzymać ziemię, na której moglibyśmy się osiedlić.
+
+
+Popłyń ku swojej nowej ziemi na zachodzie.
 </text>
       </lang>
     </block>
@@ -431,6 +545,17 @@ MISSION VERLOREN!
 Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ihr Ende war besiegelt und mit ihnen das Ende der Welt der Menschen.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroizm czy głupota? Bjarni zginął, a bogowie płaczą... Ich los jest już przesądzony - tak samo jak zniszczenie świata ludzi.
+</text>
+      </lang>
     </block>
     <block id="block">
       <lang code="CHN">
@@ -454,6 +579,13 @@ Vor uns tat sich ein dunkler Eingang auf, dessen Stützbalken sich schon gegen B
 Ohne einen triftigen Grund würde dort aber sicherlich keiner deiner Wikinger hineingehen! 
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Przed nami ział czernią mały otwór wejściowy. Podtrzymujące strop filary uginały się ze starości.
+
+Żaden Wiking nie zapuściłby się w te lochy nie mając dobrego powodu!
+</text>
+      </lang>
     </block>
     <block id="brücke">
       <lang code="CHN">
@@ -475,6 +607,13 @@ Travellers normally had to pay toll to get to the other side, but since we came 
 Im Nordwesten stießen wir auf ein kleines Fort, das die Übergänge über zwei Flüsse bewachte. 
 
 Um hinüberzugelangen, mussten Reisende eigentlich einen Brückenzoll entrichten, aber da wir aus der Hauptstadt kamen, ließ man uns umsonst passieren.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Na północnym zachodzie napotkaliśmy mały fort strzegący przejść przez dwie rzeki
+
+W normalnych okolicznościach podróżnicy muszą płacić myto za korzystanie z mostów, jednak my przybywamy prosto ze stolicy i przepuszczono nas za darmo.
 </text>
       </lang>
     </block>
@@ -509,6 +648,17 @@ MISSION GEWONNEN!
 Endlich hatten wir die Tochter des Kaisers sicher zu ihrem Vater gebracht. Sie hatte sich mehr als tapfer gehalten und erstaunlich viel Mut bewiesen. Nun zog sie sich erschöpft in ihre Privatgemächer zurück, aber nicht ohne mir zum Abschied noch ein betörendes Lächeln zu schenken. 
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA ZAKOŃCZONA SUKCESEM!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+
+Doprowadziliśmy córkę cesarza przed oblicze ojca, który nie pozostał nam dłużny.
+</text>
+      </lang>
     </block>
     <block id="end_01">
       <lang code="CHN">
@@ -532,6 +682,13 @@ Der Kaiser hielt sein Versprechen und zeigte sich darüber hinaus überaus dankb
 Außerdem ernannte er mich zum General seiner kaiserlichen Leibwache, der berühmten Warägergarde, die seit alters her bevorzugt aus Nordmännern wie uns bestand.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Podczas wspaniałej ceremonii wręczył nam drugą część mapy.
+
+Mianował mnie także dowódcą swojej słynnej osobistej straży Waregów, jednostki od długich wieków składającej się przede wszystkim z ludzi północy.
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -547,6 +704,13 @@ MIKLAGARD
 </text>
       </lang>
       <lang code="ger">
+        <text>
+
+MIKLAGARD
+
+</text>
+      </lang>
+      <lang code="pol">
         <text>
 
 MIKLAGARD
@@ -576,6 +740,13 @@ DIE BERGFESTE
 Hoch im Norden stießen wir auf die Bergfestung des großen Generals der Byzantinischen Garde, Hardradi. Hier wurden wir nicht sehr freundlich empfangen und so beschlossen wir, dieses Gebiet besser zu meiden.  
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+GÓRSKA FORTECA
+
+Na dalekiej północy napotkaliśmy górską fortecę wielkiego wojownika bizantyjskiej gwardii, Generała Hardrady. Nie przyjęto nas tam dobrze, postanowiliśmy w miarę możliwości unikać tego obszaru.
+</text>
+      </lang>
     </block>
     <block id="schlehmil1">
       <lang code="CHN">
@@ -597,6 +768,13 @@ We were stopped when we reached a bridge.
 Als wir an eine Brücke kamen, wurden wir aufgehalten: 
 
 "Halt! Keinen Schritt weiter! Wer über diese Brücke will, muss Wegezoll bezahlen! Wagt ihr es trotzdem, so wird es euch schlecht ergehen!"
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Zatrzymano nas przy próbie przekroczenia mostu.
+
+"Stać! Ani kroku dalej! Jeśli chcecie przejść na drugą stronę, to musicie zapłacić! Spróbujcie tylko tego nie zrobić, a pożałujecie..."
 </text>
       </lang>
     </block>
@@ -634,6 +812,17 @@ Die Prinzessin werdet ihr finden, wenn ihr dem Weg bis zum Ende nach Norden folg
 Bevor wir noch weitere Fragen stellen konnten, verschwand er spurlos im Dickicht.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Jeden z naszych ludzi przedzierał się właśnie wyjątkowo złowrogą część lasu, gdy podeszła do niego podejrzana postać.
+
+"Dziękuję! Przepłoszyłeś wilki, które właśnie miały urządzić sobie obiad na moim truchle! Uważaj na dziką, bandycką hordę, która zastawiła pułapkę w dolinie!
+
+Szukacie księżniczki? Znajdziecie ją, jeśli podążycie wzdłuż drogi prowadzącej na najdalszą północ!"
+
+Nie zdążyliśmy się spytać o nic innego - nieznajomy znikł jak kamfora.
+</text>
+      </lang>
     </block>
     <block id="sigurdtot">
       <lang code="CHN">
@@ -655,6 +844,13 @@ Nothing could stop the Midgard serpent now.
 Als Sigurd, einer der vier Helden der Prophezeiung, starb, zerriss der Schicksalsfaden der Nornen. 
 
 Nun würde nichts mehr die Midgardschlange aufhalten können.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Sigurd, jeden z bohaterów z przepowiedni, zginął, a wraz z nim zniszczona została tworzona przez Norny nić losów świata.
+
+Nikt i nic już nie powstrzyma Węża Midgardu!
 </text>
       </lang>
     </block>
@@ -692,6 +888,17 @@ MISSION VERLOREN!
 Du hast versagt! Deine Wikinger hatten auf dich vertraut und du hast sie im Stich gelassen. An Odins Tafel wird kein Platz für dich sein!
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Nie powiodło ci się! Twoi Wikingowie ci zaufali, a ty ich zawiodłeś! Nie znajdzie się dla ciebie miejsce przy stole Odyna!
+</text>
+      </lang>
     </block>
     <block id="sub">
       <lang code="CHN">
@@ -707,6 +914,7 @@ Du hast versagt! Deine Wikinger hatten auf dich vertraut und du hast sie im Stic
 HIER WÜRDE JETZT DIE SUBMISSION BEGINNEN! BITTE 30 SEKUNDEN WARTEN.
 </text>
       </lang>
+      <lang code="pol" />
     </block>
     <block id="tot">
       <lang code="CHN">
@@ -748,6 +956,19 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Die Prinzessin
 Jetzt kannst du deine Mission niemals beenden, denn der Kaiser von Byzanz wird dir das fehlende Kartenstück nun niemals überlassen.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Krótka chwila nieuwagi wystarczyła - księżniczka nie żyje z powodu twojego niedopatrzenia!
+
+Nie zdołasz już wykonać swojej misji - Cesarz Bizancjum za nic nie da ci brakującego kawałka mapy...
+</text>
+      </lang>
     </block>
     <block id="tributundauftrag">
       <lang code="CHN">
@@ -772,6 +993,14 @@ Kaum hatten wir den Tribut übergeben, meldeten sich die Brückenwächter wie ve
 
 "Ordnung muss sein!... Da ihr nun vorschriftsmäßig den Brückenzoll gezahlt habt, dürft ihr nun ungehindert passieren! 
 Aber gebt acht,... diese Warnung erhaltet ihr von mir umsonst dazu... Im Nordwesten treiben wilde Räuber ihr Unwesen. Ihr solltet euch dort nicht alleine hinwagen, bevor ihr nicht mit dem Kaiser gesprochen habt!"  
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przekazaliśmy trybut, a szef bandy rzekł:
+
+"Porządek musi być! Wy jesteście w porządku - idźcie, gdzie chcecie!"
+Uważaj jednak - wielu bandytów pęta się w północno-zachodniej części tej krainy... Nie idź tam sam, dopóki się nie rozmówisz z Cesarzem!"
 </text>
       </lang>
     </block>
@@ -803,6 +1032,16 @@ Meine Männer standen um den dunklen Eingang im Felsen, hinter dem die Prinzessi
 
 
 Trete mit Bjarni und Sigurd an den Eingang.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+LOCH
+
+Moi ludzie stali wianuszkiem wokół czarnej dziury w skale. To wejście do więzienia księżniczki. Szybko wezwali mnie i mojego frankijskiego przyjaciela, Sigurda - wiedzieli, że nieprzemyślane działania mogą tylko zaszkodzić celowi naszej misji
+
+
+Zaprowadź Bjarniego i Sigurda do wejścia.
 </text>
       </lang>
     </block>
@@ -846,6 +1085,19 @@ Totenstille...
 Bestimmt würde die Prinzessin dort nicht unbewacht sein, doch wenn wir nicht vorsichtig vorgingen, konnte es gut sein, dass ihr etwas zustoßen konnte. Daher beschloss ich, mich allein hinabzuschleichen, um den Gegner zu überraschen. Doch der treue Sigurd wollte davon nichts wissen und ließ sich nicht davon abbringen, mitzukommen. 
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+LOCH
+
+Znaleźliśmy je - ukryte wejście do lochu! Wytężyliśmy z Sigurdem słuch. Owionęło nas stęchłe, gęste powietrze...
+
+Nic...
+
+Cisza jak makiem zasiał...
+
+Trudno się było spodziewać, aby księżniczkę pozostawiono tu bez straży - należało więc postępować niezwykle ostrożnie, gdyż każda pomyłka mogła ją kosztować życie. Postanowiłem zejść do lochu sam, ale Sigurd nie chciał o tym nawet słyszeć i uparł się, że pójdzie ze mną.
+</text>
+      </lang>
     </block>
     <block id="volktot">
       <lang code="CHN">
@@ -885,6 +1137,19 @@ MISSION VERLOREN!
 Wiederwillig folgen deine Wikinger dem Befehl, ihre ehemaligen Freunde anzugreifen. 
 
 Zu spät! Entsetzt musst du feststellen, dass du nun niemals die Mission erfüllen kannst!
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Twoi ludzie z niechęcią podporządkowali się rozkazom i zaatakowali dawnych przyjaciół.
+
+Za późno! Z przerażeniem orientujesz się, że teraz nie możesz już wykonać swojej misji!
 </text>
       </lang>
     </block>

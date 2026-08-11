@@ -1,175 +1,209 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_01_03" export_map_id="campaign_01_03" map_md5="1eda0549139dd9ca8bc3a5d5aaa978bf" IsC2M="false">
+<localization version="1.3" map_id="campaign_01_03" export_map_id="campaign_01_03" map_md5="1eda0549139dd9ca8bc3a5d5aaa978bf" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">探索这片土地，寻找那张神秘地图的线索。</text>
       <text lang="eng">Explore the land and find clues to the mysterious map.</text>
       <text lang="ger">Erkunde das Land und suche nach Hinweisen zu der geheimnisvollen Karte.</text>
+      <text lang="pol">Zbadaj krainę i dowiedz się czegoś o tajemniczej mapie.</text>
     </string>
     <string id="1">
       <text lang="CHN">消灭废墟之城西南面森林中的恶狼，随后返回国王处。</text>
       <text lang="eng">Defeat the wolves in the forest south-west of the ruined city. Then return to the King.</text>
       <text lang="ger">Erlege die Wölfe im Wald südwestlich der Ruinenstadt. Kehre danach zum König zurück.</text>
+      <text lang="pol">Pokonaj wilki w lasach na południowy zachód od zruinowanego miasta i wróć przed królewskie oblicze.</text>
     </string>
     <string id="2">
       <text lang="CHN">与废墟之城的仓库交易 10 单位油，随后返回国王处。</text>
       <text lang="eng">Produce 10 units of oil and trade them with the warehouse in the ruined city. Then return to the King.</text>
       <text lang="ger">Handele 10 Öl mit dem Lagerhaus der Ruinenstadt. Kehre danach zum König zurück.</text>
+      <text lang="pol">Wyprodukuj 10 jednostek oleju rytualnego i sprzedaj go Magazynowi zrujnowanego miasta, po czym wróć przed królewskie oblicze.</text>
     </string>
     <string id="3">
       <text lang="CHN">建造一艘船，找到维兰并用他所需的货物换取魔法剑，随后返回国王处。</text>
       <text lang="eng">Build a ship, find Wieland and trade with him to obtain the magic sword. Then return to the King.</text>
       <text lang="ger">Baue ein Schiff, suche Wieland und handle mit ihm die gewünschten Waren, um das Zauberschwert zu bekommen. Kehre danach zum König zurück.</text>
+      <text lang="pol">Wybuduj statek, odszukaj Wielanda i kup od niego magiczny miecz, po czym wróć przed królewskie oblicze.</text>
     </string>
     <string id="4">
       <text lang="CHN">向铁匠的仓库运送 10 单位蜂蜜酒。</text>
       <text lang="eng">Take 10 mead to the smith's warehouse.</text>
       <text lang="ger">Liefere dem Schmied 10 Met in sein Lagerhaus.</text>
+      <text lang="pol">Dostarcz 10 dzbanów miodu do Magazynu Kowala.</text>
     </string>
     <string id="5">
       <text lang="CHN">再次向铁匠的仓库运送 10 单位蜂蜜酒。</text>
       <text lang="eng">Take another 10 mead to the smith's warehouse.</text>
       <text lang="ger">Liefere dem Schmied erneut 10 Met in sein Lagerhaus.</text>
+      <text lang="pol">Dostarcz do Magazynu Kowala kolejne 10 dzbanów miodu pitnego.</text>
     </string>
     <string id="6">
       <text lang="CHN">在遥远的北方寻找老国王。</text>
       <text lang="eng">Find the old King far in the north.</text>
       <text lang="ger">Suche den alten König im hohen Norden.</text>
+      <text lang="pol">Odszukaj starego króla na północy.</text>
     </string>
     <string id="10">
       <text lang="CHN">若想平安通过，须向罗宾汉缴纳 10 枚金币作贡金。可在周边城镇筹措。</text>
       <text lang="eng">Pay 10 gold pieces to Robin Hood to cross the bridge unscathed. Trade them in the surrounding cities.</text>
       <text lang="ger">Bezahle Robin Hood 10 Goldstücke Tribut, wenn du unbeschadet vorbei willst. Erhandle sie in den umliegenden Städten.</text>
+      <text lang="pol">Zapłać Robin Hoodowi 10 sztuk złota za przejście - możesz je uzyskać w pobliskich miastach.</text>
     </string>
     <string id="31">
       <text lang="CHN">缴纳 10 枚金币以签订贸易协定。</text>
       <text lang="eng">Pay a tribute of 10 gold coins if you want a trade agreement.</text>
       <text lang="ger">Zahle 10 Goldmünzen Tribut für einen Handelsvertrag.</text>
+      <text lang="pol">Podpisanie umowy handlowej będzie cię kosztować 10 sztuk złota.</text>
     </string>
     <string id="32">
       <text lang="CHN">只需 10 单位蜂蜜为贡，我们便结为盟友。</text>
       <text lang="eng">We will become your friends for a tribute of 10 units of honey.</text>
       <text lang="ger">Für 10 Honig Tribut schließen wir Freundschaft.</text>
+      <text lang="pol">Zostaniemy twoimi przyjaciółmi, jeśli wręczysz nam 10 jednostek miodu pitnego.</text>
     </string>
     <string id="33">
       <text lang="CHN">招募：10 枚金币即可雇得老练佣兵。</text>
       <text lang="eng">Bargain: Experienced mercenaries for 10 gold coins.</text>
       <text lang="ger">Angebot: Erfahrene Söldner für 10 Goldmünzen.</text>
+      <text lang="pol">Za 10 sztuk złota możesz skorzystać z usług doświadczonych najemników.</text>
     </string>
     <string id="34">
       <text lang="CHN">过河需付 10 枚金币！</text>
       <text lang="eng">10 gold coins to cross the river!</text>
       <text lang="ger">10 Goldmünzen für die Flussüberquerung!</text>
+      <text lang="pol">Przekroczenie rzeki będzie cię kosztować 10 sztuk złota!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的村庄</text>
       <text lang="eng">Bjarni's Village</text>
       <text lang="ger">Bjarnis Dorf</text>
+      <text lang="pol">Wioska Bjarniego</text>
     </string>
     <string id="51">
       <text lang="CHN">图勒王国</text>
       <text lang="eng">Kingdom of Thule</text>
       <text lang="ger">Königreich Thule</text>
+      <text lang="pol">Królestwo Thule'a</text>
     </string>
     <string id="52">
       <text lang="CHN">维兰</text>
       <text lang="eng">Wieland</text>
       <text lang="ger">Wieland</text>
+      <text lang="pol">Wieland</text>
     </string>
     <string id="53">
       <text lang="CHN">伦敦</text>
       <text lang="eng">London</text>
       <text lang="ger">London</text>
+      <text lang="pol">Londyn</text>
     </string>
     <string id="54">
       <text lang="CHN">诺丁汉</text>
       <text lang="eng">Nottingham</text>
       <text lang="ger">Nottingham</text>
+      <text lang="pol">Nottingham</text>
     </string>
     <string id="55">
       <text lang="CHN">布里斯托</text>
       <text lang="eng">Bristol</text>
       <text lang="ger">Bristol</text>
+      <text lang="pol">Bristol</text>
     </string>
     <string id="56">
       <text lang="CHN">约克</text>
       <text lang="eng">York</text>
       <text lang="ger">York</text>
+      <text lang="pol">York</text>
     </string>
     <string id="57">
       <text lang="CHN">罗宾汉</text>
       <text lang="eng">Robin Hood</text>
       <text lang="ger">Robin Hood</text>
+      <text lang="pol">Robin Hood</text>
     </string>
     <string id="58">
       <text lang="CHN">伦敦前哨</text>
       <text lang="eng">London Outpost</text>
       <text lang="ger">Außenposten Londons</text>
+      <text lang="pol">Londyński posterunek</text>
     </string>
     <string id="61">
       <text lang="CHN">图勒</text>
       <text lang="eng">Thule</text>
       <text lang="ger">Thule</text>
+      <text lang="pol">Thule</text>
     </string>
     <string id="62">
       <text lang="CHN">铁匠</text>
       <text lang="eng">Smith</text>
       <text lang="ger">Schmied</text>
+      <text lang="pol">Kowal</text>
     </string>
     <string id="64">
       <text lang="CHN">诺蒂。</text>
       <text lang="eng">Nott.</text>
       <text lang="ger">Notti.</text>
+      <text lang="pol">Nott.</text>
     </string>
     <string id="65">
       <text lang="CHN">布里斯托</text>
       <text lang="eng">Bristol</text>
       <text lang="ger">Bristol</text>
+      <text lang="pol">Bristol</text>
     </string>
     <string id="66">
       <text lang="CHN">约克</text>
       <text lang="eng">York</text>
       <text lang="ger">York</text>
+      <text lang="pol">York</text>
     </string>
     <string id="67">
       <text lang="CHN">汉</text>
       <text lang="eng">Hood</text>
       <text lang="ger">Hood</text>
+      <text lang="pol">Hood</text>
     </string>
     <string id="68">
       <text lang="CHN">前哨</text>
       <text lang="eng">Outpost</text>
       <text lang="ger">Außenp.</text>
+      <text lang="pol">Posterunek</text>
     </string>
     <string id="98">
       <text lang="CHN">比雅尼与同伴在不列颠葱郁的海岸登陆--这片土地流传着无数故事与传说，亦是诸多著名英雄与强大君王的故乡……</text>
       <text lang="eng">Bjarni had landed on the green shore of Britain - the land of countless tales and sagas, the home of heroes and powerful monarchs, lies before him!</text>
       <text lang="ger">Bjarni ist mit seinen Gefährten an der grünen Küste Britanniens gelandet - das Land zahlreicher Geschichten und Sagen, die Heimat vieler berühmter Helden und mächtiger Könige liegt vor ihnen...</text>
+      <text lang="pol">Bjarni ląduje u wybrzeży Anglii - stoi przed nim otworem kraina wielu opowieści i sag, w której żyje wielu bohaterów i potężnych władców!</text>
     </string>
     <string id="99">
       <text lang="CHN">英格兰</text>
       <text lang="eng">ENGLAND</text>
       <text lang="ger">ENGLAND</text>
+      <text lang="pol">ANGLIA</text>
     </string>
     <string id="100">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="101">
       <text lang="CHN">图勒国王</text>
       <text lang="eng">King Thule</text>
       <text lang="ger">König Thule</text>
+      <text lang="pol">Król Thule</text>
     </string>
     <string id="102">
       <text lang="CHN">铁匠大师维兰</text>
       <text lang="eng">Wieland the Blacksmith</text>
       <text lang="ger">Meisterschmied Wieland</text>
+      <text lang="pol">Kowal Wieland</text>
     </string>
   </strings>
   <briefings>
@@ -199,6 +233,15 @@ Nicht weit entfernt von unserem Landeplatz trafen wir auf einen kleinen Außenpo
 "Wir grüßen euch, Fremde!" rief uns einer von ihnen an. "Wir gehören zu den Wachmannschaften von London. Wenn ihr Fragen zu unserem Land habt, so kann man sie euch sicher dort beantworten. 
 
 Folgt einfach der Strasse nach Süd-Westen. Wenn ihr Handeln wollt, braucht ihr einen Händler. Unsere Warenangebote seht ihr, wenn ihr in einem unserer Lagerhäuser vorbeischaut."
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Niedaleko od miejsca, w którym wylądowaliśmy, napotykamy mały posterunek.
+
+"Witajcie, przybysze!" zawołał strażnik. "Służymy tu na chwałę Londynowi. Jeśli macie jakiekolwiek pytania dotyczące naszej krainy, to zadajcie je nam.
+
+Idźcie drogą na południowy zachód. Handlować możecie z kupcem - zajrzyjcie do jego magazynu, aby zobaczyć, co oferuje."
 </text>
       </lang>
     </block>
@@ -236,6 +279,17 @@ MISSION VERLOREN!
 Die Normannen hatten England erobert und sich die gesamte Insel unterworfen. Ihre kühnen Invasionspläne hatten zum Erfolg geführt. Von nun an würden sie uneingeschränkt über die Insel herrschen und ihre Könige würden es sein, welche die Geschicke des Landes von nun an bestimmten...	
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Normanowie podbili całą wyspę i poddali ją swoim rządom. Odważny plan inwazyjny sprawdził się i doprowadził ich do oszałamiającego sukcesu. Od tej pory to oni są władcami tej wyspy i to ich królowie będą kształtować losy tego narodu.
+</text>
+      </lang>
     </block>
     <block id="bjarnitot">
       <lang code="CHN">
@@ -269,6 +323,17 @@ MISSION VERLOREN!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ihr Ende war besiegelt und mit ihnen das Ende der Welt der Menschen.
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroizm czy głupota? Bjarni zginął, a bogowie płaczą... Ich los jest już przesądzony - tak samo jak zniszczenie świata ludzi.
 </text>
       </lang>
     </block>
@@ -305,6 +370,17 @@ Lange hatten wir nach einer Möglichkeit gesucht, den großen Fluss zu überquer
 
 
 Bezahle 10 Goldstücke Tribut, wenn du unbeschadet vorbei willst.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Długo szukaliśmy sposobu na przekroczenie wielkiej rzeki i wreszcie udało nam się znaleźć rachityczny mostek. Jeden z moich ludzi wkroczył na drewnianą konstrukcję, jednak z drugiej strony wyskoczyła podejrzana postać.
+
+"Pieniądze albo życie!" zawrzasła - od razu było widać, że nie żartuje!
+"Jesteśmy ludźmi Robin Hooda - kradniemy bogatym i dajemy biednym. Jeśli chcecie przekroczyć rzekę, to ulżyjcie swoim sakiewkom. Jeśli brak wam złota, to z pewnością uda się wam je znaleźć w jednej z okolicznych osad..."
+
+
+Zapłać 10 sztuk złota za bezpieczne przekroczenie mostu.
 </text>
       </lang>
     </block>
@@ -346,6 +422,18 @@ Wenn wir dieses stolze Volk nicht unnötig reizen würden, so konnten wir sicher
 Zahle einen Tribut, wenn du mit ihnen Handel treiben willst.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+YORK
+
+Dotarliśmy do osady Brytyjczyków. Powitano nas jak sąsiadów, których trzeba tolerować, ale niekoniecznie od razu uznawać za przyjaciół. Nie zwracano na nas jakiejś szczególnej uwagi, choć część miejscowych najwyraźniej była mocno zdziwiona pojawieniem się grupki Wikingów tak daleko od północnych terenów opanowanych przez Duńczyków.
+
+Z pewnością będziemy mogli handlować z tymi ludźmi - musimy się jedynie powstrzymać od jakichś niemądrych prowokacji.
+
+
+Zapłać trybut, jeśli chcesz handlować z tą osadą.
+</text>
+      </lang>
     </block>
     <block id="dorf2">
       <lang code="CHN">
@@ -373,6 +461,15 @@ NOTTINGHAM
 Als wir in das Dorf unserer dänischen Landsleute kamen, wurden wir freundlich begrüßt. Schon lange hatten sie niemanden mehr aus der alten Heimat gesehen. Sogleich wurden wir eingeladen, wie es die Gastfreundschaft gebot, doch bemerkten wir auch eine gewisse Vorsicht. 
 
 Ob wir ihnen auch nicht ihr Land abspenstig machen würden? Wenn wir jedoch Handel treiben wollten, so standen uns ihre Lagerhäuser offen.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+NOTTINGHAM
+
+Dotarliśmy do wioski naszych duńskich pobratymców. Powitano nas przyjaźnie - Duńczycy dawno już nie mieli kontaktu z nikim ze Starych Ziem... Zaproszono nas na posiłek zgodnie z prawami gościnności, jednak w poczynaniach naszych gospodarzy dało się zauważyć pewną nieufność.
+
+Prawdopodobnie obawiali się, czy nie spróbujemy im odebrać ich ziem... Zapewnili nas natomiast, że gdybyśmy byli zainteresowani handlem, to wrota ich magazynów stoją przed nami otworem.
 </text>
       </lang>
     </block>
@@ -414,6 +511,18 @@ Wenn wir dieses stolze Volk nicht unnötig reizen würden, so konnten wir sicher
 Zahle einen Tribut, wenn du mit ihnen Handel treiben willst.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+BRISTOL
+
+Dotarliśmy do osady Brytyjczyków. Powitano nas jak sąsiadów, których trzeba tolerować, ale niekoniecznie od razu uznawać za przyjaciół. Nie zwracano na nas jakiejś szczególnej uwagi, choć część miejscowych najwyraźniej była mocno zdziwiona pojawieniem się grupki Wikingów tak daleko od północnych terenów opanowanych przez Duńczyków.
+
+Z pewnością będziemy mogli handlować z tymi ludźmi - musimy się jedynie powstrzymać od jakichś niemądrych prowokacji.
+
+
+Zapłać trybut, jeśli chcesz handlować z tą osadą.
+</text>
+      </lang>
     </block>
     <block id="eroberer">
       <lang code="CHN">
@@ -435,6 +544,13 @@ A few days later, we went to London where the Archbishop crowned me the ruler of
 Nach hartem Kampf hatten wir England erobert und uns die gesamte Insel unterworfen! Unsere kühnen Invasionspläne hatten zum Erfolg geführt. Von nun an würden wir uneingeschränkt über das Königreich herrschen und Männer aus dem Norden würden es sein, welche die Geschicke des Landes von nun an bestimmten... 
 
 Wenige Tage später krönte mich der Erzbischof in London zum rechtmäßigen König der Briten.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Po ciężkich walkach podbiliśmy całą Anglię i poddaliśmy ją naszym rządom. Nasza odważna inwazja powidoła się całkowicie - od tej pory to my będziemy władać tą krainą i to ludzie północy będą ustalać jej los!
+
+Kilka dni później udaliśmy się do Londynu, gdzie arcybiskup koronował mnie na władcę wszystkich Brytyjczyków.
 </text>
       </lang>
     </block>
@@ -472,6 +588,17 @@ MISSION VERLOREN!
 Die Götter wenden sich von dir ab, als du einem friedlichen Volk feige in den Rücken fällst. Der Sieg ist dein, aber zu welchem Preis? Als deine Männer plündernd durch die rauchenden Ruinen ziehen, wird dir bewusst, dass dir von nun an niemand mehr Vertrauen wird.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Bogowie odwracają się od ciebie w chwili, w której zwracasz się przeciwko temu pokojowo nastawionemu ludowi. Zwycięstwo jest twoje, ale jaka jest jego cena? Twoi ludzie plądrują dymiące zgliszcza, ale wiesz już, że teraz nikt ci nigdy nie zaufa.
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -494,6 +621,13 @@ ENGLAND
         <text>
 
 ENGLAND
+
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+ANGLIA
 
 </text>
       </lang>
@@ -529,6 +663,16 @@ MISSION VERLOREN!
 Wieland, der Schmied ist außer sich vor Zorn! Sein Lager wurde zerstört! So wirst du diese Mission nicht erfüllen können!
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Wieland wpadł w szał! Zniszczono jego magazyn! Teraz w żaden sposób nie uda ci się wykonać misji!
+</text>
+      </lang>
     </block>
     <block id="mitstrumpf">
       <lang code="CHN">
@@ -558,6 +702,15 @@ Kaum hatten wir die Goldmünzen bezahlt, dankten uns die Männer Robin Hoods gal
 Danach verabschiedeten sie sich freundlich und wünschten uns allzeit viel Glück auf unserer weiteren Reise.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Wręczyliśmy złoto, a ludzie Robin Hooda grzecznie nam podziękowali i pozwolili na przejście.
+
+"Dziękujemy wam za hojną daninę w imieniu Towarzystwa Ochrony Biednych i Bezdomnych z Sherwood! Oczywiście można ją odliczyć od podatku - nie tylko pozwolimy wam przejść, ale damy wam do towarzystwa kilku naszych najlepszych łuczników. Nauczą was, jak korzystać z naszych wspaniałych długich łuków."
+
+Pożegnali się, życząc nam szczęścia w podróżach.
+</text>
+      </lang>
     </block>
     <block id="nichterfüllung">
       <lang code="CHN">
@@ -573,6 +726,11 @@ When our people entered the throne room, having failed so far to complete the ol
       <lang code="ger">
         <text>
 Als unsere Leute den Thronsaal betraten, ohne den Auftrag des alten Königs erfüllt zu haben, konnten sie ihn nirgends finden, so sehr sie auch nach ihm suchten...
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Moi ludzie wkroczyli do sali tronowej nie wypełniwszy zadania, jakie postawił przed nami stary król. Przeszukali to miejsce bardzo dokładnie, ale nigdzie nie było nawet śladu monarchy...
 </text>
       </lang>
     </block>
@@ -608,6 +766,16 @@ Wie gehabt: GOLD ODER LEBEN! Und wenn euch euer Leben lieb ist, dann zahlt ihr n
 Zahle schnell einen Tribut, um Robin Hood zu besänftigen. 
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+W chwili, gdy próbowaliśmy wyminąć Małego Johna, zaatakowali nas ludzie Robin Hooda! "Nie słuchacie naszego ostrzeżenia?! Jesteście niezwykle dzielni, ale i niesamowicie głupi!
+
+Dobra, ostatnia szansa: PIENIĄDZE albo ŻYCIE! Jeśli cenicie to drugie choć trochę, to dacie nam to pierwsze! To tylko mały datek na biednych i Wesołe Bractwo z Sherwood!"
+
+
+Szybko zapłać trybut, aby udobruchać Robin Hooda.
+</text>
+      </lang>
     </block>
     <block id="robin_hood_tot">
       <lang code="CHN">
@@ -628,6 +796,13 @@ However, the rulers of the realm were content and gave us the reward of 20 gold 
         <text>Wir hatten den legendären Robin Hood besiegt! Die Armen- und Rechtlosenorganisation von Sherwood stand nun ohne Vorsitzenden da... 
 
 Die Mächtigen des Landes jedoch waren darüber sehr erfreut und überreichten uns 20 Goldstücke Belohnung, die der Sheriff von Nottingham ausgesetzt hatte!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Pokonaliśmy legendarnego Robin Hooda! Towarzystwo Ochrony Ubogich i Bezdomnych z Sherwood będzie musiało sobie znaleźć nowego przewodniczącego...
+
+Władców tej krainy niezwykle ucieszył nas czyn i w dowód swej wdzięczności nakazali Szeryfowi z Nottingham przekazać nam nagrodę za głowę Robin Hooda - 20 sztuk złota!
 </text>
       </lang>
     </block>
@@ -735,6 +910,44 @@ Um alle Waren von Bord zu bringen, wähle den (Schiffs-) Befehl WAREN ENTLADEN.
 Sollen nur einige Waren entladen werden, reduziere im Schiffsfenster deren Wert mit dem Minus-Symbol neben der entsprechenden Ware.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+TWÓJ OKRĘT JEST GOTÓW!
+
+Oto kilka porad dotyczących korzystania z okrętów.
+
+ZAŁOGA
+Przed wypłynięciem musisz wybrać okrętowi DOWÓDCĘ. W żyłach każdego Wikinga płynie krew żeglarza, więc może nim zostać każdy z mieszkańców twojej wioski, z wyjątkiem niewiast i dzieci.
+
+Przydzielenie pierwszego Wikinga do statku spowoduje mianowanie go dowódcą, następni przydzieleni będą PASAŻERAMI.
+
+Pamiętaj, że załogi statków muszą coś jeść na morzu! Weź na pokład odpowiednie zapasy - chyba nie chcesz, aby podróż wiązała się z głodową śmiercią twoich Wikingów?
+
+
+ZAŁADUNEK
+ZAŁADUNEK okrętu jest możliwy dopiero po przydzieleniu do niego co najmniej jednego TRAGARZA. Tylko oni mogą przenosić towary na pokład.
+
+Ilość towarów ustalasz za pomocą ikon plus i minus widocznych na oknie rozkazów okrętu.
+Natychmiast po ustaleniu ilości towarów tragarze zajmą się ich transportem, o ile dysponujesz odpowiednią ich liczbą.
+
+
+NA MORZE!
+Wypłynięcie jest proste - wystarczy kliknąć PPM na celu rejsu.
+Jeśli jednak przydzieliłeś okrętowi jakichś pasażerów, to będzie on czekał, dopóki wszyscy nie znajdą się na pokładzie.
+
+
+PRZYBIJANIE DO BRZEGU
+Zanim załoga będzie mogła opuścić okręt, musisz nim najpierw przybić do brzegu. Miejsca, w których jest to możliwe będą podświetlone.
+
+
+ROZŁADUNEK
+Po przybiciu do brzegu twoi tragarze mogą rozładować okręt.
+
+Jeśli chcesz go całkowicie opróżnić, to wybierz przycisk 'ROZŁ. WSZYSTKO'.
+
+Jeśli chcesz, aby zabrano tylko niektóre towary, to zmniejsz ich ilość na pokładzie za pomocą ikon plus i minus.
+</text>
+      </lang>
     </block>
     <block id="schlachtaufruf">
       <lang code="CHN">
@@ -756,6 +969,13 @@ The decision was not an easy one ... Should we help our friends and allies in Br
 Ein gewaltiges Normannenheer zog von Südosten über die Insel und eroberte alles, was sich ihm in den Weg stellte. Ihr Anführer schickte einen Boten, der wissen wollte, ob wir uns ihnen anschließen würden oder uns gegen sie stellten.
  
 Uns fiel die Entscheidung nicht leicht... Halfen wir jetzt unseren Freunden und Verbündeten aus Britannien, oder der Normandie?
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Na wyspie wylądowała wielka armia Normanów. Postępowała od południowego wschodu, podbijając wszystko, co stanęło na jej drodze. Wódz przysłał do nas posłańca z zapytaniem, czy się do nich przyłączymy, czy też wystąpimy przeciwko nim.
+
+Ta decyzja nie należy do prostych... Czy pomożemy naszym przyjaciołom i sojusznikom z Brytanii, czy tym z Normandii?
 </text>
       </lang>
     </block>
@@ -793,6 +1013,17 @@ MISSION VERLOREN!
 Du hast versagt! Deine Wikinger hatten auf dich vertraut und du hast sie im Stich gelassen. An Odins Tafel wird kein Platz für dich sein!
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Nie powiodło ci się! Twoi Wikingowie ci zaufali, a ty ich zawiodłeś! Nie znajdzie się dla ciebie miejsce przy stole Odyna!
+</text>
+      </lang>
     </block>
     <block id="stadt">
       <lang code="CHN">
@@ -822,6 +1053,15 @@ Geschäftiger Trubel empfing uns in der großen Stadt der Engländer. In den eng
 Unsere Leute kehrten in einem verräucherten Wirtshaus ein, um die Gäste zu befragen und so vielleicht einen Hinweis zu erhalten. Als diese uns endlich glaubten, dass wir keine plündernden Piraten waren, erzählte man uns, dass es im hohen Norden ein altes Königreich gäbe, um dessen weisen König sich viele Sagen rankten. Er würde uns sicher helfen können.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+LONDYN
+
+Nasze uszy wypełniał gwar i zgiełk wielkiego miasta Brytyjczyków. Wąskie uliczki tętniły życiem
+
+Część z moich ludzi udała się zasięgnąć języka do zadymionej gospody. Wprawdzie najpierw musieli przekonać jej klientów, że wcale nie przybyli tu palić i plądrować, jednak potem szybko dowiedzieli się o pradawnym północnym królestwie, którego mityczny monarcha miał jakoby posiadać jakieś ważne dla nas informacje.
+</text>
+      </lang>
     </block>
     <block id="start_00">
       <lang code="CHN">
@@ -839,6 +1079,11 @@ We had landed on the green shore of Britain - the land of countless tales and sa
 Wir waren an der grünen Küste Britanniens gelandet - das Land zahlreicher Geschichten und Sagen, die Heimat vieler berühmter Helden und mächtiger Könige lag vor uns! 
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Wylądowaliśmy na zielonych brzegach Anglii - krainy wielu legend, potężnych bohaterów i mądrych władców.
+</text>
+      </lang>
     </block>
     <block id="start_01">
       <lang code="CHN">
@@ -854,6 +1099,11 @@ Beyond the rough, cragged cliffs lay fertile fields and wide open spaces, stretc
       <lang code="ger">
         <text>
 Hinter schroffen Felsklippen erstreckten sich einladend fruchtbare Felder und weite Ebenen, soweit das Auge reichte. Nachdem wir uns einen geeigneten Lagerplatz gesucht hatten, begannen wir das Land zu erkunden. Stets in der Hoffnung, einen weiteren Hinweis zu finden, der uns unseren Weg weisen konnte...
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Poza poszarpanymi klifami jak okiem sięgnąć kraj zapraszał przybysza wspaniałymi, szerokimi polami i łąkami. Po założeniu obozu zaczęliśmy badać okolicę, mając nadzieję znaleźć jakieś informacje, które by nam pomogły w wykonaniu zadania.
 </text>
       </lang>
     </block>
@@ -883,6 +1133,14 @@ Im Dorf am See gab es sehr viele Krieger. Gegen weitere 10 Goldmünzen würde ma
 Zahle weitere 10 Goldmünzen, wenn du Söldner anheuern willst. 
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+W wiosce koło jeziora napotkaliśmy wielu wojów - za 10 sztuk złota kilku z nich obiecało się do nas przyłączyć.
+
+
+Zapłać 10 sztuk złota za wynajęcie najemników.
+</text>
+      </lang>
     </block>
     <block id="söldnerbekommen">
       <lang code="CHN">
@@ -898,6 +1156,11 @@ As they had promised, a number of Frankish soldiers entered our service as soon 
       <lang code="ger">
         <text>
 Wie versprochen traten einige der Frankensoldaten in unsere Dienste, kaum dass wir den Tribut bezahlt hatten. Es waren allesamt ausgesucht mutige Männer und dazu noch erfahrene Wolfsjäger.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Zgodnie z obietnicą kilku frankijskich wojowników przyłączyło się do nas zaraz po zapłaceniu za ich usługi. To starannie wybrani, doskonale wyszkoleni i bardzo odważni wojowie, mający ponadto duże doświadczenie w polowaniach na wilki.
 </text>
       </lang>
     </block>
@@ -951,6 +1214,22 @@ In einem verwunschenen Wald im Südwesten von hier haust ein Wolfsrudel, wie es 
 Erlege die Wölfe im Wald südwestlich der Ruinenstadt.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+THULE
+
+Na dalekiej północy przekroczyliśmy granice pradawnego królestwa Thule. Zabudowania wyglądały, jakby od wielu już wieków stały puste - pozostał tylko rządzący tym krajem ruin stary król.
+
+Wkroczyliśmy do grożącej zawaleniem się sali tronowej, a on powitał nas podniesieniem dłoni. Jego długie włosy były snieżnobiałe, a broda sięgała mu niemal do koniuszków palców u nóg. Spokojnie wysłuchał naszej historii, kiwając głową ze zrozumieniem i nie pokazując po sobie żadnego zaskoczenia.
+
+"Tak, mogę wam pomóc," powiedział głucho, "ale najpierw musicie dla mnie wykonać trzy zadania:
+
+W zaklętym lasie na południowym zachodzie czai się od pewnego czasu stado wilków, których zaciętość i krwiożerczość nie mają sobie równych. Pod ich kłami skonały niezliczone rzesze podróżników, a nikt im się jeszcze nie oparł. Pierwsze zadanie to rozprawienie się z tym stadem. Jeśli wam się powiedzie, wróćcie tutaj!"
+
+
+Pokonaj wilki w lesie na południowy zachód od zrujnowanego miasta.
+</text>
+      </lang>
     </block>
     <block id="thule2">
       <lang code="CHN">
@@ -982,6 +1261,16 @@ Wie er versprochen hatten, fanden wir den alten König wieder auf seinem Thron, 
 
 
 Produziere 10 Einheiten Öl und handele sie mit dem Lagerhaus der Ruinenstadt.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Pokonawszy wilki, wróciliśmy do sali tronowej. Król siedział tak samo jak wcześniej i odezwał się w te słowa:
+
+"Oto drugie zadanie: napełnijcie magazyn w moim zrujnowanym mieście. Ta kraina jest bogata w złoto i rudę, ale Odyn ją opuścił... Wiara w starych bogów została zaniedbana - dostarczcie mi oleju rytualnego, aby mogła powrócić! "
+
+
+Wyprodukuj 10 jednostek oleju rytualnego i przekaż je magazynowi zrujnowanego miasta.
 </text>
       </lang>
     </block>
@@ -1017,6 +1306,16 @@ Als wir nun zum dritten Mal die Halle des Königs betraten, fanden wir ihn so, w
 Baue ein Schiff, suche Wieland und handle mit ihm die gewünschten Waren, um das Zauberschwert zu bekommen.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Po raz trzeci wkroczyliśmy do sali tronowej. Król wyglądał, jakby od naszego ostatniego spotkania nie ruszył ani jednym mięśniem... Wstrzymaliśmy oddech, słysząc ostatnie zadanie.
+
+"Na wyspie na północnym wschodzie mieszka kowal imieniem Wieland. Zajmuje się produkcją magicznego uzbrojenia - odszukajcie go i przekonajcie do przekazania wam jednego z jego produktów! Przynieście mi tę broń, a otrzymacie odpowiednią nagrodę."
+
+
+Wybuduj okręt, odszukaj Wielanda i odkup od niego magiczny miecz.
+</text>
+      </lang>
     </block>
     <block id="thule4_00">
       <lang code="CHN">
@@ -1047,6 +1346,16 @@ MISSION GEWONNEN!
         <font>$local$\fonts\font12.fnt</font>
         <text>
 Ein letztes Mal betraten wir den Thronsaal und der König erhob sich lächelnd, um uns zu grüßen: 
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA ZAKOŃCZONA SUKCESEM!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Po raz ostatni wkroczyliśmy do sali tronowej. Król podniósł się z tronu i ciepło z nami przywitał.
 </text>
       </lang>
     </block>
@@ -1090,6 +1399,19 @@ Tief verbeugten wir uns vor dem König, doch als wir wieder aufblickten, war er 
 Byzanz! Das war also unser nächstes Ziel... Eilig machten wir unser Schiff klar und verließen Britannien noch am selben Tage. Einige unserer Kameraden aber wollten hier bleiben, denn sie hatten das Land zu lieben gelernt...       
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+"Rzeczywiście, Bjarni, jesteś bohaterem godnym Miecza Kowala... Udowodniłeś swoją odwagę - zachowaj miecz, który pomoże ci w dalszych zmaganiach z losem.
+
+Weź również fragment tej mapy, która wskaże ci drogę na wyspę Węża Midgardu. Inne jej części zaginęły w dawnych czasach.
+
+Wiem tylko o jednej, którą posiada Cesarz Bizancjum. Znajdź wszystkie części mapy, a poznasz drogę do wyspy i swoje przeznaczenie..."
+
+Ukłoniliśmy się, wdzięczni królowi za hojne dary, ale gdy podnieśliśmy głowy, już go nie było. Na tronie leżał jedynie kawałek starej mapy.
+
+Naszym następnym celem było więc Bizancjum - szybko przygotowaliśmy okręt do drogi i wyruszyliśmy, pozostawiając w Anglii wielu towarzyszy, którym spodobała się ta dziwna kraina.
+</text>
+      </lang>
     </block>
     <block id="wieland">
       <lang code="CHN">
@@ -1113,6 +1435,13 @@ Nach längerer Suche erspähte unser Ausguck endlich die Insel, auf der Wieland,
 Die Kunde seiner Kunstfertigkeit war legendär! Man sagte sogar, er hätte sein Handwerk bei den Alben, den sagenumwobenen Zwergen erlernt. Fast genauso bekannt war allerdings auch sein ruppiges Verhalten allen Fremden gegenüber. Es würde nicht einfach werden, das Schwert von ihm zu bekommen...
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Po długich poszukiwanich twoi zwiadowcy wreszcie zlokalizowali wyspę, na której podobno mieszka kowal Wieland.
+
+Był sławny z powodu swojej sztuki kowalskiej, której uczył się podobno od legendarnych karłów... Mówi się jednak także, że bardzo nie lubi obcych - wydębienie od niego tego miecza wcale nie będzie proste!
+</text>
+      </lang>
     </block>
     <block id="wieland_ohne">
       <lang code="CHN">
@@ -1128,6 +1457,11 @@ After a seemingly endless odyssey, we landed on an island shore. A sign on the b
       <lang code="ger">
         <text>
 Nach längerer Irrfahrt verschlug es uns an die Küste einer Insel. Ein Schild am Strand ließ uns wissen, das wir hier nichts zu suchen hatten! 
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Po wydającej nigdy się nie kończyć podróży wylądowaliśmy wreszcie na brzegu. Znak na plaży ostrzegł nas, że nie jesteśmy tu mile widziani!
 </text>
       </lang>
     </block>
@@ -1161,6 +1495,16 @@ Nach drei Tagen und drei Nächten rastloser Arbeit war das Schwert endlich volle
 
 
 Das Schwert ist nun dein. Kehre zum König von Thule zurück.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Wieland wziął się do pracy natychmiast po tym, jak moi ludzie przekazali mu ostatni dzban miodu. Nigdy nie widziałem tak wysokich umiejętności i tak doskonałego opanowania rzemiosła... Rozgrzana do czerwoności stal ulegle poddała się władzy kowala.
+
+Wykucie miecza zajęło trzy długie doby nieprzerwanej pracy. Wieland z zadowoleniem spojrzał na magiczną broń, dał nam ją, po czym chwycił dzban miodu, wychylił go jednym haustem i położył się na ziemi jak stał. Za chwilę chrapał w najlepsze, a my zajęliśmy się swoimi sprawami.
+
+
+Miecz jest twój. Zanieś go królowi Thule.
 </text>
       </lang>
     </block>
@@ -1214,6 +1558,22 @@ Macht mir aber bloß nichts kaputt! Ich warne euch!"
 Liefere dem Schmied 10 Met in sein Lagerhaus.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+KOWAL WIELAND
+
+Przed swoją kuźnią stał Wieland, kowal znany z produkcji magicznego uzbrojenia. Mimo, iż zauważył naszą obecność, nawet na nas nie spojrzał.
+
+"Wiem kim jesteście - jak czegoś chcecie, to musicie za to zapłacić! Złota mi nie potrzeba - i tak mam go dość - ale chcę się napić miodu! Załatwcie mi swieży miód pitny to zobaczymy. "
+
+Ułatwię wam trochę zadanie - przekazuje wam mój magazyn, żeby wasi tragarze mogli znosić miód od razu tam, gdzie ma się znaleźć. Czyli do mnie!
+
+Tylko nic nie zepsujcie! Ostrzegam!"
+
+
+Dostracz 10 dzbanów miodu pitnego do magazynu kowala.
+</text>
+      </lang>
     </block>
     <block id="wielandwillmehrbier">
       <lang code="CHN">
@@ -1247,6 +1607,16 @@ Endlich hatten wir dem Schmied seinen Met gebracht, doch anstatt nun mit der Arb
 Liefere dem Schmied erneut 10 Met in sein Lagerhaus.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Kowal dostał swój miód, ale zamiast zacząć pracę spojrzał na nas spode łba i rzekł:
+
+"Co? Miód mi przynieśliście i gotowe? Jak ja ma wykuć dobry miecz, jak mi w gębie zaschło?! Nie wezmę się do roboty, dopóki nie przyniesiecie więcej miodu!"
+
+
+Dostarcz kowalowi kolejne 10 dzbanów miodu pitnego.
+</text>
+      </lang>
     </block>
     <block id="won">
       <lang code="CHN">
@@ -1268,6 +1638,13 @@ Now, we were the undisputed lords of the island, and just a few days later, we w
 Ein großer Jubel brach an, als wir den letzten Normannen aus England vertrieben hatten. Ihre Invasion war gescheitert! Wir hatten durch unser Eingreifen den ehrgeizigen Plan der Eroberer vereitelt.
  
 Nun waren wir die uneingeschränkten Herrscher der Insel und wenige Tage später krönte mich der Erzbischof in London zum rechtmäßigen König der Briten. 
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Wielka radość zapanowała, gdy ostatni Norman opuścił brytyjską ziemię. Inwazja zakończyła się klęską! Nasza interwencja przeważyła szalę na niekorzyść najeźdźców.
+
+Teraz to my panowaliśmy nad wyspą. Kilka dni później udaliśmy się do Londynu, gdzie arcybiskup koronował mnie na władcę wszystkich Brytyjczyków.
 </text>
       </lang>
     </block>

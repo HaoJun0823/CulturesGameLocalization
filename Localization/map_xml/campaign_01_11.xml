@@ -1,50 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_01_11" export_map_id="campaign_01_11" map_md5="ad4cab0b48ee5e4bd7bb6f9b4064b455" IsC2M="false">
+<localization version="1.3" map_id="campaign_01_11" export_map_id="campaign_01_11" map_md5="ad4cab0b48ee5e4bd7bb6f9b4064b455" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">率领全部四位英雄，迎战强大的米德加德之蛇。</text>
       <text lang="eng">Face the Midgard serpent with all four of your heroes.</text>
       <text lang="ger">Stelle dich mit allen vier Helden der mächtigen Midgardschlange zum Kampf.</text>
+      <text lang="pol">Staw czoło Wężowi Migdardu wszystkimi czterema swoimi bohaterami.</text>
     </string>
     <string id="51">
       <text lang="CHN">蛇族</text>
       <text lang="eng">Serpent People</text>
       <text lang="ger">Schlangenvolk</text>
+      <text lang="pol">Ludzie-węże</text>
     </string>
     <string id="98">
       <text lang="CHN">历经漫长漂泊，维京人仿佛被魔法指引，于某个清晨搁浅在一片死寂焦黑的海岸。这必是终点--米德加德之蛇的领地，维格里德城墙！</text>
       <text lang="eng">Following a long odyssey, the Vikings land one morning on a dead, barren coast, as though guided there by some invisible hand. This must be their destination, the realm of the Midgard serpent - Wigrid Wall!</text>
       <text lang="ger">Wie von Zauberhand stranden die Wikinger nach einer langen Irrfahrt eines Morgens an einer toten, verbrannten Küste. Dies musste das Ziel sein, das Reich der Midgardschlange - Wigrid Wall!</text>
+      <text lang="pol">Po długiej podróży Wikingowie lądują na martwym i pustym wybrzeżu. Doprowadziła ich tu jakaś niewidzialna ręka - to jasne, że to wyspa muru Wigrid, domena Jormundganda, Węża Midgardu!</text>
     </string>
     <string id="99">
       <text lang="CHN">维格里德城墙</text>
       <text lang="eng">WIGRID WALL</text>
       <text lang="ger">WIGRID WALL</text>
+      <text lang="pol">MUR WIGRID</text>
     </string>
     <string id="101">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="102">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="pol">Sigurd</text>
     </string>
     <string id="103">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="pol">Cyra</text>
     </string>
     <string id="104">
       <text lang="CHN">哈奇</text>
       <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
+      <text lang="pol">Hatchie</text>
     </string>
   </strings>
   <briefings>
@@ -88,6 +97,20 @@ Voll ohnmächtiger Wut tobend begann die Schlange nun, die Welt der Menschen mit
 
 
 Findet die Midgardschlange und vernichtet sie! 
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Po długiej podróży w gęstej mgle wylądowaliśmy na martwym wybrzeżu. Wydawało się, że jakaś niewidzialna ręka doprowadziła nas do celu wyprawy - domeny Węża Midgardu.
+
+Wszystko było tak, jak w mojej wizji. Wieczny wróg wszystkiego co dobre podniósł swe cielsko z głębokich odmętów o wiele za wcześnie.
+
+Bogowie nie byli jeszcze gotowi na walkę, więc zamknęli się w Asgardzie, los Midgardu był w naszych rękach.
+
+Jeśli nie pokonamy Jormundganda, zatruje on i zniszczy cały świat tak, jak to zrobił z wyspą, na której się właśnie znajdowaliśmy!
+
+
+Odszukaj Węża Midgardu i go zniszcz!
 </text>
       </lang>
     </block>
@@ -140,6 +163,22 @@ Die Tore Asgards öffneten sich wieder! Ein goldenes Licht brach daraus hervor u
 Für einen Moment lang waren die vier großen Kulturen des Westens ein klein wenig näher zusammengerückt und hatten zusammen das sichere Verderben für alle abgewendet. Was wir nun mit den neugewonnenen Freundschaften anfangen würden, sollte die Zukunft zeigen...
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA ZAKOŃCZONA SUKCESEM!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Wąż Midgardu skonał, wydając z siebie potworny wrzask. Udało się zapobiec wielkiej groźbie.
+
+Wspólnie zdołaliśmy zwyciężyć i zrobić coś, czego nie zdołali dokonać nawet potężni bogowie!
+
+Bramy Asgardu ponownie się otworzyły, rozpraszając wieczną noc roztoczoną przez Jormundganda, rozwiewając ogarniający do niedawna coraz większe połacie świata cień i przywracając do życia wszystko, co zginęło od zatrutego oddechu potwora.
+
+Na chwilę cztery wielkie kultury naszego świata zbliżyły się do siebie, zjednoczone wspólnym zagrożeniem. Czas miał pokazać, jak wykorzystamy nowozawiązane przyjaźnie...
+</text>
+      </lang>
     </block>
     <block id="2">
       <lang code="CHN">
@@ -173,6 +212,17 @@ MISSION VERLOREN!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ihr Ende war besiegelt und mit ihnen das Ende der Welt der Menschen.
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroizm czy głupota? Bjarni zginął, a bogowie płaczą... Ich los jest już przesądzony - tak samo jak zniszczenie świata ludzi.
 </text>
       </lang>
     </block>
@@ -210,6 +260,17 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Held Sigurd aus der Prophezeiung erlag durch deine Unachtsamkeit! Die Welt ist verloren.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Chwila nieuwagi wystarczy! Sigurd, bohater z przepowiedni, zginął przez twoje niedopatrzenie! Świat jest skazany na zagładę!
+</text>
+      </lang>
     </block>
     <block id="4">
       <lang code="CHN">
@@ -243,6 +304,17 @@ MISSION VERLOREN!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin Cyra aus der Prophezeiung erlag durch deine Unachtsamkeit! Die Welt ist verloren.
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Chwila nieuwagi wystarczy! Cyra, bohaterka z przepowiedni, zginęła przez twoje niedopatrzenie! Świat jest skazany na zagładę!
 </text>
       </lang>
     </block>
@@ -280,6 +352,17 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Held Hatschi aus der Prophezeiung erlag durch deine Unachtsamkeit! Die Welt ist verloren.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Chwila nieuwagi wystarczy! Hatchie, bohater z przepowiedni, zginął przez twoje niedopatrzenie! Świat jest skazany na zagładę!
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -298,6 +381,13 @@ WIGRID WALL
         <text>
 
 WIGRID WALL
+
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+MUR WIGRID
 
 </text>
       </lang>

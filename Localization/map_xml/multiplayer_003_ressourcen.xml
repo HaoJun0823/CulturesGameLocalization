@@ -1,71 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="multiplayer_003_ressourcen" export_map_id="multiplayer_003_ressourcen" map_md5="f1b1d749172d903ef9858fedaaf5a6eb" IsC2M="false">
+<localization version="1.3" map_id="multiplayer_003_ressourcen" export_map_id="multiplayer_003_ressourcen" map_md5="f1b1d749172d903ef9858fedaaf5a6eb" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
-<string id="0">
+    <string id="0">
       <text lang="CHN">经济：无尽资源</text>
       <text lang="eng">Economy: LIMITLESS RESOURCES</text>
       <text lang="ger">Wirtschaft: RESSOURCEN OHNE ENDE</text>
+      <text lang="pol">Ekonomia: NIEKOŃCZĄCE SIĘ SUROWCE</text>
     </string>
-<string id="1">
+    <string id="1">
       <text lang="CHN">4 个维京部族比邻而居。是战是和、外交与贸易，全凭你说了算！</text>
       <text lang="eng">4 Viking tribes are living together. You're the only one to decide about diplomacy and trade!</text>
       <text lang="ger">4 Wikingerstämme leben gemeinsam nebenher. Über Diplomatie und Handel entscheidest allein du!</text>
+      <text lang="pol">4 wikińskie plemiona żyją w pokoju, a od ciebie zależy, jak się ułożą ich kontakty dyplomatyczne i handlowe.</text>
     </string>
-<string id="2">
+    <string id="2">
       <text lang="CHN">随你喜好来玩：积攒木材、黏土、石料各 100，以及金与铁各 75。运进你的任一仓库。或者与邻邦交易--又或将他们抹除。率先把资源存入仓库的部族获胜！</text>
       <text lang="eng">Play as you like it: Make 100 units of wood, clay, stone as well as 75 units of gold and iron each and take them into one of your warehouses. Or trade with your neighbours - or eliminate them. The tribe who's got the resources in their warehouse first, wins ...!</text>
       <text lang="ger">Spiel wie du willst: Erwirschafte je 100 Rohstoffe der Arten Holz, Lehm und Stein, sowie je 75 Gold und Eisen. Bringe sie in eines deiner Lager. Oder handle mit deinen Nachbarn - oder lösche sie aus. Wer zuerst die Rohstoffe im Lager hat, gewinnt!</text>
+      <text lang="pol">Masz szerokie możliwości. Musisz zdobyć 100 jednostek drewna, gliny i kamienia oraz 75 jednostek złota i żelaza, ale czy je wyprodukujesz, kupisz czy zdobędziesz w bitwie, to już zależy od ciebie...</text>
     </string>
-<string id="10">
+    <string id="10">
       <text lang="CHN">格陵兰人</text>
       <text lang="eng">Greenlander</text>
       <text lang="ger">Grünländer</text>
+      <text lang="pol">Grenlandczyk</text>
     </string>
-<string id="11">
+    <string id="11">
       <text lang="CHN">格陵兰人</text>
       <text lang="eng">Greenlander</text>
       <text lang="ger">Grünländer</text>
+      <text lang="pol">Grenlandczyk</text>
     </string>
-<string id="20">
+    <string id="20">
       <text lang="CHN">文兰人</text>
       <text lang="eng">Vinlander</text>
       <text lang="ger">Vinländer</text>
+      <text lang="pol">Winlandczyk</text>
     </string>
-<string id="21">
+    <string id="21">
       <text lang="CHN">文兰人</text>
       <text lang="eng">Vinlander</text>
       <text lang="ger">Vinländer</text>
+      <text lang="pol">Winlandczyk</text>
     </string>
-<string id="30">
+    <string id="30">
       <text lang="CHN">海卢兰人</text>
       <text lang="eng">Hellulander</text>
       <text lang="ger">Helluländer</text>
+      <text lang="pol">Hellulandczyk</text>
     </string>
-<string id="31">
+    <string id="31">
       <text lang="CHN">海卢兰人</text>
       <text lang="eng">Hellulander</text>
       <text lang="ger">Helluländer</text>
+      <text lang="pol">Hellulandczyk</text>
     </string>
-<string id="40">
+    <string id="40">
       <text lang="CHN">马克兰人</text>
       <text lang="eng">Marklander</text>
       <text lang="ger">Markländer</text>
+      <text lang="pol">Marklandczyk</text>
     </string>
-<string id="41">
+    <string id="41">
       <text lang="CHN">马克兰人</text>
       <text lang="eng">Marklander</text>
       <text lang="ger">Markländer</text>
+      <text lang="pol">Marklandczyk</text>
     </string>
-</strings>
-<briefings>
-<block id="begin_00">
+  </strings>
+  <briefings>
+    <block id="begin_00">
       <lang code="CHN">
-                <text>
+        <text>
 这是个太平年月。维京人各过各的安稳日子，本不该有兵戎相见的理由……
 
 快行动起来吧，你的部族需要一位领袖！
@@ -87,11 +99,18 @@ Außerdem gibt es einiges zu entdecken - viele Schätze soll es hier versteckt g
 Mach dich an die Arbeit, dein Stamm braucht einen Anführer! Sichere dir deinen Anteil an den Ressourcen - der schnellste Abbauer gewinnt!
 </text>
       </lang>
-    </block>
+      <lang code="pol">
+        <text>
+Nastał pokój. Wikingowie nie muszą już obawiać się wyczerpania surowców. W centralnym paśmie górskim znaleziono ogromne pokłady żelaza i złota...
+Zostało jeszcze wiele do odkrycia - legenda głosi, że gdzieś w pobliźu ukryto nie lada skarb!
 
+Bierz się do pracy, twoje plemię potrzebuje silnego przywódcy! Zgromadź jak najwięcej surowców - to jedyna droga do zwycięstwa!
+</text>
+      </lang>
+    </block>
     <block id="header">
       <lang code="CHN">
-                <text>
+        <text>
 无尽资源
         </text>
       </lang>
@@ -109,6 +128,13 @@ RESSOURCEN OHNE ENDE
 
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+NIEKOŃCZĄCE SIĘ SUROWCE
+
+</text>
+      </lang>
     </block>
-</briefings>
+  </briefings>
 </localization>

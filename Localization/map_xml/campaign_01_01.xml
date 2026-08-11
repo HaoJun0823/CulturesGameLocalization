@@ -1,125 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_01_01" export_map_id="campaign_01_01" map_md5="8cef8a0d63dbc7538bbd0434e1461356" IsC2M="false">
+<localization version="1.3" map_id="campaign_01_01" export_map_id="campaign_01_01" map_md5="8cef8a0d63dbc7538bbd0434e1461356" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">抵达村庄。</text>
       <text lang="eng">Reach the village.</text>
       <text lang="ger">Erreiche das Dorf.</text>
+      <text lang="pol">Dotrzyj do wioski.</text>
     </string>
     <string id="1">
       <text lang="CHN">与德鲁伊交谈。</text>
       <text lang="eng">Talk to the druid.</text>
       <text lang="ger">Spreche mit dem Druiden.</text>
+      <text lang="pol">Porozmawiaj z druidem.</text>
     </string>
     <string id="2">
       <text lang="CHN">前往造船匠处。</text>
       <text lang="eng">Go to the shipbuilder.</text>
       <text lang="ger">Gehe zum Bootsbauer.</text>
+      <text lang="pol">Udaj się do budowniczego okrętów.</text>
     </string>
     <string id="3">
       <text lang="CHN">交纳造船匠索要的贡品。</text>
       <text lang="eng">Pay the demanded tribute.</text>
       <text lang="ger">Zahle den gewünschten Tribut.</text>
+      <text lang="pol">Zapłać ustaloną kwotę.</text>
     </string>
     <string id="4">
       <text lang="CHN">寻找诺恩三女神。</text>
       <text lang="eng">Find the Norns.</text>
       <text lang="ger">Finde die Nornen.</text>
+      <text lang="pol">Odszukaj Norny.</text>
     </string>
     <string id="5">
       <text lang="CHN">交纳10份蜂蜜酒作为造船贡品。</text>
       <text lang="eng">Pay 10 mead tribute for the boat.</text>
       <text lang="ger">Bezahle 10 Met Tribut für das Boot.</text>
+      <text lang="pol">Zapłać za Drakkar 10 garnców miodu pitnego.</text>
     </string>
     <string id="13">
       <text lang="CHN">将若干平民转为建筑工人。</text>
       <text lang="eng">Turn some of your civilians into builders.</text>
       <text lang="ger">Mache einige deiner Zivilisten zu Bauarbeitern.</text>
+      <text lang="pol">Zamień kilku swoich cywili w budowniczych.</text>
     </string>
     <string id="14">
       <text lang="CHN">建造一座农场。</text>
       <text lang="eng">Build a farm.</text>
       <text lang="ger">Baue eine Farm.</text>
+      <text lang="pol">Wybuduj Farmę.</text>
     </string>
     <string id="15">
       <text lang="CHN">将一名维京人转为农民，看着他在劳作中积累经验。</text>
       <text lang="eng">Turn one of your Vikings into a farmer and watch him collect experience.</text>
       <text lang="ger">Mache einen deiner Wikinger zum Farmer und siehe zu, wie er Erfahrung sammelt.</text>
+      <text lang="pol">Nakaż jednemu ze swoich Wikingów uprawę roli w celu zbierania doświadczenia.</text>
     </string>
     <string id="17">
       <text lang="CHN">建造一座磨坊。</text>
       <text lang="eng">Build a mill.</text>
       <text lang="ger">Baue eine Mühle.</text>
+      <text lang="pol">Wybuduj Młyn.</text>
     </string>
     <string id="18">
       <text lang="CHN">将农民转为磨坊主，看着他在新行当中积累经验。</text>
       <text lang="eng">Turn the farmer into a miller and watch him become experienced in this profession.</text>
       <text lang="ger">Mache den Farmer zum Müller und siehe zu, wie er Erfahrung sammelt.</text>
+      <text lang="pol">Nakaż farmerowi zająć się młynarstwem i patrz, jak nabiera doświadczenia w nowym zawodzie.</text>
     </string>
     <string id="20">
       <text lang="CHN">建造一口水井。</text>
       <text lang="eng">Build a well.</text>
       <text lang="ger">Baue einen Brunnen.</text>
+      <text lang="pol">Wybuduj Studnię.</text>
     </string>
     <string id="21">
       <text lang="CHN">建造一座烘焙坊。</text>
       <text lang="eng">Build a bakery.</text>
       <text lang="ger">Baue eine Bäckerei.</text>
+      <text lang="pol">Wybuduj Piekarnię.</text>
     </string>
     <string id="22">
       <text lang="CHN">将磨坊主转为面包师，农民转为磨坊主，另择一名维京人当农民。</text>
       <text lang="eng">Turn your miller into a baker, turn the farmer into a miller and make another Viking a farmer.</text>
       <text lang="ger">Mache den Müller zum Bäcker, den Farmer zum Müller und einen anderen Wikinger zum Farmer.</text>
+      <text lang="pol">Nakaż młynarzowi pracę w Piekarni, farmerowi - w Młynie, a kolejnemu Wikingowi - na Farmie.</text>
     </string>
     <string id="23">
       <text lang="CHN">建造一个蜂巢。</text>
       <text lang="eng">Build a beehive.</text>
       <text lang="ger">Baue einen Bienenstock.</text>
+      <text lang="pol">Wybuduj Pasiekę.</text>
     </string>
     <string id="24">
       <text lang="CHN">建造一座酿酒坊。</text>
       <text lang="eng">Build a brewery.</text>
       <text lang="ger">Baue eine Brauerei.</text>
+      <text lang="pol">Wybuduj Miodosytnię.</text>
     </string>
     <string id="25">
       <text lang="CHN">等面包师经验足够后，将他转为酿酒师。</text>
       <text lang="eng">Wait until your baker is experienced enough, then turn him into a brewer.</text>
       <text lang="ger">Warte, bis dein Bäcker genug Erfahrung gesammelt hat und mache dann deinen Bäcker zum Braumeister.</text>
+      <text lang="pol">Poczekaj, aż piekarz nabierze odpowiedniego doświadczenia, po czym nakaż mu pracę w Miodosytni.</text>
     </string>
     <string id="50">
       <text lang="CHN">造船匠</text>
       <text lang="eng">Shipbuilder</text>
       <text lang="ger">Bootsbauer</text>
+      <text lang="pol">Budowniczy okrętów</text>
     </string>
     <string id="51">
       <text lang="CHN">诺恩三女神</text>
       <text lang="eng">Norns</text>
       <text lang="ger">Nornen</text>
+      <text lang="pol">Norny</text>
     </string>
     <string id="52">
       <text lang="CHN">德鲁伊</text>
       <text lang="eng">Druid</text>
       <text lang="ger">Druide</text>
+      <text lang="pol">Druid</text>
     </string>
     <string id="98">
       <text lang="CHN">格陵兰海岸边，那座昏昏欲睡的小村庄里，日子过得平静而安详……直到那个刻骨铭心的日子来临……</text>
       <text lang="eng">Life was quiet and peaceful in the small, sleepy village on the coast of Greenland ... until that memorable day ...</text>
       <text lang="ger">Ruhig und beschaulich verläuft das Leben in dem kleinen, verschlafenen Dorf an der Küste Grönlands, bis zu jenem denkwürdigen Tag...</text>
+      <text lang="pol">Aż do tego pamiętnego dnia nic nie zakłócało cichego i spokojnego żywota małej wioski na wybrzeżu Grenlandii...</text>
     </string>
     <string id="99">
       <text lang="CHN">格陵兰</text>
       <text lang="eng">GREENLAND</text>
       <text lang="ger">GRÖNLAND</text>
+      <text lang="pol">GRENLANDIA</text>
     </string>
     <string id="100">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
   </strings>
   <briefings>
@@ -151,6 +175,15 @@ Aber nun hatte ich ja nur eine kurze Fahrt nach Süden vor mir. Ich würde die N
 Ich vertrieb die trüben Gedanken aus meinem Kopf und blickte vom Bug aus zuversichtlich in die Zukunft...
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Opuściliśmy już znane nam akweny.
+
+Pomyślałem o naszych przygodach w Winlandii... Wyruszaliśmy wtedy pełni nadziei, nie spodziewając się niczego złego...
+Teraz jednak sprawa ma się inaczej - krótki rejs na południe, spotkanie z Nornami i problem z głowy. A może to nie będzie aż takie proste?
+Odepchnąłem niespokojne myśli i z nadzieją spojrzałem w przyszłość...
+</text>
+      </lang>
     </block>
     <block id="begin_00">
       <lang code="CHN">
@@ -172,6 +205,13 @@ The dreadful enemy I faced, aided by three strange and oddly clothed heroes at m
 Was war das gewesen? Die furchtbaren Bilder rasten noch immer durch meinen Kopf und bedrängten mich mit einer Intensität, die keinen Zweifel daran ließ, dass dies kein einfacher Tagtraum gewesen sein konnte sondern eine schreckliche Vision, die eine tiefere Bedeutung haben musste.
  
 Der furchtbare Feind, gegen den mir drei fremde und seltsam gewandete Helden zur Seite standen, hatte die Gestalt einer gigantischen Schlange gehabt und war umgeben von einer Aura des Bösen. Wenn ich daran zurückdenke, erzittere ich noch heute...
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Cóż to mogło być? Straszne obrazy kłębiące się w moim umyśle nie pozwalały nawet marzyć, że była to jakaś mara - ta straszna wizja miała głębsze znaczenie.
+
+Potworny adwersarz, któremu stawiałem czoła z pomocą trzech dziwnie ubranych i zachowujących się postaci wyglądał jak gigantyczny wąż. Nie mam żadnych wątpliwości, że stworzenie to jest z gruntu złe, na samo jego wspomnienie przechodzą mnie ciarki.
 </text>
       </lang>
     </block>
@@ -204,6 +244,16 @@ Von solchen Heldentaten erzählten höchstens die Barden des Nachts am Lagerfeue
 Fragen über Fragen..
 
 Ich beschloss, unseren Dorfdruiden um Rat zu fragen und so vielleicht eine Antwort zu finden...
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Dlaczego jednak bogowie zesłali mi taki właśnie omen? Czyżby wskazywali mnie jako tego, kto ma walczyć z tym potworem?
+
+Taka walka wymagałaby heroicznych czynów, o których starcy długo by potem opowiadali przy ogniskach... A kim są ci bohaterowie, którzy mnie wspierali w mej walce? Wyglądali jak postaci prosto ze starożytnej sagi.
+Sprawa była zaiste bardzo skomplikowana.
+
+Postanowiłem spytać o radę naszego wioskowego druida - może on pomoże mi odnaleźć odpowiedzi na dręczące mnie pytania.
 </text>
       </lang>
     </block>
@@ -241,6 +291,17 @@ MISSION VERLOREN!
 Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ihr Ende war besiegelt und mit ihnen das Ende der Welt der Menschen.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroizm czy głupota? Bjarni zginął, a bogowie płaczą... Ich los jest już przesądzony - tak samo jak zniszczenie świata ludzi.
+</text>
+      </lang>
     </block>
     <block id="boobaohnedruide">
       <lang code="CHN">
@@ -262,6 +323,13 @@ But for now, we had other things to worry about ...
 Der Schiffsbauer Hoirio in Wiklingshausen war weit und breit berühmt für die seetüchtigsten Schiffe. Sollten wir jemals ein Schiff benötigen, wäre er sicherlich der Beste dafür.
 
 Doch momentan plagten mich andere Sorgen...
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Hoirio z Vikingthorpe jest znany z budowy bardzo wytrzymałych Drakkarów. Jeśli kiedykolwiek będziemy potrzebować okrętu, to właśnie do niego należy się zwrócić.
+
+Na razie jednak mamy na głowie masę innych spraw...
 </text>
       </lang>
     </block>
@@ -300,6 +368,18 @@ Mein Vetter Gabelbart hatte gesehen, wie dieser das Dorf in Richtung Norden zu s
 
 
 Suche den Druiden entlang der Straße im Norden.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+WIOSKA BJARNIEGO
+
+Gdy dotarłem do wioski, widok rodziny i znajomych ukoił nieco moje skołatane nerwy. Na widok sielankowego życia wioski jakiekolwiek wspomnienie zła czy strachu wydawało się być absurdem - jednak wiedziałem, co ujrzałem i niezwłocznie ruszyłem na poszukiwania druida.
+
+Kuzyn Widłobrody powiedział, że widział, jak druid opuszczał wioskę, idąc na północ. Miał tam chatkę, wokół której zbierał swoje zioła... Podążyłem tym tropem natychmiast w nadziei na uzyskanie odpowiedzi na dręczące mnie  pytania...
+
+
+Szukaj druida na północnej drodze
 </text>
       </lang>
     </block>
@@ -346,6 +426,20 @@ Gehe zum Bootsbauer, der am östlichen Seeufer lebt, und erhandle von ihm ein Sc
 Folge mir zurück zum Dorf und nimm dann dem Pfad nach Osten, entlang den gelben Wegweisern." 
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+WIOSKOWY DRUID
+
+Druid wysłuchał opowieści o mojej wizji z uwagą, a następnie rzekł, zasępiony:
+"Bjarni, twoje słowa mnie martwią. Bramy, które widziałeś nie mogły być niczym innym, jak bramami Asgardu, fortecy naszych bogów. Wygląda na to, że zbliża się nasz koniec! Ragnarok, koniec świata już bliski, tak, jak to przewidzieli nasi przodkowie!
+
+Ma mądrość nie wystarczy do rozwiązania twojego problemu, mogę udzielic ci jednak kilku rad. Musisz zdobyć okręt i wraz z najodważniejszymi ludźmi z twojej wioski udać się na Wyspę Norland, gdzie w kamiennym kręgu najgłębszego krateru spotkasz Norny - boginie przędące nić przeznaczenia. Tylko one mogą odpowiedzieć na wszystkie twoje pytania.
+
+
+Idź do budowniczego okrętów na wschodnim wybrzeżu i kup od niego okręt.
+Najpierw podąż za mną z powrotem do wioski, a następnie idź na wschód ścieżką wyznaczoną przez żółte drogowskazy. "
+</text>
+      </lang>
     </block>
     <block id="druideplayer">
       <lang code="CHN">
@@ -378,6 +472,16 @@ Damit war das Gespräch für ihn beendet.
 Schicke Bjarni zum Druiden!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Gdy jeden z moich ludzi zbliżył się do leśnej chatki druida, ten tylko popatrzył na niego znacząco.
+"Znalazłeś mnie, jednak to nie w twoje ręce bogowie złożyli nasz los. Przyślij do mnie tego. Który miał wizję! Tylko on może się czegoś ode mnie dowiedzieć."
+Nic więcej nie da się z niego wyciągnąć
+
+
+Wyślij do druida Bjarniego!
+</text>
+      </lang>
     </block>
     <block id="eisschollen">
       <lang code="CHN">
@@ -404,6 +508,14 @@ Weit im Süden, im Reich der Eisriesen, lag die Insel Norland. Wenn wir die besc
 Endecke die Insel der Nornen.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Wyspa Norn leży daleko na południu, w krainie lodowych olbrzymów. Jeśli chcemy do niej dotrzeć, to musimy znaleźć jakąś drogę przez groźne lody, które zagradzają nam drogę...
+
+
+Odszukaj wyspę Norn.
+</text>
+      </lang>
     </block>
     <block id="explore">
       <lang code="CHN">
@@ -427,6 +539,13 @@ Vorsicht!
 Du kannst deine Reise nicht ohne Bjarni antreten! Sonst werden dir die Nornen niemals das Schicksal enthüllen!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Uwaga!
+
+Nie możecie wyruszyć bez Bjarniego! Norny nie wyjawią wam losów świata!
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -444,6 +563,12 @@ GREENLAND
       <lang code="ger">
         <text>
 GRÖNLAND
+
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+GRENLANDIA
 
 </text>
       </lang>
@@ -467,6 +592,13 @@ MISSION SUCCESSFUL!
         <text>
 
 MISSION GEWONNEN!
+
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+MISJA ZAKOŃCZONA SUKCESEM!
 
 </text>
       </lang>
@@ -494,6 +626,14 @@ Diese unheimliche Insel mit ihren feuerspeienden rauchenden Vulkanen schien Norl
 
 
 Lande am Nordufer und gehe zur Mitte der Insel.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Ta groźnie wyglądająca wyspa z jej ognistymi wulkanami wydawała się być Norlandem, krainą Norn.
+
+
+Wyląduj na północnym brzegu i udaj się w głąb wyspy.
 </text>
       </lang>
     </block>
@@ -526,6 +666,16 @@ Der Druide sprach:
 
 Bezahle den Tribut.
 Öffne dazu das Diplomatiefenster und wähle den Bootsbauer. Klicke dann auf die Tributforderung, um den Tribut zu bezahlen.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Druid mówi:
+"Macie już dość miodu do zapłacenia budowniczemu okrętów!"
+
+
+Wnieś opłatę.
+Otwórz okno Dyplomacji, wybierz budowniczego okrętów i kliknij na opłacie, aby ją uiścić.
 </text>
       </lang>
     </block>
@@ -569,6 +719,19 @@ Ehrfürchtig sprangen wir an den Strand und machten uns auf, das Innere der Inse
 Suche die Nornen.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+NORLAND
+
+Nareszcie - udało nam się znaleźć wyspę Norn! Nie mogło być żadnych wątpliwości - mroczne, poszarpane skały sterczały ku niebu na podobieństwo otwartej paszczy pełnej wyszczerzonych zębów.
+To musi być to mityczne miejsce, w którym decydują się losy każdego śmiertelnika!
+
+Pełni podziwu wylądowaliśmy i ruszyliśmy w głąb wyspy.
+
+
+Odszukaj Norny.
+</text>
+      </lang>
     </block>
     <block id="schiff">
       <lang code="CHN">
@@ -607,6 +770,18 @@ Schicke Bjarni auf das Schiff und mach dich mit ihm auf die Reise nach Süden.
 Du solltest auch einige tapfere Männer und Frauen mitnehmen, die ihn auf seiner Reise begleiten.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Gotowe!
+
+Okręt czekał przy nabrzeżu. Wciąż miałem nadzieję, że nasze przygody nie potrwają zbyt długo - jak bardzo miałem się mylić...
+Dzięki ostrzeżeniom druida skompletowałem załogę z najodważniejszych Wikingów i niewiast z mojej wioski.
+
+
+Obejmij ster Drakkara i wypłyń na południe.
+Zabierz ze sobą mężnych wojów i dzielne niewiasty.
+</text>
+      </lang>
     </block>
     <block id="spielertot">
       <lang code="CHN">
@@ -640,6 +815,17 @@ MISSION VERLOREN!
         <picture>$local$\graphics\People_Dead_F.pcx</picture>
         <text>
 Du hast versagt! Deine Wikinger hatten auf dich vertraut und du hast sie im Stich gelassen. An Odins Tafel wird kein Platz für dich sein!
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Nie powiodło ci się! Twoi Wikingowie ci zaufali, a ty ich zawiodłeś! Nie znajdzie się dla ciebie miejsce przy stole Odyna!
 </text>
       </lang>
     </block>
@@ -680,6 +866,18 @@ Der Schiffsbauer Hoirio hier in Wiklingshausen war weit und breit bekannt für d
 Zahle dem Schiffsbauer 10 Met Tribut, wenn er für dich ein Boot bauen soll.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+BUDOWNICZY OKRĘTÓW
+
+Potrzebujemy dobrego i mocnego Drakkara, który pozwoli nam dotrzeć na Wyspę Norland.
+
+Hoirio z Vikingthorpe był sławny - konstruował wspaniałe okręty. Musimy jednak zebrać wynagrodzenie, jakiego zażądał za swe usługi
+
+
+Daj budowniczemu okrętów 10 dzbanów miodu pitnego w zamian za okręt.
+</text>
+      </lang>
     </block>
     <block id="tut1">
       <lang code="CHN">
@@ -710,6 +908,16 @@ Als der Druide hörte, dass der Schiffsbauer Met für ein Schiff verlangte, eilt
 
 
 Mache als erstes einige deiner Männer, die noch keine Arbeit haben, zu Bauarbeitern."
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gdy druid dowiedział się, że budowniczy żąda za swe usługi miodu pitnego, nie zawahał się mnie wesprzeć radą i czynem, pamiętając o tym, że jestem jeszcze dość niedoświadczonym przywódcą.
+
+"Warzenie miodu to nie taka łatwa sprawa," rzekł. "Budowa miodosytni wymaga powzięcia wielu działań - ale nie martw się, pomogę ci.
+
+
+Zacznij od zmiany kilku niezajętych Wikingów w budowniczych."
 </text>
       </lang>
     </block>
@@ -750,6 +958,18 @@ Weise der Mühle wieder einen Müller zu.
 Sollte die Farm nun leer stehen, weise ihr einen neuen Farmer zu.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Piekarnia stała, piękna i nowa. Mieliśmy ochotę na trochę świeżego chleba, ale przecież ktoś by go najpierw musiał wyprodukować! Jedyną osobą o dostatecznym doświadczeniu był młynarz.
+
+Nakazałem mu pracę w piekarni, nowym młynarezem mianowałem farmera, a jednemu z cywili nakazałem uprawę roli. Cykl produkcyjny nie może zostać przerwany!
+
+
+Zmień młynarza w piekarza.
+Przydziel do młyna nowego młynarza.
+Nakaż Wikingowi uprawę roli.
+</text>
+      </lang>
     </block>
     <block id="tut11">
       <lang code="CHN">
@@ -785,6 +1005,17 @@ Nun, für den Met wirst du auch Honig brauchen. Baue also einen Bienenstock in d
 Baue einen Bienenstock.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Druid z zadowoleniem przyjrzał się naszej rozrastającej się wiosce.
+
+"Gratulacje! Na razie głód twoim ludziom nie grozi - a przy okazji, jedynie doświadczony piekarz może zostać miodowarem.
+Do warzenia miodu pitnego potrzebny jest jednak jeszcze jeden surowiec, którego nie masz - miód! Wybuduj pasiekę w pobliżu największego placu budowy."
+
+
+Wybuduj pasiekę.
+</text>
+      </lang>
     </block>
     <block id="tut12">
       <lang code="CHN">
@@ -812,6 +1043,15 @@ Als die Bienen um den Bienenstock summten, konnten wir den Bau der Brauerei ange
 
 
 Baue eine Brauerei.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Pszczoły jęły ochoczo bzyczeć w pasiece, a my zabraliśmy się za budowę miodosytni.
+"Zbudujcie ją w pobliżu pasieki i studni", powiedział druid.
+
+
+Wybuduj miodosytnię.
 </text>
       </lang>
     </block>
@@ -849,6 +1089,17 @@ Mache den Bäcker zum Braumeister.
 Sorge danach dafür, dass sowohl in der Bäckerei als auch in der Mühle und auf der Farm wieder jemand arbeitet.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+"Teraz potrzeba jeszcze tylko miodowara, który zająłby się warzeniem miodu pitnego. Może nim zostać piekarz, jak już nabierze odpowiedniego doświadczenia.
+
+Zmień piekarza w miodowara, przydziel nowego piekarza do piekarni. Zadbaj też o odpowiednią obsadę młyna i farmy - produkcja żywności nie może zostać przerwana!"
+
+
+Zmień piekarza w miodowara.
+Upewnij się, że piekarnia, młyn i farma są odpowiednio obsadzone.
+</text>
+      </lang>
     </block>
     <block id="tut14">
       <lang code="CHN">
@@ -881,6 +1132,16 @@ Pay the tribute to the shipbuilder as soon as you have sufficient mead.
 Bezahle den Tribut an den Bootsbauer, sobald genügend Met fertig ist.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+"Udało wam się," pochwalił nas druid.
+
+"Pilnuj warzenia miodu pitnego - jak już będziesz miał 10 dzbanów, to będziesz mógł zapłacić budowniczemu okrętów za jego usługi i rozpocząc podróż na wyspę Norn!"
+
+
+Zapłać budowniczemu okrętów jak tylko uwarzysz dość miodu pitnego.
+</text>
+      </lang>
     </block>
     <block id="tut2">
       <lang code="CHN">
@@ -905,6 +1166,14 @@ Build a farm.
 
 
 Baue eine Farm.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+"Dobra robota," pochawalił druid. "Teraz rozkaż budowniczym wzniesienie zagrody."
+
+
+Wybuduj farmę.
 </text>
       </lang>
     </block>
@@ -940,6 +1209,17 @@ Beobachte deinen Farmer, wie er Erfahrung sammelt."
 
 
 Weise der Farm einen deiner Leute als Farmer zu.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+"Doskonale!
+
+Teraz nakaż jednemu z Wikingów uprawę roli. Gdy nabierze dość doświadczenia, będzie mógł zbudować młyn.
+Zwróć uwagę na to, jak Wiking nabiera doświadczenia."
+
+
+Przydziel jednego ze swoich Wikingów do zagrody i nakaż mu uprawę roli.
 </text>
       </lang>
     </block>
@@ -995,6 +1275,23 @@ Eines noch - weite WEGE  erschöpfen die Leute. Du solltest daher schauen, dass 
 Versorge die Leute mit SCHUHEN, dann läuft es sich besser und schneller. Gleiches gilt für Strassen." 
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+UWAGA
+
+Gdy obserwowaliśmy pracę Wikinga uprawiającego rolę, druid udzielił mi kilku wskazówek:
+
+"Twoi ludzie mają potrzeby. Muszą coś jeść, muszą spać, potrzebują rozrywki. Ci, którzy zajmują się produkcją uzbrojenia muszą również cieszyć się błogosławieństwem bogów, więc regularnie się modlą.
+Upewnij się, że te potrzeby są spełnione - inaczej zatroszczą się o to sami, zamiast pracować.
+
+Zmęczenie po długim dniu pracy znacznie lepiej odsypia się w ładnej siedzibie w pobliżu miejsca pracy niż sypiając gdzie bądź na twardej ziemi.
+Jeśli w siedzibie znajduje się również niewiasta, to nie tylko ugotuje Wikingowi smaczny posiłek znacznie lepiej zaspokajający głód od normalnego pożywienia, ale i dostarczy mu rozrywki swoim towarzystwem.
+
+Długie spacery mogą porządnie zmęczyć, zadbaj więc, aby warsztaty często prowadzące ze sobą interesy znajdowały się blisko siebie.
+
+Obuwie umożliwia twoim ludziom szybsze i wygodniejsze przemieszczanie się, nienajgorszym pomysłem jest też budowa dróg."
+</text>
+      </lang>
     </block>
     <block id="tut5">
       <lang code="CHN">
@@ -1025,6 +1322,16 @@ Build a mill.
 
 
 Baue eine Mühle.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+"Ten Wiking ma już dość doświadczenia," zakrzyknął druid.
+
+"Budowniczowie mogą teraz wznieść młyn - najlepiej w pobliżu farmy, gdy ż produkowane na niej zboże posłuży do produkcji mąki."
+
+
+Wybuduj młyn.
 </text>
       </lang>
     </block>
@@ -1062,6 +1369,17 @@ Mache den Farmer nun zum Müller und schaue zu, wie er in diesem Beruf Erfahrung
 Dann lass jemand anderes als Farmer arbeiten, um die Weizenproduktion aufrecht zu erhalten."
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Młyn dumnie prężył się wiatrom. A druid nam pogratulował.
+
+"Tylko Wiking uprawiający do tej pory rolę ma dość doświadczenia w kontaktach ze zbożem.
+
+Zatrudnij go jako młynarza i patrz, jak nabiera doświadczenia i w tym zawodzie.
+
+Ktoś inny niech zajmie jego miejsce na farmie, żeby kontynuować produkcję zboża."
+</text>
+      </lang>
     </block>
     <block id="tut7">
       <lang code="CHN">
@@ -1089,6 +1407,15 @@ HINWEIS
 "Einigen Arbeitsstätten kannst du TRÄGER oder Händler zuweisen," riet der Druide, während wir auf den Müller warteten. "Sie können dem Handwerker viel Arbeit abnehmen, damit dieser sich voll der Produktion von Waren widmen kann. 
 
 Als sehr nützlich erweisen sich auch Träger, die Lagerhäusern und Hauptquartieren zugewiesen sind."
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+UWAGA
+
+"Do niektórych budynków możesz przydzielić tragarzy lub kupców," powiedział druid, gdy czekaliśmy na młynarza. "Oszczędzą oni zachodu innym robotnikom, pozwalając im skoncentrować się na produkcji towarów, a nie na ich noszeniu.
+
+Dobrze jest też przydzielić kilku tragarzy do twojej kwatery głównej lub magazynu."
 </text>
       </lang>
     </block>
@@ -1123,6 +1450,16 @@ Baue deshalb einen Brunnen in der Nähe der Stelle, wo du nachher deine Bäckere
 Baue einen Brunnen.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+"Piekarz do produkcji chleba potrzebuje oprócz mąki także wody.
+
+Wybuduj studnię w pobliżu miejsca, w którym kiedyś powstanie piekarnia - przed główną siedzibą osady jest nieco miejsca. Wzniesiona tam studnia będzie nie tylko dobrze wyglądać, ale i nie zajmie miejsca potrzebnego na inne, większe budowle."
+
+
+Wybuduj studnię.
+</text>
+      </lang>
     </block>
     <block id="tut9">
       <lang code="CHN">
@@ -1155,6 +1492,16 @@ Build a bakery.
 Baue eine Bäckerei.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+"A teraz wznieś w pobliżu studni i młyna piekarnię," powiedział druid.
+
+"Dzięki produkcji żywności w piekarni będziesz miał stałe jej źródło dla całej wioski."
+
+
+Wybuduj piekarnię.
+</text>
+      </lang>
     </block>
     <block id="won_0">
       <lang code="CHN">
@@ -1170,6 +1517,11 @@ As we stepped into the stony circle of the crater, a terrifying silence fell. Th
       <lang code="ger">
         <text>
 Als wir in den Steinkreis des Kraters traten, umfing uns eine unheimliche Stille. Die drei Schicksalsschwestern Urd, Werdandi und Skuld standen dort, als hätten sie uns bereits erwartet. Meine Begleiter blieben zurück und ich trat den Nornen allein entgegen. 
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Straszna cisza zaległa gdy wstępowaliśmy w kamienny krąg krateru. Trzy siostry stały tam, jakby na nas oczekiwały - podszedłem do nich, a moi towarzysze cofnęli się sprzed oblicza Norn.
 </text>
       </lang>
     </block>
@@ -1208,6 +1560,18 @@ Die Tore Asgards wurden verschlossen, denn die mächtigen Götter sind noch nich
 Suche dein Schicksal in den Ländern des Südens und verliere keine Zeit! Finde dort jene drei Helden, die du gesehen hast. Sie sind reinen Herzens und werden dich begleiten. Findet den Weg nach Wigrid Wall, wo sich dann euer Schicksal erfüllen wird..."
 
 Die Nornen übergaben uns noch fünf geheimnisvolle alte Holzkisten, mit dem Hinweis, dass wir sie erst öffnen dürften, wenn wir wieder fruchtbares Land betreten würden.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Moi towarzysze powiedzieli później, że nie słyszeli żadnego dźwięku, ale ja słyszałem szept Norm aż nadto dokładnie:
+"Witaj, Bjarni. Wizja, która cię nawiedziła dotyczy przyszłości. Jormundgand, Wąż Midgardu, obudził się przedwcześnie. Nie nadszedł jeszcze czas Ragnaroku, ostatniej walki bogów. Nie są jeszcze gotowi na tę konfrontację - bramy Asgardu zostały zamknięte.
+
+Jeśli ty, urodzony z ludzkiej krwi nie powstrzymasz potwora, to zatruje on i zniszczy swoim oddechem cały świat śmiertelników - Midgard.
+
+Podążaj za swoim losem na południe - nie marnuj czasu, gdyż nie masz go zbyt dużo. Odszukaj troje bohaterów z twojej wizji - to czyste istoty, które cię wesprą. Udajcie się razem do muru Wigrid, gdzie zdecyduje się wasz los..."
+
+Norny dały nam 5 tajemniczych i starożytnych drewnianych skrzyń, polecając nam ich nie otwierać, dopóki nie staniemy na żyznej ziemi.
 </text>
       </lang>
     </block>

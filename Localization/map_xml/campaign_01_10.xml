@@ -1,165 +1,197 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_01_10" export_map_id="campaign_01_10" map_md5="194858897ca2b4b7d2c007ce0d57c808" IsC2M="false">
+<localization version="1.3" map_id="campaign_01_10" export_map_id="campaign_01_10" map_md5="194858897ca2b4b7d2c007ce0d57c808" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">抵达巴格达。</text>
       <text lang="eng">Reach Baghdad.</text>
       <text lang="ger">Erreiche Bagdad.</text>
+      <text lang="pol">Dotrzyj do Bagdadu.</text>
     </string>
     <string id="1">
       <text lang="CHN">寻找此地东面的盗贼。</text>
       <text lang="eng">Find the thief to the east.</text>
       <text lang="ger">Finde den Dieb östlich von hier.</text>
+      <text lang="pol">Odszukaj złodzieja na wschodzie.</text>
     </string>
     <string id="2">
       <text lang="CHN">将你的部下从塞壬的魅惑中解救出来。</text>
       <text lang="eng">Free your men from the spell of the sirens.</text>
       <text lang="ger">Befreie deine Männer aus dem Bann der Sirenen.</text>
+      <text lang="pol">Uwolnij swoich ludzi spod czaru syren.</text>
     </string>
     <string id="3">
       <text lang="CHN">派遣希拉去对付塞壬。</text>
       <text lang="eng">Send Cyra to the sirens.</text>
       <text lang="ger">Schicke Cyra zu den Sirenen.</text>
+      <text lang="pol">Wyślij Cyrę do syren.</text>
     </string>
     <string id="4">
       <text lang="CHN">寻找戈拉梅迪斯的号角。</text>
       <text lang="eng">Find the horn of Golamedis.</text>
       <text lang="ger">Finde das Horn des Golamedis.</text>
+      <text lang="pol">Odszukaj Róg Golamedis.</text>
     </string>
     <string id="5">
       <text lang="CHN">前往巴格达南面港口的辛巴达处。</text>
       <text lang="eng">Go to Sindbad at the harbour in the south of Baghdad.</text>
       <text lang="ger">Gehe zu Sindbad am Hafen südlich von Bagdad.</text>
+      <text lang="pol">Udaj się do Sindbada do zatoki na południe od Bagdadu.</text>
     </string>
     <string id="6">
       <text lang="CHN">与全部四位英雄一同抵达宝藏神殿。</text>
       <text lang="eng">Go to the treasure temple with all FOUR heroes.</text>
       <text lang="ger">Gelange mit allen VIER Helden zum Schatztempel.</text>
+      <text lang="pol">Wprowadź wszystkich CZWORO bohaterów do świątyni skarbu.</text>
     </string>
     <string id="7">
       <text lang="CHN">向东前往赏金猎人处。</text>
       <text lang="eng">Go to the bounty hunters in the east.</text>
       <text lang="ger">Gehe nach Osten zu den Kopfgeldjägern.</text>
+      <text lang="pol">Udaj się na wschód do łowców nagród.</text>
     </string>
     <string id="8">
       <text lang="CHN">向游牧民缴纳 15 份大型治疗药剂作贡金。</text>
       <text lang="eng">Pay the nomads a tribute of 15 large healing potions.</text>
       <text lang="ger">Zahle den Nomaden 15 große Heiltränke Tribut.</text>
+      <text lang="pol">Wydaj Beduinom 15 dużych napojów leczniczych.</text>
     </string>
     <string id="9">
       <text lang="CHN">搜查赏金猎人的营地。</text>
       <text lang="eng">Search the bounty hunters' camp.</text>
       <text lang="ger">Durchsuche das Lager der Kopfgeldjäger.</text>
+      <text lang="pol">Przeszukaj obóz łowców nagród.</text>
     </string>
     <string id="10">
       <text lang="CHN">与哈奇一同前往宝藏神殿。</text>
       <text lang="eng">Go to the treasure temple with Hatchie.</text>
       <text lang="ger">Gehe mit Hatschi zum Schatztempel.</text>
+      <text lang="pol">Udaj się do świątyni skarbu wraz z Hatchiem.</text>
     </string>
     <string id="21">
       <text lang="CHN">缴纳 15 份大型治疗药剂作贡金。</text>
       <text lang="eng">Pay a tribute of 15 large healing potions.</text>
       <text lang="ger">Zahle 15 große Heiltränke Tribut.</text>
+      <text lang="pol">Zapłać trybut w wysokości 15 dużych napojów leczniczych.</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的村庄</text>
       <text lang="eng">Bjarni's Village</text>
       <text lang="ger">Bjarnis Dorf</text>
+      <text lang="pol">Wioska Bjarniego</text>
     </string>
     <string id="51">
       <text lang="CHN">撒拉逊村庄</text>
       <text lang="eng">Saracen Village</text>
       <text lang="ger">Sarazenen Dorf</text>
+      <text lang="pol">Wioska Saracenów</text>
     </string>
     <string id="52">
       <text lang="CHN">巴格达</text>
       <text lang="eng">Baghdad</text>
       <text lang="ger">Bagdad</text>
+      <text lang="pol">Bagdad</text>
     </string>
     <string id="53">
       <text lang="CHN">强盗</text>
       <text lang="eng">Thief</text>
       <text lang="ger">Räuber</text>
+      <text lang="pol">Złodziej</text>
     </string>
     <string id="54">
       <text lang="CHN">赏金猎人</text>
       <text lang="eng">Bounty Hunter</text>
       <text lang="ger">Kopfgeldjäger</text>
+      <text lang="pol">Łowca nagród</text>
     </string>
     <string id="55">
       <text lang="CHN">哈奇</text>
       <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
+      <text lang="pol">Hatchie</text>
     </string>
     <string id="56">
       <text lang="CHN">港口民</text>
       <text lang="eng">Harbour People</text>
       <text lang="ger">Hafenvolk</text>
+      <text lang="pol">Lud Zatoki</text>
     </string>
     <string id="57">
       <text lang="CHN">人民阵线</text>
       <text lang="eng">The People's Front</text>
       <text lang="ger">Volksfront</text>
+      <text lang="pol">Front Ludowy</text>
     </string>
     <string id="61">
       <text lang="CHN">村庄</text>
       <text lang="eng">Village</text>
       <text lang="ger">Dorf</text>
+      <text lang="pol">Wioska</text>
     </string>
     <string id="64">
       <text lang="CHN">赏金猎人</text>
       <text lang="eng">Bounty Hunter</text>
       <text lang="ger">Kopfgeldjäger</text>
+      <text lang="pol">Łowcy</text>
     </string>
     <string id="66">
       <text lang="CHN">港口民</text>
       <text lang="eng">Harbour People</text>
       <text lang="ger">Hafenvolk</text>
+      <text lang="pol">Lud Zatoki</text>
     </string>
     <string id="67">
       <text lang="CHN">人民阵线</text>
       <text lang="eng">People's Front</text>
       <text lang="ger">Volksfront</text>
+      <text lang="pol">FL</text>
     </string>
     <string id="98">
       <text lang="CHN">这座传说之城巴格达，在底格里斯河谷中于维京人眼前铺展开来。诸多传说都述及其如童话般的美丽，却无一能及其实……</text>
       <text lang="eng">The Vikings see the legendary city of Baghdad sprawling in the Tigris valley below. Many of their legends describe the magical beauty of Sarkland, but what they see takes their breath away ...</text>
       <text lang="ger">Die sagenumwobene Stadt Bagdad breitete sich vor den Wikingern im Tal des Tigris aus. Viele ihrer Legenden erzählten von der märchenhaften Schönheit Särklands, doch keine wurde ihr gerecht...</text>
+      <text lang="pol">Przed Wikingami rozpościera się dolina Tygrysu z legendarnym miastem Bagdad. Żadna z legend o magicznym Sarklandzie nie przygotowała ich na ten widok, który po prostu zapiera dech w piersiach.</text>
     </string>
     <string id="99">
       <text lang="CHN">巴格达</text>
       <text lang="eng">BAGHDAD</text>
       <text lang="ger">BAGDAD</text>
+      <text lang="pol">BAGDAD</text>
     </string>
     <string id="100">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="101">
       <text lang="CHN">哈奇</text>
       <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
+      <text lang="pol">Hatchie</text>
     </string>
     <string id="102">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="pol">Cyra</text>
     </string>
     <string id="103">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="pol">Sigurd</text>
     </string>
     <string id="104">
       <text lang="CHN">辛巴达</text>
       <text lang="eng">Sindbad</text>
       <text lang="ger">Sindbad</text>
+      <text lang="pol">Sindbad</text>
     </string>
   </strings>
   <briefings>
@@ -183,6 +215,13 @@ What might their dark secret be?
 Diese in der Wüste lebenden Nomaden schienen Kopfgeldjäger zu sein. Ihre Pfeile prasselten auf uns hernieder als wir uns in ihre Nähe wagten! 
 
 Was mochte ihr dunkles Geheimnis sein?
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Ci koczownicy wyglądają na łowców nagród. Zasypali nas strzałami, gdy tylko spróbowaliśmy się do nich zbliżyć!
+
+Jakiż to mroczny sekret próbują przed nami ukryć?
 </text>
       </lang>
     </block>
@@ -210,6 +249,13 @@ Etwas weiter im Süden trafen wir auf Sarazenen, die uns herzlich empfingen.
 Wir wären jederzeit willkommen, ließ man uns wissen und sogleich bot man uns günstige Handelsverträge an.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Na południu napotkaliśmy Saracenów.
+
+Przywitali się z nami serdecznie i zaoferowali podpisanie umów handlowych na korzystnych warunkach.
+</text>
+      </lang>
     </block>
     <block id="14">
       <lang code="CHN">
@@ -233,6 +279,13 @@ They opened fire on our scouts at once.
 Etwas weiter entfernt im Norden siedelten Sarazenen, mit denen nicht zu spaßen war! 
 
 Sofort eröffneten sie das Feuer auf unsere Kundschafter.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Na północy napotkaliśmy Saracenów, którzy najwyraźniej nie tolerują żadnej konkurencji.
+
+Bez ostrzeżenia zaatakowali naszych zwiadowców!
 </text>
       </lang>
     </block>
@@ -260,6 +313,13 @@ A harmless people ...
 Ein eher harmloses Völkchen...
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Na wschód od naszej osady żyją Saraceni nazywający samych siebie "Bagdadzkim Frontem Ludowym".
+
+Nie wydają się być groźni...
+</text>
+      </lang>
     </block>
     <block id="16">
       <lang code="CHN">
@@ -285,6 +345,14 @@ Der vierte und letzte Held deiner Vision fehlt dir zur Erfüllung dieser Mission
 
 
 Finde den Dieb Hatschi.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Wciąż brakuje ci czwartego bohatera - bez niego nie wypełnisz przepowiedni! Nadal nie wiesz, kto nim jest?
+
+
+Odszukaj złodzieja imieniem Hatchie.
 </text>
       </lang>
     </block>
@@ -324,6 +392,17 @@ Als wir vier endlich alle gemeinsam vor dem düsteren Eingang standen, Sigurd, C
 Dank Hatschi überwanden wir das verborgene Schloss am massiven Eingangsportal, an dem wir ohne ihn sicherlich gescheitert wären. Dann drangen wir in die unheilvolle Finsternis vor, die von seltsam zischelnden Geräuschen durchdrungen war...
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Stała tam, na wprost przed nami. Tajemnicza, pustynna świątynia.
+
+Prastare ściany napełniały nas przerażeniem. W okolicy nie było żywej duszy, a w zaklętej dolinie nie dało się usłyszeć najdrobniejszego choćby dźwięku.
+
+Postanowiliśmy zapuścić się do wnętrza we czwórkę - ja, Sigurd, Cyra i Hatchie.
+
+Dzięki temu ostatniemu udało się nam pokonać ukryty zamek przy głównym wejściu. Bez niego byłoby to niemożliwe... Zeszliśmy w złowrogie ciemności, słysząc jedynie dziwne syczenie...
+</text>
+      </lang>
     </block>
     <block id="18">
       <lang code="CHN">
@@ -347,6 +426,13 @@ Dank Hatschi überwanden wir das verborgene Schloss am massiven Eingangsportal, 
 "Du wagst es, uns anzugreifen!", riefen die Kopfgeldjäger. 
 
 "Gegen uns hast du keine Chance, und nur wir haben Anrecht auf die Bezahlung des Kalifen für die Auslieferung des Gefangenen!"
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+"Jak śmiecie nas atakować!" zakrzyknęli łowcy nagród.
+
+"Nie macie z nami żadnych szans - tylko nam należy się nagroda Kalifa!"
 </text>
       </lang>
     </block>
@@ -388,6 +474,18 @@ DER INFORMANT
 Gehe nach Osten.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+INFORMATOR
+
+"Łowcy nagród bardzo chętnie schwytają złodzieja przed wami," powiedział nam informator.
+
+"Jeśli nie wiecie, co robić dalej, to sugeruję udać się na wschód, do ich bazy. Prawdopodobnie zanim tam dotrzecie, trafią już na trop poszukiwanego! "
+
+
+Udaj się na wschód.
+</text>
+      </lang>
     </block>
     <block id="20">
       <lang code="CHN">
@@ -411,6 +509,13 @@ We were received graciously.
 Dieses Hafendorf lag malerisch in einer Flussbiegung. 
 
 Hier wurden wir freundlich empfangen.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Wioska portowa odznacza się wyjątkowo ładnym znakiem przy zakolu rzeki.
+
+Powitano nas przyjaźnie.
 </text>
       </lang>
     </block>
@@ -444,6 +549,16 @@ Nur das sagenhafte Horn Golamedis könnte die Sirenen eine Zeit lang verstummen 
 
 
 Suche mit Cyra das Horn von Golamedis! 
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Wprawdzie syreny nie mogą wyrządzić Cyrze żadnej krzywdy, ale Wikingowie nadal pozostają pod ich władzą.
+
+Tylko mityczny Róg Golamedis może je na pewien czas uciszyć, jednak ukryto go w rozpadlinie za syrenami, więc dostęp do niego ma tylko niewiasta, która wytrzyma niesamowite zawodzenia i zmagania z pustynnymi lwami...
+
+
+Niech Cyra odnajdzie Róg Golamedis!
 </text>
       </lang>
     </block>
@@ -494,6 +609,21 @@ Nur Hatschi als Meisterdieb konnte dort eindringen und wir sollten ihm dabei hel
 Suche zusammen mit Hatschi den geheimnisvollen Wüstentempel im Nordosten.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+W najgłębszych zakamarkach obozu łowców nagród napotkaliśmy jeńca. Nieoczekiwanie okazał się on być wyjątkowo mądry i honorowy.
+
+Przy obozowym ogniu opowiedzieliśmy mu naszą historię. Pod nosem wymamrotał, że to musi być 'kismet' - zrządzenie losu - ale nic więcej nie dało się z niego na ten temat wyciągnąć.
+
+Rano dotarli do nas wysłannicy Kalifa. Dowiedział się on o uratowaniu Hatchiego i miał dla niego zadanie - na północnym zachodzie znajdowała się tajemnicza dolina, z której nikt nigdy nie powrócił żywy.
+
+Podobno na jej drugim końcu znajdowała się zaklęta pustynna świątynia chroniąca nieprzeliczone skarby.
+Tylko wspaniały złodziej, jakim był Hatchie, miał szanse dostać się do jej wnętrza. Naszym zadaniem było wspomożenie go.
+
+
+Wraz z Hatchiem odszukaj tajemniczą świątynię na północnym wschodzie.
+</text>
+      </lang>
     </block>
     <block id="bann">
       <lang code="CHN">
@@ -525,6 +655,16 @@ Sie waren gefangen im Bann der sagenumwobenen Sirenen!
 
 
 Befreie deine Männer aus diesem Bann.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Moi ludzie przekraczali właśnie głęboką, górską dolinę, gdy usłyszeli czarodziejską melodię. Śpiew, który po niej nastąpił sprawił, że nie byli w stanie dokończyć swoich zadań i jakby stracili własną wolę.
+
+Oczarowały ich mityczne syreny!
+
+
+Uwolnij swoich ludzi od czaru.
 </text>
       </lang>
     </block>
@@ -561,6 +701,17 @@ MISSION VERLOREN!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ihr Ende war besiegelt und mit ihnen das Ende der Welt der Menschen.
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroizm czy głupota? Bjarni zginął, a bogowie płaczą... Ich los jest już przesądzony - tak samo jak zniszczenie świata ludzi.
 </text>
       </lang>
     </block>
@@ -609,6 +760,20 @@ Als ich ihn hier so kämpfen sah, wurde mir klar, dass nur er und niemand andere
 Nun, da wir auch das letzte Kartenstück besaßen und alle Helden aus jener Vision beisammen waren, konnten wir aufbrechen, um die Prophezeiung zu erfüllen. Wir setzten die Bruchstücke der Karte zusammen und erkannten den Weg, der uns zu Wigrid Wall führte, wo wir vier Gefährten uns der letzten Herausforderung stellen mussten. 
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA ZAKOŃCZONA SUKCESEM!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Wyprowadzenie strażników w pole wymagało sporej zręczności i odwagi, udało nam się jednak dotrzeć do pilnie strzeżonej świątyni. Bardzo nam pomogli nasi sojusznicy, a zwłaszcza nasz nowy przyjaciel Hatchie.
+
+Doszedłem do wniosku, że to on musi być trzecim bohaterem z mojej wizji.
+
+Po złożeniu kawałków mapy w całość zobaczyliśmy drogę prowadzącą do muru Wigrid.
+</text>
+      </lang>
     </block>
     <block id="end_01">
       <lang code="CHN">
@@ -632,6 +797,13 @@ I grasped Wieland's magic sword, which the Spirit King in Thule had said would s
 Dort, auf dieser Insel mitten im Meer, würden wir auf die Midgardschlange treffen und uns unserem Schicksalskampf stellen. 
 
 Ich ergriff Wielands Zauberschwert, von dem der Geisterkönig in Thule vorhergesagt hatte, dass es mir noch hilfreich sein werde und blickte sorgenvoll in die Zukunft...
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Na wyspie wśród morskich głębin mieliśmy napotkać Jormundganda i stoczyć z nim walkę, która zadecyduje o przyszłości tego świata...
+
+Zacisnąłem dłoń na rękojeści magicznego miecza Wielanda, spojrzałem na moich towarzyszy i wyruszyliśmy naprzeciw przeznaczeniu.
 </text>
       </lang>
     </block>
@@ -665,6 +837,16 @@ Ein wundersamer, märchenhafter Palast tat sich vor uns auf! In einer goldenen, 
 
 
 Finde den Dieb. Beginne mit deiner Suche östlich von hier.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przed naszymi oczami powoli rósł niesamowity, baśniowy pałac. Kalif zasiadał na wysadzanym szlachetnymi kamieniami tronie w bogato udekorowanej sali i po krótkiej chwili namysłu przemówił do nas.
+
+"Wiele słyszałem o was, ludziach z północy - być może będę wam mógł pomóc. Pewien bezczelny złodziej powoduje w tej okolicy sporo zamieszania, przyprawiając mnie o solidny ból głowy. Dobrze was nagrodzę, jeśli go schwytacie, jeśli jednak nie przyprowadzicie do mnie tej szumowiny, to wezmę sobie w zamian wasze głowy! "
+
+
+Odszukaj złodzieja. Poszukiwania rozpocznij na wschód stąd.
 </text>
       </lang>
     </block>
@@ -709,6 +891,19 @@ Du hast versagt! Der Held aus dem Lande der Sarazenen aus deiner Vision erlag de
 An Odins Tafel wird nun kein Platz mehr für dich sein.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Nie udało ci się! Bohatera z kraju Saracenów spotkała śmierć - czyżbyś go nie rozpoznał?!?
+
+Nie dla ciebie stół Odyna!
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -732,6 +927,7 @@ BAGDAD
 
 </text>
       </lang>
+      <lang code="pol" />
     </block>
     <block id="heldtot">
       <lang code="CHN">
@@ -774,6 +970,19 @@ Das ist das Ende!
 Die Vision wird sich nun niemals erfüllen können! Trotz erbitterter Gegenwehr wurde einer der Helden von der Übermacht des Gegners überwältigt!
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+To już koniec!
+
+Wizja Bjarniego nie może już zostać spełniona - pomimo dzielnej walki jeden z twoich bohaterów padł po ciosami wrogów!
+</text>
+      </lang>
     </block>
     <block id="sindbad">
       <lang code="CHN">
@@ -813,6 +1022,18 @@ Sie soll das Gebiet durchqueren und in das sagenhafte Horn von Golamedis blasen,
 Schicke Cyra zu den Sirenen. 
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+W porcie spotkaliśmy Sindbada Żeglarza. Miał do opowiedzenia wiele historii ze swych licznych wypraw - podczas jednej z nich również miał do czynienia z syrenami.
+
+"Co? Znowu ONE?! Te ich wrzaski naprawdę działają mi na nerwy! Jakby nie mogły zająć się gotowaniem albo czymś równie pożytecznym! Możesz zrobić tylko jedno - wyślij w tamtą okolicę silną niewiastę. Ona nie podda się czarowi tak łatwo.
+
+Musi zbadać tereny w pobliżu rozpadliny, o której wspomniałeś i znaleźć legendarny Róg Golamedis. Jego dźwięk odstraszy syreny przynajmniej na jakiś czas..."
+
+
+Wyślij Cyrę do syren.
+</text>
+      </lang>
     </block>
     <block id="sindbadvorsirenen">
       <lang code="CHN">
@@ -842,6 +1063,15 @@ Am Hafen trafen wir auf einen wettergegerbten alten Mann.
 "Oh, ich sehe, ihr seid ebenfalls weit herumgekommen. Nun, ich könnte für euch noch einmal nützlich sein... 
 
 Also falls ihr mal Probleme in diesem Landstrich bekommt, dann fragt einfach nach Sindbad, dem Seefahrer."
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+W porcie spotkaliśmy człowieka, który sądząc z wyglądu przeżył już niejedno.
+
+"Widzę, że przybywacie z daleka. Być może pewnego dnia będę mógł wam pomóc...
+
+Jeśli wpadniecie w kłopoty, pytajcie o Sindbada Żeglarza."
 </text>
       </lang>
     </block>
@@ -877,6 +1107,16 @@ Aber in dem Moment, da sein mächtiger Ton erklungen war, flogen die Sirenen kre
 Gehe mit allen vier Helden zum Schatztempel.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Ledwo Cyra zadęła w Róg, gdy ten rozpadł się na setki kawałeczków!
+
+W tej samej chwili jednak syreny uciekły z wrzaskiem, a moi ludzie odzyskali kontrolę nad sobą. Cyra zdołała ich uwolnić spod złego czaru - droga do doliny była wolna, pytanie tylko na jak długo.
+
+
+Zaprowadź czworo bohaterów do świątyni skarbu.
+</text>
+      </lang>
     </block>
     <block id="start_00">
       <lang code="CHN">
@@ -894,6 +1134,11 @@ After seemingly endless trials in the searing heat, our caravan crossed the fina
       <lang code="ger">
         <text>
 Nach endlosen Strapazen in glühender Hitze zog unsere Karawane über den letzten Bergpass, als sich vor uns im Tal des Tigris die sagenumwobene Stadt Bagdad ausbreitete. 
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przedzieranie się przez rozpaloną pustynię wydało się nie mieć końca, jednak wreszcie udało nam się przebyć ostatnią przełęcz i ujrzeliśmy na własne oczy niesamowite piękno Sarklandu - rozciągającego się w Dolinie Tygrysu Bagdadu.
 </text>
       </lang>
     </block>
@@ -941,6 +1186,20 @@ Meinen sehnlichen Wunsch nach einem dampfenden Bad und einem kühlen Becher Wein
 Kümmere dich um die Grundversorgung deiner Wikinger. Folge dem Fluss Tigris nach Osten nach Bagdad und begib dich zum Palast des Kalifen.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Żadna z legend nie dorównywała wspaniałości oryginału, chcieliśmy więc wkroczyć do tego cudu przez zmrokiem.
+
+Pospieszyliśmy nasze zwięrzęta, nie mogąc się już doczekać końca naszych kłopotów.
+
+Zatrzymali nas jednak strażnicy - okazało się, że nasza reputacja nas wyprzedziła i Kalif chciał się spotkać z nieustraszonymi Wikingami, sławnymi łowcami przygód.
+
+Wyglądało na to, że jeszcze trochę poczekamy na gorącą kąpiel i róg pełny miodu...
+
+
+Zatroszcz się o zaprowiantowanie swoich Wikingów. Udaj się do Pałacu Kalifa w Bagdadzie, podążając na wschód wzdłuż rzeki Tygrys.
+</text>
+      </lang>
     </block>
     <block id="warning">
       <lang code="CHN">
@@ -973,6 +1232,16 @@ Allah sei mit euch, Fremde!
 Ich komme aus dem Norden, wo sich übles Gesindel herumtreibt. Ich konnte gerade noch fliehen, doch ich fürchte, sie sind mir auf den Fersen!
 
 Nehmt euch in acht! Sie werden bestimmt bald hier sein! Ihr solltet euch auf einen Kampf mit ihnen vorbereiten...
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+ABU DEL SIBN
+
+Niech was Allah chroni, przybysze!
+Przybywam z północy, gdzie kręcą się podejrzane typki. Udało mi się im uciec, ale boję się, że mnie ścigają!
+
+Uważajcie, wkrótce tu dotrą! Przygotujcie się do walki!
 </text>
       </lang>
     </block>

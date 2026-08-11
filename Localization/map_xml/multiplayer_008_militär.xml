@@ -1,70 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="multiplayer_008_militär" export_map_id="multiplayer_008_militar" map_md5="f80bed7c30a4a47437652318d0935443" IsC2M="false">
+<localization version="1.3" map_id="multiplayer_008_militär" export_map_id="multiplayer_008_militar" map_md5="f80bed7c30a4a47437652318d0935443" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
-<string id="0">
+    <string id="0">
       <text lang="CHN">军事：熔岩之地</text>
       <text lang="eng">Military: LAVA LAND</text>
       <text lang="ger">Militär: LAVALAND</text>
+      <text lang="pol">Ekonomia: KRAINA LAWY</text>
     </string>
-<string id="1">
+    <string id="1">
       <text lang="CHN">4 个维京部族在火山岛上安了家。这座岛上，永无宁日！</text>
       <text lang="eng">4 Viking tribes have settled on a volcanic isle. There is no peace on this island!</text>
       <text lang="ger">4 Wikingerstämme haben sich auf einer Vulkaninsel niedergelassen. Auf dieser Insel gibt es keinen Frieden!</text>
+      <text lang="pol">Na tej wulkanicznej wysepce osiedliły się 4 wikińskie plemiona, a od ciebie zależy, jak się ułożą ich stosunki sąsiedzkie i handlowe.</text>
     </string>
-<string id="2">
+    <string id="2">
       <text lang="CHN">当心火山谷中的火舌--它们绝对致命！千万别从火里穿过去！击败你的对手！</text>
       <text lang="eng">Watch out for the flames in the volcanic valley - they are lethal! Avoid passing through them! Defeat your enemies!</text>
       <text lang="ger">Achte auf die Feuerflammen im Vulkantal - sie sind absolut tödlich! Laufe besser nicht durch sie hindurch! Besiege deine Gegner!</text>
+      <text lang="pol">Zgromadź 150 jednostek kamienia, żelaza i złota oraz 75 drewna i gliny, uważaj jednak na śmiercionośne płomienie wulkanicznej doliny.</text>
     </string>
-<string id="10">
+    <string id="10">
       <text lang="CHN">格陵兰人</text>
       <text lang="eng">Greenlander</text>
       <text lang="ger">Grünländer</text>
+      <text lang="pol">Grenlandczyk</text>
     </string>
-<string id="11">
+    <string id="11">
       <text lang="CHN">格陵兰人</text>
       <text lang="eng">Greenlander</text>
       <text lang="ger">Grünländer</text>
+      <text lang="pol">Grenlandczyk</text>
     </string>
-<string id="20">
+    <string id="20">
       <text lang="CHN">文兰人</text>
       <text lang="eng">Vinlander</text>
       <text lang="ger">Vinländer</text>
+      <text lang="pol">Winlandczyk</text>
     </string>
-<string id="21">
+    <string id="21">
       <text lang="CHN">文兰人</text>
       <text lang="eng">Vinlander</text>
       <text lang="ger">Vinländer</text>
+      <text lang="pol">Winlandczyk</text>
     </string>
-<string id="30">
+    <string id="30">
       <text lang="CHN">海卢兰人</text>
       <text lang="eng">Hellulander</text>
       <text lang="ger">Helluländer</text>
+      <text lang="pol">Hellulandczyk</text>
     </string>
-<string id="31">
+    <string id="31">
       <text lang="CHN">海卢兰人</text>
       <text lang="eng">Hellulander</text>
       <text lang="ger">Helluländer</text>
+      <text lang="pol">Hellulandczyk</text>
     </string>
-<string id="40">
+    <string id="40">
       <text lang="CHN">马克兰人</text>
       <text lang="eng">Marklander</text>
       <text lang="ger">Markländer</text>
+      <text lang="pol">Marklandczyk</text>
     </string>
-<string id="41">
+    <string id="41">
       <text lang="CHN">马克兰人</text>
       <text lang="eng">Marklander</text>
       <text lang="ger">Markländer</text>
+      <text lang="pol">Marklandczyk</text>
     </string>
-</strings>
-<briefings>
-<block id="begin_00"><lang code="CHN">
-                <text>
+  </strings>
+  <briefings>
+    <block id="begin_00">
+      <lang code="CHN">
+        <text>
 维京人在一座火山岛上落了脚。
 
 在与对手的缠斗中挺住--但须提防火山随时可能的爆发。
@@ -84,11 +97,19 @@ Die Wikinger haben sich auf einer Vulkaninsel einquartiert. Es könnte hier so f
 Überstehe den Kampf gegen deine Gegner - aber achte auf mögliche Gefahren in der Nähe des Vulkans! 
 </text>
       </lang>
-    </block>
+      <lang code="pol">
+        <text>
+Wikingowie osiedlili się na wulkanicznej wyspie. Miejsca starczy dla wszystkich i jedynym zagrożeniem jest ewentualna erupcja wulkanu...
 
+Plemiona Wikingów żyją w pokoju, gromadząc surowce.
+
+Zbieraj surowce, ale miej na oku wulkan. Kto wie, jakie może kryć niespodzianki!
+</text>
+      </lang>
+    </block>
     <block id="header">
       <lang code="CHN">
-                <text>
+        <text>
 熔岩之地
         </text>
       </lang>
@@ -106,6 +127,13 @@ LAVALAND
 
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+KRAINA LAWY
+
+</text>
+      </lang>
     </block>
-</briefings>
+  </briefings>
 </localization>

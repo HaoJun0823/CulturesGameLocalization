@@ -1,61 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="multiplayer_007_ressourcen" export_map_id="multiplayer_007_ressourcen" map_md5="160892dba101e83c4db158c61d342541" IsC2M="false">
+<localization version="1.3" map_id="multiplayer_007_ressourcen" export_map_id="multiplayer_007_ressourcen" map_md5="160892dba101e83c4db158c61d342541" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">经济：合作</text>
       <text lang="eng">Economy: CO-OP</text>
       <text lang="ger">Wirtschaft: COOP</text>
+      <text lang="pol">Walka: POROZUMIENIE</text>
     </string>
     <string id="1">
       <text lang="CHN">2 名玩家：与同伴一道抵御北方强敌，并保障自己的资源补给！</text>
       <text lang="eng">2 players: Defend yourself with your partner against a powerful enemy in the north and collect resources!</text>
       <text lang="ger">2 Spieler: Verteidige dich mit Deinem Partner gegen einen mächtigen Feind im Norden und kümmere dich um deinen Rohstoffnachschub!</text>
+      <text lang="pol">2 graczy: wraz z sąsiadem pokonaj potężnego wroga z północy!</text>
     </string>
     <string id="2">
       <text lang="CHN">建起你的聚落并加以巩固。积攒 150 木材、石料与铁各 75，以及 100 金。你不必消灭敌人，资源才是重中之重！</text>
       <text lang="eng">Build up your settlement and fortify it. Collect 150 units of wood, 75 units each of stone and iron, as well as 100 units of gold. You don't have to destroy your enemy. Resources are more important!</text>
       <text lang="ger">Baue deine Siedlung auf und befestige sie. Sammle 150 Holz, je 75 Stein und Eisen sowie 100 Gold. du mußt Deinen Feind nicht vernichten, nur die Rohstoffe haben Priorität!</text>
+      <text lang="pol">Załóż osadę, ufortyfikuj ją i jak najszybciej postaraj się pokonać wroga przy wsparciu sąsiada.</text>
     </string>
     <string id="10">
       <text lang="CHN">格陵兰人</text>
       <text lang="eng">Greenlander</text>
       <text lang="ger">Grönländer</text>
+      <text lang="pol">Grenlandczyk</text>
     </string>
     <string id="11">
       <text lang="CHN">格陵兰人</text>
       <text lang="eng">Greenlander</text>
       <text lang="ger">Grönländer</text>
+      <text lang="pol">Grenlandczyk</text>
     </string>
     <string id="20">
       <text lang="CHN">文兰人</text>
       <text lang="eng">Vinlander</text>
       <text lang="ger">Vinländer</text>
+      <text lang="pol">Winlandczyk</text>
     </string>
     <string id="21">
       <text lang="CHN">文兰人</text>
       <text lang="eng">Vinlander</text>
       <text lang="ger">Vinländer</text>
+      <text lang="pol">Winlandczyk</text>
     </string>
     <string id="30">
       <text lang="CHN">海卢兰人</text>
       <text lang="eng">Hellulander</text>
       <text lang="ger">Helluländer</text>
+      <text lang="pol">Hellulandczyk</text>
     </string>
     <string id="31">
       <text lang="CHN">海卢兰人</text>
       <text lang="eng">Hellulander</text>
       <text lang="ger">Helluländer</text>
+      <text lang="pol">Hellulandczyk</text>
     </string>
-  </strings>strings>
+  </strings>
   <briefings>
     <block id="begin_00">
       <lang code="CHN">
-                <text>
+        <text>
 在维京人的土地上，两个部族联手后逐渐坐大，俨然一方霸主。
 
 所幸你还有个邻居，与你同历此劫，正可互为臂助。
@@ -95,10 +105,24 @@ Hinweis:
 Du bist bereits von Beginn an im Besitz wertvoller Schriftrollen! Nutze sie geschickt, um dein Dorf aufzubauen.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+W krainie Wikingów dwa potężne plemiona połączyły swe siły, zakładając wspólnie ogromną osadę wojowników.
+Ufne we własne siły, połączone plemiona postanowiły pozbyć się swoich sąsiadów - łącznie z TOBĄ!
+
+Na szczęście pobliska osada ma ten sam problem.
+
+Może wspólnymi siłami uda się wam odeprzeć nieprzyjaciela?
+
+
+Podpowiedź:
+Wykorzystaj swoją silną pozycję na początku gry i mądrze rozplanuj rozbudowę osady.
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
-                <text>
+        <text>
 合作
         </text>
       </lang>
@@ -113,6 +137,13 @@ CO-OP
         <text>
 
 COOP
+
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+POROZUMIENIE
 
 </text>
       </lang>

@@ -1,91 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="multiplayer_005_ressourcen" export_map_id="multiplayer_005_ressourcen" map_md5="402a298f4fe137940016f9c3f6ca9c8f" IsC2M="false">
+<localization version="1.3" map_id="multiplayer_005_ressourcen" export_map_id="multiplayer_005_ressourcen" map_md5="402a298f4fe137940016f9c3f6ca9c8f" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">经济：岛屿霸权</text>
       <text lang="eng">Economy: ISLAND RULE</text>
       <text lang="ger">Wirtschaft: INSELHERRSCHAFT</text>
+      <text lang="pol">Misja specjalna: KRÓL WYSPY</text>
     </string>
     <string id="1">
       <text lang="CHN">6 个岛上部族争夺各自岛屿上的资源。</text>
       <text lang="eng">6 island tribes fight for the resources of their isle.</text>
       <text lang="ger">6 Inselstämme kämpfen um die Ressourcen ihrer Insel.</text>
+      <text lang="pol">6 plemion walczy o władzę nad czterema tajnymi kryjówkami.</text>
     </string>
     <string id="2">
       <text lang="CHN">定居你的岛屿。要取胜，你必须率先积攒 100 单位资源（木材、黏土、石料、铁、金）！</text>
       <text lang="eng">Settle on your isle. To win you must collect 100 units of wood, clay, stone, iron and gold!</text>
       <text lang="ger">Besiedle deine Insel. Um zu gewinnen, mußt du als erster je 100 Ressourcen (Holz, Lehm, Stein, Eisen, Gold) sammeln!</text>
+      <text lang="pol">Osiedl się na wyspie i zwycięż przez zajęcie i utrzymanie czterech przełączników!</text>
     </string>
     <string id="10">
       <text lang="CHN">格陵兰人</text>
       <text lang="eng">Greenlander</text>
       <text lang="ger">Grönländer</text>
+      <text lang="pol">Grenlandczyk</text>
     </string>
     <string id="11">
       <text lang="CHN">格陵兰人</text>
       <text lang="eng">Greenlander</text>
       <text lang="ger">Grönländer</text>
+      <text lang="pol">Grenlandczyk</text>
     </string>
     <string id="20">
       <text lang="CHN">文兰人</text>
       <text lang="eng">Vinlander</text>
       <text lang="ger">Vinländer</text>
+      <text lang="pol">Winlandczyk</text>
     </string>
     <string id="21">
       <text lang="CHN">文兰人</text>
       <text lang="eng">Vinlander</text>
       <text lang="ger">Vinländer</text>
+      <text lang="pol">Winlandczyk</text>
     </string>
     <string id="30">
       <text lang="CHN">海卢兰人</text>
       <text lang="eng">Hellulander</text>
       <text lang="ger">Helluländer</text>
+      <text lang="pol">Hellulandczyk</text>
     </string>
     <string id="31">
       <text lang="CHN">海卢兰人</text>
       <text lang="eng">Hellulander</text>
       <text lang="ger">Helluländer</text>
+      <text lang="pol">Hellulandczyk</text>
     </string>
     <string id="40">
       <text lang="CHN">马克兰人</text>
       <text lang="eng">Marklander</text>
       <text lang="ger">Markländer</text>
+      <text lang="pol">Marklandczyk</text>
     </string>
     <string id="41">
       <text lang="CHN">马克兰人</text>
       <text lang="eng">Marklander</text>
       <text lang="ger">Markländer</text>
+      <text lang="pol">Marklandczyk</text>
     </string>
     <string id="50">
       <text lang="CHN">普拉特兰人</text>
       <text lang="eng">Lowlander</text>
       <text lang="ger">Plattländer</text>
+      <text lang="pol">Wiking z nizin</text>
     </string>
     <string id="51">
       <text lang="CHN">普拉特兰人</text>
       <text lang="eng">Lowlander</text>
       <text lang="ger">Plattländer</text>
+      <text lang="pol">Wiking z nizin</text>
     </string>
     <string id="60">
       <text lang="CHN">海兰人</text>
       <text lang="eng">Highlander</text>
       <text lang="ger">Highländer</text>
+      <text lang="pol">Wiking z gór</text>
     </string>
     <string id="61">
       <text lang="CHN">海兰人</text>
       <text lang="eng">Highlander</text>
       <text lang="ger">Highländer</text>
+      <text lang="pol">Wiking z gór</text>
     </string>
   </strings>
   <briefings>
     <block id="begin_00">
       <lang code="CHN">
-                <text>
+        <text>
 权贵之间种种争执与冲突，令维京人彼此离心。
 
 各部族本应在一个领袖的统治下重归统一……
@@ -127,10 +143,25 @@ Im Laufe der Zeit entstanden neue Zwistigkeiten über das karge Land oder die sc
 Führe deinen Stamm in eine neue Zeit! Handle und erforsche die Gewässer - es gibt viel zu entdecken!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+W wyniku serii nieporozumień pomiędzy przywódcami znacznego plemienia Wikingów, doszło do rozpadu na mniejsze klany.
+
+Zawarto porozumienie, na mocy którego przywódca, który jako pierwszy odkryje cztery tajemne miejsca, zostanie panem całej wyspy!
+
+Każdy z nich włada własną częścią wyspy w regionie Południowego Pacyfiku. Choć nowopowstałe plemiona nie prowadziły ze sobą wojny, trudno mówić o przyjaźni między nimi...
+
+Wyjdź obronną ręką ze starć z przeciwnikiem. Wypłyń w morze - czeka tam na ciebie wiele niespodzianek!
+
+Znajdź cztery tajemne miejsca i zajmij je wszystkie jednocześnie!
+
+Lecz strzeż się: Przeciwnik ma dokładnie te same zamiary!
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
-                <text>
+        <text>
 岛屿霸权
         </text>
       </lang>
@@ -145,6 +176,13 @@ ISLAND RULE
         <text>
 
 INSELHERRSCHAFT
+
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+KRÓL WYSPY
 
 </text>
       </lang>

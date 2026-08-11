@@ -1,55 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="singleplayer_01_08" export_map_id="singleplayer_01_08" map_md5="a96c028ac48ae0a647f312add75a8ac8" IsC2M="false">
+<localization version="1.3" map_id="singleplayer_01_08" export_map_id="singleplayer_01_08" map_md5="a96c028ac48ae0a647f312add75a8ac8" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
-<string id="0">
+    <string id="0">
       <text lang="CHN">探索这座岛屿。</text>
       <text lang="eng">Explore the isle.</text>
       <text lang="ger">Erkunde die Insel.</text>
+      <text lang="pol">Zbadaj wyspę.</text>
     </string>
-<string id="1">
+    <string id="1">
       <text lang="CHN">向所有亡者之墓致以敬意，以安抚逝者。</text>
       <text lang="eng">Appease the dead by paying them homage.</text>
       <text lang="ger">Besänftige die Toten, indem du allen Gräbern der Toten die Ehre erweist.</text>
+      <text lang="pol">Oddaj cześć zmarłym, aby ich uspokoić.</text>
     </string>
-<string id="50">
+    <string id="50">
       <text lang="CHN">比雅尼的子民</text>
       <text lang="eng">Bjarni's People</text>
       <text lang="ger">Bjarnis Volk</text>
+      <text lang="pol">Lub Bjarniego</text>
     </string>
-<string id="51">
+    <string id="51">
       <text lang="CHN">巫师</text>
       <text lang="eng">The Sorcerer</text>
       <text lang="ger">Der Hexer</text>
+      <text lang="pol">Czarnoksiężnik</text>
     </string>
-<string id="52">
+    <string id="52">
       <text lang="CHN">蛇族</text>
       <text lang="eng">Serpent People</text>
       <text lang="ger">Schlangenvolk</text>
+      <text lang="pol">Ludzie-węże</text>
     </string>
-<string id="98">
+    <string id="98">
       <text lang="CHN">维京人漂泊至一座诡异的岛屿……此间处处透着诡异！</text>
       <text lang="eng">The Vikings land on a strange isle ... something is not quite right here!</text>
       <text lang="ger">Die Wikinger stranden an einer seltsamen Insel... Irgendetwas ist hier ganz und gar nicht in Ordnung!</text>
+      <text lang="pol">Wikingowie lądują na dziwnej wyspie... Coś tu nie gra!</text>
     </string>
-<string id="99">
+    <string id="99">
       <text lang="CHN">亡者之岛</text>
       <text lang="eng">THE ISLE OF THE DEAD</text>
       <text lang="ger">DIE INSEL DER TOTEN</text>
+      <text lang="pol">WYSPA UMARŁYCH</text>
     </string>
-<string id="100">
+    <string id="100">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
-</strings>
-<briefings>
-<block id="0"><lang code="CHN">
-                <text>
+  </strings>
+  <briefings>
+    <block id="0">
+      <lang code="CHN">
+        <text>
 维京人在遥远的北方登陆一处异域海岸，准备在此过冬。突如其来的早冬令他们无法继续航行。
 
 他们刚一踏上沙滩，便感到一阵莫名的寒意……此间处处透着诡异……在登陆点西南方向，隐约可见奇异的废墟轮廓……
@@ -77,16 +87,25 @@ Doch kaum haben sie den ersten Fuß auf den Strand gesetzt, überkommt sie ein u
 Erkunde die Umgebung des Landeplatzes.
 </text>
       </lang>
-    </block>
+      <lang code="pol">
+        <text>
+Wikingowie lądują na nieznanym wybrzeżu dalekiej północy, gdzie zamierzają przeczekać zimę. Zaskakuje ich wczesna fala mrozów, która uniemożliwia im kontynuowanie podróży.
 
+Ale ledwie postawili stopę na lądzie, gdy wyczuli coś niezwykłego... coś obcego... Na południowy zachód od ich lądowiska znajdują się tajemnicze ruiny.
+
+
+Zbadaj okolice miejsca lądowania.
+</text>
+      </lang>
+    </block>
     <block id="1">
       <lang code="CHN">
         <font>$local$\fonts\fonthead16bld.fnt</font>
-                <text>
+        <text>
 任务成功！
         </text>
         <font>$local$\fonts\font12.fnt</font>
-                <text>
+        <text>
 岛屿的诅咒已被破除，亡者的灵魂得到安抚。你们完成了从未有活人能做到之事！
 
 维京人获得了祖先的允诺，可在此过冬。在部族的篝火旁，人们将传颂你们与亡者之岛的故事！
@@ -116,11 +135,22 @@ Der Fluch der Insel ist gebrochen, die Geister der Toten sind besänftigt. Was n
 Die Wikinger haben von den Ahnen die Erlaubnis hier zu überwintern. An den Lagerfeuern eures Volkes wird man sich die Geschichte erzählen, von euch und der Insel der Toten! 
 </text>
       </lang>
-    </block>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA WYKONANA POMYŚLNIE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Klątwa została zdjęta. Duchy umarłych zaznały spokoju. Takim czynem nie może się poszczycić żaden z wielkich bohaterów ludzkości!
 
+Przodkowie udzielili Wikingom pozwolenia na spędzenie tu zimy. Przy wieczornym ognisku będzie się teraz opowiadać nową historię: Historię o Wyspie Umarłych!
+</text>
+      </lang>
+    </block>
     <block id="2">
       <lang code="CHN">
-                <text>
+        <text>
 你的英雄比雅尼因你的疏忽而殒命！如今你的维京村落将失去英雄，勉力支撑！
         </text>
       </lang>
@@ -136,16 +166,21 @@ Your hero Bjarni died due to your inattentiveness! Now your Viking village will 
 Dein Held Bjarni starb durch deine Unachtsamkeit! Jetzt muss dein Wikingerdorf ohne seinen Helden auskommen!
 </text>
       </lang>
-    </block>
+      <lang code="pol">
+        <text>
 
+Przez twój brak uwagi bohater Bjarni zginął! Teraz twoje plemię będzie musiało radzić sobie bez swojego bohatera.
+</text>
+      </lang>
+    </block>
     <block id="3">
       <lang code="CHN">
         <font>$local$\fonts\fonthead16bld.fnt</font>
-                <text>
+        <text>
 任务失败！
         </text>
         <font>$local$\fonts\font12.fnt</font>
-                <text>
+        <text>
 当岛屿的诅咒笼罩你的族人，一切皆已覆灭。
 
 从今往后，你们将被诅咒永远囚禁于此，非生非死，直到有人前来将你们解救。
@@ -175,11 +210,22 @@ Als sich der Fluch der Insel über dein Volk senkte, war alles verloren.
 Ihr werdet von nun an dazu verdammt sein, auf immer hier gefangen zu sein, weder zu leben, noch zu sterben, bis jemand kommt, um euch zu erlösen.
 </text>
       </lang>
-    </block>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA ZAKOŃCZONA NIEPOWODZENIEM!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Gdy klątwa tej wyspy spadła na twój lud, wszystko było stracone.
 
+Spędzicie na tej wyspie całą wieczność, ani żywi, ani umarli, póki ktoś was nie uwolni.
+</text>
+      </lang>
+    </block>
     <block id="4">
       <lang code="CHN">
-                <text>
+        <text>
 一位昔日强大国王的陵墓！
 
 你已向他致以敬意，从而安抚了他不安的灵魂。
@@ -199,11 +245,17 @@ Das Grab eines einstmals mächtigen Königs!
 Du hast ihm deine Ehre erwiesen und seinen ruhelosen Geist damit besänftigt.
 </text>
       </lang>
-    </block>
+      <lang code="pol">
+        <text>
+Grób potężnego króla!
 
+Złożyłeś mu hołd, przywracając spokój jego umęczonemu duchowi.
+</text>
+      </lang>
+    </block>
     <block id="5">
       <lang code="CHN">
-                <text>
+        <text>
 岛屿的诅咒已降临到你的一名族人身上！所有胆敢惊扰此岛安宁者，都将很快遭遇同样的命运！
         </text>
       </lang>
@@ -219,11 +271,16 @@ The curse has struck one of your people! The same will happen to all who dare to
 Der Fluch der Insel hat einen deiner Leute getroffen! So wird es bald allen ergehen, die es gewagt haben, die Ruhe dieser Insel zu stören!
 </text>
       </lang>
-    </block>
+      <lang code="pol">
+        <text>
 
+Na twój lud spadła straszliwa klątwa! Ten sam los czeka każdego, kto ośmieli się zakłócić spokój tej wyspy!
+</text>
+      </lang>
+    </block>
     <block id="6">
       <lang code="CHN">
-                <text>
+        <text>
 在营地不远处，侦察兵发现了一圈风化的石环--那是远古一位强大国王的陵墓。
 
 维京人惊觉，他们竟无意间登上了传说中的亡者之岛，凡人不得踏入之地。
@@ -259,11 +316,23 @@ Der Fluch der Insel wird euch alle treffen, es sei denn, ihr schafft es, den sie
 Suche die restlichen sechs Gräber auf, die wie riesige Steinkreise ihren Gedenken mahnen. Hüte dich vor den Grabwächtern und dem Fluch der Insel!
 </text>
       </lang>
-    </block>
+      <lang code="pol">
+        <text>
 
+Daleko od obozu twoi zwiadowcy znaleźli kamienny krąg - starożytny grobowiec potężnego władcy z dawnych lat.
+
+Wikingowie dowiadują się, że przypadkiem wylądowali na legendarnej Wyspie Umarłych, miejscu, gdzie żywi nie mają wstępu.
+
+Klątwa wyspy spadnie i na was, jeśli szybko nie złożycie hołdu siedmiu królom, których tutaj pochowano.
+
+
+Znajdź pozostałe sześć grobowców otoczonych kamiennymi kręgami. Uważaj na strażników królewskich krypt i strzeż się klątwy Wyspy Umarłych!
+</text>
+      </lang>
+    </block>
     <block id="header">
       <lang code="CHN">
-                <text>
+        <text>
 亡者之岛
         </text>
       </lang>
@@ -281,6 +350,13 @@ DIE INSEL DER TOTEN
 
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+WYSPA UMARŁYCH
+
+</text>
+      </lang>
     </block>
-</briefings>
+  </briefings>
 </localization>

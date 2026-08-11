@@ -1,0 +1,82 @@
+Z:\CulturesWonders\Versions\InDevelopment\GameEdit.exe -novideo -start_map:"Z:\CulturesWonders\Versions\InDevelopment\Data\Maps\Campaign_03_04"
+
+Nummer	Anzahl	Bedeutung
+---------------------------------------------------------------------------------
+71	1	"Bjarni"
+72	1	"Cyra"
+73	1	"Hatschi"
+74	1	"Sigurd"
+75	1	"Norbert"
+76	1	"Mani"
+
+
+80	1	"Mausolos"	// König in Harlikanasos
+81	1	"Artemisia" 	// Frau von Mausolos
+82	1	"Satyros" 	// Baumeister
+
+
+95	x	temp Piratenangriff
+96	x	temp Piratenangriff
+97	x	temp Piratenangriff
+98	1	Temp Bjarnis Schiff
+99	x	Temporär für Ägypter (Speed_Up-Flag setzen)
+
+100-105	6	Informanten in Harlikanasos
+
+150	1	Tut ma Nix; Priester der Osirer
+
+
+VEHICLES
+---------------------------------------------------------------------------------
+201	1	Sarazenenschiff !!
+202	1	Sarazenenschiff
+203	1	Sarazenenschiff
+204	1	Sarazenenschiff
+205	1	Sarazenenschiff !!
+206	1	Sarazenenschiff
+300	1	Bjarni, Cyra, Norbert and Mani arrive with this ship
+
+
+HOUSES
+---------------------------------------------------------------------------------
+10	1	Mausoleum				235 	298	
+
+11	1	Markt Halikarnassos byzantinisch Hafen	207 	326
+12	1	Markt Halikarnassos Hafen Süd		182 	328 
+13	1	Markt Halikarnassos Nordtor		210 	240
+14	1	Markt Halikarnassos Südosten		266 	336 
+
+31 	1	Markt Al Rhababa Nordostpassage	60 	312
+32 	1	Markt Al Rhababa Hafen			51 	358
+
+LANDSCAPES
+Position	Bedeutung				Marker
+X	Y	 					X	Y
+---------------------------------------------------------------------------------
+218	 27	Informant m. Waren am See		218 	 25
+209	259	Informant Harlikanassos Druide 1	209	258
+206	240	Händler1; PL 7 Letros (Kisten)		206 	238		Kiste auf 207 240
+245	258	Händler2; PL 8 Amulos (Kisten)		245	256		Kiste auf 246 258
+285	301	Händler3; PL 9 Vinos (Kisten)		285 	298		Kiste auf 286 301
+
+218 	272	König Mausolos				218	270
+226 	266	Artemisia				226	264
+
+235 	298	Mausoleum				
+
+
+
+TRIBUTES
+---------------------------------------------------------------------------------
+21	PL2 Osirer zu neutral
+22	PL2 Osirer freundlich
+23 	PL4 El Arab zu neutral
+24	PL3 Al Rhababa zu friend
+
+28	PL1 Halikarnasos Lohn Arbeiter
+
+1	PL7 Letros
+2	PL8 Amulos
+3 	PL9 Vinos
+
+5 	PL1 Mausolos / Halikarnassos

@@ -1,0 +1,111 @@
+// **************************
+// Standardmeldungen
+// **************************
+
+
+// Mission verloren
+
+[blockstart:100]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION VERLOREN!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+[blockend:100]
+
+[blockstart:200]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION VERLOREN!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+[blockend:200]
+
+[blockstart:300]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION VERLOREN!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held HATSCHI erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
+[blockend:300]
+
+[blockstart:400]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION VERLOREN!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\Hero_Dead_F.pcx>
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held SIGURD erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+[blockend:400]
+
+[blockstart:500]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION VERLOREN!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\People_Dead_F.pcx>
+Obwohl man dich gewarnt hatte, hast du deine besten Freunde angegriffen! 
+
+So wirst du deine Mission nicht beenden können!
+[blockend:500]
+
+
+// **************************
+
+// Startbriefing
+[blockstart:header] 
+DER GEHEIMGANG
+[blockend:header]
+
+[blockstart:00_start] 
+Bring den Karren voll Met heil zum Ausgang. Die Soldaten dienen als Eskorte gegen mögliche Feinde in den Gängen.
+
+<usericon:1,91,129>
+
+Und denk dran: Wenn du am Ausgang ankommst, muss der Karren VOLL sein! 
+Lass also die Finger vom Met! Der ist nicht für dich bestimmt!
+
+Viel Glück!
+[blockend:00_start]
+
+
+// Mission gewonnen
+[blockstart:09_end_header] 
+GUT GEMACHT! 
+[blockend:09_end_header]
+
+[blockstart:09_end_text1] 
+Du hast den Karren mit den 10 Flaschen Met heil durch den unterirdischen Gang gebracht! Sehr gut.
+
+Warte draußen, bis Metros zu dir kommt.
+[blockend:09_end_text1]
+
+
+
+
+// Event-Texte
+[blockstart:10] 
+HEILENDE NEBEL
+
+Diese seltsamen Nebel hatten offensichtlich eine heilende Wirkung!
+
+Man musste sich nur wenige Sekunden darin aufhalten, schon wurden alle Wunden geheilt!
+[blockend:10]
+
+
+
+// Karren zerstört
+[blockstart:110] 
+MISSION GESCHEITERT
+
+Der Wagen mit dem Met wurde zerstört! Dein Auftrag ist gescheitert!
+[blockend:110]
+
+[blockstart:120] 
+VERSTÄRKUNG
+
+Petros schickt dir noch ein paar Männer als Verstärkung. 
+Mehr Hilfe kann er dir allerdings nicht mehr anbieten...
+[blockend:120]
+
+
+
+

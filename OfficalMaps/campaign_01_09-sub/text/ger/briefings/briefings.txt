@@ -1,0 +1,35 @@
+
+[blockstart:start]
+Wir hatten es tatsächlich geschafft, die Anführer der drei Völker zu einem Friedensgespräch zu überzeugen. Nun mussten wir sie nur noch auf die andere Seite des Flusses bringen, ohne das sie sich gegenseitig etwas antaten, was sich aber als nicht so einfach herausstellte, waren sie sich doch spinnefeind. 
+Wir konnten jeweils nur eine Partei mit unseren Boot übersetzen, dabei mussten wir allerdings verhindern, das sich die zurückbleibenden Beiden nicht angreifen würden, sollten wir sie an einem der beiden Ufer alleine lassen. Die Byzantiner waren den Sarazenen gegenüber feindlich gesinnt, die Sarazenen wiederum befanden sich im Krieg mit den Franken. Die Byzantiner und die Franken standen sich neutral gegenüber. 
+
+Bringe die Anführer der Völker zu der anderen Seite des Flusses, ohne dass sie sich gegenseitig etwas antun.
+[blockend:start]
+
+
+[blockstart:lost]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION VERLOREN!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\People_Dead_F.pcx>
+Wir hatten es nicht geschafft, die Anführer sicher über den Fluss zu bringen. Kaum hatten wir zwei von ihnen alleine gelassen, so griffen sie sich gegenseitig an. Die Friedensgespräche waren gescheitert. Sicher würde man uns dafür verantwortlich machen. .
+[blockend:lost]
+
+
+[blockstart:won]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION GEWONNEN!
+<font:$local$\fonts\font12.fnt>
+<picture:$local$\graphics\People_Dead_F.pcx>
+
+Wir hatten es geschafft, die Friedensverhandlungen waren erfolgreich. Die Anführer der drei Völker einigten sich auf einen Waffenstillstand. Wie lange er halten würde, stand in den Sternen, aber es würde ausreichen, um die Karawane ziehen zu lassen. 
+
+Warte im Dorf auf die Karawane.
+[blockend:won]
+
+
+[blockstart:kampfsieg]
+Der Sieg war unser! Wir hatten es geschafft alle drei Völker zu besiegen und uns damit einen Weg durch die Wüste zu bahnen.   
+
+Warte im Dorf auf die Karawane.
+[blockend:kampfsieg]

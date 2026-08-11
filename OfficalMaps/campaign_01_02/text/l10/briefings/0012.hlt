@@ -1,0 +1,10 @@
+<block:2>
+<color:$local$\palettes\font_dark.pcx>
+<font:$local$\fonts\fonthead16bld.fnt>
+<include:$local$\briefings.txt,header_won,1>
+<color:$local$\palettes\font_dark.pcx>
+<font:$local$\fonts\font12.fnt>
+<include:$local$\briefings.txt,end_00,1>
+<onscreencallback:2000,4,0>
+<picture:$local$\graphics\02_02.pcx>
+<include:$local$\briefings.txt,end_01,1>

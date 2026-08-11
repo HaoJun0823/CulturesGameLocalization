@@ -1,0 +1,128 @@
+[blockstart:header]
+
+DIE REBELLION
+
+[blockend:header]
+
+[blockstart:starttext]
+Ein Unwetter brach auf hoher See über uns herein und unser Schiff hielt diesem nicht stand. Um Haaresbreite hätten wir die französische Küste nie erreicht... 
+
+Unser Auftrag war es, dem Herrscher dieses Landes, dem fränkischen König Merobaudes, einen Friedensvertrag zu überbringen. 
+Seine Festung, so erzählten unsere Stammesältesten, soll sich inmitten eines Sees im Norden befinden.
+
+
+Überbringe den Friedensvertrag an den fränkischen König. 
+[blockend:starttext]
+
+[blockstart:rebellen]
+
+Wir stießen auf ein winziges Dorf einfacher Leute mitten im Wald. Wie entsetzt waren wir, als uns diese braven Menschen von den üblen Machenschaften des Herrschers dieses Landes Merobaudes erzählten. 
+
+Unglaublich erschienen uns ihre Berichte, von seinen einfallenden Truppen, welche gezielt die unbewaffneten, aber kräftigen Männer in seine Goldminen verschleppen und die Schwachen zurücklassen. Diese armen Leute wollten sich zur Wehr setzen und rüsteten langsam gegen Merobaudes auf, um ihn den Krieg zu erklären und ihre Landsleute zu befreien.
+
+
+Sie baten uns an, mit ihnen Handel zu treiben und wiesen uns auf die Möglichkeit hin, Söldner anzuheuern.
+[blockend:rebellen]
+
+[blockstart:outpost]
+Wir näherten uns zwei Türmen, die von einigen Soldaten bewacht wurden.
+Zuerst begegneten sie uns mit grimmiger Miene und schroffen Ton. Doch nachdem sie merkten, dass wir nicht aus dem Rebellendorf im Wald stammten, ließen sie uns passieren.
+
+
+Melde dich bei dem Stadthalter in der Nähe des Lagerhauses.
+[blockend:outpost]
+
+// Nur wenn in der nähe des Lagers
+[blockstart:outpostinside]
+STADTHALTER
+
+"Wenn du, Wikinger, etwas von dem Gold erhandeln willst, müsstest du mir erst einmal deine Gunst erweisen." mahnte uns dieser fränkische Stadthalter.
+ 
+"Eine schöne Plattenrüstung und ein Schwert würden mir sehr wohl gefallen. Ich  könnte dir dann als Gegenleistung viele Türen öffnen, zumindest zu unseren Lagerbeständen!"
+[blockend:outpostinside]
+
+
+[blockstart:outposttribute]
+STADTHALTER
+
+"Danke für das Geschenk, Wikinger" sprach der Stadthalter, als wir ihm die Plattenrüstung und das Schwert übergaben. 
+
+"Schau einfach bei unserem Lager rein, dort findest du einige Handelsangebote die deinen Wünschen entsprechen."
+[blockend:outposttribute]
+
+[blockstart:p0attackp3]
+STADTHALTER 
+
+Das bedeutet Krieg!
+
+Ein Angriff gegen die Soldaten des Außenpostens wird sicherlich bald Konsequenzen nach sich ziehen. Wer Merobaudes zum Feind hat, wird kein Auge in der Nacht mehr ruhig schließen können!
+[blockend:p0attackp3]
+
+[blockstart:p0attackp4]
+MEROBAUDES
+
+"Du wagst es, mich anzugreifen! Ich werde dich von meinen Land vertreiben wie einen räudigen Hund!"
+[blockend:p0attackp4]
+
+[blockstart:warngold]
+STADTHALTER 
+
+"Ich gebe dir wenige Minuten, Merobaudes Goldminen zu verlassen. Solltest du dann noch hier sein, wirst du die Konsequenzen tragen müssen!"
+[blockend:warngold]
+
+[blockstart:goldwar]
+
+Da wir nicht auf die Worte des Stadthalters hörten, wurde uns Aufgrund unserer schlechten Manieren der Krieg erklärt.
+[blockend:goldwar]
+
+
+[blockstart:p3p4killed]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION GEWONNEN!
+<font:$local$\fonts\font12.fnt>
+Merobaudes Schreckensherrschaft war beendet und unsere Landsmänner konnten endlich wieder in Frieden leben.
+[blockend:p3p4killed]
+
+[blockstart:p4tribute]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION GEWONNEN!
+<font:$local$\fonts\font12.fnt>
+Nachdem wir den Tribut bezahlt hatten, nahm Merobaudes endlich den Friedensvertrag an und ließ uns in Frieden ziehen.
+[blockend:p4tribute]
+
+[blockstart:bjarnidead]
+
+Als Bjarni starb, weinten die Götter. Nun würde er uns bei unserer Mission nicht mehr zur Seite stehen können!
+[blockend:bjarnidead]
+
+[blockstart:playerdied]
+<font:$local$\fonts\fonthead16bld.fnt>
+MISSION VERLOREN!
+<font:$local$\fonts\font12.fnt>
+Wir hatten bei dem Versuch, uns in diesem Gebiet anzusiedeln, versagt. 
+[blockend:playerdied]
+
+[blockstart:p3dead]
+
+Nachdem wir den Außenposten der Franken stark beschädigt hatten, schlossen sich uns all die Arbeitssklaven dankbar an.
+[blockend:p3dead]
+
+
+[blockstart:seep4]
+MEROBAUDES
+
+"Seid willkommen verehrter Wikinger, ich habe schon von eurer Ankunft erfahren. Leider habe ich keinerlei Interesse an eurem Friedensvertrag, aber wenn ihr mir einen gewissen Tribut bezahlt, lasse ich euch hier in Ruhe eure Sieldung aufbauen. 
+
+Sicherlich wird es euch leicht fallen, die 30 Goldstücke aufzutreiben", lachte Merobaudes und ließ uns mit diesen Worten allein.
+[blockend:seep4]
+
+[blockstart:charter]
+
+Das Dorf stellte uns die versprochenen Söldner. Wir sollten auf sie zukommen, wenn wir noch mehrere Männer benötigen würden.
+[blockend:charter]
+
+[blockstart:mardead]
+MEROBAUDES 
+
+Die letzten Worte Merobaudes waren Worte des Hasses. Mit starren Blick und eiskalter Miene sprach er: "Meine Männer werden meinen Tod rächen!"
+[blockend:mardead]

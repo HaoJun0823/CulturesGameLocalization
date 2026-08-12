@@ -17,7 +17,7 @@ from typing import Dict, List, Optional, Any
 
 
 # 配置常量
-VERSION = "1.3"
+VERSION = "1.5"
 SUPPORTED_FILES = ["strings.ini", "briefings.txt"]
 
 
@@ -180,18 +180,21 @@ class BriefingsParser:
         return nodes
     
     @classmethod
-    def build(cls, blocks: Dict[str, List[Dict[str, str]]], filepath: Path, encoding: str = "windows-1252") -> None:
+    def build(cls, blocks: Dict[str, List[Dict[str, str]]], filepath: Path,
+              encoding: str = "windows-1252", ascii_id: bool = True) -> None:
         """从结构化数据生成 briefings.txt
 
-        block id 中的德语变音符号（ä/ö/ü/ß）会被 ASCII 化（fix_1251_chars）：
-        官方中文版（POL_OLDCHN）的 block id 全部为 ASCII，游戏引擎按 ASCII id
-        匹配对话段；变音 id 无法用 GBK 编码，故必须转写（10minutenspäter →
-        10minutenspaeter）。
+        ascii_id=True 时（默认），block id 中的德语变音符号（ä/ö/ü/ß）会被
+        ASCII 化（fix_1251_chars）：官方中文版（POL_OLDCHN）的 block id 全部为
+        ASCII，游戏引擎按 ASCII id 匹配对话段；变音 id 无法用 GBK 编码，故必须
+        转写（10minutenspäter → 10minutenspaeter）。
+        ascii_id=False 时保留变音 id（配合 --force-utf8：UTF-8 可编码变音，
+        hlt/txt 中的 block key 保持原样，与 l10 对齐工程一致）。
         """
         lines = []
         for block_id, nodes in blocks.items():
-            ascii_id = fix_1251_chars(block_id)
-            lines.append(f"[blockstart:{ascii_id}]")
+            out_id = fix_1251_chars(block_id) if ascii_id else block_id
+            lines.append(f"[blockstart:{out_id}]")
             for i, node in enumerate(nodes):
                 if node['type'] == 'text':
                     text_lines = node['value'].strip('\n').split('\n')
@@ -201,7 +204,7 @@ class BriefingsParser:
                         lines.append(line)
                 else:
                     lines.append(f"<{node['type']}:{node['value']}>")
-            lines.append(f"[blockend:{ascii_id}]")
+            lines.append(f"[blockend:{out_id}]")
             lines.append("")
         
         filepath.parent.mkdir(parents=True, exist_ok=True)
@@ -546,6 +549,7 @@ def parse_xml_file(xml_file: Path) -> Dict[str, Any]:
         "export_map_id": root.get("export_map_id", root.get("map_id", "")),
         "map_md5": root.get("map_md5", ""),
         "IsC2M": root.get("IsC2M", "false") == "true",
+        "deprecated": root.get("deprecated", "false") == "true",
         "languages": [],
         "lang_configs": {},
         "strings": {},
@@ -561,7 +565,8 @@ def parse_xml_file(xml_file: Path) -> Dict[str, Any]:
             data["lang_configs"][code] = {
                 "alias": lang_elem.get("alias", code),
                 "encoding": lang_elem.get("encoding", "windows-1252"),
-                "fix_1251": lang_elem.get("fix_1251", "false") == "true"
+                "fix_1251": lang_elem.get("fix_1251", "false") == "true",
+                "base": lang_elem.get("base", "false") == "true"
             }
     
     # 解析 Strings
@@ -601,6 +606,8 @@ def write_xml_file(data: Dict[str, Any], xml_file: Path) -> None:
     root.set("export_map_id", data.get("export_map_id", data["map_id"]))
     root.set("map_md5", data["map_md5"])
     root.set("IsC2M", "true" if data.get("IsC2M", False) else "false")
+    # deprecated: 整张地图多语言数据已弃用，构建时跳过（置于 IsC2M 之后）
+    root.set("deprecated", "true" if data.get("deprecated", False) else "false")
     
     # Languages
     langs_elem = ET.SubElement(root, "languages")
@@ -611,6 +618,8 @@ def write_xml_file(data: Dict[str, Any], xml_file: Path) -> None:
         lang_elem.set("alias", config.get("alias", lang))
         lang_elem.set("encoding", config.get("encoding", "windows-1252"))
         lang_elem.set("fix_1251", "true" if config.get("fix_1251", False) else "false")
+        # base: 该语言是地图脚本（hlt/fnt/pcx/ini 等）的标准来源，构建其他语言时从此复制
+        lang_elem.set("base", "true" if config.get("base", False) else "false")
     
     # Strings
     strings_elem = ET.SubElement(root, "strings")
@@ -651,7 +660,8 @@ def write_xml_file(data: Dict[str, Any], xml_file: Path) -> None:
 
 def add_language_to_xml(xml_file: Path, language: str, 
                          alias: str = None, encoding: str = "windows-1252", 
-                         fix_1251: bool = False, fix_map_id: bool = False) -> bool:
+                         fix_1251: bool = False, fix_map_id: bool = False,
+                         base: bool = False) -> bool:
     """向单个 XML 文件添加新语言"""
     data = parse_xml_file(xml_file)
     
@@ -667,7 +677,8 @@ def add_language_to_xml(xml_file: Path, language: str,
     data["lang_configs"][language] = {
         "alias": alias if alias else language,
         "encoding": encoding,
-        "fix_1251": fix_1251
+        "fix_1251": fix_1251,
+        "base": base
     }
     
     for str_id in data.get("strings", {}):
@@ -697,7 +708,7 @@ def add_language_to_xml(xml_file: Path, language: str,
     
     write_xml_file(data, xml_file)
     
-    print(f"  [OK] {xml_file.name}: Added language '{language}' (alias: {alias if alias else language}, encoding: {encoding}, fix_1251: {fix_1251})")
+    print(f"  [OK] {xml_file.name}: Added language '{language}' (alias: {alias if alias else language}, encoding: {encoding}, fix_1251: {fix_1251}, base: {base})")
     return True
 
 
@@ -728,16 +739,18 @@ def lang_add_command(args: argparse.Namespace) -> None:
     encoding = getattr(args, 'encoding', "windows-1252")
     fix_1251 = getattr(args, 'fix_1251', False)
     fix_map_id = getattr(args, 'fix_map_id', False)
+    base = getattr(args, 'base', False)
     
     print(f"Adding language '{language}' to {len(xml_files)} XML file(s)...")
     print(f"  Alias: {alias if alias else language}")
     print(f"  Encoding: {encoding}")
     print(f"  fix_1251: {fix_1251}")
     print(f"  fix_map_id: {fix_map_id}")
+    print(f"  base: {base}")
     
     count = 0
     for xml_file in xml_files:
-        if add_language_to_xml(xml_file, language, alias, encoding, fix_1251, fix_map_id):
+        if add_language_to_xml(xml_file, language, alias, encoding, fix_1251, fix_map_id, base):
             count += 1
     
     print(f"\nAdded language '{language}' to {count} file(s)")
@@ -817,6 +830,42 @@ def copy_map_data(src_map_dir: Path, dst_map_dir: Path) -> None:
             shutil.copy2(item, dst_item)
 
 
+# 文本型脚本扩展名：base 语言复制时需要对这些文件做字符处理。
+# 无论目标语言，文本型脚本一律把特殊字符（ä/ö/ü/ß 等）转成 ASCII 英文字母/数字，
+# 以满足「脚本内容应为 ANSI 纯英文数字」的要求。
+# .pcx 是二进制图片、.fnt 多为二进制字体，均按二进制原样拷贝，不做文本处理。
+BASE_SCRIPT_TEXT_EXTS = {'.hlt', '.ini', '.txt', '.cfg', '.log', '.lst', '.script'}
+
+
+def _copy_base_script_file(src: Path, dst: Path, base_encoding: str,
+                           target_encoding: str, apply_fix_1251: bool = True) -> None:
+    """复制单个 base 脚本文件；文本型文件规范化到 ASCII（apply_fix_1251=True 时），二进制文件原样拷贝。"""
+    if src.suffix.lower() in BASE_SCRIPT_TEXT_EXTS:
+        try:
+            text = src.read_bytes().decode(base_encoding, errors='ignore')
+            if apply_fix_1251:
+                # 无条件 ASCII 化：ä→a / ö→o / ü→u / ß→ss …（fix_1251_chars）
+                text = fix_1251_chars(text)
+            dst.write_text(text, encoding=target_encoding)
+            return
+        except Exception:
+            # 文本处理失败则回退为原样拷贝，保证不漏文件
+            pass
+    shutil.copy2(src, dst)
+
+
+def copy_base_scripts(src_dir: Path, dst_dir: Path, base_encoding: str,
+                      target_encoding: str, apply_fix_1251: bool = True) -> None:
+    """递归复制 base 语言脚本目录，文本型文件规范化到 ASCII（apply_fix_1251=True 时）。"""
+    dst_dir.mkdir(parents=True, exist_ok=True)
+    for item in src_dir.iterdir():
+        dst_item = dst_dir / item.name
+        if item.is_dir():
+            copy_base_scripts(item, dst_item, base_encoding, target_encoding, apply_fix_1251)
+        else:
+            _copy_base_script_file(item, dst_item, base_encoding, target_encoding, apply_fix_1251)
+
+
 def find_all_map_dat(map_data_dir: Path) -> Dict[str, Path]:
     """递归搜索所有 map.dat 文件，返回 {md5: directory_path}"""
     md5_to_dir = {}
@@ -832,10 +881,24 @@ def find_all_map_dat(map_data_dir: Path) -> Dict[str, Path]:
 
 def build_map(xml_file: Path, output_dir: Path, language: str, 
               map_data_dir: Optional[Path] = None,
-              md5_to_dir: Optional[Dict[str, Path]] = None) -> None:
-    """从 XML 文件构建单个地图的本地化文件"""
+              md5_to_dir: Optional[Dict[str, Path]] = None,
+              force_utf8: bool = False) -> None:
+    """从 XML 文件构建单个地图的本地化文件
+
+    force_utf8=True 时（--force-utf8）：
+      - 输出编码强制为 UTF-8（忽略 lang_config 的 encoding，含 CHN 的 GB2312 覆盖）
+      - 不做 fix_1251（strings.ini / briefings.txt / base 脚本复制均保留 ä/ö/ü/ß 原字符）
+      - briefings 的 block id 保留变音（UTF-8 可编码，hlt/txt 的 block key 保持一致）
+    默认 False：保持原有行为（windows-1252/GB2312 + fix_1251 转 ASCII），
+    兼容不支持 UTF-8 的其他版本游戏。
+    """
     data = parse_xml_file(xml_file)
-    
+
+    # 整张地图被标记为弃用（deprecated="true"）：构建时整张跳过
+    if data.get("deprecated", False):
+        print(f"  [SKIP] {data.get('map_id')}: deprecated=true, skip building")
+        return
+
     map_id = data.get("map_id")
     map_md5 = data.get("map_md5", "")
     export_map_id = data.get("export_map_id", map_id)
@@ -859,6 +922,11 @@ def build_map(xml_file: Path, output_dir: Path, language: str,
     output_lang = lang_config.get("alias", language)
     encoding = lang_config.get("encoding", "windows-1252")
     apply_fix_1251 = lang_config.get("fix_1251", False)
+
+    # --force-utf8：强制 UTF-8 输出、跳过 fix_1251（最高优先级，覆盖上面所有编码决定）
+    if force_utf8:
+        encoding = "utf-8"
+        apply_fix_1251 = False
     
     map_output_dir = output_dir / export_map_id
     
@@ -905,8 +973,55 @@ def build_map(xml_file: Path, output_dir: Path, language: str,
             briefings[block_id] = nodes
     
     briefings_path = text_output_dir / "briefings" / "briefings.txt"
-    BriefingsParser.build(briefings, briefings_path, encoding)
-    
+    BriefingsParser.build(briefings, briefings_path, encoding,
+                          ascii_id=not force_utf8)
+
+    # base 语言：将 base 语言的地图脚本文件（hlt/fnt/pcx/ini 等，不含 strings.ini
+    # 与 briefings.txt —— 那两部分由 XML 生成）复制到目标语言目录。
+    # 这样目标语言即便没有自带脚本文件，也能从标准版本（如 ger）继承。
+    # 源来自 --map-data 中按 MD5 匹配出的原始地图的 text/<base>/ 目录。
+    # 文本型脚本文件（hlt/ini/txt 等）按 base 编码解码、一律 fix_1251 转 ASCII、再按目标编码写回；
+    # 二进制文件（pcx/fnt 等）原样拷贝。GER 的特殊字符（ä/ö/ü/ß…）因此始终变为纯英文数字（ANSI），
+    # 与目标语言无关（不再受 fix_1251 开关限制）。
+    base_lang = None
+    for _code, _cfg in data.get("lang_configs", {}).items():
+        if _cfg.get("base", False):
+            base_lang = _code
+            break
+    if base_lang:
+        if not map_data_dir:
+            print(f"  [WARN] base language '{base_lang}' set but --map-data not provided; skip script copy")
+        else:
+            if md5_to_dir is None:
+                md5_to_dir = find_all_map_dat(map_data_dir)
+            src_map_dir = md5_to_dir.get(map_md5) if map_md5 else None
+            if not src_map_dir:
+                print(f"  [WARN] base language '{base_lang}': source map not found by MD5; skip script copy")
+            else:
+                src_base_dir = src_map_dir / "text" / base_lang
+                if not src_base_dir.exists():
+                    print(f"  [WARN] base language '{base_lang}': text/{base_lang} missing in source; skip script copy")
+                else:
+                    # base 语言编码（默认 windows-1252，即 ger）；目标编码为当前构建语言 encoding。
+                    base_cfg = data.get("lang_configs", {}).get(base_lang, {})
+                    base_encoding = base_cfg.get("encoding", "windows-1252")
+                    copied_any = False
+                    for item in src_base_dir.iterdir():
+                        # strings.ini / briefings 由 XML 生成，不在此复制
+                        if item.name in ("strings.ini", "briefings"):
+                            continue
+                        dst = text_output_dir / item.name
+                        if item.is_dir():
+                            copy_base_scripts(item, dst, base_encoding, encoding, apply_fix_1251)
+                        else:
+                            _copy_base_script_file(item, dst, base_encoding, encoding, apply_fix_1251)
+                        copied_any = True
+                    if copied_any:
+                        if apply_fix_1251:
+                            print(f"  [INFO] Copied base language '{base_lang}' script files into {text_output_dir} (chars normalized to ASCII)")
+                        else:
+                            print(f"  [INFO] Copied base language '{base_lang}' script files into {text_output_dir} (chars kept as-is)")
+
     print(f"  [OK] {map_id} -> {map_output_dir.name} (encoding: {encoding}, fix_1251: {apply_fix_1251})")
 
 
@@ -940,6 +1055,9 @@ def build_command(args: argparse.Namespace) -> None:
     
     print(f"Found {len(xml_files)} XML file(s)")
     print(f"Building language: {args.language}")
+    force_utf8 = getattr(args, "force_utf8", False)
+    if force_utf8:
+        print("Force UTF-8 output: encoding=utf-8, fix_1251 disabled (chars kept as-is)")
     
     md5_to_dir = None
     if map_data_dir:
@@ -948,7 +1066,7 @@ def build_command(args: argparse.Namespace) -> None:
         print(f"Found {len(md5_to_dir)} map(s) by MD5")
     
     for xml_file in xml_files:
-        build_map(xml_file, output_dir, args.language, map_data_dir, md5_to_dir)
+        build_map(xml_file, output_dir, args.language, map_data_dir, md5_to_dir, force_utf8)
     
     print(f"\nBuilt {len(xml_files)} map(s) to {output_dir}")
 
@@ -1253,6 +1371,9 @@ Examples:
   # 构建时包含地图数据文件
   python loc_tools.py build -i "translations/" -l CHN --map-data "GAME_2_MAP/ENG" -o "GAME_2_MAP/CN"
   
+  # 强制 UTF-8 输出（跳过 fix_1251，保留变音；仅限支持 UTF-8 的目标，如 l10 汉化注入）
+  python loc_tools.py build -i "translations/" -l CHN --map-data "GAME_2_MAP/ENG" --force-utf8 -o "GAME_2_MAP/CN"
+  
   # 根据MD5追加其他语言
   python loc_tools.py append -i "translations/" --maps "GAME_2_MAP/GER"
   
@@ -1285,6 +1406,9 @@ Examples:
     build_parser.add_argument("-l", "--language", required=True, help="Target language code")
     build_parser.add_argument("--map-data", help="Source directory for map data files (map.dat, etc.)")
     build_parser.add_argument("-o", "--output", help="Output directory (default: output/)")
+    build_parser.add_argument("--force-utf8", action="store_true",
+                              help="Force UTF-8 output encoding and disable fix_1251 (keep umlauts). "
+                                   "Only for UTF-8-capable targets (e.g. l10 汉化注入); other game versions do not support UTF-8.")
     
     append_parser = subparsers.add_parser("append", help="Append languages to XML files by MD5")
     append_parser.add_argument("-i", "--input", required=True, help="Input path (single XML or XML directory)")
@@ -1297,6 +1421,7 @@ Examples:
     lang_add_parser.add_argument("--encoding", default="windows-1252", help="Output encoding (default: windows-1252)")
     lang_add_parser.add_argument("--fix-1251", action="store_true", help="Apply fix_1251 character conversion")
     lang_add_parser.add_argument("--fix-map-id", action="store_true", help="Fix export_map_id with fix_1251 characters")
+    lang_add_parser.add_argument("--base", action="store_true", help="Mark this language as the base (copy its map scripts to other languages at build)")
     
     lang_remove_parser = subparsers.add_parser("lang-remove", help="Remove a language from XML files")
     lang_remove_parser.add_argument("-i", "--input", required=True, help="Input path (single XML or XML directory)")

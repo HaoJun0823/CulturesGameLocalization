@@ -42,9 +42,8 @@
     <block id="00_start">
       <lang code="CHN">
         <text>
-我们把希望寄托于火龙派罗。它定能重新点燃熄灭的火把……
-点燃火把，寻得通往水晶之路。
-        </text>
+洞里依旧漆黑一片。无论我们怎样努力，都无法前进半步。一道奇异的能量场环绕着高大的石柱，不让我们深入洞穴内部。
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -55,10 +54,10 @@ Es war immer noch zappenduster in der Höhle. So sehr wir uns bemühten, wir gel
     <block id="00_start1">
       <lang code="CHN">
         <text>
-所有火把已点燃！
+我们把希望寄托于火龙派罗。它定能重新点燃熄灭的火把……
 
-洞穴入口处的火把尽数点亮！仿佛有魔法作祟，其中一根奇柱消失无踪，能量场随之瓦解。我们如今得以深入探勘洞穴！此处想必还有不少火把待人点燃。
-        </text>
+点燃火把，寻得通往水晶之路。
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -73,7 +72,7 @@ Entflamme die Fackeln und finde den Weg zum Kristall.
         <text>
 所有火把已点燃！
 
-我们之友派罗点燃了所有火把。通往火水晶的道路已然畅通！
+洞穴入口处的火把尽数点亮！仿佛有魔法作祟，其中一根奇柱消失无踪，能量场随之瓦解。我们如今得以深入探勘洞穴！此处想必还有不少火把待人点燃。
         </text>
       </lang>
       <lang code="ger">
@@ -88,10 +87,9 @@ Wir konnten nun das Innere der Höhle weiter erkunden! Sicherlich gab es hier no
     <block id="02">
       <lang code="CHN">
         <text>
-暗龙
-透过栅墙，我们望见黑色巨龙，它们看似危险，多半正守卫着水晶入口。
+所有火把已点燃！
 
-我们须设法将它们引离此处。或许能把它们诱入彩虹之厅困住？
+我们之友派罗点燃了所有火把。通往火水晶的道路已然畅通！
         </text>
       </lang>
       <lang code="ger">
@@ -105,14 +103,17 @@ Alle Fackeln wurden von unserem Freund Pyro entzündet. Der Weg zum Feuerkristal
     <block id="03">
       <lang code="CHN">
         <text>
-巨龙
+暗龙
 
-已败北！</text>
+透过栅墙，我们望见黑色巨龙，它们看似危险，多半正守卫着水晶入口。
+
+</text>
         <usericon>2,4</usericon>
         <text>
-我们击溃了这些无色的造物，可这当真必要吗？难道不能将他们诱入彩虹之厅的陷阱？
-        </text>
-        <usericon>2,4</usericon>
+
+我们须设法将它们引离此处。或许能把它们诱入彩虹之厅困住？
+</text>
+        <usericon>1,43,61</usericon>
       </lang>
       <lang code="ger">
         <text> 
@@ -133,10 +134,10 @@ Wir mußten versuchen, sie von dort wegzulocken. Vielleicht konnten wir sie im R
     <block id="04">
       <lang code="CHN">
         <text>
-巨龙已困入！
+巨龙已败北！
 
-我们做到了，所有暗龙都身陷彩虹之厅！
-        </text>
+我们击溃了这些无色的造物，可这当真必要吗？难道不能将他们诱入彩虹之厅的陷阱？
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -149,12 +150,14 @@ Wir hatten die farblosen Geschöpfe besiegt, aber war dies wirklich nötig gewes
     <block id="05">
       <lang code="CHN">
         <text>
-密闭之厅
-        </text>
+巨龙已困入！
+
+</text>
         <usericon>2,4</usericon>
         <text>
-只要不是所有火把都已点燃，这间厅堂的内部便始终对你隐藏！
-        </text>
+
+我们做到了，所有暗龙都身陷彩虹之厅！
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -171,10 +174,10 @@ Wir hatten es geschafft, alle Dunkeldrachen befanden sich im Regenbogenraum!
     <block id="06">
       <lang code="CHN">
         <text>
-任务失败！
+密闭之厅
 
-是英勇，还是鲁莽？比雅尼陨落之时，诸神落泪……少了这位英雄，任务的结局将永远对你隐藏。
-        </text>
+只要不是所有火把都已点燃，这间厅堂的内部便始终对你隐藏！
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -186,12 +189,16 @@ Das Innere dieses Raumes wird dir verborgen bleiben, solange nicht alle Fackeln 
     </block>
     <block id="100">
       <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
 任务失败！
-        </text>
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
-一时的轻率，生命便转瞬即逝！你的女英雄希拉，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
-        </text>
+
+是英勇，还是鲁莽？比雅尼陨落之时，诸神落泪……少了这位英雄，任务的结局将永远对你隐藏。
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -207,11 +214,14 @@ Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen 
     </block>
     <block id="200">
       <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
 任务失败！
         </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
-一时的轻率，生命便转瞬即逝！你的挚友派罗因你的疏忽而殒命！少了它，任务的结局将永远对你隐藏。
+一时的轻率，生命便转瞬即逝！你的女英雄希拉，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
         </text>
       </lang>
       <lang code="ger">
@@ -228,8 +238,15 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin C
     </block>
     <block id="300">
       <lang code="CHN">
-        <text>任务失败！</text>
-        <text>生活中的片刻疏忽，人生如此迅速！ 你的朋友派罗因你的疏忽而丧命！失去他，你将无法得知任务的结局。</text>
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任务失败！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+一时的轻率，生命便转瞬即逝！你的挚友派罗因你的疏忽而殒命！少了它，任务的结局将永远对你隐藏。
+        </text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -246,8 +263,9 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund PY
     <block id="50_end">
       <lang code="CHN">
         <text>
-干得漂亮！
-        </text>
+我们在洞穴深处找到了水晶！现在必须把它带给森林守护者博肯扎恩。
+
+</text>
         <usericon>1,49,21</usericon>
       </lang>
       <lang code="ger">
@@ -277,8 +295,9 @@ MISSION GEWONNEN!
     <block id="header">
       <lang code="CHN">
         <text>
-水晶洞穴
-        </text>
+幽暗洞穴
+
+</text>
       </lang>
       <lang code="ger">
         <text> 

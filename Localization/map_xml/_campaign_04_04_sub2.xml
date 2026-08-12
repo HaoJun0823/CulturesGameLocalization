@@ -78,9 +78,8 @@
     <block id="00_start">
       <lang code="CHN">
         <text>
-囚犯们看守森严。但纳帕利亚人的建筑里常有许多秘道，我们正可借之而行。
-寻找被囚的龙，将他们解放！
-        </text>
+我们再次置身于纳帕利亚人这些阴湿发霉的地牢之中……地下世界里，蘑菇与芦苇在泥泞的景色中丛生。
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -92,10 +91,10 @@ Unterirdisch sprossen hier Pilze und Schilf in einer morastigen Landschaft!
     <block id="00_start1">
       <lang code="CHN">
         <text>
-纳帕利亚人
+囚犯们看守森严。但纳帕利亚人的建筑里常有许多秘道，我们正可借之而行。
 
-“你们竟敢闯进地牢？找死！”
-        </text>
+寻找被囚的龙，将他们解放！
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -108,12 +107,14 @@ Finde die eingesperrten Drachen und befreie sie!
     <block id="01">
       <lang code="CHN">
         <text>
-地龙
-        </text>
+纳帕利亚人
+
+</text>
         <usericon>1,66,88</usericon>
         <text>
-我们终于寻得地龙！诺伯特喜不自胜！
-        </text>
+
+“你们竟敢闯进地牢？找死！”
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -130,11 +131,11 @@ NAPALIANER
     <block id="02">
       <lang code="CHN">
         <text>
-魔法龙
+地龙
         </text>
-        <usericon>2,11</usericon>
+        <usericon>1,66,88</usericon>
         <text>
-“纳帕利亚人四处作恶。我们魔法龙本以为能躲过他们，却也被俘。多谢你们救了我们。”
+我们终于寻得地龙！诺伯特喜不自胜！
         </text>
       </lang>
       <lang code="ger">
@@ -152,11 +153,11 @@ Endlich hatten wir Erddrachen gefunden! Norbert war außer sich vor Freude!
     <block id="03">
       <lang code="CHN">
         <text>
-水龙
+魔法龙
         </text>
-        <usericon>2,12</usericon>
+        <usericon>2,11</usericon>
         <text>
-“我们本是纳帕利亚人易擒的猎物。多谢你们救了我们。”
+“纳帕利亚人四处作恶。我们魔法龙本以为能躲过他们，却也被俘。多谢你们救了我们。”
         </text>
       </lang>
       <lang code="ger">
@@ -174,11 +175,11 @@ ZAUBERDRACHEN
     <block id="04">
       <lang code="CHN">
         <text>
-开关已启动！
+水龙
         </text>
-        <usericon>2,13</usericon>
+        <usericon>2,12</usericon>
         <text>
-随着一声巨响，近处两扇沉重的木门豁然开启。
+“我们本是纳帕利亚人易擒的猎物。多谢你们救了我们。”
         </text>
       </lang>
       <lang code="ger">
@@ -196,11 +197,11 @@ WASSERDRACHEN
     <block id="05">
       <lang code="CHN">
         <text>
-纳帕利亚人已殒命！
+开关已启动！
         </text>
-        <usericon>1,36,136</usericon>
+        <usericon>2,13</usericon>
         <text>
-纳帕利亚人已被击败！
+随着一声巨响，近处两扇沉重的木门豁然开启。
         </text>
       </lang>
       <lang code="ger">
@@ -218,10 +219,10 @@ Mit einem gewaltigen Knarren öffneten sich zwei schwere Holztüren unweit von h
     <block id="06">
       <lang code="CHN">
         <text>
-水龙已殒命！
+纳帕利亚人已殒命！
 
-所有水龙都已死去！如此任务的结局将永远对你隐藏！
-        </text>
+纳帕利亚人已被击败！
+</text>
         <usericon>2,1</usericon>
       </lang>
       <lang code="ger">
@@ -237,9 +238,9 @@ Die Napalianer waren besiegt!
     <block id="07">
       <lang code="CHN">
         <text>
-地龙已殒命！
+水龙已殒命！
 
-所有地龙都已死去！如此任务的结局将永远对你隐藏！
+所有水龙都已死去！如此任务的结局将永远对你隐藏！
         </text>
       </lang>
       <lang code="ger">
@@ -253,9 +254,9 @@ Alles Wasserdrachen waren gestorben! So wird dir das Ende der Mission verborgen 
     <block id="08">
       <lang code="CHN">
         <text>
-魔法龙已殒命！
+地龙已殒命！
 
-所有魔法龙都已死去！如此任务的结局将永远对你隐藏！
+所有地龙都已死去！如此任务的结局将永远对你隐藏！
         </text>
       </lang>
       <lang code="ger">
@@ -269,9 +270,9 @@ Alles Erddrachen waren gestorben! So wird dir das Ende der Mission verborgen ble
     <block id="09">
       <lang code="CHN">
         <text>
-任务失败！
+魔法龙已殒命！
 
-是英勇，还是鲁莽？比雅尼陨落之时，诸神落泪……少了这位英雄，任务的结局将永远对你隐藏。
+所有魔法龙都已死去！如此任务的结局将永远对你隐藏！
         </text>
       </lang>
       <lang code="ger">
@@ -284,12 +285,16 @@ Alles Zauberdrachen waren gestorben! So wird dir das Ende der Mission verborgen 
     </block>
     <block id="100">
       <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
 任务失败！
-        </text>
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
-一时的轻率，生命便转瞬即逝！你的女英雄希拉，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
-        </text>
+
+是英勇，还是鲁莽？比雅尼陨落之时，诸神落泪……少了这位英雄，任务的结局将永远对你隐藏。
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -305,11 +310,14 @@ Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen 
     </block>
     <block id="200">
       <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
 任务失败！
         </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
-一时的轻率，生命便转瞬即逝！比雅尼与希拉之子玛尼，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+一时的轻率，生命便转瞬即逝！你的女英雄希拉，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
         </text>
       </lang>
       <lang code="ger">
@@ -326,11 +334,14 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin C
     </block>
     <block id="500">
       <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
 任务失败！
         </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
-一时的轻率，生命便转瞬即逝！比雅尼与希拉之子玛尼，因你的疏忽而殒命！若无此英雄，这世界便将永远失落……
+一时的轻率，生命便转瞬即逝！比雅尼与希拉之子玛尼，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
         </text>
       </lang>
       <lang code="ger">
@@ -380,11 +391,14 @@ MISSION GEWONNEN!
     </block>
     <block id="600">
       <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
 任务失败！
         </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
-一时的轻率，生命便转瞬即逝！你的挚友、英雄之龙诺伯特，因你的疏忽而殒命！若无此英雄，这世界便将永远失落……
+一时的轻率，生命便转瞬即逝！比雅尼与希拉之子玛尼，因你的疏忽而殒命！若无此英雄，这世界便将永远失落……
         </text>
       </lang>
       <lang code="ger">

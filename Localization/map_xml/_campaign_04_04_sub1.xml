@@ -62,9 +62,8 @@
     <block id="00_start">
       <lang code="CHN">
         <text>
-我们的同伴即刻各奔东西。我们须找到这座神庙的守卫，或许他能助我们一臂之力？
-寻找古尔普！
-        </text>
+我们跟着龙族前行，转瞬便置身于一处奇异陌生的环境。无疑，我们又身处阿夸斯众多水之神庙中的一座！
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -76,12 +75,10 @@ Zweifellos befanden wir uns wieder in einem der vielen Wassertempel der AQUAS!
     <block id="00_start1">
       <lang code="CHN">
         <text>
-古尔普
-“你们当真立下大功，救回了我们的族裔。”
+我们的同伴即刻各奔东西。我们须找到这座神庙的守卫，或许他能助我们一臂之力？
 
-“你们可还记挂着他们，记得他们的名字？其中有三条就在这瀑布旁。找到他们，他们会给你们备下惊喜！”
-寻回曾陪伴你的三条水龙。
-        </text>
+寻找古尔普！
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -94,16 +91,18 @@ Suche GULP!
     <block id="01">
       <lang code="CHN">
         <text>
-斯普
+古尔普
 
-鲁德尔
-        </text>
+“你们当真立下大功，救回了我们的族裔。”
+
+</text>
         <usericon>2,4</usericon>
         <text>
-“你们认出我了！难不成那饶舌的斯普鲁德尔，
 
-当真钻进了你们的脑瓜？”
-        </text>
+“你们可还记挂着他们，记得他们的名字？其中有三条就在这瀑布旁。找到他们，他们会给你们备下惊喜！”
+
+寻回曾陪伴你的三条水龙。
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -125,12 +124,13 @@ Finde die drei Wasserdrachen, die dich begleitet haben.
     <block id="02">
       <lang code="CHN">
         <text>
-尼刻斯
-        </text>
-        <usericon>2,11</usericon>
+斯普鲁德尔
+</text>
+        <usericon>2,4</usericon>
         <text>
-“你们认出我了！尼刻斯也会永远把你们珍藏心底！”
-        </text>
+
+“你们认出我了！难不成那饶舌的斯普鲁德尔，当真钻进了你们的脑瓜？”
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -147,11 +147,11 @@ SPRUDEL
     <block id="03">
       <lang code="CHN">
         <text>
-薇蕾
+尼刻斯
         </text>
-        <usericon>2,12</usericon>
+        <usericon>2,11</usericon>
         <text>
-“你们认出我了！”
+“你们认出我了！尼刻斯也会永远把你们珍藏心底！”
         </text>
       </lang>
       <lang code="ger">
@@ -169,11 +169,11 @@ NIXE
     <block id="04">
       <lang code="CHN">
         <text>
-任务失败！
+薇蕾
         </text>
-        <usericon>2,13</usericon>
+        <usericon>2,12</usericon>
         <text>
-是英勇，还是鲁莽？比雅尼陨落之时，诸神落泪……少了这位英雄，任务的结局将永远对你隐藏。
+“你们认出我了！”
         </text>
       </lang>
       <lang code="ger">
@@ -190,11 +190,14 @@ WELLE
     </block>
     <block id="100">
       <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
 任务失败！
         </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
-一时的轻率，生命便转瞬即逝！你的女英雄希拉，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+是英勇，还是鲁莽？比雅尼陨落之时，诸神落泪……少了这位英雄，任务的结局将永远对你隐藏。
         </text>
       </lang>
       <lang code="ger">
@@ -211,12 +214,17 @@ Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen 
     </block>
     <block id="200">
       <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
 任务失败！
-        </text>
+
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
-“瀑布实则不过是一座小型水力发电站。借助浩渺水势，拨动三处开关，我们便能驱动地表之上的传送装置！”
-        </text>
+
+一时的轻率，生命便转瞬即逝！你的女英雄希拉，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -233,10 +241,11 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin C
     <block id="50_end">
       <lang code="CHN">
         <text>
-为感救命之恩，也因它们于我们不止是寻常龙
+惊喜！
 
-族，阿夸斯激活了传送装置。
-        </text>
+“其实这瀑布就是一座小型水力发电站。借助浩荡的水势，拨动三处开关，我们就能驱动地表之上的传送装置！”
+
+</text>
         <usericon>1,73,37</usericon>
       </lang>
       <lang code="ger">
@@ -252,8 +261,8 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin C
     <block id="50_end1">
       <lang code="CHN">
         <text>
-干得漂亮！
-        </text>
+为感救命之恩，也因它们于我们不止是寻常龙族，阿夸斯激活了传送装置。
+</text>
       </lang>
       <lang code="ger">
         <text> 

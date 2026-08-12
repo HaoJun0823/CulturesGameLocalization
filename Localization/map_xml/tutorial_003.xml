@@ -122,13 +122,15 @@ Weise einem Wikinger den Beruf des LEHMABBAUERS zu!
     </block>
     <block id="01">
       <lang code="CHN">
-        <text>这座建筑是你的木材采集站。
+        <text>
+很好！
 
-伐木工会把砍下的木材存放在这里，供建筑工人使用。
+现在再雇一名伐木工和一名采石工。
 
-现在去建造一座石料采集站，
+提示：采集工从事的职业没有专属工作场所。要采集的原料种类，以及工人生产的货物，都可以更改。前提始终只有一个：工人拥有相应经验，并且（如需要）工作场所达到相应的升级等级。
 
-就在大山旁边的乱石之地那里。</text>
+给两名维京人分配伐木工和采石工的职业。
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -161,15 +163,15 @@ Mache als nächstes einige deiner Männer, die noch keine Arbeit haben, zu BAUAR
     <block id="03">
       <lang code="CHN">
         <text>
-这就搞定了！现在你有两位勤劳的建筑工人了。
-他们已经能够建造更复杂的建筑。通过点击建筑图标来下达新的建造指令。
-        </text>
+这就搞定了！现在你有两位勤劳的建筑工人了。他们已经能够建造更复杂的建筑。
+</text>
         <usericon>1,250,175</usericon>
         <text>
-你希望有更多的建筑工人吗？试着将男人们派到已掌握职业的维京人那里去接受培训。
 
-顺便一提：儿童也可以执行各项任务！
-        </text>
+点击屏幕左侧菜单栏中的建造图标（带锤子的房子），或按键盘上的 B 键。然后从列表中选择农场。地面会变暗，只留下可以建造农场的地方亮着。用鼠标右键点击你选中的明亮区域。建筑工人会自己找工地，但必要时你也可以把他们指派到特定工地。
+
+现在让你的建筑工人建一座农场吧！
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -246,6 +248,7 @@ Wenn du willst, lass von deinen Bauarbeitern in der Zwischenzeit ein paar Wohnh�
         <text>你的农夫已经积累了足够的经验！
 
 你的建筑工人现在可以建造磨坊了！</text>
+        <usericon>1,258,185</usericon>
         <text>在农场附近建造磨坊，磨坊将从农场获取小麦来磨制面粉。
 
 建造一座磨坊。</text>
@@ -311,6 +314,7 @@ Als sehr nützlich erweisen sich auch Träger, die Lagerhäusern und Hauptquarti
     <block id="09">
       <lang code="CHN">
         <text>你未来的面包师需要水来烤面包！ 因此，在旁边打一口水井。让你的建筑工人开始建造吧。</text>
+        <usericon>1,231,199</usericon>
         <text>因此，在你计划建造面包房的位置附近建造一口水井。
 
 主屋前面还有空间。既能美化环境，又能节省建造其他重要建筑所需的用地。</text>

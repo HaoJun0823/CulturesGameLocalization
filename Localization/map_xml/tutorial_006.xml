@@ -318,7 +318,10 @@ Hinweis: Wird ein Soldat wieder Zivilist oder übt einen anderen Beruf aus, legt
     </block>
     <block id="100">
       <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>任务失败！ 你的英雄陨落了。在真正的游戏中，这意味着任务失败。</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>英勇还是鲁莽？当比雅尼阵亡时，众神也为之落泪…… 失去这位英雄，你将在战役中无法得知结局，不得不从头开始！</text>
       </lang>
       <lang code="ger">
@@ -338,6 +341,7 @@ Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen 
         <text>投石机
 
 士兵和英雄也可以使用投石机。 投石机是重型攻城武器，但只能缓慢移动。</text>
+        <usericon>1,96,154</usericon>
         <text>你使用操作按钮“分配载具”为一位维京人分配投石机。
 
 点击该按钮后，可用的投石机会高亮显示。右键点击投石机将其分配给选中的士兵或英雄。</text>

@@ -56,6 +56,7 @@
         <text>
 矿井深处，沙漠那无情的炎热几乎感受不到了。
         </text>
+        <usericon>1,38,49</usericon>
         <text>
 霉腐的气味钻进我们的肺里，附近传来矿工们响亮的锤击声。他们到底把圣火藏在了哪里？
         </text>
@@ -116,6 +117,7 @@ BERGVOLK
 “别伤害我们！我们只是在这里干自己的活儿，矿场上头发生了什么，我们几乎一无所知！”
         
         </text>
+        <usericon>1,23,62</usericon>
       </lang>
       <lang code="ger">
         <text> 
@@ -135,6 +137,7 @@ ARBEITER
 你还无法通过这道大门！
         
         </text>
+        <usericon>1,121,52</usericon>
         <text>
 
 想办法把大门打开！
@@ -161,6 +164,7 @@ Finde eine Möglichkeit, das Tor zu öffnen!
 你的维京人现在可以通过这道大门了！但要提防躲在门后守护圣火的卫兵！
         
         </text>
+        <usericon>1,121,52</usericon>
       </lang>
       <lang code="ger">
         <text> 
@@ -180,6 +184,7 @@ Deine Wikinger dürfen das Tor nun passieren! Doch hüte dich vor den Wächtern 
 一股奇异的魔力笼罩着这个地方……
         
         </text>
+        <usericon>1,96,77</usericon>
         <text>
 
 我们所有的战士都感到脱胎换骨、焕然一新！
@@ -202,12 +207,15 @@ All unsere Männer fühlten sich wie neu geboren!
     </block>
     <block id="100">
       <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
 
 
 任务失败！
         
         </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 
 
@@ -229,12 +237,15 @@ Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen 
     </block>
     <block id="200">
       <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
 
 
 任务失败！
         
         </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 
 
@@ -256,12 +267,15 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin C
     </block>
     <block id="300">
       <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
 
 
 任务失败！
         
         </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 
 
@@ -283,12 +297,15 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
     </block>
     <block id="400">
       <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
 
 
 任务失败！
         
         </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 
 
@@ -316,6 +333,7 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 我们终于夺回了法罗斯灯塔所需的圣火。撒拉逊山地部族可没让我们轻易得手。
         
         </text>
+        <usericon>1,137,14</usericon>
       </lang>
       <lang code="ger">
         <text> 

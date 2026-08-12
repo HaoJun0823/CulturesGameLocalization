@@ -419,12 +419,15 @@ Bestimmt handeln sie auch gerne mit dir.
     </block>
     <block id="100">
       <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
 
 
 任务失败！
         
         </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 
 
@@ -498,12 +501,15 @@ Zahle Tribut, wenn du handeln willst.
     </block>
     <block id="200">
       <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
 
 
 任务失败！
         
         </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 
 
@@ -533,6 +539,7 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin C
 "啊……外乡人。哼。在这片地界……你们莫非是奸细？
         
         </text>
+        <usericon>1,231,81</usericon>
         <text>
 
 
@@ -593,6 +600,7 @@ Du hast den Tribut an Chronos bezahlt. Nun kannst du handeln.
 "我偶尔有些好货。改日再来吧。"
         
         </text>
+        <usericon>1,267,118</usericon>
       </lang>
       <lang code="ger">
         <text> 
@@ -614,6 +622,7 @@ OXOS
 "这儿地方不错，对吧？从前这儿矗立着一座华丽的仓库，可西部港口一修，它就……
         
         </text>
+        <usericon>1,276,79</usericon>
         <text>
 
 
@@ -650,6 +659,7 @@ Wollt ihr nicht eines bauen? Ihr seht sehr tüchtig aus..."
 你可听过南边那座山？据说那里蕴藏巨量金矿！连铁也有！
         
         </text>
+        <usericon>1,321,103</usericon>
         <text>
 
 
@@ -682,6 +692,7 @@ Man sagt aber, dass dieser Berg König Croesus gehört und der es gar nicht gern
 "嘿，外乡人……嘘……在我这儿能买到世上最烈的酒！上等货！酒坊刚酿出来！好年份，我说的！
         
         </text>
+        <usericon>1,340,107</usericon>
         <text>
 
 
@@ -717,6 +728,7 @@ HEY - und... Pssst! Nur für gute Freunde wie dich!"
 "啊--咱们不是认识的么？嘿嘿……上等货，你知道的……嘻嘻……
         
         </text>
+        <usericon>1,340,107</usericon>
         <text>
 
 
@@ -752,6 +764,7 @@ Wem's schmeckt, der kommt wieder hihihi..."
 我游历甚广，足迹遍布天下。多少故事能与你讲……
         
         </text>
+        <usericon>1,317,141</usericon>
         <text>
 
 
@@ -792,6 +805,7 @@ Möge Neptun mit dir sein!"
 从前我住在国境南部、大山脉以西。
         
         </text>
+        <usericon>1,245,126</usericon>
         <text>
 
 
@@ -831,6 +845,7 @@ Aber um ehrlich zu sein - mir hat es im Süden besser gefallen!"
 我是琳达，本镇镇长佩特罗斯的妻子。
         
         </text>
+        <usericon>1,218,126</usericon>
         <text>
 
 
@@ -882,6 +897,7 @@ Und wenn der Regen aufhört, kommt Petros vielleicht raus, um mit dir zu reden..
 我们找到了琳达的妹妹。未及说明来意，她便先开了口：
         
         </text>
+        <usericon>1,317,91</usericon>
         <text>
 
 
@@ -915,6 +931,7 @@ Nun denn - ich will euch helfen. Tretet mal einen Schritt zurück..."
 "去吧，去见咱们那位怕雨的英雄。去找佩特罗斯……嘻嘻嘻
         
         </text>
+        <usericon>1,317,91</usericon>
         <text>
 
 
@@ -944,6 +961,7 @@ Und richte Linda einen schönen Gruß von mir aus!"
 "啊，幸会，外乡人！拙荆早已向我提起你们！你们想帮忙，可是当真？妙极了！
         
         </text>
+        <usericon>1,218,128</usericon>
         <text>
 
 
@@ -1006,6 +1024,7 @@ Bis später dann!"
 "我这儿有个好买卖给你们！一辆顶好的手推车！新打的。结实无比！真正的杰作！
         
         </text>
+        <usericon>1,267,118</usericon>
         <text>
 
 
@@ -1037,6 +1056,7 @@ Für zwei Met könnt ihr ihn haben! Wir regeln das dann über eine Tributzahlung
 "多谢你的蜜酒！
         
         </text>
+        <usericon>1,267,118</usericon>
         <text>
 
 
@@ -1068,6 +1088,7 @@ Hier, nehmt das gute Stück. Und passt gut darauf auf!"
 "幸会，故乡来的朋友们！遥远的北地可好？那里是否仍是大雪纷飞？
         
         </text>
+        <usericon>1,199,138</usericon>
         <text>
 
 
@@ -1105,6 +1126,7 @@ Ich kenne da auch einen geheimen Pfad durch die Berge! Schwer zu finden, aber mi
 "我们已为你们备妥一切！
         
         </text>
+        <usericon>2,62</usericon>
         <text>
 
 
@@ -1136,6 +1158,7 @@ Möge euch das Schicksal diesmal mehr Glück schenken!"
 "啊哈，看来你们带着蜜酒来了！甚好，甚好……
         
         </text>
+        <usericon>1,218,128</usericon>
         <text>
 
 
@@ -1175,6 +1198,7 @@ Wie gesagt, ich würde ja selbst... aber mein Rücken..."
 忽然一艘载满士兵的船在海岸登陆！
         
         </text>
+        <usericon>1,32,228</usericon>
         <text>
 
 
@@ -1206,6 +1230,7 @@ Demetrios's Truppen! Sie hatten uns entdeckt und waren nun darauf aus, den Küst
 你闯入了克罗伊斯王的领地！他最容不得外人觊觎他的黄金！
         
         </text>
+        <usericon>1,47,390</usericon>
         <text>
 
 
@@ -1233,12 +1258,15 @@ Zahle den Tribut, um Frieden zu stiften...
     </block>
     <block id="300">
       <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
 
 
 任务失败！
         
         </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 
 
@@ -1268,6 +1296,7 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 克罗伊斯如约从金矿撤走。
         
         </text>
+        <usericon>1,53,466</usericon>
         <text>
 
 
@@ -1299,6 +1328,7 @@ Er wird dich nun nicht mehr angreifen.
 成了！我们走出密道的出口，重见天日。约好的商人梅特罗斯应在此与我们接头，取走蜜酒……
         
         </text>
+        <usericon>1,207,234</usericon>
         <text>
 
 
@@ -1330,6 +1360,7 @@ Wir warteten...
 "你好啊外乡人！你们竟敢深入敌境如此之远！
         
         </text>
+        <usericon>2,90</usericon>
         <text>
 
 
@@ -1366,6 +1397,7 @@ Nun, momentan kann ich nichts für euch tun, aber geht in Rhodos zum Bürgermeis
 我们没等多久，梅特罗斯便迎上前来：
         
         </text>
+        <usericon>2,90</usericon>
         <text>
 
 
@@ -1441,6 +1473,7 @@ Schicke einen neuen Boten mit einem Handkarren voll Met zu Petros. Er öffnet di
 我们找到了林多斯镇长：
         
         </text>
+        <usericon>2,95</usericon>
         <text>
 
 
@@ -1484,6 +1517,7 @@ Mein Sekretär soll mit dir gehen. Er wird alles weitere für euch regeln. Ruht 
 "噢……
         
         </text>
+        <usericon>2,95</usericon>
         <text>
 
 
@@ -1519,6 +1553,7 @@ Nun, dann muss einer von euch Wikingern seinen Posten übernehmen und den Auftra
 港务官在港口附近现身。他面无表情地听完了我们的来意。
         
         </text>
+        <usericon>2,96</usericon>
         <text>
 
 
@@ -1559,6 +1594,7 @@ Je schneller du damit zurück bist, desto besser. Ich will pünktlich Feierabend
 镇长一听"官僚"布罗克拉特斯的要求，只摇了摇头：
         
         </text>
+        <usericon>2,95</usericon>
         <text>
 
 
@@ -1590,6 +1626,7 @@ Als der Bürgermeister von der Forderung von Buerokrates hörte, schüttelte er 
 "喏，许可文书在此。一式三份，双印加封。
         
         </text>
+        <usericon>2,95</usericon>
         <text>
 
 
@@ -1623,6 +1660,7 @@ Er macht ja eigentlich nur seinen Job..."
 "这就对了，办得到嘛。拿来吧……
         
         </text>
+        <usericon>2,96</usericon>
         <text>
 
 
@@ -1691,6 +1729,7 @@ Was nun? ...
 波塞冬之雾忽而传来"官僚"布罗克拉特斯的声音：
         
         </text>
+        <usericon>2,96</usericon>
         <text>
 
 
@@ -1769,12 +1808,15 @@ Suche in der Stadt nach Informationen, wie du vielleicht helfen kannst.
     </block>
     <block id="400">
       <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
 
 
 任务失败！
         
         </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 
 
@@ -1877,6 +1919,7 @@ War es Zufall oder Schicksal - es gab keinen Zweifel, dass dieser Koloss genau j
 "朋友们，我们永世感激你们！
         
         </text>
+        <usericon>2,95</usericon>
         <text>
 
 
@@ -1926,6 +1969,7 @@ Such Chares in Lindos auf.
 "你找卡瑞斯？那位伟大的建筑师？
         
         </text>
+        <usericon>2,120</usericon>
         <text>
 
 
@@ -1957,6 +2001,7 @@ Den hab ich hier schon länger nicht mehr gesehen..."
 "卡瑞斯？
         
         </text>
+        <usericon>2,121</usericon>
         <text>
 
 
@@ -1988,6 +2033,7 @@ Ja, den kenne ich. Ich habe gehört, er wollte ein paar Tage Urlaub machen."
 "噢对，卡瑞斯是我的好友！
         
         </text>
+        <usericon>2,122</usericon>
         <text>
 
 
@@ -2023,6 +2069,7 @@ Ich glaube, er wollte Fischen gehen! Er hat da so sein geheimes Revier. Er hat m
 "卡瑞斯？认得，我见过他。
         
         </text>
+        <usericon>2,123</usericon>
         <text>
 
 
@@ -2059,6 +2106,7 @@ Jaja, der gute, alte Chares..."
 这便是名建筑师卡瑞斯！
         
         </text>
+        <usericon>2,98</usericon>
         <text>
 
 
@@ -2144,6 +2192,7 @@ Auch wir machten und auf den Weg in die Stadt.
 卡瑞斯与罗德镇长佩特罗斯商议良久。
         
         </text>
+        <usericon>2,98</usericon>
         <text>
 
 
@@ -2200,6 +2249,7 @@ Liefere Chares 25 Marmor (per Tribut).
 凭我们运来的大理石，卡瑞斯迅速为巨像打下地基。
         
         </text>
+        <usericon>1,229,69</usericon>
         <text>
 
 
@@ -2235,6 +2285,7 @@ Als Chares mit dem Fundament fertig war, rief ihn der Bürgermeister zu sich.
 "卡瑞斯，真是令人倾倒！"佩特罗斯迎上前去，"你确是此道真宗大师！
         
         </text>
+        <usericon>2,98</usericon>
         <text>
 
 
@@ -2318,6 +2369,7 @@ Liefere Chares 5 Gold, 10 Lehm und 10 Bruchstein (per Tribut).
 卡瑞斯先前按整座巨像所需备料，此刻……
         
         </text>
+        <usericon>2,98</usericon>
         <text>
 
 
@@ -2360,6 +2412,7 @@ Liefere Chares nochmals 5 Gold, 10 Lehm und 10 Bruchstein (per Tribut).
 ……至少才及腰身！
         
         </text>
+        <usericon>2,98</usericon>
         <text>
 
 
@@ -2420,12 +2473,15 @@ Halte dich von seinen  Soldaten fern! Sie werden keine Gnade zeigen!
     </block>
     <block id="500">
       <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
 
 
 任务失败！
         
         </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 
 
@@ -2455,6 +2511,7 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! NORBERT, der k
 德米特里奥斯在此设下海上封锁。此处无路可通！
         
         </text>
+        <usericon>1,409,199</usericon>
       </lang>
       <lang code="ger">
         <text> 
@@ -2491,12 +2548,15 @@ Aber wer weiß, welche Rolle die tapferen Bewohner dieser Stadt in dem herrschen
     </block>
     <block id="600">
       <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
 
 
 任务失败！
         
         </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 
 
@@ -2545,6 +2605,7 @@ Warum bist du gegen das Volk von Lindos feindlich eingestellt? Sie haben dir nic
 沙漠商人巴克希什与妻子平日住在此处。自德米特里奥斯围城以来，他却不知所踪……
         
         </text>
+        <usericon>1,118,187</usericon>
       </lang>
       <lang code="ger">
         <text> 
@@ -2558,12 +2619,15 @@ Hier lebt normalerweise der Wüstenhändler Bakshish mit seiner Frau. Seit der B
     </block>
     <block id="700">
       <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
 
 
 任务失败！
         
         </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
         <text>
 
 
@@ -2597,6 +2661,7 @@ So wirst du deine Mission nicht beenden können!
 这是著名沙漠商人巴克希什的营地。封锁解除后，他重操旧业，满心欢喜……
         
         </text>
+        <usericon>1,118,187</usericon>
       </lang>
       <lang code="ger">
         <text> 

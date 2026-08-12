@@ -46,8 +46,8 @@
     <block id="00_start">
       <lang code="CHN">
         <text>
-无疑，我们正身处阿夸斯众多水之神庙之一！
-        </text>
+转瞬之间，我们便置身于一处奇异陌生的环境。
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -58,9 +58,7 @@ Augenblicklich fanden wir uns in einer seltsam fremden Umgebung wieder.
     <block id="00_start1">
       <lang code="CHN">
         <text>
-水龙
-“欢迎来到我们的水之神庙。陆上生灵来此做客，实属稀罕，但请把这儿当自己家吧。”
-阿夸斯一族待客之道，确有几分功夫！
+无疑，我们正身处阿夸斯众多水之神庙之一！
         </text>
       </lang>
       <lang code="ger">
@@ -71,13 +69,17 @@ Zweifellos befanden wir uns in einem der vielen Wassertempel der AQUAS!
     </block>
     <block id="01">
       <lang code="CHN">
-        <text>船
+        <text>
+水龙
 
-只</text>
+“欢迎来到我们的水之神庙。陆上生灵来此做客，实属稀罕，但请把这儿当自己家吧。”
+
+</text>
         <usericon>1,44,107</usericon>
         <text>
-若想去往传送装置的控制台，多半还少不了一艘船……
-        </text>
+
+阿夸斯一族的待客之道，确实有几分功夫！
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -96,12 +98,11 @@ Zweifellos verstanden die Aquas etwas von Gastfreundschaft!
     <block id="02">
       <lang code="CHN">
         <text>
-阿夸罗姆与控制台
-“久站这控制台，我真乏了，可它对海底的我们必不可少，因为它驱动着水流的涡轮。”
-        </text>
-        <usericon>1,55,108</usericon>
+船只
+</text>
+        <usericon>1,44,107</usericon>
         <text>
-“若你们替我值一会儿班，我便把船借给你们。”
+若想去往传送装置的控制台，多半还少不了一艘船……
         </text>
       </lang>
       <lang code="ger">
@@ -119,12 +120,13 @@ Wahrscheinlich benötigten wir auch ein Schiff, um zum Schalter für die Telepor
     <block id="03">
       <lang code="CHN">
         <text>
-阿夸罗
+阿夸罗姆与控制台
 
-姆与控制台</text>
-        <usericon>2,3</usericon>
+“久站这控制台，我真乏了，可它对海底的我们必不可少，因为它驱动着水流的涡轮。”
+</text>
+        <usericon>1,55,108</usericon>
         <text>
-“好，这船归你们了，只要你们有人守在控制台上。”
+“若你们替我值一会儿班，我便把船借给你们。”
         </text>
       </lang>
       <lang code="ger">
@@ -144,10 +146,10 @@ AQUARUM UND DER SCHALTER
     <block id="04">
       <lang code="CHN">
         <text>
-阿夸罗姆
+阿夸罗姆与控制台
 
-“只要你们无人值守控制台，船便重归我手！”
-        </text>
+“好，这船归你们了，只要你们有人守在控制台上。”
+</text>
         <usericon>2,3</usericon>
       </lang>
       <lang code="ger">
@@ -163,11 +165,11 @@ AQUARUM UND DER SCHALTER
     <block id="05">
       <lang code="CHN">
         <text>
-任务失败！
+阿夸罗姆
 
-是英勇，还是鲁莽？比雅尼陨落之时，诸神落泪……少了这位英雄，任务的结局将永远对你隐藏。
+“只要你们无人值守控制台，船便重归我手！”
         </text>
-        <usericon>1,88,123</usericon>
+        <usericon>2,3</usericon>
       </lang>
       <lang code="ger">
         <text> 
@@ -181,12 +183,16 @@ AQUARUM
     </block>
     <block id="100">
       <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
 任务失败！
-        </text>
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
-一时的轻率，生命便转瞬即逝！你的女英雄希拉，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
-        </text>
+
+是英勇，还是鲁莽？比雅尼陨落之时，诸神落泪……少了这位英雄，任务的结局将永远对你隐藏。
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -202,13 +208,17 @@ Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen 
     </block>
     <block id="200">
       <lang code="CHN">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
 任务失败！
-        </text>
+
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
-……另一座则会将我们旋出岛外！
-切记：传送装置单向运行！若想离开森林村庄学校之岛，你仍需一艘船。
-        </text>
+
+一时的轻率，生命便转瞬即逝！你的女英雄希拉，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -277,8 +287,9 @@ MISSION GEWONNEN!
     <block id="header">
       <lang code="CHN">
         <text>
-海底传送
-        </text>
+海底
+
+</text>
       </lang>
       <lang code="ger">
         <text> 

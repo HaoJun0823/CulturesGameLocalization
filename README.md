@@ -4,6 +4,15 @@ Map and text localization pack for **Cultures: The Gates of Asgard** (2nd genera
 
 > Localization sources live under `Localization/map_xml/`, `Localization/map_xml_user/`, and `Localization/text/l10/`. Every map XML contains multi-language strings (CHN/ger/eng/pol) plus briefings. All translations pass zero-empty-slot, structure-validity, and `@`-prefix-balance audits.
 
+## Related Projects / 关联项目
+
+- **CulturesGameExtend** — the community extension DLL that actually loads this
+  project's Simplified-Chinese (`l10`) text and map content in-game via a UTF-8
+  text engine. The two repos are separate; build/deploy the DLL from that repo
+  and drop `CulturesGameExtend.dll` (+ `plugins/`) into the game folder
+  (or set `CULTURES_EXTEND_DIR` when running `build_text.py`).
+  <https://github.com/HaoJun0823/CulturesGameExtend>
+
 ## Installation
 
 1. **Back up** the original `Data/maps/` and `Data/text/` directories in your game folder.

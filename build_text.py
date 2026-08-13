@@ -19,6 +19,7 @@ Output:
 """
 import argparse
 import csv
+import os
 import shutil
 import sys
 import time
@@ -104,7 +105,7 @@ def copy_additional_assets():
 
     - Localization/text/ → _build/Data/Text/  (game text resources)
     - Movie/             → _build/DataX/FMV/  (movie rarely changes, commented out)
-    - CulturesGameExtend/ → _build/plugins/   (DLL hook, fonts, config for UTF-8 rendering)
+    - CulturesGameExtend (separate repo) → _build/plugins/  (DLL hook, fonts, config for UTF-8 rendering)
     """
     # 1) Localization/text → _build/Data/Text
     text_dst = BUILD_ROOT / "Data" / "Text"
@@ -126,23 +127,30 @@ def copy_additional_assets():
     # else:
     #     print(f"  [Skip] Movie/ not found")
 
-    # 3) CulturesGameExtend submodule → _build/plugins/  (DLL + fonts + config)
-    extend_src = PROJ_ROOT / "CulturesGameExtend" / "Resource" / "plugins"
+    # 3) CulturesGameExtend (SEPARATE repo, no longer a git submodule) → _build/plugins/
+    #    The extension DLL + plugins are maintained in the independent
+    #    CulturesGameExtend repo. Supply its location via env CULTURES_EXTEND_DIR
+    #    (repo root). A plain ./CulturesGameExtend/ copy still works for convenience.
+    #    If absent, the DLL is skipped and must be deployed manually.
+    extend_root = Path(os.environ.get("CULTURES_EXTEND_DIR", "")) if os.environ.get("CULTURES_EXTEND_DIR") else (PROJ_ROOT / "CulturesGameExtend")
+    extend_src = extend_root / "Resource" / "plugins"
     plugins_dst = BUILD_ROOT / "plugins"
     if extend_src.exists():
         if plugins_dst.exists():
             shutil.rmtree(plugins_dst)
         shutil.copytree(extend_src, plugins_dst)
-        dll_src = PROJ_ROOT / "CulturesGameExtend" / "CulturesGameExtend" / "CulturesGameExtend.dll"
+        dll_src = extend_root / "CulturesGameExtend" / "CulturesGameExtend.dll"
         if dll_src.exists():
             plugins_dst.mkdir(parents=True, exist_ok=True)
             shutil.copy2(dll_src, plugins_dst / "CulturesGameExtend.dll")
             print(f"  [OK] CulturesGameExtend.dll → plugins/")
         else:
-            print(f"  [Skip] CulturesGameExtend.dll not found (build the DLL first)")
-        print(f"  [OK] CulturesGameExtend/Resource/plugins/ → plugins/")
+            print(f"  [Skip] CulturesGameExtend.dll not found (build it in the CulturesGameExtend repo first)")
+        print(f"  [OK] CulturesGameExtend Resource/plugins/ → plugins/")
     else:
-        print(f"  [Skip] CulturesGameExtend/ submodule not found (git submodule update --init)")
+        print(f"  [Skip] CulturesGameExtend not found. Get it from the separate repo:")
+        print(f"         https://github.com/HaoJun0823/CulturesGameExtend")
+        print(f"         (set env CULTURES_EXTEND_DIR to its root, or keep a plain ./CulturesGameExtend/ copy)")
 
 
 def resolve_map_source(map_id: str, loc_tools) -> Path | None:

@@ -5,6 +5,11 @@
 > 汉化内容以 `Localization/map_xml/`、`Localization/map_xml_user/`、`Localization/text/l10/` 组织，内含地图本地化 XML、游戏内字符串与超文本百科（北欧神话 / 历史年表 / 操作帮助）。
 > 全部译文经工具审计（0 空槽、结构合法、`@` 前缀与德文原版平衡）。
 
+## 关联项目 / Related Projects
+
+- **CulturesGameExtend** —— 真正在游戏内加载本仓库简体中文（`l10`）文本与地图内容的社区扩展 DLL（基于 UTF-8 文本引擎）。两个仓库相互独立；请在该仓库中构建并部署 DLL，将 `CulturesGameExtend.dll`（及 `plugins/`）放入游戏目录（或在运行 `build_text.py` 时设置 `CULTURES_EXTEND_DIR` 指向其根目录）。
+  <https://github.com/HaoJun0823/CulturesGameExtend>
+
 ## 安装
 
 1. **备份**游戏安装目录下的原 `Data/maps/`、`Data/text/` 文件夹。

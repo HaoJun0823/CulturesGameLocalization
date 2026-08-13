@@ -5,13 +5,9 @@
 #   - workflow_dispatch (manual)  ->  build + publish a release
 #   - push to main                ->  build only, no release (verify integrity)
 #
-# Game data (SAGA_GAME_HACK/Data/maps/) is NOT in the git repo.
-# The workflow will attempt to restore it from a previous release asset
-# named "game-data".  Upload it once via:
-#   gh release upload <tag> game-data.tar.gz --clobber
-#
-# If game data is unavailable, map building is SKIPPED; only Data/Text
-# and supplementary assets are published.  This is normal for a first run.
+# Game data (map.dat, text/ger/ resources, sfx) is committed to mapdata/
+# in the repo, so the build works on CI without external dependencies.
+# See generate_mapdata.py to update mapdata/ from a local SAGA_GAME_HACK.
 # =============================================================================
 
 name: Build & Release
@@ -21,10 +17,6 @@ on:
     inputs:
       release_tag:
         description: Release tag (e.g. v20260813-utf8)
-        required: false
-        type: string
-      game_data_url:
-        description: Direct URL to game-data.tar.gz (overrides release asset)
         required: false
         type: string
 
@@ -37,7 +29,6 @@ permissions:
 
 env:
   PYTHON_VERSION: '3.11'
-  GAME_DIR: ${{ github.workspace }}/.game-data/SAGA_GAME_HACK
 
 jobs:
   build:
@@ -50,52 +41,13 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          submodules: recursive
 
       # ---- Python ----------------------------------------------------------
       - name: Setup Python ${{ env.PYTHON_VERSION }}
         uses: actions/setup-python@v5
         with:
           python-version: ${{ env.PYTHON_VERSION }}
-
-      # ---- Restore game data -----------------------------------------------
-      - name: Restore game data
-        shell: pwsh
-        run: |
-          $gameDataDir = "${{ env.GAME_DIR }}"
-          New-Item -ItemType Directory -Force -Path $gameDataDir | Out-Null
-
-          $url = "${{ inputs.game_data_url }}"
-          if (-not $url) {
-            try {
-              $release = gh release view --json assets 2>$null
-              if ($release) {
-                $asset = $release.assets | Where-Object { $_.name -eq "game-data" } `
-                  | Select-Object -First 1
-                if ($asset) {
-                  $url = $asset.url
-                  Write-Host "Found game-data asset: $($asset.name)"
-                }
-              }
-            } catch {
-              Write-Host "No game-data release asset found"
-            }
-          }
-
-          if ($url) {
-            Write-Host "Downloading game data from: $url"
-            $archive = "$env:RUNNER_TEMP/game-data.tar.gz"
-            if ($url -match "api.github.com") {
-              Invoke-WebRequest -Uri $url -Headers @{Accept = "application/octet-stream"} -OutFile $archive
-            } else {
-              Invoke-WebRequest -Uri $url -OutFile $archive
-            }
-            tar -xzf $archive -C $gameDataDir
-            Write-Host "Game data restored to $gameDataDir"
-          } else {
-            Write-Host "::warning::No game data source - map building will be skipped"
-            New-Item -ItemType Directory -Force -Path "$gameDataDir/Data/maps" | Out-Null
-            New-Item -ItemType Directory -Force -Path "$gameDataDir/DataX/UserCampaigns" | Out-Null
-          }
 
       # ---- Build -----------------------------------------------------------
       - name: Build all languages
@@ -146,12 +98,7 @@ jobs:
             "- DataX/UserCampaigns/ - User campaign maps",
             "- Data/Text/ - Game system text (hypertext, encyclopedia)",
             "- DataX/FMV/ - Full-motion videos (when available)",
-            "",
-            "### Notes",
-            "- Map.dat files are original game data, not modified by this build",
-            "- Only text content (strings.ini, briefings.txt, .hlt files) is localized",
-            "- If maps are missing, the build lacked source game data",
-            "  Run locally with SAGA_GAME_HACK to produce a full build"
+            ""
           )
           $body = $lines -join "`r`n"
 

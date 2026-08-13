@@ -31,8 +31,11 @@ from pathlib import Path
 # CulturesGameLocalization project root (parent of this script)
 PROJ_ROOT = Path(__file__).resolve().parent
 
-# Game reference directory (copy map.dat/map.ini/text/ger/ etc.)
+# Game reference directory (source for map.dat/map.ini/text/ger/ resources)
+# Local builds: use full SAGA_GAME_HACK directory
+# CI builds:    use mapdata/ (committed to repo, contains essential files only)
 GAME_DIR = Path(r"G:/Projects/Cultures_Saga_CN/SAGA_GAME_HACK")
+MAPDATA_DIR = PROJ_ROOT / "mapdata"
 
 # XML source
 XML_MAIN = PROJ_ROOT / "Localization" / "map_xml"
@@ -101,6 +104,7 @@ def copy_additional_assets():
 
     - Localization/text/ → _build/Data/Text/  (game text resources)
     - Movie/             → _build/DataX/FMV/  (movie rarely changes, commented out)
+    - CulturesGameExtend/ → _build/plugins/   (DLL hook, fonts, config for UTF-8 rendering)
     """
     # 1) Localization/text → _build/Data/Text
     text_dst = BUILD_ROOT / "Data" / "Text"
@@ -122,6 +126,44 @@ def copy_additional_assets():
     # else:
     #     print(f"  [Skip] Movie/ not found")
 
+    # 3) CulturesGameExtend submodule → _build/plugins/  (DLL + fonts + config)
+    extend_src = PROJ_ROOT / "CulturesGameExtend" / "Resource" / "plugins"
+    plugins_dst = BUILD_ROOT / "plugins"
+    if extend_src.exists():
+        if plugins_dst.exists():
+            shutil.rmtree(plugins_dst)
+        shutil.copytree(extend_src, plugins_dst)
+        dll_src = PROJ_ROOT / "CulturesGameExtend" / "CulturesGameExtend" / "CulturesGameExtend.dll"
+        if dll_src.exists():
+            plugins_dst.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(dll_src, plugins_dst / "CulturesGameExtend.dll")
+            print(f"  [OK] CulturesGameExtend.dll → plugins/")
+        else:
+            print(f"  [Skip] CulturesGameExtend.dll not found (build the DLL first)")
+        print(f"  [OK] CulturesGameExtend/Resource/plugins/ → plugins/")
+    else:
+        print(f"  [Skip] CulturesGameExtend/ submodule not found (git submodule update --init)")
+
+
+def resolve_map_source(map_id: str, loc_tools) -> Path | None:
+    """Find the source map directory for map_id.
+
+    Prefers the committed mapdata/ (CI-compatible), falls back to GAME_DIR
+    (full local game data). Verifies map.dat MD5 against the XML when possible.
+    Returns None if no source is found.
+    """
+    candidates = [
+        MAPDATA_DIR / "Data" / "maps" / map_id,
+        GAME_DIR / "Data" / "maps" / map_id,
+    ]
+    for src in candidates:
+        if src.is_dir() and (src / "map.dat").exists():
+            return src
+        if src.is_dir():
+            # Some maps (e.g. campaign_01_09) have no map.dat — text-only
+            return src
+    return None
+
 
 def build_main_maps(loc_tools):
     """Build main campaign maps (128 maps)"""
@@ -130,7 +172,6 @@ def build_main_maps(loc_tools):
     print(f"  Main Campaign: {len(xml_files)} maps")
     print(f"{'='*60}")
 
-    src_maps = GAME_DIR / "Data" / "maps"
     build_maps = BUILD_ROOT / "Data" / "maps"
 
     ok = skip = 0
@@ -138,10 +179,15 @@ def build_main_maps(loc_tools):
         data = loc_tools.parse_xml_file(f)
         map_id = data.get("export_map_id") or data.get("map_id") or f.stem
         target_dir = build_maps / map_id
+        xml_md5 = data.get("map_md5", "")
 
         # 1) Copy original game data (map.dat, map.ini, text/ger/ etc.)
-        src_dir = src_maps / map_id
-        if src_dir.exists():
+        src_dir = resolve_map_source(map_id, loc_tools)
+        if src_dir is not None:
+            # MD5 sanity check: warn when the committed mapdata differs
+            src_md5 = loc_tools.md5_file(src_dir / "map.dat") if (src_dir / "map.dat").exists() else ""
+            if xml_md5 and src_md5 and xml_md5 != src_md5:
+                print(f"  [WARN] {map_id}: mapdata MD5 {src_md5[:8]} != XML {xml_md5[:8]}")
             if target_dir.exists():
                 shutil.rmtree(target_dir)
             shutil.copytree(src_dir, target_dir)
@@ -178,7 +224,6 @@ def build_user_maps(loc_tools):
     print(f"  User Campaigns: {len(user_xmls)} maps")
     print(f"{'='*60}")
 
-    src_user = GAME_DIR / "DataX" / "UserCampaigns"
     build_user = BUILD_ROOT / "DataX" / "UserCampaigns"
 
     ok = skip = 0
@@ -189,8 +234,17 @@ def build_user_maps(loc_tools):
         target_dir = build_user / campaign / map_id / "currentusermap"
 
         # 1) Copy original game data (including text/ger/ full resources)
-        src_dir = src_user / campaign / map_id / "currentusermap"
-        if src_dir.exists():
+        # Try mapdata/ first, then GAME_DIR
+        src_dir = None
+        for base in (MAPDATA_DIR, GAME_DIR):
+            candidate = base / "DataX" / "UserCampaigns" / campaign / map_id / "currentusermap"
+            if candidate.is_dir() and (candidate / "map.dat").exists():
+                src_dir = candidate
+                break
+            elif candidate.is_dir():
+                src_dir = candidate
+                break
+        if src_dir is not None:
             if target_dir.exists():
                 shutil.rmtree(target_dir)
             shutil.copytree(src_dir, target_dir)

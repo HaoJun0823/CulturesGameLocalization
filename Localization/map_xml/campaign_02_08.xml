@@ -1,72 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_02_08" export_map_id="campaign_02_08" map_md5="d1e1b67b380852c22bc9bad521233141" IsC2M="false">
+<localization version="1.3" map_id="campaign_02_08" export_map_id="campaign_02_08" map_md5="d1e1b67b380852c22bc9bad521233141" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@找到奥丁，将希拉从魅惑中解救！</text>
+      <text lang="eng">@Find Odin and free Cyra from the spell!</text>
       <text lang="ger">@Finde Odin und befreie Cyra aus dem Bann!</text>
     </string>
     <string id="1">
       <text lang="CHN">向那些被冰封的神明探问他们与你的过往。</text>
+      <text lang="eng">Ask the frozen gods about their story and yours.</text>
       <text lang="ger">Befrage die eingefrorenen Götter nach ihrer und deiner Geschichte.</text>
     </string>
     <string id="2">
       <text lang="CHN">击退洛基的全部幽灵战士！</text>
+      <text lang="eng">Fight all Loki's ghost warriors!</text>
       <text lang="ger">Bekämpfe alle Geisterkrieger Loki's!</text>
     </string>
     <string id="3">
       <text lang="CHN">步入瓦尔哈拉。</text>
+      <text lang="eng">Enter Valhalla.</text>
       <text lang="ger">Betritt Walhalla.</text>
     </string>
     <string id="4">
       <text lang="CHN">击败伊科尔，从希拉手中夺回护符！</text>
+      <text lang="eng">Fight Ykol and take the amulet away from Cyra!</text>
       <text lang="ger">Bekämpfe Ykol und entreiße Cyra das Amulett!</text>
     </string>
     <string id="5">
       <text lang="CHN">沿石径前往阿斯加德的殿厅！</text>
+      <text lang="eng">Follow the stony path to the Halls of Asgard!</text>
       <text lang="ger">Folge den steinernen Pfad zu den Hallen Asgards!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的部族</text>
+      <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarnis Stamm</text>
     </string>
     <string id="51">
       <text lang="CHN">洛基的幽灵战士</text>
+      <text lang="eng">Loki's Ghost Warriors</text>
       <text lang="ger">Loki's Geisterkrieger</text>
     </string>
     <string id="53">
       <text lang="CHN">洛基</text>
+      <text lang="eng">Loki</text>
       <text lang="ger">Loki</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
+      <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
+      <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
+      <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">伊科尔（洛基）</text>
+      <text lang="eng">Ykol (Loki)</text>
       <text lang="ger">Ykol (Loki)</text>
     </string>
     <string id="98">
       <text lang="CHN">我们终于抵达终点。这便是：阿斯加德--神明的世界！</text>
+      <text lang="eng">We had reached our destination. This was it: Asgard - the world of the gods!</text>
       <text lang="ger">Wir waren am Ziel angekommen. Dies war sie nun: Asgard - die Welt der Götter!</text>
     </string>
     <string id="99">
       <text lang="CHN">阿斯加德</text>
+      <text lang="eng">ASGARD</text>
       <text lang="ger">ASGARD</text>
     </string>
   </strings>
@@ -84,6 +101,18 @@
 
 此刻我终于了然--自踏入海尔之国起，那令我隐隐不安、却不敢深信的预感，终究成真--伊科尔，无论他是谁、怀揣何种图谋--他竟是在对我们耍弄诡诈的骗局！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+The incredible world of the gods opened up in front of us.
+We had reached our destination at last! This was it: Asgard - the world of the gods!
+ 
+A majestic broad staircase led up the mountain to a wide plain ...
+
+... but while we were still paralysed by this impressive sight, all of a sudden Ykol gave a malicious laugh and ran away up the stairs! As soon as he had passed the first step, it disappeared in the ground, so that the bottom of the staircase had soon vanished entirely!
+
+What I had almost suspected after entering Hel's realm was now a certainty: Whoever Ykol was and whatever he had planned - he was playing an evil game with us! 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -117,6 +146,23 @@ Jetzt endlich offenbarte sich, was ich seit dem Eintritt in Hels Reich nur leise
 沿石径前往阿斯加德神殿！
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+My suspicions proved true sooner than I had thought. Ykol had left the first steps behind him, which now created a gap between him and us. He turned and faced us with a wicked sneer. And then he revealed his secret ...
+
+He had been playing us false all the time! 
+All he had ever really wanted was to gain the upper hand in the world of the gods, he wanted revenge on Odin and all the other gods for his banishment - and he would stop at nothing to get it ... 
+
+Revenge? What for? 
+Banished by the gods? A human? 
+Ykol? Who was he really?
+What did he intend to do next? 
+
+Whatever he might be planning - we had to stop him in any case! 
+
+Follow the stony path to the Halls of Asgard!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Mein Verdacht bestätigte sich schneller als gedacht. Kaum hatte Ykol einige Stufen hinter sich gelassen und den Weg zwischen ihm und uns versperrt, blieb er stehen und drehte sich mit einem höhnischen Grinsen zu uns um. Siegessicher offenbarte er uns sein Geheimnis...
@@ -144,6 +190,13 @@ Folge den steinernen Pfad zu den Hallen Asgards!
 这些不死战士凭空向我们袭来，不宣而战……
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+GHOST WARRIORS
+
+These undead warriors appeared from out of nowhere and attacked us without warning ... 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 GEISTERKRIEGER
@@ -164,6 +217,17 @@ Wie aus dem Nichts kamen diese untoten Krieger auf uns zu und griffen uns ohne V
 
 将阿拉伯的饥荒招致的，绝非他人，正是他本人！他以恶毒魔法，将困顿与悲苦倾覆于当地之人！而他以所谓的相助接近你们，不过是欺瞒尔等、骗取信任罢了！"
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+FREYA
+
+"Our world was once mighty and untarnished, but now Odin has lost his mind and we are trapped in the ice!" the ice statue told us. We immediately recognised Freya, the goddess of fertility and war.
+
+Loki, whom you call Ykol - the god of lies and falsehood - has brought this harm on us and on so many humans. 
+
+He alone was responsible for the famine in Arabia. With his evil spell he wrought privation and suffering on the humans! He deceived you with his feigned helpfulness so that you would trust him!" 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -193,6 +257,22 @@ Niemand geringeres als er selbst war verantwortlich für die Hungersnot in Arabi
 
 奥丁如今所陷危境，何其深重！"
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+BALDUR
+
+"Our world was once mighty and untarnished, but now Odin has lost his mind and we are trapped in the ice!" the ice statue told us. We immediately recognised the friendly god of light, purity and healing: 
+Baldur - the son of the sun and source of all that is good.
+
+"Remember: Loki, whom you call Ykol - the god of lies and falsehood - fought by your side against the wolves ...
+
+But it was he himself who created the Fenris Wolf, and it was he who released him from his bonds and brought the wolf plague over the land! You helped him find "Odin's Heart". The amulet which you, Bjarni, placed about Cyra's neck on Loki's advice, has made her immortal. Loki knew that this would happen, and he also knew that Fenrir would take her to Valhalla, to the world of the immortal! 
+
+Here the amulet cast its love spell on Odin, who was from then on enchanted by its human bearer. He no longer perceived the world around him, therefore he could not ward off Loki's attacks!
+
+Odin is in very great danger!"
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -227,6 +307,21 @@ Allzu groß ist die Gefahr, in der Odin nun schwebt!"
 如今你们又将他引至此地。托你们之助，他的复仇再无阻拦……"
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+NJORD
+
+"Our world was once mighty and untarnished, but now Odin has lost his mind and we are trapped in the ice!" the ice statue told us. We immediately recognised Njord, the god of the winds and seas. 
+
+"Remember: Loki, whom you call Ykol - the god of lies and falsehood - created the serpent plague and the famine with his dark magic! 
+
+He created these beings of horror, which eliminated large parts of Arabia!
+He obtained your trust and friendship in battle against his own creations!
+
+And now you have led him here. Thanks to your actions, nothing can now stop him from taking his revenge ..."
+
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 NJIÖRD
@@ -258,6 +353,19 @@ Und nun habt ihr ihn hierher geführt. Dank eures Zutuns steht seiner Rache nun 
 无力既久，我们唯有将自身的故事诉与你们……"
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THOR
+
+"Our world was once mighty and untarnished, but now Odin has lost his mind and we are trapped in the ice!" the ice statue told us. We immediately recognised Thor, whose protecting might was reflected in the power of thunder and lightning.
+
+"Remember: Loki, whom you call Ykol - the god of lies and falsehood - left you in Hel's realm. 
+
+But he did not do so to pave the way for you, but to reach Heimdall's horn before you did! He secretly covered it with the ice potion of the Wyonasers, and when Heimdall blew his enchanted horn, he froze the world of the gods without knowing or intending it. That is how we were transformed into ice statues! 
+
+All we are now capable of is to tell you our story ..."
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 THOR
@@ -288,6 +396,20 @@ In unserer Machtlosigkeit bleibt uns nur, euch unsere Geschichte zu erzählen...
 探询冰中之神，召集战士！
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+FRIGG 
+
+"Our world was once mighty and untarnished, but now Odin has lost his mind and we are trapped in the ice!" the ice statue told us. We immediately recognised Frigg, Odin's wife and the goddess of love, women, family and homes.
+
+"Loki, whom you call Ykol - the god of lies and falsehood - wrought disaster on us and so many humans! 
+Ask the others, they will explain everything. 
+
+They will send you warriors of the gods. You will never reach the way to the Halls of Asgard without them!"
+
+Speak to the gods in the ice and collect the warriors! 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 FRIGG
@@ -312,6 +434,13 @@ Befrage die Götter im Eis und sammle die Krieger!
 无数幽灵战士，必正于这重重墙后静候着我们！我们须得准备一场恶战！！！
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+These gates concealed many secrets ... 
+
+There could hardly be any doubt that countless ghost warriors would be waiting for us behind these walls! We had to ready ourselves for a fierce battle!  
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Diese Tore bargen so manches Geheimnis ... 
@@ -327,6 +456,11 @@ Sicherlich würden noch unzählige Geisterkrieger hinter diesen Mauern auf uns w
 我们已问遍所有冰雕之神。通往阿斯加德神殿之路，就此为我们敞开。冰中之神，再无可助我们的兵力了……
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+We had spoken to all the ice statues. The way into the Halls of Asgard was open to us now. We could not expect to receive any more support from the gods in the ice ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Wir hatten alle Eisstatuen befragt. Der Weg in die Hallen Asgards stand uns damit offen. Mehr Unterstützungen konnten wir von den Götter im Eis nicht erwarten ...
@@ -341,6 +475,13 @@ Wir hatten alle Eisstatuen befragt. Der Weg in die Hallen Asgards stand uns dami
 
 在你未揭开诸神之秘、剿灭洛基的幽灵战士之前，此殿之门将始终为你紧闭。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE HALL OF THE GODS 
+
+You cannot enter this hall until we have uncovered the gods' secrets and destroyed Loki's ghost warriors.  
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -361,6 +502,17 @@ Bevor wir nicht die Geheimnisse der Götter gelüftet die Geisterkrieger Lokis v
         <text>
 是逞勇还是鲁莽？比雅尼陨落之时，诸神亦为之落泪……少了这位英雄，你便无缘得知此役的结局。
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -387,6 +539,18 @@ Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen 
 击败洛基及其残部，从希拉身上夺回护符，破除笼罩奥丁的魔咒！
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+LOKI
+
+"You unworthy creatures, you are so easily deceived! Now I wield the power over the gods' world, because Odin is blinded by your dear Cyra and her love amulet! 
+
+Hahahahaha!" 
+
+
+Fight Loki and his last warriors and take the amulet from Cyra to break Odin's spell!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 LOKI
@@ -409,6 +573,13 @@ Bekämpfe Loki und seine letzten Krieger und entreiße Cyra das Amulett, um den 
 冰中之女神拨予我们五名勇毅的冰战士。若寻得其余冰雕，我们定能为通往阿斯加德神殿之路，再赢得更多战士……
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+ICE WARRIORS
+
+The goddess in the ice provided us with 5 valiant ice warriors. If we found the other statues, we would gain further warriors to accompany us on our way to the Halls of Asgard ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 EISKRIEGER
@@ -422,6 +593,12 @@ Die Göttin im Eis stellte uns 5 tapfere Eiskrieger zur Seite. Wenn wir die ande
         <text>
 我们已问明冰中之神的过往，亦剿灭了所有幽灵战士。通往最后一座神殿之路，就此敞开！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+
+We had spoken to the gods in the ice about their story and ours, and all the ghost warriors had been defeated. The path into the last hall was now open!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -441,6 +618,17 @@ Die Götter im Eis hatten wir zu ihrer und unserer Geschichte befragt und alle G
         <text>
 生命里片刻的轻率，便致此般后果！你的挚友与英雄哈奇，因你的疏忽而殒命！少了这位英雄，你便无缘得知此役的结局。
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -466,6 +654,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 生命里片刻的轻率，便致此般后果！你的挚友与英雄西格德，因你的疏忽而殒命！少了这位英雄，你便无缘得知此役的结局。
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Sigurd died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -489,6 +688,15 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 这护符之力，虽可造福良多，亦能酿祸无穷，绝不该再令它伤及人神分毫……
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+Together we managed to obtain the amulet. Thus the spell that the love amulet had cast on Odin was broken: He had seen only Cyra, the bearer of the amulet, and hadn't been aware of the world around him at all ... which would have given Loki an excellent opportunity to take his revenge unhindered. 
+
+What a malicious plan! But it had been thwarted and Loki's evil was finally ended! 
+
+The power of the amulet, which could do much good but also much evil, should never again do any damage to humans or to the gods ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Gemeinsam hatten wir es geschafft, das Amulett an uns zu reißen. Damit war auch der Bann gebrochen, in den das Liebesamulett Odin gezogen hatte. Dieser hatte nur noch Augen für Cyra als Trägerin des Amulettes gehabt und die Welt um sich herum nicht mehr wahr genommen... womit für Loki und seinen Rachezug der Weg frei gewesen wäre. 
@@ -506,6 +714,11 @@ Die Macht des Amulettes, die zwar viel Gutes aber auch viel Böses bewirken konn
 ……这，便是我们几位挚友在此日立下的誓约……
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+... such was the vow my friends and I took that day ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 ... dies war das Versprechen, das wir Freunde uns an diesem Tage gaben ...
@@ -517,6 +730,12 @@ Die Macht des Amulettes, die zwar viel Gutes aber auch viel Böses bewirken konn
         <text>
 任务成功！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+
+MISSION COMPLETED! 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -530,6 +749,12 @@ MISSION GEWONNEN!
         <text>
 阿斯加德
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+
+ASGARD
+</text>
       </lang>
       <lang code="ger">
         <text> 

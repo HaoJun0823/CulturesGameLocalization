@@ -1,52 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_03_03_sub3" export_map_id="campaign_03_03_sub3" map_md5="de806c0d97818eeb236fee07c1fc82fd" IsC2M="false">
+<localization version="1.3" map_id="campaign_03_03_sub3" export_map_id="campaign_03_03_sub3" map_md5="de806c0d97818eeb236fee07c1fc82fd" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">简短说明 0</text>
+      <text lang="eng">Shortdescription 0</text>
       <text lang="ger">Shortdescription 0</text>
     </string>
     <string id="1">
       <text lang="CHN">简短说明 1</text>
+      <text lang="eng">Shortdescription 1</text>
       <text lang="ger">Shortdescription 1</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家</text>
+      <text lang="eng">Player</text>
       <text lang="ger">Spieler</text>
     </string>
     <string id="51">
       <text lang="CHN">守卫</text>
+      <text lang="eng">Guard</text>
       <text lang="ger">Wächter</text>
     </string>
     <string id="60">
       <text lang="CHN">玩家</text>
+      <text lang="eng">Player</text>
       <text lang="ger">Spieler</text>
     </string>
     <string id="61">
       <text lang="CHN">守卫</text>
+      <text lang="eng">Guard</text>
       <text lang="ger">Wächter</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="98">
       <text lang="CHN">巨像神谕</text>
+      <text lang="eng">COLOSSUS - ORACLE</text>
       <text lang="ger">KOLOSS-ORAKEL</text>
     </string>
     <string id="99">
       <text lang="CHN">巨像神谕</text>
+      <text lang="eng">COLOSSUS - ORACLE</text>
       <text lang="ger">KOLOSS-ORAKEL</text>
     </string>
     <string id="100">
       <text lang="CHN">与神谕者交谈。大胆走近他！</text>
+      <text lang="eng">Talk to the oracle. Be brave and approach it!</text>
       <text lang="ger">Sprich mit dem Orakel. Wage dich in seine Nähe!</text>
     </string>
     <string id="110">
       <text lang="CHN">再度离开神谕者……</text>
+      <text lang="eng">Leave the oracle ...</text>
       <text lang="ger">Verlasse das Orakel wieder...</text>
     </string>
   </strings>
@@ -62,6 +74,19 @@
 
 曾令无数英雄折腰--如今，她就在我们面前。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+A path in the temple's vaults led down to the holy site of the oracle. But what we saw there made our blood freeze!
+
+The oracle - it was none other than Circe, daughter of the sun god Helios and the moon goddess Perseis! 
+She was a mighty sorceress, and above all notorious for turning men's heads and changing them into animals!
+
+What fate awaited us here? Had we been deceived?
+
+
+Reach the oracle.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -79,6 +104,7 @@ Erreiche das Orakel.
     </block>
     <block id="09_end_header">
       <lang code="CHN" />
+      <lang code="eng" />
       <lang code="ger" />
     </block>
     <block id="09_end_text1">
@@ -93,6 +119,15 @@ Erreiche das Orakel.
 我们忐忑地踏出户外，想看众神的怒火将如何显现……
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+EXIT
+
+Well, that had been easier than we had expected.
+
+Curiously we stepped outside to see how the fury of the gods would be revealed ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -125,6 +160,25 @@ Gespannt traten wir ins Freie um zu sehen, wie sich der Zorn der Götter bemerkb
 离开神谕。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+CIRCE
+
+When we faced Circe, the goddess turned to us with a mysterious voice:
+
+"Helios, the god of the sun, the protector of Rhodes, speaks through me.
+Listen, stranger. Your trouble is not unknown to me. Demetrios, the miserable blasphemer, will fall with all of his men!
+Those who invoke the fury of the gods will suffer evil!
+
+As a token of your thanks, build a statue in my honour! It should be mighty and shining to honour my name to the end of time! 
+It is to decorate the city of Rhodes and always remind the people of my support! 
+
+Now go back up and witness my power!"
+
+
+Leave the oracle.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -164,6 +218,17 @@ Verlasse das Orakel.
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -189,6 +254,16 @@ Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen 
 愿众神垂怜于我们！
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE GUARD OF THE ORACLE
+
+We might have known ... 
+Out of the darkness a huge demon appeared in front of us to guard the oracle!
+
+May the gods be kind to us!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -218,6 +293,17 @@ Mögen die Götter uns gnädig sein!
 一时的疏忽，人生便会急转直下！你的女英雄希拉因你的大意而丧命！失去这位英雄，你将无缘见到任务的结局。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -249,6 +335,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin C
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -278,6 +375,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 一时的疏忽，人生便会急转直下！你的挚友与英雄西格德因你的大意而丧命！失去这位英雄，你将无缘见到任务的结局。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -310,6 +418,19 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 如此你将无法完成使命！
         
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+You attacked your best friends although you had been warned! 
+
+This way you will not be able to complete your mission!
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -345,6 +466,19 @@ So wirst du deine Mission nicht beenden können!
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+The guard of the oracle was stronger than you. 
+
+Now you will never know what secret the oracle is hiding!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -367,6 +501,11 @@ Nun wirst du nie erfahren, welches Geheimnis das Orakel birgt!
 神谕
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE ORACLE
+</text>
       </lang>
       <lang code="ger">
         <text> 

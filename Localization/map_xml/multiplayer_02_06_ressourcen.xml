@@ -1,65 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="multiplayer_02_06_ressourcen" export_map_id="multiplayer_02_06_ressourcen" map_md5="508e9c9e2eec66bc78fa6de21658736f" IsC2M="false">
+<localization version="1.3" map_id="multiplayer_02_06_ressourcen" export_map_id="multiplayer_02_06_ressourcen" map_md5="508e9c9e2eec66bc78fa6de21658736f" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
-<string id="0">
+    <string id="0">
       <text lang="CHN">经济：寒冬降临</text>
+      <text lang="eng">ECONOMY: WINTER IS HERE</text>
       <text lang="ger">Wirtschaft: WINTEREINBRUCH</text>
     </string>
-<string id="1">
+    <string id="1">
       <text lang="CHN">4 个部族比邻而居，一同为漫长寒冬做准备。外交与贸易关系，全由你一人决断！</text>
+      <text lang="eng">4 tribes live together peacefully and prepare for the long winter. You alone can determine their diplomatic and trade relations!</text>
       <text lang="ger">4 Stämme leben gemeinsam nebeneinander und bereiten sich auf den langen Winter vor. Über Diplomatie- und Handelsbeziehungen entscheidest allein du!</text>
     </string>
-<string id="2">
+    <string id="2">
       <text lang="CHN">赚取 80 枚金币、25 把长剑、50 份大份食物饮料，并存入你的某个仓库。与其他部族贸易或交战，悉听尊便。最先在仓库集齐资源的部族获胜……</text>
+      <text lang="eng">Gather 80 coins, 25 longswords and 50 big nourishing potions and take them to one of your warehouses. You can choose to either trade with the other tribes or fight them. The first tribe to accumulate all the resources wins ...</text>
       <text lang="ger">Erwirtschafte 80 Münzen, 25 Langschwerter, 50 große Nahrungstränke und bringe sie in eines deiner Lager. Der Handel mit den anderen Stämmen oder die Bekämpfung dergleichen ist dir freigestellt. Der Stamm, welcher zuerst die Rohstoffe im Lager hat, gewinnt...</text>
     </string>
-<string id="10">
+    <string id="10">
       <text lang="CHN">斯库兰人</text>
+      <text lang="eng">Skoilanders</text>
       <text lang="ger">Skoiländer</text>
     </string>
-<string id="11">
+    <string id="11">
       <text lang="CHN">斯库兰人</text>
+      <text lang="eng">Skoilanders</text>
       <text lang="ger">Skoiländer</text>
     </string>
-<string id="20">
+    <string id="20">
       <text lang="CHN">文兰人</text>
+      <text lang="eng">Vinlanders</text>
       <text lang="ger">Vinländer</text>
     </string>
-<string id="21">
+    <string id="21">
       <text lang="CHN">文兰人</text>
+      <text lang="eng">Vinlanders</text>
       <text lang="ger">Vinländer</text>
     </string>
-<string id="30">
+    <string id="30">
       <text lang="CHN">布尔兰人</text>
+      <text lang="eng">Burlanders</text>
       <text lang="ger">Burländer</text>
     </string>
-<string id="31">
+    <string id="31">
       <text lang="CHN">布尔兰人</text>
+      <text lang="eng">Burlanders</text>
       <text lang="ger">Burländer</text>
     </string>
-<string id="40">
+    <string id="40">
       <text lang="CHN">科兰人</text>
+      <text lang="eng">Koalanders</text>
       <text lang="ger">Koaländer</text>
     </string>
-<string id="41">
+    <string id="41">
       <text lang="CHN">科兰人</text>
+      <text lang="eng">Koalanders</text>
       <text lang="ger">Koaländer</text>
     </string>
-</strings>
-<briefings>
-<block id="begin_00">
+  </strings>
+  <briefings>
+    <block id="begin_00">
       <lang code="CHN">
-                <text>
+        <text>
 一个新时代拉开了序幕。四个维京部族在山谷中安下新家，这里每个人都有足够的栖身之所。
 
 寒冬将至，尚有诸多事务亟待料理：须赶在入冬前，将所需物资悉数囤入仓库。
 
 谁能最快把全部所需货物运进仓库，谁便赢得胜利。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+It is the beginning of a new age. Four Viking tribes have set up new homes on a wide terrain. There is ample room and enough resources for everyone. 
+The tribes enjoy a peaceful coexistence, and there is really no need for them to fight ... 
+
+There's a lot to do before the cold of winter sets in: You must gather certain resources to produce the following goods:
+80 coins
+25 longswords
+50 big nourishing potions
+
+The first tribe to accumulate all the required goods wins.
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -75,12 +100,18 @@ Das Volk, welches am schnellsten alle benötigten Waren im Lager hat, gewinnt.
 </text>
       </lang>
     </block>
-
     <block id="header">
       <lang code="CHN">
-                <text>
+        <text>
 冬季降临
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+WINTER IS HERE
+
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -90,5 +121,5 @@ WINTEREINBRUCH
 </text>
       </lang>
     </block>
-</briefings>
+  </briefings>
 </localization>

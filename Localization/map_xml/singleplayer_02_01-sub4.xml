@@ -1,34 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="singleplayer_02_01-sub4" export_map_id="singleplayer_02_01-sub4" map_md5="4a56628b0b6352e7d28e0f36bc952e0a" IsC2M="false">
+<localization version="1.3" map_id="singleplayer_02_01-sub4" export_map_id="singleplayer_02_01-sub4" map_md5="4a56628b0b6352e7d28e0f36bc952e0a" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
-<string id="0">
+    <string id="0">
       <text lang="CHN">求见国王！</text>
+      <text lang="eng">Consult the king!</text>
       <text lang="ger">Konsultiere den König!</text>
     </string>
-<string id="55">
+    <string id="55">
       <text lang="CHN">米格尔的友人</text>
+      <text lang="eng">Miguel's Friends</text>
       <text lang="ger">Miguels Freunde</text>
     </string>
-<string id="71">
+    <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
-<string id="99">
+    <string id="99">
       <text lang="CHN">危难之族</text>
+      <text lang="eng">A TRIBE IN DANGER</text>
       <text lang="ger">BEDROHTES VOLK</text>
     </string>
-</strings>
-<briefings>
-<block id="begin_00"><lang code="CHN">
-                <text>
+  </strings>
+  <briefings>
+    <block id="begin_00">
+      <lang code="CHN">
+        <text>
 这海底洞窟全然出乎意料！逃亡者在此建起一座小城，作为应急栖身之所，未免太过奢华！
 
 可细看之下，居民尽显瘦削--此处似乎也无多少淡水……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+This underground grotto was not as we had expected it to be! The refugees had built a small town here, so that it was almost luxurious for an emergency shelter!
+
+But on closer inspection the inhabitants seemed very thin - and there didn't seem to be much drinking water either ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -38,10 +51,9 @@ Aber bei genauerem Hinsehen fiel auf, wie abgemagert die Bewohner waren - und S�
 </text>
       </lang>
     </block>
-
     <block id="begin_01">
       <lang code="CHN">
-                <text>
+        <text>
 雇佣兵
 
 "你们是何人，外乡人？你们应我们的求救而来？
@@ -53,6 +65,21 @@ Aber bei genauerem Hinsehen fiel auf, wie abgemagert die Bewohner waren - und S�
 
 你们一旦离开这藏身处，屏障定已消散！去吧，将这世间从怪物手中解放！"
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+MERCENARIES
+
+Who are you, friends? Have you come to answer our call for help?
+Excellent, then we do still have a chance! 
+
+We have thought of a technique we can use to remove the barriers to the swamp maze! A secret detachment is already on its way there! We sent it to search for help in the lands!
+
+But now you are here and our search has come to an end! Help us and we will be eternally grateful! We would love to see the sun again!
+
+When you leave this hiding place, the barrier will be gone! Go and free the world from these monsters!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -70,12 +97,17 @@ Wenn ihr dieses Versteck wieder verlassen habt, ist die Barriere bestimmt schon 
 </text>
       </lang>
     </block>
-
     <block id="begin_02">
       <lang code="CHN">
-                <text>
+        <text>
 国王因忧心部族而病倒！我们的处境实在不妙！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+The king's concern about our tribe has made him ill! Things are looking very bad for us!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -84,12 +116,17 @@ Der König ist vor Sorge um unseren Stamm erkrankt! Es sieht wirklich schlimm f�
 </text>
       </lang>
     </block>
-
     <block id="begin_03">
       <lang code="CHN">
-                <text>
+        <text>
 国王由他最得力的三名雇佣兵代为行事！前往黄金雕像，在那里与他们会合！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+The king has asked his three best mercenaries to represent him! Go to the golden statue and meet them there!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -98,12 +135,18 @@ Der König lässt sich von seinen drei besten Söldnern vertreten! Geh zur golde
 </text>
       </lang>
     </block>
-
     <block id="header">
       <lang code="CHN">
-                <text>
+        <text>
 隐秘之族
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE SECRET TRIBE
+
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -113,5 +156,5 @@ GEHEIMES VOLK
 </text>
       </lang>
     </block>
-</briefings>
+  </briefings>
 </localization>

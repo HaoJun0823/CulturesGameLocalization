@@ -1,0 +1,400 @@
+==========================================================================================
+FILE _campaign_04_04_sub1.xml
+--- block 00_start
+  G: | 
+Wir waren den Drachen gefolgt und augenblicklich fanden wir uns in einer seltsam fremden Umgebung wieder. 
+Zweifellos befanden wir uns wieder in einem der vielen Wassertempel der AQUAS!
+|
+  >> 旧CHN:
+  C: |
+我们的同伴即刻各奔东西。我们须找到这座神庙的守卫，或许他能助我们一臂之力？
+寻找古尔普！
+        |
+--- block 00_start1
+  G: |
+Unsere Begleiter gingen sofort ihrer Wege. Wir mußten den Wächter dieses Tempels finden, vielleicht konnte er uns bei unserer Mission unterstützen?
+
+Suche GULP!
+|
+  >> 旧CHN:
+  C: |
+古尔普
+“你们当真立下大功，救回了我们的族裔。”
+
+“你们可还记挂着他们，记得他们的名字？其中有三条就在这瀑布旁。找到他们，他们会给你们备下惊喜！”
+寻回曾陪伴你的三条水龙。
+        |
+--- block 01
+  G: | 
+GULP
+
+"Ihr habt wahrlich Großes vollbracht, unsere Stammesangehörigen zu retten."
+
+|
+  G: |
+
+
+"Habt ihr sie euch eingeprägt, wißt ihr noch, wie sie heißen? Drei davon befinden sich hier an den Wasserfällen. Findet sie und sie halten eine Überraschung für euch bereit!"
+
+Finde die drei Wasserdrachen, die dich begleitet haben.
+|
+  >> 旧CHN:
+  C: |
+斯普
+
+鲁德尔
+        |
+  C: |
+“你们认出我了！难不成那饶舌的斯普鲁德尔，
+
+当真钻进了你们的脑瓜？”
+        |
+--- block 02
+  G: | 
+SPRUDEL
+
+|
+  G: |
+
+"Ihr habt mich erkannt! Da hat sich der gesprächige SPRUDEL wohl doch in eure Köpfe gequasselt?" 
+|
+  >> 旧CHN:
+  C: |
+尼刻斯
+        |
+  C: |
+“你们认出我了！尼刻斯也会永远把你们珍藏心底！”
+        |
+--- block 03
+  G: | 
+NIXE
+
+|
+  G: |
+
+"Ihr habt mich erkannt! NIXE wird euch auch immer im Herzen bei sich tragen!" 
+|
+  >> 旧CHN:
+  C: |
+薇蕾
+        |
+  C: |
+“你们认出我了！”
+        |
+--- block 04
+  G: | 
+WELLE
+
+|
+  G: |
+
+"Ihr habt mich erkannt! "
+|
+  >> 旧CHN:
+  C: |
+任务失败！
+        |
+  C: |
+是英勇，还是鲁莽？比雅尼陨落之时，诸神落泪……少了这位英雄，任务的结局将永远对你隐藏。
+        |
+--- block 100
+  G: |
+MISSION VERLOREN!
+|
+  G: |
+Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+|
+  >> 旧CHN:
+  C: |
+任务失败！
+        |
+  C: |
+一时的轻率，生命便转瞬即逝！你的女英雄希拉，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+        |
+--- block 200
+  G: |
+MISSION VERLOREN!
+|
+  G: |
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+|
+  >> 旧CHN:
+  C: |
+任务失败！
+        |
+  C: |
+“瀑布实则不过是一座小型水力发电站。借助浩渺水势，拨动三处开关，我们便能驱动地表之上的传送装置！”
+        |
+--- block 50_end
+  G: | 
+ÜBERRASCHUNG!
+
+"Eigentlich sind die Wasserfälle nichts anderes als ein kleines Wasserkraftwerk. Mit Hilfe der immensen Wasserkraft und durch die Betätigung der drei Schalter, haben wir die Möglichkeit, die Teleporter auf der Erdoberfläche zu betreiben!"
+
+|
+  >> 旧CHN:
+  C: |
+为感救命之恩，也因它们于我们不止是寻常龙
+
+族，阿夸斯激活了传送装置。
+        |
+--- block 50_end1
+  G: | 
+Zum Dank für ihre Rettung, und weil sie für uns mehr waren als nur irgendwelche Drachen, aktivierten die Aquas die Teleporter. 
+|
+  >> 旧CHN:
+  C: |
+干得漂亮！
+        |
+--- block 50_endheader
+  G: | 
+MISSION GEWONNEN! 
+|
+  >> 旧CHN:
+  C: |
+任务成功！
+        |
+--- block header
+  G: | 
+DIE DREI WASSERFÄLLE
+|
+  >> 旧CHN:
+  C: |
+三瀑布
+        |
+==========================================================================================
+FILE _campaign_04_04_sub2.xml
+--- block 00_start
+  G: | 
+Ungewöhnlich waren diese muffigen Kerker der Kabalianer, in denen wir uns wieder fanden...
+Unterirdisch sprossen hier Pilze und Schilf in einer morastigen Landschaft!
+|
+  >> 旧CHN:
+  C: |
+囚犯们看守森严。但纳帕利亚人的建筑里常有许多秘道，我们正可借之而行。
+寻找被囚的龙，将他们解放！
+        |
+--- block 00_start1
+  G: |
+Die Gefangenen würden gut bewacht werden. Aber es gab in kabalianischen Bauten oftmals viele Schleichwege. Diese konnten wir uns zu Nutze machen. 
+ 
+Finde die eingesperrten Drachen und befreie sie!
+|
+  >> 旧CHN:
+  C: |
+纳帕利亚人
+
+“你们竟敢闯进地牢？找死！”
+        |
+--- block 01
+  G: | 
+NAPALIANER
+
+|
+  G: |
+
+"Ihr wagt es hier in die Kerker einzudringen? Ihr seid des Todes!"
+|
+  >> 旧CHN:
+  C: |
+地龙
+        |
+  C: |
+我们终于寻得地龙！诺伯特喜不自胜！
+        |
+--- block 02
+  G: | 
+ERDDRACHEN
+
+|
+  G: |
+
+Endlich hatten wir Erddrachen gefunden! Norbert war außer sich vor Freude! 
+|
+  >> 旧CHN:
+  C: |
+魔法龙
+        |
+  C: |
+“纳帕利亚人四处作恶。我们魔法龙本以为能躲过他们，却也被俘。多谢你们救了我们。”
+        |
+--- block 03
+  G: | 
+ZAUBERDRACHEN
+
+|
+  G: |
+
+"Diese Napalianer treiben überall ihr Unwesen. Wir dachten, wir Zauberdrachen wären vor ihnen sicher, aber auch wir wurden gefangen genommen. Danke das ihr uns befreit habt."
+|
+  >> 旧CHN:
+  C: |
+水龙
+        |
+  C: |
+“我们本是纳帕利亚人易擒的猎物。多谢你们救了我们。”
+        |
+--- block 04
+  G: | 
+WASSERDRACHEN
+
+|
+  G: |
+
+"Wir sind eine leichte Beute für die Kabalianer. Danke das ihr uns befreit habt."
+|
+  >> 旧CHN:
+  C: |
+开关已启动！
+        |
+  C: |
+随着一声巨响，近处两扇沉重的木门豁然开启。
+        |
+--- block 05
+  G: | 
+SCHALTER BETÄTIGT!
+
+|
+  G: |
+
+Mit einem gewaltigen Knarren öffneten sich zwei schwere Holztüren unweit von hier.
+|
+  >> 旧CHN:
+  C: |
+纳帕利亚人已殒命！
+        |
+  C: |
+纳帕利亚人已被击败！
+        |
+--- block 06
+  G: | 
+NAPALIANER GESTORBEN!
+
+Die Napalianer waren besiegt!
+
+|
+  >> 旧CHN:
+  C: |
+水龙已殒命！
+
+所有水龙都已死去！如此任务的结局将永远对你隐藏！
+        |
+--- block 07
+  G: | 
+WASSERDRACHEN GESTORBEN!
+
+Alles Wasserdrachen waren gestorben! So wird dir das Ende der Mission verborgen bleiben!
+|
+  >> 旧CHN:
+  C: |
+地龙已殒命！
+
+所有地龙都已死去！如此任务的结局将永远对你隐藏！
+        |
+--- block 08
+  G: | 
+ERDDRACHEN GESTORBEN!
+
+Alles Erddrachen waren gestorben! So wird dir das Ende der Mission verborgen bleiben!
+|
+  >> 旧CHN:
+  C: |
+魔法龙已殒命！
+
+所有魔法龙都已死去！如此任务的结局将永远对你隐藏！
+        |
+--- block 09
+  G: | 
+ZAUBERDRACHEN GESTORBEN!
+
+Alles Zauberdrachen waren gestorben! So wird dir das Ende der Mission verborgen bleiben!
+|
+  >> 旧CHN:
+  C: |
+任务失败！
+
+是英勇，还是鲁莽？比雅尼陨落之时，诸神落泪……少了这位英雄，任务的结局将永远对你隐藏。
+        |
+--- block 100
+  G: |
+MISSION VERLOREN!
+|
+  G: |
+Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+|
+  >> 旧CHN:
+  C: |
+任务失败！
+        |
+  C: |
+一时的轻率，生命便转瞬即逝！你的女英雄希拉，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+        |
+--- block 200
+  G: |
+MISSION VERLOREN!
+|
+  G: |
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+|
+  >> 旧CHN:
+  C: |
+任务失败！
+        |
+  C: |
+一时的轻率，生命便转瞬即逝！比雅尼与希拉之子玛尼，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+        |
+--- block 500
+  G: |
+MISSION VERLOREN!
+|
+  G: |
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+|
+  >> 旧CHN:
+  C: |
+任务失败！
+        |
+  C: |
+一时的轻率，生命便转瞬即逝！比雅尼与希拉之子玛尼，因你的疏忽而殒命！若无此英雄，这世界便将永远失落……
+        |
+--- block 50_end
+  G: | 
+Wir hatten es geschafft, alle Drachen aus den kabalianischen Kerkern zu befreien,
+und verließen die dunklen Gemäuer auf schnellstem Wege!
+|
+  >> 旧CHN:
+  C: |
+我们终于从纳帕利亚人地牢中救出了所有的龙，并以最快的速度离开了这昏暗的城墙！
+        |
+--- block 50_end1
+  >> 旧CHN:
+--- block 50_endheader
+  G: | 
+MISSION GEWONNEN! 
+|
+  >> 旧CHN:
+  C: |
+任务成功！
+        |
+--- block 600
+  G: |
+MISSION VERLOREN!
+|
+  G: |
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+|
+  >> 旧CHN:
+  C: |
+任务失败！
+        |
+  C: |
+一时的轻率，生命便转瞬即逝！你的挚友、英雄之龙诺伯特，因你的疏忽而殒命！若无此英雄，这世界便将永远失落……
+        |
+--- block header
+  G: | 
+BEFREIUNG DER DRACHEN
+|
+  >> 旧CHN:
+  C: |
+龙的解放
+        |

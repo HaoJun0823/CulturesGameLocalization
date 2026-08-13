@@ -1,176 +1,219 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_03_07" export_map_id="campaign_03_07" map_md5="96614770692b345a9fb3b86a92447098" IsC2M="false">
+<localization version="1.3" map_id="campaign_03_07" export_map_id="campaign_03_07" map_md5="96614770692b345a9fb3b86a92447098" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@协助建成并守卫吉萨金字塔！</text>
+      <text lang="eng">@HELP FINISH AND DEFEND THE PYRAMIDS OF GIZA!</text>
       <text lang="ger">@HILF BEI DER FERTIGSTELLUNG UND DER VERTEIDIGUNG DER PYRAMIDEN VON GIZEH!</text>
     </string>
     <string id="1">
       <text lang="CHN">建立一座小型聚落。</text>
+      <text lang="eng">Establish a small settlement.</text>
       <text lang="ger">Baue eine kleine Siedlung auf.</text>
     </string>
     <string id="2">
       <text lang="CHN">前往工地。</text>
+      <text lang="eng">Go to the building site.</text>
       <text lang="ger">Gehe zum Bauplatz.</text>
     </string>
     <string id="3">
       <text lang="CHN">向金字塔运送 50 石料、40 大理石柱与 70 金。</text>
+      <text lang="eng">Take 50 stones, 40 marble columns and 70 gold to the pyramids.</text>
       <text lang="ger">Bringe 50 Steine, 40 Marmorsäulen und 70 Gold zu den Pyramiden.</text>
     </string>
     <string id="4">
       <text lang="CHN">务必在金字塔旁建起至少一座仓库。</text>
+      <text lang="eng">If possible, build at least one warehouse near the Pyramids.</text>
       <text lang="ger">Baue möglichst mindestens ein Lagerhaus bei den Pyramiden.</text>
     </string>
     <string id="5">
       <text lang="CHN">为埃及人提供至少 25 名士兵。</text>
+      <text lang="eng">Supply the Egyptians with at least 25 soldiers.</text>
       <text lang="ger">Stelle den Ägyptern mindestens 25 Soldaten zur Verfügung.</text>
     </string>
     <string id="6">
       <text lang="CHN">击退暗黑军团的进攻。</text>
+      <text lang="eng">Repel the attacks by the dark army.</text>
       <text lang="ger">Wehre die Angriffe des dunklen Heeres ab.</text>
     </string>
     <string id="7">
       <text lang="CHN">向商人缴纳 45 单位蜂蜜作贡金。</text>
+      <text lang="eng">Pay the merchants a tribute of 45 bowls of honey.</text>
       <text lang="ger">Zahle den Händler 45 Schalen Honig als Tribut.</text>
     </string>
     <string id="8">
       <text lang="CHN">为换取佣兵，向拜占庭人缴纳其所索贡金。</text>
+      <text lang="eng">Pay the Byzantines the requested tribute for the mercenaries.</text>
       <text lang="ger">Zahle den Byzantinern für Söldner den geforderten Tribut.</text>
     </string>
     <string id="9">
       <text lang="CHN">向贝都因人进献武器作贡金，他们便随你们出战。</text>
+      <text lang="eng">Hand the Bedouins weapons as a tribute, and they will go to war with you.</text>
       <text lang="ger">Reiche den Beduinen Waffen zum Tribut und sie ziehen mit euch in den Kampf.</text>
     </string>
     <string id="10">
       <text lang="CHN">与你的英雄返回金字塔！</text>
+      <text lang="eng">Take your heroes back to the Pyramids!</text>
       <text lang="ger">Gehe mit deine Helden zurück zu den Pyramiden!</text>
     </string>
     <string id="11">
       <text lang="CHN">前往商人米格尔处！</text>
+      <text lang="eng">Go to Miguel, the merchant!</text>
       <text lang="ger">Gehe zu Miguel, dem Händler!</text>
     </string>
     <string id="12">
       <text lang="CHN">若需米格尔相助，便向其缴纳贡金！</text>
+      <text lang="eng">Pay Miguel the tribute if you need his help!</text>
       <text lang="ger">Zahle Miguel den Tribut, wenn du seine Hilfe brauchst!</text>
     </string>
     <string id="13">
       <text lang="CHN">若想援助此族，便去寻其余贝都因部落！</text>
+      <text lang="eng">Look for the other Bedouin tribes if you want to help them!</text>
       <text lang="ger">Suche die anderen Beduinenstämme, wenn du diesem Volk helfen willst!</text>
     </string>
     <string id="14">
       <text lang="CHN">为换取法老战士，向埃及人缴纳其所索贡金。</text>
+      <text lang="eng">Pay the Egyptians the requested tribute for Pharaonic warriors.</text>
       <text lang="ger">Zahle den Ägyptern für Pharaonenkrieger den geforderten Tribut.</text>
     </string>
     <string id="15">
       <text lang="CHN">向魔法师进献 100 单位草药，以筑魔法护壁。</text>
+      <text lang="eng">Hand the magicians 100 herbs for the magic protective wall.</text>
       <text lang="ger">Reiche den Magiern 100 Kräuter für den magischen Schutzwall.</text>
     </string>
     <string id="20">
       <text lang="CHN">石料 %d/50</text>
+      <text lang="eng">Stones %d/50</text>
       <text lang="ger">Steine %d/50</text>
     </string>
     <string id="21">
       <text lang="CHN">大理石柱 %d/40</text>
+      <text lang="eng">Marble columns %d/40</text>
       <text lang="ger">Marmorsäulen %d/40</text>
     </string>
     <string id="22">
       <text lang="CHN">金 %d/70</text>
+      <text lang="eng">Gold %d/70</text>
       <text lang="ger">Gold %d/70</text>
     </string>
     <string id="23">
       <text lang="CHN">物资已送达</text>
+      <text lang="eng">Goods delivered</text>
       <text lang="ger">Waren geliefert</text>
     </string>
     <string id="51">
       <text lang="CHN">吉萨</text>
+      <text lang="eng">Giza</text>
       <text lang="ger">Gizeh</text>
     </string>
     <string id="52">
       <text lang="CHN">贝都因人</text>
+      <text lang="eng">Bedouins </text>
       <text lang="ger">Beduinen </text>
     </string>
     <string id="53">
       <text lang="CHN">商人</text>
+      <text lang="eng">Merchants</text>
       <text lang="ger">Händler</text>
     </string>
     <string id="54">
       <text lang="CHN">拜占庭人</text>
+      <text lang="eng">Byzantines</text>
       <text lang="ger">Byzantiner</text>
     </string>
     <string id="55">
       <text lang="CHN">撒拉逊人</text>
+      <text lang="eng">Saracens</text>
       <text lang="ger">Sarazenen</text>
     </string>
     <string id="56">
       <text lang="CHN">暗黑军团</text>
+      <text lang="eng">Dark Army</text>
       <text lang="ger">Dunkles Heer</text>
     </string>
     <string id="58">
       <text lang="CHN">法师</text>
+      <text lang="eng">Magicians</text>
       <text lang="ger">Magier</text>
     </string>
     <string id="61">
       <text lang="CHN">吉萨</text>
+      <text lang="eng">Giza</text>
       <text lang="ger">Gizeh</text>
     </string>
     <string id="62">
       <text lang="CHN">贝.</text>
+      <text lang="eng">Bedui.</text>
       <text lang="ger">Bedui.</text>
     </string>
     <string id="63">
       <text lang="CHN">商.</text>
+      <text lang="eng">Merch.</text>
       <text lang="ger">Händl.</text>
     </string>
     <string id="64">
       <text lang="CHN">拜.</text>
+      <text lang="eng">Byza.</text>
       <text lang="ger">Byza.</text>
     </string>
     <string id="65">
       <text lang="CHN">撒.</text>
+      <text lang="eng">Sara.</text>
       <text lang="ger">Sara.</text>
     </string>
     <string id="66">
       <text lang="CHN">军</text>
+      <text lang="eng">Army</text>
       <text lang="ger">Heer</text>
     </string>
     <string id="68">
       <text lang="CHN">法师</text>
+      <text lang="eng">Magi.</text>
       <text lang="ger">Magier</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
+      <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
+      <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
+      <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">诺伯特</text>
+      <text lang="eng">Norbert</text>
       <text lang="ger">Norbert</text>
     </string>
     <string id="76">
       <text lang="CHN">玛尼</text>
+      <text lang="eng">Mani</text>
       <text lang="ger">Mani</text>
     </string>
     <string id="98">
       <text lang="CHN">在帝王谷，吉萨金字塔的外壁须以白裳覆裹、打磨光滑，方能如巨晶般在阳光下熠熠生辉。我们须借尼罗河三个月的泛滥之机行事。然而即便是我们，亦难免敌袭……</text>
+      <text lang="eng">The outsides of the Pyramids of Giza were to be painted white and smoothed out to sparkle in the sun like giant crystals. In order to achieve this, we had to use the three months of the inundation. However, we were not safe from enemy attacks ...</text>
       <text lang="ger">Im Tal der Könige sollten die Außenflächen der Pyramiden von Gizeh weiß verkleidet und geglättet werden, um wie Riesenkristalle in der Sonne zu leuchten. Wir mussten die drei Überschwemmungsmonate des Nils dazu nutzen. Doch waren auch wir nicht gefeit vor feindlichen Übergriffen...</text>
     </string>
     <string id="99">
       <text lang="CHN">吉萨金字塔</text>
+      <text lang="eng">THE PYRAMIDS OF GIZA</text>
       <text lang="ger">DIE PYRAMIDEN VON GIZEH</text>
     </string>
   </strings>
@@ -182,6 +225,13 @@
 
 这四面可攀的层级金字塔，今须由我们来唤醒其中沉睡的力量。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+The infinite beauty of the Giza Plateau opened up before us. The Pyramids of Giza were built in the days of the Fourth Dynasty by the kings Cheops, Chepren and Mycerinus. We had great respect for their age.
+
+The Pyramids that could be climbed from all sides were now to be painted white again and smoothed out on the outside, so that they would shine like crystals in the sunlight or shimmer mysteriously under the stars and the glaring moon at night. This should reactivate the mysterious powers that rested in each of the Wonders of the World.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -204,6 +254,15 @@ Die allseitig erklimmbaren Schichtpyramiden sollten nun von uns und den anderen 
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+For years the construction of the Pyramids continued during the three months of the inundation of the Nile. We, too, had to use this time to cover the Pyramids. 
+
+However, we were not safe from enemy attacks ...
+
+Extend the Pyramids and help defend them!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -238,6 +297,21 @@ Bau die Pyramiden aus und hilf bei deren Verteidigung!
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE CITIZENS OF GIZA
+
+</text>
+        <usericon>1,254,387</usericon>
+        <text>
+
+"The sadness and melancholy of the dark menace has struck our city before. We are not scared of it and are prepared to send our soldiers to war with you! 
+
+Give us some mead as a tribute for travel rations, and our troops will march with you towards the east and north-east!"
+
+If you want to, pay the tribute for the Egyptian mercenaries.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -280,6 +354,22 @@ Zahle, wenn du möchtest, den Tribut für ägyptische Söldner.
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THE PYRAMIDS OF GIZA
+
+</text>
+        <usericon>1,113,309</usericon>
+        <text>
+
+"The dark menace is spreading everywhere. There is hardly a tribe in this country that has not suffered melancholy and sadness! To top it all, our scouts have sighted dark troops approaching from the east and north-east. 
+We have to stop them! Please, you have to help us protect the Pyramids and finish their construction!"
+
+Fortify the Pyramids with your own troops during the next attack! Place 25 soldiers at the Pyramids!
+
+If necessary, build several warehouses around the building site and deliver 50 stones, 70 gold and 40 marble columns! 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DIE PYRAMIDEN VON GIZEH
@@ -318,6 +408,18 @@ Baue, wenn nötig, mehrere Lagerhäuser um den Bauplatz und liefere 50 Steine, 7
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THE DARK MENACE
+
+</text>
+        <usericon>1,152,337</usericon>
+        <text>
+
+Not far from our landing spot we heard cries and the sounds of jangling metal.
+Did this mean that the Pyramids were in serious danger?
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DIE DUNKLE BEDROHUNG
@@ -343,6 +445,15 @@ Sollten sich die Pyramiden in ernsthafter Gefahr befinden?
 
         
         </text>
+        <usericon>1,113,309</usericon>
+      </lang>
+      <lang code="eng">
+        <text> 
+GOODS DELIVERED
+
+We had delivered the required goods to the building site. This should help speed up the painting of the Pyramids. 
+
+</text>
         <usericon>1,113,309</usericon>
       </lang>
       <lang code="ger">
@@ -376,6 +487,19 @@ Wir hatten die benötigten Waren am Bauplatz abgeliefert. Damit sollte die Verkl
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+ALL MAIN MISSION OBJECTIVES ACHIEVED!
+
+We had managed to paint the Pyramids and ward off the dark menace from the Wonder of the World with our army! In the face of our superior forces, the serpent creatures took flight! 
+
+</text>
+        <usericon>2,1 </usericon>
+        <text>
+
+Take your heroes to the Pyramids!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -411,6 +535,17 @@ Gehe mit deinen Helden zu den Pyramiden!
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THE DARK MENACE
+
+</text>
+        <usericon>2,12</usericon>
+        <text>
+
+The army of terror invaded this piece of land once more. Could our troops ward them off again?
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DIE DUNKLE BEDROHUNG
@@ -443,6 +578,17 @@ Das Heer des Schreckens fiel erneut über diesen Landstrich herein. Ob unsere Tr
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THE DARK MENACE
+
+</text>
+        <usericon>2,1 </usericon>
+        <text>
+
+You have not placed 25 soldiers at the Pyramids yet! Can you ward off the attacks by the dark army?
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DIE DUNKLE BEDROHUNG
@@ -474,6 +620,17 @@ Du hast bei den Pyramiden noch keine 25 Soldaten postiert! Ob du die Angriffe de
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE DARK MENACE
+
+</text>
+        <usericon>1,152,337</usericon>
+        <text>
+
+The army of terror invaded this piece of land once more. Would our troops be able to ward them off again?
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -508,6 +665,19 @@ Das Heer des Schreckens fiel erneut über diesen Landstrich herein. Ob unsere Tr
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+BEDOUINS
+
+</text>
+        <usericon>1,369,364</usericon>
+        <text>
+
+"Our poor brothers," the Bedouins wailed. "They hardly have enough to survive on and are constantly being attacked by these dark beasts. We don't have enough weapons to line up a new army, even though there are enough volunteers in our tribe ...
+
+Hand over some weapons as a tribute, and we will go to war with you." 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -545,6 +715,19 @@ Reicht uns Waffen zum Tribut und wir ziehen mit euch in den Kampf."
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+BEDOUINS
+
+</text>
+        <usericon>1,369,364</usericon>
+        <text>
+
+"Our men are ready to fight," the Bedouins said. "They are braver than all other warriors in this country and will fight on your side!"
+
+In return for more weapons, even more warriors wanted to go to war with us.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 BEDUINEN
@@ -576,6 +759,17 @@ Für noch mehr Waffen wollten uns noch mehr Krieger in den Kampf folgen.
 英雄气概，还是鲁莽？当比雅尼殒命，众神落泪……失此英雄，你便无缘得见任务终局。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -610,6 +804,19 @@ Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen 
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+TRIBE OF MERCHANTS
+
+"This trading centre is the only good one in this area. Nowhere else will you find such a great product range. But first you will have to prove your friendship! Look for Miguel, the merchant. He will tell you the conditions for our trade."
+
+</text>
+        <usericon>1,341,263</usericon>
+        <text>
+
+Look for Miguel, the merchant!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -647,6 +854,19 @@ Suche nach Miguel, dem Händler!
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+MERCHANT
+
+"We have numerous treasures on offer. But before you can benefit from them, you have to give me a small donation to show your good will."
+ 
+</text>
+        <usericon>1,315,271</usericon>
+        <text>
+
+Hand Miguel the requested tribute!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 HÄNDLER
@@ -683,6 +903,20 @@ Reiche Miguel den geforderten Tribut!
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+TRIBUTE GIVEN TO THE MERCHANT!
+
+</text>
+        <usericon>1,315,273</usericon>
+        <text>
+
+"You have shown your good intentions. As a token of my good will I therefore would like to give you these two ox carts full of marble. 
+You can use them for your mission, can't you? Well, you scratched my back - now I'll scratch yours. 
+
+I may have fibbed a bit about my favourable offers, but you are welcome to have a look around my warehouses!"
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -722,6 +956,20 @@ Vielleicht hab ich ja ein bisschen geflunkert mit meinen günstigen Angeboten, a
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+BYZANTINES
+
+</text>
+        <usericon>1,38,69</usericon>
+        <text>
+
+"We support the construction works at the Pyramids and have even sent our soldiers for protection. There is not a lot more that we can do. After all, our beloved wives don't want to stay at home all by themselves ...
+Even though I must say that, in return for your fine crockery, some women would certainly let their men go to war ... Hahaha."
+
+Give the Byzantines crockery as a tribute to hire mercenaries! 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 BYZANTINER
@@ -757,6 +1005,17 @@ Reiche den Byzantinern Geschirr zum Tribut, um Söldner anzuheuern!
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+TRIBUTE PAID TO THE BYZANTINES!
+
+</text>
+        <usericon>1,116,318</usericon>
+        <text>
+
+We had hardly given the Byzantine women some crockery when they sent their well-armoured husbands to war! They were given so many rations by their wives that they didn't need any additional food for months! We were glad about this ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 TRIBUT AN BYZANTINER BEZAHLT!
@@ -788,6 +1047,17 @@ Kaum hatten wir den Byzantinerfrauen etwas Geschirr zukommen lassen, schickten s
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+SARACENS
+
+</text>
+        <usericon>1,95,460</usericon>
+        <text>
+
+"There used to be huge gold deposits in this area, and our village flourished. But now these deposits are slowly running low, and soon we'll have to leave ..."
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -823,6 +1093,19 @@ SARAZENEN
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THE OLD MAN
+
+</text>
+        <usericon>1,221,177</usericon>
+        <text>
+
+"The land along the Nile is fertile and rich in resources. Only gold is very rare on this side of the river. High up in the north, on the other side, there are plenty of gold mountains. 
+
+But the dark armies attack anyone who dares to enter the region that has been covered by the shadows."
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DER ALTE MANN
@@ -857,6 +1140,17 @@ Doch greifen die dunklen Heere jeden an, der sich in das Gebiet wagt, welches vo
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THE OLD MAN
+
+</text>
+        <usericon>1,57,348</usericon>
+        <text>
+
+"Watch out if you cross these magic fields! On the other side, the dark army is not far away. They also know about the teleporter!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DER ALTE MANN
@@ -890,6 +1184,19 @@ DER ALTE MANN
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+SARACENS
+
+"There used to be huge gold deposits in this area, and our village flourished. But now these deposits are slowly running low, and soon we'll have to leave ...
+
+</text>
+        <usericon>1,95,460</usericon>
+        <text>
+
+What? You have found a gold deposit in the north?! We will go there, mine it and then we can share it ..."
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -927,6 +1234,19 @@ Wie? Ihr habt ein Goldvorkommen im Norden ausfindig gemacht?! Wir werden dorthin
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+SARACENS
+
+</text>
+        <usericon>1,386,20</usericon>
+        <text>
+
+"Greetings, friends! As agreed, we have set up our camp here in the north to mine gold for you and for ourselves. 
+
+One of the warehouses is now yours!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 SARAZENEN
@@ -958,6 +1278,17 @@ Das eine Lagerhaus soll von nun an euch gehören!"
 一时疏忽，人生便急转直下！你的女英雄希拉因你大意而殒命！失此英雄，你便无缘得见任务终局。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -993,6 +1324,19 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin C
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+BEDOUINS
+
+</text>
+        <usericon>1,456,181</usericon>
+        <text>
+
+"We live in fear and terror because we are constantly threatened by these dark warriors. Can you help us? Pay our brothers a visit, they will surely send some help!"
+
+Look for the other Bedouin oases if you want to help the Saracens.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 BEDUINEN
@@ -1027,6 +1371,17 @@ Suche die anderen Beduinenoasen, wenn du den Sarazenen helfen willst.
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+PYRAMID DESTROYED
+
+</text>
+        <usericon>1,113,309</usericon>
+        <text>
+
+Oh dear, one of the Pyramids has been destroyed and cannot be rebuilt! The mission has failed!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 PYRAMIDE ZERSTÖRT
@@ -1059,6 +1414,17 @@ Oh weh, eine Pyramide ist zerstört und kann nicht wieder errichtet werden! Die 
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+GIZA HAS BEEN DESTROYED
+
+</text>
+        <usericon>1,254,387</usericon>
+        <text>
+
+Giza has fallen! Without the hard-working people of this city, the mission has failed!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 GIZEH IST ZERSTÖRT
@@ -1090,6 +1456,17 @@ Gizeh ist gefallen! Ohne die fleißigen Menschen dieser Stadt ist die Mission ge
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+BYZANTINE SOLDIERS
+
+</text>
+        <usericon>1,96,287</usericon>
+        <text>
+
+These Byzantine soldiers belonged to a city in the north. Surely, we would find even more support for the defence of the Pyramids there!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1124,6 +1501,19 @@ Diese Byzantinersoldaten gehörten zu einer Stadt im Norden. Sicherlich würden 
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+GOLD DEPOSITS!
+
+</text>
+        <usericon>1,392,43</usericon>
+        <text>
+
+This area accommodated unbelievably large gold deposits. Now it would be easy to gather the required gold for the construction of the Pyramids! 
+
+A Saracen village deep in the south-west would surely help us mine the gold. The people there were experienced miners ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1161,6 +1551,19 @@ Ein Sarazenendorf im weiten Südwesten würde uns beim Abbau sicherlich behilfli
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+PHARAONIC WARRIORS
+
+</text>
+        <usericon>1,224,366</usericon>
+        <text>
+
+"Our warriors are ready for war," the Egyptians said. "They are braver than all other warriors in this country and will fight on your side!"
+
+In return for more mead, even more warriors wanted to go to war with us.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 PHARAONENKRIEGER
@@ -1196,6 +1599,19 @@ Für noch mehr Met wollten uns noch mehr Krieger in den Kampf begleiten.
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+MAGICIAN
+
+</text>
+        <usericon>1,480,573</usericon>
+        <text>
+
+"Yes, we have heard about the attacks by the dark people. We are working on a potion that will put them in a deep coma. We only need plenty of herbs to make it!
+
+Give us herbs as a tribute, and we will mix the potion for you."
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1233,6 +1649,19 @@ Reicht uns Kräuter zum Tribut, und wir werden sie für euch zusammenmischen."
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+MAGICIAN
+
+</text>
+        <usericon>1,480,573</usericon>
+        <text>
+
+"Thank you so much for the herbs. The potion has been mixed and distributed in the vicinity of the Pyramids. It is harmless to you, but the dark creatures will be harmed. 
+
+But watch out! It will only last for a certain time until it evaporates! If you want to renew it, you have to deliver a new supply of herbs!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 MAGIER
@@ -1265,6 +1694,17 @@ Doch gebt acht! Sie hält nur eine bestimmte Zeit, dann ist sie verdunstet! Woll
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1294,6 +1734,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 一时疏忽，人生便急转直下！你的挚友与英雄西格德因你大意而殒命！失此英雄，你便无缘得见任务终局。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -1325,6 +1776,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero NORBERT, the dragon, died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1351,6 +1813,15 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+We had managed to paint the Pyramids and ward off the dark menace from this Wonder of the World with our own army! 
+
+In the face of our superior united forces, the serpent creatures took flight!
+ 
+Now the Pyramids were shining again like crystals during the daytime and mysteriously under the stars in the glaring moonlight at night ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Wir hatten es geschafft, die Pyramide zu verkleiden und mit unserem Heer die dunkle Bedrohung von diesem Weltwunder fernzuhalten! 
@@ -1375,6 +1846,15 @@ Nun leuchteten die Pyramiden am Tag wie Kristalle in der Sonne und schimmerten g
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+At the time when all Wonders of the World still existed on Earth, a mighty island had risen from the sea, crowned with a mighty obelisk. 
+
+This was the last Wonder of the World that could bind the powers of all Wonders ...
+
+The wise men from the Council of Nations, however, were helpless because the obelisk should have developed its power a while ago. So, our next destination was fixed: We set off for the EIGHTH WONDER OF THE WORLD!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 In der Zeit, als einst alle Weltwunder noch auf der Erde vereint standen, erhob sich eine mächtige Insel im Meer, auf dem ein mächtiger Obelisk thronte. 
@@ -1394,6 +1874,11 @@ Die Weisen des Völkerrates jedoch waren ratlos, denn der Obelisk hätte seine K
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+MISSION COMPLETED! 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1419,6 +1904,17 @@ MISSION GEWONNEN!
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! MANI, son of Bjarni and Cyra, died due to your negligence! Without him, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1440,6 +1936,11 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn vo
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE PYRAMIDS OF GIZA
+</text>
       </lang>
       <lang code="ger">
         <text> 

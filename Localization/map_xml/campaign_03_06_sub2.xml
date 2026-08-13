@@ -1,52 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_03_06_sub2" export_map_id="campaign_03_06_sub2" map_md5="7a473108b75610b3e3fda0f335b1b97a" IsC2M="false">
+<localization version="1.3" map_id="campaign_03_06_sub2" export_map_id="campaign_03_06_sub2" map_md5="7a473108b75610b3e3fda0f335b1b97a" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@抵达圣物！</text>
+      <text lang="eng">@GET TO THE ARTEFACT!</text>
       <text lang="ger">@GELANGE ZUM ARTEFAKT!</text>
     </string>
     <string id="53">
       <text lang="CHN">埃利斯人</text>
+      <text lang="eng">Elisians</text>
       <text lang="ger">Eliser</text>
     </string>
     <string id="63">
       <text lang="CHN">埃利斯人</text>
+      <text lang="eng">Elisians</text>
       <text lang="ger">Eliser</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
+      <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
+      <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
+      <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">诺伯特</text>
+      <text lang="eng">Norbert</text>
       <text lang="ger">Norbert</text>
     </string>
     <string id="76">
       <text lang="CHN">玛尼</text>
+      <text lang="eng">Mani</text>
       <text lang="ger">Mani</text>
     </string>
     <string id="79">
       <text lang="CHN">埃利斯人</text>
+      <text lang="eng">Elisians</text>
       <text lang="ger">Eliser</text>
     </string>
     <string id="99">
       <text lang="CHN">火海</text>
+      <text lang="eng">THE SEA OF FLAMES</text>
       <text lang="ger">DAS FLAMMENMEER</text>
     </string>
   </strings>
@@ -60,6 +72,17 @@
         <text>
 但这地方变得何等面目全非！他们似乎把城建在了一座火山上。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+An inhospitable area opened up underneath the barracks. This was the former basement of the Spartans!
+
+</text>
+        <usericon>1,108,35</usericon>
+        <text>
+
+But how this place must have changed! They seemed to have built their city on a volcano.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -82,6 +105,11 @@ Aber wie musste sich dieser Ort verändert haben! Sie schienen ihre Stadt auf ei
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+Reach the artefact. Beware of fire-spewing rockfaces! 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -111,6 +139,19 @@ Gelange zum Artefakt. Pass auf feuerspeiende Felswände auf!
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+BASEMENT GUARD
+
+"These warehouses used to be full, but now the rockfaces are cracked and fire is coming out of the gaps. All ways to the warehouses are blocked.
+
+</text>
+        <usericon>1,100,55</usericon>
+        <text>
+
+The switches that used to open the gates to the warehouses have all gone rusty except one. But what can a flyweight like me do ..."
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 KELLERWÄCHTER
@@ -137,6 +178,13 @@ Die Schalter, die früher mal die Tore zu den Lagern öffneten, sind eingerostet
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+WARNING!
+
+The flames have already claimed a fair number of heroes' lives!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 VORSICHT!
@@ -156,6 +204,13 @@ Die Flammen haben schon so manchen Helden sein Leben gekostet!
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+FLAMES PUT OUT!
+
+Together we managed to operate the switch, but no door opened! A strong draught flowed through the halls, blowing out the flames for a while.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -177,6 +232,15 @@ Gemeinsam hatten wir es geschafft, den Schalter zu betätigen, aber er öffnete 
 
         
         </text>
+        <usericon>1,90,70</usericon>
+      </lang>
+      <lang code="eng">
+        <text> 
+SWITCH OPERATED
+
+Although we had managed to operate the switch, it had no effect.
+
+</text>
         <usericon>1,90,70</usericon>
       </lang>
       <lang code="ger">
@@ -203,6 +267,15 @@ Zwar schafften wir es, den Schalter zu betätigen, aber es zeigte sich dadurch k
         </text>
         <usericon>1,85,50</usericon>
       </lang>
+      <lang code="eng">
+        <text> 
+SWITCH
+
+This switch showed no effect. Maybe the power of only one switch wasn't enough ...
+
+</text>
+        <usericon>1,85,50</usericon>
+      </lang>
       <lang code="ger">
         <text> 
 SCHALTER
@@ -225,6 +298,15 @@ Dieser Schalter zeigte keine Wirkung. Vielleicht war die Kraft eines Einzelnen n
 
         
         </text>
+        <usericon>1,111,65</usericon>
+      </lang>
+      <lang code="eng">
+        <text> 
+SWITCH
+
+Although we had managed to operate the switch, it had no effect.
+
+</text>
         <usericon>1,111,65</usericon>
       </lang>
       <lang code="ger">
@@ -254,6 +336,17 @@ Zwar schafften wir es, den Schalter zu betätigen, aber es zeigte sich dadurch k
 任务败矣。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+What a tragedy! The ELISIAN died in the flames.
+The mission had failed.
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -285,6 +378,17 @@ Die Mission war gescheitert.
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -314,6 +418,17 @@ Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen 
 一时疏忽，人生便急转直下！你的女英雄希拉因你大意而殒命！失此英雄，你便无缘得见任务终局。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -345,6 +460,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin C
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -375,6 +501,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero NORBERT, the dragon, died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -399,6 +536,13 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+We made it! Finally, we were holding the artefact in our hands and could leave the Sea of Flames. 
+
+And we did not want to stay another minute!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Das wäre geschafft! Endlich hielten wir das Artefakt in unseren Händen und konnten das Flammenmeer verlassen. 
@@ -409,6 +553,9 @@ Und wir wollten auch keine Minute länger verweilen!
     </block>
     <block id="50_end1">
       <lang code="CHN">
+        <usericon>1,136,102</usericon>
+      </lang>
+      <lang code="eng">
         <usericon>1,136,102</usericon>
       </lang>
       <lang code="ger">
@@ -424,6 +571,11 @@ Und wir wollten auch keine Minute länger verweilen!
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+MISSION COMPLETED! 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -449,6 +601,17 @@ MISSION GEWONNEN!
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! MANI, son of Bjarni and Cyra, died due to your negligence! Without him, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -470,6 +633,11 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn vo
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE SEA OF FLAMES
+</text>
       </lang>
       <lang code="ger">
         <text> 

@@ -1,56 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_02_07-sub" export_map_id="campaign_02_07-sub" map_md5="1a6826e6c1bb9e164e692700c988ef4d" IsC2M="false">
+<localization version="1.3" map_id="campaign_02_07-sub" export_map_id="campaign_02_07-sub" map_md5="1a6826e6c1bb9e164e692700c988ef4d" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@与诸英雄一同抵达通往阿斯加德平原之门！</text>
+      <text lang="eng">@Reach the gate to the plains of Asgard with your heroes!</text>
       <text lang="ger">@Erreiche mit den Helden gemeinsam das Tor in die Ebenen Asgards!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的部族</text>
+      <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarnis Stamm</text>
     </string>
     <string id="51">
       <text lang="CHN">幽灵战士</text>
+      <text lang="eng">Ghost Warriors</text>
       <text lang="ger">Geisterkrieger</text>
     </string>
     <string id="52">
       <text lang="CHN">蛇战士</text>
+      <text lang="eng">Serpent Warriors</text>
       <text lang="ger">Schlangenkrieger</text>
     </string>
     <string id="53">
       <text lang="CHN">狼人战士</text>
+      <text lang="eng">Werewolf Warriors</text>
       <text lang="ger">Werwölfkrieger</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
+      <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
+      <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
+      <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">伊科尔</text>
+      <text lang="eng">Ykol</text>
       <text lang="ger">Ykol</text>
     </string>
     <string id="98">
       <text lang="CHN">海姆达尔吹响号角之时，比弗罗斯特桥不仅为我们开启、由此连通阿斯加德之路，更引发了一场冰风暴，令万物冻结。</text>
+      <text lang="eng">When Heimdall blew his horn, the bridge of Bifrost opened the way to Asgard, and an ice storm broke out and froze everything.</text>
       <text lang="ger">Als Heimdall in sein Horn blies, öffnete sich nicht nur die Brücke Bifrost für uns und somit der Weg nach Asgard, sondern ein Eissturm brach los und lies alles gefrieren.</text>
     </string>
     <string id="99">
       <text lang="CHN">冰之世界</text>
+      <text lang="eng">THE ICE WORLD</text>
       <text lang="ger">EISWELT</text>
     </string>
   </strings>
@@ -63,6 +76,13 @@
 
 一场浩大的冰风暴骤然爆发，将周遭一切凝为寒冰。周遭景致瞬息化作冰冷、坚硬而惨白刺目的世界，刺得我们睁不开眼，四肢也阵阵刺痛。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+When Heimdall blew his horn, the bridge of Bifrost opened the way to Asgard ... 
+
+Suddenly, an enormous ice storm broke out and froze everything around us. Within a split second, everything had turned a cold, hard and bright white, blinding our eyes and making our limbs ache. 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -89,6 +109,21 @@ Plötzlich brach auch ein gewaltiger Eissturm los und lies alles um uns herum zu
 带领众英雄共同抵达通往阿斯加德平原的传送门！
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+And suddenly Ykol reappeared! Somehow he must have reached the entrance before us ... But where had he been?
+He said he had more important things to do in his absence, but that he was back now. Oh well.
+
+Despite all my doubts and the faint distrust that still lingered, in the end we were glad that nothing had happened to him in this dark, dangerous kingdom. We were also happy that we had found the entrance to the world of the gods. 
+
+But, by the Asen Gods - this was NOT what we had imagined Asgard to be like! Everything was covered in ice, it was cold and inhospitable, and the whole world seemed to be dead and numb. THIS was supposed to be the realm of the gods? THIS was their home? THIS was supposed to be paradise?
+
+Full of doubt we entered another labyrinth ...
+And soon we discovered that this rough ice world was full of hidden dangers. 
+
+Reach the gate to the plains of Asgard with your heroes!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Plötzlich war Ykol wieder da! Irgendwie hatte er es wohl geschafft, den Eingang vor uns zu erreichen... Aber wo war er gewesen??
@@ -114,6 +149,13 @@ Erreiche mit den Helden gemeinsam das Portal in die Ebenen Asgards!
 已故维京人的魂魄，似乎附在了这些战士空洞的躯壳之中。我们并不愿与同族同胞的士兵为敌，可一旦过于靠近，他们便不会给我们别的选择！
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+GHOST WARRIORS 
+
+The souls of deceased Vikings seemed to dwell in these shells of warriors. We did not like the idea of fighting against soldiers from our own people, but if we got too close to them, we would have no choice!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 GEISTERKRIEGER 
@@ -130,6 +172,13 @@ Die Seelen verstorbener Wikinger schienen in diesen leeren Hüllen der Krieger z
 
 在这虚幻之境，此船或许还能助我们一臂之力。若别无他途，我们便可借水路前行。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+SHIP FOUND!
+
+In this unreal world, this ship would render us good service. If there was no other way to get any further, we would at least be able to continue by water.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -148,6 +197,13 @@ Hier in dieser unwirklichen Welt mochte uns dieses Schiff noch einen guten Diens
 我们扳动开关时，附近一扇门应声开启。须留一名部众守在开关上，方能令此门不致重新闭合。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+GATE OPEN! Switch 1
+
+When we activated the switch, a gate opened near us. We had to leave one of our men on the switch so that the gate remained open. 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 TORE OFFEN! Schalter 1
@@ -163,6 +219,13 @@ Als wir den Schalter betätigten, öffnete sich ein Tor in der näheren Umgebung
 
 我们扳动开关时，附近一扇门应声开启。须留一名部众守在开关上，方能令此门不致重新闭合。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+GATE OPEN! Switch 2
+
+When we activated the switch, a gate opened near us. We had to leave one of our men on the switch so that the gate remained open. 
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -180,6 +243,13 @@ Als wir den Schalter betätigten, öffnete sich ein Tor in der näheren Umgebung
 我们扳动开关时，附近一扇门应声开启。须留一名部众守在开关上，方能令此门不致重新闭合。
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+GATE OPEN! Switch 3
+
+When we activated the switch, a gate opened near us. We had to leave one of our men on the switch so that the gate remained open. 
+</text>
+      </lang>
       <lang code="ger">
         <text>
 TORE OFFEN! Schalter 3
@@ -195,6 +265,13 @@ Als wir den Schalter betätigten, öffnete sich ein Tor in der näheren Umgebung
 
 我们扳动开关时，附近一扇门应声开启。须留一名部众守在开关上，方能令此门不致重新闭合。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+GATE OPEN! Switch 4
+
+When we activated the switch, a gate opened near us. We had to leave one of our men on the switch so that the gate remained open. 
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -212,6 +289,13 @@ Als wir den Schalter betätigten, öffnete sich ein Tor in der näheren Umgebung
 我们扳动开关时，附近一扇门应声开启。须留一名部众守在开关上，方能令此门不致重新闭合。
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+GATE OPEN! Switch 5
+
+When we activated the switch, a gate opened near us. We had to leave one of our men on the switch so that the gate remained open. 
+</text>
+      </lang>
       <lang code="ger">
         <text>
 TORE OFFEN! Schalter 5
@@ -227,6 +311,13 @@ Als wir den Schalter betätigten, öffnete sich ein Tor in der näheren Umgebung
 
 我们扳动开关时，附近一扇门应声开启。须留一名部众守在开关上，方能令此门不致重新闭合。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+GATE OPEN! Switch 6
+
+When we activated the switch, a gate opened near us. We had to leave one of our men on the switch so that the gate remained open. 
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -247,6 +338,17 @@ Als wir den Schalter betätigten, öffnete sich ein Tor in der näheren Umgebung
         <text>
 是逞勇还是鲁莽？比雅尼陨落之时，诸神亦为之落泪……少了这位英雄，你便无缘得知此役的结局。
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -272,6 +374,17 @@ Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen 
 生命里片刻的轻率，便致此般后果！你的女英雄希拉，因你的疏忽而殒命！少了这位女英雄，你便无缘得知此役的结局。
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your heroine Cyra died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -295,6 +408,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin C
         <text>
 生命里片刻的轻率，便致此般后果！你的挚友与英雄哈奇，因你的疏忽而殒命！少了这位英雄，你便无缘得知此役的结局。
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -320,6 +444,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 生命里片刻的轻率，便致此般后果！你的挚友与英雄西格德，因你的疏忽而殒命！少了这位英雄，你便无缘得知此役的结局。
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Sigurd died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -344,6 +479,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 生命里片刻的轻率，便致此般后果！伊科尔因你的疏忽而殒命！少了这位英雄，你便无缘得知此役的结局。
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Ykol died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -363,6 +509,11 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Ykol erlag dur
 一座巍峨的传送门，傲然矗立于盘曲迷宫的尽头，几乎未受冰雪侵蚀。它流光溢彩，当我们穿门而过，一片美妙绝伦的平原在眼前铺展--我们几乎已不敢相信它的存在。满心敬畏，我们跪伏于地……
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+At the end of the huge labyrinth stood a mighty portal, nearly untouched by the ice. It sparkled in all colours imaginable, and when we walked through it a wonderful plain stretched before us, a place whose existence we had begun to doubt. Awestruck, we fell to our knees ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Ein großes Portal stand stolz und nahezu unberührt vom Eis am Ende des verwinkelten Labyrinths. Es schillerte in allen erdenklichen Farben, und als wir hindurch schritten, breitete sich vor uns eine wunderbare Ebene aus, an deren Existenz wir schon nicht mehr geglaubt hatten. Voller Ehrfurcht knieten wir nieder...
@@ -376,6 +527,11 @@ Ein großes Portal stand stolz und nahezu unberührt vom Eis am Ende des verwink
 一道宏伟的阶梯，盘绕上一处高丘。这，必是诸神之国！而我们距此，仅余数百级阶梯之遥……
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+A majestic staircase wound around a rise. THIS had to be the realm of the gods! And we were only a few hundred stairs away from it ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Um eine Anhöhe wand sich eine majestätische Treppe. DIES musste das Reich der Götter sein! Und wir waren nur noch einige hundert Treppenstufen davon entfernt ...
@@ -387,6 +543,12 @@ Um eine Anhöhe wand sich eine majestätische Treppe. DIES musste das Reich der 
         <text>
 任务成功！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+
+MISSION COMPLETED! 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -400,6 +562,12 @@ MISSION GEWONNEN!
         <text>
 冰世界
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+
+THE ICE WORLD
+</text>
       </lang>
       <lang code="ger">
         <text> 

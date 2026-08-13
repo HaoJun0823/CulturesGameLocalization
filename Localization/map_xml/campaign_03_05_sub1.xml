@@ -1,72 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_03_05_sub1" export_map_id="campaign_03_05_sub1" map_md5="5c5874846024ad0ecd425989ae1144c2" IsC2M="false">
+<localization version="1.3" map_id="campaign_03_05_sub1" export_map_id="campaign_03_05_sub1" map_md5="5c5874846024ad0ecd425989ae1144c2" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@寻找年幼的希罗斯特拉特斯，将其关入地牢！</text>
+      <text lang="eng">@FIND HEROSTRATES THE YOUNGER AND PUT HIM IN THE DUNGEON!</text>
       <text lang="ger">@SUCHE HEROSTRATIS DEN JÜNGEREN UND SPERRE IHN INS VERLIES!</text>
     </string>
     <string id="1">
       <text lang="CHN">寻找地牢！</text>
+      <text lang="eng">Find the dungeon!</text>
       <text lang="ger">Suche das Verlies!</text>
     </string>
     <string id="2">
       <text lang="CHN">设法绕过希罗斯特拉特斯的随从！</text>
+      <text lang="eng">Try to get past Herostrates the Younger!</text>
       <text lang="ger">Versuche an Herostrates Jüngern vorbei zu gelangen!</text>
     </string>
     <string id="3">
       <text lang="CHN">与英雄一同返回入口！</text>
+      <text lang="eng">Take the heroes back to the entrance!</text>
       <text lang="ger">Gehe mit den Helden zurück zum Eingang!</text>
     </string>
     <string id="55">
       <text lang="CHN">希罗斯特拉特斯的继承者</text>
+      <text lang="eng">Herostrates' Heirs</text>
       <text lang="ger">Herostrates Erben</text>
     </string>
     <string id="56">
       <text lang="CHN">希罗斯特拉特斯</text>
+      <text lang="eng">Herostrates</text>
       <text lang="ger">Herostrates</text>
     </string>
     <string id="65">
       <text lang="CHN">继承者</text>
+      <text lang="eng">Heirs</text>
       <text lang="ger">Erben</text>
     </string>
     <string id="66">
       <text lang="CHN">希罗斯特拉特斯</text>
+      <text lang="eng">Herostrates</text>
       <text lang="ger">Herostrates</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
+      <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
+      <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
+      <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">诺伯特</text>
+      <text lang="eng">Norbert</text>
       <text lang="ger">Norbert</text>
     </string>
     <string id="76">
       <text lang="CHN">玛尼</text>
+      <text lang="eng">Mani</text>
       <text lang="ger">Mani</text>
     </string>
     <string id="77">
       <text lang="CHN">希罗斯特拉特斯</text>
+      <text lang="eng">Herostrates</text>
       <text lang="ger">Herostrates</text>
     </string>
     <string id="99">
       <text lang="CHN">希罗斯特拉特斯继承者</text>
+      <text lang="eng">HEROSTRATES' HEIRS</text>
       <text lang="ger">HEROSTRATES ERBEN </text>
     </string>
   </strings>
@@ -76,6 +93,13 @@
         <text>
 为消弭神庙之危，我们循那伙纵火贼穿过山道，竟入一似是另一世界之境。此地方可自那唯一入口进入。若非亲眼所见，我们绝不会相信--这火山内部竟别有洞天！
         </text>
+        <usericon>1,40,298</usericon>
+      </lang>
+      <lang code="eng">
+        <text> 
+In order to avert the danger from the Temple, we followed the arsonist army through a mountain path into a seemingly different world. This place could only be accessed via this entrance. We would never have expected such a place in the mountains!
+
+</text>
         <usericon>1,40,298</usericon>
       </lang>
       <lang code="ger">
@@ -100,6 +124,15 @@ Um die Bedrohung vom Tempel abzuwenden, folgten wir der Scharr Brandstifter durc
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+In order to put a stop to the game of "Herostrates' heirs", we had to get past his disciples and the fire-spewing dragon! 
+
+After all, we knew the attacks would not stop until Herostrates the Younger had been found and put in a dungeon, so that he wouldn't be able to incite more people.
+
+Find Herostrates the Younger and put him in a dungeon! Watch out for secret paths and passages!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Um den "Erben Herostrates" das Handwerk zu legen, mussten wir an seinen Jüngern und den Feuer speienden Drachen vorbei! 
@@ -122,6 +155,13 @@ Finde Herostrates den Jüngeren und sperre ihn in ein Verlies! Achte auf geheime
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THE HEIRS OF HEROSTRATES
+
+"Hey, you! Who has granted you access to our territory?"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DIE ERBEN HEROSTRATES
@@ -141,6 +181,13 @@ DIE ERBEN HEROSTRATES
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE HEIRS' SECRET HIDING PLACE
+
+"You want to lock up our leader Herostrates in a dungeon? We will never allow that!"
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -171,6 +218,19 @@ DAS GEHEIMVERSTECK DER ERBEN
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+DUNGEON KEEPER
+
+"Greetings! I have been expecting you. The heirs' arson has done terrible damage that serves nobody.
+
+</text>
+        <usericon>1,43,175</usericon>
+        <text>
+
+This place is sacred and is not visited by Herostrates' heirs. Lock Herostrates in here. I will take care of him then."
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -208,6 +268,19 @@ Dieser Platz ist heilig und wird von den Erben Herostrates nicht aufgesucht. Spe
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+HEROSTRATES
+
+"You want to lock me up in a dungeon? You had better not think that I will follow you just like that!"
+
+</text>
+        <usericon>2,7</usericon>
+        <text>
+
+Take Herostrates to a dungeon!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 HEROSTRATES
@@ -244,6 +317,19 @@ Bringe Herostrates in ein Verlies!
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+HEROSTRATES IN THE DUNGEON!
+
+We made it! Herostrates was captured in the dungeon and was now being watched by the dungeon keeper. His disciples would not be able to get him out of here.
+
+</text>
+        <usericon>2,7</usericon>
+        <text>
+
+Take your heroes back to the entrance! 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 HEROSTRATES IM VERLIES!
@@ -276,6 +362,17 @@ Gehe mit deinen Helden zurück zum Eingang!
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -305,6 +402,17 @@ Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen 
 一时疏忽，人生便急转直下！你的女英雄希拉因你大意而殒命！失此英雄，你便无缘得见任务终局。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -336,6 +444,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin C
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -365,6 +484,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 一时疏忽，人生便急转直下！你的挚友与英雄西格德因你大意而殒命！失此英雄，你便无缘得见任务终局。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -396,6 +526,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero NORBERT, the dragon, died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -420,6 +561,13 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
         </text>
         <usericon>1,24,287</usericon>
       </lang>
+      <lang code="eng">
+        <text> 
+We had returned to the entrance of the mountain world after we had handed Herostrates over to the dungeon keeper. There he would be guarded, and would no longer incite people to lay fires.
+
+</text>
+        <usericon>1,24,287</usericon>
+      </lang>
       <lang code="ger">
         <text> 
 Wir waren zum Eingang der Bergwelt zurückgekehrt, nachdem wir Herostrates dem Verlieswächter überlassen hatten. Dort war er in guter Obhut und würde niemanden mehr zur Brandstifterei anstiften.
@@ -430,6 +578,7 @@ Wir waren zum Eingang der Bergwelt zurückgekehrt, nachdem wir Herostrates dem V
     </block>
     <block id="50_end1">
       <lang code="CHN" />
+      <lang code="eng" />
       <lang code="ger" />
     </block>
     <block id="50_endheader">
@@ -441,6 +590,11 @@ Wir waren zum Eingang der Bergwelt zurückgekehrt, nachdem wir Herostrates dem V
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+MISSION COMPLETED! 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -466,6 +620,17 @@ MISSION GEWONNEN!
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! MANI, son of Bjarni and Cyra, died due to your negligence! Without him, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -487,6 +652,11 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn vo
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+HEROSTRATES' HEIRS
+</text>
       </lang>
       <lang code="ger">
         <text> 

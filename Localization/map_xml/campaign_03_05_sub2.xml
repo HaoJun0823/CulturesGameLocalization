@@ -1,48 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_03_05_sub2" export_map_id="campaign_03_05_sub2" map_md5="d8eccc5e597038145370bc65976739a0" IsC2M="false">
+<localization version="1.3" map_id="campaign_03_05_sub2" export_map_id="campaign_03_05_sub2" map_md5="d8eccc5e597038145370bc65976739a0" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@寻一条穿越沼泽之路！</text>
+      <text lang="eng">@FIND A WAY THROUGH THE SWAMPS!</text>
       <text lang="ger">@SUCHE EINEN WEG DURCH DIE SÜMPFE!</text>
     </string>
     <string id="51">
       <text lang="CHN">沼泽部族</text>
+      <text lang="eng">Swamp Tribe</text>
       <text lang="ger">Sumpfvolk</text>
     </string>
     <string id="61">
       <text lang="CHN">沼泽部族</text>
+      <text lang="eng">Swamp Tribe</text>
       <text lang="ger">Sumpfvolk</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
+      <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
+      <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
+      <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">诺伯特</text>
+      <text lang="eng">Norbert</text>
       <text lang="ger">Norbert</text>
     </string>
     <string id="76">
       <text lang="CHN">玛尼</text>
+      <text lang="eng">Mani</text>
       <text lang="ger">Mani</text>
     </string>
     <string id="99">
       <text lang="CHN">迷失沼泽</text>
+      <text lang="eng">THE LOST SWAMPS</text>
       <text lang="ger">DIE VERLORENEN SÜMPFE</text>
     </string>
   </strings>
@@ -58,6 +69,19 @@
 
 或许他们能为我们指明道路。我们的希望全寄托于此……
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+We had no idea yet how to find a solution to fight the rising swamps. 
+
+</text>
+        <usericon>1,208,156</usericon>
+        <text>
+
+The people of Ephesus told us of "wise men" who were said to live somewhere hidden in the swamp. 
+
+Maybe they could show us a way, that's what we hoped for ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -82,6 +106,11 @@ Vielleicht konnten sie uns einen Weg aufzeigen. Darin lag unsere Hoffnung...
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+Pay the wise men a visit!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -111,6 +140,19 @@ Suche die Sumpfweisen auf!
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+SWAMP TRIBE
+
+"You have come to look for the wise men? This is a privilege for our people, but you are likely not to pass the trial of the swamp holes," the women of the swamp tribe said. 
+
+</text>
+        <usericon>1,409,47</usericon>
+        <text>
+
+"But we wish you good luck anyway! Keep your eyes open and explore the environment when you pass through the next hole!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 SUMPFVOLK
@@ -137,6 +179,13 @@ SUMPFVOLK
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+SWAMP HOLE
+
+There were swamp holes in this area. According to our reports, one could easily get lost in them as they led the people to completely different places. But we had to use them to our advantage ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 SUMPFLOCH
@@ -157,6 +206,13 @@ In diesem Gebiet gab es Sumpflöcher. Unseren Berichten zu Folge konnte man sich
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+BACK TO THE BEGINNING
+
+When we stepped through this hole, we were back at the beginning of our mission. This could hardly be the right way!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 ZURÜCK ZUM ANFANG
@@ -176,6 +232,13 @@ Als wir durch dieses Loch schritten, waren wir wieder am Anfang unserer Mission.
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+ATTENTION!
+
+Without a doubt we had to cross this swamp hole, but we had a strange feeling while doing so. What might be waiting for us on the other side?
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -207,6 +270,19 @@ Wir mussten zweifelsohne auch dieses Sumpfloch durchschreiten, aber dabei hatten
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+LIFE ENERGY
+
+A strange magic surrounded this place ... 
+
+</text>
+        <usericon>1,268,116</usericon>
+        <text>
+
+All of our men felt like they had been reborn!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 LEBENSENERGIE
@@ -235,6 +311,17 @@ All unsere Männer fühlten sich hier wie neu geboren!
 
         
         </text>
+        <usericon>2,3 </usericon>
+      </lang>
+      <lang code="eng">
+        <text> 
+HATCHIE
+
+"There you are again! What kept you so long? 
+
+There is a way in, but no way out!" 
+
+</text>
         <usericon>2,3 </usericon>
       </lang>
       <lang code="ger">
@@ -267,6 +354,17 @@ Hier gibt es zwar einen Weg hinein, aber keinen heraus!"
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -296,6 +394,17 @@ Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen 
 一时疏忽，人生便急转直下！你的女英雄希拉因你大意而殒命！失此英雄，你便无缘得见任务终局。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -327,6 +436,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin C
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -356,6 +476,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 一时疏忽，人生便急转直下！你的挚友与英雄西格德因你大意而殒命！失此英雄，你便无缘得见任务终局。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -387,6 +518,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero NORBERT, the dragon, died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -408,6 +550,11 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+When we crossed the bridge, we saw the wise men approaching us. They spoke to us in soft, dull voices:
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -439,6 +586,21 @@ Als wir über die Brücke traten, sahen wir die Sumpfweisen auf uns zukommen. Si
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+WISE MEN
+
+"Brave heroes! You have found the way to us wise men! This courage and ambition must be rewarded.
+
+</text>
+        <usericon>1,120,15</usericon>
+        <text>
+
+We know your problem and will suppress the rising of the swamps for a certain time. This will give you enough time to finish your construction, if you work hard ...
+
+Your hero Hatchie, however, is to stay with us for a while because we wise men would like to learn everything about the exotic culture of his homeland."
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 SUMPFWEISEN
@@ -465,6 +627,11 @@ Euer Held Hatschi jedoch soll dafür eine Weile bei uns bleiben, denn wir Sumpfw
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+MISSION COMPLETED! 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 MISSION GEWONNEN! 
@@ -489,6 +656,17 @@ MISSION GEWONNEN!
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! MANI, son of Bjarni and Cyra, died due to your negligence! Without him, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -510,6 +688,11 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn vo
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE LOST SWAMPS
+</text>
       </lang>
       <lang code="ger">
         <text> 

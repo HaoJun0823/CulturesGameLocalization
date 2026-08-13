@@ -1,83 +1,109 @@
-# Cultures Saga 简体中文汉化
+# Cultures Saga — Simplified Chinese Localization
 
-《Cultures: The Gates of Asgard》（文化：仙宫之门，第 2 代）的地图与文本**德语 → 简体中文**汉化包。
+Map and text localization pack for **Cultures: The Gates of Asgard** (2nd generation), translating **German → Simplified Chinese (l10)**.
 
-> 汉化内容以 `Localization/ZH-CN/` 目录组织，内含地图本地化 XML、游戏内字符串与超文本百科（北欧神话 / 历史年表 / 操作帮助）。
-> 术语统一由 `language_union.csv` 术语表管理，全部译文经工具审计（0 空槽、结构合法、`@` 前缀与德文原版平衡）。
+> Localization sources live under `Localization/map_xml/`, `Localization/map_xml_user/`, and `Localization/text/l10/`. Every map XML contains multi-language strings (CHN/ger/eng/pol) plus briefings. All translations pass zero-empty-slot, structure-validity, and `@`-prefix-balance audits.
 
-## 安装
+## Installation
 
-1. **备份**游戏安装目录下的原 `map_xml/`、`text/` 文件夹。
-2. 将本仓库 `Localization/ZH-CN/` 内**同名子目录**合并进游戏安装目录：
-   - `map_xml/` → 游戏目录 `map_xml/`（128 个主战役地图，含 `_campaign_04_*` 系列）
-   - `map_xml_user/` → 游戏目录 `map_xml_user/`（28 个 C2M 用户战役地图）
-   - `text/` → 游戏目录 `text/`（l10 中文资源：游戏内字符串 + 超文本百科）
-3. 启动游戏，语言设为德语（GER 为对齐锚点，CHN 由游戏外挂加载）。
+1. **Back up** the original `Data/maps/` and `Data/text/` directories in your game folder.
+2. Run `build_text.py` in the game directory (see "Build & Deploy" below), or download a pre-built release zip from [Releases](https://github.com/HaoJun0823/CulturesGameLocalization/releases) and extract it into the game folder.
+3. Launch the game with language set to **German (GER)** — GER is the alignment anchor, the Chinese (l10) content is loaded by an external hook.
 
-> ⚠️ 请保留 `Localization/ZH-CN/` 目录结构原样拷贝；`map_xml/` 下的 `_campaign_04_*` 与 `campaign_04_*` 均为必要文件。
+> ⚠️ Keep the directory structure intact. Both `_campaign_04_*` and `campaign_04_*` map files are required.
 
-## 仓库结构
+## Repository Structure
 
 ```
 CulturesGameLocalization/
-├── Localization/
-│   └── ZH-CN/             # 汉化内容（安装时对位游戏目录）
-│       ├── map_xml/       # 128 个主战役地图 XML
-│       ├── map_xml_user/  # 28 个 C2M 用户战役地图 XML
-│       └── text/l10/      # 游戏内字符串(ini) + 超文本百科(hlt/txt/pcx)
-├── Tools/                 # 汉化工具链（说明见 Tools/README.md）
-├── Output/                # 由构建工具生成的地图本地化 XML（132 张，见下）
-├── translation_version_choose.csv  # 地图版本选择表（map_id → 游戏版本 2/3/5）
-├── language_union.csv     # 术语表（664 词条，GER→CHN 权威来源）
-├── 汉化工作指南.md         # 翻译方法与提交流程
-└── 中文翻译指南.txt        # 游戏各版本文件结构说明
+├── Localization/            # Localization source files
+│   ├── map_xml/             # 128 main-campaign map XMLs (CHN/ger/eng/pol)
+│   ├── map_xml_user/        # 28 C2M user-campaign map XMLs
+│   └── text/                # Game system text (ger source + l10 Chinese)
+├── Tools/                   # Localization toolchain
+│   ├── loc_tools.py         # XML parsing core + build tool (primary dependency)
+│   ├── deploy_all.py        # Deploy to game directory
+│   └── fix_xml_names.py     # Fix umlaut characters in XML filenames
+├── archives/                # Archived legacy tools and audit reports
+├── build_text.py            # Main build script (multi-language → _build/)
+├── convert_text_utf8.py     # Batch convert text files to UTF-8
+├── publish_build.py         # Local build + zip + GitHub Release publish
+├── Game_FileSystem_Intro.md # Game filesystem structure reference
+└── .github/workflows/       # GitHub Actions CI/CD
 ```
 
-## 工具链
+## Supported Languages
 
-| 工具 | 用途 |
-|------|------|
-| `Tools/translate_cli.py` | 统一 CLI：`scan`（盘点）/`repair`（修复非法 XML）/`verify`（校验对齐）/`inject`（注入字典）/`commit` |
-| `Tools/audit_all_maps.py` | 全量三重审计：合法性 / 正确性 / 完整性（128 + 28 全覆盖，验收标准，支持任意语言对比） |
-| `Tools/trans_scan.py` | 列出某文件全部待译空槽（源语言有原文、目标语言为空），附源语言预览（支持任意语言对比） |
-| `Tools/loc_tools.py` | XML 真解析核心库（其余工具共享依赖） |
-| `Tools/build_maps_from_versions.py` | 按版本表从游戏源数据构建地图本地化 XML（→ `Output/`） |
-| `Tools/scan_map_dat.py` | 递归扫描 map.dat，计算 MD5 输出索引 CSV |
-| `Tools/build_maps_from_csv.py` | 按 CSV 索引整合输出完整地图（数据 + 中文 l10，C2M 自动打包 .c2m） |
-| `Tools/cultures2_converter.py` | Cultures 2 ini/cif 互转 + c2m 打包解包（提取自 Cultures-map-editor，GPL-3.0） |
+| Code | Language | Notes |
+|------|----------|-------|
+| `ger` | German | Official source language, always present |
+| `eng` | English | Extracted and merged from GAME_2/3/4 data |
+| `pol` | Polish | Extracted and merged from GAME_2 data |
+| `l10` | Chinese (Simplified) | Localization target, loaded by external hook |
 
-## 汉化范围与质量
+## Build & Deploy
 
-- **主战役**：`map_xml/` 128 个 XML，含 3 代战役（campaign_01/02/03）、第 4 代（`_campaign_04_*`）、多人地图、教程、Demo。
-- **用户战役**：`map_xml_user/` 28 个 C2M 地图。
-- **超文本百科**：北欧神话（13 页）、2 代历史年表（11 页 + 13 插图）、制作人员、操作帮助。
-- **质量校验**：全部文件通过 XML 解析、GER/CHN 槽位与段数对齐、0 空槽、`@` 前缀与德文原版平衡。
-
-## 构建地图本地化 XML（可选）
-
-`Output/` 中的 156 个地图目录是**可直接放进游戏的地图本地化文件**（由 `LOC_CN` 的汉化 XML 构建）：
-
-- 主战役（128 个）：`Output/<map_id>/text/l10/strings.ini` + `briefings/briefings.txt`，GB2312 编码
-- C2M 用户战役（28 个）：同样输出 `Output/<map_id>/text/l10/...`（中文统一用 l10 目录，与主战役一致）
-
-构建命令（使用 `Tools/loc_tools.py build`，已内置 GB2312 编码与 block id ASCII 化）：
+### Full Build (Local, Recommended)
 
 ```bash
-# 主战役（128）
-python Tools/loc_tools.py build -i Localization/ZH-CN/map_xml -l CHN -o Output
-# C2M 用户战役（28，含子目录递归）
-python -c "import sys; sys.path.insert(0,'Tools'); import loc_tools; from pathlib import Path; [loc_tools.build_map(f, Path('Output'), 'CHN') for f in sorted(Path('Localization/ZH-CN/map_xml_user').rglob('*.xml'))]"
+# One-shot build: parse XMLs → generate all languages → package
+python build_text.py          # Full build (default)
+python build_text.py --clean  # Clean _build/ first, then build
+python build_text.py --dry-run # Preview only
+
+# After every build, map_languages.csv is generated automatically
+# listing every map and its available languages
 ```
 
-> 说明：中文统一用 **GB2312** 编码（游戏仅支持 GB2312，不支持 GBK 扩展）。
-> 汉化源文本已保证 GB2312 兼容：超集字形在源 XML 中直接改掉——破折号用 `--`、
-> 人名间隔号用 `・`、瞭望塔/瞭望手改「哨塔/哨兵」、神祇改「神明」、脅改「威胁」；
-> 中文输出目录统一为 **`text/l10/`**（项目规范「chn输出为l10」——l10 是外挂汉化注入的目标语言目录，
-> 主战役与 C2M 一致；源数据里只有 ger 是官方原始包，不影响 l10 加载）；
-> briefings 的 block id 按官方汉化策略做 ASCII 化（`10minutenspäter` → `10minutenspaeter`）。
-> 历史版本：`Output/` 曾由 `Tools/build_maps_from_versions.py` 生成 132 张源数据 XML 模板
-> （见 `translation_version_choose.csv` 版本选择表），已由可直接加载的 l10 文件取代。
+The `_build/` output mirrors the game directory structure and can be copied directly:
 
-## 免责声明
+| Build output | Game target |
+|-------------|-------------|
+| `_build/Data/maps/<map_id>/` | `GAME_DIR/Data/maps/<map_id>/` |
+| `_build/DataX/UserCampaigns/` | `GAME_DIR/DataX/UserCampaigns/` |
+| `_build/Data/Text/` | `GAME_DIR/Data/Text/` |
 
-本仓库为民间汉化成果，仅供学习与交流。游戏版权归原开发者/发行商所有。
+> **Note:** `GAME_DIR` (the game reference directory containing `Data/maps` etc.) must be configured at the top of `build_text.py`.
+
+### UTF-8 Conversion
+
+```bash
+python convert_text_utf8.py          # Convert all .ini/.txt in Localization/text/ to UTF-8
+python convert_text_utf8.py --dry-run # Preview only
+python convert_text_utf8.py --all    # Include _backup directories
+```
+
+## Publishing to GitHub Releases
+
+### Local Publish (Full Build, Recommended)
+
+```bash
+python publish_build.py                  # build → zip → publish Release
+python publish_build.py --no-build       # Reuse existing _build/ for packaging
+python publish_build.py --tag v1.0       # Custom release tag
+python publish_build.py --dry-run        # Package only, no release
+```
+
+Requires [gh CLI](https://cli.github.com/) installed and authenticated:
+```bash
+winget install GitHub.cli
+gh auth login
+```
+
+### CI via GitHub Actions
+
+Go to the **Actions** tab → **Build & Release** → **Run workflow** (optional: set `release_tag` / `game_data_url`).
+
+> ⚠️ Game map data (SAGA_GAME_HACK/Data/maps/) is **not** in the repository. For the first CI build, upload it once:
+> `gh release upload <tag> game-data.tar.gz --clobber`
+> Or provide a direct download URL via the `game_data_url` input. Without game data, map building is skipped and only `Data/Text/` plus supplementary assets are published.
+
+## FAQ
+
+- **Release zip has no maps?** The CI build lacked `GAME_DIR` source data. Use `publish_build.py` locally instead.
+- **Chinese text shows garbled?** Make sure the game launches with **German (GER)** selected — the Chinese (l10) content is loaded by an external hook.
+- **Encoding issues:** The game only supports GB2312. `loc_tools.py build` has built-in GB2312 compatibility handling (`--` for dashes, `・` for name separators, alternative character substitutions).
+
+## Disclaimer
+
+This is a fan-made localization project for educational and exchange purposes only. All game assets are the property of the original developers and publishers. Not for commercial use.

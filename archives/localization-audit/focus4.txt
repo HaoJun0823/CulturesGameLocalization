@@ -1,0 +1,399 @@
+==========================================================================================
+FILE demo_mainmenu_10.xml
+--- block 01
+  G: | 
+Hier hatten wir den idealen Landeplatz gefunden! 
+
+Docke die Schiffe an, entlade die Güter und baue eine kleine Siedlung auf. 
+|
+  >> 旧CHN:
+  C: |
+阴影与混沌威胁着世界。一股黑暗之力不断在大地上蔓延。一切都岌岌可危--你的人民正需要你的指引。
+
+按照任务提示行动并享受这个世界。
+        |
+--- block 02
+  G: | 
+Kaum waren wir an Land gegangen und hatten begonnen unser Lager aufzuschlagen, ereilte uns eine Nachricht der Einwohner Alexandrias. Doch traurig und erschreckend war ihre Kunde: Ein großer Teil des Leuchtturms war bereits zerstört und wenn wir nicht schnell handeln würden wäre dieses Weltwunder den nächsten Erschütterungen kaum standhalten können! 
+Viele Abbauer anderer Nomadenstämme aus der Umgebung bauten bereits tüchtig Stein ab. Leider hatten sie nicht die nötigen Träger und Händler, um sie in einem nahen Lagerhaus am Leuchtturm zu bringen.
+
+Bringe 100 Steine und 50 Marmorblöcke zum Leuchtturm. 
+|
+  >> 旧CHN:
+  C: |
+寻找一处合适的登陆地点。
+
+注意：地形的细微之处可能会在这个阶段产生重大影响--仔细寻找合适的位置。
+        |
+--- block 03
+  G: | 
+
+Wir hatten die benötigten Waren im Lagerhaus am Leuchtturm abgeliefert und die Bewohner Alexandrias dankten es uns. Trotzdem ging die Arbeit nur mühsam voran. Vor kurzem hatten Vagabunden in den Bergen den Ingenieur des Bauwerkes entführt und seitdem wusste niemand so richtig, wie er gebaut werden sollte. Vielleicht ließen die Vagabunden aber auch mit sich reden und man konnte eine friedliche Einigung finden... 
+
+Befreie den Architekten Sostratos aus dem Vagabundenlager und bringe ihn zum Leuchtturm. 
+|
+  >> 旧CHN:
+  C: |
+在这里开始建设一个小型定居点。
+
+但别着急--先只建造最必需的东西，并照顾好你的维京人。
+        |
+--- block 04
+  G: | 
+VAGABUNDEN
+
+"Hey! Ihr da! Wir dulden keine Eindringlinge in unserem Dorf! Oder seid ihr hier das Lösegeld für den Architekten Sostratos zu bezahlen! Das geforderte Lösungsgeld ist allerdings nicht mehr ausreichend! Wir wollen mehr und außerdem könnt ihr Wikinger fantastisch Met ansetzen, so sagt man. Auch davon wären uns ein paar Fässer recht willkommen!" 
+
+Zahle den Tribut oder vertreibe die Vagabunden von diesem Landstrich!  
+|
+  >> 旧CHN:
+  C: |找到了好位置吗？
+
+那就开始
+
+建造吧……|
+--- block 05
+  G: | 
+VAGABUNDEN
+
+"Euer Bier hat uns gemundet, falls ihr uns noch ein paar Fässer gebt könnt ihr euch ungehindert in unseren Lager umsehen und euch mitnehmen was ihr wollt - sogar den Architekten Er ist uns eh zu nichts nütze!" 
+
+Zahle den Tribut oder vertreibe die Vagabunden von diesem Landstrich!  
+|
+  >> 旧CHN:
+  C: |这些是最重要的建筑。
+
+注意它们的建
+
+造顺序和位置。|
+--- block 06
+  G: | 
+
+SOSTRATOS
+
+"Ich grüße Euch, euch müssen die Alexandriner zu mir geschickt haben, denn mein Werk ist noch nicht vollendet! 
+Ohne mich werden sie es wohl nicht schaffen. Würdet ihr mich zum Leuchtturm begleiten?
+
+Bringe Sostratos zum Leuchtturm. 
+|
+  >> 旧CHN:
+  C: |现在先去获取石头和大理石。
+
+你可能需要一段时间才能送到目的地。
+
+因此，在运送第一批货物后，最好建造一条通往灯塔的道路。|
+--- block 07
+  G: | 
+
+Die benötigten Waren wurden aufgebraucht und der Architekt Sostratos, der sein Handwerk verstand, gab die nötigen Anweisungen dazu. Bald stand de Leuchtturm in alter Pracht vor uns und kein Erdbeben dieser Welt sollte ihn den Erdboden gleichmachen können! Aber Irgendetwas fehlte noch. Zwar Stand der Leuchtturm wie ein Fels in der Brandung, aber er wies keinem Seefahrer den Weg in die Stadt, denn ihm fehlte sein Leuchten. Kein gewöhnliches Feuer sollte an der Spitze dieses Weltwunders brennen, die Alexandriner wollten das heilige Feuer aus den Bergen zurückerobern. Abtrünnige Sarazenennomaden benutzten es in ihren Bergwerken zum Goldabbau. 
+
+Suche nach dem heiligen Feuer im Südwesten und bringe es zum Leuchtturm. 
+|
+  >> 旧CHN:
+  C: |
+还有一些其他重要的事情需要处理。
+
+完成这些任务之后，你的维京人至少能暂时站稳脚跟。
+        |
+--- block 09
+  G: |
+
+WACHEN!
+
+Zwei finster aussehende Wachen traten uns entgegen: 
+
+"Halt! Keinen Schritt weiter! Oder euch wird es schlecht ergehen!"
+|
+  >> 旧CHN:
+  C: |完成这些任务后，你的维
+
+京人至少能暂时站稳脚跟。
+
+现在可以扩展和进一步探索了。|
+--- block 10
+  G: |
+
+Als wir diesen Schalter betraten öffneten sich unweit von hier zwei Tore! 
+|
+  >> 旧CHN:
+  C: |
+那么--开始吧……踏上冒险之旅！
+        |
+==========================================================================================
+FILE weinachten_2002.xml
+--- block 02
+  G: | 
+WIKINGER
+
+"Freunde, seid willkommen! Nehmt Platz an unserer Festtafel!" luden uns die Wikinger sofort zu sich ein.
+
+|
+  G: |
+
+"Wir haben eine fantastische Näherei! Geht und schaut sie euch an. Gerne könnt Ihr auch jederzeit mit uns Handel treiben."
+|
+  >> 旧CHN:
+  C: |
+驯鹿群在冰封的苔原上吃草，为爱斯基摩人提供了急需的食物。
+
+去获取驯鹿肉来帮助饥饿的人们吧！
+        |
+  C: |
+努力证明你的诚意，帮助部落填饱肚子。
+        |
+--- block 03
+  G: | 
+GRAUKIMOS
+
+"Diese elenden Gelbimos! Die denken sie wären etwas Besseres!"
+
+|
+  G: |
+
+"Wir würden ja einen Frieden zustimmen, aber haben sie uns Nahrung gestohlen und unseren Häuptling entführt!"
+
+Liefere 10 Kuchen zum Tribut, damit die Graukimos einem Gespräch zustimmen!
+|
+  >> 旧CHN:
+  C: |
+灰爱斯基摩人和黄爱斯基摩人正等待着你的帮助。
+
+用钻石与酋长商谈--这些闪亮的宝石将说服他们与你合作。
+        |
+  C: |
+每个部落都需要被单独说服--他们都想
+
+成为最受重视的一方。
+        |
+--- block 04
+  G: | 
+GELBIMOS
+
+"Diese elenden Graukimos! Die denken sie wären etwas Besseres!" 
+
+|
+  G: |
+
+"Wir würden ja einen Frieden zustimmen, aber haben sie unseren Häuptling entführt und uns unser Met gestohlen, welches wir von dem freundlichen Wikingerstamm erhielten!"
+
+Liefere 10 Met zum Tribut, damit die Gelbimos einem Gespräch zustimmen!
+|
+  >> 旧CHN:
+  C: |
+教育是通向和平的钥匙。
+
+建造一所学校来教导爱斯基摩的孩子们。
+        |
+  C: |
+当年轻一代一起学习时，部落之间的
+
+隔阂就会慢慢消融。
+        |
+--- block 05
+  G: | 
+TRIBUT AN GRAUKIMOS BEZAHLT!
+
+Die Graukimos erhielten von uns den gewünschten Kuchen. 
+
+|
+  G: |
+
+Erst nachdem an beide Parteien der Tribut entrichtet wurde, ließen sie sich auf Gespräche ein.
+|
+  >> 旧CHN:
+  C: |寒冬刺骨。为爱斯基摩人提
+
+供温暖的皮毛来抵御严寒。|
+  C: |
+那些没有受冻的人，才会敞开心扉。
+        |
+--- block 06
+  G: | 
+TRIBUT AN GELBIMOS BEZAHLT
+
+Die Gelbimos erhielten von uns den gewünschten Met. 
+
+|
+  G: |
+
+Erst nachdem an beide Parteien der Tribut entrichtet wurde, ließen sie sich auf Gespräche ein.
+|
+  >> 旧CHN:
+  C: |
+圣诞老人需要帮助！
+
+他无法独自完成送礼物的任务。
+        |
+  C: |
+帮他一起把礼物送给所有的孩子吧！
+        |
+--- block 07
+  G: | 
+VÖLKER FREUNDLICH
+
+Erst nachdem an beide Parteien der Tribut entrichtet wurde, ließen sie sich auf Gespräche ein und hörten auf sich zu bekämpfen.
+
+|
+  G: |
+
+Es stellte sich heraus, dass alle Anschuldigungen grundlos gewesen waren, weder bestohlen sich die Völker untereinander, noch war einer der Stämme verantwortlich für das Verschwinden des Häuptlings. 
+Die Eskimos indes waren uns so dankbar, dass sie von nun an zu unseren Volk gehörten, solange wir sie brauchten...
+
+|
+  >> 旧CHN:
+  C: |
+各族终于团结起来了！
+
+圣诞老人感谢你的帮助。所有的孩子们都收到了一份礼物。
+        |
+  C: |
+祝大家圣诞快乐，愿新的一年带给你们幸福与和平！
+        |
+--- block 10
+  G: | 
+NÄHEREI
+
+"Passend zum großen Fest nähen wir rote Kleidung für die Eskimos. Sie sind ja ganz lieb, aber können so schlecht teilen..." sprachen die Näher.
+
+|
+  G: |
+
+"Jedes Jahr entfacht ein neuer Streit, wo der Häuptling (bisher der einzige mit roter Kleidung) das Fest verbringt! Hoffentlich reicht unsere Wolle und wir werden rechtzeitig fertig..."
+
+Bringe 15 Säcke zur Näherei!
+|
+  >> 旧CHN:
+  C: |
+
+裁缝铺
+
+"为迎接节日，我们缝制红色衣物给爱斯基摩人。他们一定会开心。"
+        
+        |
+  C: |可是还需要更多布料
+
+，为所有人都做一套。|
+--- block 100
+  G: |
+MISSION VERLOREN!
+|
+  G: |
+Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+|
+  >> 旧CHN:
+  C: |
+
+任务失败！
+        
+        |
+  C: |
+
+圣诞节的欢乐气氛被破坏了……再试一次吧！
+        
+        |
+--- block 11
+  G: | 
+NÄHEREI
+
+"Wir haben die rote Kleidung rechtzeitig hergestellt. Nun müssten die Eskimos nur vorbeikommen und sie abholen."
+
+|
+  G: |
+
+Bringe die Eskimos zur Näherei, wenn die Graukimos und Gelbimos versöhnt sind! 
+|
+  >> 旧CHN:
+  C: |
+
+裁缝铺
+
+"我们及时赶制出了红色衣服。现在只等爱斯基摩人来取了。"
+        
+        |
+  C: |
+
+希望他们会喜欢。
+        
+        |
+--- block 12
+  G: | 
+ESKIMOS
+
+"Mit so schicker roter Kleidung sehen wir aus wie unser Häuptling!" sprachen die Eskimos. 
+
+|
+  G: |
+
+"Wir könnten allen Stämmen eine Freude machen und ihnen zum Fest einen Besuch abstatten, vielleicht kann man so Konflikte friedlich lösen?"
+
+Bringe die Eskimos zu den Schwarzimos. Sie zeigen dir den Weg!
+|
+  >> 旧CHN:
+  C: |
+
+爱斯基摩人
+
+"穿上这么好看的红色衣服，我们看起来就像酋长一样！"
+        
+        |
+  C: |现在各族都准备好了
+
+，可以一起庆祝了。|
+--- block 13
+  G: | 
+SCHWARZIMOS
+
+"Wir trauen unseren Augen nicht! Dann ist der, den wir für unser Fest entführt hatten, nicht der Einzige? So haben wir ihm vielleicht Unrecht getan. Wir dachten, wir wären das glücklichste Volk dieses Jahr... es tut uns so leid..."
+
+|
+  G: |
+
+"Wenn einer von euch bei uns bleiben will, geben wir ihm selbstverständlich seine Freiheit wieder, oder wollen wir alle gemeinsam feiern?"
+
+Die rot gekleideten Eskimos nahmen gern die Einladung an...
+|
+  >> 旧CHN:
+  C: |
+黑爱斯基摩人
+
+"我们简直不敢相信自己的眼睛！原来我们一直视为敌人的那些人，其实只是想帮助我们。"
+        |
+  C: |和解的时刻终于到了。
+
+红色皮肤的小不点们似乎也松了口气。|
+--- block 17
+  G: | 
+NORNEN
+
+"Ihr seid gekommen, den Regen zu verbannen?" 
+
+|
+  G: |
+
+"Ihr habt es geschafft die zwei Stämme zu vereinen, dafür werden wir dem Regen Einhalt gebieten. Seht wie wunderschön weiß die Umgebung erstrahlt, wenn Neuschnee fällt...".
+|
+  >> 旧CHN:
+  C: |干得好！
+
+你已经帮助诺恩族解决了他们的麻烦。|
+  C: |
+你找到了诺恩三女神的祝福。现在各族可以团结一致了。
+        |
+--- block 18
+  G: | 
+DER ALTE MANN
+
+"Es ist verflixt mit diesen Eingeborenen! Sie bringen durch ihre Streitereien das ganze Wetter durcheinander. Die Nornen im Westen werden erst wieder Schnee fallen lassen, wenn sie sich vertragen haben!"
+
+|
+  G: |
+
+"Hoch im Norden, hinter dem verborgenen Pfad, gibt es ein Volk, das noch weniger teilen kann, als die zwei Stämme der Gelbimos und Graukimos zusammen!"
+|
+  >> 旧CHN:
+  C: |圣诞快乐！
+
+愿和平与欢乐伴随你的维京人度过这个特别的节日。|
+  C: |
+各族终于团聚，共同庆祝这个美好的节日。愿新的一年带给你们幸福与和平！
+        |

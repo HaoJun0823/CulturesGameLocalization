@@ -1,52 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_03_01_sub" export_map_id="campaign_03_01_sub" map_md5="be676653b10a952d7efab87f3b04ab0e" IsC2M="false">
+<localization version="1.3" map_id="campaign_03_01_sub" export_map_id="campaign_03_01_sub" map_md5="be676653b10a952d7efab87f3b04ab0e" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@寻得圣火！</text>
+      <text lang="eng">@FIND THE HOLY FIRE!</text>
       <text lang="ger">@SUCHE DAS HEILIGE FEUER!</text>
     </string>
     <string id="1">
       <text lang="CHN">设法打开闸门！</text>
+      <text lang="eng">Find a way to open the gate!</text>
       <text lang="ger">Finde eine Möglichkeit das Tor zu öffnen!</text>
     </string>
     <string id="56">
       <text lang="CHN">山地部族矿工</text>
+      <text lang="eng">Mountain Tribe Workers</text>
       <text lang="ger">Bergvolkarbeiter</text>
     </string>
     <string id="57">
       <text lang="CHN">守卫</text>
+      <text lang="eng">Guards</text>
       <text lang="ger">Wachen</text>
     </string>
     <string id="66">
       <text lang="CHN">工人</text>
+      <text lang="eng">Workers</text>
       <text lang="ger">Arbeiter</text>
     </string>
     <string id="67">
       <text lang="CHN">守卫</text>
+      <text lang="eng">Guards</text>
       <text lang="ger">Wachen</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
+      <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
+      <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
+      <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
     </string>
     <string id="99">
       <text lang="CHN">圣火</text>
+      <text lang="eng">THE HOLY FIRE</text>
       <text lang="ger">DAS HEILIGE FEUER</text>
     </string>
   </strings>
@@ -60,6 +72,17 @@
         <text>
 霉腐的气味钻进我们的肺里，附近传来矿工们响亮的锤击声。他们到底把圣火藏在了哪里？
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+Deep down in the tunnel the merciless heat of the desert could hardly be felt.
+
+</text>
+        <usericon>1,38,49</usericon>
+        <text>
+
+The mouldy air penetrated our lungs, and from somewhere nearby we heard the echoing blows of the miners' hammers. But where did they keep the Holy Fire?
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -82,6 +105,11 @@ Modriger Geruch durchdrang unsere Lungen und aus der nahen Umgebung hörten wir 
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+Find the Holy Fire.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Suche das Heilige Feuer.
@@ -98,6 +126,13 @@ Suche das Heilige Feuer.
 “喂，你们这些人！是谁准许你们进入我们的矿场的？”
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+MOUNTAIN PEOPLE
+
+"Hey, you! Who allowed you to enter our mines?"
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -117,6 +152,15 @@ BERGVOLK
 “别伤害我们！我们只是在这里干自己的活儿，矿场上头发生了什么，我们几乎一无所知！”
         
         </text>
+        <usericon>1,23,62</usericon>
+      </lang>
+      <lang code="eng">
+        <text> 
+WORKER
+
+"Don't hurt us! We only do our work and we hardly know what is happening above ground!" 
+
+</text>
         <usericon>1,23,62</usericon>
       </lang>
       <lang code="ger">
@@ -144,6 +188,17 @@ ARBEITER
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+The entrance to the gate is still blocked!
+
+</text>
+        <usericon>1,121,52</usericon>
+        <text>
+
+Find a way to open the gate!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Der Zugang zu dem Tor ist dir noch verwehrt!
@@ -164,6 +219,13 @@ Finde eine Möglichkeit, das Tor zu öffnen!
 你的维京人现在可以通过这道大门了！但要提防躲在门后守护圣火的卫兵！
         
         </text>
+        <usericon>1,121,52</usericon>
+      </lang>
+      <lang code="eng">
+        <text> 
+Your Vikings may now pass the gate! But beware of the guards of the Holy Fire who are hiding behind the gate!
+
+</text>
         <usericon>1,121,52</usericon>
       </lang>
       <lang code="ger">
@@ -190,6 +252,19 @@ Deine Wikinger dürfen das Tor nun passieren! Doch hüte dich vor den Wächtern 
 我们所有的战士都感到脱胎换骨、焕然一新！
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+LIFE ENERGY
+
+A strange magic surrounded this place ... 
+
+</text>
+        <usericon>1,96,77</usericon>
+        <text>
+
+All our men felt like they had been reborn!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -223,6 +298,17 @@ All unsere Männer fühlten sich wie neu geboren!
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -252,6 +338,17 @@ Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen 
 一时的疏忽，人生便会急转直下！你的女英雄希拉因你的大意而丧命！失去这位英雄，你将无缘见到任务的结局。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -283,6 +380,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin C
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -313,6 +421,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -335,6 +454,13 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
         </text>
         <usericon>1,137,14</usericon>
       </lang>
+      <lang code="eng">
+        <text> 
+Finally we had found the fire for the Pharos Lighthouse. The Saracen people had given us a hard time.
+
+</text>
+        <usericon>1,137,14</usericon>
+      </lang>
       <lang code="ger">
         <text> 
 Endlich hatten wir das Feuer für den Leuchtturm von Pharos zurückerobert. Das Sarazenenbergvolk hatte uns dieses Unterfangen nicht gerade leicht gemacht.
@@ -345,6 +471,7 @@ Endlich hatten wir das Feuer für den Leuchtturm von Pharos zurückerobert. Das 
     </block>
     <block id="50_end1">
       <lang code="CHN" />
+      <lang code="eng" />
       <lang code="ger" />
     </block>
     <block id="50_endheader">
@@ -355,6 +482,11 @@ Endlich hatten wir das Feuer für den Leuchtturm von Pharos zurückerobert. Das 
 任务成功！
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+MISSION COMPLETED! 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -370,6 +502,11 @@ MISSION GEWONNEN!
 圣火
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE HOLY FIRE
+</text>
       </lang>
       <lang code="ger">
         <text> 

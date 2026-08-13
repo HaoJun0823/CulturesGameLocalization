@@ -1,212 +1,264 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_03_06" export_map_id="campaign_03_06" map_md5="e1c69e18547740c7a719a5d17f3d3c19" IsC2M="false">
+<localization version="1.3" map_id="campaign_03_06" export_map_id="campaign_03_06" map_md5="e1c69e18547740c7a719a5d17f3d3c19" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@在神庙前竖起宙斯巨像！</text>
+      <text lang="eng">@BUILD THE ZEUS STATUE AT THE TEMPLE!</text>
       <text lang="ger">@ERRICHTE DIE ZEUSSTATUE AM TEMPEL!</text>
     </string>
     <string id="1">
       <text lang="CHN">寻访并联合你的部族。</text>
+      <text lang="eng">Find and unite your people.</text>
       <text lang="ger">Suche und vereine dein Volk.</text>
     </string>
     <string id="2">
       <text lang="CHN">在商人的货栈屋之间，建起一座你自己的仓储屋！</text>
+      <text lang="eng">Build an extra warehouse between the merchants' warehouses!</text>
       <text lang="ger">Errichte zwischen den Händlerlagerhäusern ein eigenes Lagerhaus!</text>
     </string>
     <string id="3">
       <text lang="CHN">前往工地。</text>
+      <text lang="eng">Go to the building site.</text>
       <text lang="ger">Gehe zum Bauplatz.</text>
     </string>
     <string id="4">
       <text lang="CHN">将 80 金运抵巨像工地。</text>
+      <text lang="eng">Take 80 gold to the Zeus Statue building site.</text>
       <text lang="ger">Bringe 80 Gold zum Bauplatz der Statue.</text>
     </string>
     <string id="5">
       <text lang="CHN">前往伊利斯。</text>
+      <text lang="eng">Go to Elis.</text>
       <text lang="ger">Gehe nach Elis.</text>
     </string>
     <string id="6">
       <text lang="CHN">寻得隐秘的象牙与那些珍稀的贵金属。</text>
+      <text lang="eng">Find the hidden ivory and the rare precious metals.</text>
       <text lang="ger">Finde das verborgene Elfenbein und die seltenen Edelmetalle.</text>
     </string>
     <string id="7">
       <text lang="CHN">向科林斯人奉上一件他们信仰的圣物。</text>
+      <text lang="eng">Bring the Corinthians an artefact of their faith.</text>
       <text lang="ger">Bringe den Korinthern ein Artefakt ihres Glaubens.</text>
     </string>
     <string id="8">
       <text lang="CHN">找到奥林匹亚的奔跑者，向他发起一场赛跑挑战。</text>
+      <text lang="eng">Find the runner of Olympia and compete with him in a race.</text>
       <text lang="ger">Finde den Läufer von Olympia und trete gegen ihn ein Wettrennen an.</text>
     </string>
     <string id="9">
       <text lang="CHN">促使诸族携手协作，与伊利斯人同赴斯巴达！</text>
+      <text lang="eng">Get the people to co-operate, take the Elisians to Sparta!</text>
       <text lang="ger">Bringe die Völker zur Zusammenarbeit, gehe mit Elisern nach Sparta!</text>
     </string>
     <string id="10">
       <text lang="CHN">向商人缴纳 15 罐蜂蜜作为贡品，以换取更多货品。</text>
+      <text lang="eng">Pay the merchants a tribute of 15 bowls of honey for additional goods.</text>
       <text lang="ger">Zahle den Händler 15 Schalen Honig als Tribut für weitere Waren.</text>
     </string>
     <string id="11">
       <text lang="CHN">向游牧民缴纳 15 把长剑作为贡品。</text>
+      <text lang="eng">Pay the nomads a tribute of 15 longswords.</text>
       <text lang="ger">Zahle den Nomaden 15 Langschwerter als Tribut.</text>
     </string>
     <string id="12">
       <text lang="CHN">将 40 根大理石柱运抵巨像工地。</text>
+      <text lang="eng">Take 40 marble columns to the Zeus Statue building site.</text>
       <text lang="ger">Bringe 40 Marmorsäulen zum Bauplatz der Statue.</text>
     </string>
     <string id="13">
       <text lang="CHN">携你全部英雄与一名伊利斯士兵，前往兵营。</text>
+      <text lang="eng">Take all of your heroes and an Elisian soldier to the barracks.</text>
       <text lang="ger">Gehe mit allen deinen Helden und einem Elisersoldaten zur Kaserne.</text>
     </string>
     <string id="14">
       <text lang="CHN">与你的英雄们返回巨像工地！</text>
+      <text lang="eng">Return to the Zeus Statue building site with your heroes!</text>
       <text lang="ger">Gehe mit deine Helden zurück zum Bauplatz der Statue!</text>
     </string>
     <string id="15">
       <text lang="CHN">去探索斯巴达吧，你现已获准于此！</text>
+      <text lang="eng">Explore Sparta, you are now allowed to!</text>
       <text lang="ger">Erkunde Sparta, du hast nun die Erlaubnis hierzu!</text>
     </string>
     <string id="16">
       <text lang="CHN">缴此贡品，你将得一辆手推车与一辆牛车：</text>
+      <text lang="eng">In return for this tribute you will get a handcart and an ox cart:</text>
       <text lang="ger">Für diesen Tribut erhältst du einen Hand- und einen Ochsenkarren:</text>
     </string>
     <string id="17">
       <text lang="CHN">缴此贡品，你将得 15 个营养护符：</text>
+      <text lang="eng">In return for this tribute you will get 15 nourishing amulets:</text>
       <text lang="ger">Für diesen Tribut erhältst du 15 Nahrungsamulette:</text>
     </string>
     <string id="20">
       <text lang="CHN">大理石柱 %d/40</text>
+      <text lang="eng">Marble columns %d/40</text>
       <text lang="ger">Marmorsäulen %d/40</text>
     </string>
     <string id="21">
       <text lang="CHN">黄金 %d/80</text>
+      <text lang="eng">Gold %d/80</text>
       <text lang="ger">Gold %d/80</text>
     </string>
     <string id="22">
       <text lang="CHN">大理石柱已送达</text>
+      <text lang="eng">Marble columns delivered</text>
       <text lang="ger">Marmorsäulen geliefert</text>
     </string>
     <string id="23">
       <text lang="CHN">黄金已送达</text>
+      <text lang="eng">Gold delivered</text>
       <text lang="ger">Gold geliefert</text>
     </string>
     <string id="24">
       <text lang="CHN">象牙与贵金属已送达</text>
+      <text lang="eng">Ivory and precious metals delivered</text>
       <text lang="ger">Elfenbein und Edelmetalle geliefert</text>
     </string>
     <string id="51">
       <text lang="CHN">奥林匹亚</text>
+      <text lang="eng">Olympia</text>
       <text lang="ger">Olympia</text>
     </string>
     <string id="52">
       <text lang="CHN">游牧武士</text>
+      <text lang="eng">Nomad Warriors</text>
       <text lang="ger">Nomadenkrieger</text>
     </string>
     <string id="53">
       <text lang="CHN">伊利斯</text>
+      <text lang="eng">Elis</text>
       <text lang="ger">Elis</text>
     </string>
     <string id="54">
       <text lang="CHN">科林斯</text>
+      <text lang="eng">Corinth</text>
       <text lang="ger">Korinth</text>
     </string>
     <string id="55">
       <text lang="CHN">斯巴达</text>
+      <text lang="eng">Sparta</text>
       <text lang="ger">Sparta</text>
     </string>
     <string id="56">
       <text lang="CHN">墨加拉</text>
+      <text lang="eng">Megara</text>
       <text lang="ger">Megara</text>
     </string>
     <string id="58">
       <text lang="CHN">市集</text>
+      <text lang="eng">Market</text>
       <text lang="ger">Markt</text>
     </string>
     <string id="61">
       <text lang="CHN">奥林匹</text>
+      <text lang="eng">Olym.</text>
       <text lang="ger">Olym.</text>
     </string>
     <string id="62">
       <text lang="CHN">游牧</text>
+      <text lang="eng">Noma.</text>
       <text lang="ger">Noma.</text>
     </string>
     <string id="63">
       <text lang="CHN">伊利斯</text>
+      <text lang="eng">Elis</text>
       <text lang="ger">Elis</text>
     </string>
     <string id="64">
       <text lang="CHN">科林</text>
+      <text lang="eng">Corin.</text>
       <text lang="ger">Korin.</text>
     </string>
     <string id="65">
       <text lang="CHN">斯巴</text>
+      <text lang="eng">Spar.</text>
       <text lang="ger">Spar.</text>
     </string>
     <string id="66">
       <text lang="CHN">墨加</text>
+      <text lang="eng">Mega.</text>
       <text lang="ger">Mega.</text>
     </string>
     <string id="68">
       <text lang="CHN">市集</text>
+      <text lang="eng">Market</text>
       <text lang="ger">Markt</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
+      <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
+      <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
+      <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">诺伯特</text>
+      <text lang="eng">Norbert</text>
       <text lang="ger">Norbert</text>
     </string>
     <string id="76">
       <text lang="CHN">玛尼</text>
+      <text lang="eng">Mani</text>
       <text lang="ger">Mani</text>
     </string>
     <string id="77">
       <text lang="CHN">奔跑者</text>
+      <text lang="eng">Runner</text>
       <text lang="ger">Läufer</text>
     </string>
     <string id="78">
       <text lang="CHN">伊利斯商人</text>
+      <text lang="eng">Elisian Merchant</text>
       <text lang="ger">Eliserhändler</text>
     </string>
     <string id="79">
       <text lang="CHN">伊利斯人</text>
+      <text lang="eng">Elisian</text>
       <text lang="ger">Eliser</text>
     </string>
     <string id="83">
       <text lang="CHN">安图萨</text>
+      <text lang="eng">Anthusa</text>
       <text lang="ger">Anthusa</text>
     </string>
     <string id="84">
       <text lang="CHN">德斯塔西亚</text>
+      <text lang="eng">Destasia</text>
       <text lang="ger">Destasia</text>
     </string>
     <string id="85">
       <text lang="CHN">帕萨拉</text>
+      <text lang="eng">Pasara</text>
       <text lang="ger">Pasara</text>
     </string>
     <string id="98">
       <text lang="CHN">每隔四载之夏，奥林匹亚便有一场盛大庆典。只要节庆持续，克洛诺斯丘周遭的圣林之地便得安宁……可我们真能重建菲迪亚斯的那尊巨像吗？诸城之间，猜忌实在太深。</text>
+      <text lang="eng">Every fourth summer, a huge festival was held in Olympia. For the duration of the festival, the area around the Kronos Hill in the Holy Grove was peaceful ... But would we be able to resurrect the Zeus Statue of Phidias? There was a lot of mistrust among the cities.</text>
       <text lang="ger">Jeden vierten Sommer fand in Olympia ein großes Fest statt. Solange das Fest andauerte, herrscht Frieden in der Umgebung des Kronos-Hügels im Heiligen Hain… doch wird es uns gelingen, die Statue des Phidias wieder zu errichten? Es herrschte soviel Misstrauen unter den Städten.</text>
     </string>
     <string id="99">
       <text lang="CHN">奥林匹亚的菲迪亚斯宙斯像</text>
+      <text lang="eng">THE ZEUS STATUE OF PHIDIAS IN OLYMPIA</text>
       <text lang="ger">ZEUSTATUE DES PHIDIAS IN OLYMPIA</text>
     </string>
   </strings>
@@ -220,6 +272,15 @@
 
 我们只能寄望议会无误，世界奇迹真能将黑暗逐出大地……
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+Our next task was to build a mighty statue of Zeus. The Council of Nations had found out that this was the next Wonder of the World in which mysterious powers lay dormant that could avert all evil. In the face of constantly growing dangers we could only hope that the Council was right and the Wonders of the World would indeed be able to drive the darkness from the Earth ...
+
+We had to convince the people near Olympia to help us build the Zeus Statue, because without their help the construction would take far too long. 
+
+But we faced serious problems ourselves ... A heavy storm had separated our ships upon our arrival. Our women and men must have arrived at a different location on the peninsula.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -243,6 +304,14 @@ Doch hatten wir selbst arge Probleme... Ein starker Sturm hatte unsere Schiffe b
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+In these gloomy times there was much armed conflict between the tribes. 
+But every fourth summer, a huge festival was held in Olympia. For the duration of the festival, the area around the Kronos Hill in the Holy Grove was peaceful. All participants in the Olympic Games were given safe conduct on their way to Olympia, according to the orders of Zeus ...
+
+Assist in the construction of the Zeus Statue!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -278,6 +347,22 @@ Hilf bei der Errichtung der Zeusstatue!
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THE CITIZENS OF OLYMPIA
+
+"Oh! Greetings, novices to the Olympic Games! I am glad to offer you our support for the reconstruction of the Zeus Statue. 
+But first prove your sportsmanship! Compete with the runner of Elis in a race! You will find him somewhere in the hinterland of our beautiful city.
+
+</text>
+        <usericon>2,7</usericon>
+        <text>
+
+He exercises day and night, running around the track."
+
+Find the runner of Elis and compete with him in a race!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DIE BÜRGER VON OLYMPIA
@@ -307,6 +392,14 @@ Finde den Läufer von Elis und trete mit ihn einen Wettkampf an!
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+GUARDS OF THE ZEUS STATUE
+
+"A mighty temple once stood here and accommodated the Zeus Statue of Phidias in its centre. We are the guards of the building site and watch over the Holy Grove. 
+We people from Olympia will only assist you in building the Zeus Statue if you prove yourselves worthy of our support ..."
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -343,6 +436,23 @@ Wir Olympianer werden euch erst Unterstützung bei der Errichtung der Statue lei
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+GUARDS OF THE STATUE
+
+"You have truly proved worthy to lead the construction of the Zeus Statue. As you can see, the citizens of Olympia and Elis have already started building it." 
+
+</text>
+        <usericon>1,83,253</usericon>
+        <text>
+
+"Unfortunately, we are running out of resources. We need more gold and marble columns. You can get the marble columns from the Elisians, but nobody here possesses gold apart from the cities in the north-west. 
+
+The Corinthians are quite easy to get along with and have told us that they would give us their gold, if we brought them an artefact that the Spartans possessed. Unfortunately, the Spartans are not very friendly towards us. And the citizens of Megara, high up in the north-west, don't want to share their possessions with anybody ..."
+
+Deliver 80 gold and 40 marble columns to the building site! The runner of Elis will show you the way!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 WÄCHTER DER STATUE
@@ -373,6 +483,13 @@ Liefere 80 Gold und 40 Marmorsäulen zu dem Bauplatz! Der Läufer von Elis zeigt
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+OUR VILLAGE
+
+This was where the other ships of our people had landed and even established a functioning settlement in the meantime. We could either use this one or build another one near the Zeus Statue building site ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 UNSER DORF
@@ -392,6 +509,13 @@ Hier hatten die anderen Schiffe unseres Volkes also angelegt und in der Zwischen
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+GOODS DELIVERED
+
+We had brought the required goods to the building site. From now on, the construction of the Zeus Statue would not take long. 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -423,6 +547,19 @@ Wir hatten die benötigten Waren am Bauplatz abgeliefert. Von nun an würde der 
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THE RUNNER
+
+"Ah! You want to enter into a competition with me! But I will only compete against your Frankish hero!"
+
+</text>
+        <usericon>2,7</usericon>
+        <text>
+
+Take Sigurd to the runner!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DER LÄUFER
@@ -449,6 +586,15 @@ Gehe mit Sigurd zum Läufer!
 
         
         </text>
+        <usericon>2,7</usericon>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE RUNNER
+
+"Are you ready for a competition? So be it!"
+
+</text>
         <usericon>2,7</usericon>
       </lang>
       <lang code="ger">
@@ -484,6 +630,21 @@ DER LÄUFER
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+ELIS
+
+"We like strangers! Come closer. You want to compete against our runner? If you win, we will support you and supply you with all our marble ... 
+
+A little hint: He runs so fast that you often can't catch up with him. Wait for him on the small wooden bridge ...
+
+</text>
+        <usericon>1,108,275</usericon>
+        <text>
+
+... sooner or later he should run past you ..."
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -523,6 +684,19 @@ Ein kleiner Tipp: Er läuft so schnell, dass man ihn oftmals nicht einholt. Wart
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+ELIS
+
+"So, you managed to defeat the runner of Elis? As a reward, we will supply you with marble columns for the construction of the Zeus Statue ... 
+
+</text>
+        <usericon>1,87,147</usericon>
+        <text>
+
+These merchants could take them to you. Give them safe escort ... Maybe they can even be of use for other trade ..."
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 ELIS
@@ -551,6 +725,15 @@ Diese Händler könnten sie zu euch bringen. Gebt ihnen nur Geleit... Vielleicht
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+CORINTH
+
+"There is mistrust everywhere among the cities. If you manage to retrieve our ancient artefact from the Spartans, we will support you in your mission. But the Spartans are not friendly to anybody except the Elisians!"
+
+Bring the Corinthians the artefact of their faith from the Spartans.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 KORINTH
@@ -578,6 +761,17 @@ Bringe den Korinthern das alte Artefakt ihres Glaubens von den Spartanern.
 英雄气概，还是鲁莽？当比雅尼殒命，众神落泪……失此英雄，你便无缘得见任务终局。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -615,6 +809,21 @@ Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen 
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+CORINTH
+ARTEFACT DELIVERED!
+
+"You made it! I'm sure it wasn't easy to retrieve it from the Spartans, because they aren't friendly to anybody except the Elisians.
+Our people are deeply indebted to you and will therefore donate 60 gold to the construction of the Zeus Statue! It will be taken to the building site immediately ...
+
+</text>
+        <usericon>1,76,241</usericon>
+        <text>
+
+Furthermore, you will receive the required ivory and the rare precious metals from us."
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 KORINTH
@@ -646,6 +855,16 @@ Weiterhin erhaltet ihr das benötigte Elfenbein und die seltenen Edelmetalle von
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+SPARTA
+
+"We do not like you! We mistrust all strangers! The only ones that we trust are the Elisians from the north-west.
+Go back where you came from!"
+
+Leave and come back with the WARRIORS of the Elisians!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 SPARTA
@@ -670,6 +889,15 @@ Gehe und komme mit KRIEGERN der Eliser wieder!
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+SPARTA
+
+"Welcome, Elisians! We have not held a joint celebration for a long time, and we are happy that you are paying us a visit again! Your friends are welcome as well ..."
+
+Search Sparta for an ARTEFACT for the Corinthians.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -706,6 +934,22 @@ Suche in Sparta nach einem ARTEFAKT für die Korinther.
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+SPARTA
+
+"You have come to retrieve the artefact for the Corinthians? - This is a just a fake! 
+
+</text>
+        <usericon>1,236,505</usericon>
+        <text>
+
+Due to the constant disturbances and raids, we do not keep it on the surface any more. It is hidden underneath our city - in the SEA OF FLAMES. 
+The entrance is near the barracks. Only heroes must enter this place! If you manage to retrieve it from there, it shall be yours!"
+
+Take all of your heroes and an Elisian soldier to the barracks.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 SPARTA
@@ -737,6 +981,15 @@ Gehe mit allen deinen Helden und einem ELISERSOLDATEN zur Kaserne.
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+MEGARA
+
+"The gold is ours! We won't give it to anybody, not even for the construction of the Zeus Statue," the citizens of Megara called out from a distance, before their arrows rained down on us ...
+
+They were not the least bit friendly. There was no way their attitude could be misinterpreted ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 MEGARA
@@ -761,6 +1014,16 @@ Sie waren uns nun wirklich nicht freundlich gesonnen. Die Anzeichen dafür konnt
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+MARBLE DELIVERED
+
+"Very good, you have got the marble.
+By the way, I almost forgot to tell you that we also need some more ivory and additional precious metals for the construction. I'm sure the Corinthians or the Spartans will be able to help you ..."
+
+Bring some ivory and the precious metals to the building site.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -794,6 +1057,19 @@ Bringe Elfenbein und die Edelmetalle zur Statue.
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE OLD MAN
+
+"I came through these magic fields. I met a tribe like yours in the south, on the other side. 
+
+</text>
+        <usericon>1,193,330</usericon>
+        <text>
+
+They were very friendly and offered me freshly baked bread."
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -830,6 +1106,19 @@ Sie waren sehr nett und boten mir frisch duftendes Brot an."
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE OLD MAN
+
+"Oh yes, the runner of Elis can hardly be stopped! 
+
+</text>
+        <usericon>1,134,198</usericon>
+        <text>
+
+His wife always waits for him on the small bridge for snacks. That's where you will meet him for sure ..."
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -869,6 +1158,21 @@ Seine Frau erwartet ihn zu den Mahlzeiten immer auf der kleinen Holzbrücke. Dor
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THE OLD MAN
+
+"This site is ideal for building a warehouse because it is located right between the two trade posts of the Saracen markets. 
+
+</text>
+        <usericon>1,355,285</usericon>
+        <text>
+
+If I was still young, I would build my warehouse here, too. There is no better place."
+
+If you want to, build a warehouse within the marked area.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DER ALTE MANN
@@ -887,6 +1191,7 @@ Baue, wenn du willst, ein Lagerhaus innerhalb der Markierungen.
     </block>
     <block id="20">
       <lang code="CHN" />
+      <lang code="eng" />
       <lang code="ger" />
     </block>
     <block id="200">
@@ -906,6 +1211,17 @@ Baue, wenn du willst, ein Lagerhaus innerhalb der Markierungen.
 一时疏忽，人生便急转直下！你的女英雄希拉因你大意而殒命！失此英雄，你便无缘得见任务终局。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -938,6 +1254,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin C
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+STATUE OF ZEUS EXTENDED!
+
+</text>
+        <usericon>1,83,242</usericon>
+        <text>
+
+With the precious metals, the citizens of Olympia were able to speed up the construction of the Zeus Statue, but they were still lacking the remaining goods they had already requested.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -972,6 +1299,19 @@ Mit den Edelmetallen konnten die Bewohner von Olympia den Bau der Statue vorantr
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+ALL MAIN MISSION OBJECTIVES COMPLETED!
+
+</text>
+        <usericon>1,83,231</usericon>
+        <text>
+
+Finally, we had got all the materials, so that the Zeus Statue could be finished.
+
+Take your heroes to the Zeus Statue!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1009,6 +1349,19 @@ Gehe mit allen Helden zur Statue!
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+ANTHUSA
+
+"I have heard that there are also red and blue flowers of this kind. 
+
+</text>
+        <usericon>2,13</usericon>
+        <text>
+
+Unfortunately, only yellow flowers grow in my garden. What wouldn't I give only to have a few red ones! Take these yellow flowers. Maybe you will find someone who likes this variety ..."
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 ANTHUSA
@@ -1044,6 +1397,19 @@ In meinem Garten wachsen leider nur gelbe Blumen. Was würde ich dafür geben, e
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+DESTASIA
+
+"I have heard that there are also yellow and blue flowers of this kind. 
+
+</text>
+        <usericon>2,14</usericon>
+        <text>
+
+Unfortunately, only red flowers grow in my garden. What wouldn't I give only to have a few blue ones! Take these red flowers. Maybe you will find someone who likes this variety ..."
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1081,6 +1447,19 @@ In meinem Garten wachsen leider nur rote Blumen. Was würde ich dafür geben, ei
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+PASARA
+
+"I have heard that there are also red and yellow flowers of this kind. 
+
+</text>
+        <usericon>2,15</usericon>
+        <text>
+
+Unfortunately, only blue flowers grow in my garden. What wouldn't I give only to have a few yellow ones! Take these blue flowers. Maybe you will find someone who likes this variety ..."
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 PASARA
@@ -1116,6 +1495,19 @@ In meinem Garten wachsen leider nur blaue Blumen. Was würde ich dafür geben, e
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+ANTHUSA
+
+"Oh! Red flowers! I have always wanted to have some of those! In return, please take the gold in front of my house. Please, you cannot deny my wish."
+
+</text>
+        <usericon>2,13</usericon>
+        <text>
+
+You will receive 10 gold and 5 coins! 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1153,6 +1545,19 @@ Du erhältst 10 Gold und 5 Münzen!
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+DESTASIA
+
+"Oh! Blue flowers! I have always wanted to have some of those! In return, please take the gold in front of my house. Please, you cannot deny my wish."
+
+</text>
+        <usericon>2,14</usericon>
+        <text>
+
+You will receive 10 gold and 5 coins!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DESTASIA
@@ -1189,6 +1594,19 @@ Du erhältst 10 Gold und 5 Münzen!
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+PASARA
+
+"Oh! Yellow flowers! I have always wanted to have some of those! In return, please take the gold in front of my house. Please, you cannot deny my wish."
+
+</text>
+        <usericon>2,15</usericon>
+        <text>
+
+You will receive 10 gold and 5 coins!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 PASARA
@@ -1217,6 +1635,15 @@ Du erhältst 10 Gold und 5 Münzen!
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+NOMAD WARRIORS
+
+"We won't let travellers pass, for the will of Zeus does not count for us!" 
+
+Pay a tribute of 15 longswords!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 NOMADENKRIEGER
@@ -1238,6 +1665,13 @@ Zahle 15 Langschwerter zum Tribut!
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+TRIBUTE PAID TO NOMAD WARRIORS!
+
+"We will let you go in peace," the nomad warriors told us as they took our tribute. 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1265,6 +1699,17 @@ TRIBUT AN NOMADENKRIEGER BEZAHLT!
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1291,6 +1736,15 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+MARKET PLACE
+
+"In return for a tribute, you can get handcarts and ox carts, nourishing amulets and longswords here ...
+
+But first build an extra warehouse between our two warehouses!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 MARKTPLATZ
@@ -1313,6 +1767,15 @@ Doch errichte zuvor zwischen unseren beiden Lagerhäusern ein eigenes Lagerhaus!
 
         
         </text>
+        <usericon>1,354,272</usericon>
+      </lang>
+      <lang code="eng">
+        <text> 
+TRIBUTE PAID TO MERCHANTS OF THE MARKET PLACE! 
+
+"For this tribute you will receive 15 longswords from us. May they be of great use to you."
+
+</text>
         <usericon>1,354,272</usericon>
       </lang>
       <lang code="ger">
@@ -1339,6 +1802,15 @@ TRIBUT AN HÄNDLER DES MARKTPLATZES BEZAHLT!
         </text>
         <usericon>1,350,290</usericon>
       </lang>
+      <lang code="eng">
+        <text> 
+TRIBUTE PAID TO MERCHANTS OF THE MARKET PLACE! 
+
+"For this tribute you will receive a handcart and an ox cart from us. May they be of great use to you."
+
+</text>
+        <usericon>1,350,290</usericon>
+      </lang>
       <lang code="ger">
         <text> 
 TRIBUT AN HÄNDLER DES MARKTPLATZES BEZAHLT! 
@@ -1361,6 +1833,15 @@ TRIBUT AN HÄNDLER DES MARKTPLATZES BEZAHLT!
 
         
         </text>
+        <usericon>1,354,272</usericon>
+      </lang>
+      <lang code="eng">
+        <text> 
+TRIBUTE PAID TO MERCHANTS OF THE MARKET PLACE! 
+
+"For this tribute you will receive 15 nourishing amulets from us. May they be of great use to you."
+
+</text>
         <usericon>1,354,272</usericon>
       </lang>
       <lang code="ger">
@@ -1390,6 +1871,17 @@ TRIBUT AN HÄNDLER DES MARKTPLATZES BEZAHLT!
 一时疏忽，人生便急转直下！你的挚友与英雄西格德因你大意而殒命！失此英雄，你便无缘得见任务终局。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -1421,6 +1913,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero NORBERT, the dragon, died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1445,6 +1948,13 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+We made it! The enthroned figure of Zeus stood on a limestone plinth and was about seven times as tall as a man!
+
+The mighty centre of this colossal structure was made from cypress and ebony. The naked body parts were artfully modelled and carved in ivory. The soles of the sandals, the ankle-length robe of the god and the flowing hair were made of pure gold!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Es war vollbracht! Die thronende Zeusgestalt stand auf einem Kalksteinsockel und besaß in etwa siebenfache Menschengröße!
@@ -1467,6 +1977,15 @@ Der mächtige Kern des Kolossalbildes war aus Zypressen- und Ebenholz gebildet. 
         
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+In his outstretched right hand, Zeus was holding a floating, slim Nike; the left hand held a sceptre made out of various precious metals and crowned by the golden eagle.
+ 
+Full of pride and awe, we stood at the foot of the Zeus Statue. Whatever mysterious power this monument might hold - we almost thought that we could feel it! 
+
+However, we could not remain here for long. We had been told that the destination of our next task, the GIZA PYRAMIDS, were heavily besieged! Therefore we had to return to the country of the Saracens quickly ...
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Auf der vorgestreckten Rechten hielt Zeus eine schwebend schlanke Nike, die linke Hand hielt das mit verschiedenen Edelmetallen eingelegte Zepter, das vom goldenen Königsadler gekrönt war.
@@ -1486,6 +2005,11 @@ Wir konnten jedoch nicht lange hier verweilen. Man hatte uns berichtet, dass uns
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+MISSION COMPLETED! 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1511,6 +2035,17 @@ MISSION GEWONNEN!
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! MANI, son of Bjarni and Cyra, died due to your negligence! Without him, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1532,6 +2067,11 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn vo
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE ZEUS STATUE OF PHIDIAS IN OLYMPIA
+</text>
       </lang>
       <lang code="ger">
         <text> 

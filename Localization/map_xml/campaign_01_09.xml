@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_01_09" export_map_id="campaign_01_09" map_md5="" IsC2M="false">
+<localization version="1.3" map_id="campaign_01_09" export_map_id="campaign_01_09" map_md5="" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="98">
       <text lang="CHN">众多部族在此聚居，纷争也随之酝酿。而维京人，恰好身处这漩涡的中心。</text>
       <text lang="eng">Many tribes live here, and there is trouble ahead. The Vikings are right in the middle of it.</text>
       <text lang="ger">Viele Völker leben hier, und viel Ärger bahnt sich an. Die Wikinger genau mitten drin.</text>
+      <text lang="pol">W tej krainie ¿yje wiele plemion - Wikingowie l¹duj¹ w samym œrodku czegoœ, co zwiastuje spore k³opoty.</text>
     </string>
     <string id="99">
       <text lang="CHN">巴勒斯坦</text>
       <text lang="eng">PALESTINE</text>
       <text lang="ger">PALÄSTINA</text>
+      <text lang="pol">PALESTYNA</text>
     </string>
   </strings>
   <briefings>
@@ -46,6 +49,16 @@ Die Kaufleute empfingen uns freundlich. Gerne würden sie uns mit nach Bagdad ne
 
 
 Erreiche einen Waffenstillstand zwischen den Kriegsparteien.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Pod d³ugim i pe³nym wyrzeczeñ marszu przez pustyniê naszym zwiadowcom uda³o siê wreszcie odnaleŸæ oazê, w której obozowa³a karawana.
+
+Kupcy przyjêli nas przyjaŸnie - nie mieli nic przeciwko zabraniu nas do Bagdadu, jednak powiedzieli tak¿e, ¿e jakakolwiek podró¿ jest niemo¿liwa, dopóki trwa wojna pomiêdzy Frankami i Saracenami. Tylko zawieszenie broni umo¿liwi kontynuowanie wyprawy...
+
+
+DoprowadŸ do zawieszenia broni.
 </text>
       </lang>
     </block>
@@ -85,6 +98,18 @@ In einer stillen Minute trat ein Fremder an uns heran. Sein Name war Harun und e
 Erreiche einen der Anführer der drei Kriegsparteien.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Dostarczyliœmy wiosce wody, a jej mieszkañcy zrewan¿owali nam siê licznymi podarkami.
+
+Gdy ca³a krz¹tanina trochê siê uspokoi³a, podszed³ do nas obcy. Przedstawi³ siê jako Harun i powiedzia³, ¿e wiele podró¿owa³.
+
+"S³ysza³em o waszych k³opotach. Pomogliœcie mieszkañcom tej wioski, wiêc powiem wam, jak doprowadziæ do zawieszenia broni. Zaproœcie przywódców trzech zwaœnionych stron na rozmowy pokojowe na neutralnym gruncie."
+
+
+Odszukaj przywódców trzech wojuj¹cych stron.
+</text>
+      </lang>
     </block>
     <block id="KarawanenachDorf">
       <lang code="CHN">
@@ -116,6 +141,16 @@ Als wir erneut zum Dorf kamen, empfing uns HARUN mit wissendem Blick:
 Erreiche einen der Anführer der drei Kriegsparteien.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Wrócilismy do wioski, a Harun powita³ nas z b³yskiem w oku.
+
+"S³ysza³em o waszych k³opotach. Pomogliœcie mieszkañcom tej wioski, wiêc powiem wam, jak doprowadziæ do zawieszenia broni. Zaproœcie przywódców trzech zwaœnionych stron na rozmowy pokojowe na neutralnym gruncie."
+
+
+Odszukaj przywódców trzech wojuj¹cych stron.
+</text>
+      </lang>
     </block>
     <block id="Karawanenotfound">
       <lang code="CHN">
@@ -137,6 +172,13 @@ During a quiet moment, a stranger approached us. His name was Harun, and he appe
 Als wir dem Dorf das dringend benötigte Wasser gebracht hatten, dankten uns die Bewohner überschwänglich und boten uns reiche Geschenke an. 
 
 In einer stillen Minute trat ein Fremder an uns heran. Sein Name war Harun und er war scheinbar ein weitgereister Mann. Sollten wir irgendwann Hilfe benötigen, so könnten wir jederzeit zu ihm kommen...
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Dostarczyliœmy wiosce wody, a jej mieszkañcy zrewan¿owali nam siê licznymi podarkami.
+
+Gdy ca³a krz¹tanina trochê siê uspokoi³a, podszed³ do nas obcy. Przedstawi³ siê jako Harun i powiedzia³, ¿e wiele podró¿owa³. Jeœlibyœmy mieli kiedykolwiek czegoœ potrzebowaæ, mamy siê udaæ w³aœnie do niego.
 </text>
       </lang>
     </block>
@@ -174,6 +216,17 @@ MISSION VERLOREN!
 Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ihr Ende war besiegelt und mit ihnen das Ende der Welt der Menschen.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroizm czy g³upota? Bjarni zgin¹³, a bogowie p³acz¹... Ich los jest ju¿ przes¹dzony - tak samo jak zniszczenie œwiata ludzi.
+</text>
+      </lang>
     </block>
     <block id="byzantiner">
       <lang code="CHN">
@@ -197,6 +250,14 @@ Im Norden stießen wir auf einen Vorposten der Byzantiner. Von hier aus versucht
 
 
 Wenn wir in den Konflikt nicht hineingezogen werden wollten, sollten wir ihnen besser aus dem Weg gehen.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Na pó³nocy napotkaliœmy bizantyjski posterunek. Cesarstwo próbowa³o odzyskaæ swoje dawne posiad³oœci w Palestynie.
+
+
+Jeœli nie chcemy zaanga¿owaæ siê w konflikt, to lepiej zejœæ im z drogi.
 </text>
       </lang>
     </block>
@@ -236,6 +297,18 @@ Wollt ihr uns beistehen, so bringt uns Wasser!"
 Bringe 111 Wasser zum Dorf.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Podró¿uj¹c przez pustyniê natknêliœmy siê na ma³¹ wioskê, która wydawa³a siê mieæ powa¿ne k³opoty.
+
+"Pomó¿cie nam, cni podró¿nicy! Od miesiêcy ju¿ nie pada³o, wysch³y nam studnie! Nie pozostawiajcie nas na pastwê suszy!
+
+Pomó¿cie nam - dostarczcie nam wody!"
+
+
+Dostarcz wiosce 111 jednostek wody.
+</text>
+      </lang>
     </block>
     <block id="dorfnachzeit">
       <lang code="CHN">
@@ -273,6 +346,18 @@ Wollt ihr uns beistehen, so bringt uns Wasser!"
 Bringe 111 Wasser zum Dorf im Nord-Osten.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Pewnego dnia dotarli do nas wys³annicy ma³ej wioski z pó³nocnego wschodu.
+
+"Pomó¿cie nam, cni podró¿nicy! Od miesiêcy ju¿ nie pada³o, wysch³y nam studnie! Nie pozostawiajcie nas na pastwê suszy!
+
+Pomó¿cie nam - dostarczcie nam wody!"
+
+
+Dostarcz wiosce na pó³nocnym wschodzie 111 jednostek wody.
+</text>
+      </lang>
     </block>
     <block id="end_00">
       <lang code="CHN">
@@ -303,6 +388,16 @@ MISSION GEWONNEN!
         <font>$local$\fonts\font12.fnt</font>
         <text>
 Die Karawane hatte unser Dorf erreicht! 
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA ZAKOÑCZONA SUKCESEM!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Karawana dotar³a do naszej wioski!
 </text>
       </lang>
     </block>
@@ -343,6 +438,18 @@ Endlich konnten wir dieses karge Land verlassen, auf das die Sonne so unermüdli
 Nur mit einigen wenigen Männern und Frauen machten wir uns auf die weite, gefahrvolle Reise durch das Morgenland - unserem nächsten Abenteuer entgegen! 
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA ZAKOÑCZONA SUKCESEM!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Jeœli d¿inn nie k³ama³, to wkrótce mieliœmy zdobyæ ostatni¹ czêœæ mapy.
+
+Wraz z najodwa¿niejszymi towarzyszami do³¹czyliœmy do karawany i wyruszyliœmy w d³ug¹ i niebezpieczn¹ podró¿ przez kraje Orientu, ku nastêpnym przygodom.
+</text>
+      </lang>
     </block>
     <block id="franken">
       <lang code="CHN">
@@ -366,6 +473,13 @@ Fanfaren ertönten, als wir auf die Franken trafen. Ein gewaltiges Kreuzfahrerhe
 Wir sollten ihnen dabei besser nicht in die Quere kommen!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Podczas podró¿y us³yszeliœmy nagle dêcie w niezliczone tr¹by. Wkrótce póŸniej napotkaliœmy Franków. Potê¿na armia krzy¿owców szykowa³a siê do podboju Ziemi Œwiêtej.
+
+Lepiej nie wchodziæ im w drogê!
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -384,6 +498,13 @@ PALESTINE
         <text>
 
 PALÄSTINA
+
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+PALESTYNA
 
 </text>
       </lang>
@@ -418,6 +539,16 @@ Als wir den Informanten bezahlt hatten, gab er uns die gewünschten Auskünfte.
 Finde die Karawane im Nord-Osten.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Po zainkasowaniu ¿¹danej sumy, informator zacz¹³ mówiæ.
+
+"Karawana udaj¹ca siê do Bagdadu urz¹dza sobie w³aœnie popas w bardzo odleg³ej oazie na pó³nocnym wschodzie. Marsz tam jest jednak d³ugi i ciê¿ki - jeœli nie masz doskonale wyekwipowanych zwiadowców, to nawet go nie zaczynaj!"
+
+
+Odszukaj karawanê na pó³nocnym wschodzie.
+</text>
+      </lang>
     </block>
     <block id="sarazenen">
       <lang code="CHN">
@@ -433,6 +564,11 @@ From the east the army of the Saracens approached, determined to defend their co
       <lang code="ger">
         <text>
 Aus dem Osten näherte sich das Heer der Sarazenen, wild entschlossen, ihr Land gegen jeden Eindringling zu verteidigen.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Ze wschodu nadchodz¹ Saraceni. Ich podstawowym celem jest ochrona ich ziem - przed ka¿dym z najeŸdŸców.
 </text>
       </lang>
     </block>
@@ -472,6 +608,18 @@ Nicht weit von unserem Lager trafen wir auf einen alten Bekannten, den Informant
 Zahle dem Informanten die 10 Goldstücke.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+INFORMATOR
+
+W pobli¿u anszego obozowiska spotkaliœmy starego znajomego - Informatora.
+
+"Dostarczê wam wa¿nych informacji, jeœli tylko uiœcicie za nie niewielk¹ op³atê. Zarêczam, ¿e przydadz¹ siê wam w podró¿y do Bagdadu."
+
+
+Zap³aæ informatorowi 10 sztuk z³ota.
+</text>
+      </lang>
     </block>
     <block id="spielertot">
       <lang code="CHN">
@@ -507,6 +655,17 @@ MISSION VERLOREN!
 Du hast versagt! Deine Wikinger hatten auf dich vertraut und du hast sie im Stich gelassen. An Odins Tafel wird kein Platz für dich sein.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISJA NIEUDANA!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Nie powiod³o ci siê! Twoi Wikingowie ci zaufali, a ty ich zawiod³eœ! Nie znajdzie siê dla ciebie miejsce przy stole Odyna!
+</text>
+      </lang>
     </block>
     <block id="start_00">
       <lang code="CHN">
@@ -528,6 +687,13 @@ On our way to Baghdad, we had landed on the Palestinian coast, in a region where
 Ein staubiges, kahles Land breitete sich vor uns aus. Viele Steine gab es hier, aber wenig fruchtbaren Boden. 
 
 Auf unserem Weg nach Bagdad waren wir an der Küste Palästinas gelandet, einem Gebiet, in dem die Interessen der verschiedenen Länder aufeinander stießen. Die Heere der Franken, Byzantiner und der Sarazenen standen sich unversöhnlich gegenüber. 
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Zakurzona, pusta ziemia powita³a nas na wybrze¿u Palestyny, krainy kamieni, nieurodzajnych gleb i powa¿nych k³opotów.
+
+Obszar ten by³ miejscem sta³ych walk armii Franków, Saracenów i Bizantyjczyków - ka¿da z nich twierdzi³a, ¿e ma prawo do panowania nad œwiêtymi miejscami krainy.
 </text>
       </lang>
     </block>
@@ -553,6 +719,14 @@ Jeder von ihnen beanspruchte die heiligen Stätten für sich. Durch dieses Chaos
 
 
 Erkunde die Gegend und schließe dich einer Karawane nach Osten an.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Byæ mo¿e lokalna karawana pomo¿e nam pokonaæ bezkresn¹ pustyniê i znaleŸæ drogê do Kalifatu Bagdadu...
+
+
+Zbadaj okolicê i przy³¹cz siê do pod¹¿aj¹cej na wschód karawany.
 </text>
       </lang>
     </block>

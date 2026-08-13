@@ -1,76 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_03_02_sub" export_map_id="campaign_03_02_sub" map_md5="d6a593d6bc3b42b0bdc569f0c2f01c8b" IsC2M="false">
+<localization version="1.3" map_id="campaign_03_02_sub" export_map_id="campaign_03_02_sub" map_md5="d6a593d6bc3b42b0bdc569f0c2f01c8b" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@设法取得那份建造图样！</text>
+      <text lang="eng">@FIND A WAY TO RETRIEVE THE CONSTRUCTION PLANS!</text>
       <text lang="ger">@SUCHE EINEN WEG, AN DIE BAUZEICHNUNG ZU GELANGEN!</text>
     </string>
     <string id="1">
       <text lang="CHN">深入地下厅堂的内部！</text>
+      <text lang="eng">Get inside the underground halls!</text>
       <text lang="ger">Gelange in das Innere der Unterirdischen Hallen!</text>
     </string>
     <string id="2">
       <text lang="CHN">跟随那些妇女！</text>
+      <text lang="eng">Follow the women!</text>
       <text lang="ger">Folge den Frauen!</text>
     </string>
     <string id="3">
       <text lang="CHN">驱逐强盗！</text>
+      <text lang="eng">Drive out the robbers!</text>
       <text lang="ger">Vertreibe die Räuber!</text>
     </string>
     <string id="4">
       <text lang="CHN">携全部英雄与那条小龙，随妇女一同返回！</text>
+      <text lang="eng">Return to the women with all your heroes and the little dragon!</text>
       <text lang="ger">Geh mit allen Helden und dem kleinen Drachen zu den Frauen zurück!</text>
     </string>
     <string id="51">
       <text lang="CHN">龙</text>
+      <text lang="eng">Dragons</text>
       <text lang="ger">Drachen</text>
     </string>
     <string id="56">
       <text lang="CHN">妇女</text>
+      <text lang="eng">Women</text>
       <text lang="ger">Frauen</text>
     </string>
     <string id="57">
       <text lang="CHN">强盗</text>
+      <text lang="eng">Robbers</text>
       <text lang="ger">Räuber</text>
     </string>
     <string id="61">
       <text lang="CHN">龙</text>
+      <text lang="eng">Dragons</text>
       <text lang="ger">Drachen</text>
     </string>
     <string id="66">
       <text lang="CHN">妇女</text>
+      <text lang="eng">Women</text>
       <text lang="ger">Frauen</text>
     </string>
     <string id="67">
       <text lang="CHN">强盗</text>
+      <text lang="eng">Robbers</text>
       <text lang="ger">Räuber</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
+      <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
+      <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
+      <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
     </string>
     <string id="76">
       <text lang="CHN">诺伯特</text>
+      <text lang="eng">Norbert</text>
       <text lang="ger">Norbert</text>
     </string>
     <string id="99">
       <text lang="CHN">地下厅堂</text>
+      <text lang="eng">UNDERGROUND HALLS</text>
       <text lang="ger">UNTERIRDISCHE HALLEN</text>
     </string>
   </strings>
@@ -80,6 +98,13 @@
         <text>
 在这些隐蔽的大厅里，牧民们把他们的女人藏在这里，以保护她们免遭撒拉逊强盗的毒手。入口把守得很严。我们只盼无人尾随而来……
         </text>
+        <usericon>1,21,20</usericon>
+      </lang>
+      <lang code="eng">
+        <text> 
+The shepherds had kept their women hidden in these halls to guard them against the Saracen robbers. The entrance was well protected. We hoped that nobody had followed us ...
+
+</text>
         <usericon>1,21,20</usericon>
       </lang>
       <lang code="ger">
@@ -98,6 +123,11 @@ In diesen verborgenen Hallen hatten die Hirten also ihre Frauen untergebracht, u
 寻找途径，取得建筑图样！
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+Find a way to retrieve the construction plans!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -123,6 +153,21 @@ Finde einen Weg, um an die Bauzeichnungen zu gelangen!
 我们怎能信任你们？你们可曾听见那可怖的声响？龙该不会身处险境吧？"
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+WOMEN
+
+"Are you intruders? 
+
+</text>
+        <usericon>1,30,48</usericon>
+        <text>
+
+Our men brought us to these underground halls for our protection, to spare us the fate that many other women of our people have suffered. 
+They were kidnapped by the robbers in the north-west. Our men were outnumbered and therefore powerless! Do you also belong to these vagabonds? 
+How do we know we can trust you? Can you hear those horrible sounds? Are the dragons in danger?"
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -151,6 +196,13 @@ Wie können wir euch trauen? Habt ihre diese schrecklichen Geräusche gehört? D
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+ROBBERS
+
+"Ha! This is where the shepherds keep their women and their goods! I'm glad that we followed you strange people! We heard how you wangled the loot from our brothers! You won't have such an easy time of it with us! Haha!" 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 RÄUBER
@@ -161,6 +213,7 @@ RÄUBER
     </block>
     <block id="03">
       <lang code="CHN" />
+      <lang code="eng" />
       <lang code="ger" />
     </block>
     <block id="04">
@@ -176,6 +229,16 @@ RÄUBER
 难道还有第二道入口？
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+INSIDE THE UNDERGROUND HALLS
+
+"You have made it inside the great underground halls! You say our men sent you? But how do we know whether we can trust you? Oh, it would be so nice to live freely under the sun again," the shepherds' women said.
+ 
+... but what was that? Again we heard noises from the southern end of the structure ... 
+Was there maybe a second entrance?
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -208,6 +271,21 @@ Gab es etwa einen zweiten Eingang?
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THANK YOU!
+
+"You have banned the intruders from our halls. We are deeply grateful for that! You have earned our trust and in return we will trust you with the hidden construction plans of the Hanging Gardens. They are kept in a secret place in the upper halls!
+
+</text>
+        <usericon>1,50,16</usericon>
+        <text>
+
+We will accompany you back to our men, because you seem to have averted the threat of the ever-invading robbers! What a pity that the robbers have almost wiped out these friendly dragons. But you seem to have found a new friend ...
+
+Follow us to the upper hall!" 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DANKE!
@@ -234,6 +312,15 @@ Folgt uns nun in den oberen Saal!"
 我们才走了几步，便听见可怖的声响！不远处有人正遭受巨大的苦难！
         
         </text>
+        <usericon>1,37,138</usericon>
+      </lang>
+      <lang code="eng">
+        <text> 
+DANGER!
+
+We had hardly left when we heard horrible sounds! Somebody must be suffering greatly not far from here!
+
+</text>
         <usericon>1,37,138</usericon>
       </lang>
       <lang code="ger">
@@ -272,6 +359,27 @@ Kaum waren wir ein paar Schritte gegangen, da hörten wir schreckliche Geräusch
 待所有盗匪被击败，带着龙与全体英雄一同返回妇女处！
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE LITTLE DRAGON
+
+We were too late! The robbers had slaughtered the dragons!
+
+</text>
+        <usericon>1,37,138</usericon>
+        <text>
+
+But what was that?
+
+</text>
+        <usericon>1,57,157</usericon>
+        <text>
+
+A little dragon was sitting in the bushes shivering with fear. This little fellow had had to witness the horrible fate of his parents and was now all alone! We had to take care of him!
+
+Return to the women together with the dragon and all your heroes as soon as you have defeated the robbers!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -313,6 +421,17 @@ Gehe zusammen mit den Drachen und allen Helden zurück zu den Frauen, sobald all
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -342,6 +461,17 @@ Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen 
 一时的疏忽，人生便会急转直下！你的女英雄希拉因你的大意而丧命！失去这位英雄，你将无缘见到任务的结局。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -373,6 +503,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin C
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -402,6 +543,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 一时的疏忽，人生便会急转直下！你的挚友与英雄西格德因你的大意而丧命！失去这位英雄，你将无缘见到任务的结局。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -433,6 +585,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero NORBERT, the dragon, died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -455,6 +618,13 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
         </text>
         <usericon>1,50,16</usericon>
       </lang>
+      <lang code="eng">
+        <text> 
+"May you live long! For you alone drove the intruders from our halls. Please accept this construction plan for the Hanging Gardens as a token of our thanks. It has lain hidden in a crevice in the underground halls for centuries, and may now be of great use to you."
+
+</text>
+        <usericon>1,50,16</usericon>
+      </lang>
       <lang code="ger">
         <text> 
 "Lange sollt ihr leben! Denn ihr allein habt die Eindringlinge aus unseren Hallen verbannt. Nehmt nun als Dank diese Karte zum Bau der Hängenden Gärten. Sie lag seit Jahrhunderten verborgen in einer Felsspalte in den unterirdischen Hallen und kann euch nun von großem Nutzen sein."
@@ -465,6 +635,7 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
     </block>
     <block id="50_end1">
       <lang code="CHN" />
+      <lang code="eng" />
       <lang code="ger" />
     </block>
     <block id="50_endheader">
@@ -475,6 +646,11 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 任务成功！
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+MISSION COMPLETED! 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -490,6 +666,11 @@ MISSION GEWONNEN!
 地下大厅
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+UNDERGROUND HALLS
+</text>
       </lang>
       <lang code="ger">
         <text> 

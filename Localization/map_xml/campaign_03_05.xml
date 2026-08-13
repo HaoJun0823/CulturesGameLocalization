@@ -1,160 +1,199 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_03_05" export_map_id="campaign_03_05" map_md5="4c6a0c7c6ddac526aef2b2e78ebcae91" IsC2M="false">
+<localization version="1.3" map_id="campaign_03_05" export_map_id="campaign_03_05" map_md5="4c6a0c7c6ddac526aef2b2e78ebcae91" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@在以弗所兴建阿尔忒弥斯神庙。</text>
+      <text lang="eng">@BUILD THE ARTEMIS TEMPLE AT EPHESUS.</text>
       <text lang="ger">@ERRICHTE DEN ARTEMIS TEMPEL ZU EPHESOS.</text>
     </string>
     <string id="1">
       <text lang="CHN">建立一座小型聚落。</text>
+      <text lang="eng">Establish a small settlement.</text>
       <text lang="ger">Baue eine kleine Siedlung auf.</text>
     </string>
     <string id="2">
       <text lang="CHN">前往神庙工地。</text>
+      <text lang="eng">Go to the temple site.</text>
       <text lang="ger">Gehe zum Tempelbauplatz.</text>
     </string>
     <string id="3">
       <text lang="CHN">设法排退沼泽、加固神庙工地。</text>
+      <text lang="eng">Look for a way to drive back the swamp and fortify the temple site.</text>
       <text lang="ger">Suche eine Möglichkeit den Sumpf zurückzudrängen und den Tempelbauplatz zu befestigen.</text>
     </string>
     <string id="4">
       <text lang="CHN">向神庙工地运送 127 根大理石柱。</text>
+      <text lang="eng">Take 127 marble columns to the temple site.</text>
       <text lang="ger">Bringe 127 Marmorsäulen zum Tempelbauplatz.</text>
     </string>
     <string id="5">
       <text lang="CHN">向港口民缴纳 15 单位铁制工具作贡金。</text>
+      <text lang="eng">Pay the harbour people a tribute of 15 iron tools.</text>
       <text lang="ger">Zahle dem Hafenvolk 15 Eisenwerkzeuge zum Tribut.</text>
     </string>
     <string id="6">
       <text lang="CHN">向士兵缴纳 15 单位蜂蜜酒作贡金，换取其支援。</text>
+      <text lang="eng">Pay the soldiers a tribute of 15 mead for their support.</text>
       <text lang="ger">Gib den Soldaten 15 Met zum Tribut für ihre Unterstützung.</text>
     </string>
     <string id="7">
       <text lang="CHN">寻找阿梅利亚。</text>
+      <text lang="eng">Look for Amelia.</text>
       <text lang="ger">Suche Amelia.</text>
     </string>
     <string id="8">
       <text lang="CHN">将阿梅利亚送回双亲身边。</text>
+      <text lang="eng">Take Amelia to her parents.</text>
       <text lang="ger">Bringe Amelia zu ihren Eltern.</text>
     </string>
     <string id="9">
       <text lang="CHN">寻得年幼的希罗斯特拉特斯，将其关入地牢。</text>
+      <text lang="eng">Find Herostrates the Younger and put him in the dungeon.</text>
       <text lang="ger">Finde Herostrates den Jüngeren und stecke ihn in das Verlies.</text>
     </string>
     <string id="10">
       <text lang="CHN">向商人缴纳 15 单位蜂蜜作贡金。</text>
+      <text lang="eng">Pay the merchant a tribute of 15 bowls of honey.</text>
       <text lang="ger">Zahle dem Händler 15 Schalen Honig zum Tribut.</text>
     </string>
     <string id="11">
       <text lang="CHN">与你的英雄前往山中秘道！</text>
+      <text lang="eng">Take your heroes to the secret entrance in the mountains!</text>
       <text lang="ger">Gehe mit deinen Helden zu dem geheimen Eingang in den Bergen!</text>
     </string>
     <string id="12">
       <text lang="CHN">与你的英雄进入沼泽中的泽地！</text>
+      <text lang="eng">Take your heroes to the wise men in the swamp!</text>
       <text lang="ger">Gehe mit deinen Helden in den Sumpf zu den Sumpfweisen!</text>
     </string>
     <string id="14">
       <text lang="CHN">与你的英雄返回阿尔忒弥斯神庙！</text>
+      <text lang="eng">Return to the Artemis Temple with your heroes!</text>
       <text lang="ger">Gehe mit deinen Helden zurück zu dem Artemis-Tempel!</text>
     </string>
     <string id="15">
       <text lang="CHN">再向将军的士兵缴纳 50 单位蜂蜜酒，换取其支援。</text>
+      <text lang="eng">Pay the general's soldiers another tribute of 50 mead for their support.</text>
       <text lang="ger">Gib den Soldaten des Generals nochmals 50 Met für ihre Unterstützung.</text>
     </string>
     <string id="20">
       <text lang="CHN">大理石柱 %d/127</text>
+      <text lang="eng">Marble columns %d/127</text>
       <text lang="ger">Marmorsäulen %d/127</text>
     </string>
     <string id="21">
       <text lang="CHN">物资已送达</text>
+      <text lang="eng">Goods delivered</text>
       <text lang="ger">Waren geliefert</text>
     </string>
     <string id="51">
       <text lang="CHN">以弗所</text>
+      <text lang="eng">Ephesus</text>
       <text lang="ger">Ephesos</text>
     </string>
     <string id="52">
       <text lang="CHN">港口民</text>
+      <text lang="eng">Harbour People</text>
       <text lang="ger">Hafenvolk </text>
     </string>
     <string id="53">
       <text lang="CHN">商人</text>
+      <text lang="eng">Merchant</text>
       <text lang="ger">Händler</text>
     </string>
     <string id="54">
       <text lang="CHN">撒拉逊人</text>
+      <text lang="eng">Saracens</text>
       <text lang="ger">Sarazenen</text>
     </string>
     <string id="55">
       <text lang="CHN">希罗斯特拉特斯的继承者</text>
+      <text lang="eng">Herostrates' Heirs</text>
       <text lang="ger">Herostrates Erben</text>
     </string>
     <string id="61">
       <text lang="CHN">以弗.</text>
+      <text lang="eng">Ephes.</text>
       <text lang="ger">Ephes.</text>
     </string>
     <string id="62">
       <text lang="CHN">港.</text>
+      <text lang="eng">Harb. P.</text>
       <text lang="ger">Hafenv.</text>
     </string>
     <string id="63">
       <text lang="CHN">商人</text>
+      <text lang="eng">Merch.</text>
       <text lang="ger">Händler</text>
     </string>
     <string id="64">
       <text lang="CHN">撒.</text>
+      <text lang="eng">Sarac.</text>
       <text lang="ger">Saraz.</text>
     </string>
     <string id="65">
       <text lang="CHN">继承者</text>
+      <text lang="eng">Heirs</text>
       <text lang="ger">Erben</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
+      <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
+      <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
+      <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">诺伯特</text>
+      <text lang="eng">Norbert</text>
       <text lang="ger">Norbert</text>
     </string>
     <string id="76">
       <text lang="CHN">玛尼</text>
+      <text lang="eng">Mani</text>
       <text lang="ger">Mani</text>
     </string>
     <string id="78">
       <text lang="CHN">阿梅利亚</text>
+      <text lang="eng">Amelia</text>
       <text lang="ger">Amelia</text>
     </string>
     <string id="79">
       <text lang="CHN">赫尔梅亚斯</text>
+      <text lang="eng">Hermeias</text>
       <text lang="ger">Hermeias</text>
     </string>
     <string id="80">
       <text lang="CHN">将军</text>
+      <text lang="eng">The General</text>
       <text lang="ger">Der General</text>
     </string>
     <string id="98">
       <text lang="CHN">以弗所的阿尔忒弥斯神庙之建，正受一群纵火者--希罗斯特拉特斯的继承者--所威胁，亦为不断蔓延的沼泽所危及……</text>
+      <text lang="eng">The construction of the Artemis Temple at Ephesus is threatened by a group of arsonists - the heirs of Herostrates - and by the rising swamps ...</text>
       <text lang="ger">Das Bau des Artemis Tempels zu Ephesos wird durch eine Schaar Brandstifter - die Erben Herostrates - bedroht und von ansteigendem Sumpfgelände gefährdet...</text>
     </string>
     <string id="99">
       <text lang="CHN">阿尔忒弥斯神庙</text>
+      <text lang="eng">THE TEMPLE OF ARTEMIS</text>
       <text lang="ger">DER TEMPEL DER ARTEMIS </text>
     </string>
   </strings>
@@ -164,6 +203,12 @@
         <text>
 我们来到以弗所，本是要在四月阿尔忒弥斯节前，重建古代最宏伟的神庙！建筑工程早已如火如荼。这倒省了我们不少力气--但黑暗势力显然也不会袖手旁观。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+The biggest temple of the Ancient World was to be resurrected by the time the Artemis celebration took place here in Ephesus in April! The construction work had already begun. This could prove positive for our mission. This way we didn't have to complete this hard task on our own.
+
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -184,6 +229,13 @@ Hier in Ephesos sollte der größte Tempel der Antike bis zum Artemisfest im Apr
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+The people of Ephesus had almost finished building the Temple, but they had trouble with the rising swamp. Nevertheless, the construction was to be finished as soon as possible, so that we could then help build the Zeus Statue of Phidias in Olympia. 
+
+Follow the mighty road towards the north to the construction site of the Artemis Temple, where you will get further instructions.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Die Menschen von Ephesos hatten den Tempel schon fast fertig errichtet, aber ihnen machte das ansteigende Sumpfgelände zu schaffen. Nichts desto trotz sollte der Bau so schnell wie möglich fertig werden, damit wir anschließend bei der Errichtung der Zeusstatue des Phidias in Olympia helfen konnten. 
@@ -203,6 +255,13 @@ Folge der mächtigen Straße nach Norden zur Baustelle des Artemis-Tempels. Dort
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE CITIZENS OF EPHESUS
+
+"Greetings! We have been expecting you. The arsonists are causing us a lot of trouble. It is time to put a stop to their game!"
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -243,6 +302,28 @@ DIE BÜRGER VON EPHESOS
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+BUILDING SITE OF THE ARTEMIS TEMPLE
+
+"Oh dear, the construction had already been completed to a large extent, it was almost finished," the diligent workers of Ephesus moaned. 
+
+</text>
+        <usericon>1,269,121</usericon>
+        <text>
+
+"It will take years to rebuild the Temple again, because we don't have the marble columns!"
+
+If necessary, build several warehouses around the temple site and deliver 127 marble columns! 
+
+But there was also the trouble with the rising swamp:
+
+"A balcony alone weighs 20 tons and even if the goddess Artemis herself lifts it onto the right spot - the muddy ground will not be able to hold it," the architect said. "We have to prevent the swamp from rising, if we want to resurrect this important monument!"
+
+
+Look for a way to drive back the swamp and fortify the temple site.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 BAUPLATZ DES ARTEMIS TEMPELS
@@ -278,6 +359,13 @@ Suche eine Möglichkeit, den Sumpf zurückzudrängen und den Tempelbauplatz zu b
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+100 MARBLE COLUMNS
+
+The King of Lydia, Croesus the Younger, donates 100 marble columns to the construction of the Artemis Temple. 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 100 MARMORSÄULEN
@@ -298,6 +386,15 @@ Der lydische König Krösus der Jüngere spendet 100 Marmorsäulen für die Erri
 
         
         </text>
+        <usericon>1,269,121</usericon>
+      </lang>
+      <lang code="eng">
+        <text> 
+GOODS DELIVERED
+
+We had brought the necessary goods to the construction site. From then on, the temple construction didn't take long. 
+
+</text>
         <usericon>1,269,121</usericon>
       </lang>
       <lang code="ger">
@@ -324,6 +421,15 @@ Wir hatten die benötigten Waren am Bauplatz abgeliefert. Der Tempelbau dauerte 
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+ALL MAIN MISSION OBJECTIVES COMPLETED!
+
+We had captured Herostrates the Younger, prevented the rising of the swamp and delivered the necessary building materials. There was nothing to stop the Temple from being finished now!
+
+Take your heroes to the temple site to see whether the Temple has been properly built! 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 ALLE HAUPTMISSIONSZIELE ERFÜLLT!
@@ -347,6 +453,15 @@ Suche mit deinen Helden den Tempelplatz auf, um dich vom ordnungsgemäßen Bau z
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+FORTIFYING THE TEMPLE SITE
+
+We had banished the heirs of Herostrates and as if by magic, nature was laid to rest for a while before it made itself felt again by drowning the Temple in the mud ...
+
+... the construction of the Temple could finally begin!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -384,6 +499,23 @@ Die Erben Herostrates hatten wir verbannt und durch Zauberhand konnte die Natur 
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THE HEIRS OF HEROSTRATES
+
+Oh dear! The construction of the temple was in danger! A group of arsonists, the HEIRS OF HEROSTRATES, attacked it and started a fire which the building could not withstand!
+
+</text>
+        <usericon>1,258,128</usericon>
+        <text>
+
+They were led by Herostrates the Younger. His ancestor Herostrates had already burnt down the old Temple in his time, driven by the obsessive ambition to gain fame! His "disciples" now pursued the same goal and were going to attack the site of the temple constantly. 
+
+The attacks would not stop until Herostrates the Younger was found and put in a dungeon to prevent him from inciting more people.
+
+Find Herostrates the Younger and put him in a dungeon! 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DIE ERBEN HEROSTRATES
@@ -411,6 +543,11 @@ Finde Herostrates den Jüngeren und sperre ihn in ein Verlies!
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+Only four brave heroes should enter this place if they receive the order! 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -441,6 +578,21 @@ Nur vier tapfere Helden sollten diesen Ort betreten, wenn sie den Auftrag dazu e
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+HARBOUR PEOPLE
+
+When we explored the coastline, the inhabitants of a small fishing village approached us. They were neither hostile nor friendly. 
+
+</text>
+        <usericon>1,146,352</usericon>
+        <text>
+
+They had heard about our fine iron tools. Even though they were well-used, they wanted to keep some for themselves! 
+
+Give the harbour people a few iron tools as a tribute, and they will show you their trade offers! 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -480,6 +632,19 @@ Reiche dem Hafenvolk ein paar Eisenwerkzeuge zum Tribut und sie werden dir ihre 
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+TRIBUTE GIVEN TO THE HARBOUR PEOPLE!
+
+We had given the harbour people the tools as a tribute, and they immediately changed their attitude towards us. 
+
+</text>
+        <usericon>1,146,352</usericon>
+        <text>
+
+They were so happy that they presented us with some extremely favourable trade offers. 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 TRIBUT AN HAFENVOLK ÜBERREICHT!
@@ -511,6 +676,17 @@ Ihre Freude war darüber sogar so groß, dass sie uns überaus günstige Handels
 英雄气概，还是鲁莽？当比雅尼殒命，众神落泪……失此英雄，你便无缘得见任务终局。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -547,6 +723,21 @@ Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen 
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+SARACEN CITY
+
+When we explored the desert, the inhabitants of a city approached us. They were exceedingly friendly towards us.
+
+</text>
+        <usericon>1,398,28</usericon>
+        <text>
+
+Unfortunately, these people were deeply grieved, as the daughter of an old and respected man of the city had been missing for a few days. We decided to pay him a visit ... 
+
+Look for Hermeias! 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -588,6 +779,21 @@ Suche Hermeias!
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+HERMEIAS
+
+"Oh, my poor daughter! She only wanted to pick some rare plants and must have got lost in the forest to the south-west ... Or something terrible has happened to her ..."
+
+</text>
+        <usericon>2,9</usericon>
+        <text>
+
+"Can't you bring her back? My legs are old and tired. It would take days for me to find her."
+
+Find Hermeias' daughter Amelia!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 HERMEIAS
@@ -616,6 +822,15 @@ Suche Hermeias Tochter Amelia!
 
         
         </text>
+        <usericon>2,9</usericon>
+      </lang>
+      <lang code="eng">
+        <text> 
+HERMEIAS
+
+"Oh, my daughter! You found her! I will speak to the King of Lydia to support you in your mission!"
+
+</text>
         <usericon>2,9</usericon>
       </lang>
       <lang code="ger">
@@ -649,6 +864,19 @@ HERMEIAS
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+AMELIA
+
+"Oh, my father must be very worried about me! Would you be so kind and take me back to him? I don't want to get lost again!"
+
+</text>
+        <usericon>2,8</usericon>
+        <text>
+
+Take Amelia back to her father!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -686,6 +914,19 @@ Begleite Amelia zurück zu ihrem Vater!
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+MERCHANT
+
+When we explored the coast, a tribe of merchants approached us. They were neither hostile nor friendly towards us, and they wanted to do trade with us and give us a present if we paid them a tribute.
+
+</text>
+        <usericon>1,184,439</usericon>
+        <text>
+
+Give the merchants a few bowls of honey as a tribute, and they will show you their trader offers and give you a present! 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 HÄNDLER
@@ -722,6 +963,19 @@ Reiche dem Händlern ein paar Schalen Honig zum Tribut und sie werden dir ihre H
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+MERCHANTS
+
+We had given the merchants the tribute, and in return they gave us 30 of their marble columns, which were in high demand ...
+
+</text>
+        <usericon>1,186,443</usericon>
+        <text>
+
+... and showed us their favourable trade offers.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 HÄNDLER
@@ -757,6 +1011,19 @@ Wir hatten den Händlern den Tribut überreicht und sie übergaben uns zum Dank 
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE OLD MAN
+
+"The swamp is insidious, and dangerous animals are on the rampage. But if you want to see the wise men of the swamp, follow the path to the north-east," the old man said. 
+
+</text>
+        <usericon>1,251,59</usericon>
+        <text>
+
+Then he disappeared again in the mist, just as quickly as he had appeared ... 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -795,6 +1062,20 @@ Dann verschwand er wieder im Nebel, ebenso plötzlich, wie er gekommen war...
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THE OLD MAN
+
+"A few days ago, a nice girl was walking by, looking for the forest in the west. I did not see her come back this way ... 
+
+</text>
+        <usericon>1,121,288</usericon>
+        <text>
+
+I hope nothing has happened to her," the old man said. 
+Then he disappeared again in the mist, just as quickly as he had appeared ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DER ALTE MANN
@@ -830,6 +1111,18 @@ Dann verschwand er wieder im Nebel, ebenso plötzlich, wie er gekommen war...
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE OLD MAN
+
+</text>
+        <usericon>1,243,386</usericon>
+        <text>
+
+"A tribe of merchants has settled down further south. For the moment, they have a friendly attitude towards you, and their gifts and trade offers are very generous," the old man said. 
+Then he disappeared again in the mist, just as quickly as he had appeared ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -868,6 +1161,21 @@ Dann verschwand er wieder im Nebel, ebenso plötzlich, wie er gekommen war...
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THE GENERAL OF EPHESUS
+
+"Greetings, strangers! I can't believe what the heirs of Herostrates are doing to our Temple!" 
+
+</text>
+        <usericon>2,10</usericon>
+        <text>
+
+"I will equip my soldiers to be prepared for an emergency. So far they have been afraid of the arsonists. But with a bit of mead from you, they will surely find enough courage to start a diversion. The entrance to the mountain camp would then be cleared, so that brave heroes like you would then be able to put a stop to Herostrates' game!"
+
+If you want to, pay the tribute for the diversionary manoeuvre.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DER GENERAL VON EPHESOS
@@ -901,6 +1209,17 @@ Zahle, wenn du willst, den Tribut für das Ablenkungsmanöver.
 一时疏忽，人生便急转直下！你的女英雄希拉因你大意而殒命！失此英雄，你便无缘得见任务终局。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -936,6 +1255,19 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin C
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+TRIBUTE PAID TO GENERAL OF EPHESUS!
+
+</text>
+        <usericon>2,10</usericon>
+        <text>
+
+"Your mead lends my men the courage they need. Nothing can stop us now, and we will start the distraction at once! This way you may be able to cross the bridge from the west to the entrance of the mountain unscathed."
+
+"If this is not enough to help you, you could pay us another tribute. We will then do everything that is in our power! I give you my word!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 TRIBUT AN GENERAL VON EPHESOS BEZAHLT!
@@ -970,6 +1302,17 @@ TRIBUT AN GENERAL VON EPHESOS BEZAHLT!
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+PEOPLE FROM EPHESUS FIGHT HEROSTRATES' HEIRS!
+
+</text>
+        <usericon>1,197,104</usericon>
+        <text>
+
+The general's army intrepidly faced the arsonists. They could hardly do them any harm!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 EPHESER BEKÄMPFEN HEROSTRATOS ERBEN!
@@ -1002,6 +1345,17 @@ Die Armee des Generals trat den Brandstiftern unerschrocken entgegen. Diese konn
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+HATCHIE ON EXPLORATORY MISSION!
+
+</text>
+        <usericon>2,3</usericon>
+        <text>
+
+Hatchie decided to further explore the area above the Temple. 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 HATSCHI GEHT AUF ERKUNDUNGSTOUR!
@@ -1024,6 +1378,13 @@ Hatschi beschloss, sich das Gebiet oberhalb des Tempels genauer anzuschauen.
 
         
         </text>
+        <usericon>2,5</usericon>
+      </lang>
+      <lang code="eng">
+        <text> 
+MANI and NORBERT are now old enough to take part in the heroes' adventures!
+
+</text>
         <usericon>2,5</usericon>
       </lang>
       <lang code="ger">
@@ -1055,6 +1416,19 @@ MANI und NORBERT sind nun groß genug und sollten an den Abenteuern der Helden t
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE HEIRS OF HEROSTRATES
+
+This was the stronghold of Herostrates' heirs. There was said to be a secret entrance to the massif where Herostrates himself was hiding!
+
+</text>
+        <usericon>1,143,43</usericon>
+        <text>
+
+Take ALL your heroes to the entrance to the mountains! 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1094,6 +1468,21 @@ Gehe mit ALLEN deinen Helden zum Eingang in den Bergen!
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+GOODS DELIVERED
+
+We had delivered the requested goods to the building site. But the construction of the Temple could not be started yet. 
+
+</text>
+        <usericon>1,269,121</usericon>
+        <text>
+
+First, we had to see to TWO other problems: the rising of the swamp and the expulsion of the arsonist army of Herostrates' heirs! 
+
+The builders of Ephesus took care of the goods, but did not want to proceed with the construction until both dangers were averted ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 WAREN GELIEFERT
@@ -1130,6 +1519,17 @@ Die Bauarbeiter von Ephesos nahmen die Waren in ihre Obhut, wollten aber erst mi
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+TRIBUTE PAID TO GENERAL OF EPHESUS!
+
+</text>
+        <usericon>2,10</usericon>
+        <text>
+
+"Your mead and your money is payment enough for my army. We will fight to a man!" 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 TRIBUT AN GENERAL VON EPHESOS BEZAHLT!
@@ -1159,6 +1559,17 @@ TRIBUT AN GENERAL VON EPHESOS BEZAHLT!
 一时疏忽，人生便急转直下！你的挚友与英雄西格德因你大意而殒命！失此英雄，你便无缘得见任务终局。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -1190,6 +1601,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero NORBERT, the dragon, died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1214,6 +1636,13 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+There it was! The biggest temple of the Ancient World was shining again in all its glory! This was indeed something we could be proud of! 
+
+Despite numerous obstacles, we had managed to finish the temple in time for the Artemis celebration in April!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Da stand er nun in seiner vollen Schönheit! Der größte Tempel der antiken Zeit erstrahlte wieder in neuem Glanze! Wir konnten wirklich stolz auf uns sein! 
@@ -1235,6 +1664,14 @@ Trotz der vielen Hindernisse hatten wir es geschafft, den Tempel rechtzeitig zum
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+Neither the arsonist Herostrates and his disciples, nor the rising of the swamp or the sometimes difficult delivery of the building materials could put us off our mission. 
+
+But we didn't stay long because we were already looking towards the west.
+This was the place where we had to bring the sixth Wonder of the Ancient World back to life ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Weder der Brandstifter Herostrates mit seinen Jüngern, noch die Ausbreitung des Sumpfes oder das schwere Beschaffen der erforderlichen Bauwaren hatte uns von unserem Vorhaben abbringen können. 
@@ -1253,6 +1690,11 @@ Dort musste das Sechste der Antiken Weltwunder wieder ins Leben gerufen werden..
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+MISSION COMPLETED! 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1278,6 +1720,17 @@ MISSION GEWONNEN!
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! MANI, son of Bjarni and Cyra, died due to your negligence! Without him, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1299,6 +1752,11 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn vo
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE ARTEMIS TEMPLE IN EPHESUS
+</text>
       </lang>
       <lang code="ger">
         <text> 

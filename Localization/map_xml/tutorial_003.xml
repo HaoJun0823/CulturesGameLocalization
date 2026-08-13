@@ -1,100 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="tutorial_003" export_map_id="tutorial_003" map_md5="a1d2c56cbffb971fba4a6b1b4059559d" IsC2M="false">
+<localization version="1.3" map_id="tutorial_003" export_map_id="tutorial_003" map_md5="a1d2c56cbffb971fba4a6b1b4059559d" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">指派一名维京人从事采泥工之职。</text>
+      <text lang="eng">Give one of your Vikings the job of a clay-worker.</text>
       <text lang="ger">Weise einem Wikinger den Beruf des Lehmabbauers zu.</text>
     </string>
     <string id="1">
       <text lang="CHN">指派两名维京人分别从事伐木工与采石工之职。</text>
+      <text lang="eng">Give two of your Vikings the job of a woodcutter and a stone collector respectively.</text>
       <text lang="ger">Weise zwei Wikingern den Beruf des Holzabbauers und des Steinabbauers zu.</text>
     </string>
     <string id="2">
       <text lang="CHN">接着，将若干尚未谋职的部众转为建筑工人！</text>
+      <text lang="eng">Then turn some of your idle men into builders!</text>
       <text lang="ger">Mache als nächstes einige deiner Männer, die noch keine Arbeit haben, zu Bauarbeitern!</text>
     </string>
     <string id="3">
       <text lang="CHN">让你的建筑工人兴建一座农场！</text>
+      <text lang="eng">Have your builders construct a farm!</text>
       <text lang="ger">Lass deine Bauarbeiter eine Farm bauen!</text>
     </string>
     <string id="4">
       <text lang="CHN">指派一名部众到农场担任农夫，并待其晋为行家。</text>
+      <text lang="eng">Have one of your people join the farm as a farmer and wait until he has become a master.</text>
       <text lang="ger">Weise der Farm einen deiner Leute als Farmer zu und warte bis er Meister wird.</text>
     </string>
     <string id="5">
       <text lang="CHN">建造一座磨坊。</text>
+      <text lang="eng">Build a mill.</text>
       <text lang="ger">Baue eine Mühle.</text>
     </string>
     <string id="6">
       <text lang="CHN">现在将农夫转为磨坊主。</text>
+      <text lang="eng">Turn the farmer into a miller.</text>
       <text lang="ger">Mache den Farmer nun zum Müller.</text>
     </string>
     <string id="7">
       <text lang="CHN">建造一口水井。</text>
+      <text lang="eng">Build a well.</text>
       <text lang="ger">Baue einen Brunnen.</text>
     </string>
     <string id="8">
       <text lang="CHN">建造一间烘焙坊。</text>
+      <text lang="eng">Build a bakery.</text>
       <text lang="ger">Baue eine Bäckerei.</text>
     </string>
     <string id="9">
       <text lang="CHN">将磨坊主转为烘焙师。</text>
+      <text lang="eng">Turn the miller into a baker.</text>
       <text lang="ger">Mache den Müller zum Bäcker.</text>
     </string>
     <string id="10">
       <text lang="CHN">再次指派一名磨坊主到磨坊。</text>
+      <text lang="eng">Assign a new miller to the mill.</text>
       <text lang="ger">Weise der Mühle wieder einen Müller zu.</text>
     </string>
     <string id="11">
       <text lang="CHN">若农场此刻空置，再指派一名新农夫前往。</text>
+      <text lang="eng">If the farm is empty now, assign a new farmer there.</text>
       <text lang="ger">Sollte die Farm nun leer stehen, weise ihr einen neuen Farmer zu.</text>
     </string>
     <string id="12">
       <text lang="CHN">建造一座蜂巢。</text>
+      <text lang="eng">Build a beehive.</text>
       <text lang="ger">Baue einen Bienenstock.</text>
     </string>
     <string id="13">
       <text lang="CHN">在蜂巢与水井之畔兴建酿酒坊。</text>
+      <text lang="eng">Build the brewery close to the beehive and the well.</text>
       <text lang="ger">Errichte nun die Brauerei in die Nähe des Bienenstocks und des Brunnens.</text>
     </string>
     <string id="14">
       <text lang="CHN">将烘焙师转为酿酒师。</text>
+      <text lang="eng">Turn the baker into a brewer.</text>
       <text lang="ger">Mache den Bäcker zum Braumeister.</text>
     </string>
     <string id="71">
       <text lang="CHN">斯诺里</text>
+      <text lang="eng">Snorri </text>
       <text lang="ger">Snorri </text>
     </string>
     <string id="72">
       <text lang="CHN">海丁</text>
+      <text lang="eng">Hedin </text>
       <text lang="ger">Hedin </text>
     </string>
     <string id="73">
       <text lang="CHN">奥姆</text>
+      <text lang="eng">Orm</text>
       <text lang="ger">Orm</text>
     </string>
     <string id="74">
       <text lang="CHN">拉尔夫</text>
+      <text lang="eng">Ralf </text>
       <text lang="ger">Ralf </text>
     </string>
     <string id="75">
       <text lang="CHN">盖尔</text>
+      <text lang="eng">Geir</text>
       <text lang="ger">Geir</text>
     </string>
     <string id="76">
       <text lang="CHN">埃斯坦</text>
+      <text lang="eng">Eystein</text>
       <text lang="ger">Eystein</text>
     </string>
     <string id="98">
       <text lang="CHN">本教程讲解基础玩法：原料开采、建筑营建，以及基本的食物供给。</text>
+      <text lang="eng">This tutorial deals with the basic principles of the game, such as the exploitation of raw materials, the erection of buildings and basic food procurement.</text>
       <text lang="ger">Dieses Tutorial behandelt die grundlegenden Spielprinzipien, wie das Abbauen von Rohstoffen, das Errichten von Gebäuden und die grundlegende Nahrungsversorgung.</text>
     </string>
     <string id="99">
       <text lang="CHN">3) 食物供给</text>
+      <text lang="eng">3) THE FOOD CHAIN</text>
       <text lang="ger">3) NAHRUNGSVERSORGUNG</text>
     </string>
   </strings>
@@ -108,6 +132,16 @@
 
 按照左侧菜单栏上方出现的任务提示操作即可。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+This tutorial deals with the basic principles of the game, such as the exploitation of raw materials, the erection of buildings and basic food procurement.
+
+EXTRACTORS are the basic workers for any building. At the beginning they collect clay, wood or stone. With the necessary experience, they can also extract gold, ore and mushrooms. 
+Since you'll definitely need extractors, choose one of your Viking civilians, press the SPACEBAR or RIGHT-CLICK and assign him the profession of a clay-worker. You should make sure that his work area is over a clay pit so he can start working. If your extractor has nothing to do later on in the game, that will be because all the raw materials have been exploited. When this happens, just give him a different job. 
+
+Turn a Viking into a CLAY-WORKER!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -132,6 +166,17 @@ Weise einem Wikinger den Beruf des LEHMABBAUERS zu!
 给两名维京人分配伐木工和采石工的职业。
 </text>
       </lang>
+      <lang code="eng">
+        <text> 
+GOOD!
+
+Now employ a WOODCUTTER and a STONE COLLECTOR.
+
+Hint: Extractors have professions that don't involve specific work places. You can change the raw materials they extract as well as the goods that are produced, provided that the worker is experienced enough and that the respective work place is available.
+
+Give two of your Vikings the job of a woodcutter and a stone collector respectively.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 GUT!
@@ -152,6 +197,13 @@ Weise zwei Wikingern den Beruf des Holzabbauers und des Steinabbauers zu.
 在你的南边，在面包坊那里，找到了几位已经学会建筑技能的工人。给他们每人一份建筑订单。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+To erect buildings, you require builders. To create one of these you must select one of your Viking civilians, press the SPACEBAR or RIGHT-CLICK and turn him into a builder.
+
+Now turn some of your idle men into BUILDERS!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Um Gebäude zu errichten, brauchst du natürlich Bauarbeiter. Wähle dazu einen deiner Wikingerzivilisten aus, drücke die LEERTASTE oder die RECHTE MAUSTASTE und weise ihnen den Beruf des Bauarbeiters zu.
@@ -171,6 +223,20 @@ Mache als nächstes einige deiner Männer, die noch keine Arbeit haben, zu BAUAR
 点击屏幕左侧菜单栏中的建造图标（带锤子的房子），或按键盘上的 B 键。然后从列表中选择农场。地面会变暗，只留下可以建造农场的地方亮着。用鼠标右键点击你选中的明亮区域。建筑工人会自己找工地，但必要时你也可以把他们指派到特定工地。
 
 现在让你的建筑工人建一座农场吧！
+</text>
+      </lang>
+      <lang code="eng">
+        <text> 
+That's it! Now you have some busy builders. 
+You can only build a farm if the clay-worker has extracted enough clay. 
+
+</text>
+        <usericon>1,250,175</usericon>
+        <text>
+
+Click on the building symbol (house with hammer) in the menu bar on the left-hand side of the screen or press "b" on your keyboard, then select the farm from the list. The ground will then darken, except where it is possible to erect a farm. Click with the RIGHT MOUSE BUTTON on any light location of your choice. Your builders will pick a building site to work at on their own, but you can also assign them to particular constructions if necessary.
+
+Have your builders construct a FARM!
 </text>
       </lang>
       <lang code="ger">
@@ -198,6 +264,17 @@ Lass deine Bauarbeiter nun eine Farm bauen!
 在有牛的牧场旁边就有合适的地点。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+Well done! 
+
+Now make at least one of your Vikings a farmer. Once he is experienced enough, your people can build a mill. 
+Watch how the farmer gains experience.
+
+
+Have one of your people join the farm as a farmer!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Gut gemacht! 
@@ -224,6 +301,23 @@ Weise der Farm einen deiner Leute als Farmer zu!
 击角色图标检
 
 查他们的状态。</text>
+      </lang>
+      <lang code="eng">
+        <text> 
+HINT
+
+Your workers have several different natural NEEDS. They need to eat, sleep and they want to talk. Armourers who make armour or weapons need the blessing of the gods, so they must pray on a regular basis. 
+All this keeps your characters from doing their jobs, therefore you should make sure they can satisfy their needs.
+
+If a worker lives in a nice DWELLING, ideally one close to his work place, he can relax much better than if he has to sleep outside.
+If a woman lives in the dwelling with him, she will cook good food for all the inhabitants. This feeds them better than simple fare. She will also entertain all the inhabitants of her home.
+
+Long DISTANCES will exhaust your people. You should make sure that work places that depend on one another are as close together as possible. 
+
+Give your people SHOES so they can walk better and faster. The same applies to roads.
+
+Have your builders construct some dwellings in the meantime, and have your Vikings live in them. Just perform the same actions as you did when building a farm!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -253,6 +347,21 @@ Wenn du willst, lass von deinen Bauarbeitern in der Zwischenzeit ein paar Wohnh�
 
 建造一座磨坊。</text>
       </lang>
+      <lang code="eng">
+        <text> 
+Your farmer has sufficient experience now! 
+
+Your builders can erect a mill! 
+
+</text>
+        <usericon>1,258,185</usericon>
+        <text>
+
+Build the mill close to the farm that supplies it with wheat to grind flour.
+
+Build a MILL.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Dein Farmer hat nun genügend Erfahrung gesammelt! 
@@ -279,6 +388,17 @@ Baue eine MÜHLE.
 
 空地建一座面包坊。</text>
       </lang>
+      <lang code="eng">
+        <text> 
+Your mill proudly stands! 
+
+Your farmer is the only one who has enough experience in working with wheat. 
+
+Turn the farmer into a miller and watch how he gains experience in his new profession.
+ 
+Have somebody else work as a farmer to maintain the wheat production.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Stolz reckt sich deine Mühle in den Himmel! 
@@ -301,6 +421,15 @@ Dann lass jemand anderes als Farmer arbeiten, um die Weizenproduktion aufrecht z
 他们也负责将产品从生产点运送到需要的地方。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+HINT
+
+You can assign CARRIERS or MERCHANTS to some work places while we are waiting for the miller. They can help the craftsman a lot and enable him to concentrate on the production of goods. 
+
+Carriers are particularly useful in warehouses and headquarters.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 HINWEIS
@@ -318,6 +447,20 @@ Als sehr nützlich erweisen sich auch Träger, die Lagerhäusern und Hauptquarti
         <text>因此，在你计划建造面包房的位置附近建造一口水井。
 
 主屋前面还有空间。既能美化环境，又能节省建造其他重要建筑所需的用地。</text>
+      </lang>
+      <lang code="eng">
+        <text> 
+Your future baker will need water to bake his bread. 
+
+</text>
+        <usericon>1,231,199</usericon>
+        <text>
+
+Build a well close to the place where you will build your bakery later on. There is still room directly in front of the headquarters. It's a nice spot and you can save building space for your really big buildings."
+
+
+Build a WELL.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -342,6 +485,20 @@ Baue einen BRUNNEN.
 
 你的农夫也需要开始工作。</text>
       </lang>
+      <lang code="eng">
+        <text> 
+Build a bakery close to the mill and the well. 
+
+</text>
+        <usericon>1,244,195</usericon>
+        <text>
+
+With the food production from a farm, mill and bakery you can provide food to last a large village for a long time.
+
+
+Build a BAKERY.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Baue als nächstes eine Bäckerei in der Nähe der Mühle und des Brunnens. 
@@ -365,6 +522,16 @@ Baue eine BÄCKEREI.
 现在还需指派一名面包师，这样面包才能被烤出来。把你的农夫调过来。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+Your bakery has been built and your Vikings are looking forward to good fresh bread. But first somebody needs to work in the bakery. The only person who can do this due to his experience is the miller. 
+
+
+Turn the miller into a baker.
+Have a new miller work in the mill, so its production can continue.
+If the farm is empty now, assign a new farmer there.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Deine Bäckerei ist errichtet und deine Wikinger freuen sich schon auf gutes, frisches Brot. Doch zuerst muss noch jemand in der Bäckerei arbeiten. Der Einzige, der aufgrund seiner Erfahrung dafür in Frage kommt, ist der Müller. 
@@ -386,6 +553,15 @@ Sollte die Farm nun leer stehen, weise ihr einen neuen Farmer zu.
 从此以后，你的定居点将会繁荣起来！
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+CONGRATULATIONS! Your people shouldn't have to go hungry in the near future!
+
+You have managed to set up a really well-functioning chain of food production!
+
+Proceed to the next tutorial!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 GRATULATION! Hunger sollten deine Leute erst mal keinen leiden!
@@ -401,6 +577,11 @@ Auf zum nächsten Tutorial!
         <text>
 食物供给--让你的维京人吃饱喝足
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE FOOD CHAIN
+</text>
       </lang>
       <lang code="ger">
         <text> 

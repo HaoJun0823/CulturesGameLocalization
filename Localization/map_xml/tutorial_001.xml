@@ -1,64 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="tutorial_001" export_map_id="tutorial_001" map_md5="28db945fe15cae24a5c42cb966f80780" IsC2M="false">
+<localization version="1.3" map_id="tutorial_001" export_map_id="tutorial_001" map_md5="28db945fe15cae24a5c42cb966f80780" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">选中克努特，将他送到标记位置。</text>
+      <text lang="eng">Select Knut and send him to the marked place.</text>
       <text lang="ger">Wähle Knut aus und sende ihn zu der gekennzeichneten Stelle.</text>
     </string>
     <string id="1">
       <text lang="CHN">给克努特一个栖身之所。</text>
+      <text lang="eng">Give Knut a roof over his head.</text>
       <text lang="ger">Gib Knut ein Dach über den Kopf.</text>
     </string>
     <string id="2">
       <text lang="CHN">让克努特在农场里当农夫！</text>
+      <text lang="eng">Have Knut work as a farmer on the farm!</text>
       <text lang="ger">Lass Knut als Farmer in der Farm arbeiten!</text>
     </string>
     <string id="3">
       <text lang="CHN">在附近找一个女人！</text>
+      <text lang="eng">Find a woman for him in his surroundings!</text>
       <text lang="ger">Suche in der Umgebung nach einer Frau!</text>
     </string>
     <string id="4">
       <text lang="CHN">把柳托夫、索尔比约恩、卡里、格罗娅和乌拉派往埃及人小村。</text>
+      <text lang="eng">Send Ljotolf, Thorbjorn, Kari, Groa and Ulla into the village.</text>
       <text lang="ger">Schicke Ljotolf, Thorbjorn, Kari, Groa und Ulla ins Ägypterdörfchen.</text>
     </string>
     <string id="53">
       <text lang="CHN">埃及人小村</text>
+      <text lang="eng">Village</text>
       <text lang="ger">Ägypterdörfchen</text>
     </string>
     <string id="71">
       <text lang="CHN">克努特</text>
+      <text lang="eng">Knut </text>
       <text lang="ger">Knut </text>
     </string>
     <string id="72">
       <text lang="CHN">乌拉</text>
+      <text lang="eng">Ulla</text>
       <text lang="ger">Ulla</text>
     </string>
     <string id="73">
       <text lang="CHN">索尔比约恩</text>
+      <text lang="eng">Thorbjorn</text>
       <text lang="ger">Thorbjorn</text>
     </string>
     <string id="74">
       <text lang="CHN">卡里</text>
+      <text lang="eng">Kari</text>
       <text lang="ger">Kari</text>
     </string>
     <string id="75">
       <text lang="CHN">格罗娅</text>
+      <text lang="eng">Groa</text>
       <text lang="ger">Groa</text>
     </string>
     <string id="76">
       <text lang="CHN">柳托夫</text>
+      <text lang="eng">Ljotolf</text>
       <text lang="ger">Ljotolf</text>
     </string>
     <string id="98">
       <text lang="CHN">本教程将为你讲解角色的操控以及其他重要功能。</text>
+      <text lang="eng">This tutorial will explain the controls for your characters and other basic functions.</text>
       <text lang="ger">In diesen Tutorial wird dir die Steuerung deiner Figuren und andere wesentliche Funktionen erklärt.</text>
     </string>
     <string id="99">
       <text lang="CHN">1) 操控</text>
+      <text lang="eng">1) CONTROLS</text>
       <text lang="ger">1) STEUERUNG</text>
     </string>
   </strings>
@@ -73,6 +88,20 @@
 以便他们能在新的国度中立足。
 
 按照屏幕左侧菜单栏旁边出现的任务提示依次操作即可。</text>
+      </lang>
+      <lang code="eng">
+        <text> 
+This tutorial will give you a first description of the user interface and how to move about in the game world. It will explain how to select and control your characters and perform other basic functions such as: 
+
+-	navigating the map 
+-	accelerating 
+-	starting/ending/pausing the game
+-	using basic buttons &amp; windows 
+
+P.S.: CLOSING WINDOWS
+You can close any window by pressing the ESC key or by left-clicking on the "x" button in the top right-hand corner.
+(Click on the flag symbol on the left of the menu bar to view this and any of the following windows again.)
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -105,6 +134,22 @@ Du schließt alle Fenster durch Drücken des ESC - Buttons oder durch Klick mit 
 被选中的单位会以彩色圆圈高亮显示。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+This is Knut.
+
+</text>
+        <usericon>2,1</usericon>
+        <text>
+
+Knut is unemployed and has nothing to do all day. 
+To select him, simply left-click on him. The character will start flashing slightly and the character display will open near the right edge of the screen.
+
+If you want to give Knut an order, select him and press the spacebar, or select him by right-clicking on him and a menu will appear. By left-clicking on the actions you can decide whether a Viking should get a job, marry, move into a new home, go to school or change his profession or equipment.
+
+Select Knut and send him to the marked spot by right-clicking.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Dies ist Knut.
@@ -132,6 +177,15 @@ Wähle Knut aus und sende ihn mit einem rechten Maustastenklick zu der gekennzei
 那么：给克努特一个安身之所，再让他在农场里当农夫干活！
 </text>
       </lang>
+      <lang code="eng">
+        <text> 
+GREAT! There is a faster and more direct way, though!
+
+If you RIGHT-CLICK on a work place when you have selected a Viking, he will begin working in that building and will automatically take on the respective profession if he is skilled to perform it. If you right-click on a dwelling, your Viking will move in if there is still room available. If you choose a free place on the map by right-clicking, your protégé will go there directly. The TOOLTIPS that appear at your mouse pointer provide feedback on the respective action. 
+
+So: Give Knut a roof over his head and have him work as a farmer on the farm!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 PRIMA! Das geht allerdings auch schneller und direkter!
@@ -151,6 +205,15 @@ Also: Gib Knut ein Dach über den Kopf und lass ihn als Farmer in der Farm arbei
 
 然后在蓝色标记点上点击鼠标左键打开任务菜单，选择锄头图标！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+WELL DONE! Knut has now got a roof over his head!
+
+Now let him work as a farmer!
+
+By the way: You can cancel an order or deselect a character by left-clicking on any free space on the map.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -173,6 +236,19 @@ Nun lasse ihn als Farmer arbeiten!
 
 在定居点附近找找吧！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>  
+WELL DONE! Now Knut has got a dwelling and a job, so he's well cared for - or is there something missing? 
+
+Find a woman for him in his surroundings!
+
+
+NAVIGATING THE MAP
+Move the mouse cursor over a free place in the landscape. Now press and hold the middle mouse button and move the mouse. The screen detail will follow the movement of your mouse. The same function can be performed with the arrow keys.
+
+If you want to scroll automatically by moving the cursor to the EDGE OF THE SCREEN, you need to set this option in the OPTIONS MENU (F2). This can be accessed by clicking the button with the tools on it in the bar on the left-hand side of the screen. Then press ENTER and you can set the scroll mode in the middle of the screen.
+</text>
       </lang>
       <lang code="ger">
         <text>  
@@ -199,6 +275,21 @@ Möchtest du automatisch scrollen, sobald du mit den Mauszeiger auf den BILDSCHI
 
 如果需要，你也可以把房子升级到更大的。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+Knut has found a mate! 
+
+</text>
+        <usericon>2,2</usericon>
+        <text>
+
+Marry the two by selecting Knut and pressing the spacebar. Choose the symbol with the two rings and Knut will propose to Ulla. She will then automatically move in with Knut and take care of his household ...
+
+
+HELP!
+It is often easier and quicker to enter commands via hotkeys. The key configuration (F1) in the HELP SYSTEM will give you more information about this.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -228,6 +319,17 @@ Oftmals ist es leichter und schneller über Tastaturkürzel Befehle auszuführen
 用鼠标左键点击左下屏幕边缘总览地图上的红点，你会看到一处埃及人的小村庄。现在试试调节游戏速度，看看他们动作有多迅捷！
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+PAUSE AND GAME SPEED
+
+You can pause the game and start it again at any time by pressing the "p" key.
+
+Press the "l" key on the keyboard to double the game speed. By pressing "l" again you can triple the game speed. If you then press the key again you'll return to the normal playing speed.
+
+Left-click on the red patch in the general map at the lower left edge of the screen. You'll see a small village there. Now try adjusting the game speed and see how fast the villagers move! 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 PAUSE UND SPIELGESCHWINDIGKEIT
@@ -255,6 +357,25 @@ Klicke mit der linken Maustaste auf den roten Fleck in der Übersichtskarte am l
 
 试试同时选中所有人，把他们派往埃及人小村吧！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+MAKING GROUPS
+
+Your two Vikings have got visitors! Meet Ljotolf, Thorbjorn, Kari and Groa.
+
+</text>
+        <usericon>2,3</usericon>
+        <text>
+
+You can select several characters at the same time by left-clicking on a free area of the map, holding the left mouse button and dragging a frame around the characters you want to select. 
+
+You can create a group by pressing the SHIFT key and left-clicking on individual Vikings (on the map or from a window of your choice) with the left mouse button to add them to the group.
+By pressing the CTRL key, you can deselect the individual Vikings again.
+If you have selected a group you may need more often, you can save it by pressing the CTRL key and a number key from 0 to 9. To select this group again, all you have to do it press the respective number key. A group can be controlled in the same way as an individual character.
+
+Try it. Send Ljotolf, Thorbjorn, Kari, Groa and Ulla into the village!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -285,6 +406,14 @@ Probier dies aus. Schicke Ljotolf, Thorbjorn, Kari, Groa und Ulla ins Dorf der �
 要关闭窗口，再次点击小旗图标即可。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+MISSION OBJECTIVES
+
+If you click on the flag symbol in the menu bar on the left-hand side of the screen, this will open the mission window. Here you can read any orders and hints and see your mission objectives summarised. The main objective, if applicable, will stand out slightly from the other objectives. 
+A second click on the flag symbol closes the window.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 MISSIONSZIELE
@@ -304,6 +433,17 @@ Ein nochmaliger Klick auf das Fähnchensymbol schließt das Fenster.
 当你的维京人找不到路时，让侦察兵柳托夫修路标。
 
 选中他，点击他操作菜单里的“修建路标”图标。右键点击那些亮起的区域，就能把路标放上去。注意路标之间必须保持相连！这可以从指示牌指向的方向看出来。
+</text>
+      </lang>
+      <lang code="eng">
+        <text> 
+PROBLEMS FINDING THE RIGHT WAY ...
+
+Your Vikings will often have problems orientating themselves, therefore it is a good idea to have a scout erect signposts so your people won't get lost!
+
+Have your scout Ljotolf erect signposts if your Vikings can't find their way about.
+
+To do so, select him and click on the "Erect Signpost" symbol in his menu. By right-clicking you can set a signpost on any space that is lit up. Make sure the signposts are always connected! This is indicated by the fact that signs point in the respective directions.
 </text>
       </lang>
       <lang code="ger">
@@ -330,6 +470,18 @@ Wähle ihn dazu aus und klicke auf das "Baue Wegweiser" - Symbol in seinem Aktio
 --当然，也可以试试"多人游戏"模式！
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+CONGRATULATIONS! 
+
+Now you know all about the most important basic functions, how to control a character and give orders. The next chapter will deal with the skills of the characters. 
+
+Proceed to the next TUTORIAL!
+
+You can RESTART, EXIT and SAVE the game at any time from the OPTIONS MENU (F2). 
+To begin with, you should save any completed tutorial so that you can fall back on the things you have learned.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 GRATULATION! 
@@ -348,6 +500,11 @@ Für den Anfang solltest du jedes Tutorial am Ende speichern, um das Gelernte je
         <text>
 操控与其他重要功能
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+CONTROLS AND OTHER BASIC FUNCTIONS
+</text>
       </lang>
       <lang code="ger">
         <text> 

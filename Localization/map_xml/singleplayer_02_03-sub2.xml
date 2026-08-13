@@ -1,59 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="singleplayer_02_03-sub2" export_map_id="singleplayer_02_03-sub2" map_md5="08b57b0a063fe983df89e044b51f6e7e" IsC2M="false">
+<localization version="1.3" map_id="singleplayer_02_03-sub2" export_map_id="singleplayer_02_03-sub2" map_md5="08b57b0a063fe983df89e044b51f6e7e" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">击败秘藏守护者的士兵！</text>
+      <text lang="eng">Defeat the soldiers of the Keepers of Knowledge!</text>
       <text lang="ger">Besiege die Soldaten der Hüter des Geheimnisses!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="51">
       <text lang="CHN">守护者</text>
+      <text lang="eng">Keepers</text>
       <text lang="ger">Hüter</text>
     </string>
     <string id="52">
       <text lang="CHN">守护者首领</text>
+      <text lang="eng">Keepers' Leader</text>
       <text lang="ger">Anführer der Hüter</text>
     </string>
     <string id="57">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="58">
       <text lang="CHN">守护者士兵</text>
+      <text lang="eng">Keepers' Soldiers</text>
       <text lang="ger">Soldaten der Hüter</text>
     </string>
     <string id="59">
       <text lang="CHN">首领</text>
+      <text lang="eng">Keepers' Leader</text>
       <text lang="ger">Anführer</text>
     </string>
     <string id="61">
       <text lang="CHN">近卫</text>
+      <text lang="eng">Bodyguard</text>
       <text lang="ger">Leibgarde</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">守护者首领</text>
+      <text lang="eng">Keepers' Leader</text>
       <text lang="ger">Anführer der Hüter</text>
     </string>
     <string id="99">
       <text lang="CHN">最后的决斗</text>
+      <text lang="eng">THE LAST DUEL</text>
       <text lang="ger">DER LETZTE ZWEIKAMPF</text>
     </string>
   </strings>
   <briefings>
     <block id="begin_00">
       <lang code="CHN">
-                <text>
+        <text>
 我再次置身于战场之上，这本是我求之不得得以避开的事。
 
 知识守护者守护的，确是一个极其危险的秘密……但我渐渐厌倦了，只因他们不愿放任何人进入，我便不得不频频征战。
@@ -62,6 +74,17 @@
 
 于是我将再次于战场中央与那指挥官会面……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Once again I found myself on a battlefield, though I could have gone very well without a battle at this point.
+
+The Keepers of Knowledge were keeping a very dangerous secret ... but I was beginning to get fed up with having to keep fighting just because they didn't want to grant anyone access.
+
+I was determined that this would be the last time I let myself in for a fight. I would just have to find another way in future!
+
+I would have to meet the leader in the middle of the battlefield again ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -77,7 +100,7 @@ Ich würde mich also erneut mit dem Anführer in der Mitte des Schlachtfeldes tr
     </block>
     <block id="begin_01">
       <lang code="CHN">
-                <text>
+        <text>
 指挥官
 
 我们的首领已任命我为新的最高指挥官--而这次，我的任务就是不让你赢得那么轻松！
@@ -87,6 +110,19 @@ Ich würde mich also erneut mit dem Anführer in der Mitte des Schlachtfeldes tr
 
 现在，各就各位吧！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+LEADER
+
+Our chieftain has made me the new supreme commander. My job is to make it harder for you this time! 
+Here are your troops. Make the best of them. 
+
+You have defeated many of our fighters, but it is very important that we test you! Prove that you are worthy of so many sacrifices - or you will fare badly at the end of the fight!
+
+Now let's take up our positions!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -104,7 +140,7 @@ Lass uns nun unsere Posten beziehen!
     </block>
     <block id="begin_02">
       <lang code="CHN">
-                <text>
+        <text>
 胜利！
 
 这一次，我们也赢得了胜利！可这许多牺牲，只为在此证明我自己……
@@ -114,6 +150,19 @@ Lass uns nun unsere Posten beziehen!
 
 满怀矛盾，我再次走向守护者指挥官，但愿此番终能通过我的试炼。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+VICTORY!
+
+We had won again! So many sacrifices had been necessary for me to prove my worth. 
+But if I hadn't fought, the Fog of Horrors would have claimed countless more victims ...
+
+I was no longer sure which was the lesser of the two evils ...
+
+Full of such doubts I confronted the leader of the Keepers again, and I hoped I would finally pass the test this time.
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -131,13 +180,23 @@ Voller Zwiespalt trat ich erneut vor den Anführer der Hüter und hoffte, meine 
     </block>
     <block id="begin_03">
       <lang code="CHN">
-                <text>
+        <text>
 战败！
 
 所有的牺牲都白费了！你不配知晓我们的秘密！
 
 把这个恶徒给我拿下！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+DEFEAT!
+
+All the sacrifices were in vain! You are not worthy of learning our secret! 
+
+Seize this rogue!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -152,11 +211,19 @@ Holt euch diesen Schurken!
     </block>
     <block id="begin_04">
       <lang code="CHN">
-                <text>
+        <text>
 战斗开始！
 
 待我们各就各位，战斗便可开始。士兵们定会忠实地听我号令。于是，随我一声令下，战端开启……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE BATTLE BEGINS!
+
+When we had taken up our positions, the battle was ready to begin. The soldiers would obey me. The battle started on my mark ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -169,9 +236,14 @@ Als wir unsere Positionen erreicht hatten, konnte die Schlacht beginnen. Die Sol
     </block>
     <block id="begin_05">
       <lang code="CHN">
-                <text>
+        <text>
 带下去！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Take him away!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -181,9 +253,16 @@ Abführen!
     </block>
     <block id="header">
       <lang code="CHN">
-                <text>
+        <text>
 最后的决斗
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE LAST DUEL
+
+</text>
       </lang>
       <lang code="ger">
         <text>

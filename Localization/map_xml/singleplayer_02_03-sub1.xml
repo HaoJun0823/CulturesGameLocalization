@@ -1,59 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="singleplayer_02_03-sub1" export_map_id="singleplayer_02_03-sub1" map_md5="50d5d31a8b5e9223b162c41031f4e7eb" IsC2M="false">
+<localization version="1.3" map_id="singleplayer_02_03-sub1" export_map_id="singleplayer_02_03-sub1" map_md5="50d5d31a8b5e9223b162c41031f4e7eb" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">击败秘藏守护者的士兵！</text>
+      <text lang="eng">Defeat the soldiers of the Keepers of Knowledge!</text>
       <text lang="ger">Besiege die Soldaten der Hüter des Geheimnisses!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="51">
       <text lang="CHN">守护者</text>
+      <text lang="eng">Keepers</text>
       <text lang="ger">Hüter</text>
     </string>
     <string id="52">
       <text lang="CHN">守护者首领</text>
+      <text lang="eng">Keepers' Leader</text>
       <text lang="ger">Anführer der Hüter</text>
     </string>
     <string id="57">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="58">
       <text lang="CHN">守护者士兵</text>
+      <text lang="eng">Keepers' Soldiers</text>
       <text lang="ger">Soldaten der Hüter</text>
     </string>
     <string id="59">
       <text lang="CHN">首领</text>
+      <text lang="eng">Leader</text>
       <text lang="ger">Anführer</text>
     </string>
     <string id="61">
       <text lang="CHN">近卫</text>
+      <text lang="eng">Bodyguard</text>
       <text lang="ger">Leibgarde</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">守护者首领</text>
+      <text lang="eng">Keepers' Leader</text>
       <text lang="ger">Anführer der Hüter</text>
     </string>
     <string id="99">
       <text lang="CHN">决斗</text>
+      <text lang="eng">THE DUEL</text>
       <text lang="ger">DER ZWEIKAMPF</text>
     </string>
   </strings>
   <briefings>
     <block id="begin_00">
       <lang code="CHN">
-                <text>
+        <text>
 这便是我该证明自己领导才能的地方了。
 
 我被无数守护者战士团团围住。不远处，他们的指挥官也已列阵，身边簇拥着由弓箭手与弯刀手组成的、全副武装的"迎宾仪仗队"。
@@ -66,6 +78,21 @@
 
 于是我昂首挺胸，走向我的对手。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+So this was where I was to prove my skills as a leader. 
+
+I was surrounded by countless soldiers of the Keepers. Their commander stood nearby, surrounded by a 'welcoming committee' of archers and shortsword fighters.
+There were soldiers beside me and in front of me, and behind them stood many more men, protected by stockades and walls.
+
+How exactly did the Keepers want this duel to be conducted?
+Was I supposed to fight all of them on my own?! I already regretted having accepted the Keepers' challenge. Whatever had made me trust these frauds?
+
+However, there was no time to feel sorry for myself now. I decided that I would at least impress the commanders of the Keepers with my courage. If this was to be my last day, I would at least go down fighting and die with honour!
+
+I raised my chin and strode up to my adversary.
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -85,7 +112,7 @@ Ich trat also mit stolz erhobenem Haupt vor meinen Widersacher.
     </block>
     <block id="begin_01">
       <lang code="CHN">
-                <text>
+        <text>
 指挥官
 
 "向你致意，维京人部族的比雅尼！"军队的首领说道，"你敢直面如此优势的兵力，勇气可嘉！"
@@ -102,6 +129,26 @@ Ich trat also mit stolz erhobenem Haupt vor meinen Widersacher.
 
 "听令！我们现在退至战线之后布阵，待我发令，战斗便可开始。你不可亲自混入士兵中参战，否则他们立时会以死相惩！"
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE LEADER
+
+"Welcome, Bjarni from the tribe of the Vikings," said the leader of the army. "Your courage in fighting such superior troops honours you!"
+
+Well, my courage had in fact left me a long time ago ... I was cursing this tribe of cowards! "Greetings. I have asked myself whether these odds are your idea of honourable combat," I heard myself answer.
+
+"We will show you what we consider honourable in due course," the commander said with a cunning smile. 
+"Now listen to me, Bjarni: The troops in the red uniforms will be under your command in this battle. This is not about fighting, it is about proving your skills as a leader! Only if your troops defeat my troops will we consider you worthy of learning the secret of our village - these are our rules for strangers."
+
+In Odin's name! I was more than surprised. Could the Hellulanders have been wrong? Soldiers of the same tribe fighting one another in battle, brothers against brothers, all to find out whether they could trust a stranger with their secret! What kind of mystery had I stumbled upon?
+
+Well, whatever it might be, I wouldn't object to starting the battle now. I was quite confident about my skills as a commander.
+However, I really didn't like to think what would happen if these warriors disobeyed my orders!
+
+"Listen! We are now going into position behind the battle line. The battle will begin on my mark. Do not interfere in the course of battle by fighting alongside your soldiers. If you try, you will instantly be punished by death!"
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -126,12 +173,21 @@ Mir war allerdings überhaupt nicht wohl bei dem Gedanken, was wäre, wenn sich 
     </block>
     <block id="begin_02">
       <lang code="CHN">
-                <text>
+        <text>
 胜利！
 我--不，是我与我的部众--做到了。在我的指挥下，他们一路突破至敌方指挥官面前。只剩他与他的近卫尚存。他的部下战斗得十分英勇！
 
 如今，知识守护者终须让我窥见那秘密了……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+Victory! 
+I - no, MY people and myself - had made it. Under my command they had advanced on the opposing commander. Only he and his bodyguard remained. His men had fought bravely!
+
+Now the Keepers of Knowledge had to let me into their secret ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -145,13 +201,23 @@ Und nun endlich mussten mich die Hüter des Wissens in das Geheimnis einweihen..
     </block>
     <block id="begin_03">
       <lang code="CHN">
-                <text>
+        <text>
 战败
 
 战斗失败了！我的部下忠勇作战、听我号令，我却一败涂地！
 
 "把这个废物给我拿下！！！你的败北证明了你无力妥当运用我们的知识。你将在我们的地牢里，为你的失败付出代价！"
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+DEFEAT
+
+The battle was lost! My soldiers had fought bravely and obeyed my orders, but I had failed!
+
+"Seize this man! Your defeat proves your inability to use our knowledge wisely. You will pay for your failure in our dungeons!"
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -166,13 +232,23 @@ Die Schlacht war verloren! Meine Unterstellten hatten brav gekämpft und meinen 
     </block>
     <block id="begin_04">
       <lang code="CHN">
-                <text>
+        <text>
 战斗开始！
 
 "士兵们！战斗开始吧。英勇厮杀，这关乎你们的荣誉！
 
 高贵的比雅尼，你的部队现归你统辖！"
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE BATTLE BEGINS!
+
+"Soldiers! The battle may begin. Fight bravely, your honour is at stake!
+
+Honourable Bjarni, I place these troops under your command!"
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -187,9 +263,14 @@ Edler Bjarni, ich unterstelle euch eure Truppen!"
     </block>
     <block id="begin_05">
       <lang code="CHN">
-                <text>
+        <text>
 将他带走！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Take him away!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -199,9 +280,16 @@ Führt ihn ab!
     </block>
     <block id="header">
       <lang code="CHN">
-                <text>
+        <text>
 决斗
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE DUEL
+
+</text>
       </lang>
       <lang code="ger">
         <text>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localization version="1.3" map_id="multiplayer_007_millitar" export_map_id="multiplayer_007_millitar" map_md5="160892dba101e83c4db158c61d342541" IsC2M="false" deprecated="false">
+  <languages>
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
+  </languages>
+  <strings>
+    <string id="0">
+      <text lang="CHN">军事：不合作</text>
+      <text lang="eng">Military: NON CO-OP</text>
+      <text lang="ger">Militär: NOCOOP</text>
+      <text lang="pol">Walka: POROZUMIENIE</text>
+    </string>
+    <string id="1">
+      <text lang="CHN">2 名玩家：与你的邻居及北方一个强敌作战！</text>
+      <text lang="eng">2 players: Fight your neighbour and a powerful enemy in the north!</text>
+      <text lang="ger">2 Spieler: Kämpfe gegen deinen Nachbarn und gegen einen mächtigen Feind im Norden!</text>
+      <text lang="pol">2 graczy: wraz z sąsiadem pokonaj potężnego wroga z północy!</text>
+    </string>
+    <string id="2">
+      <text lang="CHN">建起你的聚落并加以巩固。击败你的对手！</text>
+      <text lang="eng">Build up your settlement and fortify it. Defeat your enemies!</text>
+      <text lang="ger">Baue deine Siedlung auf und befestige sie. Besiege deine Gegner!</text>
+      <text lang="pol">Załóż osadę, ufortyfikuj ją i jak najszybciej postaraj się pokonać wroga przy wsparciu sąsiada.</text>
+    </string>
+    <string id="10">
+      <text lang="CHN">格陵兰人</text>
+      <text lang="eng">Greenlander</text>
+      <text lang="ger">Grönländer</text>
+      <text lang="pol">Grenlandczyk</text>
+    </string>
+    <string id="11">
+      <text lang="CHN">格陵兰人</text>
+      <text lang="eng">Greenlander</text>
+      <text lang="ger">Grönländer</text>
+      <text lang="pol">Grenlandczyk</text>
+    </string>
+    <string id="20">
+      <text lang="CHN">文兰人</text>
+      <text lang="eng">Vinlander</text>
+      <text lang="ger">Vinländer</text>
+      <text lang="pol">Winlandczyk</text>
+    </string>
+    <string id="21">
+      <text lang="CHN">文兰人</text>
+      <text lang="eng">Vinlander</text>
+      <text lang="ger">Vinländer</text>
+      <text lang="pol">Winlandczyk</text>
+    </string>
+    <string id="30">
+      <text lang="CHN">海卢兰人</text>
+      <text lang="eng">Hellulander</text>
+      <text lang="ger">Helluländer</text>
+      <text lang="pol">Hellulandczyk</text>
+    </string>
+    <string id="31">
+      <text lang="CHN">海卢兰人</text>
+      <text lang="eng">Hellulander</text>
+      <text lang="ger">Helluländer</text>
+      <text lang="pol">Hellulandczyk</text>
+    </string>
+  </strings>
+  <briefings>
+    <block id="begin_00">
+      <lang code="CHN">
+        <text>
+在维京人的土地上，两个部族联手后逐渐坐大，俨然一方霸主。
+
+雪上加霜的是，你还有个邻居--虽说眼下与你井水不犯河水，难保哪天反目。
+
+于是如今各人都只顾自己在战斗中立足……
+
+提示：开局起你便坐拥一批宝贵资源。
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+In the land of the Vikings, two powerful tribes have joined forces and thus created a large village of warriors.
+Urged on by their new strength, they have decided to wipe the land clean of all other tribes - including YOURS!
+
+Unfortunately, though your neighbour faces the same problem, you have been at odds with him for a long time. 
+
+So now it is every man for himself. Build up your defences before attacking your rivals!
+
+
+Note:
+From the beginning, you own valuable permits! Use them wisely to build up your village.
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+Im Land der Wikinger hatte sich durch den Zusammenschluss zweier mächtiger Stämme ein großes, kriegerisches Dorf gebildet.
+So erstarkt beschloss man schnell, das Land von allen anderen Stämmen zu säubern - und das betrifft auch DEINEN Stamm!
+
+Zu allem Unglück hast du auch noch einen Nachbarn, der zwar in der gleichen Gefahr schwebt, aber mit dir schon seit langem im Clinch liegt. 
+
+Daher versucht nun jeder alleine, sich im Kampf zu behaupten. Baue besser deine Verteidigung aus, bevor du selbst jemanden angreifst!
+
+
+Hinweis:
+Du bist bereits von Beginn an im Besitz wertvoller Schriftrollen! Nutze sie geschickt, um dein Dorf aufzubauen.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+W krainie Wikingów dwa potężne plemiona połączyły swe siły, zakładając wspólnie ogromną osadę wojowników.
+Ufne we własne siły, połączone plemiona postanowiły pozbyć się swoich sąsiadów - łącznie z TOBĄ!
+
+Na szczęście pobliska osada ma ten sam problem.
+
+Może wspólnymi siłami uda się wam odeprzeć nieprzyjaciela?
+
+
+Podpowiedź:
+Wykorzystaj swoją silną pozycję na początku gry i mądrze rozplanuj rozbudowę osady.
+</text>
+      </lang>
+    </block>
+    <block id="header">
+      <lang code="CHN">
+        <text>
+不合作
+        </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+NON CO-OP
+
+</text>
+      </lang>
+      <lang code="ger">
+        <text>
+
+NOCOOP
+
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+POROZUMIENIE
+
+</text>
+      </lang>
+    </block>
+  </briefings>
+</localization>

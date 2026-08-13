@@ -1,191 +1,246 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="singleplayer_02_01" export_map_id="singleplayer_02_01" map_md5="560961774be4884f389ff29e8424e3d9" IsC2M="false">
+<localization version="1.3" map_id="singleplayer_02_01" export_map_id="singleplayer_02_01" map_md5="560961774be4884f389ff29e8424e3d9" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
-<string id="0">
+    <string id="0">
       <text lang="CHN">建立你的食物供给！</text>
+      <text lang="eng">Set up your food production!</text>
       <text lang="ger">Baue deine Nahrungsversorgung auf!</text>
     </string>
-<string id="1">
+    <string id="1">
       <text lang="CHN">消灭蛇沼中的威胁！</text>
+      <text lang="eng">Destroy the danger in the serpent swamp!</text>
       <text lang="ger">Vernichte die Bedrohung im Schlangenmoor!</text>
     </string>
-<string id="2">
+    <string id="2">
       <text lang="CHN">打开通往山脉另一侧秘密坑道的入口！</text>
+      <text lang="eng">Open the entrance to the secret tunnel which leads to the other side of the mountains!</text>
       <text lang="ger">Öffne den Eingang zum geheimen Stollen, der zur anderen Seite des Gebirges führt!</text>
     </string>
-<string id="3">
+    <string id="3">
       <text lang="CHN">打开藏有第二个开关的洞穴入口！</text>
+      <text lang="eng">Open the entrance to the cave where the second switch is located!</text>
       <text lang="ger">Öffne den Zugang zu der Höhle, in der sich der zweite Schalter befindet!</text>
     </string>
-<string id="4">
+    <string id="4">
       <text lang="CHN">缴纳贡金，方能和山地农人交易。</text>
+      <text lang="eng">Pay the tribute in order to trade with the tribe of miners.</text>
       <text lang="ger">Zahle den Tribut, um mit dem Bergbauervolk handeln zu können.</text>
     </string>
-<string id="6">
+    <string id="6">
       <text lang="CHN">找到逃亡者的藏身处！时间所剩无几！</text>
+      <text lang="eng">Find the refugees' hiding place! You only have very little time!</text>
       <text lang="ger">Finde das Versteck der Flüchtlinge! Du hast nur wenig Zeit!</text>
     </string>
-<string id="7">
+    <string id="7">
       <text lang="CHN">消灭狼人--他们给米格尔的部族带来了无尽苦难！</text>
+      <text lang="eng">Destroy the wolf creatures which have brought so much suffering to Miguel's tribe!</text>
       <text lang="ger">Vernichte die Wolfsmenschen, welche dem Stamm Miguels so viel Kummer und Leid brachten!</text>
     </string>
-<string id="8">
+    <string id="8">
       <text lang="CHN">与比雅尼一同进入狼穴入口！</text>
+      <text lang="eng">Enter the wolves' cave with Bjarni!</text>
       <text lang="ger">Betritt mit Bjarni den Eingang der Wolfshöhle!</text>
     </string>
-<string id="9">
+    <string id="9">
       <text lang="CHN">通过贡金赠予米格尔一柄长剑、一支铁矛与一张长弓，好让他演练这些兵器！</text>
+      <text lang="eng">Give Miguel a longsword, an iron spear and a longbow, so he can learn how to use those weapons!</text>
       <text lang="ger">Schenke Miguel per Tribut ein Langschwert, einen Eisenspeer und einen Langbogen, damit er mit diesen Waffen üben kann!</text>
     </string>
-<string id="11">
+    <string id="11">
       <text lang="CHN">探索你的周边环境！</text>
+      <text lang="eng">Explore your surroundings!</text>
       <text lang="ger">Erkunde deine Umgebung!</text>
     </string>
-<string id="12">
+    <string id="12">
       <text lang="CHN">从米格尔处购得一幅地图！</text>
+      <text lang="eng">Buy a map from Miguel!</text>
       <text lang="ger">Erwirb eine Landkarte von Miguel!</text>
     </string>
-<string id="13">
+    <string id="13">
       <text lang="CHN">与比雅尼进入西北方的坑道--米格尔正是经此来到山谷！</text>
+      <text lang="eng">Take Bjarni and enter the tunnel in the north-west, which Miguel used to get into the valley!</text>
       <text lang="ger">Betritt nun mit Bjarni den Stollen im Nordwesten, durch den Miguel in das Tal kam!</text>
     </string>
-<string id="14">
+    <string id="14">
       <text lang="CHN">将逃亡者索求的物品赠予他们。</text>
+      <text lang="eng">Give the refugees the demanded goods.</text>
       <text lang="ger">Schenke den Flüchtlingen die geforderten Waren.</text>
     </string>
-<string id="15">
+    <string id="15">
       <text lang="CHN">探明蛇之迷宫！</text>
+      <text lang="eng">Explore the serpent maze!</text>
       <text lang="ger">Erforsche das Schlangenlabyrinth!</text>
     </string>
-<string id="16">
+    <string id="16">
       <text lang="CHN">给米格尔蛋糕与蜜酒！</text>
+      <text lang="eng">Give Miguel cake and mead!</text>
       <text lang="ger">Gib Miguel Kuchen und Met!</text>
     </string>
-<string id="17">
+    <string id="17">
       <text lang="CHN">向米格尔缴纳贡金，方能与之交易！</text>
+      <text lang="eng">Pay Miguel the tribute so you can trade with him!</text>
       <text lang="ger">Bezahle Miguel den Tribut, um mit ihm handeln zu können!</text>
     </string>
-<string id="18">
+    <string id="18">
       <text lang="CHN">尽快抵达山谷另一侧，或许还能找到幸存者！</text>
+      <text lang="eng">Try to get to the other side of the valley as quickly as possible. Maybe you'll find some survivors!</text>
       <text lang="ger">Versuche, so schnell wie möglich auf die andere Seite des Tals zu gelangen. Vielleicht findest du noch Überlebende!</text>
     </string>
-<string id="21">
+    <string id="21">
       <text lang="CHN">给米格尔些吃的，随后再回到他身边！</text>
+      <text lang="eng">Give Miguel some food and join him!</text>
       <text lang="ger">Gib Miguel etwas zu essen und geselle dich dann wieder zu ihm!</text>
     </string>
-<string id="30">
+    <string id="30">
       <text lang="CHN">给米格尔以下物品，换取更多情报：</text>
+      <text lang="eng">Give Miguel the following goods for more information:</text>
       <text lang="ger">Gib Miguel folgende Waren für mehr Infos:</text>
     </string>
-<string id="31">
+    <string id="31">
       <text lang="CHN">若你愿意，把米格尔喜爱的美食交给他！</text>
+      <text lang="eng">Give Miguel his snacks if you want to!</text>
       <text lang="ger">Wenn du möchtest, gib Miguel seine Leckereien!</text>
     </string>
-<string id="32">
+    <string id="32">
       <text lang="CHN">想要地图，便付出代价。</text>
+      <text lang="eng">Pay the price if you want the map.</text>
       <text lang="ger">Zahle den Preis, wenn du die Karte haben möchtest.</text>
     </string>
-<string id="34">
+    <string id="34">
       <text lang="CHN">为获得与米格尔交易的机会而付款：</text>
+      <text lang="eng">Pay to trade with Miguel:</text>
       <text lang="ger">Zahle für die Möglichkeit, mit Miguel zu handeln:</text>
     </string>
-<string id="35">
+    <string id="35">
       <text lang="CHN">交给山地农人：</text>
+      <text lang="eng">Give the miners:</text>
       <text lang="ger">Gib den Bergbauern:</text>
     </string>
-<string id="36">
+    <string id="36">
       <text lang="CHN">赠予米格尔以下兵器：</text>
+      <text lang="eng">Give Miguel the following weapons:</text>
       <text lang="ger">Schenke Miguel folgende Waffen:</text>
     </string>
-<string id="37">
+    <string id="37">
       <text lang="CHN">将逃亡者索求的物品赠予他们。</text>
+      <text lang="eng">Give the refugees the goods they demand.</text>
       <text lang="ger">Schenke den Flüchtlingen die geforderten Waren.</text>
     </string>
-<string id="50">
+    <string id="50">
       <text lang="CHN">比雅尼的部族</text>
+      <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarnis Stamm</text>
     </string>
-<string id="51">
+    <string id="51">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
-<string id="52">
+    <string id="52">
       <text lang="CHN">山地农人</text>
+      <text lang="eng">Miners</text>
       <text lang="ger">Bergbauervolk</text>
     </string>
-<string id="53">
+    <string id="53">
       <text lang="CHN">山农</text>
+      <text lang="eng">Mine</text>
       <text lang="ger">Bergb.</text>
     </string>
-<string id="54">
+    <string id="54">
       <text lang="CHN">米格尔</text>
+      <text lang="eng">Miguel</text>
       <text lang="ger">Miguel</text>
     </string>
-<string id="55">
+    <string id="55">
       <text lang="CHN">米格</text>
+      <text lang="eng">Mig</text>
       <text lang="ger">Mig</text>
     </string>
-<string id="56">
+    <string id="56">
       <text lang="CHN">蛇族战士</text>
+      <text lang="eng">Serpent Warriors</text>
       <text lang="ger">Schlangenkrieger</text>
     </string>
-<string id="57">
+    <string id="57">
       <text lang="CHN">蛇战</text>
+      <text lang="eng">Serp.</text>
       <text lang="ger">Schl.</text>
     </string>
-<string id="58">
+    <string id="58">
       <text lang="CHN">狼人</text>
+      <text lang="eng">Wolf Creatures</text>
       <text lang="ger">Wolfsmenschen</text>
     </string>
-<string id="59">
+    <string id="59">
       <text lang="CHN">恶狼</text>
+      <text lang="eng">Wolves</text>
       <text lang="ger">Wölfe</text>
     </string>
-<string id="60">
+    <string id="60">
       <text lang="CHN">米格尔的部族</text>
+      <text lang="eng">Miguel's tribe</text>
       <text lang="ger">Miguels Stamm</text>
     </string>
-<string id="61">
+    <string id="61">
       <text lang="CHN">守卫</text>
+      <text lang="eng">Guard</text>
       <text lang="ger">Wache</text>
     </string>
-<string id="62">
+    <string id="62">
       <text lang="CHN">营地</text>
+      <text lang="eng">Store</text>
       <text lang="ger">Lager</text>
     </string>
-<string id="63">
+    <string id="63">
       <text lang="CHN">营地</text>
+      <text lang="eng">Store</text>
       <text lang="ger">Lager</text>
     </string>
-<string id="71">
+    <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
-<string id="72">
+    <string id="72">
       <text lang="CHN">米格尔</text>
+      <text lang="eng">Miguel</text>
       <text lang="ger">Miguel</text>
     </string>
-<string id="98">
+    <string id="98">
       <text lang="CHN">维京人正新建一处聚落，却被一位游商卷入一场大冒险。</text>
+      <text lang="eng">The Vikings had just founded a new settlement when they were involved in an exciting adventure by a travelling merchant.</text>
       <text lang="ger">Die Wikinger bauen gerade eine neue Siedlung auf, als sie von einem fahrenden Händler in ein großes Abenteuer gerissen werden.</text>
     </string>
-<string id="99">
+    <string id="99">
       <text lang="CHN">隐秘之族</text>
+      <text lang="eng">THE SECRET TRIBE</text>
       <text lang="ger">DAS GEHEIME VOLK</text>
     </string>
-</strings>
-<briefings>
-<block id="begin_00"><lang code="CHN"><text>
+  </strings>
+  <briefings>
+    <block id="begin_00">
+      <lang code="CHN">
+        <text>
 我们踏入这片土地，因为它显然无人居住。无人会威胁我们，因为在这里似乎谁也不会被打扰！土地肥沃而丰饶。
 
 我们打算留下来，于是开始定居！我们的侦察兵四散而出，探查这片土地。
 
 提示：你的行囊中备有价值不菲的书信！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+We had entered this land because it seemed uninhabited. We thought nobody would threaten us, because nobody seemed to be disturbed by our presence! The ground was good and fertile!
+
+We wanted to stay here, so we started to settle! Our scouts swarmed out to explore the land.
+
+Hint: There are valuable papers in your luggage!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -197,10 +252,9 @@ Tipp: In deinem Gepäck befinden sich wertvolle Briefe!
 </text>
       </lang>
     </block>
-
     <block id="begin_01">
       <lang code="CHN">
-                <text>
+        <text>
 米格尔，游商
 
 “维京人，你们好！我是米格尔，来自北方的游商！
@@ -221,6 +275,31 @@ Tipp: In deinem Gepäck befinden sich wertvolle Briefe!
 提示：
 你可通过贡金把食物付给米格尔！若想听他的故事，须与比雅尼一同走到他面前……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE MERCHANT MIGUEL
+
+"Welcome, Vikings! I am Miguel, a travelling merchant from the north!
+When I noticed that you had arrived in this country, I thought I'd just look in ...
+
+My people live in a dense forest close to the shore in the north-west. We lead a peaceful life without poverty, in harmony with nature!
+
+However, one day we found the entrance to the swamp maze blocked with mighty boulders! We used to be able to hunt there, because there was an abundance of game.
+
+We heard loud hissing and strange noises, but there was no way into the swamp! 
+Until one of our scouts found a tunnel in the north-west, which took us around the swamp.
+
+I wanted to uncover the secrets of the swamp and to offer some attractive trade offers to the masters of this area! Maybe we can find an agreement about our old hunting grounds ...
+ 
+But there I go again, talking all the time - I am really hungry! My food supply is slowly running out. I'd like to tell you more, but I'm starving ... 
+
+Give me some food and I'll join you. I'll tell you more about this land then!"
+
+Hint: 
+You can give Miguel the food as a tribute! If you then want to hear his story, approach him with Bjarni ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -248,10 +327,9 @@ Du kannst Miguel die Nahrung per Tribut bezahlen! Wenn du seine Geschichte dann 
 </text>
       </lang>
     </block>
-
     <block id="begin_02">
       <lang code="CHN">
-                <text>
+        <text>
 山地部族
 “你好，外乡人……你们来此作甚？我们不喜欢闯入者，他们从未给我们部族带来过好处！
 
@@ -262,6 +340,20 @@ Du kannst Miguel die Nahrung per Tribut bezahlen! Wenn du seine Geschichte dann 
 提示：
 与比雅尼一同走到洞穴入口--他们才会放你进去！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+MOUNTAIN TRIBE
+
+"Greetings, strangers ... what are you doing here? We don't like intruders, they have never yet done anything good for our people! 
+
+The last guests exploited our hunting grounds until no animal was left. 
+Now we are suffering hunger, especially our workers deep in the tunnel! Enter it and witness our situation for yourself, but don't get your hopes up: There is nothing we can give you at the moment!"
+
+Hint: 
+Go to the entrance of the cave with Bjarni - he will be allowed to enter!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -278,15 +370,23 @@ Tritt mit Bjarni vor den Eingang der Höhle - ihm wird man dann Einlass gewähre
 </text>
       </lang>
     </block>
-
     <block id="begin_03">
       <lang code="CHN">
-                <text>
+        <text>
 山地部族
 “高贵的陌生人，我们感谢你！这世上到底还有正派之人。我们想向你道谢--为此，我们要在山脚建一座仓库！
 
 从那里你便可做划算的买卖--我们也会为你开出特别价钱！”
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+MOUNTAIN TRIBE
+
+"Thank you, dear stranger! It seems there are still honourable people after all. We would like to thank you. Therefore we will build a warehouse at the base of this mountain! 
+This will be a good start for excellent trade - and we will give you special prices!"
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -298,14 +398,21 @@ Von dort aus kannst du dann lohnenden Handel treiben - und wir werden für dich 
 </text>
       </lang>
     </block>
-
     <block id="begin_04">
       <lang code="CHN">
-                <text>
+        <text>
 蛇之迷宫
 
 我们怀着忧虑、鼓起勇气走进了蛇之迷宫！我们想找到那些开关，它们既能让米格尔踏上归途，也能为我们打开通往他部族的通道！贸易与友谊能将我们的部族联结--这正是这场冒险值得追求的目标！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+SERPENT MAZE
+
+We entered the serpent maze with many worries in our minds, but courage in our hearts! We wanted to find the switches that would enable Miguel to travel home and us to visit his tribe! We hoped that our tribes would be united in trade and friendship - worthwhile goals for such an adventure!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -316,12 +423,17 @@ Wir betraten das Schlangenlabyrinth mit Sorge in den Köpfen, aber mit Mut in de
 </text>
       </lang>
     </block>
-
     <block id="begin_05">
       <lang code="CHN">
-                <text>
+        <text>
 那是何物？归途忽然被封--我们与蛇族生物一同困在狭处！是个陷阱！他们给我们布下了陷阱！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+What was that? All of a sudden the way back was blocked - we were caught in a small space with the serpent beings! We were trapped! They had set us a trap!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -330,15 +442,23 @@ Was war das? Der Rückweg war plötzlich versperrt - wir waren mit den Schlangen
 </text>
       </lang>
     </block>
-
     <block id="begin_06">
       <lang code="CHN">
-                <text>
+        <text>
 开关
 
 这个开关边缘刻着一座白雪覆盖的山脉图样。它多半是用来开启山体入口的开关……也通向米格尔部族无人敢入的洞穴！
 而四下里，隐隐透着陷阱的味道……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+SWITCH
+
+There was a picture of snow-covered mountains engraved along the border of the switch. It was probably a switch which would open the entrance to a massif ... and to the cave nobody from Miguel's tribe dared to enter! 
+It really smelt like a trap ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -350,14 +470,21 @@ Und ringsherum roch es nach einer Falle...
 </text>
       </lang>
     </block>
-
     <block id="begin_07">
       <lang code="CHN">
-                <text>
+        <text>
 开关
 
 这个开关究竟有何效用？我们一头雾水……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+SWITCH
+
+What might this switch do? We didn't have any idea ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -368,10 +495,9 @@ Was dieser Schalter wohl bewirkte? Wir waren ratlos...
 </text>
       </lang>
     </block>
-
     <block id="begin_08">
       <lang code="CHN">
-                <text>
+        <text>
 米格尔的餐食
 “啊……多谢款待！舒服多了！那么听听我要讲的故事吧：
 
@@ -399,6 +525,37 @@ Was dieser Schalter wohl bewirkte? Wir waren ratlos...
 提示：
 将蜜酒作为贡金付给米格尔！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+MIGUEL'S MEAL
+
+"Ahhh ... thank you for the meal! That was good! Now listen to the stories I have to tell: 
+
+When I passed through the tunnel, I encountered strange creatures and some nebulous shapes which seemed to have an invigorating effect on me! If I stayed standing in them for a few seconds, I felt new life energy in me!
+When I reached the tunnel's exit, I must have activated some mechanism by accident - the grating in front of the tunnel closed with a loud metallic sound.
+Since then I have been sitting here, far away and cut off from my home country, with all these goods in my luggage! 
+
+But I was able to find out many things about this part of the country and about the swamp:
+The swamp is being controlled by strange serpent creatures - trade with these is absolutely impossible ... 
+I have found two entrances to the swamp north-east of my camp!
+
+I think the tunnel I came through can be opened again! There were two switches depicted on the gate to the tunnel, one in the swamp and one in a cave! Somewhere in the maze there must be switches which were built for this purpose! I saw one of those switches at the left entrance to the swamp - there must surely be more of them in the realm of the serpents! I am too weak to fight them though!
+
+Phew, that was quite a lot at once. Some dessert would be nice ... oh, please - give me some mead and cake! I'd enjoy that!
+
+By the way: In the south-east there is a tribe that mines iron ore and processes it. Maybe you could trade with them.
+
+Hm, mead and cake would be so nice ... if you're interested I can sell you a map of the land. I made it myself! 
+It contains the positions of the miners, the cave and the tunnel!
+I had to face many dangers before I could make these precise drawings! That's one reason why it won't be very cheap ...
+
+If you don't mind, I need some time to digest my food now! If only I had some mead ..."
+
+Hint: 
+Give Miguel mead by paying it as a tribute!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -432,10 +589,9 @@ Gib Miguel den Met per Tribut!
 </text>
       </lang>
     </block>
-
     <block id="begin_09">
       <lang code="CHN">
-                <text>
+        <text>
 为友谊干杯！
 
 “谢了，谢了这份厚礼！让我们举杯，敬这崭新的友谊！
@@ -449,6 +605,23 @@ Gib Miguel den Met per Tribut!
 蜜酒三：
 呃，这儿……呃……瞧，我有件宝贝……一幅地图，从一个古怪客人那里得来……他用几枚钱币便让给了我……呃……打那以后我便装作是自己画的，多半能唬住人！呃……你们不妨看看……呃……但别拿走……呃……哈--好困！！晚安！”
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+HERE'S TO OUR FRIENDSHIP!
+
+"Thank you, thank you for this kind gift! Let us toast our friendship! 
+
+Mead 1:
+This is a great country, full of adventures and sights ... hiccup ... have you seen the wonderful waterfall in the mountains to the north-west? Hiccup ... impressive, wouldn't you say?
+
+Mead 2:
+Hiccup ... there is a cave in the swamp we have never dared to enter ... hiccup, we were never very brave ... hiccup! Unfathomable things happen there! Hiccup! We fear that some danger lurks there ...
+
+Mead 3:
+Hiccup, here ... hiccup ... look what I've got ... a map I bought from a strange customer ... he gave it to me for a couple of coins ... hiccup ... ever since, I've been pretending that I drew it myself, that always impresses people! Hiccup ... take a look ... hiccup ... but don't take it away ... hiccup ... yawn ... I'm so tired! Good night!"
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -468,15 +641,23 @@ Hicks, hier ... hicks... seht, was ich tolles habe... eine Landkarte, die ich vo
 </text>
       </lang>
     </block>
-
     <block id="begin_10">
       <lang code="CHN">
-                <text>
+        <text>
 求救
 
 “维京人！你们听到了求救！请救救我和我的部族……这幅珍贵的护符我免费相赠，它是我部族的信物。
 快去，击退那些怪物！我会在此躲藏。店铺为你们敞开！”
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+CALL FOR HELP
+
+"Vikings! You have heard the cry for help! Please help me and my tribe ... I'll give you this valuable amulet for free, it serves as an identifying token among my people!
+Now go and fight this monster! I'll hide here for the time being. The shop will remain open for you!"
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -488,14 +669,21 @@ Nun geht schnell, und bekämpft diese Monster! Ich werde mich hier so lange vers
 </text>
       </lang>
     </block>
-
     <block id="begin_11">
       <lang code="CHN">
-                <text>
+        <text>
 撤退
 
 “救命！我们遭袭！到处都是恶狼！他们人数占优！快逃，逃进圣地！拼命跑！救命！救救我们！！！”
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+RETREAT
+
+"Help! We are being attacked! There are wolves everywhere! They outnumber us! Save yourselves, flee to the sanctuary! Run as fast as you can! Help! Someone please help us!"
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -506,14 +694,21 @@ RÜCKZUG
 </text>
       </lang>
     </block>
-
     <block id="begin_12">
       <lang code="CHN">
-                <text>
+        <text>
 开关
 
 米格尔提过的那个开关，刻着南方山体的轮廓。它必是开启通道的两个开关中的第一个！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+SWITCH
+
+The switch Miguel had already mentioned showed the silhouette of a massif to the south. It had to be one of the two switches which would open the passage!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -524,12 +719,17 @@ Der Schalter, den Miguel bereits erwähnte, zeigte die Silhouette des Bergmassiv
 </text>
       </lang>
     </block>
-
     <block id="begin_13">
       <lang code="CHN">
-                <text>
+        <text>
 “看！出口又通了！”
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+"Look! The exit is open again!"
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -538,12 +738,17 @@ Der Schalter, den Miguel bereits erwähnte, zeigte die Silhouette des Bergmassiv
 </text>
       </lang>
     </block>
-
     <block id="begin_14">
       <lang code="CHN">
-                <text>
+        <text>
 入口处的门挡住了去路。总有办法将它打开！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+A gate barred the entrance. There must be a way to open it!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -552,10 +757,9 @@ Ein Tor am Eingang versperrte uns den Weg. Sicherlich konnte man es irgendwie ö
 </text>
       </lang>
     </block>
-
     <block id="begin_15">
       <lang code="CHN">
-                <text>
+        <text>
 门开了，可洞穴眼看就要坍塌！
 到处是水迹，碎石从顶上簌簌落下。入口也几乎被埋，能否抵达对面都成疑问！
 
@@ -564,6 +768,18 @@ Ein Tor am Eingang versperrte uns den Weg. Sicherlich konnte man es irgendwie ö
 提示：
 唯有比雅尼可进入洞穴！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+The gate had opened, but the cave was about to collapse! 
+There was water everywhere, and rocks were falling from the ceiling. The entrance was almost closed and it was doubtful whether anybody would be able to reach the other side! 
+
+So I, Bjarni, son of Leif, entered the dark cave on my own, because I had the build and the courage to crawl through the narrow tunnel.
+
+Hint:
+Only Bjarni is able to enter the cave!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -578,10 +794,9 @@ Nur Bjarni kann die Höhle betreten!
 </text>
       </lang>
     </block>
-
     <block id="begin_16">
       <lang code="CHN">
-                <text>
+        <text>
 另一侧
 
 阳光刺眼。又一场山崩如昔日的米格尔一般，断了我归路。
@@ -592,6 +807,20 @@ Nur Bjarni kann die Höhle betreten!
 
 只是眼下，我也得提防恶狼……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE OTHER SIDE
+
+The sun dazzled my eyes. A landslide had blocked my way back, the same as it had once done to Miguel. 
+
+But that didn't matter to me. I had to find the tribe's hiding place first!
+
+His followers would not stand a chance against the wolves on their own! Neither would I! There had to be a way to help them.
+
+But in the meantime I would have to watch out for the wolves ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -608,16 +837,25 @@ Aber vorerst musste auch ich auf der Hut vor den Wölfen sein...
 </text>
       </lang>
     </block>
-
     <block id="begin_17">
       <lang code="CHN">
-                <text>
+        <text>
 守卫
 
 “谁在那儿？！
 啊，谢天谢地，不是那些狼族怪物！
 我们是主人残存的守卫，守护他们最后的避难所！那是海面之下深处的神圣洞窟！”
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+GUARDS
+
+"Who's there?! 
+Ah, thank goodness it isn't one of those wolf creatures! 
+We are the remaining guards of our masters and we protect their last refuge! It is the holy grotto far below sea level!"
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -630,15 +868,23 @@ Wir sind die verbliebenen Wächter unserer Herren, und wir beschützen deren let
 </text>
       </lang>
     </block>
-
     <block id="begin_18">
       <lang code="CHN">
-                <text>
+        <text>
 主守卫
 
 “证明你们值得信赖、可托以重任，我便放你们首领过去！
 自无法离开洞穴，我部族便忍饥挨饿。亟需大量食物、蛋糕与淡水！把这些交来，我们便信你们！”
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+MAIN GUARD
+
+"Prove that you are worthy and that you can be trusted, then I will let your leader pass!
+Our people have suffered hunger ever since they were trapped in the cave. We need a lot of food, cake and drinkable water! Give us these things and we will trust you!"
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -650,16 +896,25 @@ Unser Volk muss Hunger leiden, seit es die Höhle nicht mehr verlassen kann. Jed
 </text>
       </lang>
     </block>
-
     <block id="begin_19">
       <lang code="CHN">
-                <text>
+        <text>
 “其实我该为那被偷的地图生气的……算了。
 
 既然你们终要帮我，我便赠你一枚我部族的护符。它极珍贵，一直护我周全--望你善待！
 
 我愿无偿相赠，可没了它我便要独力自保--故请先给我几件兵器与甲胄，好让我学着使用。”
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+"I should be cross with you for stealing my map ... oh well.
+
+Since you want to help me, I will give you my tribe's amulet. It is very valuable and it has always protected me - so treat it with respect! 
+
+I will give it to you for free, but that leaves me without its protection. Therefore I must ask you to give me some weapons and armour first, so I can learn how to use them!"
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -672,14 +927,21 @@ Ich will es euch kostenlos überlassen, aber ich muss mich dann ohne dessen Schu
 </text>
       </lang>
     </block>
-
     <block id="begin_20">
       <lang code="CHN">
-                <text>
+        <text>
 地图
 
 “这是答应给你们的地图！信我，这一百枚金币它绝对值！”
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+MAP
+
+"This is the map I promised you! Believe me, it is definitely worth the hundred coins!"
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -690,14 +952,21 @@ LANDKARTE
 </text>
       </lang>
     </block>
-
     <block id="begin_21">
       <lang code="CHN">
-                <text>
+        <text>
 隐秘藏身处
 
 “你戴着护符。我看得出，你受之无愧！进去吧，高贵的比雅尼，看看我们的部族变成了何样！”
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+SECRET HIDING PLACE
+
+"You're wearing the amulet. I can see you are worthy! Enter, dear Bjarni, and see what has happened to our tribe!"
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -708,15 +977,23 @@ GEHEIMVERSTECK
 </text>
       </lang>
     </block>
-
     <block id="begin_22">
       <lang code="CHN">
-                <text>
+        <text>
 我重见天日，屏障果然消失了！看来小队成功了！
 如此我军通路已开--我决意借众人之力终结这混乱！
 
 我令士兵穿沼而来--与恶狼的战斗就此打响！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+I was back in the light and the barriers had indeed disappeared! So the squad had made it!
+The path was now clear for my soldiers - and I decided to put an end to this chaos with their help! 
+
+I had my soldiers approach through the swamp - the battle against the wolves was ready to begin!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -728,14 +1005,21 @@ Ich ließ meine Soldaten durch das Moor anrücken - die Schlacht gegen die Wölf
 </text>
       </lang>
     </block>
-
     <block id="begin_23">
       <lang code="CHN">
-                <text>
+        <text>
 最后一名狼人倒下，成群的人便从地下“牢笼”涌出。他们为我和维京人的英勇之举道谢，米格尔更是喜不自胜，将店铺连同旅途攒下的珍宝财富一并相赠！
 
 我们维京人从此与感恩的邻邦和睦共处，部族间很快便有了第一桩联姻……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+When the last wolf creature had been eliminated, masses of people came out of their underground "dungeon". They thanked me and my Vikings for our heroic deeds, and Miguel was so happy that he gave us his shop - with all the treasures and possessions he had acquired on his travels!
+
+From then on, we Vikings lived in peace with our grateful neighbours, and very soon the first marriages between the tribes took place ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -746,12 +1030,17 @@ Wir Wikinger lebten fortan in Frieden mit unseren dankbaren Nachbarn, und schon 
 </text>
       </lang>
     </block>
-
     <block id="begin_24">
       <lang code="CHN">
-                <text>
+        <text>
 入口封闭！定是漏了某个开关……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+The entrance was closed! We must have missed a switch somewhere ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -760,15 +1049,23 @@ Der Eingang war verschlossen! Irgendwo mussten wir einen Schalter übersehen hab
 </text>
       </lang>
     </block>
-
     <block id="begin_25">
       <lang code="CHN">
-                <text>
+        <text>
 入口敞开着！一如往常，是我独自踏入探路，替众人驱散恐惧……
 
 提示：
 入口虽开，除比雅尼外无人有胆进去。唯有比雅尼可进入洞穴！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+The entrance was open! As usual, I was the one to dispel my people's fears by exploring the unknown myself ...
+
+Hint: 
+The entrance is now open, but only Bjarni dares to enter it. He alone can enter the cave!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -780,12 +1077,17 @@ Der Eingang ist offen, aber außer Bjarni hat niemand den Mut, hinein zu gehen. 
 </text>
       </lang>
     </block>
-
     <block id="begin_26">
       <lang code="CHN">
-                <text>
+        <text>
 当我从洞穴重见天日，士兵们报称其间冒出了藏宝箱--想必装满珍宝与物资！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+When I left the cave and stepped back into the light, my soldiers told me that treasure chests had appeared in the meantime - chests which were likely to contain treasures and materials!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -794,12 +1096,17 @@ Als ich aus der Höhle wieder an Tageslicht trat, berichteten mir meine Soldaten
 </text>
       </lang>
     </block>
-
     <block id="begin_27">
       <lang code="CHN">
-                <text>
+        <text>
 入口封闭！定是漏了某个开关……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+The entrance was closed! We must have missed a switch somewhere ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -808,10 +1115,9 @@ Der Eingang war verschlossen! Irgendwo mussten wir einen Schalter übersehen hab
 </text>
       </lang>
     </block>
-
     <block id="begin_28">
       <lang code="CHN">
-                <text>
+        <text>
 狼穴
 
 入口洞开，我决意独自进去！
@@ -820,6 +1126,18 @@ Der Eingang war verschlossen! Irgendwo mussten wir einen Schalter übersehen hab
 
 余下的人守在入口，以防不测！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE WOLVES' CAVE
+
+The entrance was open and I decided to go in alone! 
+
+If this cave was really as dangerous as we suspected, I didn't want to risk the lives of all my brave subjects for my latest adventure!
+
+The others were to guard the entrance, just in case some nasty surprises appeared!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -834,10 +1152,9 @@ Der Rest sollte den Eingang bewachen, falls irgendwelche unliebsamen Überraschu
 </text>
       </lang>
     </block>
-
     <block id="begin_29">
       <lang code="CHN">
-                <text>
+        <text>
 报信者
 
 “当心，夜里这洞穴传出可怖的声响！
@@ -846,6 +1163,18 @@ Der Rest sollte den Eingang bewachen, falls irgendwelche unliebsamen Überraschu
 
 可谁又真正知晓……”
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+INFORMANT
+
+"Watch out, there are dreadful noises coming out of this cave!
+
+They say there are places in this cave which restore your life energy! Walking into the dark blue Fog of Life is supposed to renew your energy! 
+
+But who knows how much of that is true ..."
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -860,10 +1189,9 @@ Doch wer weiß das schon genau..."
 </text>
       </lang>
     </block>
-
     <block id="begin_30">
       <lang code="CHN">
-                <text>
+        <text>
 队伍重聚，我讲起洞穴中的经历，庆幸自己虽杀了那些巨狼人的“宠物”，却得以脱身！
 
 那些狼人似乎正忙着别的事……
@@ -872,6 +1200,18 @@ Doch wer weiß das schon genau..."
 
 或许他也有什么新货想交易……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+When the squad was reunited, I told them about all the things that had happened in the cave, and that I was really glad that I had managed to flee from these terrifying wolf creatures, although I had killed their "pets"! 
+
+Somehow the wolf creatures seemed to be busy with other matters ...
+
+Whatever, the tunnel Miguel had come through ought to be open now. I decided to return to the merchant and tell him about it. 
+
+Maybe he would have something new to trade as well ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -886,13 +1226,19 @@ Und vielleicht hatte er ja auch etwas Neues, dass er handeln wollte...
 </text>
       </lang>
     </block>
-
     <block id="begin_31">
       <lang code="CHN">
-                <text>
+        <text>
 米格尔将护符交给我们，为新得的兵器欣喜！
 他递出护符、托付于我们的那份敬畏，几乎有形可感……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+Miguel gave us the amulet and was very happy about his new weapons! 
+The respect with which he handed over the amulet was almost tangible ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -902,10 +1248,9 @@ Die Ehrfurcht, mit der er das Amulett aus der Hand gab und uns anvertraute, war 
 </text>
       </lang>
     </block>
-
     <block id="begin_32">
       <lang code="CHN">
-                <text>
+        <text>
 狼族
 
 “我们是狼族！你们终于在悠悠岁月后解放了我们，凭现身开启了古老的门扉！
@@ -919,6 +1264,22 @@ Die Ehrfurcht, mit der er das Amulett aus der Hand gab und uns anvertraute, war 
 我须先找到隐秘藏身处，且要快！
 若能及时寻到米格尔的部族，或许他们会为我军指条别路。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE WOLF TRIBE
+
+"We are the Wolf Tribe! After a long age of solitude, you have freed us at last. You have unlocked the old gates by coming here!
+ 
+Now step aside, because this is now our territory! We are only interested in this side of the land for now, but we will destroy everyone who opposes us! 
+We will also find the secret refuge of these cowards - then our victory will be complete!"
+
+I would have loved to fight at once, but I didn't stand a chance on my own. And the way back through the cave was blocked! 
+So I had to find the secret hiding place first, and I had to be quick! 
+
+If I could find Miguel's tribe in time, they might show me another way my men could take.
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -937,15 +1298,23 @@ Wenn ich Miguels Stamm rechtzeitig finden konnte, würde man mir dort vielleicht
 </text>
       </lang>
     </block>
-
     <block id="begin_33">
       <lang code="CHN">
-                <text>
+        <text>
 败北！
 
 太迟了，恶狼抢先发现了部族！
 我失败了，米格尔的友人败了！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+DEFEAT!
+
+It was too late, the wolves had discovered the tribe before me! 
+I had failed, Miguel's friends had been defeated!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -957,12 +1326,17 @@ Ich hatte versagt, Miguels Freunde waren geschlagen!
 </text>
       </lang>
     </block>
-
     <block id="begin_34">
       <lang code="CHN">
-                <text>
+        <text>
 “你受之无愧！如此仁厚助人者，自可畅行无阻！你们首领可通过！”
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+"You are worthy! Since you so nobly helped the suffering, your leader may pass without hindrance!"
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -971,12 +1345,17 @@ Ich hatte versagt, Miguels Freunde waren geschlagen!
 </text>
       </lang>
     </block>
-
     <block id="begin_35">
       <lang code="CHN">
-                <text>
+        <text>
 比雅尼牺牲了！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+Bjarni has died!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -985,14 +1364,21 @@ Bjarni ist gestorben!
 </text>
       </lang>
     </block>
-
     <block id="begin_36">
       <lang code="CHN">
-                <text>
+        <text>
 “因你们愿助我，我便赠你一枚我部族的护符。它极珍贵，一直护我周全--望你善待！
 
 我愿无偿相赠，可没了它我便要独力自保--故请先给我几件兵器与甲胄，好让我学着使用。”
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+"Since you want to help me, I will give you an amulet of my tribe. It is very valuable, so treat it with respect! 
+
+I will give it to you for free, but that leaves me without its protection. Therefore I must ask you to give me some weapons and armour first, so I can learn how to use them!"
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -1003,15 +1389,23 @@ Ich will es euch zwar kostenlos überlassen, aber ich muss mich dann ohne dessen
 </text>
       </lang>
     </block>
-
     <block id="begin_37">
       <lang code="CHN">
-                <text>
+        <text>
 “我的店铺现向你敞开交易！”
 
 提示：
 与米格尔交易某些货物，需一辆牛车！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+"My warehouse is open to trade with you!"
+
+Hint: 
+You will require an ox cart if you want to trade certain goods with Miguel!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -1023,14 +1417,21 @@ Um manche Waren mit Miguel handeln zu können, benötigst du einen Ochsenkarren!
 </text>
       </lang>
     </block>
-
     <block id="begin_38">
       <lang code="CHN">
-                <text>
+        <text>
 “维京人！你们听到了求救！请救救我和我的部族……
 
 快去，击退那些怪物！我会在此躲藏。店铺为你们敞开！”
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+"Vikings! You have heard the cry for help! Please help me and my tribe ... 
+
+Go quickly and fight these monsters! I'll hide here. The shop will remain open to you!"
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -1041,12 +1442,17 @@ Geht schnell, und bekämpft diese Monster! Ich werde mich hier so lange versteck
 </text>
       </lang>
     </block>
-
     <block id="begin_39">
       <lang code="CHN">
-                <text>
+        <text>
 “我们的店铺现向你敞开交易！”
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+"Our warehouse is now available for your trade!"
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -1055,12 +1461,17 @@ Geht schnell, und bekämpft diese Monster! Ich werde mich hier so lange versteck
 </text>
       </lang>
     </block>
-
     <block id="begin_40">
       <lang code="CHN">
-                <text>
+        <text>
 我的士兵应在沼泽的屏障处等候，而我动身去终于穿越坑道！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+My soldiers had to wait at the swamp's barriers while I set out to pass through the tunnel!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -1069,12 +1480,17 @@ Meine Soldaten sollten an den Barrieren im Sumpf warten, während ich mich auf d
 </text>
       </lang>
     </block>
-
     <block id="begin_41">
       <lang code="CHN">
-                <text>
+        <text>
 我毅然步入洞穴！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+Determined to succeed, I now entered the cave!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -1083,12 +1499,17 @@ Mit Entschlossenheit betrat ich nun die Höhle!
 </text>
       </lang>
     </block>
-
     <block id="begin_42">
       <lang code="CHN">
-                <text>
+        <text>
 我们如今要向你们表达谢意！我们最得力的人会为你们建一座商栈……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+Let us show you how grateful we are! Our best man will build a warehouse for you ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -1097,12 +1518,18 @@ Wir werden dir nun unsere Dankbarkeit erweisen! Unser bester Mann wird ein Hande
 </text>
       </lang>
     </block>
-
     <block id="header">
       <lang code="CHN">
-                <text>
+        <text>
 隐秘藏身处
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE SECRET TRIBE
+
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -1112,12 +1539,17 @@ DAS GEHEIMVERSTECK
 </text>
       </lang>
     </block>
-
     <block id="lost">
       <lang code="CHN">
-                <text>
+        <text>
 任务失败！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+MISSION FAILED!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -1126,12 +1558,17 @@ MISSION VERLOREN!
 </text>
       </lang>
     </block>
-
     <block id="won">
       <lang code="CHN">
-                <text>
+        <text>
 任务成功！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+MISSION COMPLETED!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -1140,5 +1577,5 @@ MISSION GEWONNEN!
 </text>
       </lang>
     </block>
-</briefings>
+  </briefings>
 </localization>

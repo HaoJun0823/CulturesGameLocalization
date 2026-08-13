@@ -1,112 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_02_07" export_map_id="campaign_02_07" map_md5="750bd9eed067e6b1683cbffa81c62127" IsC2M="false">
+<localization version="1.3" map_id="campaign_02_07" export_map_id="campaign_02_07" map_md5="750bd9eed067e6b1683cbffa81c62127" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@找到并跨越比弗罗斯特桥。</text>
+      <text lang="eng">@Find and cross the bridge of Bifrost.</text>
       <text lang="ger">@Finde und überquere die Brücke Bifrost</text>
     </string>
     <string id="1">
       <text lang="CHN">抵达海姆达尔。</text>
+      <text lang="eng">Reach Heimdall.</text>
       <text lang="ger">Erreiche Heimdall.</text>
     </string>
     <string id="2">
       <text lang="CHN">寻找海姆达尔的号角！</text>
+      <text lang="eng">Find Heimdall's horn!</text>
       <text lang="ger">Suche das Horn Heimdalls!</text>
     </string>
     <string id="3">
       <text lang="CHN">解开谜题。</text>
+      <text lang="eng">Solve the riddle.</text>
       <text lang="ger">Löse das Rätsel.</text>
     </string>
     <string id="4">
       <text lang="CHN">与全部英雄过桥并穿门而过。</text>
+      <text lang="eng">Cross the bridge and the gate with ALL your heroes.</text>
       <text lang="ger">Gehe mit ALLEN Helden über die Brücke und durch das Tor.</text>
     </string>
     <string id="5">
       <text lang="CHN">必要时向海姆达尔缴纳其所索贡金。</text>
+      <text lang="eng">Pay Heimdall the required tribute if necessary.</text>
       <text lang="ger">Zahle Heimdall wenn nötig den geforderten Tribut.</text>
     </string>
     <string id="6">
       <text lang="CHN">寻找海姆达尔的战斧。</text>
+      <text lang="eng">Find Heimdall's axe.</text>
       <text lang="ger">Suche das Axt Heimdalls.</text>
     </string>
     <string id="7">
       <text lang="CHN">寻找海姆达尔的盔甲。</text>
+      <text lang="eng">Find Heimdall's armour.</text>
       <text lang="ger">Suche die Rüstung Heimdalls.</text>
     </string>
     <string id="8">
       <text lang="CHN">取走海姆达尔的号角。</text>
+      <text lang="eng">Pick up Heimdall's horn.</text>
       <text lang="ger">Nimm das Horn Heimdalls auf.</text>
     </string>
     <string id="9">
       <text lang="CHN">取走海姆达尔的战斧。</text>
+      <text lang="eng">Pick up Heimdall's axe.</text>
       <text lang="ger">Nimm die Axt Heimdalls auf.</text>
     </string>
     <string id="10">
       <text lang="CHN">取走海姆达尔的盔甲。</text>
+      <text lang="eng">Pick up Heimdall's armour.</text>
       <text lang="ger">Nimm sie Rüstung Heimdalls auf.</text>
     </string>
     <string id="11">
       <text lang="CHN">与全部英雄过桥，直抵那神秘的入口！</text>
+      <text lang="eng">Cross the bridge with all your heroes and reach the mysterious entrance!</text>
       <text lang="ger">Überquere mit allen Helden die Brücke bis zum geheimnisvollen Eingang!</text>
     </string>
     <string id="31">
       <text lang="CHN">若需海姆达尔派出英雄，须付其 15 枚钱币。</text>
+      <text lang="eng">Pay Heimdall 15 coins if you need some of his heroes.</text>
       <text lang="ger">Zahle Heimdall 15 Münzen, falls du von ihm Helden benötigst.</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的部族</text>
+      <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarnis Stamm</text>
     </string>
     <string id="51">
       <text lang="CHN">海姆达尔</text>
+      <text lang="eng">Heimdall</text>
       <text lang="ger">Heimdall</text>
     </string>
     <string id="52">
       <text lang="CHN">幽灵战士</text>
+      <text lang="eng">Ghost Warriors</text>
       <text lang="ger">Geisterkrieger</text>
     </string>
     <string id="53">
       <text lang="CHN">蛇战士</text>
+      <text lang="eng">Serpent Warriors</text>
       <text lang="ger">Schlangenkrieger</text>
     </string>
     <string id="54">
       <text lang="CHN">狼人战士</text>
+      <text lang="eng">Werewolf Warriors</text>
       <text lang="ger">Werwölfkrieger</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
+      <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
+      <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
+      <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">伊科尔</text>
+      <text lang="eng">Ykol</text>
       <text lang="ger">Ykol</text>
     </string>
     <string id="76">
       <text lang="CHN">海姆达尔</text>
+      <text lang="eng">Heimdall</text>
       <text lang="ger">Heimdall</text>
     </string>
     <string id="98">
       <text lang="CHN">唯有海姆达尔那威力号角的声响，方能为我们指明通往阿斯加德之路。然而在这虚幻之地，危机四伏……</text>
+      <text lang="eng">Only the sound of Heimdall's mighty horn could show us the way to Asgard. But numerous dangers were lurking in this unreal place ... </text>
       <text lang="ger">Nur der Klang des mächtigen Hornes Heimdalls konnte uns den Weg nach Asgard zeigen. Aber in dieser unwirklichen Gegend lauerten viele Gefahren... </text>
     </string>
     <string id="99">
       <text lang="CHN">海尔之国</text>
+      <text lang="eng">HEL'S REALM</text>
       <text lang="ger">HEL'S REICH</text>
     </string>
   </strings>
@@ -118,6 +145,12 @@
 一片虚幻之境在我们眼前展开。
 一个怪石嶙峋、黑暗幽深的迷宫，被条条熔岩河流纵横切割，出现在我们面前。尽管四下无人，我们却感到被什么东西注视着……在那些盘曲缠绕的通道里，仿佛处处潜藏着危险……
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+An unreal place ... 
+A dark, stony labyrinth full of streams of lava opened up right in front of us. Although we could not see anybody, we felt as if someone was watching us. Danger seemed to be lurking everywhere in these winding corridors ... 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -136,6 +169,16 @@ Ein steiniges, dunkles Labyrinth, durchzogen von Lavaflüssen, tat sich vor uns 
 
 找到海姆达尔，跨越彩虹桥比弗罗斯特。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+We had to make our way through this dark maze and find Heimdall. He, the god of sun and daylight, watched over the path to the gods across the bridge of Bifrost. Only the sound of his mighty horn could show us the way to Asgard. 
+
+At least, that was what the ancient myths and legends claimed ...
+ 
+
+Find Heimdall and cross the bridge of Bifrost.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -157,6 +200,13 @@ Finde Heimdall und überquere die Brücke Bifrost.
 在海尔统治领域的深处，我们找到了海姆达尔的安全港湾。此地没有狼人、蛇人与幽灵战士的侵扰，我们甚至或许能暂居于此，安顿下来，生产新的食物与原料……
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+HEIMDALL'S HAVEN
+
+Deep within Hel's realm we found Heimdall's haven. This place was free of Werewolf, Serpent and Ghost Warriors, and we might even be able to settle here for the moment to produce new food and resources ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 HEIMDALLS SICHERER HAFEN
@@ -173,6 +223,13 @@ Tief im Inneren des Reiches der Hel fanden wir Heimdalls sicheren Hafen. Dieser 
 
 已故维京人的魂魄，似乎附在了这些战士空洞的躯壳之中。我们并不愿与同族同胞的士兵为敌，可一旦过于靠近，他们便不会给我们别的选择！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+GHOST WARRIORS
+
+The souls of deceased Vikings seemed to dwell in these shells of warriors. We did not like the idea of fighting against soldiers from our own people, but if we got too close to them, we would have no choice!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -192,6 +249,15 @@ Die Seelen verstorbener Wikinger schienen in diesen leeren Hüllen der Krieger z
 
 在这里，在海尔之国，那场灾祸再度无处不在，我们不得不再次面对它……
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+SERPENT WARRIORS 
+
+Although we had managed to defeat the serpent plague in the human world, our request to the genie seemed to have no effect whatsoever down here. 
+
+Here in Hel's realm, the plague was omnipresent, so we had to face it once again ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -213,6 +279,15 @@ Hier, in Hel's Reich, war diese Plage wieder allgegenwärtig und wir mussten uns
 
 此处狼人战士再度横行，我们唯有再次迎战……
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+WEREWOLF WARRIORS
+
+We thought we had defeated the wolf plague by reforging the Fenris chain and putting it around the demon wolf's neck, but this heroic deed seemed to have no effect in Hel's realm. 
+
+Here the Werewolf Warriors were omnipresent, so we had to face them once again ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -241,6 +316,22 @@ Hier waren die Werwolfskrieger wieder allgegenwärtig und wir mussten uns ihnen 
 
 此外，他提议我们可交纳贡品来雇佣英雄。这对我们而言，着实是桩划算的买卖……
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+HEIMDALL
+
+Deep inside Hel's realm we found Heimdall's stronghold. In front of the bridge stood a hunchbacked, mysterious old man. He introduced himself as Heimdall and stopped us.
+
+"Halt, travellers! I have been expecting you," he said. "Don't move another step! Those who want to cross the bridge of Bifrost will have to free the world of all evil creatures or bring me my sword and my armour, so that I can venture forth against these dangers myself. 
+You will also not be allowed to cross until you have brought me my horn! The horn alone can show you the way to Asgard, but only I have the power to blow it, so don't dare to try and use it yourselves! 
+
+I keep my horn locked in a chamber in the western mountains."
+
+"So bring me my armour and my sword or defeat all the creatures. But in any case, bring me my mighty horn!"
+
+He also offered to let us hire heroes in return for a tribute. It could be worth our while ... 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -271,6 +362,16 @@ Weiterhin bot er uns an, dass wir gegen einen Tribut Helden anheuern könnten. D
 若你的维京人需要更多英雄，请向海姆达尔交纳所索之贡品。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+In front of the bridge, Heimdall gave us 3 heroes as mercenaries and offered us even more reinforcements. 
+
+But what was that? These heroes looked like us!
+Heimdall must have incredible magic powers in order to create such Ghost Warriors!
+
+Pay Heimdall the required tribute for additional heroes if your Vikings need them.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Heimdall stellte uns 3 Helden als Söldner vor der Brücke zur Verfügung und bot uns noch mehr Verstärkung an. 
@@ -293,6 +394,15 @@ Zahle Heimdall den geforderten Tribut für weitere Helden, sofern deine Wikinger
 "所以，将我的甲与斧送来，要么就剿灭所有邪物！"
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+HEIMDALL
+
+Don't move another step! Those who want to cross the bridge of Bifrost will have to free the world of all evil creatures or bring me my sword and my armour. Otherwise you will not be allowed to go across. I see you have already found my horn."
+
+"So bring me my armour and my axe or defeat all the creatures!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 HEIMDALL
@@ -312,6 +422,13 @@ Wagt euch keinen Schritt weiter! Wer über die Brücke Bifrost will, muss diese 
 你已拾取海姆达尔之角！
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+HEIMDALL'S HORN
+
+You have picked up Heimdall's horn! 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 HEIMDALLS HORN
@@ -330,6 +447,15 @@ Du hast Heimdalls Horn aufgenommen!
 
 解开机关之门，将我的号角取来！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+"You have fought well and brought me the requested arms, but are you as wise as you are brave? Your last task is to bring me my horn that will show you the way to Asgard. Only I have the power to blow it, so don't dare to use it yourselves! 
+
+I keep my horn locked in a chamber in the mountains." 
+
+Solve the riddle to open the door, and bring me my horn! 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -352,6 +478,17 @@ Löst das Rätsel zum Öffnen der Tür und bringt mir mein Horn!
         <text>
 是逞勇还是鲁莽？比雅尼陨落之时，诸神亦为之落泪……少了这位英雄，你便无缘得知此役的结局。
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -377,6 +514,18 @@ Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen 
 
 可骤然间，寒气袭来。刺骨冰寒……
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+HEIMDALL
+
+"You have fought well and proved that you are worthy of crossing the bridge! Now go, but don't look back," Heimdall said. Then he began to blow his horn. 
+
+Although everything seemed to be running smoothly, I had a strange feeling in my stomach and a shiver was running down my spine. I felt we were in terrible danger. But as we could not actually detect anything unusual, we bravely set foot on the bridge of Bifrost. 
+
+
+But suddenly it turned cold. ICY cold ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -404,6 +553,17 @@ Doch auf einmal wurde es kalt. EISIG kalt...
 莫非我们自始至终都被他蒙骗？他是否另怀隐秘诡诈之心，而我们一路不过是被他当作帮凶与工具？那冷酷恶毒的笑声在我脑中挥之不去，我不祥的预感渐生……
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+YKOL
+
+"Ha, ha, ha ...!"
+With a malicious laugh Ykol disappeared, leaving the three of us behind. 
+What was the matter with Ykol? Why was he behaving in such a strange way? What was he up to? Did he know something about this place that he had not told us? If so, why had he kept his knowledge secret?
+
+Or had he been fooling us all the time? Had he made his own secret, deceitful plot and only used us as a means to carry it out? I couldn't forget the malicious, evil sound of his laughter. I had the strangest feeling something was about to happen ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 YKOL
@@ -426,6 +586,14 @@ Oder hatten wir uns gar die ganze Zeit von ihm täuschen lassen? Hatte er einen 
 我们是否该留下一名部众，看守这开关？
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+When we activated the switch, we heard a metallic clank. However, this switch did not seem to be able to open a gate alone! 
+There must be another one somewhere that would operate the lock TOGETHER with this switch here! 
+
+Should we leave one of our men behind to guard the switch?
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Als wir den Schalter betätigten, hörten wir ein metallisches Geräusch. Dieser Schalter schien aber nicht auszureichen, um ein Tor zu öffnen! 
@@ -442,6 +610,11 @@ Sollten wir einen unserer Männer zurücklassen, um den Schalter zu bewachen?
 我们扳动开关时，听到一声响亮的金属轰鸣。这开关必是与不远处另一处开关合力，开启了一扇大门！
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+When we activated the switch, we heard a loud metallic clank. Together with another one, this switch must have opened a large gate somewhere nearby!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Als wir den Schalter betätigten, hörten wir ein lautes metallisches Geräusch. Dieser Schalter musste gemeinsam mit einen anderen Schalter an einer Stelle, nicht fern von hier, ein großes Tor geöffnet haben!
@@ -455,6 +628,11 @@ Als wir den Schalter betätigten, hörten wir ein lautes metallisches Geräusch.
 我们扳动开关时，听到一声响亮的金属轰鸣。这开关必是在不远处开启了一扇大门！
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+When we activated the switch, we heard a loud metallic clank. This switch must have opened a large gate somewhere nearby!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Als wir den Schalter betätigten, hörten wir ein lautes metallisches Geräusch. Dieser Schalter musste an einer Stelle, nicht fern von hier, ein großes Tor geöffnet haben!
@@ -467,6 +645,11 @@ Als wir den Schalter betätigten, hörten wir ein lautes metallisches Geräusch.
 
 我们扳动开关时，听到一声响亮的金属轰鸣。这开关必是在不远处开启了一扇大门！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+When we activated the switch, we heard a loud metallic clank. This switch must have opened a large gate somewhere nearby!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -482,6 +665,13 @@ Als wir den Schalter betätigten, hörten wir ein lautes metallisches Geräusch.
 
 我们在此地寻得一角。这莫非便是能开启阿斯加德之路的海姆达尔之角？我们定要查明。但显然，唯有接下海姆达尔之命，方能拾取此角！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+HEIMDALL'S HORN
+
+We found a horn. Could this be Heimdall's horn? The one he could use to open the way to Asgard? We would surely find out. However, it was clear that we could only pick up the horn on Heimdall's orders!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -501,6 +691,15 @@ An diesem Platz fanden wir ein Horn. Sollte das Heimdalls Horn sein, mit dem er 
 
 海姆达尔能否用它，且待将来分晓！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+HEIMDALL'S ARMOUR
+
+We found armour with the following inscription: "Heimdall's skin to drive out all evil." 
+
+The future would show whether Heimdall was able to use it!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -522,6 +721,14 @@ Ob Heimdall sie einsetzen konnte, sollte die Zukunft zeigen!
 海姆达尔能否用它，且待将来分晓！
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+HEIMDALL'S AXE
+
+We found an axe with the following inscription: "Heimdall's blade to drive out all evil." 
+The future would show whether Heimdall was able to use it!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 HEIMDALLS AXT
@@ -538,6 +745,11 @@ Ob Heimdall sie einsetzen konnte, sollte die Zukunft zeigen!
 我们已达成目标，此刻当返回海姆达尔处。此刻他将为我们在他那威力无穷的号角中吹响，为我们开启阿斯加德之路。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+We had completed our task and were now ready to return to Heimdall. He would blow his mighty horn for us to open the way to Asgard. 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Wir hatten unser Ziel erfüllt und sollten nun zurück zu Heimdall gehen. Nun würde er für uns sein mächtiges Horn blasen, um uns den Weg nach Asgard zu öffnen. 
@@ -552,6 +764,13 @@ Wir hatten unser Ziel erfüllt und sollten nun zurück zu Heimdall gehen. Nun w�
 
 你已拾取海姆达尔之甲！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+HEIMDALL'S ARMOUR
+
+You have picked up Heimdall's armour! 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -569,6 +788,13 @@ Du hast Heimdalls Rüstung aufgenommen!
 
 你已拾取海姆达尔之斧！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+HEIMDALL'S AXE
+
+You have picked up Heimdall's axe! 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -589,6 +815,17 @@ Du hast Heimdalls Axt aufgenommen!
         <text>
 生命里片刻的轻率，便致此般后果！你的挚友与英雄哈奇，因你的疏忽而殒命！少了这位英雄，你便无缘得知此役的结局。
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!  
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -614,6 +851,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 生命里片刻的轻率，便致此般后果！你的挚友与英雄西格德，因你的疏忽而殒命！少了这位英雄，你便无缘得知此役的结局。
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Sigurd died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -638,6 +886,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 生命里片刻的轻率，便致此般后果！伊科尔因你的疏忽而殒命！少了这位英雄，你便无缘得知此役的结局。
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Ykol died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -657,6 +916,11 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Ykol erlag dur
 海姆达尔吹响号角，彩虹桥比弗罗斯特为我们开启，通往阿斯加德之路就此铺展。然而踏上此桥时，一阵轻微的寒颤掠过我们周身。此地，似有哪里不对……
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+When Heimdall blew his horn, the bridge of Bifrost opened the way to Asgard. However, when we crossed the bridge of Bifrost we felt a slight shiver down our spines. Something was not right ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Als Heimdall in sein Horn blies, öffnete sich die Brücke Bifrost für uns und somit der Weg nach Asgard. Doch beim Überschreiten der Brücke Bifrost überkam uns ein leichter Schauer. Irgendetwas stimmte hier nicht...
@@ -670,6 +934,11 @@ Als Heimdall in sein Horn blies, öffnete sich die Brücke Bifrost für uns und 
 刹那之间，一场浩大的冰风暴在我们身后骤然爆发，将所有一切冻结。我们几经艰难，才踏入一个冰冷、坚硬而惨白刺目的世界。这怎么可能发生？我们究竟做错了什么？
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+Suddenly, an enormous ice storm broke out and froze everything around us. Only with great difficulty were we able to reach a cold, hard and bright white world. How could this happen? What had we done wrong? 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Von einem Moment zum nächsten brach hinter uns plötzlich ein gewaltiger Eissturm los und lies alles gefrieren. Nur mit viel Mühe gelangten wir in eine kalte, harte und grellweiße Welt. Wie konnte das geschehen? Was hatten wir falsch gemacht? 
@@ -681,6 +950,12 @@ Von einem Moment zum nächsten brach hinter uns plötzlich ein gewaltiger Eisstu
         <text>
 任务成功！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+
+MISSION COMPLETED! 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -694,6 +969,12 @@ MISSION GEWONNEN!
         <text>
 海尔之国
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+
+HEL'S REALM
+</text>
       </lang>
       <lang code="ger">
         <text> 

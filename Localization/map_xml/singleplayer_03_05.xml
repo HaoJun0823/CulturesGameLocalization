@@ -1,87 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="singleplayer_03_05" export_map_id="singleplayer_03_05" map_md5="934084236b91fc8967531876506afb22" IsC2M="false">
+<localization version="1.3" map_id="singleplayer_03_05" export_map_id="singleplayer_03_05" map_md5="934084236b91fc8967531876506afb22" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="1">
       <text lang="CHN">寻找肥沃的土地，以建立你的粮食供给。</text>
+      <text lang="eng">Find fertile soil so you can establish a food supply.</text>
       <text lang="ger">Suche fruchtbaren Boden, um deine Nahrungsversorgung aufbauen zu können.</text>
     </string>
     <string id="2">
       <text lang="CHN">建立一座崭新的文明。随心所欲，玩多久都行。</text>
+      <text lang="eng">Establish a new civilization. Play as you like for as long as you want.</text>
       <text lang="ger">Baue eine neue Zivilisation auf. Spiele, solange du willst und wie du willst.</text>
     </string>
     <string id="3">
       <text lang="CHN">向沙漠部族缴纳贡金，使其保持中立。</text>
+      <text lang="eng">Pay the tribute to the desert people to make them neutral.</text>
       <text lang="ger">Zahle den Tribut an das Wüstenvolk, um es neutral zu stimmen.</text>
     </string>
     <string id="4">
       <text lang="CHN">向沙漠部族缴纳贡金，使其对你友善，并得以与之贸易。</text>
+      <text lang="eng">Pay the tribute to the desert people to make them friendly, so you can trade with them.</text>
       <text lang="ger">Zahle den Tribut an das Wüstenvolk, um es freundlich zu stimmen und mit ihm handeln zu können.</text>
     </string>
     <string id="5">
       <text lang="CHN">尽快稳固你的粮食供给。</text>
+      <text lang="eng">Secure your food supply as quickly as possible.</text>
       <text lang="ger">Sichere so schnell wie möglich deine Nahrungsversorgung.</text>
     </string>
     <string id="30">
       <text lang="CHN">支付下列代价，以达成和平外交：</text>
+      <text lang="eng">Pay the following price for peaceful diplomacy:</text>
       <text lang="ger">Zahle den folgenden Preis für eine friedliche Diplomatie:</text>
     </string>
     <string id="31">
       <text lang="CHN">支付下列代价，以建立友好的贸易关系：</text>
+      <text lang="eng">Pay the following price for friendly trade relations:</text>
       <text lang="ger">Zahle den folgenden Preis für eine freundliche Handelsbeziehung:</text>
     </string>
     <string id="50">
       <text lang="CHN">维京人</text>
+      <text lang="eng">Vikings</text>
       <text lang="ger">Wikinger</text>
     </string>
     <string id="51">
       <text lang="CHN">印蒂瓦塔纳</text>
+      <text lang="eng">Intihuatana</text>
       <text lang="ger">Intihuatana</text>
     </string>
     <string id="52">
       <text lang="CHN">盗墓贼</text>
+      <text lang="eng">Grave Robbers</text>
       <text lang="ger">Grabräuber</text>
     </string>
     <string id="53">
       <text lang="CHN">商人</text>
+      <text lang="eng">Merchants</text>
       <text lang="ger">Händler</text>
     </string>
     <string id="54">
       <text lang="CHN">维京人</text>
+      <text lang="eng">Viki.</text>
       <text lang="ger">Wikinger</text>
     </string>
     <string id="55">
       <text lang="CHN">印蒂</text>
+      <text lang="eng">Intih.</text>
       <text lang="ger">Intih.</text>
     </string>
     <string id="56">
       <text lang="CHN">盗匪</text>
+      <text lang="eng">Robb.</text>
       <text lang="ger">Räuber</text>
     </string>
     <string id="57">
       <text lang="CHN">商人</text>
+      <text lang="eng">Merch.</text>
       <text lang="ger">Händler</text>
     </string>
     <string id="98">
       <text lang="CHN">一支维京人远征队在沙漠中寻找沃土，却邂逅了一座奇异的沙漠之城……</text>
+      <text lang="eng">A Viking expedition is searching the desert for fertile soil when it encounters a strange desert city ...</text>
       <text lang="ger">Eine Expedition der Wikinger ist in der Wüste auf der Suche nach fruchtbarem Boden, als sie auf eine fremdartige Wüstenstadt trifft...</text>
     </string>
     <string id="99">
       <text lang="CHN">印蒂瓦塔纳</text>
+      <text lang="eng">INTIHUATANA</text>
       <text lang="ger">INTIHUATANA</text>
     </string>
   </strings>
   <briefings>
     <block id="00">
       <lang code="CHN">
-                <text>
+        <text>
 历经漫长而饱经艰辛的沙漠跋涉，你的维京人终于抵达这荒凉之地。他们显然已迷失方向，而无望之中，所求的目标必在此处某方--一处肥沃青翠的绿洲，宜居之所。
 
 至少此地有些有用的宝箱……维京人便想先在此恢复体力，再继续寻找那应许之地……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+After a long trek full of privation through the desert, the Vikings finally reached this bleak spot. They were obviously hopelessly lost, even though their intended destination had to be nearby - a fertile, green oasis where they could live happily.
+
+At least there were useful treasure chests in this place ... The Vikings decided to recover their strength here before they continued their search for the promised land ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -93,7 +118,7 @@ Wenigstens gab es an diesem Ort nützliche Schatztruhen... Hier wollten die Wiki
     </block>
     <block id="01">
       <lang code="CHN">
-                <text>
+        <text>
 绿洲
 
 维京人眼前终于铺展出寻觅已久的绿洲。在这片本无生机的土地上，万物竞绿争荣。
@@ -106,6 +131,22 @@ Wenigstens gab es an diesem Ort nützliche Schatztruhen... Hier wollten die Wiki
 你的行囊中装着几封有用的书信，可助你稍减前行之难……
 一旦粮食无忧，你便随心所欲地游玩--此任务并无特定的胜利目标。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE OASIS
+
+At last the oasis appeared before the Vikings.
+It was a green and blossoming spot in the middle of this bleak country.
+
+They decided to stay here and set up camp. However, they had to be quick about producing something to eat, for food was in short supply - and hunger was a bad friend ...
+
+
+NOTE:
+You have a few useful papers among your luggage that should help you along ... 
+Once you have secured the food supply, you can continue playing as you like - there is no victory objective in this mission.
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -126,7 +167,7 @@ Wenn die Nahrungsversorgung gesichert ist, kannst du spielen wie du magst - es g
     </block>
     <block id="02">
       <lang code="CHN">
-                <text>
+        <text>
 沙漠部族
 
 “外乡人，你们在我族之地寻觅什么？此地是印蒂瓦塔纳，太阳被系缚之处！！！
@@ -138,6 +179,20 @@ Wenn die Nahrungsversorgung gesichert ist, kannst du spielen wie du magst - es g
 提示：
 缴纳些许贡金，必能令这部族信服你的赤诚--说不定两族终有一日还能成为朋友？！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE DESERT PEOPLE
+
+"What are you doing in our country, strangers? This is Intihuatana, the mooring place of the sun!
+
+Leave now, we do not trust strangers. Have you come to raid our tombs? If so - be warned that we will stop you!"
+
+
+NOTE:
+You will surely be able to convince this tribe of your honesty by paying a small tribute - maybe your tribe and this one will even become friends someday!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -156,13 +211,23 @@ Mit der Zahlung eines kleinen Tributs kannst du diesen Stamm bestimmt von deiner
     </block>
     <block id="03">
       <lang code="CHN">
-                <text>
+        <text>
 和平
 
 维京人献上珍贵的礼物，令沙漠之民信其来意诚恳！然仍有几名疑者，阻挠友好同盟的建立。
 
 再纳一笔贡金，他们定也会平息--如此便无碍于一纸贸易协定了……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+PEACE
+
+The Vikings had given the desert people a valuable present, and this convinced them of their honesty! However, some of the desert dwellers still doubted them and prevented the conclusion of a friendly alliance. 
+
+A further tribute was bound to appease them - and eliminate the last obstacles to a trade agreement ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -177,11 +242,19 @@ Durch einen weiteren Tribut würden aber auch sie sich bestimmt beruhigen - so d
     </block>
     <block id="04">
       <lang code="CHN">
-                <text>
+        <text>
 贸易提议
 
 “我们欣喜地欢迎你们成为可敬的邻人！自此我们将与你们贸易，并奉上公道的价格！”
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+TRADE OFFER
+
+"We are happy to welcome you as our honoured neighbours! From now on, we will trade with you and offer you good prices!"
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -194,15 +267,29 @@ HANDELSANGEBOT
     </block>
     <block id="05">
       <lang code="CHN">
-                <text>
+        <text>
 求救
 
 “救命！我们最伟大君王的长眠之地正遭盗墓贼袭击！
         </text>
         <usericon>1,163,446</usericon>
-                <text>
+        <text>
 我们独力难守此地黄泉……难道竟无人有能力、有意愿将盗匪逐出我们的圣所？”
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+CALL FOR HELP
+
+"Help! The final resting place of our greatest king is under attack by grave robbers!
+
+</text>
+        <usericon>1,163,446</usericon>
+        <text>
+
+We can't defend this place alone ... Is there no one able and willing to drive the robbers from our holy shrine?"
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -221,13 +308,23 @@ Wir können diesen Ort alleine nicht verteidigen... Ist denn niemand fähig und 
     </block>
     <block id="06">
       <lang code="CHN">
-                <text>
+        <text>
 盗墓贼
 
 “此地的珍宝如今归我们了！
 
 滚开，否则叫你们尝尝恐惧的滋味！”
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+GRAVE ROBBERS
+
+"The treasures of this place are now ours! 
+
+Be gone, or will we teach you the meaning of fear!"
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -242,11 +339,19 @@ Verschwindet, oder wir werden euch das Fürchten lehren!"
     </block>
     <block id="07">
       <lang code="CHN">
-                <text>
+        <text>
 盗墓贼败北
 
 盗墓贼已被击溃。维京人在印蒂瓦塔纳备受礼赞……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+GRAVE ROBBERS' DEFEAT
+
+The grave robbers had been defeated. The Vikings were celebrated gratefully in Intihuatana ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -259,11 +364,19 @@ Die Grabräuber waren geschlagen. Dankbar wurden die Wikinger in Intihuatana gef
     </block>
     <block id="08">
       <lang code="CHN">
-                <text>
+        <text>
 商人
 
 “欢迎来到这贸易与营生之所！我们是与人为善的邻人，你们的珍宝尽可在此交易！”
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+MERCHANT
+
+"Welcome to this place of trade and exchange! We are peaceful neighbours, and you may purchase our treasures!"
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -276,13 +389,23 @@ HÄNDLER
     </block>
     <block id="09">
       <lang code="CHN">
-                <text>
+        <text>
 商人殒命
 
 你的维京人为何要杀害这些无害的商人？
 
 那么，此地便再无贸易的可能了！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+MERCHANT DIED
+
+Why did your Vikings kill the harmless merchant?
+
+Well, that puts a stop to all trade opportunities!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -297,13 +420,23 @@ Nun, dann gibt es hier eben keine Möglichkeit zum Handel mehr!
     </block>
     <block id="10">
       <lang code="CHN">
-                <text>
+        <text>
 沙漠部族覆灭
 
 维京人灭绝了沙漠部族！那些人本只是多疑，必能被晓以公理……
 
 可你偏选了征战之道！奥丁岂会悦纳？
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+DESERT PEOPLE DESTROYED
+
+The Vikings have destroyed the desert tribe, though these people were only wary and could almost certainly have been persuaded ... 
+
+But you have decided on the way of war! It is doubtful whether Odin will be pleased ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -318,9 +451,15 @@ Doch du hast dich für den Weg des Krieges entschieden! Ob Odin das gefallen wir
     </block>
     <block id="11">
       <lang code="CHN">
-                <text>
+        <text>
 维京人已离此世而去！这便如此终结了此番任务！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+The Vikings have left this world! So then must this mission end!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -331,11 +470,19 @@ Die Wikinger haben diese Welt verlassen! So also muss nun diese Mission enden!
     </block>
     <block id="12">
       <lang code="CHN">
-                <text>
+        <text>
 印蒂瓦塔纳之宝藏
 
 盗墓贼已被击溃。他们的遗泽--印蒂瓦塔纳之宝藏--如今归维京人所有！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE TREASURE OF THE INTIHUATANA
+
+The grave robbers have been defeated. Their legacy - the treasure of the Intihuatana - now belongs to the Vikings!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -348,9 +495,15 @@ Die Grabräuber sind geschlagen. Ihr Vermächtnis - der Schatz der Intihuatana -
     </block>
     <block id="13">
       <lang code="CHN">
-                <text>
+        <text>
 盗墓贼已被击溃。可这安宁之地，如今归谁所属？
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+The grave robbers have been defeated. But who may now claim this place of peace?
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -361,7 +514,7 @@ Die Grabräuber sind geschlagen. Doch wem gehört nun diese Stätte der Ruhe?
     </block>
     <block id="14">
       <lang code="CHN">
-                <text>
+        <text>
 沙漠部族
 
 “外乡人，欢迎来到我族之地。此地是印蒂瓦塔纳，太阳被系缚之处！
@@ -370,6 +523,18 @@ Die Grabräuber sind geschlagen. Doch wem gehört nun diese Stätte der Ruhe?
 
 我们为此义举致谢，并向你们敞开贸易之家！你与你的商人，在此永受欢迎！”
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE DESERT PEOPLE
+
+"We welcome you to our land, strangers. This is Intihuatana, the mooring place of the sun!
+
+Aren't you the ones who warded off the cowardly attack of the grave robbers? 
+
+We thank you for your deeds and will open our trade posts to you! You and your merchants will always be welcomed here!"
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -386,13 +551,23 @@ Wir danken euch für diese Tat und öffnen euch unsere Handelshäuser! Ihr und e
     </block>
     <block id="15">
       <lang code="CHN">
-                <text>
+        <text>
 沙漠部族覆灭
 
 维京人灭绝了沙漠部族！那些人本已向你献上友谊……
 
 可你偏选了征战之道！奥丁岂会悦纳？
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+DESERT PEOPLE DESTROYED
+
+The Vikings have eliminated the desert tribe, even though these people had offered them friendship ... 
+
+But you have decided on the way of war! It is doubtful whether Odin will be pleased ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -407,9 +582,16 @@ Doch du hast dich für den Weg des Krieges entschieden! Ob Odin das gefallen wir
     </block>
     <block id="header">
       <lang code="CHN">
-                <text>
+        <text>
 印蒂瓦塔纳
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+INTIHUATANA
+
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -421,9 +603,15 @@ INTIHUATANA
     </block>
     <block id="lost">
       <lang code="CHN">
-                <text>
+        <text>
 任务失败！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+MISSION FAILED!
+</text>
       </lang>
       <lang code="ger">
         <text>

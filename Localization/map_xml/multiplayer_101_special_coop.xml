@@ -1,83 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="multiplayer_101_special_coop" export_map_id="multiplayer_101_special_coop" map_md5="c0dbd5361d546a11c8da8e6e284f4907" IsC2M="false">
+<localization version="1.3" map_id="multiplayer_101_special_coop" export_map_id="multiplayer_101_special_coop" map_md5="c0dbd5361d546a11c8da8e6e284f4907" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">合作：黑暗城堡</text>
+      <text lang="eng">CO-OP: THE DARK CASTLE</text>
       <text lang="ger">COOP: DIE DUNKLE BURG</text>
     </string>
     <string id="1">
       <text lang="CHN">4 个维京部族及其盟友，共同对抗黑暗城堡的爪牙。</text>
+      <text lang="eng">4 Viking tribes and their allies fight the henchmen of the sinister castle.</text>
       <text lang="ger">4 Wikingerstämme und deren Verbündete kämpfen gegen die Schergen der finsteren Burg.</text>
     </string>
     <string id="2">
       <text lang="CHN">寻找盟友，摧毁黑暗城堡，将维京人从压迫者手中解放！</text>
+      <text lang="eng">Find allies and destroy the castle to free the Vikings from their oppressors!</text>
       <text lang="ger">Suche dir Verbündete und zerstöre die dunkle Burg, um die Wikinger von ihren Unterdrückern zu befreien!</text>
     </string>
     <string id="10">
       <text lang="CHN">格陵兰人</text>
+      <text lang="eng">Grasslanders</text>
       <text lang="ger">Grünländer</text>
     </string>
     <string id="11">
       <text lang="CHN">格陵</text>
+      <text lang="eng">Grass</text>
       <text lang="ger">Grün</text>
     </string>
     <string id="20">
       <text lang="CHN">文兰人</text>
+      <text lang="eng">Vinlanders</text>
       <text lang="ger">Vinländer</text>
     </string>
     <string id="21">
       <text lang="CHN">文兰</text>
+      <text lang="eng">Vin</text>
       <text lang="ger">Vin</text>
     </string>
     <string id="30">
       <text lang="CHN">海卢兰人</text>
+      <text lang="eng">Hellulanders</text>
       <text lang="ger">Helluländer</text>
     </string>
     <string id="31">
       <text lang="CHN">海卢</text>
+      <text lang="eng">Hellu</text>
       <text lang="ger">Hellu</text>
     </string>
     <string id="40">
       <text lang="CHN">马克兰人</text>
+      <text lang="eng">Marklanders</text>
       <text lang="ger">Markländer</text>
     </string>
     <string id="41">
       <text lang="CHN">马克</text>
+      <text lang="eng">Mark</text>
       <text lang="ger">Mark</text>
     </string>
     <string id="50">
       <text lang="CHN">普拉特兰人</text>
+      <text lang="eng">Flatlanders</text>
       <text lang="ger">Plattländer</text>
     </string>
     <string id="51">
       <text lang="CHN">普拉特</text>
+      <text lang="eng">Flat</text>
       <text lang="ger">Platt</text>
     </string>
     <string id="60">
       <text lang="CHN">高地人</text>
+      <text lang="eng">Highlanders</text>
       <text lang="ger">Highländer</text>
     </string>
     <string id="61">
       <text lang="CHN">高地</text>
+      <text lang="eng">High</text>
       <text lang="ger">High</text>
     </string>
     <string id="70">
       <text lang="CHN">暗境人</text>
+      <text lang="eng">Darklanders</text>
       <text lang="ger">Dunkelländer</text>
     </string>
     <string id="71">
       <text lang="CHN">暗境</text>
+      <text lang="eng">Dark</text>
       <text lang="ger">Dunkel</text>
     </string>
   </strings>
   <briefings>
     <block id="begin_00">
       <lang code="CHN">
-                <text>
+        <text>
 对维京人而言，这是个暗无天日的年代……
 
 这片土地上还有其他部族，也深受其苦。
@@ -86,6 +104,19 @@
 
 给勇敢战士的一点提示：你行囊中已备有几封书信。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+These are dark times for the Vikings ... 
+The land is terrorised by a central castle and its inhabitants - there is no escape.
+
+But there are other tribes in the land who share this problem with you! Find them, they may be willing to trade vital goods. 
+You should not consider attacking the castle unless you are helped by a powerful partner; or, best of all, by everyone you can find!
+
+To transfer some Vikings to your partner, send them to that tribe's holy flame. Have your people enter the magic fire-circle, and they will follow your partner's orders in future - because they now belong to that tribe!
+
+A note for brave warriors: There are some house permits in your possession. Use them quickly and wisely!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -103,13 +134,23 @@ Ein Hinweis an den tapferen Krieger: Es befinden sich einige Briefe für Gebäud
     </block>
     <block id="begin_01">
       <lang code="CHN">
-                <text>
+        <text>
 恭喜！
 
 黑暗城堡已被攻陷！
 
 如今和平可期，并肩作战的部族们终得安享宁静。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+CONGRATULATIONS!
+
+The dark castle has fallen! 
+
+Peace has been restored, and the tribes which fought side by side are able to establish excellent relations now!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -124,9 +165,16 @@ Nun kann Frieden einziehen, und die Stämme, die Seite an Seite gekämpft haben,
     </block>
     <block id="header">
       <lang code="CHN">
-                <text>
+        <text>
 黑暗城堡
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE DARK CASTLE
+
+</text>
       </lang>
       <lang code="ger">
         <text>

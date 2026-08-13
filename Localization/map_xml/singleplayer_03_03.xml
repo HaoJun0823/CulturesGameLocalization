@@ -1,79 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="singleplayer_03_03" export_map_id="singleplayer_03_03" map_md5="06d264971a2b5acf3f57cf51e72a7d5d" IsC2M="false">
+<localization version="1.3" map_id="singleplayer_03_03" export_map_id="singleplayer_03_03" map_md5="06d264971a2b5acf3f57cf51e72a7d5d" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="1">
       <text lang="CHN">探索东部的山区。</text>
+      <text lang="eng">Explore the mountains to the east.</text>
       <text lang="ger">Erforsche das Gebirge im Osten.</text>
     </string>
     <string id="2">
       <text lang="CHN">消灭北部森林中狼群带来的威胁。</text>
+      <text lang="eng">Eliminate the threat of the wolves in the northern forest.</text>
       <text lang="ger">Vernichte die Bedrohung durch die Wölfe im nördlichen Wald.</text>
     </string>
     <string id="3">
       <text lang="CHN">若你不愿战斗，可在饲料坑中填满 100 份食物。</text>
+      <text lang="eng">If you do not want to fight, fill the feeding ground with 100 food.</text>
       <text lang="ger">Wenn du nicht kämpfen möchtest, fülle die Futterstelle mit 100 Nahrung.</text>
     </string>
     <string id="4">
       <text lang="CHN">远离饲料坑。</text>
+      <text lang="eng">Leave the feeding ground.</text>
       <text lang="ger">Entferne dich von der Futterstelle.</text>
     </string>
     <string id="5">
       <text lang="CHN">饲料坑中的食物：%d / 100</text>
+      <text lang="eng">Food in the feeding ground: %d / 100</text>
       <text lang="ger">Nahrung in Futtergrube: %d / 100</text>
     </string>
     <string id="50">
       <text lang="CHN">维京人</text>
+      <text lang="eng">Vikings</text>
       <text lang="ger">Wikinger</text>
     </string>
     <string id="51">
       <text lang="CHN">山地村</text>
+      <text lang="eng">Mountain Village</text>
       <text lang="ger">Bergdorf</text>
     </string>
     <string id="52">
       <text lang="CHN">狼群</text>
+      <text lang="eng">Wolf Pack</text>
       <text lang="ger">Wolfsrudel</text>
     </string>
     <string id="53">
       <text lang="CHN">维京人</text>
+      <text lang="eng">Vikings</text>
       <text lang="ger">Wikinger</text>
     </string>
     <string id="54">
       <text lang="CHN">山地村</text>
+      <text lang="eng">Mountain Village</text>
       <text lang="ger">Bergdorf</text>
     </string>
     <string id="55">
       <text lang="CHN">狼群</text>
+      <text lang="eng">Wolf Pack</text>
       <text lang="ger">Wolfsrudel</text>
     </string>
     <string id="56">
       <text lang="CHN">商人</text>
+      <text lang="eng">Merchant</text>
       <text lang="ger">Händler</text>
     </string>
     <string id="57">
       <text lang="CHN">商人</text>
+      <text lang="eng">Merchant</text>
       <text lang="ger">Händler</text>
     </string>
     <string id="98">
       <text lang="CHN">帮助一支被逐出家园的部族重返故土。</text>
+      <text lang="eng">Enable an expelled tribe to return home.</text>
       <text lang="ger">Ermögliche einem aus seiner Heimat vertriebenen Stamm die Rückkehr.</text>
     </string>
     <string id="99">
       <text lang="CHN">被逐的森林之民</text>
+      <text lang="eng">THE EXPELLED FOREST PEOPLE</text>
       <text lang="ger">DAS VERTRIEBENE WALDVOLK</text>
     </string>
   </strings>
   <briefings>
     <block id="00">
       <lang code="CHN">
-                <text>
+        <text>
 在我们的探索之旅中，我们登陆一处海湾，不远处矗立着一座巍峨的巨山。这里拥有定居所需的一切，而山体内部想必还藏着无数珍宝与矿藏。
 
 一旦安顿好口粮，我们便想动身前往东部的群山……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+On our exploration, we landed at an ocean bay not far from huge mountains. Here we found everything we needed for settling, and we assumed that there were many treasures and resources in the heart of the mountains. 
+
+As soon as we had ensured food supplies, we wanted to leave for the mountain in the east ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -85,7 +108,7 @@ Sobald wir uns um unsere Nahrungsversorgung gekümmert hatten, wollten wir zum B
     </block>
     <block id="01">
       <lang code="CHN">
-                <text>
+        <text>
 最后的一群狼
 
 最后的狼群已被消灭！！！
@@ -96,6 +119,23 @@ Sobald wir uns um unsere Nahrungsversorgung gekümmert hatten, wollten wir zum B
 
 若你愿意，现在便可尝试在林中建起一座运转良好的村庄，并交易所需的物资……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE LAST PACK
+
+The last wolf pack was destroyed!!!
+
+The threat had been eliminated, and we were thanked for our help.
+In the meantime, the forest people's council of elders had decided that the quiet valley of the mountains would provide more protection against further surprises. They wanted to stay there and make a new start.
+
+The land of the forest with all its resources was given us as a present. We were looking forward to a good neighbourhood and lively trade!
+Now we wanted to start settling our new land.
+
+
+You can now try to build a functioning valley in the forest and trade in the necessary goods, if you want to ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -117,10 +157,17 @@ Wenn du möchtest, kannst du nun versuchen, ein funktionierendes Dorf im Wald zu
     </block>
     <block id="02">
       <lang code="CHN">
-                <text>
+        <text>
 你的整个部族都已覆灭！
 没有了你的领导，他们唯有死路一条……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+Your people died! 
+They were doomed without your leadership ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -132,7 +179,7 @@ Ohne deine Führung waren sie des Todes...
     </block>
     <block id="03">
       <lang code="CHN">
-                <text>
+        <text>
 山地村
 
 忽然，我们望见一座宁静山谷里的小村庄。我们本想在此过夜，补充给养。
@@ -145,6 +192,22 @@ Ohne deine Führung waren sie des Todes...
 
 你们能帮我们铲除这威胁吗？”
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE MOUNTAIN VILLAGE
+
+All of a sudden we spotted a small village in an idyllic valley. We wanted to spend the night there and obtain food supplies.
+
+Although we were welcomed in a friendly way, something strange seemed to be happening here. People looked distraught, and the village had apparently been built only recently.
+
+The chieftain explained the situation to us:
+"Not long ago we used to live in the forest and we were hunters. Then suddenly huge wolf packs appeared from everywhere, and our hunters could not get them under control any more as they were too many. 
+When these creatures we call the pack leaders turned up, we had to flee and leave our home village. Now we have ended up here, and we are discussing our future ...
+
+Could you help us and eliminate the threat?" 
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -165,13 +228,23 @@ Könnt ihr uns helfen und die Bedrohung vernichten?"
     </block>
     <block id="04">
       <lang code="CHN">
-                <text>
+        <text>
 我们想帮这些可怜人脱困，于是制定了一个计划。若率充足兵力，本可稳妥制服那些怪物，但兵士须装备精良方可。
 
 我们也未尝不可试试将狼群与狼首分离--用食物把它们诱开……海湾对岸恰有一处合适之地，而走水路便能防范一切威胁！
 
 或许，失了那支狼“大军”的狼首们，会自行远遁吧……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+We wanted to help those poor people and made a plan. We could overpower the creatures if we had a sufficient number of soldiers, who would have to be very well equipped.
+
+We could also try to separate the wolves from their leaders by luring them away with food ... There was a suitable place on the other side of the bay - and taking the sea route, we could avoid any menace! 
+
+Maybe the wolf leaders would try to escape without their "army" of wolves ... 
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -186,9 +259,15 @@ Vielleicht würden die Rudelführer ohne ihre "Armee" von Wölfen ja das Weite s
     </block>
     <block id="05">
       <lang code="CHN">
-                <text>
+        <text>
 我们惊走了七群狼中的一支，连同它们的主人。在一阵嚎叫中，它们被赶走了……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+We had tracked down one of seven wolf packs together with its leaders. The loudly howling pack had been driven away ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -199,13 +278,24 @@ Wir hatten eines von sieben Wolfsrudeln mitsamt ihren Herren aufgestöbert. Mit 
     </block>
     <block id="06">
       <lang code="CHN">
-                <text>
+        <text>
 充足的饲料
 
 我们的“饲料坑”中已囤够诱饵，那香气任哪只狼都难以抗拒……
 
 趁恶狼嗅到我们与饲料之前，我们得快快抽身离开此地！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+ENOUGH FOOD
+
+There was enough food in our "feeding ground" to tempt any wolf with the smell ...
+
+
+We had to get away quickly before the wolves smelt the food - and us!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -221,11 +311,19 @@ Wir mussten uns hier nun schnell aus dem Staube machen, bevor die Wölfe uns und
     </block>
     <block id="07">
       <lang code="CHN">
-                <text>
+        <text>
 进山途中，我们寻得一座小商栈，那里除金铁之外，竟还兜售钱币……
 
 它原是山中某部族的前哨，我们决定立刻前去拜访……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+On the way into the mountains, we found a small trade post, where we were even offered coins, as well as gold and iron ...
+
+It was the outpost of a mountain tribe, which we wanted to visit immediately ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -238,7 +336,7 @@ Es handelte sich um einen Außenposten eines im Gebirge lebenden Stammes, den wi
     </block>
     <block id="08">
       <lang code="CHN">
-                <text>
+        <text>
 撤退
 
 最后的狼首已退去！！！
@@ -249,6 +347,22 @@ Es handelte sich um einen Außenposten eines im Gebirge lebenden Stammes, den wi
 
 若你愿意，现在便可尝试在林中建起一座运转良好的村庄，并交易所需的物资……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+RETREAT
+
+The last wolf leaders had withdrawn!
+
+The threat was eliminated, and we were thanked for our help.
+The forest people's council of elders decided that the quiet valley of the mountains would provide more protection against further surprises. They wanted to stay there and make a new start.
+
+The land of the forest with all its resources was given us as a present. We were looking forward to a good neighbourhood and lively trade!
+Now we wanted to start settling our new land.
+
+You can now try to build a functioning valley in the forest and trade the necessary goods, if you want to ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -269,9 +383,16 @@ Wenn du möchtest, kannst du nun versuchen, ein funktionierendes Dorf im Wald zu
     </block>
     <block id="header">
       <lang code="CHN">
-                <text>
+        <text>
 被逐的森林之民
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE EXPELLED FOREST PEOPLE
+
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -283,9 +404,15 @@ DAS VERTRIEBENE WALDVOLK
     </block>
     <block id="lost">
       <lang code="CHN">
-                <text>
+        <text>
 任务失败！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+MISSION FAILED!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -296,9 +423,15 @@ MISSION VERLOREN!
     </block>
     <block id="won">
       <lang code="CHN">
-                <text>
+        <text>
 任务成功！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+MISSION COMPLETED!
+</text>
       </lang>
       <lang code="ger">
         <text>

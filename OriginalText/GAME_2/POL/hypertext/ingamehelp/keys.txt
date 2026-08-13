@@ -1,0 +1,104 @@
+[blockstart:keys]
+<font:$local$\fonts\fonthead16bld.fnt>
+KONFIGURACJA STEROWANIA
+<font:$local$\fonts\font12.fnt>
+
+<textxstart:40> PPM <textxstart:200> Wydanie rozkazu kontekstowego.
+
+
+<textxstart:40> . <textxstart:200> Wybór kolejnego cywila.
+<textxstart:40> , <textxstart:200> Wybór kolejnego zwiadowcy.
+
+<textxstart:40> b <textxstart:200> Nakazanie wzniesienia budynku.
+<textxstart:40> s <textxstart:200> Nakazanie budowy drogi.
+<textxstart:40> d <textxstart:200> Nakazanie budowy palisady.
+<textxstart:40> SHIFT+d <textxstart:200> Nakazanie budowy bramy w palisadzie.
+
+
+<textxstart:0><block:2> PO WYBRANIU POSTACI
+
+<textxstart:40> c <textxstart:200> Zmiana zawodu postaci.
+<textxstart:40> w <textxstart:200> Przydzielenie domu.
+<textxstart:40> a <textxstart:200> Przydzielenie miejsca pracy.
+
+<textxstart:40> CTRL+PPM
+<textxstart:200> Ustalenie centrum obszaru pracy (dla pracuj¹cych na dworze).
+
+<textxstart:40> SPACJA <textxstart:200> Wyœwietlenie menu.
+
+
+<textxstart:0><block:2> PO WYBRANIU JEDNEJ POSTACI, BUDYNKU I POJAZDU LUB WIÊKSZEJ ICH LICZBY
+
+<textxstart:40> CTRL 0-9 <textxstart:200> Zaznaczenie wszystkich wybranych obiektów jako grupê i nadanie jej numeru.
+
+<textxstart:40> SHIFT 0-9 <textxstart:200> Dodanie wszystkich wybranych obiektów do grupy opatrzonej odpowiednim numerem.
+
+<textxstart:40> 0-9 <textxstart:200> Wybór grupy opatrzonej odpowiednim numerem.
+
+<textxstart:40> CTRL+LPM
+<textxstart:200> Usuniêcie wybranego obiektu z zaznaczenia.
+
+<textxstart:40> SHIFT+LPM
+<textxstart:200> Dodanie wybranego obiektu do zaznaczenia.
+
+<textxstart:40> SPACJA <textxstart:200> Wyœwietlenie menu wybranego obiektu.
+
+
+<textxstart:40> h <textxstart:200> Przejœcie do Kwatery g³ównej.
+
+<textxstart:40> z <textxstart:200> Zmiana powiêkszenia.
+
+<textxstart:40> o <textxstart:200> Otworzenie okna obserwacji.
+
+<textxstart:40> p <textxstart:200> Pauza.
+<textxstart:40> l <textxstart:200> Zwiêkszenie szybkoœci rozgrywki.
+
+<textxstart:40> TAB <textxstart:200> Wyœwietlenie informacje o postaci lub budynku.
+
+<textxstart:40> Klaw. kursora
+<textxstart:200> Przesuwanie ekranu.
+<textxstart:40> Klaw. numeryczna
+<textxstart:200> Przesuwanie ekranu.
+<textxstart:40> ESC <textxstart:200> Zamkniêcie ekranu, odwo³anie wyboru.
+
+<textxstart:40> F1 <textxstart:200> Skorzystanie z pomocy.
+<textxstart:40> F2 <textxstart:200> Otworzenie okna opcji.
+
+<textxstart:40> F3 <textxstart:200> Wczytanie zapisu stanu gry.
+<textxstart:40> F4 <textxstart:200> Zapisanie stanu gry.
+
+<textxstart:40> F5 <textxstart:200> Przywo³anie okna dyplomacji.
+<textxstart:40> F6 <textxstart:200> Przywo³anie okna statystyk.
+<textxstart:40> F7 <textxstart:200> Przywo³anie listy postaci.
+<textxstart:40> F8 <textxstart:200> Przywo³anie drzewa technologicznego.
+
+<textxstart:40> F9 <textxstart:200> Szybki zapis.
+
+<textxstart:40> F10 <textxstart:200> Wyœwietlenie mapy ogólnej.
+
+<textxstart:40> CTRL+b <textxstart:200> Zapisanie zrzutu aktualnego ekranu.
+
+<textxstart:40> CTRL+s <textxstart:200> Szybki zapis.
+
+<textxstart:40> Lewy ALT+F4 <textxstart:200> Wyjœcie z gry i powrót do Windows.
+
+
+<textxstart:0><block:2> NA EKRANIE POSTACI (robotnik)
+
+<textxstart:40> CTRL+LPM i klawisz +/- obok zasobów
+<textxstart:200> Ustalenie liczby po¿¹danych zasobów danego rodzaju (zero/nieskoñczonoœæ).
+
+
+<textxstart:0><block:2> NA EKRANIE BUDYNKU (Magazyn)
+<textxstart:0><block:2> (Po wybraniu jednego rodzaju zasobów)
+
+<textxstart:40> CTRL+LPM i +/-
+<textxstart:200> Zwiêkszenie/zmniejszenie liczby zasobów o 10 jednostek.
+
+
+<textxstart:0><block:2> W GRZE WIELOOSOBOWEJ
+
+<textxstart:40> ENTER<textxstart:200> Rozpoczêcie rozmowy.
+
+[blockend:keys]
+

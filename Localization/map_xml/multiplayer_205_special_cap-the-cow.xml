@@ -1,91 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="multiplayer_205_special_cap-the-cow" export_map_id="multiplayer_205_special_cap-the-cow" map_md5="8cb375839c1e6af98aacaac6f97c18de" IsC2M="false">
+<localization version="1.3" map_id="multiplayer_205_special_cap-the-cow" export_map_id="multiplayer_205_special_cap-the-cow" map_md5="8cb375839c1e6af98aacaac6f97c18de" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
-<string id="0">
+    <string id="0">
       <text lang="CHN">特殊 CTC：亲密驱牧 2</text>
+      <text lang="eng">SPECIAL CTC: HUSTLE AND BUSTLE 2</text>
       <text lang="ger">SPEZIAL CTC: INTIMES TREIBEN 2</text>
     </string>
-<string id="1">
+    <string id="1">
       <text lang="CHN">抢牛大战：4 个维京部族争夺一小片土地上的牲畜。</text>
+      <text lang="eng">Capture the Cow: 4 Viking tribes fight for the cattle of a small country.</text>
       <text lang="ger">Capture the Cow: 4 Wikingerstämme kämpfen um das Vieh eines kleinen Landes.</text>
     </string>
-<string id="2">
+    <string id="2">
       <text lang="CHN">找到并扣押这片土地上所有的牛与羊！让侦察兵贴近它们，将其收归你的名下！</text>
+      <text lang="eng">Find and capture all the cattle and sheep of the country! Make them your own by sending a scout very close to them!</text>
       <text lang="ger">Finde und beschlagnahme alle Kühe und Schafe dieses Landes! Nimm sie in deinen Besitzstand auf, indem du sehr nah mit einem Kundschafter an sie herantrittst!</text>
     </string>
-<string id="3">
+    <string id="3">
       <text lang="CHN">已夺取 %d / 12 头牛</text>
+      <text lang="eng">%d out of 12 cows captured</text>
       <text lang="ger">%d von 12 Kühen erobert</text>
     </string>
-<string id="4">
+    <string id="4">
       <text lang="CHN">已夺取 %d / 12 头牛</text>
+      <text lang="eng">%d out of 12 cows captured</text>
       <text lang="ger">%d von 12 Kühen erobert</text>
     </string>
-<string id="5">
+    <string id="5">
       <text lang="CHN">已夺取 %d / 12 头牛</text>
+      <text lang="eng">%d out of 12 cows captured</text>
       <text lang="ger">%d von 12 Kühen erobert</text>
     </string>
-<string id="6">
+    <string id="6">
       <text lang="CHN">已夺取 %d / 12 头牛</text>
+      <text lang="eng">%d out of 12 cows captured</text>
       <text lang="ger">%d von 12 Kühen erobert</text>
     </string>
-<string id="7">
+    <string id="7">
       <text lang="CHN">已夺取 %d / 12 只羊</text>
+      <text lang="eng">%d out of 12 sheep captured</text>
       <text lang="ger">%d von 12 Schafen erobert</text>
     </string>
-<string id="8">
+    <string id="8">
       <text lang="CHN">已夺取 %d / 12 只羊</text>
+      <text lang="eng">%d out of 12 sheep captured</text>
       <text lang="ger">%d von 12 Schafen erobert</text>
     </string>
-<string id="9">
+    <string id="9">
       <text lang="CHN">已夺取 %d / 12 只羊</text>
+      <text lang="eng">%d out of 12 sheep captured</text>
       <text lang="ger">%d von 12 Schafen erobert</text>
     </string>
-<string id="10">
+    <string id="10">
       <text lang="CHN">格陵兰人</text>
+      <text lang="eng">Greenlanders</text>
       <text lang="ger">Grönländer</text>
     </string>
-<string id="11">
+    <string id="11">
       <text lang="CHN">格陵兰人</text>
+      <text lang="eng">Greenlanders</text>
       <text lang="ger">Grönländer</text>
     </string>
-<string id="20">
+    <string id="20">
       <text lang="CHN">文兰人</text>
+      <text lang="eng">Vinlanders</text>
       <text lang="ger">Vinländer</text>
     </string>
-<string id="21">
+    <string id="21">
       <text lang="CHN">文兰人</text>
+      <text lang="eng">Vinlanders</text>
       <text lang="ger">Vinländer</text>
     </string>
-<string id="30">
+    <string id="30">
       <text lang="CHN">海卢兰人</text>
+      <text lang="eng">Hellulanders</text>
       <text lang="ger">Helluländer</text>
     </string>
-<string id="31">
+    <string id="31">
       <text lang="CHN">海卢兰人</text>
+      <text lang="eng">Hellulanders</text>
       <text lang="ger">Helluländer</text>
     </string>
-<string id="40">
+    <string id="40">
       <text lang="CHN">马克兰人</text>
+      <text lang="eng">Marklanders</text>
       <text lang="ger">Markländer</text>
     </string>
-<string id="41">
+    <string id="41">
       <text lang="CHN">马克兰人</text>
+      <text lang="eng">Marklanders</text>
       <text lang="ger">Markländer</text>
     </string>
-<string id="91">
+    <string id="91">
       <text lang="CHN">已夺取 %d / 12 只羊</text>
+      <text lang="eng">%d out of 12 sheep captured</text>
       <text lang="ger">%d von 12 Schafen erobert</text>
     </string>
-</strings>
-<briefings>
-<block id="begin_00">
+  </strings>
+  <briefings>
+    <block id="begin_00">
       <lang code="CHN">
-                <text>
+        <text>
 设法将全岛的牛或羊，统统赶进你的围栏。
 
 你的同伴们也正打着同样的主意--所以务须当心！
@@ -93,6 +113,17 @@
 提示：
 这片土地上的牛自然杀不得……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Try to gain possession of all the cows or sheep of the country. There are 12 animals of each kind!
+
+Your opponents will try to do the same, so beware: Keep an eye on the animals you have captured!
+
+
+NOTE:
+Obviously, the cows of this country cannot be killed!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -106,12 +137,18 @@ Die Kühe dieses Landes können natürlich NICHT getötet werden!
 </text>
       </lang>
     </block>
-
     <block id="header">
       <lang code="CHN">
-                <text>
+        <text>
 局促之地 2
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+HUSTLE AND BUSTLE 2
+
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -121,5 +158,5 @@ INTIMES TREIBEN 2
 </text>
       </lang>
     </block>
-</briefings>
+  </briefings>
 </localization>

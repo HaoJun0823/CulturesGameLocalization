@@ -1,49 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="singleplayer_02_03-sub3" export_map_id="singleplayer_02_03-sub3" map_md5="5ff60f78c3bca5eac66184bb801a7a58" IsC2M="false">
+<localization version="1.3" map_id="singleplayer_02_03-sub3" export_map_id="singleplayer_02_03-sub3" map_md5="5ff60f78c3bca5eac66184bb801a7a58" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">消灭那威胁！</text>
+      <text lang="eng">Eliminate the threat!</text>
       <text lang="ger">Vernichte die Bedrohung!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="51">
       <text lang="CHN">耶梦加得</text>
+      <text lang="eng">Fog Serpents</text>
       <text lang="ger">Nebelschlangen</text>
     </string>
     <string id="57">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="58">
       <text lang="CHN">耶梦加得</text>
+      <text lang="eng">Fog Serpents</text>
       <text lang="ger">Nebelschlangen</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="99">
       <text lang="CHN">恐怖之雾中</text>
+      <text lang="eng">IN THE FOG OF HORRORS</text>
       <text lang="ger">IM NEBEL DES GRAUENS</text>
     </string>
   </strings>
   <briefings>
     <block id="begin_00">
       <lang code="CHN">
-                <text>
+        <text>
 我们终于抵达了旅程的终点。多少冒险须得闯过，多少阻碍须得克服！
 
 尽管有护符在身，这可怖的迷雾仍始终环绕我们，遮蔽视线。似乎有什么人或什么东西，感应到了我们的到来，并欲加以抗拒！我们近乎盲目地在那片死水般静滞的浅水中迂回行进。越是逼近迷雾中心，便越是温热。不祥的预感袭上心头--大自然的力量似乎正严重威胁着我们。
 
 忽然，岛屿出现在我们正前方，我们决定弃船上岸，探一探这凶险之地。我的部下们做足了迎击一切的准备，静待将至之事……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+We had finally arrived at the destination of our travels. There were so many adventures and so many obstacles to overcome!
+
+In spite of the amulet's powers, the dreadful fog surrounded us and obstructed our view. Somebody or something seemed to sense our presence and was obviously trying to keep us away! Nearly blind, we manoeuvred through the shallow, unmoving waters. The closer we got to the centre of the fog, the warmer it became. Our fear increased, the elements of nature itself seemed threatening.
+
+All of a sudden the island appeared in front of us and we decided to leave the ship and explore this sinister place. My men prepared themselves for all eventualities, waiting for whatever strange things might happen ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -57,11 +74,19 @@ Plötzlich tauchte die Insel direkt vor uns auf, und wir beschlossen, das Schiff
     </block>
     <block id="begin_01">
       <lang code="CHN">
-                <text>
+        <text>
 耶梦加得！！！
 
 这不可能，我们当年不是已将她击败了吗？！不可能是她，可她实在太像了！这必是同一窝所出的蛇--且同样危险！我们必须先击败她的战士，方能于这场战斗中活命！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+The Midgard serpent!
+
+But how was this possible? Hadn't we already defeated it once?! It couldn't be that particular serpent, but it was so similar! It had to be a serpent of the same brood - and it was no less dangerous! First we would have to defeat its warriors, that was the only way we could survive!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -74,9 +99,15 @@ Aber das war nicht möglich, die hatten wir doch seinerzeit besiegt?! Sie konnte
     </block>
     <block id="begin_02">
       <lang code="CHN">
-                <text>
+        <text>
 比雅尼阵亡了！一切皆付诸东流--而幽灵蛇如今有了一艘船。它们将灾祸与毁灭带向大地。守护者们当初看错了比雅尼！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+Bjarni died! It was all for nothing, and the ghostly serpents now had a ship. They brought evil and ruin over the country. Bjarni had failed the Keepers!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -87,9 +118,15 @@ Bjarni war gestorben! Es war alles umsonst - und die Geisterschlangen hatten nun
     </block>
     <block id="begin_03">
       <lang code="CHN">
-                <text>
+        <text>
 待我们击败蛇之眷属，她便即刻缩入了炽烈的熔岩之中……失了眷属，她怯于应战！她消失后，火山似又沉回水中！我们冲回船上，离开了这座可怖的孤岛！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+When we had defeated the serpent's followers, it returned to the depths of the glowing lava at once, too cowardly to fight alone! When it had disappeared, the volcano seemed to disappear below the water! We hurried back to our ship and left this dreadful island!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -100,9 +137,16 @@ Als wir die Gefolgschaft der Schlange besiegt hatten, hatte sie sich umgehend in
     </block>
     <block id="header">
       <lang code="CHN">
-                <text>
+        <text>
 恐怖之雾中
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+IN THE FOG OF HORRORS
+
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -114,9 +158,15 @@ IM NEBEL DES GRAUENS
     </block>
     <block id="lost">
       <lang code="CHN">
-                <text>
+        <text>
 任务失败！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+MISSION FAILED!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -127,9 +177,15 @@ MISSION VERLOREN!
     </block>
     <block id="won">
       <lang code="CHN">
-                <text>
+        <text>
 任务成功！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+MISSION COMPLETED!
+</text>
       </lang>
       <lang code="ger">
         <text>

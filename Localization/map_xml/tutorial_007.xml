@@ -1,92 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="tutorial_007" export_map_id="tutorial_007" map_md5="3b3960bc810b3db47d36a928a49a51c3" IsC2M="false">
+<localization version="1.3" map_id="tutorial_007" export_map_id="tutorial_007" map_md5="3b3960bc810b3db47d36a928a49a51c3" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">打开那些箱子！</text>
+      <text lang="eng">Open the chests!</text>
       <text lang="ger">Öffne die Kisten!</text>
     </string>
     <string id="1">
       <text lang="CHN">用药剂武装你的维京战士！</text>
+      <text lang="eng">Equip your Viking soldiers with the potions!</text>
       <text lang="ger">Rüste deine Wikingersoldaten mit den Tränken aus!</text>
     </string>
     <string id="2">
       <text lang="CHN">用护符武装你的维京战士。</text>
+      <text lang="eng">Equip your Viking soldiers with the amulets.</text>
       <text lang="ger">Rüste deinen Wikingersoldaten mit Amuletten aus.</text>
     </string>
     <string id="3">
       <text lang="CHN">制服那些强盗！</text>
+      <text lang="eng">Capture the robbers!</text>
       <text lang="ger">Stelle die Räuber!</text>
     </string>
     <string id="4">
       <text lang="CHN">让木工打造 5 件木质工具！</text>
+      <text lang="eng">Have your carpenter produce 5 wooden tools!</text>
       <text lang="ger">Lass vom Schreiner 5 Holzwerkzeuge herstellen!</text>
     </string>
     <string id="5">
       <text lang="CHN">让铁匠打造 5 件铁质工具！</text>
+      <text lang="eng">Have your blacksmith produce 5 iron tools!</text>
       <text lang="ger">Lass vom Schmied 5 Eisenwerkzeuge herstellen!</text>
     </string>
     <string id="6">
       <text lang="CHN">将木工的生产转为家具，并制作 5 件！</text>
+      <text lang="eng">Set the carpenter's production to furniture and have him produce 5 pieces!</text>
       <text lang="ger">Stelle die Produktion des Schreiners auf Möbel und lass 5 Stück herstellen!</text>
     </string>
     <string id="7">
       <text lang="CHN">将陶匠的生产转为器皿，并制作 5 件！</text>
+      <text lang="eng">Set the potter's production to crockery and have him produce 5 pieces!</text>
       <text lang="ger">Stelle die Produktion des Töpfers auf Geschirr und lass 5 Stück herstellen!</text>
     </string>
     <string id="8">
       <text lang="CHN">让裁缝制作鞋子！</text>
+      <text lang="eng">Have the tailor produce shoes!</text>
       <text lang="ger">Lass vom Näher Schuhe herstellen!</text>
     </string>
     <string id="9">
       <text lang="CHN">让德鲁伊炼制 5 单位油！</text>
+      <text lang="eng">Have the druid produce 5 oil!</text>
       <text lang="ger">Lass vom Druiden 5 Öl herstellen!</text>
     </string>
     <string id="10">
       <text lang="CHN">前往此地以南的撒拉逊绿洲！</text>
+      <text lang="eng">Go to the Saracens' oasis to the south!</text>
       <text lang="ger">Begib dich zur Sarazenenoase südlich von hier!</text>
     </string>
     <string id="11">
       <text lang="CHN">找齐装有护符的所有箱子！</text>
+      <text lang="eng">Find all chests with amulets!</text>
       <text lang="ger">Finde alle Kisten mit den Amuletten!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的部族</text>
+      <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarnis Stamm</text>
     </string>
     <string id="51">
       <text lang="CHN">撒拉逊绿洲</text>
+      <text lang="eng">Saracen Oasis</text>
       <text lang="ger">Sarazenenoase</text>
     </string>
     <string id="52">
       <text lang="CHN">撒拉逊城</text>
+      <text lang="eng">Saracen Village</text>
       <text lang="ger">Sarazenenstadt</text>
     </string>
     <string id="53">
       <text lang="CHN">城市</text>
+      <text lang="eng">Village</text>
       <text lang="ger">Stadt</text>
     </string>
     <string id="54">
       <text lang="CHN">强盗</text>
+      <text lang="eng">Robbers</text>
       <text lang="ger">Räuber</text>
     </string>
     <string id="55">
       <text lang="CHN">绿洲</text>
+      <text lang="eng">Oasis</text>
       <text lang="ger">Oase</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="98">
       <text lang="CHN">本关介绍增益道具与武器，并示范其用法与获取途径。</text>
+      <text lang="eng">Here the bonus items and weapons will be introduced, and you will be shown how they are used and where to obtain them.</text>
       <text lang="ger">Hier werden Bonusgegenstände und Waffen eingeführt und gezeigt, wie sie angewendet werden und wo man sie erhält.</text>
     </string>
     <string id="99">
       <text lang="CHN">7) 增益道具与武器</text>
+      <text lang="eng">7) BONUS ITEMS AND WEAPONS</text>
       <text lang="ger">7) BONUSGEGENSTÄNDE UND WAFFEN</text>
     </string>
   </strings>
@@ -98,6 +120,21 @@
 以及如何制造与获取它们。
 
 按照左侧菜单栏上方出现的任务提示操作即可。</text>
+      </lang>
+      <lang code="eng">
+        <text> 
+Here the bonus items and weapons will be introduced. 
+-	collecting
+-	using
+-	effects/uses
+-	own production
+-	capturing bonus items
+-	soldiers and heroes 
+
+There are other things, apart from marriage and homes, that will help you equip your Vikings and influence their happiness, productivity and skills - these are the so-called bonus items.
+
+Most bonus items have to be produced and are slowly used up, meaning they need renewing. However, there are some bonus items your Vikings will receive from other nations or find on their journey, mainly in CHESTS ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -125,6 +162,17 @@ Die meisten Bonusgegenstände zeichnen sich dadurch aus, dass sie erst hergestel
 试着打开附近的箱子。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+CHESTS
+
+There are some chests which can be opened by any Viking - male or female - and magic chests which can only be opened by a druid or a hero. 
+Chests usually contain rare and useful items such as potions or amulets. In some cases, they may also contain powerful house permits. There is even a rumour that some chests open to reveal wild beasts and humans inside them ...
+To open a chest, select a Viking and move your mouse over the chest. You will see the tooltip "Open Chest". Confirm by right-clicking. 
+
+Open the three chests to the west, they contain potions for your soldiers! 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 KISTEN
@@ -149,6 +197,17 @@ Um eine Kiste zu öffnen, musst du einen Wikinger ausgewählt haben und mit dem 
 让你的德鲁伊来生产它们吧。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+POTIONS
+
+If you don't find any potions in chests, but you still need them, they can be brewed by a druid in an alchemist's hut. To do this, the druid requires not only mushrooms and oil, but also water and herbs. He also needs gold in order to acquire mysterious and rare ingredients. All Vikings - excepting women and heroes - can be equipped with these special supply, healing and battle potions. Small potions can be used twice, large ones can be used 5 times. Then they are used up.
+
+There are NOURISHING POTIONS which satisfy hunger; STAMINA POTIONS which protect your Vikings from fatigue, and HEALING POTIONS which heal injuries. 
+
+Equip your Viking soldiers with the potions by selecting them all - except BJARNI - as a group and pressing the spacebar. Choose the option "CHANGE EQUIPMENT" and give them the potions! You can also tell individual characters how many potions to take of any kind by using the round yellow buttons in the character display. This also opens the equipment register. 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 TRÄNKE
@@ -169,6 +228,13 @@ Rüste deine Wikingersoldaten mit den Tränken aus, indem du alle - bis auf BJAR
 前往南边的撒拉逊人定居点，寻找装有护身符的箱子。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+Great, you have found all the chests with potions!
+
+After equipping your soldiers with the potions, go to the Saracen oasis in the south! You'll find mysterious amulets there!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Gut du hast alle Kisten mit Tränken gefunden!
@@ -186,6 +252,17 @@ Begib dich, nachdem du deine Soldaten mit Tränken ausgestattet hast zur Sarazen
 
 例如，有些护身符能提高攻击力，有些能提供保护。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+AMULETS
+ 
+Amulets cannot be manufactured. You either have to find them or purchase them by trading with other tribes. All male Vikings - except your heroes - can be equipped with amulets. They give the bearer certain characteristics and their power is never diminished. There are various kinds of amulets:
+A nourishing amulet prevents the bearer from starving, an amulet of stamina keeps the bearer awake, an amulet of strength gives the bearer courage and bravery and increases his strength in an attack by 50 percent, an amulet of defence weakens the blow of attacks by wild beasts and enemies, an amulet of precision has a 20 percent chance of increasing the bearer's strength in an attack on animals and enemies, and 
+a wind amulet enables the bearer to move faster. 
+
+Find all six amulets in the Saracens' village and equip your Viking soldiers with the amulets by proceeding in the same way as for the potions.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -211,6 +288,20 @@ Finde alle sechs Amulette im Sarazenendorf und rüste deinen Wikingersoldaten mi
 
 他们威胁着你的维京人。</text>
       </lang>
+      <lang code="eng">
+        <text> 
+GOOD! You have found all the amulets in the Saracens' village! If you have kept your eyes open in the village, you should have seen some weapons as well. 
+
+ARMOUR AND WEAPONS
+
+On the one hand, weapons and armour can be produced by your Viking tribe; on the other hand, they can also be taken off other warriors in battle - every defeated warrior leaves his weapon, armour and his unused potions and amulets behind. You can use these to equip your own Viking soldiers. 
+
+Try it! A little to the north 5 robbers are on the rampage and might pose a threat to your village as well. Confront them and use their equipment!
+
+
+P.S.: You'll find a description of which weapons are efficient against which armour and which are not in the help and in the weapon efficiency table in the manual. 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 GUT! Du hast alle Amulette im Sarazenendorf gefunden! Wenn du mit offenen Augen durch das Dorf inspiziert hast, müssten dir auch einige Waffen aufgefallen sein. 
@@ -233,6 +324,11 @@ P.S. Eine Übersicht, welche Waffen gegen welche Rüstung effektiv ist und welch
 但你村子里仍然缺少药剂和护身符的持续供应。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+You have successfully confronted the robbers! Now you can search the map for additional chests and equipment ... 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Die Räuber hast du mit Bravur gestellt! Du kannst die Karte gerne noch nach weiteren Kisten und Ausrüstungsgegenständen absuchen ... 
@@ -250,6 +346,17 @@ Die Räuber hast du mit Bravur gestellt! Du kannst die Karte gerne noch nach wei
 
 产家具和其他奢侈品。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+ ... but for now we'll return to your civilian population, because you can contribute a lot to their well-being as well:
+
+WOODEN TOOLS
+
+These increase a worker's productivity. He can produce more goods in the same space of time with wooden tools than he could without them. Wooden tools are produced by a carpenter.
+
+Have the carpenter make 5 wooden tools and give them to the population by activating the order "Always give wooden tools to civilians" in the extras window (the button with the chest symbol)!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -273,6 +380,15 @@ Lass vom Schreiner 5 Holzwerkzeuge herstellen und verteile sie an die Bevölkeru
 铁制工具由铁匠用铁锭制作而成。
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+IRON TOOLS
+
+Iron tools increase a worker's productivity even more than wooden tools. In other words, his output becomes even greater. Iron tools are produced by a blacksmith.
+
+Have the blacksmith make iron tools and give them to the population using the same procedure as for the wooden tools!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 EISENWERKZEUG
@@ -292,6 +408,15 @@ Lass vom Schmied Eisenwerkzeuge herstellen und verteile sie an die Bevölkerung,
 
 家具由木匠铺中的木工制作。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+FURNITURE
+
+If you have furniture (beds) in your houses, your Vikings will sleep much better. Their need for sleep can then be fulfilled entirely! Furniture is produced by a carpenter and fetched to the house by a woman.
+
+Change the production of the carpenter in your village to furniture and equip your dwellings with it!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -313,6 +438,16 @@ Stelle die Produktion des Schreiners in deinem Dorf auf Möbel um und rüste dei
 餐具由陶匠在陶艺坊中制作。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+CROCKERY
+
+Crockery enables your Viking women to improve their meals and double their nutritional values!
+Crockery is produced in a pottery.
+
+Change the potter's production to crockery and equip your dwellings with it!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 GESCHIRR
@@ -331,6 +466,14 @@ Stelle die Produktion des Töpfers auf Geschirr um und rüste deine Wohnhäuser 
 没有这位英雄，你将无法完成使命。
 下次小心！
         </text>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+      </lang>
+      <lang code="eng">
+        <text>
+
+Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission would have remained hidden to you and you would have had to start all over again! 
+
+</text>
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
       </lang>
       <lang code="ger">
@@ -352,6 +495,15 @@ Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen 
 鞋子可以增加移动速度，还能保护脚免受伤害。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+SHOES
+
+Every barefoot Viking would give just about anything for a pair of shoes, as these make walking much more pleasant. A Viking wearing shoes can walk much faster and uses up less energy, meaning he won't become hungry and tired so quickly. Shoes are produced in a tailor's workshop.
+
+Have your tailor produce shoes, give them to the population and take five of them to the headquarters!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 SCHUHE
@@ -371,6 +523,15 @@ Lass vom Näher Schuhe herstellen und verteile sie an die Bevölkerung und bring
 
 油脂由德鲁伊在炼金工坊里用香草和动物脂肪制作。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+OIL (Holy Fire)
+
+Outside each dwelling is a metal dish that a woman can fill with oil and use to light the Holy Fire. Once this blue flame begins to flicker, a man can come to this house to pray. This covers his need for religion! Oil is produced by a druid. 
+
+Have the druid produce 5 oil and take it to the headquarters!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -392,6 +553,15 @@ Lass vom Druiden 5 Öl herstellen und bringe sie ins Haupthaus!
 通过魔法对象和特殊武器，你的维京人将战无不胜！
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+GREAT!
+
+If you have completed the tutorials in sequence, you have now perfectly mastered them all! 
+
+You can replay them individually to refresh your knowledge of the game's mechanisms any time. 
+</text>
+      </lang>
       <lang code="ger">
         <text>
 SUPER!
@@ -407,6 +577,11 @@ Du kannst übrigens jederzeit die einzelnen Tutorials unabhängig voneinander er
         <text>
 奖励物品与武器--通过药剂和护身符强化军队
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+BONUS ITEMS AND WEAPONS
+</text>
       </lang>
       <lang code="ger">
         <text> 

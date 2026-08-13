@@ -1,124 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="singleplayer_03_01" export_map_id="singleplayer_03_01" map_md5="a28160486117a180334348dc14470552" IsC2M="false">
+<localization version="1.3" map_id="singleplayer_03_01" export_map_id="singleplayer_03_01" map_md5="a28160486117a180334348dc14470552" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">去找你部族的德鲁伊！</text>
+      <text lang="eng">Call on the druid of your tribe!</text>
       <text lang="ger">Suche den Druiden deines Stammes auf!</text>
     </string>
     <string id="1">
       <text lang="CHN">开采黄金并铸成硬币，好让德鲁伊能酿造药剂！</text>
+      <text lang="eng">Mine the gold and mint coins from it to enable the druid to produce potions!</text>
       <text lang="ger">Bau das Gold ab und präge daraus Münzen, damit der Druide Tränke produzieren kann!</text>
     </string>
     <string id="2">
       <text lang="CHN">寻找早先在此取水的驼夫部族！</text>
+      <text lang="eng">Find the tribe of the camel drivers, who used to come here for water supplies!</text>
       <text lang="ger">Finde den Stamm der Kameltreiber, der früher hier sein Wasser bezog!</text>
     </string>
     <string id="3">
       <text lang="CHN">查明运水商队究竟遭遇了什么！</text>
+      <text lang="eng">Find out what happened to the water caravan!</text>
       <text lang="ger">Finde heraus, was mit der Wasserkarawane geschehen ist!</text>
     </string>
     <string id="4">
       <text lang="CHN">与绿洲农人的首领交谈！</text>
+      <text lang="eng">Talk to the chieftain of the oasis farmers!</text>
       <text lang="ger">Sprich mit dem Häuptling der Oasenbauer!</text>
     </string>
     <string id="5">
       <text lang="CHN">向绿洲农人部族运送 50 单位水，并护佑你的商人免受沙漠盗匪劫掠！</text>
+      <text lang="eng">Deliver 50 water to the tribe of the oasis farmers and protect your merchant from the desert robbers!</text>
       <text lang="ger">Liefere dem Stamm der Oasenbauer 50 Wasser, und beschütze deine Händler vor den Wüstenräubern!</text>
     </string>
     <string id="6">
       <text lang="CHN">前往城中的神庙！</text>
+      <text lang="eng">Call on the temple of the town!</text>
       <text lang="ger">Suche den Tempel in der Stadt auf!</text>
     </string>
     <string id="7">
       <text lang="CHN">建造一艘船，并为它装填饮水！</text>
+      <text lang="eng">Build a ship and load it with water!</text>
       <text lang="ger">Baue ein Schiff und belade es mit Wasser!</text>
     </string>
     <string id="8">
       <text lang="CHN">与比雅尼及部众乘船寻访神谕！</text>
+      <text lang="eng">Sail to the oracle with Bjarni and the crew!</text>
       <text lang="ger">Suche das Orakel per Schiff mit Bjarni und Mannschaft auf!</text>
     </string>
     <string id="9">
       <text lang="CHN">卸下船货，与神谕守卫会面！</text>
+      <text lang="eng">Unload the ship and meet the guard of the oracle!</text>
       <text lang="ger">Entlade das Schiff und triff dich mit dem Orakelwächter!</text>
     </string>
     <string id="10">
       <text lang="CHN">解放运输骆驼，征服沙漠盗匪部族！否则另寻他途。</text>
+      <text lang="eng">FREE THE TRANSPORT CAMELS AND DEFEAT THE TRIBE OF THE DESERT ROBBERS OR LOOK FOR A DIFFERENT SOLUTION.</text>
       <text lang="ger">BEFREIE DIE TRANSPORTKAMELE UND BEZWINGE DEN STAMM DER WÜSTENRÄUBER! ODER SUCHE NACH EINEM ANDEREN WEG.</text>
     </string>
     <string id="11">
       <text lang="CHN">@解放水之神谕！</text>
+      <text lang="eng">@FREE THE WATER ORACLE!</text>
       <text lang="ger">@BEFREIE DAS WASSERORAKEL!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的部族</text>
+      <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarnis Stamm</text>
     </string>
     <string id="51">
       <text lang="CHN">维京人</text>
+      <text lang="eng">Vikings</text>
       <text lang="ger">Wikinger</text>
     </string>
     <string id="52">
       <text lang="CHN">绿洲农人</text>
+      <text lang="eng">Oasis Farmers</text>
       <text lang="ger">Oasenbauer</text>
     </string>
     <string id="53">
       <text lang="CHN">绿洲农</text>
+      <text lang="eng">Oasis F.</text>
       <text lang="ger">Oasenb.</text>
     </string>
     <string id="54">
       <text lang="CHN">沙漠盗匪</text>
+      <text lang="eng">Desert Robbers</text>
       <text lang="ger">Wüstenräuber</text>
     </string>
     <string id="55">
       <text lang="CHN">盗匪</text>
+      <text lang="eng">Robbers</text>
       <text lang="ger">Räuber</text>
     </string>
     <string id="56">
       <text lang="CHN">守卫</text>
+      <text lang="eng">Guards</text>
       <text lang="ger">Wachen</text>
     </string>
     <string id="57">
       <text lang="CHN">守卫</text>
+      <text lang="eng">Guards</text>
       <text lang="ger">Wachen</text>
     </string>
     <string id="58">
       <text lang="CHN">骆驼守卫</text>
+      <text lang="eng">Camel Guard</text>
       <text lang="ger">Kamelwache</text>
     </string>
     <string id="59">
       <text lang="CHN">骆驼守卫</text>
+      <text lang="eng">Camel Guard</text>
       <text lang="ger">Kamelwache</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">德鲁伊</text>
+      <text lang="eng">Druid</text>
       <text lang="ger">Druide</text>
     </string>
     <string id="73">
       <text lang="CHN">德鲁伊的长子</text>
+      <text lang="eng">Eldest Son of the Druid</text>
       <text lang="ger">Ältester Sohn des Druiden</text>
     </string>
     <string id="74">
       <text lang="CHN">德鲁伊的幼子</text>
+      <text lang="eng">Youngest Son of the Druid</text>
       <text lang="ger">Jüngster Sohn des Druiden</text>
     </string>
     <string id="75">
       <text lang="CHN">绿洲首领</text>
+      <text lang="eng">Chieftain of Oasia</text>
       <text lang="ger">Häuptling Oasiens</text>
     </string>
     <string id="98">
       <text lang="CHN">我们在临近沙漠的一处沃谷定居，彼时正应征参与一项雄心勃勃的沙漠工程。</text>
+      <text lang="eng">We settled in a fertile valley not far away from a desert when we were asked to serve an ambitioned desert project.</text>
       <text lang="ger">Wir siedelten in einem fruchtbaren Tal unweit einer Wüste, als wir einem ehrgeizigen Wüstenprojekt unsere Dienste erweisen sollten.</text>
     </string>
     <string id="99">
       <text lang="CHN">水之神谕</text>
+      <text lang="eng">THE WATER ORACLE</text>
       <text lang="ger">DAS WASSERORAKEL</text>
     </string>
   </strings>
@@ -128,6 +158,13 @@
         <text>
 沙漠盗匪已被击败，骆驼重获自由！我们的使命达成了。运水商队得以重获新生！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+The desert robbers were defeated and the camels freed! Our mission was fulfilled. The water caravan could be resurrected!
+
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -148,6 +185,18 @@ Die Wüstenräuber waren geschlagen und die Kamele wieder frei! Unsere Mission w
 
 他们向我们致谢，一段新的部族之谊就此结下……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THRIVING LANDS
+
+The rain had returned to the land, and it fell as it had never done before! The oasis of the oasis farmers finally flourished and the palm trees began to grow ...
+
+Now the builders could gather their camels in peace and sent them on their journey again in order to preserve the green ...
+
+We were thanked, and a new friendship among tribes was born ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -170,6 +219,15 @@ Man dankte uns, und eine neue Stammesfreundschaft war geboren...
 你的维京人的故事，在此终结！
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+
+When the tribe round Bjarni ceased to exist, all hopes of the oasis farmers to get back their water were lost. Their fate was sealed!
+
+Here ends the story of your Vikings!
+
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -186,6 +244,13 @@ Hier endet die Geschichte deiner Wikinger!
 比雅尼阵亡了！如今谁去闯荡那些冒险？
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+
+Bjarni is dead! Who is to get involved in all the adventures now?
+
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -201,6 +266,15 @@ Bjarni ist gestorben! Wer soll nun die Abenteuer bestreiten?
 
 你的维京人真该羞愧，竟给世人带来如此灾祸！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+The last hope of a new oasis died with the elimination of the oasis farmers!
+
+Your Vikings should be ashamed of bringing such evil over mankind!
+
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -227,6 +301,23 @@ Deine Wikinger sollten sich schämen, solch Unheil über die Menschen zu bringen
 
 我们不愿耽搁，便去寻他。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE OASIS FARMERS
+
+After a long journey through the desert and privation brought on by the sun and the sand, we finally found Oasia, the city of the water caravan!
+
+It was located in the middle of nowhere, and we were appalled by its state! Neither trees nor grass nor wheat were anywhere to be seen. And worst: We could not find as much as a single drop of water!
+
+It was said that it had used to rain from time to time, but the last rain shower must have been long ago ...
+
+Be that as it may ... The chieftain would be expecting us with his soldiers.
+
+We didn't want to lose any time and went to see him.
+
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -257,6 +348,18 @@ Wir wollten nicht lang zögern und suchten ihn auf.
 提示：
 你该尽快离开此地，沙漠盗匪极易被激怒，他们的威胁绝非戏言！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE DESERT ROBBERS
+
+"Ho Ho! We are the new owners of this land, as we triumphed over desert and water! Get lost, or we'll show you how strong we are!"
+
+
+NOTE:
+You should get away from here as soon as possible as the desert robbers are rather irritable and are serious about their threats!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -291,6 +394,27 @@ Du solltest dich so schnell wie möglich von hier entfernen, da die Wüstenräub
 
 我想从池塘边的路标着手搜寻，它必能指明正途……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+DRUID
+
+When I reached the druid, he was more than happy to see me.
+
+Even though he liked his eremite existence a lot, he urged me to send further gold miners to his place to keep his supplies coming.
+
+I promised him my support as the whole community could profit from the nourishing potions of the druid.
+
+
+He seemed to be worried by something else though ...
+
+Apparently something had happened to the desert caravan which transported water. It usually came to the pond in the west, but the druid had not seen it for a remarkably long time!
+
+What could have happened to the camel caravan? I as an adventurer could not stop thinking of this question and I decided to visit the tribe of the caravan.
+
+I wanted to start my search at the signpost at the pond; it would show me the right way ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -339,6 +463,37 @@ Ich wollte mit der Suche bei dem Wegweiser am Teich beginnen, er wies bestimmt d
         <text>
 
 若你在水源旁建起一座仓库，让搬运工把水储进去，就能轻松派一名商人往返于这座仓库和绿洲农人的仓库之间进行贸易。
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+CHIEFTAIN
+
+Looking the chieftain in the eyes, I could see pain and sorrow.
+
+Once he had dreamt of reclaiming a piece of land to the south of his village. All he needed was water which he found close to my tribe. Everything went well, the project was a success - the desert began to blossom.
+
+But then the water caravan was robbed!
+Evil characters stole the valuable good and took away the camels of burden. 
+
+The surviving people were left in the desert with a message for the tribe: "Whoever comes here again, is deemed to die! All water now belongs to us! Even the oracle had to realise this!"
+
+Since then, nobody had dared to cross the desert ... And the chieftain's dreams were destroyed.
+
+Aghast at such meanness, I wanted to help the chieftain.
+
+I would continue with the water transport by harnessing my ox to the cart! And if anybody should dare to attack it, he would get to know my sword ...
+
+
+HINT:
+You should build a well directly at the watering place and start trading there, as this is the shortest way through the desert!
+
+</text>
+        <usericon>1,83,267</usericon>
+        <text>
+
+If you build a warehouse next to the well and have your carriers stock water, a merchant will be able to set up a trading business between the warehouse and the oasis farmers.
 </text>
       </lang>
       <lang code="ger">
@@ -399,6 +554,33 @@ Wenn du direkt daneben ein Lagerhaus errichtest und von Trägern Wasser einlager
 此路绝非易事……
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+
+TEMPORARY SOLUTION
+
+The chieftain was overjoyed because of the delivery as he had not reckoned on this any more! We told him about our fight for water and cattle in the desert. 
+
+The chieftain thanked us a lot for our efforts and our courage, but he was still desperate: "If we only had our transport camels back and the desert robbers would not do us any harm  ..."
+
+We really wanted to help him, but as much as we deliberated on it - we did not come across a solution. Then all of a sudden, the chieftain's face brightened up:
+
+"Of course! THAT'S it! Do you remember - they said: 'Even the oracle had to realise this ...' - They have paralysed the Keepers of the Water! These bandits! That must be the answer, and it would explain the long drought as well! That must be it!" 
+He was very excited while he was speaking. 
+
+"Help us, brave Northerner, and make sure that everything is all right with the oracle. If my suspicion proves right, the roots of all evil can be found there!"
+
+The chieftain presumed that we would find hints on the oracle and the way there at the temple - the only place where palm trees still grew.
+
+Now I had to take a decision: Did I want to fight or succeed peacefully?
+
+
+HINT:
+If you decide in favour of the militant way, you will have to defeat the guards in the desert, the guards of the camel shelter as well as the desert robbers themselves!
+
+This way will not be an easy one ...
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -439,6 +621,18 @@ Dieser Weg ist nicht leicht...
 这一次，不再是空言威胁--他们动手了！
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+
+RAID
+
+We met the henchmen of the desert robbers and they uttered their threats once more:
+ 
+"All water of this land is ours now! The oracle had to realise this as well! You are to die!"
+
+And this time, it was not an idle threat - they attacked!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -463,6 +657,18 @@ Diesmal war es keine leere Drohung mehr - sie griffen an!
 
 那关于神谕的传闻，我们自会禀报首领。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+VICTORY OF THE OX CARAVAN
+
+We had driven back the attackers, but it was just a matter of time until they would return ...
+
+We wanted to reach our destination as quickly as possible.
+
+We would inform the chieftain of the talk about the oracle.
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -489,6 +695,19 @@ Von dem Gerede um das Orakel würden wir dem Häuptling berichten.
 我的惊异无穷无尽地增长……
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+
+TEMPLE
+
+We had entered the temple but we could not find many hints regarding the oracle. In a dark corner of the room, a bluish light glowed from far below! I had to take a closer look at it! 
+
+We found a hatch in the floor, and I let myself down through it with a rope. 
+
+And my amazement grew beyond all limits ...
+
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -509,6 +728,13 @@ Und mein Erstaunen wuchs ins Grenzenlose...
 那生灵果然信守诺言--环绕小岛的礁石已消散，我们如今有了泊船之所！
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+
+The being had kept its promise - the stones surrounding the island had gone, and we had a mooring place for our ship!
+
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -522,6 +748,13 @@ Das Wesen hatte tatsächlich Wort gehalten - die Steine, die das Eiland umgaben,
         <text>
 船已造好，满载饮水。如今我们启程寻访神谕，扑灭四周的烈火！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+The ship was built and loaded with water. Now we could start our voyage to call on the oracle and extinguish the fire around it!
+
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -542,6 +775,18 @@ Das Schiff war gebaut und beladen mit Wasser. Nun machten wir uns auf den Weg, d
 
 火一灭，我必感恩图报！"
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+GUARD OF THE ORACLE
+
+The guard had already heard of our arrival from the servant of the oracle and greeted me by name:
+
+"Noble Bjarni, extinguish this evil fire, which is ignited by the desert miscreants again and again! It paralyses my powers, and I cannot approach the fire ...
+
+If it is extinguished, I will prove myself grateful!"
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -564,6 +809,15 @@ Wenn es gelöscht ist, werde ich mich dankbar zeigen!"
 我欲去寻神谕守卫时，我的部下应将水搬离船板……
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+
+GONE ASHORE
+
+While I wanted to call on the guard of the oracle, my people should unload the water from the ship ...
+
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -582,6 +836,16 @@ Während ich den Wächter des Orakels aufsuchen wollte, sollten meine Leute das 
 水已上岸，灭火之事推进神速！
 当最后一缕火苗熄灭，神谕似在生长，某种变化正在发生……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+BROKEN SPELL
+
+The water had been unloaded to the shore, and the fire-fighting was going on well!
+When the last flame had been extinguished, the oracle seemed to grow, and something was apparently happening ...
+
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -605,6 +869,19 @@ Als die letzte Flamme erloschen war, wuchs das Orakel scheinbar an, und etwas sc
 
 你们的村庄将沉入地下，若想活命，今日便须溜走！离开此地，永不可再回！"
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+PUNISHMENT
+
+The guard of the oracle punished the guilty immediately ...
+
+"You mean rogues! Did you think your spell would last forever? Now you will experience the powers of nature! 
+
+Your village will be swallowed up into the ground, and if you want to survive, you have to disappear today! Leave this place and never return here!"
+
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -635,6 +912,21 @@ Euer Dorf wird in der Erde versinken und wenn ihr überleben wollt, solltet ihr 
 也多谢你们，勇敢的维京人，你们将我们从恶徒的禁咒中解放！"
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+
+THANK YOU!
+
+... and thanked his helpers:
+
+"The desert robbers have left this country! Now peace and quiet will return!
+
+Be thanked, noble desert people! You called for help and tried to defy the drought!
+As a reward we will give you what you lacked for such a long time!
+
+Brave Vikings, be thanked as well. You freed us from the spell of the miscreants!"
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -659,6 +951,15 @@ Habt Dank auch ihr tapferen Wikinger, ihr habt uns von dem Bann der Schurken bef
 但随着他们败北，神谕重获自由，邪恶也被击败！
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+
+The desert robbers were defeated - and an oracle thanked us for its rescue!? Only much later were we to learn that the desert robbers had spellbound the powers of the water oracle in order to control the small water deposits in the desert. They wanted to blackmail everybody with the water ...
+
+Their defeat set the oracle free again and all evil was eliminated!
+
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -678,6 +979,17 @@ Aber mit ihrer Niederlage war das Orakel wieder frei und das Böse besiegt!
 
 这些人不可小觑！若我们开战，其他沙漠盗匪也会来护卫骆驼……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+CAMELS
+
+We had found the camels but they were well guarded by a guard post of the desert robbers. The guards started shooting at us at once ... 
+
+They were certainly not joking! If we started a fight, all the other desert robbers would come for the defence of the camels ...
+
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -701,6 +1013,17 @@ Mit denen war nicht zu scherzen! Wenn wir kämpften, würden auch die anderen W�
 提示：
 你村庄西南的德鲁伊正等候着你！你该早日去探望他……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE OASIS FARMER
+
+We met a tribe in the desert which did not oppose us, but paid no interest to our presence either. Apparently, people here were preoccupied with other things ...
+
+HINT: 
+The druid to the south-west of your village is already waiting for you! You should pay him a visit soon ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -735,6 +1058,27 @@ Der Druide im Südwesten deines Dorfes wartet schon auf dich! Du solltest ihm ba
 在沙漠中，水与食物便是全部！
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+We set up camp in a fertile valley at the verge of the desert. Our baker provided lots of food for us, which enabled us to fulfil one of our wives' wishes: building a school for the little ones ...
+
+Our druid and his family had found a place suited for gaining raw materials for producing the Holy Oil behind the hill to the south-east.
+
+On one of his excursions, one of the sons of the druid came across rich gold deposits in the mountains, which protected the fertile valley from the torrid heat of the desert.
+Learning about this finding, the druid rejoiced - What fantastic potions he would be able to produce with the gold!
+
+This plan had first to be agreed with me, Bjarni, the tribe's chieftain though. Therefore we agreed to meet at his place the next day.
+
+
+HINTS:
+You cannot assign the druid and his sons to other professions - they love their work too much! You can decide which goods they are to produce though ...
+
+
+You should only go to the desert with enough mead or nourishing potions: an unprepared wanderer can quickly become a starved wanderer!
+Water and food - these are the essentials of the desert!
+
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Wir hatten unser Lager am Rande der Wüste in einem fruchtbaren Tal aufgeschlagen. Unser Bäcker versorgte uns reichlich mit Nahrung, so dass wir bereits die Zeit gefunden hatten, einen Wunsch unserer Frauen zu erfüllen: den Bau einer Schule für unseren Nachwuchs...
@@ -763,6 +1107,13 @@ Wasser und Nahrung - darum dreht sich in der Wüste alles!
 水之神谕
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+
+THE WATER ORACLE
+
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -777,6 +1128,13 @@ DAS WASSERORAKEL
 任务失败！
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+
+MISSION FAILED!
+
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -790,6 +1148,13 @@ MISSION VERLOREN!
         <text>
 任务成功！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+MISSION COMPLETED!
+
+</text>
       </lang>
       <lang code="ger">
         <text>

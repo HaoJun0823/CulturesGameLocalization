@@ -1,248 +1,309 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_03_03" export_map_id="campaign_03_03" map_md5="3bfb8ad9801ed0d16d48b57b30b979fb" IsC2M="false">
+<localization version="1.3" map_id="campaign_03_03" export_map_id="campaign_03_03" map_md5="3bfb8ad9801ed0d16d48b57b30b979fb" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">短描述 0</text>
+      <text lang="eng">Shortdescription 0</text>
       <text lang="ger">Shortdescription 0</text>
     </string>
     <string id="1">
       <text lang="CHN">短描述 1</text>
+      <text lang="eng">Shortdescription 1</text>
       <text lang="ger">Shortdescription 1</text>
     </string>
     <string id="30">
       <text lang="CHN">缴纳贡品，使克洛诺斯之民成为你的贸易伙伴。</text>
+      <text lang="eng">Pay the tribute to win the people of Chronos as trading partners.</text>
       <text lang="ger">Zahle den Tribut, um das Volk von Chronos als Handelspartner zu gewinnen.</text>
     </string>
     <string id="31">
       <text lang="CHN">缴纳贡品，使奥克索斯之民重归友好。</text>
+      <text lang="eng">Pay the tribute to make the people of Oxidos happy again.</text>
       <text lang="ger">Zahle den Tribut, um das Volk von Oxidos wieder freundlich zu stimmen.</text>
     </string>
     <string id="32">
       <text lang="CHN">向克罗伊斯缴纳贡品，以促成和平。</text>
+      <text lang="eng">Pay Croesus a tribute to establish peace.</text>
       <text lang="ger">Zahle Croesus einen Tribut, um Frieden zu stiften.</text>
     </string>
     <string id="40">
       <text lang="CHN">玩家</text>
+      <text lang="eng">Player</text>
       <text lang="ger">Spieler</text>
     </string>
     <string id="41">
       <text lang="CHN">罗德人</text>
+      <text lang="eng">Rhodes</text>
       <text lang="ger">Rhoder</text>
     </string>
     <string id="42">
       <text lang="CHN">德米特里奥斯</text>
+      <text lang="eng">Demetrios</text>
       <text lang="ger">Demetrios</text>
     </string>
     <string id="43">
       <text lang="CHN">巴克希什</text>
+      <text lang="eng">Bakshish</text>
       <text lang="ger">Bakshish</text>
     </string>
     <string id="44">
       <text lang="CHN">奥克索斯</text>
+      <text lang="eng">Oxos</text>
       <text lang="ger">Oxos</text>
     </string>
     <string id="45">
       <text lang="CHN">克洛诺斯</text>
+      <text lang="eng">Chronos</text>
       <text lang="ger">Chronos</text>
     </string>
     <string id="46">
       <text lang="CHN">奥克索斯</text>
+      <text lang="eng">Oxidos</text>
       <text lang="ger">Oxidos</text>
     </string>
     <string id="47">
       <text lang="CHN">克罗伊斯</text>
+      <text lang="eng">Croesus</text>
       <text lang="ger">Croesus</text>
     </string>
     <string id="48">
       <text lang="CHN">林多斯</text>
+      <text lang="eng">Lindos</text>
       <text lang="ger">Lindos</text>
     </string>
     <string id="49">
       <text lang="CHN">墨特罗斯</text>
+      <text lang="eng">Metros</text>
       <text lang="ger">Metros</text>
     </string>
     <string id="50">
       <text lang="CHN">卡瑞斯</text>
+      <text lang="eng">Chares</text>
       <text lang="ger">Chares</text>
     </string>
     <string id="60">
       <text lang="CHN">玩家</text>
+      <text lang="eng">Player</text>
       <text lang="ger">Spieler</text>
     </string>
     <string id="61">
       <text lang="CHN">罗德</text>
+      <text lang="eng">Rhod</text>
       <text lang="ger">Rhod</text>
     </string>
     <string id="62">
       <text lang="CHN">狄米</text>
+      <text lang="eng">Deme</text>
       <text lang="ger">Deme</text>
     </string>
     <string id="63">
       <text lang="CHN">巴克斯</text>
+      <text lang="eng">Baks</text>
       <text lang="ger">Baks</text>
     </string>
     <string id="64">
       <text lang="CHN">奥克索斯</text>
+      <text lang="eng">Oxos</text>
       <text lang="ger">Oxos</text>
     </string>
     <string id="65">
       <text lang="CHN">克罗</text>
+      <text lang="eng">Chro</text>
       <text lang="ger">Chro</text>
     </string>
     <string id="66">
       <text lang="CHN">奥克西</text>
+      <text lang="eng">Oxid</text>
       <text lang="ger">Oxid</text>
     </string>
     <string id="67">
       <text lang="CHN">克洛伊</text>
+      <text lang="eng">Croe</text>
       <text lang="ger">Croe</text>
     </string>
     <string id="68">
       <text lang="CHN">林德</text>
+      <text lang="eng">Lind</text>
       <text lang="ger">Lind</text>
     </string>
     <string id="69">
       <text lang="CHN">墨特</text>
+      <text lang="eng">Metr</text>
       <text lang="ger">Metr</text>
     </string>
     <string id="70">
       <text lang="CHN">卡瑞</text>
+      <text lang="eng">Char</text>
       <text lang="ger">Char</text>
     </string>
     <string id="72">
       <text lang="CHN">"秘书"塞克拉塔里奥斯</text>
+      <text lang="eng">Secretarios</text>
       <text lang="ger">Sekretarios</text>
     </string>
     <string id="73">
       <text lang="CHN">柏拉图</text>
+      <text lang="eng">Plato</text>
       <text lang="ger">Plato</text>
     </string>
     <string id="78">
       <text lang="CHN">古纳尔</text>
+      <text lang="eng">Gunnar</text>
       <text lang="ger">Gunnar</text>
     </string>
     <string id="81">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="82">
       <text lang="CHN">希拉</text>
+      <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
     </string>
     <string id="83">
       <text lang="CHN">哈奇</text>
+      <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
     </string>
     <string id="84">
       <text lang="CHN">西格德</text>
+      <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
     </string>
     <string id="85">
       <text lang="CHN">诺伯特</text>
+      <text lang="eng">Norbert</text>
       <text lang="ger">Norbert</text>
     </string>
     <string id="86">
       <text lang="CHN">玛尼</text>
+      <text lang="eng">Mani</text>
       <text lang="ger">Mani</text>
     </string>
     <string id="90">
       <text lang="CHN">墨特罗斯</text>
+      <text lang="eng">Metros</text>
       <text lang="ger">Metros</text>
     </string>
     <string id="91">
       <text lang="CHN">卡瑞斯</text>
+      <text lang="eng">Chares</text>
       <text lang="ger">Chares</text>
     </string>
     <string id="96">
       <text lang="CHN">比罗克拉特斯</text>
+      <text lang="eng">Buerocrates</text>
       <text lang="ger">Buerokrates</text>
     </string>
     <string id="98">
       <text lang="CHN">我们航行前往罗德岛，本欲在那里竖起一尊巨像。然而等待我们的，却是一番恶毒的意外……</text>
+      <text lang="eng">We sailed to the isle of Rhodes where we were supposed to erect a majestic statue. But instead, a nasty surprise was waiting for us ...</text>
       <text lang="ger">Wir segelten zur Insel Rhodos, wo wir eine gigantische Statue errichten sollten.Doch wird erlebten eine böse Überraschung...</text>
     </string>
     <string id="99">
       <text lang="CHN">罗德岛巨像</text>
+      <text lang="eng">THE COLOSSUS OF RHODES</text>
       <text lang="ger">DER KOLOSS VON RHODOS</text>
     </string>
     <string id="100">
       <text lang="CHN">派遣一名侦察兵前往罗德。</text>
+      <text lang="eng">Send a scout to Rhodes.</text>
       <text lang="ger">Schicke einen Kundschafter nach Rhodos.</text>
     </string>
     <string id="110">
       <text lang="CHN">找到线索，看看你能如何援助罗德人……</text>
+      <text lang="eng">Find a hint how you can assist the people of Rhodes ...</text>
       <text lang="ger">Finde einen Hinweis, wie du den Rhodern helfen kannst...</text>
     </string>
     <string id="111">
       <text lang="CHN">找到琳达的妹妹。</text>
+      <text lang="eng">Find Linda's sister.</text>
       <text lang="ger">Finde die Schwester von Linda.</text>
     </string>
     <string id="112">
       <text lang="CHN">去见佩特罗斯。他会继续助你一臂之力。</text>
+      <text lang="eng">Go to Petros. He will help you.</text>
       <text lang="ger">Gehe zu Petros. Er wird dir weiter helfen.</text>
     </string>
     <string id="113">
       <text lang="CHN">备一辆手推车，装上 10 桶蜂蜜酒，带到佩特罗斯处。</text>
+      <text lang="eng">Get a handcart with 10 mead and take it to Petros.</text>
       <text lang="ger">Besorge einen Handkarren mit 10 Met und gehe damit zu Petros.</text>
     </string>
     <string id="114">
       <text lang="CHN">若你愿意，可向奥克索斯缴贡买下这辆手推车。</text>
+      <text lang="eng">If you want to, buy the handcart off Oxos by paying him a tribute.</text>
       <text lang="ger">Wenn du magst, kaufe per Tributzahlung den Handkarren von Oxos.</text>
     </string>
     <string id="115">
       <text lang="CHN">向克罗伊斯缴纳 10 把长弓作为贡品，以使他对你友好。</text>
+      <text lang="eng">Pay Croesus a tribute of 10 longbows to make him happy.</text>
       <text lang="ger">Zahle Croesus 10 Langbogen als Tribut, um ihn friedlich zu stimmen.</text>
     </string>
     <string id="120">
       <text lang="CHN">向东南突围前往林多斯。到了那里，你便能求得援手。</text>
+      <text lang="eng">Make your way towards the south-east to Lindos. You will find help there.</text>
       <text lang="ger">Schlag dich gen Südenosten nach Lindos durch. Dort findest du Hilfe.</text>
     </string>
     <string id="121">
       <text lang="CHN">去拜访林多斯的市长。</text>
+      <text lang="eng">Find the mayor of Lindos.</text>
       <text lang="ger">Suche den Bürgermeister von Lindos auf.</text>
     </string>
     <string id="122">
       <text lang="CHN">与"秘书"塞克拉塔里奥斯一同去见港务长。</text>
+      <text lang="eng">Take Secretarios to the harbour master.</text>
       <text lang="ger">Geh mit Sekretarios zum Hafenmeister.</text>
     </string>
     <string id="123">
       <text lang="CHN">向市长领取一份许可文书。</text>
+      <text lang="eng">Get a letter of approval from the mayor.</text>
       <text lang="ger">Hole ein Genehmigungsschreiben beim Bürgermeister.</text>
     </string>
     <string id="124">
       <text lang="CHN">把市长给的许可文书送交比罗克拉特斯。</text>
+      <text lang="eng">Take the letter of approval from the mayor to Buerocrates.</text>
       <text lang="ger">Bring das Genehmigungsschreiben vom Bürgermeister zu Buerokrates.</text>
     </string>
     <string id="125">
       <text lang="CHN">在东方海岛上找到神谕神庙。</text>
+      <text lang="eng">Find the temple of the oracle on the island in the east.</text>
       <text lang="ger">Finde den Tempel des Orakels auf der Insel im Osten.</text>
     </string>
     <string id="130">
       <text lang="CHN">去林多斯寻访卡瑞斯。</text>
+      <text lang="eng">Look for Chares in Lindos.</text>
       <text lang="ger">Suche Chares in Lindos auf.</text>
     </string>
     <string id="131">
       <text lang="CHN">向卡瑞斯缴纳 25 块大理石（以贡品形式）。</text>
+      <text lang="eng">Deliver 25 blocks of marble to Chares (as a tribute).</text>
       <text lang="ger">Liefere Chares 25 Marmorblöcke (per Tribut).</text>
     </string>
     <string id="132">
       <text lang="CHN">向卡瑞斯缴纳 5 根金条、10 份黏土、10 块碎石（以贡品形式）。</text>
+      <text lang="eng">Deliver 5 gold ingots, 10 clay and 10 quarrystones to Chares (as a tribute).</text>
       <text lang="ger">Liefere Chares 5 Goldbarren, 10 Lehm und 10 Bruchsteine (per Tribut).</text>
     </string>
     <string id="133">
       <text lang="CHN">再向卡瑞斯缴纳 5 根金条、10 份黏土、10 块碎石（以贡品形式）。</text>
+      <text lang="eng">Deliver another 5 gold ingots, 10 clay and 10 quarrystones to Chares (as a tribute).</text>
       <text lang="ger">Liefere Chares weitere 5 Goldbarren, 10 Lehm und 10 Bruchsteine (per Tribut).</text>
     </string>
     <string id="134">
       <text lang="CHN">再向卡瑞斯缴纳 10 根金条与 10 根铁条（以贡品形式）。</text>
+      <text lang="eng">Deliver another 10 gold ingots and 10 iron bars to Chares (as a tribute).</text>
       <text lang="ger">Liefere Chares weitere 10 Goldbarren und 10 Eisenbarren (per Tribut).</text>
     </string>
     <string id="140">
       <text lang="CHN">@竖起罗德岛巨像！</text>
+      <text lang="eng">@BUILD THE COLOSSUS OF RHODES!</text>
       <text lang="ger">@ERRICHTE DEN KOLOS VON RHODOS!</text>
     </string>
   </strings>
@@ -252,6 +313,12 @@
         <text>
 我们在罗德岛附近的一座小岛上登陆，补充给养，稍作休整。最终我们要渡海前往罗德岛--因为真正的巨像就矗立在那里，等待着我们去完成它。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+We had arrived on a small island near Rhodes to restock our supplies and to recover from our journey. We wanted to cross to Rhodes, as this was the right spot to complete the next Wonder of the World - a statue that was to tower above the roofs of the city. A mighty Colossus! This was what the Council had ordered us to do, and we felt that this was not going to be an easy task ...
+
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -278,6 +345,25 @@ Wir waren auf einer kleinen Insel nahe Rhodos gelandet, um unsere Vorräte aufzu
 我们祝福他们，并承诺定将完成巨像以为呼应。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE JOURNEY HOME
+
+We had hardly arrived and unloaded the ships when our son Mani suddenly collapsed and lay on the beach unconscious! 
+We immediately ran up to him and turned him on his side. What we saw left us speechless! 
+
+His forehead was glowing like fire, he was soaked with sweat, and big red blotches covered his entire body!
+Cyra sobbed with fear and concern, as she seemed to know this disease - years ago, it had claimed numerous victims among the children of Byzantium! 
+
+Mani needed medical help quickly, but there was nobody among our friends who was skilled in medicine.
+After some discussion, we finally decided to take Mani to his grandfather's court in Byzantium. They had the best physicians of the empire, who would surely be able to help him - at least we hoped so ...
+
+With sad hearts we had to leave Hatchie and Sigurd behind with their task, but they both showed understanding for our miserable situation.
+
+We wished them good luck and promised to return as soon as Mani was better.
+Then we set sail towards Byzantium ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -314,6 +400,21 @@ Dann setzen wir Segel gen Byzanz...
         
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+
+We had hardly left our ship when we heard the sounds of battle, and horns being blown in the distance!
+A war was raging! 
+
+We could not tell exactly where the noise was coming from over the sea, but we feared that, of all places, our destination Rhodes was at war! Had evil stretched this far already? In this case we had to hurry up and act quickly!
+
+We decided to settle down for the moment and send out some scouts to find out exactly what was happening in Rhodes.
+
+
+Settle down on the island and send scouts to Rhodes.
+Use your papers and the goods from the ship.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -339,6 +440,11 @@ Benutze deine Briefe und die Waren aus dem Schiff.
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+MISSION COMPLETED! 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 MISSION GEWONNEN! 
@@ -357,6 +463,16 @@ MISSION GEWONNEN!
 唯独卡瑞斯兴致寥寥。这一遭，他被人狠狠算计了。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+We made it! With our help, Chares had managed to erect the third Wonder of the World!
+
+There the Colossus of Rhodes stood tall above the entrance to the harbour. Helios would be satisfied, and we had reached our goal as well.
+
+Only Chares wasn't too enthusiastic. The construction had financially ruined him! Full of despair and depression, he boarded a ship and set off.
+
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -380,6 +496,13 @@ Einzig Chares war wenig begeistert. Ihn hatte der Bau finanziell ruiniert! Verzw
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+It was time for us to say goodbye now. We left the magnificent city of Rhodes and sailed towards Halicarnassus. 
+
+This was our next port of call - THE TOMB OF MAUSOLOS.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Auch für uns war die Zeit des Abschieds gekommen. Wie verließen die prächtige Stadt Rhodos und setzen Segel Richtung Halikarnassos. 
@@ -402,6 +525,19 @@ Denn dort wartete bereits das nächste Weltwunder auf uns - DAS GARBMAL DES MAUS
 他们定也乐与你交易。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+OXIDOS
+
+This is the island of Oxidos. A small, quiet island. Ideal for a short trip, but who has got time for such things? 
+...
+
+Well, there are huge iron and gold deposits on Oxidos. The people of the island make their living by fishing and trading all kinds of ore. 
+They are happy about every business they can do, and are altogether very satisfied. 
+
+They will surely be glad to do trade with you, too.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -435,6 +571,17 @@ Bestimmt handeln sie auch gerne mit dir.
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -462,6 +609,18 @@ Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen 
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+Is this a way to behave? To attack peaceful people who only think of your good? Should you behave like this when you are not at home?
+
+Anyhow - the people of Oxidos are more interested in good trade than in dispute. That's why they offer to forget about the trouble and trade with you. 
+
+However, this offer is not exactly for free ...
+
+
+Pay the requested tribute if you want to make the people of Oxidos happy again.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Ist das die feine Art? Friedliche Leute anzugreifen, die es nur gut mit allen Fremden meinen? Benimmt man sich denn so, wenn man nicht zu Hause ist?
@@ -487,6 +646,16 @@ Zahle den geforderten Tribut, wenn du die Oxidenter wieder friedlich stimmen wil
 若要交易，便须缴纳贡品。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+CHRONOS
+
+You have reached Chronos. Weapon and armour merchants live here, who are well known for their excellent products in the whole Mediterranean area. However, they are so popular that they can charge a price before they start trading.
+
+
+Pay a tribute if you want to trade.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -516,6 +685,17 @@ Zahle Tribut, wenn du handeln willst.
 一时的疏忽，人生便会急转直下！你的女英雄希拉因你的大意而丧命！失去这位英雄，你将无缘见到任务的结局。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -553,6 +733,27 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin C
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+DIMITRI 
+
+"Ahhhh ... a stranger. In this region? Are you a spy maybe?
+
+</text>
+        <usericon>1,231,81</usericon>
+        <text>
+
+Listen: For weeks our city has been besieged by King Demetrios and his army! We are still able to hold the city, but the situation is getting worse!
+The attacks are getting stronger and stronger, and our men are exhausted from battle.
+
+Go to Petros, our mayor! He is leading our troops and has made a plan how to defeat Demetrios!
+You will find him in his house near the Byzantine quarter.
+
+...
+
+And if you turn out to be a spy, you will be very sorry!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DIMITRI 
@@ -584,6 +785,11 @@ Und wehe dir, wenn du ein Spion bist!"
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+You have paid Chronos the tribute. Now you are allowed to trade.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Du hast den Tribut an Chronos bezahlt. Nun kannst du handeln.
@@ -600,6 +806,15 @@ Du hast den Tribut an Chronos bezahlt. Nun kannst du handeln.
 "我偶尔有些好货。改日再来吧。"
         
         </text>
+        <usericon>1,267,118</usericon>
+      </lang>
+      <lang code="eng">
+        <text> 
+OXOS
+
+"Sometimes I have good offers. Come back again later."
+
+</text>
         <usericon>1,267,118</usericon>
       </lang>
       <lang code="ger">
@@ -631,6 +846,21 @@ OXOS
 你们看着挺能干，不如自己建一座？"
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+HELENA
+
+"This is a nice spot, isn't it? There used to be a magnificent warehouse, but when they built the port in the west, it was torn down. It was so nice though ...
+
+</text>
+        <usericon>1,276,79</usericon>
+        <text>
+
+Well, who knows...maybe someone else will soon build another nice warehouse in this spot ...
+
+Don't you want to build one? You look like a hard worker ..."
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -667,6 +897,20 @@ Wollt ihr nicht eines bauen? Ihr seht sehr tüchtig aus..."
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+INTRIGANTOS
+
+"Hey, stranger ...
+Have you heard of the mountain in the south? There are said to be large gold deposits! Even ore can be found there! 
+
+</text>
+        <usericon>1,321,103</usericon>
+        <text>
+
+However, they say that this mountain belongs to King Croesus and that he doesn't like it at all if people come too close to his treasures!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 INTRIGANTOS
@@ -702,6 +946,21 @@ Man sagt aber, dass dieser Berg König Croesus gehört und der es gar nicht gern
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+ALCOLIOS
+
+"Hey, stranger ... Shhhhhh ... I can offer you the best rotgut in the world! The finest stuff! Fresh from the press house! Good vintage, I can tell you!
+
+</text>
+        <usericon>1,340,107</usericon>
+        <text>
+
+There is nothing left at the moment, but if you come back again later, I may be able to help you ...
+
+HEY - and ... Shhhh! Only for good friends like you!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 ALCOLIOS
@@ -736,6 +995,20 @@ HEY - und... Pssst! Nur für gute Freunde wie dich!"
 谁喝得惯，自然会再来的，嘻嘻嘻……"
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+ALCOLIOS
+
+"Ahhh - haven't we met? Hehehe ... best stuff, you know ... hoho ...
+
+</text>
+        <usericon>1,340,107</usericon>
+        <text>
+
+I got a new delivery. Do you want to try it? At no expense, of course ... hoho
+Those who like it come back again anyway ... hohoho ..."
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -773,6 +1046,25 @@ Wem's schmeckt, der kommt wieder hihihi..."
 朝北航行，再由那里一路向东，你便能抵达罗德。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+ULYSSES
+
+"Greetings, strangers!
+
+I have been on numerous journeys, I have travelled the world. I could tell you a lot of stories ...
+
+</text>
+        <usericon>1,317,141</usericon>
+        <text>
+
+But tell me - do you know the islands of Oxidos and Chronos? Beautiful places, ideal for a short trip! Also, on Chronos you will get the best weapons around here!
+And on Oxidos you will find endless deposits of gold and ore. You can also do excellent trade with both islands!
+
+Travel north and from there continue towards the rising sun. Then you will find the islands!
+May Neptune be with you!"
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -814,6 +1106,23 @@ Möge Neptun mit dir sein!"
 不过说实话--在南方，我过得更好……
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+BADENSOS
+
+"Oh, stranger!
+I used to live in the south of this country, in the west of the big mountain range. 
+
+</text>
+        <usericon>1,245,126</usericon>
+        <text>
+
+There were lush meadows, wonderful woods full of deer and endless resources. 
+I moved into the city when I grew old and too weak to cultivate my fields.
+
+But to be honest - I liked it better in the south!"
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -861,6 +1170,31 @@ Aber um ehrlich zu sein - mir hat es im Süden besser gefallen!"
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+LINDA, WIFE OF PETROS
+
+"Greetings, strangers.
+
+I am Linda, the wife of our mayor Petros. 
+
+</text>
+        <usericon>1,218,126</usericon>
+        <text>
+
+For weeks, our city has been besieged by Demetrios and his army. Our situation is getting worse and worse!
+
+However, Petros has made a plan for advancing against the besiegers. It is a dangerous plan, though!
+
+Unfortunately, Petros is ... how can I put it ... slightly scared of rain. He won't leave the house in this weather, he locks himself up.
+Petros can help you, but he is scared of rain. He is sitting in the house refusing to go outside ...
+
+Look out for my sister ... She often visits the temple in the eastern part of town, tending the garden. You will recognise her easily. She is somewhat slimmer than ... hrmpf ... me, but other than that, we are as like as two peas in a pod. 
+She knows how to talk to the gods of the wind and the weather. She is a mighty sorceress. Find her, maybe she can do something about the rain.
+
+And if it stops raining, maybe Petros will come out and talk to you ..."
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 LINDA, FRAU VON PETROS
@@ -907,6 +1241,21 @@ Und wenn der Regen aufhört, kommt Petros vielleicht raus, um mit dir zu reden..
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+LINDA'S SISTER
+
+We had found Linda's sister. But before we could ask her the favour, she began to speak:
+
+</text>
+        <usericon>1,317,91</usericon>
+        <text>
+
+"So, once again I am asked to spirit away the rain ... Is our dear Petros refusing to leave the house again? Hahaha."
+
+Oh well - I will help you. Stand back ..."
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 LINDAS SCHWESTER
@@ -938,6 +1287,17 @@ Nun denn - ich will euch helfen. Tretet mal einen Schritt zurück..."
 代我向琳达问好！"
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+"Now go to our scared little hero. Go to Petros ... hahaha.
+
+</text>
+        <usericon>1,317,91</usericon>
+        <text>
+
+And give my regards to Linda!"
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -982,6 +1342,36 @@ Und richte Linda einen schönen Gruß von mir aus!"
 后会有期！"
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+PETROS
+
+"Greetings, strangers! My wife has already told me about you! You came here to help, right? Excellent!
+
+</text>
+        <usericon>1,218,128</usericon>
+        <text>
+
+Well, then listen to my plan:
+
+A spy is hiding in the enemy camp. His name is Metros. He is a merchant and supplies the enemy troops with various kinds of goods. But in his heart he is a friend of Rhodes and will always put his life at risk for the sake of the city!
+
+Underneath my house, there is a secret underground passage leading to a cave near Metros' camp. 
+It is my plan to use the passage to supply Metros with mead which he can then offer the enemy soldiers and thus distract them for a while! The time this buys us must be used for someone to sneak past the troops and make their way through to Lindos.
+
+Lindos is a port in the south-east, and its inhabitants have always been good friends of ours. There is an oracle not far from the city. It is this oracle that we have to consult! The oracle will surely be able to tell us how to defeat Demetrios!
+
+The plan is simple, it can't go wrong! Metros has already been informed, he is only waiting for the delivery. 
+I would go myself, but you know ... my back! Ah, it hurts like hell! I would hardly make it to the end of the passage!
+
+You will do this for us, won't you?!
+
+Bring a handcart full of mead here. I will then let you sneak into the secret passage so you can take it to Metros.
+You might be able to buy a handcart from Oxos at the market.
+
+See you later!"
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1032,6 +1422,19 @@ Bis später dann!"
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+OXOS
+
+"I have a great offer for you! A fine handcart! Newly built, very solid! A real masterpiece!
+
+</text>
+        <usericon>1,267,118</usericon>
+        <text>
+
+You can have it in return for two mead! We can settle it with a tribute payment, all right?!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 OXOS
@@ -1063,6 +1466,19 @@ Für zwei Met könnt ihr ihn haben! Wir regeln das dann über eine Tributzahlung
 来，收好这好物件。可要妥加保管！"
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+OXOS
+
+"Thank you for the mead! 
+
+</text>
+        <usericon>1,267,118</usericon>
+        <text>
+
+Here you go, take good care of it!"
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1097,6 +1513,23 @@ Hier, nehmt das gute Stück. Und passt gut darauf auf!"
 东南方有座可爱的城！名曰林多斯……
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+KING OF THULE
+
+"Greetings, friends from home! How are things going in distant Northland? Is there still a lot of snow? 
+
+</text>
+        <usericon>1,199,138</usericon>
+        <text>
+
+Although I used to be chief of a huge Viking people, I never really got used to the snow and the cold.
+That's why I moved to the south a few years ago. It is a lot warmer, a good treatment for my old bones, I can tell you, hoho.
+
+There is a beautiful city in the south-east! Its name is Lindos, you will have to go and visit one day. They have very good wine! 
+I also know a secret passage through the mountains! It's hard to find, but it offers a magnificent view of the sea. If you look for it, keep a lookout for treasure chests ..."
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1134,6 +1567,19 @@ Ich kenne da auch einen geheimen Pfad durch die Berge! Schwer zu finden, aber mi
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+PETROS' MESSENGER 
+
+"We have already prepared everything for you! 
+
+</text>
+        <usericon>2,62</usericon>
+        <text>
+
+May fortune favour you this time!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 BOTE VON PETROS 
@@ -1169,6 +1615,23 @@ Möge euch das Schicksal diesmal mehr Glück schenken!"
 如我所言，我本欲亲往……奈何旧伤未愈。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+PETROS
+
+"Ah, I see you are carrying mead with you! Very good ...
+
+</text>
+        <usericon>1,218,128</usericon>
+        <text>
+
+Now take the mead to Metros through the underground labyrinth. Take a few of my men to assist you ... you never know ...
+
+Good luck! The fate of the people of Rhodes depends on you!
+
+As I said, I would go myself, but my back ..."
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1206,6 +1669,19 @@ Wie gesagt, ich würde ja selbst... aber mein Rücken..."
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+ATTACK!
+
+Suddenly a ship with soldiers aboard arrived at the coast! 
+
+</text>
+        <usericon>1,32,228</usericon>
+        <text>
+
+Demetrios' troops! They had discovered us and were now intent on securing the coast ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 ANGRIFF!
@@ -1239,6 +1715,21 @@ Demetrios's Truppen! Sie hatten uns entdeckt und waren nun darauf aus, den Küst
 缴纳贡品，以缔造和平……
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+CROESUS
+
+You have invaded King Croesus' empire! And he doesn't like it when strangers try to lay hands on his gold! 
+
+</text>
+        <usericon>1,47,390</usericon>
+        <text>
+
+However, he is prepared to put down his weapons in return for a certain "peace price".
+
+Pay the tribute in order to establish peace ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1274,6 +1765,17 @@ Zahle den Tribut, um Frieden zu stiften...
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1303,6 +1805,19 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 他不会再攻击你了。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+TRUCE
+
+As promised, Croesus withdraws from the gold deposit. 
+
+</text>
+        <usericon>1,53,466</usericon>
+        <text>
+
+He will not attack you any more.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1335,6 +1850,19 @@ Er wird dich nun nicht mehr angreifen.
 我们等待着……
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+EXIT
+
+We had made it! We left the secret passage and stepped into the daylight. Metros the merchant was supposed to meet us here to take the mead from us.
+
+</text>
+        <usericon>1,207,234</usericon>
+        <text>
+
+We waited ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1369,6 +1897,22 @@ Wir warteten...
 眼下我虽帮不上忙，但改日或许能助你们一臂之力……
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+METROS
+
+"Hello, strangers! You have ventured far beyond enemy lines!
+
+</text>
+        <usericon>2,90</usericon>
+        <text>
+
+I do business with the soldiers of Demetrios. A lucrative business, you know, hehehe. They buy everything ...
+But still - my heart belongs to Rhodes. You should always separate business from private matters, that's my motto ...
+ 
+Well, I can't do anything for you at the moment, but go and find the mayor in Rhodes. His name is Petros. He may be able to help you."
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1415,6 +1959,32 @@ Nun, momentan kann ich nichts für euch tun, aber geht in Rhodos zum Bürgermeis
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+METROS
+
+We hadn't been waiting long when Metros approached us:
+
+</text>
+        <usericon>2,90</usericon>
+        <text>
+
+"Ah, there you are. I have been expecting you. You came through the secret passage, didn't you? 
+I love underground passages, you know. My cousin in distant Lutetia is digging many such tunnels below the city. He says it's in order to lessen the traffic load. 
+He's always been hard-working ...
+
+Thank you for the mead! I will try to distract the soldiers with a free round ... When they pitch into it, you should set off through their lines as quickly as possible. But wait here until the path is clear ...
+
+Oh, and here is the key to the secret passage's teleport chamber. If anyone has to go through there again, it will shorten the way significantly.
+
+And take these weapons here. The path to Lindos might be defended! In this case you will have to fight your way through.
+And now go ...
+
+Take good care of yourselves! Hide until the soldiers have passed and then hurry up!
+
+Good luck!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 METROS
@@ -1454,6 +2024,14 @@ Viel Glück!"
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+Your messenger is dead!
+
+The trick with the mead will surely work a second time. 
+Send another messenger to Petros with a handcart full of mead. He will again open the entrance to the secret passage ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Dein Bote ist tot!
@@ -1486,6 +2064,25 @@ Schicke einen neuen Boten mit einem Handkarren voll Met zu Petros. Er öffnet di
 我的"秘书"塞克拉塔里奥斯应与你同往。一切交由他安排。"
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+PLATO
+
+We had found the mayor of Lindos:
+
+</text>
+        <usericon>2,95</usericon>
+        <text>
+
+"Greetings, strangers. How did you get through the enemy lines? It wasn't easy, I suppose?
+
+You are looking for the oracle? Well, the temple of the oracle is located on an island in the east. Most of the time it is protected by an impenetrable fog ... And you would also need a ship ...
+
+Hm ... let me think ... Yes, go to Buerocrates the harbour master. Please give him my regards. Ask him to give you a ship and see whether he can do something about the fog.
+
+My secretary will go with you. He will settle the rest for you. In the meantime you may go and rest, if you want to."
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1527,6 +2124,21 @@ Mein Sekretär soll mit dir gehen. Er wird alles weitere für euch regeln. Ruht 
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+PLATO
+
+"Oh ...
+
+</text>
+        <usericon>2,95</usericon>
+        <text>
+
+My valued Secretarios has passed away ... What tragedy!
+
+Well, now one of you Vikings will have to take over his job and carry out the orders."
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 PLATO
@@ -1565,6 +2177,24 @@ Nun, dann muss einer von euch Wikingern seinen Posten übernehmen und den Auftra
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+BUEROCRATES
+
+We found the harbour master near the harbour. Stoically, he listened to our story.
+
+</text>
+        <usericon>2,96</usericon>
+        <text>
+
+"A ship. Hm. Well, anybody could come and claim that! Your words are pointless! 
+First I need an official letter of approval from the mayor!
+
+Without such a letter I won't do anything, understood?
+
+The sooner you return with the letter, the better. I want to finish work on time! So, hurry up!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 BUEROKRATES
@@ -1602,6 +2232,19 @@ Je schneller du damit zurück bist, desto besser. Ich will pünktlich Feierabend
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+PLATO
+
+When the mayor heard about Buerocrates' request, he simply shook his head:
+
+</text>
+        <usericon>2,95</usericon>
+        <text>
+
+"Typical bureaucrat! Well then, wait a minute ..."
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 PLATO
@@ -1634,6 +2277,20 @@ Als der Bürgermeister von der Forderung von Buerokrates hörte, schüttelte er 
 他不过是在履行职责罢了……"
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+PLATO
+
+"Here is the letter of approval. Three copies, two seals.
+
+</text>
+        <usericon>2,95</usericon>
+        <text>
+
+Take it to Buerocrates. And you can tell him from me ... Oh, forget it. 
+After all, he's only doing his job ..."
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1674,6 +2331,27 @@ Er macht ja eigentlich nur seinen Job..."
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+BUEROCRATES
+
+"Ah, you did it ... Now give me that.
+
+</text>
+        <usericon>2,96</usericon>
+        <text>
+
+... well ... ah ... hm ...yes.
+
+It seems to be in order.
+
+Well then ...
+Take this ship and set off towards the east. There you will find the holy island with the temple of the oracle. Enter the temple and ask the goddess for advice! 
+
+Ah, and now -
+that's it for today ..."
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 BUEROKRATES
@@ -1709,6 +2387,15 @@ Endlich Feierabend..."
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+FOG OF POSEIDON
+
+Out of nowhere a huge fog wall suddenly appears in front of you. There is no way through.
+
+Now what?
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 NEBEL DES POSEIDON
@@ -1742,6 +2429,27 @@ Was nun? ...
 我或许能助你们一臂之力……稍施个小法术……"
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+BUEROCRATES
+
+Suddenly Buerocrates spoke up:
+
+</text>
+        <usericon>2,96</usericon>
+        <text>
+
+"Ah, I totally forgot ... 
+
+The notorious Fog of Poseidon ...
+It is meant to keep nosy tourists away from the island ...
+No ship can get through there. That, however, is a slight problem ...
+
+Hm. Hm. Hm ...
+
+I may be able to help you ... a little magic now and then does no harm ..."
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1786,6 +2494,25 @@ Ich kann euch vielleicht helfen... ein kleiner Zauber unter Behörden, so hie un
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+RHODES
+
+The famous seaport of Rhodes, in the north of the island bearing the same name. Travellers referred to Rhodes as one of the most beautiful islands of the Aegean Sea. But we didn't like what WE were seeing at all!
+
+There were soldiers everywhere, and they were nervously running around in the streets. Battle noises echoed from the city walls.
+
+Rhodes was under siege! The city was at war!
+
+But as long as the war lasted, it was impossible to carry out our plans - to build the Colossus that would be remembered as a Wonder of the World for centuries to come!
+We had to find a way to end the war. But how were we to do that? After all, we were in no condition to face a whole army ...
+
+We decided to check the situation and look for information. Surely, there must be people in town who could help us ...
+
+
+Search the city for information that might help you.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 RHODOS
@@ -1824,6 +2551,17 @@ Suche in der Stadt nach Informationen, wie du vielleicht helfen kannst.
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1848,6 +2586,14 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THE TEMPLE OF THE ORACLE
+
+Finally, we had reached the temple of the oracle.
+Behind the entrance gate a path led down to a mysterious vault ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DER TEMPEL DES ORAKELS
@@ -1867,6 +2613,13 @@ Hinter der Eingangspforte führte ein Weg hinab in ein geheimnisvolles Gewölbe.
 改变你的态度，否则将无缘达成目标。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+Why do you have a hostile attitude towards the people of Rhodes? They haven't done you any harm!
+
+Change your attitude, or you will not reach your goal! 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1892,6 +2645,21 @@ Warum bist du gegen das Volk von Rhodos feindlich eingestellt? Sie haben dir nic
 如今轮到我们，去矗立那尊本应在此的巨像了。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+HELIOS' PUNISHMENT
+
+When we left the temple, Helios made us feel his power! 
+
+An enormous tremor shook the ground, glaring beams scorched Demetrios' army! 
+Dazzled by the blinding light, we turned away, and when we dared to open our eyes after some minutes, Demetrios had disappeared from the face of the Earth with all of his men!
+
+Helios had kept his word! Rhodes was free!
+
+Now it was up to us to build the statue in return for his support. 
+Was it coincidence or fate - there was no doubt that this Colossus was the very Wonder of the World that we had set out to build!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1935,6 +2703,29 @@ War es Zufall oder Schicksal - es gab keinen Zweifel, dass dieser Koloss genau j
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+PETROS
+
+"We will be forever grateful, friends! 
+
+</text>
+        <usericon>2,95</usericon>
+        <text>
+
+It was your courage and bravery that saved our people!
+
+Even though I am aware of the debt my people now owe you, I do have another favour to ask:
+
+We are happy to build the mighty Colossus in honour of Helios, the sun god! But no one in our town has the necessary knowledge to do it.
+In Lindos, however, lives the famous architect Chares! Find him and ask him to take on this honourable task for the people of Rhodes. It won't be to his disadvantage!
+
+We are already much obliged to you!"
+
+
+Find Chares in Lindos.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 PETROS
@@ -1977,6 +2768,19 @@ Such Chares in Lindos auf.
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+CITIZEN
+
+"You are looking for Chares? The famous architect?
+
+</text>
+        <usericon>2,120</usericon>
+        <text>
+
+I haven't seen him for a while ..."
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 BÜRGER
@@ -2008,6 +2812,19 @@ Den hab ich hier schon länger nicht mehr gesehen..."
 认得。听说他想休几天假。"
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+CITIZEN
+
+"Chares? 
+
+</text>
+        <usericon>2,121</usericon>
+        <text>
+
+Yes, I know him. I heard that he wanted to go on holiday for a few days."
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -2042,6 +2859,21 @@ Ja, den kenne ich. Ich habe gehört, er wollte ein paar Tage Urlaub machen."
 我想他是想去……
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+CITIZEN
+
+"Oh yes, Chares is a good friend of mine! 
+
+</text>
+        <usericon>2,122</usericon>
+        <text>
+
+He's had so much work lately that he wanted to recover. Take a few days off to get some fresh air, you know?
+
+I think he wanted to go fishing! He knows this secret little place ... But he never told me where it is ..."
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -2078,6 +2910,22 @@ Ich glaube, er wollte Fischen gehen! Er hat da so sein geheimes Revier. Er hat m
 是呀，那好老头卡瑞斯……
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+CITIZEN
+
+"Chares? Yes, I have seen him. 
+
+</text>
+        <usericon>2,123</usericon>
+        <text>
+
+He's sitting at the beach to the north, trying to catch some fish. Haha!
+If I know him, he will only pull a lousy mackerel ashore and then tell everybody he caught a HUGE whale. Hehehe.
+
+Oh well, good old Chares ..."
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -2130,6 +2978,36 @@ Jaja, der gute, alte Chares..."
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+CHARES
+
+So, this is the famous architect Chares! 
+
+</text>
+        <usericon>2,98</usericon>
+        <text>
+
+We explained our problem, but he didn't seem to be too enthusiastic.
+
+"Can't you see that I'm taking some time off! I do so far too rarely, considering all this work! And now you want me to interrupt my well-earned holiday?!
+
+...
+
+You want me to build a Colossus in honour of the god Helios, is that right? 
+
+...
+
+Well, actually it would be interesting ...
+
+Yes, that might tempt me. But on one condition only:
+
+You have to assist me! I want to get back to my fishing as soon as possible, so you had better have the necessary building materials delivered to me! 
+Other than that, I am unable to grant your request ...
+
+So, how about it?"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 CHARES
@@ -2172,6 +3050,15 @@ Also, wie steht's?"
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+We thought for a while and finally agreed to Chares' proposal. After all, we had come here to build the Wonder of the World. 
+It was all the better if a famous architect was willing to assist us.
+
+After we had promised Chares our support, he immediately travelled to Rhodes to meet with the mayor.
+We, too, set off into the city.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Nun, wir überlegten eine Weile und stimmten schließlich dem Vorschlag von Chares zu. Immerhin waren wir gekommen, um das Weltwunder zu errichten. 
@@ -2209,6 +3096,34 @@ Auch wir machten und auf den Weg in die Stadt.
 向卡瑞斯运送 25 大理石（缴贡）。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+NEGOTIATIONS
+
+Chares and Petros the mayor of Rhodes negotiated for quite a while. 
+
+</text>
+        <usericon>2,98</usericon>
+        <text>
+
+They discussed what the monument should look like, how tall it was to be, which material they were to use, where to build it and - Chares' main concern - what they would pay him.
+
+Finally they agreed to build the Colossus near the harbour and make it 18 meters tall.
+
+Its foundations were to be made of the finest marble, and on top would be an iron frame filled with clay and stones in order to make it sturdy.
+In the end, it would be mantled in gold to do justice to the splendour and the grace of the god Helios.
+
+
+It was a momentous undertaking, and Chares required an adequate wage from the city fathers. 
+They agreed on Chares' wage for building the monument, including the material and workforce.
+
+When everything was settled, they started the construction. A warehouse at the harbour was torn down. This was the place where the Colossus was to be built.
+Chares now turned to us and required a delivery of 25 marble for the foundations.
+
+
+Deliver 25 marble to Chares (as a tribute).
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -2259,6 +3174,21 @@ Liefere Chares 25 Marmor (per Tribut).
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+FOUNDATIONS BUILT
+
+With the marble that we delivered, Chares was able to build the foundations quickly. 
+
+</text>
+        <usericon>1,229,69</usericon>
+        <text>
+
+It was magnificent to look at, and we could already guess what a gigantic masterpiece would stand here one day ...
+
+When Chares was finished with the foundations, the mayor called him.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 FUNDAMENT ERRICHTET
@@ -2301,6 +3231,27 @@ Als Chares mit dem Fundament fertig war, rief ihn der Bürgermeister zu sich.
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+NEGOTIATIONS
+
+"Chares, I am delighted!" Petros greeted him. "You are a true master of your art! 
+
+</text>
+        <usericon>2,98</usericon>
+        <text>
+
+No doubt you will succeed in turning this Colossus into the largest piece of art in the whole Mediterranean area! What a genius!"
+
+Chares, of course, was flattered by such praise. We, however, found it slightly strange ... Such praise, just because he had built a little foundation?
+
+"Chares, oh great master! What if we make your piece of art even more powerful and magnificent? Your name would be known forever. In a hundred years' time, people would still talk about you and your great achievement! 
+
+What if we built the Colossus TWICE as big? Not 18 meters, but 36 meters high?
+
+Of course, we would pay you double the wage ..."
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 VERHANDLUNGEN
@@ -2342,6 +3293,22 @@ Wir zahlen dir natürlich auch den doppelten Preis..."
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+That was all there was to it! Twice the height for a double wage! What seemed to be a fair deal at first glance turned out to be a smart trick by the merchants of Rhodes:
+ 
+Chares would not need twice as many, but eight times as many materials! This would, of course, increase his expenses enormously. A calculation that would never work out!
+
+We wanted to warn him, but he had already accepted the mayor's offer. 
+
+It looked like we were in for some fun ...
+
+He now ordered us to get him the calculated material for the statue. He needed gold, clay and quarrystone.
+
+
+Deliver 5 gold, 10 clay and 10 quarrystones to Chares (as a tribute).
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Das also war der Trick an der Sache! Doppelte Höhe bei doppeltem Preis! Was auf den ersten Blick wie ein fairer Handel schien, entpuppte sich bei näherem Betrachten als geschickte Finte der rhodischen Handelsleute:
@@ -2380,6 +3347,24 @@ Liefere Chares 5 Gold, 10 Lehm und 10 Bruchstein (per Tribut).
 向卡瑞斯再运送 5 金、10 黏土与 10 碎石（缴贡）。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+We brought Chares the requested materials and the construction continued. But even though he had used up all of the materials, only the feet of the Colossus had been built ...
+
+Chares, who had precisely calculated the necessary amount of material for the WHOLE statue beforehand, was completely aghast! How could it be that he had made such a miscalculation? It was simply impossible!
+
+</text>
+        <usericon>2,98</usericon>
+        <text>
+
+This was exactly what we had expected! Chares had been fooled by the people of Rhodes, and he had only just become aware of it. But despite all this, apparently he still wasn't aware of the whole significance of the deceit, because he simply requested the same amount of materials once more. This would be enough according to his calculation.
+
+We were sceptical, but sometimes it was better to learn things step by step ...
+
+
+Deliver another 5 gold, 10 clay and 10 quarrystones to Chares (as a tribute).
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -2424,6 +3409,28 @@ Liefere Chares nochmals 5 Gold, 10 Lehm und 10 Bruchstein (per Tribut).
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+It was starting to be an effort to get all the necessary materials. But in the end we made it and Chares took up work immediately.
+
+The construction was proceeding, and when all the materials were used up, the Colossus was finished ...
+
+... at least up to its belly!
+
+</text>
+        <usericon>2,98</usericon>
+        <text>
+
+Chares was raving and furious as he began to realise that the wool had been pulled over his eyes, and that all his profit would be lost. He would even have to pay part of the cost out of his own pocket!
+
+He walked up to Petros to negotiate a new price, but in vain. 
+"You gave us your word, oh noble Chares," were the brief words of the mayor, who didn't seem to be moved at all by the fate of the poor architect.
+Chares didn't have a choice but to complete his masterpiece ...
+
+
+Deliver another 10 gold and 10 iron to Chares (as a tribute).
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Es kostete uns langsam Mühe, das nötige Material herbei zu schaffen. Doch schließlich gelang es uns und Chares machte sich wieder ans Werk.
@@ -2460,6 +3467,16 @@ Liefere Chares nochmals 10 Gold und 10 Eisen (per Tribut).
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+DEMETRIOS
+
+King Demetrios with his army. He has been besieging the city of Rhodes for weeks. So far he has not been able to penetrate the firm city walls, but his attacks are getting stronger and stronger.
+
+
+Keep away from his soldiers! They will show you no mercy!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DEMETRIOS
@@ -2489,6 +3506,17 @@ Halte dich von seinen  Soldaten fern! Sie werden keine Gnade zeigen!
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero NORBERT, the dragon, died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -2513,6 +3541,15 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! NORBERT, der k
         </text>
         <usericon>1,409,199</usericon>
       </lang>
+      <lang code="eng">
+        <text> 
+NAVAL BLOCKADE
+
+Demetrios has established a naval blockade. There is no way through! 
+
+</text>
+        <usericon>1,409,199</usericon>
+      </lang>
       <lang code="ger">
         <text> 
 SEEBLOCKADE
@@ -2535,6 +3572,15 @@ Demetrios hat hier eine Seeblockade errichtet. Hier gibt es kein Durchkommen!
 但谁又知，这些勇敢的居民此番会扮演何种角色……
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+LINDOS
+
+This is the city of Lindos. Although the people are close friends with Rhodes, they are too weak to provide military support against Demetrios.
+
+But who knows what role the brave people of this town will play in this conflict ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -2564,6 +3610,17 @@ Aber wer weiß, welche Rolle die tapferen Bewohner dieser Stadt in dem herrschen
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! MANI, son of Bjarni and Cyra, died due to your negligence! Without him, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -2587,6 +3644,13 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Der Sohn von B
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+Why do you have a hostile attitude towards the people of Lindos? They haven't done you any harm!
+
+Change your attitude, or you won't reach your goal! 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Warum bist du gegen das Volk von Lindos feindlich eingestellt? Sie haben dir nichts getan!
@@ -2605,6 +3669,15 @@ Warum bist du gegen das Volk von Lindos feindlich eingestellt? Sie haben dir nic
 沙漠商人巴克希什与妻子平日住在此处。自德米特里奥斯围城以来，他却不知所踪……
         
         </text>
+        <usericon>1,118,187</usericon>
+      </lang>
+      <lang code="eng">
+        <text> 
+BACKSHISH
+
+This is where Bakshish the desert merchant usually lives with his wife. But since the beginning of the siege led by Demetrios, he has been hiding somewhere.
+
+</text>
         <usericon>1,118,187</usericon>
       </lang>
       <lang code="ger">
@@ -2637,6 +3710,19 @@ Hier lebt normalerweise der Wüstenhändler Bakshish mit seiner Frau. Seit der B
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+You attacked your best friends although you had been warned! 
+
+This way you will not be able to complete your mission!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -2663,6 +3749,15 @@ So wirst du deine Mission nicht beenden können!
         </text>
         <usericon>1,118,187</usericon>
       </lang>
+      <lang code="eng">
+        <text> 
+BACKSHISH
+
+This is the camp of Bakshish the famous desert merchant. Since the end of the blockade, he has opened up his stores again and is looking forward to flourishing business.
+
+</text>
+        <usericon>1,118,187</usericon>
+      </lang>
       <lang code="ger">
         <text> 
 BACKSHISH
@@ -2675,6 +3770,7 @@ Das ist das Lager von Bakshish, dem bekannten Wüstenhändler. Seit dem Ende der
     </block>
     <block id="990">
       <lang code="CHN" />
+      <lang code="eng" />
       <lang code="ger" />
     </block>
     <block id="header">
@@ -2685,6 +3781,11 @@ Das ist das Lager von Bakshish, dem bekannten Wüstenhändler. Seit dem Ende der
 罗德岛太阳神巨像
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE COLOSSUS OF RHODES
+</text>
       </lang>
       <lang code="ger">
         <text> 

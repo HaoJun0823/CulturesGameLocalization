@@ -1,176 +1,219 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_03_01" export_map_id="campaign_03_01" map_md5="7f8073aa484fa839e25a181ee00d1116" IsC2M="false">
+<localization version="1.3" map_id="campaign_03_01" export_map_id="campaign_03_01" map_md5="7f8073aa484fa839e25a181ee00d1116" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">寻找一处合适的登陆点。</text>
+      <text lang="eng">Find a suitable mooring place.</text>
       <text lang="ger">Suche einen geeigneten Landeplatz.</text>
     </string>
     <string id="1">
       <text lang="CHN">建立一座小型聚落。</text>
+      <text lang="eng">Establish a small settlement.</text>
       <text lang="ger">Baue eine kleine Siedlung auf.</text>
     </string>
     <string id="2">
       <text lang="CHN">向灯塔运送 100 块碎石与 50 块大理石。</text>
+      <text lang="eng">Take 100 quarrystones and 50 blocks of marble to the Lighthouse.</text>
       <text lang="ger">Bringe 100 Bruchsteine und 50 Marmorblöcke zum Leuchtturm.</text>
     </string>
     <string id="3">
       <text lang="CHN">动身寻访建筑师索斯特拉托斯并将其解救。</text>
+      <text lang="eng">Set out to look for the architect Sostratos and free him.</text>
       <text lang="ger">Begib dich auf die Suche nach dem Architekten Sostratos und befreie ihn.</text>
     </string>
     <string id="4">
       <text lang="CHN">向流浪者缴纳 120 枚钱币与 10 单位蜂蜜酒，否则与之交战。</text>
+      <text lang="eng">Pay the vagabonds 120 coins and 10 mead or fight them.</text>
       <text lang="ger">Zahle den Vagabunden 120 Münzen und 10 Met oder bekämpfe sie.</text>
     </string>
     <string id="5">
       <text lang="CHN">向流浪者缴纳其所索物资：</text>
+      <text lang="eng">Give the vagabonds the required goods:</text>
       <text lang="ger">Zahle den Vagabunden die geforderten Waren:</text>
     </string>
     <string id="6">
       <text lang="CHN">搜查流浪者的营地。</text>
+      <text lang="eng">Search the vagabonds' camp.</text>
       <text lang="ger">Durchsuche das Vagabundenlager.</text>
     </string>
     <string id="7">
       <text lang="CHN">将索斯特拉托斯带往灯塔。</text>
+      <text lang="eng">Take Sostratos to the Lighthouse.</text>
       <text lang="ger">Bringe Sostratos zum Leuchtturm.</text>
     </string>
     <string id="8">
       <text lang="CHN">寻得圣火。</text>
+      <text lang="eng">Find the Holy Fire.</text>
       <text lang="ger">Finde das heilige Feuer.</text>
     </string>
     <string id="9">
       <text lang="CHN">向山地部族缴纳 15 份大型治疗药剂作贡金，否则与之交战。</text>
+      <text lang="eng">Pay the mountain tribe a tribute of 15 big healing potions or fight them.</text>
       <text lang="ger">Zahle dem Bergvolk 15 große Heiltränke Tribut oder bekämpfe sie.</text>
     </string>
     <string id="10">
       <text lang="CHN">由一名英雄将圣火带往灯塔。</text>
+      <text lang="eng">Have a hero take the fire to the Lighthouse.</text>
       <text lang="ger">Bringe das Feuer mit einem Helden zum Leuchtturm.</text>
     </string>
     <string id="11">
       <text lang="CHN">与维京人交易 5 把长剑。</text>
+      <text lang="eng">Trade 5 longswords with the Vikings.</text>
       <text lang="ger">Handele mit den Wikingern 5 Langschwerter.</text>
     </string>
     <string id="12">
       <text lang="CHN">@加固法罗斯灯塔！</text>
+      <text lang="eng">@FORTIFY THE PHAROS LIGHTHOUSE!</text>
       <text lang="ger">@BEFESTIGE DEN LEUCHTTURM VON PHAROS!</text>
     </string>
     <string id="13">
       <text lang="CHN">向维京人缴纳 10 枚防御护符作贡金。</text>
+      <text lang="eng">Pay the Vikings a tribute of 10 amulets of defence.</text>
       <text lang="ger">Reiche den Wikingern 10 Verteidigungsamulette zum Tribut.</text>
     </string>
     <string id="14">
       <text lang="CHN">在灯塔附近建起一座仓库。</text>
+      <text lang="eng">Build a warehouse near the Lighthouse.</text>
       <text lang="ger">Errichte ein Lagerhaus in der Nähe des Leuchtturmes.</text>
     </string>
     <string id="15">
       <text lang="CHN">打开闸门，与全部英雄一同抵达矿坑入口。</text>
+      <text lang="eng">Open the gates and reach the entrance to the mines with all your heroes.</text>
       <text lang="ger">Öffne die Tore und gelange mit allen Helden zum Eingang der Bergwerke.</text>
     </string>
     <string id="16">
       <text lang="CHN">与全部英雄一同抵达山岳入口！</text>
+      <text lang="eng">Reach the entrance to the mountain with ALL your heroes!</text>
       <text lang="ger">Gelange mit ALLEN Helden zum Eingang des Berges!</text>
     </string>
     <string id="19">
       <text lang="CHN">向游牧民缴纳 15 份大型治疗药剂作贡金。</text>
+      <text lang="eng">Pay the nomads a tribute of 15 big healing potions.</text>
       <text lang="ger">Zahle den Nomaden 15 große Heiltränke Tribut.</text>
     </string>
     <string id="21">
       <text lang="CHN">碎石 %d/100</text>
+      <text lang="eng">Quarrystone %d/100</text>
       <text lang="ger">Bruchsteine %d/100</text>
     </string>
     <string id="22">
       <text lang="CHN">大理石 %d/50</text>
+      <text lang="eng">Marble %d/50</text>
       <text lang="ger">Marmor %d/50</text>
     </string>
     <string id="23">
       <text lang="CHN">物资已送达</text>
+      <text lang="eng">Goods delivered</text>
       <text lang="ger">Waren geliefert</text>
     </string>
     <string id="51">
       <text lang="CHN">亚历山大港</text>
+      <text lang="eng">Alexandria</text>
       <text lang="ger">Alexandria</text>
     </string>
     <string id="52">
       <text lang="CHN">游牧民</text>
+      <text lang="eng">Nomads</text>
       <text lang="ger">Nomaden</text>
     </string>
     <string id="53">
       <text lang="CHN">建筑师</text>
+      <text lang="eng">Architects</text>
       <text lang="ger">Architekten</text>
     </string>
     <string id="54">
       <text lang="CHN">维京人</text>
+      <text lang="eng">Vikings</text>
       <text lang="ger">Wikinger</text>
     </string>
     <string id="55">
       <text lang="CHN">流浪者</text>
+      <text lang="eng">Vagabonds</text>
       <text lang="ger">Vagabunden</text>
     </string>
     <string id="56">
       <text lang="CHN">山地部族</text>
+      <text lang="eng">Mountain Tribe</text>
       <text lang="ger">Bergvolk</text>
     </string>
     <string id="61">
       <text lang="CHN">亚历.</text>
+      <text lang="eng">Alexa.</text>
       <text lang="ger">Alexa.</text>
     </string>
     <string id="62">
       <text lang="CHN">游牧.</text>
+      <text lang="eng">Nomads</text>
       <text lang="ger">Nomad.</text>
     </string>
     <string id="63">
       <text lang="CHN">建.</text>
+      <text lang="eng">Arch.</text>
       <text lang="ger">Archi</text>
     </string>
     <string id="64">
       <text lang="CHN">维.</text>
+      <text lang="eng">Viki.</text>
       <text lang="ger">Wiki.</text>
     </string>
     <string id="65">
       <text lang="CHN">流.</text>
+      <text lang="eng">Vagab.</text>
       <text lang="ger">Vagab.</text>
     </string>
     <string id="66">
       <text lang="CHN">山.</text>
+      <text lang="eng">Mt. Tribe</text>
       <text lang="ger">Bergvo.</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
+      <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
+      <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
+      <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">索斯特拉托斯</text>
+      <text lang="eng">Sostratos</text>
       <text lang="ger">Sostratos</text>
     </string>
     <string id="76">
       <text lang="CHN">玛尼</text>
+      <text lang="eng">Mani</text>
       <text lang="ger">Mani</text>
     </string>
     <string id="79">
       <text lang="CHN">索斯特拉托斯之父</text>
+      <text lang="eng">Sostratos' Father</text>
       <text lang="ger">Sostratos Vater</text>
     </string>
     <string id="98">
       <text lang="CHN">我们旅途中的第一处世界奇观，坐落于亚历山大港外法罗斯岛上。那座传说之城尖塔与圆顶，透着异样而神秘的气息，令我们凝望。</text>
+      <text lang="eng">The first Wonder of the World on our journey was situated on the island of Pharos off the coast of Alexandria. The pointed towers and round domes of the legendary city made an exotic and mysterious impression on us.</text>
       <text lang="ger">Das erste Weltwunder unserer Reise befand sich auf der Insel Pharos vor Alexandria. Fremdartig und geheimnisvoll wirkten die spitzen Türme und runde Kuppeln der sagenumwobenen Stadt auf uns.</text>
     </string>
     <string id="99">
       <text lang="CHN">法罗斯灯塔</text>
+      <text lang="eng">THE PHAROS LIGHTHOUSE</text>
       <text lang="ger">DER LEUCHTTURM VON PHAROS</text>
     </string>
   </strings>
@@ -186,6 +229,18 @@
 
 于是，诸族议会决意：古代世界的所有世界奇迹，都必须重新建起……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Shadow and chaos were threatening the world. A dark power was spreading across the lands, turning people into beasts and life into death. A feeling of melancholy and hopelessness was slowly pervading the people. Where there had once been happiness, now there was sadness and depression. All that was left of the once large and mighty kingdoms were the memories ...
+
+And so the Council of Nations had gathered in order to find a solution.
+
+When the ambassador reached the Council with news of the ancient legend, the signs of the past were interpreted: The dark power could only be banned by reviving the largest and most glorious works of humanity. Their mysterious powers might be able to avert all evil.
+
+And thus the Council of Nations decided to resurrect all the Wonders of the Ancient World ... 
+
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -209,6 +264,13 @@ Und so beschloss der Völkerrat, dass alle Weltwunder der antiken Welt neu erric
 吉萨金字塔一线由拜占庭人、埃及人与撒拉逊人共同守卫，而你的维京族群，则将偕同当世最伟大的英雄，肩负起守护亚历山大灯塔、使其免于倾颓的重任。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+But even the last two Wonders of the World that were still preserved, the Pyramids of Giza and the Lighthouse on the island of Pharos off the coast of Alexandria, were threatened. Regular earthquakes shook the Lighthouse, and invading armies of dark warriors and wild beasts threatened the Pyramids. Together the nations would have to act quickly.
+
+While the frontlines at the Pyramids of Giza are defended by the Byzantines, Egyptians and Saracens, it is up to your Viking people to save the Lighthouse of Alexandria from collapsing with the help of the most powerful heroes of the present day.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Doch selbst die letzten beiden Weltwunder, die noch erhalten waren, die Pyramiden von Gizeh und der Leuchtturm der Insel Pharos vor Alexandria, sind bedroht. Ständige Erdbeben erschüttern den Leuchtturm, und einfallende Heere dunkler Krieger und Bestien bedrohen die Pyramiden. Gemeinsam müssen die Völker rasch handeln. 
@@ -229,6 +291,19 @@ Während die Stellung an den Pyramiden von Gizeh von den Byzantinern, Ägyptern 
 
 卸下货物，建立一座小型聚落。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+MOORING PLACE FOUND!
+
+</text>
+        <usericon>1,294,174</usericon>
+        <text>
+
+We found an ideal mooring place in this little bay. Lush green meadows invited us to set up our dwellings in this spot.
+
+Unload the goods and set up a small settlement.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -261,6 +336,24 @@ Entlade die Güter und baue eine kleine Siedlung auf.
 
 提示：紧挨主基地建一口水井。若有搬运工在主基地劳作，他会不断将水运入基地--而水正是你所需的贸易物资。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+NOMAD TRIBES
+
+A large part of the Lighthouse had already been destroyed, and if we did not act quickly this Wonder of the World would not survive the next tremors! 
+Many extractors from other surrounding nomadic tribes, like this one here, were also already mining stone. 
+
+</text>
+        <usericon>1,341,264</usericon>
+        <text>
+
+Unfortunately, they did not have the necessary carriers and merchants to carry the stones to a warehouse near the Lighthouse. We were able to help them ...
+
+Take 100 stones and 50 blocks of marble to the Lighthouse. If you want to, you can use the nomad tribe's trade offers! 
+
+Hint: Build a well directly next to the headquarters. If a carrier works in the headquarters, he will constantly deliver water that you need for trading.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -295,6 +388,20 @@ Tipp: Baue einen Brunnen direkt neben das Hauptquartier. Arbeitet ein Träger im
 从流浪者营地中救出建筑师索斯特拉托斯，并将他带回灯塔。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+GOODS DELIVERED
+NEW UPGRADE LEVEL REACHED!
+
+</text>
+        <usericon>1,219,71</usericon>
+        <text>
+
+We had unloaded the required goods in the warehouse at the Lighthouse, and the people of Alexandria showed their gratitude. Nevertheless, the work was not going very well. Vagabonds had recently kidnapped the building's engineer in the mountains, and since then there was no one who really knew how to build it. Maybe we could talk to the vagabonds and reach a peaceful agreement ... 
+
+Free the architect SOSTRATOS from the vagabonds' camp and take him to the Lighthouse.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 WAREN GELIEFERT
@@ -326,6 +433,22 @@ Befreie den Architekten SOSTRATOS aus dem Vagabundenlager und bringe ihn zum Leu
 交纳贡品，或将流浪者逐出这片土地！
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+VAGABONDS
+
+"Hey, you! We do not tolerate intruders in our village!
+
+</text>
+        <usericon>1,538,280</usericon>
+        <text>
+
+Or are you here to pay the ransom for the architect SOSTRATOS?! The ransom that we charged the Alexandrines, however, is no longer enough! We now want more, as dragon fodder is becoming more and more expensive as well! 
+Also, it is said that you Vikings can brew incredible amounts of mead. We wouldn't mind having a few barrels ourselves!" 
+
+Pay the tribute or drive the vagabonds out of this region!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 VAGABUNDEN
@@ -353,6 +476,15 @@ Zahle den Tribut oder vertreibe die Vagabunden von diesem Landstrich!
         </text>
         <usericon>1,562,272</usericon>
       </lang>
+      <lang code="eng">
+        <text> 
+VAGABONDS
+
+"Your ale was very tasty, and since you paid the ransom, you are welcome to have a look around our camp and take whatever you want - even the architect! He is of no use to us anyway!" the vagabonds said before they became intoxicated and disappeared in their houses ... 
+
+</text>
+        <usericon>1,562,272</usericon>
+      </lang>
       <lang code="ger">
         <text> 
 VAGABUNDEN
@@ -377,6 +509,21 @@ VAGABUNDEN
 
 将索斯特拉托斯带回灯塔。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+SOSTRATOS
+
+"Greetings. The Alexandrines must have sent you, for I haven't finished my work yet! 
+
+</text>
+        <usericon>2,5</usericon>
+        <text>
+
+They will probably not be able to finish it without me. Would you take me to the Lighthouse?
+
+Take SOSTRATOS to the Lighthouse.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -405,6 +552,18 @@ Bringe SOSTRATOS zum Leuchtturm.
         <text>
 深谙其道的建筑师索斯特拉托斯，就灯塔的建造给出了必要的指点。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+ARCHITECT AT LIGHTHOUSE
+NEW UPGRADE LEVEL REACHED!
+
+</text>
+        <usericon>2,5</usericon>
+        <text>
+
+The architect SOSTRATOS, who knew his business very well, gave the necessary instructions for building the Lighthouse. 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -435,6 +594,22 @@ Der Architekt SOSTRATOS, der sein Handwerk bestens verstand, gab die nötigen An
 漫游亚历山大港，开启那些隐藏的箱子！
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+ALEXANDRIA
+
+These were the gates of the legendary city of Alexandria! 
+
+</text>
+        <usericon>1,243,371</usericon>
+        <text>
+
+Full of curiosity and uncertainty, we entered the city. 
+What would we find here? 
+
+Explore Alexandria and open the hidden chests!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 ALEXANDRIA
@@ -464,6 +639,17 @@ Durchstreife Alexandria und öffne die verborgenen Kisten!
         </text>
         <usericon>2,12</usericon>
       </lang>
+      <lang code="eng">
+        <text> 
+GUARDS!
+
+Two sinister-looking guards approached us: 
+
+"Wait! Not another step, or you will feel pain!"
+
+</text>
+        <usericon>2,12</usericon>
+      </lang>
       <lang code="ger">
         <text> 
 WACHEN!
@@ -488,6 +674,19 @@ Zwei finster aussehende Wachen traten uns entgegen:
         <text>
 门后究竟藏着什么？其中一扇必定通向矿场深处，那圣火多半便藏于其中！须留一名部众守在开关上，我们方能通过大门……
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+GATES OPENED!
+
+When we operated this switch, two gates opened nearby! 
+
+</text>
+        <usericon>1,51,471</usericon>
+        <text>
+
+What could be hiding behind those gates? Surely one of them would lead into the mines where the Holy Fire was said to be kept! One of our men had to stay on the switch, so that we could pass through the gates ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -514,6 +713,17 @@ Was sich wohl hinter ihnen verbergen mochte? Sicherlich führte uns eines davon 
         <text>
 是逞勇还是鲁莽？比雅尼陨落之时，诸神亦为之落泪……少了这位英雄，你便无缘得知此役的结局。
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -542,6 +752,21 @@ Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen 
 开启大门！
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+VIKING SCOUTS
+
+"My people sent me to explore the mines of the Saracens! They are up to no good and they have stolen the Holy Fire from the Lighthouse!" 
+
+</text>
+        <usericon>2,8</usericon>
+        <text>
+
+The Viking said that the gates could not be opened. There had to be a key or a switch somewhere nearby! 
+
+Open the gates!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 WIKINGERKUNDSCHAFTER
@@ -566,6 +791,13 @@ Die Tore lassen sich nicht öffnen, meinte dieser Wikinger. Irgendwo in der Näh
         </text>
         <usericon>1,51,471</usericon>
       </lang>
+      <lang code="eng">
+        <text> 
+The gates of the mountain people could not be opened, there had to be a key or a switch somewhere ...
+
+</text>
+        <usericon>1,51,471</usericon>
+      </lang>
       <lang code="ger">
         <text> 
 Die Tore des Bergvolkes ließen sich nicht öffnen, irgendwo musste sich ein Schlüssel oder ein Schalter befinden...
@@ -586,6 +818,19 @@ Die Tore des Bergvolkes ließen sich nicht öffnen, irgendwo musste sich ein Sch
         <text>
 倘若我们向他们交付所索取的贡品，他们便愿在我们的使命中出手相助……
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+VIKINGS 
+
+Other Vikings had also settled in these fertile plains along the Nile. 
+
+</text>
+        <usericon>1,109,240</usericon>
+        <text>
+
+If we delivered them their requested goods, they were prepared to support us in our mission ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -614,6 +859,19 @@ Falls wir ihnen die geforderten Waren zum Tribut reichen würden, wollten sie un
 我们可在他们的领地中再建一座村庄，他们的士兵也愿在战斗中与我们并肩。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+PEOPLE'S SUPPORT GAINED!
+
+We had delivered the Vikings their requested goods. Now they offered us their support. 
+
+</text>
+        <usericon>1,122,195</usericon>
+        <text>
+
+We established another Viking village, and their soldiers, too, were willing to support us in battle.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 VOLK ÜBERNOMMEN!
@@ -639,6 +897,15 @@ Wir konnten in ihren Reihen ein weiteres Dorf errichten, und auch ihre Soldaten 
 此处一切仍平静如常，人们友善而热忱。无人料到，我们重建世界奇迹的使命，是何等紧迫……
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+NOMAD TRIBE
+
+We came across a little oasis in the middle of the desert, untouched by the rest of the world. 
+
+Things were very peaceful here, the people were friendly and obliging. Nobody knew how urgent our mission was to resurrect the Wonders of the World ... 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 NOMADENVOLK
@@ -657,6 +924,13 @@ Hier verlief alles noch in ruhigen Bahnen, die Menschen waren freundlich und ent
 
 "你竟敢闯到这里？我们来教教你规矩！！！"
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+VAGABONDS
+
+"You dare to venture here? We will teach you some manners!"
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -679,6 +953,20 @@ VAGABUNDEN
 滚开！！我们宝贵的金矿，绝不会不战而拱手让给你们这些流窜而来的诺曼人！！！
 还是说，你们愿向我们进贡？"
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+MOUNTAIN PEOPLE
+
+"What was that? 
+
+</text>
+        <usericon>1,97,458</usericon>
+        <text>
+
+"Go away! We won't let some Norman tramps walk away with our precious gold! 
+Or are you willing to pay us a tribute?"
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -704,6 +992,13 @@ Oder seid ihr bereit, uns einen Tribut zu leisten?"
 "只要你们不来犯，我们便不会加害于你们！但你们若敢染指我们的金矿，休怪我们不客气！"
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+MOUNTAIN PEOPLE
+
+"As long as you do not attack us, we will not do you any harm! But should you touch our gold, you'll be very sorry!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 BERGVOLK
@@ -723,6 +1018,18 @@ BERGVOLK
 "你竟敢来犯我们？
 休想好过，你这异教徒！我们的兄弟会前来相助，把你赶回海里去！"
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+MOUNTAIN PEOPLE
+
+</text>
+        <usericon>1,97,458</usericon>
+        <text>
+
+"You dare to attack us?
+You will regret this, infidel! Our brothers will come to help us and drive you back to the sea!"
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -748,6 +1055,16 @@ Wehe dir, oh Ungläubiger! Unsere Brüder werden uns zu Hilfe kommen und dich zu
 建筑师索斯特拉托斯已然殒命！你将再也无法建成灯塔！此役已告失败！！
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+The architect SOSTRATOS has died! Now you will never be able to build the Lighthouse! The mission has failed!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -771,6 +1088,17 @@ Der Architekt SOSTRATOS ist gestorben! Nun wirst du den Leuchtturm nie errichten
 生命里片刻的轻率，便致此般后果！你的女英雄希拉，因你的疏忽而殒命！少了这位英雄，你便无缘得知此役的结局。
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -793,6 +1121,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin C
         <text>
 山地部族见我们的战术与战力令他们无从抵挡，终于俯首认输，极不情愿地将金矿让予我们，放弃了采矿。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+MOUNTAIN PEOPLE SURRENDER!
+
+</text>
+        <usericon>1,97,458</usericon>
+        <text>
+
+When the mountain people saw that they could not win against our tactics and strength, they finally gave in and reluctantly let us have their gold and gave up mining.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -823,6 +1162,24 @@ Als das Bergvolk sah, dass es unserer Taktik und Kampfesstärke nichts entgegenz
 
 那些明亮的田野，四周环绕着五人高的方尖碑，笼罩着一股奇异的魔力。下方的那处会将你送往尼罗河彼岸，另一处则送你返回！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE OLD MAN
+
+At first we thought it was a fata morgana. But all of a sudden an old man did indeed appear in the middle of the desert! Where he came from, only Odin knew ...
+
+</text>
+        <usericon>1,395,262</usericon>
+        <text>
+
+"I've been robbed! By those miserable vagabonds in the eastern mountains!" the old man swore when he approached us. 
+"They even had dragons with them! But they had no use for an old man like me, so they let me go. The poor engineer they are keeping captive will surely face a more tragic fate ..."  
+
+"It is easy to get lost in this vast desert," the old man whispered. "I came from the north where the land is dusty and empty. In the south there are only some scattered nomad villages, and if you look to the west, you will see the domes of the town of Alexandria."
+
+A strange magic surrounds the bright fields that are fenced by obelisks as high as five men. The lower one will take you across the Nile, the other one will bring you back!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -858,6 +1215,21 @@ Eine seltsame Magie umgibt jene hellen Felder, die von den fünfmannshohen Obeli
 "他们没有首领，正寻着一位强有力的领袖……或许你们能收服这个族群？"他捻着胡须咕哝道。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THE OLD MAN
+
+This land was full of surprises! All of a sudden we met an old man who was leaning on a crooked staff.
+
+</text>
+        <usericon>1,171,237</usericon>
+        <text>
+
+"Oh, more Vikings," the old man muttered. "There will soon be more Vikings than Saracens! Though the Northlanders in the west are actually rather nice, albeit rough lads. They don't particularly like the mountain people in the south ..."
+
+"They don't have a chieftain and they are looking for a strong leader ... Maybe you can take over this people?" he mumbled into his beard.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DER ALTE MANN
@@ -887,6 +1259,19 @@ Dieses Land war voller Überraschungen! Plötzlich trafen wir auf einen alten Ma
 他们早已在此等候我们，并为我们指定了一处合适的聚居地。不久，我们便会得知更多关于此番使命的详情……
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+SHIPS OF ALEXANDRIA
+
+In the entrance to the harbour we came across some ships belonging to the people and merchants of Alexandria.
+
+</text>
+        <usericon>1,215,138</usericon>
+        <text>
+
+They had been expecting us and directed us to a suitable spot for settlement. Soon we would learn more about our mission ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 SCHIFFE ALEXANDRIAS
@@ -912,6 +1297,17 @@ Sie erwarteten uns bereits und wiesen uns einen geeigneten Siedlungsplatz zu. Ba
 "哦，我可怜的孩子。你们可曾寻见他？他和我一样是建筑师，正着手加固他毕生最伟大的杰作--亚历山大灯塔。为换他平安归来，我愿倾尽所有！他定是被人掳走了！凡能寻得并救出他者，我必以重赏相酬！"
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+SOSTRATOS' FATHER
+
+</text>
+        <usericon>2,9</usericon>
+        <text>
+
+"Oh my poor boy! Have you found him yet? He is an architect like me, and he was about to fortify his largest work, the Lighthouse of Alexandria. What wouldn't I give to have him back! He must have been kidnapped! Whoever finds and frees him will be given a valuable award!" 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 SOSTRATOS VATER
@@ -934,6 +1330,17 @@ SOSTRATOS VATER
         <text>
 "哦，我可怜的孩子。是你们寻见了他！赞美真主！收下我这些珍贵的护符吧！"
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+SOSTRATOS' FATHER
+
+</text>
+        <usericon>2,9</usericon>
+        <text>
+
+"Oh my poor boy! You are the one who found him! Allah be praised! Take these precious amulets!"
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -962,6 +1369,21 @@ SOSTRATOS VATER
 将100块碎石与50块大理石运至灯塔，以供修缮之用。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+EARTHQUAKE!
+
+We had not been in this region for long, but these earthquakes were enormous! The once so magnificent Lighthouse collapsed. 
+
+</text>
+        <usericon>1,219,76</usericon>
+        <text>
+
+The damaged Lighthouse would not be able to withstand the vibrations for much longer!
+
+Take 100 quarrystones and 50 blocks of marble to the Lighthouse for repairs.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 ERDBEBEN!!!
@@ -988,6 +1410,15 @@ Bringe 100 Bruchsteine und 50 Marmorblöcke für die Reparaturarbeiten zum Leuch
         </text>
         <usericon>1,219,76</usericon>
       </lang>
+      <lang code="eng">
+        <text> 
+EARTHQUAKE!
+
+Every tremor damaged the Pharos Lighthouse! We had to hurry up and repair it!
+
+</text>
+        <usericon>1,219,76</usericon>
+      </lang>
       <lang code="ger">
         <text> 
 ERDBEBEN!!!
@@ -1006,6 +1437,15 @@ Jedes Beben beschädigte den Leuchtturm von Pharos! Wir mussten uns mit unseren 
 
 这场地震已几乎无法撼动新建成的灯塔。尽管如此，我们仍应加紧寻找圣火！
         </text>
+        <usericon>1,219,55</usericon>
+      </lang>
+      <lang code="eng">
+        <text> 
+EARTHQUAKE!
+
+The earthquake hardly did any damage to the newly fortified Lighthouse. Nevertheless, we had to hurry up and find the Holy Fire!
+
+</text>
         <usericon>1,219,55</usericon>
       </lang>
       <lang code="ger">
@@ -1030,6 +1470,19 @@ Dieses Erdbeben konnte dem neu errichteten Leuchtturm kaum etwas anhaben. Trotzd
 
 如有必要，另建一座属于自己的仓库，别忘了用路标标示出贸易路线！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+WAREHOUSE OF THE SARACENS
+
+</text>
+        <usericon>1,240,126</usericon>
+        <text>
+
+The Saracens must have built this warehouse particularly for the construction works at the Lighthouse. But why did they want to trade these particular goods? We thought it wiser to take them to an extra warehouse and only trade superfluous goods.
+
+Build an EXTRA warehouse if necessary, and don't forget to put up signposts along the trade route!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1057,6 +1510,17 @@ Errichte, wenn nötig, ein EIGENES Lagerhaus und vergiss nicht, den Handelsweg m
 生命里片刻的轻率，便致此般后果！你的挚友与英雄哈奇，因你的疏忽而殒命！少了这位英雄，你便无缘得知此役的结局。
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1077,6 +1541,13 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
         </text>
         <usericon>1,51,471</usericon>
       </lang>
+      <lang code="eng">
+        <text> 
+You are not yet allowed to operate this switch!
+
+</text>
+        <usericon>1,51,471</usericon>
+      </lang>
       <lang code="ger">
         <text> 
 Du hast noch nicht die Befugnis, diesen Schalter zu benutzen!!!
@@ -1093,6 +1564,15 @@ Du hast noch nicht die Befugnis, diesen Schalter zu benutzen!!!
 
 亚历山大港给了我们最初索要的100枚硬币赎金，还拨来几名士兵，助我们制伏流浪者、救出工程师。至于是与他们一战，还是照付赎金，抉择如今全在我们……
         </text>
+        <usericon>2,14</usericon>
+      </lang>
+      <lang code="eng">
+        <text> 
+RANSOM 
+
+Alexandria gave us the originally requested ransom money of 100 coins and some soldiers to hunt down the vagabonds and free the engineer. It was up to us to decide whether to fight them or pay the ransom ...
+
+</text>
         <usericon>2,14</usericon>
       </lang>
       <lang code="ger">
@@ -1114,6 +1594,13 @@ Alexandria gab uns das ursprünglich geforderte Lösegeld von 100 Münzen und st
 我们已建起一座仓库。如今只需将所需物资囤入其中，或运至其附近便可。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+WAREHOUSE BUILT!
+
+We had built a warehouse. Now we only had to store the required goods there or take them to some place nearby.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 LAGERHAUS ERRICHTET!
@@ -1131,6 +1618,13 @@ Wir hatten ein Lagerhaus errichtet. Nun mussten wir nur noch die benötigten War
 你的维京士兵英勇无畏，尽显其胆识与骁勇，终于赢得了胜利！
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+PEOPLE DEFEATED!
+
+Your Viking soldiers heroically proved their courage and bravery and won!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 VOLK BESIEGT!
@@ -1147,6 +1641,15 @@ Deine Wikingersoldaten stellten ihren Mut und ihre Tapferkeit heldenhaft unter B
 
 这些明亮的田野，四周环绕着五人高的方尖碑，笼罩着一股奇异的魔力。一处会将你送往尼罗河彼岸，另一处则送你返回！
         </text>
+        <usericon>1,410,263</usericon>
+      </lang>
+      <lang code="eng">
+        <text> 
+MAGIC FIELDS
+
+A strange magic surrounds the bright fields that are fenced by obelisks as high as five men. The lower one will take you across the Nile, the other one will bring you back!
+
+</text>
         <usericon>1,410,263</usericon>
       </lang>
       <lang code="ger">
@@ -1168,6 +1671,16 @@ Eine seltsame Magie umgibt diese hellen Felder, die von den fünfmannshohen Obel
 
 我们已将所需物资送抵灯塔旁的仓库，亚历山大港的居民对此感激不已。
         </text>
+        <usericon>1,219,76</usericon>
+      </lang>
+      <lang code="eng">
+        <text> 
+GOODS DELIVERED
+NEW UPGRADE LEVEL REACHED!
+
+We had taken the required goods to the warehouse at the Lighthouse, and the people of Alexandria showed their gratitude. 
+
+</text>
         <usericon>1,219,76</usericon>
       </lang>
       <lang code="ger">
@@ -1196,6 +1709,22 @@ Wir hatten die benötigten Waren im Lagerhaus am Leuchtturm abgeliefert und die 
 
 前往西南方寻找圣火，并将它带回灯塔。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE SEARCH FOR THE HOLY FIRE
+
+Soon the Lighthouse stood tall before us, and no earthquake in this world should ever be able to raze it to the ground again! 
+
+</text>
+        <usericon>1,219,55</usericon>
+        <text>
+
+But something was still missing ... Although the Lighthouse stood firm as a rock, it did not show sailors the way into the city - it had no light! 
+No ordinary fire was to light the top of this Wonder of the World, the Alexandrines wanted to regain the Holy Fire from the mountains. Disloyal Saracen nomads were using it in their gold mines. 
+
+Search for the Holy Fire in the south-west and take it to the Lighthouse.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1227,6 +1756,19 @@ Suche nach dem heiligen Feuer im Südwesten und bringe es zum Leuchtturm.
 自黑暗威胁降临以来，有些孩子便不再长大。玛尼便是其中之一……
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+MANI
+
+</text>
+        <usericon>2,6</usericon>
+        <text>
+
+Mani is the son of Bjarni and Cyra. He is allowed to join their adventures for the first time. Make sure he isn't harmed!
+
+Since the dark threat began, some children haven't grown any older. Mani is one of them ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 MANI
@@ -1251,6 +1793,17 @@ Seit der dunklen Bedrohung werden manche Kinder nicht älter. Mani ist einer von
         <text>
 玛尼一心想有朝一日成为英雄，如希拉与比雅尼那般。可对这场使命而言，他还太过年幼！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+MANI IS STILL TOO LITTLE!
+
+</text>
+        <usericon>2,6</usericon>
+        <text>
+
+One day MANI wants to be a hero like Cyra and Bjarni. But he is still too little for this mission!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1278,6 +1831,21 @@ MANI möchte einmal ein Held werden, wie Cyra und Bjarni. Doch für diese Missio
 
 "至于西南方的山地部族，可是天底下最贪金的一群！千万提防他们，他们容不得任何人踏入自己的地界！"
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE OLD MAN
+
+This town was full of surprises! Between some camels we met an old man who was leaning on a crooked staff.
+
+</text>
+        <usericon>1,211,309</usericon>
+        <text>
+
+"If you leave the city in the north," he muttered, "you will meet SOSTRATOS' FATHER, whose son's fate worries him greatly. If you then continue to the west, you will meet other Northlanders. They don't have a chieftain and they are looking for a strong leader ... Maybe you can take over this people?" he mumbled into his beard.
+
+"The mountain people in the south-west, however, are the greediest people when it comes to gold! Treat them with care, they do not allow anyone into their lands!"
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1307,6 +1875,17 @@ Diese Stadt war voller Überraschungen! Zwischen Kamelen trafen wir auf einen al
 生命里片刻的轻率，便致此般后果！你的挚友与英雄西格德，因你的疏忽而殒命！少了这位英雄，你便无缘得知此役的结局。
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1326,6 +1905,12 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 我们成功了！法罗斯灯塔，这或许是全世界最高的建筑，重又绽放光辉，航海者远在海上便能望见它。自此，它再度为他们担保着安然入港的航路。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+We had made it! The Pharos Lighthouse, probably the tallest building on Earth, was shining again and could be seen by sailors far out at sea. From now on it would guarantee them a safe entry into the harbour. 
+
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Wir hatten es geschafft! Der Leuchtturm von Pharos, das wohl höchste Gebäude der ganzen Erde, erstrahlte wieder und konnte von Seefahrern bis weit aufs Meer hinaus gesehen werden. Von nun an garantierte er ihnen wieder die sichere Einfahrt in den Hafen. 
@@ -1340,6 +1925,11 @@ Wir hatten es geschafft! Der Leuchtturm von Pharos, das wohl höchste Gebäude d
 亚历山大港的居民对我们的相助满怀感激，愿为我们大办庆典。然而，下一项任务已在等候着我们：巴比伦的塞弥拉弥斯空中花园，将是我们的下一处目的地……
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+The people of Alexandria were grateful for our support and planned to organise a large feast in our honour. However, the next task was already waiting: the HANGING GARDENS OF SEMIRAMIS in Babylon were our next port of call ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Der Bewohner Alexandrias zeigten sich voll Dankbarkeit für unsere Mithilfe und wollten uns zu Ehren ein großes Fest veranstalten. Doch uns erwartete bereits die nächste Aufgabe: die HÄNGENDEN GÄRTEN VON SEMIRAMIS in Babylon sollten unser nächster Bestimmungsort sein...
@@ -1352,6 +1942,11 @@ Der Bewohner Alexandrias zeigten sich voll Dankbarkeit für unsere Mithilfe und 
 
 任务成功！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+MISSION COMPLETED! 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1371,6 +1966,17 @@ MISSION GEWONNEN!
 生命里片刻的轻率，便致此般后果！比雅尼与希拉之子玛尼，因你的疏忽而殒命！少了他，你便无缘得知此役的结局。
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! MANI, son of Bjarni and Cyra, died due to your negligence! Without him, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1389,6 +1995,11 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI, Sohn von
 
 法罗斯灯塔
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE PHAROS LIGHTHOUSE
+</text>
       </lang>
       <lang code="ger">
         <text> 

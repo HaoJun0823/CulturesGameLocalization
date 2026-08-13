@@ -1,64 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="multiplayer_105_militaer" export_map_id="multiplayer_105_militaer" map_md5="67af0499c10e657c3b05ffd725fa7ddd" IsC2M="false">
+<localization version="1.3" map_id="multiplayer_105_militaer" export_map_id="multiplayer_105_militaer" map_md5="67af0499c10e657c3b05ffd725fa7ddd" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
-<string id="0">
+    <string id="0">
       <text lang="CHN">每个部族都欲将这片土地据为己有。击败对手，引领你的部族走向黄金未来！</text>
+      <text lang="eng">Each tribe strives to possess these lands. Fight your opponents and lead your tribe to a golden future!</text>
       <text lang="ger">Jeder Stamm versucht, das Land zu seinem Eigen zu machen. Bekämpfe deine Gegner und führe deinen Stamm in eine goldene Zukunft!</text>
     </string>
-<string id="10">
+    <string id="10">
       <text lang="CHN">格陵兰人</text>
+      <text lang="eng">Grasslanders</text>
       <text lang="ger">Grünländer</text>
     </string>
-<string id="11">
+    <string id="11">
       <text lang="CHN">格陵兰人</text>
+      <text lang="eng">Grasslanders</text>
       <text lang="ger">Grünländer</text>
     </string>
-<string id="20">
+    <string id="20">
       <text lang="CHN">海卢兰人</text>
+      <text lang="eng">Hellulanders</text>
       <text lang="ger">Helluländer</text>
     </string>
-<string id="21">
+    <string id="21">
       <text lang="CHN">海卢兰人</text>
+      <text lang="eng">Hellulanders</text>
       <text lang="ger">Helluländer</text>
     </string>
-<string id="30">
+    <string id="30">
       <text lang="CHN">马克兰人</text>
+      <text lang="eng">Marklanders</text>
       <text lang="ger">Markländer</text>
     </string>
-<string id="31">
+    <string id="31">
       <text lang="CHN">马克兰人</text>
+      <text lang="eng">Marklanders</text>
       <text lang="ger">Markländer</text>
     </string>
-<string id="40">
+    <string id="40">
       <text lang="CHN">普拉特兰人</text>
+      <text lang="eng">Flatlanders</text>
       <text lang="ger">Plattländer</text>
     </string>
-<string id="41">
+    <string id="41">
       <text lang="CHN">普拉特兰人</text>
+      <text lang="eng">Flatlanders</text>
       <text lang="ger">Plattländer</text>
     </string>
-<string id="98">
+    <string id="98">
       <text lang="CHN">将这片土地据为己有，逐走你的对手！这里终将成为你维京殖民地的家园！</text>
+      <text lang="eng">Make this territory your own and expel your opponents! One day, this will be the land of your Viking colony!</text>
       <text lang="ger">Mache dir das Land zu Eigen und vertreibe deine Gegner! Dies wird einmal das Land deiner Wikingerkolonie sein!</text>
     </string>
-<string id="99">
+    <string id="99">
       <text lang="CHN">军事：殖民化</text>
+      <text lang="eng">Military: COLONIZATION</text>
       <text lang="ger">Militär: KOLONIALISIERUNG</text>
     </string>
-</strings>
-<briefings>
-<block id="begin_00"><lang code="CHN">
-                <text>
+  </strings>
+  <briefings>
+    <block id="begin_00">
+      <lang code="CHN">
+        <text>
 相互竞争的维京部族，在同一片土地上扎下了根。
 
 让你的部族成为这片土地上当之无愧的最强者！挑一处建立你的村庄。
 
 这片土地上埋藏着无数宝藏，谁先发现，便归谁所有。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Rivalling Viking tribes have selected the same piece of land for settling. They start with nothing at all, but they aim for absolute power!
+
+Make your tribe the strongest in these lands! Look for a suitable place but remember: Your opponents will do the same! 
+Whoever settles closest to the resources is also closest to victory ...
+
+There are many treasures waiting to be discovered here. Getting them first could be the decisive advantage!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -71,12 +94,18 @@ In diesem Land gibt es viele Schätze zu entdecken, wer sie sich am ehesten sich
 </text>
       </lang>
     </block>
-
     <block id="header">
       <lang code="CHN">
-                <text>
+        <text>
 殖民开拓
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+COLONIZATION
+
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -86,5 +115,5 @@ KOLONIALISIERUNG
 </text>
       </lang>
     </block>
-</briefings>
+  </briefings>
 </localization>

@@ -1,184 +1,229 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_03_02" export_map_id="campaign_03_02" map_md5="269c46371af775ddac9d73257340c11c" IsC2M="false">
+<localization version="1.3" map_id="campaign_03_02" export_map_id="campaign_03_02" map_md5="269c46371af775ddac9d73257340c11c" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@协助建造塞米拉米斯空中花园！</text>
+      <text lang="eng">@HELP BUILD THE HANGING GARDENS OF SEMIRAMIS!</text>
       <text lang="ger">@HILF BEI DER ERRICHTUNG DER HÄNGENDEN GÄRTEN VON SEMIRAMIS!</text>
     </string>
     <string id="1">
       <text lang="CHN">寻找营建花园的地点！</text>
+      <text lang="eng">Look for a site to build the Gardens!</text>
       <text lang="ger">Suche den Platz zur Errichtung der Gärten!</text>
     </string>
     <string id="2">
       <text lang="CHN">建立一座小型聚落。</text>
+      <text lang="eng">Establish a small settlement.</text>
       <text lang="ger">Baue eine kleine Siedlung auf.</text>
     </string>
     <string id="3">
       <text lang="CHN">向花园运送 80 木材、40 石料、40 黏土与 40 砖块，以筑人造山阶！</text>
+      <text lang="eng">Deliver 80 wood, 40 stones, 40 clay and 40 tiles to the Gardens for the artificial mountain terraces!</text>
       <text lang="ger">Liefere 80 Holz, 40 Steine, 40 Lehm und 40 Ziegel zu den Gärten für die künstlichen Bergterrassen!</text>
     </string>
     <string id="4">
       <text lang="CHN">在花园附近开凿 9 口井，以引水上行。</text>
+      <text lang="eng">Build 9 wells near the Gardens to produce water.</text>
       <text lang="ger">Errichte 9 Brunnen in der Nähe der Gärten, um Wasser zu fördern.</text>
     </string>
     <string id="5">
       <text lang="CHN">寻找 25 头牛！</text>
+      <text lang="eng">Search 25 cattle!</text>
       <text lang="ger">Suche 25 Rinder!</text>
     </string>
     <string id="6">
       <text lang="CHN">解救牧人的妇孺，以换得他们的牛与一份建造图样。</text>
+      <text lang="eng">Free the shepherds' wives to earn their cattle and the piece of the construction plan.</text>
       <text lang="ger">Befreie die Frauen der Hirten, um ihre Rinder und das Stück der Bauzeichnung zu erhalten.</text>
     </string>
     <string id="7">
       <text lang="CHN">向强盗缴纳 50 枚钱币，否则与之交战。</text>
+      <text lang="eng">Pay the robbers 50 coins or fight them.</text>
       <text lang="ger">Zahle den Räubern 50 Münzen oder bekämpfe sie.</text>
     </string>
     <string id="8">
       <text lang="CHN">搜查强盗的营地。</text>
+      <text lang="eng">Search the robbers' camp.</text>
       <text lang="ger">Durchsuche das Räuberlager.</text>
     </string>
     <string id="9">
       <text lang="CHN">将妇孺送返她们的村庄。</text>
+      <text lang="eng">Take the women back to their village.</text>
       <text lang="ger">Bringe die Frauen zurück in ihr Dorf.</text>
     </string>
     <string id="10">
       <text lang="CHN">寻得建造图样。</text>
+      <text lang="eng">Find the construction plans.</text>
       <text lang="ger">Finde die Bauzeichnungen.</text>
     </string>
     <string id="11">
       <text lang="CHN">为换取巴比伦的勇兵，须缴 5 单位铁作贡金。</text>
+      <text lang="eng">Pay the Babylonians a tribute of 5 iron for their brave soldiers.</text>
       <text lang="ger">Zahle den Babyloniern für tapfere Soldaten 5 Eisen Tribut.</text>
     </string>
     <string id="12">
       <text lang="CHN">向科布尔人进献 10 双鞋作贡金。</text>
+      <text lang="eng">Pay the Kobulians a tribute of 10 shoes.</text>
       <text lang="ger">Bringe den Kobulianern 10 Schuhe als Tribut.</text>
     </string>
     <string id="13">
       <text lang="CHN">前往地下厅堂！</text>
+      <text lang="eng">Go to the underground halls!</text>
       <text lang="ger">Gehe zu den unterirdischen Hallen!</text>
     </string>
     <string id="14">
       <text lang="CHN">与你的英雄返回花园！</text>
+      <text lang="eng">Take your heroes back to the Gardens!</text>
       <text lang="ger">Gehe mit deine Helden zurück zu den Gärten!</text>
     </string>
     <string id="20">
       <text lang="CHN">水井 %d/9</text>
+      <text lang="eng">Well %d/9</text>
       <text lang="ger">Brunnen %d/9</text>
     </string>
     <string id="21">
       <text lang="CHN">木材 %d/80</text>
+      <text lang="eng">Wood %d/80</text>
       <text lang="ger">Holz %d/80</text>
     </string>
     <string id="22">
       <text lang="CHN">石料 %d/40</text>
+      <text lang="eng">Stone %d/40</text>
       <text lang="ger">Steine %d/40</text>
     </string>
     <string id="23">
       <text lang="CHN">黏土 %d/40</text>
+      <text lang="eng">Clay %d/40</text>
       <text lang="ger">Lehm %d/40</text>
     </string>
     <string id="24">
       <text lang="CHN">砖块 %d/40</text>
+      <text lang="eng">Tiles %d/40</text>
       <text lang="ger">Ziegel %d/40</text>
     </string>
     <string id="25">
       <text lang="CHN">水井已凿成</text>
+      <text lang="eng">Well built</text>
       <text lang="ger">Brunnen errichtet</text>
     </string>
     <string id="26">
       <text lang="CHN">物资已送达</text>
+      <text lang="eng">Goods delivered</text>
       <text lang="ger">Waren geliefert</text>
     </string>
     <string id="27">
       <text lang="CHN">牛 %d/25</text>
+      <text lang="eng">Cows %d/25</text>
       <text lang="ger">Kühe %d/25</text>
     </string>
     <string id="28">
       <text lang="CHN">牛已捕获</text>
+      <text lang="eng">Cows caught</text>
       <text lang="ger">Kühe gefangen</text>
     </string>
     <string id="51">
       <text lang="CHN">科布尔</text>
+      <text lang="eng">Kobul</text>
       <text lang="ger">Kobul</text>
     </string>
     <string id="52">
       <text lang="CHN">巴比伦</text>
+      <text lang="eng">Babylon</text>
       <text lang="ger">Babylon</text>
     </string>
     <string id="53">
       <text lang="CHN">牧民部族</text>
+      <text lang="eng">Pastoral Tribe</text>
       <text lang="ger">Hirtenvolk</text>
     </string>
     <string id="54">
       <text lang="CHN">强盗</text>
+      <text lang="eng">Robbers</text>
       <text lang="ger">Räuber</text>
     </string>
     <string id="55">
       <text lang="CHN">游牧民</text>
+      <text lang="eng">Nomads</text>
       <text lang="ger">Nomaden</text>
     </string>
     <string id="56">
       <text lang="CHN">游牧工兵</text>
+      <text lang="eng">Builder Nomads</text>
       <text lang="ger">Bauarbeiternomaden</text>
     </string>
     <string id="61">
       <text lang="CHN">科布尔</text>
+      <text lang="eng">Kobul</text>
       <text lang="ger">Kobul</text>
     </string>
     <string id="62">
       <text lang="CHN">巴比伦</text>
+      <text lang="eng">Babylon</text>
       <text lang="ger">Babylon</text>
     </string>
     <string id="63">
       <text lang="CHN">牧人</text>
+      <text lang="eng">Shepherds</text>
       <text lang="ger">Hirten</text>
     </string>
     <string id="64">
       <text lang="CHN">强盗</text>
+      <text lang="eng">Robbers</text>
       <text lang="ger">Räuber</text>
     </string>
     <string id="65">
       <text lang="CHN">游牧.</text>
+      <text lang="eng">Nomads</text>
       <text lang="ger">Nomad.</text>
     </string>
     <string id="66">
       <text lang="CHN">村庄</text>
+      <text lang="eng">Village</text>
       <text lang="ger">Dorf</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
+      <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
+      <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
+      <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">诺伯特</text>
+      <text lang="eng">Norbert</text>
       <text lang="ger">Norbert</text>
     </string>
     <string id="76">
       <text lang="CHN">玛尼</text>
+      <text lang="eng">Mani</text>
       <text lang="ger">Mani</text>
     </string>
     <string id="98">
       <text lang="CHN">在幼发拉底故道之畔，我们建起新的聚落。因为传说中，塞米拉米斯的空中花园曾在此傲视荒漠……</text>
+      <text lang="eng">We established a new settlement near the old riverbed of the Euphrates, as this was the site where the legendary Hanging Gardens of Semiramis were said to have defied the desert ...</text>
       <text lang="ger">In der Nähe des alten Flussbettes des Euphrat errichteten wir eine neue Siedlung, denn dort sollten die sagenhaften hängenden Gärten der Semiramis einst der Wüste getrotzt haben...</text>
     </string>
     <string id="99">
       <text lang="CHN">塞米拉米斯空中花园</text>
+      <text lang="eng">THE HANGING GARDENS OF SEMIRAMIS</text>
       <text lang="ger">DIE HÄNGENDEN GÄRTEN VON SEMIRAMIS</text>
     </string>
   </strings>
@@ -190,6 +235,14 @@
 
 相传就在此处，尼布甲尼撒王曾为他的王后修建空中花园，因王后喜爱林木葱郁的山峦。这些花园以古亚述传奇女王塞米拉米斯之名命名。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+We were settling down along the Euphrates. There it was, the large and mighty city of Babylon. It must have been in this area that King Nebuchadnezzar once had the Hanging Gardens built for his wife, as she loved these wooded mountains. The Gardens were named after the legendary Queen Semiramis of Assyria.
+
+This was the second Wonder of the Ancient World that had to be resurrected with our help ...
+
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -210,6 +263,13 @@ Dies war also das zweite Weltwunder der antiken Welt, das durch unsere Hilfe wie
 去寻找建造这座传说花园的地点。到了那里，你会得到更具体的指示。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+But we had active support: The Babylonians had already been trying to water the fields and grow rare plants for a few months. But Mother Earth did not offer enough nutrients, and also the plans of the Hanging Gardens seemed to be incomplete ... 
+
+Find a site to build the legendary Hanging Gardens. You will receive more detailed instructions there. 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -237,6 +297,22 @@ Suche die Stelle zur Errichtung der sagenhaften hängenden Gärten auf. Dort erh
 在花园附近建造 9 口井以汲取水源。此外，向花园运送 80 木材、40 石料、40 黏土与 40 瓦片，用于人造梯田！
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+SITE OF THE HANGING GARDENS
+
+We had found an ideal site to build the Gardens.
+The people of Babylon and the nomads of the surrounding villages had already been watering this place, but there was still much to be done. 
+
+</text>
+        <usericon>1,368,115</usericon>
+        <text>
+
+We had to dig some wells and get the building materials for the artificial terraces! 
+
+Build 9 wells near the Gardens to produce water. Additionally, deliver 80 wood, 40 stones, 40 clay and 40 tiles to the Gardens for the artificial mountain terraces! 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -266,6 +342,13 @@ Baue 9 Brunnen in der Nähe der Gärten, um Wasser zu fördern. Liefere außerde
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+WELL BUILT
+
+We had done our work well and managed to build 9 wells in this area! Now we only had to take the required goods to this building site. 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 BRUNNEN ERRICHTET
@@ -284,6 +367,13 @@ Wir hatten gute Arbeit geleistet, denn wir hatten es geschafft, 9 Brunnen in dem
 我们已将所需物资运抵建造场。但还需建造水井，方能引水灌溉花园……
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+GOODS DELIVERED!
+
+We had delivered the required goods to the building site. But we still had to build the wells in order to supply the Gardens with water ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -318,6 +408,28 @@ Wir hatten die benötigten Waren am Bauplatz abgeliefert. Aber noch mussten wir 
 循着线索去追查吧！收集牛群！
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+NEW UPGRADE LEVEL OF THE WONDER
+
+We had built the wells and delivered the required goods to the building site. It did not take long until the foundations were laid. 
+
+</text>
+        <usericon>1,357,112</usericon>
+        <text>
+
+Using the rest of the clay, the Babylonians shaped little granules to dig their plants in. The water in these clay granules was stored for days - a great feature! They named this invention after their Assyrian Queen Semiramis. These clay granules later became known as Seramis due to a typing error made by some young scholar ...
+ 
+Now, since the plans for the Hanging Gardens seemed to be incomplete, we could not proceed with our work ... 
+
+Find the other part of the construction plan!
+
+
+Also the plants planted by the Babylonians didn't seem to want to blossom. Their ancestors must have used a secret art of plant growing?!
+
+Find out their secret! Collect cattle!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -362,6 +474,21 @@ Begib dich auf dessen Spur! Sammle Rinder!
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+KOBUL
+
+When we crossed the arm of the river, the inhabitants of a small village approached us. They were neither friendly nor hostile, but they were willing to trade with us if we paid them a tribute. 
+
+</text>
+        <usericon>1,533,22</usericon>
+        <text>
+
+They noticed our good footwear, even though our shoes were rather worn. They wanted to have a few pairs for themselves! 
+
+Give the Kobulians a few pairs of shoes, and they will present their trade offers! 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 KOBUL
@@ -395,6 +522,20 @@ Reiche den Kobulianern ein paar Schuhe und sie werden dir ihre Handelsangebote o
 这座城会为我们备下什么？
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+BABYLON
+
+These were the gates of the legendary city of Babylon.
+Full of curiosity and uncertainty, we entered the city. 
+
+</text>
+        <usericon>1,320,164</usericon>
+        <text>
+
+What would we find there? 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -438,6 +579,27 @@ Was würde die Stadt für uns bereithalten?
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+SHEPHERDS
+
+Deep in the south lived a quiet pastoral tribe that suffered a great disaster.
+
+</text>
+        <usericon>1,321,382</usericon>
+        <text>
+
+"Our poor women," they wailed. "They were kidnapped during the night by wild Saracen robbers!" They had already sent out a search party, but in vain! "Help us to get our women back, and we will support your mission! The rest of our women are kept safe in the underground halls, so that they will be spared by those barbarians!"
+
+"These three dragons accompanied us out of the underground halls this morning. We live in harmony and help each other out in times of need. They will be glad to assist you." 
+
+</text>
+        <usericon>2,20</usericon>
+        <text>
+
+Free the shepherds' women!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 HIRTEN
@@ -472,6 +634,15 @@ Befreie die Frauen der Hirten!
         </text>
         <usericon>1,103,196</usericon>
       </lang>
+      <lang code="eng">
+        <text> 
+ROBBERS
+
+"Hey, you! You are not welcome in our camp! Pay us a tribute and we will do you no harm!
+
+</text>
+        <usericon>1,103,196</usericon>
+      </lang>
       <lang code="ger">
         <text> 
 RÄUBER
@@ -494,6 +665,15 @@ RÄUBER
 这里一切仍按平静的节奏运转，人们友善而好客。没人料到，我们重建世界奇迹的使命竟如此紧迫……
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+NOMADS
+
+We came across a little oasis in the middle of the desert, untouched by the rest of the world. 
+
+Things were very peaceful here, the people were friendly and obliging. Nobody knew how urgent our mission was to resurrect the Wonders of the World ... 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -519,6 +699,17 @@ Hier verlief alles noch in ruhigen Bahnen, die Menschen waren freundlich und ent
 与你的英雄一同前往地下大厅！
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+SHEPHERDS
+
+"You have brought us back our beloved women!" the shepherds cried joyfully when we returned to the village. "As a reward, you may have all our cows! They will provide milk and dung for rare plants! Maybe they will be of use to you.
+ 
+Also, the way to the underground halls is now open to you! That is where we have so far hidden the women who were not kidnapped by the Saracens. When they hear how you helped us, they will surely give you the construction plans!"
+
+Take your heroes to the underground halls!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -550,6 +741,17 @@ Gehe mit deinen Helden zu den unterirdischen Hallen!
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -580,6 +782,19 @@ Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen 
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+NEW UPGRADE LEVEL OF THE WONDER
+
+With the help of the missing construction plan, it had to be possible to construct a firm framework for the Hanging Gardens. 
+
+</text>
+        <usericon>2,5</usericon>
+        <text>
+
+We had gained a new little friend in this mission. But as yet we did not know how much help he would be!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 NEUE BAUSTUFE DES WELTWUNDERS
@@ -606,6 +821,15 @@ Wir hatten bei dieser Mission einen neuen kleinen Freund hinzugewonnen. Noch ahn
         </text>
         <usericon>1,357,112</usericon>
       </lang>
+      <lang code="eng">
+        <text> 
+NEW UPGRADE LEVEL OF THE WONDER
+
+The plants in the Gardens reached into the sky with their thick, bright green leaves! The cow dung provided the plants with the necessary nutrients. 
+
+</text>
+        <usericon>1,357,112</usericon>
+      </lang>
       <lang code="ger">
         <text> 
 NEUE BAUSTUFE DES WELTWUNDERS
@@ -627,6 +851,13 @@ Die Gewächse des Gartens rekelten sich mit ihren prallen, glänzend grünen Bl�
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+TRIBUTE PAID TO KOBUL!
+
+We had given the shoes to the Kobulians as a tribute. They instantly changed their attitude towards us. They were so happy about the shoes that they made us some extremely favourable trade offers. 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 TRIBUT AN KOBUL ÜBERREICHT!
@@ -645,6 +876,13 @@ Wir hatten den Kobulianer die Schuhe zum Tribut überreicht. Sie wechselten ihre
 我们向盗匪付清了巨额贡金，他们才不甘不愿地放还了撒拉逊牧民的妇女。他们说，撒拉逊牧民本就是这般软弱的猎物，随时可再劫掠一番……
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+TRIBUTE PAID TO ROBBERS!
+
+After we had paid the robbers the enormous tribute, they reluctantly let the women of the Saracen shepherds go. They said that the Saracen shepherds were easy victims, so they might attack and plunder them again any time ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -666,6 +904,15 @@ Wir hatten den Räubern den enormen Tribut bezahlt und so gaben sie die Frauen d
         </text>
         <usericon>1,39,473</usericon>
       </lang>
+      <lang code="eng">
+        <text> 
+ENTRANCE TO THE UNDERGROUND HALLS
+
+You don't have permission to enter the underground halls. Go and help the pastoral tribe. Then return with your heroes, and you will be allowed to enter!
+
+</text>
+        <usericon>1,39,473</usericon>
+      </lang>
       <lang code="ger">
         <text> 
 EINGANG ZU DEN UNTERIRDISCHEN HALLEN
@@ -684,6 +931,11 @@ Du hast keine Erlaubnis, in die unterirdischen Hallen vorzudringen. Geh und hilf
 "牛粪或许对空中花园的植物大有裨益？"当我们寻得第一头牛时，不禁如此思忖……
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+"Maybe some cattle dung would help the plants of the Hanging Gardens to grow," we though when we found the first cow ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -708,6 +960,19 @@ Du hast keine Erlaubnis, in die unterirdischen Hallen vorzudringen. Geh und hilf
 "你们尽可取用我们仓库里的原料。"
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+BUILDER
+
+"We have come to assist in the construction of the Hanging Gardens," the hard-working people above the building site told us. 
+
+</text>
+        <usericon>1,373,35</usericon>
+        <text>
+
+"You are welcome to use the resources from our warehouse."
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -734,6 +999,13 @@ BAUARBEITER
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+MAGIC FIELDS
+
+A strange magic surrounds the bright fields that are fenced by obelisks as high as five men. One of them will take you to a valley in the desert, the other one will bring you back!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 MAGISCHE FELDER
@@ -759,6 +1031,17 @@ Eine seltsame Magie umgibt diese hellen Felder, die von den fünfmannshohen Obel
 这只魔法箱里装着 50 块碎石，已自动送入我们的主基地！
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+50 QUARRYSTONES
+
+</text>
+        <usericon>1,367,38</usericon>
+        <text>
+
+There were 50 quarrystones in this magic chest. They were automatically transferred to our headquarters!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -790,6 +1073,17 @@ In dieser magischen Kiste befanden sich 50 Bruchsteine, die automatisch in unser
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+100 COINS
+
+</text>
+        <usericon>1,289,124</usericon>
+        <text>
+
+There were 100 gold coins in this magic chest. They were automatically transferred to our headquarters!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 100 MÜNZEN
@@ -820,6 +1114,17 @@ In dieser magischen Kiste befanden sich 100 Goldmünzen, die automatisch in unse
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -843,6 +1148,13 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin C
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+SARACEN WOMEN DEAD!
+
+Oh dear, the shepherds' wives have died. Without these women, the outcome of the mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 SARAZENENFRAUEN GESTORBEN!
@@ -861,6 +1173,13 @@ Oh je, die Frauen der Hirten sind gestorben. Ohne diese Frauen wird dir das Ende
 我们大胜盗匪！他们再也无法伤害牧民部族分毫。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+ROBBERS DEFEATED!
+
+We had successfully beaten the robbers! Never again would they harm the pastoral tribe. 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -887,6 +1206,17 @@ Wir hatten die Räuber siegreich geschlagen! Nie wieder würden sie dem Hirtenvo
 会是谁把这些投石机留置此处？无论如何，它们必能为我们效犬马之劳！
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+CATAPULTS FOUND
+
+</text>
+        <usericon>1,103,74</usericon>
+        <text>
+
+Who had left these catapults here? In any case, they would prove very helpful for us!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -918,6 +1248,17 @@ Wer hatte diese Katapulte hier wohl stehen lassen? Uns konnten sie jedenfalls gu
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+NEW FRIENDS
+
+</text>
+        <usericon>2,6</usericon>
+        <text>
+
+When MANI and NORBERT met for the first time, they immediately knew that they would become the best of friends! 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 NEUE FREUNDE
@@ -948,6 +1289,17 @@ Als sich MANI und NORBERT das erste Mal sahen, wussten sie sofort, dass sie die 
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+MANI
+
+</text>
+        <usericon>2,6</usericon>
+        <text>
+
+One day MANI wants to be a hero like Cyra and Bjarni. But he is still too little for this mission!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 MANI
@@ -970,6 +1322,13 @@ Mani möchte einmal ein Held werden, wie Cyra und Bjarni. Doch für diese Missio
 我们虽已捕获牛群，但若无建筑图样、未竟全功，它们眼下仍派不上用场！
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+COWS CAUGHT! 
+
+We managed to catch the cows, but without the construction plans and the completed construction of the Hanging Gardens, they were of no use to us!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -996,6 +1355,17 @@ Wir hatten zwar die Kühe gefangen, aber ohne die Bauzeichnungen und dem vollend
 一时的疏忽，人生便会急转直下！你的挚友与英雄哈奇因你的大意而丧命！失去这位英雄，你将无缘见到任务的结局。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -1027,6 +1397,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1057,6 +1438,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero NORBERT, the dragon, died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1078,6 +1470,12 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+We were full of pride when the first plants began to grow and the trees took root in the artificial terraces.
+
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Voller Stolz waren wir, als die ersten Pflanzen blühten und die Bäume in der künstlichen Terrassenlandschaft ihre Wurzeln schlugen.
@@ -1094,6 +1492,11 @@ Voller Stolz waren wir, als die ersten Pflanzen blühten und die Bäume in der k
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+The people of Babylon were full of gratitude for our help. The Council of Nations, too, was deeply satisfied. Our next task waited in the land of the Greeks: THE COLOSSUS OF RHODES!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Die Bewohner Babylons zeigten sich voll Dankbarkeit für unsere Mithilfe. Auch der Rat der Völker war überaus zufrieden mit uns. Unsere nächste Aufgabe erwartete uns nun im Land der Griechen: DER KOLOSS VON RHODOS!
@@ -1108,6 +1511,11 @@ Die Bewohner Babylons zeigten sich voll Dankbarkeit für unsere Mithilfe. Auch d
 任务成功！
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+MISSION COMPLETED! 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1133,6 +1541,17 @@ MISSION GEWONNEN!
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! MANI, son of Bjarni and Cyra, died due to your negligence! Without him, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1154,6 +1573,12 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn vo
 空中花园
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE HANGING GARDENS 
+OF SEMIRAMIS
+</text>
       </lang>
       <lang code="ger">
         <text> 

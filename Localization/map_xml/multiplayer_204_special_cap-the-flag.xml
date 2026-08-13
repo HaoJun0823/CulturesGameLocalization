@@ -1,137 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="multiplayer_204_special_cap-the-flag" export_map_id="multiplayer_204_special_cap-the-flag" map_md5="b1845f20cf31218181e26e80a2ada7c1" IsC2M="false">
+<localization version="1.3" map_id="multiplayer_204_special_cap-the-flag" export_map_id="multiplayer_204_special_cap-the-flag" map_md5="b1845f20cf31218181e26e80a2ada7c1" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
-<string id="0">
+    <string id="0">
       <text lang="CHN">特殊 CTF：四季</text>
+      <text lang="eng">SPECIAL CTF: FOUR SEASONS</text>
       <text lang="ger">SPEZIAL CTF: DIE VIER JAHRESZEITEN</text>
     </string>
-<string id="1">
+    <string id="1">
       <text lang="CHN">6 名玩家：守护你的五面旗帜不被夺取，同时抢占他人旗帜！</text>
+      <text lang="eng">6 players: Try to protect your flags against being captured and capture the other players' flags at the same time!</text>
       <text lang="ger">6 Spieler: Versuche deine fünf Flaggen vor der Eroberung zu schützen und gleichzeitig die der anderen Spieler einzunehmen!</text>
     </string>
-<string id="2">
+    <string id="2">
       <text lang="CHN">务必守好你的旗帜--每面旗旁派驻几座哨塔，有备无患！</text>
+      <text lang="eng">Secure your flags as well as possible - it can't hurt to have a few occupied defence towers for each flag!</text>
       <text lang="ger">Sichere deine Flaggen so gut wie möglich - ein paar besetzte Wachtürme pro Flagge können nicht schaden!</text>
     </string>
-<string id="3">
+    <string id="3">
       <text lang="CHN">若想赎回被夺的旗帜，可向国土中央的商人缴纳重生贡金！</text>
+      <text lang="eng">You can pay a reactivation tribute to the merchant in the middle of the land to ransom your flags!</text>
       <text lang="ger">Um deine Flaggen wieder auszulösen kannst du dem Händler im Zentrum des Landes einen Reaktivierungstribut zahlen!</text>
     </string>
-<string id="4">
+    <string id="4">
       <text lang="CHN">尽快建造一艘船！乘船寻访商人、敌手，以及尽可能多的宝藏！</text>
+      <text lang="eng">Build a ship as quickly as you can! Use it to find the merchant, your opponents and as much treasure as possible!</text>
       <text lang="ger">Baue so schnell wie möglich ein Schiff! Finde damit den Händler, deine Gegner und möglichst viele Schätze!</text>
     </string>
-<string id="5">
+    <string id="5">
       <text lang="CHN">不妨让你的商人去中央的其他建筑瞧瞧--它们也提供珍贵之物……</text>
+      <text lang="eng">You should let your merchant take a look in the other buildings in the middle - they may contain something of value ...</text>
       <text lang="ger">Du solltest deinen Händler mal einen Blick in die anderen Gebäude im Zentrum werfen lassen - auch sie bieten wertvolles...</text>
     </string>
-<string id="10">
+    <string id="10">
       <text lang="CHN">扫雪人</text>
+      <text lang="eng">Snowsweepers</text>
       <text lang="ger">Schneefeger</text>
     </string>
-<string id="11">
+    <string id="11">
       <text lang="CHN">扫雪人</text>
+      <text lang="eng">Snowsweepers</text>
       <text lang="ger">Schneefeger</text>
     </string>
-<string id="20">
+    <string id="20">
       <text lang="CHN">拂尘人</text>
+      <text lang="eng">Dusters</text>
       <text lang="ger">Staubwischer</text>
     </string>
-<string id="21">
+    <string id="21">
       <text lang="CHN">拂尘人</text>
+      <text lang="eng">Dusters</text>
       <text lang="ger">Staubwischer</text>
     </string>
-<string id="30">
+    <string id="30">
       <text lang="CHN">割草人</text>
+      <text lang="eng">Lawnmowers</text>
       <text lang="ger">Rasenmäher</text>
     </string>
-<string id="31">
+    <string id="31">
       <text lang="CHN">割草人</text>
+      <text lang="eng">Lawnmowers</text>
       <text lang="ger">Rasenmäher</text>
     </string>
-<string id="40">
+    <string id="40">
       <text lang="CHN">草甸园丁</text>
+      <text lang="eng">Meadow Gardeners</text>
       <text lang="ger">Wiesengärtner</text>
     </string>
-<string id="41">
+    <string id="41">
       <text lang="CHN">草甸园丁</text>
+      <text lang="eng">Meadow Gardeners</text>
       <text lang="ger">Wiesengärtner</text>
     </string>
-<string id="50">
+    <string id="50">
       <text lang="CHN">沙地人</text>
+      <text lang="eng">Sand Dwellers</text>
       <text lang="ger">Sandleute</text>
     </string>
-<string id="51">
+    <string id="51">
       <text lang="CHN">沙地人</text>
+      <text lang="eng">Sand Dwellers</text>
       <text lang="ger">Sandleute</text>
     </string>
-<string id="60">
+    <string id="60">
       <text lang="CHN">铲雪人</text>
+      <text lang="eng">Snow Pushers</text>
       <text lang="ger">Schneeschieber</text>
     </string>
-<string id="61">
+    <string id="61">
       <text lang="CHN">铲雪人</text>
+      <text lang="eng">Snow Pushers</text>
       <text lang="ger">Schneeschieber</text>
     </string>
-<string id="70">
+    <string id="70">
       <text lang="CHN">商人</text>
+      <text lang="eng">Merchant</text>
       <text lang="ger">Händler</text>
     </string>
-<string id="71">
+    <string id="71">
       <text lang="CHN">商人</text>
+      <text lang="eng">Merchant</text>
       <text lang="ger">Händler</text>
     </string>
-<string id="72">
+    <string id="72">
       <text lang="CHN">房屋</text>
+      <text lang="eng">House</text>
       <text lang="ger">Haus</text>
     </string>
-<string id="100">
+    <string id="100">
       <text lang="CHN">你最好快点付钱，免得价格飙升：</text>
+      <text lang="eng">You should pay quickly, before it gets too expensive:</text>
       <text lang="ger">Du solltest schnell zahlen, bevor es richtig teuer wird:</text>
     </string>
-<string id="101">
+    <string id="101">
       <text lang="CHN">若你觉得这价格离谱，那还是等着完蛋吧：</text>
+      <text lang="eng">If you think this price is high, then you'd better just sit and wait for your doom:</text>
       <text lang="ger">Wenn du diesen Preis für schlimm hältst, dann warte besser auf dein Ende:</text>
     </string>
-<string id="102">
+    <string id="102">
       <text lang="CHN">想要几头巨龙？那可得亲自来我岛上取！</text>
+      <text lang="eng">Fancy a couple of dragons? You have to collect them yourself on my island!</text>
       <text lang="ger">Ein paar Drachen gefällig? Die mußt du dir aber selbst auf meiner Insel abholen!</text>
     </string>
-<string id="103">
+    <string id="103">
       <text lang="CHN">给邻岛士兵送粮？这好办！付钱：</text>
+      <text lang="eng">You have food for the soldiers on a neighbouring island? Very well! Then pay:</text>
       <text lang="ger">Nahrung für die Soldaten auf deiner Nachbarinsel? Das läßt sich machen! Zahle:</text>
     </string>
-<string id="104">
+    <string id="104">
       <text lang="CHN">想造几间房屋？去看看主基地的宝箱！</text>
+      <text lang="eng">Need some house permits to erect buildings? Take a look at the chest near your main warehouse!</text>
       <text lang="ger">Ein paar Briefe zum Häuser setzen? Sieh in die Truhen bei deinem Hauptlager!</text>
     </string>
-<string id="200">
+    <string id="200">
       <text lang="CHN">- 守护你的旗帜！</text>
+      <text lang="eng">- Protect your flags!</text>
       <text lang="ger">- Beschütze deine Flaggen!</text>
     </string>
-<string id="201">
+    <string id="201">
       <text lang="CHN">- 夺取他人的旗帜！</text>
+      <text lang="eng">- Capture the other players' flags!</text>
       <text lang="ger">- Erobere die der anderen!</text>
     </string>
-<string id="202">
+    <string id="202">
       <text lang="CHN">- 尽快造船！</text>
+      <text lang="eng">- Quickly build a ship!</text>
       <text lang="ger">- Baue schnell ein Schiff!</text>
     </string>
-<string id="203">
+    <string id="203">
       <text lang="CHN">- 找到中央附近的商人！</text>
+      <text lang="eng">- Find the merchant near the middle!</text>
       <text lang="ger">- Finde den Händler nahe des Zentrums!</text>
     </string>
-<string id="204">
+    <string id="204">
       <text lang="CHN">- 通过他赎回失落的旗帜！</text>
+      <text lang="eng">- Ransom your lost flags from him!</text>
       <text lang="ger">- Löse über ihn verlorene Flaggen ein!</text>
     </string>
-</strings>
-<briefings>
-<block id="01"><lang code="CHN"><text>
+  </strings>
+  <briefings>
+    <block id="01">
+      <lang code="CHN">
+        <text>
 一面旗帜被夺！
 
 可通过缴纳贡金将旗帜赎回！地图中央附近有商人，一旦你发现他们，便会向你提出赎回要约。
@@ -140,6 +174,19 @@
 
 若你未能及时赎回单面（或两面）旗帜，日后便须为全部旗帜付出高昂得多的贡金！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+A FLAG HAS BEEN CAPTURED!
+
+Flags can be ransomed by paying tributes! Merchants near the centre of the map will make offers when you find them.
+
+There are different tributes that ransom one or two flags. The tribute for ransoming at least three flags is higher.
+
+
+In other words, if you don't ransom one (or two) flag(s) in time, you will have to pay a much higher tribute when another one is captured!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -155,13 +202,21 @@ Wenn du es nicht rechtzeitig schaffst, eine einzelne Flagge auszulösen (oder zw
 </text>
       </lang>
     </block>
-
     <block id="02">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 1 的主基地旗帜被夺！
 （玩家 1 是旗帜上有一面星标的玩家）
         </text>
+        <usericon>1,389,111</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+PLAYER 1'S HQ FLAG HAS BEEN CAPTURED!
+(Player 1 is the player with one star on the flag.)
+
+</text>
         <usericon>1,389,111</usericon>
       </lang>
       <lang code="ger">
@@ -174,13 +229,21 @@ DIE HAUPTQUARTIERSFLAGGE VON SPIELER 1 WURDE EROBERT!
         <usericon>1,389,111</usericon>
       </lang>
     </block>
-
     <block id="03">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 1 的一座岛屿旗帜被夺！
 （玩家 1 是旗帜上有一面星标的玩家）
         </text>
+        <usericon>1,452,114</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+AN ISLAND FLAG BELONGING TO PLAYER 1 HAS BEEN CAPTURED!
+(Player 1 is the player with one star on the flag.)
+
+</text>
         <usericon>1,452,114</usericon>
       </lang>
       <lang code="ger">
@@ -193,13 +256,21 @@ EINE INSELFLAGGE VON SPIELER 1 WURDE EROBERT!
         <usericon>1,452,114</usericon>
       </lang>
     </block>
-
     <block id="04">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 1 的一座岛屿旗帜被夺！
 （玩家 1 是旗帜上有一面星标的玩家）
         </text>
+        <usericon>1,462,162</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+AN ISLAND FLAG BELONGING TO PLAYER 1 HAS BEEN CAPTURED!
+(Player 1 is the player with one star on the flag.)
+
+</text>
         <usericon>1,462,162</usericon>
       </lang>
       <lang code="ger">
@@ -212,13 +283,21 @@ EINE INSELFLAGGE VON SPIELER 1 WURDE EROBERT!
         <usericon>1,462,162</usericon>
       </lang>
     </block>
-
     <block id="05">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 1 的一座岛屿旗帜被夺！
 （玩家 1 是旗帜上有一面星标的玩家）
         </text>
+        <usericon>1,333,108</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+AN ISLAND FLAG BELONGING TO PLAYER 1 HAS BEEN CAPTURED!
+(Player 1 is the player with one star on the flag.)
+
+</text>
         <usericon>1,333,108</usericon>
       </lang>
       <lang code="ger">
@@ -231,13 +310,21 @@ EINE INSELFLAGGE VON SPIELER 1 WURDE EROBERT!
         <usericon>1,333,108</usericon>
       </lang>
     </block>
-
     <block id="06">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 1 的邻岛旗帜被夺！
 （玩家 1 是旗帜上有一面星标的玩家）
         </text>
+        <usericon>1,279,160</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+PLAYER 1'S NEIGHBOUR FLAG HAS BEEN CAPTURED!
+(Player 1 is the player with one star on the flag.)
+
+</text>
         <usericon>1,279,160</usericon>
       </lang>
       <lang code="ger">
@@ -250,13 +337,21 @@ DIE FLAGGE DER NACHBARINSEL VON SPIELER 1 WURDE EROBERT!
         <usericon>1,279,160</usericon>
       </lang>
     </block>
-
     <block id="07">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 1 已出局！
 （玩家 1 是旗帜上有一面星标的玩家）
         </text>
+        <usericon>1,396,108</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+PLAYER 1 HAS BEEN ELIMINATED!
+(Player 1 is the player with one star on the flag.)
+
+</text>
         <usericon>1,396,108</usericon>
       </lang>
       <lang code="ger">
@@ -269,13 +364,21 @@ SPIELER 1 IST AUSGESCHIEDEN!
         <usericon>1,396,108</usericon>
       </lang>
     </block>
-
     <block id="08">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 2 的主基地旗帜被夺！
 （玩家 2 是旗帜上有两面星标的玩家）
         </text>
+        <usericon>1,126,358</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+PLAYER 2'S HQ FLAG HAS BEEN CAPTURED!
+(Player 2 is the player with two stars on the flag.)
+
+</text>
         <usericon>1,126,358</usericon>
       </lang>
       <lang code="ger">
@@ -288,13 +391,21 @@ DIE HAUPTQUARTIERSFLAGGE VON SPIELER 2 WURDE EROBERT!
         <usericon>1,126,358</usericon>
       </lang>
     </block>
-
     <block id="09">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 2 的一座岛屿旗帜被夺！
 （玩家 2 是旗帜上有两面星标的玩家）
         </text>
+        <usericon>1,168,398</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+AN ISLAND FLAG BELONGING TO PLAYER 2 HAS BEEN CAPTURED!
+(Player 2 is the player with two stars on the flag.)
+
+</text>
         <usericon>1,168,398</usericon>
       </lang>
       <lang code="ger">
@@ -307,13 +418,21 @@ EINE INSELFLAGGE VON SPIELER 2 WURDE EROBERT!
         <usericon>1,168,398</usericon>
       </lang>
     </block>
-
     <block id="10">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 2 的一座岛屿旗帜被夺！
 （玩家 2 是旗帜上有两面星标的玩家）
         </text>
+        <usericon>1,73,400</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+AN ISLAND FLAG BELONGING TO PLAYER 2 HAS BEEN CAPTURED!
+(Player 2 is the player with two stars on the flag.)
+
+</text>
         <usericon>1,73,400</usericon>
       </lang>
       <lang code="ger">
@@ -326,13 +445,21 @@ EINE INSELFLAGGE VON SPIELER 2 WURDE EROBERT!
         <usericon>1,73,400</usericon>
       </lang>
     </block>
-
     <block id="11">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 2 的一座岛屿旗帜被夺！
 （玩家 2 是旗帜上有两面星标的玩家）
         </text>
+        <usericon>1,102,302</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+AN ISLAND FLAG BELONGING TO PLAYER 2 HAS BEEN CAPTURED!
+(Player 2 is the player with two stars on the flag.)
+
+</text>
         <usericon>1,102,302</usericon>
       </lang>
       <lang code="ger">
@@ -345,13 +472,21 @@ EINE INSELFLAGGE VON SPIELER 2 WURDE EROBERT!
         <usericon>1,102,302</usericon>
       </lang>
     </block>
-
     <block id="12">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 2 的邻岛旗帜被夺！
 （玩家 2 是旗帜上有两面星标的玩家）
         </text>
+        <usericon>1,217,396</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+PLAYER 2'S NEIGHBOUR FLAG HAS BEEN CAPTURED!
+(Player 2 is the player with two stars on the flag.)
+
+</text>
         <usericon>1,217,396</usericon>
       </lang>
       <lang code="ger">
@@ -364,13 +499,21 @@ DIE FLAGGE DER NACHBARINSEL VON SPIELER 2 WURDE EROBERT!
         <usericon>1,217,396</usericon>
       </lang>
     </block>
-
     <block id="13">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 2 已出局！
 （玩家 2 是旗帜上有两面星标的玩家）
         </text>
+        <usericon>1,125,350</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+PLAYER 2 HAS BEEN ELIMINATED!
+(Player 2 is the player with two stars on the flag.)
+
+</text>
         <usericon>1,125,350</usericon>
       </lang>
       <lang code="ger">
@@ -383,13 +526,21 @@ SPIELER 2 IST AUSGESCHIEDEN!
         <usericon>1,125,350</usericon>
       </lang>
     </block>
-
     <block id="14">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 3 的主基地旗帜被夺！
 （玩家 3 是旗帜上有三面星标的玩家）
         </text>
+        <usericon>1,379,292</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+PLAYER 3'S HQ FLAG HAS BEEN CAPTURED!
+(Player 3 is the player with three stars on the flag.)
+
+</text>
         <usericon>1,379,292</usericon>
       </lang>
       <lang code="ger">
@@ -402,13 +553,21 @@ DIE HAUPTQUARTIERSFLAGGE VON SPIELER 3 WURDE EROBERT!
         <usericon>1,379,292</usericon>
       </lang>
     </block>
-
     <block id="15">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 3 的一座岛屿旗帜被夺！
 （玩家 3 是旗帜上有三面星标的玩家）
         </text>
+        <usericon>1,378,230</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+AN ISLAND FLAG BELONGING TO PLAYER 3 HAS BEEN CAPTURED!
+(Player 3 is the player with three stars on the flag.)
+
+</text>
         <usericon>1,378,230</usericon>
       </lang>
       <lang code="ger">
@@ -421,13 +580,21 @@ EINE INSELFLAGGE VON SPIELER 3 WURDE EROBERT!
         <usericon>1,378,230</usericon>
       </lang>
     </block>
-
     <block id="16">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 3 的一座岛屿旗帜被夺！
 （玩家 3 是旗帜上有三面星标的玩家）
         </text>
+        <usericon>1,335,260</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+AN ISLAND FLAG BELONGING TO PLAYER 3 HAS BEEN CAPTURED!
+(Player 3 is the player with three stars on the flag.)
+
+</text>
         <usericon>1,335,260</usericon>
       </lang>
       <lang code="ger">
@@ -440,13 +607,21 @@ EINE INSELFLAGGE VON SPIELER 3 WURDE EROBERT!
         <usericon>1,335,260</usericon>
       </lang>
     </block>
-
     <block id="17">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 3 的一座岛屿旗帜被夺！
 （玩家 3 是旗帜上有三面星标的玩家）
         </text>
+        <usericon>1,368,346</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+AN ISLAND FLAG BELONGING TO PLAYER 3 HAS BEEN CAPTURED!
+(Player 3 is the player with three stars on the flag.)
+
+</text>
         <usericon>1,368,346</usericon>
       </lang>
       <lang code="ger">
@@ -459,13 +634,21 @@ EINE INSELFLAGGE VON SPIELER 3 WURDE EROBERT!
         <usericon>1,368,346</usericon>
       </lang>
     </block>
-
     <block id="18">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 3 的邻岛旗帜被夺！
 （玩家 3 是旗帜上有三面星标的玩家）
         </text>
+        <usericon>1,340,174</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+PLAYER 3'S NEIGHBOUR FLAG HAS BEEN CAPTURED!
+(Player 3 is the player with three stars on the flag.)
+
+</text>
         <usericon>1,340,174</usericon>
       </lang>
       <lang code="ger">
@@ -478,13 +661,21 @@ DIE FLAGGE DER NACHBARINSEL VON SPIELER 3 WURDE EROBERT!
         <usericon>1,340,174</usericon>
       </lang>
     </block>
-
     <block id="19">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 3 已出局！
 （玩家 3 是旗帜上有三面星标的玩家）
         </text>
+        <usericon>1,376,284</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+PLAYER 3 HAS BEEN ELIMINATED!
+(Player 3 is the player with three stars on the flag.)
+
+</text>
         <usericon>1,376,284</usericon>
       </lang>
       <lang code="ger">
@@ -497,13 +688,21 @@ SPIELER 3 IST AUSGESCHIEDEN!
         <usericon>1,376,284</usericon>
       </lang>
     </block>
-
     <block id="20">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 4 的主基地旗帜被夺！
 （玩家 4 是旗帜上有四面星标的玩家）
         </text>
+        <usericon>1,92,218</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+PLAYER 4'S HQ FLAG HAS BEEN CAPTURED!
+(Player 4 is the player with four stars on the flag.)
+
+</text>
         <usericon>1,92,218</usericon>
       </lang>
       <lang code="ger">
@@ -516,13 +715,21 @@ DIE HAUPTQUARTIERSFLAGGE VON SPIELER 4 WURDE EROBERT!
         <usericon>1,92,218</usericon>
       </lang>
     </block>
-
     <block id="21">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 4 的一座岛屿旗帜被夺！
 （玩家 4 是旗帜上有四面星标的玩家）
         </text>
+        <usericon>1,126,158</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+AN ISLAND FLAG BELONGING TO PLAYER 4 HAS BEEN CAPTURED!
+(Player 4 is the player with four stars on the flag.)
+
+</text>
         <usericon>1,126,158</usericon>
       </lang>
       <lang code="ger">
@@ -535,13 +742,21 @@ EINE INSELFLAGGE VON SPIELER 4 WURDE EROBERT!
         <usericon>1,126,158</usericon>
       </lang>
     </block>
-
     <block id="22">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 4 的一座岛屿旗帜被夺！
 （玩家 4 是旗帜上有四面星标的玩家）
         </text>
+        <usericon>1,123,256</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+AN ISLAND FLAG BELONGING TO PLAYER 4 HAS BEEN CAPTURED!
+(Player 4 is the player with four stars on the flag.)
+
+</text>
         <usericon>1,123,256</usericon>
       </lang>
       <lang code="ger">
@@ -554,13 +769,21 @@ EINE INSELFLAGGE VON SPIELER 4 WURDE EROBERT!
         <usericon>1,123,256</usericon>
       </lang>
     </block>
-
     <block id="23">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 4 的一座岛屿旗帜被夺！
 （玩家 4 是旗帜上有四面星标的玩家）
         </text>
+        <usericon>1,49,196</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+AN ISLAND FLAG BELONGING TO PLAYER 4 HAS BEEN CAPTURED!
+(Player 4 is the player with four stars on the flag.)
+
+</text>
         <usericon>1,49,196</usericon>
       </lang>
       <lang code="ger">
@@ -573,13 +796,21 @@ EINE INSELFLAGGE VON SPIELER 4 WURDE EROBERT!
         <usericon>1,49,196</usericon>
       </lang>
     </block>
-
     <block id="24">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 4 的邻岛旗帜被夺！
 （玩家 4 是旗帜上有四面星标的玩家）
         </text>
+        <usericon>1,176,241</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+PLAYER 4'S NEIGHBOUR FLAG HAS BEEN CAPTURED!
+(Player 4 is the player with four stars on the flag.)
+
+</text>
         <usericon>1,176,241</usericon>
       </lang>
       <lang code="ger">
@@ -592,13 +823,21 @@ DIE FLAGGE DER NACHBARINSEL VON SPIELER 4 WURDE EROBERT!
         <usericon>1,176,241</usericon>
       </lang>
     </block>
-
     <block id="25">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 4 已出局！
 （玩家 4 是旗帜上有四面星标的玩家）
         </text>
+        <usericon>1,97,214</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+PLAYER 4 HAS BEEN ELIMINATED!
+(Player 4 is the player with four stars on the flag.)
+
+</text>
         <usericon>1,97,214</usericon>
       </lang>
       <lang code="ger">
@@ -611,13 +850,21 @@ SPIELER 4 IST AUSGESCHIEDEN!
         <usericon>1,97,214</usericon>
       </lang>
     </block>
-
     <block id="26">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 5 的主基地旗帜被夺！
 （玩家 5 是旗帜上有五面星标的玩家）
         </text>
+        <usericon>1,278,390</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+PLAYER 5'S HQ FLAG HAS BEEN CAPTURED!
+(Player 5 is the player with five stars on the flag.)
+
+</text>
         <usericon>1,278,390</usericon>
       </lang>
       <lang code="ger">
@@ -630,13 +877,21 @@ DIE HAUPTQUARTIERSFLAGGE VON SPIELER 5 WURDE EROBERT!
         <usericon>1,278,390</usericon>
       </lang>
     </block>
-
     <block id="27">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 5 的一座岛屿旗帜被夺！
 （玩家 5 是旗帜上有五面星标的玩家）
         </text>
+        <usericon>1,226,354</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+AN ISLAND FLAG BELONGING TO PLAYER 5 HAS BEEN CAPTURED!
+(Player 5 is the player with five stars on the flag.)
+
+</text>
         <usericon>1,226,354</usericon>
       </lang>
       <lang code="ger">
@@ -649,13 +904,21 @@ EINE INSELFLAGGE VON SPIELER 5 WURDE EROBERT!
         <usericon>1,226,354</usericon>
       </lang>
     </block>
-
     <block id="28">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 5 的一座岛屿旗帜被夺！
 （玩家 5 是旗帜上有五面星标的玩家）
         </text>
+        <usericon>1,356,442</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+AN ISLAND FLAG BELONGING TO PLAYER 5 HAS BEEN CAPTURED!
+(Player 5 is the player with five stars on the flag.)
+
+</text>
         <usericon>1,356,442</usericon>
       </lang>
       <lang code="ger">
@@ -668,13 +931,21 @@ EINE INSELFLAGGE VON SPIELER 5 WURDE EROBERT!
         <usericon>1,356,442</usericon>
       </lang>
     </block>
-
     <block id="29">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 5 的一座岛屿旗帜被夺！
 （玩家 5 是旗帜上有五面星标的玩家）
         </text>
+        <usericon>1,290,454</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+AN ISLAND FLAG BELONGING TO PLAYER 5 HAS BEEN CAPTURED!
+(Player 5 is the player with five stars on the flag.)
+
+</text>
         <usericon>1,290,454</usericon>
       </lang>
       <lang code="ger">
@@ -687,13 +958,21 @@ EINE INSELFLAGGE VON SPIELER 5 WURDE EROBERT!
         <usericon>1,290,454</usericon>
       </lang>
     </block>
-
     <block id="30">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 5 的邻岛旗帜被夺！
 （玩家 5 是旗帜上有五面星标的玩家）
         </text>
+        <usericon>1,329,352</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+PLAYER 5'S NEIGHBOUR FLAG HAS BEEN CAPTURED!
+(Player 5 is the player with five stars on the flag.)
+
+</text>
         <usericon>1,329,352</usericon>
       </lang>
       <lang code="ger">
@@ -706,13 +985,21 @@ DIE FLAGGE DER NACHBARINSEL VON SPIELER 5 WURDE EROBERT!
         <usericon>1,329,352</usericon>
       </lang>
     </block>
-
     <block id="31">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 5 已出局！
 （玩家 5 是旗帜上有五面星标的玩家）
         </text>
+        <usericon>1,273,382</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+PLAYER 5 HAS BEEN ELIMINATED!
+(Player 5 is the player with five stars on the flag.)
+
+</text>
         <usericon>1,273,382</usericon>
       </lang>
       <lang code="ger">
@@ -725,13 +1012,21 @@ SPIELER 5 IST AUSGESCHIEDEN!
         <usericon>1,273,382</usericon>
       </lang>
     </block>
-
     <block id="32">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 6 的主基地旗帜被夺！
 （玩家 6 是旗帜上有无星标的玩家）
         </text>
+        <usericon>1,221,96</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+PLAYER 6'S HQ FLAG HAS BEEN CAPTURED!
+(Player 6 is the player without any stars on the flag.)
+
+</text>
         <usericon>1,221,96</usericon>
       </lang>
       <lang code="ger">
@@ -744,13 +1039,21 @@ DIE HAUPTQUARTIERSFLAGGE VON SPIELER 6 WURDE EROBERT!
         <usericon>1,221,96</usericon>
       </lang>
     </block>
-
     <block id="33">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 6 的一座岛屿旗帜被夺！
 （玩家 6 是旗帜上有无星标的玩家）
         </text>
+        <usericon>1,258,122</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+AN ISLAND FLAG BELONGING TO PLAYER 6 HAS BEEN CAPTURED!
+(Player 6 is the player without any stars on the flag.)
+
+</text>
         <usericon>1,258,122</usericon>
       </lang>
       <lang code="ger">
@@ -763,13 +1066,21 @@ EINE INSELFLAGGE VON SPIELER 6 WURDE EROBERT!
         <usericon>1,258,122</usericon>
       </lang>
     </block>
-
     <block id="34">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 6 的一座岛屿旗帜被夺！
 （玩家 6 是旗帜上有无星标的玩家）
         </text>
+        <usericon>1,199,136</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+AN ISLAND FLAG BELONGING TO PLAYER 6 HAS BEEN CAPTURED!
+(Player 6 is the player without any stars on the flag.)
+
+</text>
         <usericon>1,199,136</usericon>
       </lang>
       <lang code="ger">
@@ -782,13 +1093,21 @@ EINE INSELFLAGGE VON SPIELER 6 WURDE EROBERT!
         <usericon>1,199,136</usericon>
       </lang>
     </block>
-
     <block id="35">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 6 的一座岛屿旗帜被夺！
 （玩家 6 是旗帜上有无星标的玩家）
         </text>
+        <usericon>1,180,54</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+AN ISLAND FLAG BELONGING TO PLAYER 6 HAS BEEN CAPTURED!
+(Player 6 is the player without any stars on the flag.)
+
+</text>
         <usericon>1,180,54</usericon>
       </lang>
       <lang code="ger">
@@ -801,13 +1120,21 @@ EINE INSELFLAGGE VON SPIELER 6 WURDE EROBERT!
         <usericon>1,180,54</usericon>
       </lang>
     </block>
-
     <block id="36">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 6 的邻岛旗帜被夺！
 （玩家 6 是旗帜上有无星标的玩家）
         </text>
+        <usericon>1,169,180</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+PLAYER 6'S NEIGHBOUR FLAG HAS BEEN CAPTURED!
+(Player 6 is the player without any stars on the flag.)
+
+</text>
         <usericon>1,169,180</usericon>
       </lang>
       <lang code="ger">
@@ -820,13 +1147,21 @@ DIE FLAGGE DER NACHBARINSEL VON SPIELER 6 WURDE EROBERT!
         <usericon>1,169,180</usericon>
       </lang>
     </block>
-
     <block id="37">
       <lang code="CHN">
-                <text>
+        <text>
 玩家 6 已出局！
 （玩家 6 是旗帜上有无星标的玩家）
         </text>
+        <usericon>1,217,90</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+
+PLAYER 6 HAS BEEN ELIMINATED!
+(Player 6 is the player without any stars on the flag.)
+
+</text>
         <usericon>1,217,90</usericon>
       </lang>
       <lang code="ger">
@@ -839,19 +1174,26 @@ SPIELER 6 IST AUSGESCHIEDEN!
         <usericon>1,217,90</usericon>
       </lang>
     </block>
-
     <block id="38">
       <lang code="CHN" />
+      <lang code="eng" />
       <lang code="ger" />
     </block>
-
     <block id="39">
       <lang code="CHN">
-                <text>
+        <text>
 注意！
 
 第一艘船已建造完毕，即将启航远行！其余玩家也该抓紧行动了……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+WARNING!
+
+The first ship has been built and will weigh anchor soon! All other players get a move on ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -862,10 +1204,9 @@ Das erste Schiff wurde gebaut und wird bald auf Reise gehen! Alle anderen Spiele
 </text>
       </lang>
     </block>
-
     <block id="begin_00">
       <lang code="CHN">
-                <text>
+        <text>
 欢迎来到四季之境！
 
 众玩家在一座群岛上争夺统治权。你须守护自己的旗帜，同时夺取同伴的旗帜。
@@ -879,6 +1220,25 @@ Das erste Schiff wurde gebaut und wird bald auf Reise gehen! Alle anderen Spiele
 小贴士：
 这片土地大有可探索之处，或许还能遇见提供一些好物的商人……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Welcome to the land of the four seasons!
+
+
+This is where players compete for domination over a string of islands. The aim is to protect your own flags, while at the same time capturing those of your opponents.
+
+Every player has five flags to protect. Four of these are always on the player's own island, the last is on an uninhabited neighbouring island.
+
+If you lose all five of these flags, you're out! There is a possibility to ransom your flags by paying tributes - but it's not cheap ...
+
+The last person to still have their flags can proudly call themselves the "Lord (or Lady) of the Land and Climate"!
+
+
+Hint:
+There is quite a lot to discover in this country. You may also meet merchants who have something on offer ...
+
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -900,12 +1260,18 @@ Es gibt Einiges zu entdecken in diesem Land. Und eventuell finden sich auch Hän
 </text>
       </lang>
     </block>
-
     <block id="header">
       <lang code="CHN">
-                <text>
+        <text>
 四季
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+FOUR SEASONS
+
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -915,5 +1281,5 @@ DIE VIER JAHRESZEITEN
 </text>
       </lang>
     </block>
-</briefings>
+  </briefings>
 </localization>

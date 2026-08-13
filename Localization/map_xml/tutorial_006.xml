@@ -1,68 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="tutorial_006" export_map_id="tutorial_006" map_md5="95a63fd338fa63a245c6dd97c7a1bc06" IsC2M="false">
+<localization version="1.3" map_id="tutorial_006" export_map_id="tutorial_006" map_md5="95a63fd338fa63a245c6dd97c7a1bc06" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">现在派 15 名平民进入兵营，训练为士兵。</text>
+      <text lang="eng">Send 15 civilians to the barracks and train them to be soldiers.</text>
       <text lang="ger">Schicke nun 15 Zivilisten in die Kaserne und bilde sie zum Soldaten aus.</text>
     </string>
     <string id="1">
       <text lang="CHN">建造一座兵营！</text>
+      <text lang="eng">Build a barracks!</text>
       <text lang="ger">Baue eine Kaserne!</text>
     </string>
     <string id="2">
       <text lang="CHN">将装备物资运入兵营。</text>
+      <text lang="eng">Take the equipment to the barracks.</text>
       <text lang="ger">Bringe die Ausrüstungsgegenstände in die Kaserne.</text>
     </string>
     <string id="3">
       <text lang="CHN">各训练 5 名木栅兵、长弓手与短剑士！</text>
+      <text lang="eng">Train 5 spearmen with wooden spears, 5 longbow archers and 5 shortsword fighters!</text>
       <text lang="ger">Bilde je 5 Holzsperrträger, Langbogenschützen und Kurzschwertkämpfer aus!</text>
     </string>
     <string id="4">
       <text lang="CHN">建造 2 座小型哨塔！</text>
+      <text lang="eng">Build 2 small defence towers!</text>
       <text lang="ger">Baue 2 kleine Wachtürme!</text>
     </string>
     <string id="5">
       <text lang="CHN">为投石机配属士兵！</text>
+      <text lang="eng">Assign soldiers to the catapults!</text>
       <text lang="ger">Weise den Katapulten Soldaten zu!</text>
     </string>
     <string id="6">
       <text lang="CHN">雇佣 5 名雇佣兵！</text>
+      <text lang="eng">Hire 5 mercenaries!</text>
       <text lang="ger">Heuere 5 Söldner an!</text>
     </string>
     <string id="7">
       <text lang="CHN">@寻得制伏撒拉逊人之法！</text>
+      <text lang="eng">@Find a way to master the Saracens!</text>
       <text lang="ger">@Finde einen Weg, den Sarazenen Herr zu werden!</text>
     </string>
     <string id="8">
       <text lang="CHN">击溃撒拉逊人的前哨！</text>
+      <text lang="eng">Defeat the Saracens' outpost!</text>
       <text lang="ger">Besiege den Außenposten der Sarazenen!</text>
     </string>
     <string id="31">
       <text lang="CHN">向法兰克人缴纳 10 单位蘑菇，换取 5 名雇佣兵。</text>
+      <text lang="eng">Pay the Franks a tribute of 10 mushrooms for 5 mercenaries.</text>
       <text lang="ger">Zahle den Franken für 5 Söldner einen Tribut von 10 Pilzen.</text>
     </string>
     <string id="32">
       <text lang="CHN">向撒拉逊人缴纳以下贡金，以平息其敌意：</text>
+      <text lang="eng">Pay the Saracens the following tribute to make them friendly:</text>
       <text lang="ger">Zahle den Sarazenen folgenden Tribut, um sie friedlich zu stimmen:</text>
     </string>
     <string id="51">
       <text lang="CHN">法兰克人</text>
+      <text lang="eng">Franks</text>
       <text lang="ger">Franken</text>
     </string>
     <string id="52">
       <text lang="CHN">撒拉逊人</text>
+      <text lang="eng">Saracens</text>
       <text lang="ger">Sarazenen</text>
     </string>
     <string id="98">
       <text lang="CHN">本关以若干小例，讲解各类军事单位的训练与升级，以及与异族的外交，贡金缴纳亦在其中。</text>
+      <text lang="eng">This chapter will explain training and upgrades for different military units, as well as giving some examples of diplomatic negotiations with other tribes and paying tributes.</text>
       <text lang="ger">Ausbildung und Upgrade der verschiedenen militärischen Einheiten und die Diplomatie mit anderen Völkern wird anhand kleiner Beispiele erklärt. Ebenso Tributzahlung.</text>
     </string>
     <string id="99">
       <text lang="CHN">6) 战斗与外交系统</text>
+      <text lang="eng">6) BATTLE AND DIPLOMACY SYSTEM</text>
       <text lang="ger">6) KAMPF- UND DIPLOMATIESYSTEM</text>
     </string>
   </strings>
@@ -73,6 +89,12 @@
 你的维京人民族本质上是极其爱好和平的。但有时来自远方的敌人会宣称这片土地属于他们，这时就必须进行防御。
 按照给出的目标操作。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Your Viking tribe is basically very peaceful. But if hostile tribes give them a hard time, your people know how to fight ...
+Any Vikings can defend themselves very well. Even women can fight off approaching enemies with their fists. However, if you get involved in warfare or are attacked by a superior group, you will need a group of brave heroes ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -89,6 +111,15 @@ Grundsätzlich sind alle Wikinger verteidigungsfähig. Selbst die Frauen können
 
 士兵是比普通维京人更强壮、更坚韧的战士。他们可以装备更好的武器和盔甲。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+SOLDIERS
+
+And these are your heroes!
+Soldiers are the most efficient attack and defence forces of your Vikings. 
+They differ from the civilian population mainly in their attack and defence skills and are defined by their equipment and experience. There are three basic kinds of soldiers, whose weapons make up the main differences:
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -110,6 +141,19 @@ Sie unterscheiden sich von der Zivilbevölkerung vor allem durch ihre Kampf- und
 他们使用强大的木制或铁制长矛进行战斗。
 长矛兵是纯粹的近战单位，当他们多兵种协同攻击时最为有效。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+
+These are your SPEARMEN. 
+
+</text>
+        <usericon>1,80,139</usericon>
+        <text>
+
+They fight with powerful WOODEN or IRON SPEARS. 
+Spearmen are only suited for close combat and are most successful if several of them fight against one target together. Their range is wider than a sword fighter's.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -135,6 +179,18 @@ Speerträger sind eine reine Nahkampfeinheit und am erfolgreichsten, wenn mehrer
 弓箭手使用弓箭进行战斗。他们可以配备短弓或长弓。其优势在于远程攻击范围很大，可以对远处的敌人造成伤害。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+
+These are your ARCHERS.
+ 
+</text>
+        <usericon>1,102,133</usericon>
+        <text>
+
+Archers fight with bows and arrows. They can be equipped with SHORT BOWS or LONGBOWS. Their advantage is based on the wide range of their arrows, which makes them the most effective when fighting a target from a safe distance. However, they should avoid melees.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 
@@ -157,6 +213,18 @@ Bogenschützen kämpfen mit Pfeil und Bogen. Sie können mit KURZBOGEN oder LANG
         <text>
 剑士使用强大的短剑或长剑进行战斗。他们是一种危险且持久的近战单位，甚至能对抗敌方的长矛兵--尤其是在受到弓箭手支援的情况下。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+
+And these are your SWORD FIGHTERS.
+
+</text>
+        <usericon>1,92,132</usericon>
+        <text>
+
+Sword fighters fight with powerful SHORTSWORDS or LONGSWORDS. They are dangerous and enduring units, which can also damage enemy buildings heavily.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -181,6 +249,15 @@ Schwertkämpfer kämpfen mit einem mächtigen KURZ- oder LANGSCHWERT. Sie sind e
 兵营提供了这样的设施。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THE BARRACKS
+
+When your Vikings have to defend themselves effectively or if you are planning an attack, you will need soldiers. Soldiers have to be recruited and trained in a barracks. The barracks must be constructed by your builders just like any other building.
+
+Build a barracks!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DIE KASERNE
@@ -200,6 +277,17 @@ Baue eine Kaserne!
 
 的武器和盔甲才能开始训练。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+
+Well done! The barracks has been built. 
+It would be ideal to store any necessary equipment (weapons, armour, potions and gold) in the great store of the barracks, so you can train and equip your Vikings quickly if you need to. To that end, assign at least one carrier to the barracks to organise supplies.
+
+Hint: If you want to recruit a carrier, scout or merchant, you need to give him a different profession (e.g. civilian) before sending him to the barracks. Otherwise he will not be trained there because he thinks that he is supposed to work in the barracks! 
+
+Take the equipment to the barracks and train 5 additional spearmen, archers and sword fighters each! 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -224,6 +312,19 @@ Bringe die Ausrüstungsgegenstände in die Kaserne und bilde je 5 weitere Sperrt
 根据可用的资源选择
 
 你想要生产的兵种。</text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE BARRACKS
+
+When your Vikings have to defend themselves effectively or if you are planning an attack, you will need soldiers. Soldiers have to be recruited and trained in a barracks. The barracks must be constructed by your builders just like any other building.
+
+It would be ideal to store any necessary equipment (weapons, armour, potions and gold) in the great store of the barracks, so you can train and equip your Vikings quickly if you need to. To that end, assign at least one carrier to the barracks to organise supplies. Your carriers are already busy taking the equipment to the barracks.
+
+(If you want to recruit a carrier, scout or merchant, you need to give him a different profession (e.g. civilian) before sending him to the barracks. Otherwise he will not be trained there because he thinks that he is supposed to work in the barracks!)
+
+Train 5 additional spearmen, archers and sword fighters each!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -250,6 +351,21 @@ Bilde je 5 weitere Sperrträger, Bogenschützen und Schwertkämpfer aus!
 在你的营地附近扎了营。
 
 也许你可以招募他们。</text>
+      </lang>
+      <lang code="eng">
+        <text> 
+Oh dear, you're short of eager recruits! 
+By coincidence, 15 Vikings from the surrounding area have just dropped by, and they'd just love to be trained as soldiers.
+
+RECRUITING AND TRAINING
+
+Any male Vikings - apart from carriers, merchants and heroes - can be assigned to the barracks to be trained. As soon as a Viking has arrived at the barracks, he will automatically be trained as a soldier. He'll leave the barracks as a trained soldier, but without any weapons or armour. You still have to give these to him (via the action menu option "Change Equipment" or via his EQUIPMENT tab)
+
+If you send the soldiers back to the barracks, they will be trained again. 
+Each soldier can be trained as often as you please. For each training in the barracks, you will have to pay coins from the barracks' store so that the soldier obtains 5 more experience points. The more experience points he has, the stronger and more powerful your soldier will be.
+
+Now send the 15 civilians to the barracks and train them as soldiers.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -279,6 +395,22 @@ Schicke nun die 15 Zivilisten in die Kaserne und bilde sie zum Soldaten aus.
 
 素的军队才能带来胜利。</text>
       </lang>
+      <lang code="eng">
+        <text>
+
+Great! You have created 15 soldiers now. 
+But only the equipment will determine whether a soldier is a sword fighter, an archer or a spearman. 
+
+EQUIPPING
+
+To equip a Viking, select him and give him the objects in the equipment register via the individual buttons. To equip a group of soldiers, it is recommended to select them all and press the SPACEBAR, then choose the button "CHANGE EQUIPMENT" (displaying a big and a small hammer). With this function you can easily equip entire armies! 
+
+Soldiers can be equipped with potions, mead and amulets as well. With nourishing potions and mead they can satisfy their hunger several times without having to look around for food so often. Some amulets greatly reduce some needs or give their bearer some valuable qualities, e.g. a soldier with an amulet of stamina doesn't need to sleep at all. 
+
+There should be sufficient armour and weapons in your warehouse next to the barracks.
+Use them to make 5 soldiers shortsword fighters, to make 5 soldiers longbow archers and to make 5 soldiers spearmen with wooden spears!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -306,6 +438,15 @@ Mache damit 5 Soldaten zu Kurzschwertkämpfern, 5 zu Langbogenschützen und 5 zu
 剑士需要链甲。弓箭手需要皮甲。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+ARMOUR
+
+Your soldiers can be equipped with armour in order to protect them. Available armour types include: woollen armour, leather armour, chain mail and plate armour. Not every armour is effective against every weapon, though: A longsword, for instance, cannot do any harm against a plate armour, but is very effective against woollen armour ... 
+
+Hint: If a soldier becomes a civilian again or if he takes on another profession, he'll drop his equipment in the barracks, in a defence tower, in a store or in the landscape, so it can be used again. He can return to his duties as a soldier any time ("Change Profession"), but he won't have any equipment. 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 RÜSTUNGEN
@@ -323,6 +464,17 @@ Hinweis: Wird ein Soldat wieder Zivilist oder übt einen anderen Beruf aus, legt
         <font>$local$\fonts\font12.fnt</font>
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>英勇还是鲁莽？当比雅尼阵亡时，众神也为之落泪…… 失去这位英雄，你将在战役中无法得知结局，不得不从头开始！</text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission would have remained hidden to you and you would have had to start all over again! 
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -345,6 +497,21 @@ Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen 
         <text>你使用操作按钮“分配载具”为一位维京人分配投石机。
 
 点击该按钮后，可用的投石机会高亮显示。右键点击投石机将其分配给选中的士兵或英雄。</text>
+      </lang>
+      <lang code="eng">
+        <text> 
+CATAPULTS 
+
+Soldiers and heroes can man catapults, which are especially efficient when attacking buildings. They are produced in the armourer's workshop 2. A soldier or a hero must be assigned to the vehicle in order to steer it. 
+
+</text>
+        <usericon>1,96,154</usericon>
+        <text>
+
+Use the action button "Assign Vehicle" to assign a catapult to a Viking. As soon as you have clicked the button, the possible catapults will light up. Right-click on a catapult to inform the Viking about your choice.
+
+Assign soldiers to the catapults!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -370,6 +537,16 @@ Weise den Katapulten Soldaten zu!
 
 立即进行反击！</text>
       </lang>
+      <lang code="eng">
+        <text> 
+
+OH DEAR!
+
+The Saracens, who have been peaceful so far, have attacked one of your outposts. If they decide to strengthen their position, they will not leave your village alone either!
+
+Drive the Saracens back!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 
@@ -392,6 +569,20 @@ Dränge die Sarazenen zurück!
 要发起攻击，只需选择你的
 
 士兵，然后点击敌人即可。</text>
+      </lang>
+      <lang code="eng">
+        <text> 
+
+SOLDIER GROUPS and ATTACK
+
+Several soldiers are selected the same way as normal Vikings. By DOUBLE-CLICKING with the left mouse button you can select all soldiers of the same type. Double-clicking on one of your spearmen, for example, will select all the spearmen in a certain area. You can also select all the visible soldiers via the selection button in the subjects window in the lower right corner. 
+
+You can create a group of soldiers just like you would a group of civilians (see tutorial 1) by using the SHIFT and CTRL keys. If you have selected several soldiers, you can assign these to a group by holding CTRL and pressing a number from 0 to 9 to create a group with the respective number. To select this group, simply press its number key again. This function is very useful in battle!
+
+With an individual soldier, you can open the action menu as usual. If you have selected several soldiers, press the SPACEBAR. The action menu which opens next to the cursor now applies to any selected soldiers.
+
+If you right-click on an enemy or a hostile building, the selected soldiers will attack the enemy or the building. Watch out: To recognise somebody as an enemy, your diplomacy status must be set to hostile, otherwise your soldiers will not attack.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -423,6 +614,26 @@ Klickst du mit der rechten Maustaste auf einen Feind oder ein feindliches Gebäu
 模式图标会显示在士兵上方--红色为攻击，蓝色为防御。
 
 合理运用模式切换是在战场上取胜的关键。</text>
+      </lang>
+      <lang code="eng">
+        <text> 
+
+SOLDIER MODES
+
+Attack mode: Your soldiers can only attack units who are defined as hostile.
+If an enemy approaches your soldiers, they will chase and fight him until he is out of range or the fight has been decided.
+
+Defence mode: Soldiers attack approaching enemies automatically. They also defend themselves as soon as they are attacked. If there are fights nearby, they will rush there in order to support their comrades.
+
+Ignorant mode: This function ensures that your soldiers will hold their positions, whatever happens! Whether they become hungry or their friends are attacked - they will not move one single step.
+
+Allow Regeneration: This function allows the soldiers to satisfy their needs, such as hunger and sleep. 
+
+Prohibit Regeneration: With this function enabled, a soldier will neither eat nor sleep.
+
+Hint:
+Using the action button "Assign Work Place", you can send soldiers to a barracks or position archers in a defence tower or main warehouse. They will then defend that building in case of an attack. Instead of using this button, you can also assign a selected soldier by right-clicking on the desired building.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -461,6 +672,25 @@ Mit dem Aktionsbutton: Arbeitsplatz zuweisen kannst du Soldaten in eine Kaserne 
 
 做好万全准备--战争还是和平，全在你的掌握之中。</text>
       </lang>
+      <lang code="eng">
+        <text> 
+
+BRILLIANT!
+
+You have conquered the outpost. Unfortunately, you don't know how the Saracen village in the south will react to these confrontations! Therefore, you should build some fortifications to be on the safe side. 
+
+FORTIFICATIONS
+
+To protect your village you can have your builders construct some impressive defence towers, stockades and gates. 
+
+DEFENCE TOWERS are defence buildings only. A defence tower can be occupied by several soldiers who secure the surroundings against attackers. The more soldiers occupy a tower, the better its defensive force.
+A small defence tower can be occupied by a maximum of 3 longbow archers and 3 short bow archers, a large defence tower can be occupied by 4 longbow archers and 4 short bow archers.
+
+STOCKADES are not only good against attackers, they are also excellent protection against wild animals. Gates enable your Vikings to depart without problems from a village fortified by stockades. They can only be erected where there is already a reasonably straight stockade.
+
+Build 2 defence towers here! Find a way to master the Saracens.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 
@@ -493,6 +723,22 @@ Baue also am besten hier 2 Wachtürme! Finde eine Lösung den Sarazenen Herr zu 
 
 在战斗中支持你。</text>
       </lang>
+      <lang code="eng">
+        <text> 
+
+For your safety, you can ask tribes that are friendly towards you for help. By paying a tribute, you can also often hire a certain number of brave warriors who will support you.
+
+MERCENARIES
+
+Mercenaries are controlled exactly the same way as your own soldiers.
+
+Open the diplomacy window by clicking the button on the left-hand side of the screen or pressing the F5 key. The general map displays all nations which have already been discovered by you. 
+The section where the demanded tributes are shown now displays possible goods demands for hiring mercenaries as well.
+If you have the required goods in your warehouses, you can left-click the corresponding option - and your army will have acquired some new brave warriors!
+
+Hire 5 mercenaries from the Franks!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 
@@ -522,6 +768,16 @@ Heuere 5 Söldner von den Franken an!
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+
+MERCENARIES
+
+Your army has acquired some new brave warriors!
+
+Hire an additional 5 mercenaries from the Franks if you want to!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 
@@ -544,6 +800,21 @@ Heuere, wenn du willst, weitere 5 Söldner von den  Franken an!
 在这里，你可以
 
 结成联盟或宣战。</text>
+      </lang>
+      <lang code="eng">
+        <text> 
+
+DIPLOMACY (F5)
+
+Opening the diplomacy window displays a general map. If there is more than one nation on the map, you can see whether the other nations are hostile, neutral or friendly, as well as set your own attitude. These attitudes may sometimes differ: Just because someone is friendly towards you, it doesn't mean you have to like him.
+
+If another nation is hostile towards your Vikings, it will not hesitate to attack your people or their buildings, just as your Viking soldiers will attack if they meet the enemy.
+As soon as a tribe is attacked, its attitude towards the attacker becomes hostile, even if it was friendly before.
+
+Neutral means that both sides are quite happy with their situation. They don't argue and fight, but they don't trade with one another either.
+
+You can only set your attitude towards nations you have encountered. To do so, click on the button with the respective tribe's colour and adjust your attitude, or pay a tribute.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -571,6 +842,19 @@ Diplomatiezustände kannst du nur zu Völkern einstellen, die du auch schon entd
 
 你也可以索要贡品，但需谨慎--这可能会激怒对方。</text>
       </lang>
+      <lang code="eng">
+        <text> 
+
+PAYING TRIBUTES
+
+If a tribe's attitude towards you is hostile or neutral, your Vikings may be able to change their attitude by paying a tribute.
+In that case, the tribute required to effect a change of attitude is given in the diplomacy window.
+
+If the desired goods are available in your warehouses, left-click the respective button. The goods will immediately be removed from your warehouse and handed over to the other tribe. The latter's attitude towards you will change at once.
+
+Pay the demanded tribute to make the Saracens friendly or defeat them in battle!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 
@@ -593,6 +877,16 @@ Zahle den geforderten Tribut, um die Sarazenen freundlich zu stimmen, oder besie
 
 继续下一课吧！</text>
       </lang>
+      <lang code="eng">
+        <text> 
+
+BRILLIANT!
+
+You have performed excellently, both in finding peaceful solutions and in proving your strength in battle! 
+
+Proceed to the next tutorial!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 
@@ -612,6 +906,16 @@ Auf zum nächsten Tutorial!
 
 继续下一课吧！</text>
       </lang>
+      <lang code="eng">
+        <text> 
+
+BRILLIANT!
+
+You have real talent as a warrior! However, you really should work on your readiness to find peaceful solutions ... ;0)
+
+Proceed to the next tutorial!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 
@@ -628,6 +932,11 @@ Auf zum nächsten Tutorial!
         <text>
 战斗与外交系统--组建军队进行征服
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+BATTLE AND DIPLOMACY SYSTEM
+</text>
       </lang>
       <lang code="ger">
         <text> 

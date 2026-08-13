@@ -1,72 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_02_06" export_map_id="campaign_02_06" map_md5="71af9ed1e22d706580a45984a238b471" IsC2M="false">
+<localization version="1.3" map_id="campaign_02_06" export_map_id="campaign_02_06" map_md5="71af9ed1e22d706580a45984a238b471" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@寻得世界树尤克特拉希尔，恳请进入冥界！</text>
+      <text lang="eng">@Find the World Tree Yggdrasil and ask for passage to the Underworld!</text>
       <text lang="ger">@Finde die Weltenesche Yggdrasil und erbitte den Einlass zur Unterwelt!</text>
     </string>
     <string id="1">
       <text lang="CHN">寻找东北面的维京人村庄。</text>
+      <text lang="eng">Find the Viking village in the north-east.</text>
       <text lang="ger">Suche das Wikingerdorf im Nordosten.</text>
     </string>
     <string id="2">
       <text lang="CHN">向维京人村庄缴纳其所索贡金，以获取情报与贸易协定。</text>
+      <text lang="eng">Pay the Viking village the required tribute for information and trade agreements.</text>
       <text lang="ger">Zahle den Wikingerdorf den geforderten Tribut für Informationen und Handelsverträge.</text>
     </string>
     <string id="3">
       <text lang="CHN">建造一座神殿。</text>
+      <text lang="eng">Build a temple.</text>
       <text lang="ger">Baue einen Tempel.</text>
     </string>
     <string id="4">
       <text lang="CHN">与全部英雄一同抵达世界树尤克特拉希尔。</text>
+      <text lang="eng">Reach the World Tree Yggdrasil with ALL your heroes.</text>
       <text lang="ger">Erreiche mit ALLEN Helden die Weltenesche Yggdrasil.</text>
     </string>
     <string id="31">
       <text lang="CHN">向维京人村庄缴纳 10 单位铁制工具作贡金。</text>
+      <text lang="eng">Give the Viking village a tribute of 10 iron tools.</text>
       <text lang="ger">Reiche dem Wikingerdorf 10 Eisenwerkzeuge zum Tribut.</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的部族</text>
+      <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarnis Stamm</text>
     </string>
     <string id="51">
       <text lang="CHN">维京人</text>
+      <text lang="eng">Vikings</text>
       <text lang="ger">Wikinger</text>
     </string>
     <string id="52">
       <text lang="CHN">世界树教团</text>
+      <text lang="eng">Yggdrasil Order</text>
       <text lang="ger">Yggdrasils-Orden</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
+      <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
+      <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
+      <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">伊科尔</text>
+      <text lang="eng">Ykol</text>
       <text lang="ger">Ykol</text>
     </string>
     <string id="98">
       <text lang="CHN">当希拉为芬里尔狼戴上锁链，她便随它一同被拽入了瓦尔哈拉。可有办法将她救回？</text>
+      <text lang="eng">As Cyra put the chain on Fenrir, the Fenris Wolf, she was dragged with him to Valhalla. Can she be saved?</text>
       <text lang="ger">Als Cyra dem Fenriswolf die Kette anlegte, wurde sie zusammen mit ihm nach Walhalla gezogen. Gibt es eine Möglichkeit sie zu retten?</text>
     </string>
     <string id="99">
       <text lang="CHN">北地</text>
+      <text lang="eng">NORTHLAND</text>
       <text lang="ger">NORDLAND</text>
     </string>
   </strings>
@@ -77,6 +94,12 @@
 失去希拉后，深沉的悲恸笼罩着我们！她的躯体自灵魂随芬里尔离去后，竟一刻也未衰老。
 某种不真实的东西环绕着她，我们竟无法将她的身躯归还大地……
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+We were deeply grieved about the loss of Cyra! Her lifeless body seemed not to have changed at all since her spirit had been carried away with Fenrir. 
+Something unnatural surrounded her, and we were unable to return her body to the soil ... 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -94,6 +117,15 @@ Etwas Unwirkliches umgab sie, und wir vermochten es nicht, ihren Körper der Erd
 
 前往宇宙树尤克特拉希尔。但在此之前，先在周边搜寻线索！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+Ykol, who was well versed in mythology, said that Cyra's spirit had been taken and now lingered in Asgard, the world of the gods. But he also claimed that there might be a way to bring her back. 
+
+Only very few people have ever survived a journey to Asgard. He said that the only way to Asgard was through the ever-green World Tree Yggdrasil at the Well of Urd. This tree carries the world, its branches spread from heaven to earth, they connect the divine realm of Asgard with the human world of Midgard, both of which are again connected to the underground kingdoms of Hel and Niflheim.
+
+Travel to the World Tree Yggdrasil. But first look for clues in your surroundings!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -115,6 +147,16 @@ Begib dich zur Weltenesche Yggdrasil. Zuvor suche jedoch die Umgebung nach Hinwe
 
 缴纳贡品，我们或许就能与他们贸易，并探听世界树的消息……
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+VILLAGE
+
+We came across a Viking village. The locals regarded us with suspicion, but they were not hostile. Among them were guards of the World Tree who called themselves the Yggdrasil Order. 
+These Vikings also owned resources that were very scarce in these barren parts.
+
+In return for a tribute, we might be able to trade with them and get some information about the World Tree ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -138,6 +180,17 @@ Gegen einen Tribut konnten wir mit ihnen vielleicht Handel treiben und etwas üb
 
 新建一座神庙，守护者便会认可你们的善意。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+VILLAGE
+
+After we had paid them the tribute, the village offered us numerous trade agreements and gave us a useful hint on how to access the World Tree.
+ 
+"The guards of the tree, the Yggdrasil Order, will only grant men of pure heart passage to the entrance of the Underworld. In the past, men built a holy temple to prove their purity and thus gain access to the Underworld. But then the temple was destroyed, and the guards grew more suspicious than ever ..."
+
+Build a new temple so the guards will recognise your good intentions. 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -163,6 +216,17 @@ Errichtet einen neuen Tempel und die Wächter werden eure guten Absichten billig
 建造一座新神庙。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THE YGGDRASIL ORDER
+
+"We only grant passage to the World Tree Yggdrasil to those who are pure of heart. Far too often has this entrance to the Underworld been abused for evil!" they said. "If you dare to approach the entrance without our approval, you will die!"
+
+"Prove that your soul is pure by erecting a sacred place! Remain there in humility for some time, and our brothers will come to get you. Passage to the Underworld shall then be granted to you!"
+
+Build a new temple. 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 YGGRADILS ORDEN
@@ -187,6 +251,17 @@ Baue einen neuen Tempel.
 我们放行你，比雅尼，与你两位友人哈奇和西格德同行！”
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THE YGGDRASIL ORDER
+
+"We only grant passage to the World Tree Yggdrasil to those who are pure of heart. Far too often has this entrance to the Underworld been abused for evil!" they said.
+
+"But, as our wise eyes see, you have already taken the effort to build a holy temple! You may pass through the gates. 
+
+We grant you, Bjarni, permission to pass through the gates with your friends Hatchie and Sigurd!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 YGGDRASILS ORDEN
@@ -210,6 +285,16 @@ Wir lassen dich, Bjarni, mit deinen beiden Freunden Hatschi und Sigurd passieren
 他能否安然寻得通往神界之路？毕竟守护者本未准许他靠近世界树！
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+What happened next left us speechless ...
+
+Ykol simply ignored the instructions of the Order and stormed past the stern guards, who seemed to take no notice of him ... 
+He shouted: "Follow me, my friends!" We never saw him again ... 
+
+Would he find a way to the world of the gods unscathed? The guards had not granted him passage to the World Tree! 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Was dann geschah, verschlug uns die Sprache...
@@ -229,6 +314,13 @@ Ob er unbeschadet den Weg in die Welt der Götter finden würde? Ihm hatten die 
 一座宏伟神庙直插云霄，将周边化为圣地。如今尤克特拉希尔之序该放我们前往世界树了……
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THE TEMPLE HAS BEEN BUILT! 
+
+A magnificent temple rose to the sky and turned this place into sacred ground. We were certain that the Yggdrasil Order would now let us pass to the World Tree ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 TEMPEL GEBAUT! 
@@ -246,6 +338,15 @@ Ein prächtiger Tempel erhob sich gen Himmel und verwandelte die Umgebung in gew
 
 言毕，你们的维京英雄与首领便沦为教团恐怖诅咒的牺牲品，惨死当场。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE YGGDRASIL ORDER
+
+"Now you will die! This is your punishment for not heeding our warning!"
+
+As soon as these words were spoken, the heroes and leaders of your Vikings fell victim to the terrible curse of the Order and died a horrible death.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -268,6 +369,22 @@ Mit diesen Worten fielen die Helden und Anführer deiner Wikinger einem furchtba
 有时我几乎觉得，她想警示我们一场迫近的危险……
 [blockend: 08]
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+
+...
+
+More than once I watched Cyra's spirit walk the white realms of Northland. She appeared barely tangible, and disappeared again without a trace. 
+
+Sometimes it almost seemed as though she wanted to warn us of a menace ...
+[blockend: 08]
+
+
+
+
+
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -298,6 +415,17 @@ Manchmal schien es mir fast, sie wolle uns vor einer drohenden Gefahr warnen...
 是英勇，还是鲁莽？比雅尼死时，诸神也为之落泪……少了这位英雄，你便无从知晓任务的结局。
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -321,6 +449,17 @@ Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen 
         <text>
 生命中片刻的鲁莽，转瞬即至！你的朋友与英雄哈奇因你的疏忽而殒命！少了这位英雄，你便无从知晓任务的结局。
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -346,6 +485,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 生命中片刻的鲁莽，转瞬即至！你的朋友与英雄西格德因你的疏忽而殒命！少了这位英雄，你便无从知晓任务的结局。
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Sigurd died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -370,6 +520,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 生命中片刻的鲁莽，转瞬即至！伊科尔因你的疏忽而殒命！少了这位英雄，你便无从知晓任务的结局。
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Ykol died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -388,6 +549,11 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Ykol erlag dur
 世界树尤克特拉希尔的入口被虬结的树根环绕。一道黑暗诡谲的深渊将我们拽向深处。在抵达阿斯加德的众神之前，我们还须先穿越死亡女神赫尔的国度。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+The entrance to the World Tree Yggdrasil was surrounded by knotty roots. A dark, terrifying maw opened into the depths. There we would first have to cross the kingdom of Hel, the goddess of death, before reaching the gods in Asgard. 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Der Eingang zur Weltenesche Yggdrasil war umgeben von knorrigen Baumwurzeln. Ein dunkler, unheimlicher Schlund zog uns in die Tiefe. Dort würden wir erst das Reich der Totengöttin Hel durchqueren müssen, bevor wir zu den Göttern in Asgard gelangen konnten. 
@@ -399,6 +565,11 @@ Der Eingang zur Weltenesche Yggdrasil war umgeben von knorrigen Baumwurzeln. Ein
         <text>
 我们愈沉愈深，四周愈暖愈暗，很快便忘却了北方之地的冰寒气候……
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+The deeper we went, the warmer and darker it became, and soon we had forgotten the icy climate of Northland ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -413,6 +584,12 @@ Je tiefer wir gelangten, desto wärmer und dunkler wurde die Umgebung, und schne
 任务成功！
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+
+MISSION COMPLETED! 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 
@@ -426,6 +603,12 @@ MISSION GEWONNEN!
 
 北方之地
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+
+NORTHLAND
+</text>
       </lang>
       <lang code="ger">
         <text> 

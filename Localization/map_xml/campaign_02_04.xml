@@ -1,160 +1,199 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_02_04" export_map_id="campaign_02_04" map_md5="2c8b98818c0d96ed91cc1a9a7943fa95" IsC2M="false">
+<localization version="1.3" map_id="campaign_02_04" export_map_id="campaign_02_04" map_md5="2c8b98818c0d96ed91cc1a9a7943fa95" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">寻找修道院。</text>
+      <text lang="eng">Find the abbey.</text>
       <text lang="ger">Suche die Abtei.</text>
     </string>
     <string id="1">
       <text lang="CHN">寻得三位逝去君王的佩剑。</text>
+      <text lang="eng">Find the three swords of the deceased kings.</text>
       <text lang="ger">Finde die drei Schwerter der verstorbenen Könige.</text>
     </string>
     <string id="2">
       <text lang="CHN">与法兰克城以南的渡船夫交谈。</text>
+      <text lang="eng">Talk to the ferryman south of the Frankish village.</text>
       <text lang="ger">Sprich mit dem Fährmann südlich der Frankenstadt.</text>
     </string>
     <string id="3">
       <text lang="CHN">携你的 5 名英雄一同造访神谕者。</text>
+      <text lang="eng">Find the oracle with your 5 heroes.</text>
       <text lang="ger">Suche das Orakel mit deinen 5 Helden auf.</text>
     </string>
     <string id="4">
       <text lang="CHN">设法与全部英雄进入地下墓穴。为此须向法兰克暴君缴纳其所索贡金，或与之交战。</text>
+      <text lang="eng">Try to get into the catacombs with ALL your heroes. To accomplish this, pay the Frankish tyrant the required tribute or fight him.</text>
       <text lang="ger">Versuche mit ALLEN Helden in die Katakomben zu gelangen. Zahle dazu dem fränkischen Tyrann den geforderten Tribut oder bekämpfe ihn.</text>
     </string>
     <string id="5">
       <text lang="CHN">找到铁匠约翰内斯，以锻造锁链。</text>
+      <text lang="eng">Find the blacksmith John to have the chain forged.</text>
       <text lang="ger">Finde den Schmied Johannes, um die Kette zu schmieden</text>
     </string>
     <string id="6">
       <text lang="CHN">找到灰袍德鲁伊，请其为锁链祝圣。</text>
+      <text lang="eng">Find the grey druids to have the chain blessed.</text>
       <text lang="ger">Finde die grauen Druiden, um die Kette weihen zu lassen.</text>
     </string>
     <string id="7">
       <text lang="CHN">烘焙糕点并作为贡金交给佣兵，使他们随同你的维京人执行任务。</text>
+      <text lang="eng">Bake a cake and give it to the mercenaries as a tribute so they will accompany your Vikings during the mission.</text>
       <text lang="ger">Backe Kuchen und reiche sie den Söldnern zum Tribut, damit sie deine Wikinger bei der Mission begleiten.</text>
     </string>
     <string id="8">
       <text lang="CHN">向德鲁伊缴纳 10 单位蘑菇作贡金。</text>
+      <text lang="eng">Pay the druids a tribute of 10 mushrooms.</text>
       <text lang="ger">Zahle den Druiden 10 Pilze Tribut</text>
     </string>
     <string id="9">
       <text lang="CHN">若要让铁匠约翰内斯锻造锁链，须缴 20 把短剑作贡金。</text>
+      <text lang="eng">Pay a tribute of 20 shortswords so that the blacksmith John will forge the chain.</text>
       <text lang="ger">Zahle 20 Kurzschwerter Tribut, wenn der Schmied Johannes die Kette schmieden soll.</text>
     </string>
     <string id="10">
       <text lang="CHN">向车夫支付渡河费用。</text>
+      <text lang="eng">Pay the ferryman for the crossing.</text>
       <text lang="ger">Bezahle den Fuhrmann für die Überfahrt.</text>
     </string>
     <string id="31">
       <text lang="CHN">向修士捐赠 10 单位草药，祈其修道院安泰。</text>
+      <text lang="eng">Give the monks 10 herbs for the welfare of their abbey.</text>
       <text lang="ger">Spende den Mönchen 10 Kräuter für das Wohlergehen ihrer Abtei.</text>
     </string>
     <string id="32">
       <text lang="CHN">为换取法兰克暴君的中立姿态，须向其缴纳 30 枚钱币作贡金。</text>
+      <text lang="eng">Pay the Frankish tyrant a tribute of 30 coins for his neutrality.</text>
       <text lang="ger">Reiche dem fränkischen für eine neutrale Haltung Tyrann 30 Münzen zum Tribut.</text>
     </string>
     <string id="33">
       <text lang="CHN">用 5 份糕点从西格德的预备队中诱出 5 名佣兵！</text>
+      <text lang="eng">Call 5 of Sigurd's mercenaries into action by giving them 5 cakes!</text>
       <text lang="ger">Locke mit 5 Kuchen 5 Söldner von Sigurd aus der Reserve!</text>
     </string>
     <string id="34">
       <text lang="CHN">向渡船夫缴纳 10 单位蜂蜜酒作贡金，以渡往岛屿。</text>
+      <text lang="eng">Pay the ferryman a tribute of 10 mead for the crossing to the island.</text>
       <text lang="ger">Zahle dem Fährmann 10 Met Tribut für die Überfahrt zu Insel.</text>
     </string>
     <string id="35">
       <text lang="CHN">若要让铁匠锻造锁链，须缴 20 把短剑作贡金。</text>
+      <text lang="eng">Pay a tribute of 20 shortswords so that the blacksmith will forge the chain.</text>
       <text lang="ger">Zahle 20 Kurzschwerter Tribut, wenn der Schmied die Kette schmieden soll.</text>
     </string>
     <string id="36">
       <text lang="CHN">若要让德鲁伊为锁链祝圣，须缴 10 单位蘑菇作贡金。</text>
+      <text lang="eng">Pay a tribute of 10 mushrooms so that the druids will bless the chain.</text>
       <text lang="ger">Zahle 10 Pilze Tribut, wenn die Druiden die Kette weihen sollen.</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的部族</text>
+      <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarnis Stamm</text>
     </string>
     <string id="51">
       <text lang="CHN">修士</text>
+      <text lang="eng">Monks</text>
       <text lang="ger">Mönche</text>
     </string>
     <string id="52">
       <text lang="CHN">暴君</text>
+      <text lang="eng">Tyrant</text>
       <text lang="ger">Tyrann</text>
     </string>
     <string id="53">
       <text lang="CHN">西格德的城堡</text>
+      <text lang="eng">Sigurd's Castle</text>
       <text lang="ger">Sigurds Burg</text>
     </string>
     <string id="54">
       <text lang="CHN">渡船夫</text>
+      <text lang="eng">Ferryman</text>
       <text lang="ger">Fährmann</text>
     </string>
     <string id="55">
       <text lang="CHN">铁匠铺</text>
+      <text lang="eng">Smithy</text>
       <text lang="ger">Schmiede</text>
     </string>
     <string id="56">
       <text lang="CHN">德鲁伊</text>
+      <text lang="eng">Druids</text>
       <text lang="ger">Druiden</text>
     </string>
     <string id="57">
       <text lang="CHN">西格德</text>
+      <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
     </string>
     <string id="58">
       <text lang="CHN">渡船</text>
+      <text lang="eng">Ferrym.</text>
       <text lang="ger">Fährm.</text>
     </string>
     <string id="59">
       <text lang="CHN">铁匠</text>
+      <text lang="eng">Blacksmith</text>
       <text lang="ger">Schmied</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
+      <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
+      <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
+      <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">伊科尔</text>
+      <text lang="eng">Ykol</text>
       <text lang="ger">Ykol</text>
     </string>
     <string id="77">
       <text lang="CHN">约翰内斯</text>
+      <text lang="eng">John</text>
       <text lang="ger">Johannes</text>
     </string>
     <string id="78">
       <text lang="CHN">斯米尔奇</text>
+      <text lang="eng">Smilch</text>
       <text lang="ger">Smilch</text>
     </string>
     <string id="79">
       <text lang="CHN">多布尔</text>
+      <text lang="eng">Dobur</text>
       <text lang="ger">Dobur</text>
     </string>
     <string id="80">
       <text lang="CHN">渡船夫</text>
+      <text lang="eng">Ferryman</text>
       <text lang="ger">Fährmann</text>
     </string>
     <string id="98">
       <text lang="CHN">可怖的芬里尔狼挣脱了它的魔法锁链，令狼患肆虐大地。唯有重铸锁链，方能驯服此狼……</text>
+      <text lang="eng">Fenrir, the terrifying Fenris Wolf, has broken free of his magic chain and brought a wolf plague over the land. The chain must be reforged in order to tame the wolf ...</text>
       <text lang="ger">Der schreckliche Fenriswolf hat sich von seiner magischen Kette gerissen und die Wolfsplage über das Land gebracht. Die Kette muss neu geschaffen werden, um den Wolf zu bändigen...</text>
     </string>
     <string id="99">
       <text lang="CHN">芬里尔之链</text>
+      <text lang="eng">THE CHAIN OF FENRIR</text>
       <text lang="ger">DIE KETTE DES FENRIS</text>
     </string>
   </strings>
@@ -169,6 +208,16 @@
 
 于是我们启程，去寻找那座修道院。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+At the celebration of our reunion, where we also celebrated our success against the wolf plague, Sigurd described the wolf plague in great detail and explained how long his people had had to fight it. He also told us how he had come to believe that the gruesome Fenrir, the Fenris Wolf, the most dangerous demon from the ancient legends, was responsible for this plague. He had broken free of the magic chain the gods had fastened him to and was now ravaging the human world with his hordes.
+
+In order to return Fenrir to his shackles and thus end the problem with the wolves, the chain that once held the giant wolf captive would have to be reforged. 
+There was an abbey in the north-east whose monks had learned of this secret and might now be able to help us reforge the chain ...
+
+We set out to find this abbey. 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -188,6 +237,13 @@ Also machten wir uns auf den Weg, die Abtei zu finden.
 
 在河流之间定居，然后前往东北方山中的修道院！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+Ykol, who had gained extensive mythological knowledge on his numerous journeys and believed in the explanation offered by the monks, agreed with our plans. And so our decision was made!
+
+Settle between the courses of the river and proceed to the abbey in the north-eastern mountains!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -213,6 +269,23 @@ Siedele zwischen den Flussläufen und begib dich dann zur Abtei in den Bergen no
 
 找到已故三王的三柄王者之剑。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE MONKS OF THE ABBEY
+
+When we reached the abbey high up in the mountains, the local monks gave us a warm welcome. 
+In answer to our request they were happy to tell us about the first component of the new Fenris chain. 
+The famous swords of three kings of ancient times lay hidden in the catacombs below the city of a Frankish tyrant. Their metal would form the foundation of the chain ...
+
+If we brought the swords of the kings to the monks and paid them a small tribute for the welfare of their abbey, they would tell us about the second magic component ... 
+Well, this was not exactly how I remembered the concepts of selfless Christian charity and helpfulness, but we had no choice.
+
+Our first mission took us westwards. 
+
+
+Find the three swords of the deceased kings. 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -246,6 +319,19 @@ Finde die drei Schwerter der verstorbenen Könige.
 找到摆渡人，由其载英雄们登岛，并解开神谕。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THE MONKS OF THE ABBEY
+
+After the monks had verified the authenticity of the swords of the ancient kings and we had paid our small tribute, they revealed the second magic component: 
+"Find the Island of the Silent and answer the oracle's questions. If your answers are correct, you will receive the hair of a unicorn - one of the most beautiful and magical creatures on Earth. 
+Only with this component of the chain will you be able to ban the Fenris Wolf.
+
+There is a ferryman who knows the way to the island and can ferry you across. Go and find him." 
+
+Find the ferryman who will take the heroes across to the island, and answer the oracle's questions.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DIE MÖNCHE DER ABTEI
@@ -273,6 +359,18 @@ Finde den Fährmann, der die Helden zur Insel übersetzt und löse das Orakel.
 找到铁匠锻造锁链，再寻两位灰袍德鲁伊为其祝圣。为此请向西南群山进发。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THE MONKS OF THE ABBEY
+
+After we had successfully replied to the oracle's questions and received the hair of a unicorn in return, the monks of the abbey gave us the following hint: 
+
+"You now have the magic components of the chain that can ban the Fenris Wolf. 
+There is an old blacksmith by the name of John. He alone can forge the chain. Go and find him. Afterwards you must visit the two grey druids Smilch and Dobur to have the chain blessed so that it can develop the necessary magic power. All three of them live like hermits in a valley to the south-east." 
+
+Find the blacksmith who must forge the chain, then seek out the two grey druids to have it blessed. You must travel to the south-western mountains. 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DIE MÖNCHE DER ABTEI
@@ -294,6 +392,14 @@ Finde den Schmied, um die Kette zu schmieden und dann die beiden grauen Druiden,
 可当我们逼近城堡，迎接并不友善。暴君与他的盗墓贼视我们为入侵者，立刻开火。设法让全部英雄进入地下墓穴。为此向法兰克暴君缴纳所索贡品，或击败他。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+Tall and proud, the Frankish tyrant's stronghold reached up into the sky, erected over the graves of countless ancient kings and heroes. The catacombs must hold invaluable treasures that were, however, of no interest to us. After all, we had only come to look for the three swords of the ancient kings ... 
+But when we approached the stronghold, we were greeted in a less than friendly manner. The tyrant and his grave robbers considered us as intruders, and opened fire.
+
+Try to get into the catacombs with ALL your heroes. Pay the Frankish tyrant the required tribute or fight him.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Hoch und stolz erhob sich die fränkische Festung des Tyrannen, gebaut auf unzähligen Gräbern vergangener Könige und Helden. Die Katakomben mussten unschätzbare Reichtümer in sich bergen, die uns jedoch nicht sonderlich interessierten. Wollten wir doch nur die drei Schwerter der alten Könige haben... 
@@ -308,6 +414,11 @@ Versuche mit ALLEN Helden in die Katakomben zu gelangen. Zahle dazu dem fränkis
         <text>
 我们刚缴完那笔惊人的贡品，法兰克暴君便对我们摆出中立姿态。我们是否就此免遭其部众攻击？
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+As soon as we had paid the horrendous tribute, the Frankish tyrant became neutral towards us. Would we now be safe from attacks by his vassals?
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -325,6 +436,16 @@ Kaum hatten wir den horrenden Tribut bezahlt, nahm der fränkische Tribut eine n
 
 烤制蛋糕，借此招募雇佣兵。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+SIGURD
+
+Of course, Sigurd wanted to actively support us and didn't hesitate to join us. Unfortunately, his soldiers were not that easily convinced ... However, since we had arrived and brought such a tasty present, hardly anyone could resist our delicious cakes. Word quickly got out how scrumptious these cakes were, and we found it remarkable that battle-hardened, brave warriors could be lured with such a simple thing ...
+But the more cake we gave them, the more mercenaries joined us ...
+
+Bake some cake to lure the mercenaries. 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -345,6 +466,13 @@ Backe Kuchen und heuere damit Söldnern an.
 或许再多些蛋糕，还能说服更多雇佣兵加入我们的任务……
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+Sigurd's men could not resist our cakes. 5 of his men wanted to accompany us. They waited above his castle.
+
+Maybe we would be able to persuade even more mercenaries to join our mission with some more cake ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Unseren Kuchen konnten Sigurds Leute nicht widerstehen, und so wollten uns fünf seiner Mannen nun begleiten. Sie warteten oberhalb seiner Burg.
@@ -362,6 +490,16 @@ Vielleicht konnten wir mit etwas mehr Kuchen noch mehr Söldner von unserer Miss
 
 向摆渡人缴纳渡资作为贡品，他便会欣然陪同英雄们上岛。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+FERRYMAN
+
+"I have not seen any strangers in this region for a long time! Come closer!" the ferryman said. He was willing to ferry us across to the island if we paid him a small fee. Otherwise, we could also have our own ship built by one of our shipbuilders by the lake ...
+
+
+Pay the ferryman a fee, and he will be glad to take the heroes to the island.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -381,6 +519,13 @@ Zahle den Fährmann ein Fuhrgeld als Tribut und er wird gerne bereit sein, die H
 
 “如今我乐意载你们上岛。这湖谁也不及我熟！你们作了明智的决定！”
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+FERRYMAN
+
+"Now I am happy to take you across to the island. No one knows the lake as well as I do! You have made a wise decision!" 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -402,6 +547,17 @@ FÄHRMANN
 是英勇，还是鲁莽？比雅尼死时，诸神也为之落泪……少了这位英雄，你便无从知晓任务的结局。
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -422,6 +578,13 @@ Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen 
 我们终于找到地下墓穴的入口，传说中古王之剑便藏身其中。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THE CATACOMBS
+
+Now we had found the entrance to the catacombs that were said to hold the swords of the ancient kings.  
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DIE KATAKOMBEN
@@ -435,6 +598,11 @@ Nun hatten wir den Eingang der Katakomben gefunden, welche die Schwerter der alt
         <text>
 在这不起眼湖泊的中央，竟有一处巨大漩涡！我们辨不清摆渡人将我们带向何方，因为在迷雾之地中，我们完全迷失了方向……
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+In the middle of the inconspicuous lake was a mighty whirlpool! We could not tell where the ferryman was taking us as we had lost all sense of direction in the fog ... 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -452,6 +620,16 @@ In der Mitte des unscheinbaren Sees war ein mächtiger Strudel! Wir vermochten n
 约翰内斯表示，愿以若干短剑为酬，为这锁链锻铁。
 人人都要我们出点什么……也罢，若这就是代价，我们只好付了……
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+BLACKSMITH
+
+John's art of forging was said to be extraordinary, and there was an abundance of gold and iron. 
+
+John was prepared to forge the chain in return for a few shortswords.
+It seemed nothing was ever available for free, but if this was his price, then we had no choice but to pay it ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -475,6 +653,16 @@ Alle wollten sie immer was von uns... Aber gut, wenn das der Preis sein sollte, 
 向两位德鲁伊缴纳 10 单位蘑菇作为贡品。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THE GREY DRUIDS
+
+The two druids Smilch and Dobur lived in a truly idyllic place. Strange plants shot up from the soil, the surroundings were full of life and glowed a sparkling shade of green.
+Both druids were exceedingly friendly and obliging, and they demanded only a few mushrooms for the blessing of the chain.
+
+Pay the two druids a tribute of 10 mushrooms.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DIE GRAUEN DRUIDEN
@@ -494,6 +682,13 @@ Reiche den beiden Druiden 10 Pilze als Tribut.
 “许久不曾在这片地界见到外乡人了！近前来！”摆渡人朝我们喊道。“或许你们还用得着我。这湖便是我家，无人比我更通晓它！”
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+FERRYMAN
+
+"I have not seen any strangers in this region for a long time! Come closer!" the ferryman said. "You may need me again one day. The lake is my home, no one knows it better than I do!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 FÄHRMANN
@@ -509,6 +704,13 @@ FÄHRMANN
 
 若我们让约翰内斯锻好锁链，他们定然乐于为其祝圣！但首先，锁链须被铸造出来！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE GREY DRUIDS
+
+If we got John to forge the chain, they would certainly be prepared to bless it! But first the chain had to be forged!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -526,6 +728,13 @@ Wenn wir die Kette von Johannes schmieden lassen würden, wären sie bestimmt be
 德鲁伊所居真是古怪有趣。或许日后我们还会借重他们的魔法本领……
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THE GREY DRUIDS
+
+These druids had picked a truly strange place to live. Maybe we would be able to make use of their magic skills later on.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DIE GRAUEN DRUIDEN
@@ -542,6 +751,13 @@ Ein wahrlich drolliger Ort, an dem diese Druiden lebten. Vielleicht hatten wir s
 山中住着一位铁匠，自称约翰内斯。或许日后我们还会用上他的锻造技艺。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+BLACKSMITH
+
+In the mountains lived a blacksmith who introduced himself as John. Maybe we would be able to make use of his art of forging later on. 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 SCHMIED
@@ -557,6 +773,13 @@ Hier in den Bergen lebte ein Schmied, der sich uns als Johannes vorstellte. Viel
 
 如今还须请灰袍德鲁伊为锁链祝圣！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+We had paid the blacksmith the tribute, and he began to forge the chain from the swords of the ancient kings. At dawn he was finished and proudly showed us his work.
+
+Now the only thing left to do was to let the grey druids bless the chain! 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -577,6 +800,17 @@ Nun mussten wir die Kette noch von den grauen Druiden weihen lassen!
         <text>
 生命中片刻的鲁莽，转瞬即至！你的女英雄希拉因你的疏忽而殒命！少了这位女英雄，你便无从知晓任务的结局。
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your heroine Cyra died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -602,6 +836,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin C
 生命中片刻的鲁莽，转瞬即至！你的朋友与英雄哈奇因你的疏忽而殒命！少了这位英雄，你便无从知晓任务的结局。
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -625,6 +870,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
         <text>
 生命中片刻的鲁莽，转瞬即至！你的朋友与英雄西格德因你的疏忽而殒命！少了这位英雄，你便无从知晓任务的结局。
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Sigurd died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -650,6 +906,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 生命中片刻的鲁莽，转瞬即至！伊科尔因你的疏忽而殒命！少了这位英雄，你便无从知晓任务的结局。
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Ykol died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -671,6 +938,14 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Ykol erlag dur
 当晨曦以初绽的微光驱散夜之寒暗，德鲁伊们疲惫地走向我们……
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+The two druids took the chain from the blacksmith and blessed it in a mysterious ceremony which we were not allowed to witness.
+Therefore, we waited patiently and in the meantime tried to recover from the strains of the past few hours. 
+
+The first faint rays of the rising sun had driven away the cold and darkness of the night when the exhausted druids returned to us ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Beide Druiden nahmen die Kette vom Schmied entgegen und weihten sie in einer geheimnisvollen Zeremonie, die nicht für unsere Ohren und Augen bestimmt war.
@@ -686,6 +961,11 @@ Die aufgehende Sonne vertrieb bereits mit ihren ersten, zaghaften Strahlen die K
 大功告成！芬里尔狼的锁链重铸出炉！如今须由我们将它套上恶狼，将其制服……
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+It had been accomplished! The chain of the Fenris Wolf had been reforged! Now it was up to us to put it on him and tame him ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Es war vollbracht! Die Kette für den Fenriswolf war neu erschaffen! Nun würde es an uns liegen, ihm diese auch anzulegen und ihn zu bändigen...
@@ -698,6 +978,12 @@ Es war vollbracht! Die Kette für den Fenriswolf war neu erschaffen! Nun würde 
 
 任务成功！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+
+MISSION COMPLETED! 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -712,6 +998,12 @@ MISSION GEWONNEN!
 
 芬里尔之链
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE CHAIN OF FENRIR
+</text>
       </lang>
       <lang code="ger">
         <text>

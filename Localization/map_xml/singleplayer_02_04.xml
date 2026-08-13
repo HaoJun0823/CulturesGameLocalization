@@ -1,123 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="singleplayer_02_04" export_map_id="singleplayer_02_04" map_md5="b5ee90b8b2b6c02e59ddca2499f8fc64" IsC2M="false">
+<localization version="1.3" map_id="singleplayer_02_04" export_map_id="singleplayer_02_04" map_md5="b5ee90b8b2b6c02e59ddca2499f8fc64" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">建立你的村庄！</text>
+      <text lang="eng">Build up your village!</text>
       <text lang="ger">Baue dein Dorf auf!</text>
     </string>
     <string id="1">
       <text lang="CHN">进一步了解这片土地！</text>
+      <text lang="eng">Find out more about this country!</text>
       <text lang="ger">Finde mehr über dieses Land heraus!</text>
     </string>
     <string id="2">
       <text lang="CHN">寻找盟友！</text>
+      <text lang="eng">Find allies!</text>
       <text lang="ger">Suche Verbündete!</text>
     </string>
     <string id="3">
       <text lang="CHN">护送西格德返回他的部族！</text>
+      <text lang="eng">Escort Sigurd to his tribe!</text>
       <text lang="ger">Eskortiere Siegurd zu seinem Stamm!</text>
     </string>
     <string id="4">
       <text lang="CHN">向变节的法兰克人缴纳贡品，助西格德重聚部族！</text>
+      <text lang="eng">Pay the tribute to the renegade Franks to help Sigurd unite his tribe!</text>
       <text lang="ger">Zahle den Tribut an die abtrünnigen Franken, um Siegurd bei der Wiederzusammenführung zu helfen!</text>
     </string>
     <string id="5">
       <text lang="CHN">协助西格德抵御撒拉逊人即将发动的进攻！</text>
+      <text lang="eng">Help Sigurd to ward off the attack of the Saracens, which will take place soon!</text>
       <text lang="ger">Hilf Siegurd, den baldigen Angriff der Sarazenen abzuwehren!</text>
     </string>
     <string id="6">
       <text lang="CHN">消灭撒拉逊人带来的威胁！</text>
+      <text lang="eng">Destroy the Saracen threat!</text>
       <text lang="ger">Vernichte die Bedrohung durch die Sarazenen!</text>
     </string>
     <string id="7">
       <text lang="CHN">寻找西格德！法兰克人提及一座岛屿--你需一艘船！</text>
+      <text lang="eng">Find Sigurd! The Franks spoke of an island - so you will need a ship!</text>
       <text lang="ger">Finde Siegurd! Die Franken sprachen von einer Insel - du brauchst also ein Schiff!</text>
     </string>
     <string id="30">
       <text lang="CHN">向变节的一支族人缴纳贡品，以援助西格德！</text>
+      <text lang="eng">Pay the tribute to the renegade Franks to help Sigurd!</text>
       <text lang="ger">Zahle dem abtrünnigen Stammesteil den Tribut, um Siegurd zu helfen!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的部族</text>
+      <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarnis Stamm</text>
     </string>
     <string id="51">
       <text lang="CHN">尊贵法兰克人</text>
+      <text lang="eng">Honourable Franks</text>
       <text lang="ger">Ehrwürdige Franken</text>
     </string>
     <string id="52">
       <text lang="CHN">撒拉逊商人</text>
+      <text lang="eng">Saracen Merchants</text>
       <text lang="ger">Sarazenische Händler</text>
     </string>
     <string id="53">
       <text lang="CHN">变节法兰克人</text>
+      <text lang="eng">Renegade Franks</text>
       <text lang="ger">Abtrünnige Franken</text>
     </string>
     <string id="54">
       <text lang="CHN">奸恶撒拉逊人</text>
+      <text lang="eng">Saracen Rogues</text>
       <text lang="ger">Schurkische Sarazenen</text>
     </string>
     <string id="55">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="56">
       <text lang="CHN">法兰克人</text>
+      <text lang="eng">Franks</text>
       <text lang="ger">Franken</text>
     </string>
     <string id="57">
       <text lang="CHN">商人</text>
+      <text lang="eng">Merchants</text>
       <text lang="ger">Händler</text>
     </string>
     <string id="58">
       <text lang="CHN">变节者</text>
+      <text lang="eng">Renegades</text>
       <text lang="ger">Abtrünnige</text>
     </string>
     <string id="59">
       <text lang="CHN">撒拉逊人</text>
+      <text lang="eng">Saracens</text>
       <text lang="ger">Sarazenen</text>
     </string>
     <string id="60">
       <text lang="CHN">密道守卫</text>
+      <text lang="eng">Guards of the Secret Passage</text>
       <text lang="ger">Wachen zum Geheimgang</text>
     </string>
     <string id="61">
       <text lang="CHN">守卫</text>
+      <text lang="eng">Guards</text>
       <text lang="ger">Wachen</text>
     </string>
     <string id="62">
       <text lang="CHN">法兰克哨兵</text>
+      <text lang="eng">Frankish Guards</text>
       <text lang="ger">Wachposten der Franken</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">西格德</text>
+      <text lang="eng">Sigurd</text>
       <text lang="ger">Siegurd</text>
     </string>
     <string id="73">
       <text lang="CHN">部族代表</text>
+      <text lang="eng">Tribe Representative</text>
       <text lang="ger">Stammesvertreter</text>
     </string>
     <string id="98">
       <text lang="CHN">当维京人在一片看似有人居住的岸边搁浅，一场大冒险便将他们卷入其中。</text>
+      <text lang="eng">The Vikings have been stranded on an apparently inhabited coast and will soon be involved in a great adventure.</text>
       <text lang="ger">Als die Wikinger vor einer scheinbar bewohnten Küste stranden, werden sie in ein großes Abenteuer gerissen.</text>
     </string>
     <string id="99">
       <text lang="CHN">撒拉逊人大战</text>
+      <text lang="eng">THE GREAT SARACEN BATTLE</text>
       <text lang="ger">DIE GROßE SARAZENENSCHLACHT</text>
     </string>
   </strings>
   <briefings>
     <block id="begin_00">
       <lang code="CHN">
-                <text>
+        <text>
 我们乘着几艘船踏上新的冒险，地平线上却浮现出一座陌生、看似有人居住的岛屿。
 
 然而当我们欲靠近那远处看似天堂的土地时，忽然腾起一片密不透风的浓雾，将我们的船只尽数吞没。失去了视线，我们撞上近岸的礁石，就此失去了所有的船。只余一艘！
@@ -136,6 +164,27 @@
 另：
 我们随身带着几封信，凭之可随意安置房屋！或许该留待日后再用……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+We were on our way to new adventures with several ships when an unknown but apparently inhabited island appeared on the horizon. 
+However, when we wanted to stop at the island that had looked so beautiful from afar, an impenetrable fog suddenly appeared and swallowed our ships. We ran aground on the rocky cliffs near the shore and lost nearly all our ships. All expect one!
+
+We swam ashore. Wet and weary, the survivors gathered there to discuss the situation. First of all, we began to collect everything that was left and still usable from our ships, thinking that we might still need these things.
+
+The inhabitants of this country, whom we had seen from the sea, stood unmoving a short distance away and watched our proceedings. They were heavily armed and did not present a very comforting sight!
+
+We built a new main warehouse from the wreckage we had saved and stowed away the goods that had not been destroyed.
+
+Having run aground here, we wanted to make the best of it and settle down to build new ships and collect provisions. Our soldiers stood on guard while we started building a new Viking camp.
+
+I, Bjarni, son of Leif, set out to find out more about this land. I wanted to meet the locals and hoped to find allies. 
+
+I planned to keep away from the armed Saracens though. If they noticed me, my tribe might very soon be in danger!
+
+By the way: 
+We had some papers in our possession which would enable us to erect houses of our choice! However, maybe it would be wiser to save them for later ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -161,9 +210,15 @@ Wir hatten ein paar Briefe in unserem Besitz, mit denen wir beliebige Häuser se
     </block>
     <block id="begin_01">
       <lang code="CHN">
-                <text>
+        <text>
 比雅尼阵亡了！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+Bjarni has died!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -174,11 +229,19 @@ Bjarni ist gestorben!
     </block>
     <block id="begin_02">
       <lang code="CHN">
-                <text>
+        <text>
 法兰克哨兵的求救
 
 救命！！！我们正遭大陆上那些撒拉逊恶徒攻击！快帮帮我们！我们的首领呢，正用得着他的时候？
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+A FRANKISH GUARD POST CALLS FOR HELP
+
+Help! We are being attacked by Saracen rogues from the mainland! Please help us! Where is our leader when we need him?
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -191,7 +254,7 @@ Hilfe!!! Wir werden von den sarazenischen Schurken vom Festland angegriffen! Hel
     </block>
     <block id="begin_03">
       <lang code="CHN">
-                <text>
+        <text>
 尊贵法兰克人
 
 "这些可恶的撒拉逊人！他们袭击了我们仅剩的最后一座前哨……自从我们拒绝倒向他们，侵扰便接踵而至。而没有首领，我们根本无力抗衡！
@@ -205,6 +268,23 @@ Hilfe!!! Wir werden von den sarazenischen Schurken vom Festland angegriffen! Hel
 
 我们恳求你！帮帮我们！"
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+HONOURABLE FRANKS
+
+"Those nasty Saracens! Now they have attacked the last outpost we had! They have been attacking us over and over again since we refused to go over to their side. We simply don't stand a chance against them without our leader!
+
+I don't like to admit it, but many of us are afraid of this aggressive tribe. That is why some have even submitted to the Saracens! How are we supposed to resist such an enemy if we can't even remain united?
+
+We have to win back our brothers and sisters ... but HOW? They have not reacted to any of our requests!
+
+Please, honourable Bjarni, help us to find our leader! Before he left us, he talked about taking a holiday on an island far away in the east. He said it was the only place where he would be able to relax!
+He doesn't know anything about our dreadful plight. Please let him know.
+
+We beg you to help us!"
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -226,13 +306,23 @@ Wir flehen dich an! Hilf uns!"
     </block>
     <block id="begin_04">
       <lang code="CHN">
-                <text>
+        <text>
 密道守卫
 
 我们是这条密道的守卫！你因何欲从此通过？
 
 无论如何--改日再来吧，或许到时我们改变主意，便放你通行！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+GUARDS OF THE SECRET PASSAGE
+
+We are the guards of this secret passage! Why do you want to pass through here?
+
+Whatever - come back later, maybe we will think about it and let you pass then!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -247,7 +337,7 @@ Wie dem auch sei - komm später wieder, vielleicht überlegen wir es uns dann no
     </block>
     <block id="begin_05">
       <lang code="CHN">
-                <text>
+        <text>
 西格德
 
 你好！你在我岛上作甚？
@@ -262,6 +352,24 @@ Wie dem auch sei - komm später wieder, vielleicht überlegen wir es uns dann no
 提示：
 你该选一条绕过敌人的路--正面冲突必死无疑！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+SIGURD
+
+Hello! What are you doing on my island?
+
+What? My tribe is divided? The Saracens are getting more and more aggressive? There is a war brewing?
+
+Good heavens! Why hasn't anybody told me about this before? I left a note with the exact location of this island in my quarters! The fools! Why did nobody come?
+
+Well, whatever happens - thank you for telling me!
+Please escort me back to my tribe as quickly as possible. They must be having a hard time ... without their chief. It looks like I will have to look after my people again now! That's the end of my holidays ...
+
+Hint:
+You should choose a way which takes you around your enemies - a direct confrontation might be fatal!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -284,7 +392,7 @@ Du solltest einen Weg nehmen, der dich um deine Feinde herumleitet - eine direkt
     </block>
     <block id="begin_06">
       <lang code="CHN">
-                <text>
+        <text>
 归乡
 
 兄弟们，我向你们致意！可告诉我--你们怎容部族分裂？莫非全无头脑？才离开区区数日……
@@ -292,6 +400,17 @@ Du solltest einen Weg nehmen, der dich um deine Feinde herumleitet - eine direkt
 不过也好，正因如此，我如今回来了。我会让部族重归一统！
 我会与昔日的族人会面，叫他们认清自己的过错！我们的部族绝不可各行其是……管他敌人还是危险！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+HOMECOMING
+
+Hello, my brothers! Now tell me - how could you allow our tribe to be divided? What were you thinking? I go away for a couple of days and ...
+
+Anyway, I'm back now. I will unite our tribe again!
+I will meet our former brothers and show them that they have done wrong! Our tribe must never become separated ... regardless of enemies or danger!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -307,7 +426,7 @@ Ich werde mich mit unseren ehemaligen Stammesbrüdern treffen, und ihnen ihren F
     </block>
     <block id="begin_07">
       <lang code="CHN">
-                <text>
+        <text>
 撒拉逊人
 
 你们法兰克人，是想来找茬吗？！我们不容许这次会面！
@@ -315,6 +434,17 @@ Ich werde mich mit unseren ehemaligen Stammesbrüdern treffen, und ihnen ihren F
 
 你们还有二十分钟。到时仍未消失者，便尝尝我们的利刃！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+SARACENS
+
+So you are looking for trouble, Franks?! We will not tolerate this meeting!
+Remember - if you are not our friend, you are our enemy! Our fog fleet is manned and will destroy your village!
+
+You have 20 minutes. Whoever is not gone by then will feel our blades!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -330,11 +460,19 @@ Ihr habt noch zwanzig Minuten Zeit. Wer dann nicht verschwunden ist, bekommt uns
     </block>
     <block id="begin_08">
       <lang code="CHN">
-                <text>
+        <text>
 白发隐士
 
 临行前，我再赠你一条宝贵提示：有一条隐秘小道，可从背后潜入撒拉逊人的村庄！击败他们殊非易事，但若有舰队从此登陆，或可打个他们措手不及……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+OLD HERMIT
+
+I will give you a valuable hint: There is a hidden path into the back of the Saracens' village! It will not be easy to defeat them, but if you land there with a fleet, you might be able to surprise them ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -347,7 +485,7 @@ Einen wertvollen Tipp möchte ich dir noch mit auf den Weg geben: Es gibt einen 
     </block>
     <block id="begin_09">
       <lang code="CHN">
-                <text>
+        <text>
 尊贵法兰克人
 
 维京人，向你们致意！
@@ -358,6 +496,20 @@ Einen wertvollen Tipp möchte ich dir noch mit auf den Weg geben: Es gibt einen 
 
 我们只盼首领早日归来--或许他能唤醒族人的理智……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+HONOURABLE FRANKS
+
+Greetings, Vikings!
+You have chosen an inconvenient time for a visit! Our tribe is divided and we are having much trouble with our Saracen neighbours. Many people from our tribe have gone over to their side!
+
+Our leader has gone away. He is taking a holiday on a small island! Ha! He didn't even tell us where exactly it is ...
+We cannot send anybody to look for him because the Saracens might attack at any moment! We need every man here.
+
+We can only hope that our leader will come back soon. Maybe he can make our brothers see reason ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -376,7 +528,7 @@ Wir hoffen nur, das unser Anführer bald zurückkommt - vielleicht kann er ja un
     </block>
     <block id="begin_10">
       <lang code="CHN">
-                <text>
+        <text>
 部族谈判
 
 我，西格德，立于约定之地，直视那变节支系使者的眼睛！我真想宰了这叛徒……罢了，不提！
@@ -393,6 +545,26 @@ Wir hoffen nur, das unser Anführer bald zurückkommt - vielleicht kann er ja un
 提示：
 贡品可径直付与变节法兰克人，如此西格德便无需再与其使者会面……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+NEGOTIATIONS
+
+I, Sigurd, stand at the agreed meeting point and am looking into the eyes of the renegades' negotiator! I'd love to tear him ... but that's enough of that! 
+Now I have to negotiate with him. He's demanding 50 gold to recommend a reunion to "his" tribe! What a cheek!
+
+I must reunite our village, come what may! Whatever the cost. It's the only we Franks will stand a chance in our fight against the Saracens ... but I don't have enough gold, I need help!
+But wait - there is an island full of gold next to the island where I spent my holidays!
+
+Bjarni, can your tribe help us by extracting the gold for us? We would run out of time before we could extract enough gold ourselves!
+If you are not able to extract so much gold within the time limit, please at least send us soldiers to support our fight!
+
+Oh dear, this "negotiator" has ordered his troops to take part in any Saracen attacks - just to demonstrate how serious he is about his ultimatum ...
+
+HINT:
+You can pay the tribute to the renegade Franks immediately, then Sigurd won't have to meet their negotiator again ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -417,7 +589,7 @@ Den Tribut kannst du gleich den abtrünnigen Franken bezahlen, dann muß sich Si
     </block>
     <block id="begin_11">
       <lang code="CHN">
-                <text>
+        <text>
 重归一统
 
 我，西格德，法兰克人的首领，感谢你们的支援！
@@ -426,6 +598,19 @@ Den Tribut kannst du gleich den abtrünnigen Franken bezahlen, dann muß sich Si
 
 助我们！待你们起兵进攻撒拉逊人，我们必派兵相助！他们黑暗的统治必须终结！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+REUNITED
+
+I, Sigurd, leader of the Franks, thank you for your support!
+
+Now we are one people again! United and welded together as we have always been!
+Now we will show the Saracens! The fog fleet will not stand a chance against our united people!
+
+Help us! When you start attacking the Saracens, our soldiers will support you! Their dark reign must be terminated!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -443,7 +628,7 @@ Helft uns! Und wenn ihr beginnt, die Sarazenen anzugreifen, werden wir euch mit 
     </block>
     <block id="begin_12">
       <lang code="CHN">
-                <text>
+        <text>
 变节者
 
 首领弃我们而去，正因如此，我们另投新主！我们脱离了法兰克大部族，再不愿与之有任何瓜葛！撒拉逊人有令，我们甚至不惜攻之！
@@ -453,6 +638,19 @@ Helft uns! Und wenn ihr beginnt, die Sarazenen anzugreifen, werden wir euch mit 
 
 而我们，绝不会抗命！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE RENEGADES
+
+Our leader left us, so we have chosen new leaders! We have broken away from the tribe of the Franks and we don't want any more to do with them! If the Saracens tell us to do so, we will attack!
+
+Be gone, you have no business here!
+Go! If our new leaders find out that you are here, they will order us to kill you! 
+
+And we will not disobey their orders!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -470,11 +668,19 @@ Und wir werden nicht den Gehorsam verweigern!
     </block>
     <block id="begin_13">
       <lang code="CHN">
-                <text>
+        <text>
 奸恶撒拉逊人
 
 我们是强大的撒拉逊部族，统治着这片土地！你在此无事可做--消失吧，否则我们帮你"消失"！少来插手我们的勾当！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+ROGUE SARACENS
+
+We are the mightiest tribe of the Saracens, and we are the masters of this country! You have no business here - so be gone or we will make you! Do not interfere with us any more!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -487,11 +693,19 @@ Wir sind der mächtige Stamm der Sarazenen, und wir herrschen über dieses Land!
     </block>
     <block id="begin_14">
       <lang code="CHN">
-                <text>
+        <text>
 线人
 
 这里曾是座巨大堡垒，直到法兰克人将其拆毁，取用建材去筑他们的城！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+INFORMANT
+
+This was once an enormous fortress, until the Franks pulled it down to build their city from the resources!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -504,11 +718,19 @@ Einst war dies eine riesige Festung, bis die Franken sie abtrugen, um aus den Ro
     </block>
     <block id="begin_15">
       <lang code="CHN">
-                <text>
+        <text>
 自由通行
 
 我们需要帮助！通道已畅通！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+FREE PASSAGE
+
+We need help! The passage is free!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -521,12 +743,21 @@ Wir brauchen Hilfe! Der Durchgang ist frei!
     </block>
     <block id="begin_16">
       <lang code="CHN">
-                <text>
+        <text>
 盟友折损
 
 尊贵法兰克人的部族战败了！
 如今我们须独自对抗撒拉逊人！迟早，他们会如毁灭尊贵法兰克人那般，将我们也尽数铲除……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+LOSS OF AN ALLY
+
+The tribe of the honourable Franks has been defeated!
+Now we will have to fight against the Saracens on our own, or they will destroy us the same way as the honourable Franks ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -540,11 +771,19 @@ Nun werden wir allein gegen die Sarazenen kämpfen müssen! Früher oder später
     </block>
     <block id="begin_17">
       <lang code="CHN">
-                <text>
+        <text>
 报复
 
 我们已让那些变节者尝到苦头！竟敢反叛自己的同袍--此风绝不可长！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+RETRIBUTION
+
+We have shown those renegades! That will teach them to arise against their own comrades - such things must not happen!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -557,9 +796,15 @@ Wir haben es diesen Abtrünnigen gezeigt! Sich gegen seine eigenen Kameraden zu 
     </block>
     <block id="begin_18">
       <lang code="CHN">
-                <text>
+        <text>
 胜利终属我们！！！撒拉逊人已被降服！如今我们敬奉神明，重建这片土地！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+VICTORY is ours! The Saracens have been defeated! Now we will honour our gods and build up this country again!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -570,13 +815,23 @@ Der SIEG ist unser!!! Die Sarazenen sind bezwungen! Nun ehren wir unsere Götter
     </block>
     <block id="begin_19">
       <lang code="CHN">
-                <text>
+        <text>
 经商的撒拉逊人
 
 向你们致意！我们很愿与你们交易！只要出价够好，我们与谁都做买卖！正因如此，同族才容得下我们！
 
 若需货物，来找我们便是！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+TRADING SARACENS
+
+Greetings! We would like to trade with you! We are willing to trade with everybody who pays us well! This is why our fellow tribesmen tolerate us! 
+
+If you need goods, come to us!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -591,9 +846,15 @@ Wenn du Waren brauchst, dann komm zu uns!
     </block>
     <block id="begin_20">
       <lang code="CHN">
-                <text>
+        <text>
 那些撒拉逊商人的末日到了。因为谁若与我们的敌人为伍，便休想获得宽恕……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+That was the end of the Saracen merchants. Anyone who supports our enemies will be shown no mercy ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -604,11 +865,19 @@ Das war das Ende der sarazenischen Händler. Denn wer zu unseren Feinden hält, 
     </block>
     <block id="begin_21">
       <lang code="CHN">
-                <text>
+        <text>
 增援
 
 撑住，战友们，我们派增援来了！我们为此刻筹备已久--终于盼到了！只要同心协力，我们必胜！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+REINFORCEMENTS
+
+Hold on, our brothers in arms, we will send you reinforcements! We have been preparing for this moment. At last the time has come! If we stand together, we will win!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -621,7 +890,7 @@ Haltet durch, Waffenbrüder, wir schicken euch Verstärkung! Wir haben uns auf d
     </block>
     <block id="begin_22">
       <lang code="CHN">
-                <text>
+        <text>
 白发隐士
 
 我在此地居住已久，熟知这片土地的往事。我曾是大西北那座巨堡的居民！直到撒拉逊人将它摧毁的那天。
@@ -636,6 +905,24 @@ Haltet durch, Waffenbrüder, wir schicken euch Verstärkung! Wir haben uns auf d
 
 此地再无安全可言，务请当心！若撒拉逊人认为你碍事，亦会向你下手！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+OLD HERMIT
+
+I have lived here for a long time and I know the history of this country. I once lived in the gigantic fortress in the north-west! Until the Saracens destroyed it.
+
+They came from the north in hordes. They besieged us for many months and there was nothing that could stop them. We were starving, so our king had to surrender to save our lives. But he was assassinated in a cowardly manner and we, his subjects, were enslaved or driven away!
+
+I am the last of my people and I owe my survival to the mercy of the Franks. They came to this country much later and remained undiscovered by the Saracens! But when they tried to settle close to these rogues, they were given an ultimatum: To live and work for them or die!
+
+Some of the Franks were so afraid that they surrendered to their fate. They now live under the reign of strangers!
+
+Only a small, well-armed detachment of the tribe was able to hold out against the pressure of the Saracens. But now there are rumours of a possible Saracen attack - they have built a massive fleet of warships in the foggy gorge near their outposts!
+
+Nobody is safe here any more, so beware! If the Saracens feel disturbed by your presence, they might attack you as well!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -658,13 +945,23 @@ Niemand ist hier mehr sicher, sei also auf der Hut! Wenn die Sarazenen sich von 
     </block>
     <block id="begin_23">
       <lang code="CHN">
-                <text>
+        <text>
 英雄之死
 
 西格德殒命，往后的路只得在没有他的情况下走下去……法兰克人如今仅存一线生机：若我们派兵驰援，或可助他们一臂之力！
 
 可我们自己亦受撒拉逊人威胁--又能分出多少兵力？
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+DEATH OF A HERO
+
+Sigurd has died, and things must now continue without him ... The Franks only have one chance of surviving: If we send them our soldiers as support!
+
+But we are threatened by the Saracens ourselves - how many soldiers can we spare?
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -679,11 +976,19 @@ Aber wo wir doch selbst von den Sarazenen bedroht werden - wie viele Soldaten k�
     </block>
     <block id="begin_24">
       <lang code="CHN">
-                <text>
+        <text>
 英雄之死
 
 西格德战死沙场。对这位勇敢无畏的英雄而言，这是光荣的死！可他的部族如今孤立无援--正濒临覆灭！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+DEATH OF A HERO
+
+Sigurd was killed in battle. An honourable death for this brave and valiant hero! But now his tribe is on its own - and its survival is seriously threatened!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -696,7 +1001,7 @@ Sigurd wurde im Kampf getötet. Ein ehrenhafter Tod für diesen tapferen und fur
     </block>
     <block id="begin_25">
       <lang code="CHN">
-                <text>
+        <text>
 进攻
 
 迷雾舰队启航了！他们的进攻将毁灭一切！变节者亦会推波助澜！
@@ -704,6 +1009,17 @@ Sigurd wurde im Kampf getötet. Ein ehrenhafter Tod für diesen tapferen und fur
 提示：
 你还有三十秒，去赢回那些变节者！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE ATTACK
+
+The fog fleet has set out! Their attack will be devastating, and the renegades will do their best to contribute to it!
+
+Hint:
+You have another 30 seconds to win the renegades back!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -719,11 +1035,19 @@ Du hast noch dreißig Sekunden, um die Abtrünnigen zurückzugewinnen!
     </block>
     <block id="begin_26">
       <lang code="CHN">
-                <text>
+        <text>
 后果
 
 什么？！你们又结盟了？这要让你们付出惨痛代价！死吧，你们这些法兰克叛徒！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+CONSEQUENCES
+
+What?! You are reuniting? There will be a high price to pay for this! Die, Frankish traitors!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -736,13 +1060,23 @@ Was?!? Ihr verbündet euch wieder? Das wird euch teuer zu stehen kommen! Sterbt,
     </block>
     <block id="begin_27">
       <lang code="CHN">
-                <text>
+        <text>
 警报！
 我们遭袭了！
 各就防御岗位！
 
 这结局早可预见！如今撒拉逊人已扑向我们的村庄！！！只盼我们能将他们击退……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+ALARM! 
+We are under attack! 
+Everybody to their defensive positions! 
+
+It had to end this way! Now the Saracens have attacked our village! Hopefully we will be able to strike them back ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -757,13 +1091,23 @@ Das musste ja so kommen! Nun sind die Sarazenen über unser Dorf hergefallen!!! 
     </block>
     <block id="begin_28">
       <lang code="CHN">
-                <text>
+        <text>
 抉择
 
 你们未缴贡品！我们的主子进攻你们了！你们无力护佑部族免遭撒拉逊人之手--如今我们便要向他们效忠。
 
 战斗，就此也向我们打响！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+DECISION
+
+You have not paid the tribute! Our masters will attack you! You cannot protect our tribe from the Saracens - now we serve them.
+
+Thus, the battle has now begun for us as well!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -778,13 +1122,22 @@ Der Kampf beginnt nun also auch für uns!
     </block>
     <block id="begin_29">
       <lang code="CHN">
-                <text>
+        <text>
 得胜之役
 我们已将他们击退！尊贵的比雅尼，多谢你，这场胜利全仰仗于你
 
 ！！
 如今请助我们，将这群恶徒的残部也逐出这片土地。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+                   
+BATTLE WON 
+                   
+We have driven them back! Thank you, honourable Bjarni. We owe this victory to you!
+Now please help us to drive the rest of these rogues out of the country as well.
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -798,12 +1151,20 @@ Nun hilf uns bitte, auch den Rest dieser Schurken aus dem Lande zu vertreiben.
     </block>
     <block id="begin_30">
       <lang code="CHN">
-                <text>
+        <text>
 守卫
 西格德！你终于回来了！为你，我
 
 们自然即刻敞开通道……
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+     
+GUARD
+                   
+Sigurd! You're back! Of course we will open the passage for you at once ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -816,7 +1177,7 @@ Siegurd! Endlich bist du wieder da! Für dich öffnen wir den Durchgang natürli
     </block>
     <block id="begin_31">
       <lang code="CHN">
-                <text>
+        <text>
 西格德
 如今我们须静待迷雾舰队的进攻……若
 
@@ -824,6 +1185,16 @@ Siegurd! Endlich bist du wieder da! Für dich öffnen wir den Durchgang natürli
 
 我为所有人深深忧心！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+                   
+SIGURD
+                   
+Now we will have to wait for the attack of the fog fleet ... should something happen to me, you'll have to help my tribe, Bjarni! I'm asking you as a friend ...
+
+I am very concerned for all of us!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -838,12 +1209,20 @@ Ich mache mir große Sorgen um uns alle!
     </block>
     <block id="begin_32">
       <lang code="CHN">
-                <text>
+        <text>
 进攻
 迷雾舰队启航了！他们的进攻将毁灭一切！但
 
 我们如今已是一族--我们必胜！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE ATTACK
+
+The fog fleet has set out! Their attack will be devastating! But now we are one tribe - we will win!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -856,9 +1235,16 @@ Die Nebelflotte ist gestartet! Ihr Angriff wird verheerend werden! Aber wir sind
     </block>
     <block id="header">
       <lang code="CHN">
-                <text>
+        <text>
 撒拉逊人大战
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE GREAT SARACEN BATTLE
+
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -870,9 +1256,15 @@ DIE GROSSE SARAZENENSCHLACHT
     </block>
     <block id="lost">
       <lang code="CHN">
-                <text>
+        <text>
 任务失败！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+MISSION FAILED!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -883,9 +1275,15 @@ MISSION VERLOREN!
     </block>
     <block id="won">
       <lang code="CHN">
-                <text>
+        <text>
 任务成功！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+MISSION COMPLETED!
+</text>
       </lang>
       <lang code="ger">
         <text>

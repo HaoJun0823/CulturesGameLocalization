@@ -1,108 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_02_02" export_map_id="campaign_02_02" map_md5="1f6e266dd038230a506b267444eab4ca" IsC2M="false">
+<localization version="1.3" map_id="campaign_02_02" export_map_id="campaign_02_02" map_md5="1f6e266dd038230a506b267444eab4ca" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">沿山谷前行，在那儿建起你自己的村庄。</text>
+      <text lang="eng">Move along the valley and build your own village there.</text>
       <text lang="ger">Ziehe entlang des Tales und baue dort ein eigenes Dorf auf.</text>
     </string>
     <string id="1">
       <text lang="CHN">向村庄缴纳 15 单位水与 10 份糕点作贡金。</text>
+      <text lang="eng">Give the village 15 water and 10 cakes as a tribute.</text>
       <text lang="ger">Reiche dem Dorf 15 Wasser und 10 Kuchen zum Tribut.</text>
     </string>
     <string id="2">
       <text lang="CHN">若想让撒拉逊人保持中立，须缴 20 单位食物作贡金。（须先拜访撒拉逊人，他们才会向你提出贡金要求！）</text>
+      <text lang="eng">Pay 20 food as a tribute if you want the Saracens to be neutral. (You have to pay the Saracens a visit first so they can offer you the tribute!)</text>
       <text lang="ger">Zahle 20 Nahrung Tribut, wenn du die Sarazenen neutral stimmen willst. (Du musst den Sarazenen erst einen Besuch abstatten, damit sie dir den Tribut anbieten!)</text>
     </string>
     <string id="3">
       <text lang="CHN">若要与撒拉逊人贸易，须缴 10 单位蜂蜜酒作贡金。</text>
+      <text lang="eng">Pay 10 mead as a tribute if you want to trade with the Saracens.</text>
       <text lang="ger">Zahle 10 Met Tribut, wenn du mit den Sarazenen Handel treiben willst.</text>
     </string>
     <string id="4">
       <text lang="CHN">跟随伊科尔前往舒姆萨利那神秘的地下墓穴。</text>
+      <text lang="eng">Follow Ykol to the mysterious catacombs of Shumsali.</text>
       <text lang="ger">Folge Ykol zu den geheimnisvollen Katakomben von Schumsali.</text>
     </string>
     <string id="5">
       <text lang="CHN">找到撒拉逊难民的村庄！</text>
+      <text lang="eng">Find the village of the Saracen refugees!</text>
       <text lang="ger">Finde das Dorf der Sarazenenflüchtlinge!</text>
     </string>
     <string id="6">
       <text lang="CHN">@助村庄渡过饥荒，随后寻得舒姆萨利神秘墓穴的入口。</text>
+      <text lang="eng">@Help the village in its famine, then find the entrance to the mysterious catacombs of Shumsali.</text>
       <text lang="ger">@Hilf dem Dorf in seiner Hungersnot und finde dann den Eingang zu den geheimnisvollen Katakomben von Schumsali.</text>
     </string>
     <string id="7">
       <text lang="CHN">拜访东北面的撒拉逊人，或许他们愿意接受贡金？但务必小心！</text>
+      <text lang="eng">Visit the Saracens in the north-east, maybe they will agree to a tribute. Be careful though!</text>
       <text lang="ger">Besuche die Sarazenen im Nordosten, vielleicht lassen sie sich auf einen Tribut ein? Aber sei vorsichtig!</text>
     </string>
     <string id="8">
       <text lang="CHN">寻找山区以北那神秘墓穴的入口。</text>
+      <text lang="eng">Seek the entrance to the mysterious catacombs north of the mountains.</text>
       <text lang="ger">Suche den Eingang zu den geheimnisvollen Katakomben nördlich des Gebirges.</text>
     </string>
     <string id="32">
       <text lang="CHN">若想让撒拉逊人保持中立，须缴 20 单位食物作贡金。</text>
+      <text lang="eng">Pay 20 food as a tribute if you want the Saracens to be neutral.</text>
       <text lang="ger">Zahle 20 Nahrung Tribut, wenn du die Sarazenen neutral stimmen willst.</text>
     </string>
     <string id="33">
       <text lang="CHN">若要与撒拉逊人贸易，须缴 10 单位蜂蜜酒作贡金。</text>
+      <text lang="eng">Pay 10 mead as a tribute if you want to trade with the Saracens.</text>
       <text lang="ger">Zahle 10 Met Tribut, wenn du mit den Sarazenen Handel treiben willst.</text>
     </string>
     <string id="34">
       <text lang="CHN">向哈奇的邻居缴纳 15 单位水与 10 份糕点作贡金。</text>
+      <text lang="eng">Give Hatchie's neighbours 15 water and 10 cakes as a tribute.</text>
       <text lang="ger">Reiche Hatschis Nachbarn 15 Wasser und 10 Kuchen zum Tribut.</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的部族</text>
+      <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarnis Stamm</text>
     </string>
     <string id="51">
       <text lang="CHN">废弃村庄</text>
+      <text lang="eng">Abandoned Village</text>
       <text lang="ger">Verlassenes Dorf</text>
     </string>
     <string id="52">
       <text lang="CHN">撒拉逊人</text>
+      <text lang="eng">Saracens</text>
       <text lang="ger">Sarazenen</text>
     </string>
     <string id="53">
       <text lang="CHN">拜占庭人</text>
+      <text lang="eng">Byzantines</text>
       <text lang="ger">Byzantiner</text>
     </string>
     <string id="54">
       <text lang="CHN">哈奇的邻居</text>
+      <text lang="eng">Hatchie's Neighbours</text>
       <text lang="ger">Hatschis Nachbarn</text>
     </string>
     <string id="55">
       <text lang="CHN">蛇战士</text>
+      <text lang="eng">Serpent Warriors</text>
       <text lang="ger">Schlangenkrieger</text>
     </string>
     <string id="56">
       <text lang="CHN">邻居</text>
+      <text lang="eng">Neighbours</text>
       <text lang="ger">Nachbarn</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
+      <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
+      <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
     </string>
     <string id="75">
       <text lang="CHN">伊科尔</text>
+      <text lang="eng">Ykol</text>
       <text lang="ger">Ykol</text>
     </string>
     <string id="98">
       <text lang="CHN">蛇形生物并非局部之患，而是遍布整个阿拉伯！这片土地由此深陷大饥荒的苦难……</text>
+      <text lang="eng">The serpent beings are not a regional problem, but have appeared all over Arabia! Consequently, the whole country is suffering a famine ...</text>
       <text lang="ger">Die Schlangenwesen sind kein regionales Problem, sondern tauchen in ganz Arabien auf! Das Land leidet als Folge davon an einer großen Hungersnot...</text>
     </string>
     <string id="99">
       <text lang="CHN">大饥荒</text>
+      <text lang="eng">THE GREAT FAMINE</text>
       <text lang="ger">DIE GROSSE HUNGERSNOT</text>
     </string>
   </strings>
@@ -112,6 +138,11 @@
         <text>
 这个村庄，伊科尔最初带我们来的地方，早已荒废多时。但当我们稍稍击退蛇灾后，周边的撒拉逊游牧民便聚集起来，要让村庄重焕生机。在一道峡谷隘口前，我们分道扬镳--因为通往下一目标、那传说中的地下墓穴的入口，我们尚不知晓……
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+The village Ykol originally led us to had been empty for a long time. But after we had driven back the serpent plague, Saracen nomads from the surrounding area gathered there to revive the village. We went our separate ways at a narrow passage, because we had not yet discovered the entrance to our next target - the legendary catacombs ... 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -127,6 +158,14 @@ Dieses Dorf, zu dem uns Ykol ursprünglich führte, stand schon lange leer. Aber
 
 沿山谷前行，在那里建立你自己的村庄。但在此之前，先打开箱子，用其中的药剂装备你的士兵！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+Ykol dedicated his time to further research and investigations, promising to report his progress soon. In the meantime, we received a call for help from friends of Hatchie's, who were running out of food for their people. 
+The serpent plague was no longer a regional problem. Due to the plague, a dreadful famine was spreading in the area. Our supplies were insufficient to be able to give much of them away. We knew we would have to find a suitable settling place before we could support the village. So our villagers set out ...
+
+Move along the valley and establish your own village there. But before you do, open the chests and equip your soldiers with the potions!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -147,6 +186,15 @@ Ziehe entlang des Tales und baue dort ein eigenes Dorf auf. Aber zuvor öffne di
 “还有你们这些侦察兵：别忘了建造路标！”
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THE OLD MAN
+
+"Oh, there are travellers among you who don't know their way around this barren territory. Move along this valley and you will find a large and fertile valley. You can set up your camp there ..."
+
+"And your scouts should not forget to erect signposts!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DER ALTE MANN
@@ -166,6 +214,15 @@ DER ALTE MANN
 
 建立你的村庄。为此，请使用手推车与牛车中的货物！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE VALLEY
+
+A large, fertile valley lay right before our eyes. Here we could build up a camp and start gathering provisions for the village. The goods in our handcarts and ox carts were a good start ...
+
+Build up your village. Use the goods out of your handcarts and ox carts for this purpose!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -188,6 +245,16 @@ Baue dein Dorf auf. Benutze dazu die Waren aus den Hand- und Ochsenkarren!
 向你西南方的村庄运送所需的粮食！
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+REFUGEES
+
+Refugees approached us looking nearly starved, their faces sunken ... Because of the serpent creatures, they had suffered hunger for too long, therefore they had left their village. 
+Their path had led them through many dangers! But their eyes were full of hope when we picked them up and offered them fast help. 
+
+Bring the required food to the village in the south-west! 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 FLÜCHTLINGE
@@ -205,6 +272,11 @@ Bringe dem Dorf südwestlich von dir die gewünschten Nahungsmittel!
 伴随着震耳欲聋的嘶鸣，这些神秘的蛇形生物也在这片土地扑向我们。我们能否挡下这次进攻？
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+With a deafening hiss the weird serpent beings attacked us in this area as well. Would we be able to withstand this attack? 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Mit einem ohrenbetäubenden Zischen fielen diese unheimlichen Schlangenwesen auch in diesem Landstrich über uns herein. Ob wir dieser Attacke standhalten konnten? 
@@ -213,6 +285,7 @@ Mit einem ohrenbetäubenden Zischen fielen diese unheimlichen Schlangenwesen auc
     </block>
     <block id="07">
       <lang code="CHN" />
+      <lang code="eng" />
       <lang code="ger" />
     </block>
     <block id="08_player_3_seen_byzantine">
@@ -220,6 +293,11 @@ Mit einem ohrenbetäubenden Zischen fielen diese unheimlichen Schlangenwesen auc
         <text>
 在迷宫般的地形另一侧，等候着敌方拜占庭要塞的几处前哨。他们宣誓据守领地，任凭什么也绝不肯示好。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+On the other side of the maze lay outposts belonging to a fort of hostile Byzantines. These were intent on defending their territory, and there was nothing in the world that could make them friendly towards us. 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -234,6 +312,13 @@ Auf der anderen Seite der labyrinthartigen warteten einige Vorposten eines Forts
 
 向村庄缴纳水与蛋糕作为贡品，助其熬过饥荒。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+When we found the village Hatchie had told us about, we were received very courteously. These poor people had suffered hunger for too long. Now we wanted to be at their side.
+
+Help the village to survive the famine by giving them water and cake as a tribute.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -255,6 +340,17 @@ Hilf dem Dorf seine Hungersnot zu überstehen, indem du ihnen Wasser und Kuchen 
 是英勇，还是鲁莽？比雅尼死时，诸神也为之落泪……少了这位英雄，你便无从知晓任务的结局。
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -275,6 +371,13 @@ Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen 
 我们随时都受欢迎--他们传话道，并随即向我们提出了优厚的贸易契约。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+When we gave the food to the villagers, they were very happy and extremely grateful.
+
+They said we would be welcomed among them any time, and offered us promising trade agreements. 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Als wir dem Dorf die Nahrungsmittel überbrachten, waren sie überglücklich und zeigten sich äußerst dankbar.
@@ -292,6 +395,15 @@ Wir wären jederzeit wieder willkommen, ließ man uns wissen und man bot uns die
 
 向撒拉逊人缴纳 20 单位食物作为贡品以使其中立，再缴 10 单位蜜酒以展开贸易。但你必须先拜访撒拉逊人，他们才会向你索取贡品！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE OLD MAN
+
+"Look out! The Saracens beyond this ravine are so hungry that they will not even let their own people pass in peace!" he said. "Maybe you can appease them by paying one or several tributes ..."
+
+Pay the Saracens 20 food as a tribute to put them in a neutral mood and an additional 10 mead to trade with them. You have to pay them a visit first so they can offer you the tribute!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -311,6 +423,13 @@ Zahle den Sarazenen 20 Nahrung Tribut, um sie neutral zu stimmen und weitere 10 
 或许我们可以用一笔食物贡品安抚他们？
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+These Saracens were starving! It was no wonder they were reacting so aggressively to any travellers and additional mouths. We knew we should avoid them if we didn't want to feel their arrows!
+
+Maybe we would be able to appease them with a food tribute?
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Diesen Sarazenen war der Hunger ins Gesicht geschrieben! Kein Wunder, dass sie so aggressiv auf jeden Reisenden und Mit-Esser reagierten. Wir sollten sie meiden, wenn wir keine Bekanntschaft mit ihre Pfeile machen wollten!
@@ -327,6 +446,13 @@ Vielleicht konnten wir sie mit einen Nahrungstribut besänftigen?
 但他们警告我们：若心怀恶意，甚至觊觎他们的储备，中立姿态将再度转为敌意。或许我们该再献一笔贡品，以示善意？
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+When we brought the Saracens the tribute, they laid down the weapons that had been aimed at us. 
+
+But they warned us that, should we intend any evil or touch their food provisions, they would change their neutral attitude back to a hostile one. Maybe we should pay them additional tribute as a sign of our good intent?
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Als wir den Sarazenen den Tribut überbrachten, legten sie ihre Waffen gegen uns nieder. 
@@ -342,6 +468,13 @@ Doch warnten sie uns: Sollten wir böses im Schilde führen, oder uns gar an ihr
 
 虽仍疑心我们的好意，他们还是向我们提出了些古怪的贸易提议。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+When we brought the Saracens the tribute, they soon became more friendly towards us. 
+
+They still didn't quite trust us, but they did make us some rather unusual trade offers.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -364,6 +497,21 @@ Zwar misstrauten sie immer noch unseren guten Absichten, aber sie machten uns de
 
 若东北方的撒拉逊人对我们中立或友善，伊科尔便会为我们引路……
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+YKOL
+
+"My friends, you have indeed saved one of the villages from starvation, but there are three new problems already. The serpent plague has also only been temporarily banned - these beasts will return!"
+
+He told us about his research in old Arabian libraries and said that he had found a reference to the catacombs of Shumsali, which lay beyond the northern mountain. 
+"A very powerful genie dwells there," Ykol said. 
+We could take the western route, where we would have to defend ourselves against countless enemies, or we could try the eastern way, where less dangers awaited. 
+
+It was entirely up to us to choose the way ...
+
+Ykol agreed to guide us if the Saracens in the north-east had a neutral or friendly attitude towards us ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -392,6 +540,16 @@ Ykol würde uns führen, wenn die Sarazenen im Nordosten uns gegenüber neutral 
 我们满心期待……
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THE VAULTS
+
+At last we had reached the portal to the catacombs of Shumsali. All our hopes now rested on Ykol's investigations, which had brought us here. Inside the catacombs he wanted to tell us why a mighty genie would have to help us complete our task ...
+So far we had been able to overcome any dangers through bravery, strength and courage ...
+
+We were very curious ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DIE GEWÖLBE
@@ -411,6 +569,13 @@ Wir waren sehr gespannt...
 哎呀！整个民族都沦为蛇形生物的牺牲品！你的维京人未能挡住这场灾祸……
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+MISSION FAILED!
+
+Oh dear! An entire tribe has fallen victim to the serpent creatures! Your Vikings were unable to stop the plague ...    
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 MISSION VERLOREN!
@@ -427,6 +592,13 @@ Oh je! Ein ganzes Volk fiel den Schlangenwesen zum Opfer! Deinen Wikingern ist e
 哎呀！整个民族都被饥荒夺去了性命！你的维京人未能给百姓提供必要的支援……
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+MISSION FAILED!
+
+Oh dear! An entire tribe has been annihilated by the famine! Your Vikings were unable to give the tribe the necessary support ...    
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 MISSION VERLOREN!
@@ -442,6 +614,13 @@ Oh je! Ein ganzes Volk wurde von der Hungersnot dahingerafft! Deinen Wikingern i
 
 “跟我来，朋友们！通往地下墓穴的平安之路已经铺就！”
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+YKOL
+
+"Follow me, my friends! The peaceful way to the catacombs lies before us!" 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -462,6 +641,17 @@ YKOL
         <text>
 生命中片刻的鲁莽，转瞬即至！你的女英雄希拉因你的疏忽而殒命！少了这位女英雄，你便无从知晓任务的结局。
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your heroine Cyra died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -487,6 +677,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin C
 生命中片刻的鲁莽，转瞬即至！你的朋友与英雄哈奇因你的疏忽而殒命！少了这位英雄，你便无从知晓任务的结局。
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -511,6 +712,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 生命中片刻的鲁莽，转瞬即至！伊科尔因你的疏忽而殒命！少了这位英雄，你便无从知晓任务的结局。
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Ykol died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -529,6 +741,11 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Ykol erlag dur
 借助神灯精灵之力，我们终得击退蛇灾与饥荒，于是将舒姆萨利神秘的地下墓穴抛在身后……
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+With the help of the genie from the bottle, we had managed to defeat the serpent plague and the famine, and soon we left the mysterious catacombs of Shumsali ... 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Mit Hilfe des Flaschengeistes war es uns gelungen, die Schlangenplage und die Hungersnot zu bekämpfen und so ließen wir die geheimnisvollen Katakomben von Schumsali hinter uns... 
@@ -542,6 +759,13 @@ Mit Hilfe des Flaschengeistes war es uns gelungen, die Schlangenplage und die Hu
 
 伊科尔提议，将“奥丁之心”赠予我挚爱的希拉，以表心意。还有谁，比她更该佩戴神明的护符？
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+The troubling events of the past, which to our way of thinking could only have been caused by dark magic, could also only be undone with magic. It was shocking to realise that all our human strength and our valour would not suffice ... 
+
+Ykol suggested I should give my beloved Cyra "Odin's Heart" as a token of my affection. Who could have been more worthy of wearing an amulet of the gods?  
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -558,6 +782,12 @@ Ykol schlug mir vor, meiner geliebten Cyra das "Herz des Odin" als Zeichen meine
 任务成功！
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+
+MISSION COMPLETED! 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 
@@ -571,6 +801,12 @@ MISSION GEWONNEN!
 
 大饥荒
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+
+THE GREAT FAMINE
+</text>
       </lang>
       <lang code="ger">
         <text> 

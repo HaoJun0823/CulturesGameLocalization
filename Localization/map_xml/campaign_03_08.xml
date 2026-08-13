@@ -1,152 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_03_08" export_map_id="campaign_03_08" map_md5="4deaf314f5f2ada7328cc3d95b1a4799" IsC2M="false">
+<localization version="1.3" map_id="campaign_03_08" export_map_id="campaign_03_08" map_md5="4deaf314f5f2ada7328cc3d95b1a4799" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@寻得各座世界奇观的圣物！</text>
+      <text lang="eng">@LOOK FOR THE ARTEFACTS OF THE INDIVIDUAL WONDERS OF THE WORLD!</text>
       <text lang="ger">@SUCHE DIE ARTEFAKTE DER EINZELNEN WELTWUNDER!</text>
     </string>
     <string id="1">
       <text lang="CHN">寻得亚历山大港灯塔的圣物。</text>
+      <text lang="eng">Find the artefact of the Pharos Lighthouse.</text>
       <text lang="ger">Finde das Artefakt des Leuchtturmes von Alexandria.</text>
     </string>
     <string id="2">
       <text lang="CHN">寻得塞米拉米斯空中花园的圣物。</text>
+      <text lang="eng">Find the artefact of the Hanging Gardens of Semiramis.</text>
       <text lang="ger">Finde das Artefakt der hängenden Gärten der Semiramis.</text>
     </string>
     <string id="3">
       <text lang="CHN">寻得罗德岛巨像的圣物。</text>
+      <text lang="eng">Find the artefact of the Colossus of Rhodes.</text>
       <text lang="ger">Finde das Artefakt der Kolosses von Rhodos.</text>
     </string>
     <string id="4">
       <text lang="CHN">寻得摩索拉斯王陵的圣物。</text>
+      <text lang="eng">Find the artefact of the Tomb of Mausolos.</text>
       <text lang="ger">Finde das Artefakt der Grabstätte des Mausolos.</text>
     </string>
     <string id="5">
       <text lang="CHN">寻得以弗所神庙的圣物。</text>
+      <text lang="eng">Find the artefact of the Artemis Temple in Ephesus.</text>
       <text lang="ger">Finde das Artefakt des Tempels von Ephesos.</text>
     </string>
     <string id="6">
       <text lang="CHN">寻得奥林匹亚宙斯巨像的圣物。</text>
+      <text lang="eng">Find the artefact of the Zeus Statue in Olympia.</text>
       <text lang="ger">Finde das Artefakt der Zeusstatue in Olympia.</text>
     </string>
     <string id="7">
       <text lang="CHN">寻得吉萨金字塔的圣物。</text>
+      <text lang="eng">Find the artefact of the Pyramids of Giza.</text>
       <text lang="ger">Finde das Artefakt der Pyramiden von Gizeh.                                                                         .</text>
     </string>
     <string id="8">
       <text lang="CHN">前往方尖碑，查明暗黑势力迟迟未被驱逐的根由！</text>
+      <text lang="eng">Go to the obelisk and find out why the dark forces have not been driven away yet!</text>
       <text lang="ger">Gehe zum Obelisken und suche nach der Ursache für die ausbleibende Vertreibung der dunklen Mächte!                                                                         .</text>
     </string>
     <string id="9">
       <text lang="CHN">向撒拉逊人运入 30 大理石入城，否则与之交战！必要时自建仓库。</text>
+      <text lang="eng">Bring the Saracens 30 blocks of marble into their city or fight them! If necessary, build an extra warehouse.</text>
       <text lang="ger">Bringe den Sarazenen 30 Marmor in die Stadt oder bekämpfe sie! Baue, wenn nötig, ein eigenes Lagerhaus.</text>
     </string>
     <string id="10">
       <text lang="CHN">统一这座分裂之城！寻得各方市长，将他们带往方尖碑！</text>
+      <text lang="eng">Unite the divided city! Look for each of the mayors and take them to the obelisk!</text>
       <text lang="ger">Vereine die geteilte Stadt! Suche die jeweiligen Bürgermeister auf und bringe sie zum Obelisken!</text>
     </string>
     <string id="11">
       <text lang="CHN">向沼泽部族缴纳 25 单位草药作贡金！</text>
+      <text lang="eng">Give the swamp tribe 25 herbs as a tribute!</text>
       <text lang="ger">Reiche dem Moorvolk 25 Kräuter zum Tribut!</text>
     </string>
     <string id="12">
       <text lang="CHN">由一名西北岛民的居民引航，前往遥远的东南岛民处！</text>
+      <text lang="eng">Take one citizen from the island people in the north-west to the people far in the south-east!</text>
       <text lang="ger">Fahre mit einem Bewohner des Inselvolkes im Nordwesten zu denen im weiten Südosten!</text>
     </string>
     <string id="13">
       <text lang="CHN">与全部英雄返回方尖碑！</text>
+      <text lang="eng">Take ALL of your heroes back to the obelisk!</text>
       <text lang="ger">Gehe mit ALLEN deinen Helden zurück zum Obelisken!</text>
     </string>
     <string id="20">
       <text lang="CHN">大理石 %d/30</text>
+      <text lang="eng">Marble %d/30</text>
       <text lang="ger">Marmor %d/30</text>
     </string>
     <string id="21">
       <text lang="CHN">物资已送达</text>
+      <text lang="eng">Goods delivered</text>
       <text lang="ger">Waren geliefert</text>
     </string>
     <string id="51">
       <text lang="CHN">撒拉逊人</text>
+      <text lang="eng">Saracens</text>
       <text lang="ger">Sarazenen</text>
     </string>
     <string id="52">
       <text lang="CHN">城区 1</text>
+      <text lang="eng">District 1</text>
       <text lang="ger">Stadtteil 1</text>
     </string>
     <string id="53">
       <text lang="CHN">城区 2</text>
+      <text lang="eng">District 2</text>
       <text lang="ger">Stadtteil 2</text>
     </string>
     <string id="54">
       <text lang="CHN">城区 3</text>
+      <text lang="eng">District 3</text>
       <text lang="ger">Stadtteil 3</text>
     </string>
     <string id="55">
       <text lang="CHN">沼泽部族</text>
+      <text lang="eng">Swamp Tribe</text>
       <text lang="ger">Moorvolk</text>
     </string>
     <string id="56">
       <text lang="CHN">岛民</text>
+      <text lang="eng">Island People</text>
       <text lang="ger">Inselvolk</text>
     </string>
     <string id="61">
       <text lang="CHN">撒.</text>
+      <text lang="eng">Sarac.</text>
       <text lang="ger">Saraz.</text>
     </string>
     <string id="62">
       <text lang="CHN">城 1</text>
+      <text lang="eng">City 1</text>
       <text lang="ger">Stadt 1</text>
     </string>
     <string id="63">
       <text lang="CHN">城 2</text>
+      <text lang="eng">City 2</text>
       <text lang="ger">Stadt 2</text>
     </string>
     <string id="64">
       <text lang="CHN">城 3</text>
+      <text lang="eng">City 3</text>
       <text lang="ger">Stadt 3</text>
     </string>
     <string id="65">
       <text lang="CHN">沼.</text>
+      <text lang="eng">Swamp T.</text>
       <text lang="ger">Moorv.</text>
     </string>
     <string id="66">
       <text lang="CHN">岛.</text>
+      <text lang="eng">Isl. P.</text>
       <text lang="ger">Inselv.</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
+      <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
+      <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
+      <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">诺伯特</text>
+      <text lang="eng">Norbert</text>
       <text lang="ger">Norbert</text>
     </string>
     <string id="76">
       <text lang="CHN">玛尼</text>
+      <text lang="eng">Mani</text>
       <text lang="ger">Mani</text>
     </string>
     <string id="98">
       <text lang="CHN">我们在那座岛上登陆，岛心矗立着一根巨力方尖碑--第八大奇迹。据先知所言，它当汇聚其余奇观之力，由此逐退暗黑势力……</text>
+      <text lang="eng">We landed on the island that held a mighty obelisk in the middle - the Eighth Wonder of the World. The legend said that it would bind the energies of the other Wonders of the World and thus banish the dark forces ... </text>
       <text lang="ger">Wir landeten auf jener Insel, in deren Mitte ein mächtiger Obelisk - das achte Weltwunder - thronte. Nach den Vorhersagungen sollte er die Energien der anderen Wunder in sich bündeln und so die dunklen Mächte bannen... </text>
     </string>
     <string id="99">
       <text lang="CHN">第八大奇迹</text>
+      <text lang="eng">THE EIGHTH WONDER OF THE WORLD</text>
       <text lang="ger">DAS ACHTE WELTWUNDER</text>
     </string>
   </strings>
@@ -158,6 +195,13 @@
 
 这项伟业，最终落在了我们肩上。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+We landed on the island that held a mighty obelisk in the middle - the Eighth Wonder of the World. We could already see it from a distance. According to the predictions of the Council of Nations, it was supposed to bind the energies of the other Wonders and thus banish the dark powers. 
+
+When this didn't happen after the completion of the other seven Wonders, the Council of Nations sent us to this place to get to the bottom of this mystery ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -176,6 +220,11 @@ Als dies nach Fertigstellung der anderen sieben Wunder nicht geschehen war, sand
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+Go to the obelisk and find out why the dark forces have not been driven away yet!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -206,6 +255,21 @@ Gehe zum Obelisken und suche nach der Ursache für die ausbleibende Vertreibung 
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE DIVIDED CITY
+
+"When the island rose from the sea we hoped to find a good fertile land that nobody could take from us. But now we have had to divide our city. 
+
+Each of the three areas is administered by its own mayor. They never negotiate with one another, as neither wants to enter either of the other ones' areas! If only someone could get the three pigheads together," wailed the citizens of the divided city.
+
+</text>
+        <usericon>1,127,180</usericon>
+        <text>
+
+Unite the divided city! Pay each of the mayors a visit and take them to the obelisk!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -246,6 +310,20 @@ Vereine die geteilte Stadt! Suche die jeweiligen Bürgermeister auf und bringe s
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+OBELISK
+
+Now that we were seeing it at close range, our jaws dropped! Its height and grace excelled every other Wonder of the World. At the foot of the obelisk, on each side, were pedestals for the artefacts of the other seven Wonders of the World. But these artefacts were missing! 
+Had the people that had settled down here maybe taken them?
+
+</text>
+        <usericon>1,195,224</usericon>
+        <text>
+
+We should find this out ... 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 OBELISK
@@ -283,6 +361,19 @@ Wir sollten dies herausfinden...
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+SARACENS
+
+"The Pharos Lighthouse was built in our country from OUR resources," the Saracens complained. "Deliver us some marble, and maybe we will bring the artefact of the Lighthouse back to its place and guard it, so that nobody else can take it!"
+
+</text>
+        <usericon>1,314,182</usericon>
+        <text>
+
+Bring the Saracens 30 blocks of marble into their city or fight them! 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 SARAZENEN
@@ -317,6 +408,17 @@ Bringe den Sarazenen 30 Marmor in die Stadt oder bekämpfe sie!
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+GOODS DELIVERED
+
+</text>
+        <usericon>1,195,221</usericon>
+        <text> 
+
+We had delivered the Saracens the required goods. They kept their word and took the artefact of the Pharos Lighthouse back to its rightful position. 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 WAREN GELIEFERT
@@ -350,6 +452,19 @@ Wir hatten die geforderten Waren den Sarazenen geliefert. Sie hielten Wort und b
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+ALL ARTEFACTS FOUND!
+
+Full of pride we could report that we had found all the artefacts of the Wonders of the World!
+
+</text>
+        <usericon>1,195,221</usericon>
+        <text> 
+
+Now, take ALL of your heroes back to the obelisk!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -391,6 +506,24 @@ Gehe nun mit ALLEN deinen Helden zurück zum Obelisken!
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+NORTHERN MAYOR
+
+</text>
+        <usericon>2,7</usericon>
+        <text>
+
+"I administer the northern part of town. Are you trying to tell me that I am not doing my job properly?" the mayor snapped at us.
+"I will never meddle in someone else's area! That's out of the question!
+
+...
+
+What? The other two want to meet me on neutral ground? At the obelisk? Sounds like an idea I might have had myself!"
+
+Take the mayor to the obelisk!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -438,6 +571,24 @@ Bringe den Bürgermeister zum Obelisken!
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+CENTRAL MAYOR
+
+</text>
+        <usericon>2,8</usericon>
+        <text>
+
+"I administer the central part of town. Are you trying to tell me that I am not doing my job properly?" the mayor snapped at us.
+"I will never meddle in someone else's area! That's out of the question!
+
+...
+
+What? The other two want to meet me on neutral ground? At the obelisk? Sounds like an idea I might have had myself!"
+
+Take the mayor to the obelisk!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 BÜRGERMEISTER MITTE
@@ -484,6 +635,24 @@ Bringe den Bürgermeister zum Obelisken!
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+SOUTHERN MAYOR
+
+</text>
+        <usericon>2,9</usericon>
+        <text>
+
+"I administer the southern part of town. Are you trying to tell me that I am not doing my job properly?" the mayor snapped at us.
+"I will never meddle in someone else's area! That's out of the question!
+
+...
+
+What? The other two want to meet me on neutral ground? At the obelisk? Sounds like an idea I might have had myself!"
+
+Take the mayor to the obelisk!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 BÜRGERMEISTER SÜD
@@ -525,6 +694,20 @@ Bringe den Bürgermeister zum Obelisken!
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+CITY UNITED!
+
+</text>
+        <usericon>2,9</usericon>
+        <text>
+
+When the mayors of the three districts got together, it didn't take long until they were reconciled. This was because each of them thought that the others had taken the first step. 
+In a joyful ceremony, they jointly put the artefacts that were in each of their areas back on their pedestals at the obelisk.
+
+The three mayors stayed there and personally guarded the place!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -577,6 +760,29 @@ Jeder der drei Bürgermeister blieb dort und bewachte diesen Platz persönlich!
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+SWAMP TRIBE
+
+"We have the artefact of the Artemis Temple in Ephesus. We once supported you during the rising of the swamps in Ephesus. However, this prevented us from cultivating our herbs. 
+
+Now we want you to do us a favour to make up for it," the wise men of the swamp said.
+
+</text>
+        <usericon>1,241,475</usericon>
+        <text>
+
+Give the swamp tribe 25 herbs as a tribute!
+
+What joy!
+
+</text>
+        <usericon>2,3</usericon>
+        <text>
+
+Among the wise men of the swamp was Hatchie! It was so good to see him again! In the meantime, the wise men had learned a lot about his culture, so that Hatchie could join us again right on time. Now we were happy to give the wise men of the swamp the small tribute!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 MOORVOLK
@@ -619,6 +825,17 @@ Unter den Moorweisen befand sich auch Hatschi! Es tat so gut, ihn wieder zu sehe
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -652,6 +869,19 @@ Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen 
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+SWAMP TRIBE
+
+"So many precious herbs! Your herb gardener knows his job! We will now put the artefact back in its place and guard it!"
+
+</text>
+        <usericon>1,241,475</usericon>
+        <text>
+
+Only a short time later, several of the women disappeared in a cloud of smoke. We would surely see them again at the obelisk ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -692,6 +922,22 @@ Kaum waren ein paar Augenblicke verstrichen, da lösten sich einige der Frauen i
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+ISLAND PEOPLE
+
+"We have the artefact of the Pyramids of Giza, because they actually belong to our people," the Saracens said. 
+"What? You need the artefact to activate the obelisk? We didn't know that! How could we simply take it? 
+We will bring it back to its rightful place."
+
+</text>
+        <usericon>1,107,50</usericon>
+        <text>
+
+Our brothers and sisters in the south-east, however, took the artefact of the Zeus Statue. They do not welcome strangers and do not speak your language. 
+You have to take at least one of us with you if you want them to give you the artefact."
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 INSELVOLK
@@ -729,6 +975,17 @@ Ihr müsst mindestens einen von uns mitnehmen, dann werden sie euch das Artefakt
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+ISLAND PEOPLE
+
+</text>
+        <usericon>1,339,435</usericon>
+        <text>
+
+"Brothers! We welcome you," the Saracens of this island said in their own language, which was translated for us. They, too, soon sent their people to take the artefact back to its place.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 INSELVOLK
@@ -760,6 +1017,17 @@ INSELVOLK
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+ISLAND PEOPLE
+
+</text>
+        <usericon>1,339,435</usericon>
+        <text>
+
+We did not understand what these island people were shouting at us, but apparently they did not welcome us.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -795,6 +1063,19 @@ Wir verstanden nicht, was dieses Inselvolk uns entgegenrief, aber sie hießen un
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THE OLD MAN
+
+</text>
+        <usericon>1,166,220</usericon>
+        <text>
+
+"These disbelieving fools! All the artefacts have been stolen! The first one was taken by the Saracens in the east, the second, third and fourth are in the divided city in the west. The fifth one is in the hands of the swamp tribe that lives on an island in the south, the sixth and the seventh have been taken by the island people. 
+
+Without these artefacts, the obelisk is worth nothing!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DER ALTE MANN
@@ -829,6 +1110,17 @@ Ohne diese Artefakte ist der Obelisk nichts wert!"
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THE OLD MAN
+
+</text>
+        <usericon>1,141,362</usericon>
+        <text>
+
+"If you are looking for the swamp tribe: You can only reach them by boat. But watch out, there are dangers lurking on the nearby islands!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DER ALTE MANN
@@ -860,6 +1152,17 @@ DER ALTE MANN
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+SARACENS ATTACKED!
+
+</text>
+        <usericon>1,314,182</usericon>
+        <text>
+
+You have attacked the Saracens. They will never forgive you! 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -893,6 +1196,17 @@ Du hast die Sarazenen angegriffen. Sie werden dir das nie vergeben!
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+SARACENS DIED!
+
+</text>
+        <usericon>1,314,182</usericon>
+        <text>
+
+You have defeated the Saracens. The artefact is now yours, but was it worth it? 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 SARAZENEN GESTORBEN!
@@ -922,6 +1236,17 @@ Du hast die Sarazenen vernichtet. Das Artefakt gehört nun dir, aber war es das 
 一时疏忽，人生便急转直下！你的女英雄希拉因你大意而殒命！失此英雄，你便无缘得见任务终局。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -953,6 +1278,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin C
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -982,6 +1318,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 一时疏忽，人生便急转直下！你的挚友与英雄西格德因你大意而殒命！失此英雄，你便无缘得见任务终局。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -1013,6 +1360,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero NORBERT, the dragon, died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1043,6 +1401,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! MANI, son of Bjarni and Cyra, died due to your negligence! Without him, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1064,6 +1433,11 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn vo
 
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE EIGHTH WONDER OF THE WORLD
+</text>
       </lang>
       <lang code="ger">
         <text> 

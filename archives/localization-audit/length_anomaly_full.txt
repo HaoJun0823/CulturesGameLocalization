@@ -1,0 +1,957 @@
+
+####################################################################################################
+# 目录: map_xml
+####################################################################################################
+
+### _campaign_04_01_sub2.xml
+  --- block 00_start text[0] ratio=0.18
+      CHN: 而那座冰雕像就矗立在那里，挡住了通往阿夸里乌斯的去路！
+      GER: Mani und Norbert betraten wieder den Wassertempel der AQUAS unter dem Meer. In dieser fremden Umgebung, verliefen alle ihre Bewegungen langsamer und es schimmerte vor ihren Augen.
+  --- block 00_start1 text[0] ratio=1.47
+      CHN: 阿夸里乌斯守卫 “噢，我看你们带了一条卢米斯族的火龙来。它们怕水，正如我们怕火。他定是鼓起了莫大的勇气。不知他能否融化这冰？” 只管走向冰像，若你们不成，恐怕便无人能成了！
+      GER: Und dort war sie, die Eisstatue, die den Weg zu Aquarius versperrte!
+  --- block 01 text[0] ratio=0.04
+      CHN: 阿夸里 乌斯守卫
+      GER: AQUARIUS WACHE "Oh, wie ich sehe habt ihr einen der Lumis, der Feuerdrachen mitgebracht. Sie scheuen das Wasser, wie wir das Feuer. Es muss ihn große Überwindung gekostet haben. Ob er das Eis wohl schmelzen kann?
+  --- block 03 text[0] ratio=0.04
+      CHN: 任务 失败！
+      GER: AQUARIUS "Willkommen im Reich unter dem Meer!" sprach Aquarius mit gurgelnder Stimme, das ihm kleine Blubberbläschen aus dem Maul stiegen.
+  --- block 500 text[1] ratio=0.10
+      CHN: 睿智的格拉乌霍尔姆定会对此甚感欣慰！
+      GER: Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+      >>> 相似CHN文本: map_xml/_campaign_04_01_sub2.xml block 50_end (sim=0.86)
+
+### _campaign_04_01_sub3.xml
+  --- block 01 text[0] ratio=1.12
+      CHN: 格拉乌霍尔姆 “你们当真做到了，化解了各族之间的芥蒂！”
+      GER: DIE WACHDRACHEN UM GRAUHOLM
+  --- block 01 text[1] ratio=2.64
+      CHN: 仅余一对尚未和好，不过我怀疑这两位并非因偏见、恐惧或嫉妒而争执……罗希尔德与布劳施特鲁姆夫，火龙与水龙的两位代表，把这里的日子搅得着实难熬…… 罗希尔德在西侧殿堂，布劳施特鲁姆夫在东侧。找到他们，带他们来见我，我便将你们的身世相告！”
+      GER: "GRAUHOLM erwartet euch bereits! Folgt uns zu ihm!"
+      >>> 相似CHN文本: map_xml/_campaign_04_01_sub3.xml block 01 (sim=1.00)
+  --- block 02 text[1] ratio=0.12
+      CHN: 或许送几束鲜花、说几句编造的好话？于是玛尼与诺伯 特采了几朵蓝花，走向罗希尔德……
+      GER: Ein einziger ist noch übriggeblieben, doch ich bezweifele, dass diese zwei sich aus Untoleranz, Angst oder Neid streiten.... Rothild und Blaustrump, zwei Vertreter der Feuer- und Wasserdrachen, machen sich das Leben hier wirklich schwer... Rothild ist in den Hallen im Westen und Blaustrump in denen im Osten. Findet und bringt sie zu mir und ich werde euch von eurer Herkunft berichten!
+      >>> 相似CHN文本: map_xml/_campaign_04_01_sub3.xml block 02 (sim=1.00)
+  --- block 03 text[0] ratio=0.03
+      CHN: 罗 希尔德
+      GER: BLUMEN! Mani und Norbert mussten bei der Versöhnung der beiden einen Trick anwenden... Die Drachen waren sehr dickköpfig. Dann hatten sie eine Idee!
+  --- block 05 text[0] ratio=0.08
+      CHN: 布劳 斯特伦普
+      GER: ROTHILD "Blaue Blumen, die sind aber wunderschön! Wie? Diese Blumen kommen von Blaustrump?
+
+### _campaign_04_02.xml
+  --- block 01 text[1] ratio=0.20
+      CHN: 此处树木稀疏，留有充足建造空间，周遭亦不缺各类资源。
+      GER: Die Bäume standen hier nicht allzu dicht beieinander und somit war genügend Bauplatz vorhanden. Auch gab es alle Rohstoffe in der unmittelbaren Umgebung.
+      >>> 相似CHN文本: map_xml/_campaign_04_02.xml block 01 (sim=1.00)
+
+### _campaign_04_02_sub2.xml
+  --- block 01 text[0] ratio=0.14
+      CHN: 所有火把已点燃！ 我们之友派罗点燃了所有火把。通往火水晶的道路已然畅通！
+      GER: ALLE FACKELN ENTZÜNDET! Hier am Eingang der Höhle waren nun alle Fackeln entzündet! Wie von Zauberhand war eine der seltsamen Säulen verschwunden und das Energiefeld gebrochen. Wir konnten nun das Innere der Höhle weiter erkunden! Sicherlich gab es hier noch viele Fackeln die es zu entflammen galt.
+  --- block 03 text[0] ratio=0.05
+      CHN: 巨龙 已败北！
+      GER: DUNKELDRACHEN Durch die Gitterwände sahen wir schwarze Drachen, sie schienen gefährlich zu sein und bewachten wahrscheinlich den Eingang zum Kristall.
+  --- block 04 text[0] ratio=0.16
+      CHN: 巨龙已困入！ 我们做到了，所有暗龙都身陷彩虹之厅！
+      GER: DRACHEN BESIEGT! Wir hatten die farblosen Geschöpfe besiegt, aber war dies wirklich nötig gewesen? Hätten wir sie nicht auch in eine Falle in den Regenbogenraum locken können?
+  --- block 50_end text[0] ratio=0.06
+      CHN: 干得漂亮！
+      GER: Wir hatten den Krisall im Inneren der Höhle gefunden! Nun mußten wir ihn zum Waldhüter BORKENZAHN bringen.
+
+### _campaign_04_03.xml
+  --- block 01 text[0] ratio=0.17
+      CHN: 已向神庙守卫缴纳贡 品！
+      GER: WALDPOSTEN 1 - DIE TEMPELWÄCHTER "Willkommen!" sprachen die Tempelwächter.
+      >>> 相似CHN文本: map_xml/_campaign_04_05.xml block 01 (sim=1.00)
+  --- block 03 text[0] ratio=0.06
+      CHN: 铁制工具已交给采药 人
+      GER: POSTEN 2 - KRÄUTERSAMMLER "Wir würden ja gerne unserer Arbeit nachgehen, aber uns fehlt das richtige Werkzeug! Unsere alten Sicheln sind stumpf und der Rost hat sich durch sie gefressen."
+  --- block 04 text[0] ratio=0.16
+      CHN: 格罗尔斯--石龙 在嶙峋山脉中，我们遇见了古老的智慧石龙。
+      GER: EISENWERKZEUG AN KRÄUTERSAMMLER GELIEFERT "Ein Werkzeug mit solch glänzenden scharfen Klingen hatten wir noch nie! Unsere Hilfe ist euch zum gegebenen Zeitpunkt sicher! Ihr könnt euch auf uns verlassen!"
+      >>> 相似CHN文本: map_xml/_campaign_04_01.xml block 04 (sim=0.87)
+  --- block 06 text[0] ratio=0.06
+      CHN: 哨站 3--商人
+      GER: WIKINGERDORF Die Wikinger in diesem Landstrich waren überaus freundlich. Sie überliesen uns ihr kleineres Lagerhaus im Norden des Dorfes
+  --- block 06 text[1] ratio=1.73
+      CHN: “进来开开眼吧，瞧瞧我的货色！我的价钱公道的！”商人老远便朝我们喊道。 “可惜我正逢生意清淡，但若与我交易，我的援助定然少不了。”
+      GER: und boten uns günstige Handelsverträge an.
+      >>> 相似CHN文本: map_xml/_campaign_04_03.xml block 06 (sim=1.00)
+  --- block 07 text[0] ratio=0.07
+      CHN: 已与商 人交易货物
+      GER: POSTEN 3 - HÄNDLER "Kommt herein und bestaunt meine Waren! Meine Konditionen sind günstig!" rief uns der Händler schon von weitem zu.
+      >>> 相似CHN文本: map_xml/_campaign_04_05.xml block 07 (sim=1.00)
+  --- block 09 text[0] ratio=0.01
+      CHN: 火 龙
+      GER: FEUERDRACHEN "Wir sind nicht gut auf andere Lebewesen zu sprechen. Ständig plagt uns Hunger, der uns mürrisch macht. Wir wollen ja niemandem etwas tun, aber der Hunger..."
+  --- block 10 text[0] ratio=0.05
+      CHN: 任务 失败！
+      GER: FEUERDRACHEN "Ihr seid wahre Meisterbäcker! Unsere Unterstützung ist euch sicher!" sprachen die Feuerdrachen.
+  --- block 11 text[0] ratio=0.08
+      CHN: 水龙森林村庄学校已迎 来学生
+      GER: POSTEN 4 - WALDSCHULE DER WASSERDRACHEN "Ach hätte wir nur genügend Schüler! Wir haben hier eine ganz tolle Schule und Professer WAMUGO ist einer der besten Lehrer, den man sich wünschen kann."
+  --- block 13 text[0] ratio=0.02
+      CHN: 老 者
+      GER: POSTEN 5 - SCHULE AM PALMENHAIN "Unsere Kinder sind äußerst wissbegierig, aber leider können wir ihnen nicht so viel beibringen.
+  --- block 14 text[1] ratio=0.17
+      CHN: 如今我们寻遍了所有守护者哨站，并施以援手。他们当真助益良多，因为查出玛尼与诺伯特竟是被纳帕利亚人掳走的！
+      GER: "Mit den Napalianern ist nicht zu spaßen! Sobald man sich in ihre Gebiete vorwagt, brasseln ihre Pfeile auf einen ein. Sicherlich haben sie etwas zu verbergen, denn nicht umsonst schützen sie ihren zweiten Stützpunkt durch diese Giftwolke! Die Waldposten hier in der Umgebung haben aber Drachen, die gegen das Gift immun sind, man bräuchte nur genügend von ihnen."
+      >>> 相似CHN文本: map_xml/_campaign_04_03.xml block 14 (sim=1.00)
+  --- block 15 text[0] ratio=0.03
+      CHN: 毒云 已清除
+      GER: ALLE POSTEN DER WALDHÜTER Nun hatten wir alle Posten der Waldhüter aufgesucht und ihnen geholfen. Sie waren uns tatsächlich von großem Nutzen, denn sie fanden heraus, dass Mani und Norbert von den Napalianern verschleppt worden waren!
+  --- block 18 text[0] ratio=0.07
+      CHN: 纳帕 利亚人
+      GER: AQUAS - DIE WASSERDRACHEN Wir sind friedliebende Drachen. Nutzt doch unser Schiff hier!
+  --- block 19 text[0] ratio=0.07
+      CHN: 纳帕 利亚人
+      GER: NAPALIANER "Keinen Schritt näher! Wir werden sonst unsere Waffen gebrauchen!"
+  --- block 21 text[0] ratio=0.17
+      CHN: 纳帕利亚人败北！ 纳帕利亚人虽被击败，可若当初本也能和平了结？
+      GER: TRIBUT GELEISTET! "Nun werden wir unsere Haltung zu euch überdenken, aber wagt euch nicht wieder in unser Terrain!" riefen uns die Napalianer zu und änderten augenblicklich ihren Diplomatiestatus uns gegenüber.
+      >>> 相似CHN文本: map_xml/_campaign_04_05.xml block 21 (sim=1.00)
+  --- block 50_end1 text[0] ratio=0.03
+      CHN: 干得漂亮！
+      GER: Ihnen tat es leid, uns solch große Sorgen bereitet zu haben, aber die Hauptsache war, sie weilten wieder unter uns. Wir beschlossen gemeinsam dem Verschwinden der Erddrachen auf den Grund zu gehen.
+
+### _campaign_04_03_sub1.xml
+  --- block 01 text[0] ratio=0.02
+      CHN: 船 只
+      GER: WASSERDRACHEN "Willkommen in unserem Wassertempel. Erdlinge haben wir hier eher selten zu Besuch, aber fühlt euch, wie zu Hause"
+  --- block 02 text[0] ratio=6.71
+      CHN: 阿夸罗姆与控制台 “久站这控制台，我真乏了，可它对海底的我们必不可少，因为它驱动着水流的涡轮。”
+      GER: SCHIFFE
+  --- block 03 text[0] ratio=0.05
+      CHN: 阿夸罗 姆与控制台
+      GER: AQUARUM UND DER SCHALTER "Ich bin müde vom Stehen auf diesem Schalter, aber er ist lebensnotwendig für uns hier unter dem Meer, denn er betreibt die Turbine für den Wasserlauf."
+
+### _campaign_04_04.xml
+  --- block 01 text[1] ratio=0.09
+      CHN: 他们还向我们讲起或许 最强大的龙族：魔法龙。 若说有谁能助我们完成 任务，必是这一族无疑。
+      GER: Sie erzählten uns von ihrer früheren Gemeinschaft mit den Drachen und wie Menschen kamen, diese einfingen und verschleppten, um sie als Zirkusattraktionen und Zootiere in ihrem Land zur Schau zu stellen. Sie selbst waren uns weder Freund noch Feind, so mussten wir ihr Vertrauen gewinnen. Sie bemerkten unsere guten Schuharbeiten, auch wenn diese schon sehr ausgetreten und abgenutzt waren. Sie wollten gerne ein paar Exemplare davon für sich haben! Reiche den Hirten ein paar Schuhe und sie werden dir ihre Handelsangebote offerieren!
+      >>> 相似CHN文本: map_xml/_campaign_04_04.xml block 01 (sim=1.00)
+  --- block 02 text[0] ratio=0.04
+      CHN: 牧人民 族的雇佣兵
+      GER: SCHUHE GELIEFERT! Wir hatten den Hirten die Schuhe zum Tribut überreicht. Sie wechselten ihre Haltung uns gegenüber augenblicklich. Ihre Freude über die Schuhe war sogar so groß, dass sie uns überaus günstige Handelsangebote anboten.
+  --- block 03 text[0] ratio=0.04
+      CHN: 哨塔 已建成！
+      GER: SÖLDNER vom HIRTENVOLK "Ihr scheint sehr tapfer zu sein! Wir werden euch unterstützen! Zwar sind wir ein einfaches Volk, aber im Kampf mit euch haben wir eine Chance!" sprachen die Hirten.
+  --- block 07 text[0] ratio=0.02
+      CHN: 隐 形药剂
+      GER: WAREN AN ZAUBERDRACHEN GELIEFERT! Wir hatten die Waren den Zauberdrachen geliefert. Sie verwandelten die Stelle des Obeliskenkreises in eine Stelle voller Magie an der unsere Lebensenergie geheilt wurde und öffneten weitere Portale in die Regionen der Napalianer.
+  --- block 08 text[0] ratio=0.01
+      CHN: 水 龙
+      GER: UNSICHTBARKEITSTRANK Die Zauberdrachen überreichten den Trank an uns Helden. Und wie von Zauberhand wurden wir unsichtbar - nur unsere eigenen Leute konnten unsere Umrisse wage erkennen.
+  --- block 10 text[0] ratio=0.04
+      CHN: 任务 失败！
+      GER: WASSERDRACHEN "Ihr habt sie uns unversehrt wiedergebracht!" freuten sich die Wasserdrachen, als wir mit den anderen Drachen zurück zum Tempel kamen.
+  --- block 11 text[0] ratio=0.03
+      CHN: 纳帕 利亚人
+      GER: WASSERDRACHEN BEFREIT! "Endlich sind wir aus den Fängen dieser grausamen Menschen befreit worden. Kaum vorstellbar was sonst mit uns geschehen wäre. Die Drachen die sie abtransportiert hatten, haben wir niemals wieder gesehen!"
+  --- block 14 text[1] ratio=0.18
+      CHN: “你无权闯入地牢。去助牧人民族与水龙，再带英雄回来，那时便放你通行！”
+      GER: Wir hatten BABUL den enormen Tribut bezahlt und so gaben sie die Wasserdachen widerwillig frei. Sie meinten, die Wasserdrachen seien eh solch leichte Opfer, das sie sie auch jederzeit wieder überfallen und plündern könnten...
+      >>> 相似CHN文本: map_xml/_campaign_04_04.xml block 14 (sim=1.00)
+  --- block 16 text[0] ratio=0.07
+      CHN: 纳帕利 亚人败北！
+      GER: TRIBUT AN BABUL ÜBERREICHT! "Fürs Erste stehen wir neutral zu euch, aber steckt eure Nasen nicht in Dinge, die euch nichts angehen!"
+  --- block 17 text[0] ratio=1.67
+      CHN: 魔法之地 我们撞见传送装置。可惜出口必被封死，于我们毫无用处。
+      GER: NAPALIANER BESIEGT!
+  --- block 200 text[1] ratio=0.17
+      CHN: 哎呀，水龙死了。没了它们，任务的结局将永远对你隐藏！
+      GER: Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+  --- block 26 text[0] ratio=0.11
+      CHN: 传送装 置已激活！
+      GER: ALLE WASSERDRACHEN BEFREIT! Nun hatten wir endlich alle Wasserdrachen in Babul befreit.
+  --- block 26 text[1] ratio=0.14
+      CHN: 为感解放水龙之恩，水龙 们激活了沙漠中的传送装置。
+      GER: Alle erzählten uns von den seltenen Erddrachen. Die niemand mehr gesehen hatte. Man munkelte von unterirdischen Kerkern, in denen sie festgehalten wurden." Geleite die Wasserdrachen zum Wassertempel!
+      >>> 相似CHN文本: map_xml/_campaign_04_04.xml block 26 (sim=1.00)
+  --- block 27 text[0] ratio=0.12
+      CHN: 地龙！ 我们终于寻得了地龙！
+      GER: TELEPORTER AKTIVIERT! Zum Dank für die Befreiung der Wasserdrachen aktivierten die Wasserdrachen die Teleporter in der Wüste.
+  --- block 50_end1 text[0] ratio=0.02
+      CHN: 任务 胜利！
+      GER: Mani indess war traurig, da nun der Abschied von seinem besten Freund bevor stand. So viele Abenteuer hatten sie gemeinsam tapfer durchgestanden und nun würde er mit den anderen Erddrachen ziehen. Einige Napalianer wurden gesehen, wie sie in die Richtung unserer Heimat zogen. Würden wir nie mit ihnen in Frieden leben können? Ihre Kultur war so verschieden der unseren...
+
+### _campaign_04_04_sub1.xml
+  --- block 01 text[0] ratio=0.07
+      CHN: 斯普 鲁德尔
+      GER: GULP "Ihr habt wahrlich Großes vollbracht, unsere Stammesangehörigen zu retten."
+  --- block 01 text[1] ratio=0.17
+      CHN: “你们认出我了！难不成那饶舌的斯普鲁德尔， 当真钻进了你们的脑瓜？”
+      GER: "Habt ihr sie euch eingeprägt, wißt ihr noch, wie sie heißen? Drei davon befinden sich hier an den Wasserfällen. Findet sie und sie halten eine Überraschung für euch bereit!" Finde die drei Wasserdrachen, die dich begleitet haben.
+      >>> 相似CHN文本: map_xml/_campaign_04_04_sub1.xml block 01 (sim=1.00)
+  --- block 03 text[1] ratio=0.14
+      CHN: “你们认出我了！”
+      GER: "Ihr habt mich erkannt! NIXE wird euch auch immer im Herzen bei sich tragen!"
+      >>> 相似CHN文本: map_xml/_campaign_04_04_sub1.xml block 03 (sim=1.00)
+  --- block 04 text[1] ratio=2.05
+      CHN: 是英勇，还是鲁莽？比雅尼陨落之时，诸神落泪……少了这位英雄，任务的结局将永远对你隐藏。
+      GER: "Ihr habt mich erkannt! "
+      >>> 相似CHN文本: map_xml/_campaign_04_02.xml block 100 (sim=1.00)
+  --- block 50_end text[0] ratio=0.15
+      CHN: 为感救命之恩，也因它们于我们不止是寻常龙 族，阿夸斯激活了传送装置。
+      GER: ÜBERRASCHUNG! "Eigentlich sind die Wasserfälle nichts anderes als ein kleines Wasserkraftwerk. Mit Hilfe der immensen Wasserkraft und durch die Betätigung der drei Schalter, haben wir die Möglichkeit, die Teleporter auf der Erdoberfläche zu betreiben!"
+  --- block 50_end1 text[0] ratio=0.05
+      CHN: 干得漂亮！
+      GER: Zum Dank für ihre Rettung, und weil sie für uns mehr waren als nur irgendwelche Drachen, aktivierten die Aquas die Teleporter.
+
+### _campaign_04_04_sub2.xml
+  --- block 00_start1 text[0] ratio=0.11
+      CHN: 纳帕利亚人 “你们竟敢闯进地牢？找死！”
+      GER: Die Gefangenen würden gut bewacht werden. Aber es gab in kabalianischen Bauten oftmals viele Schleichwege. Diese konnten wir uns zu Nutze machen. Finde die eingesperrten Drachen und befreie sie!
+  --- block 03 text[1] ratio=0.17
+      CHN: “我们本是纳帕利亚人易擒的猎物。多谢你们救了我们。”
+      GER: "Diese Napalianer treiben überall ihr Unwesen. Wir dachten, wir Zauberdrachen wären vor ihnen sicher, aber auch wir wurden gefangen genommen. Danke das ihr uns befreit habt."
+      >>> 相似CHN文本: map_xml/_campaign_04_04_sub2.xml block 03 (sim=1.00)
+  --- block 05 text[1] ratio=0.14
+      CHN: 纳帕利亚人已被击败！
+      GER: Mit einem gewaltigen Knarren öffneten sich zwei schwere Holztüren unweit von hier.
+      >>> 相似CHN文本: map_xml/_campaign_04_04_sub2.xml block 05 (sim=1.00)
+
+### _campaign_04_05.xml
+  --- block 01 text[0] ratio=0.14
+      CHN: 已向神庙守卫缴纳贡 品！
+      GER: WALDPOSTEN 1 - DIE TEMPELWÄCHTER "Schön euch wieder zu sehen!" sprachen die Tempelwächter.
+      >>> 相似CHN文本: map_xml/_campaign_04_03.xml block 01 (sim=1.00)
+  --- block 03 text[0] ratio=0.04
+      CHN: 已向采药人缴纳贡品 ！
+      GER: POSTEN 2 - KRÄUTERSAMMLER "Damals habt ihr uns neues Werkzeug geliefert, als unser altes vom Rost zerfressen war. Mittlerweile haben wir eine eigene Werkzeugschmiede. Wir mussten uns gegen die Napalianer zur Wehr setzen, deshalb produzieren wir auch Waffen und Rüstungen."
+  --- block 04 text[0] ratio=0.17
+      CHN: 格罗尔斯的山脉--石龙 往昔嶙峋山脉中曾有古老智慧的石龙，如今却尽数消失……
+      GER: TRIBUT AN KRÄUTERSAMMLER BEZAHLT! "Der Posten, der ursprünglich aus Kräutersammlern bestand, stellte nun fantastische Waffen und Rüstungen her, die wir für unsere Zwecke dank der Tribute nutzen konnten. Als Bonus gaben sie uns sogar noch ein Katapult hinzu."
+  --- block 06 text[0] ratio=0.02
+      CHN: 商 人哨站
+      GER: WIKINGERDORF "Es ist schlimmer geworden, seitdem ihr weg wart. Die Napalianer haben sich wieder weiter ausgebreitet. Selbst ihr kleinerer Stützpunkt im Westen ist nun von dieser Giftwolke umgeben."
+  --- block 06 text[1] ratio=1.27
+      CHN: “你们回来了！这下一切定会好转！” “受纳帕利亚人侵扰，我不幸又陷生意清淡，但若与我交易，我的朋友定会再度相助，清除纳帕利亚人营地外的毒云。”
+      GER: "Wir stehen euch mit allem was uns zur Verfügung steht zur Seite!"
+      >>> 相似CHN文本: map_xml/_campaign_04_05.xml block 06 (sim=1.00)
+  --- block 07 text[0] ratio=0.14
+      CHN: 已与商 人交易货物
+      GER: HÄNDLERPOSTEN "Ihr seid wieder da! Nun wird sicher alles wieder gut!"
+      >>> 相似CHN文本: map_xml/_campaign_04_03.xml block 07 (sim=1.00)
+  --- block 11 text[0] ratio=0.02
+      CHN: 水龙森 林村庄学校
+      GER: PROF. WAMUGO "Ich habe meinen Unterricht in den Palmenhain verlegt, denn der weite Weg ist für die Kinder in diesen gefährlichen Zeiten unzumutbar! Ich ahnte schon, dass die Napalianer keine Ruhe geben würden. Ich habe für eine friedliche Lösung an alle Drachen Briefe geschrieben, nur sind meine Brieftauben etwas malade. So möchte ich sie nur ungern auf die Reise schicken, denn wir wollen doch sicher sein, dass sie auch ankommen? Ihr versteht?"
+  --- block 13 text[0] ratio=0.02
+      CHN: 老 者
+      GER: SCHULE AM PALMENHAIN "Ihr seid zurück! Unsere Kinder haben viel gelernt, denn Prof. Wamugo unterrichtet nun auch hier."
+  --- block 13 text[1] ratio=2.36
+      CHN: “纳帕利亚人愈发猖狂……如今毒云笼罩两处据点，森林哨站的家养龙护着棕榈林中的孩子，唯独商人处还剩一条。”
+      GER: Gehe zu Professor WAMUGO.
+      >>> 相似CHN文本: map_xml/_campaign_04_05.xml block 13 (sim=1.00)
+  --- block 15 text[0] ratio=0.04
+      CHN: 毒云 已清除
+      GER: ALLE ORANGENEN DRACHEN! Nun hatten wir die Posten der Waldhüter aufgesucht und die orangenen Drachen gegen die Giftwolke versammelt.
+  --- block 16 text[0] ratio=0.02
+      CHN: 老 者
+      GER: GIFTWOLKE BESEITIGT In Windeseile sammelten sich die Hausdrachen der Waldposten um die Giftwolke um die Stützpunkte der Napalianer zu neutralisieren!
+  --- block 17 text[0] ratio=3.64
+      CHN: 阿夸斯--水龙 “总有不宁之人惹事，实在可耻。我们爱好和平之龙，难得被激出巢……”
+      GER: DER ALTE MANN
+  --- block 18 text[0] ratio=0.04
+      CHN: 纳帕 利亚人
+      GER: AQUAS - DIE WASSERDRACHEN "Es ist eine Schande, dass immer wieder Unruhestifter gibt. Dabei sind wir friedliebenden Drachen selten aus der Reserve zu locken..."
+  --- block 18 text[1] ratio=0.17
+      CHN: “敢再靠近一步！我们绝不会再上当受骗！” “滚开，否则我们被迫动用武器！”
+      GER: "...aber unter diesen Umständen bleibt uns nichts anderes übrig. Im Wasserdrachentempel rüsten wir uns gegen den Feind. Aber nur euer stärkster Held hat Zutritt zu ihm!" Gehe mit Bjarni zum Wasserdrachentempel, wenn du Verstärkung benötigst.
+      >>> 相似CHN文本: map_xml/_campaign_04_05.xml block 18 (sim=1.00)
+  --- block 19 text[0] ratio=0.06
+      CHN: 纳帕 利亚人
+      GER: NAPALIANER "Keinen Schritt näher! Noch einmal werden wir uns nicht in die Irre führen lassen!"
+  --- block 19 text[1] ratio=1.35
+      CHN: “这是你们自找的！我们的武器会将你们消灭。缴纳贡品，我们便重新考虑对你们的态度，但前提是你们立刻离开我们的据点！” 缴纳贡品，使他们恢复中立！
+      GER: "Geht, oder wir sind gezwungen unsere Waffen zu gebrauchen!"
+      >>> 相似CHN文本: map_xml/_campaign_04_03.xml block 19 (sim=1.00)
+  --- block 21 text[0] ratio=0.18
+      CHN: 纳帕利亚人败北！ 纳帕利亚人虽被击败，可若当初本也能和平了结？
+      GER: TRIBUT GELEISTET! "Nun werden wir unsere Haltung zu euch überdenken, aber wagt euch nicht wieder in unser Terrain!" riefen uns die Napalianer zu und änderten ihren Diplomatiestatus uns gegenüber.
+      >>> 相似CHN文本: map_xml/_campaign_04_03.xml block 21 (sim=1.00)
+  --- block 23 text[0] ratio=0.04
+      CHN: 龙族 相助！
+      GER: ALLE DRACHEN VERSAMMELT! Es war unglaublich! Aus alle Himmelsrichtungen strömten unsere alten Freunde die Drachen herbei, um uns zu helfen!
+  --- block 23 text[1] ratio=1.32
+      CHN: 不可思议！四面八方的老友--龙族，纷纷涌来助我们一臂之力！
+      GER: Unter ihnen auch Norbert.
+      >>> 相似CHN文本: map_xml/_campaign_04_05.xml block 23 (sim=1.00)
+  --- block 24 text[0] ratio=0.04
+      CHN: 任务 失败！
+      GER: HILFE DURCH DIE DRACHEN! Es war unglaublich! Aus alle Himmelsrichtungen strömten unsere alten Freunde die Drachen herbei, um uns zu helfen!
+  --- block 24 text[1] ratio=1.10
+      CHN: 一时的轻率，生命便转瞬即逝！比雅尼与希拉之子玛尼，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+      GER: Nun konnten wir gemeinsam gegen die Napalianer vorgehen!
+      >>> 相似CHN文本: map_xml/_campaign_04_01.xml block 100 (sim=1.00)
+  --- block 50_end1 text[0] ratio=0.02
+      CHN: 战役胜利！
+      GER: Die schönste Freude jedoch war es Norbert wieder in die Arme zu schießen. Der kleine Drache war gewachsen und hatte bereits viel von den anderen Erddrachen gelernt und seine ganz eigenen Erfahrungen gemacht. Trotzdem war es, als wäre er nie von uns gegangen. Er und die anderen Drachen waren uns so vertraut und fortan sollten die Menschen und Drachen allerorts in Frieden leben...
+  --- block 50_endheader text[0] ratio=3.59
+      CHN: 任务失败！ 一时的轻率，生命便转瞬即逝！你的挚友、英雄之龙诺伯特，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+      GER: KAMPAGNE GEWONNEN!
+      >>> 相似CHN文本: map_xml/_campaign_04_01_sub3.xml block 08 (sim=1.00)
+
+### campaign_01_02.xml
+  --- block schreinerei4 text[0] ratio=0.20
+      CHN: 提示 木匠已积累足够经验，可制造牛车。这需要再次升级木工坊。 日后木匠还能建造商船。
+      GER: HINWEIS Der Schreiner hat nun genügend Erfahrung gesammelt und könnte auch Ochsenkarren herstellen. Die Schreinerei müsste dazu aber noch ein weiteres Mal ausgebaut werden. Später kann der Schreiner sogar Handelsschiffe herstellen.
+  --- block töpferei3 text[0] ratio=0.20
+      CHN: 提示 陶匠制作瓷砖的经验已足，可制作器皿。这需要再次升级陶艺坊。
+      GER: HINWEIS Der Töpfer hat nun genügend Erfahrung bei der Herstellung von Ziegel erlangt und könnte nun auch Geschirr herstellen. Dazu muss die Töpferei ein weiteres Mal ausgebaut werden.
+
+### campaign_03_03.xml
+  --- block 00_start1 text[0] ratio=0.18
+      CHN: 我们在罗德岛附近的一座小岛上登陆，补充给养，稍作休整。最终我们要渡海前往罗德岛--因为真正的巨像就矗立在那里，等待着我们去完成它。
+      GER: Wir waren auf einer kleinen Insel nahe Rhodos gelandet, um unsere Vorräte aufzufüllen und uns von der Reise etwas zu erholen. Schließlich wollten wir nach Rhodos übersetzen, denn dort war der richtige Platz, um das nächste Weltwunder zu vollenden - eine Statue, welche die Dächer der Stadt überragen sollte. Einen mächtigen Koloss! So hatte der Rat es uns aufgetragen, und wir ahnten, dass dies keine leichte Aufgabe werden würde...
+  --- block 00_start2 text[0] ratio=0.10
+      CHN: 归乡 我们刚一靠岸卸货，儿子玛尼便骤然昏倒，不省人事地躺在沙滩上！ 他的额头滚烫如焚，浑身冷汗涔涔。 玛尼急需医治，岛上却无医生。 我们只得让哈奇与西格德护送他离去。 我们祝福他们，并承诺定将完成巨像以为呼应。
+      GER: DIE HEIMREISE Wir hatten kaum angelegt und die Schiffe entladen, als unser Sohn Mani plötzlich umkippte und besinnungslos am Strand lag! Wir eilten sofort herbei und drehten ihn auf die Seite. Uns bot sich ein Bild des Schreckens! Seine Stirn glühte wie im Feuer, er war von Schweiß durchtränkt und dicke rote Flecken hatten sich über seinen ganzen Körper ausgebreitet! Cyra schluchzte vor Angst und Sorge, denn diese Krankheit war ihr wohl bekannt - ihr waren vor einigen Jahren schon zahlreiche Kinder von Byzanz zum Opfer gefallen! Mani brauchte schnellstens ärztliche Hilfe, doch bei unseren Gefährten fand sich niemand, der in der Heilkunde unterrichtet war. Nach einigen Debatten beschlossen wir schließlich, Mani nach Byzanz an den Hof seines Großvaters zu bringen. Dort würden ihm die besten Ärzte des Reiches bestimmt helfen können - zumindest hofften wir das... Schweren Mutes mussten wir Hatschi und Sigurd mit ihrer Aufgabe alleine lassen, doch die beiden hatten Verständnis für unsere missliche Lage. Wir wünschten ihnen alles Gute und versprachen, sofort zurückzukehren, sobald Mani wieder genesen war. Dann setzen wir Segel gen Byzanz...
+  --- block 00_start3 text[0] ratio=0.11
+      CHN: 我们刚离开船只，便听见远方传来厮杀声与号角！ 我们一时难以辨明声响来自何方。 决定先在此安顿下来。 在岛上落脚，并派出侦察兵。
+      GER: Kaum dass wir unser Schiff verließen, hörten wir Kriegslärm und Hörnerblasen aus der Ferne! Hier herrschte Krieg! Wir konnten nicht genau ausmachen, woher der Lärm über das Meer zu uns drang, doch wir mussten befürchten, dass sich ausgerechnet Rhodos, das Ziel unserer Reise, im Kampf befand! Hatte das Böse sich bereits bis hierhin ausgebreitet? Dann mussten wir uns beeilen und schnell handeln! Wir beschlossen, uns zunächst hier niederzulassen und Kundschafter auszuschicken, die herausfinden sollten, was genau in Rhodos vor sich ging. Lass dich auf der Insel nieder und sende Kundschafter nach Rhodos. Benutze deine Briefe und die Waren aus dem Schiff.
+  --- block 10 text[0] ratio=0.18
+      CHN: 奥克索斯 这是奥克索斯岛。一座小巧而宁静的孤岛。宜作短途度假，可惜谁又有这等闲情？ 奥克索斯岛上蕴藏丰沛的铁矿与金矿。 他们定也乐与你交易。
+      GER: OXIDOS Dies ist die Insel Oxidos. Ein kleines, sehr beschauliches Eiland. Ideal für einen kleinen Kurzurlaub, aber wer hat schon Zeit für so was? ... Nun, auf Oxidos gibt es mächtige Eisen- und Goldvorkommen. Die Menschen auf der Insel leben vom Fischfang und vom Handel mit Erzen aller Art. Sie freuen sich über jedes gute Geschäft, das sie machen können und sind überhaupt ein fröhliches Völkchen. Bestimmt handeln sie auch gerne mit dir.
+  --- block 20 text[0] ratio=0.19
+      CHN: 克洛诺斯 你抵达了克洛诺斯。此处住着武器商与货商，他们以精良货品闻名整个地中海。 若要交易，便须缴纳贡品。
+      GER: CHRONOS Du hast Chronos erreicht. Hier leben Waffen- und Warenhändler, die im ganzen Mittelmeerraum für ihre exzellenten Waren bekannt sind. Allerdings sind sie auch so begehrt, dass sie es sich erlauben können, einen Preis zu verlangen, bevor man mit ihnen tauschen darf. Zahle Tribut, wenn du handeln willst.
+  --- block 201 text[1] ratio=0.15
+      CHN: 听着：数周来，我们的城池一直被德米特里奥斯王及其大军围困！ 去见镇长佩特罗斯！他统领我们。 …… 若你真是奸细，定无好下场！"
+      GER: Hört: Seit Wochen schon wird unsere Stadt von König Demetrios und seinem Heer belagert! Noch können wir unsere Stadt zwar halten, aber es sieht schlecht aus! Die Angriffe werden immer heftiger, und unsere Männer sind vom Kampf sehr erschöpft. Geh zu Petros, unserem Bürgermeister! Er führt unsere Truppen und hat einen Plan ausgearbeitet, wie wir Demetrios besiegen können! Du findest ihn in seinem Haus in der Nähe des byzantinischen Viertels. ... Und wehe dir, wenn du ein Spion bist!"
+  --- block 260 text[1] ratio=0.20
+      CHN: 那里水草丰美，林木葱茏满是野物，资源取之不尽。 不过说实话--在南方，我过得更好……
+      GER: Dort gab es saftige Weiden, herrliche Wälder voller Wild und Rohstoffe ohne Ende. Seit ich aber alt bin und mir die Kraft fehlt, meine Felder zu bewirtschaften, bin ich in die Stadt gezogen. Aber um ehrlich zu sein - mir hat es im Süden besser gefallen!"
+  --- block 270 text[1] ratio=0.13
+      CHN: 数周来，我们的城池一直被德米特里奥斯及其大军围困。处境日益绝望！ 佩特罗斯已订下良策…… 可惜佩特罗斯他，呃，怎么说呢……有些怕雨。 去寻找我的妹妹……她常在城东神庙。 待雨歇了，佩特罗斯或许会走出房门。"
+      GER: Seit Wochen schon wird unsere Stadt von Demetrios und seinem Heer belagert. Unsere Lage wird immer verzweifelter! Petros hat aber bereits einen Plan ausgearbeitet, wie wir gegen die Belagerer vorgehen können. Einen gefährlichen Plan, soviel ist sicher! Leider ist Petros, ähm, wie soll ich sagen, ... etwas regenscheu. Bei diesem Wetter setzt er keinen Fuß vor die Tür und möchte nur seine Ruhe haben. Petros kann dir helfen, ist aber Regenscheu. Sitzt drin und setzt keinen Fuß vor die Tür... Such meine Schwester... sie ist oft beim Tempel im Ostteil der Stadt und pflegt dort den Garten. Du erkennst sie leicht. Sie ist etwas schlanker... ähem... als ich, aber sonst mir zum verwechseln ähnlich... Sie versteht es, mit den Götter des Windes und des Wetters zu reden. Sie ist eine mächtige Zauberin. Such sie, vielleicht kann sie etwas gegen den Regen machen. Und wenn der Regen aufhört, kommt Petros vielleicht raus, um mit dir zu reden..."
+  --- block 273 text[1] ratio=0.11
+      CHN: 那么，且听我之计： 我们在敌营安插了一名眼线，名叫梅特罗斯。他是个商人，专给敌军补给…… 我家地下藏着一条秘密通道，直通城外。 林多斯是东南海港，向来与罗德交好。 计划很简单，本应万无一失…… 你们愿替我们担此任？当真？！ 那么，推一辆满载蜜酒的手推车来此。 后会有期！"
+      GER: Also, dann hört meinen Plan: Wir haben einen Spitzel im Feindeslager. Metros ist sein Name. Er ist Händler und versorgt die feindlichen Truppen mit vielerlei Waren. Aber in seinem Herzen ist er ein Freund Rhodos' und wird jederzeit sein Leben für das Wohl der Stadt aufs Spiel setzen! Unter meinem Haus gibt es einen geheimen, unterirdischen Gang, der in einer Höhle nahe Metros' Lager endet. Mein Plan ist es, Metros durch diesen Gang mit Met zu versorgen! Damit kann er den feindlichen Soldaten eine Runde Freimet ausgeben und sie so für eine Weile ablenken! Diese Zeit muss man nur nutzen, um sich an den Truppen vorbeizuschleichen und sich nach Lindos durch zu schlagen. Lindos ist eine Hafenstadt im Südosten, und sie waren immer gute Freunde von uns. In der Nähe der Stadt gibt es ein Orakel. Dieses müssen wir befragen! Das Orakel wird bestimmt einen Rat wissen, wie wir Demetrios besiegen können! Der Plan ist einfach, und eigentlich kann nichts schief gehen! Metros ist schon informiert, er wartet nur auf die Lieferung. Ich würde ja selbst gehen, aber ihr müsst wissen - mein Rücken! Ach, der schmerzt mich derart! Ich würde kaum das Ende des Ganges erreichen! Übernehmt ihr die Aufgabe für uns? Ja?! Nun, dann bringt einen Handkarren voll Met hierher. Ich lasse euch dann in den Geheimgang rein und ihr könnt Metros die Lieferung bringen. Einen Handkarren könnt ihr eventuell bei Oxos am Markt kaufen. Bis später dann!"
+  --- block 280 text[1] ratio=0.10
+      CHN: 须知，纵使我曾是一大方维京部族之主，却始终难耐冰雪严寒。 东南方有座可爱的城！名曰林多斯……
+      GER: Wisst ihr, auch wenn ich früher Herrscher eines großen Wikingervolkes war, konnte ich den Schnee und die Kälte doch nie so recht leiden. Darum bin ich vor einigen Jahren hier in den Süden gezogen. Ist viel wärmer hier. Gut für die alten Knochen, sag ich. Hoho. Im Südosten gibt es eine hübsche Stadt! Lindos heißt sie. Müsst ihr unbedingt mal besuchen. Haben leckeren Wein! Ich kenne da auch einen geheimen Pfad durch die Berge! Schwer zu finden, aber mit sehr schönem Ausblick auf's Meer. Wenn ihr den sucht, haltet nach Schatzkisten Ausschau..."
+  --- block 315 text[1] ratio=0.18
+      CHN: 我在此与德米特里奥斯的士兵做买卖。一门肥差，你们懂的，嘿嘿嘿。他们什么都买…… 眼下我虽帮不上忙，但改日或许能助你们一臂之力……
+      GER: Ich mache hier meine Geschäfte mit den Soldaten von Demetrios. Ein lukratives Geschäft, müsst ihr wissen, hehehe. Was die alles kaufen... Dennoch - mein Herz schlägt eigentlich für Rhodos. Und man muss das Geschäftliche stets vom Privaten trennen, sag ich immer... Nun, momentan kann ich nichts für euch tun, aber geht in Rhodos zum Bürgermeister. Petros ist sein Name. Er kann euch vielleicht weiter helfen."
+  --- block 320 text[1] ratio=0.13
+      CHN: "啊，你们来了。我正候着你们。是打密道过来的，对吧？ 多谢你的蜜酒！我看看能否拿它换些情报…… 啊对了--这还有传送门的钥匙。 再把这几件武器拿上。途中或许用得着。 务必小心！在此隐蔽，待敌军撤走。 祝好运！"
+      GER: "Ah, da seid ihr ja. Ich habe euch schon erwartet. Seid durch den Geheimgang gekommen, was? Ich liebe solche unterirdischen Gangsysteme, wisst ihr? Mein Vetter im fernen Lutetia gräbt dort unter der Stadt ganz viele solcher Stollen. Um den Verkehr zu entlasten, meint er. War schon immer sehr tüchtig, der Gute... Danke für den Met! Ich werd mal sehen, ob ich mit ner Freirunde die Soldaten von euch ablenken kann... Wenn sie sich über das Gebräu hermachen, schaut zu, dass ihr schnell durch ihre Linien kommst. Wartet aber hier, bis der Weg frei ist... Ach so - hier ist noch der Schlüssel für den Teleporterraum im Geheimgang. Falls da noch mal jemand durch muss, macht das den Weg deutlich kürzer. Und nehmt noch diese Waffen hier. Es kann sein, dass der Pfad nach Lindos verteidigt wird! Dann müsst ihr euch durchkämpfen. So, nun aber los... Passt gut auf euch auf! Versteckt euch hier, bis die Soldaten vorbei sind. Und dann sputet euch! Viel Glück!"
+  --- block 340 text[1] ratio=0.19
+      CHN: "啊，幸会，外乡人。你们是如何穿过敌军防线的？定然不易吧？ 你们寻找神谕？唔。这个嘛……神谕庙在东方海上。 嗯……让我想想……对了。去港口。 我的"秘书"塞克拉塔里奥斯应与你同往。一切交由他安排。"
+      GER: "Ah, seid gegrüßt, Fremde. Wie seid ihr nur durch die feindlichen Linien gekommen? War bestimmt nicht leicht, oder? Ihr sucht das Orakel? Hm. Nun, der Tempel des Orakels liegt auf einer Insel im Osten. Die ist meist von einem undurchdringlichen Nebel geschützt... Und ein Schiff bräuchtet ihr auch... Hmmmm... lasst mal überlegen... Ja. Geht zum Hafenmeister Buerokrates. Richtet ihm meinen Gruß aus. Er soll euch ein Schiff geben. Und zusehen, ob er was gegen den Nebel machen kann. Mein Sekretär soll mit dir gehen. Er wird alles weitere für euch regeln. Ruht euch solange hier aus, wenn ihr mögt."
+  --- block 40 text[0] ratio=0.15
+      CHN: 罗德岛 著名的罗德港城，位于同名岛屿北部。旅人相传，罗德岛是爱琴海最秀美的岛屿之一。 街巷间随处可见士兵，他们正严阵以待。 罗德被围困了！城中战云密布。 然只要战事未息，便无从着手建像。 我们决定先探查局势，再图后计。 在城中寻访线索，看看如何帮助罗德人……
+      GER: RHODOS Die berühmte Hafenstadt Rhodos, im Norden der gleichnamigen Insel. Reisende erzählen sich, Rhodos wäre eine der schönsten Insel der Ägäis. Doch was WIR sahen, gefiel uns ganz und gar nicht! Überall waren Soldaten in den Strassen zu sehen, die aufgeregt und in Eile umherliefen. Und von den Stadtmauern vernahmen wir Schlachtenlärm. Rhodos wurde belagert! Es herrschte Krieg in der Stadt! Doch solange Krieg herrschte, war es unmöglich, unser Vorhaben in die Tat umzusetzen - einen Koloss zu erbauen, den man noch in Jahrhunderten als Weltwunder bezeichnen würde! Wir mussten also einen Weg finden, den Krieg zu beenden. Doch wie sollten wir das machen? Schließlich konnten wir ja kaum gegen ein ganzes Heer antreten... Wir beschlossen, die Lage zunächst zu erforschen und nach Informationen zu suchen. Bestimmt fanden sich in der Stadt Leute, die uns weiter helfen konnten... Suche in der Stadt nach Informationen, wie du vielleicht helfen kannst.
+  --- block 410 text[0] ratio=0.16
+      CHN: 赫利俄斯之罚 当我们踏出神庙、重见天日，赫利俄斯便施展了他的神力！ 一阵剧烈震动撼动了大地，耀眼金光…… 赫利俄斯兑现了诺言！罗德终获自由！ 如今轮到我们，去矗立那尊本应在此的巨像了。
+      GER: DIE STRAFE DES HELIOS Als wir aus dem Tempel ins Licht des Tages traten, lies Helios seine Macht spielen! Ein gewaltiges Beben erschütterte die Erde, gleißende Strahlen brannten auf das Heer des Demetrios nieder! Geblendet wandten wir den Blick ab, und als wir es nach Minuten wagten, die Augen zu öffnen, war Demetrios mit all seinen Leuten vom Erdboden verschwunden! Helios hatte Wort gehalten! Rhodos war befreit! Nun war es an uns, die Statue zu errichten, die der Preis für die Hilfe sein sollte. War es Zufall oder Schicksal - es gab keinen Zweifel, dass dieser Koloss genau jenes WELTWUNDER war, welches wir zu errichten aufgebrochen waren!
+  --- block 420 text[1] ratio=0.14
+      CHN: 唯有凭你们的勇气与无畏，我族才免于覆灭！ 纵使我深明这份重担…… 我们愿立起巍峨巨像，敬奉太阳神赫利俄斯。 此刻便先谢过你们的相助！ 前往林多斯寻找卡瑞斯。
+      GER: Nur durch euren Mut und eure Tapferkeit konnte unser Volk vor dem sicheren Untergang gerettet werden! Auch wenn ich mir der tiefen Schuld bewusst bin, in der mein Volk euch gegenüber steht, so habe ich doch noch eine weitere Bitte: Wir wollen gerne den mächtigen Koloss zu Ehren des Sonnengotte Helios errichten! Doch in unserer Stadt gibt es keinen, der das nötige Wissen dazu hätte. In Lindos jedoch lebt der große Baumeister Chares! Gehe zu ihm und bitte ihn, dass er diese ehrenvolle Aufgabe für das Volk von Rhodos übernimmt. Es soll sein Schaden nicht sein! Habt schon jetzt Dank für eure Hilfe!" Such Chares in Lindos auf.
+  --- block 423 text[1] ratio=0.17
+      CHN: 他近日操劳过度，想稍作休整。去透几日新鲜空气，你懂的。 我想他是想去……
+      GER: Er hatte in letzter Zeit so viel Arbeit, dass er sich etwas erholen wollte. Ein paar Tage frische Luft schnappen, du verstehst? Ich glaube, er wollte Fischen gehen! Er hat da so sein geheimes Revier. Er hat mir allerdings nie erzählt, wo das ist..."
+  --- block 424 text[1] ratio=0.12
+      CHN: 他正坐在北边海滩上钓鱼呢。嘻嘻！ 是呀，那好老头卡瑞斯……
+      GER: Der sitzt nördlich von hier am Strand und versucht, Fische zu fangen. Hihi! So wie ich ihn kenne, wird er gerade mal eine mickrige Makrele an Land ziehen und dann wieder allen hier erzählen, er hätte einen RIESIGEN Walfisch erlegt. Hehehe. Jaja, der gute, alte Chares..."
+  --- block 430 text[1] ratio=0.20
+      CHN: 我们说明了来意，他却似乎兴致缺缺。 "你们瞧见，我正偷得浮生半日闲！自个儿…… 要我为赫利俄斯神立一尊巨像？ …… 这差事倒怪有趣的…… …… 罢了。我想，这能撩起我的兴致。但有个条件-- 你们须助我完成此举！我可不愿再被坑一回。 那么，意下如何？"
+      GER: Wir erklärten ihm unser Anliegen, doch er schien nicht sonderlich begeistert zu sein. "Ihr seht doch, dass ich mir gerade etwas Freizeit gönne! Selten genug, bei all der Arbeit! Und jetzt wollt ihr mich auch noch dazu bringen, meinen wohlverdienten Urlaub zu unterbrechen! ... Einen Koloss soll ich bauen, zu Ehren des Gottes Helios, was? ... Na, interessant wäre die Sache ja schon... Also gut. Ich denke, das könnte mich reizen. Aber nur unter einer Bedingung: Ihr müsst mir bei dem Vorhaben helfen! Ich möchte schleunigst wieder zu meinen Fischen zurück, also habt ihr mir gefälligst die nötigen Baustoffe zu liefern! Ansonsten sehe ich mich leider außerstande, eurer Bitte nachzukommen... Also, wie steht's?"
+  --- block 440 text[0] ratio=0.16
+      CHN: 我们思忖片刻，终是应允了卡瑞斯的提议。毕竟我们此来，正是为建这世界奇迹。 既已向卡瑞斯许下援手，我们便随他去了。
+      GER: Nun, wir überlegten eine Weile und stimmten schließlich dem Vorschlag von Chares zu. Immerhin waren wir gekommen, um das Weltwunder zu errichten. Umso besser, wenn ein berühmter Baumeister und da helfen würde. Nachdem wir Chares unsere Unterstützung zugesagt hatten, begab er sich umgehend nach Rhodos, um sich dort mit dem Bürgermeister zu treffen. Auch wir machten und auf den Weg in die Stadt.
+  --- block 450 text[1] ratio=0.11
+      CHN: 议题包括纪念碑的形制、高度、用料、安放之处，以及--价…… 最终议定，巨像立于港口近旁。 基座须以最上等的大理石砌成，其上再饰以…… 这乃浩大工程，卡瑞斯索价不菲。 待一切议定，他们便动身去了。 向卡瑞斯运送 25 大理石（缴贡）。
+      GER: Es ging darum, wie das Monument aussehen sollte, wie hoch, aus welchem Material es zu erschaffen sei, wo man es am besten hinstellen sollte und - was Chares am wichtigsten schien - welchen Lohn er dafür bekommen sollte. Schließlich einigte man sich darauf, in der Nähe des Hafens einen 18 Meter hohen Koloss zu bauen. Sein Fundament sollte aus feinstem Marmor bestehen, darauf sollte ein Eisengestell gebaut werden und mit Lehm und Steinen gefüllt werden, um ihm Stabilität zu verleihen. Schließlich plante man, das ganze mit einem Mantel aus Gold zu umgeben, um die Pracht und Güte des Gottes Helios gerecht zu werden. Es war ein gigantisches Vorhaben, und Chares verlangte auch einen entsprechenden Lohn von den Stadtvätern. Sie machten einen Preis aus, für den Chares das Monument errichten würde. Inklusive Material und Arbeitskraft. Als schließlich alles beschlossen und verabredet war, ging es an den Bau. Im Hafen wurde ein Lagerschuppen abgerissen. Dort sollte der Koloss errichtet werden. Chares wandte sich nun an uns und verlangte von uns, ihm 25 Marmor für das Fundament zu liefern. Liefere Chares 25 Marmor (per Tribut).
+  --- block 455 text[1] ratio=0.17
+      CHN: 其势恢宏，已让人想见此地终将矗立何等巨制…… 卡瑞斯着手……
+      GER: Mächtig war es anzusehen und es lies bereits erahnen, welch gigantisches Meisterwerk hier einmal seinen Platz finden sollte... Als Chares mit dem Fundament fertig war, rief ihn der Bürgermeister zu sich.
+  --- block 465 text[0] ratio=0.18
+      CHN: 这便是其中的玄机！双倍高度，双倍价钱！ 卡瑞斯得的并非双倍，而是八倍的量。 我们本想警告他，可他已向镇长许下承诺。 唉，这下可有好戏看了…… 他转而向我们要那核算好的材料。 向卡瑞斯运送 5 金、10 黏土与 10 碎石（缴贡）。
+      GER: Das also war der Trick an der Sache! Doppelte Höhe bei doppeltem Preis! Was auf den ersten Blick wie ein fairer Handel schien, entpuppte sich bei näherem Betrachten als geschickte Finte der rhodischen Handelsleute: Chares würde nicht doppelt soviel, sondern achtmal soviel Material benötigen! Was natürlich seine Kosten enorm in die Höhe treiben würde. Eine Rechnung, die für ihn niemals aufgehen könnte! Wir wollten ihn noch warnen, aber da hatte er dem Bürgermeister bereits zugesagt. Nun, das konnte ja heiter werden... Von uns verlangte er nun, ihm das berechnete Material für die Statue zu beschaffen. Dazu gehörten Gold, Lehm und Bruchstein. Liefere Chares 5 Gold, 10 Lehm und 10 Bruchstein (per Tribut).
+  --- block 470 text[0] ratio=0.18
+      CHN: 我们向卡瑞斯交付了所需建材，他便一径建造。然而尽管最终材料用尽，巨像却仅…… 卡瑞斯先前按整座巨像所需备料，此刻……
+      GER: Wir lieferten Chares das gewünschte Baumaterial und er baute und baute. Doch obwohl er schließlich alles Material verbraucht hatte, standen gerade mal die Füße des Kolosses... Chares, der zuvor die nötige Menge für die GESAMTE Statue genau berechnet hatte, war völlig entgeistert! Wie konnte es sein, dass er sich dermaßen verrechnet hatte? Das war doch völlig unmöglich!!
+  --- block 470 text[1] ratio=0.17
+      CHN: 这正是我们预料之中！卡瑞斯被罗德人狠狠宰了一刀，此刻他才恍然。 我们虽早有疑虑，有时却不妨顺其自然。 向卡瑞斯再运送 5 金、10 黏土与 10 碎石（缴贡）。
+      GER: Genau DAS hatten wir kommen sehen! Chares war von den Rhodern kräftig übers Ohr gehauen worden, und das merkte er nun endlich. Aber trotz allem war ihm die Tragweite der Täuschung scheinbar nicht bewusst, denn er verlangte von uns nochmals die gleiche Menge an Material. Das müsste dann seiner Rechnung nach ausreichen. WIR waren da etwas skeptisch, aber es ist manchmal besser, wenn man von einem Unglück in kleinen Portionen erfährt... Liefere Chares nochmals 5 Gold, 10 Lehm und 10 Bruchstein (per Tribut).
+  --- block 480 text[1] ratio=0.14
+      CHN: 卡瑞斯暴跳咒骂，因为他明白自己被蒙骗得多深，所有指望的盈利皆成泡影。 他去找佩特罗斯，欲与之重订契约。 向卡瑞斯再运送 10 金与 10 铁锭（缴贡）。
+      GER: Chares tobte und fluchte, denn ihm war klar, wie sehr er hinters Licht geführt worden war und dass all sein erhoffter Gewinn hinüber sie. Ja er müsse gar noch einen Großteil der Kosten aus seiner eigenen Tasche bezahlen müssen! Er machte sich auf zu Petros, um mit diesem einen neuen Preis zu verhandeln, doch vergebens. "Ein Wort ist ein Wort, oh edler Chares." Das waren die knappen Worte des Bürgermeisters, den das Schicksal des armen Architekten in keiner Weise zu bewegen schien. Chares blieb also nichts anders übrig als sein Werk zu vollenden... Liefere Chares nochmals 10 Gold und 10 Eisen (per Tribut).
+
+### campaign_03_03_sub1.xml
+  --- block 120 text[0] ratio=0.17
+      CHN: 增援 佩特罗斯又派来几名部下作为增援。
+      GER: VERSTÄRKUNG Petros schickt dir noch ein paar Männer als Verstärkung. Mehr Hilfe kann er dir allerdings nicht mehr anbieten...
+      >>> 相似CHN文本: map_xml/campaign_03_03_sub2.xml block 120 (sim=1.00)
+
+### campaign_03_03_sub2.xml
+  --- block 120 text[0] ratio=0.17
+      CHN: 增援 佩特罗斯又派来几名部下作为增援。
+      GER: VERSTÄRKUNG Petros schickt dir noch ein paar Männer als Verstärkung. Mehr Hilfe kann er dir allerdings nicht mehr anbieten...
+      >>> 相似CHN文本: map_xml/campaign_03_03_sub1.xml block 120 (sim=1.00)
+
+### campaign_03_04.xml
+  --- block 112 text[0] ratio=1.32
+      CHN: 哈利卡纳苏斯市民 "你们听过海盗？他们住在城外不远的海岛上！
+      GER: BÜRGER VON HALIKARNASSOS
+
+### campaign_03_05.xml
+  --- string 3 ratio=0.18
+      CHN: 设法排退沼泽、加固神庙工地。
+      GER: Suche eine Möglichkeit den Sumpf zurückzudrängen und den Tempelbauplatz zu befestigen.
+  --- block 23 text[1] ratio=0.19
+      CHN: 哈奇决意细察神庙上方之地。
+      GER: Hatschi beschloss, sich das Gebiet oberhalb des Tempels genauer anzuschauen.
+
+### campaign_03_06.xml
+  --- block 00_start text[0] ratio=0.13
+      CHN: 我们的下一个任务要求我们建造一座宏伟的宙斯巨像。 诸族议会发现，这必是下一座蕴含神秘力量的世界奇迹--传说能封印黑暗。 我们只能寄望议会无误，世界奇迹真能将黑暗逐出大地……
+      GER: Unsere nächste Aufgabe verlangte von uns, eine mächtige Zeusstatue zu errichten. Der Rat der Völker hatte herausgefunden, dass dies das nächste Weltwunder sein musste, in welchem geheimnisvolle Kräfte zur Abwendung des Bösen schlummerten. Angesichts der ständig zunehmenden Gefahren konnten wir nur hoffen, dass der Rat recht hatte und die Weltwunder die Dunkelheit tatsächlich von der Erde würden verbannen können... Wir mussten die Völker der Umgebung von Olympia überzeugen, bei der Errichtung dieser Statue zu helfen, denn ohne ihre Hilfe würde der Bau viel zu lange dauern. Doch hatten wir selbst arge Probleme... Ein starker Sturm hatte unsere Schiffe bei der Anreise getrennt. Unsere Frauen und Männer mussten an einer anderen Stelle der Halbinsel gelandet sein.
+  --- block 19 text[0] ratio=0.19
+      CHN: 老者 "这工地恰宜建仓--正居于撒拉逊集市两间商行正中。
+      GER: DER ALTE MANN "Dieser Bauplatz ist perfekt geeignet für ein Lagerhaus, denn er befindet sich genau mittig zwischen den beiden Handelshäusern der Sarazenenmärkte.
+
+### campaign_03_07.xml
+  --- block 00_start text[0] ratio=0.16
+      CHN: 帝王谷的无穷壮美在我们眼前展现。吉萨金字塔建于第四王朝胡夫、哈夫拉、门卡拉三王之治。其远古之龄，令我们深生敬畏。 这四面可攀的层级金字塔，今须由我们来唤醒其中沉睡的力量。
+      GER: Die unendliche Schönheit des Tals der Könige breitete sich vor uns aus. Die Pyramiden von Gizeh wurden zur Zeit der 4. Dynastie von den Königen Cheops, Chepren und Mykerinos errichtet. Ihr Alter hauchte uns tiefe Ehrfurcht ein. Die allseitig erklimmbaren Schichtpyramiden sollten nun von uns und den anderen Völkern wie einst an ihren Außenflächen weiß verkleidet und geglättet werden, so dass sie bei Tag wie Kristalle in der Sonne leuchten oder bei Nacht unter den Sternen und im gleißenden Mondlicht geheimnisvoll schimmern. Damit sollte jene geheimnisvolle Macht, die in jedem der Weltwunder schlummerte, wieder aktiviert werden.
+
+### campaign_03_08.xml
+  --- block 00_start text[0] ratio=0.19
+      CHN: 我们登上那岛，岛心矗一巨柱方尖碑--第八大奇迹。远望便见。据诸族议会预言，它当汇聚他奇迹之力，借此逐出黑暗。 这项伟业，最终落在了我们肩上。
+      GER: Wir landeten auf jener Insel, in deren Mitte ein mächtiger Obelisk - das Achte Weltwunder - thronte. Schon von weitem konnten wir ihn sehen. Nach den Vorhersagungen des Völkerrates sollte er die Energien der anderen Wunder in sich bündeln und damit die dunklen Mächte bannen. Als dies nach Fertigstellung der anderen sieben Wunder nicht geschehen war, sandte uns der Völkerrat zu diesem Ort, um dem Rätsel auf den Grund zu gehen...
+  --- block 09 text[1] ratio=0.19
+      CHN: 三区区长相聚，不消多时便和解了。因各以为，是先迈步者乃对方。 各区所藏圣物，他们共行大典，归置于方尖碑前预定之处。 三区长皆留驻此地，亲守此所！
+      GER: Als sich die Bürgermeister der Stadtteile zusammenfanden, dauerte es nicht mehr lange, bis sie sich versöhnten. Denn jeder dachte von dem anderen, er hätte den ersten Schritt getan. Die Artefakte, die jeder einzelne Stadtteil beherbergte, legten sie gemeinsam in einer feierlichen Zeremonie an den dafür vorgesehenen Platz am Obelisken zurück. Jeder der drei Bürgermeister blieb dort und bewachte diesen Platz persönlich!
+  --- block 16 text[1] ratio=0.20
+      CHN: "若你寻沼泽部族：唯舟可至。然当心，近处诸岛暗藏险阻！"
+      GER: "Falls ihr auf der Suche nach dem Moorvolk seid: ihr könnt sie nur mit Booten erreichen. Aber gebt Acht, es verbergen sich einige Gefahren auf den nahegelegenen Inseln!"
+
+### demo_mainmenu_10.xml
+  --- block 02 text[0] ratio=0.09
+      CHN: 寻找一处合适的登陆地点。 注意：地形的细微之处可能会在这个阶段产生重大影响--仔细寻找合适的位置。
+      GER: Kaum waren wir an Land gegangen und hatten begonnen unser Lager aufzuschlagen, ereilte uns eine Nachricht der Einwohner Alexandrias. Doch traurig und erschreckend war ihre Kunde: Ein großer Teil des Leuchtturms war bereits zerstört und wenn wir nicht schnell handeln würden wäre dieses Weltwunder den nächsten Erschütterungen kaum standhalten können! Viele Abbauer anderer Nomadenstämme aus der Umgebung bauten bereits tüchtig Stein ab. Leider hatten sie nicht die nötigen Träger und Händler, um sie in einem nahen Lagerhaus am Leuchtturm zu bringen. Bringe 100 Steine und 50 Marmorblöcke zum Leuchtturm.
+  --- block 03 text[0] ratio=0.10
+      CHN: 在这里开始建设一个小型定居点。 但别着急--先只建造最必需的东西，并照顾好你的维京人。
+      GER: Wir hatten die benötigten Waren im Lagerhaus am Leuchtturm abgeliefert und die Bewohner Alexandrias dankten es uns. Trotzdem ging die Arbeit nur mühsam voran. Vor kurzem hatten Vagabunden in den Bergen den Ingenieur des Bauwerkes entführt und seitdem wusste niemand so richtig, wie er gebaut werden sollte. Vielleicht ließen die Vagabunden aber auch mit sich reden und man konnte eine friedliche Einigung finden... Befreie den Architekten Sostratos aus dem Vagabundenlager und bringe ihn zum Leuchtturm.
+  --- block 04 text[0] ratio=0.05
+      CHN: 找到了好位置吗？ 那就开始 建造吧……
+      GER: VAGABUNDEN "Hey! Ihr da! Wir dulden keine Eindringlinge in unserem Dorf! Oder seid ihr hier das Lösegeld für den Architekten Sostratos zu bezahlen! Das geforderte Lösungsgeld ist allerdings nicht mehr ausreichend! Wir wollen mehr und außerdem könnt ihr Wikinger fantastisch Met ansetzen, so sagt man. Auch davon wären uns ein paar Fässer recht willkommen!" Zahle den Tribut oder vertreibe die Vagabunden von diesem Landstrich!
+  --- block 05 text[0] ratio=0.10
+      CHN: 这些是最重要的建筑。 注意它们的建 造顺序和位置。
+      GER: VAGABUNDEN "Euer Bier hat uns gemundet, falls ihr uns noch ein paar Fässer gebt könnt ihr euch ungehindert in unseren Lager umsehen und euch mitnehmen was ihr wollt - sogar den Architekten Er ist uns eh zu nichts nütze!" Zahle den Tribut oder vertreibe die Vagabunden von diesem Landstrich!
+  --- block 07 text[0] ratio=0.07
+      CHN: 还有一些其他重要的事情需要处理。 完成这些任务之后，你的维京人至少能暂时站稳脚跟。
+      GER: Die benötigten Waren wurden aufgebraucht und der Architekt Sostratos, der sein Handwerk verstand, gab die nötigen Anweisungen dazu. Bald stand de Leuchtturm in alter Pracht vor uns und kein Erdbeben dieser Welt sollte ihn den Erdboden gleichmachen können! Aber Irgendetwas fehlte noch. Zwar Stand der Leuchtturm wie ein Fels in der Brandung, aber er wies keinem Seefahrer den Weg in die Stadt, denn ihm fehlte sein Leuchten. Kein gewöhnliches Feuer sollte an der Spitze dieses Weltwunders brennen, die Alexandriner wollten das heilige Feuer aus den Bergen zurückerobern. Abtrünnige Sarazenennomaden benutzten es in ihren Bergwerken zum Goldabbau. Suche nach dem heiligen Feuer im Südwesten und bringe es zum Leuchtturm.
+  --- block 14 text[0] ratio=0.15
+      CHN: 我们向维京人缴纳了所要求的货物作 为贡品，他们便承诺给予我们支持。
+      GER: Wir hatten den Wikingern die geforderten Waren als Tribut gereicht und sie boten uns ihre Unterstützung an. Wir konnten in ihren Reihen ein weiteres Dorf errichten und ihre Soldaten wollten uns in kämpferischen Auseinandersetzungen zur Seite stehen.
+  --- block 15 text[0] ratio=0.16
+      CHN: 与世隔绝的沙漠中，一片小小的绿洲在我们面前展开。 这是个可以短暂休息的好地方。
+      GER: Unberührt von der restlichen Welt tat sich hier eine kleine Oase inmitten der Wüste vor uns auf. Hier verlief alles noch in ruhigen Bahnen, die Menschen waren freundlich und entgegenkommend. Und ahnte wie dringlich unsere Mission war, die Weltwunder erneut zu errichten...
+  --- block 21 text[0] ratio=0.17
+      CHN: 游牧民族发现他们无法抵挡我们的战术和战斗力，便主动提出谈判。
+      GER: Als das Nomadenvolk sah, dass es unserer Taktik und Kampfesstärke nichts entgegenzusetzen hatte, gaben sie schließlich auf und überließen uns widerwillig ihre Goldvorkommen und gaben ihren Bergbau auf.
+  --- block 22 text[0] ratio=0.12
+      CHN: 起初我们以为只是海市蜃楼。但沙漠中确实站着一位老者！他从何而来，只有奥丁才知道…… “我被抢劫了！被那些混蛋……” 老人气喘吁吁地讲述了遭遇。 他的儿子好像被歹徒抓走了！
+      GER: Zuerst dachten wir, es sei eine Fata Morgana. Doch tatsächlich stand plötzlich mitten in der Wüste ein alter Mann vor uns! Woher er kam, weiß nur Odin alleine... "Ausgeraubt wurde ich! Von diesen elenden Vagabunden in den Bergen im Osten!" fluchte der alte Greis, als er uns entgegenkam. "Für mich alten Menschen hatten sie keine Verwendung und ließen mich frei, aber den armen Ingenieur, den sie gefangen halten, erwartet gewiss ein schlimmeres Schicksal! Möge Allah mit ihm sein..." "In der weiten, weiten Wüste kann man sich leicht verlaufen", flüsterte uns der alte Mann zu. "Ich komme aus dem Norden und das Land dort ist staubig und leer, im Süden gibt es nur vereinzelt einige Nomadendörfer und schweift man mit den Blick nach Westen, kann man das Leuchten der güldenen Kuppeln der Stadt Alexandria erkennen."
+  --- block 23 text[0] ratio=0.17
+      CHN: 这片土地充满了惊喜！突然我们遇到一位拄着弯杖的老人。 “哦，又是维京人！”老人咕哝道，“这里有足够的建筑供你们使用。”
+      GER: Dieses Land war voller Überraschungen! Plötzlich trafen wir auf einen alten Mann, der sich schwer auf einen krummen Stock stützte. "Oh, noch mehr Wikinger!", murmelte der alte Mann. " Hier gibt es bald mehr Wikinger als Sarazenen! Aber die Nordländer westlich von hier sind eigentlich nette, wenn auch etwas raue Gesellen, die allerdings nicht viel für die das Bergvolk im Süden übrig haben..."
+  --- block 27 text[0] ratio=0.16
+      CHN: 地震！！！ 我们在此地待了没多久，大地便开始剧烈震动。
+      GER: ERDBEBEN!!! Noch nicht lange verweilten wir in diesem Gebiet, aber diese Erdbeben hatten ein gewaltiges Ausmaß! Lange hielt der beschädigte Leuchtturm den Beben bestimmt nicht mehr stand!
+  --- block 32 text[0] ratio=0.20
+      CHN: 亚历山大城付给我们原先要求的赎金。这个可敬的民族履行了承诺！
+      GER: Alexandria gab uns das ursprünglich geforderte Lösegeld von 140 Münzen und stellte uns einige Soldaten zur Verfügung, um die Vagabunden zu stellen und den Ingenieur zu befreien.
+  --- block 400 text[1] ratio=0.14
+      CHN: 不幸降临--建筑遭到破坏，所有的努力付诸东流。
+      GER: Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Sigurd erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+  --- block 50_end1 text[0] ratio=0.18
+      CHN: 亚历山大城的居民感激万分。作为一名维京人，我为完成了如此伟大的建设而感到自豪！
+      GER: Der Bewohner Alexandrias zeigten sich voller Dankbarkeit für unsere Mithilfe und wollte uns zu Ehren ein Fest veranstalten. Doch uns erwartete bereits die nächste Aufgabe, die Hängenden Gärten von Semiramis sollte unser nächster Bestimmungsort sein…
+
+### demo_singleplayer_02.xml
+  --- block 00 text[0] ratio=0.07
+      CHN: 新的冒险在比雅尼面前展开！在这个演示版 中，你将探索蛇族的秘密。
+      GER: Auf deiner Wanderschaft hat es dich und deine Leute in ein abgelegenes Tal verschlagen. Friedlich und malerisch breiten sich grüne Wiesen und lichte Wälder vor euch aus. Doch irgendwas stimmt hier ganz und gar nicht. Ein unheimliches Gefühl des Unheils liegt fast greifbar in der Luft. Was mag hier geschehen sein? Im Westen, jenseits einer kleinen Brücke, erheben sich die Türme einer Stadt. Was ist hier vorgefallen? Sende einen Kundschafter über die Brücke nach Westen und erkunde die Stadt.
+  --- block 01 text[0] ratio=0.12
+      CHN: 比雅尼的冒险继续--他需要找到失散的儿子们并拯救被诅咒的山谷。
+      GER: Der Fluch ist gebrochen, das Tal erlöst! Zum ersten mal seit 100 Jahren hört man die Bewohner wieder unbeschwert lachen. Der König steht zu seinem Wort und will euch die Hälfte seines Königreiches schenken, doch ihr lehnt höflich ab und begebt euch wieder auf eure Wanderschaft durch die Welt, neuen Abenteuern entgegen.
+  --- block 03 text[1] ratio=0.16
+      CHN: 此地的国王召见了你们。他悲痛地讲述了这片土地的往事： 一百年前，他的祖先曾与某种力量交战，但这力量实在过于强大。 为了不让这种力量蔓延，他用一把特殊的锁将它囚禁在自己体内。
+      GER: Der König dieses Landes lässt euch zu sich bitten. Gramgebeugt erzählt er die Geschichte des Landes: Vor 100 Jahren hat sein Vorfahre an Mächten gerührt, die lieber im verborgenen geblieben wären. Seit dieser Zeit sind das Tal und seine Bewohner verflucht. In den Ruinen der alten Kultstätten gehen fürchterliche Dämonen um. Der alte Herrscher verspricht euch die Hälfte seines Königreiches, wenn ihr die sieben Kultstätten findet und dort die Dämonenwächter vernichtet. Dann wird das Tor zur Hölle wieder geschlossen und der Fluch gebrochen sein. Suche die sieben alten Kultstätten des Landes und vernichte die Dämonenwächter.
+      >>> 相似CHN文本: map_xml/demo_singleplayer_02.xml block 03 (sim=1.00)
+  --- block 05 text[0] ratio=0.16
+      CHN: 愿诸神指引你的道路。 但记住--每次冒险 都需要勇气和智慧。
+      GER: HERVORRAGEND! Du hast eine der sieben magischen Kultstätten des verwunschenen Tales von den Dämonen befreit! Mit einem fürchterlichen Laut verschwinden die Unholde dorthin, woher sie gekommen waren.
+  --- block 06 text[0] ratio=0.19
+      CHN: 新的知识 随着你们在冒险中不断前进，新的可能性也随之开启。试试建造新的建筑类型吧。
+      GER: Wiederwillig folgen deine Wikinger dem Befehl und greifen das verwunschene Volk an, das euch um Hilfe gebeten hatte. Als die ersten Einwohner unter euren Schwertern fallen, geht der Fluch des Tales auf euch über. Ihr seid nun für alle Zeiten verdammt!
+  --- block 07 text[0] ratio=0.16
+      CHN: 探索 派遣侦察兵探索地图上未发现的区域。 你永远不知道等待着你的是什么！
+      GER: BERGRÄUBER Du bist auf eine Siedlung räuberischer Franken gestoßen, die allen Verboten des Königs zum Trotz die wertvollen Rohstoffe dieses Berges abbauen. Wenn du selbst das Gold und das Eisen hier abbauen willst, wirst du sie zuerst vertreiben müssen!
+  --- block 10 text[0] ratio=0.09
+      CHN: 继续 前进！
+      GER: UNTERHÄNDLER Ein Bote aus Montseraine traf in unserem Lager ein:
+  --- block 15 text[0] ratio=0.04
+      CHN: 很 好！
+      GER: UNTERHÄNDLER Als Bjarni auf den Boten zuging, machte dieser ihm ein interessantes Angebot:
+  --- block 15 text[1] ratio=0.04
+      CHN: 你已完成这个演 示关卡的 主要任务。 希望你喜欢这个冒险 ！
+      GER: "Sei gegrüßt, tapferer Bjarni. Wir haben gehört, dass ihr Ärger mit einigen Räubern in der Gegend habt. Nun, da ihr uns gegen den Fluch helft, will ich euch auch gerne helfen. Wir kennen die Räuber schon lange, und für das, dass wir sie in Ruhe das Erz abbauen lassen, lassen sie wiederum unsere Stadt in Ruhe. Eine Hand wäscht die andere, du verstehst... Nun, wie dem auch sei - momentan wäre es besser, wenn sie euch in Ruhe lassen. Ich will mich gerne für euch einsetzen und mit ihnen reden. Allerdings - ich bräuchte etwas, was ich ihnen anbieten kann. Umsonst ist der Tod, und der.. na ja, du weißt schon. Wenn ihr mir 10 Met gebt, kann ich sie damit bestimmt ruhig stellen." Liefere dem Unterhändler 10 Met (als Tributzahlung).
+      >>> 相似CHN文本: map_xml/demo_singleplayer_02.xml block 15 (sim=1.00)
+  --- block 50 text[0] ratio=0.04
+      CHN: 小贴 士！
+      GER: TIPP! Suche nach Schatzkisten in der Umgebung. Sie sind manchmal versteckt, enthalten aber sehr oft wertvolle Dinge!
+  --- block 55 text[0] ratio=0.04
+      CHN: 小贴 士！
+      GER: TIPP! Magische Kisten sind größer als die einfachen Kisten. Sie enthalten meist besonders wertvolle Dinge.
+  --- block 55 text[1] ratio=0.15
+      CHN: 魔法箱比普通箱子更大。 它们通常装着更强大的物品。
+      GER: Magische Kisten können allerdings nur von einem Druiden oder von einem deiner Helden geöffnet werden. An dieser Demo-Mission ist nur dein Held Bjarni beteiligt. Er kann solche Kisten öffnen.
+      >>> 相似CHN文本: map_xml/demo_singleplayer_02.xml block 55 (sim=1.00)
+  --- block 60 text[0] ratio=0.17
+      CHN: 小贴士！ 建造一个或多个哨塔，以抵御盗贼的攻击。 他们会三思而后行。
+      GER: TIPP! Errichte einen oder mehrere Wachtürme, um dich gegen die Räuber zu verteidigen. Wachtürme können mit Bogenschützen besetzt werden, die aus dem Turm heraus aus sicherer Höhe jeden Angreifer in der Nähe attackieren.
+  --- block 65 text[0] ratio=0.15
+      CHN: 小贴士！ 你刚刚找到了一封"信件"。 用一封信可在任何地方建 造建筑--无需建造许可！
+      GER: TIPP! Du hast soeben einen so genannten "Brief" gefunden. Mit einem Brief kann man ein bestimmtes Gebäude setzen, ohne dass es von Bauarbeitern gebaut werden muss und ohne dass Rohstoffe benötigt werden. Briefe können über das "Extras-Fenster" (das Schatztruhen-Symbol links oben in der Menüleiste) angewandt werden.
+  --- block 70 text[1] ratio=0.09
+      CHN: 你找到了一台投石机。 用它来摧毁敌人的防御工事吧！
+      GER: Katapulte müssen mit einem Soldaten oder einem Helden besetzt werden, um einsatzfähig zu sein. Sie eignen sich hervorragend gegen Gebäude und Pallisaden, sind jedoch langsam und anfällig gegen Angriffe. Katapulte können auch eingesetzt werden, um Bäume aus dem Weg zu räumen und so Bauplatz zu schaffen ("Position angreifen").
+      >>> 相似CHN文本: map_xml/demo_singleplayer_02.xml block 70 (sim=1.00)
+  --- block 75 text[1] ratio=0.13
+      CHN: 为此你需要一名商人，他需要推 着车（手推车或牛车）将货物从 你的总部运到蒙瑟雷的仓库 ，然后再将换来的货物运回你的总部。
+      GER: Dazu benötigst du einen Händler, der mit einem Karren (Hand- oder Ochsenkarren) die Waren aus deinem Hauptquartier ins Lagerhaus von Montseraine schafft und dann die erhandelten Waren in dein Hauptquartier bringt. Du kannst für jeden Händler jeweils eines von den Handelsangeboten wählen, die man dir anbietet. WICHTIG! Handel kannst du nur mit einem Volk treiben, dass dir gegenüber friedlich eingestellt ist! Du kannst auch Handel zwischen deinen eigenen Lagern treiben, wenn du die Waren in deinem Dorf besser verteilen willst.
+
+### multiplayer_003_ressourcen.xml
+  --- block begin_00 text[0] ratio=0.15
+      CHN: 这是个太平年月。维京人各过各的安稳日子，本不该有兵戎相见的理由…… 快行动起来吧，你的部族需要一位领袖！
+      GER: Es ist eine friedliche Zeit. Die Wikinger leben vor sich hin und brauchen keinen Rohstoffmangel zu fürchten. Reiche Gold- und Eisenvorräte wurden im zentral gelegenen Gebirge gesichtet... Außerdem gibt es einiges zu entdecken - viele Schätze soll es hier versteckt geben! Mach dich an die Arbeit, dein Stamm braucht einen Anführer! Sichere dir deinen Anteil an den Ressourcen - der schnellste Abbauer gewinnt!
+
+### multiplayer_004_ressourcen.xml
+  --- block begin_00 text[0] ratio=0.19
+      CHN: 长久以来，住民之间一直存在领地纷争。谁都想把邻居挤出这片弹丸之地。 "资源越来越紧了！我们得做点什么……" 能抢多少就抢多少、能抢多快就抢多快！若让别人占了先，你就输了。
+      GER: Schon lange gab es Gebietsstreitigkeiten zwischen den Einwohnern des Landes. Dabei ging es vor allem um die knappen Fischreservate, die sich alle teilen mussten. In letzter Zeit war es sogar zu handfesten Auseinandersetzungen gekommen. "Die Ressourcen werden knapp! Wir müssen etwas unternehmen...". So oder so ähnlich dachte wohl jeder der Stammeshäuptlinge. Sammle soviel und so schnell du kannst! Wenn die anderen nicht schnell genug sind, werden sie aus Rohstoffmangel das Tal verlassen müssen...
+
+### multiplayer_004_special_cap-the-cow.xml
+  --- block begin_00 text[0] ratio=0.18
+      CHN: 长久以来，住民之间一直存在领地纷争。谁都想把邻居挤出这片弹丸之地。 近来甚至爆发了拳脚相加的冲突…… "资源越来越紧了！我们得做点什么……" 设法把对手的牛，连同岛上其余所有的牛，都赶进你的村子。 不过当心：你自家的牛也得看牢了。
+      GER: Schon lange gab es Gebietsstreitigkeiten zwischen den Bewohnern des Landes. Dabei ging es vor allem um die knappen Fischreservate, die sich alle teilen mussten. In letzter Zeit war es sogar zu handfesten Auseinandersetzungen gekommen. Es war einfach kein Platz mehr für alle! "Die Ressourcen werden knapp! Wir müssen etwas unternehmen...". So oder so ähnlich dachte wohl jeder der vier Häuptlinge. Versuche, die Kühe der Gegner und alle anderen des Landes in deinen Besitz zu bringen. Es gibt nur 12 Stück! Wenn die letzten Fischreserven aufgebraucht sind, sind das die letzten Nutztiere im Land! Die anderen werden dann gezwungen sein, aufzugeben... Aber Vorsicht: Deine eigene Kuh solltest du selbst gut im Auge behalten!
+
+### multiplayer_005_militär.xml
+  --- block begin_00 text[0] ratio=0.17
+      CHN: 由于连年来种种争执与冲突，维京人之间的关系降到了冰点。 各方都在南太平洋分到了一片岛区，作为自己的立足之地。 带领你的部族走向未来！经受住这跨岛之战的考验…… 不过当心：你的对手也正打着同样的算盘！
+      GER: Aufgrund verschiedener Streitereien und Auseinandersetzungen zwischen den Würdenträgern eines großen Wikingerstammes wurde die Teilung des Stammes beschlossen. Alle Parteien erhielten je einen Inselbezirk in der Südsee als neue Heimat. Jeder Würdenträger wurde zum Häuptling erklärt und hatte sich nun selbst um seine Anhänger zu kümmern. Es sollte ein Wettstreit der Häuptlinge werden, bei dem jeder bemüht war, alleiniger Herrscher der Insel zu werden. Führe deinen Stamm in die Zukunft! Bestehe die inselübergreifenden Kämpfe. Erforsche die Gewässer - es gibt viel zu entdecken! Aber Vorsicht: Deine Gegner werden das gleiche versuchen!
+
+### multiplayer_005_ressourcen.xml
+  --- block begin_00 text[0] ratio=0.14
+      CHN: 权贵之间种种争执与冲突，令维京人彼此离心。 各部族本应在一个领袖的统治下重归统一…… 各方都在南太平洋分到了一片岛区，作为自己的立足之地。 这些新生的部族并未在战火中离散，反倒…… 带领你的部族迈入新时代！通过贸易与探索谋求发展。
+      GER: Verschiedene Streitereien und Auseinandersetzungen zwischen den Würdenträgern eines großen Wikingerstammes führten zur Teilung des Stammes. Er sollte erst unter der Herrschaft jenes Anführers wieder vereint werden, dem es gelang, die meisten Ressourcen in kurzer Zeit abzubauen! Jener, der fähig genug war, seinen Stamm zum reichsten zu machen, sollte die Stämme wieder zusammenführen dürfen... Alle Parteien erhielten je einen Inselbezirk in der Südsee als neue Heimat. Jeder Würdenträger wurde zum Häuptling erklärt und durfte sich nun selbst um seine Anhänger kümmern. Die neu entstandenen Stämme trennten sich nicht im Kriege, doch es herrschte auch keine Freundschaft... Im Laufe der Zeit entstanden neue Zwistigkeiten über das karge Land oder die schlechten Klimabedingungen. Aber auch Handelsbeziehungen entstanden neu. Führe deinen Stamm in eine neue Zeit! Handle und erforsche die Gewässer - es gibt viel zu entdecken!
+
+### multiplayer_007_millitär.xml
+  --- block begin_00 text[0] ratio=0.18
+      CHN: 在维京人的土地上，两个部族联手后逐渐坐大，俨然一方霸主。 雪上加霜的是，你还有个邻居--虽说眼下与你井水不犯河水，难保哪天反目。 于是如今各人都只顾自己在战斗中立足…… 提示：开局起你便坐拥一批宝贵资源。
+      GER: Im Land der Wikinger hatte sich durch den Zusammenschluss zweier mächtiger Stämme ein großes, kriegerisches Dorf gebildet. So erstarkt beschloss man schnell, das Land von allen anderen Stämmen zu säubern - und das betrifft auch DEINEN Stamm! Zu allem Unglück hast du auch noch einen Nachbarn, der zwar in der gleichen Gefahr schwebt, aber mit dir schon seit langem im Clinch liegt. Daher versucht nun jeder alleine, sich im Kampf zu behaupten. Baue besser deine Verteidigung aus, bevor du selbst jemanden angreifst! Hinweis: Du bist bereits von Beginn an im Besitz wertvoller Schriftrollen! Nutze sie geschickt, um dein Dorf aufzubauen.
+
+### multiplayer_007_ressourcen.xml
+  --- block begin_00 text[0] ratio=0.15
+      CHN: 在维京人的土地上，两个部族联手后逐渐坐大，俨然一方霸主。 所幸你还有个邻居，与你同历此劫，正可互为臂助。 同心协力，你们或许能守住村寨、抵御强敌…… 提示：开局起你便坐拥一批宝贵资源。
+      GER: Im Land der Wikinger hatte sich durch den Zusammenschluss zweier mächtiger Stämme ein großes, kriegerisches Dorf gebildet. So erstarkt war es schnell beschlossene Sache, das Land von allen anderen Stämmen zu säubern - und das betrifft auch DEINEN Stamm! Zum Glück hast du aber noch einen Nachbarn, dem die gleiche Gefahr droht. Zusammen könnt ihr es vielleicht schaffen, eure Dörfer zu verteidigen. Es ist nicht nötig, den Gegner zu vernichten, solange ihr genügend Rohstoffe im Lager habt. Sammelt sie so schnell wie möglich, vielleicht kommt ihr einem Angriff ja zuvor... Hinweis: Du bist bereits von Beginn an im Besitz wertvoller Schriftrollen! Nutze sie geschickt, um dein Dorf aufzubauen.
+      >>> 相似CHN文本: map_xml/multiplayer_007_special_coop.xml block begin_00 (sim=0.89)
+
+### multiplayer_008_militär.xml
+  --- block begin_00 text[0] ratio=0.18
+      CHN: 维京人在一座火山岛上落了脚。 在与对手的缠斗中挺住--但须提防火山随时可能的爆发。
+      GER: Die Wikinger haben sich auf einer Vulkaninsel einquartiert. Es könnte hier so friedlich sein, doch die Dämpfe des Vulkans scheinen die Aggressionen zu schüren! Überstehe den Kampf gegen deine Gegner - aber achte auf mögliche Gefahren in der Nähe des Vulkans!
+
+### multiplayer_008_ressourcen.xml
+  --- block begin_00 text[0] ratio=0.20
+      CHN: 维京人在一座火山岛上落了脚。 各部族比邻而居、和平共处，一同采集资源…… 采集资源，同时盯紧火山。谁知道它何时会醒？
+      GER: Die Wikinger haben sich auf einer Vulkaninsel einquartiert. Hier gibt es genügend Platz für alle, und außer einem Vulkanausbruch braucht man nichts zu fürchten... Die Wikingerstämme leben friedlich nebeneinander her und sammeln ihre Ressourcen. Sammle Ressourcen und behalte den Vulkan im Auge. Wer weiß, welche Gefahren dort lauern!
+
+### multiplayer_101_special_coop.xml
+  --- block begin_00 text[0] ratio=0.12
+      CHN: 对维京人而言，这是个暗无天日的年代…… 这片土地上还有其他部族，也深受其苦。 若你想分几个维京人给同伴，只需将他们就近交付便可。 给勇敢战士的一点提示：你行囊中已备有几封书信。
+      GER: Es ist eine finstere Zeit für die Wikinger... Das Land wird von einer zentral gelegenen Burg und deren Bewohnern terrorisiert - es gibt kein Entrinnen. Aber es gibt noch andere Stämme im Land, die das Problem mit dir teilen! Finde sie, vielleicht handeln sie ja wichtige Waren mit dir... Einen Angriff auf die Dunkle Burg sollte man nur mit einem starken Partner führen; am besten aber mit allen, die man finden kann! Wenn du einem Partner ein paar Wikinger überlassen möchtest, schicke sie zur heiligen Flamme des jeweiligen Stammes. Lass deine Leute den magischen Kreis des Feuers betreten, und sie werden zukünftig auf die Befehle deines Partners hören - denn sie gehören dann zu seinem Stamm! Ein Hinweis an den tapferen Krieger: Es befinden sich einige Briefe für Gebäude in deinem Besitz, nutze sie schnell und weise!
+
+### multiplayer_102_special_coop.xml
+  --- block begin_00 text[0] ratio=0.12
+      CHN: 很久以前，这片土地上所有维京部族和睦共处--宛如一体。 然而和平早已沦为过往云烟。两岸之间战火重燃，各部族再次拔刀相向。 于是众人议定，暂且停止与他族的往来，各自为战。 提示： 1) 你的行囊中备有几封珍贵书信，可在危急时助你一臂之力。 2) 注意，你在开关旁停留的时长各不相同。 3) 某些部族起步略占优势--他们早已筑起坚固的工事。 4) 若你愿分几个族人与盟友，士兵、壮丁或村民皆可--只需将他们就近交付。
+      GER: Vor langer Zeit waren alle Wikingerstämme des Landes in Frieden vereint - und über zwei Brücken des zentralen Flusses wurde reger Handel betrieben. Doch gehört der Friede seit geraumer Zeit der Vergangenheit an. Auf beiden Seiten des Flusses bildeten sich Handelsbündnisse zwischen den Stämmen, welche die einheimischen Händler privilegierten und reisende Händler von auswärts diskriminierten. Daher beschloss man, vorerst auf den Handel mit der anderen Seite zu verzichten und im Wettkampf die Lösung zu erstreiten. Wer fähig wäre, das Hinterland durch Betätigung von drei Schaltern -symbolisch- zu erobern, solle dem Unterlegenen die Zölle diktieren dürfen. Es war absehbar, dass dieser Kampf bald mit mehr als nur den Fäusten ausgetragen werden würde... Hinweise: 1) In deinem Gepäck befinden sich einige wertvolle Briefe, die dir den Bau verschiedener Gebäude erleichtern können! 2) Beachte, dass du unterschiedlich lange auf einem Schaltern verweilen musst, um ihn zu sichern. Die Reihenfolge, in der du die Schalter betätigst, spielt keine Rolle! Der Countdown für jeden der drei Schalter beginnt stets von vorn, wenn er kurzfristig verlassen wurde. Beachte, dass sie nur nacheinander aktiviert werden können, nicht gleichzeitig! 3) Manche Stämme haben einen kleinen Startvorteil - sie sind stark befestigt und militärisch überlegen. Doch sie werden sich nur verteidigen, Angriffe sind nicht ihre Stärke. Sie bieten interessante Handelsangebote: Sende deine Zivilisten zu den Kaserneneingängen des Stammes, dann kannst du per Tributzahlung ausgerüstete Soldaten ordern! Dies funktioniert allerdings nur in bestimmten Zeitabständen... 4) Falls du dem verbündeten Spieler ein paar Leute - Soldaten, Männer oder Frauen übergeben willst, so schicke sie zu dem heiligen Feuerkreis, der sich in der Nähe jedes Hauptquartiers befindet. Jeder Wikinger, der sich in diesen Kreis begibt, wird von nun an dem neuen Häuptling gehorchen!
+
+### multiplayer_103_special_militär.xml
+  --- block begin_00 text[0] ratio=0.16
+      CHN: 酋长有令： “今年这场大赛跑，须提早些时候举行……” “救救我们的家禽吧，否则拿什么做早餐的蛋？” “欲取胜，一队须擒获 100 名敌人，呃……蛇。” “此外，他给每队馈赠了三封妙用无穷的书信--并恩准一项特权。” “出发吧，狩猎开始了！！！” “总狩猎官的贴士： 为免招惹额外敌人，切勿在狩猎时惊动过多蛇群。”
+      GER: Erlass des Häuptlings: "Es ist von Nöten, das große Wettjagen dieses Jahr etwas früher zu beginnen! Der Bestand unserer Moorhühner ist durch gefährliche Schlangenwesen bedroht, die in unserem Moor die idealen Jagdgründe gefunden glauben! Rettet unser Federvieh, woher sollen wir sonst unsere Frühstückseier bekommen? Um zu gewinnen, muss ein Team 100 Gegner, äähhhm... Schlangen erlegt haben - eine stattliche Zahl an Trophäen! Jedes Team, das auf die Schlangenjagd geht, soll sich zu dritt am Startpunkt melden! Eine gute Ausrüstung spendiert der Häuptling! Wie ihr sie nutzt, ist euch überlassen - aber nutzen solltet ihr sie unbedingt! Zusätzlich hat er jedem Team drei nützliche Briefe spendiert - und gewährt außerdem das Nachrücken von Soldaten in regelmäßigen Abständen. Teams können vernichtet werden, aber es kommt beständig Nachschub! Nun macht euch auf, die Jagd beginnt!!!" Tipp des obersten Jägermeisters: Um keine zusätzlichen Gegner anzulocken, oder um sich kurz zu erholen, lohnt es sich, einfach einmal Rast zu machen... Doch wer zuviel rastet, vergibt vielleicht den Sieg!
+
+### multiplayer_104_militär.xml
+  --- block begin_00 text[0] ratio=0.16
+      CHN: 北方已是春天，抽芽的白桦驱散了寒意。 只可惜眼下没人有闲情去欣赏。各部族的领袖们心想："管他呢--" 于是纷纷秣马厉兵，准备大干一场。
+      GER: Es ist Frühling im Nordland und die grünenden Birken vertreiben allmählich die verschneiten Tannen. Zu dumm nur, dass dafür derzeit niemand einen Blick hat. Die Wikingerstämme sind untereinander zerstritten, und Fremde scheinen Interesse an diesem Stück Land zu haben. Deren Übergriffe nehmen in letzter Zeit ständig zu! "Egal", denken sich die Anführer der verschiedenen Stämme – "es ist Frühling, und damit ein guter Zeitpunkt, seine Kräfte im Kampf zu messen!"
+
+### multiplayer_105_militaer.xml
+  --- block begin_00 text[0] ratio=0.18
+      CHN: 相互竞争的维京部族，在同一片土地上扎下了根。 让你的部族成为这片土地上当之无愧的最强者！挑一处建立你的村庄。 这片土地上埋藏着无数宝藏，谁先发现，便归谁所有。
+      GER: Konkurrierende Wikingerstämme haben sich das gleiche Land zur Besiedlung ausgesucht. Sie beginnen mit nichts, aber sie wollen die Herrschaft über alles! Mache deinen Stamm zum stärksten in diesem Land! Suche dir einen Ort, den du für geeignet hältst, aber denke daran - deine Gegner tun dasselbe. Wer am nächsten zu den Rohstoffen siedelt, hält den Schlüssel zum Sieg in der Hand... In diesem Land gibt es viele Schätze zu entdecken, wer sie sich am ehesten sichert, kann vielleicht den entscheidenden Vorteil erringen!
+
+### multiplayer_105_ressourcen.xml
+  --- block begin_00 text[0] ratio=0.15
+      CHN: 相互竞争的维京部族，在同一片土地上扎下了根。 为你新生的村庄择一处宝地--资源越丰饶越好。 这片土地上埋藏着无数宝藏，待你去发掘，它们终将归你所有。
+      GER: Konkurrierende Wikingerstämme haben sich das gleiche Land zur Besiedlung ausgesucht. Sie haben nur, was sie anhaben, aber sie wollen die reichen Ressourcen des Landes! Suche dir einen Ort für dein neues Dorf, einen Ort mit den meisten Rohstoffen! Wer am nächsten zu den Rohstoffen siedelt, hält den Schlüssel zum Sieg in der Hand... Bedenke: Um zu siegen, brauchst du 500 Holz und Stein; 300 Lehm, Eisen und Gold! Und die Neider werden versuchen, dir einen Strich durch die Rechnung zu machen! In diesem Land gibt es viele Schätze zu entdecken, sie werden dir einige Zeit ersparen!
+
+### multiplayer_201_special_coop.xml
+  --- block begin_00 text[0] ratio=0.15
+      CHN: 对你的部族而言，这是个艰难时世。 你与爱好和平的邻居们，由来已久地同历忧患。 然而这片土地上所有部族，已携手共抗外侮。 若你愿分几个维京人给某位邻居，只需将他们就近交付便可。 贴士： 你的行囊中备有几封用于建筑的信。
+      GER: Es ist keine leichte Zeit für deinen Stamm. Du und deine friedlichen Nachbarn werden seit geraumer Zeit von einem großen Wikingerstamm terrorisiert, der sich selbst zum alleinigen Herrscher im Land ernannt hat. Aber alle Stämme des Landes haben sich gemeinsam gegen diesen Feind gewappnet und wollen sich gegenseitig im Kampf unterstützen! Nur in einem gemeinsamen Gegenschlag werdet ihr eine Chance gegen die Übermacht des Feindes haben. Wenn du einem deiner Nachbarn ein paar Wikinger überlassen möchtest, schicke sie zur heiligen Flamme seines Stammes. Lass deine Leute den magischen Kreis des Feuers betreten, und sie werden zukünftig auf die Befehle deines Partners hören - denn sie gehören dann zu seinem Stamm! Tipp: Es befinden sich ein paar Briefe für Gebäude in deinem Besitz, nutze sie schnell und weise!
+
+### multiplayer_202_special_millitär.xml
+  --- block begin_00 text[0] ratio=0.13
+      CHN: 这片土地正陷于危难！ 盘踞群山的恐怖巨龙倾巢而出，为祸四方。 我们必须顶住它们的攻势，设法将其逐回巢穴。 相传狼林深处，藏着启动古老机关的法门，可助此役。 但当心！潜行密林的恶狼，会悄悄扑向落单之人。 抵御巨龙，寻得狼林中的开关，它们能…… 提示： 此处资源虽丰，但玩家越多，竞争越烈。
+      GER: Es herrscht Not im Land! Die furchtbaren Drachen, die in den Bergen hausen, sind aus ihren Höhlen gekrochen, um in den Dörfern hier nach Beute zu jagen! Sie werden bald hier sein, und sie kehren regelmäßig wieder. Mit ihren Überfällen bringen sie viel Unheil über die Bevölkerung! Wir müssen ihren Angriffen stand halten und versuchen, sie wieder in ihren Höhlen einzuschließen! Im Wolfswald soll es zu diesem Zweck alte Mechanismen geben, welche die schweren Eisentüren zu den vier Drachenhöhlen schließen, aus denen die Biester kommen. Diese Schalter sind die meiste Zeit unsichtbar, tauchen aber von Zeit zu Zeit auf. Dann muss man schnell die Chance nutzen und die Schalter betätigen! Doch nimm dich in acht! Wölfe, die sich im dichten Wald verstecken, erschweren dieses Vorhaben erheblich... Wehre dich gegen die Drachen und finde die Schalter im Wolfswald, welche die Drachenhöhlen verschließen! Geh' nicht unbedacht in den Wald oder entferne dich zu weit vom Hauptlager, bevor deine Leute zum Kampf gerüstet sind! HINWEIS: Rohstoffe gibt es hier zwar genug, doch je mehr Spieler mitspielen, desto begrenzter wird der Platz. Wenn mehr Platz benötigt wird, muss man sich diesen gegen die Wolfskreaturen erkämpfen...
+
+### multiplayer_203_special_militär.xml
+  --- string 5 ratio=0.19
+      CHN: 晴间多云，偶有小雨！
+      GER: Heiter bis bewölkt, zeitweilig vereinzelter Niederschlag!
+  --- block begin_00 text[0] ratio=0.17
+      CHN: 此地一位部族酋长前来求援： “龙之地遭狼族侵袭！它们……” “在巨龙重获自由之前，先击退这些恶狼！” “每支踏上猎狼之旅的队伍，开局可得三封书信。” “此地生存所必需的装备，可在村落中找到。” “出发吧，去狩猎，龙之地的存亡系于你手……” “一个贴士： 谁若寻得五件不朽圣物之一的雨之符，便可呼风唤雨。” “再来一帖： 土地上不时会浮现开关……” “某些开关就地生效，另一些则在远处触发。”
+      GER: Der Häuptling eines hier lebenden Stammes bittet um Hilfe: "Das Drachenland ist von Wolfskreaturen überfallen worden! Ich befürchte, sie wollen die Drachen freilassen, welche wir in erbitterten Kämpfen in ihre Höhlen zurücktreiben und einsperren konnten! Bekämpft die Wölfe, bevor sie die Drachen wieder freilassen!" Jedes Team, das auf die Wolfsjagd geht, hat zu Beginn drei nützliche Briefe. Außerdem kommen in regelmäßigen Abständen am Startplatz neue Soldaten ins Spiel, so dass auch bei größeren Verlusten für Nachschub gesorgt ist. Ausrüstung, die hier lebenswichtig ist, findet sich in den vielen versteckten Schatzkisten, von denen ab und zu weitere auftauchen... Nun macht euch auf die Jagd, die Rettung des Drachenlands beginnt! Gewonnen hat, wer zuerst 100 Gegner besiegt hat! Ein Tipp: Wer eines der fünf heiligen, unsterblichen Regenrinder dieses Landes eingesammelt hat, kann das Wetter ändern, so oft er möchte! Jagt ein Spieler einem anderen das Rind ab, geht die Wettermacht auf diesen Spieler über! Noch ein Tipp: Hin und wieder tauchen im Land Schalter auf, die gedrückt werden wollen... Nach ein paar Minuten verschwinden sie wieder, also beeilt euch, wenn ihr einen seht! Manche Schalter bewirken etwas an Ort und Stelle, manch andere wirken in euren Lagern.
+
+### singleplayer_01_05.xml
+  --- block 3 text[1] ratio=0.16
+      CHN: 你未能抵御撒拉逊人的进攻。许多部下捐躯，安条克的土地恐将永远荒芜……
+      GER: Du hast es mit deinen tapferen Wikingern nicht geschafft, dich gegen die Sarazenenangriffe zur Wehr zu setzen. Viele deiner Männer mussten ihr Leben geben und das geliehene Land vom Königreich Antiochia wird wohl auf ewig unbesiedelt bleiben...
+      >>> 相似CHN文本: map_xml/singleplayer_01_05.xml block 3 (sim=1.00)
+
+### singleplayer_02_01.xml
+  --- block begin_28 text[0] ratio=0.19
+      CHN: 狼穴 入口洞开，我决意独自进去！ 若这洞穴当真凶险，我可不愿拿全体勇士的性命赌这小险！ 余下的人守在入口，以防不测！
+      GER: WOLFSHÖHLE Der Eingang war offen, und ich beschloss, allein hineinzugehen! Wenn diese Höhle tatsächlich so gefährlich war, dann wollte ich nicht die Leben all meiner tapferen Untertanen für dieses kleine Abenteuer aufs Spiel setzen! Der Rest sollte den Eingang bewachen, falls irgendwelche unliebsamen Überraschungen auftreten würden!
+
+### singleplayer_02_03.xml
+  --- block begin_06 text[0] ratio=0.03
+      CHN: 权 能 护符
+      GER: GEWALTENAMULETT Danke, dass du uns geholfen hast. Freundschaft verbindet von nun an unsere Stämme... Zum Lohn überreichen wir dir, Bjarni, diese Halskette.
+
+### singleplayer_03_01.xml
+  --- block 09 text[0] ratio=0.16
+      CHN: 酋长 当我直视酋长的双眼时，我看到了忧伤与痛苦。 他曾梦想在沙漠以北建立一片属于自己的家园。 但现在，他的族人正遭受苦难。 "帮帮我们吧，"他恳求道，"我们的水源已被敌人切断。" 没有水，这个部落活不过三天。 我答应了他--我们将夺取敌人的水井。 任务由此展开，而这次冒险将比我们预想的更加艰险。 我们的命运就此与这片沙漠交织在一起。
+      GER: HÄUPTLING Als ich dem Häuptling in die Augen sah, konnte ich Kummer und Schmerz darin sehen. Einst träumte er davon, ein Stück der Wüste nördlich seines Dorfes zu begrünen. Alles, was er brauchte, war genügend Wasser. Dieses fand er auch, ganz in der Nähe meines Stammes. Alles lief gut, das Projekt gedieh - die Wüste begann zu grünen. Doch dann wurde die Wasserkarawane überfallen!!! Finstere Schergen stahlen das kostbare Gut und entführten die Transportkamele. Die Überlebenden jedoch überließen sie der Wüste, mit einer Botschaft für den Stamm: "Wer sich hier noch einmal blicken lässt, der ist des Todes! Alles Wasser gehört nun uns! Auch das Orakel hat das schon begriffen!" Seitdem wagte niemand mehr, die Wüste zu durchqueren... Und des Häuptlings Träume waren dahin. Fassungslos von solcher Bosheit wollte ich dem Häuptling helfen. Ich würde den Wassertransport fortsetzen, in dem ich vorläufig meine Ochsen vor den Karren spannte! Und wenn es jemand wagen sollte, sie anzugreifen, sollte er mein Schwert zu spüren bekommen... TIPP: Du solltest einen Brunnen direkt an der Wasserstelle errichten und von dort aus Handel treiben, denn dies ist der kürzeste Weg durch die Wüste!
+  --- block 09 text[1] ratio=1.96
+      CHN: 当我直视首领的双眼，其中满含忧愁与苦痛。 他曾梦想将村北的一片沙漠染绿。他所缺的，不过是足量的水。这水他就在近旁我的部族处寻得。一切顺遂，工程蒸蒸日上--沙漠开始泛青。 然而运水商队遭了袭击！！！ 暗黑的爪牙窃走了这珍贵之物，还掳走了运输的骆驼。 幸存者被弃于沙漠，只带回一句给部族的口信："谁敢再在此露面，便是死路一条！所有的水如今归我们！连神谕也已明白了！" 自那以后，再无人敢穿越沙漠……首领的梦想也随之破灭。 如此恶行令我愕然，我决意相助。 我将接续这运水之举，暂且把我的牛套上大车！谁敢来犯，便尝我剑锋…… 提示： 你该在水源处直接挖一口井，再从那里做生意，因为这是穿越沙漠最短的路！ 若你在近旁建起仓库，遣脚夫储水其中，便能轻易让此仓与绿洲农人仓库间的商人互通贸易。
+      GER: Wenn du direkt daneben ein Lagerhaus errichtest und von Trägern Wasser einlagern lässt, kannst du sehr leicht einen Händler zwischen diesem Lager und dem Lager der Oasenbauer Handel treiben lassen.
+      >>> 相似CHN文本: map_xml/singleplayer_03_01.xml block 09 (sim=1.00)
+
+### tutorial_001.xml
+  --- block 00 text[0] ratio=0.14
+      CHN: 本教程旨在让你初步了解游戏的用户界面，并讲解操控你 的维京人所需的最基本功能， 以便他们能在新的国度中立足。 按照屏幕左侧菜单栏旁边出现的任务提示依次操作即可。
+      GER: Dieses Tutorial soll dir einen ersten Überblick über die Benutzerführung geben und wie man sich in der Spielwelt bewegt. Es wird dir die Auswahl und Steuerung deiner Figuren und andere wesentliche Funktionen wie: - Navigation in der Karte - Beschleunigung - Starten/Beenden/Anhalten des Spieles - wesentliche Buttons & Fenster erklären. P.S. FENSTER SCHLIESSEN Du schließt alle Fenster durch Drücken des ESC - Buttons oder durch Klick mit der linken Maustaste auf den Button mit dem "x" rechts oben in der Ecke. (Durch einen Klick auf das Fähnchensymbol links in der Menüleiste kannst du dir dieses und alle nachfolgenden Fenster noch einmal anschauen.)
+  --- block 01 text[1] ratio=0.09
+      CHN: 克努特目前没有工作，整天无所事事。 要选中他，在克努特身上点击鼠标左键即可。 被选中的单位会以彩色圆圈高亮显示。
+      GER: Knut ist arbeitslos hat den ganzen Tag nichts zu tun. Um ihn anzuwählen, klicke einfach mit der linken Maustaste auf ihn. Die Figur fängt an, leicht zu blinken, und es erscheint das Figurenfenster am rechten Bildschirmrand. Wenn du Knut eine Anweisung geben willst, wähle ihn aus und drücke anschließend die Leertaste oder wähle ihn sofort mit einem rechten Maustastenklick aus und es erscheint ein Menü. Mit einem Linksklick auf die Aktionen entscheidest du, ob ein Wikinger einen neuen Beruf ausüben, heiraten, eine Wohnung beziehen, in die Schule gehen oder den Arbeitsplatz und Ausrüstung wechseln soll. Wähle Knut aus und sende ihn mit einem rechten Maustastenklick zu der gekennzeichneten Stelle.
+      >>> 相似CHN文本: map_xml/tutorial_001.xml block 01 (sim=1.00)
+  --- block 02 text[0] ratio=0.16
+      CHN: 很好！不过还可以更快捷！ 如果选中了一个单位，在其蓝色的标记点上再次点击鼠标左键，就会弹出一个任务菜单。 单位的步行动作对应菜单最上方的图标。 试着用这种方式将克努特派往地面上的标记位置吧！
+      GER: PRIMA! Das geht allerdings auch schneller und direkter! Wenn du mit einem ausgewählten Wikinger einen RECHTSKLICK auf ein Arbeitsgebäude ausführst, beginnt er in diesem Gebäude zu arbeiten und übernimmt auch automatisch den entsprechenden Beruf, sofern er die Fähigkeit besitzt ihn auszuführen. Klickst du mit rechts auf ein Wohngebäude, wird dein Wikinger sich dort einquartieren, insofern eine Wohnung frei ist. Wählst du mit einem Rechtsklick eine unbebaute Stelle, läuft dein Zögling direkt dort hin. Die HINWEISTEXTE am Mauszeiger geben Rückmeldung über die entsprechende Aktion. Also: Gib Knut ein Dach über den Kopf und lass ihn als Farmer in der Farm arbeiten!
+  --- block 04 text[0] ratio=0.09
+      CHN: 太棒了！现在克努特有家也有工作了，生活无忧。 不过是不是还缺点什么？ 有了：他还缺个女人！ 在定居点附近找找吧！
+      GER: SEHR GUT! Nun hat Knut ein Heim und einen Beruf und ist gut versorgt, oder fehlt ihm da noch etwas? Suche in der Umgebung nach einer Frau! NAVIGATION IN DER KARTE Führe den Mauszeiger über eine beliebige Stelle auf der Landschaft. Halte nun die mittlere Maustaste gedrückt und bewege die Maus. Der Bildausschnitt folgt nun den Mausbewegungen. Verfahre analog mit den Pfeiltasten. Möchtest du automatisch scrollen, sobald du mit den Mauszeiger auf den BILDSCHIRMRAND triffst, musst du dieses im OPTIONSMENÜ (F2) einstellen. Dieses findest du über den Button mit den Werkzeugen in der Leiste am linken Bildschirmrand. Drücke dann auf EINGABE und du kannst im mittleren Bereich des Fensters den Scrollmodus einstellen.
+  --- block 07 text[1] ratio=0.09
+      CHN: 你可以在一个单位上按住鼠标左键，拖动出一个选择框来同时选中多个单位。 选中多个单位后，同样可以打开任务菜单。 试试同时选中所有人，把他们派往埃及人小村吧！
+      GER: Du kannst mehrere Figuren gleichzeitig selektieren, indem du mit der linken Maustaste auf eine freie Stelle auf der Karte klickst, die linke Maustaste gedrückt hältst und dann mit dem Mauszeiger einen Rahmen um die auszuwählenden Figuren ziehst. Eine Gruppe stellst du zusammen, indem du die SHIFT-Taste gedrückt hältst, die gewünschten Wikinger (auf der Karte oder aus jedem beliebigen Fenster) mit der linken Maustaste einzeln anklickst und somit der Gruppe hinzufügen. Mit dem Drücken der STRG-Taste kannst du die einzelnen Wikinger wieder aus der Auswahl entfernen. Hast du eine Gruppe selektiert, die du vielleicht öfters benötigst, kannst du diese mit der STRG-Taste und einer Zahlentaste von 0-9 speichern. Zur Wiederauswahl dieser Gruppe drücke dann einfach die entsprechende Zahlentaste erneut. Eine Gruppe steuert man wie eine einzelne Figur. Probier dies aus. Schicke Ljotolf, Thorbjorn, Kari, Groa und Ulla ins Dorf der Ägypter!
+      >>> 相似CHN文本: map_xml/tutorial_001.xml block 07 (sim=1.00)
+  --- block 09 text[0] ratio=0.14
+      CHN: 迷路问题…… 你的维京人常常找不到路，尤其是在跨越岛屿的时候。 但如果你在路径上修建道路，并跨越浅水区或河流修建桥梁 ，你的维京人就能找到最快的路线了。
+      GER: WEGFINDEPROBLEME... Oftmals haben deine Wikinger Probleme mit der Orientierung, dann bietet es sich an, von einem Kundschafter Wegweiser bauen zu lassen, das sich auch wirklich niemand verläuft! Lasse von dem Kundschafter Ljotolf Wegweiser bauen, wenn deine Wikinger den Weg nicht finden. Wähle ihn dazu aus und klicke auf das "Baue Wegweiser" - Symbol in seinem Aktionsmenü. Mit einen Klick auf die rechte Maustaste kannst du einen Wegweiser auf die nun hell erleuchteten Flächen setzen. Achte darauf, dass die Wegweiser stets verbunden sind! Dies erkennst du daran, dass die Schilder in die entsprechenden Richtungen zeigen.
+
+### tutorial_002.xml
+  --- block 01 text[1] ratio=0.16
+      CHN: 他很快会让你笑不出来--因为你马上就能让他在渔夫行当中测试一下。 选中他，然后点击左侧菜单栏中的渔夫图标。
+      GER: Er ist Holzabbauer und ist glücklich bei seiner Arbeit, hat eine Frau und ein kleines Kind, die zu Hause nach getaner Arbeit auf ihn warten. Jeder Bewohner des Dorfes ist einzigartig. Alle sehen unterschiedlich aus, haben eigene Namen, durchlaufen unterschiedliche Berufswege und haben individuelle Fähigkeiten und Bedürfnisse. Du kannst - bis auf das Aussehen - all diese Dinge beeinflussen!
+      >>> 相似CHN文本: map_xml/tutorial_002.xml block 01 (sim=1.00)
+  --- block 04 text[0] ratio=0.13
+      CHN: 干得好！现在你有机会获取新的资源了！
+      GER: Als nächstes sollte er sich auf Brautschau begeben. Etwas weiter im Landesinneren lebt der Schreinermeister Kalf mit einer schönen und klugen Tochter namens Ragna.
+  --- block 04 text[1] ratio=0.10
+      CHN: 每种资源都有专家可以让你从源头采集。要采集花岗岩，先找到掌握此道的人士。 去寻找他们吧！
+      GER: Verheirate RAGNA und den Wikinger, der früher BJÖRN hieß, weise ihnen das Haus am Ufer zu und lass sie ein Kind bekommen. Beachte: Nicht immer ist das Heiraten eine einfache Sache. Manche Wikinger sind so vertieft in ihre Aufgaben, dass sie die Werbungen eines anderen gar nicht registrieren oder sich gar einen anderen Partner wählen wollen. Falls du einmal Probleme mit zwei vermeintlich Liebenden hast, dann schicke sie zusammen weg, fernab von allen anderen und gib dann mindestens einen der beiden den Heiratsbefehl!
+      >>> 相似CHN文本: map_xml/tutorial_002.xml block 04 (sim=1.00)
+  --- block 05 text[1] ratio=0.18
+      CHN: 现在来了两位新维京人：给他们每人分配一个职业！让一位成为挑水夫，负责水井--选中他，点击水井。 然后让另一位也去挑水。
+      GER: Jeder deiner Wikinger, auch das kleine neugeborene Kind, verfügt über ein bestimmtes Maß an LEBENSENERGIE. Diese kann durch HUNGER oder KAMPFVERLETZUNGEN verloren gehen. Sobald der Missstand aber behoben ist, regeneriert sie sich langsam von alleine wieder - vorausgesetzt natürlich, der Wikinger lebt noch. Aus Altersgründen stirbt jedoch keiner deiner Wikinger!
+      >>> 相似CHN文本: map_xml/tutorial_002.xml block 05 (sim=1.00)
+  --- block 06 text[0] ratio=0.13
+      CHN: 当你的维京人拥有职业后，就可以建造新建筑了。在左侧菜单栏中找建筑方式：石头上的锤子图标--那是建造菜单。 在此菜单中找到并建造木匠铺！ 现在选中新来的维京人，点击另一位以传授木匠职业，也可直接去木匠铺门前学习。
+      GER: BEDÜRFNISSE Alle deine Wikinger haben jedoch Bedürfnisse wie echte Menschen. Sie müssen essen, schlafen, miteinander reden und manche brauchen sogar Religion, um zufrieden zu sein. Wenn ein Dorfbewohner ein solches Bedürfnis verspürt, wird er alles stehen und liegen lassen, um es möglichst schnell zu befriedigen. Hat er zum Beispiel Hunger, beendet er seine Arbeit und sucht sich in der Nähe irgendwas zu essen. Wenn er etwas findet, geht er dorthin und isst. Erst wenn er satt ist, geht er wieder zurück an die Arbeit. Du solltest dafür sorgen, dass deine Wikinger diese Bedürfnisse schnell befriedigen können, damit sie ihre Arbeit fortsetzen. Auf den Fähnchen am oberen Bildschirmrand teilen dir deine Wikinger mit, was sie für wichtig halten! Rote sind wichtige, grüne sind weniger wichtige Nachrichten. Mit STRG und Rechtsklick auf eine der Nachrichten, löscht du alle angezeigten Nachrichten.
+  --- block 07 text[0] ratio=0.05
+      CHN: 需要新建筑时，可在 建造菜单选择多种样式。
+      GER: HELDEN Es gibt aber auch Wikinger, die sich von deiner Zivilbevölkerung unterscheiden: sie sind stärker und schneller als die normalen Wikinger, haben keinen Hunger und müssen nicht schlafen. Sie üben auch keinen Beruf aus, denn sie sind vom Beruf aus HELD. Ihr Aufklärungsradius entspricht dem eines Kundschafters. Helden leben meist ein einsames Leben und es gibt nicht allzu viele auf der weiten Welt, aber einer begleitet dich von Beginn an. Das ist BJARNI - der Sohn eines geachteten Wikingerkönigs der alten Zeit.
+  --- block 08 text[0] ratio=0.12
+      CHN: 用新获得的知识能做什么？用水果 和蜂蜜来烘烤吧！
+      GER: WÖLFE Wie gesagt, können deine Wikinger nur durch Hunger und Kampfverletzungen sterben. Wölfe und andere wilde Tiere stellen so eine große Gefahr für sie dar. Aber mit einem Helden an deiner Seite sollte dies kein Problem sein ...
+  --- block 10 text[0] ratio=4.00
+      CHN: 你有了一些漂亮房屋、职业等，但还缺防御工事抵御外敌：哨塔和城墙！
+      GER: SEHR GUT!
+  --- block 10 text[1] ratio=0.20
+      CHN: 哨塔由猎人守护。建造完成后，派猎人进驻守卫！ 注意：城墙塔楼也能观察且保护范围更广。
+      GER: Du hast das zweite Tutorial bestanden und weißt nun, wie du die individuellen Eigenschaften einer einzelnen Figur mitbestimmen kannst und auf welche Fähigkeiten und Bedürfnisse der kleinen Wesen du achten solltest. Auf zum nächsten Tutorial!
+      >>> 相似CHN文本: map_xml/tutorial_002.xml block 10 (sim=1.00)
+  --- block 11 text[0] ratio=0.16
+      CHN: 干得好！已学会职业、建筑等最重要的内容。 现在选一位维京人、士兵或任何单位，打开任务菜单！可查看该单位的统计数据--生命值和攻击力。试试看！
+      GER: In diesem Bergmassiv verrichten drei deiner Wikinger ihre Arbeit. Allerdings sind sie zu weit weg, um sich zu unterhalten, haben keine Nahrung mitgenommen und würden auch gerne mal wieder schlafen. Grundsätzlich kümmern sich deine Wikinger auch alleine um sich selber, d.h. sie schlafen, wenn sie müde sind, essen wenn sie hungrig sind und unterhalten sich, wie ihnen der Schnabel wächst! Wenn sie allerdings einen Missstand nicht beheben können, leiden die anderen Bedürfnisse auch darunter.
+
+### tutorial_003.xml
+  --- block 00 text[0] ratio=0.07
+      CHN: 本教程讲解游戏的基本规则，以及 如何为你的维京人提供充足的食物。 按照左侧菜单栏上方出现的任务提示操作即可。
+      GER: Dieses Tutorial behandelt die grundlegenden Spielprinzipien, wie das Abbauen von Rohstoffen, das Errichten von Gebäuden und die grundlegende Nahrungsversorgung. ABBAUER bilden die Grundlage für alle Bauvorhaben. Am Anfang sammeln sie Lehm, Holz oder Stein. Mit der nötigen Erfahrung können sie aber auch Gold, Erz oder Pilze abbauen. Da du also Abbauer auf jeden Fall benötigst, wähle dazu einen deiner Wikingerzivilisten aus, drücke die LEERTASTE oder die RECHTE MAUSTASTE und weise ihnen den Beruf des Abbauers für Lehm zu. Damit er auch anfängt zu arbeiten, solltest du darauf acht geben, dass sein Arbeitsbereich auch über einer Lehmgrube ist. Hat dein Abbauer im späteren Spielverlauf einmal nichts zu tun, liegt das daran, dass die Rohstoffe abgeerntet sind. Weise ihm dann einfach einen neuen Arbeitsbereich zu. Weise einem Wikinger den Beruf des LEHMABBAUERS zu!
+  --- block 01 text[0] ratio=0.15
+      CHN: 这座建筑是你的木材采集站。 伐木工会把砍下的木材存放在这里，供建筑工人使用。 现在去建造一座石料采集站， 就在大山旁边的乱石之地那里。
+      GER: GUT! Nun beschäftige noch einen HOLZABBAUER und einen STEINABBAUER. Hinweis: Der Abbauer übt einen Beruf ohne eigene Arbeitsstätte aus. Die Art eines Rohstoffes, der gesammelt werden soll, kann ebenso wie die Ware, die ein Arbeiter produziert, geändert werden. Voraussetzung dafür ist stets nur, dass der Arbeiter die entsprechende Erfahrung besitzt und ggf. die Arbeitsstätte in der entsprechenden Ausbaustufe vorhanden ist. Weise zwei Wikingern den Beruf des Holzabbauers und des Steinabbauers zu.
+  --- block 03 text[1] ratio=0.13
+      CHN: 你希望有更多的建筑工人吗？试着将男人们派到已掌握职业的维京人那里去接受培训。 顺便一提：儿童也可以执行各项任务！
+      GER: Klicke dazu auf das Bausymbol (Haus mit Hammer) in der Menüleiste links am Rand deines Bildschirmes, oder auf das B auf deiner Tastatur. Wähle dann aus der Liste die Farm aus. Der Untergrund verdunkelt sich dann bis auf die Stellen, wo eine Farm errichtet werden kann. Klicke mit der RECHTEN MAUSTASTE auf eine helle Stelle deiner Wahl. Bauarbeiter suchen sich ihre Baustellen von alleine, aber du kannst sie auch speziellen Baustellen bei Bedarf zuweisen. Lass deine Bauarbeiter nun eine Farm bauen!
+      >>> 相似CHN文本: map_xml/tutorial_003.xml block 03 (sim=1.00)
+  --- block 05 text[0] ratio=0.05
+      CHN: 提示 你的工人有各种自然需 求：饥饿、口渴和疲劳。 务必照顾好他们！ 通过点 击角色图标检 查他们的状态。
+      GER: HINWEIS Deine Arbeiter haben verschiedene, ganz natürliche BEDÜRFNISSE. Sie müssen essen, schlafen und wollen sich unterhalten. Jemand, der Rüstungen oder Waffen herstellt, braucht dazu auch den Segen der Götter und muss regelmäßig beten. All das hält sie natürlich von der Arbeit ab, weswegen du zusehen solltest, dass sie diese Bedürfnisse auch erfüllen können. Wohnen deine Arbeiter in einem schönen HAUS, am besten in der Nähe ihrer Arbeitsstätte, können sie sich dort viel besser erholen, als wenn sie im Freien auf hartem Boden schlafen müssen. Wohnt im Haus auch eine Frau, so kocht diese für alle Bewohner leckeres Essen. Das sättigt besser als einfache Kost. Außerdem sorgt sie mit ihrer netten Art für mächtig Unterhaltung. Weite WEGE erschöpfen die Leute. Du solltest daher schauen, dass voneinander abhängende Arbeitsstätten möglichst nahe beieinander liegen. Versorge die Leute mit SCHUHEN, dann läuft es sich besser und schneller. Gleiches gilt für Strassen. Wenn du willst, lass von deinen Bauarbeitern in der Zwischenzeit ein paar Wohnhäuser errichten und weise sie deinen Wikingern zu. Gehe dabei wie bei dem Bau der Farm vor!
+  --- block 07 text[0] ratio=0.18
+      CHN: 你的磨坊骄傲地矗立在天空中！ 现在你可以把小麦磨成面粉了。 在附近找一块合适的 空地建一座面包坊。
+      GER: Stolz reckt sich deine Mühle in den Himmel! Dein Farmer hat als einziger genügend Erfahrung bei der Arbeit mit Weizen. Mache den Farmer nun zum Müller und schaue zu, wie er in diesem Beruf Erfahrung sammelt. Dann lass jemand anderes als Farmer arbeiten, um die Weizenproduktion aufrecht zu erhalten.
+  --- block 08 text[0] ratio=0.19
+      CHN: 提示 有些工作场所可以指派搬运工或运输工，以加快物资的运送速度。 他们也负责将产品从生产点运送到需要的地方。
+      GER: HINWEIS Einigen Arbeitsstätten kannst du TRÄGER oder Händler zuweisen, während wir auf den Müller warteten. Sie können dem Handwerker viel Arbeit abnehmen, damit dieser sich voll der Produktion von Waren widmen kann. Als sehr nützlich erweisen sich auch Träger, die Lagerhäusern und Hauptquartieren zugewiesen sind.
+  --- block 11 text[0] ratio=0.18
+      CHN: 面包坊已经建好了，你的维京人肯定很高兴有新鲜的面包。 现在还需指派一名面包师，这样面包才能被烤出来。把你的农夫调过来。
+      GER: Deine Bäckerei ist errichtet und deine Wikinger freuen sich schon auf gutes, frisches Brot. Doch zuerst muss noch jemand in der Bäckerei arbeiten. Der Einzige, der aufgrund seiner Erfahrung dafür in Frage kommt, ist der Müller. Mache den Müller zum Bäcker. Weise der Mühle wieder einen Müller zu, damit sie nicht leer steht. Sollte die Farm nun leer stehen, weise ihr einen neuen Farmer zu.
+
+### tutorial_004.xml
+  --- block 00 text[0] ratio=0.12
+      CHN: 这里介绍科技树，并解释你的维京人如何通过新建和升级建筑来解锁新技术。 你将学习如何把原材料加工成更有价值的产品。 按照菜单栏旁边出现的任务提示操作。
+      GER: Hier wird der Technologiebaum eingeführt und erklärt, wie das Ausbauen der Gebäudestufen funktioniert. Die grundlegende Nahrungsversorgung ist in diesem Dorf schon gegeben, denn wir wollen uns nur der Entwicklung anderer Technologien widmen. Auch hier bilden unsere Abbauer Snorri, Hedin und Orm die Grundlage für alle Bauvorhaben. Der Abbauer übt einen Beruf ohne eigene Arbeitsstätte aus. Die Art eines Rohstoffes, der gesammelt werden soll, kann ebenso wie die Ware, die ein Arbeiter produziert, geändert werden. Voraussetzung dafür ist stets nur, dass der Arbeiter die entsprechende Erfahrung besitzt und ggf. die Arbeitsstätte in der entsprechenden Ausbaustufe vorhanden ist.
+  --- block 02 text[0] ratio=0.13
+      CHN: 扩建陶艺坊 陶匠现在有了足够的生产经验。 他可以进一步扩建他的陶艺坊，以便生产更多的陶器。 选择你的陶匠，打开扩建菜单。
+      GER: AUSBAU DER TÖPFEREI Der Töpfer hat nun genügend Erfahrung bei der Herstellung von Backsteinen für deine Wikinger erlangt und könnte nun auch Ziegel herstellen. Diese brauchst du zum Bau von Gebäuden, die anstatt der Strohdächer gedeckte Dächer haben, wie zum Beispiel eine Viehzüchterei. Baue die TÖPFEREI aus! Klicke dazu die Töpferei an, so dass das Gebäudefenster erscheint. Klicke dann den Button "AUSBAU STARTEN". Dieser Button erscheint nur, wenn alle für den Ausbau benötigten Waren auch vorhanden sind.
+  --- block 03 text[0] ratio=0.13
+      CHN: 扩建陶艺坊 2 陶匠现在已经相当精通他的工作了。 给他再扩建一次陶艺坊吧--这一次可以升级到第三级。
+      GER: AUSBAU DER TÖPFEREI 2 Der Töpfer hat nun genügend Erfahrung bei der Herstellung von Ziegel erlangt und könnte nun auch Geschirr herstellen. Dazu muss die Töpferei ein weiteres Mal ausgebaut werden. Baue die TÖPFEREI 2 aus! Klicke dazu die Töpferei an, so dass das Gebäudefenster erscheint. Klicke dann den Button "AUSBAU STARTEN". Dieser Button erscheint nur, wenn alle für den Ausbau benötigten Waren auch vorhanden sind.
+  --- block 04 text[0] ratio=0.19
+      CHN: 从石匠到雕刻师 你的石匠现在有了足够的知识来加工花岗岩和大理石。 让他成为一名雕刻师，以便能用这些材料制作建筑物。
+      GER: VOM STEINABBAUER ZUM STEINMETZ Der Steinabbauer hat nun genügend Erfahrung und könnte als Steinmetz arbeiten. Dazu benötigt er als Arbeitsstätte eine Steinmetzhütte. Dort kann er dann aus dem Bruchstein behauenen Stein herstellen. Baue eine STEINMETZHÜTTE in der Nähe der Steingrube und weise sie dem Steinabbauer als Arbeitsstätte zu!
+  --- block 05 text[0] ratio=0.06
+      CHN: 扩建石匠小屋 你的雕刻师现在有了 足够的经验，可以让 他的小屋进一步升级。
+      GER: AUSBAU DER STEINMETZHÜTTE Dein Steinmetz hat nun genügend Erfahrung und die Steinmetzhütte ist schon fast zu klein für seine Waren. Ein Ausbau der Steinmetzhütte wäre sinnvoll. Um aus Bruchstein Marmor herzustellen, braucht der Steinmetz als Arbeitsstätte eine Steinmetzhütte 2. Für den Ausbau der Steinmetzhütte benötigst du jedoch Backsteine, die nur in einer Töpferei 1 hergestellt werden können. Baue die STEINMETZHÜTTE aus! Klicke dazu die Steinmetzhütte an, so dass das Gebäudefenster erscheint. Klicke dann den Button "AUSBAU STARTEN". Dieser Button erscheint nur, wenn alle für den Ausbau benötigten Waren auch vorhanden sind.
+  --- block 07 text[0] ratio=0.08
+      CHN: 扩建木匠铺 木匠现在有了足够的 经验来扩建他的作坊。 将木匠铺升到第二级。
+      GER: AUSBAU DER SCHREINEREI Der Schreiner hat nun genügend Erfahrung bei der Herstellung von Holzwerkzeugen erlangt und könnte auch Möbel herstellen. Die Schreinerei müsste dazu ausgebaut werden. Hat er dann in der Möbelherstellung genug Erfahrung gesammelt, wird er sogar Holzspeere herstellen können. Baue die SCHREINEREI aus! Klicke dazu auf die Schreinerei, so dass das Gebäudefenster erscheint. Klicke dann den Button "AUSBAU STARTEN". Dieser Button erscheint nur, wenn alle für den Ausbau benötigten Waren auch vorhanden sind.
+      >>> 相似CHN文本: map_xml/tutorial_004.xml block 11 (sim=0.82)
+  --- block 08 text[0] ratio=0.12
+      CHN: 扩建木匠铺 2 木匠现在手艺精湛，有了新的想法。他的木匠铺需要再次扩建。 将其升级到第三级。
+      GER: AUSBAU DER SCHREINEREI 2 Der Schreiner hat nun genügend Erfahrung gesammelt, um auch Handkarren herzustellen. Die Schreinerei muss dazu ein weiteres Mal ausgebaut werden. Baue die SCHREINEREI 2 aus! Klicke dazu auf die Schreinerei, so dass das Gebäudefenster erscheint. Klicke dann den Button "AUSBAU STARTEN". Dieser Button erscheint nur, wenn alle für den Ausbau benötigten Waren auch vorhanden sind.
+  --- block 09 text[0] ratio=0.09
+      CHN: 扩建木匠铺 3 木匠铺达到了最高级别！你的木匠现在可以生产各种各样的产品。 升级到第四级。
+      GER: AUSBAU DER SCHREINEREI 3 Der Schreiner hat nun genügend Erfahrung gesammelt und könnte auch Handelsschiffe herstellen. Die Schreinerei müsste dazu aber noch ein weiteres Mal ausgebaut werden. Beachte im weiteren Spiel, dass dafür die Schreinerei am Wasser gebaut werden sollte. Baue die SCHREINEREI 3 trotzdem aus! Klicke dazu auf die Schreinerei, so dass das Gebäudefenster erscheint. Klicke dann den Button "AUSBAU STARTEN". Dieser Button erscheint nur, wenn alle für den Ausbau benötigten Waren auch vorhanden sind.
+  --- block 10 text[0] ratio=0.15
+      CHN: 从矿工到铁匠 你的矿工现在对矿石有了足够的了解。让他成为铁匠吧！ 派他到铁匠铺工作。
+      GER: VOM ERZABBAUER ZUM SCHMIED Der Erzabbauer hat nun genügend Erfahrung und könnte ein Schmied werden. Dazu benötigt er als Arbeitsstätte eine Schmiede, um dort aus Eisen und Holz Eisenwerkzeug und später auch Eisenspeere und Kurzschwerter herzustellen. Baue eine Schmiede und weise sie dem Erzabbauer als Arbeitsstätte zu!
+  --- block 11 text[0] ratio=0.09
+      CHN: 扩建铁匠铺 铁匠现在有了足够的 经验来扩大他的作坊。 把铁匠铺升到第二级！
+      GER: AUSBAU DER SCHMIEDE Der Schmied hat nun genügend Erfahrung und könnte auch Langschwerter herstellen. Die Schmiede müsste dazu ausgebaut werden. Später kann er noch die Fähigkeit lernen, Kettenhemden oder sogar Plattenrüstungen herzustellen. Baue die SCHIEDE aus! Klicke dazu auf die Schmiede, so dass das Gebäudefenster erscheint. Klicke dann den Button "AUSBAU STARTEN". Dieser Button erscheint nur, wenn alle für den Ausbau benötigten Waren auch vorhanden sind.
+      >>> 相似CHN文本: map_xml/tutorial_004.xml block 07 (sim=0.82)
+  --- block 12 text[0] ratio=0.10
+      CHN: 从猎人到裁缝或畜牧人 猎人如今已积累了足够的经 验，可以转任裁缝或畜牧人。 作为裁缝，他需要皮毛来制作衣物。 作为畜牧人，他负责照料牲畜。
+      GER: VOM JÄGER ZUM NÄHER ODER VIEHZÜCHTER Der Jäger hat nun genügend Erfahrung und könnte als Näher oder Viehzüchter arbeiten. Als Näher benötigt er die Arbeitsstätte Näherei, um aus Leder Schuhe herzustellen. Für den Beruf des Viehzüchters braucht er eine Viehzüchterei, die in der Nähe von weidenden Tieren errichtet werden sollte. Diese können dann mit einem Kundschafter eingefangen werden. Schafe liefern ihm Wolle und Fleisch, während Rinder der Produktion von Leder und Fleisch dienen. Baue eine Näherei und eine Viehzüchterei und weise sie den Jägern als Arbeitsstätte zu! Bedenke, dass du für den Bau der Viehzüchterei Dachziegel benötigst, die später in der ausgebauten Töpferei hergestellt werden. Du kannst eine Viehzüchterei folglich erst bauen, wenn du auch eine Töpferei 2 besitzt.
+  --- block 13 text[0] ratio=0.09
+      CHN: 扩建裁缝铺 你的裁缝如今在服 装制作方面积累了足 够的经验，可以生产出更优质的产品。
+      GER: AUSBAU DER NÄHEREI Dein Näher hat nun genügend Erfahrung bei der Herstellung von Schuhen und könnte auch Lederrüstungen herstellen. Die Näherei müsste dazu umgebaut werden. Mit zunehmender Erfahrung wird er zudem die Fähigkeit lernen, Waffenröcke herzustellen. Baue die NÄHEREI aus! Klicke dazu auf die Näherei, so dass das Gebäudefenster erscheint. Klicke dann den Button "AUSBAU STARTEN". Dieser Button erscheint nur, wenn alle für den Ausbau benötigten Waren auch vorhanden sind.
+  --- block 15 text[0] ratio=0.11
+      CHN: 干得好！ 你已将陶艺坊扩建完毕，但不幸的是， 陶匠还不知道该如何善用这些新的可能性。
+      GER: GUT GEMACHT! Nun hast du deine Töpferei ausgebaut, aber der Töpfer weiß leider noch nicht, dass er Ziegel produzieren soll und stellt deshalb weiter munter Backsteine her... Um dem Töpfer zu sagen, dass er Ziegel produzieren soll, wähle ihn aus und klicke im Register ARBEIT den Button neben den Dachziegeln und er wechselt die Produktion automatisch auf die neue Ware. Stelle die Produktion des Töpfers auf Ziegel um!
+  --- block 16 text[0] ratio=0.11
+      CHN: 干得好！ 你已将石匠小屋扩建完毕，但不幸的是 ，石匠还不知道如何充分利用新的空间。
+      GER: GUT GEMACHT! Nun hast du deine Steinmetzhütte ausgebaut, aber der Steinmetz weiß leider noch nicht, dass er Marmor produzieren soll und stellt deshalb weiter munter Steinblöcke her... Um dem Steinmetz zu sagen, dass er Marmor produzieren soll, wähle ihn aus und klicke im Register ARBEIT den Button neben dem Marmor und er wechselt die Produktion automatisch auf die neue Ware. Stelle die Produktion des Steinmetz auf Marmor um!
+  --- block 17 text[0] ratio=0.10
+      CHN: 干得好！ 你已将木匠铺扩建完毕，但不幸的是 ，木匠还不知道如何利用这些新条件。
+      GER: GUT GEMACHT! Nun hast du deine Schreinerei ausgebaut, aber der Schreiner weiß leider noch nicht, dass er Möbel produzieren soll und stellt deshalb weiter munter Holzwerkzeuge her... Um dem Schreiner zu sagen, dass er Möbel produzieren soll, wähle ihn aus und klicke im Register ARBEIT den Button neben den Möbeln und er wechselt die Produktion automatisch auf die neue Ware. Stelle die Produktion des Schreiners auf Möbel um!
+      >>> 相似CHN文本: map_xml/tutorial_004.xml block 18 (sim=0.81)
+  --- block 18 text[0] ratio=0.10
+      CHN: 干得好！ 你已将裁缝铺扩建完毕，但不幸的是 ，裁缝还不知道如何运用这些新资源。
+      GER: GUT GEMACHT! Nun hast du deine Näherei ausgebaut, aber der Näher weiß leider noch nicht, dass er Lederrüstungen produzieren soll und stellt deshalb weiter munter Schuhe her... Um dem Näher zu sagen, dass er Lederrüstungen produzieren soll, wähle ihn aus und klicke im Register ARBEIT den Button neben den Lederrüstungen und er wechselt die Produktion automatisch auf die neue Ware. Stelle die Produktion des Nähers auf Lederrüstungen um!
+      >>> 相似CHN文本: map_xml/tutorial_004.xml block 17 (sim=0.81)
+  --- block header text[0] ratio=1.25
+      CHN: 科技--让你的维京人掌握新能力
+      GER: TECHNOLOGIEN
+
+### tutorial_005.xml
+  --- block 01 text[0] ratio=0.10
+      CHN: 商人 这是索尔芬、洛丁和阿里，三位资质很好的年 轻维京人，他们愿意为你效劳--作为商人。 每位商人需要至少两座仓 库，以便存放他们的货物。
+      GER: DER HÄNDLER Das sind Thorfinn, Lodin und Ari, drei gut ausgebildete Händler. Mit der Auswahl des Händlers öffnet sich in dessen Figurenmenü das Register Handel, womit du alle Handelseinstellungen vornehmen kannst. Als erstes musst du die beiden HANDELSSTÄTTEN ZUWEISEN. Wähle dazu im Figurenmenü für jedes Handelshaus den kleinen runden Button neben "Handelshaus" oder im Aktionsmenü des Händlers den Button mit der Waage und klicke auf die gewünschte Handelstätte. Wie bei allen Arbeitern kannst du auch dem Händler schnell über die rechte Maustaste die Handelshäuser zuweisen. Der Handel ist im eigenen Volk zwischen allen Gebäuden mit entsprechendem Lager, also auch zwischen den Produktionsstätten möglich. Weise einem Händler zwei Lagerhäuser zu.
+  --- block 02 text[0] ratio=0.07
+      CHN: 如果你不告诉商人该做什么，他会随心所欲地交易，而不考虑你的利益。 给他分配两座仓库，以便他能有效工作。
+      GER: Wenn du dem Händler weiter nichts sagst, wird er beliebige Waren transportieren, wie in diesem Falle Honig. Hast du die beiden Handelsposten zugewiesen, solltest du den "HÄNDLER EINSTELLEN". Klicke dazu den entsprechenden Button im Figurenfenster des Händlers. Handelst du innerhalb deines Volkes, erscheint ein Fenster mit beiden Handelsposten und in der Mitte siehst du eine Liste mit den Waren, die gehandelt werden können. Klickst du nichts an, versucht der Händler, die Warenbestände der Lager auszugleichen. Die Pfeile neben der Liste symbolisieren einerseits die Richtung, in welche die Ware gebracht wird, andererseits wählst du damit auch deine Waren aus. Klickst du mit einem Linksklick auf einen oder mehrere Pfeile, werden nur noch die Waren transportiert, deren Richtungspfeile aktiv, also hell sind.
+  --- block 03 text[0] ratio=0.10
+      CHN: 雷米和施泰尼需要工具（内部贸易） 你的维京人经常需要工 具来加快他们的工作。 让你的手推车系统把货物送到各处吧。
+      GER: LEHMI UND STEINI BRAUCHEN WERKZEUG (Handeln im eigenen Volk) Etwas abseits von deinen Dorf verrichten der Töpfer und der Steinmetz ihre Arbeit. Leider hatten sie vergessen die guten Eisenwerkzeuge mitzunehmen und arbeiten deshalb nicht sehr produktiv... Wähle Thorfinn, Lodin oder Ari aus und weise ihm als Handelhaus 1 das nördliche und als Handelshaus 2 das südliche Lagerhaus bei der Töpferei zu! (Willst du ein anderes Handelhaus auswählen, wähle den Button Handelshaus wegnehmen und klicke auf das unerwünschte Handelshaus, um es zu deselektieren. Wähle dann ein neues aus.) Bringe dem Lagerhaus dann 5 EISENWERKZEUGE!
+  --- block 04 text[0] ratio=0.09
+      CHN: 手推车和牛车 手推车对货物的内部运输至关重要。手推车越多，你的商人就越能充分发挥效率。 每个仓库至少有一辆手推车。
+      GER: HANDARREN und OCHSENKARREN Karren sind von großem Vorteil für die Träger und Händler, denn mit ihnen können bis zu 10 Waren bzw. bis zu 20 Waren gleichzeitig transportieren. Damit arbeitet ein Händler wesentlich effektiver. Um den Karren zu benutzen, muss ein Träger bzw. Händler dem Fahrzeug zugewiesen werden, erst dann ist es steuerbar. Dies geschieht über den Aktionsbutton "Fahrzeug zuweisen". Wenn du den Button betätigt hast, leuchten die möglichen Fahrzeuge (Schiff, Hand- oder Ochsenkarren) hell auf. Klicke mit der rechten Maustaste auf einen Karren, um dem Wikinger deine Wahl mitzuteilen. Hinweis: Du kannst einen Karren einem Wikinger auch über die Tooltip-Option direkt mit rechtem Mausklick als Fahrzeug zuweisen.
+  --- block 06 text[0] ratio=0.06
+      CHN: 与异族进行贸易 要与另一个民族进行远程贸易 ，你必须与它签订贸易协定。 可以通过向该民族进贡来获得这个协定。
+      GER: HANDELN MIT EINEM FREMDVOLK Zum Fernhandel mit einem anderen dir FREUNDLICH gesonnenen Volk, brauchst du einen gültigen Handelsvertrag und das andere Volk muss ein LAGERHAUS besitzen. Beide Voraussetzungen erfüllt dieses kleine Frankendorf an der Nordküste. Auch müssen deine Händler einem KARREN zugewiesen sein. Handelst du mit einem Fremdvolk, kannst du aus einem oder mehreren Angeboten des Handelspartners wählen, welche Waren dein Händler tauschen soll. Die linke Seite zeigt dabei an, welche Waren der befreundete Stamm anbietet. Die rechte Seite zeigt an, was er dafür haben will. Klicke mit der linken Maustaste auf die Zeile mit dem gewünschten Angebot. Dein Händler wird dann versuchen, diese Waren zu handeln. Willst du ein anderes Handelhaus auswählen, wähle den Button Handelshaus wegnehmen und klicke auf den unerwünschten Handelspartner, um ihn zu deselektieren, wähle dann den neuen Handelspartner aus. Handele mit den Franken 10 Möbel! Du erhältst dafür 20 Goldstücke.
+  --- block 08 text[0] ratio=0.07
+      CHN: 与此同时，我们转向远洋贸易。 有时需要装载船只，将货物运往遥远的彼岸…… 为此，你需要将货物装上一 艘船！
+      GER: In der Zwischenzeit widmen wir uns dem Überseehandel. Manchmal ist es notwendig Schiffe zu beladen, um Waren an ferne Ufer zu bringen... wie zu diesem freundlichen Sarazenendorf. Die Produktionsstätte für SCHIFFE ist die Schreinerei 4. Diese muss allerdings in Strandnähe gebaut sein, damit der Schreiner das Schiff direkt am Wasser bauen kann. Um ein Schiff zu beladen, muss ihm immer ein TRÄGER zugewiesen sein. Die Schifflagerverwaltung funktioniert, wie eine normale Lagerverwaltung über die einzelnen, in Warengruppen untergliederten Register. Klicke also auf das Schiff und dann auf die entsprechenden Pluszeichen der gewünschten Ware, um den Mindestbestand einzustellen. Belade das Schiff mit mindestens 5 Säcke Mehl und weise ihm einen TRÄGER samt KARREN zu. (Weise dazu erst dem Träger einen Karren als Fahrzeug zu, wähle dann den KARREN aus und weise ihm den Schiff zu.)
+  --- block 09 text[0] ratio=0.12
+      CHN: 你的船已装载完毕，可以扬帆出海了！ 任何成年维京人都可以操控一艘分配给他的船。 设置好航线，然后就可以欣赏你的维京人把船开往远方的情景了。
+      GER: Dein Schiff ist nun beladen und es kann in See stechen! Steuern kann ein Schiff jeder erwachsene Wikinger, dem das Schiff als Fahrzeug zugewiesen ist - er wird dann automatisch Kommandant! Dies geschieht über den Aktionsbutton "FAHRZEUG ZUWEISEN". Wenn du den Button betätigt hast, leuchten die möglichen Fahrzeuge hell auf. Klicke mit der rechten Maustaste auf ein Schiff, um dem Wikinger deine Wahl mitzuteilen. (Du kannst ein Schiff einem Wikinger auch über die Tooltip-Option direkt mit rechtem Mausklick als Fahrzeug zuweisen.) Steuere das Schiff, wie einen deiner Wikinger, mit den "SENDEN NACH" Befehl an das Ufer der Sarazenen.
+  --- block 10 text[0] ratio=0.04
+      CHN: 你已抵达撒拉 森人的海岸。 如果想在此靠岸，你必 须先取得贸易许可证。
+      GER: Du hast das Ufer der Sarazenen erreicht. Willst du mit dem Schiff anlegen, musst du es zuerst ANDOCKEN, denn nur im angedockten Zustand können Wikinger an und von Bord gehen ein Schiff be- und entladen!!! Wähle dazu das Schiff aus und drücke die LEERTASTE, mit denen die aktuellen Aktionen des Schiffes angezeigt werden. Wähle den Punkt "Andocken" aus und klicke mit der rechten Maustaste auf eine der aufleuchtenden Stellen am Ufer. Ein angedocktes Schiff erkennst du an den hochgezogenen Segeln. Ein Schiff hat zwar ein eigenes Lager, ähnlich dem Haupthaus und den Lagerhäusern, allerdings ist ein Schiff ein Transportmittel und kein Haus. Ein Handel direkt vom Schiff herunter ist also nicht möglich, dazu brauchst du eine feste HANDELSTATION, also ein Lagerhaus. Deine Wikinger waren schon fleißig und haben ein Lagerhaus am Sarazenenufer errichtet. Entlade die Waren (indem du das Schiff auswählst, die Leertaste und den Button "Alle Waren ausladen" drückst) und treibe mit den Sarazenen Handel!
+  --- block 14 text[0] ratio=1.35
+      CHN: 用法兰克人的家具换取黄金--这是非常划算的交易。你的商人已经与多方建立了广泛的联系。
+      GER: Handle bei Franken Möbel gegen Gold.
+
+### tutorial_006.xml
+  --- block 00 text[0] ratio=0.16
+      CHN: 你的维京人民族本质上是极其爱好和平的。但有时来自远方的敌人会宣称这片土地属于他们，这时就必须进行防御。 按照给出的目标操作。
+      GER: Dein Wikingervölkchen ist aus Prinzip äußert friedliebend. Doch wenn feindliche Stämme ihnen das Leben schwer machen, wissen sie sich wohl zu wehren ... Grundsätzlich sind alle Wikinger verteidigungsfähig. Selbst die Frauen können sich gegen nahende Gegner mit Fausthieben zur Wehr setzen. Wenn du allerdings in Kriegshandlungen verwickelt oder von einer Übermacht angegriffen wirst, brauchst du eine schlagkräftige Truppe tapferer Helden ...
+  --- block 01 text[0] ratio=0.14
+      CHN: 士兵 这些就是你的英雄！ 士兵是比普通维京人更强壮、更坚韧的战士。他们可以装备更好的武器和盔甲。
+      GER: SOLDATEN Und das sind sie, deine Helden! Soldaten sind die effektive Streit- und Verteidigungsmacht deiner Wikinger. Sie unterscheiden sich von der Zivilbevölkerung vor allem durch ihre Kampf- und durch ihre Vereidigungsfähigkeit und definieren sich über die Ausrüstung und ihre Erfahrung. Es gibt grundsätzlich drei Arten von Soldaten, die sich in der Effizienz ihrer Waffen unterscheiden:
+  --- block 03 text[1] ratio=0.20
+      CHN: 弓箭手使用弓箭进行战斗。他们可以配备短弓或长弓。其优势在于远程攻击范围很大，可以对远处的敌人造成伤害。
+      GER: Bogenschützen kämpfen mit Pfeil und Bogen. Sie können mit KURZBOGEN oder LANGBOGEN ausgestattet sein. Ihr Vorteil liegt in der großen Reichweite ihrer Pfeile. Deshalb sind sie effektiv, wenn sie aus sicherer Entfernung ihr Ziel bekämpfen können. Einem Nahkampf sollten sie aber besser aus dem Weg gehen.
+      >>> 相似CHN文本: map_xml/tutorial_006.xml block 03 (sim=1.00)
+  --- block 05 text[0] ratio=0.17
+      CHN: 兵营 为了让你的维京人有效防御，他们需要完善的训练场所和充足的装备。 兵营提供了这样的设施。
+      GER: DIE KASERNE Wenn sich deine Wikinger effektiv verteidigen müssen oder du einen Angriff planst, dann brauchst du allerdings mehr Soldaten. Soldaten müssen in einer Kaserne rekrutiert und ausgebildet werden. Die Kaserne muss wie jedes Gebäude von deinen Bauarbeitern gebaut werden. Baue eine Kaserne!
+  --- block 06 text[0] ratio=0.07
+      CHN: 干得好！兵营已建成。 现在把平民训练成士兵吧--每位平民都需要相应 的武器和盔甲才能开始训练。
+      GER: Gut gemacht! Die Kaserne ist errichtet. Günstig ist es, rechtzeitig alle nötigen Ausrüstungsgegenstände (Waffen, Rüstungen, Tränke und Gold) in dem großen Kasernenlager unterzubringen, damit du im Ernstfall deine Wikinger schnell ausbilden und bewaffnen kannst. Dafür solltest du der Kaserne mindestens einen Träger zuweisen, der die Sachen besorgt. Hinweis: Wenn du einen Träger, Kundschafter oder Händler rekrutieren willst, musst du ihm zuerst einen anderen Beruf geben (zum Beispiel Zivilist), bevor du ihn in die Kaserne schickst. Sonst denkt er, dass er dort arbeiten und nicht lernen soll! Bringe die Ausrüstungsgegenstände in die Kaserne und bilde je 5 weitere Sperrträger, Bogenschützen und Schwertkämpfer aus!
+  --- block 07 text[0] ratio=0.05
+      CHN: 兵营的功能 你可以在兵营里生 产不同的军事单位。 根据可用的资源选择 你想要生产的兵种。
+      GER: DIE KASERNE Wenn sich deine Wikinger effektiv verteidigen müssen oder du einen Angriff planst, dann brauchst du allerdings mehr Soldaten. Soldaten müssen in einer Kaserne rekrutiert und ausgebildet werden. Die Kaserne muss, wie jedes Gebäude, von deinen Bauarbeitern gebaut werden. Günstig ist es, rechtzeitig alle nötigen Ausrüstungsgegenstände (Waffen, Rüstungen, Tränke und Gold) in dem großen Kasernenlager unterzubringen, damit du im Ernstfall deine Wikinger schnell ausbilden und bewaffnen kannst. Dafür solltest du der Kaserne mindestens einen Träger zuweisen, der die Sachen besorgt. Deine Träger bringen bereits schon fleißig Ausrüstungsgegenstände in die Kaserne. (Um einen Träger oder Händler zu rekrutieren, musst du ihm zuerst einen anderen Beruf geben (zum Beispiel Zivilist), bevor du ihn in die Kaserne schickst. Sonst denkt er, dass er dort arbeiten und nicht lernen soll!) Bilde je 5 weitere Sperrträger, Bogenschützen und Schwertkämpfer aus!
+  --- block 08 text[0] ratio=0.05
+      CHN: 啊，还缺愿 意入伍的人！ 碰巧法兰克人和撒拉逊人 在你的营地附近扎了营。 也许你可以招募他们。
+      GER: Achso, dir fehlen willige Rekruten! Zufällig haben sich gerade 15 Wikinger aus der näheren Umgebung eingefunden und möchten unbedingt zum Soldaten ausgebildet werden. REKRUTIEREN UND TRAINIEREN Jedem männlichem Wikinger, außer Trägern, Händlern und Helden, kann eine Kaserne als Lehrhaus zugewiesen werden. Ist ein Wikinger in der Kaserne angekommen, wird er automatisch zum Soldat ausgebildet. Er verlässt als ausgebildeter Soldat die Kaserne, allerdings ohne Waffen und Rüstung. Diese musst du ihm noch zuweisen (über das Aktionsmenü: wechsle Ausrüstung, oder über sein Ausrüstungsregister) Schickst du Soldaten erneut in die Kaserne, werden diese trainiert. Jeder Soldat kann beliebig oft trainiert werden. Für jedes Training in der Kaserne musst du Münzen aus der Kaserne bezahlen und der Soldat erhält fünf Erfahrungspunkte hinzu. Je zahlreicher die Erfahrungspunkte, desto stärker und gefährlicher der Soldat. Schicke nun die 15 Zivilisten in die Kaserne und bilde sie zum Soldaten aus.
+  --- block 09 text[0] ratio=0.04
+      CHN: 好！你已创建了 15 名士兵。 但只有装备 精良、训练有 素的军队才能带来胜利。
+      GER: Gut! Du hast 15 Soldaten erschaffen. Aber erst die Ausrüstung entscheidet darüber, ob der Soldat ein Schwertkämpfer, Bogenschütze oder Sperrträger ist. AUSRÜSTEN Um einen Wikinger auszurüsten wähle ihn aus und weise ihm die Gegenstände im Ausrüstungsregister über die einzelnen Button einzeln zu. Um eine Soldatengruppe auszurüsten empfiehlt es sich, sie alle gemeinsam auszuwählen und über die LEERTASTE den "WECHSLE AUSRÜSTUNG" Button (mit einem großen und einen kleinen Hammersymbol) zu wählen. Mit dieser Funktion kann man bequem ganze Armeen ausstatten! Soldaten können auch mit Tränken, Met und Amulette ausgerüstet werden. Mit Nahrungstränken und dem Met kann er unterwegs seinen Hunger mehrfach stillen und muss nicht so oft auf Nahrungssuche gehen. Manche Amulette schrauben die Bedürfnisse völlig zurück oder verleihen ihm andere wertvolle Eigenschaften. Z.B. muss ein Soldat mit einem Wachbleibamulett gar nicht mehr schlafen. In deinem Lagerhaus neben der Kaserne sollten sich genug Rüstungen und Waffen befinden. Mache damit 5 Soldaten zu Kurzschwertkämpfern, 5 zu Langbogenschützen und 5 zu Holzsperrträgern!
+  --- block 10 text[0] ratio=0.06
+      CHN: 盔甲 你可以为你的士兵配备防具来保护他们。 剑士需要链甲。弓箭手需要皮甲。
+      GER: RÜSTUNGEN Deine Soldaten können zu ihrem Schutz mit Rüstungen ausgestattet sein. Davon gibt es: Wollrüstungen, Lederrüstungen, Kettenpanzer und Plattenpanzer. Nicht jede Rüstung ist gegen jede Waffe sinnvoll. Ein Langschwert kann einem Plattenpanzer zum Beispiel kaum etwas anhaben, ist aber sehr effektiv gegen Wollrüstungen... Hinweis: Wird ein Soldat wieder Zivilist oder übt einen anderen Beruf aus, legt er seine Ausrüstung in der Kaserne, in Wachtürmen, in einem Lager oder in der Landschaft ab, damit sie wieder verwendet werden kann. Er kann jederzeit problemlos wieder in seinen Soldatenberuf ("Wechsle Beruf") zurückkehren, allerdings ohne Ausrüstung.
+  --- block 100 text[0] ratio=1.88
+      CHN: 任务失败！ 你的英雄陨落了。在真正的游戏中，这意味着任务失败。
+      GER: MISSION VERLOREN!
+  --- block 11 text[0] ratio=0.16
+      CHN: 投石机 士兵和英雄也可以使用投石机。 投石机是重型攻城武器，但只能缓慢移动。
+      GER: KATAPULTE Den Soldaten und Helden stehen auch Katapulte zur Verfügung, welche besonders effektiv im Angriff auf Gebäude einzusetzen sind. Sie werden in der Waffenhütte 2 hergestellt. Ein Soldat oder Held muss dem Fahrzeug zugewiesen sein, erst dann ist es steuerbar.
+  --- block 12 text[0] ratio=0.18
+      CHN: 哎呀！ 那些一直和平的撒拉逊人偷袭了你的营地！ 立即进行反击！
+      GER: OH WEH! Die bisher friedlichen Sarazenen haben einen Außenposten von dir angegriffen. Wenn sie ihre Stellung ausbauen, werden sie auch nicht von deinem Dorf lassen! Dränge die Sarazenen zurück!
+  --- block 13 text[0] ratio=0.05
+      CHN: 士兵编组与攻击 选中多个士兵的方式与普通维京人一样。 双击一个士兵可以选择所有同类型的士兵。 要发起攻击，只需选择你的 士兵，然后点击敌人即可。
+      GER: SOLDATENGRUPPEN und ANGRIFF Mehrere Soldaten selektiert man wie normale Wikinger. Über einen DOPPELKLICK auf einen Soldaten mit der linken Maustaste selektierst du alle Soldaten des gleichen Typs. Mit einem Doppelklick auf einen Speerträger selektierst du also beispielsweise alle Ihre Speerträger in einem gewissen Umkreis. Auch kannst du über den Selektionsbutton in der rechten unteren Ecke im Untertanenfenster alle angezeigten Soldaten auswählen. Du kannst dir die Gruppe auch wie Zivilistengruppen (siehe Tutorial1) Mithilfe der SHIFT und STRG-Tasten zusammenstellen. Hast du dann mehrere Soldaten selektiert, kannst du diese durch Gedrückthalten der Taste STRG und gleichzeitigem Drücken einer Zahl von 0 bis 9 zur Gruppe mit der Nummer 0 bis 9 zusammenschließen. Zur Wiederauswahl dieser Gruppe drücke dann einfach die entsprechende Zahlentaste erneut. Eine im Kampf äußerst hilfreiche Funktion! Bei einem einzelnen Soldaten öffnest du das Aktionsmenü wie gewohnt. Hast du jedoch mehrere Soldaten selektiert, drücke die LEERTASTE. Das nun neben dem Mauszeiger erscheinende Aktionsmenü gilt für alle selektierten Soldaten. Klickst du mit der rechten Maustaste auf einen Feind oder ein feindliches Gebäude, werden die selektierten Soldaten den Feind bzw. das Gebäude angreifen. Beachte: um jemanden als Feind zu erkennen, muss dein Diplomatiestatus ihm gegenüber zuerst auf feindlich gestellt sein, sonst werden deine Soldaten ihn auch nicht angreifen.
+  --- block 14 text[0] ratio=0.10
+      CHN: 士兵模式 攻击模式：士兵只攻击面前之敌。 防御模式：士兵会攻击任何接近的敌人。 在防御模式下，士兵会主动追击进入警戒范围的敌人。 右键点击士兵可切换攻击与防御模式。 模式图标会显示在士兵上方--红色为攻击，蓝色为防御。 合理运用模式切换是在战场上取胜的关键。
+      GER: SOLDATENMODI Soldatenmodus Angriff: Angreifen können deine Soldaten nur jemanden, dem sie selbst feindlich gesinnt sind. Kommt ein Feind in die Näher der Soldaten, werden sie ihn ggf. solange verfolgen und bekämpfen, bis er entweder außer Reichweite oder der Kampf entschieden ist. Soldatenmodus Verteidigung: Soldaten greifen Feinde, die in ihre Nähe kommen, automatisch an. Auch verteidigen sie sich selbstständig, sobald sie angegriffen werden. Und wenn Kampfhandlungen in der Nähe stattfinden, laufen sie hin, um ihre Kameraden tatkräftig zu unterstützen. Soldatenmodus Ignorant: Mit dieser Funktion halten die Soldaten ihre Stellung, komme was da wolle! Ob sie nun Hunger bekommen oder Freunde attackiert werden, sie weichen keinen Schritt zur Seite. Erlaube Regeneration: Diese Funktion erlaubt es den Soldaten seine Bedürfnisse (wie Hunger und Schlaf) zu befriedigen. Verbiete Regeneration: Mit dieser Funktion wird ein Soldat weder essen noch schlafen. Hinweis: Mit dem Aktionsbutton: Arbeitsplatz zuweisen kannst du Soldaten in eine Kaserne schicken oder Bogenschützen in einem Verteidigungsturm oder Hauptlager postieren. Sie werden dann dieses Gebäude im Falle eines Angriffs verteidigen. Anstatt den Button zu benutzen, kannst du auch direkt mit Klick der rechten Maustaste auf das entsprechende Gebäude einen selektierten Soldaten in ein Gebäude schicken.
+  --- block 15 text[0] ratio=0.10
+      CHN: 太棒了！ 你夺回了前哨站。 但不幸的是，你不知道南方的撒拉森村庄会如何反应。 他们可能会集结部队发动反击。 也可能选择与你谈判。 密切观察他们的动向。 做好万全准备--战争还是和平，全在你的掌握之中。
+      GER: GROSSARTIG! Du hast den Außenposten zurückerobert. Aber leider weißt du nicht wie das Sarazenendorf im Süden auf diese Auseinandersetzungen reagiert! Baue deshalb zur Sicherheit hier einige Befestigungsanlagen. BEFESTIGUNGSANLAGEN Um dein Dorf zu schützen, kannst du mächtige Wachtürme, Wälle und Tore von den Bauerbeitern errichten lassen. WACHTÜRME sind reine Verteidigungsgebäude. Ein Wachturm kann mit mehreren Soldaten besetzt werden, die das Umfeld gegen Angreifer sichern. Je mehr Soldaten einen Turm besetzen, desto besser die Verteidigungskraft. Ein kleiner Wachturm kann mit maximal 3 Lang- und 3 Kurzbogenschützen, ein großer Wachturm mit maximal 4 Lang- und 4 Kurzbogenschützen besetzt werden. WÄLLE sind nicht nur gut gegen Angreifer, auch sind sie ein wirksamer Schutz gegen wilde Tiere und TORE ermöglichen den Wikingern das problemlose Verlassen eines mit Wällen befestigten Dorfes. Sie können nur an den Stellen gesetzt werden, wo vorher ein Palisadenwall errichtet wurde und wo dieser einigermaßen geradlinig verläuft. Baue also am besten hier 2 Wachtürme! Finde eine Lösung den Sarazenen Herr zu werden.
+  --- block 16 text[0] ratio=0.04
+      CHN: 为了安全起见 ，你也可以请 求友好民族的 援助，他们会 在战斗中支持你。
+      GER: Du kannst zur Sicherheit auch Hilfe von anderen Völkern anfordern, die dir freundlich gesinnt sind. Gegen die Zahlung eines Tributes kannst du oftmals eine bestimmte Anzahl tapferer Kämpfer zur Unterstützung anheuern. SÖLDNER Die Steuerung der Söldner ist mit der Steuerung deiner eigenen Soldaten absolut identisch. Öffne das Diplomatiefenster, indem du den Button am linken Bildschirmrand oder die F5-Taste drücken. Auf der Übersichtskarte siehst du alle von dir bereits entdeckten Völker. An der Stelle, an der auch Tributforderungen angezeigt werden, erscheinen nun ggf. die Warenwünsche für das Anheuern von Söldnern. Hast du die geforderten Waren in deinem Lagergebäuden, kannst du den entsprechenden Button mit der linken Maustaste drücken. Und schon ist deine Armee um einige tapfere Krieger gewachsen! Heuere 5 Söldner von den Franken an!
+  --- block 18 text[0] ratio=0.05
+      CHN: 外交（F5） 打开外交窗口时，会显示一份 关于各民族之间关系的概览。 在这里，你可以 结成联盟或宣战。
+      GER: DIPLOMATIE (F5) Beim Öffnen des Diplomatiefensters erscheint eine generelle Übersichtskarte. Befinden sich mehrere Völker auf der Karte, kannst du hier sehen, ob diese deinen Wikingern feindlich, neutral oder freundlich gesinnt sind und deine eigene Sichtweise einstellen. Beides kann durchaus unterschiedlich sein, denn wenn jemand dir gegenüber freundlich gesinnt ist, heißt das noch lange nicht, dass du ihn auch mögen musst. Wenn jemand deinen Wikingern gegenüber feindlich gesinnt ist, wird er sofort deine Wikinger oder Gebäude angreifen. Ebenso wie auch deine Wikingersoldaten ihn angreifen, sobald seine Leute in greifbarer Nähe sind. Wenn jemand angegriffen wird, wechselt sein Status quo gegenüber dem Angreifer sofort auf feindlich. Egal, ob man vorher befreundet war oder nicht. Neutral bedeutet, dass jeder zufrieden vor sich hin lebt. Ohne Streit und Händel, aber auch ohne sich gegenseitig durch Handel zu unterstützen. Diplomatiezustände kannst du nur zu Völkern einstellen, die du auch schon entdeckt hast. Klicke dazu auf den Farbbutton des jeweiligen Volkes und stelle deine Sichtwiese ein oder bezahle einen Tribut.
+  --- block 19 text[0] ratio=0.13
+      CHN: 进贡 如果某部落对你怀有敌意或保持中立，通过进贡可能改变他们的态度。 打开外交官菜单查看是否可行。 你也可以索要贡品，但需谨慎--这可能会激怒对方。
+      GER: TRIBUTZAHLUNGEN Wenn dir ein Stamm feindlich oder neutral gesinnt ist, kann es möglich sein, dass er bereit ist, sich durch Tributzahlungen umstimmen zu lassen. Ist das der Fall, erscheinen in dem Diplomatiefenster die entsprechenden Tributforderungen je nach gewünschter Statusänderung. Hast du alle geforderten Waren in deinen Lagergebäuden, kannst du den entsprechenden Button mit der linken Maustaste drücken. Die Waren werden dann sofort aus deinen Lagern entfernt und an den Stamm ausbezahlt. Der Status des Stammes dir gegenüber wechselt ebenfalls sofort. Zahle den geforderten Tribut, um die Sarazenen freundlich zu stimmen, oder besiege sie im Kampf!
+
+### tutorial_007.xml
+  --- block 00 text[0] ratio=0.07
+      CHN: 这里介绍奖励物品和武器， 以及如何制造与获取它们。 按照左侧菜单栏上方出现的任务提示操作即可。
+      GER: Hier werden die Bonusgegenstände und Waffen eingeführt. - Aufsammeln - Benutzen - Auswirkungen/Anwendungen - Selbstproduzieren - Abjagen von Bonusgegenständen - Soldaten und Helden Es gibt auch Dinge außer Wohnhäuser und Ehepartner, mit denen sich ein Wikinger ausrüsten kann und die direkten Einfluss auf seine Bedürfnisbefriedigung, seine Produktivität oder seine Fähigkeiten haben - die so genannten Bonusgegenstände. Die meisten Bonusgegenstände zeichnen sich dadurch aus, dass sie erst hergestellt werden müssen und sich durch ihre Benutzung langsam verbrauchen und erneuert werden müssen. Es gibt aber auch Bonusgegenstände, die Wikinger durch andere Völker erhalten oder auf ihrer Reise entdecken, meist in KISTEN...
+  --- block 01 text[0] ratio=0.08
+      CHN: 箱子 有可以打开的各种箱子--无论是男人、女人还是孩子。任何人都可以打开箱子。 试着打开附近的箱子。
+      GER: KISTEN Es gibt Kisten, die von jedem Wikinger - ob Mann oder Frau - geöffnet werden können und so genannte magische Kisten, die nur einem Druiden oder Helden zugänglich sind. Kisten beinhalten meist seltene und sehr nützliche Dinge, wie Tränke und Amulette. In manchen Fällen verbergen sich auch mächtige Hausbaubriefe in den Kisten. Und man hat schon von Kisten gehört, aus denen wilde Tiere und Menschen gesprungen sind... Um eine Kiste zu öffnen, musst du einen Wikinger ausgewählt haben und mit dem Mauszeiger über die Kiste fahren. Erscheint ein Hinweistext "Truhe öffnen", bestätige diesen mit einem Rechtsklick. Öffne die drei Kisten in westlicher Richtung, darin befinden sich Tränke für deine Soldaten!
+  --- block 02 text[0] ratio=0.05
+      CHN: 药剂 如果你在箱子里找不到药剂，也可以自己制作它们。 制药需要对草药的深入了解。 让你的德鲁伊来生产它们吧。
+      GER: TRÄNKE Wenn du die Tränke nicht in Kisten findest, aber sie trotzdem benötigst, müssen sie vom Druiden in der großen Alchemistenhütte hergestellt werden. Für die Herstellung dieser werden nicht nur Pilze und Öl gebraucht, sondern auch Wasser und Kräuter. Für geheime und höchst seltenen Zutaten benötigt der Druide zusätzlich Gold. Alle Wikinger, bis auf Frauen und Helden können mit diesen Versorgungs-, Heil-, und Kampftränken ausgestattet werden. Die kleinen Tränke können sie 2-mal benutzen, die großen Tränke 5-mal. Danach sind sie verbraucht. Es gibt NAHRUNGSTRÄNKE, die den Hunger stillen; WACHTRÄNKE die vor Müdigkeit schützen und HEILTRÄNKE, die Verletzungen lindern. Rüste deine Wikingersoldaten mit den Tränken aus, indem du alle - bis auf BJARNI! - als Gruppe auswählst und die Leertaste betätigst. Wähle das Menü "WECHSLE AUSRÜSTUNG" und weise ihnen die Tränke zu! Auch kannst du jedem Einzelnen sagen, wie viele Tränke er von einer Sorte nehmen soll, indem du im Figurenmenü jedes Einzelnen die runden gelben Button betätigst. Dadurch öffnet sich ebenfalls das Ausrüstungsmenü.
+  --- block 04 text[0] ratio=0.07
+      CHN: 护身符 它们无法制造，只能找到或通过交易获得。护身符赋予佩戴者特殊的能力。 例如，有些护身符能提高攻击力，有些能提供保护。
+      GER: AMULETTE Sie können nicht hergestellt, nur gefunden oder im Tausch mit anderen Völkern erworben werden. Alle männlichen Wikinger, bis auf Helden, können mit Amuletten ausgestattet werden. Sie verleihen dem Träger bestimmte Eigenschaften und verbrauchen sich nie. Es gibt verschieden Arten der Amulette: Ein Nahrungsamulett schützt den Träger vor Hunger, ein Wachbleibamulett vor Müdigkeit, ein Stärkeamulett verleiht den Träger Mut und Tapferkeit und erhöht die Stärke des Trägers beim Angriff um 50 Prozent, ein Verteidigungsamulett schwächt Angriffe wilder Tiere und feindlicher Völker ab, ein Trefferamulett verstärkt mit einer Wahrscheinlichkeit von 20 Prozent die Stärke des Trägers bei Angriffen auf wilde Tiere und Feinde um 100 Prozent und mit einem Windamulett verleiht kann sich der Träger schneller fortbewegen. Finde alle sechs Amulette im Sarazenendorf und rüste deinen Wikingersoldaten mit Amuletten aus, indem du vorgehst, wie bei den Tränken.
+  --- block 05 text[0] ratio=0.08
+      CHN: 好！你已找到撒拉逊人村庄里的所有护 身符！护身符会赋予 你的士兵特殊的能力。 但你要处理掉那些强盗， 他们威胁着你的维京人。
+      GER: GUT! Du hast alle Amulette im Sarazenendorf gefunden! Wenn du mit offenen Augen durch das Dorf inspiziert hast, müssten dir auch einige Waffen aufgefallen sein. RÜSTUNGEN UND WAFFEN Waffen und Rüstungen können einerseits von deinem Wikingerstamm hergestellt werden, andererseits kann man sie anderen Kriegern im Kampf auch abjagen. Denn jeder besiegte Krieger hinterlässt seine Waffe, Rüstung und auch seine unangebrochenen Tränke und Amulette. Mit diesen kannst du deine Wikingersoldaten dann problemlos ausstatten. Probier dies aus! Unweit nördlich von hier, treiben fünf Räuber ihr Unwesen, die oft über das Sarazenendorf herfallen und auch eine Bedrohung für dein Dorf darstellen können. Stelle sie und nutze ihre Ausrüstungsgegenstände! P.S. Eine Übersicht, welche Waffen gegen welche Rüstung effektiv ist und welche nicht, findest du in der Hilfe und in der Waffeneffizienzübersicht im Handbuch.
+  --- block 07 text[0] ratio=0.12
+      CHN: ……不过回到你的平民百姓 身上，他们也需要神奇的物件。 为了让你的维京人更加幸福，你还可以生 产家具和其他奢侈品。
+      GER: ... aber zurück zu deiner zivilen Bevölkerung, denn auch hier kannst du viel zum Wohlergehen beitragen: HOLZWERKZEUG Erhöhung der Produktivität eines Arbeiters. In derselben Zeit wird er mit einem Holzwerkzeug aus derselben Menge Rohstoffe mehr Waren herstellen als ohne Holzwerkzeug. Holzwerkzeuge werden vom Schreiner hergestellt. Lass vom Schreiner 5 Holzwerkzeuge herstellen und verteile sie an die Bevölkerung, indem du im Extra Menü (der Button mit dem Kistensymbol) den Befehl "immer Holzwerkzeug an Zivilisten vereilen" AN schaltest!
+  --- block 08 text[0] ratio=0.18
+      CHN: 铁制工具 铁制工具比木制工具更能提高工人的生产力。也就是说，产出会更高。 铁制工具由铁匠用铁锭制作而成。
+      GER: EISENWERKZEUG Eisenwerkzeuge steigern die Produktivität eines Arbeiters noch stärker als Holzwerkzeuge. Sprich, der Output ist damit noch höher. Eisenwerkzeuge werden vom Schmied hergestellt. Lass vom Schmied Eisenwerkzeuge herstellen und verteile sie an die Bevölkerung, indem du vorgehst, wie bei den Holzwerkzeugen!
+  --- block 11 text[0] ratio=0.14
+      CHN: 鞋子 每个赤脚的维京人都会为一双合脚的鞋感到高兴。 鞋子可以增加移动速度，还能保护脚免受伤害。
+      GER: SCHUHE Jeder barfüssige Wikinger freut sich über ein paar Schuhe, denn diese machen das Laufen angenehmer. Ein Wikinger mit Schuhen läuft schneller und verliert beim Laufen weniger Energie, sodass er nicht so schnell hungrig bzw. müde wird. Schuhe werden in der Näherei hergestellt. Lass vom Näher Schuhe herstellen und verteile sie an die Bevölkerung und bringe fünf ins Hauptquartier!
+  --- block 12 text[0] ratio=0.17
+      CHN: 油脂（圣火） 每个住宅建筑外面都有一盏油灯。灯需要油脂来燃烧。 油脂由德鲁伊在炼金工坊里用香草和动物脂肪制作。
+      GER: ÖL (Heiliges Feuer) Außen an jedem Wohngebäude befindet sich eine Metallschale, die eine Frau mit Öl füllen und daran das Heilige Feuer entzünden kann. Wenn diese bläuliche Flamme brennt, kann der Mann zu Hause beten. Sein Bedarf an Religion wird dort vollständig gedeckt! Öl wird vom Druiden hergestellt. Lass vom Druiden 5 Öl herstellen und bringe sie ins Haupthaus!
+
+### weinachten_2002.xml
+  --- string 5 ratio=0.19
+      CHN: 设法驱散阴雨，唤来飞雪。
+      GER: Suche eine Möglichkeit den Regen zu vertreiben und Schnee herbeizurufen.
+  --- block 02 text[1] ratio=0.17
+      CHN: 努力证明你的诚意，帮助部落填饱肚子。
+      GER: "Wir haben eine fantastische Näherei! Geht und schaut sie euch an. Gerne könnt Ihr auch jederzeit mit uns Handel treiben."
+      >>> 相似CHN文本: map_xml/weinachten_2002.xml block 02 (sim=1.00)
+  --- block 03 text[1] ratio=0.18
+      CHN: 每个部落都需要被单独说服--他们都想 成为最受重视的一方。
+      GER: "Wir würden ja einen Frieden zustimmen, aber haben sie uns Nahrung gestohlen und unseren Häuptling entführt!" Liefere 10 Kuchen zum Tribut, damit die Graukimos einem Gespräch zustimmen!
+      >>> 相似CHN文本: map_xml/weinachten_2002.xml block 03 (sim=1.00)
+  --- block 04 text[1] ratio=0.12
+      CHN: 当年轻一代一起学习时，部落之间的 隔阂就会慢慢消融。
+      GER: "Wir würden ja einen Frieden zustimmen, aber haben sie unseren Häuptling entführt und uns unser Met gestohlen, welches wir von dem freundlichen Wikingerstamm erhielten!" Liefere 10 Met zum Tribut, damit die Gelbimos einem Gespräch zustimmen!
+      >>> 相似CHN文本: map_xml/weinachten_2002.xml block 04 (sim=1.00)
+  --- block 07 text[1] ratio=0.09
+      CHN: 祝大家圣诞快乐，愿新的一年带给你们幸福与和平！
+      GER: Es stellte sich heraus, dass alle Anschuldigungen grundlos gewesen waren, weder bestohlen sich die Völker untereinander, noch war einer der Stämme verantwortlich für das Verschwinden des Häuptlings. Die Eskimos indes waren uns so dankbar, dass sie von nun an zu unseren Volk gehörten, solange wir sie brauchten...
+      >>> 相似CHN文本: map_xml/weinachten_2002.xml block 07 (sim=1.00)
+  --- block 10 text[1] ratio=0.10
+      CHN: 可是还需要更多布料 ，为所有人都做一套。
+      GER: "Jedes Jahr entfacht ein neuer Streit, wo der Häuptling (bisher der einzige mit roter Kleidung) das Fest verbringt! Hoffentlich reicht unsere Wolle und wir werden rechtzeitig fertig..." Bringe 15 Säcke zur Näherei!
+      >>> 相似CHN文本: map_xml/weinachten_2002.xml block 10 (sim=1.00)
+  --- block 100 text[1] ratio=0.18
+      CHN: 圣诞节的欢乐气氛被破坏了……再试一次吧！
+      GER: Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+  --- block 11 text[1] ratio=0.12
+      CHN: 希望他们会喜欢。
+      GER: Bringe die Eskimos zur Näherei, wenn die Graukimos und Gelbimos versöhnt sind!
+      >>> 相似CHN文本: map_xml/weinachten_2002.xml block 11 (sim=1.00)
+  --- block 12 text[1] ratio=0.11
+      CHN: 现在各族都准备好了 ，可以一起庆祝了。
+      GER: "Wir könnten allen Stämmen eine Freude machen und ihnen zum Fest einen Besuch abstatten, vielleicht kann man so Konflikte friedlich lösen?" Bringe die Eskimos zu den Schwarzimos. Sie zeigen dir den Weg!
+      >>> 相似CHN文本: map_xml/weinachten_2002.xml block 12 (sim=1.00)
+  --- block 13 text[1] ratio=0.16
+      CHN: 和解的时刻终于到了。 红色皮肤的小不点们似乎也松了口气。
+      GER: "Wenn einer von euch bei uns bleiben will, geben wir ihm selbstverständlich seine Freiheit wieder, oder wollen wir alle gemeinsam feiern?" Die rot gekleideten Eskimos nahmen gern die Einladung an...
+      >>> 相似CHN文本: map_xml/weinachten_2002.xml block 13 (sim=1.00)
+  --- block 17 text[1] ratio=0.17
+      CHN: 你找到了诺恩三女神的祝福。现在各族可以团结一致了。
+      GER: "Ihr habt es geschafft die zwei Stämme zu vereinen, dafür werden wir dem Regen Einhalt gebieten. Seht wie wunderschön weiß die Umgebung erstrahlt, wenn Neuschnee fällt...".
+      >>> 相似CHN文本: map_xml/weinachten_2002.xml block 17 (sim=1.00)
+  --- block 18 text[0] ratio=0.15
+      CHN: 圣诞快乐！ 愿和平与欢乐伴随你的维京人度过这个特别的节日。
+      GER: DER ALTE MANN "Es ist verflixt mit diesen Eingeborenen! Sie bringen durch ihre Streitereien das ganze Wetter durcheinander. Die Nornen im Westen werden erst wieder Schnee fallen lassen, wenn sie sich vertragen haben!"
+  --- block 50_end text[0] ratio=0.03
+      CHN: 圣诞快乐！
+      GER: Wir hatten es geschafft! Die Eskimos, Gelbimos, Graukimos und sogar die Schwarzimos waren sich einig und feierten ein gemeinsames Fest mit den komischen roten Männern.
+
+####################################################################################################
+# 目录: map_xml_user
+####################################################################################################

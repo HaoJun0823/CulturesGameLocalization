@@ -1,0 +1,1130 @@
+==========================================================================================
+FILE _campaign_04_04.xml
+--- block 00_start
+  G: | 
+Wir schlugen unser Lager entlang des Flusses auf. Dieser Landeplatz würde eine gute Basis abgeben, von hier aus konnten wir uns auf die Suche nach den Erddrachen begeben.
+|
+  >> 旧CHN:
+  C: |
+不远处必有一场战斗，因为和煦的夜里我们听见声响，扰人清梦。我们须查明这些争斗的根源。或许龙也卷入其中？
+建立你的村庄，去寻找地龙。
+        |
+--- block 00_start1
+  G: |
+Unweit von hier mussten Kämpfe stattfinden, denn wir hörten in den lauen Nächten Geräusche, die uns den Schlaf raubten. Wir mussten den Ursachen dieser Auseinandersetzungen auf den Grund gehen. Vielleicht waren ja auch Drachen in diese verwickelt?
+
+Baue dein Dorf auf und suche nach den Erddrachen.
+|
+  >> 旧CHN:
+  C: |
+牧人
+“宁可信龙，也别信人！我们在这片土地的小村落里住了数百年，如今却有别人来叫我们不好过！”这些可怜牧人抱怨道。
+他们向我们讲述昔日与龙的共处，以及人类如何到来、将龙抓捕掳走，当作马戏团噱头与动物园禽兽在他乡展览。
+
+他们对我们非友非敌，我们须赢得其信任。
+他们留意到我们脚上鞋匠的好手艺，虽已穿得破旧磨损，却仍想要几双留着！
+给牧人几双鞋，他们便会向你献上交易报价！
+        |
+--- block 01
+  G: | 
+HIRTEN
+
+"Den Drachen ist eher zu trauen, als den Menschen! Wir leben in kleinen Dörfen schon Jahrhunderte in diesem Land und nun machen uns die anderen das Leben schwer!" beschwerten sich diese armen Hirten.
+
+|
+  G: |
+
+Sie erzählten uns von ihrer früheren Gemeinschaft mit den Drachen und wie Menschen kamen, diese einfingen und verschleppten, um sie als Zirkusattraktionen und Zootiere in ihrem Land zur Schau zu stellen.
+
+Sie selbst waren uns weder Freund noch Feind, so mussten wir ihr Vertrauen gewinnen. 
+
+Sie bemerkten unsere guten Schuharbeiten, auch wenn diese schon sehr ausgetreten und abgenutzt waren. Sie wollten gerne ein paar Exemplare davon für sich haben! 
+
+Reiche den Hirten ein paar Schuhe und sie werden dir ihre Handelsangebote offerieren! 
+|
+  >> 旧CHN:
+  C: |
+鞋子已送达！
+
+我们已将鞋子作为贡品交给牧人。他们当下便改变了对我们的姿态。对鞋子的欣喜如此之大，竟向我们开出极为优厚的交易条件。
+        |
+  C: |
+他们还向我们讲起或许
+
+最强大的龙族：魔法龙。
+
+若说有谁能助我们完成
+
+任务，必是这一族无疑。|
+--- block 02
+  G: | 
+SCHUHE GELIEFERT!
+
+Wir hatten den Hirten die Schuhe zum Tribut überreicht. Sie wechselten ihre Haltung uns gegenüber augenblicklich. Ihre Freude über die Schuhe war sogar so groß, dass sie uns überaus günstige Handelsangebote anboten. 
+
+|
+  G: |
+
+Auch erzählten sie uns von der wohl mächtigsten Drachenart: den ZAUBERDRACHEN. Wenn uns jemand bei unserer Mission unterstützen konnte, dann sicherlich dieser Stamm.
+|
+  >> 旧CHN:
+  C: |
+牧人民
+
+族的雇佣兵|
+  C: |
+“你们看来勇气可嘉！我们愿助你们一臂之力！我们虽是朴素之民，但与你们并肩作战，便有一线胜机！”牧人们说道。
+“若你们在巴布尔以南那座几近被毁的聚落里建起 3 座哨塔，我们便倾力支援你们！”
+注意：要建造建筑，你的维京人须近在咫尺！
+        |
+--- block 03
+  G: | 
+SÖLDNER vom HIRTENVOLK
+
+"Ihr scheint sehr tapfer zu sein! Wir werden euch unterstützen! Zwar sind wir ein einfaches Volk, aber im Kampf mit euch haben wir eine Chance!" sprachen die Hirten.
+
+|
+  G: |
+
+"Baut ihr 3 Wachtürme in der fast zerstörten Siedlung südlich von Babul, dann werden wir euch noch mehr unterstützen!"
+
+Beachte: Um Gebäude zu setzen, müssen sich deine Wikinger in der Nähe aufhalten!
+|
+  >> 旧CHN:
+  C: |
+哨塔
+
+已建成！|
+  C: |
+我们为牧人民族筑起了防御，但愿能抵挡巴布尔的一切侵扰。
+
+他们感激不尽，又增派士兵相助。
+        |
+--- block 04
+  G: | 
+WACHTÜRME ERRICHTET!
+
+Wir hatten dem Hirtenvolk eine Verteidigung aufgebaut, die hoffentlich allen Übergriffen von Babul standhalten würde. Sie zeigten sich überaus dankbar und unterstützten uns mit weiteren Soldaten. 
+
+|
+  >> 旧CHN:
+  C: |
+牧人增援更多士兵！
+
+凭这份贡品，我们从牧人处换得更多士兵。难以置信，这小小民族竟能动员如此众多的雇佣兵……
+        |
+--- block 05
+  G: | 
+WEITERE SOLDATEN VON HIRTEN!
+
+Für diesenn Tribut erhielten wir von den Hirten weitere Soldaten. Kaum zu glauben, wieviele Söldner dieses kleine Völkchen mobilisieren konnte...
+
+|
+  >> 旧CHN:
+  C: |
+魔法龙
+“你们对我们并无恶意……我们魔法龙对恶人嗅觉敏锐。或许你们真能助龙一臂之力？”
+
+“证明你们的本事吧--将下列货物运抵西边方尖碑圈，魔法龙的支援便少不了。
+向龙群运送 80 木材与 40 黏土。”
+        |
+--- block 06
+  G: | 
+ZAUBERDRACHEN
+
+"Ihr meint es nicht böse mit uns... Wir Zauberdrachen haben ein feines Gespür für schlechte Menschen. Vielleicht könnt ihr den Drachen ja beistehen?"
+
+|
+  G: |
+
+"Stellt euer Können unter Beweis, indem ihr uns folgende Waren in den Obeliskenkreis westlich von hier liefert und die Unterstützung von uns Zauberdrachen ist euch sicher."
+
+Liefere den Drachen 80 Holz und 40 Lehm.
+|
+  >> 旧CHN:
+  C: |
+货物已交给魔法龙！
+
+我们将货物交予魔法龙。他们把方尖碑圈那处化为充盈魔法之地，治愈了我们的生命能量，并开启了通往纳帕利亚人领地的更多传送门。
+        |
+  C: |
+他们提起一种隐形药剂，说可为我们来酿造，好避开一切与纳帕利亚人的冲突。若我们送去所需草药，他们必竭尽全力。
+
+向魔法龙进献草药，谋求和平解决。
+        |
+--- block 07
+  G: | 
+WAREN AN ZAUBERDRACHEN GELIEFERT!
+
+Wir hatten die Waren den Zauberdrachen geliefert. Sie verwandelten die Stelle des Obeliskenkreises in eine Stelle voller Magie an der unsere Lebensenergie geheilt wurde und öffneten weitere Portale in die Regionen der Napalianer.
+
+|
+  G: |
+
+Sie sprachen von einen Unsichtbarkeitstrank, den sie uns brauen könnten, um jeder Konfliktsituation mit den Napalianern aus dem Weg zu gehen. Wenn wir ihnen die nötigen Kräuter liefern, würden sie ihr Bestes dazu tun. 
+
+Reiche den Zauberdrachen Kräuter für eine friedliche Lösung.
+|
+  >> 旧CHN:
+  C: |
+隐
+
+形药剂|
+  C: |
+魔法龙将药剂交予我们英雄。仿佛施了魔法，我们隐去了身形--唯有自己人能依稀辨出轮廓。
+
+药剂不能持久，魔法龙便引我们抄最近的小路前往地下地牢。我们如受遥控般穿过了纳帕利亚人的营地……
+        |
+--- block 08
+  G: | 
+UNSICHTBARKEITSTRANK
+
+Die Zauberdrachen überreichten den Trank an uns Helden. Und wie von Zauberhand wurden wir unsichtbar - nur unsere eigenen Leute konnten unsere Umrisse wage erkennen. 
+
+|
+  G: |
+
+Da der Trank nicht lange anhalten würde, leiteten uns die Zauberdrachen auf kürzestem Weg zu den unterirdischen Kerkern. Wie ferngesteuert liefen wir durch das Lager der Napalianer... 
+|
+  >> 旧CHN:
+  C: |水
+
+龙|
+  C: |
+“这些可恶的人类！他们抓了我们的兄弟，关进狭窄牢笼。我们这边余者尚多，可地龙境况凄惨，几近灭族！”水龙们悲诉。
+解放水龙与地龙。
+        |
+--- block 09
+  G: | 
+WASSERDRACHEN
+
+|
+  G: |
+
+"Diese elenden Menschen! Sie haben unsere Brüder gefangen und halten sie nun in engen Käfigen. Von uns sind noch genug da, aber den Erddrachen ergeht es wirklich schlecht, sie sind nahezu ausgerottet!" klagten die Wasserdrachen. 
+
+Befreie die Wasserdrachen und die Erddrachen. 
+|
+  >> 旧CHN:
+  C: |
+水龙
+        |
+  C: |
+“你们竟把他们完好无损地带回来了！”当我们与其他龙回到神庙，水龙们喜出望外。
+
+与你的英雄及龙群一同前往神庙！
+        |
+--- block 10
+  G: | 
+WASSERDRACHEN
+
+"Ihr habt sie uns unversehrt wiedergebracht!" freuten sich die Wasserdrachen, als wir mit den anderen Drachen zurück zum Tempel kamen. 
+ 
+|
+  G: |
+ 
+Gehe mit deinen Helden und den Drachen zum Tempel!
+|
+  >> 旧CHN:
+  C: |
+任务
+
+失败！|
+  C: |
+是英勇，还是鲁莽？比雅尼陨落之时，诸神落泪……少了这位英雄，任务的结局将永远对你隐藏。
+        |
+--- block 100
+  G: |
+MISSION VERLOREN!
+|
+  G: |
+Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+|
+  >> 旧CHN:
+  C: |
+任务失败！
+        |
+  C: |
+“偶尔我们也在此瞥见稀有的地龙。它们如今下落如何？”
+解放其他龙！
+        |
+--- block 11
+  G: | 
+WASSERDRACHEN BEFREIT!
+
+"Endlich sind wir aus den Fängen dieser grausamen Menschen befreit worden. Kaum vorstellbar was sonst mit uns geschehen wäre. Die Drachen die sie abtransportiert hatten, haben wir niemals wieder gesehen!"
+
+|
+  G: |
+
+"Ab und zu bekamen wir hier auch die seltenen Erddrachen zu Gesicht. Was aus denen wohl geworden ist?"
+
+Befreie die anderen Drachen!
+|
+  >> 旧CHN:
+  C: |
+纳帕
+
+利亚人|
+  C: |
+“嘿，你们！这儿不欢迎任何人！再敢靠前
+
+一步，我们立刻开火！”
+        |
+--- block 12
+  G: | 
+NAPALINER
+
+"Hey, ihr da! Niemand ist hier willkommen! Wir eröffnen sofort das Feuer, wagt ihr euch einen Schritt weiter!"
+|
+  >> 旧CHN:
+  C: |
+巴布尔
+
+“嘿，你们！我们城里不欢迎你们！缴贡便不伤你们！但别太好奇！多少多管闲事的鼻子，在我们城里都没好下场！”
+        |
+--- block 13
+  G: | 
+BABUL
+
+"Hey, ihr da! Ihr seid nicht willkommen in unserer Stadt! Zahlt uns einen Tribut und wir werden euch nichts tun! Aber seid nicht zu neugierig! Schon vielen Schnüfflernasen ist es nicht gut ergangen in unserer Stadt!"
+
+|
+  >> 旧CHN:
+  C: |
+已向巴布尔缴纳贡品！
+
+我们向巴布尔缴了巨额贡品，他们这才不情愿地放了水龙。他们说水龙本就是易擒的猎物，随时可再袭而掠之……
+        |
+--- block 14
+  G: | 
+TRIBUT AN BABUL ÜBERREICHT!
+
+|
+  G: |
+
+Wir hatten BABUL den enormen Tribut bezahlt und so gaben sie die Wasserdachen widerwillig frei. Sie meinten, die Wasserdrachen seien eh solch leichte Opfer, das sie sie auch jederzeit wieder überfallen und plündern könnten...
+|
+  >> 旧CHN:
+  C: |
+地下地牢入口
+        |
+  C: |
+“你无权闯入地牢。去助牧人民族与水龙，再带英雄回来，那时便放你通行！”
+        |
+--- block 15
+  G: | 
+EINGANG ZU DEN UNTERIRDISCHEN KERKER
+
+Du hast keine Erlaubnis, in die KERKER vorzudringen. Geh und hilf dem Hirtenvolk und den Wasserdrachen. Kehre dann mit deinen Helden hierher zurück, und der Zugang sei dir gewährt!
+
+|
+  >> 旧CHN:
+  C: |
+已向巴布尔缴纳贡品！
+
+“眼下我们对你们中立，但别把鼻子伸进与你们无关的事里！”
+        |
+--- block 16
+  G: | 
+TRIBUT AN BABUL ÜBERREICHT!
+
+"Fürs Erste stehen wir neutral zu euch, aber steckt eure Nasen nicht in Dinge, die euch nichts angehen!"
+
+|
+  >> 旧CHN:
+  C: |
+纳帕利
+
+亚人败北！|
+--- block 17
+  G: | 
+NAPALIANER BESIEGT!
+|
+  >> 旧CHN:
+  C: |
+魔法之地
+我们撞见传送装置。可惜出口必被封死，于我们毫无用处。
+        |
+--- block 18
+  G: | 
+MAGISCHE FELDER
+
+|
+  G: |
+
+Wir stießen auf Teleporter. Leider mussten die Ausgänge blockiert sein und so waren sie uns leider zu nichts nutze.
+|
+  >> 旧CHN:
+  C: |
+巴布尔重又敌对！
+        |
+  C: |
+“你们把鼻子伸进了与你们无关的事里！缴贡，我们便给你们想要的东西。”
+        |
+--- block 19
+  G: | 
+BABUL WIEDER FEINDLICH!
+
+"Ihr habt eure Nasen in Dinge gesteckt die euch nichts angehen! Zahlt den Tribut und wir geben euch was ihr haben wollt."
+
+|
+  >> 旧CHN:
+  C: |
+50 枚金币
+
+这只魔法箱中装着 50 枚金币，自动送抵我们的总部！
+        |
+--- block 20
+  G: | 
+50 MÜNZEN
+
+|
+  G: |
+
+In dieser magischen Kiste befanden sich 50 Goldmünzen, die automatisch in unser Hauptquartier gelangten!
+|
+  >> 旧CHN:
+  C: |
+任务失败！
+        |
+  C: |
+一时的轻率，生命便转瞬即逝！你的女英雄希拉，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+        |
+--- block 200
+  G: |
+MISSION VERLOREN!
+|
+  G: |
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+|
+  >> 旧CHN:
+  C: |
+任务失败！
+        |
+  C: |
+哎呀，水龙死了。没了它们，任务的结局将永远对你隐藏！
+        |
+--- block 21
+  G: | 
+WASSERDRACHEN GESTORBEN!
+
+Oh je, die WASSERDACHEN sind gestorben. Ohne sie wird dir das Ende der Mission verborgen bleiben!
+|
+  >> 旧CHN:
+  C: |
+巴布尔败北！
+
+我们大败巴布尔！他们再也不能加害牧人民族。
+        |
+--- block 22
+  G: | 
+BABUL BESIEGT!
+
+Wir hatten BABUL siegreich geschlagen! Nie wieder würden sie dem Hirtenvolk einen Schaden zufügen. 
+|
+  >> 旧CHN:
+  C: |
+发现投石机
+
+是谁把这些投石机留在此处？总之它们于我们大有用处！
+        |
+--- block 23
+  G: | 
+KATAPULTE GEFUNDEN
+
+|
+  G: |
+
+Wer hatte diese Katapulte hier wohl stehen lassen? Uns konnten sie jedenfalls gute Dienste erweisen!
+|
+  >> 旧CHN:
+  C: |
+己方营地已建成！
+        |
+  C: |
+不久，温暖酥脆面包的独特香气将抚慰我们的鼻息，因为烘焙坊为我们营地奠定了稳固的粮食根基。
+        |
+--- block 24
+  G: | 
+EIGENES LAGER ERRICHTET!
+
+Der unverwechselbare Duft von warmem knusprigem Brot würde bald unsere Nasen verwöhnen, denn mit der Bäckerei hatten wir eine stabile Nahrungsgrundlage für unser Lager geschaffen.
+|
+  >> 旧CHN:
+  C: |
+墓地
+
+“难以置信，我们竟在沙漠中央看见此景。这必是处墓地，但从超大的墓碑便可看出，绝非寻常。”
+        |
+--- block 25
+  G: | 
+FRIEDHOF
+
+"Unglaublich, was wir inmitten der Wüste vor uns sahen. Dies mußte ein Friedhof sein, aber kein gewöhnlicher, das konnten wir an den übergroßen Grabsteinen erkennen. 
+
+|
+  >> 旧CHN:
+  C: |
+所有水龙已解放！
+如今我们终于解放了巴布尔处所有的水龙。
+
+他们都向我们讲起稀有的地龙。无人再见过它们。有传言说它们被关在地下地牢中。”
+护送水龙前往水之神庙！
+        |
+--- block 26
+  G: | 
+ALLE WASSERDRACHEN BEFREIT!
+
+Nun hatten wir endlich alle Wasserdrachen in Babul befreit.
+
+|
+  G: |
+
+Alle erzählten uns von den seltenen Erddrachen. Die niemand mehr gesehen hatte. Man munkelte von unterirdischen Kerkern, in denen sie festgehalten wurden."
+
+Geleite die Wasserdrachen zum Wassertempel!
+|
+  >> 旧CHN:
+  C: |
+传送装
+
+置已激活！|
+  C: |
+为感解放水龙之恩，水龙
+
+们激活了沙漠中的传送装置。|
+--- block 27
+  G: | 
+TELEPORTER AKTIVIERT!
+
+Zum Dank für die Befreiung der Wasserdrachen aktivierten die Wasserdrachen die Teleporter in der Wüste. 
+
+|
+  >> 旧CHN:
+  C: |
+地龙！
+
+我们终于寻得了地龙！
+        |
+--- block 28
+  G: | 
+ERDDRACHEN!
+
+Endlich hatten wir Erddrachen gefunden!
+
+|
+  >> 旧CHN:
+  C: |
+50 枚金币
+
+这只魔法箱中装着 50 枚金币，自动送抵我们的总部！
+        |
+--- block 29
+  G: | 
+50 MÜNZEN
+
+|
+  G: |
+
+In dieser magischen Kiste befanden sich 50 Goldmünzen, die automatisch in unser Hauptquartier gelangten!
+|
+  >> 旧CHN:
+  C: |
+任务失败！
+        |
+  C: |
+一时的轻率，生命便转瞬即逝！你的挚友、英雄之龙诺伯特，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+        |
+--- block 500
+  G: |
+MISSION VERLOREN!
+|
+  G: |
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+|
+  >> 旧CHN:
+  C: |任务失败！|
+  C: |生活中的片刻疏忽，人生如此迅速！ 你的朋友兼英雄--巨龙诺伯特--因你的疏忽而丧命！失去这位英雄，你将无法得知任务的结局。|
+--- block 50_end
+  G: | 
+Aus dem Kerker konnten wir nicht nur Erddrachen, sondern auch einige Zauber- und Wasserdrachen befreien. Aber für Norbert war das Kennenlernen seiner Artgenossen am wichtigsten. Wie viel konnte er von ihnen lernen! 
+  
+|
+  >> 旧CHN:
+  C: |
+玛尼却郁郁不乐，因为与挚友分别的时刻近了。他们共同勇敢闯过多少冒险，如今它却要随其他地龙离去。
+有人望见几名纳帕利亚人朝我们故乡方向而去。难道我们永不能与他们和平共处？他们的文化与我们如此迥异……
+        |
+--- block 50_end1
+  G: |
+Mani indess war traurig, da nun der Abschied von seinem besten Freund bevor stand. So viele Abenteuer hatten sie gemeinsam tapfer durchgestanden und nun würde er mit den anderen Erddrachen ziehen.
+
+Einige Napalianer wurden gesehen, wie sie in die Richtung unserer Heimat zogen. Würden wir nie mit ihnen in Frieden leben können? Ihre Kultur war so verschieden der unseren...  
+|
+  >> 旧CHN:
+  C: |任务
+
+胜利！|
+--- block 50_endheader
+  G: | 
+MISSION GEWONNEN! 
+|
+  >> 旧CHN:
+  C: |
+任务成功！
+        |
+--- block 600
+  G: |
+MISSION VERLOREN!
+|
+  G: |
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+|
+  >> 旧CHN:
+  C: |任务失败！|
+  C: |生活中的片刻疏忽，人生如此迅速！ 玛尼--比雅尼与希拉之子--因你的疏忽而丧命！失去这位英雄，你将无法得知任务的结局。|
+--- block header
+  G: | 
+DIE BEFREIUNG DER ERDDRACHEN
+|
+  >> 旧CHN:
+  C: |
+地龙的解放
+        |
+==========================================================================================
+FILE _campaign_04_05.xml
+--- block 00_start
+  G: | 
+Wir beschlossen zur Siedlungsstätte zurückzukehren, die das eigentliche Ziel unserer Reise war, um dort unser Leben wieder in gewohnten Bahnen aufzunehmen. Einiges würde sich wohl nach der Zeit, die wir nicht da waren, verändert haben.
+|
+  >> 旧CHN:
+  C: |
+可那是何物？我们的村庄被毁了。我们身负部族之责，须着手重建，同时决意派出信使，警告其他维京人提防此类侵扰。
+建立你的村庄，并向其他民族派出信使。
+        |
+--- block 00_start1
+  G: |
+Doch was war das? Unser Dorf war zerstört. Wir waren unserem Stamm verpflichtet und mussten uns nun um den Aufbau des Dorfes kümmern. Gleichzeitig beschlossen wir einen Boten auszusenden, der andere Wikinger vor solchen Übergriffen warnen sollte. 
+
+Errichte dein Dorf schicke einen Boten zu den anderen Völkern. 
+|
+  >> 旧CHN:
+  C: |
+森林哨站 1--神庙守卫
+“又见到你们，真好！”神庙守卫们说道。
+
+“昔日你们曾助我们一臂之力。如今我们的援助定然少不了，尽管用仓屋里的草药与药剂吧！若纳贡，我们也乐意为你们多备些！”……“你们在找橙色龙？它们在棕榈林，护着孩子们。”
+        |
+--- block 01
+  G: | 
+WALDPOSTEN 1 - DIE TEMPELWÄCHTER
+
+"Schön euch wieder zu sehen!" sprachen die Tempelwächter. 
+
+|
+  G: |
+
+"Ihr habt uns damals beigestanden. Nun ist euch unsere Hilfe sicher, nutzt unsere Kräuter und Tränke aus dem Lagerhaus!
+Gegen einen Tribut stellen wir euch auch gerne noch mehr her!" 
+...
+"Ihr sucht die orangenen Drachen? Die sind im Palmenhain und beschützen die Kinder."
+
+|
+  >> 旧CHN:
+  C: |
+已向神庙守卫缴纳贡
+
+品！
+        |
+  C: |
+“这些新鲜蘑菇能酿出绝妙的药剂。但愿合你们口味！我们自也乐意在贡赋之下，再为你们赶制补给……”
+        |
+--- block 02
+  G: | 
+TRIBUT AN TEMPELWÄCHTER BEZAHLT!
+
+"Diese frische Pilze ergeben fantastische Tränke. Hoffentlich werden sie euch munden! Wir produzieren auch gerne Nachschub, gegen einen Tribut, versteht sich..." 
+
+|
+  >> 旧CHN:
+  C: |
+哨站 2--采药人
+“当年旧镰锈透时，是你们送来新工具。如今我们已有了自己的工具锻造坊。为抵御纳帕利亚人，我们也造起了武器与护甲。”
+
+“但凭你们差遣！”……“你们在找橙色龙？它们在棕榈林，护着孩子们。”
+        |
+--- block 03
+  G: | 
+POSTEN 2 - KRÄUTERSAMMLER
+
+"Damals habt ihr uns neues Werkzeug geliefert, als unser altes vom Rost zerfressen war. Mittlerweile haben wir eine eigene Werkzeugschmiede. Wir mussten uns gegen die Napalianer zur Wehr setzen, deshalb produzieren wir auch Waffen und Rüstungen."
+
+|
+  G: |
+
+"Verfügt über uns, wenn ihr wollt!"
+...
+"Ihr sucht die orangenen Drachen? Die sind im Palmenhain und beschützen die Kinder."
+
+|
+  >> 旧CHN:
+  C: |
+已向采药人缴纳贡品
+
+！
+        |
+  C: |
+“原本由采药人组成的哨站，如今造出了精良武器与护甲，凭贡赋正合我等之用。作为额外馈赠，他们甚至添了一架投石机。”
+        |
+--- block 04
+  G: | 
+TRIBUT AN KRÄUTERSAMMLER BEZAHLT!
+
+"Der Posten, der ursprünglich aus Kräutersammlern bestand, stellte nun fantastische Waffen und Rüstungen her, die wir für unsere Zwecke dank der Tribute nutzen konnten. Als Bonus gaben sie uns sogar noch ein Katapult hinzu." 
+
+|
+  >> 旧CHN:
+  C: |
+格罗尔斯的山脉--石龙
+
+往昔嶙峋山脉中曾有古老智慧的石龙，如今却尽数消失……
+        |
+--- block 05
+  G: | 
+BERGE DER GEROLS - DER STEINDRACHEN
+
+Einstmals gab es in diesem steinigen Gebirge alte weise Steindrachen, doch nun waren sie alle verschwunden... 
+
+|
+  >> 旧CHN:
+  C: |
+维京人村庄
+“你们离去后，情形更糟了。纳帕利亚人进一步扩张。连你们西边较小的据点，如今也被毒云笼罩。”
+
+“我们愿倾尽所有，助你们一臂之力！”
+        |
+--- block 06
+  G: | 
+WIKINGERDORF
+
+"Es ist schlimmer geworden, seitdem ihr weg wart. Die Napalianer haben sich wieder weiter ausgebreitet. Selbst ihr kleinerer Stützpunkt im Westen ist nun von dieser Giftwolke umgeben."
+
+|
+  G: |
+
+"Wir stehen euch mit allem was uns zur Verfügung steht zur Seite!"
+|
+  >> 旧CHN:
+  C: |
+商
+
+人哨站|
+  C: |
+“你们回来了！这下一切定会好转！”
+“受纳帕利亚人侵扰，我不幸又陷生意清淡，但若与我交易，我的朋友定会再度相助，清除纳帕利亚人营地外的毒云。”
+        |
+--- block 07
+  G: | 
+HÄNDLERPOSTEN
+
+"Ihr seid wieder da! Nun wird sicher alles wieder gut!" 
+
+|
+  G: | 
+
+"Durch die Übergriffe der Napalianer stecke ich leider wieder in einer Handelsflaute, aber wenn ihr mit mir Handel treibt, wird mein Freund euch wieder helfen, die Giftwolken um das Napalianerlager zu beseitigen."
+|
+  >> 旧CHN:
+  C: |
+已与商
+
+人交易货物|
+  C: |
+“多亏你们相助，我的生意红火起来了！届时我也会派出我的家养龙助你们一臂之力。”
+        |
+--- block 08
+  G: | 
+WAREN MIT HÄNDLER GEHANDELT
+
+"Mein Geschäft boomt, dank eurer Hilfe! Auch ich werde euch zur gegebener Zeit mit meinem Hausdrachen helfen."
+
+|
+  >> 旧CHN:
+  C: |
+火龙之地
+
+这里曾有许多火龙。可如今它们尽数消失……
+        |
+--- block 09
+  G: | 
+ORT DER FEUERDACHEN
+
+Einstmals war dies der Ort, an dem es viele Feuerdrachen gab. Doch nun waren sie alle verschwunden... 
+
+|
+  >> 旧CHN:
+  C: |
+瓦穆戈教授
+
+“稍安勿躁，我的朋友们，我的信鸽已经上路！幸亏你们选择了和平解决。”
+        |
+--- block 10
+  G: | 
+PROF. WAMUGO
+
+"Geduldet euch meine Freunde, meine Tauben sind auf den Weg! Gut, dass ihr euch für die friedliche Lösung entschieden habt."
+|
+  >> 旧CHN:
+  C: |
+任务失败！
+
+是英勇，还是鲁莽？比雅尼陨落之时，诸神落泪……少了这位英雄，任务的结局将永远对你隐藏。
+        |
+--- block 100
+  G: |
+MISSION VERLOREN!
+|
+  G: |
+Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+|
+  >> 旧CHN:
+  C: |
+任务失败！
+        |
+  C: |
+“我把课堂迁到了棕榈林，这漫漫长途，险恶时日里孩子们可经不起。我早料纳帕利亚人不会安分。我已向所有龙写了谋求和平的信，只是信鸽有些萎靡，我不忍让它们远行--总得确保它们能送达吧？你明白的？”
+若求和平解决，给瓦穆戈教授 15 份小型治疗药剂作为信鸽贡品！
+        |
+--- block 11
+  G: | 
+PROF. WAMUGO
+
+"Ich habe meinen Unterricht in den Palmenhain verlegt, denn der weite Weg ist für die Kinder in diesen gefährlichen Zeiten unzumutbar! Ich ahnte schon, dass die Napalianer keine Ruhe geben würden. Ich habe für eine friedliche Lösung an alle Drachen Briefe geschrieben, nur sind meine Brieftauben etwas malade. So möchte ich sie nur ungern auf die Reise schicken, denn wir wollen doch sicher sein, dass sie auch ankommen? Ihr versteht?"
+
+|
+  G: |
+
+Gib Prof. WAMUGO 15 kleine Heiltränke zum Tribut für seine Brieftauben, wenn du eine friedliche Lösung wünschst!
+|
+  >> 旧CHN:
+  C: |
+水龙森
+
+林村庄学校|
+  C: |
+“因局势所迫，瓦穆戈教授的学校停课了！”
+        |
+--- block 12
+  G: | 
+WALDDORFSCHULE DER WASSERDRACHEN
+
+|
+  G: |
+
+"Aufgrund der Umstände war Prof. Wamugo's Schule geschlossen!"
+|
+  >> 旧CHN:
+  C: |
+棕榈林学堂
+        |
+  C: |
+“你们回来了！我们的孩子学到了很多，瓦穆戈教授如今也在此授课。”
+前往瓦穆戈教授处。
+        |
+--- block 13
+  G: | 
+SCHULE AM PALMENHAIN
+
+"Ihr seid zurück! Unsere Kinder haben viel gelernt, denn Prof. Wamugo unterrichtet nun auch hier." 
+
+|
+  G: |
+
+Gehe zu Professor WAMUGO.
+|
+  >> 旧CHN:
+  C: |老
+
+者|
+  C: |
+“纳帕利亚人愈发猖狂……如今毒云笼罩两处据点，森林哨站的家养龙护着棕榈林中的孩子，唯独商人处还剩一条。”
+        |
+--- block 14
+  G: | 
+DER ALTE MANN
+
+|
+  G: |
+
+"Es ist schlimmer geworden mit den Napalianern...
+Nun umgibt diese Giftwolke beide Stützpunkte und die Hausdrachen der Waldposten schützen die Kinder im Palmenhain bis auf einen einzigen beim Händler."
+
+|
+  >> 旧CHN:
+  C: |
+所有橙色龙！
+        |
+  C: |
+如今我们寻遍了森林守护者哨站，并将橙色龙集结以对抗毒云。
+我们既能对纳帕利亚人动武，也可采纳瓦穆戈教授和平化解之策！抉择在己……
+        |
+--- block 15
+  G: | 
+ALLE ORANGENEN DRACHEN!
+
+Nun hatten wir die Posten der Waldhüter aufgesucht und die orangenen Drachen gegen die Giftwolke versammelt. 
+
+|
+  G: |
+
+Wir konnten nun gegen die Napalianer kriegerisch vorgehen oder Prof. Wamugo's Vorschlag der friedlichen Einigung annehmen! Die Wahl lag bei uns...
+|
+  >> 旧CHN:
+  C: |
+毒云
+
+已清除|
+  C: |
+家养龙顷刻间聚向毒云，中和了纳帕利亚人据点外的烟瘴！
+道路已通，决断在己……
+        |
+--- block 16
+  G: | 
+GIFTWOLKE BESEITIGT
+
+In Windeseile sammelten sich die Hausdrachen der Waldposten um die Giftwolke um die Stützpunkte der Napalianer zu neutralisieren!
+
+|
+  G: |
+
+Nun war der Weg frei und die Entscheidung lag bei uns...
+|
+  >> 旧CHN:
+  C: |老
+
+者|
+  C: |
+“水龙正在水之神庙备战。若你们真心实意，老阿夸罗姆定会拨一支水龙大军相随。”
+        |
+--- block 17
+  G: | 
+DER ALTE MANN
+
+|
+  G: |
+
+"Die Wasserdrachen rüsten sich für den Ernstfall im Wassertempel. Sicherlich gibt euch der alte AQUAROM eine Armee von Wasserdrachen zum Geleit, wenn ihr es ernsthaft meint."
+|
+  >> 旧CHN:
+  C: |
+阿夸斯--水龙
+“总有不宁之人惹事，实在可耻。我们爱好和平之龙，难得被激出巢……”
+        |
+  C: |
+“……但事已至此，别无他法。我们在水之神庙整军抗敌。但唯有你最强的英雄，才得入内！”
+若需增援，与比雅尼同赴水之神庙。
+        |
+--- block 18
+  G: | 
+AQUAS - DIE WASSERDRACHEN
+
+"Es ist eine Schande, dass immer wieder Unruhestifter gibt. Dabei sind wir friedliebenden Drachen selten aus der Reserve zu locken..."
+
+|
+  G: |
+
+"...aber unter diesen Umständen bleibt uns nichts anderes übrig.
+Im Wasserdrachentempel rüsten wir uns gegen den Feind. Aber nur euer stärkster Held hat Zutritt zu ihm!"
+
+Gehe mit Bjarni zum Wasserdrachentempel, wenn du Verstärkung benötigst.
+|
+  >> 旧CHN:
+  C: |
+纳帕
+
+利亚人|
+  C: |
+“敢再靠近一步！我们绝不会再上当受骗！”
+
+“滚开，否则我们被迫动用武器！”
+        |
+--- block 19
+  G: | 
+NAPALIANER
+
+"Keinen Schritt näher! Noch einmal werden wir uns nicht in die Irre führen lassen!"
+
+|
+  G: | 
+ 
+"Geht, oder wir sind gezwungen unsere Waffen zu gebrauchen!"
+|
+  >> 旧CHN:
+  C: |
+纳帕
+
+利亚人|
+  C: |
+“这是你们自找的！我们的武器会将你们消灭。缴纳贡品，我们便重新考虑对你们的态度，但前提是你们立刻离开我们的据点！”
+缴纳贡品，使他们恢复中立！
+        |
+--- block 20
+  G: | 
+NAPALIANER
+
+"Ihr habt es so gewollt! Unsere Waffen werden euch vernichten. Zahlt den Tribut und wir werden unsere Haltung zu euch überdenken, aber nur, wenn ihr sofort unsere Stützpunkte verlasst!"
+
+Zahle den Tribut, um sie wieder neutral zu stimmen!
+|
+  >> 旧CHN:
+  C: |
+任务失败！
+
+一时的轻率，生命便转瞬即逝！你的女英雄希拉，因你的疏忽而殒命
+
+！少了这位英雄，任务的结局将永远对你隐藏。
+        |
+--- block 200
+  G: |
+MISSION VERLOREN!
+|
+  G: |
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+|
+  >> 旧CHN:
+  C: |
+任务失败！
+        |
+  C: |
+“我们自会重新考虑对你们的态度，但休想再踏入我们的地界！”纳帕利亚人朝我们喊道，并即刻改变了对待我们的外交姿态。
+        |
+--- block 21
+  G: | 
+TRIBUT GELEISTET!
+
+"Nun werden wir unsere Haltung zu euch überdenken, aber wagt euch nicht wieder in unser Terrain!" riefen uns die Napalianer zu und änderten ihren Diplomatiestatus uns gegenüber.
+
+|
+  >> 旧CHN:
+  C: |
+纳帕利亚人败北！
+
+纳帕利亚人虽被击败，可若当初本也能和平了结？
+        |
+--- block 22
+  G: | 
+NAPALIANER BESIEGT!
+
+Zwar waren die Napalianer geschlagen, doch war nicht auch eine friedliche Einigung möglich gewesen? 
+
+|
+  >> 旧CHN:
+  C: |
+所有龙齐聚！
+不可思议！四面八方的老友--龙族，纷纷涌来助我们一臂之力！
+
+其中也有诺伯特。
+瓦穆戈果不食言！
+        |
+--- block 23
+  G: | 
+ALLE DRACHEN VERSAMMELT!
+
+Es war unglaublich! Aus alle Himmelsrichtungen strömten unsere alten Freunde die Drachen herbei, um uns zu helfen!
+
+|
+  G: | 
+
+Unter ihnen auch Norbert. 
+
+|
+  G: | 
+
+WAMUGO hatte Wort gehalten!
+|
+  >> 旧CHN:
+  C: |
+龙族
+
+相助！|
+  C: |
+不可思议！四面八方的老友--龙族，纷纷涌来助我们一臂之力！
+        |
+  C: |
+如今我们可携手对抗纳帕利亚人！
+        |
+--- block 24
+  G: | 
+HILFE DURCH DIE DRACHEN!
+
+Es war unglaublich! Aus alle Himmelsrichtungen strömten unsere alten Freunde die Drachen herbei, um uns zu helfen!
+
+|
+  G: | 
+
+Nun konnten wir gemeinsam gegen die Napalianer vorgehen!
+|
+  >> 旧CHN:
+  C: |
+任务
+
+失败！|
+  C: |
+一时的轻率，生命便转瞬即逝！比雅尼与希拉之子玛尼，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+        |
+--- block 25
+  >> 旧CHN:
+--- block 500
+  G: |
+MISSION VERLOREN!
+|
+  G: |
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+|
+  >> 旧CHN:
+  C: |任务失败！|
+  C: |生活中的片刻疏忽，人生如此迅速！ 玛尼--比雅尼与希拉之子--因你的疏忽而丧命！失去这位英雄，你将无法得知任务的结局。|
+--- block 50_end
+  G: | 
+Dank unserer Freunde war es uns gelungen, die Napalianer endgültig aus diesen Landstrichen zu vertreiben und ihnen ihre Boshaftigkeiten abzugewöhnen. Niemals wieder sollten sie anderen Menschen noch Drachen Leid zufügen. Dies war das Versprechen, das wir uns gaben.  
+|
+  >> 旧CHN:
+  C: |
+然而最欢喜的，是把诺伯特重新拥入怀中。小龙已长大，从其他地龙处学到许多，也积下独属于自己的经历。可他与我们，仿佛从未离去。他与众龙对我们如此熟悉，自此人与龙处处可和睦共生……
+        |
+--- block 50_end1
+  G: |
+Die schönste Freude jedoch war es Norbert wieder in die Arme zu schießen. Der kleine Drache war gewachsen und hatte bereits viel von den anderen Erddrachen gelernt und seine ganz eigenen Erfahrungen gemacht. Trotzdem war es, als wäre er nie von uns gegangen. Er und die anderen Drachen waren uns so vertraut und fortan sollten die Menschen und Drachen allerorts in Frieden leben... 
+|
+  >> 旧CHN:
+  C: |
+战役胜利！
+        |
+--- block 50_endheader
+  G: | 
+KAMPAGNE GEWONNEN! 
+|
+  >> 旧CHN:
+  C: |
+任务失败！
+一时的轻率，生命便转瞬即逝！你的挚友、英雄之龙诺伯特，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+        |
+--- block 600
+  G: |
+MISSION VERLOREN!
+|
+  G: |
+Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+|
+  >> 旧CHN:
+  C: |任务失败！|
+  C: |生活中的片刻疏忽，人生如此迅速！ 你的朋友兼英雄--巨龙诺伯特--因你的疏忽而丧命！失去这位英雄，你将无法得知任务的结局。|
+--- block header
+  G: | 
+HEIMKEHR
+|
+  >> 旧CHN:
+  C: |
+归乡
+        |

@@ -1,0 +1,1744 @@
+==========================================================================================
+目录: map_xml
+==========================================================================================
+
+[✗ 3 处问题]  _campaign_04_01.xml  (strings=46 blocks=33 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                string 51
+        CHN=2字 ger=12字 ratio=0.17 CHN=「石龙」 ger=「Steindrachen」
+    - 长度比异常(疑似内容错位)                string 52
+        CHN=2字 ger=12字 ratio=0.17 CHN=「火龙」 ger=「Feuerdrachen」
+    - 长度比异常(疑似内容错位)                string 53
+        CHN=2字 ger=13字 ratio=0.15 CHN=「水龙」 ger=「Wasserdrachen」
+
+[✗ 1 处问题]  _campaign_04_01_sub1.xml  (strings=9 blocks=9 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                block header text[0]
+        CHN=2字 ger=12字 ratio=0.17 CHN=「海底」 ger=「UNTERDEMMEER」
+
+[✗ 9 处问题]  _campaign_04_01_sub2.xml  (strings=12 blocks=11 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                string 52
+        CHN=2字 ger=12字 ratio=0.17 CHN=「火龙」 ger=「Feuerdrachen」
+    - 长度比异常(疑似内容错位)                string 99
+        CHN=2字 ger=12字 ratio=0.17 CHN=「海底」 ger=「UNTERDEMMEER」
+    - 长度比异常(疑似内容错位)                block 00_start text[0]
+        CHN=27字 ger=153字 ratio=0.18 CHN=「而那座冰雕像就矗立在那里，挡住了通往阿夸里乌斯的去路！」 ger=「ManiundNorbertbetratenwiederdenWassertempelderAQUA」
+    - 长度比异常(疑似内容错位)                block 00_start1 text[0]
+        CHN=84字 ger=57字 ratio=1.47 CHN=「阿夸里乌斯守卫“噢，我看你们带了一条卢米斯族的火龙来。它们怕」 ger=「Unddortwarsie,dieEisstatue,diedenWegzuAquariusvers」
+    - 长度比异常(疑似内容错位)                block 01 text[0]
+        CHN=7字 ger=177字 ratio=0.04 CHN=「阿夸里乌斯守卫」 ger=「AQUARIUSWACHE"Oh,wieichsehehabtihreinenderLumis,de」
+    - 长度比异常(疑似内容错位)                block 03 text[0]
+        CHN=5字 ger=119字 ratio=0.04 CHN=「任务失败！」 ger=「AQUARIUS"WillkommenimReichunterdemMeer!"sprachAqua」
+    - 子元素序列不一致                     block 500
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 长度比异常(疑似内容错位)                block 500 text[1]
+        CHN=18字 ger=172字 ratio=0.10 CHN=「睿智的格拉乌霍尔姆定会对此甚感欣慰！」 ger=「EinkleinerMomentdesLeichtsinns,soschnellkommtesimL」
+    - 子元素序列不一致                     block 600
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+
+[✗ 12 处问题]  _campaign_04_01_sub3.xml  (strings=15 blocks=17 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                string 51
+        CHN=2字 ger=12字 ratio=0.17 CHN=「石龙」 ger=「Steindrachen」
+    - 长度比异常(疑似内容错位)                string 52
+        CHN=2字 ger=12字 ratio=0.17 CHN=「火龙」 ger=「Feuerdrachen」
+    - 长度比异常(疑似内容错位)                string 53
+        CHN=2字 ger=13字 ratio=0.15 CHN=「水龙」 ger=「Wasserdrachen」
+    - 长度比异常(疑似内容错位)                string 99
+        CHN=4字 ger=30字 ratio=0.13 CHN=「石龙圣殿」 ger=「DIEHEILIGEHALLEDERSTEINDRACHEN」
+    - 长度比异常(疑似内容错位)                block 01 text[0]
+        CHN=27字 ger=24字 ratio=1.12 CHN=「格拉乌霍尔姆“你们当真做到了，化解了各族之间的芥蒂！”」 ger=「DIEWACHDRACHENUMGRAUHOLM」
+    - 长度比异常(疑似内容错位)                block 01 text[1]
+        CHN=116字 ger=44字 ratio=2.64 CHN=「仅余一对尚未和好，不过我怀疑这两位并非因偏见、恐惧或嫉妒而争」 ger=「"GRAUHOLMerwarteteuchbereits!Folgtunszuihm!"」
+    - 长度比异常(疑似内容错位)                block 02 text[1]
+        CHN=40字 ger=327字 ratio=0.12 CHN=「或许送几束鲜花、说几句编造的好话？于是玛尼与诺伯特采了几朵蓝」 ger=「Eineinzigeristnochübriggeblieben,dochichbezweifele」
+    - 长度比异常(疑似内容错位)                block 03 text[0]
+        CHN=4字 ger=126字 ratio=0.03 CHN=「罗希尔德」 ger=「BLUMEN!ManiundNorbertmusstenbeiderVersöhnungderbei」
+    - 长度比异常(疑似内容错位)                block 05 text[0]
+        CHN=6字 ger=78字 ratio=0.08 CHN=「布劳斯特伦普」 ger=「ROTHILD"BlaueBlumen,diesindaberwunderschön!Wie?Die」
+    - 子元素序列不一致                     block 500
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 600
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 长度比异常(疑似内容错位)                block header text[0]
+        CHN=4字 ger=30字 ratio=0.13 CHN=「石龙殿堂」 ger=「DIEHEILIGEHALLEDERSTEINDRACHEN」
+
+[✗ 4 处问题]  _campaign_04_02.xml  (strings=30 blocks=29 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                string 52
+        CHN=2字 ger=12字 ratio=0.17 CHN=「火龙」 ger=「Feuerdrachen」
+    - 长度比异常(疑似内容错位)                block 01 text[1]
+        CHN=26字 ger=131字 ratio=0.20 CHN=「此处树木稀疏，留有充足建造空间，周遭亦不缺各类资源。」 ger=「DieBäumestandenhiernichtallzudichtbeieinanderundso」
+    - 长度比异常(疑似内容错位)                block 13 text[0]
+        CHN=2字 ger=11字 ratio=0.18 CHN=「老者」 ger=「DERALTEMANN」
+    - 长度比异常(疑似内容错位)                block 14 text[0]
+        CHN=2字 ger=11字 ratio=0.18 CHN=「老者」 ger=「DERALTEMANN」
+
+[OK]  _campaign_04_02_sub1.xml  (strings=4 blocks=3 langs=['CHN', 'ger'])
+
+[✗ 9 处问题]  _campaign_04_02_sub2.xml  (strings=8 blocks=15 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                string 53
+        CHN=2字 ger=13字 ratio=0.15 CHN=「暗龙」 ger=「Dunkeldrachen」
+    - 长度比异常(疑似内容错位)                string 63
+        CHN=2字 ger=13字 ratio=0.15 CHN=「暗龙」 ger=「Dunkeldrachen」
+    - 长度比异常(疑似内容错位)                block 01 text[0]
+        CHN=35字 ger=253字 ratio=0.14 CHN=「所有火把已点燃！我们之友派罗点燃了所有火把。通往火水晶的道路」 ger=「ALLEFACKELNENTZÜNDET!HieramEingangderHöhlewarennun」
+    - 长度比异常(疑似内容错位)                block 03 text[0]
+        CHN=6字 ger=131字 ratio=0.05 CHN=「巨龙已败北！」 ger=「DUNKELDRACHENDurchdieGitterwändesahenwirschwarzeDr」
+    - 长度比异常(疑似内容错位)                block 04 text[0]
+        CHN=24字 ger=149字 ratio=0.16 CHN=「巨龙已困入！我们做到了，所有暗龙都身陷彩虹之厅！」 ger=「DRACHENBESIEGT!WirhattendiefarblosenGeschöpfebesie」
+    - 子元素序列不一致                     block 100
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 200
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 300
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 长度比异常(疑似内容错位)                block 50_end text[0]
+        CHN=5字 ger=90字 ratio=0.06 CHN=「干得漂亮！」 ger=「WirhattendenKrisallimInnerenderHöhlegefunden!Nunmu」
+
+[✗ 26 处问题]  _campaign_04_03.xml  (strings=45 blocks=35 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                string 51
+        CHN=2字 ger=12字 ratio=0.17 CHN=「石龙」 ger=「Steindrachen」
+    - 长度比异常(疑似内容错位)                string 52
+        CHN=2字 ger=12字 ratio=0.17 CHN=「火龙」 ger=「Feuerdrachen」
+    - 长度比异常(疑似内容错位)                string 53
+        CHN=2字 ger=13字 ratio=0.15 CHN=「水龙」 ger=「Wasserdrachen」
+    - 长度比异常(疑似内容错位)                string 99
+        CHN=3字 ger=19字 ratio=0.16 CHN=「大迁居」 ger=「DIEGROSSEUMSIEDLUNG」
+    - 长度比异常(疑似内容错位)                block 01 text[0]
+        CHN=11字 ger=66字 ratio=0.17 CHN=「已向神庙守卫缴纳贡品！」 ger=「WALDPOSTEN1-DIETEMPELWÄCHTER"Willkommen!"sprachend」
+    - 长度比异常(疑似内容错位)                block 03 text[0]
+        CHN=10字 ger=158字 ratio=0.06 CHN=「铁制工具已交给采药人」 ger=「POSTEN2-KRÄUTERSAMMLER"WirwürdenjagerneunsererArbe」
+    - 长度比异常(疑似内容错位)                block 04 text[0]
+        CHN=28字 ger=175字 ratio=0.16 CHN=「格罗尔斯--石龙在嶙峋山脉中，我们遇见了古老的智慧石龙。」 ger=「EISENWERKZEUGANKRÄUTERSAMMLERGELIEFERT"EinWerkzeug」
+    - 长度比异常(疑似内容错位)                block 06 text[0]
+        CHN=7字 ger=118字 ratio=0.06 CHN=「哨站3--商人」 ger=「WIKINGERDORFDieWikingerindiesemLandstrichwarenüber」
+    - 长度比异常(疑似内容错位)                block 06 text[1]
+        CHN=64字 ger=37字 ratio=1.73 CHN=「“进来开开眼吧，瞧瞧我的货色！我的价钱公道的！”商人老远便朝」 ger=「undbotenunsgünstigeHandelsverträgean.」
+    - 长度比异常(疑似内容错位)                block 07 text[0]
+        CHN=8字 ger=112字 ratio=0.07 CHN=「已与商人交易货物」 ger=「POSTEN3-HÄNDLER"KommthereinundbestauntmeineWaren!M」
+    - 长度比异常(疑似内容错位)                block 09 text[0]
+        CHN=2字 ger=145字 ratio=0.01 CHN=「火龙」 ger=「FEUERDRACHEN"WirsindnichtgutaufandereLebewesenzusp」
+    - 长度比异常(疑似内容错位)                block 10 text[0]
+        CHN=5字 ger=97字 ratio=0.05 CHN=「任务失败！」 ger=「FEUERDRACHEN"IhrseidwahreMeisterbäcker!UnsereUnter」
+    - 子元素序列不一致                     block 100
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 长度比异常(疑似内容错位)                block 11 text[0]
+        CHN=13字 ger=162字 ratio=0.08 CHN=「水龙森林村庄学校已迎来学生」 ger=「POSTEN4-WALDSCHULEDERWASSERDRACHEN"Achhättewirnurg」
+    - 长度比异常(疑似内容错位)                block 13 text[0]
+        CHN=2字 ger=109字 ratio=0.02 CHN=「老者」 ger=「POSTEN5-SCHULEAMPALMENHAIN"UnsereKindersindäußerst」
+    - 长度比异常(疑似内容错位)                block 14 text[1]
+        CHN=52字 ger=307字 ratio=0.17 CHN=「如今我们寻遍了所有守护者哨站，并施以援手。他们当真助益良多，」 ger=「"MitdenNapalianernistnichtzuspaßen!Sobaldmansichin」
+    - 长度比异常(疑似内容错位)                block 15 text[0]
+        CHN=5字 ger=199字 ratio=0.03 CHN=「毒云已清除」 ger=「ALLEPOSTENDERWALDHÜTERNunhattenwirallePostenderWal」
+    - 子元素序列不一致                     block 16
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text', 'usericon']
+    - 长度比异常(疑似内容错位)                block 18 text[0]
+        CHN=5字 ger=75字 ratio=0.07 CHN=「纳帕利亚人」 ger=「AQUAS-DIEWASSERDRACHENWirsindfriedliebendeDrachen.」
+    - 长度比异常(疑似内容错位)                block 19 text[0]
+        CHN=5字 ger=68字 ratio=0.07 CHN=「纳帕利亚人」 ger=「NAPALIANER"KeinenSchrittnäher!Wirwerdensonstunsere」
+    - 子元素序列不一致                     block 200
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 长度比异常(疑似内容错位)                block 21 text[0]
+        CHN=30字 ger=181字 ratio=0.17 CHN=「纳帕利亚人败北！纳帕利亚人虽被击败，可若当初本也能和平了结？」 ger=「TRIBUTGELEISTET!"NunwerdenwirunsereHaltungzueuchüb」
+    - 子元素序列不一致                     block 500
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 长度比异常(疑似内容错位)                block 50_end1 text[0]
+        CHN=5字 ger=166字 ratio=0.03 CHN=「干得漂亮！」 ger=「Ihnentatesleid,unssolchgroßeSorgenbereitetzuhaben,」
+    - 子元素序列不一致                     block 600
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 长度比异常(疑似内容错位)                block header text[0]
+        CHN=3字 ger=19字 ratio=0.16 CHN=「大迁徙」 ger=「DIEGROSSEUMSIEDLUNG」
+
+[✗ 6 处问题]  _campaign_04_03_sub1.xml  (strings=9 blocks=13 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                string 99
+        CHN=2字 ger=12字 ratio=0.17 CHN=「海底」 ger=「UNTERDEMMEER」
+    - 长度比异常(疑似内容错位)                block 01 text[0]
+        CHN=2字 ger=110字 ratio=0.02 CHN=「船只」 ger=「WASSERDRACHEN"WillkommeninunseremWassertempel.Erdl」
+    - 长度比异常(疑似内容错位)                block 02 text[0]
+        CHN=47字 ger=7字 ratio=6.71 CHN=「阿夸罗姆与控制台“久站这控制台，我真乏了，可它对海底的我们必」 ger=「SCHIFFE」
+    - 长度比异常(疑似内容错位)                block 03 text[0]
+        CHN=8字 ger=148字 ratio=0.05 CHN=「阿夸罗姆与控制台」 ger=「AQUARUMUNDDERSCHALTER"IchbinmüdevomStehenaufdiesem」
+    - 子元素序列不一致                     block 100
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 200
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+
+[✗ 22 处问题]  _campaign_04_04.xml  (strings=41 blocks=39 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                string 56
+        CHN=2字 ger=13字 ratio=0.15 CHN=「水龙」 ger=「Wasserdrachen」
+    - 长度比异常(疑似内容错位)                string 99
+        CHN=4字 ger=22字 ratio=0.18 CHN=「解放土龙」 ger=「BEFREIUNGDERERDDRACHEN」
+    - 长度比异常(疑似内容错位)                block 01 text[1]
+        CHN=42字 ger=454字 ratio=0.09 CHN=「他们还向我们讲起或许最强大的龙族：魔法龙。若说有谁能助我们完」 ger=「SieerzähltenunsvonihrerfrüherenGemeinschaftmitdenD」
+    - 长度比异常(疑似内容错位)                block 02 text[0]
+        CHN=8字 ger=200字 ratio=0.04 CHN=「牧人民族的雇佣兵」 ger=「SCHUHEGELIEFERT!WirhattendenHirtendieSchuhezumTrib」
+    - 长度比异常(疑似内容错位)                block 03 text[0]
+        CHN=6字 ger=158字 ratio=0.04 CHN=「哨塔已建成！」 ger=「SÖLDNERvomHIRTENVOLK"Ihrscheintsehrtapferzusein!Wi」
+    - 长度比异常(疑似内容错位)                block 07 text[0]
+        CHN=4字 ger=227字 ratio=0.02 CHN=「隐形药剂」 ger=「WARENANZAUBERDRACHENGELIEFERT!WirhattendieWarenden」
+    - 长度比异常(疑似内容错位)                block 08 text[0]
+        CHN=2字 ger=161字 ratio=0.01 CHN=「水龙」 ger=「UNSICHTBARKEITSTRANKDieZauberdrachenüberreichtende」
+    - 长度比异常(疑似内容错位)                block 09 text[0]
+        CHN=2字 ger=13字 ratio=0.15 CHN=「水龙」 ger=「WASSERDRACHEN」
+    - 长度比异常(疑似内容错位)                block 10 text[0]
+        CHN=5字 ger=128字 ratio=0.04 CHN=「任务失败！」 ger=「WASSERDRACHEN"Ihrhabtsieunsunversehrtwiedergebrach」
+    - 子元素序列不一致                     block 100
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 长度比异常(疑似内容错位)                block 11 text[0]
+        CHN=5字 ger=196字 ratio=0.03 CHN=「纳帕利亚人」 ger=「WASSERDRACHENBEFREIT!"EndlichsindwirausdenFängendi」
+    - 长度比异常(疑似内容错位)                block 14 text[1]
+        CHN=35字 ger=192字 ratio=0.18 CHN=「“你无权闯入地牢。去助牧人民族与水龙，再带英雄回来，那时便放」 ger=「WirhattenBABULdenenormenTributbezahltundsogabensie」
+    - 长度比异常(疑似内容错位)                block 16 text[0]
+        CHN=8字 ger=111字 ratio=0.07 CHN=「纳帕利亚人败北！」 ger=「TRIBUTANBABULÜBERREICHT!"FürsErstestehenwirneutral」
+    - 长度比异常(疑似内容错位)                block 17 text[0]
+        CHN=30字 ger=18字 ratio=1.67 CHN=「魔法之地我们撞见传送装置。可惜出口必被封死，于我们毫无用处。」 ger=「NAPALIANERBESIEGT!」
+    - 子元素序列不一致                     block 200
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 长度比异常(疑似内容错位)                block 200 text[1]
+        CHN=26字 ger=154字 ratio=0.17 CHN=「哎呀，水龙死了。没了它们，任务的结局将永远对你隐藏！」 ger=「EinkleinerMomentdesLeichtsinns,soschnellkommtesimL」
+    - 长度比异常(疑似内容错位)                block 26 text[0]
+        CHN=8字 ger=76字 ratio=0.11 CHN=「传送装置已激活！」 ger=「ALLEWASSERDRACHENBEFREIT!NunhattenwirendlichalleWa」
+    - 长度比异常(疑似内容错位)                block 26 text[1]
+        CHN=24字 ger=173字 ratio=0.14 CHN=「为感解放水龙之恩，水龙们激活了沙漠中的传送装置。」 ger=「AlleerzähltenunsvondenseltenenErddrachen.Dienieman」
+    - 长度比异常(疑似内容错位)                block 27 text[0]
+        CHN=13字 ger=109字 ratio=0.12 CHN=「地龙！我们终于寻得了地龙！」 ger=「TELEPORTERAKTIVIERT!ZumDankfürdieBefreiungderWasse」
+    - 子元素序列不一致                     block 500
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 长度比异常(疑似内容错位)                block 50_end1 text[0]
+        CHN=5字 ger=314字 ratio=0.02 CHN=「任务胜利！」 ger=「Maniindesswartraurig,danunderAbschiedvonseinembest」
+    - 子元素序列不一致                     block 600
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+
+[✗ 9 处问题]  _campaign_04_04_sub1.xml  (strings=13 blocks=12 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                block 01 text[0]
+        CHN=5字 ger=71字 ratio=0.07 CHN=「斯普鲁德尔」 ger=「GULP"IhrhabtwahrlichGroßesvollbracht,unsereStammes」
+    - 长度比异常(疑似内容错位)                block 01 text[1]
+        CHN=33字 ger=194字 ratio=0.17 CHN=「“你们认出我了！难不成那饶舌的斯普鲁德尔，当真钻进了你们的脑」 ger=「"Habtihrsieeucheingeprägt,wißtihrnoch,wiesieheißen」
+    - 长度比异常(疑似内容错位)                block 03 text[1]
+        CHN=9字 ger=64字 ratio=0.14 CHN=「“你们认出我了！”」 ger=「"Ihrhabtmicherkannt!NIXEwirdeuchauchimmerimHerzenb」
+    - 长度比异常(疑似内容错位)                block 04 text[1]
+        CHN=43字 ger=21字 ratio=2.05 CHN=「是英勇，还是鲁莽？比雅尼陨落之时，诸神落泪……少了这位英雄，」 ger=「"Ihrhabtmicherkannt!"」
+    - 子元素序列不一致                     block 100
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 200
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 长度比异常(疑似内容错位)                block 50_end text[0]
+        CHN=33字 ger=219字 ratio=0.15 CHN=「为感救命之恩，也因它们于我们不止是寻常龙族，阿夸斯激活了传送」 ger=「ÜBERRASCHUNG!"EigentlichsinddieWasserfällenichtsan」
+    - 长度比异常(疑似内容错位)                block 50_end1 text[0]
+        CHN=5字 ger=106字 ratio=0.05 CHN=「干得漂亮！」 ger=「ZumDankfürihreRettung,undweilsiefürunsmehrwarenals」
+    - 长度比异常(疑似内容错位)                block header text[0]
+        CHN=3字 ger=18字 ratio=0.17 CHN=「三瀑布」 ger=「DIEDREIWASSERFÄLLE」
+
+[✗ 8 处问题]  _campaign_04_04_sub2.xml  (strings=17 blocks=19 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                block 00_start1 text[0]
+        CHN=19字 ger=166字 ratio=0.11 CHN=「纳帕利亚人“你们竟敢闯进地牢？找死！”」 ger=「DieGefangenenwürdengutbewachtwerden.Aberesgabinkab」
+    - 长度比异常(疑似内容错位)                block 03 text[0]
+        CHN=2字 ger=13字 ratio=0.15 CHN=「水龙」 ger=「ZAUBERDRACHEN」
+    - 长度比异常(疑似内容错位)                block 03 text[1]
+        CHN=26字 ger=149字 ratio=0.17 CHN=「“我们本是纳帕利亚人易擒的猎物。多谢你们救了我们。”」 ger=「"DieseNapalianertreibenüberallihrUnwesen.Wirdachte」
+    - 长度比异常(疑似内容错位)                block 05 text[1]
+        CHN=10字 ger=71字 ratio=0.14 CHN=「纳帕利亚人已被击败！」 ger=「MiteinemgewaltigenKnarrenöffnetensichzweischwereHo」
+    - 子元素序列不一致                     block 100
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 200
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 500
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 600
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+
+[✗ 31 处问题]  _campaign_04_05.xml  (strings=43 blocks=35 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                string 51
+        CHN=2字 ger=12字 ratio=0.17 CHN=「石龙」 ger=「Steindrachen」
+    - 长度比异常(疑似内容错位)                string 52
+        CHN=2字 ger=12字 ratio=0.17 CHN=「火龙」 ger=「Feuerdrachen」
+    - 长度比异常(疑似内容错位)                string 53
+        CHN=2字 ger=13字 ratio=0.15 CHN=「水龙」 ger=「Wasserdrachen」
+    - 长度比异常(疑似内容错位)                block 01 text[0]
+        CHN=11字 ger=78字 ratio=0.14 CHN=「已向神庙守卫缴纳贡品！」 ger=「WALDPOSTEN1-DIETEMPELWÄCHTER"Schöneuchwiederzusehe」
+    - 长度比异常(疑似内容错位)                block 03 text[0]
+        CHN=10字 ger=233字 ratio=0.04 CHN=「已向采药人缴纳贡品！」 ger=「POSTEN2-KRÄUTERSAMMLER"DamalshabtihrunsneuesWerkze」
+    - 长度比异常(疑似内容错位)                block 04 text[0]
+        CHN=37字 ger=221字 ratio=0.17 CHN=「格罗尔斯的山脉--石龙往昔嶙峋山脉中曾有古老智慧的石龙，如今」 ger=「TRIBUTANKRÄUTERSAMMLERBEZAHLT!"DerPosten,derursprü」
+    - 长度比异常(疑似内容错位)                block 06 text[0]
+        CHN=4字 ger=170字 ratio=0.02 CHN=「商人哨站」 ger=「WIKINGERDORF"Esistschlimmergeworden,seitdemihrwegw」
+    - 长度比异常(疑似内容错位)                block 06 text[1]
+        CHN=70字 ger=55字 ratio=1.27 CHN=「“你们回来了！这下一切定会好转！”“受纳帕利亚人侵扰，我不幸」 ger=「"WirsteheneuchmitallemwasunszurVerfügungstehtzurSe」
+    - 长度比异常(疑似内容错位)                block 07 text[0]
+        CHN=8字 ger=59字 ratio=0.14 CHN=「已与商人交易货物」 ger=「HÄNDLERPOSTEN"Ihrseidwiederda!Nunwirdsicheralleswi」
+    - 子元素序列不一致                     block 100
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 长度比异常(疑似内容错位)                block 11 text[0]
+        CHN=8字 ger=377字 ratio=0.02 CHN=「水龙森林村庄学校」 ger=「PROF.WAMUGO"IchhabemeinenUnterrichtindenPalmenhain」
+    - 长度比异常(疑似内容错位)                block 12 text[0]
+        CHN=5字 ger=30字 ratio=0.17 CHN=「棕榈林学堂」 ger=「WALDDORFSCHULEDERWASSERDRACHEN」
+    - 长度比异常(疑似内容错位)                block 13 text[0]
+        CHN=2字 ger=102字 ratio=0.02 CHN=「老者」 ger=「SCHULEAMPALMENHAIN"Ihrseidzurück!UnsereKinderhaben」
+    - 长度比异常(疑似内容错位)                block 13 text[1]
+        CHN=52字 ger=22字 ratio=2.36 CHN=「“纳帕利亚人愈发猖狂……如今毒云笼罩两处据点，森林哨站的家养」 ger=「GehezuProfessorWAMUGO.」
+    - 长度比异常(疑似内容错位)                block 15 text[0]
+        CHN=5字 ger=114字 ratio=0.04 CHN=「毒云已清除」 ger=「ALLEORANGENENDRACHEN!NunhattenwirdiePostenderWaldh」
+    - 长度比异常(疑似内容错位)                block 16 text[0]
+        CHN=2字 ger=130字 ratio=0.02 CHN=「老者」 ger=「GIFTWOLKEBESEITIGTInWindeseilesammeltensichdieHaus」
+    - 长度比异常(疑似内容错位)                block 17 text[0]
+        CHN=40字 ger=11字 ratio=3.64 CHN=「阿夸斯--水龙“总有不宁之人惹事，实在可耻。我们爱好和平之龙」 ger=「DERALTEMANN」
+    - 长度比异常(疑似内容错位)                block 18 text[0]
+        CHN=5字 ger=137字 ratio=0.04 CHN=「纳帕利亚人」 ger=「AQUAS-DIEWASSERDRACHEN"EsisteineSchande,dassimmerw」
+    - 长度比异常(疑似内容错位)                block 18 text[1]
+        CHN=36字 ger=207字 ratio=0.17 CHN=「“敢再靠近一步！我们绝不会再上当受骗！”“滚开，否则我们被迫」 ger=「"...aberunterdiesenUmständenbleibtunsnichtsanderes」
+    - 长度比异常(疑似内容错位)                block 19 text[0]
+        CHN=5字 ger=80字 ratio=0.06 CHN=「纳帕利亚人」 ger=「NAPALIANER"KeinenSchrittnäher!Nocheinmalwerdenwiru」
+    - 长度比异常(疑似内容错位)                block 19 text[1]
+        CHN=70字 ger=52字 ratio=1.35 CHN=「“这是你们自找的！我们的武器会将你们消灭。缴纳贡品，我们便重」 ger=「"Geht,oderwirsindgezwungenunsereWaffenzugebrauchen」
+    - 子元素序列不一致                     block 200
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 长度比异常(疑似内容错位)                block 21 text[0]
+        CHN=30字 ger=167字 ratio=0.18 CHN=「纳帕利亚人败北！纳帕利亚人虽被击败，可若当初本也能和平了结？」 ger=「TRIBUTGELEISTET!"NunwerdenwirunsereHaltungzueuchüb」
+    - 长度比异常(疑似内容错位)                block 23 text[0]
+        CHN=5字 ger=120字 ratio=0.04 CHN=「龙族相助！」 ger=「ALLEDRACHENVERSAMMELT!Eswarunglaublich!AusalleHimm」
+    - 长度比异常(疑似内容错位)                block 23 text[1]
+        CHN=29字 ger=22字 ratio=1.32 CHN=「不可思议！四面八方的老友--龙族，纷纷涌来助我们一臂之力！」 ger=「UnterihnenauchNorbert.」
+    - 长度比异常(疑似内容错位)                block 24 text[0]
+        CHN=5字 ger=119字 ratio=0.04 CHN=「任务失败！」 ger=「HILFEDURCHDIEDRACHEN!Eswarunglaublich!AusalleHimme」
+    - 长度比异常(疑似内容错位)                block 24 text[1]
+        CHN=54字 ger=49字 ratio=1.10 CHN=「一时的轻率，生命便转瞬即逝！比雅尼与希拉之子玛尼，因你的疏忽」 ger=「NunkonntenwirgemeinsamgegendieNapalianervorgehen!」
+    - 子元素序列不一致                     block 500
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 长度比异常(疑似内容错位)                block 50_end1 text[0]
+        CHN=5字 ger=319字 ratio=0.02 CHN=「战役胜利！」 ger=「DieschönsteFreudejedochwaresNorbertwiederindieArme」
+    - 长度比异常(疑似内容错位)                block 50_endheader text[0]
+        CHN=61字 ger=17字 ratio=3.59 CHN=「任务失败！一时的轻率，生命便转瞬即逝！你的挚友、英雄之龙诺伯」 ger=「KAMPAGNEGEWONNEN!」
+    - 子元素序列不一致                     block 600
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+
+[✗ 2 处问题]  _campaign_04_05_sub1.xml  (strings=5 blocks=3 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                string 99
+        CHN=2字 ger=12字 ratio=0.17 CHN=「海底」 ger=「UNTERDEMMEER」
+    - 长度比异常(疑似内容错位)                block header text[0]
+        CHN=2字 ger=12字 ratio=0.17 CHN=「海底」 ger=「UNTERDEMMEER」
+
+[OK]  campaign_01_01.xml  (strings=23 blocks=34 langs=['CHN', 'eng', 'ger', 'pol'])
+
+[OK]  campaign_01_02-sub.xml  (strings=9 blocks=10 langs=['CHN', 'eng', 'ger', 'pol'])
+
+[✗ 2 处问题]  campaign_01_02.xml  (strings=20 blocks=47 langs=['CHN', 'eng', 'ger', 'pol'])
+    - 长度比异常(疑似内容错位)                block schreinerei4 text[0]
+        CHN=40字 ger=201字 ratio=0.20 CHN=「提示木匠已积累足够经验，可制造牛车。这需要再次升级木工坊。日」 ger=「HINWEISDerSchreinerhatnungenügendErfahrunggesammel」
+    - 长度比异常(疑似内容错位)                block töpferei3 text[0]
+        CHN=31字 ger=156字 ratio=0.20 CHN=「提示陶匠制作瓷砖的经验已足，可制作器皿。这需要再次升级陶艺坊」 ger=「HINWEISDerTöpferhatnungenügendErfahrungbeiderHerst」
+
+[OK]  campaign_01_03.xml  (strings=33 blocks=34 langs=['CHN', 'eng', 'ger', 'pol'])
+
+[OK]  campaign_01_04-sub.xml  (strings=4 blocks=9 langs=['CHN', 'eng', 'ger', 'pol'])
+
+[OK]  campaign_01_04.xml  (strings=17 blocks=27 langs=['CHN', 'eng', 'ger', 'pol'])
+
+[OK]  campaign_01_05-sub.xml  (strings=7 blocks=6 langs=['CHN', 'eng', 'ger', 'pol'])
+
+[✗ 2 处问题]  campaign_01_05.xml  (strings=19 blocks=26 langs=['CHN', 'eng', 'ger', 'pol'])
+    - 长度比异常(疑似内容错位)                string 53
+        CHN=2字 ger=14字 ratio=0.14 CHN=「桥卫」 ger=「Brückenwächter」
+    - 子元素序列不一致                     block end_00
+        CHN=['font', 'text', 'font', 'text'] ger=['text', 'font', 'text']
+
+[OK]  campaign_01_06.xml  (strings=12 blocks=17 langs=['CHN', 'eng', 'ger', 'pol'])
+
+[✗ 2 处问题]  campaign_01_07.xml  (strings=17 blocks=20 langs=['CHN', 'eng', 'ger', 'pol'])
+    - 长度比异常(疑似内容错位)                string 53
+        CHN=2字 ger=14字 ratio=0.14 CHN=「桥卫」 ger=「Brückenwächter」
+    - 长度比异常(疑似内容错位)                string 54
+        CHN=2字 ger=11字 ratio=0.18 CHN=「难民」 ger=「Flüchtlinge」
+
+[✗ 5 处问题]  campaign_01_08.xml  (strings=25 blocks=30 langs=['CHN', 'eng', 'ger', 'pol'])
+    - 子元素序列不一致                     block 13
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 15
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 17
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block bjarnitot
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block lampe_00
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'text']
+
+[OK]  campaign_01_09-sub.xml  (strings=6 blocks=4 langs=['CHN', 'eng', 'ger'])
+
+[OK]  campaign_01_09.xml  (strings=2 blocks=18 langs=['CHN', 'eng', 'ger'])
+
+[✗ 7 处问题]  campaign_01_10-sub.xml  (strings=8 blocks=21 langs=['CHN', 'eng', 'ger', 'pol'])
+    - 长度比异常(疑似内容错位)                string 51
+        CHN=2字 ger=16字 ratio=0.12 CHN=「蛇卫」 ger=「Schlangenwächter」
+    - 长度比异常(疑似内容错位)                string 52
+        CHN=2字 ger=16字 ratio=0.12 CHN=「蛇卫」 ger=「Schlangenwächter」
+    - 子元素序列不一致                     block 3
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 4
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 5
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block bjarnitot
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block won
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'text']
+
+[✗ 4 处问题]  campaign_01_10.xml  (strings=31 blocks=25 langs=['CHN', 'eng', 'ger', 'pol'])
+    - 子元素序列不一致                     block bjarnitot
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block end_00
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'text']
+    - 子元素序列不一致                     block hatschitot
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block heldtot
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+
+[✗ 1 处问题]  campaign_01_11.xml  (strings=8 blocks=7 langs=['CHN', 'eng', 'ger', 'pol'])
+    - 长度比异常(疑似内容错位)                string 51
+        CHN=2字 ger=13字 ratio=0.15 CHN=「蛇族」 ger=「Schlangenvolk」
+
+[✗ 1 处问题]  campaign_02_01.xml  (strings=27 blocks=29 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                string 55
+        CHN=3字 ger=16字 ratio=0.19 CHN=「蛇战士」 ger=「Schlangenkrieger」
+
+[✗ 1 处问题]  campaign_02_02-sub.xml  (strings=8 blocks=30 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                string 51
+        CHN=3字 ger=16字 ratio=0.19 CHN=「蛇战士」 ger=「Schlangenkrieger」
+
+[✗ 3 处问题]  campaign_02_02.xml  (strings=25 blocks=27 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                string 55
+        CHN=3字 ger=16字 ratio=0.19 CHN=「蛇战士」 ger=「Schlangenkrieger」
+    - 长度比异常(疑似内容错位)                string 99
+        CHN=3字 ger=19字 ratio=0.16 CHN=「大饥荒」 ger=「DIEGROSSEHUNGERSNOT」
+    - 长度比异常(疑似内容错位)                block header text[0]
+        CHN=3字 ger=19字 ratio=0.16 CHN=「大饥荒」 ger=「DIEGROSSEHUNGERSNOT」
+
+[✗ 2 处问题]  campaign_02_03.xml  (strings=25 blocks=25 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                string 99
+        CHN=2字 ger=11字 ratio=0.18 CHN=「故友」 ger=「ALTEFREUNDE」
+    - 长度比异常(疑似内容错位)                block header text[0]
+        CHN=2字 ger=11字 ratio=0.18 CHN=「老友」 ger=「ALTEFREUNDE」
+
+[OK]  campaign_02_04-sub1.xml  (strings=10 blocks=18 langs=['CHN', 'ger'])
+
+[OK]  campaign_02_04-sub2.xml  (strings=10 blocks=22 langs=['CHN', 'ger'])
+
+[OK]  campaign_02_04.xml  (strings=38 blocks=29 langs=['CHN', 'ger'])
+
+[OK]  campaign_02_05.xml  (strings=28 blocks=20 langs=['CHN', 'ger'])
+
+[OK]  campaign_02_06.xml  (strings=16 blocks=18 langs=['CHN', 'ger'])
+
+[✗ 1 处问题]  campaign_02_07-sub.xml  (strings=12 blocks=19 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                string 52
+        CHN=3字 ger=16字 ratio=0.19 CHN=「蛇战士」 ger=「Schlangenkrieger」
+
+[✗ 1 处问题]  campaign_02_07.xml  (strings=26 blocks=31 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                string 53
+        CHN=3字 ger=16字 ratio=0.19 CHN=「蛇战士」 ger=「Schlangenkrieger」
+
+[OK]  campaign_02_08.xml  (strings=16 blocks=21 langs=['CHN', 'ger'])
+
+[OK]  campaign_03_01.xml  (strings=42 blocks=51 langs=['CHN', 'ger'])
+
+[✗ 12 处问题]  campaign_03_01_sub.xml  (strings=11 blocks=15 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                string 99
+        CHN=2字 ger=15字 ratio=0.13 CHN=「圣火」 ger=「DASHEILIGEFEUER」
+    - 子元素序列不一致                     block 00_start
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 02
+        CHN=['text'] ger=['text', 'usericon']
+    - 子元素序列不一致                     block 03
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 04
+        CHN=['text'] ger=['text', 'usericon']
+    - 子元素序列不一致                     block 05
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 100
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 200
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 300
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 400
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 50_end
+        CHN=['text'] ger=['text', 'usericon']
+    - 长度比异常(疑似内容错位)                block header text[0]
+        CHN=2字 ger=15字 ratio=0.13 CHN=「圣火」 ger=「DASHEILIGEFEUER」
+
+[✗ 21 处问题]  campaign_03_02.xml  (strings=44 blocks=38 langs=['CHN', 'ger'])
+    - 子元素序列不一致                     block 01
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 04
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 05
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 06
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 07
+        CHN=['text', 'text', 'text'] ger=['text', 'usericon', 'text', 'usericon', 'text']
+    - 子元素序列不一致                     block 08
+        CHN=['text'] ger=['text', 'usericon']
+    - 子元素序列不一致                     block 100
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 11
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 12
+        CHN=['text'] ger=['text', 'usericon']
+    - 子元素序列不一致                     block 15
+        CHN=['text'] ger=['text', 'usericon']
+    - 子元素序列不一致                     block 17
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 19
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 20
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 200
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 23
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 24
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 25
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 300
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 400
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 500
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 600
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+
+[✗ 13 处问题]  campaign_03_02_sub.xml  (strings=17 blocks=18 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                string 51
+        CHN=1字 ger=7字 ratio=0.14 CHN=「龙」 ger=「Drachen」
+    - 长度比异常(疑似内容错位)                string 61
+        CHN=1字 ger=7字 ratio=0.14 CHN=「龙」 ger=「Drachen」
+    - 子元素序列不一致                     block 00_start
+        CHN=['text'] ger=['text', 'usericon']
+    - 子元素序列不一致                     block 01
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 05
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 06
+        CHN=['text'] ger=['text', 'usericon']
+    - 子元素序列不一致                     block 07
+        CHN=['text', 'text', 'text'] ger=['text', 'usericon', 'text', 'usericon', 'text']
+    - 子元素序列不一致                     block 100
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 200
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 300
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 400
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 500
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 50_end
+        CHN=['text'] ger=['text', 'usericon']
+
+[✗ 77 处问题]  campaign_03_03.xml  (strings=60 blocks=74 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                block 00_start1 text[0]
+        CHN=65字 ger=364字 ratio=0.18 CHN=「我们在罗德岛附近的一座小岛上登陆，补充给养，稍作休整。最终我」 ger=「WirwarenaufeinerkleinenInselnaheRhodosgelandet,umu」
+    - 长度比异常(疑似内容错位)                block 00_start2 text[0]
+        CHN=100字 ger=975字 ratio=0.10 CHN=「归乡我们刚一靠岸卸货，儿子玛尼便骤然昏倒，不省人事地躺在沙滩」 ger=「DIEHEIMREISEWirhattenkaumangelegtunddieSchiffeentl」
+    - 长度比异常(疑似内容错位)                block 00_start3 text[0]
+        CHN=60字 ger=557字 ratio=0.11 CHN=「我们刚离开船只，便听见远方传来厮杀声与号角！我们一时难以辨明」 ger=「KaumdasswirunserSchiffverließen,hörtenwirKriegslär」
+    - 长度比异常(疑似内容错位)                block 10 text[0]
+        CHN=67字 ger=368字 ratio=0.18 CHN=「奥克索斯这是奥克索斯岛。一座小巧而宁静的孤岛。宜作短途度假，」 ger=「OXIDOSDiesistdieInselOxidos.Einkleines,sehrbeschau」
+    - 子元素序列不一致                     block 100
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 长度比异常(疑似内容错位)                block 20 text[0]
+        CHN=51字 ger=263字 ratio=0.19 CHN=「克洛诺斯你抵达了克洛诺斯。此处住着武器商与货商，他们以精良货」 ger=「CHRONOSDuhastChronoserreicht.HierlebenWaffen-undWa」
+    - 子元素序列不一致                     block 200
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 201
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 长度比异常(疑似内容错位)                block 201 text[1]
+        CHN=60字 ger=409字 ratio=0.15 CHN=「听着：数周来，我们的城池一直被德米特里奥斯王及其大军围困！去」 ger=「Hört:SeitWochenschonwirdunsereStadtvonKönigDemetri」
+    - 子元素序列不一致                     block 210
+        CHN=['text'] ger=['text', 'usericon']
+    - 子元素序列不一致                     block 220
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 230
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 240
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 241
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 250
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 260
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 长度比异常(疑似内容错位)                block 260 text[1]
+        CHN=41字 ger=209字 ratio=0.20 CHN=「那里水草丰美，林木葱茏满是野物，资源取之不尽。不过说实话--」 ger=「DortgabessaftigeWeiden,herrlicheWäldervollerWildun」
+    - 子元素序列不一致                     block 270
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 长度比异常(疑似内容错位)                block 270 text[1]
+        CHN=99字 ger=788字 ratio=0.13 CHN=「数周来，我们的城池一直被德米特里奥斯及其大军围困。处境日益绝」 ger=「SeitWochenschonwirdunsereStadtvonDemetriosundseine」
+    - 子元素序列不一致                     block 271
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 272
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 273
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 长度比异常(疑似内容错位)                block 273 text[1]
+        CHN=129字 ger=1191字 ratio=0.11 CHN=「那么，且听我之计：我们在敌营安插了一名眼线，名叫梅特罗斯。他」 ger=「Also,dannhörtmeinenPlan:WirhabeneinenSpitzelimFein」
+    - 子元素序列不一致                     block 274
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 275
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 280
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 长度比异常(疑似内容错位)                block 280 text[1]
+        CHN=45字 ger=456字 ratio=0.10 CHN=「须知，纵使我曾是一大方维京部族之主，却始终难耐冰雪严寒。东南」 ger=「Wisstihr,auchwennichfrüherHerrschereinesgroßenWiki」
+    - 子元素序列不一致                     block 285
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 290
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 295
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 30
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 300
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 31
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 310
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 315
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 长度比异常(疑似内容错位)                block 315 text[1]
+        CHN=63字 ger=345字 ratio=0.18 CHN=「我在此与德米特里奥斯的士兵做买卖。一门肥差，你们懂的，嘿嘿嘿」 ger=「IchmachehiermeineGeschäftemitdenSoldatenvonDemetri」
+    - 子元素序列不一致                     block 320
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 长度比异常(疑似内容错位)                block 320 text[1]
+        CHN=100字 ger=792字 ratio=0.13 CHN=「"啊，你们来了。我正候着你们。是打密道过来的，对吧？多谢你的」 ger=「"Ah,daseidihrja.Ichhabeeuchschonerwartet.Seiddurch」
+    - 子元素序列不一致                     block 340
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 长度比异常(疑似内容错位)                block 340 text[1]
+        CHN=96字 ger=502字 ratio=0.19 CHN=「"啊，幸会，外乡人。你们是如何穿过敌军防线的？定然不易吧？你」 ger=「"Ah,seidgegrüßt,Fremde.Wieseidihrnurdurchdiefeindl」
+    - 子元素序列不一致                     block 341
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 350
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 360
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 370
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 380
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 391
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 长度比异常(疑似内容错位)                block 40 text[0]
+        CHN=123字 ger=806字 ratio=0.15 CHN=「罗德岛著名的罗德港城，位于同名岛屿北部。旅人相传，罗德岛是爱」 ger=「RHODOSDieberühmteHafenstadtRhodos,imNordendergleic」
+    - 子元素序列不一致                     block 400
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 长度比异常(疑似内容错位)                block 410 text[0]
+        CHN=88字 ger=541字 ratio=0.16 CHN=「赫利俄斯之罚当我们踏出神庙、重见天日，赫利俄斯便施展了他的神」 ger=「DIESTRAFEDESHELIOSAlswirausdemTempelinsLichtdesTag」
+    - 子元素序列不一致                     block 420
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 长度比异常(疑似内容错位)                block 420 text[1]
+        CHN=74字 ger=522字 ratio=0.14 CHN=「唯有凭你们的勇气与无畏，我族才免于覆灭！纵使我深明这份重担…」 ger=「NurdurcheurenMutundeureTapferkeitkonnteunserVolkvo」
+    - 子元素序列不一致                     block 421
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 422
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 423
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 长度比异常(疑似内容错位)                block 423 text[1]
+        CHN=35字 ger=206字 ratio=0.17 CHN=「他近日操劳过度，想稍作休整。去透几日新鲜空气，你懂的。我想他」 ger=「ErhatteinletzterZeitsovielArbeit,dassersichetwaser」
+    - 子元素序列不一致                     block 424
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 长度比异常(疑似内容错位)                block 424 text[1]
+        CHN=28字 ger=226字 ratio=0.12 CHN=「他正坐在北边海滩上钓鱼呢。嘻嘻！是呀，那好老头卡瑞斯……」 ger=「DersitztnördlichvonhieramStrandundversucht,Fischez」
+    - 子元素序列不一致                     block 430
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 长度比异常(疑似内容错位)                block 430 text[1]
+        CHN=117字 ger=600字 ratio=0.20 CHN=「我们说明了来意，他却似乎兴致缺缺。"你们瞧见，我正偷得浮生半」 ger=「WirerklärtenihmunserAnliegen,docherschiennichtsond」
+    - 长度比异常(疑似内容错位)                block 440 text[0]
+        CHN=55字 ger=334字 ratio=0.16 CHN=「我们思忖片刻，终是应允了卡瑞斯的提议。毕竟我们此来，正是为建」 ger=「Nun,wirüberlegteneineWeileundstimmtenschließlichde」
+    - 子元素序列不一致                     block 450
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 长度比异常(疑似内容错位)                block 450 text[1]
+        CHN=109字 ger=952字 ratio=0.11 CHN=「议题包括纪念碑的形制、高度、用料、安放之处，以及--价……最」 ger=「Esgingdarum,wiedasMonumentaussehensollte,wiehoch,a」
+    - 子元素序列不一致                     block 455
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 长度比异常(疑似内容错位)                block 455 text[1]
+        CHN=29字 ger=173字 ratio=0.17 CHN=「其势恢宏，已让人想见此地终将矗立何等巨制……卡瑞斯着手……」 ger=「Mächtigwaresanzusehenundesliesbereitserahnen,welch」
+    - 子元素序列不一致                     block 460
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 长度比异常(疑似内容错位)                block 465 text[0]
+        CHN=105字 ger=599字 ratio=0.18 CHN=「这便是其中的玄机！双倍高度，双倍价钱！卡瑞斯得的并非双倍，而」 ger=「DasalsowarderTrickanderSache!DoppelteHöhebeidoppel」
+    - 子元素序列不一致                     block 470
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 长度比异常(疑似内容错位)                block 470 text[0]
+        CHN=57字 ger=316字 ratio=0.18 CHN=「我们向卡瑞斯交付了所需建材，他便一径建造。然而尽管最终材料用」 ger=「WirliefertenCharesdasgewünschteBaumaterialunderbau」
+    - 长度比异常(疑似内容错位)                block 470 text[1]
+        CHN=73字 ger=427字 ratio=0.17 CHN=「这正是我们预料之中！卡瑞斯被罗德人狠狠宰了一刀，此刻他才恍然」 ger=「GenauDAShattenwirkommensehen!ChareswarvondenRhoder」
+    - 子元素序列不一致                     block 480
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 长度比异常(疑似内容错位)                block 480 text[1]
+        CHN=70字 ger=510字 ratio=0.14 CHN=「卡瑞斯暴跳咒骂，因为他明白自己被蒙骗得多深，所有指望的盈利皆」 ger=「Charestobteundfluchte,dennihmwarklar,wiesehrerhint」
+    - 子元素序列不一致                     block 500
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 55
+        CHN=['text'] ger=['text', 'usericon']
+    - 子元素序列不一致                     block 600
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 70
+        CHN=['text'] ger=['text', 'usericon']
+    - 子元素序列不一致                     block 700
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 75
+        CHN=['text'] ger=['text', 'usericon']
+
+[✗ 8 处问题]  campaign_03_03_sub1.xml  (strings=11 blocks=12 langs=['CHN', 'ger'])
+    - 子元素序列不一致                     block 00_start
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 100
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 长度比异常(疑似内容错位)                block 120 text[0]
+        CHN=18字 ger=107字 ratio=0.17 CHN=「增援佩特罗斯又派来几名部下作为增援。」 ger=「VERSTÄRKUNGPetrosschicktdirnocheinpaarMänneralsVer」
+    - 子元素序列不一致                     block 200
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 300
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 400
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 500
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 长度比异常(疑似内容错位)                block header text[0]
+        CHN=2字 ger=13字 ratio=0.15 CHN=「密道」 ger=「DERGEHEIMGANG」
+
+[✗ 8 处问题]  campaign_03_03_sub2.xml  (strings=11 blocks=12 langs=['CHN', 'ger'])
+    - 子元素序列不一致                     block 00_start
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 100
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 长度比异常(疑似内容错位)                block 120 text[0]
+        CHN=18字 ger=107字 ratio=0.17 CHN=「增援佩特罗斯又派来几名部下作为增援。」 ger=「VERSTÄRKUNGPetrosschicktdirnocheinpaarMänneralsVer」
+    - 子元素序列不一致                     block 200
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 300
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 400
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 500
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 长度比异常(疑似内容错位)                block header text[0]
+        CHN=2字 ger=13字 ratio=0.15 CHN=「密道」 ger=「DERGEHEIMGANG」
+
+[✗ 6 处问题]  campaign_03_03_sub3.xml  (strings=11 blocks=12 langs=['CHN', 'ger'])
+    - 子元素序列不一致                     block 100
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 200
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 300
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 400
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 500
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 600
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+
+[✗ 48 处问题]  campaign_03_04.xml  (strings=53 blocks=58 langs=['CHN', 'ger'])
+    - 子元素序列不一致                     block 100
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 101
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 11
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 110
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 111
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 112
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 长度比异常(疑似内容错位)                block 112 text[0]
+        CHN=29字 ger=22字 ratio=1.32 CHN=「哈利卡纳苏斯市民"你们听过海盗？他们住在城外不远的海岛上！」 ger=「BÜRGERVONHALIKARNASSOS」
+    - 子元素序列不一致                     block 113
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 114
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 115
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 14
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 15
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 150
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 155
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 157
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 16
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 160
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 165
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 167
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 17
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 170
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 175
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 177
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 18
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 20
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 200
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 210
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 215
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 220
+        CHN=['text', 'text', 'text'] ger=['text', 'usericon', 'text', 'usericon', 'text']
+    - 子元素序列不一致                     block 230
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 235
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 240
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 25
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 30
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 300
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 310
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 320
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 330
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 35
+        CHN=['text', 'text', 'text', 'text'] ger=['text', 'usericon', 'text', 'usericon', 'text', 'usericon', 'text']
+    - 子元素序列不一致                     block 400
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 500
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 600
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 700
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 80
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 81
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 82
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 83
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 95
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+
+[✗ 30 处问题]  campaign_03_05.xml  (strings=38 blocks=38 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                string 3
+        CHN=14字 ger=76字 ratio=0.18 CHN=「设法排退沼泽、加固神庙工地。」 ger=「SucheeineMöglichkeitdenSumpfzurückzudrängenunddenT」
+    - 子元素序列不一致                     block 02
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 04
+        CHN=['text'] ger=['text', 'usericon']
+    - 子元素序列不一致                     block 07
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 09
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 10
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 100
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 11
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 12
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 13
+        CHN=['text'] ger=['text', 'usericon']
+    - 子元素序列不一致                     block 14
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 15
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 16
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 17
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 18
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 19
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 长度比异常(疑似内容错位)                block 19 text[0]
+        CHN=2字 ger=11字 ratio=0.18 CHN=「老者」 ger=「DERALTEMANN」
+    - 子元素序列不一致                     block 20
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 200
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 21
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 22
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 23
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 长度比异常(疑似内容错位)                block 23 text[1]
+        CHN=13字 ger=67字 ratio=0.19 CHN=「哈奇决意细察神庙上方之地。」 ger=「Hatschibeschloss,sichdasGebietoberhalbdesTempelsge」
+    - 子元素序列不一致                     block 24
+        CHN=['text'] ger=['text', 'usericon']
+    - 子元素序列不一致                     block 25
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 26
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 27
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 400
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 500
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 600
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+
+[✗ 11 处问题]  campaign_03_05_sub1.xml  (strings=16 blocks=17 langs=['CHN', 'ger'])
+    - 子元素序列不一致                     block 00_start
+        CHN=['text'] ger=['text', 'usericon']
+    - 子元素序列不一致                     block 03
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 04
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 05
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 100
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 200
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 300
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 400
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 500
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 50_end
+        CHN=['text'] ger=['text', 'usericon']
+    - 子元素序列不一致                     block 600
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+
+[✗ 11 处问题]  campaign_03_05_sub2.xml  (strings=10 blocks=18 langs=['CHN', 'ger'])
+    - 子元素序列不一致                     block 00_start
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 01
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 05
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 06
+        CHN=['text'] ger=['text', 'usericon']
+    - 子元素序列不一致                     block 100
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 200
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 300
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 400
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 500
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 50_end1
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 600
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+
+[✗ 30 处问题]  campaign_03_06.xml  (strings=51 blocks=46 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                block 00_start text[0]
+        CHN=84字 ger=655字 ratio=0.13 CHN=「我们的下一个任务要求我们建造一座宏伟的宙斯巨像。诸族议会发现」 ger=「UnserenächsteAufgabeverlangtevonuns,einemächtigeZe」
+    - 子元素序列不一致                     block 01
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 03
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 06
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 07
+        CHN=['text'] ger=['text', 'usericon']
+    - 子元素序列不一致                     block 08
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 09
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 100
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 11
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 14
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 17
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 18
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 19
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 长度比异常(疑似内容错位)                block 19 text[0]
+        CHN=27字 ger=139字 ratio=0.19 CHN=「老者"这工地恰宜建仓--正居于撒拉逊集市两间商行正中。」 ger=「DERALTEMANN"DieserBauplatzistperfektgeeignetfürein」
+    - 子元素序列不一致                     block 200
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 21
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 22
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 23
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 24
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 25
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 26
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 27
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 28
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 300
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 32
+        CHN=['text'] ger=['text', 'usericon']
+    - 子元素序列不一致                     block 33
+        CHN=['text'] ger=['text', 'usericon']
+    - 子元素序列不一致                     block 34
+        CHN=['text'] ger=['text', 'usericon']
+    - 子元素序列不一致                     block 400
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 500
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 600
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+
+[OK]  campaign_03_06_sub1.xml  (strings=6 blocks=8 langs=['CHN', 'ger'])
+
+[✗ 13 处问题]  campaign_03_06_sub2.xml  (strings=11 blocks=18 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                string 99
+        CHN=2字 ger=14字 ratio=0.14 CHN=「火海」 ger=「DASFLAMMENMEER」
+    - 子元素序列不一致                     block 00_start
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 01
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 04
+        CHN=['text'] ger=['text', 'usericon']
+    - 子元素序列不一致                     block 05
+        CHN=['text'] ger=['text', 'usericon']
+    - 子元素序列不一致                     block 06
+        CHN=['text'] ger=['text', 'usericon']
+    - 子元素序列不一致                     block 07
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'text']
+    - 子元素序列不一致                     block 100
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 200
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 400
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 500
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 600
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 长度比异常(疑似内容错位)                block header text[0]
+        CHN=2字 ger=14字 ratio=0.14 CHN=「火海」 ger=「DASFLAMMENMEER」
+
+[✗ 37 处问题]  campaign_03_07.xml  (strings=42 blocks=40 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                block 00_start text[0]
+        CHN=84字 ger=538字 ratio=0.16 CHN=「帝王谷的无穷壮美在我们眼前展现。吉萨金字塔建于第四王朝胡夫、」 ger=「DieunendlicheSchönheitdesTalsderKönigebreitetesich」
+    - 子元素序列不一致                     block 01
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 02
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 03
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 04
+        CHN=['text'] ger=['text', 'usericon']
+    - 子元素序列不一致                     block 05
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 06
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 07
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 08
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 09
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 10
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 100
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 11
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 12
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 13
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 14
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 15
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 16
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 17
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 长度比异常(疑似内容错位)                block 17 text[0]
+        CHN=2字 ger=11字 ratio=0.18 CHN=「老者」 ger=「DERALTEMANN」
+    - 子元素序列不一致                     block 18
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 长度比异常(疑似内容错位)                block 18 text[0]
+        CHN=2字 ger=11字 ratio=0.18 CHN=「老者」 ger=「DERALTEMANN」
+    - 子元素序列不一致                     block 19
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 20
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 200
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 21
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 22
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 23
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 24
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 25
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 26
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 27
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 28
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 300
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 400
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 500
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 600
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+
+[✗ 29 处问题]  campaign_03_08.xml  (strings=36 blocks=27 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                block 00_start text[0]
+        CHN=69字 ger=361字 ratio=0.19 CHN=「我们登上那岛，岛心矗一巨柱方尖碑--第八大奇迹。远望便见。据」 ger=「WirlandetenaufjenerInsel,inderenMitteeinmächtigerO」
+    - 子元素序列不一致                     block 01
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 02
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 03
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 04
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 05
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 06
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 07
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 08
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 09
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 长度比异常(疑似内容错位)                block 09 text[1]
+        CHN=70字 ger=361字 ratio=0.19 CHN=「三区区长相聚，不消多时便和解了。因各以为，是先迈步者乃对方。」 ger=「AlssichdieBürgermeisterderStadtteilezusammenfanden」
+    - 子元素序列不一致                     block 10
+        CHN=['text', 'text', 'text'] ger=['text', 'usericon', 'text', 'usericon', 'text']
+    - 子元素序列不一致                     block 100
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 11
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 12
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 13
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 14
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 15
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 长度比异常(疑似内容错位)                block 15 text[0]
+        CHN=2字 ger=11字 ratio=0.18 CHN=「老者」 ger=「DERALTEMANN」
+    - 子元素序列不一致                     block 16
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 长度比异常(疑似内容错位)                block 16 text[0]
+        CHN=2字 ger=11字 ratio=0.18 CHN=「老者」 ger=「DERALTEMANN」
+    - 长度比异常(疑似内容错位)                block 16 text[1]
+        CHN=28字 ger=142字 ratio=0.20 CHN=「"若你寻沼泽部族：唯舟可至。然当心，近处诸岛暗藏险阻！"」 ger=「"FallsihraufderSuchenachdemMoorvolkseid:ihrkönntsi」
+    - 子元素序列不一致                     block 17
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 18
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 子元素序列不一致                     block 200
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 300
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 400
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 500
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 子元素序列不一致                     block 600
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+
+[✗ 19 处问题]  demo_mainmenu_10.xml  (strings=34 blocks=42 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                block 02 text[0]
+        CHN=48字 ger=516字 ratio=0.09 CHN=「寻找一处合适的登陆地点。注意：地形的细微之处可能会在这个阶段」 ger=「KaumwarenwiranLandgegangenundhattenbegonnenunserLa」
+    - 长度比异常(疑似内容错位)                block 03 text[0]
+        CHN=42字 ger=429字 ratio=0.10 CHN=「在这里开始建设一个小型定居点。但别着急--先只建造最必需的东」 ger=「WirhattendiebenötigtenWarenimLagerhausamLeuchtturm」
+    - 长度比异常(疑似内容错位)                block 04 text[0]
+        CHN=17字 ger=363字 ratio=0.05 CHN=「找到了好位置吗？那就开始建造吧……」 ger=「VAGABUNDEN"Hey!Ihrda!WirduldenkeineEindringlingein」
+    - 长度比异常(疑似内容错位)                block 05 text[0]
+        CHN=23字 ger=242字 ratio=0.10 CHN=「这些是最重要的建筑。注意它们的建造顺序和位置。」 ger=「VAGABUNDEN"EuerBierhatunsgemundet,fallsihrunsnoche」
+    - 长度比异常(疑似内容错位)                block 07 text[0]
+        CHN=40字 ger=612字 ratio=0.07 CHN=「还有一些其他重要的事情需要处理。完成这些任务之后，你的维京人」 ger=「DiebenötigtenWarenwurdenaufgebrauchtundderArchitek」
+    - 子元素序列不一致                     block 100
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 长度比异常(疑似内容错位)                block 14 text[0]
+        CHN=32字 ger=213字 ratio=0.15 CHN=「我们向维京人缴纳了所要求的货物作为贡品，他们便承诺给予我们支」 ger=「WirhattendenWikingerndiegefordertenWarenalsTributg」
+    - 长度比异常(疑似内容错位)                block 15 text[0]
+        CHN=38字 ger=231字 ratio=0.16 CHN=「与世隔绝的沙漠中，一片小小的绿洲在我们面前展开。这是个可以短」 ger=「UnberührtvonderrestlichenWelttatsichhiereinekleine」
+    - 子元素序列不一致                     block 20
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'text']
+    - 子元素序列不一致                     block 200
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 长度比异常(疑似内容错位)                block 21 text[0]
+        CHN=30字 ger=174字 ratio=0.17 CHN=「游牧民族发现他们无法抵挡我们的战术和战斗力，便主动提出谈判。」 ger=「AlsdasNomadenvolksah,dassesunsererTaktikundKampfes」
+    - 长度比异常(疑似内容错位)                block 22 text[0]
+        CHN=82字 ger=683字 ratio=0.12 CHN=「起初我们以为只是海市蜃楼。但沙漠中确实站着一位老者！他从何而」 ger=「Zuerstdachtenwir,esseieineFataMorgana.Dochtatsächl」
+    - 长度比异常(疑似内容错位)                block 23 text[0]
+        CHN=58字 ger=332字 ratio=0.17 CHN=「这片土地充满了惊喜！突然我们遇到一位拄着弯杖的老人。“哦，又」 ger=「DiesesLandwarvollerÜberraschungen!Plötzlichtrafenw」
+    - 长度比异常(疑似内容错位)                block 27 text[0]
+        CHN=26字 ger=161字 ratio=0.16 CHN=「地震！！！我们在此地待了没多久，大地便开始剧烈震动。」 ger=「ERDBEBEN!!!NochnichtlangeverweiltenwirindiesemGebi」
+    - 子元素序列不一致                     block 300
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 长度比异常(疑似内容错位)                block 32 text[0]
+        CHN=30字 ger=151字 ratio=0.20 CHN=「亚历山大城付给我们原先要求的赎金。这个可敬的民族履行了承诺！」 ger=「AlexandriagabunsdasursprünglichgeforderteLösegeldv」
+    - 子元素序列不一致                     block 400
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 长度比异常(疑似内容错位)                block 400 text[1]
+        CHN=23字 ger=162字 ratio=0.14 CHN=「不幸降临--建筑遭到破坏，所有的努力付诸东流。」 ger=「EinkleinerMomentdesLeichtsinns,soschnellkommtesimL」
+    - 长度比异常(疑似内容错位)                block 50_end1 text[0]
+        CHN=39字 ger=215字 ratio=0.18 CHN=「亚历山大城的居民感激万分。作为一名维京人，我为完成了如此伟大」 ger=「DerBewohnerAlexandriaszeigtensichvollerDankbarkeit」
+
+[✗ 21 处问题]  demo_singleplayer_02.xml  (strings=20 blocks=23 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                string 52
+        CHN=2字 ger=16字 ratio=0.12 CHN=「蛇魔」 ger=「Schlangendämonen」
+    - 长度比异常(疑似内容错位)                block 00 text[0]
+        CHN=31字 ger=416字 ratio=0.07 CHN=「新的冒险在比雅尼面前展开！在这个演示版中，你将探索蛇族的秘密」 ger=「AufdeinerWanderschafthatesdichunddeineLeuteineinab」
+    - 长度比异常(疑似内容错位)                block 01 text[0]
+        CHN=31字 ger=269字 ratio=0.12 CHN=「比雅尼的冒险继续--他需要找到失散的儿子们并拯救被诅咒的山谷」 ger=「DerFluchistgebrochen,dasTalerlöst!Zumerstenmalseit」
+    - 子元素序列不一致                     block 02
+        CHN=['text', 'text'] ger=['font', 'text', 'picture', 'text']
+    - 长度比异常(疑似内容错位)                block 03 text[1]
+        CHN=84字 ger=533字 ratio=0.16 CHN=「此地的国王召见了你们。他悲痛地讲述了这片土地的往事：一百年前」 ger=「DerKönigdiesesLandeslässteuchzusichbitten.Gramgebe」
+    - 子元素序列不一致                     block 04
+        CHN=['text'] ger=['font', 'picture', 'text']
+    - 长度比异常(疑似内容错位)                block 05 text[0]
+        CHN=28字 ger=172字 ratio=0.16 CHN=「愿诸神指引你的道路。但记住--每次冒险都需要勇气和智慧。」 ger=「HERVORRAGEND!DuhasteinedersiebenmagischenKultstätt」
+    - 子元素序列不一致                     block 06
+        CHN=['text'] ger=['font', 'picture', 'text']
+    - 长度比异常(疑似内容错位)                block 06 text[0]
+        CHN=40字 ger=211字 ratio=0.19 CHN=「新的知识随着你们在冒险中不断前进，新的可能性也随之开启。试试」 ger=「WiederwilligfolgendeineWikingerdemBefehlundgreifen」
+    - 长度比异常(疑似内容错位)                block 07 text[0]
+        CHN=34字 ger=215字 ratio=0.16 CHN=「探索派遣侦察兵探索地图上未发现的区域。你永远不知道等待着你的」 ger=「BERGRÄUBERDubistaufeineSiedlungräuberischerFranken」
+    - 长度比异常(疑似内容错位)                block 10 text[0]
+        CHN=5字 ger=55字 ratio=0.09 CHN=「继续前进！」 ger=「UNTERHÄNDLEREinBoteausMontserainetrafinunseremLage」
+    - 长度比异常(疑似内容错位)                block 15 text[0]
+        CHN=3字 ger=78字 ratio=0.04 CHN=「很好！」 ger=「UNTERHÄNDLERAlsBjarniaufdenBotenzuging,machtediese」
+    - 长度比异常(疑似内容错位)                block 15 text[1]
+        CHN=26字 ger=603字 ratio=0.04 CHN=「你已完成这个演示关卡的主要任务。希望你喜欢这个冒险！」 ger=「"Seigegrüßt,tapfererBjarni.Wirhabengehört,dassihrÄ」
+    - 长度比异常(疑似内容错位)                block 50 text[0]
+        CHN=4字 ger=100字 ratio=0.04 CHN=「小贴士！」 ger=「TIPP!SuchenachSchatzkisteninderUmgebung.Siesindman」
+    - 长度比异常(疑似内容错位)                block 55 text[0]
+        CHN=4字 ger=92字 ratio=0.04 CHN=「小贴士！」 ger=「TIPP!MagischeKistensindgrößeralsdieeinfachenKisten」
+    - 长度比异常(疑似内容错位)                block 55 text[1]
+        CHN=24字 ger=162字 ratio=0.15 CHN=「魔法箱比普通箱子更大。它们通常装着更强大的物品。」 ger=「MagischeKistenkönnenallerdingsnurvoneinemDruidenod」
+    - 长度比异常(疑似内容错位)                block 60 text[0]
+        CHN=32字 ger=187字 ratio=0.17 CHN=「小贴士！建造一个或多个哨塔，以抵御盗贼的攻击。他们会三思而后」 ger=「TIPP!ErrichteeinenodermehrereWachtürme,umdichgegen」
+    - 长度比异常(疑似内容错位)                block 65 text[0]
+        CHN=40字 ger=271字 ratio=0.15 CHN=「小贴士！你刚刚找到了一封"信件"。用一封信可在任何地方建造建」 ger=「TIPP!Duhastsoebeneinensogenannten"Brief"gefunden.M」
+    - 长度比异常(疑似内容错位)                block 70 text[1]
+        CHN=24字 ger=279字 ratio=0.09 CHN=「你找到了一台投石机。用它来摧毁敌人的防御工事吧！」 ger=「KatapultemüssenmiteinemSoldatenodereinemHeldenbese」
+    - 子元素序列不一致                     block 75
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 长度比异常(疑似内容错位)                block 75 text[1]
+        CHN=57字 ger=451字 ratio=0.13 CHN=「为此你需要一名商人，他需要推着车（手推车或牛车）将货物从你的」 ger=「DazubenötigstdueinenHändler,dermiteinemKarren(Hand」
+
+[OK]  multiplayer_001_militär.xml  (strings=11 blocks=2 langs=['CHN', 'eng', 'ger', 'pol'])
+
+[OK]  multiplayer_001_ressourcen.xml  (strings=11 blocks=2 langs=['CHN', 'eng', 'ger', 'pol'])
+
+[OK]  multiplayer_002_militär.xml  (strings=11 blocks=2 langs=['CHN', 'eng', 'ger', 'pol'])
+
+[OK]  multiplayer_002_ressourcen.xml  (strings=11 blocks=2 langs=['CHN', 'eng', 'ger', 'pol'])
+
+[OK]  multiplayer_003_militär.xml  (strings=11 blocks=2 langs=['CHN', 'eng', 'ger', 'pol'])
+
+[✗ 1 处问题]  multiplayer_003_ressourcen.xml  (strings=11 blocks=2 langs=['CHN', 'eng', 'ger', 'pol'])
+    - 长度比异常(疑似内容错位)                block begin_00 text[0]
+        CHN=51字 ger=347字 ratio=0.15 CHN=「这是个太平年月。维京人各过各的安稳日子，本不该有兵戎相见的理」 ger=「EsisteinefriedlicheZeit.DieWikingerlebenvorsichhin」
+
+[OK]  multiplayer_004_militär.xml  (strings=11 blocks=2 langs=['CHN', 'eng', 'ger', 'pol'])
+
+[✗ 1 处问题]  multiplayer_004_ressourcen.xml  (strings=11 blocks=2 langs=['CHN', 'eng', 'ger', 'pol'])
+    - 长度比异常(疑似内容错位)                block begin_00 text[0]
+        CHN=83字 ger=428字 ratio=0.19 CHN=「长久以来，住民之间一直存在领地纷争。谁都想把邻居挤出这片弹丸」 ger=「SchonlangegabesGebietsstreitigkeitenzwischendenEin」
+
+[✗ 1 处问题]  multiplayer_004_special_cap-the-cow.xml  (strings=11 blocks=2 langs=['CHN', 'eng', 'ger', 'pol'])
+    - 长度比异常(疑似内容错位)                block begin_00 text[0]
+        CHN=111字 ger=612字 ratio=0.18 CHN=「长久以来，住民之间一直存在领地纷争。谁都想把邻居挤出这片弹丸」 ger=「SchonlangegabesGebietsstreitigkeitenzwischendenBew」
+
+[✗ 1 处问题]  multiplayer_005_militär.xml  (strings=15 blocks=2 langs=['CHN', 'eng', 'ger', 'pol'])
+    - 长度比异常(疑似内容错位)                block begin_00 text[0]
+        CHN=96字 ger=550字 ratio=0.17 CHN=「由于连年来种种争执与冲突，维京人之间的关系降到了冰点。各方都」 ger=「AufgrundverschiedenerStreitereienundAuseinanderset」
+
+[✗ 1 处问题]  multiplayer_005_ressourcen.xml  (strings=15 blocks=2 langs=['CHN', 'eng', 'ger', 'pol'])
+    - 长度比异常(疑似内容错位)                block begin_00 text[0]
+        CHN=111字 ger=795字 ratio=0.14 CHN=「权贵之间种种争执与冲突，令维京人彼此离心。各部族本应在一个领」 ger=「VerschiedeneStreitereienundAuseinandersetzungenzwi」
+
+[OK]  multiplayer_005_special_cap-the-flag.xml  (strings=15 blocks=2 langs=['CHN', 'eng', 'ger', 'pol'])
+
+[✗ 1 处问题]  multiplayer_007_millitär.xml  (strings=9 blocks=2 langs=['CHN', 'eng', 'ger', 'pol'])
+    - 长度比异常(疑似内容错位)                block begin_00 text[0]
+        CHN=99字 ger=537字 ratio=0.18 CHN=「在维京人的土地上，两个部族联手后逐渐坐大，俨然一方霸主。雪上」 ger=「ImLandderWikingerhattesichdurchdenZusammenschlussz」
+
+[✗ 1 处问题]  multiplayer_007_ressourcen.xml  (strings=9 blocks=2 langs=['CHN', 'eng', 'ger', 'pol'])
+    - 长度比异常(疑似内容错位)                block begin_00 text[0]
+        CHN=89字 ger=587字 ratio=0.15 CHN=「在维京人的土地上，两个部族联手后逐渐坐大，俨然一方霸主。所幸」 ger=「ImLandderWikingerhattesichdurchdenZusammenschlussz」
+
+[OK]  multiplayer_007_special_coop.xml  (strings=9 blocks=2 langs=['CHN', 'eng', 'ger', 'pol'])
+
+[✗ 1 处问题]  multiplayer_008_militär.xml  (strings=11 blocks=2 langs=['CHN', 'eng', 'ger', 'pol'])
+    - 长度比异常(疑似内容错位)                block begin_00 text[0]
+        CHN=40字 ger=218字 ratio=0.18 CHN=「维京人在一座火山岛上落了脚。在与对手的缠斗中挺住--但须提防」 ger=「DieWikingerhabensichaufeinerVulkaninseleinquartier」
+
+[✗ 1 处问题]  multiplayer_008_ressourcen.xml  (strings=11 blocks=2 langs=['CHN', 'eng', 'ger', 'pol'])
+    - 长度比异常(疑似内容错位)                block begin_00 text[0]
+        CHN=56字 ger=286字 ratio=0.20 CHN=「维京人在一座火山岛上落了脚。各部族比邻而居、和平共处，一同采」 ger=「DieWikingerhabensichaufeinerVulkaninseleinquartier」
+
+[OK]  multiplayer_009_militär.xml  (strings=15 blocks=2 langs=['CHN', 'eng', 'ger', 'pol'])
+
+[OK]  multiplayer_02_06_ressourcen.xml  (strings=11 blocks=2 langs=['CHN', 'ger'])
+
+[✗ 1 处问题]  multiplayer_101_special_coop.xml  (strings=17 blocks=3 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                block begin_00 text[0]
+        CHN=85字 ger=687字 ratio=0.12 CHN=「对维京人而言，这是个暗无天日的年代……这片土地上还有其他部族」 ger=「EsisteinefinstereZeitfürdieWikinger...DasLandwirdv」
+
+[✗ 1 处问题]  multiplayer_102_special_coop.xml  (strings=19 blocks=2 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                block begin_00 text[0]
+        CHN=195字 ger=1650字 ratio=0.12 CHN=「很久以前，这片土地上所有维京部族和睦共处--宛如一体。然而和」 ger=「VorlangerZeitwarenalleWikingerstämmedesLandesinFri」
+
+[✗ 3 处问题]  multiplayer_103_special_militär.xml  (strings=18 blocks=2 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                string 70
+        CHN=2字 ger=14字 ratio=0.14 CHN=「蛇怪」 ger=「Schlangenwesen」
+    - 长度比异常(疑似内容错位)                string 71
+        CHN=2字 ger=14字 ratio=0.14 CHN=「蛇怪」 ger=「Schlangenwesen」
+    - 长度比异常(疑似内容错位)                block begin_00 text[0]
+        CHN=147字 ger=928字 ratio=0.16 CHN=「酋长有令：“今年这场大赛跑，须提早些时候举行……”“救救我们」 ger=「ErlassdesHäuptlings:"EsistvonNöten,dasgroßeWettjag」
+
+[✗ 1 处问题]  multiplayer_104_militär.xml  (strings=13 blocks=2 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                block begin_00 text[0]
+        CHN=65字 ger=394字 ratio=0.16 CHN=「北方已是春天，抽芽的白桦驱散了寒意。只可惜眼下没人有闲情去欣」 ger=「EsistFrühlingimNordlandunddiegrünendenBirkenvertre」
+
+[✗ 1 处问题]  multiplayer_105_militaer.xml  (strings=11 blocks=2 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                block begin_00 text[0]
+        CHN=77字 ger=438字 ratio=0.18 CHN=「相互竞争的维京部族，在同一片土地上扎下了根。让你的部族成为这」 ger=「KonkurrierendeWikingerstämmehabensichdasgleicheLan」
+
+[✗ 1 处问题]  multiplayer_105_ressourcen.xml  (strings=11 blocks=2 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                block begin_00 text[0]
+        CHN=72字 ger=486字 ratio=0.15 CHN=「相互竞争的维京部族，在同一片土地上扎下了根。为你新生的村庄择」 ger=「KonkurrierendeWikingerstämmehabensichdasgleicheLan」
+
+[✗ 2 处问题]  multiplayer_201_special_coop.xml  (strings=17 blocks=3 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                block begin_00 text[0]
+        CHN=103字 ger=689字 ratio=0.15 CHN=「对你的部族而言，这是个艰难时世。你与爱好和平的邻居们，由来已」 ger=「EsistkeineleichteZeitfürdeinenStamm.Duunddeinefrie」
+    - 长度比异常(疑似内容错位)                block header text[0]
+        CHN=2字 ger=13字 ratio=0.15 CHN=「风雪」 ger=「SCHNEETREIBEN」
+
+[✗ 1 处问题]  multiplayer_202_special_millitär.xml  (strings=20 blocks=6 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                block begin_00 text[0]
+        CHN=136字 ger=1030字 ratio=0.13 CHN=「这片土地正陷于危难！盘踞群山的恐怖巨龙倾巢而出，为祸四方。我」 ger=「EsherrschtNotimLand!DiefurchtbarenDrachen,dieinden」
+
+[✗ 2 处问题]  multiplayer_203_special_militär.xml  (strings=23 blocks=3 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                string 5
+        CHN=10字 ger=52字 ratio=0.19 CHN=「晴间多云，偶有小雨！」 ger=「Heiterbisbewölkt,zeitweiligvereinzelterNiederschla」
+    - 长度比异常(疑似内容错位)                block begin_00 text[0]
+        CHN=185字 ger=1085字 ratio=0.17 CHN=「此地一位部族酋长前来求援：“龙之地遭狼族侵袭！它们……”“在」 ger=「DerHäuptlingeineshierlebendenStammesbittetumHilfe:」
+
+[✗ 1 处问题]  multiplayer_204_special_cap-the-flag.xml  (strings=31 blocks=41 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                block header text[0]
+        CHN=2字 ger=19字 ratio=0.11 CHN=「四季」 ger=「DIEVIERJAHRESZEITEN」
+
+[OK]  multiplayer_205_special_cap-the-cow.xml  (strings=19 blocks=2 langs=['CHN', 'ger'])
+
+[OK]  singleplayer_01_01.xml  (strings=11 blocks=2 langs=['CHN', 'eng', 'ger', 'pol'])
+
+[OK]  singleplayer_01_04.xml  (strings=8 blocks=8 langs=['CHN', 'eng', 'ger', 'pol'])
+
+[✗ 1 处问题]  singleplayer_01_05.xml  (strings=9 blocks=10 langs=['CHN', 'eng', 'ger', 'pol'])
+    - 长度比异常(疑似内容错位)                block 3 text[1]
+        CHN=34字 ger=208字 ratio=0.16 CHN=「你未能抵御撒拉逊人的进攻。许多部下捐躯，安条克的土地恐将永远」 ger=「DuhastesmitdeinentapferenWikingernnichtgeschafft,d」
+
+[✗ 1 处问题]  singleplayer_01_06.xml  (strings=8 blocks=9 langs=['CHN', 'eng', 'ger', 'pol'])
+    - 子元素序列不一致                     block 7
+        CHN=['font', 'text', 'font'] ger=['text']
+
+[✗ 2 处问题]  singleplayer_01_07.xml  (strings=17 blocks=18 langs=['CHN', 'eng', 'ger', 'pol'])
+    - 长度比异常(疑似内容错位)                string 99
+        CHN=2字 ger=12字 ratio=0.17 CHN=「叛乱」 ger=「DIEREBELLION」
+    - 长度比异常(疑似内容错位)                block header text[0]
+        CHN=2字 ger=12字 ratio=0.17 CHN=「叛乱」 ger=「DIEREBELLION」
+
+[✗ 1 处问题]  singleplayer_01_08.xml  (strings=8 blocks=8 langs=['CHN', 'eng', 'ger', 'pol'])
+    - 长度比异常(疑似内容错位)                string 52
+        CHN=2字 ger=13字 ratio=0.15 CHN=「蛇族」 ger=「Schlangenvolk」
+
+[OK]  singleplayer_01_09.xml  (strings=7 blocks=11 langs=['CHN', 'eng', 'ger', 'pol'])
+
+[OK]  singleplayer_01_10.xml  (strings=9 blocks=10 langs=['CHN', 'eng', 'ger', 'pol'])
+
+[OK]  singleplayer_02_01-sub1.xml  (strings=5 blocks=7 langs=['CHN', 'ger'])
+
+[OK]  singleplayer_02_01-sub2.xml  (strings=3 blocks=3 langs=['CHN', 'ger'])
+
+[OK]  singleplayer_02_01-sub3.xml  (strings=3 blocks=5 langs=['CHN', 'ger'])
+
+[OK]  singleplayer_02_01-sub4.xml  (strings=4 blocks=5 langs=['CHN', 'ger'])
+
+[✗ 2 处问题]  singleplayer_02_01-sub5.xml  (strings=6 blocks=8 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                string 99
+        CHN=2字 ger=13字 ratio=0.15 CHN=「狼穴」 ger=「DIEWOLFSHÖHLE」
+    - 长度比异常(疑似内容错位)                block header text[0]
+        CHN=2字 ger=13字 ratio=0.15 CHN=「狼穴」 ger=「DIEWOLFSHÖHLE」
+
+[✗ 2 处问题]  singleplayer_02_01.xml  (strings=43 blocks=46 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                string 58
+        CHN=2字 ger=13字 ratio=0.15 CHN=「狼人」 ger=「Wolfsmenschen」
+    - 长度比异常(疑似内容错位)                block begin_28 text[0]
+        CHN=55字 ger=289字 ratio=0.19 CHN=「狼穴入口洞开，我决意独自进去！若这洞穴当真凶险，我可不愿拿全」 ger=「WOLFSHÖHLEDerEingangwaroffen,undichbeschloss,allei」
+
+[✗ 2 处问题]  singleplayer_02_02.xml  (strings=12 blocks=18 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                string 99
+        CHN=2字 ger=11字 ratio=0.18 CHN=「冷战」 ger=「KALTERKRIEG」
+    - 长度比异常(疑似内容错位)                block header text[0]
+        CHN=2字 ger=11字 ratio=0.18 CHN=「冷战」 ger=「KALTERKRIEG」
+
+[✗ 2 处问题]  singleplayer_02_03-sub1.xml  (strings=11 blocks=7 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                string 99
+        CHN=2字 ger=12字 ratio=0.17 CHN=「决斗」 ger=「DERZWEIKAMPF」
+    - 长度比异常(疑似内容错位)                block header text[0]
+        CHN=2字 ger=12字 ratio=0.17 CHN=「决斗」 ger=「DERZWEIKAMPF」
+
+[OK]  singleplayer_02_03-sub2.xml  (strings=11 blocks=7 langs=['CHN', 'ger'])
+
+[OK]  singleplayer_02_03-sub3.xml  (strings=7 blocks=7 langs=['CHN', 'ger'])
+
+[✗ 1 处问题]  singleplayer_02_03.xml  (strings=37 blocks=33 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                block begin_06 text[0]
+        CHN=4字 ger=134字 ratio=0.03 CHN=「权能护符」 ger=「GEWALTENAMULETTDanke,dassduunsgeholfenhast.Freunds」
+
+[OK]  singleplayer_02_04.xml  (strings=27 blocks=36 langs=['CHN', 'ger'])
+
+[OK]  singleplayer_02_05.xml  (strings=8 blocks=6 langs=['CHN', 'ger'])
+
+[✗ 2 处问题]  singleplayer_02_06.xml  (strings=8 blocks=10 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                string 52
+        CHN=2字 ger=16字 ratio=0.12 CHN=「蛇魔」 ger=「Schlangendämonen」
+    - 长度比异常(疑似内容错位)                block header text[0]
+        CHN=2字 ger=18字 ratio=0.11 CHN=「幽谷」 ger=「DASVERWUNSCHENETAL」
+
+[✗ 2 处问题]  singleplayer_02_07.xml  (strings=15 blocks=15 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                string 99
+        CHN=4字 ger=23字 ratio=0.17 CHN=「殖民时代」 ger=「ZEITDERKOLONIALISIERUNG」
+    - 长度比异常(疑似内容错位)                block header text[0]
+        CHN=4字 ger=23字 ratio=0.17 CHN=「殖民时代」 ger=「ZEITDERKOLONIALISIERUNG」
+
+[OK]  singleplayer_03_01-sub1.xml  (strings=3 blocks=3 langs=['CHN', 'ger'])
+
+[✗ 2 处问题]  singleplayer_03_01.xml  (strings=29 blocks=27 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                block 09 text[0]
+        CHN=159字 ger=999字 ratio=0.16 CHN=「酋长当我直视酋长的双眼时，我看到了忧伤与痛苦。他曾梦想在沙漠」 ger=「HÄUPTLINGAlsichdemHäuptlingindieAugensah,konnteich」
+    - 长度比异常(疑似内容错位)                block 09 text[1]
+        CHN=329字 ger=168字 ratio=1.96 CHN=「当我直视首领的双眼，其中满含忧愁与苦痛。他曾梦想将村北的一片」 ger=「WenndudirektdanebeneinLagerhauserrichtestundvonTrä」
+
+[OK]  singleplayer_03_02.xml  (strings=18 blocks=18 langs=['CHN', 'ger'])
+
+[✗ 1 处问题]  singleplayer_03_03.xml  (strings=15 blocks=12 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                string 4
+        CHN=6字 ger=31字 ratio=0.19 CHN=「远离饲料坑。」 ger=「EntfernedichvonderFutterstelle.」
+
+[OK]  singleplayer_03_04.xml  (strings=44 blocks=45 langs=['CHN', 'ger'])
+
+[OK]  singleplayer_03_05.xml  (strings=17 blocks=18 langs=['CHN', 'ger'])
+
+[✗ 6 处问题]  tutorial_001.xml  (strings=14 blocks=12 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                block 00 text[0]
+        CHN=77字 ger=552字 ratio=0.14 CHN=「本教程旨在让你初步了解游戏的用户界面，并讲解操控你的维京人所」 ger=「DiesesTutorialsolldireinenerstenÜberblicküberdieBe」
+    - 长度比异常(疑似内容错位)                block 01 text[1]
+        CHN=54字 ger=594字 ratio=0.09 CHN=「克努特目前没有工作，整天无所事事。要选中他，在克努特身上点击」 ger=「KnutistarbeitsloshatdenganzenTagnichtszutun.Umihna」
+    - 长度比异常(疑似内容错位)                block 02 text[0]
+        CHN=92字 ger=569字 ratio=0.16 CHN=「很好！不过还可以更快捷！如果选中了一个单位，在其蓝色的标记点」 ger=「PRIMA!Dasgehtallerdingsauchschnellerunddirekter!We」
+    - 长度比异常(疑似内容错位)                block 04 text[0]
+        CHN=53字 ger=604字 ratio=0.09 CHN=「太棒了！现在克努特有家也有工作了，生活无忧。不过是不是还缺点」 ger=「SEHRGUT!NunhatKnuteinHeimundeinenBerufundistgutver」
+    - 长度比异常(疑似内容错位)                block 07 text[1]
+        CHN=75字 ger=801字 ratio=0.09 CHN=「你可以在一个单位上按住鼠标左键，拖动出一个选择框来同时选中多」 ger=「DukannstmehrereFigurengleichzeitigselektieren,inde」
+    - 长度比异常(疑似内容错位)                block 09 text[0]
+        CHN=73字 ger=533字 ratio=0.14 CHN=「迷路问题……你的维京人常常找不到路，尤其是在跨越岛屿的时候。」 ger=「WEGFINDEPROBLEME...OftmalshabendeineWikingerProble」
+
+[✗ 10 处问题]  tutorial_002.xml  (strings=14 blocks=13 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                block 01 text[1]
+        CHN=52字 ger=334字 ratio=0.16 CHN=「他很快会让你笑不出来--因为你马上就能让他在渔夫行当中测试一」 ger=「EristHolzabbauerundistglücklichbeiseinerArbeit,hat」
+    - 长度比异常(疑似内容错位)                block 04 text[0]
+        CHN=18字 ger=140字 ratio=0.13 CHN=「干得好！现在你有机会获取新的资源了！」 ger=「AlsnächstessollteersichaufBrautschaubegeben.Etwasw」
+    - 长度比异常(疑似内容错位)                block 04 text[1]
+        CHN=43字 ger=439字 ratio=0.10 CHN=「每种资源都有专家可以让你从源头采集。要采集花岗岩，先找到掌握」 ger=「VerheirateRAGNAunddenWikinger,derfrüherBJÖRNhieß,w」
+    - 长度比异常(疑似内容错位)                block 05 text[1]
+        CHN=58字 ger=314字 ratio=0.18 CHN=「现在来了两位新维京人：给他们每人分配一个职业！让一位成为挑水」 ger=「JederdeinerWikinger,auchdaskleineneugeboreneKind,v」
+    - 长度比异常(疑似内容错位)                block 06 text[0]
+        CHN=103字 ger=763字 ratio=0.13 CHN=「当你的维京人拥有职业后，就可以建造新建筑了。在左侧菜单栏中找」 ger=「BEDÜRFNISSEAlledeineWikingerhabenjedochBedürfnisse」
+    - 长度比异常(疑似内容错位)                block 07 text[0]
+        CHN=20字 ger=438字 ratio=0.05 CHN=「需要新建筑时，可在建造菜单选择多种样式。」 ger=「HELDENEsgibtaberauchWikinger,diesichvondeinerZivil」
+    - 长度比异常(疑似内容错位)                block 08 text[0]
+        CHN=23字 ger=193字 ratio=0.12 CHN=「用新获得的知识能做什么？用水果和蜂蜜来烘烤吧！」 ger=「WÖLFEWiegesagt,könnendeineWikingernurdurchHungerun」
+    - 长度比异常(疑似内容错位)                block 10 text[0]
+        CHN=32字 ger=8字 ratio=4.00 CHN=「你有了一些漂亮房屋、职业等，但还缺防御工事抵御外敌：哨塔和城」 ger=「SEHRGUT!」
+    - 长度比异常(疑似内容错位)                block 10 text[1]
+        CHN=41字 ger=207字 ratio=0.20 CHN=「哨塔由猎人守护。建造完成后，派猎人进驻守卫！注意：城墙塔楼也」 ger=「DuhastdaszweiteTutorialbestandenundweißtnun,wiedud」
+    - 长度比异常(疑似内容错位)                block 11 text[0]
+        CHN=69字 ger=419字 ratio=0.16 CHN=「干得好！已学会职业、建筑等最重要的内容。现在选一位维京人、士」 ger=「IndiesemBergmassivverrichtendreideinerWikingerihre」
+
+[✗ 9 处问题]  tutorial_003.xml  (strings=23 blocks=14 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                block 00 text[0]
+        CHN=52字 ger=740字 ratio=0.07 CHN=「本教程讲解游戏的基本规则，以及如何为你的维京人提供充足的食物」 ger=「DiesesTutorialbehandeltdiegrundlegendenSpielprinzi」
+    - 长度比异常(疑似内容错位)                block 01 text[0]
+        CHN=64字 ger=429字 ratio=0.15 CHN=「这座建筑是你的木材采集站。伐木工会把砍下的木材存放在这里，供」 ger=「GUT!NunbeschäftigenocheinenHOLZABBAUERundeinenSTEI」
+    - 长度比异常(疑似内容错位)                block 03 text[1]
+        CHN=55字 ger=420字 ratio=0.13 CHN=「你希望有更多的建筑工人吗？试着将男人们派到已掌握职业的维京人」 ger=「KlickedazuaufdasBausymbol(HausmitHammer)inderMenül」
+    - 长度比异常(疑似内容错位)                block 05 text[0]
+        CHN=47字 ger=968字 ratio=0.05 CHN=「提示你的工人有各种自然需求：饥饿、口渴和疲劳。务必照顾好他们」 ger=「HINWEISDeineArbeiterhabenverschiedene,ganznatürlic」
+    - 子元素序列不一致                     block 06
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 长度比异常(疑似内容错位)                block 07 text[0]
+        CHN=46字 ger=251字 ratio=0.18 CHN=「你的磨坊骄傲地矗立在天空中！现在你可以把小麦磨成面粉了。在附」 ger=「StolzrecktsichdeineMühleindenHimmel!DeinFarmerhata」
+    - 长度比异常(疑似内容错位)                block 08 text[0]
+        CHN=52字 ger=271字 ratio=0.19 CHN=「提示有些工作场所可以指派搬运工或运输工，以加快物资的运送速度」 ger=「HINWEISEinigenArbeitsstättenkannstduTRÄGERoderHänd」
+    - 子元素序列不一致                     block 09
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 长度比异常(疑似内容错位)                block 11 text[0]
+        CHN=58字 ger=326字 ratio=0.18 CHN=「面包坊已经建好了，你的维京人肯定很高兴有新鲜的面包。现在还需」 ger=「DeineBäckereiisterrichtetunddeineWikingerfreuensic」
+
+[✗ 17 处问题]  tutorial_004.xml  (strings=28 blocks=21 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                block 00 text[0]
+        CHN=72字 ger=585字 ratio=0.12 CHN=「这里介绍科技树，并解释你的维京人如何通过新建和升级建筑来解锁」 ger=「HierwirdderTechnologiebaumeingeführtunderklärt,wie」
+    - 长度比异常(疑似内容错位)                block 02 text[0]
+        CHN=57字 ger=434字 ratio=0.13 CHN=「扩建陶艺坊陶匠现在有了足够的生产经验。他可以进一步扩建他的陶」 ger=「AUSBAUDERTÖPFEREIDerTöpferhatnungenügendErfahrungb」
+    - 长度比异常(疑似内容错位)                block 03 text[0]
+        CHN=47字 ger=357字 ratio=0.13 CHN=「扩建陶艺坊2陶匠现在已经相当精通他的工作了。给他再扩建一次陶」 ger=「AUSBAUDERTÖPFEREI2DerTöpferhatnungenügendErfahrung」
+    - 长度比异常(疑似内容错位)                block 04 text[0]
+        CHN=55字 ger=288字 ratio=0.19 CHN=「从石匠到雕刻师你的石匠现在有了足够的知识来加工花岗岩和大理石」 ger=「VOMSTEINABBAUERZUMSTEINMETZDerSteinabbauerhatnunge」
+    - 长度比异常(疑似内容错位)                block 05 text[0]
+        CHN=34字 ger=544字 ratio=0.06 CHN=「扩建石匠小屋你的雕刻师现在有了足够的经验，可以让他的小屋进一」 ger=「AUSBAUDERSTEINMETZHÜTTEDeinSteinmetzhatnungenügend」
+    - 长度比异常(疑似内容错位)                block 07 text[0]
+        CHN=34字 ger=453字 ratio=0.08 CHN=「扩建木匠铺木匠现在有了足够的经验来扩建他的作坊。将木匠铺升到」 ger=「AUSBAUDERSCHREINEREIDerSchreinerhatnungenügendErfa」
+    - 长度比异常(疑似内容错位)                block 08 text[0]
+        CHN=43字 ger=344字 ratio=0.12 CHN=「扩建木匠铺2木匠现在手艺精湛，有了新的想法。他的木匠铺需要再」 ger=「AUSBAUDERSCHREINEREI2DerSchreinerhatnungenügendErf」
+    - 长度比异常(疑似内容错位)                block 09 text[0]
+        CHN=42字 ger=443字 ratio=0.09 CHN=「扩建木匠铺3木匠铺达到了最高级别！你的木匠现在可以生产各种各」 ger=「AUSBAUDERSCHREINEREI3DerSchreinerhatnungenügendErf」
+    - 长度比异常(疑似内容错位)                block 10 text[0]
+        CHN=40字 ger=274字 ratio=0.15 CHN=「从矿工到铁匠你的矿工现在对矿石有了足够的了解。让他成为铁匠吧」 ger=「VOMERZABBAUERZUMSCHMIEDDerErzabbauerhatnungenügend」
+    - 长度比异常(疑似内容错位)                block 11 text[0]
+        CHN=34字 ger=398字 ratio=0.09 CHN=「扩建铁匠铺铁匠现在有了足够的经验来扩大他的作坊。把铁匠铺升到」 ger=「AUSBAUDERSCHMIEDEDerSchmiedhatnungenügendErfahrung」
+    - 长度比异常(疑似内容错位)                block 12 text[0]
+        CHN=65字 ger=673字 ratio=0.10 CHN=「从猎人到裁缝或畜牧人猎人如今已积累了足够的经验，可以转任裁缝」 ger=「VOMJÄGERZUMNÄHERODERVIEHZÜCHTERDerJägerhatnungenüg」
+    - 长度比异常(疑似内容错位)                block 13 text[0]
+        CHN=39字 ger=413字 ratio=0.09 CHN=「扩建裁缝铺你的裁缝如今在服装制作方面积累了足够的经验，可以生」 ger=「AUSBAUDERNÄHEREIDeinNäherhatnungenügendErfahrungbe」
+    - 长度比异常(疑似内容错位)                block 15 text[0]
+        CHN=40字 ger=351字 ratio=0.11 CHN=「干得好！你已将陶艺坊扩建完毕，但不幸的是，陶匠还不知道该如何」 ger=「GUTGEMACHT!NunhastdudeineTöpfereiausgebaut,aberder」
+    - 长度比异常(疑似内容错位)                block 16 text[0]
+        CHN=39字 ger=361字 ratio=0.11 CHN=「干得好！你已将石匠小屋扩建完毕，但不幸的是，石匠还不知道如何」 ger=「GUTGEMACHT!NunhastdudeineSteinmetzhütteausgebaut,a」
+    - 长度比异常(疑似内容错位)                block 17 text[0]
+        CHN=37字 ger=358字 ratio=0.10 CHN=「干得好！你已将木匠铺扩建完毕，但不幸的是，木匠还不知道如何利」 ger=「GUTGEMACHT!NunhastdudeineSchreinereiausgebaut,aber」
+    - 长度比异常(疑似内容错位)                block 18 text[0]
+        CHN=37字 ger=370字 ratio=0.10 CHN=「干得好！你已将裁缝铺扩建完毕，但不幸的是，裁缝还不知道如何运」 ger=「GUTGEMACHT!NunhastdudeineNähereiausgebaut,aberderN」
+    - 长度比异常(疑似内容错位)                block header text[0]
+        CHN=15字 ger=12字 ratio=1.25 CHN=「科技--让你的维京人掌握新能力」 ger=「TECHNOLOGIEN」
+
+[✗ 9 处问题]  tutorial_005.xml  (strings=17 blocks=16 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                block 01 text[0]
+        CHN=65字 ger=643字 ratio=0.10 CHN=「商人这是索尔芬、洛丁和阿里，三位资质很好的年轻维京人，他们愿」 ger=「DERHÄNDLERDassindThorfinn,LodinundAri,dreigutausge」
+    - 长度比异常(疑似内容错位)                block 02 text[0]
+        CHN=50字 ger=694字 ratio=0.07 CHN=「如果你不告诉商人该做什么，他会随心所欲地交易，而不考虑你的利」 ger=「WenndudemHändlerweiternichtssagst,wirderbeliebigeW」
+    - 长度比异常(疑似内容错位)                block 03 text[0]
+        CHN=53字 ger=531字 ratio=0.10 CHN=「雷米和施泰尼需要工具（内部贸易）你的维京人经常需要工具来加快」 ger=「LEHMIUNDSTEINIBRAUCHENWERKZEUG(HandelnimeigenenVol」
+    - 长度比异常(疑似内容错位)                block 04 text[0]
+        CHN=55字 ger=621字 ratio=0.09 CHN=「手推车和牛车手推车对货物的内部运输至关重要。手推车越多，你的」 ger=「HANDARRENundOCHSENKARRENKarrensindvongroßemVorteil」
+    - 长度比异常(疑似内容错位)                block 06 text[0]
+        CHN=51字 ger=842字 ratio=0.06 CHN=「与异族进行贸易要与另一个民族进行远程贸易，你必须与它签订贸易」 ger=「HANDELNMITEINEMFREMDVOLKZumFernhandelmiteinemander」
+    - 长度比异常(疑似内容错位)                block 08 text[0]
+        CHN=50字 ger=748字 ratio=0.07 CHN=「与此同时，我们转向远洋贸易。有时需要装载船只，将货物运往遥远」 ger=「InderZwischenzeitwidmenwirunsdemÜberseehandel.Manc」
+    - 长度比异常(疑似内容错位)                block 09 text[0]
+        CHN=67字 ger=538字 ratio=0.12 CHN=「你的船已装载完毕，可以扬帆出海了！任何成年维京人都可以操控一」 ger=「DeinSchiffistnunbeladenundeskanninSeestechen!Steue」
+    - 长度比异常(疑似内容错位)                block 10 text[0]
+        CHN=32字 ger=845字 ratio=0.04 CHN=「你已抵达撒拉森人的海岸。如果想在此靠岸，你必须先取得贸易许可」 ger=「DuhastdasUferderSarazenenerreicht.WillstdumitdemSc」
+    - 长度比异常(疑似内容错位)                block 14 text[0]
+        CHN=42字 ger=31字 ratio=1.35 CHN=「用法兰克人的家具换取黄金--这是非常划算的交易。你的商人已经」 ger=「HandlebeiFrankenMöbelgegenGold.」
+
+[✗ 20 处问题]  tutorial_006.xml  (strings=15 blocks=24 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                block 00 text[0]
+        CHN=61字 ger=382字 ratio=0.16 CHN=「你的维京人民族本质上是极其爱好和平的。但有时来自远方的敌人会」 ger=「DeinWikingervölkchenistausPrinzipäußertfriedlieben」
+    - 长度比异常(疑似内容错位)                block 01 text[0]
+        CHN=46字 ger=336字 ratio=0.14 CHN=「士兵这些就是你的英雄！士兵是比普通维京人更强壮、更坚韧的战士」 ger=「SOLDATENUnddassindsie,deineHelden!Soldatensinddiee」
+    - 长度比异常(疑似内容错位)                block 03 text[1]
+        CHN=51字 ger=258字 ratio=0.20 CHN=「弓箭手使用弓箭进行战斗。他们可以配备短弓或长弓。其优势在于远」 ger=「BogenschützenkämpfenmitPfeilundBogen.SiekönnenmitK」
+    - 长度比异常(疑似内容错位)                block 05 text[0]
+        CHN=44字 ger=256字 ratio=0.17 CHN=「兵营为了让你的维京人有效防御，他们需要完善的训练场所和充足的」 ger=「DIEKASERNEWennsichdeineWikingereffektivverteidigen」
+    - 长度比异常(疑似内容错位)                block 06 text[0]
+        CHN=45字 ger=618字 ratio=0.07 CHN=「干得好！兵营已建成。现在把平民训练成士兵吧--每位平民都需要」 ger=「Gutgemacht!DieKaserneisterrichtet.Günstigistes,rec」
+    - 长度比异常(疑似内容错位)                block 07 text[0]
+        CHN=40字 ger=825字 ratio=0.05 CHN=「兵营的功能你可以在兵营里生产不同的军事单位。根据可用的资源选」 ger=「DIEKASERNEWennsichdeineWikingereffektivverteidigen」
+    - 长度比异常(疑似内容错位)                block 08 text[0]
+        CHN=43字 ger=851字 ratio=0.05 CHN=「啊，还缺愿意入伍的人！碰巧法兰克人和撒拉逊人在你的营地附近扎」 ger=「Achso,dirfehlenwilligeRekruten!Zufällighabensichge」
+    - 长度比异常(疑似内容错位)                block 09 text[0]
+        CHN=35字 ger=964字 ratio=0.04 CHN=「好！你已创建了15名士兵。但只有装备精良、训练有素的军队才能」 ger=「Gut!Duhast15Soldatenerschaffen.AbererstdieAusrüstu」
+    - 长度比异常(疑似内容错位)                block 10 text[0]
+        CHN=35字 ger=570字 ratio=0.06 CHN=「盔甲你可以为你的士兵配备防具来保护他们。剑士需要链甲。弓箭手」 ger=「RÜSTUNGENDeineSoldatenkönnenzuihremSchutzmitRüstun」
+    - 子元素序列不一致                     block 100
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 长度比异常(疑似内容错位)                block 100 text[0]
+        CHN=30字 ger=16字 ratio=1.88 CHN=「任务失败！你的英雄陨落了。在真正的游戏中，这意味着任务失败。」 ger=「MISSIONVERLOREN!」
+    - 子元素序列不一致                     block 11
+        CHN=['text', 'text'] ger=['text', 'usericon', 'text']
+    - 长度比异常(疑似内容错位)                block 11 text[0]
+        CHN=36字 ger=227字 ratio=0.16 CHN=「投石机士兵和英雄也可以使用投石机。投石机是重型攻城武器，但只」 ger=「KATAPULTEDenSoldatenundHeldenstehenauchKatapultezu」
+    - 长度比异常(疑似内容错位)                block 12 text[0]
+        CHN=29字 ger=165字 ratio=0.18 CHN=「哎呀！那些一直和平的撒拉逊人偷袭了你的营地！立即进行反击！」 ger=「OHWEH!DiebisherfriedlichenSarazenenhabeneinenAußen」
+    - 长度比异常(疑似内容错位)                block 13 text[0]
+        CHN=68字 ger=1254字 ratio=0.05 CHN=「士兵编组与攻击选中多个士兵的方式与普通维京人一样。双击一个士」 ger=「SOLDATENGRUPPENundANGRIFFMehrereSoldatenselektiert」
+    - 长度比异常(疑似内容错位)                block 14 text[0]
+        CHN=123字 ger=1178字 ratio=0.10 CHN=「士兵模式攻击模式：士兵只攻击面前之敌。防御模式：士兵会攻击任」 ger=「SOLDATENMODISoldatenmodusAngriff:Angreifenkönnende」
+    - 长度比异常(疑似内容错位)                block 15 text[0]
+        CHN=94字 ger=963字 ratio=0.10 CHN=「太棒了！你夺回了前哨站。但不幸的是，你不知道南方的撒拉森村庄」 ger=「GROSSARTIG!DuhastdenAußenpostenzurückerobert.Aberl」
+    - 长度比异常(疑似内容错位)                block 16 text[0]
+        CHN=32字 ger=724字 ratio=0.04 CHN=「为了安全起见，你也可以请求友好民族的援助，他们会在战斗中支持」 ger=「DukannstzurSicherheitauchHilfevonanderenVölkernanf」
+    - 长度比异常(疑似内容错位)                block 18 text[0]
+        CHN=47字 ger=972字 ratio=0.05 CHN=「外交（F5）打开外交窗口时，会显示一份关于各民族之间关系的概」 ger=「DIPLOMATIE(F5)BeimÖffnendesDiplomatiefenstersersch」
+    - 长度比异常(疑似内容错位)                block 19 text[0]
+        CHN=71字 ger=565字 ratio=0.13 CHN=「进贡如果某部落对你怀有敌意或保持中立，通过进贡可能改变他们的」 ger=「TRIBUTZAHLUNGENWenndireinStammfeindlichoderneutral」
+
+[✗ 10 处问题]  tutorial_007.xml  (strings=21 blocks=16 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                block 00 text[0]
+        CHN=45字 ger=625字 ratio=0.07 CHN=「这里介绍奖励物品和武器，以及如何制造与获取它们。按照左侧菜单」 ger=「HierwerdendieBonusgegenständeundWaffeneingeführt.-」
+    - 长度比异常(疑似内容错位)                block 01 text[0]
+        CHN=48字 ger=601字 ratio=0.08 CHN=「箱子有可以打开的各种箱子--无论是男人、女人还是孩子。任何人」 ger=「KISTENEsgibtKisten,dievonjedemWikinger-obMannoderF」
+    - 长度比异常(疑似内容错位)                block 02 text[0]
+        CHN=51字 ger=929字 ratio=0.05 CHN=「药剂如果你在箱子里找不到药剂，也可以自己制作它们。制药需要对」 ger=「TRÄNKEWenndudieTränkenichtinKistenfindest,abersiet」
+    - 长度比异常(疑似内容错位)                block 04 text[0]
+        CHN=59字 ger=823字 ratio=0.07 CHN=「护身符它们无法制造，只能找到或通过交易获得。护身符赋予佩戴者」 ger=「AMULETTESiekönnennichthergestellt,nurgefundenoderi」
+    - 长度比异常(疑似内容错位)                block 05 text[0]
+        CHN=58字 ger=773字 ratio=0.08 CHN=「好！你已找到撒拉逊人村庄里的所有护身符！护身符会赋予你的士兵」 ger=「GUT!DuhastalleAmuletteimSarazenendorfgefunden!Wenn」
+    - 长度比异常(疑似内容错位)                block 07 text[0]
+        CHN=54字 ger=466字 ratio=0.12 CHN=「……不过回到你的平民百姓身上，他们也需要神奇的物件。为了让你」 ger=「...aberzurückzudeinerzivilenBevölkerung,dennauchhi」
+    - 长度比异常(疑似内容错位)                block 08 text[0]
+        CHN=50字 ger=278字 ratio=0.18 CHN=「铁制工具铁制工具比木制工具更能提高工人的生产力。也就是说，产」 ger=「EISENWERKZEUGEisenwerkzeugesteigerndieProduktivitä」
+    - 子元素序列不一致                     block 100
+        CHN=['text'] ger=['text', 'picture']
+    - 长度比异常(疑似内容错位)                block 11 text[0]
+        CHN=45字 ger=328字 ratio=0.14 CHN=「鞋子每个赤脚的维京人都会为一双合脚的鞋感到高兴。鞋子可以增加」 ger=「SCHUHEJederbarfüssigeWikingerfreutsichübereinpaarS」
+    - 长度比异常(疑似内容错位)                block 12 text[0]
+        CHN=53字 ger=310字 ratio=0.17 CHN=「油脂（圣火）每个住宅建筑外面都有一盏油灯。灯需要油脂来燃烧。」 ger=「ÖL(HeiligesFeuer)AußenanjedemWohngebäudebefindetsi」
+
+[✗ 15 处问题]  weinachten_2002.xml  (strings=28 blocks=25 langs=['CHN', 'eng', 'ger'])
+    - 长度比异常(疑似内容错位)                string 5
+        CHN=12字 ger=63字 ratio=0.19 CHN=「设法驱散阴雨，唤来飞雪。」 ger=「SucheeineMöglichkeitdenRegenzuvertreibenundSchneeh」
+    - 长度比异常(疑似内容错位)                block 02 text[1]
+        CHN=18字 ger=103字 ratio=0.17 CHN=「努力证明你的诚意，帮助部落填饱肚子。」 ger=「"WirhabeneinefantastischeNäherei!Gehtundschautsiee」
+    - 长度比异常(疑似内容错位)                block 03 text[1]
+        CHN=28字 ger=159字 ratio=0.18 CHN=「每个部落都需要被单独说服--他们都想成为最受重视的一方。」 ger=「"WirwürdenjaeinenFriedenzustimmen,aberhabensieunsN」
+    - 长度比异常(疑似内容错位)                block 04 text[1]
+        CHN=25字 ger=207字 ratio=0.12 CHN=「当年轻一代一起学习时，部落之间的隔阂就会慢慢消融。」 ger=「"WirwürdenjaeinenFriedenzustimmen,aberhabensieunse」
+    - 长度比异常(疑似内容错位)                block 07 text[1]
+        CHN=23字 ger=267字 ratio=0.09 CHN=「祝大家圣诞快乐，愿新的一年带给你们幸福与和平！」 ger=「Esstelltesichheraus,dassalleAnschuldigungengrundlo」
+    - 长度比异常(疑似内容错位)                block 10 text[1]
+        CHN=19字 ger=183字 ratio=0.10 CHN=「可是还需要更多布料，为所有人都做一套。」 ger=「"JedesJahrentfachteinneuerStreit,woderHäuptling(bi」
+    - 子元素序列不一致                     block 100
+        CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']
+    - 长度比异常(疑似内容错位)                block 100 text[1]
+        CHN=20字 ger=113字 ratio=0.18 CHN=「圣诞节的欢乐气氛被破坏了……再试一次吧！」 ger=「HeldenmutoderLeichtsinn?AlsBjarnistarb,weintendieG」
+    - 长度比异常(疑似内容错位)                block 11 text[1]
+        CHN=8字 ger=67字 ratio=0.12 CHN=「希望他们会喜欢。」 ger=「BringedieEskimoszurNäherei,wenndieGraukimosundGelb」
+    - 长度比异常(疑似内容错位)                block 12 text[1]
+        CHN=18字 ger=171字 ratio=0.11 CHN=「现在各族都准备好了，可以一起庆祝了。」 ger=「"WirkönntenallenStämmeneineFreudemachenundihnenzum」
+    - 长度比异常(疑似内容错位)                block 13 text[1]
+        CHN=27字 ger=169字 ratio=0.16 CHN=「和解的时刻终于到了。红色皮肤的小不点们似乎也松了口气。」 ger=「"Wenneinervoneuchbeiunsbleibenwill,gebenwirihmselb」
+    - 长度比异常(疑似内容错位)                block 17 text[1]
+        CHN=25字 ger=147字 ratio=0.17 CHN=「你找到了诺恩三女神的祝福。现在各族可以团结一致了。」 ger=「"IhrhabtesgeschafftdiezweiStämmezuvereinen,dafürwe」
+    - 长度比异常(疑似内容错位)                block 18 text[0]
+        CHN=28字 ger=185字 ratio=0.15 CHN=「圣诞快乐！愿和平与欢乐伴随你的维京人度过这个特别的节日。」 ger=「DERALTEMANN"EsistverflixtmitdiesenEingeborenen!Sie」
+    - 长度比异常(疑似内容错位)                block 50_end text[0]
+        CHN=5字 ger=143字 ratio=0.03 CHN=「圣诞快乐！」 ger=「Wirhattenesgeschafft!DieEskimos,Gelbimos,Graukimos」
+    - 长度比异常(疑似内容错位)                block 50_end1 text[0]
+        CHN=2字 ger=1字 ratio=2.00 CHN=「……」 ger=「…」
+==========================================================================================
+目录: map_xml_user
+==========================================================================================
+
+[OK]  Campaign00/01_Ein_neuer_Anfang.xml  (strings=5 blocks=6 langs=['CHN', 'ger'])
+
+[OK]  Campaign00/02_Spanien.xml  (strings=8 blocks=18 langs=['CHN', 'ger'])
+
+[OK]  Campaign00/03_Frankreich.xml  (strings=8 blocks=18 langs=['CHN', 'ger'])
+
+[OK]  Campaign00/04_Schweiz.xml  (strings=6 blocks=10 langs=['CHN', 'ger'])
+
+[OK]  Campaign00/05_Paris.xml  (strings=8 blocks=18 langs=['CHN', 'ger'])
+
+[OK]  Campaign00/06_Belgien.xml  (strings=7 blocks=15 langs=['CHN', 'ger'])
+
+[OK]  Campaign00/07_Germania.xml  (strings=7 blocks=15 langs=['CHN', 'ger'])
+
+[OK]  Campaign00/08_Österreich.xml  (strings=6 blocks=10 langs=['CHN', 'ger'])
+
+[OK]  Campaign00/09_Italien.xml  (strings=8 blocks=20 langs=['CHN', 'ger'])
+
+[OK]  Campaign00/10_Tunesien.xml  (strings=8 blocks=18 langs=['CHN', 'ger'])
+
+[OK]  Campaign00/11_Die_Unterwelt.xml  (strings=8 blocks=20 langs=['CHN', 'ger'])
+
+[✗ 3 处问题]  Campaign00/12_Die_Prüfung.xml  (strings=8 blocks=18 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                block playerdied1 text[0]
+        CHN=5字 ger=26字 ratio=0.19 CHN=「群蛇已死。」 ger=「DieSchlangensindgestorben.」
+    - 长度比异常(疑似内容错位)                block playerdied2 text[0]
+        CHN=5字 ger=26字 ratio=0.19 CHN=「群蛇已死。」 ger=「DieSchlangensindgestorben.」
+    - 长度比异常(疑似内容错位)                block playerdied3 text[0]
+        CHN=5字 ger=26字 ratio=0.19 CHN=「群蛇已死。」 ger=「DieSchlangensindgestorben.」
+
+[OK]  Campaign00/13_Das_Tal_der_Könige.xml  (strings=8 blocks=20 langs=['CHN', 'ger'])
+
+[OK]  Campaign00/14_Die_Eiswelt.xml  (strings=7 blocks=15 langs=['CHN', 'ger'])
+
+[OK]  Campaign00/15_Australien.xml  (strings=8 blocks=18 langs=['CHN', 'ger'])
+
+[OK]  Campaign00/16_Wigrid_Wall.xml  (strings=7 blocks=14 langs=['CHN', 'ger'])
+
+[OK]  Campaign00/17_Nordwestafrika.xml  (strings=8 blocks=18 langs=['CHN', 'ger'])
+
+[OK]  Campaign00/18_Tschad.xml  (strings=8 blocks=19 langs=['CHN', 'ger'])
+
+[OK]  Campaign00/19_Kongo.xml  (strings=8 blocks=19 langs=['CHN', 'ger'])
+
+[OK]  Campaign00/20_Die_Höhle.xml  (strings=5 blocks=7 langs=['CHN', 'ger'])
+
+[OK]  Campaign00/21_Südafrika.xml  (strings=7 blocks=14 langs=['CHN', 'ger'])
+
+[OK]  Campaign00/22_Daheim.xml  (strings=7 blocks=14 langs=['CHN', 'ger'])
+
+[OK]  Campaign01/01_Die_Pirateninsel.xml  (strings=8 blocks=19 langs=['CHN', 'ger'])
+
+[OK]  Campaign01/02_Die_Lavainsel.xml  (strings=7 blocks=16 langs=['CHN', 'ger'])
+
+[OK]  Campaign01/03_Verlorene_Welt.xml  (strings=7 blocks=16 langs=['CHN', 'ger'])
+
+[OK]  Campaign01/04_Die_Händler.xml  (strings=8 blocks=18 langs=['CHN', 'ger'])
+
+[OK]  Campaign01/05_Die_Münzsammler.xml  (strings=8 blocks=19 langs=['CHN', 'ger'])
+
+[✗ 2 处问题]  Campaign01/06_Die_Entscheidung.xml  (strings=8 blocks=20 langs=['CHN', 'ger'])
+    - 长度比异常(疑似内容错位)                string 0
+        CHN=2字 ger=15字 ratio=0.13 CHN=「抉择」 ger=「DieEntscheidung」
+    - 长度比异常(疑似内容错位)                block start_header text[0]
+        CHN=2字 ger=15字 ratio=0.13 CHN=「抉择」 ger=「DieEntscheidung」

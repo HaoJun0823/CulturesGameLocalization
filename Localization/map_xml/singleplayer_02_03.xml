@@ -1,165 +1,212 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="singleplayer_02_03" export_map_id="singleplayer_02_03" map_md5="28c47d02e2d5abb484684a497ddaa0df" IsC2M="false">
+<localization version="1.3" map_id="singleplayer_02_03" export_map_id="singleplayer_02_03" map_md5="28c47d02e2d5abb484684a497ddaa0df" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
-<string id="0">
+    <string id="0">
       <text lang="CHN">建立你的村庄！</text>
+      <text lang="eng">Build up your village!</text>
       <text lang="ger">Baue dein Dorf auf!</text>
     </string>
-<string id="1">
+    <string id="1">
       <text lang="CHN">拜访撒拉逊人的贸易站！</text>
+      <text lang="eng">Pay a visit to the Saracens' trade post!</text>
       <text lang="ger">Besuche den Handelsposten der Sarazenen!</text>
     </string>
-<string id="2">
+    <string id="2">
       <text lang="CHN">在村庄的北面找到德鲁伊！</text>
+      <text lang="eng">Find the druid in the north of the village!</text>
       <text lang="ger">Finde den Druiden im Norden des Dorfes!</text>
     </string>
-<string id="3">
+    <string id="3">
       <text lang="CHN">为德鲁伊提供护送！</text>
+      <text lang="eng">Escort the druid!</text>
       <text lang="ger">Gib dem Druiden Begleitschutz!</text>
     </string>
-<string id="4">
+    <string id="4">
       <text lang="CHN">缴纳贡品，以安抚黄金蛮人，换取和平！</text>
+      <text lang="eng">Pay the tribute to appease the Goldmangies!</text>
       <text lang="ger">Zahle den Tribut, um die Goldmangies friedlich zu stimmen!</text>
     </string>
-<string id="5">
+    <string id="5">
       <text lang="CHN">缴清这笔贡品，否则你与黄金蛮人之间将无友谊可言！</text>
+      <text lang="eng">Pay this tribute or there will be no friendship with the Goldmangies!</text>
       <text lang="ger">Zahle diesen Tribut, oder es wird keine Freundschaft mit dem Goldmangies geben!</text>
     </string>
-<string id="6">
+    <string id="6">
       <text lang="CHN">寻找智者的花岗岩！</text>
+      <text lang="eng">Find the Granite of the Wise!</text>
       <text lang="ger">Finde den Granit der Weisen!</text>
     </string>
-<string id="7">
+    <string id="7">
       <text lang="CHN">探查恐怖之雾的秘密！</text>
+      <text lang="eng">Discover the secret of the Fog of Horrors!</text>
       <text lang="ger">Erkunde das Geheimnis des Nebels des Grauen!</text>
     </string>
-<string id="8">
+    <string id="8">
       <text lang="CHN">建造一艘船，以便探索更广阔的区域！</text>
+      <text lang="eng">Build a ship to explore the area!</text>
       <text lang="ger">Baue ein Schiff, um die weitere Gegend erforschen zu können!</text>
     </string>
-<string id="9">
+    <string id="9">
       <text lang="CHN">寻找那团令商人们陷入恐慌的神秘迷雾！</text>
+      <text lang="eng">Find the mysterious fog that has caused such panic among the merchants!</text>
       <text lang="ger">Finde den geheimnisvollen Nebel, der die Händler in solche Panik versetzt hat!</text>
     </string>
-<string id="10">
+    <string id="10">
       <text lang="CHN">搜寻线索与办法，好穿越这片迷雾！</text>
+      <text lang="eng">Search for hints and possibilities to pass through the fog!</text>
       <text lang="ger">Suche nach Hinweisen und Möglichkeiten, um den Nebel durchqueren zu können!</text>
     </string>
-<string id="11">
+    <string id="11">
       <text lang="CHN">带领比雅尼和至少八名部下抵达雾中之岛！</text>
+      <text lang="eng">Reach the island in the fog with Bjarni and at least eight men!</text>
       <text lang="ger">Erreiche die Insel im Nebel mit Bjarni und mindestens acht Mann!</text>
     </string>
-<string id="12">
+    <string id="12">
       <text lang="CHN">若想与知识守护者和平共处，就缴纳贡品！</text>
+      <text lang="eng">Pay the tribute if you want to make peace with the Keepers of Knowledge!</text>
       <text lang="ger">Zahle den Tribut, wenn du Frieden mit den Hütern des Wissens möchtest!</text>
     </string>
-<string id="13">
+    <string id="13">
       <text lang="CHN">若你愿意，可协助海卢兰人，并送三名女子与他完婚！</text>
+      <text lang="eng">Help the Hellulander and send him three marriageable women if you want to!</text>
       <text lang="ger">Wenn du möchtest, hilf dem Helluländer und sende ihm drei Frauen zur Vermählung!</text>
     </string>
-<string id="30">
+    <string id="30">
       <text lang="CHN">缴纳以证明你的诚意：</text>
+      <text lang="eng">Pay to prove your sincerity:</text>
       <text lang="ger">Zahle, um deine Aufrichtigkeit zu beweisen:</text>
     </string>
-<string id="31">
+    <string id="31">
       <text lang="CHN">没有这笔贡品，你将无法和平取得黄金！</text>
+      <text lang="eng">Without this tribute you will not obtain the gold by peaceful means!</text>
       <text lang="ger">Ohne diesen Tribut wirst du nicht friedlich an das Gold kommen!</text>
     </string>
-<string id="32">
+    <string id="32">
       <text lang="CHN">若想与知识守护者和平相处，就缴纳贡品！</text>
+      <text lang="eng">Pay if you want peace with the Keepers of Knowledge!</text>
       <text lang="ger">Zahle, wenn du Frieden mit den Hütern des Wissens möchtest!</text>
     </string>
-<string id="33">
+    <string id="33">
       <text lang="CHN">缴纳象征性的数额，使这份契约生效！</text>
+      <text lang="eng">Pay the symbolic sum to validate the agreement!</text>
       <text lang="ger">Zahle den symbolischen Betrag, damit das Abkommen Gültigkeit erlangt!</text>
     </string>
-<string id="34">
+    <string id="34">
       <text lang="CHN">再次缴纳，使下一份契约同样生效！</text>
+      <text lang="eng">Pay again to make the next agreement valid as well!</text>
       <text lang="ger">Zahle erneut, damit auch das nächste Abkommen Gültigkeit erlangt!</text>
     </string>
-<string id="35">
+    <string id="35">
       <text lang="CHN">若你想了解更多，就缴纳：</text>
+      <text lang="eng">If you want more information, pay:</text>
       <text lang="ger">Wenn du mehr Informationen wünschst, dann zahle:</text>
     </string>
-<string id="50">
+    <string id="50">
       <text lang="CHN">比雅尼的部族</text>
+      <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarnis Stamm</text>
     </string>
-<string id="51">
+    <string id="51">
       <text lang="CHN">马克兰人</text>
+      <text lang="eng">Marklanders</text>
       <text lang="ger">Markländer</text>
     </string>
-<string id="52">
+    <string id="52">
       <text lang="CHN">海卢兰人</text>
+      <text lang="eng">Hellulanders</text>
       <text lang="ger">Helluländer</text>
     </string>
-<string id="53">
+    <string id="53">
       <text lang="CHN">黄金蛮人</text>
+      <text lang="eng">Goldmangies</text>
       <text lang="ger">Goldmangies</text>
     </string>
-<string id="54">
+    <string id="54">
       <text lang="CHN">对外贸易站</text>
+      <text lang="eng">Trade Post</text>
       <text lang="ger">Außenhandelsposten</text>
     </string>
-<string id="55">
+    <string id="55">
       <text lang="CHN">知识守护者</text>
+      <text lang="eng">Keepers of Knowledge</text>
       <text lang="ger">Hüter des Wissens</text>
     </string>
-<string id="56">
+    <string id="56">
       <text lang="CHN">德鲁伊</text>
+      <text lang="eng">The Druid</text>
       <text lang="ger">Der Druide</text>
     </string>
-<string id="57">
+    <string id="57">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
-<string id="58">
+    <string id="58">
       <text lang="CHN">马克人</text>
+      <text lang="eng">Markers</text>
       <text lang="ger">Märker</text>
     </string>
-<string id="59">
+    <string id="59">
       <text lang="CHN">海卢斯</text>
+      <text lang="eng">Hellus</text>
       <text lang="ger">Hellus</text>
     </string>
-<string id="60">
+    <string id="60">
       <text lang="CHN">蛮人</text>
+      <text lang="eng">Mangies</text>
       <text lang="ger">Mangies</text>
     </string>
-<string id="61">
+    <string id="61">
       <text lang="CHN">哨站</text>
+      <text lang="eng">Post</text>
       <text lang="ger">Posten</text>
     </string>
-<string id="62">
+    <string id="62">
       <text lang="CHN">守护者</text>
+      <text lang="eng">Keepers</text>
       <text lang="ger">Hüter</text>
     </string>
-<string id="63">
+    <string id="63">
       <text lang="CHN">德鲁伊</text>
+      <text lang="eng">Druid</text>
       <text lang="ger">Druide</text>
     </string>
-<string id="71">
+    <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
-<string id="98">
+    <string id="98">
       <text lang="CHN">维京人正试图揭开西北方那片神秘迷雾之谜。</text>
+      <text lang="eng">The Vikings must try to solve the secret surrounding the mysterious fog in the north-west.</text>
       <text lang="ger">Die Wikinger versuchen, dem Geheimnis des geheimnisvollen Nebels im Nordwesten auf die Schliche zu kommen.</text>
     </string>
-<string id="99">
+    <string id="99">
       <text lang="CHN">恐怖之雾</text>
+      <text lang="eng">THE FOG OF HORRORS</text>
       <text lang="ger">DER NEBEL DES GRAUENS</text>
     </string>
-</strings>
-<briefings>
-<block id="begin_00"><lang code="CHN"><text>
+  </strings>
+  <briefings>
+    <block id="begin_00">
+      <lang code="CHN">
+        <text>
 我们在一座无人居住的大岛上登陆，岛上只有几名拜占庭商人与我们为伴。他们似乎是流落至此的--海滩上四处散落着他们船只的残骸。
 
 我们决定建立一处聚居地，并与撒拉逊商人会面。我们对他们失事的故事实在太过好奇……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+We had gone ashore on a large, uninhabited island which we shared with some Byzantine merchants. It seemed they must have run aground here, because the wreckage from their ship lay scattered on the shore.
+
+We decided to build a settlement and then meet the Byzantine merchants. The story of their crash landing greatly interested us ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -169,16 +216,25 @@ Wir beschlossen, eine Siedlung zu errichten und uns mit den sarazenischen Händl
 </text>
       </lang>
     </block>
-
     <block id="begin_01">
       <lang code="CHN">
-                <text>
+        <text>
 马克兰人
 
 "向你们致意，高贵的异乡人。看你们的样子，似乎身经百战！我们寻觅的正是这样的人……我们也听说你们在寻找答案--若你们肯帮我们完成一项特殊使命，我们必以此相报！
 
 我们的德鲁伊需要有人护送，前往村外的一只魔法宝箱那里。近来有一大群野狼在那儿安了家，而我们并不擅长狩猎。请带着你们的领袖，前往聚居地北面的村门……并带上足够的战士！"
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+MARKLANDERS
+
+"Greetings, honourable strangers. You look like you have been hardened by many battles! Warriors like you are just what we have been looking for ... We have heard that you are looking for answers, and we will reward you with these if you help us on a special mission!
+
+Our druid needs an escort to a magic chest outside the village. A large pack of wolves has settled there, and we are not good hunters. Go to the northern gate of our settlement with your leader ... and take enough warriors with you!"
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -191,15 +247,14 @@ Unser Druide braucht Geleitschutz zu einer magischen Truhe außerhalb des Dorfes
 </text>
       </lang>
     </block>
-
     <block id="begin_02">
       <lang code="CHN" />
+      <lang code="eng" />
       <lang code="ger" />
     </block>
-
     <block id="begin_03">
       <lang code="CHN">
-                <text>
+        <text>
 黄金蛮人
 
 "你们是谁？是友是敌？来此何干？想来偷我们的东西？我们是黄金岛上的黄金蛮人……此地唯我独尊！"
@@ -214,6 +269,24 @@ Unser Druide braucht Geleitschutz zu einer magischen Truhe außerhalb des Dorfes
 
 作为首领，这对我而言是个艰难的抉择！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+GOLDMANGIES
+
+"Who are you? Are you friends or foes? What do you want? Do you intend to rob us? We are the Goldmangies from the gold island ... We hold the exclusive gold digging rights here!"
+
+This was not the kind of welcome we had imagined! The Goldmangies weren't exactly friendly! They seemed to believe we wanted to rob them.
+
+"We don't want you here on our island, go away! Or prove your friendship to us! Pay us a tribute of 30 phials of Holy Oil. That could improve our trust."
+
+We were surprised by this sudden change of heart, but that seemed to be the way of the Goldmangies.
+
+We now had the following choice: To start a battle and destroy them so we could mine their gold ourselves, or to simply leave and abandon them to their fate. The Fog of Horrors seemed to be creeping nearer as well ... maybe it would be better to accept their proposal and get some good offers from them.
+
+It was a hard decision for me to make as a chieftain!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -234,10 +307,9 @@ Für mich als Häuptling war dies eine schwere Frage!
 </text>
       </lang>
     </block>
-
     <block id="begin_04">
       <lang code="CHN">
-                <text>
+        <text>
 拜占庭商人
 
 向你们致意，维京人！
@@ -252,6 +324,26 @@ Für mich als Häuptling war dies eine schwere Frage!
 
 为我们提供我们自己无法生产的货物，你便能获得那些护身符！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+MERCHANTS FROM BYZANTIUM
+
+Welcome, Vikings!
+
+We were once seafaring merchants, until our ship had to pass through a dreadful, nearly impenetrable fog in the north-west. It reached as far as this shore only a while ago, so that we could not even see the outline of this land. That is why we were shipwrecked.
+
+We had heard terrible noises that sounded like demons in the middle of the fog, and we prepared for the worst! 
+It was warm in there and oppressively humid - the heat was dreadful. Horror reigned in this place, and there must have been land somewhere in there as well! 
+We have tried to forget it, but in our dreams we still see horrible things in there!
+
+If you go looking north-west with your ship, it will be the end of you!
+
+Well - we may have run aground here, but we managed to save many of our goods. We have wonderful oriental amulets - they are our capital for a new beginning. 
+
+Bring us some goods we cannot produce ourselves and we will give you the amulets!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -274,10 +366,9 @@ Beliefere uns mit Waren, die wir selbst nicht produzieren können, und du wirst 
 </text>
       </lang>
     </block>
-
     <block id="begin_05">
       <lang code="CHN">
-                <text>
+        <text>
 知识守护者
 
 "知识守护者向你们致意！当我们初临此地，盲目而无知。但我们随后找到了一个答案！一个关于我们存在意义的解答。若无我们，这个世界将不复如此，恐怖与惊惧将无处不在！
@@ -286,6 +377,18 @@ Beliefere uns mit Waren, die wir selbst nicht produzieren können, und du wirst 
 
 向我们证明，金钱与黄金在你们的族群中无足轻重--把我们要的硬币交出来！这便是你们的试炼！在缴清贡品之前，你们最好远远避开我们的士兵！"
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE KEEPERS OF KNOWLEDGE
+
+"The Keepers of Knowledge salute you! When we first came to this land, we were blind and ignorant. But then we discovered the answer to the greatest question of all: the meaning of our existence. Without us, the world would no longer exist in its present state, horror and fear would be everywhere!
+
+You seek answers? You shall have them. But first you must prove yourselves worthy. Are you the one who can save the world? Well, how about it?
+
+Show us that money and gold are not important in your society - give us the coins we ask for! This shall be your test! Until you have paid the tribute, you should keep out of our soldiers' way!"
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -300,20 +403,33 @@ Zeigt uns, dass Geld und Gold keine Rolle spielen in eurer Gesellschaft - gebt u
 </text>
       </lang>
     </block>
-
     <block id="begin_06">
       <lang code="CHN">
-                <text>权
+        <text>权
 
 能
 
 护符</text>
         <picture>$local$\graphics\Gewaltenamulett8bit.pcx</picture>
-                <text>
+        <text>
 谢谢你帮了我们。从今往后，友谊将连结我们的部族……
 作为奖赏，比雅尼，我们将这条项链交予你。
 你正需要它，因为借助它的力量，你能影响大自然的力量……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE AMULET OF POWER
+
+Thank you for helping us. Our tribes shall be united in friendship from now on ...
+
+As a reward we will give you, Bjarni, this necklace. 
+</text>
+        <picture>$local$\graphics\Gewaltenamulett8bit.pcx</picture>
+        <text>
+You need it, because with it you can influence the elements ... 
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -330,10 +446,9 @@ Du brauchst sie, denn mit ihrer Kraft kannst du die Gewalten der Natur beeinflus
 </text>
       </lang>
     </block>
-
     <block id="begin_07">
       <lang code="CHN">
-                <text>
+        <text>
 新的同盟
 
 "你们看来值得信赖！肯赠我们礼物的人，自会赢得我们的友谊作为回报！作为新盟约的见证，我们已为你们送来五十枚金币！
@@ -341,6 +456,17 @@ Du brauchst sie, denn mit ihrer Kraft kannst du die Gewalten der Natur beeinflus
 
 蛮人的举止古怪，但他们的礼物着实令人信服……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+A NEW ALLIANCE
+
+"You seem trustworthy! Someone who brings us gifts will receive our friendship in return! As proof of our new alliance, we have brought you 50 gold!
+Look at your warehouses!
+
+These Mangies had strange manners, but their present was very convincing ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -354,10 +480,9 @@ Ein merkwürdiges Verhalten der Mangies, doch ihr Geschenk war recht überzeugen
 </text>
       </lang>
     </block>
-
     <block id="begin_08">
       <lang code="CHN">
-                <text>
+        <text>
 期限已过
 
 "你们没有遵守期限--如此便永远无法赢得我们的信任！士兵们，若这些异乡人下次再来，就攻击他们！
@@ -366,6 +491,18 @@ Ein merkwürdiges Verhalten der Mangies, doch ihr Geschenk war recht überzeugen
 黄金蛮人再次陷入了他们惯有的情绪起伏--与这支喜怒无常的部族建立外交关系，当真可能吗？
 但或许，与他们保持接触仍是值得的……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE DEADLINE HAS EXPIRED
+
+"You did not meet the deadline. You will never earn our trust this way! Soldiers - next time these strangers come near here, attack them!
+If you strangers return here at any time, you will die! Unless you pay us the tribute after all ... but you will have to make it a bit more generous now!"
+
+The Goldmangies had again had one of their strange changes of mood. Would it ever be possible to develop diplomatic relations with this unpredictable tribe?
+Still, maybe it would be worthwhile to remain in touch ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -380,10 +517,9 @@ Aber vielleicht lohnte es sich ja, mit ihnen in Kontakt zu bleiben...
 </text>
       </lang>
     </block>
-
     <block id="begin_09">
       <lang code="CHN">
-                <text>
+        <text>
 关于缴纳贡品，我思虑良久。黄金蛮人那里黄金固然不少！但海卢兰人不是曾警告过我们提防这些"守护者"吗？
 我还是缴了贡品，毕竟我想给守护者们一个机会。
 倘若他们所藏的秘密当真如此危险--那么纵有诸多流言，或许仍值得信任。
@@ -397,6 +533,23 @@ Aber vielleicht lohnte es sich ja, mit ihnen in Kontakt zu bleiben...
 提示：
 你可随时缴纳贡品，但要战斗，须先与比雅尼一同前往守护者处。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+I thought about paying the tribute for a long time. There was enough gold among the Goldmangies! But hadn't the Hellulanders warned us of these "Keepers"?
+In the end I paid the tribute, because I had decided to give the Keepers a chance.
+If the secret they kept was really so dangerous - then maybe I could trust them in spite of all the rumours.
+
+"You have brought the gold. Is this how you always solve your tasks? Bribery is the tool of the swindler! You have failed, now be gone!"
+
+???
+
+"Wait! We shall give you one more chance. Surrender to your destiny and seal it with a duel! If you are willing to do so, pay a symbolic coin - you have already shown that you are rich!"
+
+Hint: 
+You can pay the tribute any time, but in order to fight you must take Bjarni to the Keepers.
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -416,10 +569,9 @@ Du kannst den Tribut jederzeit bezahlen, doch um zu kämpfen, musst du erst mit 
 </text>
       </lang>
     </block>
-
     <block id="begin_10">
       <lang code="CHN">
-                <text>
+        <text>
 得胜之役
 
 "为奖赏你的勇气，我们现在向你说明实情：
@@ -434,6 +586,24 @@ Du kannst den Tribut jederzeit bezahlen, doch um zu kämpfen, musst du erst mit 
 
 我们明白这要求何等苛重，但你的胜利尚不足以使我们成为朋友！对我们而言，确保所为正确至关紧要。只有当你再次击败我们，我们才许你进入我们的村庄。"
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+SUCCESSFUL BATTLE
+
+"To reward you for your courage, we will now explain:
+
+The fog conceals a terrible power we have known about for some time. There were seafarers who saw things they were never able to forget. There was an island in the fog, inhabited by invisible creatures that killed anything that came close to them. Their invisibility made them invincible!
+
+Well, before they died, these seafarers told us the position of the island. No one else could find it without the exact coordinates. The master of those creatures must be living there as well. If he is set free, he will bring disaster over the world!
+
+We were about to destroy all knowledge of the isle when we found the formula to make invisible things visible! It is in this village!
+
+It was at that moment that we became the Keepers of Knowledge, and we have done everything in our power to keep the secret. We have also been waiting for the hero who will defeat the master of the island! But first, we had to put him to the test ...
+
+We know what we are asking, but your victory alone will not make us friends! It is too important to us that we know that we are doing the right thing. We will only allow you to enter our village if you are able to defeat us a second time.
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -454,14 +624,21 @@ Wir wissen, was wir dir zumuten, doch zu Freunden macht uns dein Sieg noch nicht
 </text>
       </lang>
     </block>
-
     <block id="begin_11">
       <lang code="CHN">
-                <text>
+        <text>
 德鲁伊
 
 啊----祖先之环与权能护符……终于到手了！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+DRUID
+
+Ah, the ring of our ancestors and the amulet of power ... at last!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -472,12 +649,17 @@ Ahhhhhhh, der Ring der Vorfahren und das Amulett der Gewalten...endlich!
 </text>
       </lang>
     </block>
-
     <block id="begin_12">
       <lang code="CHN">
-                <text>
+        <text>
 比雅尼阵亡了！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+Bjarni has died!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -486,12 +668,17 @@ Bjarni ist gestorben!
 </text>
       </lang>
     </block>
-
     <block id="begin_13">
       <lang code="CHN">
-                <text>
+        <text>
 维京人的部族覆灭了！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+The Vikings' tribe is lost!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -500,10 +687,9 @@ Der Stamm der Wikinger ist verloren!
 </text>
       </lang>
     </block>
-
     <block id="begin_14">
       <lang code="CHN">
-                <text>
+        <text>
 海卢兰人
 
 "站住！什么人？哦，恕罪--你们看来不像是敌人！
@@ -516,6 +702,22 @@ Der Stamm der Wikinger ist verloren!
 
 我们还能提供更多信息，但请先给我们些吃食！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+HELLULANDERS
+
+"Halt! Who goes there? Oh, pardon me - you don't look like an enemy!
+
+Once we were a mighty tribe, until an order which goes by the name "Keepers of Knowledge" began to spread in the north. We don't know why they call themselves that, but we wanted to find out.
+
+We sent our strongest and bravest men, along with a few diplomats, to bring them presents! But all they gave us in return was death and disaster. We never saw any of our emissaries alive again - not even our chieftain.
+
+These Keepers are evil, cunning and nasty; we were unable to drive them away. What is left of our tribe has been living in this forest ever since. We never want to see those Keepers again!"
+
+We could give you more information, but first you must give us some food!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -534,12 +736,17 @@ Wir können euch noch mehr Informationen geben, doch gebt uns erst etwas zu esse
 </text>
       </lang>
     </block>
-
     <block id="begin_15">
       <lang code="CHN">
-                <text>
+        <text>
 海卢兰人的部族已彻底毁灭！但这场胜利又给我们带来了什么？
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+The tribe of the Hellulanders had finally been destroyed! But what benefit did we gain from this victory?
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -548,12 +755,17 @@ Der Stamm der Helluländer war endgültig zerstört! Doch was hatte uns der Sieg
 </text>
       </lang>
     </block>
-
     <block id="begin_16">
       <lang code="CHN">
-                <text>
+        <text>
 我们转而对抗黄金蛮人，将他们永远驱逐。如今我们必须自谋出路，设法取得黄金。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+We had turned against the Goldmangies and driven them out forever. Now we had to see about getting the gold ourselves.
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -562,10 +774,9 @@ Wir hatten uns gegen die Goldmangies gewandt und sie für immer vertrieben. Nun 
 </text>
       </lang>
     </block>
-
     <block id="begin_17">
       <lang code="CHN">
-                <text>
+        <text>
 呃----嗯……
 
 我们海卢兰人还有个难题！我们的女子都在战乱中逃散，再寻不回！
@@ -577,6 +788,21 @@ Wir hatten uns gegen die Goldmangies gewandt und sie für immer vertrieben. Nun 
 
 若你们的女子愿意，请让她们前来我们城堡前那堆盛大的篝火旁。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+Erm ... 
+
+We Hellulanders still have a problem! All our women have fled in the war, and we can no longer find them! 
+Now there is nobody left to look after us, to cook good food and entertain us. Life without our women is so boring, therefore we would like to have a little party to cheer us up. But without any women, the best party is no fun at all ...
+
+What would you say if we invited three of your girls? They could dance and laugh and tell us stories. That would be wonderful, and it would brighten these sad days considerably. And we would promise to behave ourselves!
+
+In exchange you can buy cheap weapons and armour from our merchant. There is no fun in fighting without the prospect of winning the favour of a maiden anyway ...
+
+If your women would like to come, send them to the great fire in front of our castle.
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -594,14 +820,21 @@ Wenn eure Frauen mögen, sollen sie zu dem tollen Feuer vor unserer Burg kommen.
 </text>
       </lang>
     </block>
-
     <block id="begin_18">
       <lang code="CHN">
-                <text>
+        <text>
 守护者之败
 
 这些敲诈成性又危险至极的家伙，再不能蒙蔽我们了！如今我们可以追寻他们的秘密。它必在这某处！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE KEEPERS' DEFEAT
+
+These blackmailing and dangerous people would never cheat on us again! Now we would be able to look for their secret. It had to be here somewhere!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -612,10 +845,9 @@ Diese erpresserischen und gefährlichen Typen würden uns nicht mehr hinters Lic
 </text>
       </lang>
     </block>
-
     <block id="begin_19">
       <lang code="CHN">
-                <text>
+        <text>
 方尖碑
 
 终于，我们抵达了这趟艰辛旅程的终点！一座方尖碑直插云霄，其基座上镌刻着铭文。这必是令无形之物显形的公式！
@@ -624,6 +856,18 @@ Diese erpresserischen und gefährlichen Typen würden uns nicht mehr hinters Lic
 
 我们决定，驾一艘船、带上至少八名士兵--自然由我统领--前去拜访恐怖之雾。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE OBELISK
+
+Finally all our struggles were at an end! Before our eyes an obelisk stood tall against the sky. There was an inscription around its base. This had to be the formula that could make the invisible visible! 
+
+Yes - and there was also a hiding place where the Keepers had concealed the exact coordinates of the island in the fog.
+
+We decided to pay a little visit to the Fog of Horrors, taking one ship and at least eight soldiers - under my command, of course.
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -638,14 +882,21 @@ Wir beschlossen, mit einem Schiff und mindestens acht Soldaten - selbstredend un
 </text>
       </lang>
     </block>
-
     <block id="begin_20">
       <lang code="CHN">
-                <text>
+        <text>
 这面奇异的雾墙挡住了去路。我们无法看清其后隐藏着什么。我们必须了解更多，于是决意搜寻线索。
 
 该如何越过这道雾墙？雾的后面又有什么在等待我们？
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+This strange wall of fog barred our way. We ware unable to see what was behind it. We had had to find out more about it, so we decided to hunt for clues.
+
+How would we be able to pass through the wall of fog? And what would we find on the other side? 
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -656,16 +907,25 @@ Wie konnte man die Nebelwand überwinden? Und was würde uns hinter dem Nebel er
 </text>
       </lang>
     </block>
-
     <block id="begin_21">
       <lang code="CHN">
-                <text>
+        <text>
 旅程的终点
 
 我们终于再次归来，决意穿越这由迷雾与浓烟构成的诡谲之物……我们念出秘语--却似毫无反应。但比雅尼颈间所系的项链开始发光！雾气散开，我们看清了岛屿的轮廓！
 
 坐标果然无误！我们小心翼翼地向海岸驶去……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE JOURNEY'S END
+
+So here we were, and we had decided to pass through this strange shape of fog and smoke. We spoke the secret words - but nothing seemed to be happening. However, suddenly the chain around Bjarni's neck began to glow! The fog thinned and we could see the outline of the island!
+
+The coordinates were correct! Carefully we approached the coast ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -678,12 +938,17 @@ Die Koordinaten waren also richtig gewesen! Vorsichtig steuerten wir auf die Kü
 </text>
       </lang>
     </block>
-
     <block id="begin_22">
       <lang code="CHN">
-                <text>
+        <text>
 德鲁伊死了！我们终究未能将野狼挡在他之外！如今我们永远无从得知马克兰人本想告诉我们什么。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+The druid was dead! We had been unable to keep the wolves away from him! Now we would never find out what the Marklanders had wanted to tell us.
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -692,14 +957,21 @@ Der Druide war tot! Wir hatten es einfach nicht geschafft, die Wölfe von ihm fe
 </text>
       </lang>
     </block>
-
     <block id="begin_23">
       <lang code="CHN">
-                <text>
+        <text>
 看吧！你们终究还是缴了！谁说不是呢，为何不一开始就如此？！友谊如今连结我们的部族--作为见证，你们得到三十枚金币！看看你们的仓库吧！
 
 若你们早些行动，数目本可更多！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+Ah! Finally you have decided to pay! Why didn't you do so in the first place?! Friendship now exists between our tribes, and as proof you will receive 30 gold! Check your stores!
+
+It would have been more if you had been faster!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -710,16 +982,25 @@ Wäret ihr schneller gewesen, wäre es mehr geworden!
 </text>
       </lang>
     </block>
-
     <block id="begin_24">
       <lang code="CHN">
-                <text>
+        <text>
 我们险险逃过这场灾难，如今自己成了秘密的守护者。我们决定，若那蛇怪再度现身，便再次迎战！
 
 但只要危险暂消，我们便想回到妻儿身边，近期将冒险的冲动稍稍收敛……这对我们所有人都是一场大冒险，但如今，和平的时日将降临于我们与我们的新盟友。
 
 世界又一次得救--这几乎要成惯例了！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+We narrowly escaped the catastrophe, and now we had become the keepers of this secret. We decided to fight again should the serpent reappear!
+
+But for as long as the danger was banished, we would return to our women and keep our thirst for adventure in check for a while. This had been a great adventure for all of us, but now we hoped for more peaceful times for us and our allies.
+
+The world had been saved once more - it was almost becoming a routine for us!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -732,12 +1013,17 @@ Die Welt war wieder einmal gerettet - es schien fast zur Routine zu werden!
 </text>
       </lang>
     </block>
-
     <block id="begin_25">
       <lang code="CHN">
-                <text>
+        <text>
 祝好运--愿我们的德鲁伊活下来！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+Good luck - and may our druid survive!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -746,12 +1032,17 @@ Viel Glück - und möge unser Druide überleben!
 </text>
       </lang>
     </block>
-
     <block id="begin_26">
       <lang code="CHN">
-                <text>
+        <text>
 如今我们有了一艘船，可动身去寻找那片神秘迷雾……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+We now had a ship to begin searching for the mysterious fog ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -760,16 +1051,25 @@ Wir hatten nun ein Schiff, um uns auf die Suche nach dem geheimnisvollen Nebel z
 </text>
       </lang>
     </block>
-
     <block id="begin_27">
       <lang code="CHN">
-                <text>
+        <text>
 赢得的信任
 
 你们再次证明了自己的才干！你们确有能力、也配得上挺身对抗恐怖之雾！进入我们的村庄吧，它在东北方，你们自能寻得！
 
 去吧，将那邪恶从世界上解放出来。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+TRUST
+
+You were able to prove your virtue a second time! You are indeed able and worthy to confront the Fog of Horrors! Enter our village in the north-east!
+
+Now go and liberate the world from this evil!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -782,10 +1082,9 @@ Geht nun und befreit die Welt von jenem Übel!
 </text>
       </lang>
     </block>
-
     <block id="begin_28">
       <lang code="CHN">
-                <text>
+        <text>
 为酬谢你的奉献，我们愿告诉你所知之事：
 此处西北方的海域，似有异事发生！无论是东面的马克兰人，还是守护者，似乎都知之更多！马克兰人是个和平的部族--他们定会助你。
 
@@ -793,6 +1092,17 @@ Geht nun und befreit die Welt von jenem Übel!
 
 那究竟会是什么？
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+As a reward for your donation, we will tell you what we know:
+Strange things are said to be happening in the seas to the north-west! Both the Marklanders to the east and the Keepers seem to know more! The Marklanders are a peaceful tribe - they are bound to help you.
+
+But the Keepers are dangerous and unpredictable! You will have to visit them for more information, but be careful! People are saying that they conceal a treasure which is more valuable than all the gold of the Goldmangies!
+
+What can it be?
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -806,12 +1116,17 @@ Was könnte das nur sein?
 </text>
       </lang>
     </block>
-
     <block id="begin_29">
       <lang code="CHN">
-                <text>
+        <text>
 多谢，我们必守诺言！血盟连结我们的部族。那么--共享我们的货物吧！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+Thank you, we will be true to our word! We are now blood brothers. You may share our goods!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -820,12 +1135,18 @@ Danke, wir werden zu unserem Wort stehen! Blutsbrüderschaft verbindet unsere St
 </text>
       </lang>
     </block>
-
     <block id="header">
       <lang code="CHN">
-                <text>
+        <text>
 恐怖之雾
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE FOG OF HORRORS
+
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -835,12 +1156,17 @@ DER NEBEL DES GRAUENS
 </text>
       </lang>
     </block>
-
     <block id="lost">
       <lang code="CHN">
-                <text>
+        <text>
 任务失败！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+MISSION FAILED!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -849,12 +1175,17 @@ MISSION VERLOREN!
 </text>
       </lang>
     </block>
-
     <block id="won">
       <lang code="CHN">
-                <text>
+        <text>
 任务成功！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+MISSION COMPLETED!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -863,5 +1194,5 @@ MISSION GEWONNEN!
 </text>
       </lang>
     </block>
-</briefings>
+  </briefings>
 </localization>

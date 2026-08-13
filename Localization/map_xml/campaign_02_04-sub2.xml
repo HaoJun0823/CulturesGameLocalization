@@ -1,48 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_02_04-sub2" export_map_id="campaign_02_04-sub2" map_md5="60eea4f16983c31a073bd7c10968f4d0" IsC2M="false">
+<localization version="1.3" map_id="campaign_02_04-sub2" export_map_id="campaign_02_04-sub2" map_md5="60eea4f16983c31a073bd7c10968f4d0" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@解答神谕者的谜题！</text>
+      <text lang="eng">@Answer the oracle!</text>
       <text lang="ger">@Löse das Orakel!</text>
     </string>
     <string id="1">
       <text lang="CHN">寻找一处登陆点！</text>
+      <text lang="eng">Find a landing place!</text>
       <text lang="ger">Suche einen Landeplatz!</text>
     </string>
     <string id="2">
       <text lang="CHN">探查这片区域！</text>
+      <text lang="eng">Explore your surroundings!</text>
       <text lang="ger">Erforsche die Gegend!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的部族</text>
+      <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarni's Stamm</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
+      <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
+      <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
+      <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">伊科尔</text>
+      <text lang="eng">Ykol</text>
       <text lang="ger">Ykol</text>
     </string>
     <string id="99">
       <text lang="CHN">沉默者之岛 - 芬里尔之链 - 支线2</text>
+      <text lang="eng">THE ISLAND OF THE SILENT - The Chain of Fenrir - Sub2</text>
       <text lang="ger">INSEL DER SCHWEIGSAMEN - Die Kette des Fenris - Sub2</text>
     </string>
   </strings>
@@ -52,6 +63,11 @@
         <text>
 雾气散去，一座小巧静谧的岛屿海岸在眼前浮现。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+When the fog cleared, the shore of a small island appeared before us. 
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -66,6 +82,13 @@ Als sich der Nebel lichtete, tauchte vor uns das Ufer einer kleinen verträumten
 
 寻找一处登陆点！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+This was a place created for other beings, its peace and harmony were strange to us humans, but it was charming ...
+
+Find a landing place! 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -82,6 +105,13 @@ Suche einen Landeplatz!
 
 靠岸停船，让人们下船，去探索周边！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+There were good landing places on the shores of the island. We chose a small bay in the west to disembark. It was very quiet and peaceful, a silent magic rested here ...
+
+Moor the ship and let your people explore the area!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -102,6 +132,17 @@ Docke das Schiff an und lass die Leute von Bord gehen, um die Gegend zu erforsch
 解开神谕！
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+
+UNICORN
+
+In a clearing we met a bright and shining creature. It was as beautiful as something out of a fairytale, dazzling to our eyes. In its quiet and friendly language the unicorn told us that we were welcome, and that it would give us a magic horn of the unicorns if we solved the riddle surrounding this place. 
+It was like a dream - we understood every word without knowing the language ... 
+
+Answer the oracle!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 
@@ -120,6 +161,11 @@ Löse das Orakel!
 你们必须从开关上下来，否则独角兽不会开口！
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+You have to leave the switches, otherwise the unicorn will remain silent!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Du musst von den Schaltern herunter gehen, sonst schweigt das Einhorn!
@@ -133,6 +179,13 @@ Du musst von den Schaltern herunter gehen, sonst schweigt das Einhorn!
 
 “你们看，这是开关 A”
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+The unicorn said: "To answer my riddle, just step on one of the three switches. Remember the following symbols! If you don't solve the riddle, you must visit the island again!"
+
+"This is switch A."
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -149,6 +202,12 @@ Du musst von den Schaltern herunter gehen, sonst schweigt das Einhorn!
 “你们看，这是开关 B”
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+
+"This is switch B."
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -164,6 +223,14 @@ Du musst von den Schaltern herunter gehen, sonst schweigt das Einhorn!
 
 我的每个谜题都有 3 个可能的答案，但只有一个正确。按下对应开关来回答我！你们准备好猜谜了吗？
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+"This is switch C." 
+
+There are three possible answers to each of my riddles. But only one of them is correct. Answer me by pressing the right switch! Are you ready for the riddle?" 
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -185,6 +252,17 @@ Auf jedes meiner Rätsel gibt es 3 mögliche Antworten, aber nur eine davon ist 
         <text>
 是英勇，还是鲁莽？比雅尼死时，诸神也为之落泪……少了这位英雄，你便无从知晓任务的结局。
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -210,6 +288,17 @@ B) 埃里克・贡纳松
 C) 莱夫・埃里克松
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+RIDDLE 3
+
+"Who is Bjarni's father?" 
+
+A) Snoori Sturlarson
+B) Erick Gunnarson
+C) Leif Erickson
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 RÄTSEL 3
@@ -229,6 +318,12 @@ C) Leif Erickson
 答对了！！
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+
+CORRECT!!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 
@@ -247,6 +342,17 @@ RICHTIG!!
         <text>
 生命中片刻的鲁莽，转瞬即至！你的女英雄希拉因你的疏忽而殒命！少了这位女英雄，你便无从知晓任务的结局。
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your heroine Cyra died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -272,6 +378,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin C
 生命中片刻的鲁莽，转瞬即至！你的朋友与英雄哈奇因你的疏忽而殒命！少了这位英雄，你便无从知晓任务的结局。
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -295,6 +412,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
         <text>
 生命中片刻的鲁莽，转瞬即至！你的朋友与英雄西格德因你的疏忽而殒命！少了这位英雄，你便无从知晓任务的结局。
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Sigurd died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -320,6 +448,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 生命中片刻的鲁莽，转瞬即至！伊科尔因你的疏忽而殒命！少了这位英雄，你便无从知晓任务的结局。
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Ykol died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -338,6 +477,11 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Ykol erlag dur
 我们答对了谜题，从那生灵手中获赠一截兽角，其中蕴藏独角兽全部的魔法本领。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+We had solved the riddles. The being gave us a horn which contained all the magic powers of the unicorns.   
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Wir hatten die Rätsel richtig beantwortet und erhielten von dem Wesen ein Horn, das all die magischen Fähigkeiten der Einhörner in sich barg.   
@@ -349,6 +493,11 @@ Wir hatten die Rätsel richtig beantwortet und erhielten von dem Wesen ein Horn,
         <text>
 至此，第二种魔法原料也已寻得，我们可返回修道院。任务途中，还有更多惊险冒险等着我们……
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+Now we had found the second magic component, and we could return to the abbey. More exciting adventures still awaited us on our mission ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -362,6 +511,12 @@ Somit war auch die zweite magische Ingredienz gefunden und wir konnten uns zurü
 
 任务成功！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+
+MISSION COMPLETED! 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -377,6 +532,13 @@ MISSION GEWONNEN!
 
 答错了！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+NOPE!
+
+Wrong answer!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -397,6 +559,17 @@ A) 沙漠之舟
 B) 贝都因摇床
 C) 饼屎客
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+RIDDLE 1 
+
+"What is the tool of the thunder god Thor?" 
+
+A) Hammer 
+B) Pliers 
+C) Sickle
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -422,6 +595,17 @@ B) 6
 C) 5
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+RIDDLE 2
+
+"What did Old Mother Hubbard want to get out of the cupboard?" 
+
+A) Bone
+B) Bun
+C) Sausage
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 RÄTSEL 2
@@ -442,6 +626,13 @@ C) 5
 
 
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE ISLAND OF THE SILENT
+
+</text>
       </lang>
       <lang code="ger">
         <text>

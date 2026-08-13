@@ -1,88 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="demo_singleplayer_02" export_map_id="demo_singleplayer_02" map_md5="517af1d0aa4441712a62d6c858838111" IsC2M="false">
+<localization version="1.3" map_id="demo_singleplayer_02" export_map_id="demo_singleplayer_02" map_md5="517af1d0aa4441712a62d6c858838111" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="1">
       <text lang="CHN">探察桥那边的地域。</text>
+      <text lang="eng">Explore the area on the other side of the bridge.</text>
       <text lang="ger">Erforsche das Gebiet jenseits der Brücke.</text>
     </string>
     <string id="2">
       <text lang="CHN">@解救被诅咒的山谷</text>
+      <text lang="eng">@SAVE THE ENCHANTED VALLEY</text>
       <text lang="ger">@ERLÖSE DAS VERWUNSCHENE TAL</text>
     </string>
     <string id="3">
       <text lang="CHN">派比雅尼去见蒙瑟雷的信使。</text>
+      <text lang="eng">Send Bjarni to the messenger from Montseraine.</text>
       <text lang="ger">Schicke Bjarni zum Boten aus Montseraine.</text>
     </string>
     <string id="4">
       <text lang="CHN">给调停人 10 单位蜂蜜酒（作贡金），请他与强盗交涉。</text>
+      <text lang="eng">Give the negotiator 10 mead (as a tribute) so he can talk to the marauders.</text>
       <text lang="ger">Gib dem Unterhändler 10 Met (als Tribut), damit er mit den Räubern redet.</text>
     </string>
     <string id="5">
       <text lang="CHN">改变你对蒙瑟雷的立场。</text>
+      <text lang="eng">Change your attitude towards Montseraine.</text>
       <text lang="ger">Ändere deine Gesinnung gegenüber Montseraine.</text>
     </string>
     <string id="10">
       <text lang="CHN">解放圣地 1。</text>
+      <text lang="eng">Liberate the 1st place of worship.</text>
       <text lang="ger">Befreie Kultstätte 1.</text>
     </string>
     <string id="11">
       <text lang="CHN">解放圣地 2。</text>
+      <text lang="eng">Liberate the 2nd place of worship.</text>
       <text lang="ger">Befreie Kultstätte 2.</text>
     </string>
     <string id="12">
       <text lang="CHN">解放圣地 3。</text>
+      <text lang="eng">Liberate the 3rd place of worship.</text>
       <text lang="ger">Befreie Kultstätte 3.</text>
     </string>
     <string id="13">
       <text lang="CHN">解放圣地 4。</text>
+      <text lang="eng">Liberate the 4th place of worship.</text>
       <text lang="ger">Befreie Kultstätte 4.</text>
     </string>
     <string id="14">
       <text lang="CHN">解放圣地 5。</text>
+      <text lang="eng">Liberate the 5th place of worship.</text>
       <text lang="ger">Befreie Kultstätte 5.</text>
     </string>
     <string id="15">
       <text lang="CHN">解放圣地 6。</text>
+      <text lang="eng">Liberate the 6th place of worship.</text>
       <text lang="ger">Befreie Kultstätte 6.</text>
     </string>
     <string id="16">
       <text lang="CHN">解放圣地 7。</text>
+      <text lang="eng">Liberate the 7th place of worship.</text>
       <text lang="ger">Befreie Kultstätte 7.</text>
     </string>
     <string id="50">
       <text lang="CHN">维京人</text>
+      <text lang="eng">Vikings</text>
       <text lang="ger">Wikinger</text>
     </string>
     <string id="51">
       <text lang="CHN">蒙瑟雷</text>
+      <text lang="eng">Montseraine</text>
       <text lang="ger">Montseraine</text>
     </string>
     <string id="52">
       <text lang="CHN">蛇魔</text>
+      <text lang="eng">Serpent Demons</text>
       <text lang="ger">Schlangendämonen</text>
     </string>
     <string id="53">
       <text lang="CHN">山贼</text>
+      <text lang="eng">Mountain Marauders</text>
       <text lang="ger">Bergräuber</text>
     </string>
     <string id="63">
       <text lang="CHN">强盗</text>
+      <text lang="eng">Marauders</text>
       <text lang="ger">Räuber</text>
     </string>
     <string id="98">
       <text lang="CHN">蒙瑟雷那曾经安宁的山谷，如今遭黑暗恶魔侵扰。你受命寻得那些被亵渎的圣地，并将恶魔逐退。附新手提示！</text>
+      <text lang="eng">The once peaceful valley of Montseraine is haunted by evil demons. Your task is to find the desecrated sites and drive the demons away. With hints for beginners!</text>
       <text lang="ger">Das einst friedliche Tal von Montseraine wird von finsteren Dämonen heimgesucht. Du bekommst den Auftrag, die entweihten Kultstätten zu finden und die Dämonen zu vertreiben. Mit Einsteigertipps!</text>
     </string>
     <string id="99">
       <text lang="CHN">* 被诅咒的山谷 2</text>
+      <text lang="eng">* THE ENCHANTED VALLEY II</text>
       <text lang="ger">* DAS VERWUNSCHENE TAL II</text>
     </string>
     <string id="100">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
   </strings>
@@ -93,6 +114,13 @@
 你在旅途中和你的族人来到了一座偏僻的山谷。眼前绿草如茵、林木葱茏，一派宁静如画的景象。可这里分明有些不对劲。一种不祥的预感几乎触手可及。这里究竟发生了什么？西边，小桥的另一端，一座城市的塔楼拔地而起。这里到底发生了什么事？
 
 派一名侦察兵过桥往西，去探查那座城市。
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+On your travels, you and your people reach an isolated valley. Green meadows and forests lie before you. But there is something wrong. You get a strange feeling that there is something evil in the air. To the west, on the other side of the small bridge, you can see the towers of a city. What can have happened here?
+
+Send a scout westwards across the bridge and explore the city.
 </text>
       </lang>
       <lang code="ger">
@@ -107,6 +135,11 @@ Sende einen Kundschafter über die Brücke nach Westen und erkunde die Stadt.
       <lang code="CHN">
         <text>
 诅咒已被破除，山谷获得了解救！一百年来，居民们第一次无忧无虑地开怀大笑。国王信守诺言，要把半个王国送给你们，可你们礼貌地谢绝了，再次踏上游历世界的旅程，迎接新的冒险。
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+The curse has been broken, the valley is free! For the first time in 100 years, its inhabitants can laugh again. The king keeps his word and offers you half his kingdom, but you politely refuse, because you want to continue your travels in search of new adventures.
 </text>
       </lang>
       <lang code="ger">
@@ -125,6 +158,16 @@ Der Fluch ist gebrochen, das Tal erlöst! Zum ersten mal seit 100 Jahren hört m
         <text>
 你抛弃了他们所有人！奥丁震怒了！在他那长长的宴席上，不会有你的位置！
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Your entire tribe has died! 
+</text>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+You have let them all down! Odin is enraged! There will be no seat for you at his long table!
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\font12.fnt</font>
@@ -152,6 +195,26 @@ Du hast sie alle im Stich gelassen! Odin ist entzürnt! An seiner langen Tafel w
 
 为了不让这种力量蔓延，他用一把特殊的锁将它囚禁在自己体内。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+MONTSERAINE
+
+Your scouts reach the mighty city of Montseraine. But its former glory has long diminished. You can only see very few people on the streets, and all of them disappear in the doorways of their houses as soon as they catch sight of you. 
+
+</text>
+        <usericon>1,91,101</usericon>
+        <text>
+
+The king of this country asks you to visit him. Full of grief he tells you the story of this land: 
+
+100 years ago, his predecessor unleashed powers which should have remained hidden. Since then, the valley and its inhabitants have been cursed. Dreadful demons are wandering about in the ruins of the old places of worship. 
+The old ruler promises you half his kingdom if you find the seven places of worship and destroy the demonic guards there. Then the gate to hell will be closed and the curse will be broken.
+
+
+Find the seven ancient places of worship of this country and destroy the demonic guards.
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -182,6 +245,13 @@ Suche die sieben alten Kultstätten des Landes und vernichte die Dämonenwächte
 当比雅尼在敌人的压倒性优势下倒下时，你的维京人便士气尽失，你的族人四散而去。
 </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+When Bjarni falls under the superior strength of your adversary, your Vikings lose their spirit. Your tribe is scattered all over the country.
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\font12.fnt</font>
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
@@ -198,6 +268,16 @@ Als Bjarni unter der Übermacht des Feindes fällt, verlässt deine Wikinger all
 你已将被诅咒山谷中的七座魔法圣地之一从恶魔手中解放！
 
 随着一声可怖的巨响，那些恶徒消失得无影无踪。
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+EXCELLENT!
+
+You have liberated one of the seven magic places of worship in the enchanted valley from the demons! 
+
+With a dreadful sound, the monsters disappear to where they came from.
 </text>
       </lang>
       <lang code="ger">
@@ -221,6 +301,15 @@ Mit einem fürchterlichen Laut verschwinden die Unholde dorthin, woher sie gekom
 当最初的几名居民倒在你们剑下时，山谷的诅咒便转移到了你们身上。你们从此永远遭到诅咒！
 </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Reluctantly, your Vikings follow your orders and attack the enchanted tribe which asked you for help. 
+
+When the first inhabitants die under your swords, the curse of the valley rests on you. You are now cursed for all times!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\font12.fnt</font>
         <picture>$local$\graphics\People_Dead_F.pcx</picture>
@@ -239,6 +328,16 @@ Als die ersten Einwohner unter euren Schwertern fallen, geht der Fluch des Tales
 你发现了一个法兰克强盗的定居点，他们无视国王的一切禁令，开采着这座山上的珍贵矿藏。
 
 若想自己开采这里的黄金与铁矿，你得先把他们赶走！
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+MOUNTAIN MARAUDERS
+
+You have found a settlement of marauding Franks, who are mining the valuable resources of this mountain in spite of all the king's bans.
+
+If you want to extract the gold and iron here yourself, you will have to drive them away first!
 </text>
       </lang>
       <lang code="ger">
@@ -260,6 +359,16 @@ Wenn du selbst das Gold und das Eisen hier abbauen willst, wirst du sie zuerst v
 你为何要攻击那些向你求助的人？
 
 改变你的立场，否则你无法成功完成任务！
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+A CHANGE OF ATTITUDE?!
+
+Why do you want to attack those who asked you for help?
+
+Change your attitude or you will not be able to successfully complete your mission!
 </text>
       </lang>
       <lang code="ger">
@@ -288,6 +397,23 @@ Warum willst du jene angreifen, die dich um Hilfe baten?
 
 
 与比雅尼一同去见来自蒙瑟雷的信使。
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+NEGOTIATOR
+
+A messenger from Montseraine has reached our camp:
+
+</text>
+        <usericon>2,100</usericon>
+        <text>
+
+"Fetch your leader. I have to talk to him."
+
+
+Go to the messenger from Montseraine with Bjarni.
 </text>
       </lang>
       <lang code="ger">
@@ -332,6 +458,31 @@ Gehe mit Bjarni zum Boten aus Montseraine.
 交给调停人 10 桶蜂蜜酒（作贡金）。
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+
+NEGOTIATOR
+
+When Bjarni approaches the messenger, he receives an interesting offer:
+
+</text>
+        <usericon>2,100</usericon>
+        <text>
+
+"Greetings, valiant Bjarni. We have heard that you have had trouble with some marauders in this area.
+Since you are helping us fight the curse, I would like to help you as well. We have known these marauders for a long time, they leave our city in peace in exchange for our letting them mine here.
+One favour in return for another, you see ...
+
+Whatever - at the moment it would be better if they left you alone. I will try to talk to them.
+
+On the other hand - I need something I can offer them. Only death is for free and ... well, you know what I mean.
+
+If you give me 10 mead, I should be able to appease them."
+
+
+Give the negotiator 10 mead (as a tribute).
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -372,6 +523,20 @@ Liefere dem Unterhändler 10 Met (als Tributzahlung).
 但愿他能说服他们放下武器。
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+
+NEGOTIATOR
+
+You have given the negotiator the mead he asked for. He will make his way to the marauders.
+
+</text>
+        <usericon>2,100</usericon>
+        <text>
+
+"Thank you. I will see what I can do for you."
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -401,6 +566,20 @@ Als wir dem Unterhändler den gewünschten Met gaben, machte er such auf den Weg
 他们现在愿意与我们和平相处了。
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+
+SUCCESS!
+
+With the help of our mead, the negotiator has managed to appease the marauders!
+
+</text>
+        <usericon>2,100</usericon>
+        <text>
+
+From now on they will leave us alone.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -427,6 +606,16 @@ Von nun an würden sie und in Ruhe lassen.
         </text>
         <usericon>1,218,115</usericon>
       </lang>
+      <lang code="eng">
+        <text>
+
+WAR!
+
+You have broken the peace with the marauders and they have turned against you again!
+
+</text>
+        <usericon>1,218,115</usericon>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -449,6 +638,20 @@ Nachdem du den Frieden mit den Räubern gebrochen hast, wenden sie sich nun wied
 在周围寻找宝箱。它们有时藏得很隐蔽，但其中往往蕴含珍贵的宝物。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+HINT!
+
+Look for treasure chests in this area. Sometimes they are hidden, and they often contain valuable items!
+
+</text>
+        <usericon>1,141,180</usericon>
+        <text>
+
+You can open them using any of your people (select character, then right-click on the chest).
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -481,6 +684,22 @@ Du kannst sie von jedem deiner Leute öffnen lassen (Figur auswählen, dann Klic
 在这关演示任务中，只有你的英雄比雅尼在场。他能打开这样的箱子。
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+
+HINT!
+
+Magic chests are bigger than ordinary chests and usually contain especially valuable items. 
+
+</text>
+        <usericon>1,83,104</usericon>
+        <text>
+
+Magic chests can only be opened by a druid or one of your heroes.
+
+Only your hero Bjarni takes part in this demo mission. He can open such chests.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -506,6 +725,16 @@ An dieser Demo-Mission ist nur dein Held Bjarni beteiligt. Er kann solche Kisten
 
 他们会三思而后行。</text>
       </lang>
+      <lang code="eng">
+        <text>
+
+HINT!
+
+Build one or more defence towers to defend yourself against the marauders.
+
+Defence towers can be occupied by archers who will attack any enemy at a safe distance from the tower.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -526,6 +755,18 @@ Wachtürme können mit Bogenschützen besetzt werden, die aus dem Turm heraus au
 用一封信可在任何地方建
 
 造建筑--无需建造许可！</text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+HINT!
+
+You have just found a so-called "house permit".
+
+With these papers, you can erect a certain building without having to get your builders to construct it, and without using resources.
+
+House permits can be used via the extras window (the chest symbol in the top left of the menu bar).
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -554,6 +795,23 @@ Briefe können über das "Extras-Fenster" (das Schatztruhen-Symbol links oben in
 投石机需要一名士兵或英雄操作才能发挥作用。它们对付建筑和栅栏非常有效，但移动缓慢，还经不起攻击。
 
 投石机也能用来清出一条路、开辟建筑场地（“攻击位置”）。
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+HINT!
+
+You have found a catapult.
+
+</text>
+        <usericon>1,179,207</usericon>
+        <text>
+
+Catapults must be manned by a soldier or a hero.
+They are ideal against buildings or stockades, but slow and vulnerable to attack.
+
+Catapults can also be used to remove trees and thus create building space ("Attack Position").
 </text>
       </lang>
       <lang code="ger">
@@ -588,6 +846,27 @@ Katapulte können auch eingesetzt werden, um Bäume aus dem Weg zu räumen und s
 
 ，然后再将换来的货物运回你的总部。</text>
       </lang>
+      <lang code="eng">
+        <text>
+
+HINT!
+
+You can trade with the people from Montseraine.
+
+</text>
+        <usericon>1,100,114</usericon>
+        <text>
+
+To do so, you will require a merchant who can deliver the goods from your headquarters to the warehouse of Montseraine with a cart (handcart or ox cart) and who will then bring the traded goods to your headquarters.
+
+You can select one of the trade offers for each merchant.
+
+IMPORTANT!
+You can only trade with a people which has a friendly attitude towards you!
+
+You can also trade between your own warehouses if you want to distribute the goods better in your village.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -614,6 +893,13 @@ Du kannst auch Handel zwischen deinen eigenen Lagern treiben, wenn du die Waren 
       <lang code="CHN">
         <text>被诅咒的山谷</text>
       </lang>
+      <lang code="eng">
+        <text>
+
+THE ENCHANTED VALLEY
+
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -626,6 +912,13 @@ DAS VERWUNSCHENE TAL
       <lang code="CHN">
         <text>任务失败！</text>
       </lang>
+      <lang code="eng">
+        <text>
+
+MISSION FAILED!
+
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -637,6 +930,13 @@ MISSION VERLOREN!
     <block id="won">
       <lang code="CHN">
         <text>任务成功！</text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+MISSION COMPLETED!
+
+</text>
       </lang>
       <lang code="ger">
         <text>

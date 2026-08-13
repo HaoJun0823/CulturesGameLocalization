@@ -1,0 +1,7786 @@
+{
+ "map_xml": {
+  "_campaign_04_01.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 46,
+   "n_blocks": 33,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "51",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=12字 ratio=0.17 CHN=「石龙」 ger=「Steindrachen」"
+    },
+    {
+     "kind": "string",
+     "id": "52",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=12字 ratio=0.17 CHN=「火龙」 ger=「Feuerdrachen」"
+    },
+    {
+     "kind": "string",
+     "id": "53",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=13字 ratio=0.15 CHN=「水龙」 ger=「Wasserdrachen」"
+    }
+   ]
+  },
+  "_campaign_04_01_sub1.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 9,
+   "n_blocks": 9,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "header",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=12字 ratio=0.17 CHN=「海底」 ger=「UNTERDEMMEER」"
+    }
+   ]
+  },
+  "_campaign_04_01_sub2.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 12,
+   "n_blocks": 11,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "52",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=12字 ratio=0.17 CHN=「火龙」 ger=「Feuerdrachen」"
+    },
+    {
+     "kind": "string",
+     "id": "99",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=12字 ratio=0.17 CHN=「海底」 ger=「UNTERDEMMEER」"
+    },
+    {
+     "kind": "block",
+     "id": "00_start",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=27字 ger=153字 ratio=0.18 CHN=「而那座冰雕像就矗立在那里，挡住了通往阿夸里乌斯的去路！」 ger=「ManiundNorbertbetratenwiederdenWassertempelderAQUA」"
+    },
+    {
+     "kind": "block",
+     "id": "00_start1",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=84字 ger=57字 ratio=1.47 CHN=「阿夸里乌斯守卫“噢，我看你们带了一条卢米斯族的火龙来。它们怕」 ger=「Unddortwarsie,dieEisstatue,diedenWegzuAquariusvers」"
+    },
+    {
+     "kind": "block",
+     "id": "01",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=7字 ger=177字 ratio=0.04 CHN=「阿夸里乌斯守卫」 ger=「AQUARIUSWACHE\"Oh,wieichsehehabtihreinenderLumis,de」"
+    },
+    {
+     "kind": "block",
+     "id": "03",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=5字 ger=119字 ratio=0.04 CHN=「任务失败！」 ger=「AQUARIUS\"WillkommenimReichunterdemMeer!\"sprachAqua」"
+    },
+    {
+     "kind": "block",
+     "id": "500",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "500",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=18字 ger=172字 ratio=0.10 CHN=「睿智的格拉乌霍尔姆定会对此甚感欣慰！」 ger=「EinkleinerMomentdesLeichtsinns,soschnellkommtesimL」"
+    },
+    {
+     "kind": "block",
+     "id": "600",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    }
+   ]
+  },
+  "_campaign_04_01_sub3.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 15,
+   "n_blocks": 17,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "51",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=12字 ratio=0.17 CHN=「石龙」 ger=「Steindrachen」"
+    },
+    {
+     "kind": "string",
+     "id": "52",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=12字 ratio=0.17 CHN=「火龙」 ger=「Feuerdrachen」"
+    },
+    {
+     "kind": "string",
+     "id": "53",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=13字 ratio=0.15 CHN=「水龙」 ger=「Wasserdrachen」"
+    },
+    {
+     "kind": "string",
+     "id": "99",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=4字 ger=30字 ratio=0.13 CHN=「石龙圣殿」 ger=「DIEHEILIGEHALLEDERSTEINDRACHEN」"
+    },
+    {
+     "kind": "block",
+     "id": "01",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=27字 ger=24字 ratio=1.12 CHN=「格拉乌霍尔姆“你们当真做到了，化解了各族之间的芥蒂！”」 ger=「DIEWACHDRACHENUMGRAUHOLM」"
+    },
+    {
+     "kind": "block",
+     "id": "01",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=116字 ger=44字 ratio=2.64 CHN=「仅余一对尚未和好，不过我怀疑这两位并非因偏见、恐惧或嫉妒而争」 ger=「\"GRAUHOLMerwarteteuchbereits!Folgtunszuihm!\"」"
+    },
+    {
+     "kind": "block",
+     "id": "02",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=40字 ger=327字 ratio=0.12 CHN=「或许送几束鲜花、说几句编造的好话？于是玛尼与诺伯特采了几朵蓝」 ger=「Eineinzigeristnochübriggeblieben,dochichbezweifele」"
+    },
+    {
+     "kind": "block",
+     "id": "03",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=4字 ger=126字 ratio=0.03 CHN=「罗希尔德」 ger=「BLUMEN!ManiundNorbertmusstenbeiderVersöhnungderbei」"
+    },
+    {
+     "kind": "block",
+     "id": "05",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=6字 ger=78字 ratio=0.08 CHN=「布劳斯特伦普」 ger=「ROTHILD\"BlaueBlumen,diesindaberwunderschön!Wie?Die」"
+    },
+    {
+     "kind": "block",
+     "id": "500",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "600",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "header",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=4字 ger=30字 ratio=0.13 CHN=「石龙殿堂」 ger=「DIEHEILIGEHALLEDERSTEINDRACHEN」"
+    }
+   ]
+  },
+  "_campaign_04_02.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 30,
+   "n_blocks": 29,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "52",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=12字 ratio=0.17 CHN=「火龙」 ger=「Feuerdrachen」"
+    },
+    {
+     "kind": "block",
+     "id": "01",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=26字 ger=131字 ratio=0.20 CHN=「此处树木稀疏，留有充足建造空间，周遭亦不缺各类资源。」 ger=「DieBäumestandenhiernichtallzudichtbeieinanderundso」"
+    },
+    {
+     "kind": "block",
+     "id": "13",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=11字 ratio=0.18 CHN=「老者」 ger=「DERALTEMANN」"
+    },
+    {
+     "kind": "block",
+     "id": "14",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=11字 ratio=0.18 CHN=「老者」 ger=「DERALTEMANN」"
+    }
+   ]
+  },
+  "_campaign_04_02_sub1.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 4,
+   "n_blocks": 3,
+   "issues": []
+  },
+  "_campaign_04_02_sub2.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 8,
+   "n_blocks": 15,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "53",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=13字 ratio=0.15 CHN=「暗龙」 ger=「Dunkeldrachen」"
+    },
+    {
+     "kind": "string",
+     "id": "63",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=13字 ratio=0.15 CHN=「暗龙」 ger=「Dunkeldrachen」"
+    },
+    {
+     "kind": "block",
+     "id": "01",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=35字 ger=253字 ratio=0.14 CHN=「所有火把已点燃！我们之友派罗点燃了所有火把。通往火水晶的道路」 ger=「ALLEFACKELNENTZÜNDET!HieramEingangderHöhlewarennun」"
+    },
+    {
+     "kind": "block",
+     "id": "03",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=6字 ger=131字 ratio=0.05 CHN=「巨龙已败北！」 ger=「DUNKELDRACHENDurchdieGitterwändesahenwirschwarzeDr」"
+    },
+    {
+     "kind": "block",
+     "id": "04",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=24字 ger=149字 ratio=0.16 CHN=「巨龙已困入！我们做到了，所有暗龙都身陷彩虹之厅！」 ger=「DRACHENBESIEGT!WirhattendiefarblosenGeschöpfebesie」"
+    },
+    {
+     "kind": "block",
+     "id": "100",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "200",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "300",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "50_end",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=5字 ger=90字 ratio=0.06 CHN=「干得漂亮！」 ger=「WirhattendenKrisallimInnerenderHöhlegefunden!Nunmu」"
+    }
+   ]
+  },
+  "_campaign_04_03.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 45,
+   "n_blocks": 35,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "51",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=12字 ratio=0.17 CHN=「石龙」 ger=「Steindrachen」"
+    },
+    {
+     "kind": "string",
+     "id": "52",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=12字 ratio=0.17 CHN=「火龙」 ger=「Feuerdrachen」"
+    },
+    {
+     "kind": "string",
+     "id": "53",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=13字 ratio=0.15 CHN=「水龙」 ger=「Wasserdrachen」"
+    },
+    {
+     "kind": "string",
+     "id": "99",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=3字 ger=19字 ratio=0.16 CHN=「大迁居」 ger=「DIEGROSSEUMSIEDLUNG」"
+    },
+    {
+     "kind": "block",
+     "id": "01",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=11字 ger=66字 ratio=0.17 CHN=「已向神庙守卫缴纳贡品！」 ger=「WALDPOSTEN1-DIETEMPELWÄCHTER\"Willkommen!\"sprachend」"
+    },
+    {
+     "kind": "block",
+     "id": "03",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=10字 ger=158字 ratio=0.06 CHN=「铁制工具已交给采药人」 ger=「POSTEN2-KRÄUTERSAMMLER\"WirwürdenjagerneunsererArbe」"
+    },
+    {
+     "kind": "block",
+     "id": "04",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=28字 ger=175字 ratio=0.16 CHN=「格罗尔斯--石龙在嶙峋山脉中，我们遇见了古老的智慧石龙。」 ger=「EISENWERKZEUGANKRÄUTERSAMMLERGELIEFERT\"EinWerkzeug」"
+    },
+    {
+     "kind": "block",
+     "id": "06",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=7字 ger=118字 ratio=0.06 CHN=「哨站3--商人」 ger=「WIKINGERDORFDieWikingerindiesemLandstrichwarenüber」"
+    },
+    {
+     "kind": "block",
+     "id": "06",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=64字 ger=37字 ratio=1.73 CHN=「“进来开开眼吧，瞧瞧我的货色！我的价钱公道的！”商人老远便朝」 ger=「undbotenunsgünstigeHandelsverträgean.」"
+    },
+    {
+     "kind": "block",
+     "id": "07",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=8字 ger=112字 ratio=0.07 CHN=「已与商人交易货物」 ger=「POSTEN3-HÄNDLER\"KommthereinundbestauntmeineWaren!M」"
+    },
+    {
+     "kind": "block",
+     "id": "09",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=145字 ratio=0.01 CHN=「火龙」 ger=「FEUERDRACHEN\"WirsindnichtgutaufandereLebewesenzusp」"
+    },
+    {
+     "kind": "block",
+     "id": "10",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=5字 ger=97字 ratio=0.05 CHN=「任务失败！」 ger=「FEUERDRACHEN\"IhrseidwahreMeisterbäcker!UnsereUnter」"
+    },
+    {
+     "kind": "block",
+     "id": "100",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "11",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=13字 ger=162字 ratio=0.08 CHN=「水龙森林村庄学校已迎来学生」 ger=「POSTEN4-WALDSCHULEDERWASSERDRACHEN\"Achhättewirnurg」"
+    },
+    {
+     "kind": "block",
+     "id": "13",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=109字 ratio=0.02 CHN=「老者」 ger=「POSTEN5-SCHULEAMPALMENHAIN\"UnsereKindersindäußerst」"
+    },
+    {
+     "kind": "block",
+     "id": "14",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=52字 ger=307字 ratio=0.17 CHN=「如今我们寻遍了所有守护者哨站，并施以援手。他们当真助益良多，」 ger=「\"MitdenNapalianernistnichtzuspaßen!Sobaldmansichin」"
+    },
+    {
+     "kind": "block",
+     "id": "15",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=5字 ger=199字 ratio=0.03 CHN=「毒云已清除」 ger=「ALLEPOSTENDERWALDHÜTERNunhattenwirallePostenderWal」"
+    },
+    {
+     "kind": "block",
+     "id": "16",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text', 'usericon']"
+    },
+    {
+     "kind": "block",
+     "id": "18",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=5字 ger=75字 ratio=0.07 CHN=「纳帕利亚人」 ger=「AQUAS-DIEWASSERDRACHENWirsindfriedliebendeDrachen.」"
+    },
+    {
+     "kind": "block",
+     "id": "19",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=5字 ger=68字 ratio=0.07 CHN=「纳帕利亚人」 ger=「NAPALIANER\"KeinenSchrittnäher!Wirwerdensonstunsere」"
+    },
+    {
+     "kind": "block",
+     "id": "200",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "21",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=30字 ger=181字 ratio=0.17 CHN=「纳帕利亚人败北！纳帕利亚人虽被击败，可若当初本也能和平了结？」 ger=「TRIBUTGELEISTET!\"NunwerdenwirunsereHaltungzueuchüb」"
+    },
+    {
+     "kind": "block",
+     "id": "500",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "50_end1",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=5字 ger=166字 ratio=0.03 CHN=「干得漂亮！」 ger=「Ihnentatesleid,unssolchgroßeSorgenbereitetzuhaben,」"
+    },
+    {
+     "kind": "block",
+     "id": "600",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "header",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=3字 ger=19字 ratio=0.16 CHN=「大迁徙」 ger=「DIEGROSSEUMSIEDLUNG」"
+    }
+   ]
+  },
+  "_campaign_04_03_sub1.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 9,
+   "n_blocks": 13,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "99",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=12字 ratio=0.17 CHN=「海底」 ger=「UNTERDEMMEER」"
+    },
+    {
+     "kind": "block",
+     "id": "01",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=110字 ratio=0.02 CHN=「船只」 ger=「WASSERDRACHEN\"WillkommeninunseremWassertempel.Erdl」"
+    },
+    {
+     "kind": "block",
+     "id": "02",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=47字 ger=7字 ratio=6.71 CHN=「阿夸罗姆与控制台“久站这控制台，我真乏了，可它对海底的我们必」 ger=「SCHIFFE」"
+    },
+    {
+     "kind": "block",
+     "id": "03",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=8字 ger=148字 ratio=0.05 CHN=「阿夸罗姆与控制台」 ger=「AQUARUMUNDDERSCHALTER\"IchbinmüdevomStehenaufdiesem」"
+    },
+    {
+     "kind": "block",
+     "id": "100",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "200",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    }
+   ]
+  },
+  "_campaign_04_04.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 41,
+   "n_blocks": 39,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "56",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=13字 ratio=0.15 CHN=「水龙」 ger=「Wasserdrachen」"
+    },
+    {
+     "kind": "string",
+     "id": "99",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=4字 ger=22字 ratio=0.18 CHN=「解放土龙」 ger=「BEFREIUNGDERERDDRACHEN」"
+    },
+    {
+     "kind": "block",
+     "id": "01",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=42字 ger=454字 ratio=0.09 CHN=「他们还向我们讲起或许最强大的龙族：魔法龙。若说有谁能助我们完」 ger=「SieerzähltenunsvonihrerfrüherenGemeinschaftmitdenD」"
+    },
+    {
+     "kind": "block",
+     "id": "02",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=8字 ger=200字 ratio=0.04 CHN=「牧人民族的雇佣兵」 ger=「SCHUHEGELIEFERT!WirhattendenHirtendieSchuhezumTrib」"
+    },
+    {
+     "kind": "block",
+     "id": "03",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=6字 ger=158字 ratio=0.04 CHN=「哨塔已建成！」 ger=「SÖLDNERvomHIRTENVOLK\"Ihrscheintsehrtapferzusein!Wi」"
+    },
+    {
+     "kind": "block",
+     "id": "07",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=4字 ger=227字 ratio=0.02 CHN=「隐形药剂」 ger=「WARENANZAUBERDRACHENGELIEFERT!WirhattendieWarenden」"
+    },
+    {
+     "kind": "block",
+     "id": "08",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=161字 ratio=0.01 CHN=「水龙」 ger=「UNSICHTBARKEITSTRANKDieZauberdrachenüberreichtende」"
+    },
+    {
+     "kind": "block",
+     "id": "09",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=13字 ratio=0.15 CHN=「水龙」 ger=「WASSERDRACHEN」"
+    },
+    {
+     "kind": "block",
+     "id": "10",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=5字 ger=128字 ratio=0.04 CHN=「任务失败！」 ger=「WASSERDRACHEN\"Ihrhabtsieunsunversehrtwiedergebrach」"
+    },
+    {
+     "kind": "block",
+     "id": "100",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "11",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=5字 ger=196字 ratio=0.03 CHN=「纳帕利亚人」 ger=「WASSERDRACHENBEFREIT!\"EndlichsindwirausdenFängendi」"
+    },
+    {
+     "kind": "block",
+     "id": "14",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=35字 ger=192字 ratio=0.18 CHN=「“你无权闯入地牢。去助牧人民族与水龙，再带英雄回来，那时便放」 ger=「WirhattenBABULdenenormenTributbezahltundsogabensie」"
+    },
+    {
+     "kind": "block",
+     "id": "16",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=8字 ger=111字 ratio=0.07 CHN=「纳帕利亚人败北！」 ger=「TRIBUTANBABULÜBERREICHT!\"FürsErstestehenwirneutral」"
+    },
+    {
+     "kind": "block",
+     "id": "17",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=30字 ger=18字 ratio=1.67 CHN=「魔法之地我们撞见传送装置。可惜出口必被封死，于我们毫无用处。」 ger=「NAPALIANERBESIEGT!」"
+    },
+    {
+     "kind": "block",
+     "id": "200",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "200",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=26字 ger=154字 ratio=0.17 CHN=「哎呀，水龙死了。没了它们，任务的结局将永远对你隐藏！」 ger=「EinkleinerMomentdesLeichtsinns,soschnellkommtesimL」"
+    },
+    {
+     "kind": "block",
+     "id": "26",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=8字 ger=76字 ratio=0.11 CHN=「传送装置已激活！」 ger=「ALLEWASSERDRACHENBEFREIT!NunhattenwirendlichalleWa」"
+    },
+    {
+     "kind": "block",
+     "id": "26",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=24字 ger=173字 ratio=0.14 CHN=「为感解放水龙之恩，水龙们激活了沙漠中的传送装置。」 ger=「AlleerzähltenunsvondenseltenenErddrachen.Dienieman」"
+    },
+    {
+     "kind": "block",
+     "id": "27",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=13字 ger=109字 ratio=0.12 CHN=「地龙！我们终于寻得了地龙！」 ger=「TELEPORTERAKTIVIERT!ZumDankfürdieBefreiungderWasse」"
+    },
+    {
+     "kind": "block",
+     "id": "500",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "50_end1",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=5字 ger=314字 ratio=0.02 CHN=「任务胜利！」 ger=「Maniindesswartraurig,danunderAbschiedvonseinembest」"
+    },
+    {
+     "kind": "block",
+     "id": "600",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    }
+   ]
+  },
+  "_campaign_04_04_sub1.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 13,
+   "n_blocks": 12,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "01",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=5字 ger=71字 ratio=0.07 CHN=「斯普鲁德尔」 ger=「GULP\"IhrhabtwahrlichGroßesvollbracht,unsereStammes」"
+    },
+    {
+     "kind": "block",
+     "id": "01",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=33字 ger=194字 ratio=0.17 CHN=「“你们认出我了！难不成那饶舌的斯普鲁德尔，当真钻进了你们的脑」 ger=「\"Habtihrsieeucheingeprägt,wißtihrnoch,wiesieheißen」"
+    },
+    {
+     "kind": "block",
+     "id": "03",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=9字 ger=64字 ratio=0.14 CHN=「“你们认出我了！”」 ger=「\"Ihrhabtmicherkannt!NIXEwirdeuchauchimmerimHerzenb」"
+    },
+    {
+     "kind": "block",
+     "id": "04",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=43字 ger=21字 ratio=2.05 CHN=「是英勇，还是鲁莽？比雅尼陨落之时，诸神落泪……少了这位英雄，」 ger=「\"Ihrhabtmicherkannt!\"」"
+    },
+    {
+     "kind": "block",
+     "id": "100",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "200",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "50_end",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=33字 ger=219字 ratio=0.15 CHN=「为感救命之恩，也因它们于我们不止是寻常龙族，阿夸斯激活了传送」 ger=「ÜBERRASCHUNG!\"EigentlichsinddieWasserfällenichtsan」"
+    },
+    {
+     "kind": "block",
+     "id": "50_end1",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=5字 ger=106字 ratio=0.05 CHN=「干得漂亮！」 ger=「ZumDankfürihreRettung,undweilsiefürunsmehrwarenals」"
+    },
+    {
+     "kind": "block",
+     "id": "header",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=3字 ger=18字 ratio=0.17 CHN=「三瀑布」 ger=「DIEDREIWASSERFÄLLE」"
+    }
+   ]
+  },
+  "_campaign_04_04_sub2.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 17,
+   "n_blocks": 19,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "00_start1",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=19字 ger=166字 ratio=0.11 CHN=「纳帕利亚人“你们竟敢闯进地牢？找死！”」 ger=「DieGefangenenwürdengutbewachtwerden.Aberesgabinkab」"
+    },
+    {
+     "kind": "block",
+     "id": "03",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=13字 ratio=0.15 CHN=「水龙」 ger=「ZAUBERDRACHEN」"
+    },
+    {
+     "kind": "block",
+     "id": "03",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=26字 ger=149字 ratio=0.17 CHN=「“我们本是纳帕利亚人易擒的猎物。多谢你们救了我们。”」 ger=「\"DieseNapalianertreibenüberallihrUnwesen.Wirdachte」"
+    },
+    {
+     "kind": "block",
+     "id": "05",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=10字 ger=71字 ratio=0.14 CHN=「纳帕利亚人已被击败！」 ger=「MiteinemgewaltigenKnarrenöffnetensichzweischwereHo」"
+    },
+    {
+     "kind": "block",
+     "id": "100",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "200",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "500",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "600",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    }
+   ]
+  },
+  "_campaign_04_05.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 43,
+   "n_blocks": 35,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "51",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=12字 ratio=0.17 CHN=「石龙」 ger=「Steindrachen」"
+    },
+    {
+     "kind": "string",
+     "id": "52",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=12字 ratio=0.17 CHN=「火龙」 ger=「Feuerdrachen」"
+    },
+    {
+     "kind": "string",
+     "id": "53",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=13字 ratio=0.15 CHN=「水龙」 ger=「Wasserdrachen」"
+    },
+    {
+     "kind": "block",
+     "id": "01",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=11字 ger=78字 ratio=0.14 CHN=「已向神庙守卫缴纳贡品！」 ger=「WALDPOSTEN1-DIETEMPELWÄCHTER\"Schöneuchwiederzusehe」"
+    },
+    {
+     "kind": "block",
+     "id": "03",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=10字 ger=233字 ratio=0.04 CHN=「已向采药人缴纳贡品！」 ger=「POSTEN2-KRÄUTERSAMMLER\"DamalshabtihrunsneuesWerkze」"
+    },
+    {
+     "kind": "block",
+     "id": "04",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=37字 ger=221字 ratio=0.17 CHN=「格罗尔斯的山脉--石龙往昔嶙峋山脉中曾有古老智慧的石龙，如今」 ger=「TRIBUTANKRÄUTERSAMMLERBEZAHLT!\"DerPosten,derursprü」"
+    },
+    {
+     "kind": "block",
+     "id": "06",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=4字 ger=170字 ratio=0.02 CHN=「商人哨站」 ger=「WIKINGERDORF\"Esistschlimmergeworden,seitdemihrwegw」"
+    },
+    {
+     "kind": "block",
+     "id": "06",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=70字 ger=55字 ratio=1.27 CHN=「“你们回来了！这下一切定会好转！”“受纳帕利亚人侵扰，我不幸」 ger=「\"WirsteheneuchmitallemwasunszurVerfügungstehtzurSe」"
+    },
+    {
+     "kind": "block",
+     "id": "07",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=8字 ger=59字 ratio=0.14 CHN=「已与商人交易货物」 ger=「HÄNDLERPOSTEN\"Ihrseidwiederda!Nunwirdsicheralleswi」"
+    },
+    {
+     "kind": "block",
+     "id": "100",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "11",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=8字 ger=377字 ratio=0.02 CHN=「水龙森林村庄学校」 ger=「PROF.WAMUGO\"IchhabemeinenUnterrichtindenPalmenhain」"
+    },
+    {
+     "kind": "block",
+     "id": "12",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=5字 ger=30字 ratio=0.17 CHN=「棕榈林学堂」 ger=「WALDDORFSCHULEDERWASSERDRACHEN」"
+    },
+    {
+     "kind": "block",
+     "id": "13",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=102字 ratio=0.02 CHN=「老者」 ger=「SCHULEAMPALMENHAIN\"Ihrseidzurück!UnsereKinderhaben」"
+    },
+    {
+     "kind": "block",
+     "id": "13",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=52字 ger=22字 ratio=2.36 CHN=「“纳帕利亚人愈发猖狂……如今毒云笼罩两处据点，森林哨站的家养」 ger=「GehezuProfessorWAMUGO.」"
+    },
+    {
+     "kind": "block",
+     "id": "15",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=5字 ger=114字 ratio=0.04 CHN=「毒云已清除」 ger=「ALLEORANGENENDRACHEN!NunhattenwirdiePostenderWaldh」"
+    },
+    {
+     "kind": "block",
+     "id": "16",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=130字 ratio=0.02 CHN=「老者」 ger=「GIFTWOLKEBESEITIGTInWindeseilesammeltensichdieHaus」"
+    },
+    {
+     "kind": "block",
+     "id": "17",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=40字 ger=11字 ratio=3.64 CHN=「阿夸斯--水龙“总有不宁之人惹事，实在可耻。我们爱好和平之龙」 ger=「DERALTEMANN」"
+    },
+    {
+     "kind": "block",
+     "id": "18",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=5字 ger=137字 ratio=0.04 CHN=「纳帕利亚人」 ger=「AQUAS-DIEWASSERDRACHEN\"EsisteineSchande,dassimmerw」"
+    },
+    {
+     "kind": "block",
+     "id": "18",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=36字 ger=207字 ratio=0.17 CHN=「“敢再靠近一步！我们绝不会再上当受骗！”“滚开，否则我们被迫」 ger=「\"...aberunterdiesenUmständenbleibtunsnichtsanderes」"
+    },
+    {
+     "kind": "block",
+     "id": "19",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=5字 ger=80字 ratio=0.06 CHN=「纳帕利亚人」 ger=「NAPALIANER\"KeinenSchrittnäher!Nocheinmalwerdenwiru」"
+    },
+    {
+     "kind": "block",
+     "id": "19",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=70字 ger=52字 ratio=1.35 CHN=「“这是你们自找的！我们的武器会将你们消灭。缴纳贡品，我们便重」 ger=「\"Geht,oderwirsindgezwungenunsereWaffenzugebrauchen」"
+    },
+    {
+     "kind": "block",
+     "id": "200",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "21",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=30字 ger=167字 ratio=0.18 CHN=「纳帕利亚人败北！纳帕利亚人虽被击败，可若当初本也能和平了结？」 ger=「TRIBUTGELEISTET!\"NunwerdenwirunsereHaltungzueuchüb」"
+    },
+    {
+     "kind": "block",
+     "id": "23",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=5字 ger=120字 ratio=0.04 CHN=「龙族相助！」 ger=「ALLEDRACHENVERSAMMELT!Eswarunglaublich!AusalleHimm」"
+    },
+    {
+     "kind": "block",
+     "id": "23",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=29字 ger=22字 ratio=1.32 CHN=「不可思议！四面八方的老友--龙族，纷纷涌来助我们一臂之力！」 ger=「UnterihnenauchNorbert.」"
+    },
+    {
+     "kind": "block",
+     "id": "24",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=5字 ger=119字 ratio=0.04 CHN=「任务失败！」 ger=「HILFEDURCHDIEDRACHEN!Eswarunglaublich!AusalleHimme」"
+    },
+    {
+     "kind": "block",
+     "id": "24",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=54字 ger=49字 ratio=1.10 CHN=「一时的轻率，生命便转瞬即逝！比雅尼与希拉之子玛尼，因你的疏忽」 ger=「NunkonntenwirgemeinsamgegendieNapalianervorgehen!」"
+    },
+    {
+     "kind": "block",
+     "id": "500",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "50_end1",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=5字 ger=319字 ratio=0.02 CHN=「战役胜利！」 ger=「DieschönsteFreudejedochwaresNorbertwiederindieArme」"
+    },
+    {
+     "kind": "block",
+     "id": "50_endheader",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=61字 ger=17字 ratio=3.59 CHN=「任务失败！一时的轻率，生命便转瞬即逝！你的挚友、英雄之龙诺伯」 ger=「KAMPAGNEGEWONNEN!」"
+    },
+    {
+     "kind": "block",
+     "id": "600",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    }
+   ]
+  },
+  "_campaign_04_05_sub1.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 5,
+   "n_blocks": 3,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "99",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=12字 ratio=0.17 CHN=「海底」 ger=「UNTERDEMMEER」"
+    },
+    {
+     "kind": "block",
+     "id": "header",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=12字 ratio=0.17 CHN=「海底」 ger=「UNTERDEMMEER」"
+    }
+   ]
+  },
+  "campaign_01_01.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 23,
+   "n_blocks": 34,
+   "issues": []
+  },
+  "campaign_01_02-sub.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 9,
+   "n_blocks": 10,
+   "issues": []
+  },
+  "campaign_01_02.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 20,
+   "n_blocks": 47,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "schreinerei4",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=40字 ger=201字 ratio=0.20 CHN=「提示木匠已积累足够经验，可制造牛车。这需要再次升级木工坊。日」 ger=「HINWEISDerSchreinerhatnungenügendErfahrunggesammel」"
+    },
+    {
+     "kind": "block",
+     "id": "töpferei3",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=31字 ger=156字 ratio=0.20 CHN=「提示陶匠制作瓷砖的经验已足，可制作器皿。这需要再次升级陶艺坊」 ger=「HINWEISDerTöpferhatnungenügendErfahrungbeiderHerst」"
+    }
+   ]
+  },
+  "campaign_01_03.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 33,
+   "n_blocks": 34,
+   "issues": []
+  },
+  "campaign_01_04-sub.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 4,
+   "n_blocks": 9,
+   "issues": []
+  },
+  "campaign_01_04.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 17,
+   "n_blocks": 27,
+   "issues": []
+  },
+  "campaign_01_05-sub.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 7,
+   "n_blocks": 6,
+   "issues": []
+  },
+  "campaign_01_05.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 19,
+   "n_blocks": 26,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "53",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=14字 ratio=0.14 CHN=「桥卫」 ger=「Brückenwächter」"
+    },
+    {
+     "kind": "block",
+     "id": "end_00",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['font', 'text', 'font', 'text'] ger=['text', 'font', 'text']"
+    }
+   ]
+  },
+  "campaign_01_06.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 12,
+   "n_blocks": 17,
+   "issues": []
+  },
+  "campaign_01_07.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 17,
+   "n_blocks": 20,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "53",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=14字 ratio=0.14 CHN=「桥卫」 ger=「Brückenwächter」"
+    },
+    {
+     "kind": "string",
+     "id": "54",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=11字 ratio=0.18 CHN=「难民」 ger=「Flüchtlinge」"
+    }
+   ]
+  },
+  "campaign_01_08.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 25,
+   "n_blocks": 30,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "13",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "15",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "17",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "bjarnitot",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "lampe_00",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'text']"
+    }
+   ]
+  },
+  "campaign_01_09-sub.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 6,
+   "n_blocks": 4,
+   "issues": []
+  },
+  "campaign_01_09.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 2,
+   "n_blocks": 18,
+   "issues": []
+  },
+  "campaign_01_10-sub.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 8,
+   "n_blocks": 21,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "51",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=16字 ratio=0.12 CHN=「蛇卫」 ger=「Schlangenwächter」"
+    },
+    {
+     "kind": "string",
+     "id": "52",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=16字 ratio=0.12 CHN=「蛇卫」 ger=「Schlangenwächter」"
+    },
+    {
+     "kind": "block",
+     "id": "3",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "4",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "5",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "bjarnitot",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "won",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'text']"
+    }
+   ]
+  },
+  "campaign_01_10.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 31,
+   "n_blocks": 25,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "bjarnitot",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "end_00",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "hatschitot",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "heldtot",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    }
+   ]
+  },
+  "campaign_01_11.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 8,
+   "n_blocks": 7,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "51",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=13字 ratio=0.15 CHN=「蛇族」 ger=「Schlangenvolk」"
+    }
+   ]
+  },
+  "campaign_02_01.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 27,
+   "n_blocks": 29,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "55",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=3字 ger=16字 ratio=0.19 CHN=「蛇战士」 ger=「Schlangenkrieger」"
+    }
+   ]
+  },
+  "campaign_02_02-sub.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 8,
+   "n_blocks": 30,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "51",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=3字 ger=16字 ratio=0.19 CHN=「蛇战士」 ger=「Schlangenkrieger」"
+    }
+   ]
+  },
+  "campaign_02_02.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 25,
+   "n_blocks": 27,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "55",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=3字 ger=16字 ratio=0.19 CHN=「蛇战士」 ger=「Schlangenkrieger」"
+    },
+    {
+     "kind": "string",
+     "id": "99",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=3字 ger=19字 ratio=0.16 CHN=「大饥荒」 ger=「DIEGROSSEHUNGERSNOT」"
+    },
+    {
+     "kind": "block",
+     "id": "header",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=3字 ger=19字 ratio=0.16 CHN=「大饥荒」 ger=「DIEGROSSEHUNGERSNOT」"
+    }
+   ]
+  },
+  "campaign_02_03.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 25,
+   "n_blocks": 25,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "99",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=11字 ratio=0.18 CHN=「故友」 ger=「ALTEFREUNDE」"
+    },
+    {
+     "kind": "block",
+     "id": "header",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=11字 ratio=0.18 CHN=「老友」 ger=「ALTEFREUNDE」"
+    }
+   ]
+  },
+  "campaign_02_04-sub1.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 10,
+   "n_blocks": 18,
+   "issues": []
+  },
+  "campaign_02_04-sub2.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 10,
+   "n_blocks": 22,
+   "issues": []
+  },
+  "campaign_02_04.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 38,
+   "n_blocks": 29,
+   "issues": []
+  },
+  "campaign_02_05.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 28,
+   "n_blocks": 20,
+   "issues": []
+  },
+  "campaign_02_06.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 16,
+   "n_blocks": 18,
+   "issues": []
+  },
+  "campaign_02_07-sub.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 12,
+   "n_blocks": 19,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "52",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=3字 ger=16字 ratio=0.19 CHN=「蛇战士」 ger=「Schlangenkrieger」"
+    }
+   ]
+  },
+  "campaign_02_07.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 26,
+   "n_blocks": 31,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "53",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=3字 ger=16字 ratio=0.19 CHN=「蛇战士」 ger=「Schlangenkrieger」"
+    }
+   ]
+  },
+  "campaign_02_08.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 16,
+   "n_blocks": 21,
+   "issues": []
+  },
+  "campaign_03_01.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 42,
+   "n_blocks": 51,
+   "issues": []
+  },
+  "campaign_03_01_sub.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 11,
+   "n_blocks": 15,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "99",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=15字 ratio=0.13 CHN=「圣火」 ger=「DASHEILIGEFEUER」"
+    },
+    {
+     "kind": "block",
+     "id": "00_start",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "02",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text'] ger=['text', 'usericon']"
+    },
+    {
+     "kind": "block",
+     "id": "03",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "04",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text'] ger=['text', 'usericon']"
+    },
+    {
+     "kind": "block",
+     "id": "05",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "100",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "200",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "300",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "400",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "50_end",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text'] ger=['text', 'usericon']"
+    },
+    {
+     "kind": "block",
+     "id": "header",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=15字 ratio=0.13 CHN=「圣火」 ger=「DASHEILIGEFEUER」"
+    }
+   ]
+  },
+  "campaign_03_02.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 44,
+   "n_blocks": 38,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "01",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "04",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "05",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "06",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "07",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text', 'text'] ger=['text', 'usericon', 'text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "08",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text'] ger=['text', 'usericon']"
+    },
+    {
+     "kind": "block",
+     "id": "100",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "11",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "12",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text'] ger=['text', 'usericon']"
+    },
+    {
+     "kind": "block",
+     "id": "15",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text'] ger=['text', 'usericon']"
+    },
+    {
+     "kind": "block",
+     "id": "17",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "19",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "20",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "200",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "23",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "24",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "25",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "300",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "400",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "500",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "600",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    }
+   ]
+  },
+  "campaign_03_02_sub.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 17,
+   "n_blocks": 18,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "51",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=1字 ger=7字 ratio=0.14 CHN=「龙」 ger=「Drachen」"
+    },
+    {
+     "kind": "string",
+     "id": "61",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=1字 ger=7字 ratio=0.14 CHN=「龙」 ger=「Drachen」"
+    },
+    {
+     "kind": "block",
+     "id": "00_start",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text'] ger=['text', 'usericon']"
+    },
+    {
+     "kind": "block",
+     "id": "01",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "05",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "06",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text'] ger=['text', 'usericon']"
+    },
+    {
+     "kind": "block",
+     "id": "07",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text', 'text'] ger=['text', 'usericon', 'text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "100",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "200",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "300",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "400",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "500",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "50_end",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text'] ger=['text', 'usericon']"
+    }
+   ]
+  },
+  "campaign_03_03.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 60,
+   "n_blocks": 74,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "00_start1",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=65字 ger=364字 ratio=0.18 CHN=「我们在罗德岛附近的一座小岛上登陆，补充给养，稍作休整。最终我」 ger=「WirwarenaufeinerkleinenInselnaheRhodosgelandet,umu」"
+    },
+    {
+     "kind": "block",
+     "id": "00_start2",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=100字 ger=975字 ratio=0.10 CHN=「归乡我们刚一靠岸卸货，儿子玛尼便骤然昏倒，不省人事地躺在沙滩」 ger=「DIEHEIMREISEWirhattenkaumangelegtunddieSchiffeentl」"
+    },
+    {
+     "kind": "block",
+     "id": "00_start3",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=60字 ger=557字 ratio=0.11 CHN=「我们刚离开船只，便听见远方传来厮杀声与号角！我们一时难以辨明」 ger=「KaumdasswirunserSchiffverließen,hörtenwirKriegslär」"
+    },
+    {
+     "kind": "block",
+     "id": "10",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=67字 ger=368字 ratio=0.18 CHN=「奥克索斯这是奥克索斯岛。一座小巧而宁静的孤岛。宜作短途度假，」 ger=「OXIDOSDiesistdieInselOxidos.Einkleines,sehrbeschau」"
+    },
+    {
+     "kind": "block",
+     "id": "100",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "20",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=51字 ger=263字 ratio=0.19 CHN=「克洛诺斯你抵达了克洛诺斯。此处住着武器商与货商，他们以精良货」 ger=「CHRONOSDuhastChronoserreicht.HierlebenWaffen-undWa」"
+    },
+    {
+     "kind": "block",
+     "id": "200",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "201",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "201",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=60字 ger=409字 ratio=0.15 CHN=「听着：数周来，我们的城池一直被德米特里奥斯王及其大军围困！去」 ger=「Hört:SeitWochenschonwirdunsereStadtvonKönigDemetri」"
+    },
+    {
+     "kind": "block",
+     "id": "210",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text'] ger=['text', 'usericon']"
+    },
+    {
+     "kind": "block",
+     "id": "220",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "230",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "240",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "241",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "250",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "260",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "260",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=41字 ger=209字 ratio=0.20 CHN=「那里水草丰美，林木葱茏满是野物，资源取之不尽。不过说实话--」 ger=「DortgabessaftigeWeiden,herrlicheWäldervollerWildun」"
+    },
+    {
+     "kind": "block",
+     "id": "270",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "270",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=99字 ger=788字 ratio=0.13 CHN=「数周来，我们的城池一直被德米特里奥斯及其大军围困。处境日益绝」 ger=「SeitWochenschonwirdunsereStadtvonDemetriosundseine」"
+    },
+    {
+     "kind": "block",
+     "id": "271",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "272",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "273",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "273",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=129字 ger=1191字 ratio=0.11 CHN=「那么，且听我之计：我们在敌营安插了一名眼线，名叫梅特罗斯。他」 ger=「Also,dannhörtmeinenPlan:WirhabeneinenSpitzelimFein」"
+    },
+    {
+     "kind": "block",
+     "id": "274",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "275",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "280",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "280",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=45字 ger=456字 ratio=0.10 CHN=「须知，纵使我曾是一大方维京部族之主，却始终难耐冰雪严寒。东南」 ger=「Wisstihr,auchwennichfrüherHerrschereinesgroßenWiki」"
+    },
+    {
+     "kind": "block",
+     "id": "285",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "290",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "295",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "30",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "300",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "31",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "310",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "315",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "315",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=63字 ger=345字 ratio=0.18 CHN=「我在此与德米特里奥斯的士兵做买卖。一门肥差，你们懂的，嘿嘿嘿」 ger=「IchmachehiermeineGeschäftemitdenSoldatenvonDemetri」"
+    },
+    {
+     "kind": "block",
+     "id": "320",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "320",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=100字 ger=792字 ratio=0.13 CHN=「\"啊，你们来了。我正候着你们。是打密道过来的，对吧？多谢你的」 ger=「\"Ah,daseidihrja.Ichhabeeuchschonerwartet.Seiddurch」"
+    },
+    {
+     "kind": "block",
+     "id": "340",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "340",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=96字 ger=502字 ratio=0.19 CHN=「\"啊，幸会，外乡人。你们是如何穿过敌军防线的？定然不易吧？你」 ger=「\"Ah,seidgegrüßt,Fremde.Wieseidihrnurdurchdiefeindl」"
+    },
+    {
+     "kind": "block",
+     "id": "341",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "350",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "360",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "370",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "380",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "391",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "40",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=123字 ger=806字 ratio=0.15 CHN=「罗德岛著名的罗德港城，位于同名岛屿北部。旅人相传，罗德岛是爱」 ger=「RHODOSDieberühmteHafenstadtRhodos,imNordendergleic」"
+    },
+    {
+     "kind": "block",
+     "id": "400",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "410",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=88字 ger=541字 ratio=0.16 CHN=「赫利俄斯之罚当我们踏出神庙、重见天日，赫利俄斯便施展了他的神」 ger=「DIESTRAFEDESHELIOSAlswirausdemTempelinsLichtdesTag」"
+    },
+    {
+     "kind": "block",
+     "id": "420",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "420",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=74字 ger=522字 ratio=0.14 CHN=「唯有凭你们的勇气与无畏，我族才免于覆灭！纵使我深明这份重担…」 ger=「NurdurcheurenMutundeureTapferkeitkonnteunserVolkvo」"
+    },
+    {
+     "kind": "block",
+     "id": "421",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "422",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "423",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "423",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=35字 ger=206字 ratio=0.17 CHN=「他近日操劳过度，想稍作休整。去透几日新鲜空气，你懂的。我想他」 ger=「ErhatteinletzterZeitsovielArbeit,dassersichetwaser」"
+    },
+    {
+     "kind": "block",
+     "id": "424",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "424",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=28字 ger=226字 ratio=0.12 CHN=「他正坐在北边海滩上钓鱼呢。嘻嘻！是呀，那好老头卡瑞斯……」 ger=「DersitztnördlichvonhieramStrandundversucht,Fischez」"
+    },
+    {
+     "kind": "block",
+     "id": "430",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "430",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=117字 ger=600字 ratio=0.20 CHN=「我们说明了来意，他却似乎兴致缺缺。\"你们瞧见，我正偷得浮生半」 ger=「WirerklärtenihmunserAnliegen,docherschiennichtsond」"
+    },
+    {
+     "kind": "block",
+     "id": "440",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=55字 ger=334字 ratio=0.16 CHN=「我们思忖片刻，终是应允了卡瑞斯的提议。毕竟我们此来，正是为建」 ger=「Nun,wirüberlegteneineWeileundstimmtenschließlichde」"
+    },
+    {
+     "kind": "block",
+     "id": "450",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "450",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=109字 ger=952字 ratio=0.11 CHN=「议题包括纪念碑的形制、高度、用料、安放之处，以及--价……最」 ger=「Esgingdarum,wiedasMonumentaussehensollte,wiehoch,a」"
+    },
+    {
+     "kind": "block",
+     "id": "455",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "455",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=29字 ger=173字 ratio=0.17 CHN=「其势恢宏，已让人想见此地终将矗立何等巨制……卡瑞斯着手……」 ger=「Mächtigwaresanzusehenundesliesbereitserahnen,welch」"
+    },
+    {
+     "kind": "block",
+     "id": "460",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "465",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=105字 ger=599字 ratio=0.18 CHN=「这便是其中的玄机！双倍高度，双倍价钱！卡瑞斯得的并非双倍，而」 ger=「DasalsowarderTrickanderSache!DoppelteHöhebeidoppel」"
+    },
+    {
+     "kind": "block",
+     "id": "470",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "470",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=57字 ger=316字 ratio=0.18 CHN=「我们向卡瑞斯交付了所需建材，他便一径建造。然而尽管最终材料用」 ger=「WirliefertenCharesdasgewünschteBaumaterialunderbau」"
+    },
+    {
+     "kind": "block",
+     "id": "470",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=73字 ger=427字 ratio=0.17 CHN=「这正是我们预料之中！卡瑞斯被罗德人狠狠宰了一刀，此刻他才恍然」 ger=「GenauDAShattenwirkommensehen!ChareswarvondenRhoder」"
+    },
+    {
+     "kind": "block",
+     "id": "480",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "480",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=70字 ger=510字 ratio=0.14 CHN=「卡瑞斯暴跳咒骂，因为他明白自己被蒙骗得多深，所有指望的盈利皆」 ger=「Charestobteundfluchte,dennihmwarklar,wiesehrerhint」"
+    },
+    {
+     "kind": "block",
+     "id": "500",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "55",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text'] ger=['text', 'usericon']"
+    },
+    {
+     "kind": "block",
+     "id": "600",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "70",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text'] ger=['text', 'usericon']"
+    },
+    {
+     "kind": "block",
+     "id": "700",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "75",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text'] ger=['text', 'usericon']"
+    }
+   ]
+  },
+  "campaign_03_03_sub1.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 11,
+   "n_blocks": 12,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "00_start",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "100",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "120",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=18字 ger=107字 ratio=0.17 CHN=「增援佩特罗斯又派来几名部下作为增援。」 ger=「VERSTÄRKUNGPetrosschicktdirnocheinpaarMänneralsVer」"
+    },
+    {
+     "kind": "block",
+     "id": "200",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "300",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "400",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "500",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "header",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=13字 ratio=0.15 CHN=「密道」 ger=「DERGEHEIMGANG」"
+    }
+   ]
+  },
+  "campaign_03_03_sub2.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 11,
+   "n_blocks": 12,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "00_start",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "100",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "120",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=18字 ger=107字 ratio=0.17 CHN=「增援佩特罗斯又派来几名部下作为增援。」 ger=「VERSTÄRKUNGPetrosschicktdirnocheinpaarMänneralsVer」"
+    },
+    {
+     "kind": "block",
+     "id": "200",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "300",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "400",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "500",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "header",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=13字 ratio=0.15 CHN=「密道」 ger=「DERGEHEIMGANG」"
+    }
+   ]
+  },
+  "campaign_03_03_sub3.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 11,
+   "n_blocks": 12,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "100",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "200",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "300",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "400",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "500",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "600",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    }
+   ]
+  },
+  "campaign_03_04.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 53,
+   "n_blocks": 58,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "100",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "101",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "11",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "110",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "111",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "112",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "112",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=29字 ger=22字 ratio=1.32 CHN=「哈利卡纳苏斯市民\"你们听过海盗？他们住在城外不远的海岛上！」 ger=「BÜRGERVONHALIKARNASSOS」"
+    },
+    {
+     "kind": "block",
+     "id": "113",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "114",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "115",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "14",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "15",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "150",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "155",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "157",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "16",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "160",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "165",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "167",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "17",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "170",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "175",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "177",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "18",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "20",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "200",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "210",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "215",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "220",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text', 'text'] ger=['text', 'usericon', 'text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "230",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "235",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "240",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "25",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "30",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "300",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "310",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "320",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "330",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "35",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text', 'text', 'text'] ger=['text', 'usericon', 'text', 'usericon', 'text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "400",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "500",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "600",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "700",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "80",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "81",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "82",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "83",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "95",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    }
+   ]
+  },
+  "campaign_03_05.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 38,
+   "n_blocks": 38,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "3",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=14字 ger=76字 ratio=0.18 CHN=「设法排退沼泽、加固神庙工地。」 ger=「SucheeineMöglichkeitdenSumpfzurückzudrängenunddenT」"
+    },
+    {
+     "kind": "block",
+     "id": "02",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "04",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text'] ger=['text', 'usericon']"
+    },
+    {
+     "kind": "block",
+     "id": "07",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "09",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "10",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "100",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "11",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "12",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "13",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text'] ger=['text', 'usericon']"
+    },
+    {
+     "kind": "block",
+     "id": "14",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "15",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "16",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "17",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "18",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "19",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "19",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=11字 ratio=0.18 CHN=「老者」 ger=「DERALTEMANN」"
+    },
+    {
+     "kind": "block",
+     "id": "20",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "200",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "21",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "22",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "23",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "23",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=13字 ger=67字 ratio=0.19 CHN=「哈奇决意细察神庙上方之地。」 ger=「Hatschibeschloss,sichdasGebietoberhalbdesTempelsge」"
+    },
+    {
+     "kind": "block",
+     "id": "24",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text'] ger=['text', 'usericon']"
+    },
+    {
+     "kind": "block",
+     "id": "25",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "26",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "27",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "400",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "500",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "600",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    }
+   ]
+  },
+  "campaign_03_05_sub1.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 16,
+   "n_blocks": 17,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "00_start",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text'] ger=['text', 'usericon']"
+    },
+    {
+     "kind": "block",
+     "id": "03",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "04",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "05",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "100",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "200",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "300",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "400",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "500",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "50_end",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text'] ger=['text', 'usericon']"
+    },
+    {
+     "kind": "block",
+     "id": "600",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    }
+   ]
+  },
+  "campaign_03_05_sub2.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 10,
+   "n_blocks": 18,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "00_start",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "01",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "05",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "06",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text'] ger=['text', 'usericon']"
+    },
+    {
+     "kind": "block",
+     "id": "100",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "200",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "300",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "400",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "500",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "50_end1",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "600",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    }
+   ]
+  },
+  "campaign_03_06.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 51,
+   "n_blocks": 46,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "00_start",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=84字 ger=655字 ratio=0.13 CHN=「我们的下一个任务要求我们建造一座宏伟的宙斯巨像。诸族议会发现」 ger=「UnserenächsteAufgabeverlangtevonuns,einemächtigeZe」"
+    },
+    {
+     "kind": "block",
+     "id": "01",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "03",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "06",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "07",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text'] ger=['text', 'usericon']"
+    },
+    {
+     "kind": "block",
+     "id": "08",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "09",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "100",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "11",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "14",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "17",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "18",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "19",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "19",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=27字 ger=139字 ratio=0.19 CHN=「老者\"这工地恰宜建仓--正居于撒拉逊集市两间商行正中。」 ger=「DERALTEMANN\"DieserBauplatzistperfektgeeignetfürein」"
+    },
+    {
+     "kind": "block",
+     "id": "200",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "21",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "22",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "23",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "24",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "25",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "26",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "27",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "28",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "300",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "32",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text'] ger=['text', 'usericon']"
+    },
+    {
+     "kind": "block",
+     "id": "33",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text'] ger=['text', 'usericon']"
+    },
+    {
+     "kind": "block",
+     "id": "34",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text'] ger=['text', 'usericon']"
+    },
+    {
+     "kind": "block",
+     "id": "400",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "500",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "600",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    }
+   ]
+  },
+  "campaign_03_06_sub1.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 6,
+   "n_blocks": 8,
+   "issues": []
+  },
+  "campaign_03_06_sub2.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 11,
+   "n_blocks": 18,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "99",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=14字 ratio=0.14 CHN=「火海」 ger=「DASFLAMMENMEER」"
+    },
+    {
+     "kind": "block",
+     "id": "00_start",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "01",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "04",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text'] ger=['text', 'usericon']"
+    },
+    {
+     "kind": "block",
+     "id": "05",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text'] ger=['text', 'usericon']"
+    },
+    {
+     "kind": "block",
+     "id": "06",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text'] ger=['text', 'usericon']"
+    },
+    {
+     "kind": "block",
+     "id": "07",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "100",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "200",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "400",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "500",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "600",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "header",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=14字 ratio=0.14 CHN=「火海」 ger=「DASFLAMMENMEER」"
+    }
+   ]
+  },
+  "campaign_03_07.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 42,
+   "n_blocks": 40,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "00_start",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=84字 ger=538字 ratio=0.16 CHN=「帝王谷的无穷壮美在我们眼前展现。吉萨金字塔建于第四王朝胡夫、」 ger=「DieunendlicheSchönheitdesTalsderKönigebreitetesich」"
+    },
+    {
+     "kind": "block",
+     "id": "01",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "02",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "03",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "04",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text'] ger=['text', 'usericon']"
+    },
+    {
+     "kind": "block",
+     "id": "05",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "06",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "07",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "08",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "09",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "10",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "100",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "11",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "12",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "13",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "14",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "15",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "16",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "17",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "17",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=11字 ratio=0.18 CHN=「老者」 ger=「DERALTEMANN」"
+    },
+    {
+     "kind": "block",
+     "id": "18",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "18",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=11字 ratio=0.18 CHN=「老者」 ger=「DERALTEMANN」"
+    },
+    {
+     "kind": "block",
+     "id": "19",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "20",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "200",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "21",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "22",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "23",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "24",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "25",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "26",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "27",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "28",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "300",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "400",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "500",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "600",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    }
+   ]
+  },
+  "campaign_03_08.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 36,
+   "n_blocks": 27,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "00_start",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=69字 ger=361字 ratio=0.19 CHN=「我们登上那岛，岛心矗一巨柱方尖碑--第八大奇迹。远望便见。据」 ger=「WirlandetenaufjenerInsel,inderenMitteeinmächtigerO」"
+    },
+    {
+     "kind": "block",
+     "id": "01",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "02",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "03",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "04",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "05",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "06",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "07",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "08",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "09",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "09",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=70字 ger=361字 ratio=0.19 CHN=「三区区长相聚，不消多时便和解了。因各以为，是先迈步者乃对方。」 ger=「AlssichdieBürgermeisterderStadtteilezusammenfanden」"
+    },
+    {
+     "kind": "block",
+     "id": "10",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text', 'text'] ger=['text', 'usericon', 'text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "100",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "11",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "12",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "13",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "14",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "15",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "15",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=11字 ratio=0.18 CHN=「老者」 ger=「DERALTEMANN」"
+    },
+    {
+     "kind": "block",
+     "id": "16",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "16",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=11字 ratio=0.18 CHN=「老者」 ger=「DERALTEMANN」"
+    },
+    {
+     "kind": "block",
+     "id": "16",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=28字 ger=142字 ratio=0.20 CHN=「\"若你寻沼泽部族：唯舟可至。然当心，近处诸岛暗藏险阻！\"」 ger=「\"FallsihraufderSuchenachdemMoorvolkseid:ihrkönntsi」"
+    },
+    {
+     "kind": "block",
+     "id": "17",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "18",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "200",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "300",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "400",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "500",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "600",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    }
+   ]
+  },
+  "demo_mainmenu_10.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 34,
+   "n_blocks": 42,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "02",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=48字 ger=516字 ratio=0.09 CHN=「寻找一处合适的登陆地点。注意：地形的细微之处可能会在这个阶段」 ger=「KaumwarenwiranLandgegangenundhattenbegonnenunserLa」"
+    },
+    {
+     "kind": "block",
+     "id": "03",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=42字 ger=429字 ratio=0.10 CHN=「在这里开始建设一个小型定居点。但别着急--先只建造最必需的东」 ger=「WirhattendiebenötigtenWarenimLagerhausamLeuchtturm」"
+    },
+    {
+     "kind": "block",
+     "id": "04",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=17字 ger=363字 ratio=0.05 CHN=「找到了好位置吗？那就开始建造吧……」 ger=「VAGABUNDEN\"Hey!Ihrda!WirduldenkeineEindringlingein」"
+    },
+    {
+     "kind": "block",
+     "id": "05",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=23字 ger=242字 ratio=0.10 CHN=「这些是最重要的建筑。注意它们的建造顺序和位置。」 ger=「VAGABUNDEN\"EuerBierhatunsgemundet,fallsihrunsnoche」"
+    },
+    {
+     "kind": "block",
+     "id": "07",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=40字 ger=612字 ratio=0.07 CHN=「还有一些其他重要的事情需要处理。完成这些任务之后，你的维京人」 ger=「DiebenötigtenWarenwurdenaufgebrauchtundderArchitek」"
+    },
+    {
+     "kind": "block",
+     "id": "100",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "14",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=32字 ger=213字 ratio=0.15 CHN=「我们向维京人缴纳了所要求的货物作为贡品，他们便承诺给予我们支」 ger=「WirhattendenWikingerndiegefordertenWarenalsTributg」"
+    },
+    {
+     "kind": "block",
+     "id": "15",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=38字 ger=231字 ratio=0.16 CHN=「与世隔绝的沙漠中，一片小小的绿洲在我们面前展开。这是个可以短」 ger=「UnberührtvonderrestlichenWelttatsichhiereinekleine」"
+    },
+    {
+     "kind": "block",
+     "id": "20",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "200",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "21",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=30字 ger=174字 ratio=0.17 CHN=「游牧民族发现他们无法抵挡我们的战术和战斗力，便主动提出谈判。」 ger=「AlsdasNomadenvolksah,dassesunsererTaktikundKampfes」"
+    },
+    {
+     "kind": "block",
+     "id": "22",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=82字 ger=683字 ratio=0.12 CHN=「起初我们以为只是海市蜃楼。但沙漠中确实站着一位老者！他从何而」 ger=「Zuerstdachtenwir,esseieineFataMorgana.Dochtatsächl」"
+    },
+    {
+     "kind": "block",
+     "id": "23",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=58字 ger=332字 ratio=0.17 CHN=「这片土地充满了惊喜！突然我们遇到一位拄着弯杖的老人。“哦，又」 ger=「DiesesLandwarvollerÜberraschungen!Plötzlichtrafenw」"
+    },
+    {
+     "kind": "block",
+     "id": "27",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=26字 ger=161字 ratio=0.16 CHN=「地震！！！我们在此地待了没多久，大地便开始剧烈震动。」 ger=「ERDBEBEN!!!NochnichtlangeverweiltenwirindiesemGebi」"
+    },
+    {
+     "kind": "block",
+     "id": "300",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "32",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=30字 ger=151字 ratio=0.20 CHN=「亚历山大城付给我们原先要求的赎金。这个可敬的民族履行了承诺！」 ger=「AlexandriagabunsdasursprünglichgeforderteLösegeldv」"
+    },
+    {
+     "kind": "block",
+     "id": "400",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "400",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=23字 ger=162字 ratio=0.14 CHN=「不幸降临--建筑遭到破坏，所有的努力付诸东流。」 ger=「EinkleinerMomentdesLeichtsinns,soschnellkommtesimL」"
+    },
+    {
+     "kind": "block",
+     "id": "50_end1",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=39字 ger=215字 ratio=0.18 CHN=「亚历山大城的居民感激万分。作为一名维京人，我为完成了如此伟大」 ger=「DerBewohnerAlexandriaszeigtensichvollerDankbarkeit」"
+    }
+   ]
+  },
+  "demo_singleplayer_02.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 20,
+   "n_blocks": 23,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "52",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=16字 ratio=0.12 CHN=「蛇魔」 ger=「Schlangendämonen」"
+    },
+    {
+     "kind": "block",
+     "id": "00",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=31字 ger=416字 ratio=0.07 CHN=「新的冒险在比雅尼面前展开！在这个演示版中，你将探索蛇族的秘密」 ger=「AufdeinerWanderschafthatesdichunddeineLeuteineinab」"
+    },
+    {
+     "kind": "block",
+     "id": "01",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=31字 ger=269字 ratio=0.12 CHN=「比雅尼的冒险继续--他需要找到失散的儿子们并拯救被诅咒的山谷」 ger=「DerFluchistgebrochen,dasTalerlöst!Zumerstenmalseit」"
+    },
+    {
+     "kind": "block",
+     "id": "02",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "03",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=84字 ger=533字 ratio=0.16 CHN=「此地的国王召见了你们。他悲痛地讲述了这片土地的往事：一百年前」 ger=「DerKönigdiesesLandeslässteuchzusichbitten.Gramgebe」"
+    },
+    {
+     "kind": "block",
+     "id": "04",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text'] ger=['font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "05",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=28字 ger=172字 ratio=0.16 CHN=「愿诸神指引你的道路。但记住--每次冒险都需要勇气和智慧。」 ger=「HERVORRAGEND!DuhasteinedersiebenmagischenKultstätt」"
+    },
+    {
+     "kind": "block",
+     "id": "06",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text'] ger=['font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "06",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=40字 ger=211字 ratio=0.19 CHN=「新的知识随着你们在冒险中不断前进，新的可能性也随之开启。试试」 ger=「WiederwilligfolgendeineWikingerdemBefehlundgreifen」"
+    },
+    {
+     "kind": "block",
+     "id": "07",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=34字 ger=215字 ratio=0.16 CHN=「探索派遣侦察兵探索地图上未发现的区域。你永远不知道等待着你的」 ger=「BERGRÄUBERDubistaufeineSiedlungräuberischerFranken」"
+    },
+    {
+     "kind": "block",
+     "id": "10",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=5字 ger=55字 ratio=0.09 CHN=「继续前进！」 ger=「UNTERHÄNDLEREinBoteausMontserainetrafinunseremLage」"
+    },
+    {
+     "kind": "block",
+     "id": "15",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=3字 ger=78字 ratio=0.04 CHN=「很好！」 ger=「UNTERHÄNDLERAlsBjarniaufdenBotenzuging,machtediese」"
+    },
+    {
+     "kind": "block",
+     "id": "15",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=26字 ger=603字 ratio=0.04 CHN=「你已完成这个演示关卡的主要任务。希望你喜欢这个冒险！」 ger=「\"Seigegrüßt,tapfererBjarni.Wirhabengehört,dassihrÄ」"
+    },
+    {
+     "kind": "block",
+     "id": "50",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=4字 ger=100字 ratio=0.04 CHN=「小贴士！」 ger=「TIPP!SuchenachSchatzkisteninderUmgebung.Siesindman」"
+    },
+    {
+     "kind": "block",
+     "id": "55",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=4字 ger=92字 ratio=0.04 CHN=「小贴士！」 ger=「TIPP!MagischeKistensindgrößeralsdieeinfachenKisten」"
+    },
+    {
+     "kind": "block",
+     "id": "55",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=24字 ger=162字 ratio=0.15 CHN=「魔法箱比普通箱子更大。它们通常装着更强大的物品。」 ger=「MagischeKistenkönnenallerdingsnurvoneinemDruidenod」"
+    },
+    {
+     "kind": "block",
+     "id": "60",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=32字 ger=187字 ratio=0.17 CHN=「小贴士！建造一个或多个哨塔，以抵御盗贼的攻击。他们会三思而后」 ger=「TIPP!ErrichteeinenodermehrereWachtürme,umdichgegen」"
+    },
+    {
+     "kind": "block",
+     "id": "65",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=40字 ger=271字 ratio=0.15 CHN=「小贴士！你刚刚找到了一封\"信件\"。用一封信可在任何地方建造建」 ger=「TIPP!Duhastsoebeneinensogenannten\"Brief\"gefunden.M」"
+    },
+    {
+     "kind": "block",
+     "id": "70",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=24字 ger=279字 ratio=0.09 CHN=「你找到了一台投石机。用它来摧毁敌人的防御工事吧！」 ger=「KatapultemüssenmiteinemSoldatenodereinemHeldenbese」"
+    },
+    {
+     "kind": "block",
+     "id": "75",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "75",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=57字 ger=451字 ratio=0.13 CHN=「为此你需要一名商人，他需要推着车（手推车或牛车）将货物从你的」 ger=「DazubenötigstdueinenHändler,dermiteinemKarren(Hand」"
+    }
+   ]
+  },
+  "multiplayer_001_militär.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 11,
+   "n_blocks": 2,
+   "issues": []
+  },
+  "multiplayer_001_ressourcen.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 11,
+   "n_blocks": 2,
+   "issues": []
+  },
+  "multiplayer_002_militär.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 11,
+   "n_blocks": 2,
+   "issues": []
+  },
+  "multiplayer_002_ressourcen.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 11,
+   "n_blocks": 2,
+   "issues": []
+  },
+  "multiplayer_003_militär.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 11,
+   "n_blocks": 2,
+   "issues": []
+  },
+  "multiplayer_003_ressourcen.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 11,
+   "n_blocks": 2,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "begin_00",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=51字 ger=347字 ratio=0.15 CHN=「这是个太平年月。维京人各过各的安稳日子，本不该有兵戎相见的理」 ger=「EsisteinefriedlicheZeit.DieWikingerlebenvorsichhin」"
+    }
+   ]
+  },
+  "multiplayer_004_militär.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 11,
+   "n_blocks": 2,
+   "issues": []
+  },
+  "multiplayer_004_ressourcen.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 11,
+   "n_blocks": 2,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "begin_00",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=83字 ger=428字 ratio=0.19 CHN=「长久以来，住民之间一直存在领地纷争。谁都想把邻居挤出这片弹丸」 ger=「SchonlangegabesGebietsstreitigkeitenzwischendenEin」"
+    }
+   ]
+  },
+  "multiplayer_004_special_cap-the-cow.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 11,
+   "n_blocks": 2,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "begin_00",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=111字 ger=612字 ratio=0.18 CHN=「长久以来，住民之间一直存在领地纷争。谁都想把邻居挤出这片弹丸」 ger=「SchonlangegabesGebietsstreitigkeitenzwischendenBew」"
+    }
+   ]
+  },
+  "multiplayer_005_militär.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 15,
+   "n_blocks": 2,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "begin_00",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=96字 ger=550字 ratio=0.17 CHN=「由于连年来种种争执与冲突，维京人之间的关系降到了冰点。各方都」 ger=「AufgrundverschiedenerStreitereienundAuseinanderset」"
+    }
+   ]
+  },
+  "multiplayer_005_ressourcen.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 15,
+   "n_blocks": 2,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "begin_00",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=111字 ger=795字 ratio=0.14 CHN=「权贵之间种种争执与冲突，令维京人彼此离心。各部族本应在一个领」 ger=「VerschiedeneStreitereienundAuseinandersetzungenzwi」"
+    }
+   ]
+  },
+  "multiplayer_005_special_cap-the-flag.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 15,
+   "n_blocks": 2,
+   "issues": []
+  },
+  "multiplayer_007_millitär.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 9,
+   "n_blocks": 2,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "begin_00",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=99字 ger=537字 ratio=0.18 CHN=「在维京人的土地上，两个部族联手后逐渐坐大，俨然一方霸主。雪上」 ger=「ImLandderWikingerhattesichdurchdenZusammenschlussz」"
+    }
+   ]
+  },
+  "multiplayer_007_ressourcen.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 9,
+   "n_blocks": 2,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "begin_00",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=89字 ger=587字 ratio=0.15 CHN=「在维京人的土地上，两个部族联手后逐渐坐大，俨然一方霸主。所幸」 ger=「ImLandderWikingerhattesichdurchdenZusammenschlussz」"
+    }
+   ]
+  },
+  "multiplayer_007_special_coop.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 9,
+   "n_blocks": 2,
+   "issues": []
+  },
+  "multiplayer_008_militär.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 11,
+   "n_blocks": 2,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "begin_00",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=40字 ger=218字 ratio=0.18 CHN=「维京人在一座火山岛上落了脚。在与对手的缠斗中挺住--但须提防」 ger=「DieWikingerhabensichaufeinerVulkaninseleinquartier」"
+    }
+   ]
+  },
+  "multiplayer_008_ressourcen.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 11,
+   "n_blocks": 2,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "begin_00",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=56字 ger=286字 ratio=0.20 CHN=「维京人在一座火山岛上落了脚。各部族比邻而居、和平共处，一同采」 ger=「DieWikingerhabensichaufeinerVulkaninseleinquartier」"
+    }
+   ]
+  },
+  "multiplayer_009_militär.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 15,
+   "n_blocks": 2,
+   "issues": []
+  },
+  "multiplayer_02_06_ressourcen.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 11,
+   "n_blocks": 2,
+   "issues": []
+  },
+  "multiplayer_101_special_coop.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 17,
+   "n_blocks": 3,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "begin_00",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=85字 ger=687字 ratio=0.12 CHN=「对维京人而言，这是个暗无天日的年代……这片土地上还有其他部族」 ger=「EsisteinefinstereZeitfürdieWikinger...DasLandwirdv」"
+    }
+   ]
+  },
+  "multiplayer_102_special_coop.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 19,
+   "n_blocks": 2,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "begin_00",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=195字 ger=1650字 ratio=0.12 CHN=「很久以前，这片土地上所有维京部族和睦共处--宛如一体。然而和」 ger=「VorlangerZeitwarenalleWikingerstämmedesLandesinFri」"
+    }
+   ]
+  },
+  "multiplayer_103_special_militär.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 18,
+   "n_blocks": 2,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "70",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=14字 ratio=0.14 CHN=「蛇怪」 ger=「Schlangenwesen」"
+    },
+    {
+     "kind": "string",
+     "id": "71",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=14字 ratio=0.14 CHN=「蛇怪」 ger=「Schlangenwesen」"
+    },
+    {
+     "kind": "block",
+     "id": "begin_00",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=147字 ger=928字 ratio=0.16 CHN=「酋长有令：“今年这场大赛跑，须提早些时候举行……”“救救我们」 ger=「ErlassdesHäuptlings:\"EsistvonNöten,dasgroßeWettjag」"
+    }
+   ]
+  },
+  "multiplayer_104_militär.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 13,
+   "n_blocks": 2,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "begin_00",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=65字 ger=394字 ratio=0.16 CHN=「北方已是春天，抽芽的白桦驱散了寒意。只可惜眼下没人有闲情去欣」 ger=「EsistFrühlingimNordlandunddiegrünendenBirkenvertre」"
+    }
+   ]
+  },
+  "multiplayer_105_militaer.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 11,
+   "n_blocks": 2,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "begin_00",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=77字 ger=438字 ratio=0.18 CHN=「相互竞争的维京部族，在同一片土地上扎下了根。让你的部族成为这」 ger=「KonkurrierendeWikingerstämmehabensichdasgleicheLan」"
+    }
+   ]
+  },
+  "multiplayer_105_ressourcen.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 11,
+   "n_blocks": 2,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "begin_00",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=72字 ger=486字 ratio=0.15 CHN=「相互竞争的维京部族，在同一片土地上扎下了根。为你新生的村庄择」 ger=「KonkurrierendeWikingerstämmehabensichdasgleicheLan」"
+    }
+   ]
+  },
+  "multiplayer_201_special_coop.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 17,
+   "n_blocks": 3,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "begin_00",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=103字 ger=689字 ratio=0.15 CHN=「对你的部族而言，这是个艰难时世。你与爱好和平的邻居们，由来已」 ger=「EsistkeineleichteZeitfürdeinenStamm.Duunddeinefrie」"
+    },
+    {
+     "kind": "block",
+     "id": "header",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=13字 ratio=0.15 CHN=「风雪」 ger=「SCHNEETREIBEN」"
+    }
+   ]
+  },
+  "multiplayer_202_special_millitär.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 20,
+   "n_blocks": 6,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "begin_00",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=136字 ger=1030字 ratio=0.13 CHN=「这片土地正陷于危难！盘踞群山的恐怖巨龙倾巢而出，为祸四方。我」 ger=「EsherrschtNotimLand!DiefurchtbarenDrachen,dieinden」"
+    }
+   ]
+  },
+  "multiplayer_203_special_militär.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 23,
+   "n_blocks": 3,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "5",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=10字 ger=52字 ratio=0.19 CHN=「晴间多云，偶有小雨！」 ger=「Heiterbisbewölkt,zeitweiligvereinzelterNiederschla」"
+    },
+    {
+     "kind": "block",
+     "id": "begin_00",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=185字 ger=1085字 ratio=0.17 CHN=「此地一位部族酋长前来求援：“龙之地遭狼族侵袭！它们……”“在」 ger=「DerHäuptlingeineshierlebendenStammesbittetumHilfe:」"
+    }
+   ]
+  },
+  "multiplayer_204_special_cap-the-flag.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 31,
+   "n_blocks": 41,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "header",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=19字 ratio=0.11 CHN=「四季」 ger=「DIEVIERJAHRESZEITEN」"
+    }
+   ]
+  },
+  "multiplayer_205_special_cap-the-cow.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 19,
+   "n_blocks": 2,
+   "issues": []
+  },
+  "singleplayer_01_01.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 11,
+   "n_blocks": 2,
+   "issues": []
+  },
+  "singleplayer_01_04.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 8,
+   "n_blocks": 8,
+   "issues": []
+  },
+  "singleplayer_01_05.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 9,
+   "n_blocks": 10,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "3",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=34字 ger=208字 ratio=0.16 CHN=「你未能抵御撒拉逊人的进攻。许多部下捐躯，安条克的土地恐将永远」 ger=「DuhastesmitdeinentapferenWikingernnichtgeschafft,d」"
+    }
+   ]
+  },
+  "singleplayer_01_06.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 8,
+   "n_blocks": 9,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "7",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['font', 'text', 'font'] ger=['text']"
+    }
+   ]
+  },
+  "singleplayer_01_07.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 17,
+   "n_blocks": 18,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "99",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=12字 ratio=0.17 CHN=「叛乱」 ger=「DIEREBELLION」"
+    },
+    {
+     "kind": "block",
+     "id": "header",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=12字 ratio=0.17 CHN=「叛乱」 ger=「DIEREBELLION」"
+    }
+   ]
+  },
+  "singleplayer_01_08.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 8,
+   "n_blocks": 8,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "52",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=13字 ratio=0.15 CHN=「蛇族」 ger=「Schlangenvolk」"
+    }
+   ]
+  },
+  "singleplayer_01_09.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 7,
+   "n_blocks": 11,
+   "issues": []
+  },
+  "singleplayer_01_10.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "pol",
+     "alias": "pol",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 9,
+   "n_blocks": 10,
+   "issues": []
+  },
+  "singleplayer_02_01-sub1.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 5,
+   "n_blocks": 7,
+   "issues": []
+  },
+  "singleplayer_02_01-sub2.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 3,
+   "n_blocks": 3,
+   "issues": []
+  },
+  "singleplayer_02_01-sub3.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 3,
+   "n_blocks": 5,
+   "issues": []
+  },
+  "singleplayer_02_01-sub4.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 4,
+   "n_blocks": 5,
+   "issues": []
+  },
+  "singleplayer_02_01-sub5.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 6,
+   "n_blocks": 8,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "99",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=13字 ratio=0.15 CHN=「狼穴」 ger=「DIEWOLFSHÖHLE」"
+    },
+    {
+     "kind": "block",
+     "id": "header",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=13字 ratio=0.15 CHN=「狼穴」 ger=「DIEWOLFSHÖHLE」"
+    }
+   ]
+  },
+  "singleplayer_02_01.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 43,
+   "n_blocks": 46,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "58",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=13字 ratio=0.15 CHN=「狼人」 ger=「Wolfsmenschen」"
+    },
+    {
+     "kind": "block",
+     "id": "begin_28",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=55字 ger=289字 ratio=0.19 CHN=「狼穴入口洞开，我决意独自进去！若这洞穴当真凶险，我可不愿拿全」 ger=「WOLFSHÖHLEDerEingangwaroffen,undichbeschloss,allei」"
+    }
+   ]
+  },
+  "singleplayer_02_02.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 12,
+   "n_blocks": 18,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "99",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=11字 ratio=0.18 CHN=「冷战」 ger=「KALTERKRIEG」"
+    },
+    {
+     "kind": "block",
+     "id": "header",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=11字 ratio=0.18 CHN=「冷战」 ger=「KALTERKRIEG」"
+    }
+   ]
+  },
+  "singleplayer_02_03-sub1.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 11,
+   "n_blocks": 7,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "99",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=12字 ratio=0.17 CHN=「决斗」 ger=「DERZWEIKAMPF」"
+    },
+    {
+     "kind": "block",
+     "id": "header",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=12字 ratio=0.17 CHN=「决斗」 ger=「DERZWEIKAMPF」"
+    }
+   ]
+  },
+  "singleplayer_02_03-sub2.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 11,
+   "n_blocks": 7,
+   "issues": []
+  },
+  "singleplayer_02_03-sub3.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 7,
+   "n_blocks": 7,
+   "issues": []
+  },
+  "singleplayer_02_03.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 37,
+   "n_blocks": 33,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "begin_06",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=4字 ger=134字 ratio=0.03 CHN=「权能护符」 ger=「GEWALTENAMULETTDanke,dassduunsgeholfenhast.Freunds」"
+    }
+   ]
+  },
+  "singleplayer_02_04.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 27,
+   "n_blocks": 36,
+   "issues": []
+  },
+  "singleplayer_02_05.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 8,
+   "n_blocks": 6,
+   "issues": []
+  },
+  "singleplayer_02_06.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 8,
+   "n_blocks": 10,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "52",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=16字 ratio=0.12 CHN=「蛇魔」 ger=「Schlangendämonen」"
+    },
+    {
+     "kind": "block",
+     "id": "header",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=18字 ratio=0.11 CHN=「幽谷」 ger=「DASVERWUNSCHENETAL」"
+    }
+   ]
+  },
+  "singleplayer_02_07.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 15,
+   "n_blocks": 15,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "99",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=4字 ger=23字 ratio=0.17 CHN=「殖民时代」 ger=「ZEITDERKOLONIALISIERUNG」"
+    },
+    {
+     "kind": "block",
+     "id": "header",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=4字 ger=23字 ratio=0.17 CHN=「殖民时代」 ger=「ZEITDERKOLONIALISIERUNG」"
+    }
+   ]
+  },
+  "singleplayer_03_01-sub1.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 3,
+   "n_blocks": 3,
+   "issues": []
+  },
+  "singleplayer_03_01.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 29,
+   "n_blocks": 27,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "09",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=159字 ger=999字 ratio=0.16 CHN=「酋长当我直视酋长的双眼时，我看到了忧伤与痛苦。他曾梦想在沙漠」 ger=「HÄUPTLINGAlsichdemHäuptlingindieAugensah,konnteich」"
+    },
+    {
+     "kind": "block",
+     "id": "09",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=329字 ger=168字 ratio=1.96 CHN=「当我直视首领的双眼，其中满含忧愁与苦痛。他曾梦想将村北的一片」 ger=「WenndudirektdanebeneinLagerhauserrichtestundvonTrä」"
+    }
+   ]
+  },
+  "singleplayer_03_02.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 18,
+   "n_blocks": 18,
+   "issues": []
+  },
+  "singleplayer_03_03.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 15,
+   "n_blocks": 12,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "4",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=6字 ger=31字 ratio=0.19 CHN=「远离饲料坑。」 ger=「EntfernedichvonderFutterstelle.」"
+    }
+   ]
+  },
+  "singleplayer_03_04.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 44,
+   "n_blocks": 45,
+   "issues": []
+  },
+  "singleplayer_03_05.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 17,
+   "n_blocks": 18,
+   "issues": []
+  },
+  "tutorial_001.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 14,
+   "n_blocks": 12,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "00",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=77字 ger=552字 ratio=0.14 CHN=「本教程旨在让你初步了解游戏的用户界面，并讲解操控你的维京人所」 ger=「DiesesTutorialsolldireinenerstenÜberblicküberdieBe」"
+    },
+    {
+     "kind": "block",
+     "id": "01",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=54字 ger=594字 ratio=0.09 CHN=「克努特目前没有工作，整天无所事事。要选中他，在克努特身上点击」 ger=「KnutistarbeitsloshatdenganzenTagnichtszutun.Umihna」"
+    },
+    {
+     "kind": "block",
+     "id": "02",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=92字 ger=569字 ratio=0.16 CHN=「很好！不过还可以更快捷！如果选中了一个单位，在其蓝色的标记点」 ger=「PRIMA!Dasgehtallerdingsauchschnellerunddirekter!We」"
+    },
+    {
+     "kind": "block",
+     "id": "04",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=53字 ger=604字 ratio=0.09 CHN=「太棒了！现在克努特有家也有工作了，生活无忧。不过是不是还缺点」 ger=「SEHRGUT!NunhatKnuteinHeimundeinenBerufundistgutver」"
+    },
+    {
+     "kind": "block",
+     "id": "07",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=75字 ger=801字 ratio=0.09 CHN=「你可以在一个单位上按住鼠标左键，拖动出一个选择框来同时选中多」 ger=「DukannstmehrereFigurengleichzeitigselektieren,inde」"
+    },
+    {
+     "kind": "block",
+     "id": "09",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=73字 ger=533字 ratio=0.14 CHN=「迷路问题……你的维京人常常找不到路，尤其是在跨越岛屿的时候。」 ger=「WEGFINDEPROBLEME...OftmalshabendeineWikingerProble」"
+    }
+   ]
+  },
+  "tutorial_002.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 14,
+   "n_blocks": 13,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "01",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=52字 ger=334字 ratio=0.16 CHN=「他很快会让你笑不出来--因为你马上就能让他在渔夫行当中测试一」 ger=「EristHolzabbauerundistglücklichbeiseinerArbeit,hat」"
+    },
+    {
+     "kind": "block",
+     "id": "04",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=18字 ger=140字 ratio=0.13 CHN=「干得好！现在你有机会获取新的资源了！」 ger=「AlsnächstessollteersichaufBrautschaubegeben.Etwasw」"
+    },
+    {
+     "kind": "block",
+     "id": "04",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=43字 ger=439字 ratio=0.10 CHN=「每种资源都有专家可以让你从源头采集。要采集花岗岩，先找到掌握」 ger=「VerheirateRAGNAunddenWikinger,derfrüherBJÖRNhieß,w」"
+    },
+    {
+     "kind": "block",
+     "id": "05",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=58字 ger=314字 ratio=0.18 CHN=「现在来了两位新维京人：给他们每人分配一个职业！让一位成为挑水」 ger=「JederdeinerWikinger,auchdaskleineneugeboreneKind,v」"
+    },
+    {
+     "kind": "block",
+     "id": "06",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=103字 ger=763字 ratio=0.13 CHN=「当你的维京人拥有职业后，就可以建造新建筑了。在左侧菜单栏中找」 ger=「BEDÜRFNISSEAlledeineWikingerhabenjedochBedürfnisse」"
+    },
+    {
+     "kind": "block",
+     "id": "07",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=20字 ger=438字 ratio=0.05 CHN=「需要新建筑时，可在建造菜单选择多种样式。」 ger=「HELDENEsgibtaberauchWikinger,diesichvondeinerZivil」"
+    },
+    {
+     "kind": "block",
+     "id": "08",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=23字 ger=193字 ratio=0.12 CHN=「用新获得的知识能做什么？用水果和蜂蜜来烘烤吧！」 ger=「WÖLFEWiegesagt,könnendeineWikingernurdurchHungerun」"
+    },
+    {
+     "kind": "block",
+     "id": "10",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=32字 ger=8字 ratio=4.00 CHN=「你有了一些漂亮房屋、职业等，但还缺防御工事抵御外敌：哨塔和城」 ger=「SEHRGUT!」"
+    },
+    {
+     "kind": "block",
+     "id": "10",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=41字 ger=207字 ratio=0.20 CHN=「哨塔由猎人守护。建造完成后，派猎人进驻守卫！注意：城墙塔楼也」 ger=「DuhastdaszweiteTutorialbestandenundweißtnun,wiedud」"
+    },
+    {
+     "kind": "block",
+     "id": "11",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=69字 ger=419字 ratio=0.16 CHN=「干得好！已学会职业、建筑等最重要的内容。现在选一位维京人、士」 ger=「IndiesemBergmassivverrichtendreideinerWikingerihre」"
+    }
+   ]
+  },
+  "tutorial_003.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 23,
+   "n_blocks": 14,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "00",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=52字 ger=740字 ratio=0.07 CHN=「本教程讲解游戏的基本规则，以及如何为你的维京人提供充足的食物」 ger=「DiesesTutorialbehandeltdiegrundlegendenSpielprinzi」"
+    },
+    {
+     "kind": "block",
+     "id": "01",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=64字 ger=429字 ratio=0.15 CHN=「这座建筑是你的木材采集站。伐木工会把砍下的木材存放在这里，供」 ger=「GUT!NunbeschäftigenocheinenHOLZABBAUERundeinenSTEI」"
+    },
+    {
+     "kind": "block",
+     "id": "03",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=55字 ger=420字 ratio=0.13 CHN=「你希望有更多的建筑工人吗？试着将男人们派到已掌握职业的维京人」 ger=「KlickedazuaufdasBausymbol(HausmitHammer)inderMenül」"
+    },
+    {
+     "kind": "block",
+     "id": "05",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=47字 ger=968字 ratio=0.05 CHN=「提示你的工人有各种自然需求：饥饿、口渴和疲劳。务必照顾好他们」 ger=「HINWEISDeineArbeiterhabenverschiedene,ganznatürlic」"
+    },
+    {
+     "kind": "block",
+     "id": "06",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "07",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=46字 ger=251字 ratio=0.18 CHN=「你的磨坊骄傲地矗立在天空中！现在你可以把小麦磨成面粉了。在附」 ger=「StolzrecktsichdeineMühleindenHimmel!DeinFarmerhata」"
+    },
+    {
+     "kind": "block",
+     "id": "08",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=52字 ger=271字 ratio=0.19 CHN=「提示有些工作场所可以指派搬运工或运输工，以加快物资的运送速度」 ger=「HINWEISEinigenArbeitsstättenkannstduTRÄGERoderHänd」"
+    },
+    {
+     "kind": "block",
+     "id": "09",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "11",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=58字 ger=326字 ratio=0.18 CHN=「面包坊已经建好了，你的维京人肯定很高兴有新鲜的面包。现在还需」 ger=「DeineBäckereiisterrichtetunddeineWikingerfreuensic」"
+    }
+   ]
+  },
+  "tutorial_004.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 28,
+   "n_blocks": 21,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "00",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=72字 ger=585字 ratio=0.12 CHN=「这里介绍科技树，并解释你的维京人如何通过新建和升级建筑来解锁」 ger=「HierwirdderTechnologiebaumeingeführtunderklärt,wie」"
+    },
+    {
+     "kind": "block",
+     "id": "02",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=57字 ger=434字 ratio=0.13 CHN=「扩建陶艺坊陶匠现在有了足够的生产经验。他可以进一步扩建他的陶」 ger=「AUSBAUDERTÖPFEREIDerTöpferhatnungenügendErfahrungb」"
+    },
+    {
+     "kind": "block",
+     "id": "03",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=47字 ger=357字 ratio=0.13 CHN=「扩建陶艺坊2陶匠现在已经相当精通他的工作了。给他再扩建一次陶」 ger=「AUSBAUDERTÖPFEREI2DerTöpferhatnungenügendErfahrung」"
+    },
+    {
+     "kind": "block",
+     "id": "04",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=55字 ger=288字 ratio=0.19 CHN=「从石匠到雕刻师你的石匠现在有了足够的知识来加工花岗岩和大理石」 ger=「VOMSTEINABBAUERZUMSTEINMETZDerSteinabbauerhatnunge」"
+    },
+    {
+     "kind": "block",
+     "id": "05",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=34字 ger=544字 ratio=0.06 CHN=「扩建石匠小屋你的雕刻师现在有了足够的经验，可以让他的小屋进一」 ger=「AUSBAUDERSTEINMETZHÜTTEDeinSteinmetzhatnungenügend」"
+    },
+    {
+     "kind": "block",
+     "id": "07",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=34字 ger=453字 ratio=0.08 CHN=「扩建木匠铺木匠现在有了足够的经验来扩建他的作坊。将木匠铺升到」 ger=「AUSBAUDERSCHREINEREIDerSchreinerhatnungenügendErfa」"
+    },
+    {
+     "kind": "block",
+     "id": "08",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=43字 ger=344字 ratio=0.12 CHN=「扩建木匠铺2木匠现在手艺精湛，有了新的想法。他的木匠铺需要再」 ger=「AUSBAUDERSCHREINEREI2DerSchreinerhatnungenügendErf」"
+    },
+    {
+     "kind": "block",
+     "id": "09",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=42字 ger=443字 ratio=0.09 CHN=「扩建木匠铺3木匠铺达到了最高级别！你的木匠现在可以生产各种各」 ger=「AUSBAUDERSCHREINEREI3DerSchreinerhatnungenügendErf」"
+    },
+    {
+     "kind": "block",
+     "id": "10",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=40字 ger=274字 ratio=0.15 CHN=「从矿工到铁匠你的矿工现在对矿石有了足够的了解。让他成为铁匠吧」 ger=「VOMERZABBAUERZUMSCHMIEDDerErzabbauerhatnungenügend」"
+    },
+    {
+     "kind": "block",
+     "id": "11",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=34字 ger=398字 ratio=0.09 CHN=「扩建铁匠铺铁匠现在有了足够的经验来扩大他的作坊。把铁匠铺升到」 ger=「AUSBAUDERSCHMIEDEDerSchmiedhatnungenügendErfahrung」"
+    },
+    {
+     "kind": "block",
+     "id": "12",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=65字 ger=673字 ratio=0.10 CHN=「从猎人到裁缝或畜牧人猎人如今已积累了足够的经验，可以转任裁缝」 ger=「VOMJÄGERZUMNÄHERODERVIEHZÜCHTERDerJägerhatnungenüg」"
+    },
+    {
+     "kind": "block",
+     "id": "13",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=39字 ger=413字 ratio=0.09 CHN=「扩建裁缝铺你的裁缝如今在服装制作方面积累了足够的经验，可以生」 ger=「AUSBAUDERNÄHEREIDeinNäherhatnungenügendErfahrungbe」"
+    },
+    {
+     "kind": "block",
+     "id": "15",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=40字 ger=351字 ratio=0.11 CHN=「干得好！你已将陶艺坊扩建完毕，但不幸的是，陶匠还不知道该如何」 ger=「GUTGEMACHT!NunhastdudeineTöpfereiausgebaut,aberder」"
+    },
+    {
+     "kind": "block",
+     "id": "16",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=39字 ger=361字 ratio=0.11 CHN=「干得好！你已将石匠小屋扩建完毕，但不幸的是，石匠还不知道如何」 ger=「GUTGEMACHT!NunhastdudeineSteinmetzhütteausgebaut,a」"
+    },
+    {
+     "kind": "block",
+     "id": "17",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=37字 ger=358字 ratio=0.10 CHN=「干得好！你已将木匠铺扩建完毕，但不幸的是，木匠还不知道如何利」 ger=「GUTGEMACHT!NunhastdudeineSchreinereiausgebaut,aber」"
+    },
+    {
+     "kind": "block",
+     "id": "18",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=37字 ger=370字 ratio=0.10 CHN=「干得好！你已将裁缝铺扩建完毕，但不幸的是，裁缝还不知道如何运」 ger=「GUTGEMACHT!NunhastdudeineNähereiausgebaut,aberderN」"
+    },
+    {
+     "kind": "block",
+     "id": "header",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=15字 ger=12字 ratio=1.25 CHN=「科技--让你的维京人掌握新能力」 ger=「TECHNOLOGIEN」"
+    }
+   ]
+  },
+  "tutorial_005.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 17,
+   "n_blocks": 16,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "01",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=65字 ger=643字 ratio=0.10 CHN=「商人这是索尔芬、洛丁和阿里，三位资质很好的年轻维京人，他们愿」 ger=「DERHÄNDLERDassindThorfinn,LodinundAri,dreigutausge」"
+    },
+    {
+     "kind": "block",
+     "id": "02",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=50字 ger=694字 ratio=0.07 CHN=「如果你不告诉商人该做什么，他会随心所欲地交易，而不考虑你的利」 ger=「WenndudemHändlerweiternichtssagst,wirderbeliebigeW」"
+    },
+    {
+     "kind": "block",
+     "id": "03",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=53字 ger=531字 ratio=0.10 CHN=「雷米和施泰尼需要工具（内部贸易）你的维京人经常需要工具来加快」 ger=「LEHMIUNDSTEINIBRAUCHENWERKZEUG(HandelnimeigenenVol」"
+    },
+    {
+     "kind": "block",
+     "id": "04",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=55字 ger=621字 ratio=0.09 CHN=「手推车和牛车手推车对货物的内部运输至关重要。手推车越多，你的」 ger=「HANDARRENundOCHSENKARRENKarrensindvongroßemVorteil」"
+    },
+    {
+     "kind": "block",
+     "id": "06",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=51字 ger=842字 ratio=0.06 CHN=「与异族进行贸易要与另一个民族进行远程贸易，你必须与它签订贸易」 ger=「HANDELNMITEINEMFREMDVOLKZumFernhandelmiteinemander」"
+    },
+    {
+     "kind": "block",
+     "id": "08",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=50字 ger=748字 ratio=0.07 CHN=「与此同时，我们转向远洋贸易。有时需要装载船只，将货物运往遥远」 ger=「InderZwischenzeitwidmenwirunsdemÜberseehandel.Manc」"
+    },
+    {
+     "kind": "block",
+     "id": "09",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=67字 ger=538字 ratio=0.12 CHN=「你的船已装载完毕，可以扬帆出海了！任何成年维京人都可以操控一」 ger=「DeinSchiffistnunbeladenundeskanninSeestechen!Steue」"
+    },
+    {
+     "kind": "block",
+     "id": "10",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=32字 ger=845字 ratio=0.04 CHN=「你已抵达撒拉森人的海岸。如果想在此靠岸，你必须先取得贸易许可」 ger=「DuhastdasUferderSarazenenerreicht.WillstdumitdemSc」"
+    },
+    {
+     "kind": "block",
+     "id": "14",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=42字 ger=31字 ratio=1.35 CHN=「用法兰克人的家具换取黄金--这是非常划算的交易。你的商人已经」 ger=「HandlebeiFrankenMöbelgegenGold.」"
+    }
+   ]
+  },
+  "tutorial_006.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 15,
+   "n_blocks": 24,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "00",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=61字 ger=382字 ratio=0.16 CHN=「你的维京人民族本质上是极其爱好和平的。但有时来自远方的敌人会」 ger=「DeinWikingervölkchenistausPrinzipäußertfriedlieben」"
+    },
+    {
+     "kind": "block",
+     "id": "01",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=46字 ger=336字 ratio=0.14 CHN=「士兵这些就是你的英雄！士兵是比普通维京人更强壮、更坚韧的战士」 ger=「SOLDATENUnddassindsie,deineHelden!Soldatensinddiee」"
+    },
+    {
+     "kind": "block",
+     "id": "03",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=51字 ger=258字 ratio=0.20 CHN=「弓箭手使用弓箭进行战斗。他们可以配备短弓或长弓。其优势在于远」 ger=「BogenschützenkämpfenmitPfeilundBogen.SiekönnenmitK」"
+    },
+    {
+     "kind": "block",
+     "id": "05",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=44字 ger=256字 ratio=0.17 CHN=「兵营为了让你的维京人有效防御，他们需要完善的训练场所和充足的」 ger=「DIEKASERNEWennsichdeineWikingereffektivverteidigen」"
+    },
+    {
+     "kind": "block",
+     "id": "06",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=45字 ger=618字 ratio=0.07 CHN=「干得好！兵营已建成。现在把平民训练成士兵吧--每位平民都需要」 ger=「Gutgemacht!DieKaserneisterrichtet.Günstigistes,rec」"
+    },
+    {
+     "kind": "block",
+     "id": "07",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=40字 ger=825字 ratio=0.05 CHN=「兵营的功能你可以在兵营里生产不同的军事单位。根据可用的资源选」 ger=「DIEKASERNEWennsichdeineWikingereffektivverteidigen」"
+    },
+    {
+     "kind": "block",
+     "id": "08",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=43字 ger=851字 ratio=0.05 CHN=「啊，还缺愿意入伍的人！碰巧法兰克人和撒拉逊人在你的营地附近扎」 ger=「Achso,dirfehlenwilligeRekruten!Zufällighabensichge」"
+    },
+    {
+     "kind": "block",
+     "id": "09",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=35字 ger=964字 ratio=0.04 CHN=「好！你已创建了15名士兵。但只有装备精良、训练有素的军队才能」 ger=「Gut!Duhast15Soldatenerschaffen.AbererstdieAusrüstu」"
+    },
+    {
+     "kind": "block",
+     "id": "10",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=35字 ger=570字 ratio=0.06 CHN=「盔甲你可以为你的士兵配备防具来保护他们。剑士需要链甲。弓箭手」 ger=「RÜSTUNGENDeineSoldatenkönnenzuihremSchutzmitRüstun」"
+    },
+    {
+     "kind": "block",
+     "id": "100",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "100",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=30字 ger=16字 ratio=1.88 CHN=「任务失败！你的英雄陨落了。在真正的游戏中，这意味着任务失败。」 ger=「MISSIONVERLOREN!」"
+    },
+    {
+     "kind": "block",
+     "id": "11",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['text', 'usericon', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "11",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=36字 ger=227字 ratio=0.16 CHN=「投石机士兵和英雄也可以使用投石机。投石机是重型攻城武器，但只」 ger=「KATAPULTEDenSoldatenundHeldenstehenauchKatapultezu」"
+    },
+    {
+     "kind": "block",
+     "id": "12",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=29字 ger=165字 ratio=0.18 CHN=「哎呀！那些一直和平的撒拉逊人偷袭了你的营地！立即进行反击！」 ger=「OHWEH!DiebisherfriedlichenSarazenenhabeneinenAußen」"
+    },
+    {
+     "kind": "block",
+     "id": "13",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=68字 ger=1254字 ratio=0.05 CHN=「士兵编组与攻击选中多个士兵的方式与普通维京人一样。双击一个士」 ger=「SOLDATENGRUPPENundANGRIFFMehrereSoldatenselektiert」"
+    },
+    {
+     "kind": "block",
+     "id": "14",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=123字 ger=1178字 ratio=0.10 CHN=「士兵模式攻击模式：士兵只攻击面前之敌。防御模式：士兵会攻击任」 ger=「SOLDATENMODISoldatenmodusAngriff:Angreifenkönnende」"
+    },
+    {
+     "kind": "block",
+     "id": "15",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=94字 ger=963字 ratio=0.10 CHN=「太棒了！你夺回了前哨站。但不幸的是，你不知道南方的撒拉森村庄」 ger=「GROSSARTIG!DuhastdenAußenpostenzurückerobert.Aberl」"
+    },
+    {
+     "kind": "block",
+     "id": "16",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=32字 ger=724字 ratio=0.04 CHN=「为了安全起见，你也可以请求友好民族的援助，他们会在战斗中支持」 ger=「DukannstzurSicherheitauchHilfevonanderenVölkernanf」"
+    },
+    {
+     "kind": "block",
+     "id": "18",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=47字 ger=972字 ratio=0.05 CHN=「外交（F5）打开外交窗口时，会显示一份关于各民族之间关系的概」 ger=「DIPLOMATIE(F5)BeimÖffnendesDiplomatiefenstersersch」"
+    },
+    {
+     "kind": "block",
+     "id": "19",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=71字 ger=565字 ratio=0.13 CHN=「进贡如果某部落对你怀有敌意或保持中立，通过进贡可能改变他们的」 ger=「TRIBUTZAHLUNGENWenndireinStammfeindlichoderneutral」"
+    }
+   ]
+  },
+  "tutorial_007.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 21,
+   "n_blocks": 16,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "00",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=45字 ger=625字 ratio=0.07 CHN=「这里介绍奖励物品和武器，以及如何制造与获取它们。按照左侧菜单」 ger=「HierwerdendieBonusgegenständeundWaffeneingeführt.-」"
+    },
+    {
+     "kind": "block",
+     "id": "01",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=48字 ger=601字 ratio=0.08 CHN=「箱子有可以打开的各种箱子--无论是男人、女人还是孩子。任何人」 ger=「KISTENEsgibtKisten,dievonjedemWikinger-obMannoderF」"
+    },
+    {
+     "kind": "block",
+     "id": "02",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=51字 ger=929字 ratio=0.05 CHN=「药剂如果你在箱子里找不到药剂，也可以自己制作它们。制药需要对」 ger=「TRÄNKEWenndudieTränkenichtinKistenfindest,abersiet」"
+    },
+    {
+     "kind": "block",
+     "id": "04",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=59字 ger=823字 ratio=0.07 CHN=「护身符它们无法制造，只能找到或通过交易获得。护身符赋予佩戴者」 ger=「AMULETTESiekönnennichthergestellt,nurgefundenoderi」"
+    },
+    {
+     "kind": "block",
+     "id": "05",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=58字 ger=773字 ratio=0.08 CHN=「好！你已找到撒拉逊人村庄里的所有护身符！护身符会赋予你的士兵」 ger=「GUT!DuhastalleAmuletteimSarazenendorfgefunden!Wenn」"
+    },
+    {
+     "kind": "block",
+     "id": "07",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=54字 ger=466字 ratio=0.12 CHN=「……不过回到你的平民百姓身上，他们也需要神奇的物件。为了让你」 ger=「...aberzurückzudeinerzivilenBevölkerung,dennauchhi」"
+    },
+    {
+     "kind": "block",
+     "id": "08",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=50字 ger=278字 ratio=0.18 CHN=「铁制工具铁制工具比木制工具更能提高工人的生产力。也就是说，产」 ger=「EISENWERKZEUGEisenwerkzeugesteigerndieProduktivitä」"
+    },
+    {
+     "kind": "block",
+     "id": "100",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text'] ger=['text', 'picture']"
+    },
+    {
+     "kind": "block",
+     "id": "11",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=45字 ger=328字 ratio=0.14 CHN=「鞋子每个赤脚的维京人都会为一双合脚的鞋感到高兴。鞋子可以增加」 ger=「SCHUHEJederbarfüssigeWikingerfreutsichübereinpaarS」"
+    },
+    {
+     "kind": "block",
+     "id": "12",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=53字 ger=310字 ratio=0.17 CHN=「油脂（圣火）每个住宅建筑外面都有一盏油灯。灯需要油脂来燃烧。」 ger=「ÖL(HeiligesFeuer)AußenanjedemWohngebäudebefindetsi」"
+    }
+   ]
+  },
+  "weinachten_2002.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "l10",
+     "encoding": "GB2312"
+    },
+    {
+     "code": "eng",
+     "alias": "eng",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 28,
+   "n_blocks": 25,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "5",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=12字 ger=63字 ratio=0.19 CHN=「设法驱散阴雨，唤来飞雪。」 ger=「SucheeineMöglichkeitdenRegenzuvertreibenundSchneeh」"
+    },
+    {
+     "kind": "block",
+     "id": "02",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=18字 ger=103字 ratio=0.17 CHN=「努力证明你的诚意，帮助部落填饱肚子。」 ger=「\"WirhabeneinefantastischeNäherei!Gehtundschautsiee」"
+    },
+    {
+     "kind": "block",
+     "id": "03",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=28字 ger=159字 ratio=0.18 CHN=「每个部落都需要被单独说服--他们都想成为最受重视的一方。」 ger=「\"WirwürdenjaeinenFriedenzustimmen,aberhabensieunsN」"
+    },
+    {
+     "kind": "block",
+     "id": "04",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=25字 ger=207字 ratio=0.12 CHN=「当年轻一代一起学习时，部落之间的隔阂就会慢慢消融。」 ger=「\"WirwürdenjaeinenFriedenzustimmen,aberhabensieunse」"
+    },
+    {
+     "kind": "block",
+     "id": "07",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=23字 ger=267字 ratio=0.09 CHN=「祝大家圣诞快乐，愿新的一年带给你们幸福与和平！」 ger=「Esstelltesichheraus,dassalleAnschuldigungengrundlo」"
+    },
+    {
+     "kind": "block",
+     "id": "10",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=19字 ger=183字 ratio=0.10 CHN=「可是还需要更多布料，为所有人都做一套。」 ger=「\"JedesJahrentfachteinneuerStreit,woderHäuptling(bi」"
+    },
+    {
+     "kind": "block",
+     "id": "100",
+     "type": "子元素序列不一致",
+     "detail": "CHN=['text', 'text'] ger=['font', 'text', 'font', 'picture', 'text']"
+    },
+    {
+     "kind": "block",
+     "id": "100",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=20字 ger=113字 ratio=0.18 CHN=「圣诞节的欢乐气氛被破坏了……再试一次吧！」 ger=「HeldenmutoderLeichtsinn?AlsBjarnistarb,weintendieG」"
+    },
+    {
+     "kind": "block",
+     "id": "11",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=8字 ger=67字 ratio=0.12 CHN=「希望他们会喜欢。」 ger=「BringedieEskimoszurNäherei,wenndieGraukimosundGelb」"
+    },
+    {
+     "kind": "block",
+     "id": "12",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=18字 ger=171字 ratio=0.11 CHN=「现在各族都准备好了，可以一起庆祝了。」 ger=「\"WirkönntenallenStämmeneineFreudemachenundihnenzum」"
+    },
+    {
+     "kind": "block",
+     "id": "13",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=27字 ger=169字 ratio=0.16 CHN=「和解的时刻终于到了。红色皮肤的小不点们似乎也松了口气。」 ger=「\"Wenneinervoneuchbeiunsbleibenwill,gebenwirihmselb」"
+    },
+    {
+     "kind": "block",
+     "id": "17",
+     "idx": 1,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=25字 ger=147字 ratio=0.17 CHN=「你找到了诺恩三女神的祝福。现在各族可以团结一致了。」 ger=「\"IhrhabtesgeschafftdiezweiStämmezuvereinen,dafürwe」"
+    },
+    {
+     "kind": "block",
+     "id": "18",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=28字 ger=185字 ratio=0.15 CHN=「圣诞快乐！愿和平与欢乐伴随你的维京人度过这个特别的节日。」 ger=「DERALTEMANN\"EsistverflixtmitdiesenEingeborenen!Sie」"
+    },
+    {
+     "kind": "block",
+     "id": "50_end",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=5字 ger=143字 ratio=0.03 CHN=「圣诞快乐！」 ger=「Wirhattenesgeschafft!DieEskimos,Gelbimos,Graukimos」"
+    },
+    {
+     "kind": "block",
+     "id": "50_end1",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=1字 ratio=2.00 CHN=「……」 ger=「…」"
+    }
+   ]
+  }
+ },
+ "map_xml_user": {
+  "Campaign00/01_Ein_neuer_Anfang.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "CHN",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 5,
+   "n_blocks": 6,
+   "issues": []
+  },
+  "Campaign00/02_Spanien.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "CHN",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 8,
+   "n_blocks": 18,
+   "issues": []
+  },
+  "Campaign00/03_Frankreich.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "CHN",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 8,
+   "n_blocks": 18,
+   "issues": []
+  },
+  "Campaign00/04_Schweiz.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "CHN",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 6,
+   "n_blocks": 10,
+   "issues": []
+  },
+  "Campaign00/05_Paris.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "CHN",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 8,
+   "n_blocks": 18,
+   "issues": []
+  },
+  "Campaign00/06_Belgien.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "CHN",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 7,
+   "n_blocks": 15,
+   "issues": []
+  },
+  "Campaign00/07_Germania.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "CHN",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 7,
+   "n_blocks": 15,
+   "issues": []
+  },
+  "Campaign00/08_Österreich.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "CHN",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 6,
+   "n_blocks": 10,
+   "issues": []
+  },
+  "Campaign00/09_Italien.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "CHN",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 8,
+   "n_blocks": 20,
+   "issues": []
+  },
+  "Campaign00/10_Tunesien.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "CHN",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 8,
+   "n_blocks": 18,
+   "issues": []
+  },
+  "Campaign00/11_Die_Unterwelt.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "CHN",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 8,
+   "n_blocks": 20,
+   "issues": []
+  },
+  "Campaign00/12_Die_Prüfung.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "CHN",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 8,
+   "n_blocks": 18,
+   "issues": [
+    {
+     "kind": "block",
+     "id": "playerdied1",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=5字 ger=26字 ratio=0.19 CHN=「群蛇已死。」 ger=「DieSchlangensindgestorben.」"
+    },
+    {
+     "kind": "block",
+     "id": "playerdied2",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=5字 ger=26字 ratio=0.19 CHN=「群蛇已死。」 ger=「DieSchlangensindgestorben.」"
+    },
+    {
+     "kind": "block",
+     "id": "playerdied3",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=5字 ger=26字 ratio=0.19 CHN=「群蛇已死。」 ger=「DieSchlangensindgestorben.」"
+    }
+   ]
+  },
+  "Campaign00/13_Das_Tal_der_Könige.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "CHN",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 8,
+   "n_blocks": 20,
+   "issues": []
+  },
+  "Campaign00/14_Die_Eiswelt.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "CHN",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 7,
+   "n_blocks": 15,
+   "issues": []
+  },
+  "Campaign00/15_Australien.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "CHN",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 8,
+   "n_blocks": 18,
+   "issues": []
+  },
+  "Campaign00/16_Wigrid_Wall.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "CHN",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 7,
+   "n_blocks": 14,
+   "issues": []
+  },
+  "Campaign00/17_Nordwestafrika.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "CHN",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 8,
+   "n_blocks": 18,
+   "issues": []
+  },
+  "Campaign00/18_Tschad.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "CHN",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 8,
+   "n_blocks": 19,
+   "issues": []
+  },
+  "Campaign00/19_Kongo.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "CHN",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 8,
+   "n_blocks": 19,
+   "issues": []
+  },
+  "Campaign00/20_Die_Höhle.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "CHN",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 5,
+   "n_blocks": 7,
+   "issues": []
+  },
+  "Campaign00/21_Südafrika.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "CHN",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 7,
+   "n_blocks": 14,
+   "issues": []
+  },
+  "Campaign00/22_Daheim.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "CHN",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 7,
+   "n_blocks": 14,
+   "issues": []
+  },
+  "Campaign01/01_Die_Pirateninsel.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "CHN",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 8,
+   "n_blocks": 19,
+   "issues": []
+  },
+  "Campaign01/02_Die_Lavainsel.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "CHN",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 7,
+   "n_blocks": 16,
+   "issues": []
+  },
+  "Campaign01/03_Verlorene_Welt.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "CHN",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 7,
+   "n_blocks": 16,
+   "issues": []
+  },
+  "Campaign01/04_Die_Händler.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "CHN",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 8,
+   "n_blocks": 18,
+   "issues": []
+  },
+  "Campaign01/05_Die_Münzsammler.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "CHN",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 8,
+   "n_blocks": 19,
+   "issues": []
+  },
+  "Campaign01/06_Die_Entscheidung.xml": {
+   "languages": [
+    {
+     "code": "CHN",
+     "alias": "CHN",
+     "encoding": "windows-1252"
+    },
+    {
+     "code": "ger",
+     "alias": "ger",
+     "encoding": "windows-1252"
+    }
+   ],
+   "n_strings": 8,
+   "n_blocks": 20,
+   "issues": [
+    {
+     "kind": "string",
+     "id": "0",
+     "idx": null,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=15字 ratio=0.13 CHN=「抉择」 ger=「DieEntscheidung」"
+    },
+    {
+     "kind": "block",
+     "id": "start_header",
+     "idx": 0,
+     "type": "长度比异常(疑似内容错位)",
+     "detail": "CHN=2字 ger=15字 ratio=0.13 CHN=「抉择」 ger=「DieEntscheidung」"
+    }
+   ]
+  }
+ }
+}

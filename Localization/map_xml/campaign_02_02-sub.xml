@@ -1,40 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_02_02-sub" export_map_id="campaign_02_02-sub" map_md5="966ee8d112e9f12e60f1e0b90f4c3bef" IsC2M="false">
+<localization version="1.3" map_id="campaign_02_02-sub" export_map_id="campaign_02_02-sub" map_md5="966ee8d112e9f12e60f1e0b90f4c3bef" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@与诸英雄一同抵达瓶中精灵！</text>
+      <text lang="eng">@Reach the genie from the bottle with your heroes!</text>
       <text lang="ger">@Erreiche mit den Helden gemeinsam den Flaschengeist!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的部族</text>
+      <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarnis Stamm</text>
     </string>
     <string id="51">
       <text lang="CHN">蛇战士</text>
+      <text lang="eng">Serpent Warriors</text>
       <text lang="ger">Schlangenkrieger</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
+      <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
+      <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
     </string>
     <string id="75">
       <text lang="CHN">伊科尔</text>
+      <text lang="eng">Ykol</text>
       <text lang="ger">Ykol</text>
     </string>
     <string id="99">
       <text lang="CHN">三个愿望 - 大饥荒 - 支线</text>
+      <text lang="eng">THREE WISHES - The Great Famine - Sub</text>
       <text lang="ger">DREI WÜNSCHE - Die Große Hungersnot - Sub</text>
     </string>
   </strings>
@@ -44,6 +53,11 @@
         <text>
 “我们的勇敢、力量与全部勇气，在对付蛇灾时都帮不上什么忙，因为这灾祸源于黑暗的魔法技艺。可以说，源于神域……”伊科尔解释道。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+"Our bravery, our strength and all our courage cannot help us fight the serpent plague, because the plague was caused by dark magic. It is a divine spell, so to speak ..." Ykol explained. 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -60,6 +74,15 @@
 
 打开门扉，找到神灵！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+"In these catacombs dwells an ancient genie who will make the impossible come true. Only he is strong enough and has the necessary magic power. 
+
+But remember: It is very difficult to get to him. Many gates bar the way ..."
+
+Open the gates and find the genie!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -82,6 +105,16 @@ Doch bedenkt: es ist wohl schwierig, zu ihm zu gelangen. Viele Tore versperren d
 用机关门对付蛇形生物！
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+SERPENT CREATURES
+
+Oh no! Those dreadful beasts had even spread underground! 
+However, we found out that they could not be exceedingly clever, because the door mechanisms troubled them, so that they became trapped in the catacombs for weeks!  
+
+Use the door mechanisms against the serpent creatures!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 SCHLANGENWESEN
@@ -101,6 +134,13 @@ Benutze die Türmechanismen gegen die Schlangenwesen!
 伴随着巨大的吱嘎声，不远处一扇木门缓缓开启。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THE FIRST GATE
+
+A wooden gate nearby opened up with an enormous creak. 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DAS ERSTE TOR  
@@ -117,6 +157,13 @@ Mit einem gewaltigen Knarren öffnete sich ein hölzernes Tor nicht fern von hie
 伴随着巨大的吱嘎声，不远处一扇木门缓缓开启。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+THE SECOND GATE 
+ 
+A wooden gate nearby opened up with an enormous creak. 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DAS ZWEITE TOR 
@@ -132,6 +179,13 @@ Mit einem gewaltigen Knarren öffnete sich ein hölzernes Tor nicht fern von hie
 
 伴随着巨大的吱嘎声，不远处一扇木门缓缓开启。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE THIRD GATE  
+
+A wooden gate nearby opened up with an enormous creak.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -161,6 +215,25 @@ Mit einem gewaltigen Knarren öffnete sich ein hölzernes Tor nicht fern von hie
 好好记住开关的记号，因为我只向你们展示一次！”
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+GENIE
+
+We found the genie Ykol had spoken of, and from which he expected so much.
+
+It spoke to us:
+ 
+"I will only grant wishes to those willing to answer my riddle! 
+
+Well?!
+
+...
+
+There are three switches in these rooms.
+
+Remember the symbols of the switches well, because I will only show them to you once!" 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 GEIST
@@ -188,6 +261,12 @@ Merke dir die Symbole der Schalter gut, denn ich zeige sie euch nur ein einziges
 “你们看，这是开关 A”
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+
+"This is switch A."
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -201,6 +280,12 @@ Merke dir die Symbole der Schalter gut, denn ich zeige sie euch nur ein einziges
 
 “你们看，这是开关 B”
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+"This is switch B."
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -222,6 +307,18 @@ Merke dir die Symbole der Schalter gut, denn ich zeige sie euch nur ein einziges
 你们准备好猜谜了吗？那就走近一步！”
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+
+"This is switch C." 
+
+There are three possible answers to each of my riddles. But beware! Only one of them is correct. Find the right answers!
+
+Answer me by operating the respective switch!  
+
+Are you ready for the riddle? Then come a little closer!"   
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -242,6 +339,12 @@ Seid ihr bereit für dieses Rätsel? Dann tretet einen Schritt näher!"
 你们必须从开关上下来，否则神灵不会开口！
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+
+You have to leave the switches, otherwise the genie will remain silent!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -260,6 +363,17 @@ Du musst von den Schaltern herunter gehen, sonst schweigt der Geist!
         <text>
 是英勇，还是鲁莽？比雅尼死时，诸神也为之落泪……少了这位英雄，你便无从知晓任务的结局。
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -281,6 +395,13 @@ Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen 
 答错了！
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+NOPE!
+
+Wrong answer!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 MÖP!
@@ -296,6 +417,13 @@ Falsche Antwort!
 
 “好吧，你们破解了谜题，我便遵从你们的愿望。我愿实现三个愿望。那么，你们的第一个愿望是什么？”
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+GENIE
+
+"You have solved the riddle and I will fulfil three wishes for you. What is your first wish?" 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -315,6 +443,15 @@ GEIST
 请消除蛇灾，让人们重归安宁生活！”
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+We were amazed that our mission might be completed simply by wishing for something. Nevertheless we requested: 
+
+"The people in this land are being threatened by evil serpent beings. In spite of bitter resistance, they have only been warded off, but never defeated. 
+
+Fight the serpent plague, so the people can live in peace again!" 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Wir waren so perplex, dass unsere Mission einfach durch die Aussprache eines Wunsches erfüllt werden sollte. Aber trotzdem forderten wir frei heraus: 
@@ -333,6 +470,14 @@ Bekämpfe die Schlangenplage, so dass die Menschen wieder in Frieden leben könn
 
 整场蛇灾瞬间被消灭！那些沦为蛇族牺牲品、却尚存一息的人，从施暴者的尸骸中站了起来！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+BOOM - BANG!        
+... the wish had been fulfilled ...
+ 
+The entire SERPENT PLAGUE had been vanquished with a single strike! Their surviving victims arose from the remains of their tormentors!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -355,6 +500,17 @@ Die ganze SCHLANGENPLAGE war mit einem Schlag vernichtet! Die Menschen, die ihne
 “神灵，若你有力为之，请终结这场饥荒！”
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+"Well, this was your first wish," the genie said. "I will fulfil two more for you. 
+
+What is your second desire?" 
+
+We thought about the people: The serpent plague had ended, but the people would still be starving for a long time, because their villages and fields had been devastated ... 
+
+"Genie, if it is within your power to do so, please end this famine!" 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 "Nun, dies war eurer erster Wunsch" sprach der Geist. "Zwei will ich euch noch erfüllen. 
@@ -376,6 +532,14 @@ Wir sannen über die Menschen nach: Zwar war die Schlangenplage nun gebannt, abe
 饥荒被驱散，人们获得了丰盛的食物。他们长久的苦痛，终告结束……
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+BOOM - BANG!         
+... the wish had been fulfilled ...
+ 
+The FAMINE was ended and the people had plenty of food. Their long torment was over ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 PFLOPF ZISCH PENG !!!!        
@@ -396,6 +560,17 @@ Die HUNGERSNOT ward gebannt und die Leute erhielten Nahrung im Überfluss. Ihre 
 
 神灵虽不甚通晓北欧神话，却愿意看看自己能做什么…… ;0)
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+"You are very selfless, my riddle-solving friends!" the genie noted appreciatively. "I will fulfil one last wish for you. What is your third request?" 
+
+We thought about our third wish, but nobody seemed to want anything important. So Ykol rushed to the genie and asked him:
+
+"Give Bjarni 'Odin's Heart' for Cyra - an amulet with magic powers! It seems worthy of a Byzantine princess!" 
+
+The genie didn't seem to be much of an expert on Nordic mythology, but he wanted to see what he could do about it ... ;0)   
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -421,6 +596,17 @@ B) 712
 C) 一个也没有！
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+QUESTION 1 
+
+"How many thieves did Aladdin meet?" 
+
+A) 40  
+B) 712
+C) none!  
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 FRAGE 1 
@@ -444,6 +630,17 @@ A) 雪兔
 B) 骆驼
 C) 腔棘鱼
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+QUESTION 2 
+
+"Which of these is known as the 'ship of the desert'?" 
+
+A) Mountain Hare
+B) Camel 
+C) Coelacanth
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -469,6 +666,17 @@ B) 爸爸蜃楼
 C) 北极光
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+QUESTION 3  
+
+"What do you call a mirage in the desert?" 
+
+A) Fata Morgana  
+B) Fatal Morgana
+C) Northern Lights
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 FRAGE 3  
@@ -488,6 +696,12 @@ C) Nordlichter
 答对了！
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+
+CORRECT!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 
@@ -506,6 +720,17 @@ RICHTIG!
         <text>
 生命中片刻的鲁莽，转瞬即至！你的女英雄希拉因你的疏忽而殒命！少了这位女英雄，你便无从知晓任务的结局。
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your heroine Cyra died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -531,6 +756,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin C
 生命中片刻的鲁莽，转瞬即至！你的朋友与英雄哈奇因你的疏忽而殒命！少了这位英雄，你便无从知晓任务的结局。
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -555,6 +791,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 生命中片刻的鲁莽，转瞬即至！伊科尔因你的疏忽而殒命！少了这位英雄，你便无从知晓任务的结局。
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Ykol died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -573,6 +820,11 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Ykol erlag dur
 神灯精灵随最后一个愿望消散，却留下一枚熠熠生辉的红色护符。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+After the last wish, the genie from the bottle disappeared. But he left a shining red amulet behind. 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Der Flaschengeist verschwand mit dem letzten Wunsch, aber er hinterlies ein leuchtend rotes Amulett. 
@@ -584,6 +836,11 @@ Der Flaschengeist verschwand mit dem letzten Wunsch, aber er hinterlies ein leuc
         <text>
 伊科尔立刻拾起它，交到我手中。我把它戴在希拉身上--据伊科尔说，它蕴含魔力，应能护佑佩戴者……
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+Ykol picked it up and brought it to me. I gave it to Cyra, because Ykol claimed its magic powers would protect its bearer ... 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -598,6 +855,12 @@ Sogleich hob es Ykol auf und brachte es mir. Ich legte es Cyra an, denn laut Yko
 任务成功！
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+
+MISSION COMPLETED! 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 
@@ -611,6 +874,12 @@ MISSION GEWONNEN!
 
 三个愿望
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THREE WISHES
+</text>
       </lang>
       <lang code="ger">
         <text>

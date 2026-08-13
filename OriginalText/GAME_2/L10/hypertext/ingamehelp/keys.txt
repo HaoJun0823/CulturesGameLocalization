@@ -1,0 +1,99 @@
+[blockstart:keys]
+<font:$local$\fonts\fonthead16bld.fnt>
+游戏热键
+<font:$local$\fonts\font12.fnt>
+
+
+<textxstart:40> h <textxstart:200>	 跳至母舰
+
+<textxstart:40> z <textxstart:200>	 放大或缩小画面
+
+<textxstart:40> o <textxstart:200> 开启观察窗口 
+
+<textxstart:40> p <textxstart:200>	 暂停游戏
+
+<textxstart:40> l <textxstart:200> 提高游戏进行速度
+
+<textxstart:40> TAB <textxstart:200> 显示所有人物与建筑物的相关提示
+
+<textxstart:40> Arrow keys <textxstart:200> 卷动画面
+<textxstart:40> Num pad	 <textxstart:200> 卷动画面
+
+<textxstart:40> ESC <textxstart:200> 关闭窗口、取消选取
+
+<textxstart:40> F1 <textxstart:200> 寻求帮助
+
+<textxstart:40> F2 <textxstart:200> 开启系统菜单
+
+<textxstart:40> F3 <textxstart:200> 读取游戏存档
+<textxstart:40> F4 <textxstart:200> 储存游戏进度
+
+<textxstart:40> F5 <textxstart:200> 开启外交窗口
+<textxstart:40> F6 <textxstart:200> 开启统计窗口
+<textxstart:40> F7 <textxstart:200> 开启人物菜单
+<textxstart:40> F8 <textxstart:200> 开启科技树图
+
+<textxstart:40> F9 <textxstart:200> 快速储存
+
+<textxstart:40> F10 <textxstart:200> 开启地图总览
+
+<textxstart:40> CTRL b <textxstart:200> 拍摄目前游戏画面
+
+<textxstart:40> CTRL s <textxstart:200> 快速储存
+
+<textxstart:40> ALT(left) F4 <textxstart:200> 离开游戏
+
+<textxstart:40> Right-click <textxstart:200> 决定顺序
+
+<textxstart:40> . <textxstart:200> 选取下一位平民
+<textxstart:40> , <textxstart:200> 选取下一位探勘家
+
+<textxstart:40> b <textxstart:200>	 决定建筑物建造顺序
+<textxstart:40> s <textxstart:200>	 决定铺路顺序
+<textxstart:40> d <textxstart:200>	 决定栅栏搭设顺序
+<textxstart:40> SHIFT d <textxstart:200>	 决定栅门设立顺序
+
+
+<textxstart:0><block:2> 当人物被选取时
+
+<textxstart:40> SPACEBAR <textxstart:200> 显示动作菜单
+
+<textxstart:40> c <textxstart:200> 为人物进行转职
+<textxstart:40> w <textxstart:200> 指定住家
+<textxstart:40> a <textxstart:200> 指定工作地点
+
+<textxstart:40> CTRL Right-click <textxstart:200> 设定工作区域的中心位置 (对户外工人而言)
+
+
+<textxstart:0><block:2> 当一或多位人物、运输工具或建筑物被选取时
+
+<textxstart:40> CTRL 0-9 <textxstart:200> 将目前选取中的人物、运输工具或 建筑物归为一个群组，并指定群组 编号
+
+<textxstart:40> SHIFT 0-9 <textxstart:200> 将目前选取中的人物、运输工具或 建筑物归至编号相对应的群组
+
+<textxstart:40> 0-9 <textxstart:200> 选取相对应编号的群组
+
+<textxstart:40> CTRL Left-click <textxstart:200> 将人物、运输工具或建筑物从被选 取的对象中移除
+
+<textxstart:40> SHIFT Left-click <textxstart:200> 将人物、运输工具或建筑物加入被 选取的对象中
+
+<textxstart:40> SPACEBAR <textxstart:200> 显示被选取对象的动作菜单
+
+
+<textxstart:0><block:2> 人物显示窗口(工人)
+
+<textxstart:40> CTRL Left-click 点物品旁的加减钮
+<textxstart:200> 设定物品需求量至无限/无
+
+
+<textxstart:0><block:2> 建筑显示窗口(货栈)(当物品的类型被选取时)
+
+<textxstart:40> CTRL Left-click 点物品旁的加减钮
+<textxstart:200> 一次增加/减少10单位的物品
+
+
+<textxstart:0><block:2> 区域网路游戏中
+
+<textxstart:40> ENTER	<textxstart:200> 开始进行对话
+
+[blockend:keys]

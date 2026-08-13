@@ -1,83 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="multiplayer_201_special_coop" export_map_id="multiplayer_201_special_coop" map_md5="8d445a79a991e9c006b176aabac2a4e3" IsC2M="false">
+<localization version="1.3" map_id="multiplayer_201_special_coop" export_map_id="multiplayer_201_special_coop" map_md5="8d445a79a991e9c006b176aabac2a4e3" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">合作：暴风雪</text>
+      <text lang="eng">CO-OP: THE BLIZZARD</text>
       <text lang="ger">COOP: Schneetreiben</text>
     </string>
     <string id="1">
       <text lang="CHN">6 个维京部族，对抗一支强大而好战的维京部族的敌军。</text>
+      <text lang="eng">6 Viking tribes fight against the hostile troops of a powerful, bellicose tribe of Vikings.</text>
       <text lang="ger">6 Wikingerstämme kämpfen gegen feindliche Truppen eines mächtigen und angriffslustigen Wikingerstammes.</text>
     </string>
     <string id="2">
       <text lang="CHN">与邻邦结盟，将敌方维京人逐出这片土地！</text>
+      <text lang="eng">Forge an alliance with your neighbours and drive your adversaries out of these lands!</text>
       <text lang="ger">Verbünde dich mit deinen Nachbarn und vertreibe die feindlichen Wikinger aus diesem Land!</text>
     </string>
     <string id="10">
       <text lang="CHN">格陵兰人</text>
+      <text lang="eng">Grasslanders</text>
       <text lang="ger">Grünländer</text>
     </string>
     <string id="11">
       <text lang="CHN">格陵</text>
+      <text lang="eng">Grass</text>
       <text lang="ger">Grün</text>
     </string>
     <string id="20">
       <text lang="CHN">文兰人</text>
+      <text lang="eng">Vinlanders</text>
       <text lang="ger">Vinländer</text>
     </string>
     <string id="21">
       <text lang="CHN">文兰</text>
+      <text lang="eng">Vin</text>
       <text lang="ger">Vin</text>
     </string>
     <string id="30">
       <text lang="CHN">海卢兰人</text>
+      <text lang="eng">Hellulanders</text>
       <text lang="ger">Helluländer</text>
     </string>
     <string id="31">
       <text lang="CHN">海卢</text>
+      <text lang="eng">Hellu</text>
       <text lang="ger">Hellu</text>
     </string>
     <string id="40">
       <text lang="CHN">马克兰人</text>
+      <text lang="eng">Marklanders</text>
       <text lang="ger">Markländer</text>
     </string>
     <string id="41">
       <text lang="CHN">马克</text>
+      <text lang="eng">Mark</text>
       <text lang="ger">Mark</text>
     </string>
     <string id="50">
       <text lang="CHN">普拉特兰人</text>
+      <text lang="eng">Flatlanders</text>
       <text lang="ger">Plattländer</text>
     </string>
     <string id="51">
       <text lang="CHN">普拉特</text>
+      <text lang="eng">Flat</text>
       <text lang="ger">Platt</text>
     </string>
     <string id="60">
       <text lang="CHN">高地人</text>
+      <text lang="eng">Highlanders</text>
       <text lang="ger">Highländer</text>
     </string>
     <string id="61">
       <text lang="CHN">高地</text>
+      <text lang="eng">High</text>
       <text lang="ger">High</text>
     </string>
     <string id="70">
       <text lang="CHN">暗境人</text>
+      <text lang="eng">Gloomlanders</text>
       <text lang="ger">Finsterländer</text>
     </string>
     <string id="71">
       <text lang="CHN">幽暗</text>
+      <text lang="eng">Gloom</text>
       <text lang="ger">Finst</text>
     </string>
   </strings>
   <briefings>
     <block id="begin_00">
       <lang code="CHN">
-                <text>
+        <text>
 对你的部族而言，这是个艰难时世。
 
 你与爱好和平的邻居们，由来已久地同历忧患。
@@ -89,6 +107,20 @@
 贴士：
 你的行囊中备有几封用于建筑的信。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+These are dark times for the Vikings ...
+
+For some time, you and your peace-loving neighbours have been threatened by a large tribe of Vikings who have set themselves up as the sole rulers of these lands.
+
+But all the tribes of the country have now united and are arming themselves against this enemy. They will support each other in battle against their common foe! You can only hope to defeat the enemy's superior forces if you strike together.
+
+To transfer some Vikings to your allies, send them to that tribe's holy flame. Have your people enter the magic fire-circle, and they will follow your allies' orders in future - because they now belong to that tribe!
+
+Hint:
+There are some house permits in your possession. Use them quickly and wisely!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -107,13 +139,23 @@ Es befinden sich ein paar Briefe für Gebäude in deinem Besitz, nutze sie schne
     </block>
     <block id="begin_01">
       <lang code="CHN">
-                <text>
+        <text>
 恭喜！
 
 那帮恶徒已被驱逐！历经浴血苦战……
 
 如今和平可期，并肩作战的部族们终得安享宁静。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+CONGRATULATIONS!
+
+The evildoers have been defeated! After long, hard battles, the land is finally free of fear and tyranny!
+
+Peace has been restored, and the tribes which fought side by side are able to establish excellent relations now!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -128,9 +170,16 @@ Nun kann Frieden einziehen, und die Stämme, die Seite an Seite gekämpft haben,
     </block>
     <block id="header">
       <lang code="CHN">
-                <text>
+        <text>
 风雪
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE BLIZZARD
+
+</text>
       </lang>
       <lang code="ger">
         <text>

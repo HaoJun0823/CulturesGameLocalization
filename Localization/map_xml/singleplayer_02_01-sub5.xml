@@ -1,41 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="singleplayer_02_01-sub5" export_map_id="singleplayer_02_01-sub5" map_md5="68e2f6323302ef15cbdaa5597adc75f5" IsC2M="false">
+<localization version="1.3" map_id="singleplayer_02_01-sub5" export_map_id="singleplayer_02_01-sub5" map_md5="68e2f6323302ef15cbdaa5597adc75f5" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
-<string id="0">
+    <string id="0">
       <text lang="CHN">找到第二个开关，开启通往西北方洞穴的通道！</text>
+      <text lang="eng">Find the second switch to open the passage to the cave in the north-west!</text>
       <text lang="ger">Finde den zweiten Schalter, mit dem du den Durchgang zur Höhle im Nordwesten öffnen kannst!</text>
     </string>
-<string id="1">
+    <string id="1">
       <text lang="CHN">抵御四处游荡的恶狼！</text>
+      <text lang="eng">Defend yourself against the stray wolves!</text>
       <text lang="ger">Verteidige dich gegen die herumstreunenden Wölfe!</text>
     </string>
-<string id="51">
+    <string id="51">
       <text lang="CHN">狼族生物</text>
+      <text lang="eng">Wolf Creatures</text>
       <text lang="ger">Wolfskreaturen</text>
     </string>
-<string id="71">
+    <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
-<string id="72">
+    <string id="72">
       <text lang="CHN">狼族首领</text>
+      <text lang="eng">Wolf Leader</text>
       <text lang="ger">Wolfsführer</text>
     </string>
-<string id="99">
+    <string id="99">
       <text lang="CHN">狼穴</text>
+      <text lang="eng">THE WOLVES' CAVE</text>
       <text lang="ger">DIE WOLFSHÖHLE</text>
     </string>
-</strings>
-<briefings>
-<block id="begin_00"><lang code="CHN">
-                <text>
+  </strings>
+  <briefings>
+    <block id="begin_00">
+      <lang code="CHN">
+        <text>
 洞内处处弥漫恶臭的雾气，伴着腐臭之气。四周群狼齐啸，几乎令我心胆俱裂！
 我动身去寻找这地下穹厅的开关……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+The place was filled with evil fumes, accompanied by a mouldy smell of something rotten. And the wolves all around us began a chorus that nearly made my heart stop! 
+I started looking for the switch of this underground vault ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -44,12 +58,17 @@ Ich machte mich auf die Suche nach dem Schalter dieses unterirdischen Gewölbes.
 </text>
       </lang>
     </block>
-
     <block id="begin_01">
       <lang code="CHN">
-                <text>
+        <text>
 有闯入者进了我们的地牢？杀了他！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+An intruder in our dungeon? Kill him!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -58,12 +77,17 @@ Ein Eindringling in unserem Verlies? Tötet ihn!
 </text>
       </lang>
     </block>
-
     <block id="begin_02">
       <lang code="CHN">
-                <text>
+        <text>
 开关就在那儿，我寻觅的目标……却由庞大的狼群与这些直立的狼族生物把守！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+There was the switch I had been looking for ... but it was guarded by hordes of wolves and these upright wolf creatures! 
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -72,12 +96,17 @@ Da war der Schalter, das Ziel meiner Suche... Doch er wurde bewacht von riesigen
 </text>
       </lang>
     </block>
-
     <block id="begin_03">
       <lang code="CHN">
-                <text>
+        <text>
 怪物已死，可若别处还有更多呢？
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+The creatures were dead, but what if there were more of them about?
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -86,12 +115,17 @@ Die Kreaturen waren tot, doch was, wenn es irgendwo noch mehr von ihnen gab?
 </text>
       </lang>
     </block>
-
     <block id="begin_04">
       <lang code="CHN">
-                <text>
+        <text>
 此刻只求速离这可怖洞穴……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+Time to get out of this dreadful cave ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -100,12 +134,17 @@ Jetzt nichts wie raus aus dieser grauenvollen Höhle...
 </text>
       </lang>
     </block>
-
     <block id="begin_05">
       <lang code="CHN">
-                <text>
+        <text>
 比雅尼牺牲了！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+Bjarni has died!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -114,12 +153,17 @@ Bjarni ist gestorben!
 </text>
       </lang>
     </block>
-
     <block id="begin_06">
       <lang code="CHN">
-                <text>
+        <text>
 我穿行过一团幽暗之雾，米格尔所言它的提神之效竟是真的：在雾中驻留片刻，我便明显好转！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+I had run through one of these dark, nebulous shapes - it was true what Miguel had told me about their refreshing effects: A few seconds in this fog were enough to make me feel much better!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -128,12 +172,18 @@ Ich war durch einen dieser dunklen Nebel gelaufen, und es stimmte tatsächlich, 
 </text>
       </lang>
     </block>
-
     <block id="header">
       <lang code="CHN">
-                <text>
+        <text>
 狼穴
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+THE WOLVES' CAVE
+
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -143,5 +193,5 @@ DIE WOLFSHÖHLE
 </text>
       </lang>
     </block>
-</briefings>
+  </briefings>
 </localization>

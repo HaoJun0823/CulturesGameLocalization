@@ -1,52 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_03_03_sub1" export_map_id="campaign_03_03_sub1" map_md5="5f535834e575d513d7c6208c032e1997" IsC2M="false">
+<localization version="1.3" map_id="campaign_03_03_sub1" export_map_id="campaign_03_03_sub1" map_md5="5f535834e575d513d7c6208c032e1997" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">简短说明 0</text>
+      <text lang="eng">Shortdescription 0</text>
       <text lang="ger">Shortdescription 0</text>
     </string>
     <string id="1">
       <text lang="CHN">简短说明 1</text>
+      <text lang="eng">Shortdescription 1</text>
       <text lang="ger">Shortdescription 1</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家</text>
+      <text lang="eng">Player</text>
       <text lang="ger">Spieler</text>
     </string>
     <string id="51">
       <text lang="CHN">德米特里奥斯</text>
+      <text lang="eng">Demetrios</text>
       <text lang="ger">Demetrios</text>
     </string>
     <string id="60">
       <text lang="CHN">玩家</text>
+      <text lang="eng">Player</text>
       <text lang="ger">Spieler</text>
     </string>
     <string id="61">
       <text lang="CHN">德梅</text>
+      <text lang="eng">Demet</text>
       <text lang="ger">Demet</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="78">
       <text lang="CHN">古纳尔</text>
+      <text lang="eng">Gunnar</text>
       <text lang="ger">Gunnar</text>
     </string>
     <string id="98">
       <text lang="CHN">巨像密道</text>
+      <text lang="eng">COLOSSUS - SECRET PASSAGE</text>
       <text lang="ger">KOLOSS-GEHEIMGANG</text>
     </string>
     <string id="99">
       <text lang="CHN">巨像密道</text>
+      <text lang="eng">COLOSSUS - SECRET PASSAGE</text>
       <text lang="ger">KOLOSS-GEHEIMGANG</text>
     </string>
     <string id="100">
       <text lang="CHN">将满载蜂蜜酒的推车运至隧道出口。已完全装满！</text>
+      <text lang="eng">Take the cart full of mead to the exit of the tunnel. Make sure it is completely full!</text>
       <text lang="ger">Bring den Karren mit dem Met heil zum Ausgang des Tunnels. Komplett gefüllt!</text>
     </string>
   </strings>
@@ -63,6 +75,20 @@
 
 祝你好运！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+Take the cart full of mead to the exit, it should remain undamaged. The soldiers will escort you and protect you against potential enemies in the tunnels.
+
+</text>
+        <usericon>1,91,129</usericon>
+        <text>
+
+And remember: The cart has to be FULL when you reach the exit! 
+Do not touch the mead! It is not meant for you!
+
+Good luck!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -88,6 +114,11 @@ Viel Glück!
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+WELL DONE! 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 GUT GEMACHT! 
@@ -104,6 +135,13 @@ GUT GEMACHT!
 在外等候，直至梅特罗斯前来与你接头。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+You have managed to take the cart with 10 bottles of mead through the underground passage undamaged! Well done.
+
+Wait outside for Metros.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -125,6 +163,15 @@ Warte draußen, bis Metros zu dir kommt.
 只需在其间驻足片刻，伤势便迅速痊愈。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+HEALING FOG
+
+These strange wisps of fog appeared to have healing qualities!
+
+You only had to remain in the fog for a few seconds, and all your wounds were healed!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -154,6 +201,17 @@ Man musste sich nur wenige Sekunden darin aufhalten, schon wurden alle Wunden ge
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -177,6 +235,13 @@ Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen 
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+MISSION FAILED
+
+The cart carrying the mead has been destroyed! Your mission has failed!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 MISSION GESCHEITERT
@@ -195,6 +260,14 @@ Der Wagen mit dem Met wurde zerstört! Dein Auftrag ist gescheitert!
 佩特罗斯又派来几名部下作为增援。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+REINFORCEMENTS
+
+Petros is sending you some reinforcements. 
+This is the only kind of help he can offer you ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -222,6 +295,17 @@ Mehr Hilfe kann er dir allerdings nicht mehr anbieten...
 一时的疏忽，人生便会急转直下！你的女英雄希拉因你的大意而丧命！失去这位英雄，你将无缘见到任务的结局。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -253,6 +337,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin C
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -282,6 +377,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 一时的疏忽，人生便会急转直下！你的挚友与英雄西格德因你的大意而丧命！失去这位英雄，你将无缘见到任务的结局。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -315,6 +421,19 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+You attacked your best friends although you had been warned! 
+
+This way you will not be able to complete your mission!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -337,6 +456,11 @@ So wirst du deine Mission nicht beenden können!
 密道
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE SECRET PASSAGE
+</text>
       </lang>
       <lang code="ger">
         <text> 

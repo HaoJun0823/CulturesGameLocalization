@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="singleplayer_03_01-sub1" export_map_id="singleplayer_03_01-sub1" map_md5="60e068a4b1b7564d03de4618e0552cc6" IsC2M="false">
+<localization version="1.3" map_id="singleplayer_03_01-sub1" export_map_id="singleplayer_03_01-sub1" map_md5="60e068a4b1b7564d03de4618e0552cc6" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">走向那生灵！</text>
+      <text lang="eng">Step in front of the being!</text>
       <text lang="ger">Tritt vor das Wesen!</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="99">
       <text lang="CHN">神谕侍者</text>
+      <text lang="eng">SERVANT OF THE ORACLE</text>
       <text lang="ger">DIENER DES ORAKELS</text>
     </string>
   </strings>
   <briefings>
     <block id="01">
       <lang code="CHN">
-                <text>
+        <text>
 水之生灵
 
 "向你致意，俊伟的勇士！
@@ -37,6 +41,25 @@
 
 带上 30 瓶水登船，以扑灭那圈火！待神谕因你们之助重获自由，作恶者自会受应得之惩……"
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+WATER BEING
+
+"Hail, stately youth!
+For centuries, I have not seen a human here ...
+
+Listen to me! I am the servant of the water oracle and protect my master! Desert robbers have spellbound the power of the oracle by laying a circle of fire round it. Now it is caught, and I cannot help it! My power over the water is limited to these walls, but that is only enough to feed the plants directly above.
+
+If you would help me to free the oracle ... I could get you access to the oracle, past all evil creatures ..."
+
+Naturally we could not refuse this request - also in our own interest. 
+
+"I thank you! Listen: Build a ship and sail over the sea to the oracle. The dangerous cliffs surrounding it can be passed by you!
+
+Take 30 bottles of water on board to extinguish the circle of fire! And when the oracle is liberated due to your help, the evil doers will have to pay a fair price for their sins ..."
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -60,11 +83,18 @@ Nehmt 30 Flaschen Wasser mit an Bord, um den Kreis aus Feuer zu löschen! Und we
     </block>
     <block id="begin_00">
       <lang code="CHN">
-                <text>
+        <text>
 神庙的地基阴凉而潮湿，尽管此处无水！幽蓝的异光自地面透出，房间中央伫立着一个宛自异界的生灵……
 
 绿洲农人的首领可知此事？我走向那生灵……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+The foundation of the temple was cool and humid, although there was no water! This unreal blue light was shining from the ground, and a being that looked like it came from a different world stood in the centre of the room ...
+
+Did the chieftain of the oasis farmers know about this? I stepped in front of the being ...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -76,9 +106,16 @@ Ob der Häuptling der Oasenbauer davon wusste? Ich trat vor das Wesen...
     </block>
     <block id="header">
       <lang code="CHN">
-                <text>
+        <text>
 神谕侍者
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+SERVANT OF THE ORACLE
+
+</text>
       </lang>
       <lang code="ger">
         <text>

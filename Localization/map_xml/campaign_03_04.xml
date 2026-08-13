@@ -1,220 +1,274 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_03_04" export_map_id="campaign_03_04" map_md5="f1dc34e0af7198cec13d9fb112d95816" IsC2M="false">
+<localization version="1.3" map_id="campaign_03_04" export_map_id="campaign_03_04" map_md5="f1dc34e0af7198cec13d9fb112d95816" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">短描述 0</text>
+      <text lang="eng">Shortdescription 0</text>
       <text lang="ger">Shortdescription 0</text>
     </string>
     <string id="1">
       <text lang="CHN">短描述 1</text>
+      <text lang="eng">Shortdescription 1</text>
       <text lang="ger">Shortdescription 1</text>
     </string>
     <string id="21">
       <text lang="CHN">缴纳贡品，使奥西里斯部族保持中立。</text>
+      <text lang="eng">Pay a tribute in order to create neutral relations with the Osirians.</text>
       <text lang="ger">Zahle den Tribut, um den Stamm der Osirer neutral zu stimmen.</text>
     </string>
     <string id="22">
       <text lang="CHN">缴纳一份贡品，赢取奥西里斯人的友谊。</text>
+      <text lang="eng">Pay a tribute in order to make friends with the Osirians.</text>
       <text lang="ger">Zahle einen Tribut, um die Freundschaft der Osirer zu gewinnen.</text>
     </string>
     <string id="23">
       <text lang="CHN">缴纳贡品，使埃尔阿拉布之民保持中立。</text>
+      <text lang="eng">Pay a tribute in order to create neutral relations with the people of El Arab.</text>
       <text lang="ger">Zahle den Tribut, um das Volk von El Arab neutral zu stimmen.</text>
     </string>
     <string id="24">
       <text lang="CHN">缴纳贡品，使阿尔拉哈巴的海盗归于平和。</text>
+      <text lang="eng">Pay a tribute in order to make the pirates of Al Rhababa happy.</text>
       <text lang="ger">Zahle Tribut, um die Piraten von Al Rhababa friedlich zu stimmen.</text>
     </string>
     <string id="25">
       <text lang="CHN">把商人莱特罗斯所求的货品（作为贡品）交予他，以购得一只箱子。</text>
+      <text lang="eng">Give Letros the merchant the desired goods (tribute) to buy a chest.</text>
       <text lang="ger">Gib dem Händler Letros die gewünschten Waren (Tribut), um eine Kiste zu kaufen.</text>
     </string>
     <string id="26">
       <text lang="CHN">把商人阿穆洛斯所求的货品（作为贡品）交予他，以购得一只箱子。</text>
+      <text lang="eng">Give Amulos the merchant the desired goods (tribute) to buy a chest.</text>
       <text lang="ger">Gib dem Händler Amulos die gewünschten Waren (Tribut), um eine Kiste zu kaufen.</text>
     </string>
     <string id="27">
       <text lang="CHN">把商人维诺斯所求的货品（作为贡品）交予他，以购得一只箱子。</text>
+      <text lang="eng">Give Vinos the merchant the desired goods (tribute) to buy a chest.</text>
       <text lang="ger">Gib dem Händler Vinos die gewünschten Waren (Tribut), um eine Kiste zu kaufen.</text>
     </string>
     <string id="28">
       <text lang="CHN">向摩索拉斯陵墓的工人们支付他们的工钱（作为贡品）。</text>
+      <text lang="eng">Pay the builders of the Mausoleum their wages (tribute).</text>
       <text lang="ger">Zahle den Bauarbeitern des Mausoleums ihren Lohn (Tribut).</text>
     </string>
     <string id="30">
       <text lang="CHN">派玛尼与诺伯特去见奥西里斯人的祭司。</text>
+      <text lang="eng">Send Mani and Norbert to the Osirian priest.</text>
       <text lang="ger">Schicke Mani und Norbert zum Priester der Osirer.</text>
     </string>
     <string id="40">
       <text lang="CHN">玩家</text>
+      <text lang="eng">Player</text>
       <text lang="ger">Spieler</text>
     </string>
     <string id="41">
       <text lang="CHN">哈利卡纳索斯</text>
+      <text lang="eng">Halicarnassus</text>
       <text lang="ger">Halikarnassos</text>
     </string>
     <string id="42">
       <text lang="CHN">奥西里斯人</text>
+      <text lang="eng">Osirians</text>
       <text lang="ger">Osirer</text>
     </string>
     <string id="43">
       <text lang="CHN">阿尔拉哈巴</text>
+      <text lang="eng">Al Rhababa</text>
       <text lang="ger">Al Rhababa</text>
     </string>
     <string id="44">
       <text lang="CHN">埃尔阿拉布</text>
+      <text lang="eng">El Arab</text>
       <text lang="ger">El Arab</text>
     </string>
     <string id="47">
       <text lang="CHN">莱特罗斯</text>
+      <text lang="eng">Letros</text>
       <text lang="ger">Letros</text>
     </string>
     <string id="48">
       <text lang="CHN">阿穆洛斯</text>
+      <text lang="eng">Amulos</text>
       <text lang="ger">Amulos</text>
     </string>
     <string id="49">
       <text lang="CHN">维诺斯</text>
+      <text lang="eng">Vinos</text>
       <text lang="ger">Vinos</text>
     </string>
     <string id="60">
       <text lang="CHN">玩家</text>
+      <text lang="eng">Player</text>
       <text lang="ger">Spieler</text>
     </string>
     <string id="61">
       <text lang="CHN">哈勒</text>
+      <text lang="eng">Harl</text>
       <text lang="ger">Harl</text>
     </string>
     <string id="62">
       <text lang="CHN">奥西</text>
+      <text lang="eng">Osi</text>
       <text lang="ger">Osi</text>
     </string>
     <string id="63">
       <text lang="CHN">拉哈</text>
+      <text lang="eng">Rhab</text>
       <text lang="ger">Rhab</text>
     </string>
     <string id="64">
       <text lang="CHN">阿拉</text>
+      <text lang="eng">Arab</text>
       <text lang="ger">Arab</text>
     </string>
     <string id="67">
       <text lang="CHN">莱特</text>
+      <text lang="eng">Letr</text>
       <text lang="ger">Letr</text>
     </string>
     <string id="68">
       <text lang="CHN">阿穆</text>
+      <text lang="eng">Amul</text>
       <text lang="ger">Amul</text>
     </string>
     <string id="69">
       <text lang="CHN">维诺</text>
+      <text lang="eng">Vino</text>
       <text lang="ger">Vino</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
+      <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
+      <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
+      <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">诺伯特</text>
+      <text lang="eng">Norbert</text>
       <text lang="ger">Norbert</text>
     </string>
     <string id="76">
       <text lang="CHN">玛尼</text>
+      <text lang="eng">Mani</text>
       <text lang="ger">Mani</text>
     </string>
     <string id="80">
       <text lang="CHN">摩索拉斯</text>
+      <text lang="eng">Mausolos</text>
       <text lang="ger">Mausolos</text>
     </string>
     <string id="81">
       <text lang="CHN">阿尔特米西亚</text>
+      <text lang="eng">Artemisia</text>
       <text lang="ger">Artemisia</text>
     </string>
     <string id="82">
       <text lang="CHN">萨堤罗斯</text>
+      <text lang="eng">Satyros</text>
       <text lang="ger">Satyros</text>
     </string>
     <string id="83">
       <text lang="CHN">图特・马・尼克斯</text>
+      <text lang="eng">Toot N Commin</text>
       <text lang="ger">Tut Ma' Nix</text>
     </string>
     <string id="98">
       <text lang="CHN">在哈利卡纳索斯，我们本应为摩索拉斯王建起一座巨构--他的陵墓，即世界第四大奇迹。</text>
+      <text lang="eng">In Halicarnassus we were supposed to build a gigantic construction for King Mausolos - the Mausoleum, the 4th Wonder of the World.</text>
       <text lang="ger">In Halikarnassos sollten wir für König Mausolos ein gigantisches Bauwerk errichten - sein Grabmal, das 4. Weltwunder.</text>
     </string>
     <string id="99">
       <text lang="CHN">摩索拉斯陵墓</text>
+      <text lang="eng">THE MAUSOLEUM</text>
       <text lang="ger">DAS MAUSOLEUM</text>
     </string>
     <string id="100">
       <text lang="CHN">前往哈利卡纳索斯，在那里寻访统治者。</text>
+      <text lang="eng">Go to Halicarnassus and look out for the monarch.</text>
       <text lang="ger">Gehe nach Halikarnassos und suche dort den Herrscher auf.</text>
     </string>
     <string id="105">
       <text lang="CHN">寻访摩索拉斯王。</text>
+      <text lang="eng">Look for King Mausolos.</text>
       <text lang="ger">Suche König Mausolos auf.</text>
     </string>
     <string id="106">
       <text lang="CHN">与比雅尼一同去见摩索拉斯王。</text>
+      <text lang="eng">Take Bjarni to King Mausolos.</text>
       <text lang="ger">Gehe mit Bjarni zu König Mausolos.</text>
     </string>
     <string id="107">
       <text lang="CHN">缴纳贡品，赢取摩索拉斯王的友谊。</text>
+      <text lang="eng">Pay a tribute to make friends with King Mausolos.</text>
       <text lang="ger">Zahle Tribut, um die Freundschaft von König Mausolos zu gewinnen.</text>
     </string>
     <string id="108">
       <text lang="CHN">与比雅尼一同去见阿尔特米西亚王后。</text>
+      <text lang="eng">Take Bjarni to Queen Artemisia.</text>
       <text lang="ger">Gehe mit Bjarni zu Königin Artemisia.</text>
     </string>
     <string id="110">
       <text lang="CHN">砖块 %d/10</text>
+      <text lang="eng">Brick %d/10</text>
       <text lang="ger">Backstein %d/10</text>
     </string>
     <string id="111">
       <text lang="CHN">大理石 %d/10</text>
+      <text lang="eng">Marble %d/10</text>
       <text lang="ger">Marmor %d/10</text>
     </string>
     <string id="112">
       <text lang="CHN">碎石 %d/20</text>
+      <text lang="eng">Quarrystone %d/20</text>
       <text lang="ger">Bruchstein %d/20</text>
     </string>
     <string id="115">
       <text lang="CHN">将 10 块砖、10 块大理石与 20 块碎石运抵工地。</text>
+      <text lang="eng">Take 10 bricks, 10 blocks of marble and 20 quarrystones to the building site.</text>
       <text lang="ger">Bringe 10 Backsteine, 10 Marmorblöcke und 20 Bruchsteine zur Baustelle.</text>
     </string>
     <string id="120">
       <text lang="CHN">大理石 %d/10</text>
+      <text lang="eng">Marble %d/10</text>
       <text lang="ger">Marmor %d/10</text>
     </string>
     <string id="121">
       <text lang="CHN">黄金 %d/10</text>
+      <text lang="eng">Gold %d/10</text>
       <text lang="ger">Gold %d/10</text>
     </string>
     <string id="122">
       <text lang="CHN">屋顶瓦 %d/20</text>
+      <text lang="eng">Roof tiles %d/20</text>
       <text lang="ger">Dachziegeln %d/20</text>
     </string>
     <string id="125">
       <text lang="CHN">将 10 块大理石、10 根金条与 20 片屋顶瓦运抵工地。</text>
+      <text lang="eng">Take 10 blocks of marble, 10 gold ingots and 20 roof tiles to the building site.</text>
       <text lang="ger">Bringe 10 Marmorblöcke, 10 Goldbarren und 20 Dachziegeln zur Baustelle.</text>
     </string>
     <string id="200">
       <text lang="CHN">@筑起摩索拉斯陵墓！</text>
+      <text lang="eng">@BUILD THE MAUSOLEUM!</text>
       <text lang="ger">@ERRICHTE DAS MAUSOLEUM!</text>
     </string>
   </strings>
@@ -226,6 +280,13 @@
 
 在这座港口城市附近，古时曾矗立着一座宏伟建筑--据传说，此建筑亦在地震中几近倾颓。这座陵墓正是我们下一个目标。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+After the successful construction of the Colossus, Sigurd and Hatchie had set off to Halicarnassus with the rest of the company. In ancient times there used to be a mighty building somewhere near this port that served as a tomb to a famous king.
+
+In the course of the centuries, the name of the king had fallen into oblivion, and even the building itself was said to have been destroyed in an earthquake. 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -248,6 +309,17 @@ Der Name des Königs war im Lauf der Jahrhunderte in Vergessenheit geraten, und 
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+It was our task to resurrect the tomb. With a little bit of luck it should only be a matter of a short time, for according to the Council, the foundations at least still existed.
+
+
+Hatchie and Sigurd dropped anchor north of the city. First they wanted to pay a visit to the ruler of Halicarnassus and investigate the situation in the city. After what they had experienced in Rhodes, they had become cautious ...
+
+
+Go to Halicarnassus and pay the monarch a visit.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Unsere Aufgabe war es, das Grabmal wieder in seinen ursprünglichen Zustand zu versetzen. Mit etwas Glück sollte es recht schnell gehen, denn zumindest das Fundament stand nach Angaben des Rates noch an seinem Platz.
@@ -269,6 +341,11 @@ Gehe nach Halikarnassos und suche dort den Herrscher auf.
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+MISSION COMPLETED! 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 MISSION GEWONNEN! 
@@ -287,6 +364,15 @@ MISSION GEWONNEN!
 唯盼这世界奇迹能免于灾厄，直至我们的大任功成。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+You made it! 
+
+With Queen Artemisia's help, we had managed to complete the Mausoleum despite pirates and earthquakes!
+ 
+We could now only hope that this Wonder of the World would be spared from any catastrophes until we had completed our great mission.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -310,6 +396,16 @@ Wir konnten nun nur noch hoffen, dass dieses Weltwunder so lange von irgendwelch
 我们已无暇可失……
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+Our journey would now take us to Ephesus, where we wanted to see whether the Temple of Artemis was still undamaged and intact. 
+
+This was what the Council of Nations had told us. We were hoping that we wouldn't receive a nasty surprise, because evil and darkness were coming closer and closer. 
+
+
+We had no time to lose ... 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -336,6 +432,17 @@ Wir hatten keine Zeit mehr zu verlieren...
 同时亦想寻那古陵残迹。它总该在某处……
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+HALICARNASSUS
+
+This is Halicarnassus, the capital of the Carian region. The city is located around a natural harbour that is protected by an offshore island. 
+
+The ruler of the Carian region was King Mausolos. We had to see him to find out whether we would face any troubles during the reconstruction of the Mausoleum of the ancient king. 
+
+At the same time, we wanted to look out for remains of the ancient tomb. After all, they had to be somewhere ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -366,6 +473,17 @@ Gleichzeitig wollten wir auch nach den Überresten des alten Grabmals Ausschau h
 是英勇还是鲁莽？当比雅尼倒下时，众神为之落泪……失去这位英雄，你将无缘见到任务的结局。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When BJARNI died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -402,6 +520,26 @@ Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen 
 言罢，那人竟如烟而散。我们莫非撞见了幽灵？？
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+LOCAL
+
+Near the small lake we were approached by one of the locals.
+
+</text>
+        <usericon>1,218,27</usericon>
+        <text>
+
+"Ah, stranger! Be careful! Severe earthquakes often shake the ground and do damage to our huts and houses! You will be safe close to the sea, but if you dare to venture inland, it might be dangerous!
+
+Take these goods. I give them to you. Maybe they will be of use.
+
+Well, I must go now. I feel unsafe here ..."
+
+
+Having spoken these words, the stranger disappeared. Had we seen a ghost?
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -446,6 +584,24 @@ Mit diesen Worten löste sich der Fremde quasi in Rauch auf. Hatten wir hier etw
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+TRIBE OF THE OSIRIANS
+
+</text>
+        <usericon>1,83,83</usericon>
+        <text>
+
+A tribe that once came from distant Egypt had settled down near the city of Halicarnassus. They called themselves Osirians after the Egyptian god of the underworld.
+
+Enviously and energetically they defended the resources that they found in the mountains near their village.
+
+If we wanted to lay hands on them, we would have to drive away the Osirians or find a way to make friends with them.
+
+
+Drive the Osirians away or pay the requested tribute, so that they will give up their hostile attitude towards your tribe.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 STAMM DER OSIRER
@@ -487,6 +643,23 @@ Vertreibe die Osirer oder leiste den geforderten Tribut, damit sie ihre kriegeri
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+OLD FISHERMAN
+
+</text>
+        <usericon>1,209,259</usericon>
+        <text>
+
+"This is a dangerous area. Yes, indeed ...
+
+How often have the pirates of Al Rhababa landed here and plundered the city! Although we specially built this stronghold on the promontory in the harbour ... 
+
+But apparently our soldiers are not in a position to fight the pirate ships from there ...
+
+So, you had better keep away from here ... I don't want you to be harmed!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 ALTER FISCHER
@@ -526,6 +699,22 @@ Ach, haltet euch besser fern von hier... Nicht, dass ihr noch Schaden nehmt!"
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+CITIZEN OF HALICARNASSUS
+
+</text>
+        <usericon>2,101</usericon>
+        <text>
+
+"Have you heard of the Osirians? If you follow the beach to the north-west, you will reach their village.
+
+They have a mighty priest who knows a lot of ancient secrets! They say that he can be very helpful to friends.
+And he is mad about rare and mysterious things!
+
+Oh well, maybe you will meet him one day. His name is Tut Ma' Nix ..." 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 BÜRGER VON HALIKARNASSOS
@@ -564,6 +753,22 @@ Naja, vielleicht lernt ihr ihn ja mal kennen. Tut Ma' Nix ist sein Name..."
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+CITIZEN OF HALICARNASSUS
+
+</text>
+        <usericon>2,102</usericon>
+        <text>
+
+"Have you heard about the pirates? They live on an island off the shore of the city, not far from here! 
+They are dangerous! Their ships are fast and their fortress is strong! They have numerous soldiers and evil weapons ...
+
+Oh yes ...
+
+If only one could get onto the island without being destroyed immediately. But no ship can hold enough soldiers and weapons ..."
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 BÜRGER VON HALIKARNASSOS
@@ -599,6 +804,19 @@ Wenn man nur auf die Insel käme, ohne sofort vernichtet zu werden. Aber kein Sc
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+CITIZEN OF HALICARNASSUS
+
+</text>
+        <usericon>2,103</usericon>
+        <text>
+
+"You have heard about the pirates? Yes, they live on the island off the coast. Their fortress can hardly be captured.
+
+Only a huge army might succeed in defeating them and creating peace! But how could soldiers be taken to the island without being spotted?"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 BÜRGER VON HALIKARNASSOS
@@ -632,6 +850,21 @@ Nur mit einer großen Armee kann es gelingen, sie zu besiegen und für Ruhe zu s
 众人是这般说的……"
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+CITIZEN OF HALICARNASSUS
+
+</text>
+        <usericon>2,104</usericon>
+        <text>
+
+"Shhhh ... Do you know what they say in the tavern? The Osirians have secret ways of travelling from one spot to the next in a split second! In no time at all, so to speak. As if by magic!
+
+They say there is such a path that leads to the pirates' island! But the Osirians would surely only show it to people they trust! 
+
+So I've heard, anyway ..."
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -669,6 +902,21 @@ Sagt man zumindest..."
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+CITIZEN OF HALICARNASSUS
+
+</text>
+        <usericon>2,105</usericon>
+        <text>
+
+"Tut Ma' Nix? Isn't that the priest of the Osirians? Yes, I have heard the name before. They say that he knows a lot of secrets. Secret ways and magic paths, they say. Personally, I think it's nonsense ...
+
+He supposedly also likes really strange animals. Unicorns, sphinxes, minotaurs, dragons and such ... 
+
+VERY strange, if you ask me ..."
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 BÜRGER VON HALIKARNASSOS
@@ -700,6 +948,18 @@ SEHR suspekt, wenn ihr mich fragt..."
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+AL RHABABA
+
+The people of Al Rhababa lived on an island to the west of Halicarnassus. They were pirates who made their living through robbery and raids.
+
+They were men of war and could quickly cover large distances with their ships! Nobody was safe from their raids. We, too, feared to become the victims of their greed for gold ...
+
+
+Prepare yourself against raids by the pirates. Maybe you can buy peace and thus prevent them from robbing you.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 AL RHABABA
@@ -725,6 +985,16 @@ Rüste dich gegen Überfälle der Piraten. Eventuell kannst du dir den Frieden m
 或可以贡金使其敛去锋芒……
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+EL ARAB
+
+At the foot of the mountains lived a small tribe called El Arab. They regarded the mountains as their possessions and attacked anyone who tried to settle there.
+
+
+Maybe you can manage to break their hostile attitude by paying them a tribute ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -754,6 +1024,19 @@ Vielleicht kannst du sie über eine Tributzahlung von ihrer kriegerischen Haltun
 他们停止劫掠，此后任我们安宁。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+AL RHABABA
+
+After we had paid the pirates of Al Rhababa a rather high tribute, their greed for gold was satisfied for the time being. 
+
+</text>
+        <usericon>1,64,348</usericon>
+        <text>
+
+They stopped their raids and let us live in peace.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -786,6 +1069,20 @@ Sie stellten ihre Überfälle ein und ließen uns künftig in Frieden.
 不妨也去赢取奥西里斯族的友谊！或能有所回报！
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+TRIBE OF THE OSIRIANS
+
+</text>
+        <usericon>1,83,83</usericon>
+        <text>
+
+After we had paid the Osirians the requested tribute, they stopped their hostile actions. Now we had access to the precious resources that we had discovered in their mountains.
+
+
+Now try to make friends with the Osirians! It could be worth it!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -825,6 +1122,24 @@ Versuche, nun auch die Freundschaft der Osirer zu gewinnen! Es könnte sich für
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+LETROS THE CHEST MERCHANT
+
+"Greetings, friends. My name is Letros.
+
+</text>
+        <usericon>1,206,240</usericon>
+        <text>
+
+Together with my two brothers, I do a flourishing trade in chests.
+
+They're brand-new and always of the best quality! However, we never tell anyone what exactly is hidden in a chest. 
+You must trust us, you know ... In return we offer you cheap prices.
+
+The first chest is for free. A gift for our friends, you know ... So you can test the goods, so to speak."
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 LETROS, DER KISTENHÄNDLER
@@ -862,6 +1177,20 @@ Die erste Kiste ist gratis. Unter Freunden, du verstehst... Um die Ware zu teste
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+LETROS THE CHEST MERCHANT
+
+"If you offer me a few goods in return, you will get a new chest from me!"
+
+</text>
+        <usericon>1,206,240</usericon>
+        <text>
+
+
+Pay Letros the requested goods (tribute) to get a new chest.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 LETROS, DER KISTENHÄNDLER
@@ -895,6 +1224,19 @@ Zahle Letros die gewünschten Waren (Tribut), um eine neue Kiste zu bekommen.
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+LETROS THE CHEST MERCHANT
+
+"Thank you very much! I hope you will like what you find in the chest.
+
+</text>
+        <usericon>1,206,240</usericon>
+        <text>
+
+Have fun!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 LETROS, DER KISTENHÄNDLER
@@ -926,6 +1268,19 @@ Viel Spaß damit!"
 那里有宝贵资源，于这艰巨使命不无小补。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+EL ARAB
+
+</text>
+        <usericon>1,279,244</usericon>
+        <text>
+
+After we had paid the people of El Arab their requested tribute, they put down their weapons and granted us free access to their mountains. 
+
+There we found precious resources that might be of use to us in our hard task.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -965,6 +1320,25 @@ Dort gab es wertvolle Rohstoffe, die uns bei unserer schweren Aufgabe durchaus v
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+AMULOS THE CHEST MERCHANT
+
+"Ah, strangers in town. Greetings to you! I am Amulos.
+
+</text>
+        <usericon>1,245,258</usericon>
+        <text>
+
+Together with my two brothers, I do a flourishing trade in chests.
+
+They're brand-new and always of the best quality! However, we never tell anyone what exactly is hidden in a chest. 
+Our customers trust us blindly. And I would like to add that they are right to ... In return we offer them cheap prices.
+
+The first chest is for free. A gift for our friends, you know ... So you can test the goods. 
+Not that it's necessary ..."
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 AMULOS, DER KISTENHÄNDLER
@@ -1003,6 +1377,20 @@ Nicht, dass das nötig wäre..."
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+AMULOS THE CHEST MERCHANT
+
+"If you give me a few goods in return, you will get a new chest from me!"
+
+</text>
+        <usericon>1,245,258</usericon>
+        <text>
+
+
+Pay Amulos the requested goods (tribute) to get a new chest.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 AMULOS, DER KISTENHÄNDLER
@@ -1036,6 +1424,19 @@ Zahle Amulos die gewünschten Waren (Tribut), um eine neue Kiste zu bekommen.
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+AMULOS THE CHEST MERCHANT
+
+"Thank you very much! I hope that you will like what you find in the chest.
+
+</text>
+        <usericon>1,245,258</usericon>
+        <text>
+
+Have fun!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 AMULOS, DER KISTENHÄNDLER
@@ -1067,6 +1468,19 @@ Viel Spaß damit!"
 奥西里斯族本可于诸多方面助你，如今却永世与你为敌！
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+TRIBE OF THE OSIRIANS
+
+If you are looking for conflict, you shall have it!
+
+</text>
+        <usericon>1,83,83</usericon>
+        <text>
+
+The Osirians, who surely could have helped you in many ways, will now be against you until the end of time!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1105,6 +1519,24 @@ Die Osirer, die dir sicherlich in einigen Dingen noch hätten nützlich sein kö
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+VINOS THE CHEST MERCHANT
+
+"Hey, who is this? You look like an expert in noble drinks and finest spirits! 
+
+</text>
+        <usericon>1,285,301</usericon>
+        <text>
+
+Call me Vinos, like my friends do. I do a flourishing trade with chests in the city. A family tradition, so to speak. My brothers do the same thing.
+
+They're brand-new and always of the best quality! However, we never tell anyone what exactly is hidden in a chest.
+The business is based on mutual trust ... In return we offer cheap prices.
+
+The first chest is for free. From one expert to another ... So you can test the goods ..."
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 VINOS, DER KISTENHÄNDLER
@@ -1142,6 +1574,20 @@ Die erste Kiste ist umsonst. Quasi von Kenner zu Kenner... Um die Ware zu testen
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+VINOS THE CHEST MERCHANT
+
+"If you give me some goods in return, you will get a new chest from me!"
+
+</text>
+        <usericon>1,285,301</usericon>
+        <text>
+
+
+Pay Vinos the requested goods (tribute) to get a new chest.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 VINOS, DER KISTENHÄNDLER
@@ -1175,6 +1621,19 @@ Zahle Vinos die gewünschten Waren (Tribut), um eine neue Kiste zu bekommen.
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+VINOS THE CHEST MERCHANT
+
+"Thank you very much! I hope you will like what you find in the chest.
+
+</text>
+        <usericon>1,285,301</usericon>
+        <text>
+
+Have fun!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 VINOS, DER KISTENHÄNDLER
@@ -1206,6 +1665,19 @@ Viel Spaß damit!"
 谁知其后尚能予我等何益……
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+TRIBE OF THE OSIRIANS
+
+By paying the requested tribute we managed to make friends with the Osirians! 
+
+</text>
+        <usericon>1,83,83</usericon>
+        <text>
+
+Who knows what good may yet come of this ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1250,6 +1722,32 @@ Wer weiß, welchen Nutzen dies uns noch bringen mochte...
 嗯，但愿我们没看错……
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+FRIENDS ARRIVE
+
+It was a big surprise when the ship carrying myself, Cyra, our son Mani, his dragon Norbert and some soldiers from Cyra's father's bodyguard dropped anchor at the beach!
+
+</text>
+        <usericon>1,173,34</usericon>
+        <text>
+
+Mani had recovered from his severe illness that had forced us to leave our friends. 
+
+When we had arrived at the court of Cyra's father, the Emperor of Byzantium, after our departure from Rhodes, he did everything in his power to get the best physicians of the empire. So, Mani enjoyed the best medical care one could imagine. 
+
+Thanks to this excellent care and nursing he had soon recovered. Still, we had remained at the court until he was completely well again. 
+
+Then we had prepared our ship and set off again for Rhodes. But when we saw the Colossus in the harbour entrance from a distance, we knew that our friends had been successful and kept sailing directly towards Halicarnassus. 
+
+And here we were!
+
+Together it would be easy for us to complete the next Wonder of the World!
+
+
+If only we were not mistaken ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1296,6 +1794,17 @@ Nun, wenn wir uns da mal nicht täuschen sollten...
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your heroine CYRA died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you! 
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1335,6 +1844,30 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin C
 与比雅尼同去见摩索拉斯王。只是--那家伙究竟在何处？
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+KING MAUSOLOS
+
+"Ah, strangers in town! What a rare occasion ...
+
+</text>
+        <usericon>1,218,272</usericon>
+        <text>
+
+You are looking for the tomb of the old king? Hm. Well, it did once exist, up on the hill over there. 
+
+We have used the stones to build new houses in the city. They served us well.
+
+We have created a little park on the spot where it once stood. For the citizens to relax. So you see the old tomb still serves a good cause, even after all this time. 
+
+Well, that's enough now. After all, I am the king and not a tourist guide! Send your leader if there is anything else you would like to talk about! 
+
+Otherwise - please excuse me!"
+
+
+Take Bjarni to King Mausolos. But - where has he got to?
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1386,6 +1919,28 @@ Geh mit Bjarni zu König Mausolos. Nur - wo steckt der Kerl denn bloß?
 以厚礼（贡品）向摩索拉斯王证你友谊。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+KING MAUSOLOS
+
+"Bjarni? THE Bjarni? 
+
+</text>
+        <usericon>1,218,272</usericon>
+        <text>
+
+Ah, I have heard of you! You have achieved great heroic deeds! You discovered a country in the distant west and defeated the Midgard serpent, right? 
+
+Well, that's what people say about you, anyway. 
+
+If it's true, you must be very rich and well-off. It should be easy for you to fulfil a little wish for me ... 
+
+As a favour, so to speak."
+
+
+Prove your friendship to King Mausolos by giving him a generous gift (tribute).
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1444,6 +1999,35 @@ Beweise König Mausolos durch eine großzügige Gabe (Tribut) deine Freundschaft
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+KING MAUSOLOS
+
+"Well, I can see you are very rich and powerful indeed! It's an honour to welcome you to our city! What made you decide to visit my humble empire?"
+
+</text>
+        <usericon>1,218,272</usericon>
+        <text>
+
+I briefly explained the reason for our visit to King Mausolos. He was rather surprised - to put it mildly!
+
+"WHAT? You want to rebuild the ancient tomb? Did I hear you right? 
+That is a huge project indeed! And not without problems, even though, as you say, the welfare of all mankind depends on it.
+
+You should know that we have built a nice park for our citizens on the spot where the tomb used to be. For rest and relaxation. And this park is my beloved wife's favourite spot!
+
+</text>
+        <usericon>1,234,293</usericon>
+        <text>
+
+She will be so upset if I tear down the park! She would never forgive me! 
+
+But why don't you talk to her yourself? Then she can't blame me, and maybe you will find better words than I could."
+
+
+Take Bjarni to Queen Artemisia to talk to her about the construction of the tomb.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 KÖNIG MAUSOLOS
@@ -1496,6 +2080,24 @@ Gehe mit Bjarni zu Königin Artemisia, um mit ihr über Bau des Grabmals zu spre
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+QUEEN ARTEMISIA
+
+The conversation with the queen proved less difficult than we had expected after our discussion with Mausolos. She showed a complete understanding of the threatening danger and our mission.
+
+</text>
+        <usericon>1,226,266</usericon>
+        <text>
+
+"There is no need to ask whether your mission will have my support! What good is the nicest park to me, if darkness covers the world and mankind falls prey to damnation?
+
+Find the building materials and take them to the entrance of the park! My workers will build a new tomb there! I am already having the park cleared, so that you will have enough space." 
+
+
+Take the necessary goods to the marked spot at the park entrance.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 KÖNIGIN ARTEMISIA
@@ -1536,6 +2138,24 @@ Bring die nötigen Waren zur markierten Stelle am Parkeingang.
 向建筑工支付工钱（贡品）。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+QUEEN ARTEMISIA
+
+</text>
+        <usericon>1,226,266</usericon>
+        <text>
+
+"There are still a few things I need to ask you for ... 
+
+Due to the numerous pirate raids, the public treasury is as empty as my husband's brain. The workers, however, are demanding their wages for the construction of the tomb.  
+
+Could you please take care of that? Thank you very much!" 
+
+
+Pay the builders (tribute).
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1580,6 +2200,26 @@ Bezahle die Bauarbeiter (Tributzahlung).
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+QUEEN ARTEMISIA
+
+We had scraped together all our money to pay the workers. But if this was the only way to save mankind, then so be it.
+
+</text>
+        <usericon>1,226,266</usericon>
+        <text>
+
+"Thank you very much! You are a generous man indeed, noble Bjarni!
+
+Now we can proceed with building the Mausoleum. You do like the name, don't you? I thought I would name it in honour of my husband ... 
+
+We need some more material. Take it to the foot of the hill to the marked spot. There is enough space!"
+
+
+Take the necessary goods to the marked spot at the foot of the hill.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 KÖNIGIN ARTEMISIA
@@ -1621,6 +2261,22 @@ Bring die nötigen Waren zur markierten Stelle am Fuß des Hügels.
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+WHAT ARE YOU UP TO?
+
+You have shown a hostile attitude towards the people of Halicarnassus!
+
+</text>
+        <usericon>1,218,272</usericon>
+        <text>
+
+Do not try to attack your friends! You will end up failing the mission! 
+
+
+You've been warned!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 WAS HAST DU VOR?
@@ -1660,6 +2316,24 @@ Sei gewarnt!
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+PRIEST TUT MA' NIX
+
+One of the Osirian priests by the name of Tut Ma' Nix offered us his help.
+
+</text>
+        <usericon>2,150</usericon>
+        <text>
+
+"Friends, I have heard about your great heroic deeds! I have also been told that you are accompanied by a boy who has a dragon! 
+
+I can hardly believe such words! But if the rumour is true, send both of them to me, so I can have a look at them! If I were to witness such a miracle, I would reveal the great secret of the Osirians!"
+
+
+Send Mani and Norbert to Tut Ma' Nix.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 PRIESTER TUT MA' NIX
@@ -1697,6 +2371,17 @@ Schicke Mani und Norbert zu Tut Ma' Nix.
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero HATCHIE died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1726,6 +2411,19 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 此后此地诸族可免于其袭扰而安居。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+AL RHABABA
+
+The pirates of Al Rhababa had been defeated! 
+
+</text>
+        <usericon>1,59,325</usericon>
+        <text>
+
+In future, people would be able to live here without any fear of raids. 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1759,6 +2457,19 @@ Künftig werden die Völker hier ohne Angst vor ihren Angriffen leben können.
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+EL ARAB
+
+The people of El Arab had been defeated! 
+
+</text>
+        <usericon>1,284,250</usericon>
+        <text>
+
+We now had access to the mountains that were rich in resources. 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 EL ARAB
@@ -1790,6 +2501,19 @@ Der Zugang zu den rohstoffreichen Bergen war nun frei.
 富矿之山的通道，如今敞开。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+TRIBE OF THE OSIRIANS
+
+The tribe of the Osirians had been defeated!
+
+</text>
+        <usericon>1,83,83</usericon>
+        <text>
+
+We now had access to the mountains that were rich in resources. 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1841,6 +2565,36 @@ Der Zugang zu den rohstoffreichen Bergen war nun frei.
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+PRIEST TUT MA' NIX
+
+When Tut Ma' Nix saw Mani and Norbert, his eyes started glowing!
+
+</text>
+        <usericon>2,150</usericon>
+        <text>
+
+"Oh, what miracle I am witnessing! A real dragon! Led by an ordinary Northland boy! May Osiris bless you and close the gates to his realm for you for many years to come!
+
+Thank you for revealing this miracle to me! In return you shall know about the secret paths of the Osirians. We rarely use them, but they may be of advantage to you ... I will open them for you ...
+
+Listen! Through this magic gate you will get to the island of Al Rhababa:
+
+</text>
+        <usericon>1,26,129</usericon>
+        <text>
+
+Use this gate to get to our village:
+
+</text>
+        <usericon>1,215,127</usericon>
+        <text>
+
+
+But be careful - the gates will change directions from time to time! So you will be able to return the way you came!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 PRIESTER TUT MA' NIX
@@ -1890,6 +2644,17 @@ Gebt aber acht - die Pforten wechseln von Zeit zu Zeit ihre Richtung! Dann könn
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero SIGURD died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1920,6 +2685,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero NORBERT, the dragon, died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1949,6 +2725,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! NORBERT, der k
 一时的疏忽，人生便会急转直下！比雅尼与希拉之子，小玛尼因你的大意而殒命！失去这位英雄，你将无缘见到任务的结局。
         
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! MANI, son of Bjarni and Cyra, died due to your negligence! Without him, the outcome of this mission will remain hidden to you!
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -1982,6 +2769,19 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Der Sohn von B
         
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+You attacked your best friends although you had been warned! 
+
+This way you will not be able to complete your mission!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -2013,6 +2813,19 @@ So wirst du deine Mission nicht beenden können!
 防守！
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+ATTACK!
+
+The pirates of Al Rhababa have arrived at the beach!
+
+</text>
+        <usericon>2,201</usericon>
+        <text>
+
+Defend yourself!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -2046,6 +2859,19 @@ Verteidige dich!
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+ATTACK!
+
+The pirates of Al Rhababa have arrived at the beach!
+
+</text>
+        <usericon>2,205</usericon>
+        <text>
+
+Defend yourself! And you had better take precautions against further attacks!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 ANGRIFF!
@@ -2077,6 +2903,19 @@ Verteidige dich! Und triff besser Vorkehrungen gegen weitere Attacken!
 防守！并妥善防备后续攻击！
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+ATTACK!
+
+The pirates of Al Rhababa have arrived at the beach!
+
+</text>
+        <usericon>2,206</usericon>
+        <text>
+
+Defend yourself! And you had better take precautions against further attacks!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -2110,6 +2949,19 @@ Verteidige dich! Und triff besser Vorkehrungen gegen weitere Attacken!
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+ATTACK!
+
+The pirates of Al Rhababa have arrived at the beach!
+
+</text>
+        <usericon>2,203</usericon>
+        <text>
+
+Defend yourself! And you had better take precautions against further attacks!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 ANGRIFF!
@@ -2141,6 +2993,19 @@ Verteidige dich! Und triff besser Vorkehrungen gegen weitere Attacken!
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+PIRATES DEFEATED!
+
+Our brave heroes finally managed to defeat the pirates of Al Rhababa!
+
+The survivors were pleading for leniency and peace. They surrendered and lay their fate in our hands.
+
+Retaliation was not what we had in mind. We loved peace, and now that the pirates had given in, we made peace with them. 
+
+We were sure that, from now on, they were no threat to us any more.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 SIEG ÜBER DIE PIRATEN!
@@ -2167,6 +3032,15 @@ Wir waren sicher, dass von ihnen fortan keine Gefahr mehr drohen würde.
 以山中震中为中心的大片区域，遭受重创！
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+EARTHQUAKE!
+
+A severe earthquake shook the ground!
+
+It did major damage to a large area around the epicentre in the mountains!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -2202,6 +3076,25 @@ In einem großen Bereich rund um das Epizentrum in den Bergen richtet es mächti
         
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+EARTHQUAKE!
+
+A severe earthquake shook Halicarnassus and did major damage to the city!
+
+Queen Artemisia asked us for help:
+
+</text>
+        <usericon>1,226,266</usericon>
+        <text>
+
+"What a tragedy has fallen upon our city! The earthquake has done much harm, many houses have been damaged and are now about to collapse! 
+
+We will need all the available building materials to rebuild the city. Even those that were meant for the tomb ...
+
+Please understand our predicament, noble Bjarni ..."
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 ERDBEBEN!!!
@@ -2230,6 +3123,11 @@ Bitte habt Verständnis für unsere Notlage, edler Bjarni..."
 摩索拉斯王陵
         
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE MAUSOLEUM
+</text>
       </lang>
       <lang code="ger">
         <text> 

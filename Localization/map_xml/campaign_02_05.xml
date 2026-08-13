@@ -1,120 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="campaign_02_05" export_map_id="campaign_02_05" map_md5="0e5429ffeb417cbaaad5c7d56cec6385" IsC2M="false">
+<localization version="1.3" map_id="campaign_02_05" export_map_id="campaign_02_05" map_md5="0e5429ffeb417cbaaad5c7d56cec6385" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">找到并消灭芬里尔狼！</text>
+      <text lang="eng">Find and destroy the Fenris Wolf!</text>
       <text lang="ger">Suche und vernichte den Fenriswolf!</text>
     </string>
     <string id="1">
       <text lang="CHN">与希拉一同逼近芬里尔。</text>
+      <text lang="eng">Reach the Fenris Wolf with Cyra.</text>
       <text lang="ger">Erreiche mit Cyra den Fenris.</text>
     </string>
     <string id="2">
       <text lang="CHN">向法兰克人缴纳 10 单位蜂蜜酒，换取 5 名佣兵。</text>
+      <text lang="eng">Pay the Frankish tribe a tribute of 10 mead for 5 mercenaries.</text>
       <text lang="ger">Zahle dem fränkischen Volk 10 Met Tribut für 5 Söldner.</text>
     </string>
     <string id="3">
       <text lang="CHN">向拜占庭人缴纳 10 单位工具作贡金，使其态度转为友善。</text>
+      <text lang="eng">Pay the Byzantines a tribute of 10 tools so they will show a friendly attitude towards you.</text>
       <text lang="ger">Reiche den Byzantinern 10 Werkzeuge zum Tribut, dass sie ihre Haltung in freundlich wandeln.</text>
     </string>
     <string id="4">
       <text lang="CHN">向拜占庭人缴纳 5 单位金作贡金，换取 5 名佣兵。</text>
+      <text lang="eng">Pay the Byzantines a tribute of 5 gold for 5 mercenaries.</text>
       <text lang="ger">Zahle den Byzantinern 5 Gold Tribut für 5 Söldner.</text>
     </string>
     <string id="5">
       <text lang="CHN">向法兰克人缴纳 15 单位蜂蜜酒，换取 5 名佣兵。</text>
+      <text lang="eng">Pay the Frankish tribe a tribute of 15 mead for 5 mercenaries.</text>
       <text lang="ger">Zahle dem fränkischen Volk 15 Met Tribut für 5 Söldner.</text>
     </string>
     <string id="6">
       <text lang="CHN">向法兰克人缴纳 20 单位蜂蜜酒，换取 5 名佣兵。</text>
+      <text lang="eng">Pay the Frankish tribe a tribute of 20 mead for 5 mercenaries.</text>
       <text lang="ger">Zahle dem fränkischen Volk 20 Met Tribut für 5 Söldner.</text>
     </string>
     <string id="7">
       <text lang="CHN">向法兰克人缴纳 25 单位蜂蜜酒，换取 5 名佣兵。</text>
+      <text lang="eng">Pay the Frankish tribe a tribute of 25 mead for 5 mercenaries.</text>
       <text lang="ger">Zahle dem fränkischen Volk 25 Met Tribut für 5 Söldner.</text>
     </string>
     <string id="8">
       <text lang="CHN">向法兰克人缴纳 30 单位蜂蜜酒，换取 5 名佣兵。</text>
+      <text lang="eng">Pay the Frankish tribe a tribute of 30 mead for 5 mercenaries.</text>
       <text lang="ger">Zahle dem fränkischen Volk 30 Met Tribut für 5 Söldner.</text>
     </string>
     <string id="31">
       <text lang="CHN">向法兰克人缴纳 10 单位蜂蜜酒，换取 5 名佣兵。</text>
+      <text lang="eng">Pay the Frankish tribe a tribute of 10 mead for 5 mercenaries.</text>
       <text lang="ger">Zahle dem fränkischen Volk 10 Met Tribut für 5 Söldner.</text>
     </string>
     <string id="32">
       <text lang="CHN">缴 15 单位蜂蜜酒作贡金，可再得 5 名法兰克佣兵！</text>
+      <text lang="eng">In return for a tribute of 15 mead, an additional 5 Frankish mercenaries will be provided!</text>
       <text lang="ger">Für 15 Met Tribut werden weitere 5 fränkische Söldner zur Verfügung gestellt!</text>
     </string>
     <string id="33">
       <text lang="CHN">缴 20 单位蜂蜜酒作贡金，可再得 5 名法兰克佣兵！</text>
+      <text lang="eng">In return for a tribute of 20 mead, an additional 5 Frankish mercenaries will be provided!</text>
       <text lang="ger">Für 20 Met Tribut werden weitere 5 fränkische Söldner zur Verfügung gestellt!</text>
     </string>
     <string id="34">
       <text lang="CHN">缴 25 单位蜂蜜酒作贡金，可再得 5 名法兰克佣兵！</text>
+      <text lang="eng">In return for a tribute of 25 mead, an additional 5 Frankish mercenaries will be provided!</text>
       <text lang="ger">Für 25 Met Tribut werden weitere 5 fränkische Söldner zur Verfügung gestellt!</text>
     </string>
     <string id="35">
       <text lang="CHN">缴 30 单位蜂蜜酒作贡金，可再得 5 名法兰克佣兵！</text>
+      <text lang="eng">In return for a tribute of 30 mead, an additional 5 Frankish mercenaries will be provided!</text>
       <text lang="ger">Für 30 Met Tribut werden weitere 5 fränkische Söldner zur Verfügung gestellt!</text>
     </string>
     <string id="36">
       <text lang="CHN">向拜占庭人缴纳 10 单位工具，换取友善态度。</text>
+      <text lang="eng">Give the Byzantines 10 tools so they will show a friendly attitude towards you.</text>
       <text lang="ger">Reiche den Byzantinern 10 Werkzeuge, für eine freundliche Haltung.</text>
     </string>
     <string id="37">
       <text lang="CHN">向拜占庭人缴纳 5 单位金作贡金，换取 5 名佣兵。</text>
+      <text lang="eng">Pay the Byzantines a tribute of 5 gold for 5 mercenaries.</text>
       <text lang="ger">Zahle den Byzantinern 5 Gold Tribut für 5 Söldner.</text>
     </string>
     <string id="38">
       <text lang="CHN">缴 5 单位金作贡金，可再得 5 名佣兵！</text>
+      <text lang="eng">In return for a tribute of 5 gold, another 5 mercenaries will be provided!</text>
       <text lang="ger">Für 5 Gold Tribut werden weitere 5 Söldner zur Verfügung gestellt!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的部族</text>
+      <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarnis Stamm</text>
     </string>
     <string id="51">
       <text lang="CHN">法兰克人</text>
+      <text lang="eng">Franks</text>
       <text lang="ger">Franken</text>
     </string>
     <string id="52">
       <text lang="CHN">拜占庭人</text>
+      <text lang="eng">Byzantines</text>
       <text lang="ger">Byzantiner</text>
     </string>
     <string id="54">
       <text lang="CHN">芬里尔的部落</text>
+      <text lang="eng">Fenrir's Hordes</text>
       <text lang="ger">Fenris Horden</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
+      <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
+      <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
+      <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
+      <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">伊科尔</text>
+      <text lang="eng">Ykol</text>
       <text lang="ger">Ykol</text>
     </string>
     <string id="98">
       <text lang="CHN">芬里尔锁链曾是我们对抗芬里尔狼的利器。然而事实将证明--并非人人都有逼近它的力量……</text>
+      <text lang="eng">The chain of Fenrir was an effective weapon against the Fenris Wolf. But we would soon find that not everyone had the power to reach him ...</text>
       <text lang="ger">Mit der Fenriskette hatten wir eine wirksame Waffe gegen den Fenriswolf. Doch es sollte sich zeigen, dass nicht jeder die Macht besaß, zu ihm vorzudringen...</text>
     </string>
     <string id="99">
       <text lang="CHN">芬里尔部落</text>
+      <text lang="eng">FENRIR'S HORDES</text>
       <text lang="ger">FENRIS HORDEN</text>
     </string>
   </strings>
@@ -124,6 +153,11 @@
         <text>
 眼前这片土地肥沃多林--正适宜狩猎，并补充我们几乎耗尽的补给。我们要以备战之姿，迎战芬里尔狼及其子嗣……
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+The land that lay before us was fertile and wooded - an ideal place for hunting and stocking up our supplies, which were almost depleted by now. After all, we wanted to be well-prepared before going to war against the Fenris Wolf and his hordes ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -136,6 +170,11 @@ Das Land, das sich vor und auftat, war fruchtbar und waldig - ein idealer Platz 
         <text>
 借助魔法箱子建立你的村庄，并用药剂与护符武装你的士兵。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+Build up your village with the help of the magic chests and equip your soldiers with potions and amulets.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -150,6 +189,13 @@ Baue dein Dorf mit Hilfe der magischen Kisten auf und rüste deine Soldaten mit 
 
 缴纳少许贡品，我们或许还能从他们处招募雇佣兵，以助后续任务……
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+In the west we came across friendly Franks. They had been largely spared by the wolf plague and offered us favourable trade agreements. 
+
+In return for a small tribute, we might even be able to hire some mercenaries for the mission which lay before us ...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -167,6 +213,13 @@ Gegen einen geringen Tribut konnten wir vielleicht bei ihnen auch Söldner für 
 若你的维京人需要，请向法兰克人缴纳所索贡品，换取更多雇佣兵。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+The Franks provided 5 of their bravest longsword fighters as mercenaries beyond the swamps and offered us more reinforcements in return for a higher tribute. 
+
+Pay the Franks the required tribute for additional mercenaries if your Vikings need them.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Die Franken stellten uns 5 ihrer tapfersten Langschwertträger als Söldner oberhalb der Sümpfe zur Verfügung und boten uns für einen höheren Tribut noch mehr Verstärkung an. 
@@ -183,6 +236,13 @@ Zahle den Franken den geforderten Tribut für weitere Söldner, sofern deine Wik
 缴纳少许贡品，我们或许就能与他们贸易，并雇佣雇佣兵……
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+Our scouts came across a Byzantine village in the east. The locals regarded us with suspicion, but they were not hostile.
+
+In return for a small tribute, we might be able to trade with them and hire mercenaries ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Unsere Kundschafter stießen im Osten auf ein Byzantinerdorf. Sie betrachteten uns mit Argwohn, waren uns aber nicht feindlich gesinnt.
@@ -198,6 +258,13 @@ Gegen einen geringen Tribut konnten wir mit ihnen vielleicht Handel treiben und 
 
 若你的维京人需要，请向拜占庭人缴纳所索贡品，换取更多雇佣兵。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+Once we had proved our good intentions by paying a tribute, they offered us their friendship and support for our mission. The Byzantines provided 5 of their bravest longbow archers as mercenaries beyond the swamps and offered us more reinforcements. 
+
+Pay the Byzantines the required tribute for additional mercenaries if your Vikings need them.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -217,6 +284,15 @@ Zahle den Byzantinern den geforderten Tribut für weitere Söldner, sofern deine
 唉，不足为奇……
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+When we had paid the Byzantine village the tribute, they immediately offered us additional mercenaries beyond the swamps.
+
+They said we could return any time to hire new mercenaries, and that it would be a pleasure for them to do business with us! 
+
+Well, that was hardly surprising ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Als wir dem Byzantinerdorf den Tribut überbrachten, stellten sie uns sofort weitere Söldner oberhalb der Sümpfe zur Seite. 
@@ -235,6 +311,13 @@ Jaja, kein Wunder...
 我们当中，是否有人能突破到他面前？
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+Our men fought bravely all the way to this place, but they could not reach the Fenris Wolf. A magic aura surrounded him ...
+
+Would anyone from our group be able to make it through to him?
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Unsere Männer hatten sich wacker bis zu diesem Ort geschlagen, doch konnten sie nicht zum Fenriswolf vordringen. Eine magische Aura umgab ihn....
@@ -249,6 +332,11 @@ Ob jemand aus unserer Gruppe zu ihm durchdringen könnte?
 希拉已杀出重围，直抵芬里尔狼！她能否将锁链套上它？
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+Cyra had fought her way through to Fenrir! Would SHE be able to chain him?
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Cyra hatte sich zum Fenris durchgekämpft! Würde SIE ihm die Kette anlegen können?
@@ -262,6 +350,13 @@ Cyra hatte sich zum Fenris durchgekämpft! Würde SIE ihm die Kette anlegen kön
 
 若你的维京人需要，请向法兰克人缴纳所索贡品，换取更多雇佣兵。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+The Franks provided 5 of their bravest longsword fighters as mercenaries beyond the swamps and offered us more reinforcements for the same tribute.
+
+Pay the Franks the required tribute for additional mercenaries if your Vikings need them.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -278,6 +373,13 @@ Zahle den Franken den geforderten Tribut für weitere Söldner, sofern deine Wik
 
 这片地界有无数凶狼。我们初次遭遇，它们便成群结队，龇牙咧嘴地扑来！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+FENRIR'S HORDES
+
+There were countless dangerous wolves in this region. When we came across them for the first time, they joined in packs, bared their teeth and attacked us!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -298,6 +400,17 @@ In diesem Landstrich gab es unzählige gefährliche Wölfe. Als wir das erste Ma
         <text>
 是英勇，还是鲁莽？比雅尼死时，诸神也为之落泪……少了这位英雄，你便无从知晓任务的结局。
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroism or carelessness? When Bjarni died the gods were crying ... without this hero, the outcome of this mission will remain hidden to you!
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -323,6 +436,17 @@ Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen 
 生命中片刻的鲁莽，转瞬即至！你的女英雄希拉因你的疏忽而殒命！少了这位女英雄，你便无从知晓任务的结局。
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your heroine Cyra died due to your negligence! Without this heroine, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -346,6 +470,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin C
         <text>
 生命中片刻的鲁莽，转瞬即至！你的朋友与英雄哈奇因你的疏忽而殒命！少了这位英雄，你便无从知晓任务的结局。
         </text>
+      </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Hatchie died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you! 
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -371,6 +506,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 生命中片刻的鲁莽，转瞬即至！你的朋友与英雄西格德因你的疏忽而殒命！少了这位英雄，你便无从知晓任务的结局。
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Your friend and hero Sigurd died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -395,6 +541,17 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 生命中片刻的鲁莽，转瞬即至！伊科尔因你的疏忽而殒命！少了这位英雄，你便无从知晓任务的结局。
         </text>
       </lang>
+      <lang code="eng">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+MISSION FAILED!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+A short moment of negligence, that's all it takes to lose your life! Ykol died due to your negligence! Without this hero, the outcome of this mission will remain hidden to you!
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -417,6 +574,14 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Ykol erlag dur
 
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+But what had happened?
+
+"WHY CYRA?" I screamed, and realised that my legs were giving way beneath me ...
+
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Doch was war geschehen???
@@ -434,6 +599,13 @@ WARUM CYRA? schrie ich und merkte, dass ich in mich zusammenfiel.....
 无边的哀伤，笼罩了我的一生……
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+For a long time I did not understand what had happened. Cyra was the only one who could put the chain on the Fenris Wolf. But in so doing, she was dragged to Valhalla with him! 
+
+An infinite sadness descended on my life ... 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Ich begriff lange Zeit nicht, was geschehen war. Cyra vermochte es als Einzige, dem Fenriswolf die Kette anzulegen. Doch als sie dies tat, wurde sie zusammen mit ihm nach Walhalla gezogen! 
@@ -449,6 +621,12 @@ Ein Meer voll endloser Traurigkeit legte sich über mein Leben ...
 任务成功！
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+
+MISSION COMPLETED! 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 
@@ -462,6 +640,12 @@ MISSION GEWONNEN!
 
 芬里尔部众
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+FENRIR'S HORDES 
+</text>
       </lang>
       <lang code="ger">
         <text>

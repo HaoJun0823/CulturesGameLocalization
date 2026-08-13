@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="singleplayer_02_07" export_map_id="singleplayer_02_07" map_md5="423cb8eb3f176e1cc36b14361ee54b26" IsC2M="false">
+<localization version="1.3" map_id="singleplayer_02_07" export_map_id="singleplayer_02_07" map_md5="423cb8eb3f176e1cc36b14361ee54b26" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">与你的对手交战，或仅仅开发利用这片土地！</text>
+      <text lang="eng">Fight your enemies or simply exploit the land!</text>
       <text lang="ger">Bekämpfe deine Gegner, oder mache dir einfach nur das Land zunutze!</text>
     </string>
     <string id="1">
       <text lang="CHN">向三个部族缴纳贡品，使他们归顺于你！</text>
+      <text lang="eng">Pay the three tribes tribute so they will join you!</text>
       <text lang="ger">Zahle den drei Stämmen ihren Tribut, damit sie sich dir anschließen!</text>
     </string>
     <string id="3">
@@ -22,61 +25,74 @@
 500 面粉、木制工具，
 300 砖块、石块、家具、羊毛、鞋履，
 200 瓦片、大理石、铁制工具、硬币！</text>
+      <text lang="eng">To win peacefully, get more than half (10) of the goods listed here into your warehouses:                BASIC RESOURCES:                                                                                          500 clay, stone, wood, wheat, cake, iron, gold,                               1000 food;                                                                                  ADVANCED GOODS:                                                                                       500 flour, wooden tools,                                                                          300 bricks, blocks of stone, furniture, wool, shoes,                                            200 roof tiles, marble, iron tools, coins!</text>
       <text lang="ger">Um friedlich zu siegen, schaffe mehr als die Hälfte(10) der hier aufgelisteten Waren in entsprechender Stückzahl in deine Lager:                GRUNDRESSOURCEN:                                                                                          500 Lehm, Stein, Holz, Weizen, Kuchen, Eisen, Gold,                               1000 Nahrung;                                                                                  ERWEITERTE WAREN:                                                                                       500 Mehl, Holzwerkzeug,                                                                          300 Backstein, Steinblöcke, Möbel, Wolle, Schuhe,                                            200 Dachziegel, Marmor, Eisenwerkzeug, Münzen!</text>
     </string>
     <string id="4">
       <text lang="CHN">若要以外交之外的手段取胜，消灭全部三个对手！</text>
+      <text lang="eng">To win in a less diplomatic way, defeat all three enemies!</text>
       <text lang="ger">Um auf weniger diplomatischem Weg zu siegen, vernichte alle drei Gegner!</text>
     </string>
     <string id="10">
       <text lang="CHN">你的部族</text>
+      <text lang="eng">Your Tribe</text>
       <text lang="ger">Dein Stamm</text>
     </string>
     <string id="11">
       <text lang="CHN">你的部族</text>
+      <text lang="eng">Your Tribe</text>
       <text lang="ger">Dein Stamm</text>
     </string>
     <string id="20">
       <text lang="CHN">普拉特兰人</text>
+      <text lang="eng">Flatlanders</text>
       <text lang="ger">Plattländer</text>
     </string>
     <string id="21">
       <text lang="CHN">普拉特</text>
+      <text lang="eng">Flat</text>
       <text lang="ger">Platt</text>
     </string>
     <string id="30">
       <text lang="CHN">海卢兰人</text>
+      <text lang="eng">Hellulanders</text>
       <text lang="ger">Helluländer</text>
     </string>
     <string id="31">
       <text lang="CHN">海卢</text>
+      <text lang="eng">Hellu</text>
       <text lang="ger">Hellu</text>
     </string>
     <string id="40">
       <text lang="CHN">马克兰人</text>
+      <text lang="eng">Marklanders</text>
       <text lang="ger">Markländer</text>
     </string>
     <string id="41">
       <text lang="CHN">马克</text>
+      <text lang="eng">Mark</text>
       <text lang="ger">Mark</text>
     </string>
     <string id="98">
       <text lang="CHN">将这片土地据为己有，或驱逐你的对手！这里终将成为你维京人殖民地的疆土！</text>
+      <text lang="eng">Colonize the country or drive your enemies out! This will become the land of your Viking colony!</text>
       <text lang="ger">Mache dir das Land zu Eigen oder vertreibe deine Gegner! Dies wird einmal das Land deiner Wikingerkolonie sein!</text>
     </string>
     <string id="99">
       <text lang="CHN">殖民时代</text>
+      <text lang="eng">COLONIZATION</text>
       <text lang="ger">ZEIT DER KOLONIALISIERUNG</text>
     </string>
     <string id="110">
       <text lang="CHN">缴纳如下贡品，以使该部族归顺于你：</text>
+      <text lang="eng">Pay the following tribute so the tribe will join you:</text>
       <text lang="ger">Zahle folgenden Tribut, damit sich der Stamm dir anschließt:</text>
     </string>
   </strings>
   <briefings>
     <block id="begin_00">
       <lang code="CHN">
-                <text>
+        <text>
 相互竞争的维京部族，选了同一片土地来定居！他们起初一无所有，却欲统御一切！
 
 随你高兴地玩！你无需惧怕任何侵扰。
@@ -94,6 +110,26 @@
 
 若你选择了积累资源的和平之路，或许该减少民居的消耗。眼看着你的维京人不断耗掉你竭力囤积的资源，那可太可惜了！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Competing Viking tribes have chosen the same land to settle on! They start with nothing, but they want to rule everything!
+
+Play as you like! There are no infringements to fear.
+
+Make your tribe the strongest in this country to win! Find a location you find suitable. Settling close to resources is the key to victory ...
+
+There are many treasures to be discovered in this country as well!    
+
+Hint: 
+You have received a house permit so you can set up your headquarters! There is neither gold nor iron at your starting point, nevertheless you should keep these resources in mind!
+
+To win you either have to defeat the other tribes or to produce sufficient resources and take them to your warehouses. If you choose the second option, you will need a very high amount of resources!
+
+Once you have completely defeated a tribe, there will be no way back - there will be NO MORE ways of peacefully completing this mission!
+
+If you have decided to accumulate resources instead, you might want to reduce the amount your dwellings consume. It would be a shame if your Vikings kept using up the resources you are trying to collect!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -118,12 +154,21 @@ Wenn du dich für den friedlichen Weg über das Anhäufen von Rohstoffen entschi
     </block>
     <block id="begin_01">
       <lang code="CHN">
-                <text>
+        <text>
 你已征服所有其他部族！
 这片土地如今归你所有，无人再能与你争夺！
 
 若你愿意，尽可继续定居下去！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+You have defeated all the other tribes!
+The land is now yours and nobody can take it away from you any more!
+
+You can continue to settle if you want to!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -137,9 +182,15 @@ Wenn du magst, kannst du gerne noch weiter siedeln!
     </block>
     <block id="begin_02">
       <lang code="CHN">
-                <text>
+        <text>
 滚出我们的土地，我们才是真正的主人！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+Get out of our country. We are the rulers here!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -150,9 +201,15 @@ Verschwinde aus unserem Land, wir sind die wahren Eigentümer!
     </block>
     <block id="begin_03">
       <lang code="CHN">
-                <text>
+        <text>
 你来我们的殖民地作甚？这儿没你的事！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+What do you want in our colony? You have no business here!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -163,9 +220,15 @@ Was willst du in unserer Kolonie? Du hast hier nichts zu suchen!
     </block>
     <block id="begin_04">
       <lang code="CHN">
-                <text>
+        <text>
 我们才是这片土地名正言顺的统治者！趁你还走得了，快走！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+We are the true rulers of this country! Get out of here while you still can!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -176,9 +239,15 @@ Wir sind die rechtmäßigen Herrscher dieses Landes! Geh, solange du noch kannst
     </block>
     <block id="begin_05">
       <lang code="CHN">
-                <text>
+        <text>
 普拉特兰人已离开了这个世界！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+The Flatlanders have left this world!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -189,9 +258,15 @@ Die Plattländer haben diese Welt verlassen!
     </block>
     <block id="begin_06">
       <lang code="CHN">
-                <text>
+        <text>
 海卢兰人已离开了这个世界！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+The Hellulanders have left this world!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -202,9 +277,15 @@ Die Helluländer haben diese Welt verlassen!
     </block>
     <block id="begin_07">
       <lang code="CHN">
-                <text>
+        <text>
 马克兰人已离开了这个世界！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+The Marklanders have left this world!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -215,10 +296,17 @@ Die Markländer haben diese Welt verlassen!
     </block>
     <block id="begin_08">
       <lang code="CHN">
-                <text>
+        <text>
 你开采的资源实在惊人！
 再无人能与你争夺土地！若你向其他部族缴纳贡品，他们便会归顺于你。这对你而言应当不难。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+You have extracted a very high amount of resources!
+Nobody will try to take your land from you any more! The other tribes will join you if you pay them the required tribute. That shouldn't be too difficult to do!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -230,13 +318,23 @@ Niemand wird dir dein Land mehr streitig machen! Die anderen Stämme werden sich
     </block>
     <block id="begin_09">
       <lang code="CHN">
-                <text>
+        <text>
 这片土地如今归你所有，所有其他部族都已归顺于你！
 
 这片土地的未来，自此握于你手！即便历尽数代，人们仍会传颂这个值得纪念的日子……
 
 若你愿意，尽可继续定居下去！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+The land is now yours, all the other tribes have joined you!
+
+The future of the land is now in your hands! This historic day will be remembered for many generations ...
+
+You can continue to settle if you want to!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -251,9 +349,15 @@ Wenn du magst, kannst du gerne noch weiter siedeln!
     </block>
     <block id="begin_10">
       <lang code="CHN">
-                <text>
+        <text>
 普拉特兰人已归顺你的部族！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+The Flatlanders have joined your tribe!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -264,9 +368,15 @@ Die Plattländer haben sich deinem Stamm angeschlossen!
     </block>
     <block id="begin_11">
       <lang code="CHN">
-                <text>
+        <text>
 海卢兰人已归顺你的部族！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+The Hellulanders have joined your tribe!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -277,9 +387,15 @@ Die Helluländer haben sich deinem Stamm angeschlossen!
     </block>
     <block id="begin_12">
       <lang code="CHN">
-                <text>
+        <text>
 马克兰人已归顺你的部族！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+The Marklanders have joined your tribe!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -290,9 +406,16 @@ Die Markländer haben sich deinem Stamm angeschlossen!
     </block>
     <block id="header">
       <lang code="CHN">
-                <text>
+        <text>
 殖民时代
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+COLONIZATION
+
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -304,9 +427,15 @@ ZEIT DER KOLONIALISIERUNG
     </block>
     <block id="won">
       <lang code="CHN">
-                <text>
+        <text>
 任务成功！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+MISSION COMPLETED!
+</text>
       </lang>
       <lang code="ger">
         <text>

@@ -1,76 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="tutorial_005" export_map_id="tutorial_005" map_md5="b41088f968fbafc578d93bb2ca6f119d" IsC2M="false">
+<localization version="1.3" map_id="tutorial_005" export_map_id="tutorial_005" map_md5="b41088f968fbafc578d93bb2ca6f119d" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">指派一名商人掌管两座仓库，看看会发生什么。</text>
+      <text lang="eng">Give a merchant two warehouses and watch what happens.</text>
       <text lang="ger">Weise einem Händler zwei Lagerhäuser zu und schau, was passiert.</text>
     </string>
     <string id="1">
       <text lang="CHN">为雷米与施泰尼的仓库运去 5 件铁质工具！</text>
+      <text lang="eng">Take 5 IRON TOOLS to Clayme and Stony's warehouse!</text>
       <text lang="ger">Bringe dem Lagerhaus vom Lehmi und Steini 5 EISENWERKZEUGE!</text>
     </string>
     <string id="2">
       <text lang="CHN">与法兰克村落交易 10 件家具！</text>
+      <text lang="eng">Trade 10 furniture with the Frankish village!</text>
       <text lang="ger">Handele 10 MÖBEL mit den Frankendörfchen!</text>
     </string>
     <string id="3">
       <text lang="CHN">为船只配属一名商人与一辆推车，并经由搬运工将至少 5 袋面粉装船！</text>
+      <text lang="eng">Have a merchant with a CART work on the ship and get a carrier to load it with at least 5 sacks of FLOUR!</text>
       <text lang="ger">Weise dem Schiff einen Händler samt KARREN zu und belade das Schiff mit mindestens 5 Säcken MEHL, durch den Träger!</text>
     </string>
     <string id="4">
       <text lang="CHN">乘船驶往撒拉逊岛屿！</text>
+      <text lang="eng">Sail to the Saracens' island!</text>
       <text lang="ger">Fahre mit dem Schiff zu der Sarazeneninsel!</text>
     </string>
     <string id="5">
       <text lang="CHN">卸下货物，与撒拉逊人展开贸易！</text>
+      <text lang="eng">Unload the goods and trade with the Saracens!</text>
       <text lang="ger">Entlade die Waren und treibe mit den Sarazenen Handel!</text>
     </string>
     <string id="51">
       <text lang="CHN">法兰克人</text>
+      <text lang="eng">Franks</text>
       <text lang="ger">Franken</text>
     </string>
     <string id="52">
       <text lang="CHN">撒拉逊人</text>
+      <text lang="eng">Saracens</text>
       <text lang="ger">Sarazenen</text>
     </string>
     <string id="71">
       <text lang="CHN">索尔芬</text>
+      <text lang="eng">Thorfinn</text>
       <text lang="ger">Thorfinn</text>
     </string>
     <string id="72">
       <text lang="CHN">洛丁</text>
+      <text lang="eng">Lodin</text>
       <text lang="ger">Lodin</text>
     </string>
     <string id="73">
       <text lang="CHN">雷米</text>
+      <text lang="eng">Clayme</text>
       <text lang="ger">Lehmi</text>
     </string>
     <string id="74">
       <text lang="CHN">施泰尼</text>
+      <text lang="eng">Stony</text>
       <text lang="ger">Steini</text>
     </string>
     <string id="75">
       <text lang="CHN">斯图尔拉</text>
+      <text lang="eng">Sturla</text>
       <text lang="ger">Sturla</text>
     </string>
     <string id="76">
       <text lang="CHN">斯诺里</text>
+      <text lang="eng">Snorri</text>
       <text lang="ger">Snorri</text>
     </string>
     <string id="79">
       <text lang="CHN">阿里</text>
+      <text lang="eng">Ari</text>
       <text lang="ger">Ari</text>
     </string>
     <string id="98">
       <text lang="CHN">本关介绍与异族的陆上与海上贸易，以及商人在本村中的运用。</text>
+      <text lang="eng">Here you will be shown how to trade with other people by land and sea, and how to use the merchant in your own village.</text>
       <text lang="ger">Hier wirst du eingeführt, in den Land und Seehandel mit anderen Völkern, aber auch in die Verwendung des Händlers im eigenen Dorf.</text>
     </string>
     <string id="99">
       <text lang="CHN">5) 贸易</text>
+      <text lang="eng">5) TRADE AND SHIPS</text>
       <text lang="ger">5) HANDEL</text>
     </string>
   </strings>
@@ -83,6 +101,13 @@
 要建立贸易联系，你首先需要一个运作良好的手推车系统和一个仓库。
 按照出现的任务提示进行操作。
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+Goods can be supplied for trade within your village and outside it as well. Of course, this is the merchant's job. He transports the goods between the production places, warehouses and headquarters. 
+
+Here you will be shown how to trade with other people by land and sea, and how to use the merchant in your own village.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -103,6 +128,20 @@ Hier wirst du eingeführt, in den Land und Seehandel mit anderen Völkern, aber 
 每位商人需要至少两座仓
 
 库，以便存放他们的货物。</text>
+      </lang>
+      <lang code="eng">
+        <text> 
+THE MERCHANTS
+
+Here are Thorfinn, Lodin and Ari, three experienced merchants. 
+
+When selecting a merchant his character display opens on the TRADE tab, where you can adjust the trade settings.
+
+The first thing you have to do is to assign two TRADE POSTS. To do so, click on the small round button next to "Trade Post" in the character display for every trade post, or click the button with the scales in the merchant's action menu, then click on the respective trade post. As with any worker, you can assign the merchant to a trade post by right-clicking.
+You can trade between any buildings with stores in your own settlement, i.e. also between places of production. 
+
+Assign one merchant to two warehouses.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -127,6 +166,15 @@ Weise einem Händler zwei Lagerhäuser zu.
 给他分配两座仓库，以便他能有效工作。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+If you don't give the merchant any order, he will transport any goods - in this case honey. 
+If you have assigned two trade posts, you should "EMPLOY MERCHANT". To do so, click on the respective button in the merchant's character display.
+
+If you trade within your nation, a window will appear with both trade posts, and in the middle you will see a list of goods that can be traded. If you don't click on anything, the merchant will try to balance the stores of goods in the warehouses. The arrows next to the list stand for the direction in which the goods are taken as well as letting you choose goods. 
+If you click on one or several arrows, only those goods will be transported whose arrows are active, i.e. lit up. 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Wenn du dem Händler weiter nichts sagst, wird er beliebige Waren transportieren, wie in diesem Falle Honig. 
@@ -146,6 +194,18 @@ Klickst du mit einem Linksklick auf einen oder mehrere Pfeile, werden nur noch d
 具来加快他们的工作。
 
 让你的手推车系统把货物送到各处吧。</text>
+      </lang>
+      <lang code="eng">
+        <text> 
+CLAYME AND STONY NEED TOOLS 
+(Trading within your own people)
+
+Somewhere far away from your village your potter and stonemason are doing their jobs. Unfortunately, they forgot to take their good iron tools with them, therefore they are not very productive ... 
+
+Select Thorfinn, Lodin or Ari and assign the northern warehouse as trade post 1 and the southern warehouse at the pottery as trade post 2! (If you want to select a different trade post, select the button "Remove Trade Post" and click on the trade post you no longer need to deselect it. Choose another one afterwards.)
+
+Take 5 IRON TOOLS to the warehouse! 
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -170,6 +230,17 @@ Bringe dem Lagerhaus dann 5 EISENWERKZEUGE!
 每个仓库至少有一辆手推车。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+HANDCARTS and OX CARTS
+
+Carts are a major advantage for carriers and merchants, because they can carry 10 to 20 goods respectively at the same time. Therefore, they can make a merchant far more effective. To use a cart, a carrier or merchant must be assigned to the vehicle so he can steer it. 
+This can be done using the action button "Assign Vehicle". As soon as you have used this button, the possible vehicles (ship, handcart or ox cart) will light up. Click on one of the carts with the right mouse button to inform the Viking of your choice. 
+
+Hint:
+You can assign a cart to a Viking as a vehicle directly via the tooltip option by right-clicking.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 HANDARREN und OCHSENKARREN 
@@ -192,6 +263,15 @@ Du kannst einen Karren einem Wikinger auch über die Tooltip-Option direkt mit r
 但商人还需要更多的商品来交易。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+GREAT!
+
+Now Clayme and Stony have got their tools, their productivity has been considerably improved.
+
+In the meantime, our merchants can establish new trade relations with a Frankish people ...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 TOLL!
@@ -211,6 +291,19 @@ Unsere Händler werden indes neue Handelsbeziehungen zu einem Frankenvolk aufbau
 ，你必须与它签订贸易协定。
 
 可以通过向该民族进贡来获得这个协定。</text>
+      </lang>
+      <lang code="eng">
+        <text> 
+TRADING WITH ANOTHER NATION
+
+To trade with another nation which has a FRIENDLY attitude towards you, you need an effective trade agreement, and the other people must have a WAREHOUSE. Both prerequisites are fulfilled by this tiny Frankish people on the north coast. Your merchants also need to be assigned a CART.
+
+If you trade with another people, you can choose the goods you want your merchant to trade from among one or several of your trading partner's offers. The left-hand side displays the goods the friendly tribe supplies. The right-hand side shows what they expect in exchange. 
+Left-click on the line with the respective offer. Your merchant will then try to trade these goods. 
+If you want to choose another trade post, click on the button "Remove Trade Post" and click on the respective trading partner to deselect him and choose the new trading partner.
+
+Trade 10 furniture with the Franks! You will receive 20 gold pieces in exchange.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -234,6 +327,13 @@ Handele mit den Franken 10 Möbel! Du erhältst dafür 20 Goldstücke.
 你从法兰克人那里通过贸易获得了 20 枚金币。这证明了贸易是非常有利可图的！
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+VERY GOOD!
+
+You have received 20 gold pieces for your furniture from the Franks. Thus you have fulfilled your trade agreement.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 SEHR GUT!
@@ -253,6 +353,17 @@ Du hast 20 Goldstücke von den Franken für deine Möbel erhalten. Damit hast du
 
 艘船！
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+Let's take a look at the overseas trade. Sometimes you'll need to load ships to take goods to distant countries ... like this friendly Saracen village.
+
+SHIPS are produced in the carpenter's workshop 4. This needs to be built close to the shore so the carpenter can build ships.
+
+To load goods on a ship, a CARRIER needs to be assigned to it. The administration of the ship's store is handled the same as for warehouses: With individual registers grouped by goods. Click on the ship and the respective plus signs of the desired good to set the minimum stock.
+
+Load at least 5 sacks of flour onto the ship and assign a CARRIER with a CART to it. (To do so, first assign the carrier a cart as his vehicle, then select the cart and assign it to the ship.)
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -276,6 +387,16 @@ Belade das Schiff mit mindestens 5 Säcke Mehl und weise ihm einen TRÄGER samt 
 设置好航线，然后就可以欣赏你的维京人把船开往远方的情景了。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+The goods have now been loaded onto your ship and it is ready to set sail!
+
+Any adult Viking assigned to the ship can steer it - he will automatically become its commander! This is done via the action button "ASSIGN VEHICLE". As soon as you have clicked this button, the possible vehicles will light up. Right-click on a ship to inform the Viking about your choice. 
+(You can assign a ship to a Viking as a vehicle directly via the tooltip option by right-clicking.)
+
+Steer the ship to the Saracens' shore as you would one of your Vikings by using the "GO TO" order. 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Dein Schiff ist nun beladen und es kann in See stechen!
@@ -297,6 +418,20 @@ Steuere das Schiff, wie einen deiner Wikinger, mit den "SENDEN NACH" Befehl an d
 船有自己的仓库，和主屋、仓库类似，但船是运输工具而不是房屋。不能直接从船上交易，你需要一座固定的贸易站，也就是仓库。你的维京人已经勤快地建好了一座岸边仓库。
 
 卸下货物（选中船，按空格键，再按“卸下所有货物”按钮），然后和撒拉森人做生意！
+</text>
+      </lang>
+      <lang code="eng">
+        <text> 
+You have reached the Saracens' shore.
+If you want to go ashore, you will first need to MOOR your ship, because that is the only way your Vikings can embark or disembark, load and unload the ship! 
+
+Select the ship and press the SPACEBAR. The ship's available actions will be indicated. Select "Moor" and right-click on one of the highlighted places on the shore. 
+You can see that a ship is moored because its sails are pulled up.
+
+A ship has its own store, similar to the headquarters and the warehouses, but it is still a means of transport - not a house. Therefore, it is not possible to trade straight from the ship, you need a fixed TRADE POST, i.e. a warehouse.
+
+Your Vikings have already been very busy, they have built a warehouse on the Saracens' shore.
+Unload the goods (by selecting the ship, pressing the spacebar and clicking on the button "Unload All Goods") and trade with the Saracens!
 </text>
       </lang>
       <lang code="ger">
@@ -322,6 +457,15 @@ Entlade die Waren (indem du das Schiff auswählst, die Leertaste und den Button 
 
 现在可以去跟他们谈更多的交易了。</text>
       </lang>
+      <lang code="eng">
+        <text> 
+FANTASTIC!
+
+You have fulfilled your trade agreement with the Saracens. Now you can consider yourself a great merchant indeed.
+
+Proceed to the next tutorial!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 FANTASTISCH!
@@ -338,6 +482,14 @@ Auf zum nächsten Tutorial!
 
 并将南方的一座仓库作为另一个贸易站分配给了商人。</text>
       </lang>
+      <lang code="eng">
+        <text> 
+
+Check if you have assigned the northern warehouse to the merchant as trade post 1 and another warehouse as trade post 2.
+
+Assign the two warehouses to the merchant!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 
@@ -353,6 +505,12 @@ Weise dem Händler die zwei Lagerhäuser zu!
 让一名商人把铁制工具送到雷米的仓库和施泰尼的仓库，这两样货物可以继续交换。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+
+Have one merchant take iron tools to Clayme and Stony's warehouse!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 
@@ -366,6 +524,12 @@ Lasse einen Händler Eisenwerkzeuge zum Lagerhaus von Lehmi und Steini bringen!
 用法兰克人的家具换取黄金--这是非常划算的交易。你的商人已经与多方建立了广泛的联系。
         </text>
       </lang>
+      <lang code="eng">
+        <text> 
+
+Trade furniture for gold with the Franks. 
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 
@@ -378,6 +542,11 @@ Handle bei Franken Möbel gegen Gold.
         <text>
 贸易与航海--通过贸易获取外商的新商品
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+TRADE AND SHIPS
+</text>
       </lang>
       <lang code="ger">
         <text> 

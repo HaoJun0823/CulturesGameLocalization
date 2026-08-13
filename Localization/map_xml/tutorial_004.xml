@@ -1,120 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="tutorial_004" export_map_id="tutorial_004" map_md5="1399ae64a2614181ae1c3515b004f9f4" IsC2M="false">
+<localization version="1.3" map_id="tutorial_004" export_map_id="tutorial_004" map_md5="1399ae64a2614181ae1c3515b004f9f4" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">建造一座陶艺坊，并指派采泥工担任陶匠、以陶艺坊为工所！</text>
+      <text lang="eng">Build a POTTERY and have your clay-worker work as a POTTER there!</text>
       <text lang="ger">Baue eine TÖPFEREI und weise dem Lehmabbauer den Beruf des TÖPFERS und die Töpferei als Arbeitsstätte zu!</text>
     </string>
     <string id="1">
       <text lang="CHN">将陶艺坊建造完毕！</text>
+      <text lang="eng">Upgrade the POTTERY!</text>
       <text lang="ger">Baue die TÖPFEREI aus!</text>
     </string>
     <string id="2">
       <text lang="CHN">将陶艺坊升至 2 级！</text>
+      <text lang="eng">Upgrade the POTTERY 2!</text>
       <text lang="ger">Baue die TÖPFEREI 2 aus!</text>
     </string>
     <string id="3">
       <text lang="CHN">建造一座石匠坊，并指派采石工担任石匠、以石匠坊为工所！</text>
+      <text lang="eng">Build a STONEMASON'S WORKSHOP and have your stone collector work as a STONEMASON there!</text>
       <text lang="ger">Baue eine STEINMETZHÜTTE und weise dem Steinabbauer den Beruf des STEINMETZES und die Steinmetzhütte als Arbeitsstätte zu!</text>
     </string>
     <string id="4">
       <text lang="CHN">将石匠坊建造完毕！</text>
+      <text lang="eng">Upgrade the STONEMASON'S WORKSHOP!</text>
       <text lang="ger">Baue die STEINMETZHÜTTE aus!</text>
     </string>
     <string id="5">
       <text lang="CHN">建造一座木工坊，并指派伐木工担任木工、以木工坊为工所！</text>
+      <text lang="eng">Build a CARPENTER'S WORKSHOP and have your woodcutter work as a CARPENTER there!</text>
       <text lang="ger">Baue eine SCHREINEREI und weise dem Holzabbauer den Berufs des SCHREINERS und die Schreinerei als Arbeitsstätte zu!</text>
     </string>
     <string id="6">
       <text lang="CHN">将木工坊建造完毕！</text>
+      <text lang="eng">Upgrade the CARPENTER'S WORKSHOP!</text>
       <text lang="ger">Baue die SCHREINEREI aus!</text>
     </string>
     <string id="7">
       <text lang="CHN">将木工坊升至 2 级！</text>
+      <text lang="eng">Upgrade the CARPENTER'S WORKSHOP 2!</text>
       <text lang="ger">Baue die SCHREINEREI 2 aus!</text>
     </string>
     <string id="8">
       <text lang="CHN">将木工坊升至 3 级！</text>
+      <text lang="eng">Upgrade the CARPENTER'S WORKSHOP 3!</text>
       <text lang="ger">Baue die SCHREINEREI 3 aus!</text>
     </string>
     <string id="9">
       <text lang="CHN">建造一座铁匠铺，并指派采矿工担任铁匠、以铁匠铺为工所！</text>
+      <text lang="eng">Build a SMITHY and have your ore miner work as a BLACKSMITH there!</text>
       <text lang="ger">Baue eine SCHMIEDE und weise dem Erzabbauer den Beruf des SCHMIEDES und die Schmiede als Arbeitsstätte zu!</text>
     </string>
     <string id="10">
       <text lang="CHN">将铁匠铺建造完毕！</text>
+      <text lang="eng">Upgrade the SMITHY!</text>
       <text lang="ger">Baue die SCHIEDE aus!</text>
     </string>
     <string id="11">
       <text lang="CHN">建造一座裁缝坊，并指派一名猎人为其掌管！</text>
+      <text lang="eng">Build a TAILOR'S WORKSHOP have a hunter work as a TAILOR there!</text>
       <text lang="ger">Baue eine NÄHEREI und weise sie einem Jäger als Arbeitsstätte zu!</text>
     </string>
     <string id="12">
       <text lang="CHN">将裁缝坊建造完毕！</text>
+      <text lang="eng">Upgrade the TAILOR'S WORKSHOP!</text>
       <text lang="ger">Baue die NÄHEREI aus!</text>
     </string>
     <string id="13">
       <text lang="CHN">建造一座畜牧场，并指派猎人担任畜牧者、以畜牧场为工所！</text>
+      <text lang="eng">Build a CATTLE FARM and have a hunter work as a STOCK FARMER there!</text>
       <text lang="ger">Baue eine VIEHZÜCHTEREI und weise dem Jäger den Beruf des VIEHZÜCHTERS und als Arbeitsstätte die Viehzüchterei zu!</text>
     </string>
     <string id="14">
       <text lang="CHN">将陶匠的生产转为瓦片！</text>
+      <text lang="eng">Change the potter's production to ROOF TILES!</text>
       <text lang="ger">Stelle die Produktion des Töpfers auf DACHZIEGEL um!</text>
     </string>
     <string id="15">
       <text lang="CHN">将石匠的生产转为大理石！</text>
+      <text lang="eng">Change the stonemason's production to MARBLE!</text>
       <text lang="ger">Stelle die Produktion des Steinmetz auf MARMOR um!</text>
     </string>
     <string id="16">
       <text lang="CHN">将木工的生产转为家具！</text>
+      <text lang="eng">Change the carpenter's production to FURNITURE!</text>
       <text lang="ger">Stelle die Produktion des Schreiners auf MÖBEL um!</text>
     </string>
     <string id="17">
       <text lang="CHN">将裁缝的生产转为皮甲！</text>
+      <text lang="eng">Change the tailor's production to LEATHER ARMOUR!</text>
       <text lang="ger">Stelle die Produktion des Nähers auf LEDERRÜSTUNGEN um!</text>
     </string>
     <string id="18">
       <text lang="CHN">@为你的维京人兴建最要紧的建筑，并在指定时刻将其建造完毕！</text>
+      <text lang="eng">@BUILD THE MOST IMPORTANT BUILDINGS FOR YOUR VIKINGS AND UPGRADE THEM WHEN POSSIBLE!</text>
       <text lang="ger">@ERRICHTE DIE WICHTIGSTEN GEBÄUDE FÜR DEINE WIKINGER UND BAUE SIE ZUM GEGEBENEN ZEITPUNKT AUS!</text>
     </string>
     <string id="19">
       <text lang="CHN">将木工的生产转为手推车！</text>
+      <text lang="eng">Change the carpenter's production to HANDCARTS!</text>
       <text lang="ger">Stelle die Produktion des Schreiners auf HANDKARREN um!</text>
     </string>
     <string id="71">
       <text lang="CHN">斯诺里</text>
+      <text lang="eng">Snorri </text>
       <text lang="ger">Snorri </text>
     </string>
     <string id="72">
       <text lang="CHN">海丁</text>
+      <text lang="eng">Hedin </text>
       <text lang="ger">Hedin </text>
     </string>
     <string id="73">
       <text lang="CHN">奥姆</text>
+      <text lang="eng">Orm</text>
       <text lang="ger">Orm</text>
     </string>
     <string id="74">
       <text lang="CHN">拉尔夫</text>
+      <text lang="eng">Ralf </text>
       <text lang="ger">Ralf </text>
     </string>
     <string id="75">
       <text lang="CHN">盖尔</text>
+      <text lang="eng">Geir</text>
       <text lang="ger">Geir</text>
     </string>
     <string id="76">
       <text lang="CHN">埃斯坦</text>
+      <text lang="eng">Eystein</text>
       <text lang="ger">Eystein</text>
     </string>
     <string id="98">
       <text lang="CHN">本关介绍科技树，并讲解建筑等级的提升机制。</text>
+      <text lang="eng">Here the technology tree will be introduced and you will learn how to upgrade building levels.</text>
       <text lang="ger">Hier wird der Technologiebaum eingeführt und erklärt, wie das Ausbauen der Gebäudestufen funktioniert.</text>
     </string>
     <string id="99">
       <text lang="CHN">4) 科技</text>
+      <text lang="eng">4) TECHNOLOGIES</text>
       <text lang="ger">4) TECHNOLOGIEN</text>
     </string>
   </strings>
@@ -128,6 +157,16 @@
 
 按照菜单栏旁边出现的任务提示操作。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Here the technology tree will be introduced and you will learn how to upgrade building levels.
+
+The basic food provisions have already been taken care of in this village, therefore we now want to concentrate on the development of other technologies. 
+
+Our extractors Snorri, Hedin and Orm will help us with any building plans. 
+Extractors have professions that don't involve specific work places. You can change the raw materials they extract as well as the goods that are produced, provided that the worker is experienced enough and that the respective work place is available. 
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -149,6 +188,16 @@ Der Abbauer übt einen Beruf ohne eigene Arbeitsstätte aus. Die Art eines Rohst
 
 把他派到陶艺坊去当陶匠。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+FROM A CLAY-WORKER TO A POTTER
+
+Your clay-worker is experienced enough to become a potter. He needs a pottery where he can produce bricks to be used as building materials.
+
+Build a POTTERY close to a clay pit and assign the clay-worker there!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -173,6 +222,18 @@ Baue in der Nähe der Lehmgrube eine TÖPFEREI und weise sie dem Lehmabbauer als
 选择你的陶匠，打开扩建菜单。
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+
+UPGRADE THE POTTERY
+
+The potter has gained enough experience at making bricks for your Vikings, and is now able to produce tiles. 
+
+Tiles are required in order to build houses that have tiled roofs rather than thatched ones, e.g. the cattle farm.
+
+Upgrade the POTTERY! To do so, click on the pottery to open its building display. Click on the button "START UPGRADE". This button will only appear if all the goods required for the upgrade are available.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -196,6 +257,16 @@ Baue die TÖPFEREI aus! Klicke dazu die Töpferei an, so dass das Gebäudefenste
 给他再扩建一次陶艺坊吧--这一次可以升级到第三级。
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+
+UPGRADE THE POTTERY 2
+
+The potter has gained enough experience at making tiles to produce crockery. This requires you to upgrade the pottery once more. 
+
+Upgrade the POTTERY 2! To do so, click on the pottery to open its building display. Click on the button "START UPGRADE". This button will only appear if all the goods required for the upgrade are available.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -217,6 +288,16 @@ Baue die TÖPFEREI 2 aus! Klicke dazu die Töpferei an, so dass das Gebäudefens
 让他成为一名雕刻师，以便能用这些材料制作建筑物。
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+
+FROM A STONE COLLECTOR TO A STONEMASON
+
+Your stone collector is experienced enough to become a stonemason. He needs a stonemason's workshop in order to turn quarrystone into hewn stone.
+
+Build a STONEMASON'S WORKSHOP close to a stone deposit and assign the stone collector there!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -237,6 +318,18 @@ Baue eine STEINMETZHÜTTE in der Nähe der Steingrube und weise sie dem Steinabb
 足够的经验，可以让
 
 他的小屋进一步升级。</text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+UPGRADE THE STONEMASON'S WORKSHOP
+
+Your stonemason is very experienced and his workshop is almost too small for his goods. 
+
+You should upgrade the stonemason's workshop. To make marble out of quarrystone, your stonemason requires a stonemason's workshop 2. However, upgrading the stonemason's workshop requires the use of bricks which can only be produced in a pottery 1.
+
+Upgrade the STONEMASON'S WORKSHOP! To do so, click on the stonemason's workshop to open its building display. Click on the button "START UPGRADE". This button will only appear if all the goods required for the upgrade are available.
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -261,6 +354,16 @@ Baue die STEINMETZHÜTTE aus! Klicke dazu die Steinmetzhütte an, so dass das Ge
 把他派到木匠铺去工作。
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+
+FROM A WOODCUTTER TO A CARPENTER
+
+Your woodcutter is experienced enough to become a carpenter. He needs a carpenter's workshop in order to produce wooden tools.
+
+Build a CARPENTER'S WORKSHOP and assign the woodcutter there!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -283,6 +386,18 @@ Baue eine SCHREINEREI und weise sie dem Holzabbauer als Arbeitsstätte zu!
 
 将木匠铺升到第二级。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+UPGRADE THE CARPENTER'S WORKSHOP
+
+The carpenter has gained enough experience at toolmaking to produce furniture. This requires an upgrade of the carpenter's workshop.
+ 
+Once he has gained enough experience at making furniture, he will even be able to make wooden spears.  
+
+Upgrade the CARPENTER'S WORKSHOP! To do so, click on the carpenter's workshop to open its building display. Click on the button "START UPGRADE". This button will only appear if all the goods required for the upgrade are available. 
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -307,6 +422,16 @@ Baue die SCHREINEREI aus! Klicke dazu auf die Schreinerei, so dass das Gebäudef
 将其升级到第三级。
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+
+UPGRADE THE CARPENTER'S WORKSHOP 2
+
+The carpenter has gained enough experience to produce handcarts. This requires you to upgrade the carpenter's workshop once more.  
+
+Upgrade the CARPENTER'S WORKSHOP 2! To do so, click on the carpenter's workshop to open its building display. Click on the button "START UPGRADE". This button will only appear if all the goods required for the upgrade are available. 
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -328,6 +453,16 @@ Baue die SCHREINEREI 2 aus! Klicke dazu auf die Schreinerei, so dass das Gebäud
 升级到第四级。
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+
+UPGRADE THE CARPENTER'S WORKSHOP 3
+
+The carpenter has gained enough experience to produce merchant ships. This requires you to upgrade the carpenter's workshop once more. In the further course of the game you should bear in mind that this requires the carpenter's workshop to be built close to the shore. 
+
+Upgrade the CARPENTER'S WORKSHOP 3 anyway! To do so, click on the carpenter's workshop to open its building display. Click on the button "START UPGRADE". This button will only appear if all the goods required for the upgrade are available. 
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -348,6 +483,16 @@ Baue die SCHREINEREI 3 trotzdem aus! Klicke dazu auf die Schreinerei, so dass da
 
 派他到铁匠铺工作。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+FROM AN ORE MINER TO A BLACKSMITH
+
+The ore miner is experienced enough to become a blacksmith. He needs a smithy to produce iron tools and later iron spears and shortswords using iron and wood.
+
+Build a SMITHY and assign the ore miner there!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -372,6 +517,17 @@ Baue eine Schmiede und weise sie dem Erzabbauer als Arbeitsstätte zu!
 把铁匠铺升到第二级！
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+UPGRADE THE SMITHY
+
+The blacksmith is experienced enough to produce longswords. This requires you to upgrade the smithy.
+
+He will later be able to learn to produce chain mail and even plate armour.
+
+Upgrade the SMITHY! To do so, click on the smithy to open its building display. Click on the button "START UPGRADE". This button will only appear if all the goods required for the upgrade are available.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 AUSBAU DER SCHMIEDE
@@ -395,6 +551,23 @@ Baue die SCHIEDE aus! Klicke dazu auf die Schmiede, so dass das Gebäudefenster 
 作为裁缝，他需要皮毛来制作衣物。
 
 作为畜牧人，他负责照料牲畜。</text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+FROM A HUNTER TO A TAILOR OR STOCK FARMER
+
+The hunter is experienced enough to work as a tailor or stock farmer. 
+
+A tailor needs a tailor's workshop to produce leather shoes. 
+
+
+A stock farmer needs a cattle farm, which should be built close to grazing animals. These can be caught by a scout. 
+Sheep provide wool and meat, while cattle provide meat and leather.
+
+Build a TAILOR'S WORKSHOP and a CATTLE FARM and assign the hunters there!
+Bear in mind that for the cattle farm you'll need roof tiles, which can only be produced in the upgraded pottery. You'll also only be able to build a cattle farm if you own a pottery 2.
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -424,6 +597,18 @@ Bedenke, dass du für den Bau der Viehzüchterei Dachziegel benötigst, die spä
 
 够的经验，可以生产出更优质的产品。</text>
       </lang>
+      <lang code="eng">
+        <text>
+
+UPGRADE THE TAILOR'S WORKSHOP
+
+The tailor has gained enough experience at making shoes to produce leather armour. This requires you to upgrade the tailor's workshop.
+
+As he gains experience, the tailor will be able to make tunics.
+
+Upgrade the TAILOR'S WORKSHOP! To do so, click on the tailor's workshop to open its building display. Click on the button "START UPGRADE". This button will only appear if all the goods required for the upgrade are available.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -445,6 +630,17 @@ Baue die NÄHEREI aus! Klicke dazu auf die Näherei, so dass das Gebäudefenster
 
 现在你的维京人有了一座欣欣向荣的聚居地。</text>
       </lang>
+      <lang code="eng">
+        <text>
+
+VERY GOOD! 
+
+Your buildings are really well upgraded! 
+You have managed to establish really good production chains, and with them important technologies for your people!
+
+Proceed to the next tutorial!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -464,6 +660,17 @@ Auf zum nächsten Tutorial!
 你已将陶艺坊扩建完毕，但不幸的是，
 
 陶匠还不知道该如何善用这些新的可能性。</text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+WELL DONE! 
+
+Now you have upgraded your pottery, but the potter doesn't know that he is supposed to produce roof tiles instead of bricks ... 
+To have the potter produce roof tiles, select him and click on the button next to the roof tiles in the WORK tab. He will automatically change the production to the new goods.
+
+Please change the potter's production to roof tiles!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -485,6 +692,17 @@ Stelle die Produktion des Töpfers auf Ziegel um!
 
 ，石匠还不知道如何充分利用新的空间。</text>
       </lang>
+      <lang code="eng">
+        <text>
+
+WELL DONE! 
+
+Now you have upgraded your stonemason's workshop, but the stonemason doesn't know that he is supposed to produce marble instead of quarrystone ...
+To have the stonemason produce marble, select him and click on the button next to the marble in the WORK tab. He will automatically change the production to the new goods. 
+
+Please change the stonemason's production to marble!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -504,6 +722,17 @@ Stelle die Produktion des Steinmetz auf Marmor um!
 你已将木匠铺扩建完毕，但不幸的是
 
 ，木匠还不知道如何利用这些新条件。</text>
+      </lang>
+      <lang code="eng">
+        <text>
+
+WELL DONE! 
+
+Now you have upgraded your carpenter's workshop, but the carpenter doesn't know that he is supposed to produce furniture instead of wooden tools ...
+To have the carpenter produce furniture, select him and click on the button next to the furniture in the WORK tab. He will automatically change the production to the new goods.
+
+Please change the carpenter's production to furniture!
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -525,6 +754,17 @@ Stelle die Produktion des Schreiners auf Möbel um!
 
 ，裁缝还不知道如何运用这些新资源。</text>
       </lang>
+      <lang code="eng">
+        <text>
+
+WELL DONE! 
+
+Now you have upgraded your tailor's workshop, but the tailor doesn't know that he is supposed to produce leather armours instead of shoes ...
+To have the tailor produce leather armour, select him and click on the button next to the leather armour in the WORK tab. He will automatically change the production to the new goods. 
+
+Please change the tailor's production to leather armour!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -545,6 +785,14 @@ Stelle die Produktion des Nähers auf Lederrüstungen um!
 现在你也可以建造畜牧场了，因为猎人已经积累了足够的经验来照料牲畜。
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+
+Cattle farm available!
+
+Now you can build a cattle farm as well, because the potter has produced the required roof tiles!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 
@@ -559,6 +807,12 @@ Jetzt kannst du auch eine Viehzüchterei bauen, denn die erforderlichen Dachzieg
         <text>
 科技--让你的维京人掌握新能力
         </text>
+      </lang>
+      <lang code="eng">
+        <text> 
+TECHNOLOGIES
+
+</text>
       </lang>
       <lang code="ger">
         <text> 

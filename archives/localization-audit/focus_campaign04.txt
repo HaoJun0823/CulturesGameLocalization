@@ -1,0 +1,1404 @@
+
+====================================================================================================
+FILE: _campaign_04_01.xml
+====================================================================================================
+block 00_start       CHN['text']
+   C: 这片土地荒芜贫瘠，稀少的资源不足以保证我们的生存。于是我们决定另寻他处，重建村落。穿越干涸河床的道路，将指引我们前往新的…
+          GER['text']
+   G: Das Land lag brach und seine kargen Rohstoffe konnten unser …
+block 00_start1      CHN['text']
+   C: 那时我们尚不知晓部族中最年轻一辈的计划…… 玛尼--酋长比雅尼与希拉之子 和诺伯特--那条龙 却另有打算……
+          GER['text']
+   G: Noch ahnten wir nichts von den Vorhaben unserer Stammesjüngs…
+block 01             CHN['text', 'usericon', 'text']
+   C: 出走者 龙诺伯特郁郁不乐。夜深时他常独自清醒难眠，作为人群之中唯一的龙，他思念着同类的身影。他与我们的儿子、人类挚友玛尼…
+   C: 于是两人悄无声息、瞒着我们踏上了前路，走向广阔而未知的世界…… 去寻找当地的龙。
+          GER['text', 'usericon', 'text']
+   G: DIE AUSREISSER Norbert der Drache war traurig. Oftmals lag e…
+   G: Und so machten sich die beiden ganz alleine und ohne unsere …
+block 02             CHN['text', 'usericon', 'text']
+   C: 老者 “噢，这些狼！它们不让我靠近那座古老废墟。可我急需要那口大箱子里的东西。可这种事我总不能交给孩子们去办……”
+   C: ……不过我的情报或许对你们有用。但我还得再想想，该怎么把狼群赶走……我一个老弱之人，要怎么把它们引入陷阱？只要它们进了上…
+          GER['text', 'usericon', 'text']
+   G: DER ALTE MANN "Oh diese Wölfe! Sie lassen mich nicht zu der …
+   G: ... dabei könnten meine Informationen nützlich für euch sein…
+block 03             CHN['text', 'usericon', 'text', 'usericon', 'text', 'usericon', 'text', 'usericon', 'text']
+   C: 老者 “你们做到了！这些猛兽不再构成威胁。那么听好我的指点：”
+   C: “这一带龙不少，可你那朋友属于哪一类，我说不准。 这里有格罗尔斯一族--古老而聪慧的石龙。”
+   C: 它们性情温厚，是最古老悠久的族群之一。若说有谁能助你们寻路，必是它们无疑。但唯有你们先为它们做一件公益之事，它们才会吐露…
+   C: 无人知晓的秘密：它们酷爱烘焙点心！ 还有阿夸斯一族--盘踞东南的水中水龙。
+   C: 它们生性平和，只以鱼与海藻为食。 世间根本没有哪条龙会伤害人类，只是偏见太深！”
+          GER['text', 'usericon', 'text', 'usericon', 'text', 'usericon', 'text', 'usericon', 'text']
+   G: DER ALTE MANN "Ihr habt es geschafft! Diese wilden Bestien s…
+   G: "Viele Drachen gibt es in dieser Gegend, aber zu welcher Art…
+   G: Sie sind sehr gutmütig und gehören zu dem wohl ältesten Volk…
+   G: Was niemand weiß: sie lieben Backwaren! Dann gibt es die AQU…
+   G: Sie sind sehr friedliebend und ernähren sich ausschließlich …
+block 04             CHN['text', 'usericon', 'text']
+   C: 格罗尔斯--石龙 在嶙峋山脉中，玛尼与诺伯特遇见了古老的智慧石龙。
+   C: 我们定能助你们一臂之力！不过，众石龙中最睿智的格拉乌霍尔姆，唯有待你们应他所愿、安抚此地群龙之后，才会接见你们。 找出这…
+          GER['text', 'usericon', 'text']
+   G: GEROLS - DIE STEINDRACHEN In dem steinigen Gebirge trafen Ma…
+   G: Sicherlich könnten wir euch helfen! GRAUHOLM, der weiseste a…
+block 05             CHN['text', 'usericon']
+   C: 石龙 若想前往我们神圣的殿堂、觐见最睿智的石龙格拉乌霍尔姆，你们必须先安抚这片区域中的所有龙与人。
+          GER['text', 'usericon']
+   G: STEINDRACHEN Wollt ihr zu unseren geheiligten Hallen zu GRAU…
+block 06             CHN['text', 'usericon', 'text']
+   C: 维京村庄 “一个孩子和一条龙……你们真是古怪的组合！”
+   C: 人们对龙怀有诸多偏见，可我们村庄极为包容。你们来自何处？也许能帮我们建起一座蛋糕烘焙坊和一处畜牧场？” 建造一座能运转的…
+          GER['text', 'usericon', 'text']
+   G: WIKINGERDORF "Ein Kind und ein Drache... Ihr seit ein gar ko…
+   G: Es herrschen viele Vorurteile gegenüber Drachen, aber unser …
+block 07             CHN['text', 'usericon', 'text']
+   C: 畜牧场落成！ “我们终于能自己繁育牲畜，让林中野兽得以安享宁静。这份恩情我们永志不忘。”村民说道。
+   C: 有了畜牧场，饱腹的人多了，村庄也随之添了些新居民。
+          GER['text', 'usericon', 'text']
+   G: VIEHZUCHT ERRICHTET! "Endlich können wir unser Vieh selbst z…
+   G: Und unser Dorf wuchs um einige neue Dorfbewohner, denn dank …
+block 08             CHN['text', 'usericon', 'text']
+   C: 可运转的蛋糕烘焙坊落成！ “这下我们部族终于能安抚火龙了！”村民说道。
+   C: “年轻的玛尼，你与龙友这就领着蛋糕商队前往火龙处吧。说不定能从它们那里探听到你身世的线索……” 护送商队前往火龙处，并在…
+          GER['text', 'usericon', 'text']
+   G: FUNKTIONIERENDE KUCHENBÄCKEREI ERRICHTET! "Damit wird unser …
+   G: "Geleitet ihr, junger Mani, mit eurem Freund dem Drachen doc…
+block 09             CHN['text', 'usericon', 'text']
+   C: 火龙 “我们对其他生灵素无好感。饥饿总来纠缠，令我们乖戾易怒。我们本无意伤人，可这饥肠……”
+   C: 而且东边的纳帕利亚人让我们苦不堪言。他们趁夜偷走我们仅存的食物，还毁坏土地。 给火龙送去蛋糕，或许能稍减它们的食欲！ 前…
+          GER['text', 'usericon', 'text']
+   G: FEUERDACHEN "Wir sind nicht gut auf andere Lebewesen zu spre…
+   G: und die Napalianer östlich von hier machen uns das Leben sch…
+block 10             CHN['text', 'usericon', 'text']
+   C: 火龙 “你们真是烘焙大师！我们定当鼎力相助！”火龙们说道。
+   C: 从今往后，我们中有五条将听命于你们！若还需更多，尽管缴纳贡品！
+          GER['text', 'usericon', 'text']
+   G: FEUERDRACHEN "Ihr seid wahre Meisterbäcker! Unsere Unterstüt…
+   G: Fünf von uns werden von nun an in eurem Dienste stehen! Fall…
+block 100            CHN['font', 'text', 'font', 'picture', 'text']
+   C: 任务失败！
+   C: 一时的轻率，生命便转瞬即逝！比雅尼与希拉之子玛尼，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Ein kleiner Moment des Leichtsinns, so schnell kommt es im L…
+block 11             CHN['text', 'usericon', 'text']
+   C: 惧怕龙的女孩
+   C: “哥哥曾告诉我，火龙最爱吃到了一定年纪的女孩。所以我才离家出走。我好害怕！”
+          GER['text', 'usericon', 'text']
+   G: MÄDCHEN, DAS ANGST VOR DRACHEN HAT
+   G: "Mein großer Bruder erzählte mir, die Feuerdrachen würden am…
+block 12             CHN['text', 'usericon', 'text']
+   C: 顽童 “我告诉妹妹，火龙最爱吃到了一定年纪的女孩。结果她竟离家出走了！全都是我的错！我必须找到她，因为只有我她才肯信………
+   C: 你们能帮我找到她吗？
+          GER['text', 'usericon', 'text']
+   G: LAUSBUB "Ich hab meiner Schwester erzählt, die Feuerdrachen …
+   G: Könnt ihr mir helfen, sie zu finden?
+block 13             CHN['text', 'usericon', 'text']
+   C: 不再害怕的女孩
+   C: “哥哥真坏，编这种谎话吓我。可我现在知道了，那不是真的，再也不用怕火龙了。”
+          GER['text', 'usericon', 'text']
+   G: MÄDCHEN, das nun keine Angst mehr hat
+   G: "Das war nicht sehr nett von meinem Bruder, mir solche Lügen…
+block 14             CHN['text', 'usericon', 'text']
+   C: 村民 虽说我们的木匠能学会造船，但他需要一座朝南临水的木工坊，方能在水深足够、可驶向水龙之处下水。南方有个渡船夫，认得去…
+   C: 找到那个载玛尼与诺伯特前往水龙之岛的渡船夫。
+          GER['text', 'usericon', 'text']
+   G: DIE BEWOHNER DES DORFES Zwar kann unser Schreiner den Bootsb…
+   G: Finde den Fährmann, der Mani und Norbert zur Insel der Wasse…
+block 15             CHN['text', 'usericon', 'text']
+   C: 渡船夫 “许久不曾在这片土地上见到生客了！近前来！”渡船夫朝我们喊道。
+   C: “我认得去阿夸斯--水龙所在的路，我的船也还能用。不过总得收点小费才行！” 向渡船夫缴纳贡品！
+          GER['text', 'usericon', 'text']
+   G: FÄHRMANN "Lange habe ich in diesen Landstrich keine Fremden …
+   G: "Ich weiß den weg zu den Aquas - den Wasserdrachen und mein …
+block 16             CHN['text', 'usericon', 'text']
+   C: 渡船夫 “现在我乐意送你们过岛。这片水域，没人比我更熟！”
+   C: “你做了个明智的决定！”
+          GER['text', 'usericon', 'text']
+   G: FÄHRMANN "Nun bin ich gerne bereit, euch zur Insel überzuset…
+   G: Ihr habt eine weise Entscheidung getroffen!"
+block 17             CHN['text']
+   C: 在这不起眼的湖泊中央，竟有一道巨大的漩涡！我们辨不清渡船夫将我们带向何方，因为在雾霭迷蒙之地，我们彻底迷失了方向……
+          GER['text']
+   G: In der Mitte des unscheinbaren Sees war ein mächtiger Strude…
+block 18             CHN['text', 'usericon', 'text']
+   C: 阿夸斯--水龙
+   C: 我们是爱好和平的龙。若你们是友，便请进来，拜会强大的阿夸里乌斯！
+          GER['text', 'usericon', 'text']
+   G: AQUAS - DIE WASSERDRACHEN
+   G: Wir sind friedliebende Drachen. Tretet ein, wenn ihr Freund …
+block 19             CHN['text', 'usericon', 'text']
+   C: 石龙的神圣殿堂 玛尼与诺伯特终于获准进入石龙殿堂，来到最年长、最睿智的石龙格拉乌霍尔姆面前。
+   C: 他定能指引方向，引领他们的搜寻走上正途。
+          GER['text', 'usericon', 'text']
+   G: DIE HEILIGEN HALLEN DER STEINDRACHEN Nun durften Mani und No…
+   G: Sicherlich konnte er ihnen weiterhelfen und ihre Suche in di…
+block 20             CHN['text', 'usericon', 'text']
+   C: 纳帕利亚人 “我们的村庄染了瘟疫！不想被传染就离远点！否则我们可要动武了！”
+   C: 我们从未受过如此无礼的对待。莫非疾病也侵蚀了他们的神智？ 向纳帕利亚人进贡 25 瓶大型治疗药剂。
+          GER['text', 'usericon', 'text']
+   G: NAPALIANER "Unser Dorf ist verseucht! Wenn ihr nicht angeste…
+   G: So unfreundlich wurden wir noch nie empfangen. Ob die Krankh…
+block 200            CHN['font', 'text', 'font', 'picture', 'text']
+   C: 任务失败！
+   C: 一时的轻率，生命便转瞬即逝！你的挚友、英雄之龙诺伯特，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Ein kleiner Moment des Leichtsinns, so schnell kommt es im L…
+block 21             CHN['text', 'usericon']
+   C: 纳帕利亚人败北！ 纳帕利亚人虽被击败、火龙也摆脱了威胁，可若当初本也能和平了结。毕竟他们身染疾病，所求不过是援助，纵然方…
+          GER['text', 'usericon']
+   G: NAPALIANER BESIEGT! Zwar waren die Napalianer geschlagen und…
+block 22             CHN['text', 'usericon', 'text']
+   C: 各族和睦！ 石龙一族定会为此欣喜！如今它们必须放行玛尼与诺伯特了。这片区域的所有龙，都已与人、彼此交好。
+   C: 与玛尼和诺伯特一同前往石龙的神圣殿堂！
+          GER['text', 'usericon', 'text']
+   G: VÖLKER BEFRIEDET! Über diese Nachricht würden sich die Stein…
+   G: Gehe mit Mani und Norbert zu den HEILIGEN HALLEN DER STEINDR…
+block 23             CHN['text', 'usericon', 'text']
+   C: 前哨站
+   C: 这座前哨阴森诡异！曾居于此的人们，必是出于某种缘由才离它而去……
+          GER['text', 'usericon', 'text']
+   G: VORPOSTEN
+   G: Dieser Vorposten war gespenstisch! All die Menschen die hier…
+block 24             CHN['text', 'usericon']
+   C: 治疗药剂已送达！ “多谢你们用药剂救了我们！”纳帕利亚人朝我们喊道，并即刻改变了对待我们的外交姿态。
+          GER['text', 'usericon']
+   G: HEILTRÄNKE GELIEFERT! "Danke, das ihr uns mit euren Heilträn…
+block 25             CHN['text', 'usericon', 'text']
+   C: 商人 “家兄与我，前些时日在此落脚定居。往日我曾驾船巡游四海。如今这水域水浅难行，我的船只会搁浅。”
+   C: “所以我在此安顿下来，售货营生。不妨看看，可有合用的物件！我的价钱公道的！”
+          GER['text', 'usericon', 'text']
+   G: HÄNDLER "Mein Bruder und ich, wir haben uns hier vor einiger…
+   G: "Deshalb habe ich mich hier niedergelassen und biete meine W…
+block 50_end         CHN['text']
+   C: 玛尼与诺伯特安抚了本地的龙与人。从智慧的石龙口中，他们得知了诺伯特身世的更多线索，也明确了该去何处寻觅他的同类……他们必…
+          GER['text']
+   G: Mani und Norbert haben die Drachen und Menschen der hiesigen…
+block 50_end1        CHN['text']
+   C: 他们思念家乡，满心恐惧，悔恨这场鲁莽的冒险。他们还能否毫发无伤地离开此地？
+          GER['text']
+   G: Sie hatten Heimweh, große Angst und bereuten ihr waghalsiges…
+block 50_endheader   CHN['text']
+   C: 任务成功！
+          GER['text']
+   G: MISSION GEWONNEN!
+block header         CHN['text']
+   C: 巨龙之国大冒险
+          GER['text']
+   G: ABENTEUER IM DRACHENLAND
+
+====================================================================================================
+FILE: _campaign_04_01_sub1.xml
+====================================================================================================
+block 00_start       CHN['text', 'usericon']
+   C: 玛尼与诺伯特刚踏入水龙神殿的入口，便发觉自己置身于一处奇异陌生的境地。他们的动作都变得迟缓，眼前波光粼粼，仿佛正潜入水中…
+          GER['text', 'usericon']
+   G: Augenblicklich nachdem Mani und Norbert den Eingang des Wass…
+block 00_start1      CHN['text']
+   C: 这座神殿确实位于海底。玛尼与诺伯特正身处阿夸斯三座水之圣殿之一！
+          GER['text']
+   G: Dieser Tempel befand sich tatsächlich unter dem Meer. Mani u…
+block 01             CHN['text', 'usericon', 'text', 'usericon', 'text']
+   C: 阿夸里乌斯守卫 “真叫人火冒三丈！只可惜喷火这一天赋，我们水龙实在不太擅长……水龙的水域骤然变冷，转眼间，那座冰雕像便出…
+   C: 如今它挡住了所有访客与我前往阿夸里乌斯的去路！谁敢靠近，便会被冻僵，如同这里这可怜的 小生灵……
+   C: 没有阿夸里乌斯的智慧，我们一族将走向灭亡…… 你们能帮帮我们吗？一同前往出口，回到海面之上。若愿相助，请再度前来。水龙一…
+          GER['text', 'usericon', 'text', 'usericon', 'text']
+   G: AQUARIUS WACHE "Es ist zum Feuerspeien! Nur das dieses Talen…
+   G: Nun versperrt sie allen Besuchern und mir den Weg zu AQUARIU…
+   G: Unser Volk wird zu Grunde gehen ohne die Weisheiten von AQUA…
+block 500            CHN['font', 'text', 'font', 'picture', 'text']
+   C: 任务失败！
+   C: 一时的轻率，生命便转瞬即逝！你的挚友、英雄之龙诺伯特，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Ein kleiner Moment des Leichtsinns, so schnell kommt es im L…
+block 50_end         CHN['usericon']
+          GER['usericon']
+block 50_end1        CHN[]
+          GER[]
+block 50_endheader   CHN['text']
+   C: 任务成功！
+          GER['text']
+   G: MISSION GEWONNEN!
+block 600            CHN['font', 'text', 'font', 'picture', 'text']
+   C: 任务失败！
+   C: 一时的轻率，生命便转瞬即逝！比雅尼与希拉之子玛尼，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Ein kleiner Moment des Leichtsinns, so schnell kommt es im L…
+block header         CHN['text']
+   C: 海底
+          GER['text']
+   G: UNTER DEM MEER
+
+====================================================================================================
+FILE: _campaign_04_01_sub2.xml
+====================================================================================================
+block 00_start       CHN['text']
+   C: 而那座冰雕像就矗立在那里，挡住了通往阿夸里乌斯的去路！
+          GER['text']
+   G: Mani und Norbert betraten wieder den Wassertempel der AQUAS …
+block 00_start1      CHN['text']
+   C: 阿夸里乌斯守卫 “噢，我看你们带了一条卢米斯族的火龙来。它们怕水，正如我们怕火。他定是鼓起了莫大的勇气。不知他能否融化这…
+          GER['text']
+   G: Und dort war sie, die Eisstatue, die den Weg zu Aquarius ver…
+block 01             CHN['text', 'usericon', 'text']
+   C: 阿夸里 乌斯守卫
+   C: “你们当真做到了。我们着实小看了火龙。这份恩情我们永志不忘。随我来见阿夸里乌斯吧！”
+          GER['text', 'usericon', 'text']
+   G: AQUARIUS WACHE "Oh, wie ich sehe habt ihr einen der Lumis, d…
+   G: Tretet ruhig zur Eisstatue, wenn ihr es nicht schafft, dann …
+block 02             CHN['text']
+   C: 阿夸里乌斯 “欢迎来到海底之国！”阿夸里乌斯用咕噜作响的声音说道，嘴里还冒出小小的气泡。 “鱼儿们已将你们的冒险告知于我…
+          GER['text']
+   G: AQUARIUS WACHE "Ihr habt es tatsächlich vollbracht. Wir habe…
+block 03             CHN['text', 'usericon', 'text']
+   C: 任务 失败！
+   C: 一时的轻率，生命便转瞬即逝！你的挚友、英雄之龙诺伯特，因你的疏忽 而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+          GER['text', 'usericon', 'text']
+   G: AQUARIUS "Willkommen im Reich unter dem Meer!" sprach Aquari…
+   G: "Die Fische erzählten mir bereits von eurem Abenteuer. Dank …
+block 500            CHN['text', 'text']
+   C: 任务失败！
+   C: 睿智的格拉乌霍尔姆定会对此甚感欣慰！
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Ein kleiner Moment des Leichtsinns, so schnell kommt es im L…
+block 50_end         CHN['text', 'usericon', 'text']
+   C: 玛尼与诺伯特凭着热心助人，竟促成了整个族群的联合！阿夸斯与卢米斯重归于好！
+   C: 睿智的格拉乌霍尔姆一定会为此感到欣慰！
+          GER['text', 'usericon', 'text']
+   G: Mani und Norbert hatten es geschafft durch ihre Hilfsbereits…
+   G: Der weise GRAUHOLM würde dies sicherlich zu schätzen wissen!
+block 50_end1        CHN[]
+          GER[]
+block 50_endheader   CHN['text']
+   C: 任务成功！
+          GER['text']
+   G: MISSION GEWONNEN!
+block 600            CHN['text', 'text']
+   C: 任务失败！
+   C: 生活中的片刻疏忽，人生如此迅速！ 玛尼--比雅尼与希拉之子--因你的疏忽而丧命！失去这位英雄，你将无法得知任务的结局。
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Ein kleiner Moment des Leichtsinns, so schnell kommt es im L…
+block header         CHN['text']
+   C: 海底之下
+          GER['text']
+   G: UNTER DEM MEER
+
+====================================================================================================
+FILE: _campaign_04_01_sub3.xml
+====================================================================================================
+block 00_start       CHN['text']
+   C: 睿智的格拉乌霍尔姆可会知晓诺伯特的身世？他们很快便能得知答案……
+          GER['text']
+   G: Bis hierher hatten es Norbert und Mani geschafft. Die heilig…
+block 00_start1      CHN['text']
+   C: 环绕格拉乌霍尔姆的守卫龙 “格拉乌霍尔姆已然在等候你们！随我们来见他！”
+          GER['text']
+   G: Würde der weise Grauholm etwas über Norberts Herkunft wissen…
+block 01             CHN['text', 'usericon', 'text']
+   C: 格拉乌霍尔姆 “你们当真做到了，化解了各族之间的芥蒂！”
+   C: 仅余一对尚未和好，不过我怀疑这两位并非因偏见、恐惧或嫉妒而争执……罗希尔德与布劳施特鲁姆夫，火龙与水龙的两位代表，把这里…
+          GER['text', 'usericon', 'text']
+   G: DIE WACHDRACHEN UM GRAUHOLM
+   G: "GRAUHOLM erwartet euch bereits! Folgt uns zu ihm!"
+block 02             CHN['text', 'usericon', 'text']
+   C: 鲜花！ 玛尼与诺伯特在撮合二者时，不得不使了点小计谋……两条龙都倔强得很。这时他们有了个主意！
+   C: 或许送几束鲜花、说几句编造的好话？于是玛尼与诺伯 特采了几朵蓝花，走向罗希尔德……
+          GER['text', 'usericon', 'text']
+   G: GRAUHOLM "Wahrlich, ihr habt es geschafft den Twist zwischen…
+   G: Ein einziger ist noch übriggeblieben, doch ich bezweifele, d…
+block 03             CHN['text', 'usericon', 'text']
+   C: 罗 希尔德
+   C: “我才不要去见那个自命不凡的水龙！”罗希尔德说罢，便转过身去。
+          GER['text', 'usericon', 'text']
+   G: BLUMEN! Mani und Norbert mussten bei der Versöhnung der beid…
+   G: Vielleicht ein paar Blumen und ein paar geflunkelte nette Wo…
+block 04             CHN['text', 'usericon']
+   C: 罗希尔德 “蓝花，可真美呀！什么？这花是布劳施特鲁姆夫送来的？” 身为水龙，倒颇有几分品味。或许我先前错看了他？ 好吧，…
+          GER['text', 'usericon']
+   G: ROTHILD "Ich werde nicht mitkommen und diesen eingebildeten …
+block 05             CHN['text', 'usericon', 'text']
+   C: 布劳 斯特伦普
+   C: “罗希尔德以为自己多了不得！不，我才不要去，免得碰上她。 ”布劳施特鲁姆夫说罢，转过身去。
+          GER['text', 'usericon', 'text']
+   G: ROTHILD "Blaue Blumen, die sind aber wunderschön! Wie? Diese…
+   G: Für einen Wasserdrachen hat er ja einen guten Geschmack. Vie…
+block 06             CHN['text', 'usericon']
+   C: 布劳施特鲁姆夫 “什么，她喜欢我？此话当真？既然如此，我自然随你们去。其实我私下里，一直觉得她俏皮可爱。”
+          GER['text', 'usericon']
+   G: BLAUSTRUMP "Diese Rothild denkt sie wär etwas Besonderes! Ne…
+block 07             CHN['text', 'usericon']
+   C: 罗希尔德与布劳施特鲁姆夫 当这两头倔龙换了个眼光彼此相看，一切便水到渠成。虽血脉不同，他们却找到了彼此。”
+          GER['text', 'usericon']
+   G: BLAUSTRUMP "Wie, sie mag mich? Ist das wirklich wahr? Na wen…
+block 08             CHN['text', 'usericon']
+   C: 任务失败！ 一时的轻率，生命便转瞬即逝！你的挚友、英雄之龙诺伯特，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐…
+          GER['text', 'usericon']
+   G: ROTHILD UND BLAUSTRUMP Als die beiden dickköpfigen Drachen s…
+block 09             CHN[]
+          GER[]
+block 500            CHN['text', 'text']
+   C: 任务失败！
+   C: 可惜他们的温厚常被利用，成了托鲁曼人钟爱的猎物。唯极少数远离尘世者得以幸存。若世上尚有地龙，那必在丛林深处。 向南而行吧…
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Ein kleiner Moment des Leichtsinns, so schnell kommt es im L…
+block 50_end         CHN['text', 'usericon', 'text']
+   C: 格拉乌霍尔姆 "如今你们也让这两位重归于好。作为答谢，我便将所知关于你们身世的一切告诉你们：诺伯特，我年幼的土龙……"
+   C: 不幸的是，他们的善良常被人利用，他们曾是托鲁曼人热衷捕猎的目标。 只有少数龙族在远离尘世之处幸存下来。
+          GER['text', 'usericon', 'text']
+   G: GRAUHOLM "Nun habt ihr auch diese beiden zusammengebracht. I…
+   G: Leider wurde ihre Gutmütigkeit oftmals ausgenutzt und sie wa…
+block 50_end1        CHN[]
+          GER[]
+block 50_endheader   CHN['text']
+   C: 任务成功！
+          GER['text']
+   G: MISSION GEWONNEN!
+block 600            CHN['text', 'text']
+   C: 任务失败！
+   C: 生活中的片刻疏忽，人生如此迅速！ 玛尼--比雅尼与希拉之子--因你的疏忽而丧命！失去这位英雄，你将无法得知任务的结局。
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Ein kleiner Moment des Leichtsinns, so schnell kommt es im L…
+block header         CHN['text']
+   C: 石龙殿堂
+          GER['text']
+   G: DIE HEILIGE HALLE DER STEINDRACHEN
+
+====================================================================================================
+FILE: _campaign_04_02.xml
+====================================================================================================
+block 00_start       CHN['text']
+   C: 白日里，我们的部族在阴森森林中徘徊迷路。每当以为找到出路，却已更深地陷入幽暗森林。补给渐竭，而玛尼与诺伯特的失踪更令我们…
+          GER['text']
+   G: Tageland irrte unser Stamm durch die unheimlichen Wälder. We…
+block 00_start1      CHN['text']
+   C: 显而易见：我们迷路了！ 建立营地，寻一条出林之路！
+          GER['text']
+   G: Es war offensichtlich: wir hatten uns verirrt! Errichte ein …
+block 01             CHN['text', 'usericon', 'text']
+   C: 适宜的营地选址 我们的侦察兵古克菲克斯寻得一处营地，正合我们所需：
+   C: 此处树木稀疏，留有充足建造空间，周遭亦不缺各类资源。
+          GER['text', 'usericon', 'text']
+   G: GÜNSTIGER LAGERLATZ GUCKFIX, unser Kundschafter, hatte einen…
+   G: Die Bäume standen hier nicht allzu dicht beieinander und som…
+block 02             CHN['text', 'usericon', 'text']
+   C: 幽暗洞穴入口
+   C: 此洞只宜由英雄进入！谁也不知其中藏着什么？
+          GER['text', 'usericon', 'text']
+   G: EINGANG ZUR ZAPPENDUSTEREN HÖHLE
+   G: Diese Höhle sollte man nur mit Helden betreten! Wer weiß, wa…
+block 03             CHN['text', 'usericon', 'text']
+   C: 森林守护者韦登特罗伊 在垂柳之下，我们遇见一位森林守护者。
+   C: “哦，你们迷路了？不熟悉森林的人常会这样。若你们肯分些新鲜蜂蜜给我，我便助你们一臂之力。” 向韦登特罗伊进贡蜂蜜（以贡品…
+          GER['text', 'usericon', 'text']
+   G: WALDHÜTERIN WEIDENTREU Unter den Trauerweiden stießen wir au…
+   G: "Oh, ihr habt euch verirrt? Das passiert vielen, die den Wal…
+block 04             CHN['text', 'usericon']
+   C: 蜂蜜已交给韦登特罗伊 “我的协助定然少不了。只要另外两位守护者就位，我随时听候差遣！”
+          GER['text', 'usericon']
+   G: HONIG AN WEIDENTREU GELIEFERT "Meine Hilfe ist euch sicher. …
+block 05             CHN['text', 'usericon', 'text']
+   C: 森林守护者博肯扎恩 “欢迎！”森林守护者博肯扎恩说道。
+   C: “我们森林守护者本可带你们出林，但我此前有一事相求： 前些时日，几条暗龙闯入我家，从我珍藏的水晶藏品中窃走一枚最珍贵的水…
+          GER['text', 'usericon', 'text']
+   G: WALDHÜTER BORKENZAHN "Willkommen!" sprach WALDHÜTER BORKENZA…
+   G: "Wir Waldhüter könnten euch natürlich aus dem Wald führen, a…
+block 06             CHN['text', 'usericon']
+   C: 博肯扎恩已获赠水晶 “我的协助定然少不了。只要另外两位守护者就位，我随时听候差遣！”
+          GER['text', 'usericon']
+   G: BORKENZAHN DEN KRISTALL ÜBERREICHT! "Meine Hilfe ist euch si…
+block 07             CHN['text', 'usericon', 'text']
+   C: 森林守护者拉普斯丽申 “欢迎！”森林守护者拉普斯丽申说道。
+   C: “我极想纺线，却苦无羊毛！ 向拉普斯丽申交易 20 份货物，使她至少得到 20 袋羊毛！”
+          GER['text', 'usericon', 'text']
+   G: WALDHÜTERIN RAPSLIESCHEN "Willkommen!" sprach WALDHÜTERIN RA…
+   G: "Ich würde so gerne spinnen, aber mir fehlt die Wolle!" Erha…
+block 08             CHN['text', 'usericon']
+   C: 已与拉普斯丽申交易货物 “我的协助定然少不了。只要另外两位守护者就位，我随时听候差遣！”
+          GER['text', 'usericon']
+   G: WAREN MIT RAPSLIESCHEN GEHANDELT "Meine Hilfe ist euch siche…
+block 09             CHN['text', 'usericon', 'text']
+   C: 火龙派罗 林中野兽被震耳欲聋的嘶吼惊得四散奔逃。“我们火龙中有一员被落石困住了！”火龙们说道。你们能帮帮我们吗？
+   C: 开采派罗周围的石料、矿石与黄金，将困于岩中的火龙派罗解救出来！
+          GER['text', 'usericon', 'text']
+   G: PYRO DER FEUERDACHE Die Tiere des Waldes waren zusammengelau…
+   G: Befreie Pyro, den Feuerdrachen aus dem Felsen indem du Stein…
+block 10             CHN['text', 'usericon']
+   C: 派罗已获救 这条火龙对我们的救援感激不尽，遂加入我们的任务。他被夹在岩块间足有数日，如今终获自由！
+          GER['text', 'usericon']
+   G: PYRO BEFREIT Dieser Feuerdrache war uns sehr dankbar für sei…
+block 100            CHN['font', 'text', 'font', 'picture', 'text']
+   C: 任务失败！
+   C: 是英勇，还是鲁莽？比雅尼陨落之时，诸神落泪……少了这位英雄，任务的结局将永远对你隐藏。
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Göt…
+block 11             CHN[]
+          GER[]
+block 12             CHN['text']
+   C: 己方营地已建成！ 新落成的蛋糕烘焙坊，为我们这座运转中的维京营地奠定了基石。
+          GER['text']
+   G: EIGENES LAGER ERRICHTET! Mit unserer neuen Kuchenbäckerei wa…
+block 13             CHN['text', 'usericon', 'text']
+   C: 老者
+   C: “你们在林中迷路了？这片森林可非同小可。一旦被它魅惑，便难再脱身！ 不过去拜访森林守护者吧。若有人能引你们出林，必是那三…
+          GER['text', 'usericon', 'text']
+   G: DER ALTE MANN
+   G: "Ihr habt Euch im Wald verirrt? Diese Wälder haben es in sic…
+block 14             CHN['text', 'usericon', 'text']
+   C: 老者
+   C: “一场可怕地震令山石游走。自那事后，林中所有走兽都奔向此处以北某处。那里不断传来低低的哀鸣，声声不绝于林。莫非是谁遭了不…
+          GER['text', 'usericon', 'text']
+   G: DER ALTE MANN
+   G: "Ein furchtbares Erdbeben brachte die Steine zum Wandern. Se…
+block 15             CHN['text', 'usericon', 'text', 'usericon', 'text', 'usericon', 'text']
+   C: 所有森林守护者岗哨 如今我们寻遍了所有守护者岗哨，并施以援手。他们当真助益良多，为我们指出穿越遗忘沼泽、走出森林的路： …
+   C: 从韦登特罗伊处，得了一张地图，
+   C: 拉普斯丽申则给了我们必需的守夜药剂，好让我们不眠不休地横穿遗忘沼泽。
+   C: 于是我们启程上路……
+          GER['text', 'usericon', 'text', 'usericon', 'text', 'usericon', 'text']
+   G: ALLE POSTEN DER WALDHÜTER Nun hatten wir alle Posten der Wal…
+   G: von WEIDENTREU eine Karte
+   G: und RAPSLIESCHEN gab uns die nötigen Wachbleibtränke, um die…
+   G: Und so machten wir uns auf den Weg...
+block 16             CHN['text']
+   C: 森林尽头
+          GER['text']
+   G: ENDE DES WALDES
+block 17             CHN[]
+          GER[]
+block 18             CHN[]
+          GER[]
+block 19             CHN[]
+          GER[]
+block 20             CHN[]
+          GER[]
+block 200            CHN['font', 'text', 'font', 'picture', 'text']
+   C: 任务失败！
+   C: 一时的轻率，生命便转瞬即逝！你的女英雄希拉，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Ein kleiner Moment des Leichtsinns, so schnell kommt es im L…
+block 300            CHN['font', 'text', 'font', 'picture', 'text']
+   C: 任务失败！
+   C: 一时的轻率，生命便转瞬即逝！你的挚友、巨龙派罗因你的疏忽而殒命！少了它，任务的结局将永远对你隐藏。
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Ein kleiner Moment des Leichtsinns, so schnell kommt es im L…
+block 50_end         CHN['text']
+   C: 森林守护者对吾等善意相待，我们终于望见一片林间空地！
+          GER['text']
+   G: Die Hüter des Waldes meinten es gut mit uns und endlich sahe…
+block 50_end1        CHN['text']
+   C: 我们寻得穿越遗忘沼泽、逃出幽暗森林之路，如今便能抵达预定的定居之地。玛尼与诺伯特仍杳无音讯。为此，我们留下几名侦察兵，又…
+          GER['text']
+   G: Wir hatten einen Weg aus dem Dunkelwald durch die Sümpfe des…
+block 50_endheader   CHN['text']
+   C: 任务成功！
+          GER['text']
+   G: MISSION GEWONNEN!
+block header         CHN['text']
+   C: 幽暗森林
+          GER['text']
+   G: DER DUNKELWALD
+
+====================================================================================================
+FILE: _campaign_04_02_sub1.xml
+====================================================================================================
+block 00_start       CHN['text']
+   C: 洞窟深处一片幽暗。若无火把，我们几乎寸步难行，尽管远方似有一点微光闪烁。
+          GER['text']
+   G: Zappenduster war es hier unten in der Höhle. Ohne Fackeln ko…
+block 00_start1      CHN['text']
+   C: 我们须向一条火龙求助，请它助我们探勘洞穴！
+          GER['text']
+   G: Wir mußten einen Feuerdrachen um Hilfe bitten, um uns bei de…
+block header         CHN['text']
+   C: 幽暗洞穴
+          GER['text']
+   G: DIE DUNKLE HÖHLE
+
+====================================================================================================
+FILE: _campaign_04_02_sub2.xml
+====================================================================================================
+block 00_start       CHN['text']
+   C: 我们把希望寄托于火龙派罗。它定能重新点燃熄灭的火把…… 点燃火把，寻得通往水晶之路。
+          GER['text']
+   G: Es war immer noch zappenduster in der Höhle. So sehr wir uns…
+block 00_start1      CHN['text']
+   C: 所有火把已点燃！ 洞穴入口处的火把尽数点亮！仿佛有魔法作祟，其中一根奇柱消失无踪，能量场随之瓦解。我们如今得以深入探勘洞…
+          GER['text']
+   G: Unseren Hoffnungen stützten sich auf PYRO, den Feuerdrachen.…
+block 01             CHN['text']
+   C: 所有火把已点燃！ 我们之友派罗点燃了所有火把。通往火水晶的道路已然畅通！
+          GER['text']
+   G: ALLE FACKELN ENTZÜNDET! Hier am Eingang der Höhle waren nun …
+block 02             CHN['text']
+   C: 暗龙 透过栅墙，我们望见黑色巨龙，它们看似危险，多半正守卫着水晶入口。 我们须设法将它们引离此处。或许能把它们诱入彩虹之…
+          GER['text']
+   G: ALLE FACKELN ENTZÜNDET! Alle Fackeln wurden von unserem Freu…
+block 03             CHN['text', 'usericon', 'text', 'usericon']
+   C: 巨龙 已败北！
+   C: 我们击溃了这些无色的造物，可这当真必要吗？难道不能将他们诱入彩虹之厅的陷阱？
+          GER['text', 'usericon', 'text', 'usericon']
+   G: DUNKELDRACHEN Durch die Gitterwände sahen wir schwarze Drach…
+   G: Wir mußten versuchen, sie von dort wegzulocken. Vielleicht k…
+block 04             CHN['text']
+   C: 巨龙已困入！ 我们做到了，所有暗龙都身陷彩虹之厅！
+          GER['text']
+   G: DRACHEN BESIEGT! Wir hatten die farblosen Geschöpfe besiegt,…
+block 05             CHN['text', 'usericon', 'text']
+   C: 密闭之厅
+   C: 只要不是所有火把都已点燃，这间厅堂的内部便始终对你隐藏！
+          GER['text', 'usericon', 'text']
+   G: DRACHEN EINGESPERRT!
+   G: Wir hatten es geschafft, alle Dunkeldrachen befanden sich im…
+block 06             CHN['text']
+   C: 任务失败！ 是英勇，还是鲁莽？比雅尼陨落之时，诸神落泪……少了这位英雄，任务的结局将永远对你隐藏。
+          GER['text']
+   G: VERSCHLOSSENER RAUM Das Innere dieses Raumes wird dir verbor…
+block 100            CHN['text', 'text']
+   C: 任务失败！
+   C: 一时的轻率，生命便转瞬即逝！你的女英雄希拉，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Göt…
+block 200            CHN['text', 'text']
+   C: 任务失败！
+   C: 一时的轻率，生命便转瞬即逝！你的挚友派罗因你的疏忽而殒命！少了它，任务的结局将永远对你隐藏。
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Ein kleiner Moment des Leichtsinns, so schnell kommt es im L…
+block 300            CHN['text', 'text']
+   C: 任务失败！
+   C: 生活中的片刻疏忽，人生如此迅速！ 你的朋友派罗因你的疏忽而丧命！失去他，你将无法得知任务的结局。
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Ein kleiner Moment des Leichtsinns, so schnell kommt es im L…
+block 50_end         CHN['text', 'usericon']
+   C: 干得漂亮！
+          GER['text', 'usericon']
+   G: Wir hatten den Krisall im Inneren der Höhle gefunden! Nun mu…
+block 50_end1        CHN[]
+          GER[]
+block 50_endheader   CHN['text']
+   C: 任务成功！
+          GER['text']
+   G: MISSION GEWONNEN!
+block header         CHN['text']
+   C: 水晶洞穴
+          GER['text']
+   G: DIE DUNKLE HÖHLE
+
+====================================================================================================
+FILE: _campaign_04_03.xml
+====================================================================================================
+block 00_start       CHN['text']
+   C: 我们身负部族之责，须着手建村，却决意派出一支搜寻队。 建立你的村庄，去寻找玛尼与诺伯特！
+          GER['text']
+   G: Endlich hatten wir das fruchtbare Land, das wir zu besiedeln…
+block 00_start1      CHN['text']
+   C: 森林哨站 1--神庙守卫 “欢迎！”神庙守卫们说道。 “我们乃森林守护者的一支哨站。只因神庙远离其他哨站，鲜少有人送来草…
+          GER['text']
+   G: Wir waren unserem Stamm verpflichtet und mussten uns nun um …
+block 01             CHN['text', 'usericon', 'text']
+   C: 已向神庙守卫缴纳贡 品！
+   C: “如此新鲜的蘑菇与芬芳的草药，我们难得一见！时机恰当之时，我们的援助必至！你们尽可仰仗我们！”
+          GER['text', 'usericon', 'text']
+   G: WALDPOSTEN 1 - DIE TEMPELWÄCHTER "Willkommen!" sprachen die …
+   G: "Wir sind ein Posten der Waldhüter. Doch ist unser Tempel we…
+block 02             CHN['text', 'usericon']
+   C: 哨站 2--采药人 “我们本愿勤力劳作，却苦无称手工具！旧镰刀早已钝锈，被铁锈蚀透。” 将新的铁制工具交给采药人！
+          GER['text', 'usericon']
+   G: TRIBUT AN TEMPELWÄCHTER BEZAHLT! "Solch frische Pilze und wo…
+block 03             CHN['text', 'usericon', 'text']
+   C: 铁制工具已交给采药 人
+   C: “这般刃光闪闪的利器，我们从未有过！时机恰当之时，我们的援助必至！你们尽可仰仗我们！”
+          GER['text', 'usericon', 'text']
+   G: POSTEN 2 - KRÄUTERSAMMLER "Wir würden ja gerne unserer Arbei…
+   G: Liefere den Kräutersammlern neues Eisenwerkzeug!
+block 04             CHN['text', 'usericon']
+   C: 格罗尔斯--石龙 在嶙峋山脉中，我们遇见了古老的智慧石龙。
+          GER['text', 'usericon']
+   G: EISENWERKZEUG AN KRÄUTERSAMMLER GELIEFERT "Ein Werkzeug mit …
+block 05             CHN['text', 'usericon']
+   C: 维京人村庄 这一带的维京人极为友善。他们将村庄北侧较小的仓屋让与我们， 并向我们提出了优厚的贸易契约。
+          GER['text', 'usericon']
+   G: GEROLS - DIE STEINDRACHEN In dem steinigen Gebirge trafen wi…
+block 06             CHN['text', 'usericon', 'text']
+   C: 哨站 3--商人
+   C: “进来开开眼吧，瞧瞧我的货色！我的价钱公道的！”商人老远便朝我们喊道。 “可惜我正逢生意清淡，但若与我交易，我的援助定然…
+          GER['text', 'usericon', 'text']
+   G: WIKINGERDORF Die Wikinger in diesem Landstrich waren überaus…
+   G: und boten uns günstige Handelsverträge an.
+block 07             CHN['text', 'usericon', 'text']
+   C: 已与商 人交易货物
+   C: “多亏你们相助，我的生意红火起来了！届时我也会派出我的家养龙助你们一臂之力。”
+          GER['text', 'usericon', 'text']
+   G: POSTEN 3 - HÄNDLER "Kommt herein und bestaunt meine Waren! M…
+   G: "Leider bin ich in einer kleinen Handelsflaute, aber wenn ih…
+block 08             CHN['text', 'usericon']
+   C: 火龙 “我们对其他生灵素无好感。饥饿总来纠缠，令我们乖戾易怒。我们本无意伤人，可这饥肠……” 给火龙送去蛋糕，或许能稍减…
+          GER['text', 'usericon']
+   G: WAREN MIT HÄNDLER GEHANDELT "Mein Geschäft boomt, dank eurer…
+block 09             CHN['text', 'usericon', 'text']
+   C: 火 龙
+   C: “你们真是烘焙大师！我们的支援定然少不了！”火龙们说道。 从今往后，我们中有五条将听命于你们！若还需更多，尽管缴纳贡品！
+          GER['text', 'usericon', 'text']
+   G: FEUERDRACHEN "Wir sind nicht gut auf andere Lebewesen zu spr…
+   G: Bringe Kuchen zu den Feuerdrachen, vielleicht lindert das ih…
+block 10             CHN['text', 'usericon', 'text']
+   C: 任务 失败！
+   C: 是英勇，还是鲁莽？比雅尼陨落之时，诸神落泪……少了这位英雄，任务的结局将永远对你隐藏。
+          GER['text', 'usericon', 'text']
+   G: FEUERDRACHEN "Ihr seid wahre Meisterbäcker! Unsere Unterstüt…
+   G: Fünf von uns werden von nun an in eurem Dienste stehen! Fall…
+block 100            CHN['text', 'text']
+   C: 任务失败！
+   C: “唉，若我们有足够的学生就好了！我们这所学校极好，瓦穆戈教授更是一流的良师，世间难求。” 为瓦穆戈教授的学校寻些学生来！
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Göt…
+block 11             CHN['text', 'usericon', 'text']
+   C: 水龙森林村庄学校已迎 来学生
+   C: “我总算凑齐了一整个班级！这真叫我欢喜。”瓦穆戈教授说道。“我们的谢意与学识，与你们同在！”
+          GER['text', 'usericon', 'text']
+   G: POSTEN 4 - WALDSCHULE DER WASSERDRACHEN "Ach hätte wir nur g…
+   G: Suche Schüler für die Schule von Professor WAMUGO!
+block 12             CHN['text', 'usericon', 'text']
+   C: 哨站 5--棕榈林学堂 “我们的孩子求知若渴，可惜我们能教他们的实在有限。
+   C: 若有一所为年长些的孩子设立、由胜任的师长执教的学堂，让孩子们能于夏日受教……便好了。听说瓦穆戈教授主持着这样一所学校，我…
+          GER['text', 'usericon', 'text']
+   G: SCHÜLER IN DER WALDDORFSCHULE DER WASSERDRACHEN ANGEKOMMEN
+   G: "Endlich habe ich eine ganze Klasse zusammen! Das wird mir F…
+block 13             CHN['text', 'usericon', 'text', 'usericon', 'text']
+   C: 老 者
+   C: “纳帕利亚人可不是好惹的！一旦踏进他们的地界，箭矢便劈头盖脸飞来。他们定有隐情，否则何必用毒云护住第二处据点！周遭森林哨…
+   C: “这条龙是我的朋友。带上它，它能助你一臂之力！”
+          GER['text', 'usericon', 'text', 'usericon', 'text']
+   G: POSTEN 5 - SCHULE AM PALMENHAIN "Unsere Kinder sind äußerst …
+   G: Gebe es doch eine Schule für die älteren Kinder mit einer ko…
+   G: Suche die Schule des Professors WAMOGU auf und bringe die Ki…
+block 14             CHN['text', 'usericon', 'text', 'usericon', 'text']
+   C: 所有森林守护者哨站
+   C: 如今我们寻遍了所有守护者哨站，并施以援手。他们当真助益良多，因为查出玛尼与诺伯特竟是被纳帕利亚人掳走的！
+   C: 难怪他们对我们如此无礼，不肯放我们进据点…… 关押玛尼与诺伯特的最大据点，被毒龙那道无隙可入的烟云所笼罩……
+          GER['text', 'usericon', 'text', 'usericon', 'text']
+   G: DER ALTE MANN
+   G: "Mit den Napalianern ist nicht zu spaßen! Sobald man sich in…
+   G: "Dieser Drache hier, ist mein Freund. Nehmt ihn mit, er kann…
+block 15             CHN['text', 'usericon', 'text', 'usericon']
+   C: 毒云 已清除
+   C: 可那是何物？每个森林哨站的家养龙竟一同中和了纳帕利亚人主据点外的毒云！ 道路已通，须由我们决断：动武，还是谋和。森林守护…
+          GER['text', 'usericon', 'text', 'usericon']
+   G: ALLE POSTEN DER WALDHÜTER Nun hatten wir alle Posten der Wal…
+   G: Deshalb waren sie also so unfreundlich zu uns und wollten un…
+block 16             CHN['text', 'text']
+   C: 毒云已消除 但那是什么？每个森林哨站的宅龙都中和了纳帕利亚人主营周围的毒云！
+   C: 现在道路已畅通，我们必须自己决定是走战争之路还是和平之路。护林人私下说可以从东边方向接近囚犯……
+          GER['text', 'usericon', 'text', 'usericon']
+   G: GIFTWOLKE BESEITIGT Doch was war das? Die Hausdrachen jedes …
+   G: Nun war der Weg frei und wir mußten selbst entscheiden ob wi…
+block 17             CHN['text', 'usericon', 'text']
+   C: 阿夸斯--水龙
+   C: 我们是爱好和平的龙。尽管用我们这里的船！ 向东行，你会抵达一座水龙神庙；向西，则是偏居一隅的瓦穆戈教授的学校。
+          GER['text', 'usericon', 'text']
+   G: DER ALTE MANN
+   G: "Der kleine Pfad nord-westlich von hier führt direkt an zu d…
+block 18             CHN['text', 'usericon', 'text']
+   C: 纳帕 利亚人
+   C: “敢再靠近一步！我们便动用武器！” 真是无礼之族！我们从未受过这般对待。除了不靠近，别无他法，因为他们定会将威胁付诸行动…
+          GER['text', 'usericon', 'text']
+   G: AQUAS - DIE WASSERDRACHEN Wir sind friedliebende Drachen. Nu…
+   G: Fahrt ihr in östliche Richtung, gelangt ihr zu einem Wasserd…
+block 19             CHN['text', 'usericon', 'text']
+   C: 纳帕 利亚人
+   C: “这是你们自找的！我们的武器会将你们消灭。缴纳贡品，我们便重新考虑对你们的态度，但前提是你们立刻离开我们的据点！” 缴纳…
+          GER['text', 'usericon', 'text']
+   G: NAPALIANER "Keinen Schritt näher! Wir werden sonst unsere Wa…
+   G: Ein gar unfreundliches Volk! Noch nie wurden wir auf diese A…
+block 20             CHN['text']
+   C: 任务失败！ 一时的轻率，生命便转瞬即逝！你的女英雄希拉，因你的疏忽而殒命 ！少了这位英雄，任务的结局将永远对你隐藏。
+          GER['text']
+   G: NAPALIANER "Ihr habt es so gewollt! Unsere Waffen werden euc…
+block 200            CHN['text', 'text']
+   C: 任务失败！
+   C: “我们自会重新考虑对你们的态度，但休想再踏入我们的地界！”纳帕利亚人朝我们喊道，并即刻改变了对待我们的外交姿态。
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Ein kleiner Moment des Leichtsinns, so schnell kommt es im L…
+block 21             CHN['text', 'usericon']
+   C: 纳帕利亚人败北！ 纳帕利亚人虽被击败，可若当初本也能和平了结？
+          GER['text', 'usericon']
+   G: TRIBUT GELEISTET! "Nun werden wir unsere Haltung zu euch übe…
+block 22             CHN['text', 'usericon']
+   C: 传送装置已启动 如今传送装置已然激活，它将把孩子们送往瓦穆戈处。
+          GER['text', 'usericon']
+   G: NAPALIANER BESIEGT! Zwar waren die Napalianer geschlagen, do…
+block 23             CHN['text', 'usericon']
+   C: 己方村庄已建成！ 新落成的蛋糕烘焙坊，为我们这座运转中的村庄奠定了基石。
+          GER['text', 'usericon']
+   G: TELEPORTER AKTIV Nun waren die Teleporter aktiviert, die die…
+block 24             CHN['text']
+   C: 任务失败！ 一时的轻率，生命便转瞬即逝！比雅尼与希拉之子玛尼，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+          GER['text']
+   G: EIGENES DORF ERRICHTET! Mit unserer neuen Kuchenbäckerei war…
+block 25             CHN[]
+          GER[]
+block 500            CHN['text', 'text']
+   C: 任务失败！
+   C: 生活中的片刻疏忽，人生如此迅速！ 玛尼--比雅尼与希拉之子--因你的疏忽而丧命！失去这位英雄，你将无法得知任务的结局。
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Ein kleiner Moment des Leichtsinns, so schnell kommt es im L…
+block 50_end         CHN['text']
+   C: 他们为自己让我们如此忧心而抱歉，但最重要的是他们又回到我们身边。我们一同决意，要探明地龙消失的真相。
+          GER['text']
+   G: Wir hatten Mani und Norbert bei den Napalianern ausfindig ge…
+block 50_end1        CHN['text']
+   C: 干得漂亮！
+          GER['text']
+   G: Ihnen tat es leid, uns solch große Sorgen bereitet zu haben,…
+block 50_endheader   CHN['text']
+   C: 任务成功！
+          GER['text']
+   G: MISSION GEWONNEN!
+block 600            CHN['text', 'text']
+   C: 任务失败！
+   C: 生活中的片刻疏忽，人生如此迅速！ 你的朋友兼英雄--巨龙诺伯特--因你的疏忽而丧命！失去这位英雄，你将无法得知任务的结局…
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Ein kleiner Moment des Leichtsinns, so schnell kommt es im L…
+block header         CHN['text']
+   C: 大迁徙
+          GER['text']
+   G: DIE GROSSE UMSIEDLUNG
+
+====================================================================================================
+FILE: _campaign_04_03_sub1.xml
+====================================================================================================
+block 00_start       CHN['text']
+   C: 无疑，我们正身处阿夸斯众多水之神庙之一！
+          GER['text']
+   G: Augenblicklich fanden wir uns in einer seltsam fremden Umgeb…
+block 00_start1      CHN['text']
+   C: 水龙 “欢迎来到我们的水之神庙。陆上生灵来此做客，实属稀罕，但请把这儿当自己家吧。” 阿夸斯一族待客之道，确有几分功夫！
+          GER['text']
+   G: Zweifellos befanden wir uns in einem der vielen Wassertempel…
+block 01             CHN['text', 'usericon', 'text']
+   C: 船 只
+   C: 若想去往传送装置的控制台，多半还少不了一艘船……
+          GER['text', 'usericon', 'text']
+   G: WASSERDRACHEN "Willkommen in unserem Wassertempel. Erdlinge …
+   G: Zweifellos verstanden die Aquas etwas von Gastfreundschaft!
+block 02             CHN['text', 'usericon', 'text']
+   C: 阿夸罗姆与控制台 “久站这控制台，我真乏了，可它对海底的我们必不可少，因为它驱动着水流的涡轮。”
+   C: “若你们替我值一会儿班，我便把船借给你们。”
+          GER['text', 'usericon', 'text']
+   G: SCHIFFE
+   G: Wahrscheinlich benötigten wir auch ein Schiff, um zum Schalt…
+block 03             CHN['text', 'usericon', 'text']
+   C: 阿夸罗 姆与控制台
+   C: “好，这船归你们了，只要你们有人守在控制台上。”
+          GER['text', 'usericon', 'text']
+   G: AQUARUM UND DER SCHALTER "Ich bin müde vom Stehen auf diesem…
+   G: "Wenn ihr mich für eine Weile ablöst, leihe ich euch mein Sc…
+block 04             CHN['text', 'usericon']
+   C: 阿夸罗姆 “只要你们无人值守控制台，船便重归我手！”
+          GER['text', 'usericon']
+   G: AQUARUM UND DER SCHALTER "Gut, mein Schiff gehört euch, sola…
+block 05             CHN['text', 'usericon']
+   C: 任务失败！ 是英勇，还是鲁莽？比雅尼陨落之时，诸神落泪……少了这位英雄，任务的结局将永远对你隐藏。
+          GER['text', 'usericon']
+   G: AQUARUM "Wenn niemand von euch auf dem Schalter steht, gehör…
+block 100            CHN['text', 'text']
+   C: 任务失败！
+   C: 一时的轻率，生命便转瞬即逝！你的女英雄希拉，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Göt…
+block 200            CHN['text', 'text']
+   C: 任务失败！
+   C: ……另一座则会将我们旋出岛外！ 切记：传送装置单向运行！若想离开森林村庄学校之岛，你仍需一艘船。
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Ein kleiner Moment des Leichtsinns, so schnell kommt es im L…
+block 50_end         CHN['text', 'usericon', 'text', 'usericon', 'text']
+   C: 一阵颤动与轰鸣掠过小岛王国。这座控制台竟当真启动了水面上方的传送装置！
+   C: ……一个用于进入
+   C: ……另一个则将我们卷回！ 切记：传送装置只能单向运作！若想再进森林学校之岛，须换用另一台传送器。
+          GER['text', 'usericon', 'text', 'usericon', 'text']
+   G: Ein Rucken und Rumoren durchzog das kleine Inselreich. Doch …
+   G: ...einen zum Hineintreten
+   G: ... der andere wirbelt uns dann wieder hinaus! Bedenke: Der …
+block 50_end1        CHN[]
+          GER[]
+block 50_endheader   CHN['text']
+   C: 任务成功！
+          GER['text']
+   G: MISSION GEWONNEN!
+block header         CHN['text']
+   C: 海底传送
+          GER['text']
+   G: UNTER DEM MEER
+
+====================================================================================================
+FILE: _campaign_04_04.xml
+====================================================================================================
+block 00_start       CHN['text']
+   C: 不远处必有一场战斗，因为和煦的夜里我们听见声响，扰人清梦。我们须查明这些争斗的根源。或许龙也卷入其中？ 建立你的村庄，去…
+          GER['text']
+   G: Wir schlugen unser Lager entlang des Flusses auf. Dieser Lan…
+block 00_start1      CHN['text']
+   C: 牧人 “宁可信龙，也别信人！我们在这片土地的小村落里住了数百年，如今却有别人来叫我们不好过！”这些可怜牧人抱怨道。 他们…
+          GER['text']
+   G: Unweit von hier mussten Kämpfe stattfinden, denn wir hörten …
+block 01             CHN['text', 'usericon', 'text']
+   C: 鞋子已送达！ 我们已将鞋子作为贡品交给牧人。他们当下便改变了对我们的姿态。对鞋子的欣喜如此之大，竟向我们开出极为优厚的交…
+   C: 他们还向我们讲起或许 最强大的龙族：魔法龙。 若说有谁能助我们完成 任务，必是这一族无疑。
+          GER['text', 'usericon', 'text']
+   G: HIRTEN "Den Drachen ist eher zu trauen, als den Menschen! Wi…
+   G: Sie erzählten uns von ihrer früheren Gemeinschaft mit den Dr…
+block 02             CHN['text', 'usericon', 'text']
+   C: 牧人民 族的雇佣兵
+   C: “你们看来勇气可嘉！我们愿助你们一臂之力！我们虽是朴素之民，但与你们并肩作战，便有一线胜机！”牧人们说道。 “若你们在巴…
+          GER['text', 'usericon', 'text']
+   G: SCHUHE GELIEFERT! Wir hatten den Hirten die Schuhe zum Tribu…
+   G: Auch erzählten sie uns von der wohl mächtigsten Drachenart: …
+block 03             CHN['text', 'usericon', 'text']
+   C: 哨塔 已建成！
+   C: 我们为牧人民族筑起了防御，但愿能抵挡巴布尔的一切侵扰。 他们感激不尽，又增派士兵相助。
+          GER['text', 'usericon', 'text']
+   G: SÖLDNER vom HIRTENVOLK "Ihr scheint sehr tapfer zu sein! Wir…
+   G: "Baut ihr 3 Wachtürme in der fast zerstörten Siedlung südlic…
+block 04             CHN['text', 'usericon']
+   C: 牧人增援更多士兵！ 凭这份贡品，我们从牧人处换得更多士兵。难以置信，这小小民族竟能动员如此众多的雇佣兵……
+          GER['text', 'usericon']
+   G: WACHTÜRME ERRICHTET! Wir hatten dem Hirtenvolk eine Verteidi…
+block 05             CHN['text', 'usericon']
+   C: 魔法龙 “你们对我们并无恶意……我们魔法龙对恶人嗅觉敏锐。或许你们真能助龙一臂之力？” “证明你们的本事吧--将下列货物…
+          GER['text', 'usericon']
+   G: WEITERE SOLDATEN VON HIRTEN! Für diesenn Tribut erhielten wi…
+block 06             CHN['text', 'usericon', 'text']
+   C: 货物已交给魔法龙！ 我们将货物交予魔法龙。他们把方尖碑圈那处化为充盈魔法之地，治愈了我们的生命能量，并开启了通往纳帕利亚…
+   C: 他们提起一种隐形药剂，说可为我们来酿造，好避开一切与纳帕利亚人的冲突。若我们送去所需草药，他们必竭尽全力。 向魔法龙进献…
+          GER['text', 'usericon', 'text']
+   G: ZAUBERDRACHEN "Ihr meint es nicht böse mit uns... Wir Zauber…
+   G: "Stellt euer Können unter Beweis, indem ihr uns folgende War…
+block 07             CHN['text', 'usericon', 'text']
+   C: 隐 形药剂
+   C: 魔法龙将药剂交予我们英雄。仿佛施了魔法，我们隐去了身形--唯有自己人能依稀辨出轮廓。 药剂不能持久，魔法龙便引我们抄最近…
+          GER['text', 'usericon', 'text']
+   G: WAREN AN ZAUBERDRACHEN GELIEFERT! Wir hatten die Waren den Z…
+   G: Sie sprachen von einen Unsichtbarkeitstrank, den sie uns bra…
+block 08             CHN['text', 'usericon', 'text']
+   C: 水 龙
+   C: “这些可恶的人类！他们抓了我们的兄弟，关进狭窄牢笼。我们这边余者尚多，可地龙境况凄惨，几近灭族！”水龙们悲诉。 解放水龙…
+          GER['text', 'usericon', 'text']
+   G: UNSICHTBARKEITSTRANK Die Zauberdrachen überreichten den Tran…
+   G: Da der Trank nicht lange anhalten würde, leiteten uns die Za…
+block 09             CHN['text', 'usericon', 'text']
+   C: 水龙
+   C: “你们竟把他们完好无损地带回来了！”当我们与其他龙回到神庙，水龙们喜出望外。 与你的英雄及龙群一同前往神庙！
+          GER['text', 'usericon', 'text']
+   G: WASSERDRACHEN
+   G: "Diese elenden Menschen! Sie haben unsere Brüder gefangen un…
+block 10             CHN['text', 'usericon', 'text']
+   C: 任务 失败！
+   C: 是英勇，还是鲁莽？比雅尼陨落之时，诸神落泪……少了这位英雄，任务的结局将永远对你隐藏。
+          GER['text', 'usericon', 'text']
+   G: WASSERDRACHEN "Ihr habt sie uns unversehrt wiedergebracht!" …
+   G: Gehe mit deinen Helden und den Drachen zum Tempel!
+block 100            CHN['text', 'text']
+   C: 任务失败！
+   C: “偶尔我们也在此瞥见稀有的地龙。它们如今下落如何？” 解放其他龙！
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Göt…
+block 11             CHN['text', 'usericon', 'text']
+   C: 纳帕 利亚人
+   C: “嘿，你们！这儿不欢迎任何人！再敢靠前 一步，我们立刻开火！”
+          GER['text', 'usericon', 'text']
+   G: WASSERDRACHEN BEFREIT! "Endlich sind wir aus den Fängen dies…
+   G: "Ab und zu bekamen wir hier auch die seltenen Erddrachen zu …
+block 12             CHN['text']
+   C: 巴布尔 “嘿，你们！我们城里不欢迎你们！缴贡便不伤你们！但别太好奇！多少多管闲事的鼻子，在我们城里都没好下场！”
+          GER['text']
+   G: NAPALINER "Hey, ihr da! Niemand ist hier willkommen! Wir erö…
+block 13             CHN['text', 'usericon']
+   C: 已向巴布尔缴纳贡品！ 我们向巴布尔缴了巨额贡品，他们这才不情愿地放了水龙。他们说水龙本就是易擒的猎物，随时可再袭而掠之……
+          GER['text', 'usericon']
+   G: BABUL "Hey, ihr da! Ihr seid nicht willkommen in unserer Sta…
+block 14             CHN['text', 'usericon', 'text']
+   C: 地下地牢入口
+   C: “你无权闯入地牢。去助牧人民族与水龙，再带英雄回来，那时便放你通行！”
+          GER['text', 'usericon', 'text']
+   G: TRIBUT AN BABUL ÜBERREICHT!
+   G: Wir hatten BABUL den enormen Tribut bezahlt und so gaben sie…
+block 15             CHN['text', 'usericon']
+   C: 已向巴布尔缴纳贡品！ “眼下我们对你们中立，但别把鼻子伸进与你们无关的事里！”
+          GER['text', 'usericon']
+   G: EINGANG ZU DEN UNTERIRDISCHEN KERKER Du hast keine Erlaubnis…
+block 16             CHN['text', 'usericon']
+   C: 纳帕利 亚人败北！
+          GER['text', 'usericon']
+   G: TRIBUT AN BABUL ÜBERREICHT! "Fürs Erste stehen wir neutral z…
+block 17             CHN['text']
+   C: 魔法之地 我们撞见传送装置。可惜出口必被封死，于我们毫无用处。
+          GER['text']
+   G: NAPALIANER BESIEGT!
+block 18             CHN['text', 'usericon', 'text']
+   C: 巴布尔重又敌对！
+   C: “你们把鼻子伸进了与你们无关的事里！缴贡，我们便给你们想要的东西。”
+          GER['text', 'usericon', 'text']
+   G: MAGISCHE FELDER
+   G: Wir stießen auf Teleporter. Leider mussten die Ausgänge bloc…
+block 19             CHN['text', 'usericon']
+   C: 50 枚金币 这只魔法箱中装着 50 枚金币，自动送抵我们的总部！
+          GER['text', 'usericon']
+   G: BABUL WIEDER FEINDLICH! "Ihr habt eure Nasen in Dinge gestec…
+block 20             CHN['text', 'usericon', 'text']
+   C: 任务失败！
+   C: 一时的轻率，生命便转瞬即逝！你的女英雄希拉，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+          GER['text', 'usericon', 'text']
+   G: 50 MÜNZEN
+   G: In dieser magischen Kiste befanden sich 50 Goldmünzen, die a…
+block 200            CHN['text', 'text']
+   C: 任务失败！
+   C: 哎呀，水龙死了。没了它们，任务的结局将永远对你隐藏！
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Ein kleiner Moment des Leichtsinns, so schnell kommt es im L…
+block 21             CHN['text']
+   C: 巴布尔败北！ 我们大败巴布尔！他们再也不能加害牧人民族。
+          GER['text']
+   G: WASSERDRACHEN GESTORBEN! Oh je, die WASSERDACHEN sind gestor…
+block 22             CHN['text']
+   C: 发现投石机 是谁把这些投石机留在此处？总之它们于我们大有用处！
+          GER['text']
+   G: BABUL BESIEGT! Wir hatten BABUL siegreich geschlagen! Nie wi…
+block 23             CHN['text', 'usericon', 'text']
+   C: 己方营地已建成！
+   C: 不久，温暖酥脆面包的独特香气将抚慰我们的鼻息，因为烘焙坊为我们营地奠定了稳固的粮食根基。
+          GER['text', 'usericon', 'text']
+   G: KATAPULTE GEFUNDEN
+   G: Wer hatte diese Katapulte hier wohl stehen lassen? Uns konnt…
+block 24             CHN['text']
+   C: 墓地 “难以置信，我们竟在沙漠中央看见此景。这必是处墓地，但从超大的墓碑便可看出，绝非寻常。”
+          GER['text']
+   G: EIGENES LAGER ERRICHTET! Der unverwechselbare Duft von warme…
+block 25             CHN['text', 'usericon']
+   C: 所有水龙已解放！ 如今我们终于解放了巴布尔处所有的水龙。 他们都向我们讲起稀有的地龙。无人再见过它们。有传言说它们被关在…
+          GER['text', 'usericon']
+   G: FRIEDHOF "Unglaublich, was wir inmitten der Wüste vor uns sa…
+block 26             CHN['text', 'usericon', 'text']
+   C: 传送装 置已激活！
+   C: 为感解放水龙之恩，水龙 们激活了沙漠中的传送装置。
+          GER['text', 'usericon', 'text']
+   G: ALLE WASSERDRACHEN BEFREIT! Nun hatten wir endlich alle Wass…
+   G: Alle erzählten uns von den seltenen Erddrachen. Die niemand …
+block 27             CHN['text', 'usericon']
+   C: 地龙！ 我们终于寻得了地龙！
+          GER['text', 'usericon']
+   G: TELEPORTER AKTIVIERT! Zum Dank für die Befreiung der Wasserd…
+block 28             CHN['text', 'usericon']
+   C: 50 枚金币 这只魔法箱中装着 50 枚金币，自动送抵我们的总部！
+          GER['text', 'usericon']
+   G: ERDDRACHEN! Endlich hatten wir Erddrachen gefunden!
+block 29             CHN['text', 'usericon', 'text']
+   C: 任务失败！
+   C: 一时的轻率，生命便转瞬即逝！你的挚友、英雄之龙诺伯特，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+          GER['text', 'usericon', 'text']
+   G: 50 MÜNZEN
+   G: In dieser magischen Kiste befanden sich 50 Goldmünzen, die a…
+block 500            CHN['text', 'text']
+   C: 任务失败！
+   C: 生活中的片刻疏忽，人生如此迅速！ 你的朋友兼英雄--巨龙诺伯特--因你的疏忽而丧命！失去这位英雄，你将无法得知任务的结局…
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Ein kleiner Moment des Leichtsinns, so schnell kommt es im L…
+block 50_end         CHN['text']
+   C: 玛尼却郁郁不乐，因为与挚友分别的时刻近了。他们共同勇敢闯过多少冒险，如今它却要随其他地龙离去。 有人望见几名纳帕利亚人朝…
+          GER['text']
+   G: Aus dem Kerker konnten wir nicht nur Erddrachen, sondern auc…
+block 50_end1        CHN['text']
+   C: 任务 胜利！
+          GER['text']
+   G: Mani indess war traurig, da nun der Abschied von seinem best…
+block 50_endheader   CHN['text']
+   C: 任务成功！
+          GER['text']
+   G: MISSION GEWONNEN!
+block 600            CHN['text', 'text']
+   C: 任务失败！
+   C: 生活中的片刻疏忽，人生如此迅速！ 玛尼--比雅尼与希拉之子--因你的疏忽而丧命！失去这位英雄，你将无法得知任务的结局。
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Ein kleiner Moment des Leichtsinns, so schnell kommt es im L…
+block header         CHN['text']
+   C: 地龙的解放
+          GER['text']
+   G: DIE BEFREIUNG DER ERDDRACHEN
+
+====================================================================================================
+FILE: _campaign_04_04_sub1.xml
+====================================================================================================
+block 00_start       CHN['text']
+   C: 我们的同伴即刻各奔东西。我们须找到这座神庙的守卫，或许他能助我们一臂之力？ 寻找古尔普！
+          GER['text']
+   G: Wir waren den Drachen gefolgt und augenblicklich fanden wir …
+block 00_start1      CHN['text']
+   C: 古尔普 “你们当真立下大功，救回了我们的族裔。” “你们可还记挂着他们，记得他们的名字？其中有三条就在这瀑布旁。找到他们…
+          GER['text']
+   G: Unsere Begleiter gingen sofort ihrer Wege. Wir mußten den Wä…
+block 01             CHN['text', 'usericon', 'text']
+   C: 斯普 鲁德尔
+   C: “你们认出我了！难不成那饶舌的斯普鲁德尔， 当真钻进了你们的脑瓜？”
+          GER['text', 'usericon', 'text']
+   G: GULP "Ihr habt wahrlich Großes vollbracht, unsere Stammesang…
+   G: "Habt ihr sie euch eingeprägt, wißt ihr noch, wie sie heißen…
+block 02             CHN['text', 'usericon', 'text']
+   C: 尼刻斯
+   C: “你们认出我了！尼刻斯也会永远把你们珍藏心底！”
+          GER['text', 'usericon', 'text']
+   G: SPRUDEL
+   G: "Ihr habt mich erkannt! Da hat sich der gesprächige SPRUDEL …
+block 03             CHN['text', 'usericon', 'text']
+   C: 薇蕾
+   C: “你们认出我了！”
+          GER['text', 'usericon', 'text']
+   G: NIXE
+   G: "Ihr habt mich erkannt! NIXE wird euch auch immer im Herzen …
+block 04             CHN['text', 'usericon', 'text']
+   C: 任务失败！
+   C: 是英勇，还是鲁莽？比雅尼陨落之时，诸神落泪……少了这位英雄，任务的结局将永远对你隐藏。
+          GER['text', 'usericon', 'text']
+   G: WELLE
+   G: "Ihr habt mich erkannt! "
+block 100            CHN['text', 'text']
+   C: 任务失败！
+   C: 一时的轻率，生命便转瞬即逝！你的女英雄希拉，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Göt…
+block 200            CHN['text', 'text']
+   C: 任务失败！
+   C: “瀑布实则不过是一座小型水力发电站。借助浩渺水势，拨动三处开关，我们便能驱动地表之上的传送装置！”
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Ein kleiner Moment des Leichtsinns, so schnell kommt es im L…
+block 50_end         CHN['text', 'usericon']
+   C: 为感救命之恩，也因它们于我们不止是寻常龙 族，阿夸斯激活了传送装置。
+          GER['text', 'usericon']
+   G: ÜBERRASCHUNG! "Eigentlich sind die Wasserfälle nichts andere…
+block 50_end1        CHN['text']
+   C: 干得漂亮！
+          GER['text']
+   G: Zum Dank für ihre Rettung, und weil sie für uns mehr waren a…
+block 50_endheader   CHN['text']
+   C: 任务成功！
+          GER['text']
+   G: MISSION GEWONNEN!
+block header         CHN['text']
+   C: 三瀑布
+          GER['text']
+   G: DIE DREI WASSERFÄLLE
+
+====================================================================================================
+FILE: _campaign_04_04_sub2.xml
+====================================================================================================
+block 00_start       CHN['text']
+   C: 囚犯们看守森严。但纳帕利亚人的建筑里常有许多秘道，我们正可借之而行。 寻找被囚的龙，将他们解放！
+          GER['text']
+   G: Ungewöhnlich waren diese muffigen Kerker der Kabalianer, in …
+block 00_start1      CHN['text']
+   C: 纳帕利亚人 “你们竟敢闯进地牢？找死！”
+          GER['text']
+   G: Die Gefangenen würden gut bewacht werden. Aber es gab in kab…
+block 01             CHN['text', 'usericon', 'text']
+   C: 地龙
+   C: 我们终于寻得地龙！诺伯特喜不自胜！
+          GER['text', 'usericon', 'text']
+   G: NAPALIANER
+   G: "Ihr wagt es hier in die Kerker einzudringen? Ihr seid des T…
+block 02             CHN['text', 'usericon', 'text']
+   C: 魔法龙
+   C: “纳帕利亚人四处作恶。我们魔法龙本以为能躲过他们，却也被俘。多谢你们救了我们。”
+          GER['text', 'usericon', 'text']
+   G: ERDDRACHEN
+   G: Endlich hatten wir Erddrachen gefunden! Norbert war außer si…
+block 03             CHN['text', 'usericon', 'text']
+   C: 水龙
+   C: “我们本是纳帕利亚人易擒的猎物。多谢你们救了我们。”
+          GER['text', 'usericon', 'text']
+   G: ZAUBERDRACHEN
+   G: "Diese Napalianer treiben überall ihr Unwesen. Wir dachten, …
+block 04             CHN['text', 'usericon', 'text']
+   C: 开关已启动！
+   C: 随着一声巨响，近处两扇沉重的木门豁然开启。
+          GER['text', 'usericon', 'text']
+   G: WASSERDRACHEN
+   G: "Wir sind eine leichte Beute für die Kabalianer. Danke das i…
+block 05             CHN['text', 'usericon', 'text']
+   C: 纳帕利亚人已殒命！
+   C: 纳帕利亚人已被击败！
+          GER['text', 'usericon', 'text']
+   G: SCHALTER BETÄTIGT!
+   G: Mit einem gewaltigen Knarren öffneten sich zwei schwere Holz…
+block 06             CHN['text', 'usericon']
+   C: 水龙已殒命！ 所有水龙都已死去！如此任务的结局将永远对你隐藏！
+          GER['text', 'usericon']
+   G: NAPALIANER GESTORBEN! Die Napalianer waren besiegt!
+block 07             CHN['text']
+   C: 地龙已殒命！ 所有地龙都已死去！如此任务的结局将永远对你隐藏！
+          GER['text']
+   G: WASSERDRACHEN GESTORBEN! Alles Wasserdrachen waren gestorben…
+block 08             CHN['text']
+   C: 魔法龙已殒命！ 所有魔法龙都已死去！如此任务的结局将永远对你隐藏！
+          GER['text']
+   G: ERDDRACHEN GESTORBEN! Alles Erddrachen waren gestorben! So w…
+block 09             CHN['text']
+   C: 任务失败！ 是英勇，还是鲁莽？比雅尼陨落之时，诸神落泪……少了这位英雄，任务的结局将永远对你隐藏。
+          GER['text']
+   G: ZAUBERDRACHEN GESTORBEN! Alles Zauberdrachen waren gestorben…
+block 100            CHN['text', 'text']
+   C: 任务失败！
+   C: 一时的轻率，生命便转瞬即逝！你的女英雄希拉，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Göt…
+block 200            CHN['text', 'text']
+   C: 任务失败！
+   C: 一时的轻率，生命便转瞬即逝！比雅尼与希拉之子玛尼，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Ein kleiner Moment des Leichtsinns, so schnell kommt es im L…
+block 500            CHN['text', 'text']
+   C: 任务失败！
+   C: 一时的轻率，生命便转瞬即逝！比雅尼与希拉之子玛尼，因你的疏忽而殒命！若无此英雄，这世界便将永远失落……
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Ein kleiner Moment des Leichtsinns, so schnell kommt es im L…
+block 50_end         CHN['text']
+   C: 我们终于从纳帕利亚人地牢中救出了所有的龙，并以最快的速度离开了这昏暗的城墙！
+          GER['text']
+   G: Wir hatten es geschafft, alle Drachen aus den kabalianischen…
+block 50_end1        CHN['usericon']
+          GER['usericon']
+block 50_endheader   CHN['text']
+   C: 任务成功！
+          GER['text']
+   G: MISSION GEWONNEN!
+block 600            CHN['text', 'text']
+   C: 任务失败！
+   C: 一时的轻率，生命便转瞬即逝！你的挚友、英雄之龙诺伯特，因你的疏忽而殒命！若无此英雄，这世界便将永远失落……
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Ein kleiner Moment des Leichtsinns, so schnell kommt es im L…
+block header         CHN['text']
+   C: 龙的解放
+          GER['text']
+   G: BEFREIUNG DER DRACHEN
+
+====================================================================================================
+FILE: _campaign_04_05.xml
+====================================================================================================
+block 00_start       CHN['text']
+   C: 可那是何物？我们的村庄被毁了。我们身负部族之责，须着手重建，同时决意派出信使，警告其他维京人提防此类侵扰。 建立你的村庄…
+          GER['text']
+   G: Wir beschlossen zur Siedlungsstätte zurückzukehren, die das …
+block 00_start1      CHN['text']
+   C: 森林哨站 1--神庙守卫 “又见到你们，真好！”神庙守卫们说道。 “昔日你们曾助我们一臂之力。如今我们的援助定然少不了，…
+          GER['text']
+   G: Doch was war das? Unser Dorf war zerstört. Wir waren unserem…
+block 01             CHN['text', 'usericon', 'text', 'usericon']
+   C: 已向神庙守卫缴纳贡 品！
+   C: “这些新鲜蘑菇能酿出绝妙的药剂。但愿合你们口味！我们自也乐意在贡赋之下，再为你们赶制补给……”
+          GER['text', 'usericon', 'text', 'usericon']
+   G: WALDPOSTEN 1 - DIE TEMPELWÄCHTER "Schön euch wieder zu sehen…
+   G: "Ihr habt uns damals beigestanden. Nun ist euch unsere Hilfe…
+block 02             CHN['text', 'usericon']
+   C: 哨站 2--采药人 “当年旧镰锈透时，是你们送来新工具。如今我们已有了自己的工具锻造坊。为抵御纳帕利亚人，我们也造起了武…
+          GER['text', 'usericon']
+   G: TRIBUT AN TEMPELWÄCHTER BEZAHLT! "Diese frische Pilze ergebe…
+block 03             CHN['text', 'usericon', 'text', 'usericon']
+   C: 已向采药人缴纳贡品 ！
+   C: “原本由采药人组成的哨站，如今造出了精良武器与护甲，凭贡赋正合我等之用。作为额外馈赠，他们甚至添了一架投石机。”
+          GER['text', 'usericon', 'text', 'usericon']
+   G: POSTEN 2 - KRÄUTERSAMMLER "Damals habt ihr uns neues Werkzeu…
+   G: "Verfügt über uns, wenn ihr wollt!" ... "Ihr sucht die orang…
+block 04             CHN['text', 'usericon']
+   C: 格罗尔斯的山脉--石龙 往昔嶙峋山脉中曾有古老智慧的石龙，如今却尽数消失……
+          GER['text', 'usericon']
+   G: TRIBUT AN KRÄUTERSAMMLER BEZAHLT! "Der Posten, der ursprüngl…
+block 05             CHN['text', 'usericon']
+   C: 维京人村庄 “你们离去后，情形更糟了。纳帕利亚人进一步扩张。连你们西边较小的据点，如今也被毒云笼罩。” “我们愿倾尽所有…
+          GER['text', 'usericon']
+   G: BERGE DER GEROLS - DER STEINDRACHEN Einstmals gab es in dies…
+block 06             CHN['text', 'usericon', 'text']
+   C: 商 人哨站
+   C: “你们回来了！这下一切定会好转！” “受纳帕利亚人侵扰，我不幸又陷生意清淡，但若与我交易，我的朋友定会再度相助，清除纳帕…
+          GER['text', 'usericon', 'text']
+   G: WIKINGERDORF "Es ist schlimmer geworden, seitdem ihr weg war…
+   G: "Wir stehen euch mit allem was uns zur Verfügung steht zur S…
+block 07             CHN['text', 'usericon', 'text']
+   C: 已与商 人交易货物
+   C: “多亏你们相助，我的生意红火起来了！届时我也会派出我的家养龙助你们一臂之力。”
+          GER['text', 'usericon', 'text']
+   G: HÄNDLERPOSTEN "Ihr seid wieder da! Nun wird sicher alles wie…
+   G: "Durch die Übergriffe der Napalianer stecke ich leider wiede…
+block 08             CHN['text', 'usericon']
+   C: 火龙之地 这里曾有许多火龙。可如今它们尽数消失……
+          GER['text', 'usericon']
+   G: WAREN MIT HÄNDLER GEHANDELT "Mein Geschäft boomt, dank eurer…
+block 09             CHN['text', 'usericon']
+   C: 瓦穆戈教授 “稍安勿躁，我的朋友们，我的信鸽已经上路！幸亏你们选择了和平解决。”
+          GER['text', 'usericon']
+   G: ORT DER FEUERDACHEN Einstmals war dies der Ort, an dem es vi…
+block 10             CHN['text']
+   C: 任务失败！ 是英勇，还是鲁莽？比雅尼陨落之时，诸神落泪……少了这位英雄，任务的结局将永远对你隐藏。
+          GER['text']
+   G: PROF. WAMUGO "Geduldet euch meine Freunde, meine Tauben sind…
+block 100            CHN['text', 'text']
+   C: 任务失败！
+   C: “我把课堂迁到了棕榈林，这漫漫长途，险恶时日里孩子们可经不起。我早料纳帕利亚人不会安分。我已向所有龙写了谋求和平的信，只…
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Göt…
+block 11             CHN['text', 'usericon', 'text']
+   C: 水龙森 林村庄学校
+   C: “因局势所迫，瓦穆戈教授的学校停课了！”
+          GER['text', 'usericon', 'text']
+   G: PROF. WAMUGO "Ich habe meinen Unterricht in den Palmenhain v…
+   G: Gib Prof. WAMUGO 15 kleine Heiltränke zum Tribut für seine B…
+block 12             CHN['text', 'usericon', 'text']
+   C: 棕榈林学堂
+   C: “你们回来了！我们的孩子学到了很多，瓦穆戈教授如今也在此授课。” 前往瓦穆戈教授处。
+          GER['text', 'usericon', 'text']
+   G: WALDDORFSCHULE DER WASSERDRACHEN
+   G: "Aufgrund der Umstände war Prof. Wamugo's Schule geschlossen…
+block 13             CHN['text', 'usericon', 'text']
+   C: 老 者
+   C: “纳帕利亚人愈发猖狂……如今毒云笼罩两处据点，森林哨站的家养龙护着棕榈林中的孩子，唯独商人处还剩一条。”
+          GER['text', 'usericon', 'text']
+   G: SCHULE AM PALMENHAIN "Ihr seid zurück! Unsere Kinder haben v…
+   G: Gehe zu Professor WAMUGO.
+block 14             CHN['text', 'usericon', 'text', 'usericon']
+   C: 所有橙色龙！
+   C: 如今我们寻遍了森林守护者哨站，并将橙色龙集结以对抗毒云。 我们既能对纳帕利亚人动武，也可采纳瓦穆戈教授和平化解之策！抉择…
+          GER['text', 'usericon', 'text', 'usericon']
+   G: DER ALTE MANN
+   G: "Es ist schlimmer geworden mit den Napalianern... Nun umgibt…
+block 15             CHN['text', 'usericon', 'text']
+   C: 毒云 已清除
+   C: 家养龙顷刻间聚向毒云，中和了纳帕利亚人据点外的烟瘴！ 道路已通，决断在己……
+          GER['text', 'usericon', 'text']
+   G: ALLE ORANGENEN DRACHEN! Nun hatten wir die Posten der Waldhü…
+   G: Wir konnten nun gegen die Napalianer kriegerisch vorgehen od…
+block 16             CHN['text', 'usericon', 'text']
+   C: 老 者
+   C: “水龙正在水之神庙备战。若你们真心实意，老阿夸罗姆定会拨一支水龙大军相随。”
+          GER['text', 'usericon', 'text']
+   G: GIFTWOLKE BESEITIGT In Windeseile sammelten sich die Hausdra…
+   G: Nun war der Weg frei und die Entscheidung lag bei uns...
+block 17             CHN['text', 'usericon', 'text']
+   C: 阿夸斯--水龙 “总有不宁之人惹事，实在可耻。我们爱好和平之龙，难得被激出巢……”
+   C: “……但事已至此，别无他法。我们在水之神庙整军抗敌。但唯有你最强的英雄，才得入内！” 若需增援，与比雅尼同赴水之神庙。
+          GER['text', 'usericon', 'text']
+   G: DER ALTE MANN
+   G: "Die Wasserdrachen rüsten sich für den Ernstfall im Wasserte…
+block 18             CHN['text', 'usericon', 'text']
+   C: 纳帕 利亚人
+   C: “敢再靠近一步！我们绝不会再上当受骗！” “滚开，否则我们被迫动用武器！”
+          GER['text', 'usericon', 'text']
+   G: AQUAS - DIE WASSERDRACHEN "Es ist eine Schande, dass immer w…
+   G: "...aber unter diesen Umständen bleibt uns nichts anderes üb…
+block 19             CHN['text', 'usericon', 'text']
+   C: 纳帕 利亚人
+   C: “这是你们自找的！我们的武器会将你们消灭。缴纳贡品，我们便重新考虑对你们的态度，但前提是你们立刻离开我们的据点！” 缴纳…
+          GER['text', 'usericon', 'text']
+   G: NAPALIANER "Keinen Schritt näher! Noch einmal werden wir uns…
+   G: "Geht, oder wir sind gezwungen unsere Waffen zu gebrauchen!"
+block 20             CHN['text']
+   C: 任务失败！ 一时的轻率，生命便转瞬即逝！你的女英雄希拉，因你的疏忽而殒命 ！少了这位英雄，任务的结局将永远对你隐藏。
+          GER['text']
+   G: NAPALIANER "Ihr habt es so gewollt! Unsere Waffen werden euc…
+block 200            CHN['text', 'text']
+   C: 任务失败！
+   C: “我们自会重新考虑对你们的态度，但休想再踏入我们的地界！”纳帕利亚人朝我们喊道，并即刻改变了对待我们的外交姿态。
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Ein kleiner Moment des Leichtsinns, so schnell kommt es im L…
+block 21             CHN['text', 'usericon']
+   C: 纳帕利亚人败北！ 纳帕利亚人虽被击败，可若当初本也能和平了结？
+          GER['text', 'usericon']
+   G: TRIBUT GELEISTET! "Nun werden wir unsere Haltung zu euch übe…
+block 22             CHN['text', 'usericon']
+   C: 所有龙齐聚！ 不可思议！四面八方的老友--龙族，纷纷涌来助我们一臂之力！ 其中也有诺伯特。 瓦穆戈果不食言！
+          GER['text', 'usericon']
+   G: NAPALIANER BESIEGT! Zwar waren die Napalianer geschlagen, do…
+block 23             CHN['text', 'usericon', 'text', 'usericon', 'text']
+   C: 龙族 相助！
+   C: 不可思议！四面八方的老友--龙族，纷纷涌来助我们一臂之力！
+   C: 如今我们可携手对抗纳帕利亚人！
+          GER['text', 'usericon', 'text', 'usericon', 'text']
+   G: ALLE DRACHEN VERSAMMELT! Es war unglaublich! Aus alle Himmel…
+   G: Unter ihnen auch Norbert.
+   G: WAMUGO hatte Wort gehalten!
+block 24             CHN['text', 'usericon', 'text']
+   C: 任务 失败！
+   C: 一时的轻率，生命便转瞬即逝！比雅尼与希拉之子玛尼，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
+          GER['text', 'usericon', 'text']
+   G: HILFE DURCH DIE DRACHEN! Es war unglaublich! Aus alle Himmel…
+   G: Nun konnten wir gemeinsam gegen die Napalianer vorgehen!
+block 25             CHN[]
+          GER[]
+block 500            CHN['text', 'text']
+   C: 任务失败！
+   C: 生活中的片刻疏忽，人生如此迅速！ 玛尼--比雅尼与希拉之子--因你的疏忽而丧命！失去这位英雄，你将无法得知任务的结局。
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Ein kleiner Moment des Leichtsinns, so schnell kommt es im L…
+block 50_end         CHN['text']
+   C: 然而最欢喜的，是把诺伯特重新拥入怀中。小龙已长大，从其他地龙处学到许多，也积下独属于自己的经历。可他与我们，仿佛从未离去…
+          GER['text']
+   G: Dank unserer Freunde war es uns gelungen, die Napalianer end…
+block 50_end1        CHN['text']
+   C: 战役胜利！
+          GER['text']
+   G: Die schönste Freude jedoch war es Norbert wieder in die Arme…
+block 50_endheader   CHN['text']
+   C: 任务失败！ 一时的轻率，生命便转瞬即逝！你的挚友、英雄之龙诺伯特，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐…
+          GER['text']
+   G: KAMPAGNE GEWONNEN!
+block 600            CHN['text', 'text']
+   C: 任务失败！
+   C: 生活中的片刻疏忽，人生如此迅速！ 你的朋友兼英雄--巨龙诺伯特--因你的疏忽而丧命！失去这位英雄，你将无法得知任务的结局…
+          GER['font', 'text', 'font', 'picture', 'text']
+   G: MISSION VERLOREN!
+   G: Ein kleiner Moment des Leichtsinns, so schnell kommt es im L…
+block header         CHN['text']
+   C: 归乡
+          GER['text']
+   G: HEIMKEHR
+
+====================================================================================================
+FILE: _campaign_04_05_sub1.xml
+====================================================================================================
+block 00_start       CHN['text']
+   C: "什么？海面上的情形竟已糟糕至此？带上我十条最精锐的龙吧，我继续训练新的。"阿夸罗姆说道。
+          GER['text']
+   G: "Was? Es ist so schlimm oberhalb des Meeres? Nehmt 10 meiner…
+block 00_start1      CHN['text']
+   C: 在你们的领导下，我们才有希望！
+          GER['text']
+   G: Unter eurer Führung haben wir eine Chance!"
+block header         CHN['text']
+   C: 海底
+          GER['text']
+   G: UNTER DEM MEER

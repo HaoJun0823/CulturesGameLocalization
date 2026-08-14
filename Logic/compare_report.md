@@ -1,0 +1,2171 @@
+# 四游戏 Logic 配置对比报告
+
+> 对比对象：GAME_2 / GAME_3 / GAME_4 / GAME_5 的 `logic\*.ini`（含子目录）。
+
+> 对比方式：每条记录（同 section 第 N 次出现）按 `[section]#记录序号` 对齐，逐 `key` 比较。
+
+> 生成时间：由 compare_games.py 自动生成。
+
+
+## 0. 文件内容聚类（谁与谁一致）
+
+| 文件 | 内容相同的游戏组 | 说明 |
+|---|---|---|
+| `animaltypes.ini` | GAME_2、GAME_3 / GAME_4、GAME_5 | 存在差异 |
+| `armortypes.ini` | GAME_2 / GAME_3、GAME_4、GAME_5 | 存在差异 |
+| `atomicanimations\atomicanimations.ini` | GAME_2 / GAME_3 / GAME_4、GAME_5 | 存在差异 |
+| `goodtypes.ini` | GAME_2 / GAME_3 / GAME_4 / GAME_5 | 四份完全一致 |
+| `housetypes.ini` | GAME_2、GAME_3 / GAME_4、GAME_5 | 存在差异 |
+| `humanjobexperiencetypes.ini` | GAME_2 / GAME_3 / GAME_4 / GAME_5 | 四份完全一致 |
+| `jobtypes.ini` | GAME_2 / GAME_3 / GAME_4 / GAME_5 | 四份完全一致 |
+| `landscapetypes.ini` | GAME_2 / GAME_3 / GAME_4 / GAME_5 | 四份完全一致 |
+| `trianglepatterntypes.ini` | GAME_2 / GAME_3 / GAME_4 / GAME_5 | 四份完全一致 |
+| `tribetypes\tribetypes.ini` | GAME_2、GAME_3 / GAME_4、GAME_5 | 存在差异 |
+| `vehicletypes.ini` | GAME_2、GAME_3 / GAME_4、GAME_5 | 存在差异 |
+| `weapontypes.ini` | GAME_2 / GAME_3 / GAME_4、GAME_5 | 存在差异 |
+
+## 1. 逐文件详细差异
+
+### `animaltypes.ini`
+
+#### 1. 记录存在性差异（某游戏缺整条记录）
+
+- （无）四份记录数相同
+
+#### 2. 键值差异
+
+- 共 34 个键值存在差异：
+
+- `[animaltype]` 第1条 · `tribetype`：GAME_2={`7`} | GAME_3={`7`} | GAME_4={`8`} | GAME_5={`8`}
+- `[animaltype]` 第2条 · `tribetype`：GAME_2={`8`} | GAME_3={`8`} | GAME_4={`9`} | GAME_5={`9`}
+- `[animaltype]` 第3条 · `tribetype`：GAME_2={`9`} | GAME_3={`9`} | GAME_4={`10`} | GAME_5={`10`}
+- `[animaltype]` 第4条 · `tribetype`：GAME_2={`20`} | GAME_3={`20`} | GAME_4={`21`} | GAME_5={`21`}
+- `[animaltype]` 第5条 · `tribetype`：GAME_2={`21`} | GAME_3={`21`} | GAME_4={`22`} | GAME_5={`22`}
+- `[animaltype]` 第6条 · `tribetype`：GAME_2={`22`} | GAME_3={`22`} | GAME_4={`23`} | GAME_5={`23`}
+- `[animaltype]` 第7条 · `tribetype`：GAME_2={`10`} | GAME_3={`10`} | GAME_4={`11`} | GAME_5={`11`}
+- `[animaltype]` 第8条 · `tribetype`：GAME_2={`11`} | GAME_3={`11`} | GAME_4={`12`} | GAME_5={`12`}
+- `[animaltype]` 第9条 · `tribetype`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`13`} | GAME_5={`13`}
+- `[animaltype]` 第10条 · `tribetype`：GAME_2={`13`} | GAME_3={`13`} | GAME_4={`14`} | GAME_5={`14`}
+- `[animaltype]` 第11条 · `tribetype`：GAME_2={`14`} | GAME_3={`14`} | GAME_4={`15`} | GAME_5={`15`}
+- `[animaltype]` 第12条 · `tribetype`：GAME_2={`23`} | GAME_3={`23`} | GAME_4={`24`} | GAME_5={`24`}
+- `[animaltype]` 第13条 · `tribetype`：GAME_2={`24`} | GAME_3={`24`} | GAME_4={`25`} | GAME_5={`25`}
+- `[animaltype]` 第14条 · `tribetype`：GAME_2={`25`} | GAME_3={`25`} | GAME_4={`26`} | GAME_5={`26`}
+- `[animaltype]` 第15条 · `tribetype`：GAME_2={`15`} | GAME_3={`15`} | GAME_4={`16`} | GAME_5={`16`}
+- `[animaltype]` 第16条 · `tribetype`：GAME_2={`16`} | GAME_3={`16`} | GAME_4={`17`} | GAME_5={`17`}
+- `[animaltype]` 第17条 · `tribetype`：GAME_2={`17`} | GAME_3={`17`} | GAME_4={`18`} | GAME_5={`18`}
+- `[animaltype]` 第18条 · `tribetype`：GAME_2={`18`} | GAME_3={`18`} | GAME_4={`19`} | GAME_5={`19`}
+- `[animaltype]` 第19条 · `tribetype`：GAME_2={`19`} | GAME_3={`19`} | GAME_4={`20`} | GAME_5={`20`}
+- `[animaltype]` 第20条 · `tribetype`：GAME_2={`26`} | GAME_3={`26`} | GAME_4={`27`} | GAME_5={`27`}
+- `[animaltype]` 第21条 · `tribetype`：GAME_2={`27`} | GAME_3={`27`} | GAME_4={`28`} | GAME_5={`28`}
+- `[animaltype]` 第22条 · `tribetype`：GAME_2={`28`} | GAME_3={`28`} | GAME_4={`29`} | GAME_5={`29`}
+- `[animaltype]` 第23条 · `tribetype`：GAME_2={`29`} | GAME_3={`29`} | GAME_4={`30`} | GAME_5={`30`}
+- `[animaltype]` 第24条 · `tribetype`：GAME_2={`30`} | GAME_3={`30`} | GAME_4={`31`} | GAME_5={`31`}
+- `[animaltype]` 第25条 · `tribetype`：GAME_2={`31`} | GAME_3={`31`} | GAME_4={`32`} | GAME_5={`32`}
+- `[animaltype]` 第26条 · `tribetype`：GAME_2={`32`} | GAME_3={`32`} | GAME_4={`33`} | GAME_5={`33`}
+- `[animaltype]` 第27条 · `tribetype`：GAME_2={`36`} | GAME_3={`36`} | GAME_4={`37`} | GAME_5={`37`}
+- `[animaltype]` 第28条 · `tribetype`：GAME_2={`37`} | GAME_3={`37`} | GAME_4={`38`} | GAME_5={`38`}
+- `[animaltype]` 第29条 · `tribetype`：GAME_2={`38`} | GAME_3={`38`} | GAME_4={`39`} | GAME_5={`39`}
+- `[animaltype]` 第30条 · `tribetype`：GAME_2={`33`} | GAME_3={`33`} | GAME_4={`34`} | GAME_5={`34`}
+- `[animaltype]` 第31条 · `tribetype`：GAME_2={`34`} | GAME_3={`34`} | GAME_4={`35`} | GAME_5={`35`}
+- `[animaltype]` 第32条 · `tribetype`：GAME_2={`35`} | GAME_3={`35`} | GAME_4={`36`} | GAME_5={`36`}
+- `[animaltype]` 第33条 · `tribetype`：GAME_2={`40`} | GAME_3={`40`} | GAME_4={`41`} | GAME_5={`41`}
+- `[animaltype]` 第34条 · `tribetype`：GAME_2={`39`} | GAME_3={`39`} | GAME_4={`40`} | GAME_5={`40`}
+
+### `armortypes.ini`
+
+#### 1. 记录存在性差异（某游戏缺整条记录）
+
+- （无）四份记录数相同
+
+#### 2. 键值差异
+
+- 共 4 个键值存在差异：
+
+- `[armortype]` 第1条 · `weight`：GAME_2={`5`} | GAME_3={`1`} | GAME_4={`1`} | GAME_5={`1`}
+- `[armortype]` 第2条 · `weight`：GAME_2={`5`} | GAME_3={`2`} | GAME_4={`2`} | GAME_5={`2`}
+- `[armortype]` 第3条 · `weight`：GAME_2={`5`} | GAME_3={`3`} | GAME_4={`3`} | GAME_5={`3`}
+- `[armortype]` 第4条 · `weight`：GAME_2={`5`} | GAME_3={`4`} | GAME_4={`4`} | GAME_5={`4`}
+
+### `atomicanimations\atomicanimations.ini`
+
+#### 1. 记录存在性差异（某游戏缺整条记录）
+
+- `[atomicanimation]` 第 706 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 707 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 708 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 709 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 710 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 711 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 712 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 713 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 714 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 715 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 716 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 717 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 718 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 719 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 720 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 721 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 722 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 723 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 724 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 725 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 726 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 727 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 728 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 729 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 730 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 731 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 732 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 733 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 734 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 735 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 736 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 737 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 738 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 739 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 740 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 741 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 742 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 743 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 744 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 745 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 746 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 747 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 748 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 749 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 750 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 751 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 752 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 753 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 754 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 755 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 756 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 757 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 758 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 759 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 760 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 761 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 762 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 763 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 764 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 765 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 766 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 767 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 768 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 769 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 770 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 771 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 772 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 773 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 774 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 775 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 776 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 777 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 778 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 779 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 780 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 781 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 782 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 783 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 784 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 785 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 786 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 787 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 788 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 789 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 790 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 791 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 792 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 793 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 794 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 795 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 796 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 797 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 798 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 799 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 800 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 801 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 802 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 803 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 804 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 805 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 806 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 807 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 808 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 809 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 810 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 811 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 812 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 813 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 814 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 815 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 816 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 817 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 818 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 819 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 820 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 821 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 822 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 823 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 824 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 825 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 826 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 827 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 828 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 829 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 830 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 831 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 832 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 833 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 834 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 835 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 836 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 837 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 838 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 839 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 840 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 841 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 842 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 843 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 844 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 845 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 846 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 847 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 848 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 849 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 850 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 851 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 852 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 853 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 854 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 855 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 856 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 857 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 858 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 859 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 860 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 861 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 862 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 863 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 864 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 865 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 866 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 867 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 868 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 869 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 870 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 871 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 872 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 873 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 874 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 875 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 876 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 877 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 878 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 879 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 880 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 881 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 882 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 883 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 884 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 885 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 886 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 887 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 888 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 889 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[atomicanimation]` 第 890 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+#### 2. 键值差异
+
+- 共 1650 个键值存在差异：
+
+- `[atomicanimation]` 第206条 · `event`：GAME_2={`200 1 +4000`} | GAME_3={`200 1 +4000`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第206条 · `length`：GAME_2={`237`} | GAME_3={`237`} | GAME_4={`6`} | GAME_5={`6`}
+- `[atomicanimation]` 第206条 · `name`：GAME_2={`"byzantine_civilist_sleep"`} | GAME_3={`"byzantine_civilist_sleep"`} | GAME_4={`"byzantine_soldier_spear_wooden_idle_short_a"`} | GAME_5={`"byzantine_soldier_spear_wooden_idle_short_a"`}
+- `[atomicanimation]` 第207条 · `event`：GAME_2={`200 1 +4000`} | GAME_3={`200 1 +4000`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第207条 · `length`：GAME_2={`237`} | GAME_3={`237`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第207条 · `name`：GAME_2={`"byzantine_soldier_sleep"`} | GAME_3={`"byzantine_soldier_sleep"`} | GAME_4={`"byzantine_soldier_spear_wooden_idle_short_b"`} | GAME_5={`"byzantine_soldier_spear_wooden_idle_short_b"`}
+- `[atomicanimation]` 第208条 · `event`：GAME_2={`45 1 +4000`} | GAME_3={`45 1 +4000`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第208条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第208条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`24`} | GAME_5={`24`}
+- `[atomicanimation]` 第208条 · `name`：GAME_2={`"byzantine_civilist_sleep_home"`} | GAME_3={`"byzantine_civilist_sleep_home"`} | GAME_4={`"byzantine_soldier_spear_wooden_idle_short_c"`} | GAME_5={`"byzantine_soldier_spear_wooden_idle_short_c"`}
+- `[atomicanimation]` 第209条 · `event`：GAME_2={`16 11 0`} | GAME_3={`16 11 0`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第209条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第209条 · `length`：GAME_2={`20`} | GAME_3={`20`} | GAME_4={`48`} | GAME_5={`48`}
+- `[atomicanimation]` 第209条 · `name`：GAME_2={`"byzantine_civilist_pickup"`} | GAME_3={`"byzantine_civilist_pickup"`} | GAME_4={`"byzantine_soldier_spear_wooden_idle_medium"`} | GAME_5={`"byzantine_soldier_spear_wooden_idle_medium"`}
+- `[atomicanimation]` 第209条 · `startdirection`：GAME_2={`6`} | GAME_3={`6`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第210条 · `event`：GAME_2={`16 12 0`} | GAME_3={`16 12 0`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第210条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第210条 · `length`：GAME_2={`20`} | GAME_3={`20`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第210条 · `name`：GAME_2={`"byzantine_civilist_pileup"`} | GAME_3={`"byzantine_civilist_pileup"`} | GAME_4={`"byzantine_soldier_spear_wooden_idle_long"`} | GAME_5={`"byzantine_soldier_spear_wooden_idle_long"`}
+- `[atomicanimation]` 第210条 · `startdirection`：GAME_2={`6`} | GAME_3={`6`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第211条 · `event`：GAME_2={`30 2 +4000`} | GAME_3={`30 2 +4000`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第211条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第211条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`500`} | GAME_5={`500`}
+- `[atomicanimation]` 第211条 · `name`：GAME_2={`"byzantine_civilist_eat_slot_food"`} | GAME_3={`"byzantine_civilist_eat_slot_food"`} | GAME_4={`"byzantine_soldier_spear_wooden_idle_verylong"`} | GAME_5={`"byzantine_soldier_spear_wooden_idle_verylong"`}
+- `[atomicanimation]` 第212条 · `event`：GAME_2={`40 3 +4000`} | GAME_3={`40 3 +4000`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第212条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第212条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第212条 · `name`：GAME_2={`"byzantine_civilist_eat_slot_candy"`} | GAME_3={`"byzantine_civilist_eat_slot_candy"`} | GAME_4={`"byzantine_hero_unarmed_idle_short_a"`} | GAME_5={`"byzantine_hero_unarmed_idle_short_a"`}
+- `[atomicanimation]` 第213条 · `event`：GAME_2={`30 2 +6000`} | GAME_3={`30 2 +6000`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第213条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第213条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第213条 · `name`：GAME_2={`"byzantine_civilist_eat_athome"`} | GAME_3={`"byzantine_civilist_eat_athome"`} | GAME_4={`"byzantine_hero_unarmed_idle_short_b"`} | GAME_5={`"byzantine_hero_unarmed_idle_short_b"`}
+- `[atomicanimation]` 第214条 · `event`：GAME_2={`30 2 +4000`} | GAME_3={`30 2 +4000`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第214条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第214条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第214条 · `name`：GAME_2={`"byzantine_soldier_eat_unarmed"`} | GAME_3={`"byzantine_soldier_eat_unarmed"`} | GAME_4={`"byzantine_hero_unarmed_idle_short_c"`} | GAME_5={`"byzantine_hero_unarmed_idle_short_c"`}
+- `[atomicanimation]` 第215条 · `event`：GAME_2={`30 2 +4000`} | GAME_3={`30 2 +4000`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第215条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第215条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第215条 · `name`：GAME_2={`"byzantine_soldier_eat_sword_short"`} | GAME_3={`"byzantine_soldier_eat_sword_short"`} | GAME_4={`"byzantine_hero_unarmed_idle_medium"`} | GAME_5={`"byzantine_hero_unarmed_idle_medium"`}
+- `[atomicanimation]` 第216条 · `event`：GAME_2={`95 4 +800`} | GAME_3={`95 4 +800`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第216条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第216条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第216条 · `name`：GAME_2={`"byzantine_civilist_pray"`} | GAME_3={`"byzantine_civilist_pray"`} | GAME_4={`"byzantine_hero_unarmed_idle_long"`} | GAME_5={`"byzantine_hero_unarmed_idle_long"`}
+- `[atomicanimation]` 第217条 · `event`：GAME_2={`50 3 +800`} | GAME_3={`50 3 +800`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第217条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第217条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第217条 · `name`：GAME_2={`"byzantine_civilist_monologuize"`} | GAME_3={`"byzantine_civilist_monologuize"`} | GAME_4={`"byzantine_hero_unarmed_idle_verylong"`} | GAME_5={`"byzantine_hero_unarmed_idle_verylong"`}
+- `[atomicanimation]` 第218条 · `event`：GAME_2={`95 3 +800`} | GAME_3={`95 3 +800`} | GAME_4={`200 1 +4000`} | GAME_5={`200 1 +4000`}
+- `[atomicanimation]` 第218条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`237`} | GAME_5={`237`}
+- `[atomicanimation]` 第218条 · `name`：GAME_2={`"byzantine_civilist_talk"`} | GAME_3={`"byzantine_civilist_talk"`} | GAME_4={`"byzantine_civilist_sleep"`} | GAME_5={`"byzantine_civilist_sleep"`}
+- `[atomicanimation]` 第219条 · `event`：GAME_2={`95 3 +100`} | GAME_3={`95 3 +100`} | GAME_4={`200 1 +4000`} | GAME_5={`200 1 +4000`}
+- `[atomicanimation]` 第219条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`237`} | GAME_5={`237`}
+- `[atomicanimation]` 第219条 · `name`：GAME_2={`"byzantine_civilist_listen"`} | GAME_3={`"byzantine_civilist_listen"`} | GAME_4={`"byzantine_soldier_sleep"`} | GAME_5={`"byzantine_soldier_sleep"`}
+- `[atomicanimation]` 第220条 · `event`：GAME_2={`18 3 +100`} | GAME_3={`18 3 +100`} | GAME_4={`45 1 +4000`} | GAME_5={`45 1 +4000`}
+- `[atomicanimation]` 第220条 · `length`：GAME_2={`25`} | GAME_3={`25`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第220条 · `name`：GAME_2={`"byzantine_civilist_enjoy"`} | GAME_3={`"byzantine_civilist_enjoy"`} | GAME_4={`"byzantine_civilist_sleep_home"`} | GAME_5={`"byzantine_civilist_sleep_home"`}
+- `[atomicanimation]` 第221条 · `event`：GAME_2={`40 3 +800`} | GAME_3={`40 3 +800`} | GAME_4={`16 11 0`} | GAME_5={`16 11 0`}
+- `[atomicanimation]` 第221条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第221条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`20`} | GAME_5={`20`}
+- `[atomicanimation]` 第221条 · `name`：GAME_2={`"byzantine_civilist_kiss"`} | GAME_3={`"byzantine_civilist_kiss"`} | GAME_4={`"byzantine_civilist_pickup"`} | GAME_5={`"byzantine_civilist_pickup"`}
+- `[atomicanimation]` 第221条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6`} | GAME_5={`6`}
+- `[atomicanimation]` 第222条 · `event`：GAME_2={`40 3 +100`} | GAME_3={`40 3 +100`} | GAME_4={`16 12 0`} | GAME_5={`16 12 0`}
+- `[atomicanimation]` 第222条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第222条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`20`} | GAME_5={`20`}
+- `[atomicanimation]` 第222条 · `name`：GAME_2={`"byzantine_civilist_kissed"`} | GAME_3={`"byzantine_civilist_kissed"`} | GAME_4={`"byzantine_civilist_pileup"`} | GAME_5={`"byzantine_civilist_pileup"`}
+- `[atomicanimation]` 第222条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6`} | GAME_5={`6`}
+- `[atomicanimation]` 第223条 · `event`：GAME_2={`40 3 +800`} | GAME_3={`40 3 +800`} | GAME_4={`30 2 +4000`} | GAME_5={`30 2 +4000`}
+- `[atomicanimation]` 第223条 · `name`：GAME_2={`"byzantine_civilist_make_love"`} | GAME_3={`"byzantine_civilist_make_love"`} | GAME_4={`"byzantine_civilist_eat_slot_food"`} | GAME_5={`"byzantine_civilist_eat_slot_food"`}
+- `[atomicanimation]` 第224条 · `event`：GAME_2={`40 3 +100`} | GAME_3={`40 3 +100`} | GAME_4={`40 3 +4000`} | GAME_5={`40 3 +4000`}
+- `[atomicanimation]` 第224条 · `name`：GAME_2={`"byzantine_civilist_get_loved"`} | GAME_3={`"byzantine_civilist_get_loved"`} | GAME_4={`"byzantine_civilist_eat_slot_candy"`} | GAME_5={`"byzantine_civilist_eat_slot_candy"`}
+- `[atomicanimation]` 第225条 · `event`：GAME_2={`49 11`} | GAME_3={`49 11`} | GAME_4={`30 2 +6000`} | GAME_5={`30 2 +6000`}
+- `[atomicanimation]` 第225条 · `name`：GAME_2={`"byzantine_civilist_produce_water"`} | GAME_3={`"byzantine_civilist_produce_water"`} | GAME_4={`"byzantine_civilist_eat_athome"`} | GAME_5={`"byzantine_civilist_eat_athome"`}
+- `[atomicanimation]` 第226条 · `event`：GAME_2={`49 11`} | GAME_3={`49 11`} | GAME_4={`30 2 +4000`} | GAME_5={`30 2 +4000`}
+- `[atomicanimation]` 第226条 · `name`：GAME_2={`"byzantine_civilist_produce_honey"`} | GAME_3={`"byzantine_civilist_produce_honey"`} | GAME_4={`"byzantine_soldier_eat_unarmed"`} | GAME_5={`"byzantine_soldier_eat_unarmed"`}
+- `[atomicanimation]` 第227条 · `event`：GAME_2={`6 25`} | GAME_3={`6 25`} | GAME_4={`30 2 +4000`} | GAME_5={`30 2 +4000`}
+- `[atomicanimation]` 第227条 · `length`：GAME_2={`16`} | GAME_3={`16`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第227条 · `name`：GAME_2={`"byzantine_civilist_attack"`} | GAME_3={`"byzantine_civilist_attack"`} | GAME_4={`"byzantine_soldier_eat_sword_short"`} | GAME_5={`"byzantine_soldier_eat_sword_short"`}
+- `[atomicanimation]` 第228条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`95 4 +800`} | GAME_5={`95 4 +800`}
+- `[atomicanimation]` 第228条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第228条 · `name`：GAME_2={`"byzantine_civilist_attacked"`} | GAME_3={`"byzantine_civilist_attacked"`} | GAME_4={`"byzantine_civilist_pray"`} | GAME_5={`"byzantine_civilist_pray"`}
+- `[atomicanimation]` 第229条 · `event`：GAME_2={`16 33`} | GAME_3={`16 33`} | GAME_4={`50 3 +800`} | GAME_5={`50 3 +800`}
+- `[atomicanimation]` 第229条 · `length`：GAME_2={`20`} | GAME_3={`20`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第229条 · `name`：GAME_2={`"byzantine_civilist_open_chest"`} | GAME_3={`"byzantine_civilist_open_chest"`} | GAME_4={`"byzantine_civilist_monologuize"`} | GAME_5={`"byzantine_civilist_monologuize"`}
+- `[atomicanimation]` 第229条 · `startdirection`：GAME_2={`6`} | GAME_3={`6`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第230条 · `event`：GAME_2={`8 20`} | GAME_3={`8 20`} | GAME_4={`95 3 +800`} | GAME_5={`95 3 +800`}
+- `[atomicanimation]` 第230条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第230条 · `length`：GAME_2={`15`} | GAME_3={`15`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第230条 · `name`：GAME_2={`"byzantine_builder_build_house"`} | GAME_3={`"byzantine_builder_build_house"`} | GAME_4={`"byzantine_civilist_talk"`} | GAME_5={`"byzantine_civilist_talk"`}
+- `[atomicanimation]` 第231条 · `event`：GAME_2={`8 20`} | GAME_3={`8 20`} | GAME_4={`95 3 +100`} | GAME_5={`95 3 +100`}
+- `[atomicanimation]` 第231条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第231条 · `length`：GAME_2={`15`} | GAME_3={`15`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第231条 · `name`：GAME_2={`"byzantine_builder_build_road"`} | GAME_3={`"byzantine_builder_build_road"`} | GAME_4={`"byzantine_civilist_listen"`} | GAME_5={`"byzantine_civilist_listen"`}
+- `[atomicanimation]` 第232条 · `event`：GAME_2={`8 20`} | GAME_3={`8 20`} | GAME_4={`18 3 +100`} | GAME_5={`18 3 +100`}
+- `[atomicanimation]` 第232条 · `length`：GAME_2={`15`} | GAME_3={`15`} | GAME_4={`25`} | GAME_5={`25`}
+- `[atomicanimation]` 第232条 · `name`：GAME_2={`"byzantine_builder_build_wall"`} | GAME_3={`"byzantine_builder_build_wall"`} | GAME_4={`"byzantine_civilist_enjoy"`} | GAME_5={`"byzantine_civilist_enjoy"`}
+- `[atomicanimation]` 第233条 · `event`：GAME_2={`8 20`} | GAME_3={`8 20`} | GAME_4={`40 3 +800`} | GAME_5={`40 3 +800`}
+- `[atomicanimation]` 第233条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第233条 · `length`：GAME_2={`15`} | GAME_3={`15`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第233条 · `name`：GAME_2={`"byzantine_scout_build_guide"`} | GAME_3={`"byzantine_scout_build_guide"`} | GAME_4={`"byzantine_civilist_kiss"`} | GAME_5={`"byzantine_civilist_kiss"`}
+- `[atomicanimation]` 第234条 · `event`：GAME_2={`8 8 +4000`} | GAME_3={`8 8 +4000`} | GAME_4={`40 3 +100`} | GAME_5={`40 3 +100`}
+- `[atomicanimation]` 第234条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第234条 · `length`：GAME_2={`15`} | GAME_3={`15`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第234条 · `name`：GAME_2={`"byzantine_jester_jest"`} | GAME_3={`"byzantine_jester_jest"`} | GAME_4={`"byzantine_civilist_kissed"`} | GAME_5={`"byzantine_civilist_kissed"`}
+- `[atomicanimation]` 第235条 · `event`：GAME_2={`20 18`} | GAME_3={`20 18`} | GAME_4={`40 3 +800`} | GAME_5={`40 3 +800`}
+- `[atomicanimation]` 第235条 · `length`：GAME_2={`30`} | GAME_3={`30`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第235条 · `name`：GAME_2={`"byzantine_collector_harvest_tree"`} | GAME_3={`"byzantine_collector_harvest_tree"`} | GAME_4={`"byzantine_civilist_make_love"`} | GAME_5={`"byzantine_civilist_make_love"`}
+- `[atomicanimation]` 第236条 · `event`：GAME_2={`19 34 3`} | GAME_3={`19 34 3`} | GAME_4={`40 3 +100`} | GAME_5={`40 3 +100`}
+- `[atomicanimation]` 第236条 · `length`：GAME_2={`29`} | GAME_3={`29`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第236条 · `name`：GAME_2={`"byzantine_collector_harvest_stone"`} | GAME_3={`"byzantine_collector_harvest_stone"`} | GAME_4={`"byzantine_civilist_get_loved"`} | GAME_5={`"byzantine_civilist_get_loved"`}
+- `[atomicanimation]` 第237条 · `event`：GAME_2={`20 13`} | GAME_3={`20 13`} | GAME_4={`49 11`} | GAME_5={`49 11`}
+- `[atomicanimation]` 第237条 · `length`：GAME_2={`23`} | GAME_3={`23`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第237条 · `name`：GAME_2={`"byzantine_collector_harvest_mud"`} | GAME_3={`"byzantine_collector_harvest_mud"`} | GAME_4={`"byzantine_civilist_produce_water"`} | GAME_5={`"byzantine_civilist_produce_water"`}
+- `[atomicanimation]` 第238条 · `event`：GAME_2={`19 13`} | GAME_3={`19 13`} | GAME_4={`49 11`} | GAME_5={`49 11`}
+- `[atomicanimation]` 第238条 · `length`：GAME_2={`23`} | GAME_3={`23`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第238条 · `name`：GAME_2={`"byzantine_collector_harvest_iron"`} | GAME_3={`"byzantine_collector_harvest_iron"`} | GAME_4={`"byzantine_civilist_produce_honey"`} | GAME_5={`"byzantine_civilist_produce_honey"`}
+- `[atomicanimation]` 第239条 · `event`：GAME_2={`19 13`} | GAME_3={`19 13`} | GAME_4={`6 25`} | GAME_5={`6 25`}
+- `[atomicanimation]` 第239条 · `length`：GAME_2={`23`} | GAME_3={`23`} | GAME_4={`16`} | GAME_5={`16`}
+- `[atomicanimation]` 第239条 · `name`：GAME_2={`"byzantine_collector_harvest_gold"`} | GAME_3={`"byzantine_collector_harvest_gold"`} | GAME_4={`"byzantine_civilist_attack"`} | GAME_5={`"byzantine_civilist_attack"`}
+- `[atomicanimation]` 第240条 · `event`：GAME_2={`40 11`} | GAME_3={`40 11`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第240条 · `name`：GAME_2={`"byzantine_collector_harvest_honey"`} | GAME_3={`"byzantine_collector_harvest_honey"`} | GAME_4={`"byzantine_civilist_attacked"`} | GAME_5={`"byzantine_civilist_attacked"`}
+- `[atomicanimation]` 第241条 · `event`：GAME_2={`21 18`} | GAME_3={`21 18`} | GAME_4={`16 33`} | GAME_5={`16 33`}
+- `[atomicanimation]` 第241条 · `length`：GAME_2={`35`} | GAME_3={`35`} | GAME_4={`20`} | GAME_5={`20`}
+- `[atomicanimation]` 第241条 · `name`：GAME_2={`"byzantine_collector_harvest_herb"`} | GAME_3={`"byzantine_collector_harvest_herb"`} | GAME_4={`"byzantine_civilist_open_chest"`} | GAME_5={`"byzantine_civilist_open_chest"`}
+- `[atomicanimation]` 第241条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6`} | GAME_5={`6`}
+- `[atomicanimation]` 第242条 · `event`：GAME_2={`22 28`} | GAME_3={`22 28`} | GAME_4={`8 20`} | GAME_5={`8 20`}
+- `[atomicanimation]` 第242条 · `length`：GAME_2={`35`} | GAME_3={`35`} | GAME_4={`15`} | GAME_5={`15`}
+- `[atomicanimation]` 第242条 · `name`：GAME_2={`"byzantine_collector_harvest_mushroom"`} | GAME_3={`"byzantine_collector_harvest_mushroom"`} | GAME_4={`"byzantine_builder_build_house"`} | GAME_5={`"byzantine_builder_build_house"`}
+- `[atomicanimation]` 第243条 · `event`：GAME_2={`40 16`} | GAME_3={`40 16`} | GAME_4={`8 20`} | GAME_5={`8 20`}
+- `[atomicanimation]` 第243条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`15`} | GAME_5={`15`}
+- `[atomicanimation]` 第243条 · `name`：GAME_2={`"byzantine_collector_cultivate"`} | GAME_3={`"byzantine_collector_cultivate"`} | GAME_4={`"byzantine_builder_build_road"`} | GAME_5={`"byzantine_builder_build_road"`}
+- `[atomicanimation]` 第244条 · `event`：GAME_2={`14 18`} | GAME_3={`14 18`} | GAME_4={`8 20`} | GAME_5={`8 20`}
+- `[atomicanimation]` 第244条 · `length`：GAME_2={`24`} | GAME_3={`24`} | GAME_4={`15`} | GAME_5={`15`}
+- `[atomicanimation]` 第244条 · `name`：GAME_2={`"byzantine_farmer_harvest_wheat"`} | GAME_3={`"byzantine_farmer_harvest_wheat"`} | GAME_4={`"byzantine_builder_build_wall"`} | GAME_5={`"byzantine_builder_build_wall"`}
+- `[atomicanimation]` 第245条 · `event`：GAME_2={`14 16`} | GAME_3={`14 16`} | GAME_4={`8 20`} | GAME_5={`8 20`}
+- `[atomicanimation]` 第245条 · `length`：GAME_2={`29`} | GAME_3={`29`} | GAME_4={`15`} | GAME_5={`15`}
+- `[atomicanimation]` 第245条 · `name`：GAME_2={`"byzantine_farmer_cultivate"`} | GAME_3={`"byzantine_farmer_cultivate"`} | GAME_4={`"byzantine_scout_build_guide"`} | GAME_5={`"byzantine_scout_build_guide"`}
+- `[atomicanimation]` 第246条 · `event`：GAME_2={`14 15`} | GAME_3={`14 15`} | GAME_4={`8 8 +4000`} | GAME_5={`8 8 +4000`}
+- `[atomicanimation]` 第246条 · `length`：GAME_2={`24`} | GAME_3={`24`} | GAME_4={`15`} | GAME_5={`15`}
+- `[atomicanimation]` 第246条 · `name`：GAME_2={`"byzantine_farmer_plant"`} | GAME_3={`"byzantine_farmer_plant"`} | GAME_4={`"byzantine_jester_jest"`} | GAME_5={`"byzantine_jester_jest"`}
+- `[atomicanimation]` 第247条 · `event`：GAME_2={`190 21`} | GAME_3={`190 21`} | GAME_4={`20 18`} | GAME_5={`20 18`}
+- `[atomicanimation]` 第247条 · `length`：GAME_2={`200`} | GAME_3={`200`} | GAME_4={`30`} | GAME_5={`30`}
+- `[atomicanimation]` 第247条 · `name`：GAME_2={`"byzantine_miller_produce_flour"`} | GAME_3={`"byzantine_miller_produce_flour"`} | GAME_4={`"byzantine_collector_harvest_tree"`} | GAME_5={`"byzantine_collector_harvest_tree"`}
+- `[atomicanimation]` 第248条 · `event`：GAME_2={`143 34 15`} | GAME_3={`143 34 15`} | GAME_4={`19 34 3`} | GAME_5={`19 34 3`}
+- `[atomicanimation]` 第248条 · `length`：GAME_2={`200`} | GAME_3={`200`} | GAME_4={`29`} | GAME_5={`29`}
+- `[atomicanimation]` 第248条 · `name`：GAME_2={`"byzantine_baker_produce_bread"`} | GAME_3={`"byzantine_baker_produce_bread"`} | GAME_4={`"byzantine_collector_harvest_stone"`} | GAME_5={`"byzantine_collector_harvest_stone"`}
+- `[atomicanimation]` 第249条 · `event`：GAME_2={`143 34 15`} | GAME_3={`143 34 15`} | GAME_4={`20 13`} | GAME_5={`20 13`}
+- `[atomicanimation]` 第249条 · `length`：GAME_2={`200`} | GAME_3={`200`} | GAME_4={`23`} | GAME_5={`23`}
+- `[atomicanimation]` 第249条 · `name`：GAME_2={`"byzantine_baker_produce_candy"`} | GAME_3={`"byzantine_baker_produce_candy"`} | GAME_4={`"byzantine_collector_harvest_mud"`} | GAME_5={`"byzantine_collector_harvest_mud"`}
+- `[atomicanimation]` 第250条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`19 13`} | GAME_5={`19 13`}
+- `[atomicanimation]` 第250条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`23`} | GAME_5={`23`}
+- `[atomicanimation]` 第250条 · `name`：GAME_2={`"byzantine_brewer_produce_mead"`} | GAME_3={`"byzantine_brewer_produce_mead"`} | GAME_4={`"byzantine_collector_harvest_iron"`} | GAME_5={`"byzantine_collector_harvest_iron"`}
+- `[atomicanimation]` 第251条 · `event`：GAME_2={`150 4 -1500`} | GAME_3={`150 4 -1500`} | GAME_4={`19 13`} | GAME_5={`19 13`}
+- `[atomicanimation]` 第251条 · `length`：GAME_2={`400`} | GAME_3={`400`} | GAME_4={`23`} | GAME_5={`23`}
+- `[atomicanimation]` 第251条 · `name`：GAME_2={`"byzantine_carpenter_produce_spear_wooden"`} | GAME_3={`"byzantine_carpenter_produce_spear_wooden"`} | GAME_4={`"byzantine_collector_harvest_gold"`} | GAME_5={`"byzantine_collector_harvest_gold"`}
+- `[atomicanimation]` 第252条 · `event`：GAME_2={`140 21`} | GAME_3={`140 21`} | GAME_4={`40 11`} | GAME_5={`40 11`}
+- `[atomicanimation]` 第252条 · `length`：GAME_2={`400`} | GAME_3={`400`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第252条 · `name`：GAME_2={`"byzantine_carpenter_produce_tool_wooden"`} | GAME_3={`"byzantine_carpenter_produce_tool_wooden"`} | GAME_4={`"byzantine_collector_harvest_honey"`} | GAME_5={`"byzantine_collector_harvest_honey"`}
+- `[atomicanimation]` 第253条 · `event`：GAME_2={`140 21`} | GAME_3={`140 21`} | GAME_4={`21 18`} | GAME_5={`21 18`}
+- `[atomicanimation]` 第253条 · `length`：GAME_2={`400`} | GAME_3={`400`} | GAME_4={`35`} | GAME_5={`35`}
+- `[atomicanimation]` 第253条 · `name`：GAME_2={`"byzantine_carpenter_produce_furniture"`} | GAME_3={`"byzantine_carpenter_produce_furniture"`} | GAME_4={`"byzantine_collector_harvest_herb"`} | GAME_5={`"byzantine_collector_harvest_herb"`}
+- `[atomicanimation]` 第254条 · `event`：GAME_2={`44 4 -1500`} | GAME_3={`44 4 -1500`} | GAME_4={`22 28`} | GAME_5={`22 28`}
+- `[atomicanimation]` 第254条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`35`} | GAME_5={`35`}
+- `[atomicanimation]` 第254条 · `name`：GAME_2={`"byzantine_armorer_produce_bow_short"`} | GAME_3={`"byzantine_armorer_produce_bow_short"`} | GAME_4={`"byzantine_collector_harvest_mushroom"`} | GAME_5={`"byzantine_collector_harvest_mushroom"`}
+- `[atomicanimation]` 第255条 · `event`：GAME_2={`44 4 -1500`} | GAME_3={`44 4 -1500`} | GAME_4={`40 16`} | GAME_5={`40 16`}
+- `[atomicanimation]` 第255条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第255条 · `name`：GAME_2={`"byzantine_armorer_produce_bow_long"`} | GAME_3={`"byzantine_armorer_produce_bow_long"`} | GAME_4={`"byzantine_collector_cultivate"`} | GAME_5={`"byzantine_collector_cultivate"`}
+- `[atomicanimation]` 第256条 · `event`：GAME_2={`55 4 -1500`} | GAME_3={`55 4 -1500`} | GAME_4={`14 18`} | GAME_5={`14 18`}
+- `[atomicanimation]` 第256条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`24`} | GAME_5={`24`}
+- `[atomicanimation]` 第256条 · `name`：GAME_2={`"byzantine_armorer_build_vehicle_catapult"`} | GAME_3={`"byzantine_armorer_build_vehicle_catapult"`} | GAME_4={`"byzantine_farmer_harvest_wheat"`} | GAME_5={`"byzantine_farmer_harvest_wheat"`}
+- `[atomicanimation]` 第257条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`14 16`} | GAME_5={`14 16`}
+- `[atomicanimation]` 第257条 · `length`：GAME_2={`80`} | GAME_3={`80`} | GAME_4={`29`} | GAME_5={`29`}
+- `[atomicanimation]` 第257条 · `name`：GAME_2={`"byzantine_potter_produce_crockery"`} | GAME_3={`"byzantine_potter_produce_crockery"`} | GAME_4={`"byzantine_farmer_cultivate"`} | GAME_5={`"byzantine_farmer_cultivate"`}
+- `[atomicanimation]` 第258条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`14 15`} | GAME_5={`14 15`}
+- `[atomicanimation]` 第258条 · `length`：GAME_2={`80`} | GAME_3={`80`} | GAME_4={`24`} | GAME_5={`24`}
+- `[atomicanimation]` 第258条 · `name`：GAME_2={`"byzantine_potter_produce_brick"`} | GAME_3={`"byzantine_potter_produce_brick"`} | GAME_4={`"byzantine_farmer_plant"`} | GAME_5={`"byzantine_farmer_plant"`}
+- `[atomicanimation]` 第259条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`190 21`} | GAME_5={`190 21`}
+- `[atomicanimation]` 第259条 · `length`：GAME_2={`80`} | GAME_3={`80`} | GAME_4={`200`} | GAME_5={`200`}
+- `[atomicanimation]` 第259条 · `name`：GAME_2={`"byzantine_potter_produce_tile"`} | GAME_3={`"byzantine_potter_produce_tile"`} | GAME_4={`"byzantine_miller_produce_flour"`} | GAME_5={`"byzantine_miller_produce_flour"`}
+- `[atomicanimation]` 第260条 · `event`：GAME_2={`80 34 29`} | GAME_3={`80 34 29`} | GAME_4={`143 34 15`} | GAME_5={`143 34 15`}
+- `[atomicanimation]` 第260条 · `length`：GAME_2={`120`} | GAME_3={`120`} | GAME_4={`200`} | GAME_5={`200`}
+- `[atomicanimation]` 第260条 · `name`：GAME_2={`"byzantine_mason_produce_pillar"`} | GAME_3={`"byzantine_mason_produce_pillar"`} | GAME_4={`"byzantine_baker_produce_bread"`} | GAME_5={`"byzantine_baker_produce_bread"`}
+- `[atomicanimation]` 第261条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`143 34 15`} | GAME_5={`143 34 15`}
+- `[atomicanimation]` 第261条 · `length`：GAME_2={`120`} | GAME_3={`120`} | GAME_4={`200`} | GAME_5={`200`}
+- `[atomicanimation]` 第261条 · `name`：GAME_2={`"byzantine_mason_produce_ornament"`} | GAME_3={`"byzantine_mason_produce_ornament"`} | GAME_4={`"byzantine_baker_produce_candy"`} | GAME_5={`"byzantine_baker_produce_candy"`}
+- `[atomicanimation]` 第262条 · `event`：GAME_2={`213 34 16`} | GAME_3={`213 34 16`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第262条 · `eventx`：GAME_2={`90 21`} | GAME_3={`90 21`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第262条 · `length`：GAME_2={`240`} | GAME_3={`240`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第262条 · `name`：GAME_2={`"byzantine_smith_produce_tool_iron"`} | GAME_3={`"byzantine_smith_produce_tool_iron"`} | GAME_4={`"byzantine_brewer_produce_mead"`} | GAME_5={`"byzantine_brewer_produce_mead"`}
+- `[atomicanimation]` 第263条 · `event`：GAME_2={`55 4 -1500`} | GAME_3={`55 4 -1500`} | GAME_4={`150 4 -1500`} | GAME_5={`150 4 -1500`}
+- `[atomicanimation]` 第263条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`400`} | GAME_5={`400`}
+- `[atomicanimation]` 第263条 · `name`：GAME_2={`"byzantine_smith_produce_spear_iron"`} | GAME_3={`"byzantine_smith_produce_spear_iron"`} | GAME_4={`"byzantine_carpenter_produce_spear_wooden"`} | GAME_5={`"byzantine_carpenter_produce_spear_wooden"`}
+- `[atomicanimation]` 第264条 · `event`：GAME_2={`213 34 16`} | GAME_3={`213 34 16`} | GAME_4={`140 21`} | GAME_5={`140 21`}
+- `[atomicanimation]` 第264条 · `eventx`：GAME_2={`90 21`} | GAME_3={`90 21`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第264条 · `length`：GAME_2={`240`} | GAME_3={`240`} | GAME_4={`400`} | GAME_5={`400`}
+- `[atomicanimation]` 第264条 · `name`：GAME_2={`"byzantine_smith_produce_sword_short"`} | GAME_3={`"byzantine_smith_produce_sword_short"`} | GAME_4={`"byzantine_carpenter_produce_tool_wooden"`} | GAME_5={`"byzantine_carpenter_produce_tool_wooden"`}
+- `[atomicanimation]` 第265条 · `event`：GAME_2={`45 4 -1500`} | GAME_3={`45 4 -1500`} | GAME_4={`140 21`} | GAME_5={`140 21`}
+- `[atomicanimation]` 第265条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`400`} | GAME_5={`400`}
+- `[atomicanimation]` 第265条 · `name`：GAME_2={`"byzantine_smith_produce_sword_long"`} | GAME_3={`"byzantine_smith_produce_sword_long"`} | GAME_4={`"byzantine_carpenter_produce_furniture"`} | GAME_5={`"byzantine_carpenter_produce_furniture"`}
+- `[atomicanimation]` 第266条 · `event`：GAME_2={`45 4 -1500`} | GAME_3={`45 4 -1500`} | GAME_4={`44 4 -1500`} | GAME_5={`44 4 -1500`}
+- `[atomicanimation]` 第266条 · `name`：GAME_2={`"byzantine_smith_produce_armor_chain"`} | GAME_3={`"byzantine_smith_produce_armor_chain"`} | GAME_4={`"byzantine_armorer_produce_bow_short"`} | GAME_5={`"byzantine_armorer_produce_bow_short"`}
+- `[atomicanimation]` 第267条 · `event`：GAME_2={`45 4 -1500`} | GAME_3={`45 4 -1500`} | GAME_4={`44 4 -1500`} | GAME_5={`44 4 -1500`}
+- `[atomicanimation]` 第267条 · `name`：GAME_2={`"byzantine_smith_produce_armor_plate"`} | GAME_3={`"byzantine_smith_produce_armor_plate"`} | GAME_4={`"byzantine_armorer_produce_bow_long"`} | GAME_5={`"byzantine_armorer_produce_bow_long"`}
+- `[atomicanimation]` 第268条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`55 4 -1500`} | GAME_5={`55 4 -1500`}
+- `[atomicanimation]` 第268条 · `name`：GAME_2={`"byzantine_coiner_produce_coin"`} | GAME_3={`"byzantine_coiner_produce_coin"`} | GAME_4={`"byzantine_armorer_build_vehicle_catapult"`} | GAME_5={`"byzantine_armorer_build_vehicle_catapult"`}
+- `[atomicanimation]` 第269条 · `event`：GAME_2={`80 21`} | GAME_3={`80 21`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第269条 · `length`：GAME_2={`160`} | GAME_3={`160`} | GAME_4={`80`} | GAME_5={`80`}
+- `[atomicanimation]` 第269条 · `name`：GAME_2={`"byzantine_sewer_produce_shoes"`} | GAME_3={`"byzantine_sewer_produce_shoes"`} | GAME_4={`"byzantine_potter_produce_crockery"`} | GAME_5={`"byzantine_potter_produce_crockery"`}
+- `[atomicanimation]` 第270条 · `event`：GAME_2={`45 4 -1500`} | GAME_3={`45 4 -1500`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第270条 · `length`：GAME_2={`160`} | GAME_3={`160`} | GAME_4={`80`} | GAME_5={`80`}
+- `[atomicanimation]` 第270条 · `name`：GAME_2={`"byzantine_sewer_produce_armor_wool"`} | GAME_3={`"byzantine_sewer_produce_armor_wool"`} | GAME_4={`"byzantine_potter_produce_brick"`} | GAME_5={`"byzantine_potter_produce_brick"`}
+- `[atomicanimation]` 第271条 · `event`：GAME_2={`45 4 -1500`} | GAME_3={`45 4 -1500`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第271条 · `length`：GAME_2={`160`} | GAME_3={`160`} | GAME_4={`80`} | GAME_5={`80`}
+- `[atomicanimation]` 第271条 · `name`：GAME_2={`"byzantine_sewer_produce_armor_leather"`} | GAME_3={`"byzantine_sewer_produce_armor_leather"`} | GAME_4={`"byzantine_potter_produce_tile"`} | GAME_5={`"byzantine_potter_produce_tile"`}
+- `[atomicanimation]` 第272条 · `event`：GAME_2={`39 19`} | GAME_3={`39 19`} | GAME_4={`80 34 29`} | GAME_5={`80 34 29`}
+- `[atomicanimation]` 第272条 · `length`：GAME_2={`40`} | GAME_3={`40`} | GAME_4={`120`} | GAME_5={`120`}
+- `[atomicanimation]` 第272条 · `name`：GAME_2={`"byzantine_fisher_cast_rod"`} | GAME_3={`"byzantine_fisher_cast_rod"`} | GAME_4={`"byzantine_mason_produce_pillar"`} | GAME_5={`"byzantine_mason_produce_pillar"`}
+- `[atomicanimation]` 第273条 · `event`：GAME_2={`88 34 20`} | GAME_3={`88 34 20`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第273条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`120`} | GAME_5={`120`}
+- `[atomicanimation]` 第273条 · `name`：GAME_2={`"byzantine_fisher_catch_one"`} | GAME_3={`"byzantine_fisher_catch_one"`} | GAME_4={`"byzantine_mason_produce_ornament"`} | GAME_5={`"byzantine_mason_produce_ornament"`}
+- `[atomicanimation]` 第274条 · `event`：GAME_2={`35 34 19`} | GAME_3={`35 34 19`} | GAME_4={`213 34 16`} | GAME_5={`213 34 16`}
+- `[atomicanimation]` 第274条 · `eventx`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`90 21`} | GAME_5={`90 21`}
+- `[atomicanimation]` 第274条 · `length`：GAME_2={`52`} | GAME_3={`52`} | GAME_4={`240`} | GAME_5={`240`}
+- `[atomicanimation]` 第274条 · `name`：GAME_2={`"byzantine_fisher_catch_none"`} | GAME_3={`"byzantine_fisher_catch_none"`} | GAME_4={`"byzantine_smith_produce_tool_iron"`} | GAME_5={`"byzantine_smith_produce_tool_iron"`}
+- `[atomicanimation]` 第275条 · `event`：GAME_2={`22 28`} | GAME_3={`22 28`} | GAME_4={`55 4 -1500`} | GAME_5={`55 4 -1500`}
+- `[atomicanimation]` 第275条 · `length`：GAME_2={`35`} | GAME_3={`35`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第275条 · `name`：GAME_2={`"byzantine_hunter_harvest_cadaver"`} | GAME_3={`"byzantine_hunter_harvest_cadaver"`} | GAME_4={`"byzantine_smith_produce_spear_iron"`} | GAME_5={`"byzantine_smith_produce_spear_iron"`}
+- `[atomicanimation]` 第276条 · `event`：GAME_2={`12 25`} | GAME_3={`12 25`} | GAME_4={`213 34 16`} | GAME_5={`213 34 16`}
+- `[atomicanimation]` 第276条 · `eventx`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`90 21`} | GAME_5={`90 21`}
+- `[atomicanimation]` 第276条 · `length`：GAME_2={`25`} | GAME_3={`25`} | GAME_4={`240`} | GAME_5={`240`}
+- `[atomicanimation]` 第276条 · `name`：GAME_2={`"byzantine_hunter_attack"`} | GAME_3={`"byzantine_hunter_attack"`} | GAME_4={`"byzantine_smith_produce_sword_short"`} | GAME_5={`"byzantine_smith_produce_sword_short"`}
+- `[atomicanimation]` 第277条 · `event`：GAME_2={`80 21`} | GAME_3={`80 21`} | GAME_4={`45 4 -1500`} | GAME_5={`45 4 -1500`}
+- `[atomicanimation]` 第277条 · `length`：GAME_2={`160`} | GAME_3={`160`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第277条 · `name`：GAME_2={`"byzantine_breeder_produce_sausage"`} | GAME_3={`"byzantine_breeder_produce_sausage"`} | GAME_4={`"byzantine_smith_produce_sword_long"`} | GAME_5={`"byzantine_smith_produce_sword_long"`}
+- `[atomicanimation]` 第278条 · `event`：GAME_2={`80 21`} | GAME_3={`80 21`} | GAME_4={`45 4 -1500`} | GAME_5={`45 4 -1500`}
+- `[atomicanimation]` 第278条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第278条 · `name`：GAME_2={`"byzantine_breeder_produce_sheep"`} | GAME_3={`"byzantine_breeder_produce_sheep"`} | GAME_4={`"byzantine_smith_produce_armor_chain"`} | GAME_5={`"byzantine_smith_produce_armor_chain"`}
+- `[atomicanimation]` 第279条 · `event`：GAME_2={`80 21`} | GAME_3={`80 21`} | GAME_4={`45 4 -1500`} | GAME_5={`45 4 -1500`}
+- `[atomicanimation]` 第279条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第279条 · `name`：GAME_2={`"byzantine_breeder_produce_cattle"`} | GAME_3={`"byzantine_breeder_produce_cattle"`} | GAME_4={`"byzantine_smith_produce_armor_plate"`} | GAME_5={`"byzantine_smith_produce_armor_plate"`}
+- `[atomicanimation]` 第280条 · `event`：GAME_2={`65 34 39`} | GAME_3={`65 34 39`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第280条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第280条 · `name`：GAME_2={`"byzantine_breeder_slay_sheep"`} | GAME_3={`"byzantine_breeder_slay_sheep"`} | GAME_4={`"byzantine_coiner_produce_coin"`} | GAME_5={`"byzantine_coiner_produce_coin"`}
+- `[atomicanimation]` 第281条 · `event`：GAME_2={`65 34 39`} | GAME_3={`65 34 39`} | GAME_4={`80 21`} | GAME_5={`80 21`}
+- `[atomicanimation]` 第281条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`160`} | GAME_5={`160`}
+- `[atomicanimation]` 第281条 · `name`：GAME_2={`"byzantine_breeder_slay_cattle"`} | GAME_3={`"byzantine_breeder_slay_cattle"`} | GAME_4={`"byzantine_sewer_produce_shoes"`} | GAME_5={`"byzantine_sewer_produce_shoes"`}
+- `[atomicanimation]` 第282条 · `event`：GAME_2={`21 18`} | GAME_3={`21 18`} | GAME_4={`45 4 -1500`} | GAME_5={`45 4 -1500`}
+- `[atomicanimation]` 第282条 · `length`：GAME_2={`35`} | GAME_3={`35`} | GAME_4={`160`} | GAME_5={`160`}
+- `[atomicanimation]` 第282条 · `name`：GAME_2={`"byzantine_herb_guy_harvest_herb"`} | GAME_3={`"byzantine_herb_guy_harvest_herb"`} | GAME_4={`"byzantine_sewer_produce_armor_wool"`} | GAME_5={`"byzantine_sewer_produce_armor_wool"`}
+- `[atomicanimation]` 第283条 · `event`：GAME_2={`21 11`} | GAME_3={`21 11`} | GAME_4={`45 4 -1500`} | GAME_5={`45 4 -1500`}
+- `[atomicanimation]` 第283条 · `length`：GAME_2={`35`} | GAME_3={`35`} | GAME_4={`160`} | GAME_5={`160`}
+- `[atomicanimation]` 第283条 · `name`：GAME_2={`"byzantine_herb_guy_harvest_mushroom"`} | GAME_3={`"byzantine_herb_guy_harvest_mushroom"`} | GAME_4={`"byzantine_sewer_produce_armor_leather"`} | GAME_5={`"byzantine_sewer_produce_armor_leather"`}
+- `[atomicanimation]` 第284条 · `event`：GAME_2={`14 16`} | GAME_3={`14 16`} | GAME_4={`39 19`} | GAME_5={`39 19`}
+- `[atomicanimation]` 第284条 · `length`：GAME_2={`29`} | GAME_3={`29`} | GAME_4={`40`} | GAME_5={`40`}
+- `[atomicanimation]` 第284条 · `name`：GAME_2={`"byzantine_herb_guy_cultivate"`} | GAME_3={`"byzantine_herb_guy_cultivate"`} | GAME_4={`"byzantine_fisher_cast_rod"`} | GAME_5={`"byzantine_fisher_cast_rod"`}
+- `[atomicanimation]` 第285条 · `event`：GAME_2={`14 15`} | GAME_3={`14 15`} | GAME_4={`88 34 20`} | GAME_5={`88 34 20`}
+- `[atomicanimation]` 第285条 · `length`：GAME_2={`24`} | GAME_3={`24`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第285条 · `name`：GAME_2={`"byzantine_herb_guy_plant"`} | GAME_3={`"byzantine_herb_guy_plant"`} | GAME_4={`"byzantine_fisher_catch_one"`} | GAME_5={`"byzantine_fisher_catch_one"`}
+- `[atomicanimation]` 第286条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`35 34 19`} | GAME_5={`35 34 19`}
+- `[atomicanimation]` 第286条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`52`} | GAME_5={`52`}
+- `[atomicanimation]` 第286条 · `name`：GAME_2={`"byzantine_druid_produce_holy_oil"`} | GAME_3={`"byzantine_druid_produce_holy_oil"`} | GAME_4={`"byzantine_fisher_catch_none"`} | GAME_5={`"byzantine_fisher_catch_none"`}
+- `[atomicanimation]` 第287条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`22 28`} | GAME_5={`22 28`}
+- `[atomicanimation]` 第287条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`35`} | GAME_5={`35`}
+- `[atomicanimation]` 第287条 · `name`：GAME_2={`"byzantine_druid_produce_potion_food_small"`} | GAME_3={`"byzantine_druid_produce_potion_food_small"`} | GAME_4={`"byzantine_hunter_harvest_cadaver"`} | GAME_5={`"byzantine_hunter_harvest_cadaver"`}
+- `[atomicanimation]` 第288条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`12 25`} | GAME_5={`12 25`}
+- `[atomicanimation]` 第288条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`25`} | GAME_5={`25`}
+- `[atomicanimation]` 第288条 · `name`：GAME_2={`"byzantine_druid_produce_potion_food_big"`} | GAME_3={`"byzantine_druid_produce_potion_food_big"`} | GAME_4={`"byzantine_hunter_attack"`} | GAME_5={`"byzantine_hunter_attack"`}
+- `[atomicanimation]` 第289条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`80 21`} | GAME_5={`80 21`}
+- `[atomicanimation]` 第289条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`160`} | GAME_5={`160`}
+- `[atomicanimation]` 第289条 · `name`：GAME_2={`"byzantine_druid_produce_potion_stamina_small"`} | GAME_3={`"byzantine_druid_produce_potion_stamina_small"`} | GAME_4={`"byzantine_breeder_produce_sausage"`} | GAME_5={`"byzantine_breeder_produce_sausage"`}
+- `[atomicanimation]` 第290条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`80 21`} | GAME_5={`80 21`}
+- `[atomicanimation]` 第290条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第290条 · `name`：GAME_2={`"byzantine_druid_produce_potion_stamina_big"`} | GAME_3={`"byzantine_druid_produce_potion_stamina_big"`} | GAME_4={`"byzantine_breeder_produce_sheep"`} | GAME_5={`"byzantine_breeder_produce_sheep"`}
+- `[atomicanimation]` 第291条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`80 21`} | GAME_5={`80 21`}
+- `[atomicanimation]` 第291条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第291条 · `name`：GAME_2={`"byzantine_druid_produce_potion_healing_small"`} | GAME_3={`"byzantine_druid_produce_potion_healing_small"`} | GAME_4={`"byzantine_breeder_produce_cattle"`} | GAME_5={`"byzantine_breeder_produce_cattle"`}
+- `[atomicanimation]` 第292条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`65 34 39`} | GAME_5={`65 34 39`}
+- `[atomicanimation]` 第292条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第292条 · `name`：GAME_2={`"byzantine_druid_produce_potion_healing_big"`} | GAME_3={`"byzantine_druid_produce_potion_healing_big"`} | GAME_4={`"byzantine_breeder_slay_sheep"`} | GAME_5={`"byzantine_breeder_slay_sheep"`}
+- `[atomicanimation]` 第293条 · `event`：GAME_2={`40 10 +1500`} | GAME_3={`40 10 +1500`} | GAME_4={`65 34 39`} | GAME_5={`65 34 39`}
+- `[atomicanimation]` 第293条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第293条 · `name`：GAME_2={`"byzantine_druid_heal"`} | GAME_3={`"byzantine_druid_heal"`} | GAME_4={`"byzantine_breeder_slay_cattle"`} | GAME_5={`"byzantine_breeder_slay_cattle"`}
+- `[atomicanimation]` 第294条 · `event`：GAME_2={`50 9 +500`} | GAME_3={`50 9 +500`} | GAME_4={`21 18`} | GAME_5={`21 18`}
+- `[atomicanimation]` 第294条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`35`} | GAME_5={`35`}
+- `[atomicanimation]` 第294条 · `name`：GAME_2={`"byzantine_druid_bless"`} | GAME_3={`"byzantine_druid_bless"`} | GAME_4={`"byzantine_herb_guy_harvest_herb"`} | GAME_5={`"byzantine_herb_guy_harvest_herb"`}
+- `[atomicanimation]` 第295条 · `event`：GAME_2={`6 25`} | GAME_3={`6 25`} | GAME_4={`21 11`} | GAME_5={`21 11`}
+- `[atomicanimation]` 第295条 · `length`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`35`} | GAME_5={`35`}
+- `[atomicanimation]` 第295条 · `name`：GAME_2={`"byzantine_soldier_attack_unarmed"`} | GAME_3={`"byzantine_soldier_attack_unarmed"`} | GAME_4={`"byzantine_herb_guy_harvest_mushroom"`} | GAME_5={`"byzantine_herb_guy_harvest_mushroom"`}
+- `[atomicanimation]` 第296条 · `event`：GAME_2={`12 25`} | GAME_3={`12 25`} | GAME_4={`14 16`} | GAME_5={`14 16`}
+- `[atomicanimation]` 第296条 · `length`：GAME_2={`27`} | GAME_3={`27`} | GAME_4={`29`} | GAME_5={`29`}
+- `[atomicanimation]` 第296条 · `name`：GAME_2={`"byzantine_soldier_attack_spear_wooden"`} | GAME_3={`"byzantine_soldier_attack_spear_wooden"`} | GAME_4={`"byzantine_herb_guy_cultivate"`} | GAME_5={`"byzantine_herb_guy_cultivate"`}
+- `[atomicanimation]` 第297条 · `event`：GAME_2={`12 25`} | GAME_3={`12 25`} | GAME_4={`14 15`} | GAME_5={`14 15`}
+- `[atomicanimation]` 第297条 · `length`：GAME_2={`27`} | GAME_3={`27`} | GAME_4={`24`} | GAME_5={`24`}
+- `[atomicanimation]` 第297条 · `name`：GAME_2={`"byzantine_soldier_attack_spear_iron"`} | GAME_3={`"byzantine_soldier_attack_spear_iron"`} | GAME_4={`"byzantine_herb_guy_plant"`} | GAME_5={`"byzantine_herb_guy_plant"`}
+- `[atomicanimation]` 第298条 · `event`：GAME_2={`8 25`} | GAME_3={`8 25`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第298条 · `length`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第298条 · `name`：GAME_2={`"byzantine_soldier_attack_sword_short"`} | GAME_3={`"byzantine_soldier_attack_sword_short"`} | GAME_4={`"byzantine_druid_produce_holy_oil"`} | GAME_5={`"byzantine_druid_produce_holy_oil"`}
+- `[atomicanimation]` 第299条 · `event`：GAME_2={`23 25`} | GAME_3={`23 25`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第299条 · `length`：GAME_2={`29`} | GAME_3={`29`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第299条 · `name`：GAME_2={`"byzantine_soldier_attack_sword_long"`} | GAME_3={`"byzantine_soldier_attack_sword_long"`} | GAME_4={`"byzantine_druid_produce_potion_food_small"`} | GAME_5={`"byzantine_druid_produce_potion_food_small"`}
+- `[atomicanimation]` 第300条 · `event`：GAME_2={`6 25`} | GAME_3={`6 25`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第300条 · `length`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第300条 · `name`：GAME_2={`"byzantine_soldier_attack_saber_short"`} | GAME_3={`"byzantine_soldier_attack_saber_short"`} | GAME_4={`"byzantine_druid_produce_potion_food_big"`} | GAME_5={`"byzantine_druid_produce_potion_food_big"`}
+- `[atomicanimation]` 第301条 · `event`：GAME_2={`23 25`} | GAME_3={`23 25`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第301条 · `length`：GAME_2={`29`} | GAME_3={`29`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第301条 · `name`：GAME_2={`"byzantine_soldier_attack_saber_long"`} | GAME_3={`"byzantine_soldier_attack_saber_long"`} | GAME_4={`"byzantine_druid_produce_potion_stamina_small"`} | GAME_5={`"byzantine_druid_produce_potion_stamina_small"`}
+- `[atomicanimation]` 第302条 · `event`：GAME_2={`9 34 74`} | GAME_3={`9 34 74`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第302条 · `length`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第302条 · `name`：GAME_2={`"byzantine_soldier_attack_bow_short"`} | GAME_3={`"byzantine_soldier_attack_bow_short"`} | GAME_4={`"byzantine_druid_produce_potion_stamina_big"`} | GAME_5={`"byzantine_druid_produce_potion_stamina_big"`}
+- `[atomicanimation]` 第303条 · `event`：GAME_2={`22 25`} | GAME_3={`22 25`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第303条 · `length`：GAME_2={`28`} | GAME_3={`28`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第303条 · `name`：GAME_2={`"byzantine_soldier_attack_bow_long"`} | GAME_3={`"byzantine_soldier_attack_bow_long"`} | GAME_4={`"byzantine_druid_produce_potion_healing_small"`} | GAME_5={`"byzantine_druid_produce_potion_healing_small"`}
+- `[atomicanimation]` 第304条 · `event`：GAME_2={`6 25`} | GAME_3={`6 25`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第304条 · `length`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第304条 · `name`：GAME_2={`"byzantine_hero_attack_unarmed"`} | GAME_3={`"byzantine_hero_attack_unarmed"`} | GAME_4={`"byzantine_druid_produce_potion_healing_big"`} | GAME_5={`"byzantine_druid_produce_potion_healing_big"`}
+- `[atomicanimation]` 第305条 · `event`：GAME_2={`6 25`} | GAME_3={`6 25`} | GAME_4={`40 10 +1500`} | GAME_5={`40 10 +1500`}
+- `[atomicanimation]` 第305条 · `length`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第305条 · `name`：GAME_2={`"byzantine_hero_attack_spear"`} | GAME_3={`"byzantine_hero_attack_spear"`} | GAME_4={`"byzantine_druid_heal"`} | GAME_5={`"byzantine_druid_heal"`}
+- `[atomicanimation]` 第306条 · `event`：GAME_2={`6 25`} | GAME_3={`6 25`} | GAME_4={`50 9 +500`} | GAME_5={`50 9 +500`}
+- `[atomicanimation]` 第306条 · `length`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第306条 · `name`：GAME_2={`"byzantine_hero_attack_sword"`} | GAME_3={`"byzantine_hero_attack_sword"`} | GAME_4={`"byzantine_druid_bless"`} | GAME_5={`"byzantine_druid_bless"`}
+- `[atomicanimation]` 第307条 · `name`：GAME_2={`"byzantine_hero_attack_saber"`} | GAME_3={`"byzantine_hero_attack_saber"`} | GAME_4={`"byzantine_soldier_attack_unarmed"`} | GAME_5={`"byzantine_soldier_attack_unarmed"`}
+- `[atomicanimation]` 第308条 · `event`：GAME_2={`6 25`} | GAME_3={`6 25`} | GAME_4={`12 25`} | GAME_5={`12 25`}
+- `[atomicanimation]` 第308条 · `length`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`27`} | GAME_5={`27`}
+- `[atomicanimation]` 第308条 · `name`：GAME_2={`"byzantine_hero_attack_axe"`} | GAME_3={`"byzantine_hero_attack_axe"`} | GAME_4={`"byzantine_soldier_attack_spear_iron"`} | GAME_5={`"byzantine_soldier_attack_spear_iron"`}
+- `[atomicanimation]` 第309条 · `event`：GAME_2={`8 34 76`} | GAME_3={`8 34 76`} | GAME_4={`50 25`} | GAME_5={`50 25`}
+- `[atomicanimation]` 第309条 · `length`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`59`} | GAME_5={`59`}
+- `[atomicanimation]` 第309条 · `name`：GAME_2={`"byzantine_hero_attack_bow"`} | GAME_3={`"byzantine_hero_attack_bow"`} | GAME_4={`"byzantine_soldier_attack_spear_wooden"`} | GAME_5={`"byzantine_soldier_attack_spear_wooden"`}
+- `[atomicanimation]` 第310条 · `event`：GAME_2={`22 29 +1`} | GAME_3={`22 29 +1`} | GAME_4={`8 25`} | GAME_5={`8 25`}
+- `[atomicanimation]` 第310条 · `length`：GAME_2={`28`} | GAME_3={`28`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第310条 · `name`：GAME_2={`"byzantine_civilist_exercise"`} | GAME_3={`"byzantine_civilist_exercise"`} | GAME_4={`"byzantine_soldier_attack_sword_short"`} | GAME_5={`"byzantine_soldier_attack_sword_short"`}
+- `[atomicanimation]` 第311条 · `event`：GAME_2={`22 29 +1`} | GAME_3={`22 29 +1`} | GAME_4={`23 25`} | GAME_5={`23 25`}
+- `[atomicanimation]` 第311条 · `length`：GAME_2={`28`} | GAME_3={`28`} | GAME_4={`29`} | GAME_5={`29`}
+- `[atomicanimation]` 第311条 · `name`：GAME_2={`"byzantine_soldier_exercise"`} | GAME_3={`"byzantine_soldier_exercise"`} | GAME_4={`"byzantine_soldier_attack_sword_long"`} | GAME_5={`"byzantine_soldier_attack_sword_long"`}
+- `[atomicanimation]` 第312条 · `event`：GAME_2={`22 29 +5`} | GAME_3={`22 29 +5`} | GAME_4={`6 25`} | GAME_5={`6 25`}
+- `[atomicanimation]` 第312条 · `length`：GAME_2={`28`} | GAME_3={`28`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第312条 · `name`：GAME_2={`"byzantine_soldier_train"`} | GAME_3={`"byzantine_soldier_train"`} | GAME_4={`"byzantine_soldier_attack_saber_short"`} | GAME_5={`"byzantine_soldier_attack_saber_short"`}
+- `[atomicanimation]` 第313条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`23 25`} | GAME_5={`23 25`}
+- `[atomicanimation]` 第313条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第313条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`29`} | GAME_5={`29`}
+- `[atomicanimation]` 第313条 · `name`：GAME_2={`"frank_baby_female_idle"`} | GAME_3={`"frank_baby_female_idle"`} | GAME_4={`"byzantine_soldier_attack_saber_long"`} | GAME_5={`"byzantine_soldier_attack_saber_long"`}
+- `[atomicanimation]` 第314条 · `event`：GAME_2={`95 1 +100`} | GAME_3={`95 1 +100`} | GAME_4={`9 34 74`} | GAME_5={`9 34 74`}
+- `[atomicanimation]` 第314条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第314条 · `name`：GAME_2={`"frank_baby_female_sleep"`} | GAME_3={`"frank_baby_female_sleep"`} | GAME_4={`"byzantine_soldier_attack_bow_short"`} | GAME_5={`"byzantine_soldier_attack_bow_short"`}
+- `[atomicanimation]` 第315条 · `event`：GAME_2={`16 11 0`} | GAME_3={`16 11 0`} | GAME_4={`22 25`} | GAME_5={`22 25`}
+- `[atomicanimation]` 第315条 · `length`：GAME_2={`20`} | GAME_3={`20`} | GAME_4={`28`} | GAME_5={`28`}
+- `[atomicanimation]` 第315条 · `name`：GAME_2={`"frank_baby_female_pickup"`} | GAME_3={`"frank_baby_female_pickup"`} | GAME_4={`"byzantine_soldier_attack_bow_long"`} | GAME_5={`"byzantine_soldier_attack_bow_long"`}
+- `[atomicanimation]` 第315条 · `startdirection`：GAME_2={`6`} | GAME_3={`6`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第316条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`50 25`} | GAME_5={`50 25`}
+- `[atomicanimation]` 第316条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第316条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`59`} | GAME_5={`59`}
+- `[atomicanimation]` 第316条 · `name`：GAME_2={`"frank_baby_male_idle"`} | GAME_3={`"frank_baby_male_idle"`} | GAME_4={`"byzantine_hero_attack_unarmed"`} | GAME_5={`"byzantine_hero_attack_unarmed"`}
+- `[atomicanimation]` 第317条 · `event`：GAME_2={`95 1 +100`} | GAME_3={`95 1 +100`} | GAME_4={`6 25`} | GAME_5={`6 25`}
+- `[atomicanimation]` 第317条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第317条 · `name`：GAME_2={`"frank_baby_male_sleep"`} | GAME_3={`"frank_baby_male_sleep"`} | GAME_4={`"byzantine_hero_attack_spear"`} | GAME_5={`"byzantine_hero_attack_spear"`}
+- `[atomicanimation]` 第318条 · `event`：GAME_2={`16 11 0`} | GAME_3={`16 11 0`} | GAME_4={`6 25`} | GAME_5={`6 25`}
+- `[atomicanimation]` 第318条 · `length`：GAME_2={`20`} | GAME_3={`20`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第318条 · `name`：GAME_2={`"frank_baby_male_pickup"`} | GAME_3={`"frank_baby_male_pickup"`} | GAME_4={`"byzantine_hero_attack_sword"`} | GAME_5={`"byzantine_hero_attack_sword"`}
+- `[atomicanimation]` 第318条 · `startdirection`：GAME_2={`6`} | GAME_3={`6`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第319条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6 25`} | GAME_5={`6 25`}
+- `[atomicanimation]` 第319条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第319条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第319条 · `name`：GAME_2={`"frank_child_female_idle"`} | GAME_3={`"frank_child_female_idle"`} | GAME_4={`"byzantine_hero_attack_saber"`} | GAME_5={`"byzantine_hero_attack_saber"`}
+- `[atomicanimation]` 第320条 · `event`：GAME_2={`95 1 +100`} | GAME_3={`95 1 +100`} | GAME_4={`6 25`} | GAME_5={`6 25`}
+- `[atomicanimation]` 第320条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第320条 · `name`：GAME_2={`"frank_child_female_sleep"`} | GAME_3={`"frank_child_female_sleep"`} | GAME_4={`"byzantine_hero_attack_axe"`} | GAME_5={`"byzantine_hero_attack_axe"`}
+- `[atomicanimation]` 第321条 · `event`：GAME_2={`16 11 0`} | GAME_3={`16 11 0`} | GAME_4={`8 34 76`} | GAME_5={`8 34 76`}
+- `[atomicanimation]` 第321条 · `length`：GAME_2={`20`} | GAME_3={`20`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第321条 · `name`：GAME_2={`"frank_child_female_pickup"`} | GAME_3={`"frank_child_female_pickup"`} | GAME_4={`"byzantine_hero_attack_bow"`} | GAME_5={`"byzantine_hero_attack_bow"`}
+- `[atomicanimation]` 第321条 · `startdirection`：GAME_2={`6`} | GAME_3={`6`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第322条 · `event`：GAME_2={`30 2 +4000`} | GAME_3={`30 2 +4000`} | GAME_4={`22 29 +1`} | GAME_5={`22 29 +1`}
+- `[atomicanimation]` 第322条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`28`} | GAME_5={`28`}
+- `[atomicanimation]` 第322条 · `name`：GAME_2={`"frank_child_female_eat_slot_food"`} | GAME_3={`"frank_child_female_eat_slot_food"`} | GAME_4={`"byzantine_civilist_exercise"`} | GAME_5={`"byzantine_civilist_exercise"`}
+- `[atomicanimation]` 第323条 · `event`：GAME_2={`40 3 +4000`} | GAME_3={`40 3 +4000`} | GAME_4={`22 29 +1`} | GAME_5={`22 29 +1`}
+- `[atomicanimation]` 第323条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`28`} | GAME_5={`28`}
+- `[atomicanimation]` 第323条 · `name`：GAME_2={`"frank_child_female_eat_slot_candy"`} | GAME_3={`"frank_child_female_eat_slot_candy"`} | GAME_4={`"byzantine_soldier_exercise"`} | GAME_5={`"byzantine_soldier_exercise"`}
+- `[atomicanimation]` 第324条 · `event`：GAME_2={`200 3 +100`} | GAME_3={`200 3 +100`} | GAME_4={`22 29 +5`} | GAME_5={`22 29 +5`}
+- `[atomicanimation]` 第324条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第324条 · `length`：GAME_2={`247`} | GAME_3={`247`} | GAME_4={`28`} | GAME_5={`28`}
+- `[atomicanimation]` 第324条 · `name`：GAME_2={`"frank_child_female_listen"`} | GAME_3={`"frank_child_female_listen"`} | GAME_4={`"byzantine_soldier_train"`} | GAME_5={`"byzantine_soldier_train"`}
+- `[atomicanimation]` 第325条 · `name`：GAME_2={`"frank_child_male_idle"`} | GAME_3={`"frank_child_male_idle"`} | GAME_4={`"frank_baby_female_idle"`} | GAME_5={`"frank_baby_female_idle"`}
+- `[atomicanimation]` 第326条 · `name`：GAME_2={`"frank_child_male_sleep"`} | GAME_3={`"frank_child_male_sleep"`} | GAME_4={`"frank_baby_female_sleep"`} | GAME_5={`"frank_baby_female_sleep"`}
+- `[atomicanimation]` 第327条 · `name`：GAME_2={`"frank_child_male_pickup"`} | GAME_3={`"frank_child_male_pickup"`} | GAME_4={`"frank_baby_female_pickup"`} | GAME_5={`"frank_baby_female_pickup"`}
+- `[atomicanimation]` 第328条 · `event`：GAME_2={`30 2 +4000`} | GAME_3={`30 2 +4000`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第328条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第328条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第328条 · `name`：GAME_2={`"frank_child_male_eat_slot_food"`} | GAME_3={`"frank_child_male_eat_slot_food"`} | GAME_4={`"frank_baby_male_idle"`} | GAME_5={`"frank_baby_male_idle"`}
+- `[atomicanimation]` 第329条 · `event`：GAME_2={`40 3 +4000`} | GAME_3={`40 3 +4000`} | GAME_4={`95 1 +100`} | GAME_5={`95 1 +100`}
+- `[atomicanimation]` 第329条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第329条 · `name`：GAME_2={`"frank_child_male_eat_slot_candy"`} | GAME_3={`"frank_child_male_eat_slot_candy"`} | GAME_4={`"frank_baby_male_sleep"`} | GAME_5={`"frank_baby_male_sleep"`}
+- `[atomicanimation]` 第330条 · `event`：GAME_2={`200 3 +100`} | GAME_3={`200 3 +100`} | GAME_4={`16 11 0`} | GAME_5={`16 11 0`}
+- `[atomicanimation]` 第330条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第330条 · `length`：GAME_2={`247`} | GAME_3={`247`} | GAME_4={`20`} | GAME_5={`20`}
+- `[atomicanimation]` 第330条 · `name`：GAME_2={`"frank_child_male_listen"`} | GAME_3={`"frank_child_male_listen"`} | GAME_4={`"frank_baby_male_pickup"`} | GAME_5={`"frank_baby_male_pickup"`}
+- `[atomicanimation]` 第330条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6`} | GAME_5={`6`}
+- `[atomicanimation]` 第331条 · `name`：GAME_2={`"frank_woman_idle"`} | GAME_3={`"frank_woman_idle"`} | GAME_4={`"frank_child_female_idle"`} | GAME_5={`"frank_child_female_idle"`}
+- `[atomicanimation]` 第332条 · `event`：GAME_2={`22 34 36`} | GAME_3={`22 34 36`} | GAME_4={`95 1 +100`} | GAME_5={`95 1 +100`}
+- `[atomicanimation]` 第332条 · `name`：GAME_2={`"frank_woman_sleep"`} | GAME_3={`"frank_woman_sleep"`} | GAME_4={`"frank_child_female_sleep"`} | GAME_5={`"frank_child_female_sleep"`}
+- `[atomicanimation]` 第333条 · `event`：GAME_2={`20 11 0`} | GAME_3={`20 11 0`} | GAME_4={`16 11 0`} | GAME_5={`16 11 0`}
+- `[atomicanimation]` 第333条 · `length`：GAME_2={`30`} | GAME_3={`30`} | GAME_4={`20`} | GAME_5={`20`}
+- `[atomicanimation]` 第333条 · `name`：GAME_2={`"frank_woman_pickup"`} | GAME_3={`"frank_woman_pickup"`} | GAME_4={`"frank_child_female_pickup"`} | GAME_5={`"frank_child_female_pickup"`}
+- `[atomicanimation]` 第333条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6`} | GAME_5={`6`}
+- `[atomicanimation]` 第334条 · `event`：GAME_2={`20 12 0`} | GAME_3={`20 12 0`} | GAME_4={`30 2 +4000`} | GAME_5={`30 2 +4000`}
+- `[atomicanimation]` 第334条 · `length`：GAME_2={`30`} | GAME_3={`30`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第334条 · `name`：GAME_2={`"frank_woman_pileup"`} | GAME_3={`"frank_woman_pileup"`} | GAME_4={`"frank_child_female_eat_slot_food"`} | GAME_5={`"frank_child_female_eat_slot_food"`}
+- `[atomicanimation]` 第335条 · `event`：GAME_2={`30 2 +4000`} | GAME_3={`30 2 +4000`} | GAME_4={`40 3 +4000`} | GAME_5={`40 3 +4000`}
+- `[atomicanimation]` 第335条 · `name`：GAME_2={`"frank_woman_eat_slot_food"`} | GAME_3={`"frank_woman_eat_slot_food"`} | GAME_4={`"frank_child_female_eat_slot_candy"`} | GAME_5={`"frank_child_female_eat_slot_candy"`}
+- `[atomicanimation]` 第336条 · `event`：GAME_2={`40 3 +4000`} | GAME_3={`40 3 +4000`} | GAME_4={`200 3 +100`} | GAME_5={`200 3 +100`}
+- `[atomicanimation]` 第336条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第336条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`247`} | GAME_5={`247`}
+- `[atomicanimation]` 第336条 · `name`：GAME_2={`"frank_woman_eat_slot_candy"`} | GAME_3={`"frank_woman_eat_slot_candy"`} | GAME_4={`"frank_child_female_listen"`} | GAME_5={`"frank_child_female_listen"`}
+- `[atomicanimation]` 第337条 · `event`：GAME_2={`50 3 +100`} | GAME_3={`50 3 +100`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第337条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第337条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第337条 · `name`：GAME_2={`"frank_woman_monologuize"`} | GAME_3={`"frank_woman_monologuize"`} | GAME_4={`"frank_child_male_idle"`} | GAME_5={`"frank_child_male_idle"`}
+- `[atomicanimation]` 第338条 · `event`：GAME_2={`95 3 +800`} | GAME_3={`95 3 +800`} | GAME_4={`95 1 +100`} | GAME_5={`95 1 +100`}
+- `[atomicanimation]` 第338条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第338条 · `name`：GAME_2={`"frank_woman_talk"`} | GAME_3={`"frank_woman_talk"`} | GAME_4={`"frank_child_male_sleep"`} | GAME_5={`"frank_child_male_sleep"`}
+- `[atomicanimation]` 第339条 · `event`：GAME_2={`95 3 +100`} | GAME_3={`95 3 +100`} | GAME_4={`16 11 0`} | GAME_5={`16 11 0`}
+- `[atomicanimation]` 第339条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第339条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`20`} | GAME_5={`20`}
+- `[atomicanimation]` 第339条 · `name`：GAME_2={`"frank_woman_listen"`} | GAME_3={`"frank_woman_listen"`} | GAME_4={`"frank_child_male_pickup"`} | GAME_5={`"frank_child_male_pickup"`}
+- `[atomicanimation]` 第339条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6`} | GAME_5={`6`}
+- `[atomicanimation]` 第340条 · `event`：GAME_2={`95 3 +800`} | GAME_3={`95 3 +800`} | GAME_4={`30 2 +4000`} | GAME_5={`30 2 +4000`}
+- `[atomicanimation]` 第340条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第340条 · `name`：GAME_2={`"frank_woman_enjoy"`} | GAME_3={`"frank_woman_enjoy"`} | GAME_4={`"frank_child_male_eat_slot_food"`} | GAME_5={`"frank_child_male_eat_slot_food"`}
+- `[atomicanimation]` 第341条 · `event`：GAME_2={`40 3 +800`} | GAME_3={`40 3 +800`} | GAME_4={`40 3 +4000`} | GAME_5={`40 3 +4000`}
+- `[atomicanimation]` 第341条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第341条 · `name`：GAME_2={`"frank_woman_kiss"`} | GAME_3={`"frank_woman_kiss"`} | GAME_4={`"frank_child_male_eat_slot_candy"`} | GAME_5={`"frank_child_male_eat_slot_candy"`}
+- `[atomicanimation]` 第342条 · `event`：GAME_2={`40 3 +100`} | GAME_3={`40 3 +100`} | GAME_4={`200 3 +100`} | GAME_5={`200 3 +100`}
+- `[atomicanimation]` 第342条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`247`} | GAME_5={`247`}
+- `[atomicanimation]` 第342条 · `name`：GAME_2={`"frank_woman_kissed"`} | GAME_3={`"frank_woman_kissed"`} | GAME_4={`"frank_child_male_listen"`} | GAME_5={`"frank_child_male_listen"`}
+- `[atomicanimation]` 第343条 · `event`：GAME_2={`40 3 +800`} | GAME_3={`40 3 +800`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第343条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第343条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第343条 · `name`：GAME_2={`"frank_woman_make_love"`} | GAME_3={`"frank_woman_make_love"`} | GAME_4={`"frank_woman_idle"`} | GAME_5={`"frank_woman_idle"`}
+- `[atomicanimation]` 第344条 · `event`：GAME_2={`40 3 +800`} | GAME_3={`40 3 +800`} | GAME_4={`22 34 36`} | GAME_5={`22 34 36`}
+- `[atomicanimation]` 第344条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第344条 · `name`：GAME_2={`"frank_woman_get_loved"`} | GAME_3={`"frank_woman_get_loved"`} | GAME_4={`"frank_woman_sleep"`} | GAME_5={`"frank_woman_sleep"`}
+- `[atomicanimation]` 第345条 · `event`：GAME_2={`50 24 0`} | GAME_3={`50 24 0`} | GAME_4={`20 11 0`} | GAME_5={`20 11 0`}
+- `[atomicanimation]` 第345条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`30`} | GAME_5={`30`}
+- `[atomicanimation]` 第345条 · `name`：GAME_2={`"frank_woman_give_birth"`} | GAME_3={`"frank_woman_give_birth"`} | GAME_4={`"frank_woman_pickup"`} | GAME_5={`"frank_woman_pickup"`}
+- `[atomicanimation]` 第346条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`20 12 0`} | GAME_5={`20 12 0`}
+- `[atomicanimation]` 第346条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`30`} | GAME_5={`30`}
+- `[atomicanimation]` 第346条 · `name`：GAME_2={`"frank_woman_attacked"`} | GAME_3={`"frank_woman_attacked"`} | GAME_4={`"frank_woman_pileup"`} | GAME_5={`"frank_woman_pileup"`}
+- `[atomicanimation]` 第347条 · `event`：GAME_2={`6 25`} | GAME_3={`6 25`} | GAME_4={`30 2 +4000`} | GAME_5={`30 2 +4000`}
+- `[atomicanimation]` 第347条 · `length`：GAME_2={`16`} | GAME_3={`16`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第347条 · `name`：GAME_2={`"frank_woman_attack"`} | GAME_3={`"frank_woman_attack"`} | GAME_4={`"frank_woman_eat_slot_food"`} | GAME_5={`"frank_woman_eat_slot_food"`}
+- `[atomicanimation]` 第348条 · `event`：GAME_2={`16 33`} | GAME_3={`16 33`} | GAME_4={`40 3 +4000`} | GAME_5={`40 3 +4000`}
+- `[atomicanimation]` 第348条 · `length`：GAME_2={`20`} | GAME_3={`20`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第348条 · `name`：GAME_2={`"frank_woman_open_chest"`} | GAME_3={`"frank_woman_open_chest"`} | GAME_4={`"frank_woman_eat_slot_candy"`} | GAME_5={`"frank_woman_eat_slot_candy"`}
+- `[atomicanimation]` 第348条 · `startdirection`：GAME_2={`6`} | GAME_3={`6`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第349条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`50 3 +100`} | GAME_5={`50 3 +100`}
+- `[atomicanimation]` 第349条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第349条 · `length`：GAME_2={`6`} | GAME_3={`6`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第349条 · `name`：GAME_2={`"frank_civilist_idle_short_a"`} | GAME_3={`"frank_civilist_idle_short_a"`} | GAME_4={`"frank_woman_monologuize"`} | GAME_5={`"frank_woman_monologuize"`}
+- `[atomicanimation]` 第349条 · `startdirection`：GAME_2={`7`} | GAME_3={`7`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第350条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`95 3 +800`} | GAME_5={`95 3 +800`}
+- `[atomicanimation]` 第350条 · `length`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第350条 · `name`：GAME_2={`"frank_civilist_idle_short_b"`} | GAME_3={`"frank_civilist_idle_short_b"`} | GAME_4={`"frank_woman_talk"`} | GAME_5={`"frank_woman_talk"`}
+- `[atomicanimation]` 第350条 · `startdirection`：GAME_2={`7`} | GAME_3={`7`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第351条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`95 3 +100`} | GAME_5={`95 3 +100`}
+- `[atomicanimation]` 第351条 · `length`：GAME_2={`24`} | GAME_3={`24`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第351条 · `name`：GAME_2={`"frank_civilist_idle_short_c"`} | GAME_3={`"frank_civilist_idle_short_c"`} | GAME_4={`"frank_woman_listen"`} | GAME_5={`"frank_woman_listen"`}
+- `[atomicanimation]` 第351条 · `startdirection`：GAME_2={`7`} | GAME_3={`7`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第352条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`95 3 +800`} | GAME_5={`95 3 +800`}
+- `[atomicanimation]` 第352条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第352条 · `length`：GAME_2={`48`} | GAME_3={`48`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第352条 · `name`：GAME_2={`"frank_civilist_idle_medium"`} | GAME_3={`"frank_civilist_idle_medium"`} | GAME_4={`"frank_woman_enjoy"`} | GAME_5={`"frank_woman_enjoy"`}
+- `[atomicanimation]` 第352条 · `startdirection`：GAME_2={`7`} | GAME_3={`7`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第353条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`40 3 +800`} | GAME_5={`40 3 +800`}
+- `[atomicanimation]` 第353条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第353条 · `name`：GAME_2={`"frank_civilist_idle_long"`} | GAME_3={`"frank_civilist_idle_long"`} | GAME_4={`"frank_woman_kiss"`} | GAME_5={`"frank_woman_kiss"`}
+- `[atomicanimation]` 第353条 · `startdirection`：GAME_2={`7`} | GAME_3={`7`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第354条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`40 3 +100`} | GAME_5={`40 3 +100`}
+- `[atomicanimation]` 第354条 · `length`：GAME_2={`500`} | GAME_3={`500`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第354条 · `name`：GAME_2={`"frank_civilist_idle_verylong"`} | GAME_3={`"frank_civilist_idle_verylong"`} | GAME_4={`"frank_woman_kissed"`} | GAME_5={`"frank_woman_kissed"`}
+- `[atomicanimation]` 第354条 · `startdirection`：GAME_2={`7`} | GAME_3={`7`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第355条 · `event`：GAME_2={`200 1 +4000`} | GAME_3={`200 1 +4000`} | GAME_4={`40 3 +800`} | GAME_5={`40 3 +800`}
+- `[atomicanimation]` 第355条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第355条 · `length`：GAME_2={`237`} | GAME_3={`237`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第355条 · `name`：GAME_2={`"frank_civilist_sleep"`} | GAME_3={`"frank_civilist_sleep"`} | GAME_4={`"frank_woman_make_love"`} | GAME_5={`"frank_woman_make_love"`}
+- `[atomicanimation]` 第356条 · `event`：GAME_2={`200 1 +4000`} | GAME_3={`200 1 +4000`} | GAME_4={`40 3 +800`} | GAME_5={`40 3 +800`}
+- `[atomicanimation]` 第356条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第356条 · `length`：GAME_2={`237`} | GAME_3={`237`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第356条 · `name`：GAME_2={`"frank_soldier_sleep"`} | GAME_3={`"frank_soldier_sleep"`} | GAME_4={`"frank_woman_get_loved"`} | GAME_5={`"frank_woman_get_loved"`}
+- `[atomicanimation]` 第357条 · `event`：GAME_2={`45 1 +4000`} | GAME_3={`45 1 +4000`} | GAME_4={`50 24 0`} | GAME_5={`50 24 0`}
+- `[atomicanimation]` 第357条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第357条 · `name`：GAME_2={`"frank_civilist_sleep_home"`} | GAME_3={`"frank_civilist_sleep_home"`} | GAME_4={`"frank_woman_give_birth"`} | GAME_5={`"frank_woman_give_birth"`}
+- `[atomicanimation]` 第358条 · `event`：GAME_2={`16 11 0`} | GAME_3={`16 11 0`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第358条 · `length`：GAME_2={`20`} | GAME_3={`20`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第358条 · `name`：GAME_2={`"frank_civilist_pickup"`} | GAME_3={`"frank_civilist_pickup"`} | GAME_4={`"frank_woman_attacked"`} | GAME_5={`"frank_woman_attacked"`}
+- `[atomicanimation]` 第358条 · `startdirection`：GAME_2={`6`} | GAME_3={`6`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第359条 · `event`：GAME_2={`16 12 0`} | GAME_3={`16 12 0`} | GAME_4={`6 25`} | GAME_5={`6 25`}
+- `[atomicanimation]` 第359条 · `length`：GAME_2={`20`} | GAME_3={`20`} | GAME_4={`16`} | GAME_5={`16`}
+- `[atomicanimation]` 第359条 · `name`：GAME_2={`"frank_civilist_pileup"`} | GAME_3={`"frank_civilist_pileup"`} | GAME_4={`"frank_woman_attack"`} | GAME_5={`"frank_woman_attack"`}
+- `[atomicanimation]` 第359条 · `startdirection`：GAME_2={`6`} | GAME_3={`6`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第360条 · `event`：GAME_2={`30 2 +4000`} | GAME_3={`30 2 +4000`} | GAME_4={`16 33`} | GAME_5={`16 33`}
+- `[atomicanimation]` 第360条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`20`} | GAME_5={`20`}
+- `[atomicanimation]` 第360条 · `name`：GAME_2={`"frank_civilist_eat_slot_food"`} | GAME_3={`"frank_civilist_eat_slot_food"`} | GAME_4={`"frank_woman_open_chest"`} | GAME_5={`"frank_woman_open_chest"`}
+- `[atomicanimation]` 第360条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6`} | GAME_5={`6`}
+- `[atomicanimation]` 第361条 · `event`：GAME_2={`40 3 +4000`} | GAME_3={`40 3 +4000`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第361条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第361条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`6`} | GAME_5={`6`}
+- `[atomicanimation]` 第361条 · `name`：GAME_2={`"frank_civilist_eat_slot_candy"`} | GAME_3={`"frank_civilist_eat_slot_candy"`} | GAME_4={`"frank_civilist_idle_short_a"`} | GAME_5={`"frank_civilist_idle_short_a"`}
+- `[atomicanimation]` 第361条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`7`} | GAME_5={`7`}
+- `[atomicanimation]` 第362条 · `event`：GAME_2={`30 2 +6000`} | GAME_3={`30 2 +6000`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第362条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第362条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第362条 · `name`：GAME_2={`"frank_civilist_eat_athome"`} | GAME_3={`"frank_civilist_eat_athome"`} | GAME_4={`"frank_civilist_idle_short_b"`} | GAME_5={`"frank_civilist_idle_short_b"`}
+- `[atomicanimation]` 第362条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`7`} | GAME_5={`7`}
+- `[atomicanimation]` 第363条 · `event`：GAME_2={`30 2 +4000`} | GAME_3={`30 2 +4000`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第363条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第363条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`24`} | GAME_5={`24`}
+- `[atomicanimation]` 第363条 · `name`：GAME_2={`"frank_soldier_eat_unarmed"`} | GAME_3={`"frank_soldier_eat_unarmed"`} | GAME_4={`"frank_civilist_idle_short_c"`} | GAME_5={`"frank_civilist_idle_short_c"`}
+- `[atomicanimation]` 第363条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`7`} | GAME_5={`7`}
+- `[atomicanimation]` 第364条 · `event`：GAME_2={`30 2 +4000`} | GAME_3={`30 2 +4000`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第364条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第364条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`48`} | GAME_5={`48`}
+- `[atomicanimation]` 第364条 · `name`：GAME_2={`"frank_soldier_eat_sword_short"`} | GAME_3={`"frank_soldier_eat_sword_short"`} | GAME_4={`"frank_civilist_idle_medium"`} | GAME_5={`"frank_civilist_idle_medium"`}
+- `[atomicanimation]` 第364条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`7`} | GAME_5={`7`}
+- `[atomicanimation]` 第365条 · `event`：GAME_2={`95 4 +800`} | GAME_3={`95 4 +800`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第365条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第365条 · `name`：GAME_2={`"frank_civilist_pray"`} | GAME_3={`"frank_civilist_pray"`} | GAME_4={`"frank_civilist_idle_long"`} | GAME_5={`"frank_civilist_idle_long"`}
+- `[atomicanimation]` 第365条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`7`} | GAME_5={`7`}
+- `[atomicanimation]` 第366条 · `event`：GAME_2={`50 3 +800`} | GAME_3={`50 3 +800`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第366条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第366条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`500`} | GAME_5={`500`}
+- `[atomicanimation]` 第366条 · `name`：GAME_2={`"frank_civilist_monologuize"`} | GAME_3={`"frank_civilist_monologuize"`} | GAME_4={`"frank_civilist_idle_verylong"`} | GAME_5={`"frank_civilist_idle_verylong"`}
+- `[atomicanimation]` 第366条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`7`} | GAME_5={`7`}
+- `[atomicanimation]` 第367条 · `event`：GAME_2={`95 3 +800`} | GAME_3={`95 3 +800`} | GAME_4={`200 1 +4000`} | GAME_5={`200 1 +4000`}
+- `[atomicanimation]` 第367条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`237`} | GAME_5={`237`}
+- `[atomicanimation]` 第367条 · `name`：GAME_2={`"frank_civilist_talk"`} | GAME_3={`"frank_civilist_talk"`} | GAME_4={`"frank_civilist_sleep"`} | GAME_5={`"frank_civilist_sleep"`}
+- `[atomicanimation]` 第368条 · `event`：GAME_2={`95 3 +100`} | GAME_3={`95 3 +100`} | GAME_4={`200 1 +4000`} | GAME_5={`200 1 +4000`}
+- `[atomicanimation]` 第368条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`237`} | GAME_5={`237`}
+- `[atomicanimation]` 第368条 · `name`：GAME_2={`"frank_civilist_listen"`} | GAME_3={`"frank_civilist_listen"`} | GAME_4={`"frank_soldier_sleep"`} | GAME_5={`"frank_soldier_sleep"`}
+- `[atomicanimation]` 第369条 · `event`：GAME_2={`18 3 +100`} | GAME_3={`18 3 +100`} | GAME_4={`45 1 +4000`} | GAME_5={`45 1 +4000`}
+- `[atomicanimation]` 第369条 · `length`：GAME_2={`25`} | GAME_3={`25`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第369条 · `name`：GAME_2={`"frank_civilist_enjoy"`} | GAME_3={`"frank_civilist_enjoy"`} | GAME_4={`"frank_civilist_sleep_home"`} | GAME_5={`"frank_civilist_sleep_home"`}
+- `[atomicanimation]` 第370条 · `event`：GAME_2={`40 3 +800`} | GAME_3={`40 3 +800`} | GAME_4={`16 11 0`} | GAME_5={`16 11 0`}
+- `[atomicanimation]` 第370条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第370条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`20`} | GAME_5={`20`}
+- `[atomicanimation]` 第370条 · `name`：GAME_2={`"frank_civilist_kiss"`} | GAME_3={`"frank_civilist_kiss"`} | GAME_4={`"frank_civilist_pickup"`} | GAME_5={`"frank_civilist_pickup"`}
+- `[atomicanimation]` 第370条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6`} | GAME_5={`6`}
+- `[atomicanimation]` 第371条 · `event`：GAME_2={`40 3 +100`} | GAME_3={`40 3 +100`} | GAME_4={`16 12 0`} | GAME_5={`16 12 0`}
+- `[atomicanimation]` 第371条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第371条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`20`} | GAME_5={`20`}
+- `[atomicanimation]` 第371条 · `name`：GAME_2={`"frank_civilist_kissed"`} | GAME_3={`"frank_civilist_kissed"`} | GAME_4={`"frank_civilist_pileup"`} | GAME_5={`"frank_civilist_pileup"`}
+- `[atomicanimation]` 第371条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6`} | GAME_5={`6`}
+- `[atomicanimation]` 第372条 · `event`：GAME_2={`40 3 +800`} | GAME_3={`40 3 +800`} | GAME_4={`30 2 +4000`} | GAME_5={`30 2 +4000`}
+- `[atomicanimation]` 第372条 · `name`：GAME_2={`"frank_civilist_make_love"`} | GAME_3={`"frank_civilist_make_love"`} | GAME_4={`"frank_civilist_eat_slot_food"`} | GAME_5={`"frank_civilist_eat_slot_food"`}
+- `[atomicanimation]` 第373条 · `event`：GAME_2={`40 3 +100`} | GAME_3={`40 3 +100`} | GAME_4={`40 3 +4000`} | GAME_5={`40 3 +4000`}
+- `[atomicanimation]` 第373条 · `name`：GAME_2={`"frank_civilist_get_loved"`} | GAME_3={`"frank_civilist_get_loved"`} | GAME_4={`"frank_civilist_eat_slot_candy"`} | GAME_5={`"frank_civilist_eat_slot_candy"`}
+- `[atomicanimation]` 第374条 · `event`：GAME_2={`49 11`} | GAME_3={`49 11`} | GAME_4={`30 2 +6000`} | GAME_5={`30 2 +6000`}
+- `[atomicanimation]` 第374条 · `name`：GAME_2={`"frank_civilist_produce_water"`} | GAME_3={`"frank_civilist_produce_water"`} | GAME_4={`"frank_civilist_eat_athome"`} | GAME_5={`"frank_civilist_eat_athome"`}
+- `[atomicanimation]` 第375条 · `event`：GAME_2={`49 11`} | GAME_3={`49 11`} | GAME_4={`30 2 +4000`} | GAME_5={`30 2 +4000`}
+- `[atomicanimation]` 第375条 · `name`：GAME_2={`"frank_civilist_produce_honey"`} | GAME_3={`"frank_civilist_produce_honey"`} | GAME_4={`"frank_soldier_eat_unarmed"`} | GAME_5={`"frank_soldier_eat_unarmed"`}
+- `[atomicanimation]` 第376条 · `event`：GAME_2={`6 25`} | GAME_3={`6 25`} | GAME_4={`30 2 +4000`} | GAME_5={`30 2 +4000`}
+- `[atomicanimation]` 第376条 · `length`：GAME_2={`16`} | GAME_3={`16`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第376条 · `name`：GAME_2={`"frank_civilist_attack"`} | GAME_3={`"frank_civilist_attack"`} | GAME_4={`"frank_soldier_eat_sword_short"`} | GAME_5={`"frank_soldier_eat_sword_short"`}
+- `[atomicanimation]` 第377条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`95 4 +800`} | GAME_5={`95 4 +800`}
+- `[atomicanimation]` 第377条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第377条 · `name`：GAME_2={`"frank_civilist_attacked"`} | GAME_3={`"frank_civilist_attacked"`} | GAME_4={`"frank_civilist_pray"`} | GAME_5={`"frank_civilist_pray"`}
+- `[atomicanimation]` 第378条 · `event`：GAME_2={`16 33`} | GAME_3={`16 33`} | GAME_4={`50 3 +800`} | GAME_5={`50 3 +800`}
+- `[atomicanimation]` 第378条 · `length`：GAME_2={`20`} | GAME_3={`20`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第378条 · `name`：GAME_2={`"frank_civilist_open_chest"`} | GAME_3={`"frank_civilist_open_chest"`} | GAME_4={`"frank_civilist_monologuize"`} | GAME_5={`"frank_civilist_monologuize"`}
+- `[atomicanimation]` 第378条 · `startdirection`：GAME_2={`6`} | GAME_3={`6`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第379条 · `event`：GAME_2={`8 20`} | GAME_3={`8 20`} | GAME_4={`95 3 +800`} | GAME_5={`95 3 +800`}
+- `[atomicanimation]` 第379条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第379条 · `length`：GAME_2={`15`} | GAME_3={`15`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第379条 · `name`：GAME_2={`"frank_builder_build_house"`} | GAME_3={`"frank_builder_build_house"`} | GAME_4={`"frank_civilist_talk"`} | GAME_5={`"frank_civilist_talk"`}
+- `[atomicanimation]` 第380条 · `event`：GAME_2={`8 20`} | GAME_3={`8 20`} | GAME_4={`95 3 +100`} | GAME_5={`95 3 +100`}
+- `[atomicanimation]` 第380条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第380条 · `length`：GAME_2={`15`} | GAME_3={`15`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第380条 · `name`：GAME_2={`"frank_builder_build_road"`} | GAME_3={`"frank_builder_build_road"`} | GAME_4={`"frank_civilist_listen"`} | GAME_5={`"frank_civilist_listen"`}
+- `[atomicanimation]` 第381条 · `event`：GAME_2={`8 20`} | GAME_3={`8 20`} | GAME_4={`18 3 +100`} | GAME_5={`18 3 +100`}
+- `[atomicanimation]` 第381条 · `length`：GAME_2={`15`} | GAME_3={`15`} | GAME_4={`25`} | GAME_5={`25`}
+- `[atomicanimation]` 第381条 · `name`：GAME_2={`"frank_builder_build_wall"`} | GAME_3={`"frank_builder_build_wall"`} | GAME_4={`"frank_civilist_enjoy"`} | GAME_5={`"frank_civilist_enjoy"`}
+- `[atomicanimation]` 第382条 · `event`：GAME_2={`8 20`} | GAME_3={`8 20`} | GAME_4={`40 3 +800`} | GAME_5={`40 3 +800`}
+- `[atomicanimation]` 第382条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第382条 · `length`：GAME_2={`15`} | GAME_3={`15`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第382条 · `name`：GAME_2={`"frank_scout_build_guide"`} | GAME_3={`"frank_scout_build_guide"`} | GAME_4={`"frank_civilist_kiss"`} | GAME_5={`"frank_civilist_kiss"`}
+- `[atomicanimation]` 第383条 · `event`：GAME_2={`8 8 +4000`} | GAME_3={`8 8 +4000`} | GAME_4={`40 3 +100`} | GAME_5={`40 3 +100`}
+- `[atomicanimation]` 第383条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第383条 · `length`：GAME_2={`15`} | GAME_3={`15`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第383条 · `name`：GAME_2={`"frank_jester_jest"`} | GAME_3={`"frank_jester_jest"`} | GAME_4={`"frank_civilist_kissed"`} | GAME_5={`"frank_civilist_kissed"`}
+- `[atomicanimation]` 第384条 · `event`：GAME_2={`20 18`} | GAME_3={`20 18`} | GAME_4={`40 3 +800`} | GAME_5={`40 3 +800`}
+- `[atomicanimation]` 第384条 · `length`：GAME_2={`30`} | GAME_3={`30`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第384条 · `name`：GAME_2={`"frank_collector_harvest_tree"`} | GAME_3={`"frank_collector_harvest_tree"`} | GAME_4={`"frank_civilist_make_love"`} | GAME_5={`"frank_civilist_make_love"`}
+- `[atomicanimation]` 第385条 · `event`：GAME_2={`19 34 3`} | GAME_3={`19 34 3`} | GAME_4={`40 3 +100`} | GAME_5={`40 3 +100`}
+- `[atomicanimation]` 第385条 · `length`：GAME_2={`29`} | GAME_3={`29`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第385条 · `name`：GAME_2={`"frank_collector_harvest_stone"`} | GAME_3={`"frank_collector_harvest_stone"`} | GAME_4={`"frank_civilist_get_loved"`} | GAME_5={`"frank_civilist_get_loved"`}
+- `[atomicanimation]` 第386条 · `event`：GAME_2={`20 13`} | GAME_3={`20 13`} | GAME_4={`49 11`} | GAME_5={`49 11`}
+- `[atomicanimation]` 第386条 · `length`：GAME_2={`23`} | GAME_3={`23`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第386条 · `name`：GAME_2={`"frank_collector_harvest_mud"`} | GAME_3={`"frank_collector_harvest_mud"`} | GAME_4={`"frank_civilist_produce_water"`} | GAME_5={`"frank_civilist_produce_water"`}
+- `[atomicanimation]` 第387条 · `event`：GAME_2={`19 13`} | GAME_3={`19 13`} | GAME_4={`49 11`} | GAME_5={`49 11`}
+- `[atomicanimation]` 第387条 · `length`：GAME_2={`23`} | GAME_3={`23`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第387条 · `name`：GAME_2={`"frank_collector_harvest_iron"`} | GAME_3={`"frank_collector_harvest_iron"`} | GAME_4={`"frank_civilist_produce_honey"`} | GAME_5={`"frank_civilist_produce_honey"`}
+- `[atomicanimation]` 第388条 · `event`：GAME_2={`19 13`} | GAME_3={`19 13`} | GAME_4={`6 25`} | GAME_5={`6 25`}
+- `[atomicanimation]` 第388条 · `length`：GAME_2={`23`} | GAME_3={`23`} | GAME_4={`16`} | GAME_5={`16`}
+- `[atomicanimation]` 第388条 · `name`：GAME_2={`"frank_collector_harvest_gold"`} | GAME_3={`"frank_collector_harvest_gold"`} | GAME_4={`"frank_civilist_attack"`} | GAME_5={`"frank_civilist_attack"`}
+- `[atomicanimation]` 第389条 · `event`：GAME_2={`40 11`} | GAME_3={`40 11`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第389条 · `name`：GAME_2={`"frank_collector_harvest_honey"`} | GAME_3={`"frank_collector_harvest_honey"`} | GAME_4={`"frank_civilist_attacked"`} | GAME_5={`"frank_civilist_attacked"`}
+- `[atomicanimation]` 第390条 · `event`：GAME_2={`21 18`} | GAME_3={`21 18`} | GAME_4={`16 33`} | GAME_5={`16 33`}
+- `[atomicanimation]` 第390条 · `length`：GAME_2={`35`} | GAME_3={`35`} | GAME_4={`20`} | GAME_5={`20`}
+- `[atomicanimation]` 第390条 · `name`：GAME_2={`"frank_collector_harvest_herb"`} | GAME_3={`"frank_collector_harvest_herb"`} | GAME_4={`"frank_civilist_open_chest"`} | GAME_5={`"frank_civilist_open_chest"`}
+- `[atomicanimation]` 第390条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6`} | GAME_5={`6`}
+- `[atomicanimation]` 第391条 · `event`：GAME_2={`22 28`} | GAME_3={`22 28`} | GAME_4={`8 20`} | GAME_5={`8 20`}
+- `[atomicanimation]` 第391条 · `length`：GAME_2={`35`} | GAME_3={`35`} | GAME_4={`15`} | GAME_5={`15`}
+- `[atomicanimation]` 第391条 · `name`：GAME_2={`"frank_collector_harvest_mushroom"`} | GAME_3={`"frank_collector_harvest_mushroom"`} | GAME_4={`"frank_builder_build_house"`} | GAME_5={`"frank_builder_build_house"`}
+- `[atomicanimation]` 第392条 · `event`：GAME_2={`40 16`} | GAME_3={`40 16`} | GAME_4={`8 20`} | GAME_5={`8 20`}
+- `[atomicanimation]` 第392条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`15`} | GAME_5={`15`}
+- `[atomicanimation]` 第392条 · `name`：GAME_2={`"frank_collector_cultivate"`} | GAME_3={`"frank_collector_cultivate"`} | GAME_4={`"frank_builder_build_road"`} | GAME_5={`"frank_builder_build_road"`}
+- `[atomicanimation]` 第393条 · `event`：GAME_2={`14 18`} | GAME_3={`14 18`} | GAME_4={`8 20`} | GAME_5={`8 20`}
+- `[atomicanimation]` 第393条 · `length`：GAME_2={`24`} | GAME_3={`24`} | GAME_4={`15`} | GAME_5={`15`}
+- `[atomicanimation]` 第393条 · `name`：GAME_2={`"frank_farmer_harvest_wheat"`} | GAME_3={`"frank_farmer_harvest_wheat"`} | GAME_4={`"frank_builder_build_wall"`} | GAME_5={`"frank_builder_build_wall"`}
+- `[atomicanimation]` 第394条 · `event`：GAME_2={`14 16`} | GAME_3={`14 16`} | GAME_4={`8 20`} | GAME_5={`8 20`}
+- `[atomicanimation]` 第394条 · `length`：GAME_2={`29`} | GAME_3={`29`} | GAME_4={`15`} | GAME_5={`15`}
+- `[atomicanimation]` 第394条 · `name`：GAME_2={`"frank_farmer_cultivate"`} | GAME_3={`"frank_farmer_cultivate"`} | GAME_4={`"frank_scout_build_guide"`} | GAME_5={`"frank_scout_build_guide"`}
+- `[atomicanimation]` 第395条 · `event`：GAME_2={`14 15`} | GAME_3={`14 15`} | GAME_4={`8 8 +4000`} | GAME_5={`8 8 +4000`}
+- `[atomicanimation]` 第395条 · `length`：GAME_2={`24`} | GAME_3={`24`} | GAME_4={`15`} | GAME_5={`15`}
+- `[atomicanimation]` 第395条 · `name`：GAME_2={`"frank_farmer_plant"`} | GAME_3={`"frank_farmer_plant"`} | GAME_4={`"frank_jester_jest"`} | GAME_5={`"frank_jester_jest"`}
+- `[atomicanimation]` 第396条 · `event`：GAME_2={`190 21`} | GAME_3={`190 21`} | GAME_4={`20 18`} | GAME_5={`20 18`}
+- `[atomicanimation]` 第396条 · `length`：GAME_2={`200`} | GAME_3={`200`} | GAME_4={`30`} | GAME_5={`30`}
+- `[atomicanimation]` 第396条 · `name`：GAME_2={`"frank_miller_produce_flour"`} | GAME_3={`"frank_miller_produce_flour"`} | GAME_4={`"frank_collector_harvest_tree"`} | GAME_5={`"frank_collector_harvest_tree"`}
+- `[atomicanimation]` 第397条 · `event`：GAME_2={`143 34 15`} | GAME_3={`143 34 15`} | GAME_4={`19 34 3`} | GAME_5={`19 34 3`}
+- `[atomicanimation]` 第397条 · `length`：GAME_2={`200`} | GAME_3={`200`} | GAME_4={`29`} | GAME_5={`29`}
+- `[atomicanimation]` 第397条 · `name`：GAME_2={`"frank_baker_produce_bread"`} | GAME_3={`"frank_baker_produce_bread"`} | GAME_4={`"frank_collector_harvest_stone"`} | GAME_5={`"frank_collector_harvest_stone"`}
+- `[atomicanimation]` 第398条 · `event`：GAME_2={`143 34 15`} | GAME_3={`143 34 15`} | GAME_4={`20 13`} | GAME_5={`20 13`}
+- `[atomicanimation]` 第398条 · `length`：GAME_2={`200`} | GAME_3={`200`} | GAME_4={`23`} | GAME_5={`23`}
+- `[atomicanimation]` 第398条 · `name`：GAME_2={`"frank_baker_produce_candy"`} | GAME_3={`"frank_baker_produce_candy"`} | GAME_4={`"frank_collector_harvest_mud"`} | GAME_5={`"frank_collector_harvest_mud"`}
+- `[atomicanimation]` 第399条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`19 13`} | GAME_5={`19 13`}
+- `[atomicanimation]` 第399条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`23`} | GAME_5={`23`}
+- `[atomicanimation]` 第399条 · `name`：GAME_2={`"frank_brewer_produce_mead"`} | GAME_3={`"frank_brewer_produce_mead"`} | GAME_4={`"frank_collector_harvest_iron"`} | GAME_5={`"frank_collector_harvest_iron"`}
+- `[atomicanimation]` 第400条 · `event`：GAME_2={`150 4 -1500`} | GAME_3={`150 4 -1500`} | GAME_4={`19 13`} | GAME_5={`19 13`}
+- `[atomicanimation]` 第400条 · `length`：GAME_2={`400`} | GAME_3={`400`} | GAME_4={`23`} | GAME_5={`23`}
+- `[atomicanimation]` 第400条 · `name`：GAME_2={`"frank_carpenter_produce_spear_wooden"`} | GAME_3={`"frank_carpenter_produce_spear_wooden"`} | GAME_4={`"frank_collector_harvest_gold"`} | GAME_5={`"frank_collector_harvest_gold"`}
+- `[atomicanimation]` 第401条 · `event`：GAME_2={`140 21`} | GAME_3={`140 21`} | GAME_4={`40 11`} | GAME_5={`40 11`}
+- `[atomicanimation]` 第401条 · `length`：GAME_2={`400`} | GAME_3={`400`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第401条 · `name`：GAME_2={`"frank_carpenter_produce_tool_wooden"`} | GAME_3={`"frank_carpenter_produce_tool_wooden"`} | GAME_4={`"frank_collector_harvest_honey"`} | GAME_5={`"frank_collector_harvest_honey"`}
+- `[atomicanimation]` 第402条 · `event`：GAME_2={`140 21`} | GAME_3={`140 21`} | GAME_4={`21 18`} | GAME_5={`21 18`}
+- `[atomicanimation]` 第402条 · `length`：GAME_2={`400`} | GAME_3={`400`} | GAME_4={`35`} | GAME_5={`35`}
+- `[atomicanimation]` 第402条 · `name`：GAME_2={`"frank_carpenter_produce_furniture"`} | GAME_3={`"frank_carpenter_produce_furniture"`} | GAME_4={`"frank_collector_harvest_herb"`} | GAME_5={`"frank_collector_harvest_herb"`}
+- `[atomicanimation]` 第403条 · `event`：GAME_2={`44 4 -1500`} | GAME_3={`44 4 -1500`} | GAME_4={`22 28`} | GAME_5={`22 28`}
+- `[atomicanimation]` 第403条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`35`} | GAME_5={`35`}
+- `[atomicanimation]` 第403条 · `name`：GAME_2={`"frank_armorer_produce_bow_short"`} | GAME_3={`"frank_armorer_produce_bow_short"`} | GAME_4={`"frank_collector_harvest_mushroom"`} | GAME_5={`"frank_collector_harvest_mushroom"`}
+- `[atomicanimation]` 第404条 · `event`：GAME_2={`44 4 -1500`} | GAME_3={`44 4 -1500`} | GAME_4={`40 16`} | GAME_5={`40 16`}
+- `[atomicanimation]` 第404条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第404条 · `name`：GAME_2={`"frank_armorer_produce_bow_long"`} | GAME_3={`"frank_armorer_produce_bow_long"`} | GAME_4={`"frank_collector_cultivate"`} | GAME_5={`"frank_collector_cultivate"`}
+- `[atomicanimation]` 第405条 · `event`：GAME_2={`55 4 -1500`} | GAME_3={`55 4 -1500`} | GAME_4={`14 18`} | GAME_5={`14 18`}
+- `[atomicanimation]` 第405条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`24`} | GAME_5={`24`}
+- `[atomicanimation]` 第405条 · `name`：GAME_2={`"frank_armorer_build_vehicle_catapult"`} | GAME_3={`"frank_armorer_build_vehicle_catapult"`} | GAME_4={`"frank_farmer_harvest_wheat"`} | GAME_5={`"frank_farmer_harvest_wheat"`}
+- `[atomicanimation]` 第406条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`14 16`} | GAME_5={`14 16`}
+- `[atomicanimation]` 第406条 · `length`：GAME_2={`80`} | GAME_3={`80`} | GAME_4={`29`} | GAME_5={`29`}
+- `[atomicanimation]` 第406条 · `name`：GAME_2={`"frank_potter_produce_crockery"`} | GAME_3={`"frank_potter_produce_crockery"`} | GAME_4={`"frank_farmer_cultivate"`} | GAME_5={`"frank_farmer_cultivate"`}
+- `[atomicanimation]` 第407条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`14 15`} | GAME_5={`14 15`}
+- `[atomicanimation]` 第407条 · `length`：GAME_2={`80`} | GAME_3={`80`} | GAME_4={`24`} | GAME_5={`24`}
+- `[atomicanimation]` 第407条 · `name`：GAME_2={`"frank_potter_produce_brick"`} | GAME_3={`"frank_potter_produce_brick"`} | GAME_4={`"frank_farmer_plant"`} | GAME_5={`"frank_farmer_plant"`}
+- `[atomicanimation]` 第408条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`190 21`} | GAME_5={`190 21`}
+- `[atomicanimation]` 第408条 · `length`：GAME_2={`80`} | GAME_3={`80`} | GAME_4={`200`} | GAME_5={`200`}
+- `[atomicanimation]` 第408条 · `name`：GAME_2={`"frank_potter_produce_tile"`} | GAME_3={`"frank_potter_produce_tile"`} | GAME_4={`"frank_miller_produce_flour"`} | GAME_5={`"frank_miller_produce_flour"`}
+- `[atomicanimation]` 第409条 · `event`：GAME_2={`80 34 29`} | GAME_3={`80 34 29`} | GAME_4={`143 34 15`} | GAME_5={`143 34 15`}
+- `[atomicanimation]` 第409条 · `length`：GAME_2={`120`} | GAME_3={`120`} | GAME_4={`200`} | GAME_5={`200`}
+- `[atomicanimation]` 第409条 · `name`：GAME_2={`"frank_mason_produce_pillar"`} | GAME_3={`"frank_mason_produce_pillar"`} | GAME_4={`"frank_baker_produce_bread"`} | GAME_5={`"frank_baker_produce_bread"`}
+- `[atomicanimation]` 第410条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`143 34 15`} | GAME_5={`143 34 15`}
+- `[atomicanimation]` 第410条 · `length`：GAME_2={`120`} | GAME_3={`120`} | GAME_4={`200`} | GAME_5={`200`}
+- `[atomicanimation]` 第410条 · `name`：GAME_2={`"frank_mason_produce_ornament"`} | GAME_3={`"frank_mason_produce_ornament"`} | GAME_4={`"frank_baker_produce_candy"`} | GAME_5={`"frank_baker_produce_candy"`}
+- `[atomicanimation]` 第411条 · `event`：GAME_2={`213 34 16`} | GAME_3={`213 34 16`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第411条 · `eventx`：GAME_2={`90 21`} | GAME_3={`90 21`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第411条 · `length`：GAME_2={`240`} | GAME_3={`240`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第411条 · `name`：GAME_2={`"frank_smith_produce_tool_iron"`} | GAME_3={`"frank_smith_produce_tool_iron"`} | GAME_4={`"frank_brewer_produce_mead"`} | GAME_5={`"frank_brewer_produce_mead"`}
+- `[atomicanimation]` 第412条 · `event`：GAME_2={`55 4 -1500`} | GAME_3={`55 4 -1500`} | GAME_4={`150 4 -1500`} | GAME_5={`150 4 -1500`}
+- `[atomicanimation]` 第412条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`400`} | GAME_5={`400`}
+- `[atomicanimation]` 第412条 · `name`：GAME_2={`"frank_smith_produce_spear_iron"`} | GAME_3={`"frank_smith_produce_spear_iron"`} | GAME_4={`"frank_carpenter_produce_spear_wooden"`} | GAME_5={`"frank_carpenter_produce_spear_wooden"`}
+- `[atomicanimation]` 第413条 · `event`：GAME_2={`213 34 16`} | GAME_3={`213 34 16`} | GAME_4={`140 21`} | GAME_5={`140 21`}
+- `[atomicanimation]` 第413条 · `eventx`：GAME_2={`90 21`} | GAME_3={`90 21`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第413条 · `length`：GAME_2={`240`} | GAME_3={`240`} | GAME_4={`400`} | GAME_5={`400`}
+- `[atomicanimation]` 第413条 · `name`：GAME_2={`"frank_smith_produce_sword_short"`} | GAME_3={`"frank_smith_produce_sword_short"`} | GAME_4={`"frank_carpenter_produce_tool_wooden"`} | GAME_5={`"frank_carpenter_produce_tool_wooden"`}
+- `[atomicanimation]` 第414条 · `event`：GAME_2={`45 4 -1500`} | GAME_3={`45 4 -1500`} | GAME_4={`140 21`} | GAME_5={`140 21`}
+- `[atomicanimation]` 第414条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`400`} | GAME_5={`400`}
+- `[atomicanimation]` 第414条 · `name`：GAME_2={`"frank_smith_produce_sword_long"`} | GAME_3={`"frank_smith_produce_sword_long"`} | GAME_4={`"frank_carpenter_produce_furniture"`} | GAME_5={`"frank_carpenter_produce_furniture"`}
+- `[atomicanimation]` 第415条 · `event`：GAME_2={`45 4 -1500`} | GAME_3={`45 4 -1500`} | GAME_4={`44 4 -1500`} | GAME_5={`44 4 -1500`}
+- `[atomicanimation]` 第415条 · `name`：GAME_2={`"frank_smith_produce_armor_chain"`} | GAME_3={`"frank_smith_produce_armor_chain"`} | GAME_4={`"frank_armorer_produce_bow_short"`} | GAME_5={`"frank_armorer_produce_bow_short"`}
+- `[atomicanimation]` 第416条 · `event`：GAME_2={`45 4 -1500`} | GAME_3={`45 4 -1500`} | GAME_4={`44 4 -1500`} | GAME_5={`44 4 -1500`}
+- `[atomicanimation]` 第416条 · `name`：GAME_2={`"frank_smith_produce_armor_plate"`} | GAME_3={`"frank_smith_produce_armor_plate"`} | GAME_4={`"frank_armorer_produce_bow_long"`} | GAME_5={`"frank_armorer_produce_bow_long"`}
+- `[atomicanimation]` 第417条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`55 4 -1500`} | GAME_5={`55 4 -1500`}
+- `[atomicanimation]` 第417条 · `name`：GAME_2={`"frank_coiner_produce_coin"`} | GAME_3={`"frank_coiner_produce_coin"`} | GAME_4={`"frank_armorer_build_vehicle_catapult"`} | GAME_5={`"frank_armorer_build_vehicle_catapult"`}
+- `[atomicanimation]` 第418条 · `event`：GAME_2={`80 21`} | GAME_3={`80 21`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第418条 · `length`：GAME_2={`160`} | GAME_3={`160`} | GAME_4={`80`} | GAME_5={`80`}
+- `[atomicanimation]` 第418条 · `name`：GAME_2={`"frank_sewer_produce_shoes"`} | GAME_3={`"frank_sewer_produce_shoes"`} | GAME_4={`"frank_potter_produce_crockery"`} | GAME_5={`"frank_potter_produce_crockery"`}
+- `[atomicanimation]` 第419条 · `event`：GAME_2={`45 4 -1500`} | GAME_3={`45 4 -1500`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第419条 · `length`：GAME_2={`160`} | GAME_3={`160`} | GAME_4={`80`} | GAME_5={`80`}
+- `[atomicanimation]` 第419条 · `name`：GAME_2={`"frank_sewer_produce_armor_wool"`} | GAME_3={`"frank_sewer_produce_armor_wool"`} | GAME_4={`"frank_potter_produce_brick"`} | GAME_5={`"frank_potter_produce_brick"`}
+- `[atomicanimation]` 第420条 · `event`：GAME_2={`45 4 -1500`} | GAME_3={`45 4 -1500`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第420条 · `length`：GAME_2={`160`} | GAME_3={`160`} | GAME_4={`80`} | GAME_5={`80`}
+- `[atomicanimation]` 第420条 · `name`：GAME_2={`"frank_sewer_produce_armor_leather"`} | GAME_3={`"frank_sewer_produce_armor_leather"`} | GAME_4={`"frank_potter_produce_tile"`} | GAME_5={`"frank_potter_produce_tile"`}
+- `[atomicanimation]` 第421条 · `event`：GAME_2={`39 19`} | GAME_3={`39 19`} | GAME_4={`80 34 29`} | GAME_5={`80 34 29`}
+- `[atomicanimation]` 第421条 · `length`：GAME_2={`40`} | GAME_3={`40`} | GAME_4={`120`} | GAME_5={`120`}
+- `[atomicanimation]` 第421条 · `name`：GAME_2={`"frank_fisher_cast_rod"`} | GAME_3={`"frank_fisher_cast_rod"`} | GAME_4={`"frank_mason_produce_pillar"`} | GAME_5={`"frank_mason_produce_pillar"`}
+- `[atomicanimation]` 第422条 · `event`：GAME_2={`88 34 20`} | GAME_3={`88 34 20`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第422条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`120`} | GAME_5={`120`}
+- `[atomicanimation]` 第422条 · `name`：GAME_2={`"frank_fisher_catch_one"`} | GAME_3={`"frank_fisher_catch_one"`} | GAME_4={`"frank_mason_produce_ornament"`} | GAME_5={`"frank_mason_produce_ornament"`}
+- `[atomicanimation]` 第423条 · `event`：GAME_2={`35 34 19`} | GAME_3={`35 34 19`} | GAME_4={`213 34 16`} | GAME_5={`213 34 16`}
+- `[atomicanimation]` 第423条 · `eventx`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`90 21`} | GAME_5={`90 21`}
+- `[atomicanimation]` 第423条 · `length`：GAME_2={`52`} | GAME_3={`52`} | GAME_4={`240`} | GAME_5={`240`}
+- `[atomicanimation]` 第423条 · `name`：GAME_2={`"frank_fisher_catch_none"`} | GAME_3={`"frank_fisher_catch_none"`} | GAME_4={`"frank_smith_produce_tool_iron"`} | GAME_5={`"frank_smith_produce_tool_iron"`}
+- `[atomicanimation]` 第424条 · `event`：GAME_2={`22 28`} | GAME_3={`22 28`} | GAME_4={`55 4 -1500`} | GAME_5={`55 4 -1500`}
+- `[atomicanimation]` 第424条 · `length`：GAME_2={`35`} | GAME_3={`35`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第424条 · `name`：GAME_2={`"frank_hunter_harvest_cadaver"`} | GAME_3={`"frank_hunter_harvest_cadaver"`} | GAME_4={`"frank_smith_produce_spear_iron"`} | GAME_5={`"frank_smith_produce_spear_iron"`}
+- `[atomicanimation]` 第425条 · `event`：GAME_2={`12 25`} | GAME_3={`12 25`} | GAME_4={`213 34 16`} | GAME_5={`213 34 16`}
+- `[atomicanimation]` 第425条 · `eventx`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`90 21`} | GAME_5={`90 21`}
+- `[atomicanimation]` 第425条 · `length`：GAME_2={`25`} | GAME_3={`25`} | GAME_4={`240`} | GAME_5={`240`}
+- `[atomicanimation]` 第425条 · `name`：GAME_2={`"frank_hunter_attack"`} | GAME_3={`"frank_hunter_attack"`} | GAME_4={`"frank_smith_produce_sword_short"`} | GAME_5={`"frank_smith_produce_sword_short"`}
+- `[atomicanimation]` 第426条 · `event`：GAME_2={`80 21`} | GAME_3={`80 21`} | GAME_4={`45 4 -1500`} | GAME_5={`45 4 -1500`}
+- `[atomicanimation]` 第426条 · `length`：GAME_2={`160`} | GAME_3={`160`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第426条 · `name`：GAME_2={`"frank_breeder_produce_sausage"`} | GAME_3={`"frank_breeder_produce_sausage"`} | GAME_4={`"frank_smith_produce_sword_long"`} | GAME_5={`"frank_smith_produce_sword_long"`}
+- `[atomicanimation]` 第427条 · `event`：GAME_2={`80 21`} | GAME_3={`80 21`} | GAME_4={`45 4 -1500`} | GAME_5={`45 4 -1500`}
+- `[atomicanimation]` 第427条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第427条 · `name`：GAME_2={`"frank_breeder_produce_sheep"`} | GAME_3={`"frank_breeder_produce_sheep"`} | GAME_4={`"frank_smith_produce_armor_chain"`} | GAME_5={`"frank_smith_produce_armor_chain"`}
+- `[atomicanimation]` 第428条 · `event`：GAME_2={`80 21`} | GAME_3={`80 21`} | GAME_4={`45 4 -1500`} | GAME_5={`45 4 -1500`}
+- `[atomicanimation]` 第428条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第428条 · `name`：GAME_2={`"frank_breeder_produce_cattle"`} | GAME_3={`"frank_breeder_produce_cattle"`} | GAME_4={`"frank_smith_produce_armor_plate"`} | GAME_5={`"frank_smith_produce_armor_plate"`}
+- `[atomicanimation]` 第429条 · `event`：GAME_2={`65 34 39`} | GAME_3={`65 34 39`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第429条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第429条 · `name`：GAME_2={`"frank_breeder_slay_sheep"`} | GAME_3={`"frank_breeder_slay_sheep"`} | GAME_4={`"frank_coiner_produce_coin"`} | GAME_5={`"frank_coiner_produce_coin"`}
+- `[atomicanimation]` 第430条 · `event`：GAME_2={`65 34 39`} | GAME_3={`65 34 39`} | GAME_4={`80 21`} | GAME_5={`80 21`}
+- `[atomicanimation]` 第430条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`160`} | GAME_5={`160`}
+- `[atomicanimation]` 第430条 · `name`：GAME_2={`"frank_breeder_slay_cattle"`} | GAME_3={`"frank_breeder_slay_cattle"`} | GAME_4={`"frank_sewer_produce_shoes"`} | GAME_5={`"frank_sewer_produce_shoes"`}
+- `[atomicanimation]` 第431条 · `event`：GAME_2={`21 18`} | GAME_3={`21 18`} | GAME_4={`45 4 -1500`} | GAME_5={`45 4 -1500`}
+- `[atomicanimation]` 第431条 · `length`：GAME_2={`35`} | GAME_3={`35`} | GAME_4={`160`} | GAME_5={`160`}
+- `[atomicanimation]` 第431条 · `name`：GAME_2={`"frank_herb_guy_harvest_herb"`} | GAME_3={`"frank_herb_guy_harvest_herb"`} | GAME_4={`"frank_sewer_produce_armor_wool"`} | GAME_5={`"frank_sewer_produce_armor_wool"`}
+- `[atomicanimation]` 第432条 · `event`：GAME_2={`21 11`} | GAME_3={`21 11`} | GAME_4={`45 4 -1500`} | GAME_5={`45 4 -1500`}
+- `[atomicanimation]` 第432条 · `length`：GAME_2={`35`} | GAME_3={`35`} | GAME_4={`160`} | GAME_5={`160`}
+- `[atomicanimation]` 第432条 · `name`：GAME_2={`"frank_herb_guy_harvest_mushroom"`} | GAME_3={`"frank_herb_guy_harvest_mushroom"`} | GAME_4={`"frank_sewer_produce_armor_leather"`} | GAME_5={`"frank_sewer_produce_armor_leather"`}
+- `[atomicanimation]` 第433条 · `event`：GAME_2={`14 16`} | GAME_3={`14 16`} | GAME_4={`39 19`} | GAME_5={`39 19`}
+- `[atomicanimation]` 第433条 · `length`：GAME_2={`29`} | GAME_3={`29`} | GAME_4={`40`} | GAME_5={`40`}
+- `[atomicanimation]` 第433条 · `name`：GAME_2={`"frank_herb_guy_cultivate"`} | GAME_3={`"frank_herb_guy_cultivate"`} | GAME_4={`"frank_fisher_cast_rod"`} | GAME_5={`"frank_fisher_cast_rod"`}
+- `[atomicanimation]` 第434条 · `event`：GAME_2={`14 15`} | GAME_3={`14 15`} | GAME_4={`88 34 20`} | GAME_5={`88 34 20`}
+- `[atomicanimation]` 第434条 · `length`：GAME_2={`24`} | GAME_3={`24`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第434条 · `name`：GAME_2={`"frank_herb_guy_plant"`} | GAME_3={`"frank_herb_guy_plant"`} | GAME_4={`"frank_fisher_catch_one"`} | GAME_5={`"frank_fisher_catch_one"`}
+- `[atomicanimation]` 第435条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`35 34 19`} | GAME_5={`35 34 19`}
+- `[atomicanimation]` 第435条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`52`} | GAME_5={`52`}
+- `[atomicanimation]` 第435条 · `name`：GAME_2={`"frank_druid_produce_holy_oil"`} | GAME_3={`"frank_druid_produce_holy_oil"`} | GAME_4={`"frank_fisher_catch_none"`} | GAME_5={`"frank_fisher_catch_none"`}
+- `[atomicanimation]` 第436条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`22 28`} | GAME_5={`22 28`}
+- `[atomicanimation]` 第436条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`35`} | GAME_5={`35`}
+- `[atomicanimation]` 第436条 · `name`：GAME_2={`"frank_druid_produce_potion_food_small"`} | GAME_3={`"frank_druid_produce_potion_food_small"`} | GAME_4={`"frank_hunter_harvest_cadaver"`} | GAME_5={`"frank_hunter_harvest_cadaver"`}
+- `[atomicanimation]` 第437条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`12 25`} | GAME_5={`12 25`}
+- `[atomicanimation]` 第437条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`25`} | GAME_5={`25`}
+- `[atomicanimation]` 第437条 · `name`：GAME_2={`"frank_druid_produce_potion_food_big"`} | GAME_3={`"frank_druid_produce_potion_food_big"`} | GAME_4={`"frank_hunter_attack"`} | GAME_5={`"frank_hunter_attack"`}
+- `[atomicanimation]` 第438条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`80 21`} | GAME_5={`80 21`}
+- `[atomicanimation]` 第438条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`160`} | GAME_5={`160`}
+- `[atomicanimation]` 第438条 · `name`：GAME_2={`"frank_druid_produce_potion_stamina_small"`} | GAME_3={`"frank_druid_produce_potion_stamina_small"`} | GAME_4={`"frank_breeder_produce_sausage"`} | GAME_5={`"frank_breeder_produce_sausage"`}
+- `[atomicanimation]` 第439条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`80 21`} | GAME_5={`80 21`}
+- `[atomicanimation]` 第439条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第439条 · `name`：GAME_2={`"frank_druid_produce_potion_stamina_big"`} | GAME_3={`"frank_druid_produce_potion_stamina_big"`} | GAME_4={`"frank_breeder_produce_sheep"`} | GAME_5={`"frank_breeder_produce_sheep"`}
+- `[atomicanimation]` 第440条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`80 21`} | GAME_5={`80 21`}
+- `[atomicanimation]` 第440条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第440条 · `name`：GAME_2={`"frank_druid_produce_potion_healing_small"`} | GAME_3={`"frank_druid_produce_potion_healing_small"`} | GAME_4={`"frank_breeder_produce_cattle"`} | GAME_5={`"frank_breeder_produce_cattle"`}
+- `[atomicanimation]` 第441条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`65 34 39`} | GAME_5={`65 34 39`}
+- `[atomicanimation]` 第441条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第441条 · `name`：GAME_2={`"frank_druid_produce_potion_healing_big"`} | GAME_3={`"frank_druid_produce_potion_healing_big"`} | GAME_4={`"frank_breeder_slay_sheep"`} | GAME_5={`"frank_breeder_slay_sheep"`}
+- `[atomicanimation]` 第442条 · `event`：GAME_2={`40 10 +1500`} | GAME_3={`40 10 +1500`} | GAME_4={`65 34 39`} | GAME_5={`65 34 39`}
+- `[atomicanimation]` 第442条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第442条 · `name`：GAME_2={`"frank_druid_heal"`} | GAME_3={`"frank_druid_heal"`} | GAME_4={`"frank_breeder_slay_cattle"`} | GAME_5={`"frank_breeder_slay_cattle"`}
+- `[atomicanimation]` 第443条 · `event`：GAME_2={`50 9 +500`} | GAME_3={`50 9 +500`} | GAME_4={`21 18`} | GAME_5={`21 18`}
+- `[atomicanimation]` 第443条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`35`} | GAME_5={`35`}
+- `[atomicanimation]` 第443条 · `name`：GAME_2={`"frank_druid_bless"`} | GAME_3={`"frank_druid_bless"`} | GAME_4={`"frank_herb_guy_harvest_herb"`} | GAME_5={`"frank_herb_guy_harvest_herb"`}
+- `[atomicanimation]` 第444条 · `event`：GAME_2={`6 25`} | GAME_3={`6 25`} | GAME_4={`21 11`} | GAME_5={`21 11`}
+- `[atomicanimation]` 第444条 · `length`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`35`} | GAME_5={`35`}
+- `[atomicanimation]` 第444条 · `name`：GAME_2={`"frank_soldier_attack_unarmed"`} | GAME_3={`"frank_soldier_attack_unarmed"`} | GAME_4={`"frank_herb_guy_harvest_mushroom"`} | GAME_5={`"frank_herb_guy_harvest_mushroom"`}
+- `[atomicanimation]` 第445条 · `event`：GAME_2={`12 25`} | GAME_3={`12 25`} | GAME_4={`14 16`} | GAME_5={`14 16`}
+- `[atomicanimation]` 第445条 · `length`：GAME_2={`27`} | GAME_3={`27`} | GAME_4={`29`} | GAME_5={`29`}
+- `[atomicanimation]` 第445条 · `name`：GAME_2={`"frank_soldier_attack_spear_wooden"`} | GAME_3={`"frank_soldier_attack_spear_wooden"`} | GAME_4={`"frank_herb_guy_cultivate"`} | GAME_5={`"frank_herb_guy_cultivate"`}
+- `[atomicanimation]` 第446条 · `event`：GAME_2={`12 25`} | GAME_3={`12 25`} | GAME_4={`14 15`} | GAME_5={`14 15`}
+- `[atomicanimation]` 第446条 · `length`：GAME_2={`27`} | GAME_3={`27`} | GAME_4={`24`} | GAME_5={`24`}
+- `[atomicanimation]` 第446条 · `name`：GAME_2={`"frank_soldier_attack_spear_iron"`} | GAME_3={`"frank_soldier_attack_spear_iron"`} | GAME_4={`"frank_herb_guy_plant"`} | GAME_5={`"frank_herb_guy_plant"`}
+- `[atomicanimation]` 第447条 · `event`：GAME_2={`9 25`} | GAME_3={`9 25`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第447条 · `length`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第447条 · `name`：GAME_2={`"frank_soldier_attack_sword_short"`} | GAME_3={`"frank_soldier_attack_sword_short"`} | GAME_4={`"frank_druid_produce_holy_oil"`} | GAME_5={`"frank_druid_produce_holy_oil"`}
+- `[atomicanimation]` 第448条 · `event`：GAME_2={`16 25`} | GAME_3={`16 25`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第448条 · `length`：GAME_2={`29`} | GAME_3={`29`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第448条 · `name`：GAME_2={`"frank_soldier_attack_sword_long"`} | GAME_3={`"frank_soldier_attack_sword_long"`} | GAME_4={`"frank_druid_produce_potion_food_small"`} | GAME_5={`"frank_druid_produce_potion_food_small"`}
+- `[atomicanimation]` 第449条 · `event`：GAME_2={`6 25`} | GAME_3={`6 25`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第449条 · `length`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第449条 · `name`：GAME_2={`"frank_soldier_attack_saber_short"`} | GAME_3={`"frank_soldier_attack_saber_short"`} | GAME_4={`"frank_druid_produce_potion_food_big"`} | GAME_5={`"frank_druid_produce_potion_food_big"`}
+- `[atomicanimation]` 第450条 · `event`：GAME_2={`23 25`} | GAME_3={`23 25`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第450条 · `length`：GAME_2={`29`} | GAME_3={`29`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第450条 · `name`：GAME_2={`"frank_soldier_attack_saber_long"`} | GAME_3={`"frank_soldier_attack_saber_long"`} | GAME_4={`"frank_druid_produce_potion_stamina_small"`} | GAME_5={`"frank_druid_produce_potion_stamina_small"`}
+- `[atomicanimation]` 第451条 · `event`：GAME_2={`9 34 74`} | GAME_3={`9 34 74`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第451条 · `length`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第451条 · `name`：GAME_2={`"frank_soldier_attack_bow_short"`} | GAME_3={`"frank_soldier_attack_bow_short"`} | GAME_4={`"frank_druid_produce_potion_stamina_big"`} | GAME_5={`"frank_druid_produce_potion_stamina_big"`}
+- `[atomicanimation]` 第452条 · `event`：GAME_2={`22 25`} | GAME_3={`22 25`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第452条 · `length`：GAME_2={`28`} | GAME_3={`28`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第452条 · `name`：GAME_2={`"frank_soldier_attack_bow_long"`} | GAME_3={`"frank_soldier_attack_bow_long"`} | GAME_4={`"frank_druid_produce_potion_healing_small"`} | GAME_5={`"frank_druid_produce_potion_healing_small"`}
+- `[atomicanimation]` 第453条 · `event`：GAME_2={`6 25`} | GAME_3={`6 25`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第453条 · `length`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第453条 · `name`：GAME_2={`"frank_hero_attack_unarmed"`} | GAME_3={`"frank_hero_attack_unarmed"`} | GAME_4={`"frank_druid_produce_potion_healing_big"`} | GAME_5={`"frank_druid_produce_potion_healing_big"`}
+- `[atomicanimation]` 第454条 · `event`：GAME_2={`6 25`} | GAME_3={`6 25`} | GAME_4={`40 10 +1500`} | GAME_5={`40 10 +1500`}
+- `[atomicanimation]` 第454条 · `length`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第454条 · `name`：GAME_2={`"frank_hero_attack_spear"`} | GAME_3={`"frank_hero_attack_spear"`} | GAME_4={`"frank_druid_heal"`} | GAME_5={`"frank_druid_heal"`}
+- `[atomicanimation]` 第455条 · `event`：GAME_2={`6 25`} | GAME_3={`6 25`} | GAME_4={`50 9 +500`} | GAME_5={`50 9 +500`}
+- `[atomicanimation]` 第455条 · `length`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第455条 · `name`：GAME_2={`"frank_hero_attack_sword"`} | GAME_3={`"frank_hero_attack_sword"`} | GAME_4={`"frank_druid_bless"`} | GAME_5={`"frank_druid_bless"`}
+- `[atomicanimation]` 第456条 · `name`：GAME_2={`"frank_hero_attack_saber"`} | GAME_3={`"frank_hero_attack_saber"`} | GAME_4={`"frank_soldier_attack_unarmed"`} | GAME_5={`"frank_soldier_attack_unarmed"`}
+- `[atomicanimation]` 第457条 · `event`：GAME_2={`6 25`} | GAME_3={`6 25`} | GAME_4={`12 25`} | GAME_5={`12 25`}
+- `[atomicanimation]` 第457条 · `length`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`27`} | GAME_5={`27`}
+- `[atomicanimation]` 第457条 · `name`：GAME_2={`"frank_hero_attack_axe"`} | GAME_3={`"frank_hero_attack_axe"`} | GAME_4={`"frank_soldier_attack_spear_wooden"`} | GAME_5={`"frank_soldier_attack_spear_wooden"`}
+- `[atomicanimation]` 第458条 · `event`：GAME_2={`6 25`} | GAME_3={`13 25`} | GAME_4={`12 25`} | GAME_5={`12 25`}
+- `[atomicanimation]` 第458条 · `length`：GAME_2={`12`} | GAME_3={`27`} | GAME_4={`27`} | GAME_5={`27`}
+- `[atomicanimation]` 第458条 · `name`：GAME_2={`"frank_hero_attack_bow"`} | GAME_3={`"frank_hero_attack_bow"`} | GAME_4={`"frank_soldier_attack_spear_iron"`} | GAME_5={`"frank_soldier_attack_spear_iron"`}
+- `[atomicanimation]` 第459条 · `event`：GAME_2={`22 29 +1`} | GAME_3={`22 29 +1`} | GAME_4={`9 25`} | GAME_5={`9 25`}
+- `[atomicanimation]` 第459条 · `length`：GAME_2={`28`} | GAME_3={`28`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第459条 · `name`：GAME_2={`"frank_civilist_exercise"`} | GAME_3={`"frank_civilist_exercise"`} | GAME_4={`"frank_soldier_attack_sword_short"`} | GAME_5={`"frank_soldier_attack_sword_short"`}
+- `[atomicanimation]` 第460条 · `event`：GAME_2={`22 29 +1`} | GAME_3={`22 29 +1`} | GAME_4={`16 25`} | GAME_5={`16 25`}
+- `[atomicanimation]` 第460条 · `length`：GAME_2={`28`} | GAME_3={`28`} | GAME_4={`29`} | GAME_5={`29`}
+- `[atomicanimation]` 第460条 · `name`：GAME_2={`"frank_soldier_exercise"`} | GAME_3={`"frank_soldier_exercise"`} | GAME_4={`"frank_soldier_attack_sword_long"`} | GAME_5={`"frank_soldier_attack_sword_long"`}
+- `[atomicanimation]` 第461条 · `event`：GAME_2={`22 29 +5`} | GAME_3={`22 29 +5`} | GAME_4={`6 25`} | GAME_5={`6 25`}
+- `[atomicanimation]` 第461条 · `length`：GAME_2={`28`} | GAME_3={`28`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第461条 · `name`：GAME_2={`"frank_soldier_train"`} | GAME_3={`"frank_soldier_train"`} | GAME_4={`"frank_soldier_attack_saber_short"`} | GAME_5={`"frank_soldier_attack_saber_short"`}
+- `[atomicanimation]` 第462条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`23 25`} | GAME_5={`23 25`}
+- `[atomicanimation]` 第462条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第462条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`29`} | GAME_5={`29`}
+- `[atomicanimation]` 第462条 · `name`：GAME_2={`"saracen_baby_female_idle"`} | GAME_3={`"saracen_baby_female_idle"`} | GAME_4={`"frank_soldier_attack_saber_long"`} | GAME_5={`"frank_soldier_attack_saber_long"`}
+- `[atomicanimation]` 第463条 · `event`：GAME_2={`95 1 +100`} | GAME_3={`95 1 +100`} | GAME_4={`9 34 74`} | GAME_5={`9 34 74`}
+- `[atomicanimation]` 第463条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第463条 · `name`：GAME_2={`"saracen_baby_female_sleep"`} | GAME_3={`"saracen_baby_female_sleep"`} | GAME_4={`"frank_soldier_attack_bow_short"`} | GAME_5={`"frank_soldier_attack_bow_short"`}
+- `[atomicanimation]` 第464条 · `event`：GAME_2={`16 11 0`} | GAME_3={`16 11 0`} | GAME_4={`22 25`} | GAME_5={`22 25`}
+- `[atomicanimation]` 第464条 · `length`：GAME_2={`20`} | GAME_3={`20`} | GAME_4={`28`} | GAME_5={`28`}
+- `[atomicanimation]` 第464条 · `name`：GAME_2={`"saracen_baby_female_pickup"`} | GAME_3={`"saracen_baby_female_pickup"`} | GAME_4={`"frank_soldier_attack_bow_long"`} | GAME_5={`"frank_soldier_attack_bow_long"`}
+- `[atomicanimation]` 第464条 · `startdirection`：GAME_2={`6`} | GAME_3={`6`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第465条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6 25`} | GAME_5={`6 25`}
+- `[atomicanimation]` 第465条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第465条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第465条 · `name`：GAME_2={`"saracen_baby_male_idle"`} | GAME_3={`"saracen_baby_male_idle"`} | GAME_4={`"frank_hero_attack_unarmed"`} | GAME_5={`"frank_hero_attack_unarmed"`}
+- `[atomicanimation]` 第466条 · `event`：GAME_2={`95 1 +100`} | GAME_3={`95 1 +100`} | GAME_4={`6 25`} | GAME_5={`6 25`}
+- `[atomicanimation]` 第466条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第466条 · `name`：GAME_2={`"saracen_baby_male_sleep"`} | GAME_3={`"saracen_baby_male_sleep"`} | GAME_4={`"frank_hero_attack_spear"`} | GAME_5={`"frank_hero_attack_spear"`}
+- `[atomicanimation]` 第467条 · `event`：GAME_2={`16 11 0`} | GAME_3={`16 11 0`} | GAME_4={`6 25`} | GAME_5={`6 25`}
+- `[atomicanimation]` 第467条 · `length`：GAME_2={`20`} | GAME_3={`20`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第467条 · `name`：GAME_2={`"saracen_baby_male_pickup"`} | GAME_3={`"saracen_baby_male_pickup"`} | GAME_4={`"frank_hero_attack_sword"`} | GAME_5={`"frank_hero_attack_sword"`}
+- `[atomicanimation]` 第467条 · `startdirection`：GAME_2={`6`} | GAME_3={`6`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第468条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6 25`} | GAME_5={`6 25`}
+- `[atomicanimation]` 第468条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第468条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第468条 · `name`：GAME_2={`"saracen_child_female_idle"`} | GAME_3={`"saracen_child_female_idle"`} | GAME_4={`"frank_hero_attack_saber"`} | GAME_5={`"frank_hero_attack_saber"`}
+- `[atomicanimation]` 第469条 · `event`：GAME_2={`95 1 +100`} | GAME_3={`95 1 +100`} | GAME_4={`6 25`} | GAME_5={`6 25`}
+- `[atomicanimation]` 第469条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第469条 · `name`：GAME_2={`"saracen_child_female_sleep"`} | GAME_3={`"saracen_child_female_sleep"`} | GAME_4={`"frank_hero_attack_axe"`} | GAME_5={`"frank_hero_attack_axe"`}
+- `[atomicanimation]` 第470条 · `event`：GAME_2={`16 11 0`} | GAME_3={`16 11 0`} | GAME_4={`6 25`} | GAME_5={`6 25`}
+- `[atomicanimation]` 第470条 · `length`：GAME_2={`20`} | GAME_3={`20`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第470条 · `name`：GAME_2={`"saracen_child_female_pickup"`} | GAME_3={`"saracen_child_female_pickup"`} | GAME_4={`"frank_hero_attack_bow"`} | GAME_5={`"frank_hero_attack_bow"`}
+- `[atomicanimation]` 第470条 · `startdirection`：GAME_2={`6`} | GAME_3={`6`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第471条 · `event`：GAME_2={`30 2 +4000`} | GAME_3={`30 2 +4000`} | GAME_4={`22 29 +1`} | GAME_5={`22 29 +1`}
+- `[atomicanimation]` 第471条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`28`} | GAME_5={`28`}
+- `[atomicanimation]` 第471条 · `name`：GAME_2={`"saracen_child_female_eat_slot_food"`} | GAME_3={`"saracen_child_female_eat_slot_food"`} | GAME_4={`"frank_civilist_exercise"`} | GAME_5={`"frank_civilist_exercise"`}
+- `[atomicanimation]` 第472条 · `event`：GAME_2={`40 3 +4000`} | GAME_3={`40 3 +4000`} | GAME_4={`22 29 +1`} | GAME_5={`22 29 +1`}
+- `[atomicanimation]` 第472条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`28`} | GAME_5={`28`}
+- `[atomicanimation]` 第472条 · `name`：GAME_2={`"saracen_child_female_eat_slot_candy"`} | GAME_3={`"saracen_child_female_eat_slot_candy"`} | GAME_4={`"frank_soldier_exercise"`} | GAME_5={`"frank_soldier_exercise"`}
+- `[atomicanimation]` 第473条 · `event`：GAME_2={`200 3 +100`} | GAME_3={`200 3 +100`} | GAME_4={`22 29 +5`} | GAME_5={`22 29 +5`}
+- `[atomicanimation]` 第473条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第473条 · `length`：GAME_2={`247`} | GAME_3={`247`} | GAME_4={`28`} | GAME_5={`28`}
+- `[atomicanimation]` 第473条 · `name`：GAME_2={`"saracen_child_female_listen"`} | GAME_3={`"saracen_child_female_listen"`} | GAME_4={`"frank_soldier_train"`} | GAME_5={`"frank_soldier_train"`}
+- `[atomicanimation]` 第474条 · `name`：GAME_2={`"saracen_child_male_idle"`} | GAME_3={`"saracen_child_male_idle"`} | GAME_4={`"frank_hero_unarmed_idle"`} | GAME_5={`"frank_hero_unarmed_idle"`}
+- `[atomicanimation]` 第475条 · `event`：GAME_2={`95 1 +100`} | GAME_3={`95 1 +100`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第475条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第475条 · `name`：GAME_2={`"saracen_child_male_sleep"`} | GAME_3={`"saracen_child_male_sleep"`} | GAME_4={`"frank_hero_unarmed_idle_short_a"`} | GAME_5={`"frank_hero_unarmed_idle_short_a"`}
+- `[atomicanimation]` 第475条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`7`} | GAME_5={`7`}
+- `[atomicanimation]` 第476条 · `event`：GAME_2={`16 11 0`} | GAME_3={`16 11 0`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第476条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第476条 · `length`：GAME_2={`20`} | GAME_3={`20`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第476条 · `name`：GAME_2={`"saracen_child_male_pickup"`} | GAME_3={`"saracen_child_male_pickup"`} | GAME_4={`"frank_hero_unarmed_idle_short_b"`} | GAME_5={`"frank_hero_unarmed_idle_short_b"`}
+- `[atomicanimation]` 第476条 · `startdirection`：GAME_2={`6`} | GAME_3={`6`} | GAME_4={`7`} | GAME_5={`7`}
+- `[atomicanimation]` 第477条 · `event`：GAME_2={`30 2 +4000`} | GAME_3={`30 2 +4000`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第477条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第477条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第477条 · `name`：GAME_2={`"saracen_child_male_eat_slot_food"`} | GAME_3={`"saracen_child_male_eat_slot_food"`} | GAME_4={`"frank_hero_unarmed_idle_short_c"`} | GAME_5={`"frank_hero_unarmed_idle_short_c"`}
+- `[atomicanimation]` 第477条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`7`} | GAME_5={`7`}
+- `[atomicanimation]` 第478条 · `event`：GAME_2={`40 3 +4000`} | GAME_3={`40 3 +4000`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第478条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第478条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第478条 · `name`：GAME_2={`"saracen_child_male_eat_slot_candy"`} | GAME_3={`"saracen_child_male_eat_slot_candy"`} | GAME_4={`"frank_hero_unarmed_idle_medium"`} | GAME_5={`"frank_hero_unarmed_idle_medium"`}
+- `[atomicanimation]` 第478条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`7`} | GAME_5={`7`}
+- `[atomicanimation]` 第479条 · `event`：GAME_2={`200 3 +100`} | GAME_3={`200 3 +100`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第479条 · `length`：GAME_2={`247`} | GAME_3={`247`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第479条 · `name`：GAME_2={`"saracen_child_male_listen"`} | GAME_3={`"saracen_child_male_listen"`} | GAME_4={`"frank_hero_unarmed_idle_long"`} | GAME_5={`"frank_hero_unarmed_idle_long"`}
+- `[atomicanimation]` 第479条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`7`} | GAME_5={`7`}
+- `[atomicanimation]` 第480条 · `name`：GAME_2={`"saracen_woman_idle"`} | GAME_3={`"saracen_woman_idle"`} | GAME_4={`"frank_hero_unarmed_idle_verylong"`} | GAME_5={`"frank_hero_unarmed_idle_verylong"`}
+- `[atomicanimation]` 第480条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`7`} | GAME_5={`7`}
+- `[atomicanimation]` 第481条 · `event`：GAME_2={`22 34 36`} | GAME_3={`22 34 36`} | GAME_4={`95 1 +100`} | GAME_5={`95 1 +100`}
+- `[atomicanimation]` 第481条 · `name`：GAME_2={`"saracen_woman_sleep"`} | GAME_3={`"saracen_woman_sleep"`} | GAME_4={`"frank_hero_unarmed_sleep"`} | GAME_5={`"frank_hero_unarmed_sleep"`}
+- `[atomicanimation]` 第482条 · `event`：GAME_2={`20 11 0`} | GAME_3={`20 11 0`} | GAME_4={`16 11 0`} | GAME_5={`16 11 0`}
+- `[atomicanimation]` 第482条 · `length`：GAME_2={`30`} | GAME_3={`30`} | GAME_4={`20`} | GAME_5={`20`}
+- `[atomicanimation]` 第482条 · `name`：GAME_2={`"saracen_woman_pickup"`} | GAME_3={`"saracen_woman_pickup"`} | GAME_4={`"frank_hero_unarmed_pickup"`} | GAME_5={`"frank_hero_unarmed_pickup"`}
+- `[atomicanimation]` 第482条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6`} | GAME_5={`6`}
+- `[atomicanimation]` 第483条 · `event`：GAME_2={`20 12 0`} | GAME_3={`20 12 0`} | GAME_4={`30 2 +4000`} | GAME_5={`30 2 +4000`}
+- `[atomicanimation]` 第483条 · `length`：GAME_2={`30`} | GAME_3={`30`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第483条 · `name`：GAME_2={`"saracen_woman_pileup"`} | GAME_3={`"saracen_woman_pileup"`} | GAME_4={`"frank_hero_unarmed_eat_slot_food"`} | GAME_5={`"frank_hero_unarmed_eat_slot_food"`}
+- `[atomicanimation]` 第484条 · `event`：GAME_2={`30 2 +4000`} | GAME_3={`30 2 +4000`} | GAME_4={`40 3 +4000`} | GAME_5={`40 3 +4000`}
+- `[atomicanimation]` 第484条 · `name`：GAME_2={`"saracen_woman_eat_slot_food"`} | GAME_3={`"saracen_woman_eat_slot_food"`} | GAME_4={`"frank_hero_unarmed_eat_slot_candy"`} | GAME_5={`"frank_hero_unarmed_eat_slot_candy"`}
+- `[atomicanimation]` 第485条 · `event`：GAME_2={`40 3 +4000`} | GAME_3={`40 3 +4000`} | GAME_4={`200 3 +100`} | GAME_5={`200 3 +100`}
+- `[atomicanimation]` 第485条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第485条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`247`} | GAME_5={`247`}
+- `[atomicanimation]` 第485条 · `name`：GAME_2={`"saracen_woman_eat_slot_candy"`} | GAME_3={`"saracen_woman_eat_slot_candy"`} | GAME_4={`"frank_hero_unarmed_listen"`} | GAME_5={`"frank_hero_unarmed_listen"`}
+- `[atomicanimation]` 第486条 · `event`：GAME_2={`50 3 +100`} | GAME_3={`50 3 +100`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第486条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第486条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第486条 · `name`：GAME_2={`"saracen_woman_monologuize"`} | GAME_3={`"saracen_woman_monologuize"`} | GAME_4={`"saracen_baby_female_idle"`} | GAME_5={`"saracen_baby_female_idle"`}
+- `[atomicanimation]` 第487条 · `event`：GAME_2={`95 3 +800`} | GAME_3={`95 3 +800`} | GAME_4={`95 1 +100`} | GAME_5={`95 1 +100`}
+- `[atomicanimation]` 第487条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第487条 · `name`：GAME_2={`"saracen_woman_talk"`} | GAME_3={`"saracen_woman_talk"`} | GAME_4={`"saracen_baby_female_sleep"`} | GAME_5={`"saracen_baby_female_sleep"`}
+- `[atomicanimation]` 第488条 · `event`：GAME_2={`95 3 +100`} | GAME_3={`95 3 +100`} | GAME_4={`16 11 0`} | GAME_5={`16 11 0`}
+- `[atomicanimation]` 第488条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第488条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`20`} | GAME_5={`20`}
+- `[atomicanimation]` 第488条 · `name`：GAME_2={`"saracen_woman_listen"`} | GAME_3={`"saracen_woman_listen"`} | GAME_4={`"saracen_baby_female_pickup"`} | GAME_5={`"saracen_baby_female_pickup"`}
+- `[atomicanimation]` 第488条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6`} | GAME_5={`6`}
+- `[atomicanimation]` 第489条 · `event`：GAME_2={`95 3 +800`} | GAME_3={`95 3 +800`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第489条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第489条 · `name`：GAME_2={`"saracen_woman_enjoy"`} | GAME_3={`"saracen_woman_enjoy"`} | GAME_4={`"saracen_baby_male_idle"`} | GAME_5={`"saracen_baby_male_idle"`}
+- `[atomicanimation]` 第490条 · `event`：GAME_2={`40 3 +800`} | GAME_3={`40 3 +800`} | GAME_4={`95 1 +100`} | GAME_5={`95 1 +100`}
+- `[atomicanimation]` 第490条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第490条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第490条 · `name`：GAME_2={`"saracen_woman_kiss"`} | GAME_3={`"saracen_woman_kiss"`} | GAME_4={`"saracen_baby_male_sleep"`} | GAME_5={`"saracen_baby_male_sleep"`}
+- `[atomicanimation]` 第491条 · `event`：GAME_2={`40 3 +100`} | GAME_3={`40 3 +100`} | GAME_4={`16 11 0`} | GAME_5={`16 11 0`}
+- `[atomicanimation]` 第491条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第491条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`20`} | GAME_5={`20`}
+- `[atomicanimation]` 第491条 · `name`：GAME_2={`"saracen_woman_kissed"`} | GAME_3={`"saracen_woman_kissed"`} | GAME_4={`"saracen_baby_male_pickup"`} | GAME_5={`"saracen_baby_male_pickup"`}
+- `[atomicanimation]` 第491条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6`} | GAME_5={`6`}
+- `[atomicanimation]` 第492条 · `event`：GAME_2={`40 3 +800`} | GAME_3={`40 3 +800`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第492条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第492条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第492条 · `name`：GAME_2={`"saracen_woman_make_love"`} | GAME_3={`"saracen_woman_make_love"`} | GAME_4={`"saracen_child_female_idle"`} | GAME_5={`"saracen_child_female_idle"`}
+- `[atomicanimation]` 第493条 · `event`：GAME_2={`40 3 +800`} | GAME_3={`40 3 +800`} | GAME_4={`95 1 +100`} | GAME_5={`95 1 +100`}
+- `[atomicanimation]` 第493条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第493条 · `name`：GAME_2={`"saracen_woman_get_loved"`} | GAME_3={`"saracen_woman_get_loved"`} | GAME_4={`"saracen_child_female_sleep"`} | GAME_5={`"saracen_child_female_sleep"`}
+- `[atomicanimation]` 第494条 · `event`：GAME_2={`50 24 0`} | GAME_3={`50 24 0`} | GAME_4={`16 11 0`} | GAME_5={`16 11 0`}
+- `[atomicanimation]` 第494条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`20`} | GAME_5={`20`}
+- `[atomicanimation]` 第494条 · `name`：GAME_2={`"saracen_woman_give_birth"`} | GAME_3={`"saracen_woman_give_birth"`} | GAME_4={`"saracen_child_female_pickup"`} | GAME_5={`"saracen_child_female_pickup"`}
+- `[atomicanimation]` 第494条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6`} | GAME_5={`6`}
+- `[atomicanimation]` 第495条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`30 2 +4000`} | GAME_5={`30 2 +4000`}
+- `[atomicanimation]` 第495条 · `name`：GAME_2={`"saracen_woman_attacked"`} | GAME_3={`"saracen_woman_attacked"`} | GAME_4={`"saracen_child_female_eat_slot_food"`} | GAME_5={`"saracen_child_female_eat_slot_food"`}
+- `[atomicanimation]` 第496条 · `event`：GAME_2={`6 25`} | GAME_3={`6 25`} | GAME_4={`40 3 +4000`} | GAME_5={`40 3 +4000`}
+- `[atomicanimation]` 第496条 · `length`：GAME_2={`16`} | GAME_3={`16`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第496条 · `name`：GAME_2={`"saracen_woman_attack"`} | GAME_3={`"saracen_woman_attack"`} | GAME_4={`"saracen_child_female_eat_slot_candy"`} | GAME_5={`"saracen_child_female_eat_slot_candy"`}
+- `[atomicanimation]` 第497条 · `event`：GAME_2={`16 33`} | GAME_3={`16 33`} | GAME_4={`200 3 +100`} | GAME_5={`200 3 +100`}
+- `[atomicanimation]` 第497条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第497条 · `length`：GAME_2={`20`} | GAME_3={`20`} | GAME_4={`247`} | GAME_5={`247`}
+- `[atomicanimation]` 第497条 · `name`：GAME_2={`"saracen_woman_open_chest"`} | GAME_3={`"saracen_woman_open_chest"`} | GAME_4={`"saracen_child_female_listen"`} | GAME_5={`"saracen_child_female_listen"`}
+- `[atomicanimation]` 第497条 · `startdirection`：GAME_2={`6`} | GAME_3={`6`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第498条 · `length`：GAME_2={`6`} | GAME_3={`6`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第498条 · `name`：GAME_2={`"saracen_civilist_idle_short_a"`} | GAME_3={`"saracen_civilist_idle_short_a"`} | GAME_4={`"saracen_child_male_idle"`} | GAME_5={`"saracen_child_male_idle"`}
+- `[atomicanimation]` 第498条 · `startdirection`：GAME_2={`7`} | GAME_3={`7`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第499条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`95 1 +100`} | GAME_5={`95 1 +100`}
+- `[atomicanimation]` 第499条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第499条 · `length`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第499条 · `name`：GAME_2={`"saracen_civilist_idle_short_b"`} | GAME_3={`"saracen_civilist_idle_short_b"`} | GAME_4={`"saracen_child_male_sleep"`} | GAME_5={`"saracen_child_male_sleep"`}
+- `[atomicanimation]` 第499条 · `startdirection`：GAME_2={`7`} | GAME_3={`7`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第500条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`16 11 0`} | GAME_5={`16 11 0`}
+- `[atomicanimation]` 第500条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第500条 · `length`：GAME_2={`24`} | GAME_3={`24`} | GAME_4={`20`} | GAME_5={`20`}
+- `[atomicanimation]` 第500条 · `name`：GAME_2={`"saracen_civilist_idle_short_c"`} | GAME_3={`"saracen_civilist_idle_short_c"`} | GAME_4={`"saracen_child_male_pickup"`} | GAME_5={`"saracen_child_male_pickup"`}
+- `[atomicanimation]` 第500条 · `startdirection`：GAME_2={`7`} | GAME_3={`7`} | GAME_4={`6`} | GAME_5={`6`}
+- `[atomicanimation]` 第501条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`30 2 +4000`} | GAME_5={`30 2 +4000`}
+- `[atomicanimation]` 第501条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第501条 · `length`：GAME_2={`48`} | GAME_3={`48`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第501条 · `name`：GAME_2={`"saracen_civilist_idle_medium"`} | GAME_3={`"saracen_civilist_idle_medium"`} | GAME_4={`"saracen_child_male_eat_slot_food"`} | GAME_5={`"saracen_child_male_eat_slot_food"`}
+- `[atomicanimation]` 第501条 · `startdirection`：GAME_2={`7`} | GAME_3={`7`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第502条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`40 3 +4000`} | GAME_5={`40 3 +4000`}
+- `[atomicanimation]` 第502条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第502条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第502条 · `name`：GAME_2={`"saracen_civilist_idle_long"`} | GAME_3={`"saracen_civilist_idle_long"`} | GAME_4={`"saracen_child_male_eat_slot_candy"`} | GAME_5={`"saracen_child_male_eat_slot_candy"`}
+- `[atomicanimation]` 第502条 · `startdirection`：GAME_2={`7`} | GAME_3={`7`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第503条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`200 3 +100`} | GAME_5={`200 3 +100`}
+- `[atomicanimation]` 第503条 · `length`：GAME_2={`500`} | GAME_3={`500`} | GAME_4={`247`} | GAME_5={`247`}
+- `[atomicanimation]` 第503条 · `name`：GAME_2={`"saracen_civilist_idle_verylong"`} | GAME_3={`"saracen_civilist_idle_verylong"`} | GAME_4={`"saracen_child_male_listen"`} | GAME_5={`"saracen_child_male_listen"`}
+- `[atomicanimation]` 第503条 · `startdirection`：GAME_2={`7`} | GAME_3={`7`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第504条 · `event`：GAME_2={`200 1 +4000`} | GAME_3={`200 1 +4000`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第504条 · `length`：GAME_2={`237`} | GAME_3={`237`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第504条 · `name`：GAME_2={`"saracen_civilist_sleep"`} | GAME_3={`"saracen_civilist_sleep"`} | GAME_4={`"saracen_woman_idle"`} | GAME_5={`"saracen_woman_idle"`}
+- `[atomicanimation]` 第505条 · `event`：GAME_2={`200 1 +4000`} | GAME_3={`200 1 +4000`} | GAME_4={`22 34 36`} | GAME_5={`22 34 36`}
+- `[atomicanimation]` 第505条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第505条 · `length`：GAME_2={`237`} | GAME_3={`237`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第505条 · `name`：GAME_2={`"saracen_soldier_sleep"`} | GAME_3={`"saracen_soldier_sleep"`} | GAME_4={`"saracen_woman_sleep"`} | GAME_5={`"saracen_woman_sleep"`}
+- `[atomicanimation]` 第506条 · `event`：GAME_2={`45 1 +4000`} | GAME_3={`45 1 +4000`} | GAME_4={`20 11 0`} | GAME_5={`20 11 0`}
+- `[atomicanimation]` 第506条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`30`} | GAME_5={`30`}
+- `[atomicanimation]` 第506条 · `name`：GAME_2={`"saracen_civilist_sleep_home"`} | GAME_3={`"saracen_civilist_sleep_home"`} | GAME_4={`"saracen_woman_pickup"`} | GAME_5={`"saracen_woman_pickup"`}
+- `[atomicanimation]` 第507条 · `event`：GAME_2={`16 11 0`} | GAME_3={`16 11 0`} | GAME_4={`20 12 0`} | GAME_5={`20 12 0`}
+- `[atomicanimation]` 第507条 · `length`：GAME_2={`20`} | GAME_3={`20`} | GAME_4={`30`} | GAME_5={`30`}
+- `[atomicanimation]` 第507条 · `name`：GAME_2={`"saracen_civilist_pickup"`} | GAME_3={`"saracen_civilist_pickup"`} | GAME_4={`"saracen_woman_pileup"`} | GAME_5={`"saracen_woman_pileup"`}
+- `[atomicanimation]` 第507条 · `startdirection`：GAME_2={`6`} | GAME_3={`6`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第508条 · `event`：GAME_2={`16 12 0`} | GAME_3={`16 12 0`} | GAME_4={`30 2 +4000`} | GAME_5={`30 2 +4000`}
+- `[atomicanimation]` 第508条 · `length`：GAME_2={`20`} | GAME_3={`20`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第508条 · `name`：GAME_2={`"saracen_civilist_pileup"`} | GAME_3={`"saracen_civilist_pileup"`} | GAME_4={`"saracen_woman_eat_slot_food"`} | GAME_5={`"saracen_woman_eat_slot_food"`}
+- `[atomicanimation]` 第508条 · `startdirection`：GAME_2={`6`} | GAME_3={`6`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第509条 · `event`：GAME_2={`30 2 +4000`} | GAME_3={`30 2 +4000`} | GAME_4={`40 3 +4000`} | GAME_5={`40 3 +4000`}
+- `[atomicanimation]` 第509条 · `name`：GAME_2={`"saracen_civilist_eat_slot_food"`} | GAME_3={`"saracen_civilist_eat_slot_food"`} | GAME_4={`"saracen_woman_eat_slot_candy"`} | GAME_5={`"saracen_woman_eat_slot_candy"`}
+- `[atomicanimation]` 第510条 · `event`：GAME_2={`40 3 +4000`} | GAME_3={`40 3 +4000`} | GAME_4={`50 3 +100`} | GAME_5={`50 3 +100`}
+- `[atomicanimation]` 第510条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第510条 · `name`：GAME_2={`"saracen_civilist_eat_slot_candy"`} | GAME_3={`"saracen_civilist_eat_slot_candy"`} | GAME_4={`"saracen_woman_monologuize"`} | GAME_5={`"saracen_woman_monologuize"`}
+- `[atomicanimation]` 第511条 · `event`：GAME_2={`30 2 +6000`} | GAME_3={`30 2 +6000`} | GAME_4={`95 3 +800`} | GAME_5={`95 3 +800`}
+- `[atomicanimation]` 第511条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第511条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第511条 · `name`：GAME_2={`"saracen_civilist_eat_athome"`} | GAME_3={`"saracen_civilist_eat_athome"`} | GAME_4={`"saracen_woman_talk"`} | GAME_5={`"saracen_woman_talk"`}
+- `[atomicanimation]` 第512条 · `event`：GAME_2={`30 2 +4000`} | GAME_3={`30 2 +4000`} | GAME_4={`95 3 +100`} | GAME_5={`95 3 +100`}
+- `[atomicanimation]` 第512条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第512条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第512条 · `name`：GAME_2={`"saracen_soldier_eat_unarmed"`} | GAME_3={`"saracen_soldier_eat_unarmed"`} | GAME_4={`"saracen_woman_listen"`} | GAME_5={`"saracen_woman_listen"`}
+- `[atomicanimation]` 第513条 · `event`：GAME_2={`30 2 +4000`} | GAME_3={`30 2 +4000`} | GAME_4={`95 3 +800`} | GAME_5={`95 3 +800`}
+- `[atomicanimation]` 第513条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第513条 · `name`：GAME_2={`"saracen_soldier_eat_sword_short"`} | GAME_3={`"saracen_soldier_eat_sword_short"`} | GAME_4={`"saracen_woman_enjoy"`} | GAME_5={`"saracen_woman_enjoy"`}
+- `[atomicanimation]` 第514条 · `event`：GAME_2={`95 4 +800`} | GAME_3={`95 4 +800`} | GAME_4={`40 3 +800`} | GAME_5={`40 3 +800`}
+- `[atomicanimation]` 第514条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第514条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第514条 · `name`：GAME_2={`"saracen_civilist_pray"`} | GAME_3={`"saracen_civilist_pray"`} | GAME_4={`"saracen_woman_kiss"`} | GAME_5={`"saracen_woman_kiss"`}
+- `[atomicanimation]` 第515条 · `event`：GAME_2={`50 3 +800`} | GAME_3={`50 3 +800`} | GAME_4={`40 3 +100`} | GAME_5={`40 3 +100`}
+- `[atomicanimation]` 第515条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第515条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第515条 · `name`：GAME_2={`"saracen_civilist_monologuize"`} | GAME_3={`"saracen_civilist_monologuize"`} | GAME_4={`"saracen_woman_kissed"`} | GAME_5={`"saracen_woman_kissed"`}
+- `[atomicanimation]` 第516条 · `event`：GAME_2={`95 3 +800`} | GAME_3={`95 3 +800`} | GAME_4={`40 3 +800`} | GAME_5={`40 3 +800`}
+- `[atomicanimation]` 第516条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第516条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第516条 · `name`：GAME_2={`"saracen_civilist_talk"`} | GAME_3={`"saracen_civilist_talk"`} | GAME_4={`"saracen_woman_make_love"`} | GAME_5={`"saracen_woman_make_love"`}
+- `[atomicanimation]` 第517条 · `event`：GAME_2={`95 3 +100`} | GAME_3={`95 3 +100`} | GAME_4={`40 3 +800`} | GAME_5={`40 3 +800`}
+- `[atomicanimation]` 第517条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第517条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第517条 · `name`：GAME_2={`"saracen_civilist_listen"`} | GAME_3={`"saracen_civilist_listen"`} | GAME_4={`"saracen_woman_get_loved"`} | GAME_5={`"saracen_woman_get_loved"`}
+- `[atomicanimation]` 第518条 · `event`：GAME_2={`18 3 +100`} | GAME_3={`18 3 +100`} | GAME_4={`50 24 0`} | GAME_5={`50 24 0`}
+- `[atomicanimation]` 第518条 · `length`：GAME_2={`25`} | GAME_3={`25`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第518条 · `name`：GAME_2={`"saracen_civilist_enjoy"`} | GAME_3={`"saracen_civilist_enjoy"`} | GAME_4={`"saracen_woman_give_birth"`} | GAME_5={`"saracen_woman_give_birth"`}
+- `[atomicanimation]` 第519条 · `event`：GAME_2={`40 3 +800`} | GAME_3={`40 3 +800`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第519条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第519条 · `name`：GAME_2={`"saracen_civilist_kiss"`} | GAME_3={`"saracen_civilist_kiss"`} | GAME_4={`"saracen_woman_attacked"`} | GAME_5={`"saracen_woman_attacked"`}
+- `[atomicanimation]` 第520条 · `event`：GAME_2={`40 3 +100`} | GAME_3={`40 3 +100`} | GAME_4={`6 25`} | GAME_5={`6 25`}
+- `[atomicanimation]` 第520条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第520条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`16`} | GAME_5={`16`}
+- `[atomicanimation]` 第520条 · `name`：GAME_2={`"saracen_civilist_kissed"`} | GAME_3={`"saracen_civilist_kissed"`} | GAME_4={`"saracen_woman_attack"`} | GAME_5={`"saracen_woman_attack"`}
+- `[atomicanimation]` 第521条 · `event`：GAME_2={`40 3 +800`} | GAME_3={`40 3 +800`} | GAME_4={`16 33`} | GAME_5={`16 33`}
+- `[atomicanimation]` 第521条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`20`} | GAME_5={`20`}
+- `[atomicanimation]` 第521条 · `name`：GAME_2={`"saracen_civilist_make_love"`} | GAME_3={`"saracen_civilist_make_love"`} | GAME_4={`"saracen_woman_open_chest"`} | GAME_5={`"saracen_woman_open_chest"`}
+- `[atomicanimation]` 第521条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6`} | GAME_5={`6`}
+- `[atomicanimation]` 第522条 · `event`：GAME_2={`40 3 +100`} | GAME_3={`40 3 +100`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第522条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第522条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`6`} | GAME_5={`6`}
+- `[atomicanimation]` 第522条 · `name`：GAME_2={`"saracen_civilist_get_loved"`} | GAME_3={`"saracen_civilist_get_loved"`} | GAME_4={`"saracen_civilist_idle_short_a"`} | GAME_5={`"saracen_civilist_idle_short_a"`}
+- `[atomicanimation]` 第522条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`7`} | GAME_5={`7`}
+- `[atomicanimation]` 第523条 · `event`：GAME_2={`49 11`} | GAME_3={`49 11`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第523条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第523条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第523条 · `name`：GAME_2={`"saracen_civilist_produce_water"`} | GAME_3={`"saracen_civilist_produce_water"`} | GAME_4={`"saracen_civilist_idle_short_b"`} | GAME_5={`"saracen_civilist_idle_short_b"`}
+- `[atomicanimation]` 第523条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`7`} | GAME_5={`7`}
+- `[atomicanimation]` 第524条 · `event`：GAME_2={`49 11`} | GAME_3={`49 11`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第524条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第524条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`24`} | GAME_5={`24`}
+- `[atomicanimation]` 第524条 · `name`：GAME_2={`"saracen_civilist_produce_honey"`} | GAME_3={`"saracen_civilist_produce_honey"`} | GAME_4={`"saracen_civilist_idle_short_c"`} | GAME_5={`"saracen_civilist_idle_short_c"`}
+- `[atomicanimation]` 第524条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`7`} | GAME_5={`7`}
+- `[atomicanimation]` 第525条 · `event`：GAME_2={`6 25`} | GAME_3={`6 25`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第525条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第525条 · `length`：GAME_2={`16`} | GAME_3={`16`} | GAME_4={`48`} | GAME_5={`48`}
+- `[atomicanimation]` 第525条 · `name`：GAME_2={`"saracen_civilist_attack"`} | GAME_3={`"saracen_civilist_attack"`} | GAME_4={`"saracen_civilist_idle_medium"`} | GAME_5={`"saracen_civilist_idle_medium"`}
+- `[atomicanimation]` 第525条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`7`} | GAME_5={`7`}
+- `[atomicanimation]` 第526条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第526条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第526条 · `name`：GAME_2={`"saracen_civilist_attacked"`} | GAME_3={`"saracen_civilist_attacked"`} | GAME_4={`"saracen_civilist_idle_long"`} | GAME_5={`"saracen_civilist_idle_long"`}
+- `[atomicanimation]` 第526条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`7`} | GAME_5={`7`}
+- `[atomicanimation]` 第527条 · `event`：GAME_2={`16 33`} | GAME_3={`16 33`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第527条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第527条 · `length`：GAME_2={`20`} | GAME_3={`20`} | GAME_4={`500`} | GAME_5={`500`}
+- `[atomicanimation]` 第527条 · `name`：GAME_2={`"saracen_civilist_open_chest"`} | GAME_3={`"saracen_civilist_open_chest"`} | GAME_4={`"saracen_civilist_idle_verylong"`} | GAME_5={`"saracen_civilist_idle_verylong"`}
+- `[atomicanimation]` 第527条 · `startdirection`：GAME_2={`6`} | GAME_3={`6`} | GAME_4={`7`} | GAME_5={`7`}
+- `[atomicanimation]` 第528条 · `event`：GAME_2={`8 20`} | GAME_3={`8 20`} | GAME_4={`200 1 +4000`} | GAME_5={`200 1 +4000`}
+- `[atomicanimation]` 第528条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第528条 · `length`：GAME_2={`15`} | GAME_3={`15`} | GAME_4={`237`} | GAME_5={`237`}
+- `[atomicanimation]` 第528条 · `name`：GAME_2={`"saracen_builder_build_house"`} | GAME_3={`"saracen_builder_build_house"`} | GAME_4={`"saracen_civilist_sleep"`} | GAME_5={`"saracen_civilist_sleep"`}
+- `[atomicanimation]` 第529条 · `event`：GAME_2={`8 20`} | GAME_3={`8 20`} | GAME_4={`200 1 +4000`} | GAME_5={`200 1 +4000`}
+- `[atomicanimation]` 第529条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第529条 · `length`：GAME_2={`15`} | GAME_3={`15`} | GAME_4={`237`} | GAME_5={`237`}
+- `[atomicanimation]` 第529条 · `name`：GAME_2={`"saracen_builder_build_road"`} | GAME_3={`"saracen_builder_build_road"`} | GAME_4={`"saracen_soldier_sleep"`} | GAME_5={`"saracen_soldier_sleep"`}
+- `[atomicanimation]` 第530条 · `event`：GAME_2={`8 20`} | GAME_3={`8 20`} | GAME_4={`45 1 +4000`} | GAME_5={`45 1 +4000`}
+- `[atomicanimation]` 第530条 · `length`：GAME_2={`15`} | GAME_3={`15`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第530条 · `name`：GAME_2={`"saracen_builder_build_wall"`} | GAME_3={`"saracen_builder_build_wall"`} | GAME_4={`"saracen_civilist_sleep_home"`} | GAME_5={`"saracen_civilist_sleep_home"`}
+- `[atomicanimation]` 第531条 · `event`：GAME_2={`8 20`} | GAME_3={`8 20`} | GAME_4={`16 11 0`} | GAME_5={`16 11 0`}
+- `[atomicanimation]` 第531条 · `length`：GAME_2={`15`} | GAME_3={`15`} | GAME_4={`20`} | GAME_5={`20`}
+- `[atomicanimation]` 第531条 · `name`：GAME_2={`"saracen_scout_build_guide"`} | GAME_3={`"saracen_scout_build_guide"`} | GAME_4={`"saracen_civilist_pickup"`} | GAME_5={`"saracen_civilist_pickup"`}
+- `[atomicanimation]` 第531条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6`} | GAME_5={`6`}
+- `[atomicanimation]` 第532条 · `event`：GAME_2={`8 8 +4000`} | GAME_3={`8 8 +4000`} | GAME_4={`16 12 0`} | GAME_5={`16 12 0`}
+- `[atomicanimation]` 第532条 · `length`：GAME_2={`15`} | GAME_3={`15`} | GAME_4={`20`} | GAME_5={`20`}
+- `[atomicanimation]` 第532条 · `name`：GAME_2={`"saracen_jester_jest"`} | GAME_3={`"saracen_jester_jest"`} | GAME_4={`"saracen_civilist_pileup"`} | GAME_5={`"saracen_civilist_pileup"`}
+- `[atomicanimation]` 第532条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6`} | GAME_5={`6`}
+- `[atomicanimation]` 第533条 · `event`：GAME_2={`20 18`} | GAME_3={`20 18`} | GAME_4={`30 2 +4000`} | GAME_5={`30 2 +4000`}
+- `[atomicanimation]` 第533条 · `length`：GAME_2={`30`} | GAME_3={`30`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第533条 · `name`：GAME_2={`"saracen_collector_harvest_tree"`} | GAME_3={`"saracen_collector_harvest_tree"`} | GAME_4={`"saracen_civilist_eat_slot_food"`} | GAME_5={`"saracen_civilist_eat_slot_food"`}
+- `[atomicanimation]` 第534条 · `event`：GAME_2={`19 34 3`} | GAME_3={`19 34 3`} | GAME_4={`40 3 +4000`} | GAME_5={`40 3 +4000`}
+- `[atomicanimation]` 第534条 · `length`：GAME_2={`29`} | GAME_3={`29`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第534条 · `name`：GAME_2={`"saracen_collector_harvest_stone"`} | GAME_3={`"saracen_collector_harvest_stone"`} | GAME_4={`"saracen_civilist_eat_slot_candy"`} | GAME_5={`"saracen_civilist_eat_slot_candy"`}
+- `[atomicanimation]` 第535条 · `event`：GAME_2={`20 13`} | GAME_3={`20 13`} | GAME_4={`30 2 +6000`} | GAME_5={`30 2 +6000`}
+- `[atomicanimation]` 第535条 · `length`：GAME_2={`23`} | GAME_3={`23`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第535条 · `name`：GAME_2={`"saracen_collector_harvest_mud"`} | GAME_3={`"saracen_collector_harvest_mud"`} | GAME_4={`"saracen_civilist_eat_athome"`} | GAME_5={`"saracen_civilist_eat_athome"`}
+- `[atomicanimation]` 第536条 · `event`：GAME_2={`19 13`} | GAME_3={`19 13`} | GAME_4={`30 2 +4000`} | GAME_5={`30 2 +4000`}
+- `[atomicanimation]` 第536条 · `length`：GAME_2={`23`} | GAME_3={`23`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第536条 · `name`：GAME_2={`"saracen_collector_harvest_iron"`} | GAME_3={`"saracen_collector_harvest_iron"`} | GAME_4={`"saracen_soldier_eat_unarmed"`} | GAME_5={`"saracen_soldier_eat_unarmed"`}
+- `[atomicanimation]` 第537条 · `event`：GAME_2={`19 13`} | GAME_3={`19 13`} | GAME_4={`30 2 +4000`} | GAME_5={`30 2 +4000`}
+- `[atomicanimation]` 第537条 · `length`：GAME_2={`23`} | GAME_3={`23`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第537条 · `name`：GAME_2={`"saracen_collector_harvest_gold"`} | GAME_3={`"saracen_collector_harvest_gold"`} | GAME_4={`"saracen_soldier_eat_sword_short"`} | GAME_5={`"saracen_soldier_eat_sword_short"`}
+- `[atomicanimation]` 第538条 · `event`：GAME_2={`40 11`} | GAME_3={`40 11`} | GAME_4={`95 4 +800`} | GAME_5={`95 4 +800`}
+- `[atomicanimation]` 第538条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第538条 · `name`：GAME_2={`"saracen_collector_harvest_honey"`} | GAME_3={`"saracen_collector_harvest_honey"`} | GAME_4={`"saracen_civilist_pray"`} | GAME_5={`"saracen_civilist_pray"`}
+- `[atomicanimation]` 第539条 · `event`：GAME_2={`21 18`} | GAME_3={`21 18`} | GAME_4={`50 3 +800`} | GAME_5={`50 3 +800`}
+- `[atomicanimation]` 第539条 · `length`：GAME_2={`35`} | GAME_3={`35`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第539条 · `name`：GAME_2={`"saracen_collector_harvest_herb"`} | GAME_3={`"saracen_collector_harvest_herb"`} | GAME_4={`"saracen_civilist_monologuize"`} | GAME_5={`"saracen_civilist_monologuize"`}
+- `[atomicanimation]` 第540条 · `event`：GAME_2={`22 28`} | GAME_3={`22 28`} | GAME_4={`95 3 +800`} | GAME_5={`95 3 +800`}
+- `[atomicanimation]` 第540条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第540条 · `length`：GAME_2={`35`} | GAME_3={`35`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第540条 · `name`：GAME_2={`"saracen_collector_harvest_mushroom"`} | GAME_3={`"saracen_collector_harvest_mushroom"`} | GAME_4={`"saracen_civilist_talk"`} | GAME_5={`"saracen_civilist_talk"`}
+- `[atomicanimation]` 第541条 · `event`：GAME_2={`40 16`} | GAME_3={`40 16`} | GAME_4={`95 3 +100`} | GAME_5={`95 3 +100`}
+- `[atomicanimation]` 第541条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第541条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第541条 · `name`：GAME_2={`"saracen_collector_cultivate"`} | GAME_3={`"saracen_collector_cultivate"`} | GAME_4={`"saracen_civilist_listen"`} | GAME_5={`"saracen_civilist_listen"`}
+- `[atomicanimation]` 第542条 · `event`：GAME_2={`14 18`} | GAME_3={`14 18`} | GAME_4={`18 3 +100`} | GAME_5={`18 3 +100`}
+- `[atomicanimation]` 第542条 · `length`：GAME_2={`24`} | GAME_3={`24`} | GAME_4={`25`} | GAME_5={`25`}
+- `[atomicanimation]` 第542条 · `name`：GAME_2={`"saracen_farmer_harvest_wheat"`} | GAME_3={`"saracen_farmer_harvest_wheat"`} | GAME_4={`"saracen_civilist_enjoy"`} | GAME_5={`"saracen_civilist_enjoy"`}
+- `[atomicanimation]` 第543条 · `event`：GAME_2={`14 16`} | GAME_3={`14 16`} | GAME_4={`40 3 +800`} | GAME_5={`40 3 +800`}
+- `[atomicanimation]` 第543条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第543条 · `length`：GAME_2={`29`} | GAME_3={`29`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第543条 · `name`：GAME_2={`"saracen_farmer_cultivate"`} | GAME_3={`"saracen_farmer_cultivate"`} | GAME_4={`"saracen_civilist_kiss"`} | GAME_5={`"saracen_civilist_kiss"`}
+- `[atomicanimation]` 第544条 · `event`：GAME_2={`14 15`} | GAME_3={`14 15`} | GAME_4={`40 3 +100`} | GAME_5={`40 3 +100`}
+- `[atomicanimation]` 第544条 · `interruptable`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第544条 · `length`：GAME_2={`24`} | GAME_3={`24`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第544条 · `name`：GAME_2={`"saracen_farmer_plant"`} | GAME_3={`"saracen_farmer_plant"`} | GAME_4={`"saracen_civilist_kissed"`} | GAME_5={`"saracen_civilist_kissed"`}
+- `[atomicanimation]` 第545条 · `event`：GAME_2={`190 21`} | GAME_3={`190 21`} | GAME_4={`40 3 +800`} | GAME_5={`40 3 +800`}
+- `[atomicanimation]` 第545条 · `length`：GAME_2={`200`} | GAME_3={`200`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第545条 · `name`：GAME_2={`"saracen_miller_produce_flour"`} | GAME_3={`"saracen_miller_produce_flour"`} | GAME_4={`"saracen_civilist_make_love"`} | GAME_5={`"saracen_civilist_make_love"`}
+- `[atomicanimation]` 第546条 · `event`：GAME_2={`143 34 15`} | GAME_3={`143 34 15`} | GAME_4={`40 3 +100`} | GAME_5={`40 3 +100`}
+- `[atomicanimation]` 第546条 · `length`：GAME_2={`200`} | GAME_3={`200`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第546条 · `name`：GAME_2={`"saracen_baker_produce_bread"`} | GAME_3={`"saracen_baker_produce_bread"`} | GAME_4={`"saracen_civilist_get_loved"`} | GAME_5={`"saracen_civilist_get_loved"`}
+- `[atomicanimation]` 第547条 · `event`：GAME_2={`143 34 15`} | GAME_3={`143 34 15`} | GAME_4={`49 11`} | GAME_5={`49 11`}
+- `[atomicanimation]` 第547条 · `length`：GAME_2={`200`} | GAME_3={`200`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第547条 · `name`：GAME_2={`"saracen_baker_produce_candy"`} | GAME_3={`"saracen_baker_produce_candy"`} | GAME_4={`"saracen_civilist_produce_water"`} | GAME_5={`"saracen_civilist_produce_water"`}
+- `[atomicanimation]` 第548条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`49 11`} | GAME_5={`49 11`}
+- `[atomicanimation]` 第548条 · `name`：GAME_2={`"saracen_brewer_produce_mead"`} | GAME_3={`"saracen_brewer_produce_mead"`} | GAME_4={`"saracen_civilist_produce_honey"`} | GAME_5={`"saracen_civilist_produce_honey"`}
+- `[atomicanimation]` 第549条 · `event`：GAME_2={`150 4 -1500`} | GAME_3={`150 4 -1500`} | GAME_4={`6 25`} | GAME_5={`6 25`}
+- `[atomicanimation]` 第549条 · `length`：GAME_2={`400`} | GAME_3={`400`} | GAME_4={`16`} | GAME_5={`16`}
+- `[atomicanimation]` 第549条 · `name`：GAME_2={`"saracen_carpenter_produce_spear_wooden"`} | GAME_3={`"saracen_carpenter_produce_spear_wooden"`} | GAME_4={`"saracen_civilist_attack"`} | GAME_5={`"saracen_civilist_attack"`}
+- `[atomicanimation]` 第550条 · `event`：GAME_2={`140 21`} | GAME_3={`140 21`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第550条 · `length`：GAME_2={`400`} | GAME_3={`400`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第550条 · `name`：GAME_2={`"saracen_carpenter_produce_tool_wooden"`} | GAME_3={`"saracen_carpenter_produce_tool_wooden"`} | GAME_4={`"saracen_civilist_attacked"`} | GAME_5={`"saracen_civilist_attacked"`}
+- `[atomicanimation]` 第551条 · `event`：GAME_2={`140 21`} | GAME_3={`140 21`} | GAME_4={`16 33`} | GAME_5={`16 33`}
+- `[atomicanimation]` 第551条 · `length`：GAME_2={`400`} | GAME_3={`400`} | GAME_4={`20`} | GAME_5={`20`}
+- `[atomicanimation]` 第551条 · `name`：GAME_2={`"saracen_carpenter_produce_furniture"`} | GAME_3={`"saracen_carpenter_produce_furniture"`} | GAME_4={`"saracen_civilist_open_chest"`} | GAME_5={`"saracen_civilist_open_chest"`}
+- `[atomicanimation]` 第551条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6`} | GAME_5={`6`}
+- `[atomicanimation]` 第552条 · `event`：GAME_2={`44 4 -1500`} | GAME_3={`44 4 -1500`} | GAME_4={`8 20`} | GAME_5={`8 20`}
+- `[atomicanimation]` 第552条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`15`} | GAME_5={`15`}
+- `[atomicanimation]` 第552条 · `name`：GAME_2={`"saracen_armorer_produce_bow_short"`} | GAME_3={`"saracen_armorer_produce_bow_short"`} | GAME_4={`"saracen_builder_build_house"`} | GAME_5={`"saracen_builder_build_house"`}
+- `[atomicanimation]` 第553条 · `event`：GAME_2={`44 4 -1500`} | GAME_3={`44 4 -1500`} | GAME_4={`8 20`} | GAME_5={`8 20`}
+- `[atomicanimation]` 第553条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`15`} | GAME_5={`15`}
+- `[atomicanimation]` 第553条 · `name`：GAME_2={`"saracen_armorer_produce_bow_long"`} | GAME_3={`"saracen_armorer_produce_bow_long"`} | GAME_4={`"saracen_builder_build_road"`} | GAME_5={`"saracen_builder_build_road"`}
+- `[atomicanimation]` 第554条 · `event`：GAME_2={`55 4 -1500`} | GAME_3={`55 4 -1500`} | GAME_4={`8 20`} | GAME_5={`8 20`}
+- `[atomicanimation]` 第554条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`15`} | GAME_5={`15`}
+- `[atomicanimation]` 第554条 · `name`：GAME_2={`"saracen_armorer_build_vehicle_catapult"`} | GAME_3={`"saracen_armorer_build_vehicle_catapult"`} | GAME_4={`"saracen_builder_build_wall"`} | GAME_5={`"saracen_builder_build_wall"`}
+- `[atomicanimation]` 第555条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`8 20`} | GAME_5={`8 20`}
+- `[atomicanimation]` 第555条 · `length`：GAME_2={`80`} | GAME_3={`80`} | GAME_4={`15`} | GAME_5={`15`}
+- `[atomicanimation]` 第555条 · `name`：GAME_2={`"saracen_potter_produce_crockery"`} | GAME_3={`"saracen_potter_produce_crockery"`} | GAME_4={`"saracen_scout_build_guide"`} | GAME_5={`"saracen_scout_build_guide"`}
+- `[atomicanimation]` 第556条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`8 8 +4000`} | GAME_5={`8 8 +4000`}
+- `[atomicanimation]` 第556条 · `length`：GAME_2={`80`} | GAME_3={`80`} | GAME_4={`15`} | GAME_5={`15`}
+- `[atomicanimation]` 第556条 · `name`：GAME_2={`"saracen_potter_produce_brick"`} | GAME_3={`"saracen_potter_produce_brick"`} | GAME_4={`"saracen_jester_jest"`} | GAME_5={`"saracen_jester_jest"`}
+- `[atomicanimation]` 第557条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`20 18`} | GAME_5={`20 18`}
+- `[atomicanimation]` 第557条 · `length`：GAME_2={`80`} | GAME_3={`80`} | GAME_4={`30`} | GAME_5={`30`}
+- `[atomicanimation]` 第557条 · `name`：GAME_2={`"saracen_potter_produce_tile"`} | GAME_3={`"saracen_potter_produce_tile"`} | GAME_4={`"saracen_collector_harvest_tree"`} | GAME_5={`"saracen_collector_harvest_tree"`}
+- `[atomicanimation]` 第558条 · `event`：GAME_2={`80 34 29`} | GAME_3={`80 34 29`} | GAME_4={`19 34 3`} | GAME_5={`19 34 3`}
+- `[atomicanimation]` 第558条 · `length`：GAME_2={`120`} | GAME_3={`120`} | GAME_4={`29`} | GAME_5={`29`}
+- `[atomicanimation]` 第558条 · `name`：GAME_2={`"saracen_mason_produce_pillar"`} | GAME_3={`"saracen_mason_produce_pillar"`} | GAME_4={`"saracen_collector_harvest_stone"`} | GAME_5={`"saracen_collector_harvest_stone"`}
+- `[atomicanimation]` 第559条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`20 13`} | GAME_5={`20 13`}
+- `[atomicanimation]` 第559条 · `length`：GAME_2={`120`} | GAME_3={`120`} | GAME_4={`23`} | GAME_5={`23`}
+- `[atomicanimation]` 第559条 · `name`：GAME_2={`"saracen_mason_produce_ornament"`} | GAME_3={`"saracen_mason_produce_ornament"`} | GAME_4={`"saracen_collector_harvest_mud"`} | GAME_5={`"saracen_collector_harvest_mud"`}
+- `[atomicanimation]` 第560条 · `event`：GAME_2={`213 34 16`} | GAME_3={`213 34 16`} | GAME_4={`19 13`} | GAME_5={`19 13`}
+- `[atomicanimation]` 第560条 · `eventx`：GAME_2={`90 21`} | GAME_3={`90 21`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第560条 · `length`：GAME_2={`240`} | GAME_3={`240`} | GAME_4={`23`} | GAME_5={`23`}
+- `[atomicanimation]` 第560条 · `name`：GAME_2={`"saracen_smith_produce_tool_iron"`} | GAME_3={`"saracen_smith_produce_tool_iron"`} | GAME_4={`"saracen_collector_harvest_iron"`} | GAME_5={`"saracen_collector_harvest_iron"`}
+- `[atomicanimation]` 第561条 · `event`：GAME_2={`55 4 -1500`} | GAME_3={`55 4 -1500`} | GAME_4={`19 13`} | GAME_5={`19 13`}
+- `[atomicanimation]` 第561条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`23`} | GAME_5={`23`}
+- `[atomicanimation]` 第561条 · `name`：GAME_2={`"saracen_smith_produce_spear_iron"`} | GAME_3={`"saracen_smith_produce_spear_iron"`} | GAME_4={`"saracen_collector_harvest_gold"`} | GAME_5={`"saracen_collector_harvest_gold"`}
+- `[atomicanimation]` 第562条 · `event`：GAME_2={`213 34 16`} | GAME_3={`213 34 16`} | GAME_4={`40 11`} | GAME_5={`40 11`}
+- `[atomicanimation]` 第562条 · `eventx`：GAME_2={`90 21`} | GAME_3={`90 21`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第562条 · `length`：GAME_2={`240`} | GAME_3={`240`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第562条 · `name`：GAME_2={`"saracen_smith_produce_sword_short"`} | GAME_3={`"saracen_smith_produce_sword_short"`} | GAME_4={`"saracen_collector_harvest_honey"`} | GAME_5={`"saracen_collector_harvest_honey"`}
+- `[atomicanimation]` 第563条 · `event`：GAME_2={`45 4 -1500`} | GAME_3={`45 4 -1500`} | GAME_4={`21 18`} | GAME_5={`21 18`}
+- `[atomicanimation]` 第563条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`35`} | GAME_5={`35`}
+- `[atomicanimation]` 第563条 · `name`：GAME_2={`"saracen_smith_produce_sword_long"`} | GAME_3={`"saracen_smith_produce_sword_long"`} | GAME_4={`"saracen_collector_harvest_herb"`} | GAME_5={`"saracen_collector_harvest_herb"`}
+- `[atomicanimation]` 第564条 · `event`：GAME_2={`45 4 -1500`} | GAME_3={`45 4 -1500`} | GAME_4={`22 28`} | GAME_5={`22 28`}
+- `[atomicanimation]` 第564条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`35`} | GAME_5={`35`}
+- `[atomicanimation]` 第564条 · `name`：GAME_2={`"saracen_smith_produce_armor_chain"`} | GAME_3={`"saracen_smith_produce_armor_chain"`} | GAME_4={`"saracen_collector_harvest_mushroom"`} | GAME_5={`"saracen_collector_harvest_mushroom"`}
+- `[atomicanimation]` 第565条 · `event`：GAME_2={`45 4 -1500`} | GAME_3={`45 4 -1500`} | GAME_4={`40 16`} | GAME_5={`40 16`}
+- `[atomicanimation]` 第565条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第565条 · `name`：GAME_2={`"saracen_smith_produce_armor_plate"`} | GAME_3={`"saracen_smith_produce_armor_plate"`} | GAME_4={`"saracen_collector_cultivate"`} | GAME_5={`"saracen_collector_cultivate"`}
+- `[atomicanimation]` 第566条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`14 18`} | GAME_5={`14 18`}
+- `[atomicanimation]` 第566条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`24`} | GAME_5={`24`}
+- `[atomicanimation]` 第566条 · `name`：GAME_2={`"saracen_coiner_produce_coin"`} | GAME_3={`"saracen_coiner_produce_coin"`} | GAME_4={`"saracen_farmer_harvest_wheat"`} | GAME_5={`"saracen_farmer_harvest_wheat"`}
+- `[atomicanimation]` 第567条 · `event`：GAME_2={`80 21`} | GAME_3={`80 21`} | GAME_4={`14 16`} | GAME_5={`14 16`}
+- `[atomicanimation]` 第567条 · `length`：GAME_2={`160`} | GAME_3={`160`} | GAME_4={`29`} | GAME_5={`29`}
+- `[atomicanimation]` 第567条 · `name`：GAME_2={`"saracen_sewer_produce_shoes"`} | GAME_3={`"saracen_sewer_produce_shoes"`} | GAME_4={`"saracen_farmer_cultivate"`} | GAME_5={`"saracen_farmer_cultivate"`}
+- `[atomicanimation]` 第568条 · `event`：GAME_2={`45 4 -1500`} | GAME_3={`45 4 -1500`} | GAME_4={`14 15`} | GAME_5={`14 15`}
+- `[atomicanimation]` 第568条 · `length`：GAME_2={`160`} | GAME_3={`160`} | GAME_4={`24`} | GAME_5={`24`}
+- `[atomicanimation]` 第568条 · `name`：GAME_2={`"saracen_sewer_produce_armor_wool"`} | GAME_3={`"saracen_sewer_produce_armor_wool"`} | GAME_4={`"saracen_farmer_plant"`} | GAME_5={`"saracen_farmer_plant"`}
+- `[atomicanimation]` 第569条 · `event`：GAME_2={`45 4 -1500`} | GAME_3={`45 4 -1500`} | GAME_4={`190 21`} | GAME_5={`190 21`}
+- `[atomicanimation]` 第569条 · `length`：GAME_2={`160`} | GAME_3={`160`} | GAME_4={`200`} | GAME_5={`200`}
+- `[atomicanimation]` 第569条 · `name`：GAME_2={`"saracen_sewer_produce_armor_leather"`} | GAME_3={`"saracen_sewer_produce_armor_leather"`} | GAME_4={`"saracen_miller_produce_flour"`} | GAME_5={`"saracen_miller_produce_flour"`}
+- `[atomicanimation]` 第570条 · `event`：GAME_2={`39 19`} | GAME_3={`39 19`} | GAME_4={`143 34 15`} | GAME_5={`143 34 15`}
+- `[atomicanimation]` 第570条 · `length`：GAME_2={`40`} | GAME_3={`40`} | GAME_4={`200`} | GAME_5={`200`}
+- `[atomicanimation]` 第570条 · `name`：GAME_2={`"saracen_fisher_cast_rod"`} | GAME_3={`"saracen_fisher_cast_rod"`} | GAME_4={`"saracen_baker_produce_bread"`} | GAME_5={`"saracen_baker_produce_bread"`}
+- `[atomicanimation]` 第571条 · `event`：GAME_2={`88 34 20`} | GAME_3={`88 34 20`} | GAME_4={`143 34 15`} | GAME_5={`143 34 15`}
+- `[atomicanimation]` 第571条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`200`} | GAME_5={`200`}
+- `[atomicanimation]` 第571条 · `name`：GAME_2={`"saracen_fisher_catch_one"`} | GAME_3={`"saracen_fisher_catch_one"`} | GAME_4={`"saracen_baker_produce_candy"`} | GAME_5={`"saracen_baker_produce_candy"`}
+- `[atomicanimation]` 第572条 · `event`：GAME_2={`35 34 19`} | GAME_3={`35 34 19`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第572条 · `length`：GAME_2={`52`} | GAME_3={`52`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第572条 · `name`：GAME_2={`"saracen_fisher_catch_none"`} | GAME_3={`"saracen_fisher_catch_none"`} | GAME_4={`"saracen_brewer_produce_mead"`} | GAME_5={`"saracen_brewer_produce_mead"`}
+- `[atomicanimation]` 第573条 · `event`：GAME_2={`22 28`} | GAME_3={`22 28`} | GAME_4={`150 4 -1500`} | GAME_5={`150 4 -1500`}
+- `[atomicanimation]` 第573条 · `length`：GAME_2={`35`} | GAME_3={`35`} | GAME_4={`400`} | GAME_5={`400`}
+- `[atomicanimation]` 第573条 · `name`：GAME_2={`"saracen_hunter_harvest_cadaver"`} | GAME_3={`"saracen_hunter_harvest_cadaver"`} | GAME_4={`"saracen_carpenter_produce_spear_wooden"`} | GAME_5={`"saracen_carpenter_produce_spear_wooden"`}
+- `[atomicanimation]` 第574条 · `event`：GAME_2={`12 25`} | GAME_3={`12 25`} | GAME_4={`140 21`} | GAME_5={`140 21`}
+- `[atomicanimation]` 第574条 · `length`：GAME_2={`25`} | GAME_3={`25`} | GAME_4={`400`} | GAME_5={`400`}
+- `[atomicanimation]` 第574条 · `name`：GAME_2={`"saracen_hunter_attack"`} | GAME_3={`"saracen_hunter_attack"`} | GAME_4={`"saracen_carpenter_produce_tool_wooden"`} | GAME_5={`"saracen_carpenter_produce_tool_wooden"`}
+- `[atomicanimation]` 第575条 · `event`：GAME_2={`80 21`} | GAME_3={`80 21`} | GAME_4={`140 21`} | GAME_5={`140 21`}
+- `[atomicanimation]` 第575条 · `length`：GAME_2={`160`} | GAME_3={`160`} | GAME_4={`400`} | GAME_5={`400`}
+- `[atomicanimation]` 第575条 · `name`：GAME_2={`"saracen_breeder_produce_sausage"`} | GAME_3={`"saracen_breeder_produce_sausage"`} | GAME_4={`"saracen_carpenter_produce_furniture"`} | GAME_5={`"saracen_carpenter_produce_furniture"`}
+- `[atomicanimation]` 第576条 · `event`：GAME_2={`80 21`} | GAME_3={`80 21`} | GAME_4={`44 4 -1500`} | GAME_5={`44 4 -1500`}
+- `[atomicanimation]` 第576条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第576条 · `name`：GAME_2={`"saracen_breeder_produce_sheep"`} | GAME_3={`"saracen_breeder_produce_sheep"`} | GAME_4={`"saracen_armorer_produce_bow_short"`} | GAME_5={`"saracen_armorer_produce_bow_short"`}
+- `[atomicanimation]` 第577条 · `event`：GAME_2={`80 21`} | GAME_3={`80 21`} | GAME_4={`44 4 -1500`} | GAME_5={`44 4 -1500`}
+- `[atomicanimation]` 第577条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第577条 · `name`：GAME_2={`"saracen_breeder_produce_cattle"`} | GAME_3={`"saracen_breeder_produce_cattle"`} | GAME_4={`"saracen_armorer_produce_bow_long"`} | GAME_5={`"saracen_armorer_produce_bow_long"`}
+- `[atomicanimation]` 第578条 · `event`：GAME_2={`65 34 39`} | GAME_3={`65 34 39`} | GAME_4={`55 4 -1500`} | GAME_5={`55 4 -1500`}
+- `[atomicanimation]` 第578条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第578条 · `name`：GAME_2={`"saracen_breeder_slay_sheep"`} | GAME_3={`"saracen_breeder_slay_sheep"`} | GAME_4={`"saracen_armorer_build_vehicle_catapult"`} | GAME_5={`"saracen_armorer_build_vehicle_catapult"`}
+- `[atomicanimation]` 第579条 · `event`：GAME_2={`65 34 39`} | GAME_3={`65 34 39`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第579条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`80`} | GAME_5={`80`}
+- `[atomicanimation]` 第579条 · `name`：GAME_2={`"saracen_breeder_slay_cattle"`} | GAME_3={`"saracen_breeder_slay_cattle"`} | GAME_4={`"saracen_potter_produce_crockery"`} | GAME_5={`"saracen_potter_produce_crockery"`}
+- `[atomicanimation]` 第580条 · `event`：GAME_2={`21 18`} | GAME_3={`21 18`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第580条 · `length`：GAME_2={`35`} | GAME_3={`35`} | GAME_4={`80`} | GAME_5={`80`}
+- `[atomicanimation]` 第580条 · `name`：GAME_2={`"saracen_herb_guy_harvest_herb"`} | GAME_3={`"saracen_herb_guy_harvest_herb"`} | GAME_4={`"saracen_potter_produce_brick"`} | GAME_5={`"saracen_potter_produce_brick"`}
+- `[atomicanimation]` 第581条 · `event`：GAME_2={`21 11`} | GAME_3={`21 11`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第581条 · `length`：GAME_2={`35`} | GAME_3={`35`} | GAME_4={`80`} | GAME_5={`80`}
+- `[atomicanimation]` 第581条 · `name`：GAME_2={`"saracen_herb_guy_harvest_mushroom"`} | GAME_3={`"saracen_herb_guy_harvest_mushroom"`} | GAME_4={`"saracen_potter_produce_tile"`} | GAME_5={`"saracen_potter_produce_tile"`}
+- `[atomicanimation]` 第582条 · `event`：GAME_2={`14 16`} | GAME_3={`14 16`} | GAME_4={`80 34 29`} | GAME_5={`80 34 29`}
+- `[atomicanimation]` 第582条 · `length`：GAME_2={`29`} | GAME_3={`29`} | GAME_4={`120`} | GAME_5={`120`}
+- `[atomicanimation]` 第582条 · `name`：GAME_2={`"saracen_herb_guy_cultivate"`} | GAME_3={`"saracen_herb_guy_cultivate"`} | GAME_4={`"saracen_mason_produce_pillar"`} | GAME_5={`"saracen_mason_produce_pillar"`}
+- `[atomicanimation]` 第583条 · `event`：GAME_2={`14 15`} | GAME_3={`14 15`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第583条 · `length`：GAME_2={`24`} | GAME_3={`24`} | GAME_4={`120`} | GAME_5={`120`}
+- `[atomicanimation]` 第583条 · `name`：GAME_2={`"saracen_herb_guy_plant"`} | GAME_3={`"saracen_herb_guy_plant"`} | GAME_4={`"saracen_mason_produce_ornament"`} | GAME_5={`"saracen_mason_produce_ornament"`}
+- `[atomicanimation]` 第584条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`213 34 16`} | GAME_5={`213 34 16`}
+- `[atomicanimation]` 第584条 · `eventx`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`90 21`} | GAME_5={`90 21`}
+- `[atomicanimation]` 第584条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`240`} | GAME_5={`240`}
+- `[atomicanimation]` 第584条 · `name`：GAME_2={`"saracen_druid_produce_holy_oil"`} | GAME_3={`"saracen_druid_produce_holy_oil"`} | GAME_4={`"saracen_smith_produce_tool_iron"`} | GAME_5={`"saracen_smith_produce_tool_iron"`}
+- `[atomicanimation]` 第585条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`55 4 -1500`} | GAME_5={`55 4 -1500`}
+- `[atomicanimation]` 第585条 · `name`：GAME_2={`"saracen_druid_produce_potion_food_small"`} | GAME_3={`"saracen_druid_produce_potion_food_small"`} | GAME_4={`"saracen_smith_produce_spear_iron"`} | GAME_5={`"saracen_smith_produce_spear_iron"`}
+- `[atomicanimation]` 第586条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`213 34 16`} | GAME_5={`213 34 16`}
+- `[atomicanimation]` 第586条 · `eventx`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`90 21`} | GAME_5={`90 21`}
+- `[atomicanimation]` 第586条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`240`} | GAME_5={`240`}
+- `[atomicanimation]` 第586条 · `name`：GAME_2={`"saracen_druid_produce_potion_food_big"`} | GAME_3={`"saracen_druid_produce_potion_food_big"`} | GAME_4={`"saracen_smith_produce_sword_short"`} | GAME_5={`"saracen_smith_produce_sword_short"`}
+- `[atomicanimation]` 第587条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`45 4 -1500`} | GAME_5={`45 4 -1500`}
+- `[atomicanimation]` 第587条 · `name`：GAME_2={`"saracen_druid_produce_potion_stamina_small"`} | GAME_3={`"saracen_druid_produce_potion_stamina_small"`} | GAME_4={`"saracen_smith_produce_sword_long"`} | GAME_5={`"saracen_smith_produce_sword_long"`}
+- `[atomicanimation]` 第588条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`45 4 -1500`} | GAME_5={`45 4 -1500`}
+- `[atomicanimation]` 第588条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第588条 · `name`：GAME_2={`"saracen_druid_produce_potion_stamina_big"`} | GAME_3={`"saracen_druid_produce_potion_stamina_big"`} | GAME_4={`"saracen_smith_produce_armor_chain"`} | GAME_5={`"saracen_smith_produce_armor_chain"`}
+- `[atomicanimation]` 第589条 · `event`：GAME_2={`40 21`} | GAME_3={`40 21`} | GAME_4={`45 4 -1500`} | GAME_5={`45 4 -1500`}
+- `[atomicanimation]` 第589条 · `name`：GAME_2={`"saracen_druid_produce_potion_healing_small"`} | GAME_3={`"saracen_druid_produce_potion_healing_small"`} | GAME_4={`"saracen_smith_produce_armor_plate"`} | GAME_5={`"saracen_smith_produce_armor_plate"`}
+- `[atomicanimation]` 第590条 · `name`：GAME_2={`"saracen_druid_produce_potion_healing_big"`} | GAME_3={`"saracen_druid_produce_potion_healing_big"`} | GAME_4={`"saracen_coiner_produce_coin"`} | GAME_5={`"saracen_coiner_produce_coin"`}
+- `[atomicanimation]` 第591条 · `event`：GAME_2={`40 10 +1500`} | GAME_3={`40 10 +1500`} | GAME_4={`80 21`} | GAME_5={`80 21`}
+- `[atomicanimation]` 第591条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`160`} | GAME_5={`160`}
+- `[atomicanimation]` 第591条 · `name`：GAME_2={`"saracen_druid_heal"`} | GAME_3={`"saracen_druid_heal"`} | GAME_4={`"saracen_sewer_produce_shoes"`} | GAME_5={`"saracen_sewer_produce_shoes"`}
+- `[atomicanimation]` 第592条 · `event`：GAME_2={`50 9 +500`} | GAME_3={`50 9 +500`} | GAME_4={`45 4 -1500`} | GAME_5={`45 4 -1500`}
+- `[atomicanimation]` 第592条 · `length`：GAME_2={`60`} | GAME_3={`60`} | GAME_4={`160`} | GAME_5={`160`}
+- `[atomicanimation]` 第592条 · `name`：GAME_2={`"saracen_druid_bless"`} | GAME_3={`"saracen_druid_bless"`} | GAME_4={`"saracen_sewer_produce_armor_wool"`} | GAME_5={`"saracen_sewer_produce_armor_wool"`}
+- `[atomicanimation]` 第593条 · `event`：GAME_2={`6 25`} | GAME_3={`6 25`} | GAME_4={`45 4 -1500`} | GAME_5={`45 4 -1500`}
+- `[atomicanimation]` 第593条 · `length`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`160`} | GAME_5={`160`}
+- `[atomicanimation]` 第593条 · `name`：GAME_2={`"saracen_soldier_attack_unarmed"`} | GAME_3={`"saracen_soldier_attack_unarmed"`} | GAME_4={`"saracen_sewer_produce_armor_leather"`} | GAME_5={`"saracen_sewer_produce_armor_leather"`}
+- `[atomicanimation]` 第594条 · `event`：GAME_2={`17 25`} | GAME_3={`17 25`} | GAME_4={`39 19`} | GAME_5={`39 19`}
+- `[atomicanimation]` 第594条 · `length`：GAME_2={`27`} | GAME_3={`27`} | GAME_4={`40`} | GAME_5={`40`}
+- `[atomicanimation]` 第594条 · `name`：GAME_2={`"saracen_soldier_attack_spear_wooden"`} | GAME_3={`"saracen_soldier_attack_spear_wooden"`} | GAME_4={`"saracen_fisher_cast_rod"`} | GAME_5={`"saracen_fisher_cast_rod"`}
+- `[atomicanimation]` 第595条 · `event`：GAME_2={`17 25`} | GAME_3={`17 25`} | GAME_4={`88 34 20`} | GAME_5={`88 34 20`}
+- `[atomicanimation]` 第595条 · `length`：GAME_2={`27`} | GAME_3={`27`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第595条 · `name`：GAME_2={`"saracen_soldier_attack_spear_iron"`} | GAME_3={`"saracen_soldier_attack_spear_iron"`} | GAME_4={`"saracen_fisher_catch_one"`} | GAME_5={`"saracen_fisher_catch_one"`}
+- `[atomicanimation]` 第596条 · `event`：GAME_2={`8 25`} | GAME_3={`8 25`} | GAME_4={`35 34 19`} | GAME_5={`35 34 19`}
+- `[atomicanimation]` 第596条 · `length`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`52`} | GAME_5={`52`}
+- `[atomicanimation]` 第596条 · `name`：GAME_2={`"saracen_soldier_attack_sword_short"`} | GAME_3={`"saracen_soldier_attack_sword_short"`} | GAME_4={`"saracen_fisher_catch_none"`} | GAME_5={`"saracen_fisher_catch_none"`}
+- `[atomicanimation]` 第597条 · `event`：GAME_2={`23 25`} | GAME_3={`23 25`} | GAME_4={`22 28`} | GAME_5={`22 28`}
+- `[atomicanimation]` 第597条 · `length`：GAME_2={`29`} | GAME_3={`29`} | GAME_4={`35`} | GAME_5={`35`}
+- `[atomicanimation]` 第597条 · `name`：GAME_2={`"saracen_soldier_attack_sword_long"`} | GAME_3={`"saracen_soldier_attack_sword_long"`} | GAME_4={`"saracen_hunter_harvest_cadaver"`} | GAME_5={`"saracen_hunter_harvest_cadaver"`}
+- `[atomicanimation]` 第598条 · `event`：GAME_2={`6 25`} | GAME_3={`6 25`} | GAME_4={`12 25`} | GAME_5={`12 25`}
+- `[atomicanimation]` 第598条 · `length`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`25`} | GAME_5={`25`}
+- `[atomicanimation]` 第598条 · `name`：GAME_2={`"saracen_soldier_attack_saber_short"`} | GAME_3={`"saracen_soldier_attack_saber_short"`} | GAME_4={`"saracen_hunter_attack"`} | GAME_5={`"saracen_hunter_attack"`}
+- `[atomicanimation]` 第599条 · `event`：GAME_2={`23 25`} | GAME_3={`23 25`} | GAME_4={`80 21`} | GAME_5={`80 21`}
+- `[atomicanimation]` 第599条 · `length`：GAME_2={`29`} | GAME_3={`29`} | GAME_4={`160`} | GAME_5={`160`}
+- `[atomicanimation]` 第599条 · `name`：GAME_2={`"saracen_soldier_attack_saber_long"`} | GAME_3={`"saracen_soldier_attack_saber_long"`} | GAME_4={`"saracen_breeder_produce_sausage"`} | GAME_5={`"saracen_breeder_produce_sausage"`}
+- `[atomicanimation]` 第600条 · `event`：GAME_2={`9 34 74`} | GAME_3={`9 34 74`} | GAME_4={`80 21`} | GAME_5={`80 21`}
+- `[atomicanimation]` 第600条 · `length`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第600条 · `name`：GAME_2={`"saracen_soldier_attack_bow_short"`} | GAME_3={`"saracen_soldier_attack_bow_short"`} | GAME_4={`"saracen_breeder_produce_sheep"`} | GAME_5={`"saracen_breeder_produce_sheep"`}
+- `[atomicanimation]` 第601条 · `event`：GAME_2={`22 25`} | GAME_3={`22 25`} | GAME_4={`80 21`} | GAME_5={`80 21`}
+- `[atomicanimation]` 第601条 · `length`：GAME_2={`28`} | GAME_3={`28`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第601条 · `name`：GAME_2={`"saracen_soldier_attack_bow_long"`} | GAME_3={`"saracen_soldier_attack_bow_long"`} | GAME_4={`"saracen_breeder_produce_cattle"`} | GAME_5={`"saracen_breeder_produce_cattle"`}
+- `[atomicanimation]` 第602条 · `event`：GAME_2={`6 25`} | GAME_3={`6 25`} | GAME_4={`65 34 39`} | GAME_5={`65 34 39`}
+- `[atomicanimation]` 第602条 · `length`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第602条 · `name`：GAME_2={`"saracen_hero_attack_unarmed"`} | GAME_3={`"saracen_hero_attack_unarmed"`} | GAME_4={`"saracen_breeder_slay_sheep"`} | GAME_5={`"saracen_breeder_slay_sheep"`}
+- `[atomicanimation]` 第603条 · `event`：GAME_2={`6 25`} | GAME_3={`6 25`} | GAME_4={`65 34 39`} | GAME_5={`65 34 39`}
+- `[atomicanimation]` 第603条 · `length`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第603条 · `name`：GAME_2={`"saracen_hero_attack_spear"`} | GAME_3={`"saracen_hero_attack_spear"`} | GAME_4={`"saracen_breeder_slay_cattle"`} | GAME_5={`"saracen_breeder_slay_cattle"`}
+- `[atomicanimation]` 第604条 · `event`：GAME_2={`6 25`} | GAME_3={`6 25`} | GAME_4={`21 18`} | GAME_5={`21 18`}
+- `[atomicanimation]` 第604条 · `length`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`35`} | GAME_5={`35`}
+- `[atomicanimation]` 第604条 · `name`：GAME_2={`"saracen_hero_attack_sword"`} | GAME_3={`"saracen_hero_attack_sword"`} | GAME_4={`"saracen_herb_guy_harvest_herb"`} | GAME_5={`"saracen_herb_guy_harvest_herb"`}
+- `[atomicanimation]` 第605条 · `event`：GAME_2={`18 25`} | GAME_3={`18 25`} | GAME_4={`21 11`} | GAME_5={`21 11`}
+- `[atomicanimation]` 第605条 · `length`：GAME_2={`21`} | GAME_3={`21`} | GAME_4={`35`} | GAME_5={`35`}
+- `[atomicanimation]` 第605条 · `name`：GAME_2={`"saracen_hero_attack_saber"`} | GAME_3={`"saracen_hero_attack_saber"`} | GAME_4={`"saracen_herb_guy_harvest_mushroom"`} | GAME_5={`"saracen_herb_guy_harvest_mushroom"`}
+- `[atomicanimation]` 第606条 · `event`：GAME_2={`6 25`} | GAME_3={`6 25`} | GAME_4={`14 16`} | GAME_5={`14 16`}
+- `[atomicanimation]` 第606条 · `length`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`29`} | GAME_5={`29`}
+- `[atomicanimation]` 第606条 · `name`：GAME_2={`"saracen_hero_attack_axe"`} | GAME_3={`"saracen_hero_attack_axe"`} | GAME_4={`"saracen_herb_guy_cultivate"`} | GAME_5={`"saracen_herb_guy_cultivate"`}
+- `[atomicanimation]` 第607条 · `event`：GAME_2={`6 25`} | GAME_3={`6 25`} | GAME_4={`14 15`} | GAME_5={`14 15`}
+- `[atomicanimation]` 第607条 · `length`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`24`} | GAME_5={`24`}
+- `[atomicanimation]` 第607条 · `name`：GAME_2={`"saracen_hero_attack_bow"`} | GAME_3={`"saracen_hero_attack_bow"`} | GAME_4={`"saracen_herb_guy_plant"`} | GAME_5={`"saracen_herb_guy_plant"`}
+- `[atomicanimation]` 第608条 · `event`：GAME_2={`22 29 +1`} | GAME_3={`22 29 +1`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第608条 · `length`：GAME_2={`28`} | GAME_3={`28`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第608条 · `name`：GAME_2={`"saracen_civilist_exercise"`} | GAME_3={`"saracen_civilist_exercise"`} | GAME_4={`"saracen_druid_produce_holy_oil"`} | GAME_5={`"saracen_druid_produce_holy_oil"`}
+- `[atomicanimation]` 第609条 · `event`：GAME_2={`22 29 +1`} | GAME_3={`22 29 +1`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第609条 · `length`：GAME_2={`28`} | GAME_3={`28`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第609条 · `name`：GAME_2={`"saracen_soldier_exercise"`} | GAME_3={`"saracen_soldier_exercise"`} | GAME_4={`"saracen_druid_produce_potion_food_small"`} | GAME_5={`"saracen_druid_produce_potion_food_small"`}
+- `[atomicanimation]` 第610条 · `event`：GAME_2={`22 29 +5`} | GAME_3={`22 29 +5`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第610条 · `length`：GAME_2={`28`} | GAME_3={`28`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第610条 · `name`：GAME_2={`"saracen_soldier_train"`} | GAME_3={`"saracen_soldier_train"`} | GAME_4={`"saracen_druid_produce_potion_food_big"`} | GAME_5={`"saracen_druid_produce_potion_food_big"`}
+- `[atomicanimation]` 第611条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第611条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第611条 · `length`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第611条 · `name`：GAME_2={`"saracen_ship_small_idle_short_a"`} | GAME_3={`"saracen_ship_small_idle_short_a"`} | GAME_4={`"saracen_druid_produce_potion_stamina_small"`} | GAME_5={`"saracen_druid_produce_potion_stamina_small"`}
+- `[atomicanimation]` 第612条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第612条 · `interruptable`：GAME_2={`0`} | GAME_3={`0`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第612条 · `length`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第612条 · `name`：GAME_2={`"saracen_ship_small_dock"`} | GAME_3={`"saracen_ship_small_dock"`} | GAME_4={`"saracen_druid_produce_potion_stamina_big"`} | GAME_5={`"saracen_druid_produce_potion_stamina_big"`}
+- `[atomicanimation]` 第613条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第613条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第613条 · `length`：GAME_2={`6`} | GAME_3={`6`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第613条 · `name`：GAME_2={`"weresnake_soldier_idle_short_a"`} | GAME_3={`"weresnake_soldier_idle_short_a"`} | GAME_4={`"saracen_druid_produce_potion_healing_small"`} | GAME_5={`"saracen_druid_produce_potion_healing_small"`}
+- `[atomicanimation]` 第613条 · `startdirection`：GAME_2={`7`} | GAME_3={`7`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第614条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`40 21`} | GAME_5={`40 21`}
+- `[atomicanimation]` 第614条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第614条 · `length`：GAME_2={`12`} | GAME_3={`12`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第614条 · `name`：GAME_2={`"weresnake_soldier_idle_short_b"`} | GAME_3={`"weresnake_soldier_idle_short_b"`} | GAME_4={`"saracen_druid_produce_potion_healing_big"`} | GAME_5={`"saracen_druid_produce_potion_healing_big"`}
+- `[atomicanimation]` 第614条 · `startdirection`：GAME_2={`7`} | GAME_3={`7`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第615条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`40 10 +1500`} | GAME_5={`40 10 +1500`}
+- `[atomicanimation]` 第615条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第615条 · `length`：GAME_2={`24`} | GAME_3={`24`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第615条 · `name`：GAME_2={`"weresnake_soldier_idle_short_c"`} | GAME_3={`"weresnake_soldier_idle_short_c"`} | GAME_4={`"saracen_druid_heal"`} | GAME_5={`"saracen_druid_heal"`}
+- `[atomicanimation]` 第615条 · `startdirection`：GAME_2={`7`} | GAME_3={`7`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第616条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`50 9 +500`} | GAME_5={`50 9 +500`}
+- `[atomicanimation]` 第616条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第616条 · `length`：GAME_2={`48`} | GAME_3={`48`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第616条 · `name`：GAME_2={`"weresnake_soldier_idle_medium"`} | GAME_3={`"weresnake_soldier_idle_medium"`} | GAME_4={`"saracen_druid_bless"`} | GAME_5={`"saracen_druid_bless"`}
+- `[atomicanimation]` 第616条 · `startdirection`：GAME_2={`7`} | GAME_3={`7`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第617条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6 25`} | GAME_5={`6 25`}
+- `[atomicanimation]` 第617条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第617条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第617条 · `name`：GAME_2={`"weresnake_soldier_idle_long"`} | GAME_3={`"weresnake_soldier_idle_long"`} | GAME_4={`"saracen_soldier_attack_unarmed"`} | GAME_5={`"saracen_soldier_attack_unarmed"`}
+- `[atomicanimation]` 第617条 · `startdirection`：GAME_2={`7`} | GAME_3={`7`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第618条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`17 25`} | GAME_5={`17 25`}
+- `[atomicanimation]` 第618条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第618条 · `length`：GAME_2={`500`} | GAME_3={`500`} | GAME_4={`27`} | GAME_5={`27`}
+- `[atomicanimation]` 第618条 · `name`：GAME_2={`"weresnake_soldier_idle_verylong"`} | GAME_3={`"weresnake_soldier_idle_verylong"`} | GAME_4={`"saracen_soldier_attack_spear_wooden"`} | GAME_5={`"saracen_soldier_attack_spear_wooden"`}
+- `[atomicanimation]` 第618条 · `startdirection`：GAME_2={`7`} | GAME_3={`7`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第619条 · `event`：GAME_2={`22 25`} | GAME_3={`22 25`} | GAME_4={`17 25`} | GAME_5={`17 25`}
+- `[atomicanimation]` 第619条 · `length`：GAME_2={`32`} | GAME_3={`32`} | GAME_4={`27`} | GAME_5={`27`}
+- `[atomicanimation]` 第619条 · `name`：GAME_2={`"weresnake_soldier_attack"`} | GAME_3={`"weresnake_soldier_attack"`} | GAME_4={`"saracen_soldier_attack_spear_iron"`} | GAME_5={`"saracen_soldier_attack_spear_iron"`}
+- `[atomicanimation]` 第620条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`8 25`} | GAME_5={`8 25`}
+- `[atomicanimation]` 第620条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第620条 · `name`：GAME_2={`"weresnake_soldier_attacked"`} | GAME_3={`"weresnake_soldier_attacked"`} | GAME_4={`"saracen_soldier_attack_sword_short"`} | GAME_5={`"saracen_soldier_attack_sword_short"`}
+- `[atomicanimation]` 第621条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`23 25`} | GAME_5={`23 25`}
+- `[atomicanimation]` 第621条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第621条 · `length`：GAME_2={`6`} | GAME_3={`6`} | GAME_4={`29`} | GAME_5={`29`}
+- `[atomicanimation]` 第621条 · `name`：GAME_2={`"werewolf_soldier_idle_short_a"`} | GAME_3={`"werewolf_soldier_idle_short_a"`} | GAME_4={`"saracen_soldier_attack_sword_long"`} | GAME_5={`"saracen_soldier_attack_sword_long"`}
+- `[atomicanimation]` 第621条 · `startdirection`：GAME_2={`7`} | GAME_3={`7`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第622条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6 25`} | GAME_5={`6 25`}
+- `[atomicanimation]` 第622条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第622条 · `name`：GAME_2={`"werewolf_soldier_idle_short_b"`} | GAME_3={`"werewolf_soldier_idle_short_b"`} | GAME_4={`"saracen_soldier_attack_saber_short"`} | GAME_5={`"saracen_soldier_attack_saber_short"`}
+- `[atomicanimation]` 第622条 · `startdirection`：GAME_2={`7`} | GAME_3={`7`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第623条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`23 25`} | GAME_5={`23 25`}
+- `[atomicanimation]` 第623条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第623条 · `length`：GAME_2={`24`} | GAME_3={`24`} | GAME_4={`29`} | GAME_5={`29`}
+- `[atomicanimation]` 第623条 · `name`：GAME_2={`"werewolf_soldier_idle_short_c"`} | GAME_3={`"werewolf_soldier_idle_short_c"`} | GAME_4={`"saracen_soldier_attack_saber_long"`} | GAME_5={`"saracen_soldier_attack_saber_long"`}
+- `[atomicanimation]` 第623条 · `startdirection`：GAME_2={`7`} | GAME_3={`7`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第624条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`9 34 74`} | GAME_5={`9 34 74`}
+- `[atomicanimation]` 第624条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第624条 · `length`：GAME_2={`48`} | GAME_3={`48`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第624条 · `name`：GAME_2={`"werewolf_soldier_idle_medium"`} | GAME_3={`"werewolf_soldier_idle_medium"`} | GAME_4={`"saracen_soldier_attack_bow_short"`} | GAME_5={`"saracen_soldier_attack_bow_short"`}
+- `[atomicanimation]` 第624条 · `startdirection`：GAME_2={`7`} | GAME_3={`7`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第625条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`22 25`} | GAME_5={`22 25`}
+- `[atomicanimation]` 第625条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第625条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`28`} | GAME_5={`28`}
+- `[atomicanimation]` 第625条 · `name`：GAME_2={`"werewolf_soldier_idle_long"`} | GAME_3={`"werewolf_soldier_idle_long"`} | GAME_4={`"saracen_soldier_attack_bow_long"`} | GAME_5={`"saracen_soldier_attack_bow_long"`}
+- `[atomicanimation]` 第625条 · `startdirection`：GAME_2={`7`} | GAME_3={`7`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第626条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6 25`} | GAME_5={`6 25`}
+- `[atomicanimation]` 第626条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第626条 · `length`：GAME_2={`500`} | GAME_3={`500`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第626条 · `name`：GAME_2={`"werewolf_soldier_idle_verylong"`} | GAME_3={`"werewolf_soldier_idle_verylong"`} | GAME_4={`"saracen_hero_attack_unarmed"`} | GAME_5={`"saracen_hero_attack_unarmed"`}
+- `[atomicanimation]` 第626条 · `startdirection`：GAME_2={`7`} | GAME_3={`7`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第627条 · `event`：GAME_2={`6 25`} | GAME_3={`22 25`} | GAME_4={`6 25`} | GAME_5={`6 25`}
+- `[atomicanimation]` 第627条 · `length`：GAME_2={`16`} | GAME_3={`33`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第627条 · `name`：GAME_2={`"werewolf_soldier_attack"`} | GAME_3={`"werewolf_soldier_attack"`} | GAME_4={`"saracen_hero_attack_spear"`} | GAME_5={`"saracen_hero_attack_spear"`}
+- `[atomicanimation]` 第628条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6 25`} | GAME_5={`6 25`}
+- `[atomicanimation]` 第628条 · `length`：GAME_2={`50`} | GAME_3={`50`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第628条 · `name`：GAME_2={`"werewolf_soldier_attacked"`} | GAME_3={`"werewolf_soldier_attacked"`} | GAME_4={`"saracen_hero_attack_sword"`} | GAME_5={`"saracen_hero_attack_sword"`}
+- `[atomicanimation]` 第629条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`18 25`} | GAME_5={`18 25`}
+- `[atomicanimation]` 第629条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第629条 · `length`：GAME_2={`20`} | GAME_3={`20`} | GAME_4={`21`} | GAME_5={`21`}
+- `[atomicanimation]` 第629条 · `name`：GAME_2={`"animal_bear_baby_idle"`} | GAME_3={`"animal_bear_baby_idle"`} | GAME_4={`"saracen_hero_attack_saber"`} | GAME_5={`"saracen_hero_attack_saber"`}
+- `[atomicanimation]` 第630条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6 25`} | GAME_5={`6 25`}
+- `[atomicanimation]` 第630条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第630条 · `length`：GAME_2={`20`} | GAME_3={`20`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第630条 · `name`：GAME_2={`"animal_bear_adult_idle"`} | GAME_3={`"animal_bear_adult_idle"`} | GAME_4={`"saracen_hero_attack_axe"`} | GAME_5={`"saracen_hero_attack_axe"`}
+- `[atomicanimation]` 第631条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6 25`} | GAME_5={`6 25`}
+- `[atomicanimation]` 第631条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第631条 · `length`：GAME_2={`20`} | GAME_3={`20`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第631条 · `name`：GAME_2={`"animal_bear_eat"`} | GAME_3={`"animal_bear_eat"`} | GAME_4={`"saracen_hero_attack_bow"`} | GAME_5={`"saracen_hero_attack_bow"`}
+- `[atomicanimation]` 第632条 · `event`：GAME_2={`6 25`} | GAME_3={`6 25`} | GAME_4={`22 29 +1`} | GAME_5={`22 29 +1`}
+- `[atomicanimation]` 第632条 · `interruptable`：GAME_2={`0`} | GAME_3={`0`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第632条 · `length`：GAME_2={`20`} | GAME_3={`20`} | GAME_4={`28`} | GAME_5={`28`}
+- `[atomicanimation]` 第632条 · `name`：GAME_2={`"animal_bear_attack"`} | GAME_3={`"animal_bear_attack"`} | GAME_4={`"saracen_civilist_exercise"`} | GAME_5={`"saracen_civilist_exercise"`}
+- `[atomicanimation]` 第633条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`22 29 +1`} | GAME_5={`22 29 +1`}
+- `[atomicanimation]` 第633条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第633条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`28`} | GAME_5={`28`}
+- `[atomicanimation]` 第633条 · `name`：GAME_2={`"animal_boar_baby_idle"`} | GAME_3={`"animal_boar_baby_idle"`} | GAME_4={`"saracen_soldier_exercise"`} | GAME_5={`"saracen_soldier_exercise"`}
+- `[atomicanimation]` 第634条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`22 29 +5`} | GAME_5={`22 29 +5`}
+- `[atomicanimation]` 第634条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第634条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`28`} | GAME_5={`28`}
+- `[atomicanimation]` 第634条 · `name`：GAME_2={`"animal_boar_adult_idle"`} | GAME_3={`"animal_boar_adult_idle"`} | GAME_4={`"saracen_soldier_train"`} | GAME_5={`"saracen_soldier_train"`}
+- `[atomicanimation]` 第635条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第635条 · `name`：GAME_2={`"animal_cattle_baby_idle"`} | GAME_3={`"animal_cattle_baby_idle"`} | GAME_4={`"saracen_ship_small_idle_short_a"`} | GAME_5={`"saracen_ship_small_idle_short_a"`}
+- `[atomicanimation]` 第636条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`0`} | GAME_5={`0`}
+- `[atomicanimation]` 第636条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第636条 · `name`：GAME_2={`"animal_cattle_adult_idle"`} | GAME_3={`"animal_cattle_adult_idle"`} | GAME_4={`"saracen_ship_small_dock"`} | GAME_5={`"saracen_ship_small_dock"`}
+- `[atomicanimation]` 第637条 · `name`：GAME_2={`"animal_camel_baby_idle"`} | GAME_3={`"animal_camel_baby_idle"`} | GAME_4={`"egypt_baby_female_idle"`} | GAME_5={`"egypt_baby_female_idle"`}
+- `[atomicanimation]` 第638条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`95 1 +100`} | GAME_5={`95 1 +100`}
+- `[atomicanimation]` 第638条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第638条 · `name`：GAME_2={`"animal_camel_adult_idle"`} | GAME_3={`"animal_camel_adult_idle"`} | GAME_4={`"egypt_baby_female_sleep"`} | GAME_5={`"egypt_baby_female_sleep"`}
+- `[atomicanimation]` 第639条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`16 11 0`} | GAME_5={`16 11 0`}
+- `[atomicanimation]` 第639条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第639条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`20`} | GAME_5={`20`}
+- `[atomicanimation]` 第639条 · `name`：GAME_2={`"animal_dromedary_baby_idle"`} | GAME_3={`"animal_dromedary_baby_idle"`} | GAME_4={`"egypt_baby_female_pickup"`} | GAME_5={`"egypt_baby_female_pickup"`}
+- `[atomicanimation]` 第639条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6`} | GAME_5={`6`}
+- `[atomicanimation]` 第640条 · `name`：GAME_2={`"animal_dromedary_adult_idle"`} | GAME_3={`"animal_dromedary_adult_idle"`} | GAME_4={`"egypt_baby_male_idle"`} | GAME_5={`"egypt_baby_male_idle"`}
+- `[atomicanimation]` 第641条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`95 1 +100`} | GAME_5={`95 1 +100`}
+- `[atomicanimation]` 第641条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第641条 · `name`：GAME_2={`"animal_elephant_baby_idle"`} | GAME_3={`"animal_elephant_baby_idle"`} | GAME_4={`"egypt_baby_male_sleep"`} | GAME_5={`"egypt_baby_male_sleep"`}
+- `[atomicanimation]` 第642条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`16 11 0`} | GAME_5={`16 11 0`}
+- `[atomicanimation]` 第642条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第642条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`20`} | GAME_5={`20`}
+- `[atomicanimation]` 第642条 · `name`：GAME_2={`"animal_elephant_adult_idle"`} | GAME_3={`"animal_elephant_adult_idle"`} | GAME_4={`"egypt_baby_male_pickup"`} | GAME_5={`"egypt_baby_male_pickup"`}
+- `[atomicanimation]` 第642条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6`} | GAME_5={`6`}
+- `[atomicanimation]` 第643条 · `name`：GAME_2={`"animal_deer_male_baby_idle"`} | GAME_3={`"animal_deer_male_baby_idle"`} | GAME_4={`"egypt_child_female_idle"`} | GAME_5={`"egypt_child_female_idle"`}
+- `[atomicanimation]` 第644条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`95 1 +100`} | GAME_5={`95 1 +100`}
+- `[atomicanimation]` 第644条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第644条 · `name`：GAME_2={`"animal_deer_male_adult_idle"`} | GAME_3={`"animal_deer_male_adult_idle"`} | GAME_4={`"egypt_child_female_sleep"`} | GAME_5={`"egypt_child_female_sleep"`}
+- `[atomicanimation]` 第645条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`16 11 0`} | GAME_5={`16 11 0`}
+- `[atomicanimation]` 第645条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第645条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`20`} | GAME_5={`20`}
+- `[atomicanimation]` 第645条 · `name`：GAME_2={`"animal_deer_female_baby_idle"`} | GAME_3={`"animal_deer_female_baby_idle"`} | GAME_4={`"egypt_child_female_pickup"`} | GAME_5={`"egypt_child_female_pickup"`}
+- `[atomicanimation]` 第645条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6`} | GAME_5={`6`}
+- `[atomicanimation]` 第646条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`30 2 +4000`} | GAME_5={`30 2 +4000`}
+- `[atomicanimation]` 第646条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第646条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第646条 · `name`：GAME_2={`"animal_deer_female_adult_idle"`} | GAME_3={`"animal_deer_female_adult_idle"`} | GAME_4={`"egypt_child_female_eat_slot_food"`} | GAME_5={`"egypt_child_female_eat_slot_food"`}
+- `[atomicanimation]` 第647条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`40 3 +4000`} | GAME_5={`40 3 +4000`}
+- `[atomicanimation]` 第647条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第647条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第647条 · `name`：GAME_2={`"animal_dog_baby_idle"`} | GAME_3={`"animal_dog_baby_idle"`} | GAME_4={`"egypt_child_female_eat_slot_candy"`} | GAME_5={`"egypt_child_female_eat_slot_candy"`}
+- `[atomicanimation]` 第648条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`200 3 +100`} | GAME_5={`200 3 +100`}
+- `[atomicanimation]` 第648条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`247`} | GAME_5={`247`}
+- `[atomicanimation]` 第648条 · `name`：GAME_2={`"animal_dog_adult_idle"`} | GAME_3={`"animal_dog_adult_idle"`} | GAME_4={`"egypt_child_female_listen"`} | GAME_5={`"egypt_child_female_listen"`}
+- `[atomicanimation]` 第649条 · `name`：GAME_2={`"animal_goat_tame_baby_idle"`} | GAME_3={`"animal_goat_tame_baby_idle"`} | GAME_4={`"egypt_child_male_idle"`} | GAME_5={`"egypt_child_male_idle"`}
+- `[atomicanimation]` 第650条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`95 1 +100`} | GAME_5={`95 1 +100`}
+- `[atomicanimation]` 第650条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第650条 · `name`：GAME_2={`"animal_goat_tame_adult_idle"`} | GAME_3={`"animal_goat_tame_adult_idle"`} | GAME_4={`"egypt_child_male_sleep"`} | GAME_5={`"egypt_child_male_sleep"`}
+- `[atomicanimation]` 第651条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`16 11 0`} | GAME_5={`16 11 0`}
+- `[atomicanimation]` 第651条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第651条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`20`} | GAME_5={`20`}
+- `[atomicanimation]` 第651条 · `name`：GAME_2={`"animal_goat_wild_baby_idle"`} | GAME_3={`"animal_goat_wild_baby_idle"`} | GAME_4={`"egypt_child_male_pickup"`} | GAME_5={`"egypt_child_male_pickup"`}
+- `[atomicanimation]` 第651条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6`} | GAME_5={`6`}
+- `[atomicanimation]` 第652条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`30 2 +4000`} | GAME_5={`30 2 +4000`}
+- `[atomicanimation]` 第652条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第652条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第652条 · `name`：GAME_2={`"animal_goat_wild_adult_idle"`} | GAME_3={`"animal_goat_wild_adult_idle"`} | GAME_4={`"egypt_child_male_eat_slot_food"`} | GAME_5={`"egypt_child_male_eat_slot_food"`}
+- `[atomicanimation]` 第653条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`40 3 +4000`} | GAME_5={`40 3 +4000`}
+- `[atomicanimation]` 第653条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第653条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第653条 · `name`：GAME_2={`"animal_horse_baby_idle"`} | GAME_3={`"animal_horse_baby_idle"`} | GAME_4={`"egypt_child_male_eat_slot_candy"`} | GAME_5={`"egypt_child_male_eat_slot_candy"`}
+- `[atomicanimation]` 第654条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`200 3 +100`} | GAME_5={`200 3 +100`}
+- `[atomicanimation]` 第654条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`247`} | GAME_5={`247`}
+- `[atomicanimation]` 第654条 · `name`：GAME_2={`"animal_horse_adult_idle"`} | GAME_3={`"animal_horse_adult_idle"`} | GAME_4={`"egypt_child_male_listen"`} | GAME_5={`"egypt_child_male_listen"`}
+- `[atomicanimation]` 第655条 · `name`：GAME_2={`"animal_lion_male_baby_idle"`} | GAME_3={`"animal_lion_male_baby_idle"`} | GAME_4={`"egypt_woman_idle"`} | GAME_5={`"egypt_woman_idle"`}
+- `[atomicanimation]` 第656条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`22 34 36`} | GAME_5={`22 34 36`}
+- `[atomicanimation]` 第656条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第656条 · `name`：GAME_2={`"animal_lion_male_adult_idle"`} | GAME_3={`"animal_lion_male_adult_idle"`} | GAME_4={`"egypt_woman_sleep"`} | GAME_5={`"egypt_woman_sleep"`}
+- `[atomicanimation]` 第657条 · `event`：GAME_2={`23 26`} | GAME_3={`22 26`} | GAME_4={`20 11 0`} | GAME_5={`20 11 0`}
+- `[atomicanimation]` 第657条 · `interruptable`：GAME_2={`0`} | GAME_3={`0`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第657条 · `length`：GAME_2={`25`} | GAME_3={`25`} | GAME_4={`30`} | GAME_5={`30`}
+- `[atomicanimation]` 第657条 · `name`：GAME_2={`"animal_lion_male_attack"`} | GAME_3={`"animal_lion_male_attack"`} | GAME_4={`"egypt_woman_pickup"`} | GAME_5={`"egypt_woman_pickup"`}
+- `[atomicanimation]` 第658条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`20 12 0`} | GAME_5={`20 12 0`}
+- `[atomicanimation]` 第658条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第658条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`30`} | GAME_5={`30`}
+- `[atomicanimation]` 第658条 · `name`：GAME_2={`"animal_lion_female_baby_idle"`} | GAME_3={`"animal_lion_female_baby_idle"`} | GAME_4={`"egypt_woman_pileup"`} | GAME_5={`"egypt_woman_pileup"`}
+- `[atomicanimation]` 第659条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`30 2 +4000`} | GAME_5={`30 2 +4000`}
+- `[atomicanimation]` 第659条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第659条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第659条 · `name`：GAME_2={`"animal_lion_female_adult_idle"`} | GAME_3={`"animal_lion_female_adult_idle"`} | GAME_4={`"egypt_woman_eat_slot_food"`} | GAME_5={`"egypt_woman_eat_slot_food"`}
+- `[atomicanimation]` 第660条 · `event`：GAME_2={`23 26`} | GAME_3={`22 26`} | GAME_4={`40 3 +4000`} | GAME_5={`40 3 +4000`}
+- `[atomicanimation]` 第660条 · `interruptable`：GAME_2={`0`} | GAME_3={`0`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第660条 · `length`：GAME_2={`25`} | GAME_3={`25`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第660条 · `name`：GAME_2={`"animal_lion_female_attack"`} | GAME_3={`"animal_lion_female_attack"`} | GAME_4={`"egypt_woman_eat_slot_candy"`} | GAME_5={`"egypt_woman_eat_slot_candy"`}
+- `[atomicanimation]` 第661条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`50 3 +100`} | GAME_5={`50 3 +100`}
+- `[atomicanimation]` 第661条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第661条 · `length`：GAME_2={`30`} | GAME_3={`30`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第661条 · `name`：GAME_2={`"animal_rabbit_baby_idle"`} | GAME_3={`"animal_rabbit_baby_idle"`} | GAME_4={`"egypt_woman_monologuize"`} | GAME_5={`"egypt_woman_monologuize"`}
+- `[atomicanimation]` 第662条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`95 3 +800`} | GAME_5={`95 3 +800`}
+- `[atomicanimation]` 第662条 · `length`：GAME_2={`30`} | GAME_3={`30`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第662条 · `name`：GAME_2={`"animal_rabbit_adult_idle"`} | GAME_3={`"animal_rabbit_adult_idle"`} | GAME_4={`"egypt_woman_talk"`} | GAME_5={`"egypt_woman_talk"`}
+- `[atomicanimation]` 第663条 · `event`：GAME_2={`4 26`} | GAME_3={`4 26`} | GAME_4={`95 3 +100`} | GAME_5={`95 3 +100`}
+- `[atomicanimation]` 第663条 · `interruptable`：GAME_2={`0`} | GAME_3={`0`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第663条 · `length`：GAME_2={`5`} | GAME_3={`5`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第663条 · `name`：GAME_2={`"animal_rabbit_attack"`} | GAME_3={`"animal_rabbit_attack"`} | GAME_4={`"egypt_woman_listen"`} | GAME_5={`"egypt_woman_listen"`}
+- `[atomicanimation]` 第664条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`95 3 +800`} | GAME_5={`95 3 +800`}
+- `[atomicanimation]` 第664条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第664条 · `name`：GAME_2={`"animal_sheep_baby_idle"`} | GAME_3={`"animal_sheep_baby_idle"`} | GAME_4={`"egypt_woman_enjoy"`} | GAME_5={`"egypt_woman_enjoy"`}
+- `[atomicanimation]` 第665条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`40 3 +800`} | GAME_5={`40 3 +800`}
+- `[atomicanimation]` 第665条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第665条 · `name`：GAME_2={`"animal_sheep_adult_idle"`} | GAME_3={`"animal_sheep_adult_idle"`} | GAME_4={`"egypt_woman_kiss"`} | GAME_5={`"egypt_woman_kiss"`}
+- `[atomicanimation]` 第666条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`40 3 +100`} | GAME_5={`40 3 +100`}
+- `[atomicanimation]` 第666条 · `length`：GAME_2={`20`} | GAME_3={`20`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第666条 · `name`：GAME_2={`"animal_wolve_baby_idle"`} | GAME_3={`"animal_wolve_baby_idle"`} | GAME_4={`"egypt_woman_kissed"`} | GAME_5={`"egypt_woman_kissed"`}
+- `[atomicanimation]` 第667条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`40 3 +800`} | GAME_5={`40 3 +800`}
+- `[atomicanimation]` 第667条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第667条 · `length`：GAME_2={`20`} | GAME_3={`20`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第667条 · `name`：GAME_2={`"animal_wolve_adult_idle"`} | GAME_3={`"animal_wolve_adult_idle"`} | GAME_4={`"egypt_woman_make_love"`} | GAME_5={`"egypt_woman_make_love"`}
+- `[atomicanimation]` 第668条 · `event`：GAME_2={`23 26`} | GAME_3={`23 26`} | GAME_4={`40 3 +800`} | GAME_5={`40 3 +800`}
+- `[atomicanimation]` 第668条 · `interruptable`：GAME_2={`0`} | GAME_3={`0`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第668条 · `length`：GAME_2={`25`} | GAME_3={`25`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第668条 · `name`：GAME_2={`"animal_wolve_attack"`} | GAME_3={`"animal_wolve_attack"`} | GAME_4={`"egypt_woman_get_loved"`} | GAME_5={`"egypt_woman_get_loved"`}
+- `[atomicanimation]` 第669条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`50 24 0`} | GAME_5={`50 24 0`}
+- `[atomicanimation]` 第669条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第669条 · `name`：GAME_2={`"animal_sparrow_baby_idle"`} | GAME_3={`"animal_sparrow_baby_idle"`} | GAME_4={`"egypt_woman_give_birth"`} | GAME_5={`"egypt_woman_give_birth"`}
+- `[atomicanimation]` 第670条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第670条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第670条 · `name`：GAME_2={`"animal_sparrow_adult_idle"`} | GAME_3={`"animal_sparrow_adult_idle"`} | GAME_4={`"egypt_woman_attacked"`} | GAME_5={`"egypt_woman_attacked"`}
+- `[atomicanimation]` 第671条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6 25`} | GAME_5={`6 25`}
+- `[atomicanimation]` 第671条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第671条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`16`} | GAME_5={`16`}
+- `[atomicanimation]` 第671条 · `name`：GAME_2={`"animal_raven_baby_idle"`} | GAME_3={`"animal_raven_baby_idle"`} | GAME_4={`"egypt_woman_attack"`} | GAME_5={`"egypt_woman_attack"`}
+- `[atomicanimation]` 第672条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`16 33`} | GAME_5={`16 33`}
+- `[atomicanimation]` 第672条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第672条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`20`} | GAME_5={`20`}
+- `[atomicanimation]` 第672条 · `name`：GAME_2={`"animal_raven_adult_idle"`} | GAME_3={`"animal_raven_adult_idle"`} | GAME_4={`"egypt_woman_open_chest"`} | GAME_5={`"egypt_woman_open_chest"`}
+- `[atomicanimation]` 第672条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6`} | GAME_5={`6`}
+- `[atomicanimation]` 第673条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`6`} | GAME_5={`6`}
+- `[atomicanimation]` 第673条 · `name`：GAME_2={`"animal_parrot_baby_idle"`} | GAME_3={`"animal_parrot_baby_idle"`} | GAME_4={`"egypt_civilist_idle_short_a"`} | GAME_5={`"egypt_civilist_idle_short_a"`}
+- `[atomicanimation]` 第673条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`7`} | GAME_5={`7`}
+- `[atomicanimation]` 第674条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第674条 · `name`：GAME_2={`"animal_parrot_adult_idle"`} | GAME_3={`"animal_parrot_adult_idle"`} | GAME_4={`"egypt_civilist_idle_short_b"`} | GAME_5={`"egypt_civilist_idle_short_b"`}
+- `[atomicanimation]` 第674条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`7`} | GAME_5={`7`}
+- `[atomicanimation]` 第675条 · `length`：GAME_2={`36`} | GAME_3={`36`} | GAME_4={`24`} | GAME_5={`24`}
+- `[atomicanimation]` 第675条 · `name`：GAME_2={`"animal_chicken_baby_idle"`} | GAME_3={`"animal_chicken_baby_idle"`} | GAME_4={`"egypt_civilist_idle_short_c"`} | GAME_5={`"egypt_civilist_idle_short_c"`}
+- `[atomicanimation]` 第675条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`7`} | GAME_5={`7`}
+- `[atomicanimation]` 第676条 · `length`：GAME_2={`36`} | GAME_3={`36`} | GAME_4={`48`} | GAME_5={`48`}
+- `[atomicanimation]` 第676条 · `name`：GAME_2={`"animal_chicken_adult_idle"`} | GAME_3={`"animal_chicken_adult_idle"`} | GAME_4={`"egypt_civilist_idle_medium"`} | GAME_5={`"egypt_civilist_idle_medium"`}
+- `[atomicanimation]` 第676条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`7`} | GAME_5={`7`}
+- `[atomicanimation]` 第677条 · `name`：GAME_2={`"animal_duck_baby_idle"`} | GAME_3={`"animal_duck_baby_idle"`} | GAME_4={`"egypt_civilist_idle_long"`} | GAME_5={`"egypt_civilist_idle_long"`}
+- `[atomicanimation]` 第677条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`7`} | GAME_5={`7`}
+- `[atomicanimation]` 第678条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`500`} | GAME_5={`500`}
+- `[atomicanimation]` 第678条 · `name`：GAME_2={`"animal_duck_adult_idle"`} | GAME_3={`"animal_duck_adult_idle"`} | GAME_4={`"egypt_civilist_idle_verylong"`} | GAME_5={`"egypt_civilist_idle_verylong"`}
+- `[atomicanimation]` 第678条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`7`} | GAME_5={`7`}
+- `[atomicanimation]` 第679条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`6`} | GAME_5={`6`}
+- `[atomicanimation]` 第679条 · `name`：GAME_2={`"animal_goose_baby_idle"`} | GAME_3={`"animal_goose_baby_idle"`} | GAME_4={`"egypt_soldier_spear_wooden_idle_short_a"`} | GAME_5={`"egypt_soldier_spear_wooden_idle_short_a"`}
+- `[atomicanimation]` 第680条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第680条 · `name`：GAME_2={`"animal_goose_adult_idle"`} | GAME_3={`"animal_goose_adult_idle"`} | GAME_4={`"egypt_soldier_spear_wooden_idle_short_b"`} | GAME_5={`"egypt_soldier_spear_wooden_idle_short_b"`}
+- `[atomicanimation]` 第681条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`24`} | GAME_5={`24`}
+- `[atomicanimation]` 第681条 · `name`：GAME_2={`"animal_swan_baby_idle"`} | GAME_3={`"animal_swan_baby_idle"`} | GAME_4={`"egypt_soldier_spear_wooden_idle_short_c"`} | GAME_5={`"egypt_soldier_spear_wooden_idle_short_c"`}
+- `[atomicanimation]` 第682条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`48`} | GAME_5={`48`}
+- `[atomicanimation]` 第682条 · `name`：GAME_2={`"animal_swan_adult_idle"`} | GAME_3={`"animal_swan_adult_idle"`} | GAME_4={`"egypt_soldier_spear_wooden_idle_medium"`} | GAME_5={`"egypt_soldier_spear_wooden_idle_medium"`}
+- `[atomicanimation]` 第683条 · `name`：GAME_2={`"animal_crab_baby_idle"`} | GAME_3={`"animal_crab_baby_idle"`} | GAME_4={`"egypt_soldier_spear_wooden_idle_long"`} | GAME_5={`"egypt_soldier_spear_wooden_idle_long"`}
+- `[atomicanimation]` 第684条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`500`} | GAME_5={`500`}
+- `[atomicanimation]` 第684条 · `name`：GAME_2={`"animal_crab_adult_idle"`} | GAME_3={`"animal_crab_adult_idle"`} | GAME_4={`"egypt_soldier_spear_wooden_idle_verylong"`} | GAME_5={`"egypt_soldier_spear_wooden_idle_verylong"`}
+- `[atomicanimation]` 第685条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第685条 · `name`：GAME_2={`"animal_frog_baby_idle"`} | GAME_3={`"animal_frog_baby_idle"`} | GAME_4={`"egypt_hero_unarmed_idle_short_a"`} | GAME_5={`"egypt_hero_unarmed_idle_short_a"`}
+- `[atomicanimation]` 第686条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第686条 · `name`：GAME_2={`"animal_frog_adult_idle"`} | GAME_3={`"animal_frog_adult_idle"`} | GAME_4={`"egypt_hero_unarmed_idle_short_b"`} | GAME_5={`"egypt_hero_unarmed_idle_short_b"`}
+- `[atomicanimation]` 第687条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第687条 · `name`：GAME_2={`"animal_scorpion_baby_idle"`} | GAME_3={`"animal_scorpion_baby_idle"`} | GAME_4={`"egypt_hero_unarmed_idle_short_c"`} | GAME_5={`"egypt_hero_unarmed_idle_short_c"`}
+- `[atomicanimation]` 第688条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第688条 · `name`：GAME_2={`"animal_scorpion_adult_idle"`} | GAME_3={`"animal_scorpion_adult_idle"`} | GAME_4={`"egypt_hero_unarmed_idle_medium"`} | GAME_5={`"egypt_hero_unarmed_idle_medium"`}
+- `[atomicanimation]` 第689条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第689条 · `name`：GAME_2={`"animal_bee_baby_idle"`} | GAME_3={`"animal_bee_baby_idle"`} | GAME_4={`"egypt_hero_unarmed_idle_long"`} | GAME_5={`"egypt_hero_unarmed_idle_long"`}
+- `[atomicanimation]` 第690条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`12`} | GAME_5={`12`}
+- `[atomicanimation]` 第690条 · `name`：GAME_2={`"animal_bee_adult_idle"`} | GAME_3={`"animal_bee_adult_idle"`} | GAME_4={`"egypt_hero_unarmed_idle_verylong"`} | GAME_5={`"egypt_hero_unarmed_idle_verylong"`}
+- `[atomicanimation]` 第691条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`200 1 +4000`} | GAME_5={`200 1 +4000`}
+- `[atomicanimation]` 第691条 · `length`：GAME_2={`26`} | GAME_3={`26`} | GAME_4={`237`} | GAME_5={`237`}
+- `[atomicanimation]` 第691条 · `name`：GAME_2={`"animal_butterfly_baby_idle"`} | GAME_3={`"animal_butterfly_baby_idle"`} | GAME_4={`"egypt_civilist_sleep"`} | GAME_5={`"egypt_civilist_sleep"`}
+- `[atomicanimation]` 第692条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`200 1 +4000`} | GAME_5={`200 1 +4000`}
+- `[atomicanimation]` 第692条 · `length`：GAME_2={`28`} | GAME_3={`28`} | GAME_4={`237`} | GAME_5={`237`}
+- `[atomicanimation]` 第692条 · `name`：GAME_2={`"animal_butterfly_baby_idle_short_a"`} | GAME_3={`"animal_butterfly_baby_idle_short_a"`} | GAME_4={`"egypt_soldier_sleep"`} | GAME_5={`"egypt_soldier_sleep"`}
+- `[atomicanimation]` 第693条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`45 1 +4000`} | GAME_5={`45 1 +4000`}
+- `[atomicanimation]` 第693条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第693条 · `length`：GAME_2={`30`} | GAME_3={`30`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第693条 · `name`：GAME_2={`"animal_butterfly_baby_idle_short_b"`} | GAME_3={`"animal_butterfly_baby_idle_short_b"`} | GAME_4={`"egypt_civilist_sleep_home"`} | GAME_5={`"egypt_civilist_sleep_home"`}
+- `[atomicanimation]` 第694条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`16 11 0`} | GAME_5={`16 11 0`}
+- `[atomicanimation]` 第694条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第694条 · `length`：GAME_2={`32`} | GAME_3={`32`} | GAME_4={`20`} | GAME_5={`20`}
+- `[atomicanimation]` 第694条 · `name`：GAME_2={`"animal_butterfly_baby_idle_short_c"`} | GAME_3={`"animal_butterfly_baby_idle_short_c"`} | GAME_4={`"egypt_civilist_pickup"`} | GAME_5={`"egypt_civilist_pickup"`}
+- `[atomicanimation]` 第694条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6`} | GAME_5={`6`}
+- `[atomicanimation]` 第695条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`16 12 0`} | GAME_5={`16 12 0`}
+- `[atomicanimation]` 第695条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第695条 · `length`：GAME_2={`26`} | GAME_3={`26`} | GAME_4={`20`} | GAME_5={`20`}
+- `[atomicanimation]` 第695条 · `name`：GAME_2={`"animal_butterfly_adult_idle"`} | GAME_3={`"animal_butterfly_adult_idle"`} | GAME_4={`"egypt_civilist_pileup"`} | GAME_5={`"egypt_civilist_pileup"`}
+- `[atomicanimation]` 第695条 · `startdirection`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6`} | GAME_5={`6`}
+- `[atomicanimation]` 第696条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`30 2 +4000`} | GAME_5={`30 2 +4000`}
+- `[atomicanimation]` 第696条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第696条 · `length`：GAME_2={`28`} | GAME_3={`28`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第696条 · `name`：GAME_2={`"animal_butterfly_adult_idle_short_a"`} | GAME_3={`"animal_butterfly_adult_idle_short_a"`} | GAME_4={`"egypt_civilist_eat_slot_food"`} | GAME_5={`"egypt_civilist_eat_slot_food"`}
+- `[atomicanimation]` 第697条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`40 3 +4000`} | GAME_5={`40 3 +4000`}
+- `[atomicanimation]` 第697条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第697条 · `length`：GAME_2={`30`} | GAME_3={`30`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第697条 · `name`：GAME_2={`"animal_butterfly_adult_idle_short_b"`} | GAME_3={`"animal_butterfly_adult_idle_short_b"`} | GAME_4={`"egypt_civilist_eat_slot_candy"`} | GAME_5={`"egypt_civilist_eat_slot_candy"`}
+- `[atomicanimation]` 第698条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`30 2 +6000`} | GAME_5={`30 2 +6000`}
+- `[atomicanimation]` 第698条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第698条 · `length`：GAME_2={`32`} | GAME_3={`32`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第698条 · `name`：GAME_2={`"animal_butterfly_adult_idle_short_c"`} | GAME_3={`"animal_butterfly_adult_idle_short_c"`} | GAME_4={`"egypt_civilist_eat_athome"`} | GAME_5={`"egypt_civilist_eat_athome"`}
+- `[atomicanimation]` 第699条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`30 2 +4000`} | GAME_5={`30 2 +4000`}
+- `[atomicanimation]` 第699条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第699条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第699条 · `name`：GAME_2={`"animal_mosquito_baby_idle"`} | GAME_3={`"animal_mosquito_baby_idle"`} | GAME_4={`"egypt_soldier_eat_unarmed"`} | GAME_5={`"egypt_soldier_eat_unarmed"`}
+- `[atomicanimation]` 第700条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`30 2 +4000`} | GAME_5={`30 2 +4000`}
+- `[atomicanimation]` 第700条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第700条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`50`} | GAME_5={`50`}
+- `[atomicanimation]` 第700条 · `name`：GAME_2={`"animal_mosquito_adult_idle"`} | GAME_3={`"animal_mosquito_adult_idle"`} | GAME_4={`"egypt_soldier_eat_sword_short"`} | GAME_5={`"egypt_soldier_eat_sword_short"`}
+- `[atomicanimation]` 第701条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`95 4 +800`} | GAME_5={`95 4 +800`}
+- `[atomicanimation]` 第701条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第701条 · `name`：GAME_2={`"animal_dragon_baby_idle"`} | GAME_3={`"animal_dragon_baby_idle"`} | GAME_4={`"egypt_civilist_pray"`} | GAME_5={`"egypt_civilist_pray"`}
+- `[atomicanimation]` 第702条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`50 3 +800`} | GAME_5={`50 3 +800`}
+- `[atomicanimation]` 第702条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第702条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`60`} | GAME_5={`60`}
+- `[atomicanimation]` 第702条 · `name`：GAME_2={`"animal_dragon_adult_idle"`} | GAME_3={`"animal_dragon_adult_idle"`} | GAME_4={`"egypt_civilist_monologuize"`} | GAME_5={`"egypt_civilist_monologuize"`}
+- `[atomicanimation]` 第703条 · `event`：GAME_2={`23 26`} | GAME_3={`23 26`} | GAME_4={`95 3 +800`} | GAME_5={`95 3 +800`}
+- `[atomicanimation]` 第703条 · `interruptable`：GAME_2={`0`} | GAME_3={`0`} | GAME_4={`1`} | GAME_5={`1`}
+- `[atomicanimation]` 第703条 · `length`：GAME_2={`25`} | GAME_3={`25`} | GAME_4={`100`} | GAME_5={`100`}
+- `[atomicanimation]` 第703条 · `name`：GAME_2={`"animal_dragon_attack"`} | GAME_3={`"animal_dragon_attack"`} | GAME_4={`"egypt_civilist_talk"`} | GAME_5={`"egypt_civilist_talk"`}
+- `[atomicanimation]` 第704条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`95 3 +100`} | GAME_5={`95 3 +100`}
+- `[atomicanimation]` 第704条 · `name`：GAME_2={`"animal_snake_baby_idle"`} | GAME_3={`"animal_snake_baby_idle"`} | GAME_4={`"egypt_civilist_listen"`} | GAME_5={`"egypt_civilist_listen"`}
+- `[atomicanimation]` 第705条 · `event`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`18 3 +100`} | GAME_5={`18 3 +100`}
+- `[atomicanimation]` 第705条 · `interruptable`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`<缺失>`} | GAME_5={`<缺失>`}
+- `[atomicanimation]` 第705条 · `length`：GAME_2={`100`} | GAME_3={`100`} | GAME_4={`25`} | GAME_5={`25`}
+- `[atomicanimation]` 第705条 · `name`：GAME_2={`"animal_snake_adult_idle"`} | GAME_3={`"animal_snake_adult_idle"`} | GAME_4={`"egypt_civilist_enjoy"`} | GAME_5={`"egypt_civilist_enjoy"`}
+
+### `housetypes.ini`
+
+#### 1. 记录存在性差异（某游戏缺整条记录）
+
+- `[logichousetype]` 第 47 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[logichousetype]` 第 48 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[logichousetype]` 第 49 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[logichousetype]` 第 50 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[logichousetype]` 第 51 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[logichousetype]` 第 52 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[logichousetype]` 第 53 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[logichousetype]` 第 54 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+#### 2. 键值差异
+
+- （无）
+
+### `tribetypes\tribetypes.ini`
+
+#### 1. 记录存在性差异（某游戏缺整条记录）
+
+- `[tribetype]` 第 41 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+#### 2. 键值差异
+
+- 共 76 个键值存在差异：
+
+- `[tribetype]` 第5条 · `allowequip`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`55`} | GAME_5={`55`}
+- `[tribetype]` 第5条 · `allowgood`：GAME_2={`42`} | GAME_3={`42`} | GAME_4={`64`} | GAME_5={`64`}
+- `[tribetype]` 第5条 · `allowhouse`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`46`} | GAME_5={`46`}
+- `[tribetype]` 第5条 · `allowjob`：GAME_2={`31`} | GAME_3={`31`} | GAME_4={`52`} | GAME_5={`52`}
+- `[tribetype]` 第5条 · `allowvehicle`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`5`} | GAME_5={`5`}
+- `[tribetype]` 第5条 · `jobDefaultGood`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`30 15`} | GAME_5={`30 15`}
+- `[tribetype]` 第5条 · `jobEnablesGood`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`30 49`} | GAME_5={`30 49`}
+- `[tribetype]` 第5条 · `jobEnablesHouse`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`41 41`} | GAME_5={`41 41`}
+- `[tribetype]` 第5条 · `jobEnablesJob`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`40 41`} | GAME_5={`40 41`}
+- `[tribetype]` 第5条 · `jobEnablesVehicle`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`26 3`} | GAME_5={`26 3`}
+- `[tribetype]` 第5条 · `name`：GAME_2={`"weresnake"`} | GAME_3={`"weresnake"`} | GAME_4={`"egypt"`} | GAME_5={`"egypt"`}
+- `[tribetype]` 第5条 · `needforgood`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`49 15 57`} | GAME_5={`49 15 57`}
+- `[tribetype]` 第5条 · `needforjob`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`47 5 70`} | GAME_5={`47 5 70`}
+- `[tribetype]` 第5条 · `setatomic`：GAME_2={`31 81 "weresnake_soldier_attack"`} | GAME_3={`31 81 "weresnake_soldier_attack"`} | GAME_4={`34 10 "egypt_soldier_eat_sword_short"`} | GAME_5={`34 10 "egypt_soldier_eat_sword_short"`}
+- `[tribetype]` 第5条 · `toBuildHouseNeedGood`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`46 5 63`} | GAME_5={`46 5 63`}
+- `[tribetype]` 第5条 · `toBuildHouseNeedJob`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`46 8`} | GAME_5={`46 8`}
+- `[tribetype]` 第5条 · `toProduceGoodNeedHouse`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`49 36`} | GAME_5={`49 36`}
+- `[tribetype]` 第5条 · `trainforgood`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`49 15 57`} | GAME_5={`49 15 57`}
+- `[tribetype]` 第5条 · `trainforjob`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`41 10 77`} | GAME_5={`41 10 77`}
+- `[tribetype]` 第5条 · `type`：GAME_2={`5`} | GAME_3={`5`} | GAME_4={`7`} | GAME_5={`7`}
+- `[tribetype]` 第6条 · `name`：GAME_2={`"werewolf"`} | GAME_3={`"werewolf"`} | GAME_4={`"weresnake"`} | GAME_5={`"weresnake"`}
+- `[tribetype]` 第6条 · `setatomic`：GAME_2={`31 81 "werewolf_soldier_attack"`} | GAME_3={`31 81 "werewolf_soldier_attack"`} | GAME_4={`31 81 "weresnake_soldier_attack"`} | GAME_5={`31 81 "weresnake_soldier_attack"`}
+- `[tribetype]` 第6条 · `type`：GAME_2={`6`} | GAME_3={`6`} | GAME_4={`5`} | GAME_5={`5`}
+- `[tribetype]` 第7条 · `allowgood`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`42`} | GAME_5={`42`}
+- `[tribetype]` 第7条 · `allowjob`：GAME_2={`49`} | GAME_3={`49`} | GAME_4={`31`} | GAME_5={`31`}
+- `[tribetype]` 第7条 · `name`：GAME_2={`"bears"`} | GAME_3={`"bears"`} | GAME_4={`"werewolf"`} | GAME_5={`"werewolf"`}
+- `[tribetype]` 第7条 · `setatomic`：GAME_2={`49 81 "animal_bear_attack"`} | GAME_3={`49 81 "animal_bear_attack"`} | GAME_4={`31 81 "werewolf_soldier_attack"`} | GAME_5={`31 81 "werewolf_soldier_attack"`}
+- `[tribetype]` 第7条 · `type`：GAME_2={`7`} | GAME_3={`7`} | GAME_4={`6`} | GAME_5={`6`}
+- `[tribetype]` 第8条 · `name`：GAME_2={`"boars"`} | GAME_3={`"boars"`} | GAME_4={`"bears"`} | GAME_5={`"bears"`}
+- `[tribetype]` 第9条 · `name`：GAME_2={`"cattle"`} | GAME_3={`"cattle"`} | GAME_4={`"boars"`} | GAME_5={`"boars"`}
+- `[tribetype]` 第10条 · `name`：GAME_2={`"camels"`} | GAME_3={`"camels"`} | GAME_4={`"cattle"`} | GAME_5={`"cattle"`}
+- `[tribetype]` 第10条 · `type`：GAME_2={`20`} | GAME_3={`20`} | GAME_4={`10`} | GAME_5={`10`}
+- `[tribetype]` 第11条 · `name`：GAME_2={`"dromedaries"`} | GAME_3={`"dromedaries"`} | GAME_4={`"camels"`} | GAME_5={`"camels"`}
+- `[tribetype]` 第12条 · `name`：GAME_2={`"elephants"`} | GAME_3={`"elephants"`} | GAME_4={`"dromedaries"`} | GAME_5={`"dromedaries"`}
+- `[tribetype]` 第13条 · `name`：GAME_2={`"stags"`} | GAME_3={`"stags"`} | GAME_4={`"elephants"`} | GAME_5={`"elephants"`}
+- `[tribetype]` 第13条 · `type`：GAME_2={`10`} | GAME_3={`10`} | GAME_4={`23`} | GAME_5={`23`}
+- `[tribetype]` 第14条 · `name`：GAME_2={`"deers"`} | GAME_3={`"deers"`} | GAME_4={`"stags"`} | GAME_5={`"stags"`}
+- `[tribetype]` 第15条 · `name`：GAME_2={`"dogs"`} | GAME_3={`"dogs"`} | GAME_4={`"deers"`} | GAME_5={`"deers"`}
+- `[tribetype]` 第16条 · `name`：GAME_2={`"goats"`} | GAME_3={`"goats"`} | GAME_4={`"dogs"`} | GAME_5={`"dogs"`}
+- `[tribetype]` 第17条 · `name`：GAME_2={`"ibexes"`} | GAME_3={`"ibexes"`} | GAME_4={`"goats"`} | GAME_5={`"goats"`}
+- `[tribetype]` 第18条 · `name`：GAME_2={`"horses"`} | GAME_3={`"horses"`} | GAME_4={`"ibexes"`} | GAME_5={`"ibexes"`}
+- `[tribetype]` 第18条 · `type`：GAME_2={`23`} | GAME_3={`23`} | GAME_4={`15`} | GAME_5={`15`}
+- `[tribetype]` 第19条 · `name`：GAME_2={`"lions"`} | GAME_3={`"lions"`} | GAME_4={`"horses"`} | GAME_5={`"horses"`}
+- `[tribetype]` 第19条 · `setatomic`：GAME_2={`49 81 "animal_lion_male_attack"`} | GAME_3={`49 81 "animal_lion_male_attack"`} | GAME_4={`49 81 "animal_bear_attack"`} | GAME_5={`49 81 "animal_bear_attack"`}
+- `[tribetype]` 第20条 · `name`：GAME_2={`"lionesses"`} | GAME_3={`"lionesses"`} | GAME_4={`"lions"`} | GAME_5={`"lions"`}
+- `[tribetype]` 第20条 · `setatomic`：GAME_2={`49 81 "animal_lion_female_attack"`} | GAME_3={`49 81 "animal_lion_female_attack"`} | GAME_4={`49 81 "animal_lion_male_attack"`} | GAME_5={`49 81 "animal_lion_male_attack"`}
+- `[tribetype]` 第21条 · `name`：GAME_2={`"hares"`} | GAME_3={`"hares"`} | GAME_4={`"lionesses"`} | GAME_5={`"lionesses"`}
+- `[tribetype]` 第21条 · `setatomic`：GAME_2={`49 81 "animal_rabbit_attack"`} | GAME_3={`49 81 "animal_rabbit_attack"`} | GAME_4={`49 81 "animal_lion_female_attack"`} | GAME_5={`49 81 "animal_lion_female_attack"`}
+- `[tribetype]` 第21条 · `type`：GAME_2={`15`} | GAME_3={`15`} | GAME_4={`26`} | GAME_5={`26`}
+- `[tribetype]` 第22条 · `name`：GAME_2={`"rabbits"`} | GAME_3={`"rabbits"`} | GAME_4={`"hares"`} | GAME_5={`"hares"`}
+- `[tribetype]` 第23条 · `name`：GAME_2={`"evil hares"`} | GAME_3={`"evil hares"`} | GAME_4={`"rabbits"`} | GAME_5={`"rabbits"`}
+- `[tribetype]` 第24条 · `name`：GAME_2={`"sheep"`} | GAME_3={`"sheep"`} | GAME_4={`"evil hares"`} | GAME_5={`"evil hares"`}
+- `[tribetype]` 第24条 · `setatomic`：GAME_2={`49 81 "animal_bear_attack"`} | GAME_3={`49 81 "animal_bear_attack"`} | GAME_4={`49 81 "animal_rabbit_attack"`} | GAME_5={`49 81 "animal_rabbit_attack"`}
+- `[tribetype]` 第25条 · `name`：GAME_2={`"wolves"`} | GAME_3={`"wolves"`} | GAME_4={`"sheep"`} | GAME_5={`"sheep"`}
+- `[tribetype]` 第25条 · `setatomic`：GAME_2={`49 81 "animal_wolve_attack"`} | GAME_3={`49 81 "animal_wolve_attack"`} | GAME_4={`49 81 "animal_bear_attack"`} | GAME_5={`49 81 "animal_bear_attack"`}
+- `[tribetype]` 第26条 · `name`：GAME_2={`"sparrows"`} | GAME_3={`"sparrows"`} | GAME_4={`"wolves"`} | GAME_5={`"wolves"`}
+- `[tribetype]` 第26条 · `setatomic`：GAME_2={`49 81 "animal_bear_attack"`} | GAME_3={`49 81 "animal_bear_attack"`} | GAME_4={`49 81 "animal_wolve_attack"`} | GAME_5={`49 81 "animal_wolve_attack"`}
+- `[tribetype]` 第26条 · `type`：GAME_2={`26`} | GAME_3={`26`} | GAME_4={`20`} | GAME_5={`20`}
+- `[tribetype]` 第27条 · `name`：GAME_2={`"ravens"`} | GAME_3={`"ravens"`} | GAME_4={`"sparrows"`} | GAME_5={`"sparrows"`}
+- `[tribetype]` 第28条 · `name`：GAME_2={`"parrots"`} | GAME_3={`"parrots"`} | GAME_4={`"ravens"`} | GAME_5={`"ravens"`}
+- `[tribetype]` 第29条 · `name`：GAME_2={`"chicken"`} | GAME_3={`"chicken"`} | GAME_4={`"parrots"`} | GAME_5={`"parrots"`}
+- `[tribetype]` 第30条 · `name`：GAME_2={`"ducks"`} | GAME_3={`"ducks"`} | GAME_4={`"chicken"`} | GAME_5={`"chicken"`}
+- `[tribetype]` 第31条 · `name`：GAME_2={`"geese"`} | GAME_3={`"geese"`} | GAME_4={`"ducks"`} | GAME_5={`"ducks"`}
+- `[tribetype]` 第32条 · `name`：GAME_2={`"swans"`} | GAME_3={`"swans"`} | GAME_4={`"geese"`} | GAME_5={`"geese"`}
+- `[tribetype]` 第33条 · `name`：GAME_2={`"crabs"`} | GAME_3={`"crabs"`} | GAME_4={`"swans"`} | GAME_5={`"swans"`}
+- `[tribetype]` 第33条 · `type`：GAME_2={`36`} | GAME_3={`36`} | GAME_4={`33`} | GAME_5={`33`}
+- `[tribetype]` 第34条 · `name`：GAME_2={`"frogs"`} | GAME_3={`"frogs"`} | GAME_4={`"crabs"`} | GAME_5={`"crabs"`}
+- `[tribetype]` 第35条 · `name`：GAME_2={`"scorpions"`} | GAME_3={`"scorpions"`} | GAME_4={`"frogs"`} | GAME_5={`"frogs"`}
+- `[tribetype]` 第36条 · `name`：GAME_2={`"bees"`} | GAME_3={`"bees"`} | GAME_4={`"scorpions"`} | GAME_5={`"scorpions"`}
+- `[tribetype]` 第36条 · `type`：GAME_2={`33`} | GAME_3={`33`} | GAME_4={`39`} | GAME_5={`39`}
+- `[tribetype]` 第37条 · `name`：GAME_2={`"butterflies"`} | GAME_3={`"butterflies"`} | GAME_4={`"bees"`} | GAME_5={`"bees"`}
+- `[tribetype]` 第38条 · `name`：GAME_2={`"mosquitos"`} | GAME_3={`"mosquitos"`} | GAME_4={`"butterflies"`} | GAME_5={`"butterflies"`}
+- `[tribetype]` 第39条 · `name`：GAME_2={`"dragons"`} | GAME_3={`"dragons"`} | GAME_4={`"mosquitos"`} | GAME_5={`"mosquitos"`}
+- `[tribetype]` 第39条 · `type`：GAME_2={`40`} | GAME_3={`40`} | GAME_4={`36`} | GAME_5={`36`}
+- `[tribetype]` 第40条 · `name`：GAME_2={`"snakes"`} | GAME_3={`"snakes"`} | GAME_4={`"dragons"`} | GAME_5={`"dragons"`}
+- `[tribetype]` 第40条 · `type`：GAME_2={`39`} | GAME_3={`39`} | GAME_4={`41`} | GAME_5={`41`}
+
+### `vehicletypes.ini`
+
+#### 1. 记录存在性差异（某游戏缺整条记录）
+
+- （无）四份记录数相同
+
+#### 2. 键值差异
+
+- 共 1 个键值存在差异：
+
+- `[vehicletype]` 第2条 · `logicdragginganimaltribe`：GAME_2={`9`} | GAME_3={`9`} | GAME_4={`10`} | GAME_5={`10`}
+
+### `weapontypes.ini`
+
+#### 1. 记录存在性差异（某游戏缺整条记录）
+
+- `[weapontype]` 第 84 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[weapontype]` 第 85 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[weapontype]` 第 86 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[weapontype]` 第 87 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[weapontype]` 第 88 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[weapontype]` 第 89 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[weapontype]` 第 90 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[weapontype]` 第 91 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[weapontype]` 第 92 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[weapontype]` 第 93 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[weapontype]` 第 94 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[weapontype]` 第 95 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[weapontype]` 第 96 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[weapontype]` 第 97 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[weapontype]` 第 98 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[weapontype]` 第 99 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[weapontype]` 第 100 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[weapontype]` 第 101 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+- `[weapontype]` 第 102 条：存在 [GAME_4, GAME_5]，缺失 [GAME_2, GAME_3]
+#### 2. 键值差异
+
+- 共 98 个键值存在差异：
+
+- `[weapontype]` 第4条 · `maximumrange`：GAME_2={`1`} | GAME_3={`2`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第5条 · `maximumrange`：GAME_2={`1`} | GAME_3={`2`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第5条 · `weight`：GAME_2={`1`} | GAME_3={`2`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第6条 · `maximumrange`：GAME_2={`1`} | GAME_3={`2`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第6条 · `weight`：GAME_2={`1`} | GAME_3={`0`} | GAME_4={`0`} | GAME_5={`0`}
+- `[weapontype]` 第7条 · `damagevalue`：GAME_2={`6 411`} | GAME_3={`6 700`} | GAME_4={`6 700`} | GAME_5={`6 700`}
+- `[weapontype]` 第8条 · `weight`：GAME_2={`1`} | GAME_3={`2`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第9条 · `weight`：GAME_2={`1`} | GAME_3={`0`} | GAME_4={`0`} | GAME_5={`0`}
+- `[weapontype]` 第12条 · `weight`：GAME_2={`1`} | GAME_3={`0`} | GAME_4={`0`} | GAME_5={`0`}
+- `[weapontype]` 第13条 · `weight`：GAME_2={`1`} | GAME_3={`0`} | GAME_4={`0`} | GAME_5={`0`}
+- `[weapontype]` 第15条 · `weight`：GAME_2={`1`} | GAME_3={`2`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第16条 · `weight`：GAME_2={`1`} | GAME_3={`0`} | GAME_4={`0`} | GAME_5={`0`}
+- `[weapontype]` 第22条 · `damagevalue`：GAME_2={`6 229`} | GAME_3={`6 229`} | GAME_4={`6 10`} | GAME_5={`6 10`}
+- `[weapontype]` 第23条 · `maximumrange`：GAME_2={`1`} | GAME_3={`2`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第24条 · `maximumrange`：GAME_2={`1`} | GAME_3={`2`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第24条 · `weight`：GAME_2={`1`} | GAME_3={`2`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第25条 · `maximumrange`：GAME_2={`1`} | GAME_3={`2`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第27条 · `weight`：GAME_2={`1`} | GAME_3={`2`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第34条 · `weight`：GAME_2={`1`} | GAME_3={`2`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第35条 · `damagevalue`：GAME_2={`6 686`} | GAME_3={`6 10`} | GAME_4={`6 10`} | GAME_5={`6 10`}
+- `[weapontype]` 第35条 · `maximumrange`：GAME_2={`15`} | GAME_3={`12`} | GAME_4={`15`} | GAME_5={`15`}
+- `[weapontype]` 第35条 · `minimumrange`：GAME_2={`4`} | GAME_3={`3`} | GAME_4={`4`} | GAME_5={`4`}
+- `[weapontype]` 第35条 · `speed`：GAME_2={`8`} | GAME_3={`4`} | GAME_4={`8`} | GAME_5={`8`}
+- `[weapontype]` 第41条 · `damagevalue`：GAME_2={`6 229`} | GAME_3={`6 229`} | GAME_4={`6 1309`} | GAME_5={`6 1309`}
+- `[weapontype]` 第41条 · `jobtype`：GAME_2={`42`} | GAME_3={`42`} | GAME_4={`32`} | GAME_5={`32`}
+- `[weapontype]` 第41条 · `soundtype_Hit`：GAME_2={`6 93`} | GAME_3={`6 93`} | GAME_4={`6 70`} | GAME_5={`6 70`}
+- `[weapontype]` 第41条 · `soundtype_NoHit`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6 68`} | GAME_5={`6 68`}
+- `[weapontype]` 第42条 · `damagevalue`：GAME_2={`6 309`} | GAME_3={`6 309`} | GAME_4={`6 1309`} | GAME_5={`6 1309`}
+- `[weapontype]` 第42条 · `maximumrange`：GAME_2={`1`} | GAME_3={`2`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第43条 · `maximumrange`：GAME_2={`1`} | GAME_3={`2`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第43条 · `weight`：GAME_2={`1`} | GAME_3={`2`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第44条 · `maximumrange`：GAME_2={`1`} | GAME_3={`2`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第46条 · `weight`：GAME_2={`1`} | GAME_3={`2`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第53条 · `weight`：GAME_2={`1`} | GAME_3={`2`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第61条 · `maximumrange`：GAME_2={`1`} | GAME_3={`2`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第62条 · `maximumrange`：GAME_2={`1`} | GAME_3={`2`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第62条 · `weight`：GAME_2={`1`} | GAME_3={`2`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第63条 · `maximumrange`：GAME_2={`1`} | GAME_3={`2`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第65条 · `weight`：GAME_2={`1`} | GAME_3={`2`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第72条 · `weight`：GAME_2={`1`} | GAME_3={`2`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第77条 · `damagevalue`：GAME_2={`6 1000`} | GAME_3={`6 957`} | GAME_4={`6 229`} | GAME_5={`6 229`}
+- `[weapontype]` 第77条 · `jobtype`：GAME_2={`31`} | GAME_3={`31`} | GAME_4={`5`} | GAME_5={`5`}
+- `[weapontype]` 第77条 · `name`：GAME_2={`"claw"`} | GAME_3={`"claw"`} | GAME_4={`"woman fist"`} | GAME_5={`"woman fist"`}
+- `[weapontype]` 第77条 · `soundtype_Hit`：GAME_2={`6 105`} | GAME_3={`6 105`} | GAME_4={`6 95`} | GAME_5={`6 95`}
+- `[weapontype]` 第77条 · `tribetype`：GAME_2={`6`} | GAME_3={`6`} | GAME_4={`7`} | GAME_5={`7`}
+- `[weapontype]` 第77条 · `type`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第78条 · `damagevalue`：GAME_2={`6 857`} | GAME_3={`6 857`} | GAME_4={`6 229`} | GAME_5={`6 229`}
+- `[weapontype]` 第78条 · `name`：GAME_2={`"claw"`} | GAME_3={`"claw"`} | GAME_4={`"fist"`} | GAME_5={`"fist"`}
+- `[weapontype]` 第78条 · `soundtype_Hit`：GAME_2={`6 100`} | GAME_3={`6 100`} | GAME_4={`6 93`} | GAME_5={`6 93`}
+- `[weapontype]` 第78条 · `tribetype`：GAME_2={`5`} | GAME_3={`5`} | GAME_4={`7`} | GAME_5={`7`}
+- `[weapontype]` 第79条 · `damagevalue`：GAME_2={`6 179`} | GAME_3={`6 179`} | GAME_4={`6 1309`} | GAME_5={`6 1309`}
+- `[weapontype]` 第79条 · `jobtype`：GAME_2={`49`} | GAME_3={`49`} | GAME_4={`32`} | GAME_5={`32`}
+- `[weapontype]` 第79条 · `name`：GAME_2={`"BearFist"`} | GAME_3={`"BearFist"`} | GAME_4={`"hero fist"`} | GAME_5={`"hero fist"`}
+- `[weapontype]` 第79条 · `soundtype_Hit`：GAME_2={`6 102`} | GAME_3={`6 102`} | GAME_4={`6 70`} | GAME_5={`6 70`}
+- `[weapontype]` 第79条 · `soundtype_NoHit`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6 68`} | GAME_5={`6 68`}
+- `[weapontype]` 第79条 · `type`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`3`} | GAME_5={`3`}
+- `[weapontype]` 第80条 · `damagevalue`：GAME_2={`6 179`} | GAME_3={`6 179`} | GAME_4={`6 1309`} | GAME_5={`6 1309`}
+- `[weapontype]` 第80条 · `goodtype`：GAME_2={`0`} | GAME_3={`0`} | GAME_4={`39`} | GAME_5={`39`}
+- `[weapontype]` 第80条 · `jobtype`：GAME_2={`49`} | GAME_3={`49`} | GAME_4={`32`} | GAME_5={`32`}
+- `[weapontype]` 第80条 · `mainType`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第80条 · `maximumrange`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第80条 · `name`：GAME_2={`"WolveFist"`} | GAME_3={`"WolveFist"`} | GAME_4={`"wooden spear"`} | GAME_5={`"wooden spear"`}
+- `[weapontype]` 第80条 · `soundtype_Hit`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6 70`} | GAME_5={`6 70`}
+- `[weapontype]` 第80条 · `soundtype_NoHit`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6 68`} | GAME_5={`6 68`}
+- `[weapontype]` 第80条 · `tribetype`：GAME_2={`19`} | GAME_3={`19`} | GAME_4={`7`} | GAME_5={`7`}
+- `[weapontype]` 第80条 · `type`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`4`} | GAME_5={`4`}
+- `[weapontype]` 第80条 · `weight`：GAME_2={`0`} | GAME_3={`0`} | GAME_4={`1`} | GAME_5={`1`}
+- `[weapontype]` 第81条 · `damagevalue`：GAME_2={`6 857`} | GAME_3={`6 857`} | GAME_4={`6 463`} | GAME_5={`6 463`}
+- `[weapontype]` 第81条 · `goodtype`：GAME_2={`0`} | GAME_3={`0`} | GAME_4={`40`} | GAME_5={`40`}
+- `[weapontype]` 第81条 · `jobtype`：GAME_2={`49`} | GAME_3={`49`} | GAME_4={`33`} | GAME_5={`33`}
+- `[weapontype]` 第81条 · `mainType`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第81条 · `maximumrange`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第81条 · `name`：GAME_2={`"EvilRabbitBit"`} | GAME_3={`"EvilRabbitBit"`} | GAME_4={`"iron spear"`} | GAME_5={`"iron spear"`}
+- `[weapontype]` 第81条 · `soundtype_Hit`：GAME_2={`6 111`} | GAME_3={`6 111`} | GAME_4={`6 70`} | GAME_5={`6 70`}
+- `[weapontype]` 第81条 · `soundtype_NoHit`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6 68`} | GAME_5={`6 68`}
+- `[weapontype]` 第81条 · `tribetype`：GAME_2={`17`} | GAME_3={`17`} | GAME_4={`7`} | GAME_5={`7`}
+- `[weapontype]` 第81条 · `type`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`5`} | GAME_5={`5`}
+- `[weapontype]` 第81条 · `weight`：GAME_2={`0`} | GAME_3={`0`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第82条 · `damagevalue`：GAME_2={`6 179`} | GAME_3={`6 179`} | GAME_4={`6 1029`} | GAME_5={`6 1029`}
+- `[weapontype]` 第82条 · `goodtype`：GAME_2={`0`} | GAME_3={`0`} | GAME_4={`40`} | GAME_5={`40`}
+- `[weapontype]` 第82条 · `jobtype`：GAME_2={`49`} | GAME_3={`49`} | GAME_4={`43`} | GAME_5={`43`}
+- `[weapontype]` 第82条 · `mainType`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第82条 · `maximumrange`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`2`} | GAME_5={`2`}
+- `[weapontype]` 第82条 · `name`：GAME_2={`"LionMaleFist"`} | GAME_3={`"LionMaleFist"`} | GAME_4={`"hero spear"`} | GAME_5={`"hero spear"`}
+- `[weapontype]` 第82条 · `soundtype_Hit`：GAME_2={`6 108`} | GAME_3={`6 108`} | GAME_4={`6 70`} | GAME_5={`6 70`}
+- `[weapontype]` 第82条 · `soundtype_NoHit`：GAME_2={`<缺失>`} | GAME_3={`<缺失>`} | GAME_4={`6 68`} | GAME_5={`6 68`}
+- `[weapontype]` 第82条 · `tribetype`：GAME_2={`24`} | GAME_3={`24`} | GAME_4={`7`} | GAME_5={`7`}
+- `[weapontype]` 第82条 · `type`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`6`} | GAME_5={`6`}
+- `[weapontype]` 第82条 · `weight`：GAME_2={`0`} | GAME_3={`0`} | GAME_4={`1`} | GAME_5={`1`}
+- `[weapontype]` 第83条 · `damagevalue`：GAME_2={`6 179`} | GAME_3={`6 179`} | GAME_4={`6 411`} | GAME_5={`6 411`}
+- `[weapontype]` 第83条 · `goodtype`：GAME_2={`0`} | GAME_3={`0`} | GAME_4={`41`} | GAME_5={`41`}
+- `[weapontype]` 第83条 · `jobtype`：GAME_2={`49`} | GAME_3={`49`} | GAME_4={`34`} | GAME_5={`34`}
+- `[weapontype]` 第83条 · `mainType`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`3`} | GAME_5={`3`}
+- `[weapontype]` 第83条 · `name`：GAME_2={`"LionFemaleFist"`} | GAME_3={`"LionFemaleFist"`} | GAME_4={`"short sword"`} | GAME_5={`"short sword"`}
+- `[weapontype]` 第83条 · `soundtype_Hit`：GAME_2={`6 108`} | GAME_3={`6 108`} | GAME_4={`6 82`} | GAME_5={`6 82`}
+- `[weapontype]` 第83条 · `tribetype`：GAME_2={`25`} | GAME_3={`25`} | GAME_4={`7`} | GAME_5={`7`}
+- `[weapontype]` 第83条 · `type`：GAME_2={`1`} | GAME_3={`1`} | GAME_4={`7`} | GAME_5={`7`}
+- `[weapontype]` 第83条 · `weight`：GAME_2={`0`} | GAME_3={`0`} | GAME_4={`1`} | GAME_5={`1`}

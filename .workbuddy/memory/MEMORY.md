@@ -68,7 +68,7 @@
 - **GER：已验证 DONE**。`Tools/ger_source_audit.py` 比对 GAME_2/3/4/5_MAP(+USER) 源：156/156 匹配正确源，152 完全一致，3 处仅 CRLF↔LF 行尾差异，1 处 campaign_01_09-sub 多余空 `header` 模板块，**0 幽灵块**（XML 空块在源里同样是空块）。commit `41c426d`。
 - **空翻（节点空）**：eng 13 + chn 29 = **42 处，全部经工具复核为「幽灵块」**（ger 源该块同样为空或无内容），**不是真缺陷、绝不可编造填充**。commit `6d3a9d1` 已修 8 处真缺陷后剩余。
 - **漏翻(key 级)**：0（只要文件声明该语言，ger 每个 key 都有对应条目）。
-- **eng 整文件缺失**：42 个文件，**全部是用户/C2M 战役地图**（14 个 `_campaign_04_*` + 28 个 `NN_*.xml` 用户地图），原版游戏即无英文，主战役地图全部含 eng；是否补英文由用户定（中文本地化受众无需英文，建议不补）。
+- **eng / pol 整文件缺失（二者完全重合，2026-08-18 核实）**：eng 与 pol **覆盖完全对齐**——各 114/156 有内容，且「有/无」在每个文件上一致。**同缺的 42 个文件完全相同**（0 个只缺其一）：14 个 `_campaign_04_*`(C2M) + 28 个 `map_xml_user` 用户地图；原版游戏这些地图即无 eng/pol，主战役(campaign_01–03/tutorial/demo…)二者都在。是否补译由用户定（中文本地化受众无需英文，建议不补）。**注意**：pol 实际覆盖 114 文件（85 非02/03主战役 + 12 campaign_02 + 17 campaign_03），不只是 02/03——原版游戏数据本就含 pol；eng/pol 在任何文件上都不存在"一个有一个无"的错位。
 - **错行（行数不一致）**：chn 157 + eng 6，**全部经字符数复核为良性**——德文比中文约 3× 冗长，完整中译字符数本就只有德文 30–40%，行数差≠截断；eng 的 6 处 abs(差)<3 更无截断。无需逐条改。
 - **已修的真实缺陷**（commit `6d3a9d1`）：eng 3 空翻(campaign_01_05 b:sub、campaign_01_07 b:spieler_attakiert_Byzanz、b:spieler_zahlt_tribut)+1 截断(b:wikiflucht)、chn 4 浓缩摘要(tutorial_007 b:00、multiplayer_007 begin_00、tutorial_001 b:00、multiplayer_02_06 begin_00)。
 - 报告产物：`translation_audit.md` + `audit.json`（空翻/漏翻/错行口径）；`ger_audit_report.md` + `Tools/ger_source_audit.py`（GER 源一致性）。

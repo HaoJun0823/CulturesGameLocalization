@@ -1,150 +1,179 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="weinachten_2002" export_map_id="weinachten_2002" map_md5="4b725b58c890e01bdbf563326a026228" IsC2M="false">
+<localization version="1.3" map_id="weinachten_2002" export_map_id="weinachten_2002" map_md5="4b725b58c890e01bdbf563326a026228" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@救助爱斯基摩人，联合各族！</text>
       <text lang="eng">@HELP THE ESKIMOS, UNITE THE TRIBES!</text>
       <text lang="ger">@HILF DEN ESKIMOS, VEREINE DIE VÖLKER!</text>
+      <text lang="pol">@POMÓŻ ESKIMOSOM I ZJEDNOCZ PLEMIONA!</text>
     </string>
     <string id="1">
       <text lang="CHN">建立一座小型聚落。</text>
       <text lang="eng">Build up a small settlement.</text>
       <text lang="ger">Baue eine kleine Siedlung auf.</text>
+      <text lang="pol">Zbuduj małą osadę.</text>
     </string>
     <string id="2">
       <text lang="CHN">拜访灰爱斯基摩人与黄爱斯基摩人的部落。</text>
       <text lang="eng">Visit the tribe of the Greykimos and Yellimos.</text>
       <text lang="ger">Suche den Stamm der Graukimos und Gelbimos auf.</text>
+      <text lang="pol">Odszukaj plemię Szaromosów i Żółtomosów.</text>
     </string>
     <string id="3">
       <text lang="CHN">前往裁缝坊。</text>
       <text lang="eng">Go to the tailor's workshop.</text>
       <text lang="ger">Gehe zur Näherei.</text>
+      <text lang="pol">Idź do szwalni.</text>
     </string>
     <string id="4">
       <text lang="CHN">前往西方的诺恩三女神处。</text>
       <text lang="eng">Go to the Norns in the west.</text>
       <text lang="ger">Gehe zu den Nornen im Westen.</text>
+      <text lang="pol">Udaj się do Norn na zachodzie.</text>
     </string>
     <string id="5">
       <text lang="CHN">设法驱散阴雨，唤来飞雪。</text>
       <text lang="eng">Find a way to stop the rain and summon snow.</text>
       <text lang="ger">Suche eine Möglichkeit den Regen zu vertreiben und Schnee herbeizurufen.</text>
+      <text lang="pol">Poszukaj możliwości powstrzymania deszczu i przywołania śniegu.</text>
     </string>
     <string id="6">
       <text lang="CHN">寻求一份和平的共识。</text>
       <text lang="eng">Try to find a way for a peaceful union.</text>
       <text lang="ger">Suche nach einer friedlichen Einigung.</text>
+      <text lang="pol">Poszukaj pokojowego rozwiązania.</text>
     </string>
     <string id="7">
       <text lang="CHN">向灰爱斯基摩人进献 10 个蛋糕作贡金！</text>
       <text lang="eng">Pay 10 cakes to the Greykimos as a tribute!</text>
       <text lang="ger">Liefere 10 Kuchen an die Graukimos zum Tribut!</text>
+      <text lang="pol">Dostarcz Szaromosom 10 ciastek jako trybut!</text>
     </string>
     <string id="8">
       <text lang="CHN">向黄爱斯基摩人进献 10 单位蜂蜜酒作贡金！</text>
       <text lang="eng">Pay 10 mead to the Yellimos as a tribute!</text>
       <text lang="ger">Liefere 10 Met an die Gelbimos zum Tribut!</text>
+      <text lang="pol">Dostarcz Żółtomosom 10 sztuk miodu jako trybut!</text>
     </string>
     <string id="9">
       <text lang="CHN">给维京人 15 袋羊毛作贡金。</text>
       <text lang="eng">Pay the Vikings 15 sacks of wool as a tribute.</text>
       <text lang="ger">Gib den Wikinger 15 Säcke Wolle zum Tribut.</text>
+      <text lang="pol">Daj Wikingom 15 worków wełny jako trybut.</text>
     </string>
     <string id="10">
       <text lang="CHN">待各部族修好，将爱斯基摩人带往裁缝坊！</text>
       <text lang="eng">Take the Eskimos to the tailor's workshop if the tribes are friendly!</text>
       <text lang="ger">Bringe die Eskimos zur Näherei, wenn die Stämme befreundet sind!</text>
+      <text lang="pol">Przyprowadź Eskimosów do szwalni, jeśli plemiona są w przyjaznych stosunkach!</text>
     </string>
     <string id="11">
       <text lang="CHN">将红爱斯基摩人带往黑爱斯基摩人处。</text>
       <text lang="eng">Take the red Eskimos to the Blackimos.</text>
       <text lang="ger">Bringe die roten Eskimos zu den Schwarzimos.</text>
+      <text lang="pol">Przyprowadź Eskimosów odzianych w czerwone szaty do Czarnomosów.</text>
     </string>
     <string id="50">
       <text lang="CHN">维京人</text>
       <text lang="eng">Vikings</text>
       <text lang="ger">Wikinger</text>
+      <text lang="pol">Wikingowie</text>
     </string>
     <string id="51">
       <text lang="CHN">维京人</text>
       <text lang="eng">Vikings</text>
       <text lang="ger">Wikinger</text>
+      <text lang="pol">Wikingowie</text>
     </string>
     <string id="52">
       <text lang="CHN">爱斯基摩人</text>
       <text lang="eng">Eskimos</text>
       <text lang="ger">Eskimos</text>
+      <text lang="pol">Eskimosi</text>
     </string>
     <string id="53">
       <text lang="CHN">灰爱斯基摩人</text>
       <text lang="eng">Greykimos</text>
       <text lang="ger">Graukimos</text>
+      <text lang="pol">Szaromosi</text>
     </string>
     <string id="54">
       <text lang="CHN">黄爱斯基摩人</text>
       <text lang="eng">Yellimos</text>
       <text lang="ger">Gelbimos</text>
+      <text lang="pol">Żółtomosi</text>
     </string>
     <string id="55">
       <text lang="CHN">黑爱斯基摩人</text>
       <text lang="eng">Blackimos</text>
       <text lang="ger">Schwarzimos</text>
+      <text lang="pol">Czarnomosi</text>
     </string>
     <string id="61">
       <text lang="CHN">维.</text>
       <text lang="eng">Viki.</text>
       <text lang="ger">Wiki.</text>
+      <text lang="pol">Wiki.</text>
     </string>
     <string id="62">
       <text lang="CHN">爱.</text>
       <text lang="eng">Eski.</text>
       <text lang="ger">Eski.</text>
+      <text lang="pol">Eski.</text>
     </string>
     <string id="63">
       <text lang="CHN">灰.</text>
       <text lang="eng">Greyki.</text>
       <text lang="ger">Grauki.</text>
+      <text lang="pol">Szarom.</text>
     </string>
     <string id="64">
       <text lang="CHN">黄.</text>
       <text lang="eng">Yelli.</text>
       <text lang="ger">Gelbi.</text>
+      <text lang="pol">Żółtom.</text>
     </string>
     <string id="65">
       <text lang="CHN">黑.</text>
       <text lang="eng">Black.</text>
       <text lang="ger">Schwarz.</text>
+      <text lang="pol">Czarnom.</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">纳努克</text>
       <text lang="eng">Nanuk</text>
       <text lang="ger">Nanuk</text>
+      <text lang="pol">Nanuk</text>
     </string>
     <string id="76">
       <text lang="CHN">酋长</text>
       <text lang="eng">Chieftain</text>
       <text lang="ger">Häuptling</text>
+      <text lang="pol">Wódz</text>
     </string>
     <string id="98">
       <text lang="CHN">在爱斯基摩人的土地上，维京人再度扎下营帐。然而住民忧心忡忡--各族相互攻伐，连绵阴雨正危及他们的存亡……</text>
       <text lang="eng">The Vikings pitch their tents in the land of the Eskimos. But the locals are very worried. The different tribes are at war with one another and rain threatens their existence ...</text>
       <text lang="ger">Im Land der Eskimos schlagen die Wikinger erneut ihre Zelte auf. Doch die Bewohner haben große Sorgen. Die verschiedenen Stämme führen gegeneinander Krieg und Regen bedroht ihre Existenz…</text>
+      <text lang="pol">W kraju Eskimosów Wikingowie znów rozbijają namioty. Ale mieszkańcy tej krainy mają duże problemy. Plemiona walczą między sobą, nie zważając na to, że deszcz zagraża ich egzystencji.</text>
     </string>
     <string id="99">
       <text lang="CHN">* 雪花轻轻飘落……</text>
       <text lang="eng">*LET IT SNOW ...</text>
       <text lang="ger">*LEISE RIESELT DER SCHNEE...</text>
+      <text lang="pol">* CICHO PADA ŚNIEG</text>
     </string>
   </strings>
   <briefings>
@@ -180,6 +209,17 @@ Vor uns breitete sich eine glitzernde Winterlandschaft aus, in der Schneeflocken
 Aber so kalt und eisig es auch war, wir beschlossen erst einmal unsere Lager aufzuschlagen und die Gegend zu erkunden...
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+Przed nami rozciągała się ośnieżona kraina. Wirujące w powietrzu płatki śniegu spadały na skutą lodem ziemię...
+
+</text>
+        <usericon>1,130,400</usericon>
+        <text>
+
+Mimo zimna i mrozu postanowiliśmy rozbić obóz i rozejrzeć się w okolicy...
+</text>
+      </lang>
     </block>
     <block id="00_start1">
       <lang code="CHN">
@@ -195,6 +235,11 @@ Build up a small settlement.
       <lang code="ger">
         <text> 
 Baue eine kleine Siedlung auf.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Zbuduj niewielką osadę.
 </text>
       </lang>
     </block>
@@ -260,6 +305,28 @@ Bitte, ihr müsst uns helfen!"
 Suche eine Möglichkeit die Auseinandersetzungen und den Regen zu beenden.
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+ESKIMOSI
+
+"Proszę, pomóżcie nam!" - zawołali Eskimosi, którzy wyszli nam naprzeciw.
+"Straszne rzeczy dzieją się tu na Północy!"
+
+</text>
+        <usericon>2,2</usericon>
+        <text>
+
+"Od czasu zniknięcia naszego naczelnika, nie ma już pokoju, a nieustający deszcz zagraża naszej egzystencji. Skłócone plemiona spierają się o każdy skrawek ziemi, który jeszcze nie zatonął w błocie. Szaromosi walczą przeciwko Żółtomosom."
+
+</text>
+        <usericon>2,3</usericon>
+        <text>
+
+"Plemiona obwiniają się wzajemnie za zniknięcie naszego naczelnika. Musicie nam pomóc!"
+
+Poszukaj możliwości zażegnania sporów i powstrzymania deszczu.
+</text>
+      </lang>
     </block>
     <block id="02">
       <lang code="CHN">
@@ -299,6 +366,19 @@ WIKINGER
         <text>
 
 "Wir haben eine fantastische Näherei! Geht und schaut sie euch an. Gerne könnt Ihr auch jederzeit mit uns Handel treiben."
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+WIKINGOWIE
+
+"Witajcie, przyjaciele! Zasiądźcie przy naszym stole biesiadnym!" - zapraszali nas Wikingowie.
+
+</text>
+        <usericon>1,46,297</usericon>
+        <text>
+
+"Mamy fantastyczną szwalnię! Przyjdźcie ją obejrzeć. Poza tym bardzo chętnie nawiążemy z wami kontakty handlowe."
 </text>
       </lang>
     </block>
@@ -348,6 +428,21 @@ GRAUKIMOS
 Liefere 10 Kuchen zum Tribut, damit die Graukimos einem Gespräch zustimmen!
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+SZAROMOSI
+
+"Ci żałośni Żółtomosi! Myślą, że są lepsi od innych!"
+
+</text>
+        <usericon>2,3</usericon>
+        <text>
+
+"Chętnie przystalibyśmy na pokój, ale oni ukradli nam żywność i uprowadzili naszego wodza!"
+
+Zapłać trybut w postaci 10 ciastek, aby Szaromosi zgodzili się na rozmowę!
+</text>
+      </lang>
     </block>
     <block id="04">
       <lang code="CHN">
@@ -395,6 +490,21 @@ GELBIMOS
 Liefere 10 Met zum Tribut, damit die Gelbimos einem Gespräch zustimmen!
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+ŻÓŁTOMOSI
+
+"Ci żałośni Szaromosi! Myślą, że są lepsi od innych!"
+
+</text>
+        <usericon>2,4</usericon>
+        <text>
+
+"Chętnie przystalibyśmy na pokój, ale oni uprowadzili naszego wodza i ukradli nasz miód, który podarowało nam zaprzyjaźnione plemię Wikingów!"
+
+Zapłać trybut w postaci 10 sztuk miodu, aby Żółtomosi zgodzili się na rozmowę!
+</text>
+      </lang>
     </block>
     <block id="05">
       <lang code="CHN">
@@ -436,6 +546,19 @@ Die Graukimos erhielten von uns den gewünschten Kuchen.
 Erst nachdem an beide Parteien der Tribut entrichtet wurde, ließen sie sich auf Gespräche ein.
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+TRYBUT ZOSTAŁ ZAPŁACONY SZAROMOSOM!
+
+Szaromosi otrzymali od nas żądane ciastka.
+
+</text>
+        <usericon>2,3</usericon>
+        <text>
+
+Dopiero, gdy obie strony otrzymały trybut, zgodziły się na negocjacje.
+</text>
+      </lang>
     </block>
     <block id="06">
       <lang code="CHN">
@@ -475,6 +598,19 @@ Die Gelbimos erhielten von uns den gewünschten Met.
         <text>
 
 Erst nachdem an beide Parteien der Tribut entrichtet wurde, ließen sie sich auf Gespräche ein.
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+TRYBUT ZOSTAŁ ZAPŁACONY ŻÓŁTOMOSOM!
+
+Żółtomosi otrzymali od nas żądamy miód.
+
+</text>
+        <usericon>2,4</usericon>
+        <text>
+
+Dopiero, gdy obie strony otrzymały trybut, zgodziły się na negocjacje.
 </text>
       </lang>
     </block>
@@ -526,6 +662,22 @@ Die Eskimos indes waren uns so dankbar, dass sie von nun an zu unseren Volk geh�
 </text>
         <usericon>1,134,407</usericon>
       </lang>
+      <lang code="pol">
+        <text> 
+ZAWIERANIE PRZYJAŹNI
+
+Dopiero, gdy obie strony otrzymały trybut, zgodziły się na negocjacje i zaprzestały walki.
+
+</text>
+        <usericon>2,4</usericon>
+        <text>
+
+Okazało się, że wszystkie oskarżenia były bezpodstawne. Plemiona nie okradały się wzajemnie, ani też żadne z plemion nie uprowadziło wodza.
+Tymczasem Eskimosi byli nam tak wdzięczni, że postanowili tak należeć do naszego plemienia, jak długo będziemy ich potrzebować...
+
+</text>
+        <usericon>1,134,407</usericon>
+      </lang>
     </block>
     <block id="08">
       <lang code="CHN">
@@ -561,6 +713,17 @@ VERBOTENER PFAD!
         <text>
 
 Dieser Eskimopfad darfst du erst betreten, wenn du Frieden ins Land gebracht hast und dir die Völker ihre Unterstützung anbieten!
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+ZAKAZANA ŚCIEŻKA!
+
+</text>
+        <usericon>1,177,74</usericon>
+        <text>
+
+Ścieżką Eskimosów możesz pójść dopiero wtedy, gdy zaprowadzisz w kraju pokój, a inne plemiona zaproponują ci wsparcie!
 </text>
       </lang>
     </block>
@@ -612,6 +775,21 @@ Wir dachten, wir hätten den Häuptling zum Fest nur für uns alleine! Darauf wo
 Finde eine Möglichkeit, sie davon zu überzeugen den Häuptling freizulassen.
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+Czarnomosi
+
+"Zdrada! Ta droga jest zarezerwowana tylko dla Eskimosów, a wszystkie inne plemiona powinny zająć się swoimi sprawami. Czyż nie spowodowaliśmy już wystarczająco dużo zamieszania? 
+
+</text>
+        <usericon>1,184,50</usericon>
+        <text>
+
+Sprowadziliśmy wodza, aby świętował tylko z nami! I nie mamy zamiaru odstąpić od tego! Nie wydamy go i basta!"
+
+Znajdź sposób na przekonanie ich, aby uwolnili wodza. 
+</text>
+      </lang>
     </block>
     <block id="10">
       <lang code="CHN">
@@ -659,6 +837,21 @@ NÄHEREI
 Bringe 15 Säcke zur Näherei!
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+SZWALNIA
+
+"W związku z wielkim świętem szyjemy czerwone szaty dla Eskimosów. To bardzo mili ludzie, ale nie umieją dzielić się z innymi..." powiedzieli krawcy.
+
+</text>
+        <usericon>1,66,287</usericon>
+        <text>
+
+"Każdego roku plemiona kłócą się o to, gdzie naczelnik (dotychczas jedyny w czerwonej szacie) ma spędzić święto! Oby starczyło nam wełny! Miejmy nadzieję, że zdążymy na czas..."
+
+Dostarcz 15 worków do szwalni!
+</text>
+      </lang>
     </block>
     <block id="100">
       <lang code="CHN">
@@ -694,6 +887,17 @@ MISSION VERLOREN!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+NIEPOWODZENIE MISJI!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Bohaterstwo czy lekkomyślność? Gdy umarł Bjarni, opłakiwali go bogowie... Bez tego bohatera nie dokończysz misji. Będziesz musiał zacząć ją od początku!
 </text>
       </lang>
     </block>
@@ -735,6 +939,19 @@ NÄHEREI
         <text>
 
 Bringe die Eskimos zur Näherei, wenn die Graukimos und Gelbimos versöhnt sind! 
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+NÄHEREI
+
+"Uszyliśmy czerwone szaty na czas. Teraz powinni przyjść Eskimosi i odebrać je."
+
+</text>
+        <usericon>1,66,287</usericon>
+        <text>
+
+Przyprowadź Eskimosów do szwalni, jeśli Szaromosi i Żółtomosi pogodzili się!
 </text>
       </lang>
     </block>
@@ -784,6 +1001,21 @@ ESKIMOS
 Bringe die Eskimos zu den Schwarzimos. Sie zeigen dir den Weg!
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+ESKIMOSI
+
+"W tak wytwornych czerwonych szatach wyglądamy jak nasz wódz!" - mówili Eskimosi.
+
+</text>
+        <usericon>1,66,287</usericon>
+        <text>
+
+"Moglibyśmy sprawić wszystkim plemionom przyjemność i przybyć na ich święto. Może w ten sposób uda się pokojowo zażegnać spory?"
+
+Zaprowadź Eskimosów do Czarnomosów. Oni wskażą ci drogę!
+</text>
+      </lang>
     </block>
     <block id="13">
       <lang code="CHN">
@@ -831,6 +1063,21 @@ SCHWARZIMOS
 Die rot gekleideten Eskimos nahmen gern die Einladung an...
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+CZARNOMOSI
+
+"Nie wierzymy własnym oczom! A więc ten, którego uprowadziliśmy na nasze święto, nie jest jedyny? W takim razie być może wyrządziliśmy mu krzywdę. Myśleliśmy, że będziemy najszczęśliwszym plemieniem w tym roku... Tak nam przykro..."
+
+</text>
+        <usericon>1,183,51</usericon>
+        <text>
+
+"Może ktoś z was chce u nas zostać, oczywiście zwrócimy mu wolność. A może moglibyśmy wspólnie świętować?"
+
+Odziani na czerwono Eskimosi chętnie przyjęli zaproszenie...
+</text>
+      </lang>
     </block>
     <block id="14">
       <lang code="CHN">
@@ -856,6 +1103,13 @@ SCHWARZIMO GESTORBEN!
 Ein Schwarzimo ist gestorben! Ist das die rechte Art Konflikte zu lösen?
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+CZARNOMOS NIE ŻYJE!
+
+Jeden Czarnomos nie żyje! Czy jest to właściwy sposób rozwiązywania konfliktów?
+</text>
+      </lang>
     </block>
     <block id="15">
       <lang code="CHN">
@@ -879,6 +1133,13 @@ We had defeated the Blackimos, but at what price? Was it really worth it? Wouldn
 VOLK GESTORBEN!
 
 Zwar hatten wir die Schwarzimos besiegt aber zu welch einen Preis? War es dies wert oder hätte es nicht auch eine andere Lösung gegeben?
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+PLEMIĘ NIE ŻYJE!
+
+Wprawdzie pokonaliśmy Czarnomosów, ale jakim kosztem? Czy warto było? Czy naprawdę nie było innego rozwiązania?
 </text>
       </lang>
     </block>
@@ -918,6 +1179,20 @@ NORNEN
         <text>
 
 "Erst wenn die Stämme sich wieder vereinen, werden wir dem Regen Einhalt gebieten! Kommt wieder, wenn ihr dies vollbracht habt!".
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+NORNY
+
+"Przybyliście, aby powstrzymać deszcz?" 
+
+</text>
+        <usericon>1,29,109</usericon>
+        <text>
+
+"Dopiero, gdy plemiona się zjednoczą, będziemy mogli powstrzymać deszcz!
+Przyjdźcie, gdy się zjednoczycie!"
 </text>
       </lang>
     </block>
@@ -961,6 +1236,19 @@ NORNEN
 "Ihr habt es geschafft die zwei Stämme zu vereinen, dafür werden wir dem Regen Einhalt gebieten. Seht wie wunderschön weiß die Umgebung erstrahlt, wenn Neuschnee fällt...".
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+NORNY
+
+"Przybyliście, aby powstrzymać deszcz?"
+
+</text>
+        <usericon>1,29,109</usericon>
+        <text>
+
+"Ponieważ udało wam się zjednoczyć dwa plemiona, powstrzymamy deszcz. Patrzcie, jak cudowną bielą mieni się cała okolica, gdy pada świeży śnieg..."
+</text>
+      </lang>
     </block>
     <block id="18">
       <lang code="CHN">
@@ -1002,6 +1290,19 @@ DER ALTE MANN
 "Hoch im Norden, hinter dem verborgenen Pfad, gibt es ein Volk, das noch weniger teilen kann, als die zwei Stämme der Gelbimos und Graukimos zusammen!"
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+SĘDZIWY CZŁOWIEK
+
+"Do diabła z tymi tubylcami! Te ich zwady i spory wprowadzają zamieszanie w pogodzie. Dopiero, gdy tubylcy się pogodzą, Norny na zachodzie pozwolą padać śniegowi!"
+
+</text>
+        <usericon>1,128,289</usericon>
+        <text>
+
+"Daleko na północy, na końcu ukrytej ścieżki, mieszka plemię, które podobnie jak Żółtomosi i Szaromosi nie umieją dzielić się z innymi!"
+</text>
+      </lang>
     </block>
     <block id="50_end">
       <lang code="CHN">
@@ -1035,6 +1336,17 @@ Wir hatten es geschafft! Die Eskimos, Gelbimos, Graukimos und sogar die Schwarzi
 Auch der Regen war verbannt und der hässliche Schneematsch, der zuvor das Land bedeckte, war von einer glitzernden weißen Schneepracht überdeckt... 
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+Udało się! Eskimosi, Żółtomosi, Szaromosi, a nawet Czarnomosi zjednoczyli się i świętowali razem z tym dziwnym mężczyzną w czerwonych szatach.
+
+</text>
+        <usericon>2,1</usericon>
+        <text>
+
+Przestał również padać deszcz, a zalegające wcześniej błoto zostało przykryte iskrzącym się w słońcu świeżym śniegiem...
+</text>
+      </lang>
     </block>
     <block id="50_end1">
       <lang code="CHN">
@@ -1048,6 +1360,11 @@ Auch der Regen war verbannt und der hässliche Schneematsch, der zuvor das Land 
       <lang code="ger">
         <text> 
 …
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+...
 </text>
       </lang>
     </block>
@@ -1065,6 +1382,11 @@ MISSION COMPLETED!
 MISSION GEWONNEN! 
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+MISJA ZAKOŃCZONA POMYŚLNIE!
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -1080,6 +1402,11 @@ LET IT SNOW ...
       <lang code="ger">
         <text> 
 LEISE RIESELT DER SCHNEE...
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+CICHO PADA ŚNIEG
 </text>
       </lang>
     </block>

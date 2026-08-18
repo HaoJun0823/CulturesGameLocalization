@@ -4,22 +4,26 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">揭开此地的秘密！</text>
       <text lang="eng">Uncover the secret of this place!</text>
       <text lang="ger">Lüfte das Geheimnis des Ortes!</text>
+      <text lang="pol">Rozwiąż zagadkę związaną z tym miejscem!</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="99">
       <text lang="CHN">地牢</text>
       <text lang="eng">THE DUNGEON</text>
       <text lang="ger">DAS VERLIES</text>
+      <text lang="pol">LOCHY</text>
     </string>
   </strings>
   <briefings>
@@ -46,6 +50,13 @@ In diesem Verlies war die Luft stickig und feucht!
 Es war schwülwarm hier drin, was an den heißen Wasserdämpfen liegen musste, die hier aus dem Boden kamen... 
 
 Erinnerungen an die Schlangenfallen im Moor kamen Bjarni ins Gedächtnis, doch dieser Dampf schien natürlich zu sein. Erhitzt von einer unterirdischen Wärmequelle!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+W tych lochach powietrze było stęchłe i wilgotne! Gorące opary wydobywające się z głębi ziemi utrudniały oddychanie...
+
+Bjarniemu nasunęło się wspomnienie zastawionych przez węże pułapek na bagnach. Ale ta para wyglądała na prawdziwą, pochodzącą z podziemnego gorącego źródła!
 </text>
       </lang>
     </block>
@@ -79,6 +90,16 @@ Bjarni fand eine Inschrift im Mauerwerk:
 Beeilt euch, denn sonst erstickt ihr! Wenn ihr den Ausgang erreicht, dann werdet ihr belohnt!"
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+Bjarni znalazł napis na murze:
+
+"Uruchomiliście prastary mechanizm. Teraz musicie wydostać się stąd! Ogień pozbawi was powietrza i strawi wasze ciała, jeśli podejdziecie zbyt blisko!
+
+Pospieszcie się, w przeciwnym razie udusicie się! Jeśli uda wam się dotrzeć do wyjścia, spotka was nagroda!"
+</text>
+      </lang>
     </block>
     <block id="begin_02">
       <lang code="CHN">
@@ -96,6 +117,12 @@ Bjarni has been burnt!
         <text>
 
 Bjarni ist verbrannt!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+Bjarni zginął w płomieniach!
 </text>
       </lang>
     </block>
@@ -117,6 +144,12 @@ Bjarni has suffocated!
 Bjarni ist erstickt!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+Bjarni udusił się!
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -136,6 +169,12 @@ THE DUNGEON
 
 DAS VERLIES
 
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+LOCHY
 </text>
       </lang>
     </block>

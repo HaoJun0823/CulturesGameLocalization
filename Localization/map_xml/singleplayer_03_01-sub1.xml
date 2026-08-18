@@ -4,22 +4,26 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">走向那生灵！</text>
       <text lang="eng">Step in front of the being!</text>
       <text lang="ger">Tritt vor das Wesen!</text>
+      <text lang="pol">Podejdź z przodu istoty!</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="99">
       <text lang="CHN">神谕侍者</text>
       <text lang="eng">SERVANT OF THE ORACLE</text>
       <text lang="ger">DIENER DES ORAKELS</text>
+      <text lang="pol">SŁUGA WYROCZNI</text>
     </string>
   </strings>
   <briefings>
@@ -80,6 +84,25 @@ Diese Bitte konnten wir - auch in unserem eigenen Interesse - natürlich nicht a
 Nehmt 30 Flaschen Wasser mit an Bord, um den Kreis aus Feuer zu löschen! Und wenn das Orakel durch eure Hilfe wieder frei ist, werden die Übeltäter ihre gerechte Strafe schon bekommen..."
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+WODNA ISTOTA
+
+"Bądź pozdrowiony, szlachetny młodzieńcze!
+Od wieków nie widziałem tutaj człowieka ...
+
+Posłuchaj mnie! Jestem służącym wodnej wyroczni i chronię mojego pana! Pustynni rabusie związali moc wyroczni zaklęciem, kładąc dookoła niej krąg ognia. W tej chwili jest w potrzasku, a ja nie mogę jej pomóc! Moja moc nad wodą jest ograniczona tylko do tych ścian, ale wystarczy jej, by móc napoić rośliny rosnące dokładnie nade mną.
+
+Gdybyś pomógł mi uwolnić wyrocznię ... Mógłbym dać ci dostęp do wyroczni, poza zasięgiem wszystkich złych istot ..."
+
+Oczywiście nie mogliśmy odmówić tej prośbie - było to także w naszym interesie. 
+
+"Dziękuję ci! Posłuchaj: Wybuduj statek i pożegluj morzem do wyroczni. Teraz będziesz mógł przebyć niebezpieczne klify otaczające wyrocznię!
+
+Weź na pokład 30 butelek wody, aby ugasić pierścień ognia! A gdy wyrocznia zostanie uwolniona dzięki twojej pomocy, sprawcy zła będą musieli słono  zapłacić za swoje grzechy ..."
+</text>
+      </lang>
     </block>
     <block id="begin_00">
       <lang code="CHN">
@@ -103,6 +126,13 @@ Der Unterbau des Tempels war kühl und feucht, obwohl es hier kein Wasser gab! V
 Ob der Häuptling der Oasenbauer davon wusste? Ich trat vor das Wesen...
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Fundamenty świątyni były chłodne i wilgotne, chociaż nie było tam żadnej wody! To niezwykłe, błękitne światło promieniowało z ziemi, a na środku pomieszczenia stała istota, która wyglądała, jakby przybyła z innego świata ...
+
+Czy wódz farmerów z oazy wiedział o tym? Stanąłem przed istotą ...
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -121,6 +151,13 @@ SERVANT OF THE ORACLE
         <text>
 
 DIENER DES ORAKELS
+
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+SŁUGA WYROCZNI
 
 </text>
       </lang>

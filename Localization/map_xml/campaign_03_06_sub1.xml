@@ -4,37 +4,44 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@在竞技中击败长跑者！</text>
       <text lang="eng">@DEFEAT THE RUNNER IN A RACE!</text>
       <text lang="ger">@BESIEGE DEN LÄUFER IM WETTKAMPF!</text>
+      <text lang="pol">@POKONAJ BIEGACZA W WYŚCIGU!</text>
     </string>
     <string id="53">
       <text lang="CHN">伊利斯的长跑者</text>
       <text lang="eng">Runner of Elis</text>
       <text lang="ger">Der Läufer von Elis</text>
+      <text lang="pol">Biegacz Elei </text>
     </string>
     <string id="63">
       <text lang="CHN">赛跑者</text>
       <text lang="eng">Runner</text>
       <text lang="ger">Läufer</text>
+      <text lang="pol">Biegacz</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="pol">Sigurd</text>
     </string>
     <string id="77">
       <text lang="CHN">赛跑者</text>
       <text lang="eng">Runner</text>
       <text lang="ger">Läufer</text>
+      <text lang="pol">Biegacz</text>
     </string>
     <string id="99">
       <text lang="CHN">竞技之争</text>
       <text lang="eng">THE COMPETITION</text>
       <text lang="ger">DER WETTSTREIT</text>
+      <text lang="pol">ZAWODY</text>
     </string>
   </strings>
   <briefings>
@@ -76,6 +83,17 @@ Der Läufer von Elis war in Bestform, und es würde nicht einfach für Sigurd we
 Trotzdem - er musste es versuchen, denn würde er den Kampf gewinnen, wäre uns die Unterstützung der Olympianer und der Eliser sicher...
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+Biegacz Elei jest w dobrej formie i nie będzie łatwo Sigurdowi pokonać go w tej konkurencji! 
+
+</text>
+        <usericon>1,22,119</usericon>
+        <text>
+
+Ale wciąż musimy spróbować. Jeśli Sigurd wygra wyścig, wówczas mieszkańcy Olimpii i Elei dadzą nam swoje wsparcie ...
+</text>
+      </lang>
     </block>
     <block id="00_start1">
       <lang code="CHN">
@@ -93,6 +111,11 @@ Defeat the runner in the competition!
       <lang code="ger">
         <text> 
 Besiege den Läufer im Wettkampf!
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+Pokonaj biegacza w zawodach!
 </text>
       </lang>
     </block>
@@ -127,6 +150,16 @@ MISSION VERLOREN!
         <font>$local$\fonts\font12.fnt</font>
         <text>
 Der Läufer ist gestorben! Dies ist keine faire Art, einen Wettkampf zu entscheiden!
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+ZADANIE NIEWYKONANE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Biegacz nie żyje! To nie jest to, co nazywamy uczciwą grą!
 </text>
       </lang>
     </block>
@@ -184,6 +217,22 @@ So ein Pech! Der Läufer war eindeutig schneller als dein Freund und Held Sigurd
 Versuch es ein weiteres Mal!
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+ZADANIE NIEWYKONANE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Co za tragedia! Biegacz był bez wątpienia szybszy od twojego przyjaciela i bohatera Sigurda.
+
+</text>
+        <usericon>2,7</usericon>
+        <text>
+
+Spróbuj ponownie!
+</text>
+      </lang>
     </block>
     <block id="50_end">
       <lang code="CHN">
@@ -223,11 +272,23 @@ Gratulation! Das hätte man dem Sigurd gar nicht zugetraut!
 Doch sein Sportsgeist und Willen war außerordentlich stark und so war es ihm möglich, den Läufer von Elis zu besiegen!
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+Gratulacje! Nikt nie wierzył, że Sigurd potrafi wygrać! 
+
+</text>
+        <usericon>2,4</usericon>
+        <text>
+
+Ale jego umiejętności sportowe oraz ambicja były tak silne, że zdołał pokonać biegacza Elei!
+</text>
+      </lang>
     </block>
     <block id="50_end1">
       <lang code="CHN" />
       <lang code="eng" />
       <lang code="ger" />
+      <lang code="pol" />
     </block>
     <block id="50_endheader">
       <lang code="CHN">
@@ -247,6 +308,11 @@ MISSION COMPLETED!
 MISSION GEWONNEN! 
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+ZADANIE WYKONANE! 
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -264,6 +330,11 @@ THE COMPETITION
       <lang code="ger">
         <text> 
 DER WETTKAMPF
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+ZAWODY
 </text>
       </lang>
     </block>

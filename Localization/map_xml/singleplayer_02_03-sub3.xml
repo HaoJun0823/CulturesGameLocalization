@@ -4,42 +4,50 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">消灭那威胁！</text>
       <text lang="eng">Eliminate the threat!</text>
       <text lang="ger">Vernichte die Bedrohung!</text>
+      <text lang="pol">Zlikwiduj zagrożenie!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="51">
       <text lang="CHN">耶梦加得</text>
       <text lang="eng">Fog Serpents</text>
       <text lang="ger">Nebelschlangen</text>
+      <text lang="pol">Węże</text>
     </string>
     <string id="57">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="58">
       <text lang="CHN">耶梦加得</text>
       <text lang="eng">Fog Serpents</text>
       <text lang="ger">Nebelschlangen</text>
+      <text lang="pol">Węże</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="99">
       <text lang="CHN">恐怖之雾中</text>
       <text lang="eng">IN THE FOG OF HORRORS</text>
       <text lang="ger">IM NEBEL DES GRAUENS</text>
+      <text lang="pol">WE MGLE</text>
     </string>
   </strings>
   <briefings>
@@ -71,6 +79,17 @@ Trotz des Amuletts umgab uns dieser grauenvolle Nebel ständig und raubte uns di
 Plötzlich tauchte die Insel direkt vor uns auf, und wir beschlossen, das Schiff zu verlassen und diesen unheilvollen Ort zu erkunden. Meine Männer machten sich auf alles gefasst und harrten der Dinge, die da kommen sollten...
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Wreszcie dotarliśmy do celu naszej wędrówki. Aby tu jednak dotrzeć, musieliśmy pokonać wiele przeszkód i przeżyć wiele przygód!
+
+Mimo, że byliśmy wyposażeni w amulet poskramiający siły przyrody, stale otaczała nas ta przerażająca mgła. Ktoś lub coś wyczuwało naszą obecność i próbowało bronić się przed nią!
+
+Tymczasem przedzieraliśmy się przez tę nieprzeniknioną mgłę, klucząc wśród mielizn. Morze sprawiało wrażenie jakby było nieruchome. Im dalej brnęliśmy w głąb mgły, tym było cieplej. Mieliśmy złe przeczucia - naszym wrogiem były siły natury.
+
+Nagle bezpośrednio przed nami wyłoniła się wyspa. Postanowiliśmy zejść na ląd i zbadać teren. Moi ludzie byli przygotowani na wszystko, a teraz czekali na to, co miało nastąpić...
+</text>
+      </lang>
     </block>
     <block id="begin_01">
       <lang code="CHN">
@@ -96,6 +115,16 @@ Die Midgardschlange!!!
 Aber das war nicht möglich, die hatten wir doch seinerzeit besiegt?! Sie konnte es nicht sein, aber sie sah ihr so ähnlich! Es musste eine Schlange von der selben Brut sein - und sie war ähnlich gefährlich! Wir mussten erst ihre Krieger besiegen, nur so konnten wir den Kampf überleben!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+Wąż Midgardu!!!
+
+To niemożliwe, przecież pokonaliśmy go już kiedyś! To nie mógł być on, ale wyglądał bardzo podobnie! Ten wąż musiał pochodzić z tego samego wylęgu, co wąż Midgardu. To oznaczało, że był równie niebezpieczny! 
+
+Najpierw musieliśmy pokonać jego wojowników. To była jedyna szansa na przeżycie!
+</text>
+      </lang>
     </block>
     <block id="begin_02">
       <lang code="CHN">
@@ -115,6 +144,12 @@ Bjarni died! It was all for nothing, and the ghostly serpents now had a ship. Th
 Bjarni war gestorben! Es war alles umsonst - und die Geisterschlangen hatten nun ein Schiff. Sie brachten Übel und Verderben über das Land. Die Hüter hatten sich in Bjarni geirrt!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+Bjarni nie żyje! Wszystko na próżno - węże przejęły statek i zaczęły szerzyć na lądzie zło i zniszczenie. Strażnicy pomylili się co do Bjarniego!
+</text>
+      </lang>
     </block>
     <block id="begin_03">
       <lang code="CHN">
@@ -132,6 +167,14 @@ When we had defeated the serpent's followers, it returned to the depths of the g
         <text>
 
 Als wir die Gefolgschaft der Schlange besiegt hatten, hatte sie sich umgehend in der glühenden Lava verkrochen... Ohne ihre Gefolgschaft war sie zu feige gewesen, sich dem Kampf zu stellen! Als sie verschwunden war, schien der Vulkan wieder im Wasser zu versinken! Wir stürmten zu unserem Schiff zurück verließen dieses furchtbare Eiland!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+Gdy pokonaliśmy wojowników węża, ten natychmiast wpełzł do żarzącej się lawy... Był zbyt tchórzliwy, aby stanąć do walki bez swoich żołnierzy! Gdy wąż zniknął nam z oczu, wulkan znów pogrążył się w wodzie!
+
+Rzuciliśmy się w kierunku naszego statku i szybko opuściliśmy tę straszliwą wyspę!
 </text>
       </lang>
     </block>
@@ -155,6 +198,13 @@ IM NEBEL DES GRAUENS
 
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+WE MGLE
+
+</text>
+      </lang>
     </block>
     <block id="lost">
       <lang code="CHN">
@@ -174,6 +224,12 @@ MISSION FAILED!
 MISSION VERLOREN!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+NIEPOWODZENIE MISJI!
+</text>
+      </lang>
     </block>
     <block id="won">
       <lang code="CHN">
@@ -191,6 +247,12 @@ MISSION COMPLETED!
         <text>
 
 MISSION GEWONNEN!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+MISJA ZAKOŃCZONA POMYŚLNIE!
 </text>
       </lang>
     </block>

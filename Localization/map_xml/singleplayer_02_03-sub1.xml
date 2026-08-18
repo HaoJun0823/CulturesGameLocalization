@@ -4,62 +4,74 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">击败秘藏守护者的士兵！</text>
       <text lang="eng">Defeat the soldiers of the Keepers of Knowledge!</text>
       <text lang="ger">Besiege die Soldaten der Hüter des Geheimnisses!</text>
+      <text lang="pol">Pokonaj żołnierzy strażników wiedzy!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="51">
       <text lang="CHN">守护者</text>
       <text lang="eng">Keepers</text>
       <text lang="ger">Hüter</text>
+      <text lang="pol">Strażnicy wiedzy</text>
     </string>
     <string id="52">
       <text lang="CHN">守护者首领</text>
       <text lang="eng">Keepers' Leader</text>
       <text lang="ger">Anführer der Hüter</text>
+      <text lang="pol">Dowódca strażników</text>
     </string>
     <string id="57">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="58">
       <text lang="CHN">守护者士兵</text>
       <text lang="eng">Keepers' Soldiers</text>
       <text lang="ger">Soldaten der Hüter</text>
+      <text lang="pol">Żołnierze strażników</text>
     </string>
     <string id="59">
       <text lang="CHN">首领</text>
       <text lang="eng">Leader</text>
       <text lang="ger">Anführer</text>
+      <text lang="pol">Dowódca</text>
     </string>
     <string id="61">
       <text lang="CHN">近卫</text>
       <text lang="eng">Bodyguard</text>
       <text lang="ger">Leibgarde</text>
+      <text lang="pol">Straż przyboczna</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">守护者首领</text>
       <text lang="eng">Keepers' Leader</text>
       <text lang="ger">Anführer der Hüter</text>
+      <text lang="pol">Dowódca strażników</text>
     </string>
     <string id="99">
       <text lang="CHN">决斗</text>
       <text lang="eng">THE DUEL</text>
       <text lang="ger">DER ZWEIKAMPF</text>
+      <text lang="pol">POJEDYNEK</text>
     </string>
   </strings>
   <briefings>
@@ -107,6 +119,20 @@ Sollte ich etwa allein gegen alle antreten?!? Ich bedauerte meinen Entschluss zu
 Aber für Reue war nun keine Zeit mehr. Ich beschloss, wenigstens durch meinen Mut Eindruck auf den Befehlshaber der Hüter zu machen. Wenn dies mein letzter Tag sein sollte, dann wollte ich ihn ehrenvoll bestreiten!
 
 Ich trat also mit stolz erhobenem Haupt vor meinen Widersacher.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+A więc to tutaj, w tym miejscu, miałem dowieść mych dowódczych umiejętności.
+
+Zewsząd otaczali mnie wojownicy strażników. W niewielkiej odległości stąd znajdowała się główna baza ich dowódcy, pilnie strzeżona przez oddział łuczników i piechurów z krótkimi mieczami. Na obu skrzydłach i naprzeciw mnie ustawiły się oddziały wroga. Drugie tyle wojsk czekało w pogotowiu za gęstymi palisadami.
+
+Jak strażnicy wyobrażali sobie tę walkę?
+Może miałem walczyć przeciwko wszystkim?!? Bardzo żałowałem, że zgodziłem się na propozycję strażników. Jak mogłem zaufać tym oszustom?
+
+Ale na żal było już za późno. Postanowiłem, że przynajmniej odwagą zrobię wrażenie na wodzu strażników wiedzy. Jeśli jest to mój ostatni dzień w życiu, niech umrę z honorem!
+
+Z podniesioną głową stanąłem więc naprzeciw mych przeciwników.
 </text>
       </lang>
     </block>
@@ -170,6 +196,23 @@ Mir war allerdings überhaupt nicht wohl bei dem Gedanken, was wäre, wenn sich 
 "Höre! Wir beziehen jetzt die Stellung hinter der Kampflinie, und auf mein Zeichen kann der Kampf beginnen. Mische dich nicht kämpfend unter deine Soldaten, sie würden diesen Versuch sofort mit dem Tod bestrafen!"
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+DOWÓDCA
+"Witaj, Bjarni z plemienia Wikingów!", powiedział dowódca armii. "Odwaga, z jaką stanąłeś do walki przeciwko tak wielkiej armii, świadczy, że masz honor!
+
+W rzeczywistości moja odwaga dawno się ulotniła... Mimo to odrzekłem: "Zastanawiam się, czy ta walka przyniesie wam honor!"
+
+"Pokażemy ci, czym jest dla nas honor!", odparł dowódca, dziwnie się przy tym uśmiechając. "Posłuchaj więc, Bjarni: Na czas tej bitwy wojska w czerwonych mundurach przechodzą pod twoje dowództwo. W tej walce bowiem masz bronić nie siebie, lecz swych umiejętności dowódczych! Jeśli twoje wojska pokonają moje, uznamy cię za godnego powierzenia ci tajemnicy naszej woski - tak postępujemy wobec obcych."
+
+Na Odyna! Byłem kompletnie zaskoczony... Czyżby mieszkańcy Hellulandu mylili się? A więc wojownicy tego samego plemienia mieli stanąć do walki przeciwko sobie, walczyć brat przeciw bratu, a wszystko tylko po to, aby sprawdzić niezawodność obcego i powierzyć mu plemienną tajemnicę! Co to za niesamowita tajemnica?
+
+Jeśli o mnie chodziło, walka mogła się zacząć. Byłem pewien, że poradzę sobie jako dowódca. Nie było mi jednak lekko na duszy na myśl, co będzie, jeśli ci wojownicy sprzeciwią się moim rozkazom!?
+
+"Posłuchaj! Zajmiemy teraz pozycje za linią frontu. Na mój znak rozpocznie się walka. Nie bierz bezpośredniego udziału walce, w przeciwnym razie twoi żołnierze ukarzą cię śmiercią!"
+</text>
+      </lang>
     </block>
     <block id="begin_02">
       <lang code="CHN">
@@ -196,6 +239,15 @@ Sieg!
 Ich - nein, MEINE Leute und ich - hatten es geschafft. Unter meinem Befehl waren sie bis zum gegnerischen Befehlshaber durchgedrungen. Nur er und seine Leibgarde waren noch übrig geblieben. Seine Männer hatten tapfer gekämpft!
 
 Und nun endlich mussten mich die Hüter des Wissens in das Geheimnis einweihen...
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+Zwycięstwo! 
+Nie ja, lecz moi ludzie dokonali tego. Pod moimi rozkazami przebili się aż do wrogiego dowódcy. Ostał się tylko on i jego straż przyboczna. Jego ludzie walczyli bardzo dzielnie!
+
+Sądzę, że teraz strażnicy wiedzy wreszcie mnie wtajemniczą...
 </text>
       </lang>
     </block>
@@ -229,6 +281,18 @@ Die Schlacht war verloren! Meine Unterstellten hatten brav gekämpft und meinen 
 "Nehmt diesen Versager gefangen!!! Deine Niederlage beweist uns deine Unfähigkeit, mit unserem Wissen verantwortungsvoll umgehen zu können. In unserem Kerker wirst du für dein Versagen büßen!"
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+PORAŻKA
+
+Przegrałem tę bitwę! Moi żołnierze walczyli dzielnie i słuchali moich rozkazów, mimo to zawiodłem!
+
+"Brać tego nieudacznika! Twoja porażka dowodzi, że nie umiałbyś właściwie wykorzystać naszej wiedzy.
+
+Zawiodłeś, więc odpowiesz za to! Do lochu z nim!"
+</text>
+      </lang>
     </block>
     <block id="begin_04">
       <lang code="CHN">
@@ -260,6 +324,14 @@ DER KAMPF BEGINNT!
 Edler Bjarni, ich unterstelle euch eure Truppen!"
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+ROZPOCZĘCIE WALKI
+
+"Żołnierze! Rozpoczynamy bitwę. Walczcie dzielnie, gdyż chodzi tu o wasz honor! Szlachetny Bjarni, oto wojska, które oddaję ci pod twe rozkazy!"
+</text>
+      </lang>
     </block>
     <block id="begin_05">
       <lang code="CHN">
@@ -275,6 +347,12 @@ Take him away!
       <lang code="ger">
         <text>
 Führt ihn ab!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+Wyprowadzić go!
 </text>
       </lang>
     </block>
@@ -295,6 +373,13 @@ THE DUEL
         <text>
 
 DER ZWEIKAMPF
+
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+POJEDYNEK
 
 </text>
       </lang>

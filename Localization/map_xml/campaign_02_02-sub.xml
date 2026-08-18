@@ -4,47 +4,56 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@与诸英雄一同抵达瓶中精灵！</text>
       <text lang="eng">@Reach the genie from the bottle with your heroes!</text>
       <text lang="ger">@Erreiche mit den Helden gemeinsam den Flaschengeist!</text>
+      <text lang="pol">@Odnajdź wraz z bohaterami ducha w butelce!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的部族</text>
       <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarnis Stamm</text>
+      <text lang="pol">Plemię Bjarniego</text>
     </string>
     <string id="51">
       <text lang="CHN">蛇战士</text>
       <text lang="eng">Serpent Warriors</text>
       <text lang="ger">Schlangenkrieger</text>
+      <text lang="pol">Wężołaki</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="pol">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
       <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
+      <text lang="pol">Hatschi</text>
     </string>
     <string id="75">
       <text lang="CHN">伊科尔</text>
       <text lang="eng">Ykol</text>
       <text lang="ger">Ykol</text>
+      <text lang="pol">Ykol</text>
     </string>
     <string id="99">
       <text lang="CHN">三个愿望 - 大饥荒 - 支线</text>
       <text lang="eng">THREE WISHES - The Great Famine - Sub</text>
       <text lang="ger">DREI WÜNSCHE - Die Große Hungersnot - Sub</text>
+      <text lang="pol">TRZY ŻYCZENIA - WIELKA KLĘSKA GŁODU</text>
     </string>
   </strings>
   <briefings>
@@ -62,6 +71,11 @@
       <lang code="ger">
         <text> 
 "Unsere Tapferkeit, unsere Stärke und all unser Mut können uns bei der Bekämpfung der Schlangenplage nicht viel weiterhelfen, denn die Plage hat ihre Ursache in dunkler, magischer Kunst. Im Göttlichen, sozusagen..." erklärte Ykol. 
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+"Nasze męstwo, siła i poświęcenie tym razem nie wystarczą, gdyż plaga węży nawiedziła nas za sprawą czarnej magii" - wyjaśnił Ykol.
 </text>
       </lang>
     </block>
@@ -91,6 +105,14 @@ Open the gates and find the genie!
 Doch bedenkt: es ist wohl schwierig, zu ihm zu gelangen. Viele Tore versperren den Weg..."
 
 Öffne die Tore und finde den Geist!
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+"W tych podziemiach od niepamiętnych czasów mieszka potężny duch, który dzięki swej czarodziejskiej mocy potrafi czynić cuda.
+Ale niełatwo jest dotrzeć do niego: Najpierw trzeba pokonać wiele bram, które stanowią nie lada przeszkodę..."
+
+Otwórz bramy i odszukaj ducha!
 </text>
       </lang>
     </block>
@@ -125,6 +147,15 @@ Wie sich herausstellte, schienen sie aber nicht besonders klug zu sein. Denn die
 Benutze die Türmechanismen gegen die Schlangenwesen!
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+WĘŻE
+
+Jeszcze i to! Te bestie rozpleniły się nawet pod ziemią! Na szczęście nie grzeszą inteligencją. Drzwi okazały się dla nich przeszkodą nie do sforsowania, przez co tygodniami tkwiły uwięzione w podziemiach!
+
+Użyj drzwi w walce przeciw wężom!
+</text>
+      </lang>
     </block>
     <block id="02_tor">
       <lang code="CHN">
@@ -146,6 +177,13 @@ A wooden gate nearby opened up with an enormous creak.
 DAS ERSTE TOR  
 
 Mit einem gewaltigen Knarren öffnete sich ein hölzernes Tor nicht fern von hier. 
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+PIERWSZE DRZWI
+
+Usłyszeliśmy głośne skrzypnięcie. W niewielkiej odległości od nas otworzyły się drewniane drzwi.
 </text>
       </lang>
     </block>
@@ -171,6 +209,13 @@ DAS ZWEITE TOR
 Mit einem gewaltigen Knarren öffnete sich ein hölzernes Tor nicht fern von hier. 
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+DRUGIE DRZWI
+ 
+Usłyszeliśmy głośne skrzypnięcie. W niewielkiej odległości od nas otworzyły się drewniane drzwi.
+</text>
+      </lang>
     </block>
     <block id="04_tor">
       <lang code="CHN">
@@ -192,6 +237,13 @@ A wooden gate nearby opened up with an enormous creak.
 DAS DRITTE TOR  
 
 Mit einem gewaltigen Knarren öffnete sich ein hölzernes Tor nicht fern von hier.
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+TRZECIE DRZWI
+
+Usłyszeliśmy głośne skrzypnięcie. W niewielkiej odległości od nas otworzyły się drewniane drzwi.
 </text>
       </lang>
     </block>
@@ -253,6 +305,19 @@ In diesen Räumen hier befinden sich drei Schalter.
 Merke dir die Symbole der Schalter gut, denn ich zeige sie euch nur ein einziges Mal!" 
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+DUCH
+
+Odnaleźliśmy ducha, o którym mówił Ykol. Duch rzekł:
+
+"Spełniam życzenia tylko tych, którzy potrafią rozwiązać moją zagadkę! Czy przyjmujecie moje wyzwanie?
+
+...
+
+W tych pomieszczeniach znajdują się trzy przyciski. Zapamiętajcie ikony tych przycisków, gdyż pokażę je tylko raz!"
+</text>
+      </lang>
     </block>
     <block id="06_erklärung1">
       <lang code="CHN">
@@ -273,6 +338,12 @@ Merke dir die Symbole der Schalter gut, denn ich zeige sie euch nur ein einziges
 "Hier seht ihr Schalter A"
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+"Tu widzicie przycisk A"
+</text>
+      </lang>
     </block>
     <block id="07_erklärung2">
       <lang code="CHN">
@@ -291,6 +362,12 @@ Merke dir die Symbole der Schalter gut, denn ich zeige sie euch nur ein einziges
         <text>
 
 "Hier seht ihr Schalter B"
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+"Tu widzicie przycisk B"
 </text>
       </lang>
     </block>
@@ -331,6 +408,18 @@ Antwortet mir, indem ihr den entsprechenden Schalter betätigt!
 Seid ihr bereit für dieses Rätsel? Dann tretet einen Schritt näher!"   
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+"A tu jest przycisk C
+
+Na każdą z moich zagadek są 3 możliwe odpowiedzi. Ale uwaga! Tylko jedna z nich jest prawidłowa. Waszym zadaniem jest znaleźć tę prawidłową!
+
+Aby udzielić odpowiedzi, naciśnijcie właściwy przycisk!
+
+Gotowi? W takim razie zróbcie krok naprzód!"
+</text>
+      </lang>
     </block>
     <block id="09_schalterbesetzt">
       <lang code="CHN">
@@ -349,6 +438,12 @@ You have to leave the switches, otherwise the genie will remain silent!
         <text>
 
 Du musst von den Schaltern herunter gehen, sonst schweigt der Geist!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+Musisz przesunąć kursor myszy poniżej przycisków, w przeciwnym razie duch nie przemówi!
 </text>
       </lang>
     </block>
@@ -386,6 +481,17 @@ MISSION VERLOREN!
 Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+NIEPOWODZENIE MISJI!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Bohaterstwo czy lekkomyślność? Gdy umarł Bjarni, opłakiwali go bogowie... Bez tego bohatera nie dokończysz misji.
+</text>
+      </lang>
     </block>
     <block id="10_falsch">
       <lang code="CHN">
@@ -409,6 +515,13 @@ MÖP!
 Falsche Antwort!
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+Niestety!
+
+Błędna odpowiedź!
+</text>
+      </lang>
     </block>
     <block id="11_wunsch1">
       <lang code="CHN">
@@ -430,6 +543,13 @@ GENIE
 GEIST 
 
 "Nun, ihr habt das Rätsel bestanden und so füge ich mich euren Wünschen. Drei an der Zahl will ich euch erfüllen. Wohlan, was ist eurer erster Wunsch?" 
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+DUCH 
+
+"Odgadliście zagadkę, więc jestem do waszych usług. Spełnię 3 wasze życzenia. Śmiało, jakie jest wasze pierwsze życzenie?"
 </text>
       </lang>
     </block>
@@ -461,6 +581,15 @@ Wir waren so perplex, dass unsere Mission einfach durch die Aussprache eines Wun
 Bekämpfe die Schlangenplage, so dass die Menschen wieder in Frieden leben können!" 
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+Chociaż nie mogliśmy uwierzyć, że wypełnienie misji zależało tylko od wypowiedzenia przez nas życzenia, przedstawiliśmy duchowi naszą prośbę:
+
+"Nasz kraj nawiedziła plaga węży. Stawiliśmy im zaciekły opór i zmusiliśmy do odwrotu. Niestety, nie udało nam się ostatecznie pokonać wroga.
+
+Zwalcz plagę węży, abyśmy mogli znów żyć w pokoju!"
+</text>
+      </lang>
     </block>
     <block id="12_wunsch2">
       <lang code="CHN">
@@ -485,6 +614,14 @@ PFLOPF ZISCH PENG !!!!
 ... und der Wunsch ward erfüllt...
  
 Die ganze SCHLANGENPLAGE war mit einem Schlag vernichtet! Die Menschen, die ihnen zum Opfer gefallen waren, aber noch lebten, erhoben sich aus den sterblichen Überresten ihrer Peiniger!
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+HOKUS POKUS ABRA KADABRA
+...i życzeniu stało się zadość.
+ 
+W jednej chwili cała armia krwiożerczych bestii została zniszczona! Ci, którzy przeżyli inwazję węży, teraz wygrzebywali się spod ich martwych szczątków!
 </text>
       </lang>
     </block>
@@ -522,6 +659,17 @@ Wir sannen über die Menschen nach: Zwar war die Schlangenplage nun gebannt, abe
 "Geist, wenn es in deiner Macht steht, dann beende die Hungersnot!" 
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+"To było wasze pierwsze życzenie" rzekł duch. "Do spełnienia zostały jeszcze dwa życzenia.
+
+A więc, jak brzmi wasze drugie życzenie?"
+
+Pomyśleliśmy o ludziach: Wprawdzie plaga węży została zażegnana, ale ludzie jeszcze długo będą cierpieć głód, ponieważ ich domostwa i pola zostały zniszczone.
+
+"Duchu, jeśli jest to w twej mocy, oddal od nas klęskę głodu!"
+</text>
+      </lang>
     </block>
     <block id="13_wunsch3">
       <lang code="CHN">
@@ -546,6 +694,14 @@ PFLOPF ZISCH PENG !!!!
 ... und der Wunsch ward erfüllt...
  
 Die HUNGERSNOT ward gebannt und die Leute erhielten Nahrung im Überfluss. Ihre langen Qualen hatten ein Ende...
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+HOKUS POKUS ABRA KADABRA
+...i życzeniu stało się zadość.
+ 
+Klęska głodu została zażegnana, a ludzie mieli pożywienia pod dostatkiem. Skończyły się ich cierpienia.
 </text>
       </lang>
     </block>
@@ -583,6 +739,17 @@ Wir sannen über unseren dritten Wunsch nach, aber niemanden schien ein bedeuten
 Der Geist schien zwar nicht so sehr in der Nordischen Mythologie bewandert zu sein, aber er wollte schauen, was er tun kann... ;0)   
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+"Jesteście bardzo bezinteresowni!" rzekł duch z uznaniem. "Do spełnienia zostało jeszcze jedno życzenie. A więc, jakie jest wasze trzecie życzenie?"
+
+Zastanawialiśmy się nad trzecim życzeniem, ale wydawało się, że nikomu nie nasuwa się żadna ważna sprawa. Wtedy Ykol wystąpił przed szereg i tymi słowami przemówił do ducha:
+
+"Daj Bjarniemu Serce Odyna, by podarował je Cyrze! To amulet o magicznych właściwościach godny księżniczki Bizancjum!"
+
+Wprawdzie duch niezbyt znał mitologię nordycką, ale obiecał uczynić wszystko, co w jego mocy...
+</text>
+      </lang>
     </block>
     <block id="14">
       <lang code="CHN">
@@ -616,6 +783,17 @@ FRAGE 1
 A) 40  
 B) 712
 C) gar keine!  
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+PYTANIE 1
+
+"Ilu rozbójników miał Aladyn?"
+
+A) 40
+B) 712
+C) ani jednego!
 </text>
       </lang>
     </block>
@@ -653,6 +831,17 @@ B) Kamel
 C) Quastenflosser
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+PYTANIE 2
+
+"Które ze zwierząt żyje na pustyni?"
+
+A) zając bielak
+B) wielbłąd
+C) wieloryb
+</text>
+      </lang>
     </block>
     <block id="16">
       <lang code="CHN">
@@ -688,6 +877,17 @@ B) Papa Morgana
 C) Nordlichter
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+PYTANIE 3
+
+"Jak nazywa się zjawisko odbicia świetlnego na pustyni?"
+
+A) fatamorgana
+B) papamorgana
+C) zorza polarna
+</text>
+      </lang>
     </block>
     <block id="17">
       <lang code="CHN">
@@ -706,6 +906,12 @@ CORRECT!
         <text> 
 
 RICHTIG!
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+
+PRAWIDŁOWA ODPOWIEDŹ!
 </text>
       </lang>
     </block>
@@ -743,6 +949,17 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin Cyra erlag durch deine Unachtsamkeit! Ohne diese Heldin wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+NIEPOWODZENIE MISJI!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Chwilowy brak rozwagi i po wszystkim! Cyra zginęła z powodu twojej lekkomyślności! Bez niej nie dokończysz misji.
+</text>
+      </lang>
     </block>
     <block id="300">
       <lang code="CHN">
@@ -776,6 +993,17 @@ MISSION VERLOREN!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Hatschi erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+NIEPOWODZENIE MISJI!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Chwilowy brak rozwagi i po wszystkim! Twój przyjaciel i bohater Hatschi zginął z powodu twojej lekkomyślności! Bez niego nie uda ci się dokończyć misji.
 </text>
       </lang>
     </block>
@@ -813,6 +1041,17 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Ykol erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+NIEPOWODZENIE MISJI!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Chwilowy brak rozwagi i po wszystkim! Ykol zginął z powodu twojej lekkomyślności! Bez niego nie uda ci się dokończyć misji.
+</text>
+      </lang>
     </block>
     <block id="50_end">
       <lang code="CHN">
@@ -830,6 +1069,11 @@ After the last wish, the genie from the bottle disappeared. But he left a shinin
 Der Flaschengeist verschwand mit dem letzten Wunsch, aber er hinterlies ein leuchtend rotes Amulett. 
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+Dżin zniknął po wypowiedzeniu przez nas ostatniego życzenia, ale pozostawił mieniący się na czerwono amulet.
+</text>
+      </lang>
     </block>
     <block id="50_end1">
       <lang code="CHN">
@@ -845,6 +1089,11 @@ Ykol picked it up and brought it to me. I gave it to Cyra, because Ykol claimed 
       <lang code="ger">
         <text> 
 Sogleich hob es Ykol auf und brachte es mir. Ich legte es Cyra an, denn laut Ykol hatte es magische Fähigkeiten und sollte den Träger beschützten... 
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+Ykol wziął amulet i przyniósł go mnie. Za radą Ykola podarowałem go Cyrze, gdyż - jak twierdził Ykol - miał on magiczne właściwości i chronił tego, który go nosił...
 </text>
       </lang>
     </block>
@@ -867,6 +1116,12 @@ MISSION COMPLETED!
 MISSION GEWONNEN! 
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+
+MISJA ZAKOŃCZONA POMYŚLNIE! 
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -885,6 +1140,12 @@ THREE WISHES
         <text>
 
 DREI WÜNSCHE
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+TRZY ŻYCZENIA
 </text>
       </lang>
     </block>

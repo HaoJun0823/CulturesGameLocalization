@@ -4,22 +4,26 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">找到地下迷宫的出口！</text>
       <text lang="eng">Find the exit from the underground maze!</text>
       <text lang="ger">Finde den Ausgang aus dem unterirdischen Labyrinth!</text>
+      <text lang="pol">Znajdź wyjście z podziemnego labiryntu!</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="99">
       <text lang="CHN">洞穴迷宫</text>
       <text lang="eng">THE CAVE MAZE</text>
       <text lang="ger">DAS HÖHLENLABYRINTH</text>
+      <text lang="pol">PODZIEMNY LABIRYNT</text>
     </string>
   </strings>
   <briefings>
@@ -45,6 +49,13 @@ Ich hatte den Eingang passiert, begleitet von unheimlichem Knarren und Quietsche
 Überall die heruntergefallenen Bruchsteine... und Wasser hatte die Höhle auch schon teilweise geflutet!!!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Wszedłem do jaskini. Nad moją głową przeraźliwie skrzypiały belki. Ten korytarz zaraz się zawali!
+
+Wszędzie leżały stosy kamieni... Jaskinia była już częściowo zalana wodą!
+</text>
+      </lang>
     </block>
     <block id="begin_01">
       <lang code="CHN">
@@ -62,6 +73,12 @@ Bjarni has died!
         <text>
 
 Bjarni ist gestorben!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+Bjarni nie żyje!
 </text>
       </lang>
     </block>
@@ -83,6 +100,12 @@ THE CAVE MAZE
 
 DAS HÖHLENLABYRINTH
 
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+PODZIEMNY LABIRYNT
 </text>
       </lang>
     </block>

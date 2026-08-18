@@ -4,47 +4,56 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="1">
       <text lang="CHN">建立一座新文明。随你玩多久都行。</text>
       <text lang="eng">Build up a new civilization. Play as long as you like.</text>
       <text lang="ger">Baue eine neue Zivilisation auf. Spiele, solange du willst.</text>
+      <text lang="pol">Zbuduj nową cywilizację. Graj, jak długo chcesz.</text>
     </string>
     <string id="2">
       <text lang="CHN">无目标畅玩。只要玩得开心……</text>
       <text lang="eng">Play without objectives for as long as you want ...</text>
       <text lang="ger">Spielen ohne Ziel. Solange man Spaß hat...</text>
+      <text lang="pol">W tej rozgrywce nie ma zadań do wykonania. Graj, jak długo masz ochotę...</text>
     </string>
     <string id="50">
       <text lang="CHN">维京人</text>
       <text lang="eng">Vikings</text>
       <text lang="ger">Wikinger</text>
+      <text lang="pol">Wikingowie</text>
     </string>
     <string id="51">
       <text lang="CHN">阿尔迪诺波利斯</text>
       <text lang="eng">Tesskopolis</text>
       <text lang="ger">Aldinopolis</text>
+      <text lang="pol">Aldinopolis</text>
     </string>
     <string id="98">
       <text lang="CHN">一片沃野向你敞开，正邀你定居。</text>
       <text lang="eng">A fertile plain invites you to settle there.</text>
       <text lang="ger">Eine fruchtbare Ebene lädt zum Siedeln ein.</text>
+      <text lang="pol">Osiedl się na tych urodzajnych terenach.</text>
     </string>
     <string id="99">
       <text lang="CHN">新视野</text>
       <text lang="eng">NEW HORIZONS</text>
       <text lang="ger">NEUE HORIZONTE</text>
+      <text lang="pol">NOWE HORYZONTY</text>
     </string>
     <string id="100">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="101">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="pol">Cyra</text>
     </string>
   </strings>
   <briefings>
@@ -73,6 +82,14 @@ Nach wochenlangem, entbehrungsreichem Marsch durch die Wüste breitete sich nun 
 Spiel wie es dir gefällt und errichte eine neue Zivilisation. Kein Ziel, keine Aufgabe! ...
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+Po wielotygodniowej, wyczerpującej wędrówce przez pustynię Wikingowie dotarli do urodzajnej, zielonej krainy. Tu na pewno żyje się w dobrobycie.
+
+Graj według własnych reguł i stwórz nową cywilizację. Tym razem nie ma żadnych celów, żadnych zadań...
+</text>
+      </lang>
     </block>
     <block id="01">
       <lang code="CHN">
@@ -92,6 +109,12 @@ What a triumph! Your tribe has reached the size of 200 inhabitants! This is a gr
 Welch ein Triumph! Dein Volk hat eine Größe von 200 Einwohnern erreicht! Dies ist eine tolle Leistung, und sie beweist deine Fähigkeiten als Lenker deines Volkes!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+Twoje plemię osiągnęło liczbę 200 mieszkańców! To bardzo dobry wynik, który świadczy o tym, że masz duże zdolności organizacyjne!
+</text>
+      </lang>
     </block>
     <block id="02">
       <lang code="CHN">
@@ -107,6 +130,12 @@ Your entire tribe has died! You have let them all down! Odin is enraged! There w
       <lang code="ger">
         <text>
 Dein ganzes Volk ist gestorben! Du hast sie alle im Stich gelassen! Odin ist entzürnt! An seiner langen Tafel wird kein Platz für dich sein!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+Członkowie twojego plemienia nie żyją! Zostawiłeś ich w potrzebie! Odyn rozgniewał się nie na żarty! Nie licz na miejsce przy jego stole!
 </text>
       </lang>
     </block>
@@ -126,6 +155,12 @@ Our scouts have reached the mighty city of Tesskopolis. The inhabitants are frie
         <text>
 
 Deine Kundschafter gelangen in die mächtige Stadt Aldinopolis. Die Bewohner sind dir freundlich gesinnt. Hier lässt sich sicher gut Handel treiben!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+Twoi zwiadowcy dotarli do dużego miasta zwanego Aldinopolis. Jego mieszkańcy są przyjaźnie nastawieni. Możesz liczyć na korzystne interesy!
 </text>
       </lang>
     </block>
@@ -149,6 +184,12 @@ NEUE HORIZONTE
 
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+NOWE HORYZONTY
+</text>
+      </lang>
     </block>
     <block id="won_lost">
       <lang code="CHN">
@@ -166,6 +207,12 @@ MISSION FAILED!
         <text>
 
 MISSION VERLOREN!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+NIEPOWODZENIE MISJI!
 </text>
       </lang>
     </block>

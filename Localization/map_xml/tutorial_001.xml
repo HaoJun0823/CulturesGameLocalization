@@ -4,77 +4,92 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">选中克努特，将他送到标记位置。</text>
       <text lang="eng">Select Knut and send him to the marked place.</text>
       <text lang="ger">Wähle Knut aus und sende ihn zu der gekennzeichneten Stelle.</text>
+      <text lang="pol">Wybierz Knuta i wyślij go w zaznaczone miejsce.</text>
     </string>
     <string id="1">
       <text lang="CHN">给克努特一个栖身之所。</text>
       <text lang="eng">Give Knut a roof over his head.</text>
       <text lang="ger">Gib Knut ein Dach über den Kopf.</text>
+      <text lang="pol">Daj Knutowi dach nad głową.</text>
     </string>
     <string id="2">
       <text lang="CHN">让克努特在农场里当农夫！</text>
       <text lang="eng">Have Knut work as a farmer on the farm!</text>
       <text lang="ger">Lass Knut als Farmer in der Farm arbeiten!</text>
+      <text lang="pol">Niech Knut pracuje na farmie jako farmer!</text>
     </string>
     <string id="3">
       <text lang="CHN">在附近找一个女人！</text>
       <text lang="eng">Find a woman for him in his surroundings!</text>
       <text lang="ger">Suche in der Umgebung nach einer Frau!</text>
+      <text lang="pol">Znajdź Knutowi w okolicy kobietę!</text>
     </string>
     <string id="4">
       <text lang="CHN">把柳托夫、索尔比约恩、卡里、格罗娅和乌拉派往埃及人小村。</text>
       <text lang="eng">Send Ljotolf, Thorbjorn, Kari, Groa and Ulla into the village.</text>
       <text lang="ger">Schicke Ljotolf, Thorbjorn, Kari, Groa und Ulla ins Ägypterdörfchen.</text>
+      <text lang="pol">Wyślij Ljotolfa, Thorbjorna, Kariego, Groa i Ulla do wioski.</text>
     </string>
     <string id="53">
       <text lang="CHN">埃及人小村</text>
       <text lang="eng">Village</text>
       <text lang="ger">Ägypterdörfchen</text>
+      <text lang="pol">Wioska</text>
     </string>
     <string id="71">
       <text lang="CHN">克努特</text>
       <text lang="eng">Knut </text>
       <text lang="ger">Knut </text>
+      <text lang="pol">Knut </text>
     </string>
     <string id="72">
       <text lang="CHN">乌拉</text>
       <text lang="eng">Ulla</text>
       <text lang="ger">Ulla</text>
+      <text lang="pol">Ulla</text>
     </string>
     <string id="73">
       <text lang="CHN">索尔比约恩</text>
       <text lang="eng">Thorbjorn</text>
       <text lang="ger">Thorbjorn</text>
+      <text lang="pol">Thorbjorn</text>
     </string>
     <string id="74">
       <text lang="CHN">卡里</text>
       <text lang="eng">Kari</text>
       <text lang="ger">Kari</text>
+      <text lang="pol">Kari</text>
     </string>
     <string id="75">
       <text lang="CHN">格罗娅</text>
       <text lang="eng">Groa</text>
       <text lang="ger">Groa</text>
+      <text lang="pol">Groa</text>
     </string>
     <string id="76">
       <text lang="CHN">柳托夫</text>
       <text lang="eng">Ljotolf</text>
       <text lang="ger">Ljotolf</text>
+      <text lang="pol">Ljotolf</text>
     </string>
     <string id="98">
       <text lang="CHN">本教程将为你讲解角色的操控以及其他重要功能。</text>
       <text lang="eng">This tutorial will explain the controls for your characters and other basic functions.</text>
       <text lang="ger">In diesen Tutorial wird dir die Steuerung deiner Figuren und andere wesentliche Funktionen erklärt.</text>
+      <text lang="pol">Ten samouczek objaśni, jak sterować postaciami oraz inne podstawowe funkcje.</text>
     </string>
     <string id="99">
       <text lang="CHN">1) 操控</text>
       <text lang="eng">1) CONTROLS</text>
       <text lang="ger">1) STEUERUNG</text>
+      <text lang="pol">1) STEROWANIE</text>
     </string>
   </strings>
   <briefings>
@@ -117,6 +132,20 @@ erklären.
 P.S. FENSTER SCHLIESSEN
 Du schließt alle Fenster durch Drücken des ESC - Buttons oder durch Klick mit der linken Maustaste auf den Button mit dem "x" rechts oben in der Ecke.
 (Durch einen Klick auf das Fähnchensymbol links in der Menüleiste kannst du dir dieses und alle nachfolgenden Fenster noch einmal anschauen.)
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+W tym samouczku znajdziesz pierwszy opis interfejsu użytkownika oraz dowiesz się, jak poruszać się po świecie gry. Dowiesz się również, jak wybierać i kontrolować swoje postaci, oraz jak używać następujących, podstawowych funkcji: 
+
+-	używanie mapy 
+-	przyspieszanie gry
+-	rozpoczęcie/zakończenie/zatrzymanie gry 
+-	używanie podstawowych przycisków i okienek 
+
+P.S.: ZAMYKANIE OKIENEK 
+Możesz zamknąć dowolne okienko wciskając klawisz ESC lub klikając lewym przyciskiem myszy na "x" w prawym, górnym rogu okienka.
+(Kliknij na symbolu flagi na lewo od paska menu, aby ponownie wyświetlić to i następne okienka.)
 </text>
       </lang>
     </block>
@@ -166,6 +195,22 @@ Wenn du Knut eine Anweisung geben willst, wähle ihn aus und drücke anschließe
 Wähle Knut aus und sende ihn mit einem rechten Maustastenklick zu der gekennzeichneten Stelle.
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+To jest Knut.
+
+</text>
+        <usericon>2,1</usericon>
+        <text>
+
+Knut jest bez pracy i nie ma nic do roboty przez cały dzień. 
+Aby go wybrać, po prostu kliknij na nim lewym przyciskiem myszy. Postać zacznie lekko migać, a blisko prawej krawędzi ekranu pojawi się okienko postaci.
+
+Jeśli chcesz wydać Knutowi polecenie, wybierz go i wciśnij klawisz spacji. Lub też wybierz go klikając prawym przyciskiem myszy na jego postaci. Pojawi się wówczas menu. Wybierając akcję poprzez kliknięcie lewym przyciskiem myszy możesz zdecydować, czy Wiking powinien podjąć pracę, ożenić się, wprowadzić do nowego domu, iść do szkoły czy też może powinien zmienić swój zawód lub ekwipunek.
+
+Wybierz Knuta i wyślij go do zaznaczonego punktu, klikając na tym miejscu prawym przyciskiem myszy.
+</text>
+      </lang>
     </block>
     <block id="02">
       <lang code="CHN">
@@ -195,6 +240,15 @@ Wenn du mit einem ausgewählten Wikinger einen RECHTSKLICK auf ein Arbeitsgebäu
 Also: Gib Knut ein Dach über den Kopf und lass ihn als Farmer in der Farm arbeiten!
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+WSPANIALE! Jest jednak szybszy i prostszy sposób!
+
+Jeśli KLIKNIESZ PRAWYM PRZYCISKIEM MYSZY na miejsce pracy mając wybranego Wikinga, wówczas Wiking zacznie pracować w tym budynku automatycznie wybierając odpowiedni zawód, oczywiście pod warunkiem, że posiada umiejętność jego wykonywania. Jeśli klikniesz prawym przyciskiem myszy na budynku, twój Wiking wprowadzi się tam, oczywiście o ile jest w nim jeszcze wolne miejsce. Jeśli klikniesz prawym przyciskiem myszy na wolnym miejscu na mapie, wówczas twój protegowany natychmiast tam się uda. Okienko podpowiedzi pojawiające się przy wskaźniku myszy dostarczają opinię na temat odpowiedniej akcji. 
+
+Więc: Daj Knutowi dach nad głową i niech pracuje na farmie jako farmer!
+</text>
+      </lang>
     </block>
     <block id="03">
       <lang code="CHN">
@@ -222,6 +276,15 @@ GUT GEMACHT! Knut hat nun ein Dach übern Kopf!
 Nun lasse ihn als Farmer arbeiten!
 
 Übrigens: einen Befehl wieder abbrechen oder eine Figur deselektieren kannst du, indem du mit der linken Maustaste auf eine beliebige leere Stelle auf der Landschaft drückst.
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+DOBRA ROBOTA! Knut ma teraz dach nad głową!
+
+Teraz pozwól pracować mu jako farmer!
+
+Przy okazji: Możesz anulować rozkaz lub odznaczyć postać poprzez kliknięcie lewym przyciskiem myszy na jakimkolwiek wolnym miejscu na ekranie gry.
 </text>
       </lang>
     </block>
@@ -261,6 +324,19 @@ NAVIGATION IN DER KARTE
 Führe den Mauszeiger über eine beliebige Stelle auf der Landschaft. Halte nun die mittlere Maustaste gedrückt und bewege die Maus. Der Bildausschnitt folgt nun den Mausbewegungen. Verfahre analog mit den Pfeiltasten.
 
 Möchtest du automatisch scrollen, sobald du mit den Mauszeiger auf den BILDSCHIRMRAND triffst, musst du dieses im OPTIONSMENÜ (F2) einstellen. Dieses findest du über den Button mit den Werkzeugen in der Leiste am linken Bildschirmrand. Drücke dann auf EINGABE und du kannst im mittleren Bereich des Fensters den Scrollmodus einstellen.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>  
+DOBRA ROBOTA! Teraz Knut ma dom i pracę, a więc dobrze się nim zaopiekowaliśmy - czy też może o czymś zapomnieliśmy? 
+
+Znajdź mu kobietę w okolicy!
+
+
+UŻYWANIE MAPY
+Przesuń kursor myszy nad wolne miejsce na ekranie gry. Wciśnij i przytrzymaj środkowy przycisk myszy. Teraz ekran będzie podążał za ruchami myszki. Przesuwanie ekranu gry może być również zrealizowane za pomocą klawiszy strzałek.
+
+Jeśli chcesz, aby ekran przesuwał się automatycznie po najechaniu wskaźnikiem myszy na KRAWĘDŹ EKRANU, musisz ustawić tą opcję w menu OPCJE (F2). Menu OPCJE możesz również wywołać przez kliknięcie na przycisku z rysunkiem narzędzi, który znajduje się na pasku po lewej stronie ekranu. Wówczas wciśnij klawisz ENTER i po środku ekranu ustaw tryb przewijania.
 </text>
       </lang>
     </block>
@@ -306,6 +382,21 @@ HILFE!
 Oftmals ist es leichter und schneller über Tastaturkürzel Befehle auszuführen. Die Tastaturbelegung (F 1) im HILFESYSTEM gibt dir darüber Auskunft.
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+Knut znalazł partnerkę! 
+
+</text>
+        <usericon>2,2</usericon>
+        <text>
+
+Aby się pobrali, wybierz Knuta i wciśnij klawisz spacji. Wybierz symbol z dwiema obrączkami i Knut oświadczy się Ulli. Wówczas Ulla automatycznie wprowadzi się do Knuta i zatroszczy się o jego gospodarstwo domowe...
+
+
+POMOCY!
+Często łatwiej i szybciej jest wydawać komendy przez klawisze skrótu. Więcej informacji na temat konfiguracji klawiszy dostaniesz w SYSTEMIE POMOCY (F1).
+</text>
+      </lang>
     </block>
     <block id="06">
       <lang code="CHN">
@@ -339,6 +430,17 @@ Du kannst das Spiel jederzeit durch Drücken der Taste "p" anhalten und wieder f
 Drücke die Taste "l" auf der Tastatur, um die Spielgeschwindigkeit zu verdoppeln. Drücke nochmals "l" um die Spielgeschwindigkeit zu verdreifachen, und nochmals, um die normale Geschwindigkeit wieder herzustellen.
 
 Klicke mit der linken Maustaste auf den roten Fleck in der Übersichtskarte am linken unteren Bildschirmrand. Du siehst ein kleines Dorf der Ägypter. Probiere nun die Spielgeschwindigkeit aus und schau, wie flink sie sich bewegen! 
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+ZATRZYMANIE I PRĘDKOŚĆ GRY 
+
+Możesz zatrzymać i wznowić grę w dowolnym momencie wciskając klawisz "p".
+
+aby dwukrotnie zwiększyć prędkość gry, wciśnij klawisz "l" na klawiaturze. Ponowne wciśnięcie klawisz "l" zwiększa trzykrotne prędkość gry. Jeśli teraz raz jeszcze wciśniesz klawisz "l", wówczas przywrócisz normalną prędkość gry.
+
+Kliknij lewym przyciskiem myszy na czerwonej plamce znajdującej się na mapie głównej, przy dolnej, lewej krawędzi ekranu. Zobaczysz tam małą wioskę. Spróbuj teraz zmienić szybkość gry i zobacz, jak szybko poruszają się mieszkańcy wioski! 
 </text>
       </lang>
     </block>
@@ -396,6 +498,25 @@ Hast du eine Gruppe selektiert, die du vielleicht öfters benötigst, kannst du 
 Probier dies aus. Schicke Ljotolf, Thorbjorn, Kari, Groa und Ulla ins Dorf der Ägypter!
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+TWORZENIE GRUP
+
+Twoja para Wikingów ma gości! Spotkaj się z Ljotolfem, Thorbjornem, Kari and Groa.
+
+</text>
+        <usericon>2,3</usericon>
+        <text>
+
+Możesz wybrać kilka postaci w tym samym czasie, klikając lewym przyciskiem myszy na wolnym fragmencie mapy, trzymając lewy przycisk myszy i przeciągając ramkę wokół postaci, które chcesz wybrać. 
+
+Grupę możesz stworzyć wciskając klawisz SHIFT, a następnie dodając do grupy kolejnych Wikingów poprzez klikanie na nich lewym przyciskiem myszy (na mapie lub w okienku, według uznania).
+Wciskając klawisz CTRL możesz ponownie wyłączyć z grupy wybranego Wikinga.
+Jeśli wybrałeś grupę, którą będziesz używać częściej, możesz zapisać ją wciskając klawisz CTRL i klawisz z cyfrą od 0 do 9. Aby wybrać tą grupę ponownie, wystarczy że wciśniesz odpowiedni klawisz z cyfrą. Grupa może być kontrolowana w ten sam sposób, co pojedyncza postać.
+
+Wypróbuj tworzenie grupy. Wyślij Ljotolfa, Thorbjorna, Kari, Groa i Ullę do wioski!
+</text>
+      </lang>
     </block>
     <block id="08">
       <lang code="CHN">
@@ -420,6 +541,14 @@ MISSIONSZIELE
 
 Wenn du auf das Fähnchensymbol in der Menüleiste am linken Bildschirmrand klickst, öffnet sich das Missionsfenster. In ihm kannst du alle Aufträge und Hinweise nachlesen und dir deine Ziele in Kurzform anschauen. Das Hauptziel, falls vorhanden, hebt sich etwas von den anderen Zielen ab. 
 Ein nochmaliger Klick auf das Fähnchensymbol schließt das Fenster.
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+CELE MISJI
+
+Jeśli klikniesz na symbol flagi na pasku zadań po lewej stronie ekranu, otworzy się okno misji. Tutaj możesz przeczytać wszystkie rozkazy i wskazówki oraz zobaczyć streszczone główne cele misji. Cel główny, jeśli będzie dostępny, będzie się nieco wyróżniać od pozostałych celów. 
+Ponowne kliknięcie na symbolu flagi zamknie okno.
 </text>
       </lang>
     </block>
@@ -455,6 +584,17 @@ Oftmals haben deine Wikinger Probleme mit der Orientierung, dann bietet es sich 
 Lasse von dem Kundschafter Ljotolf Wegweiser bauen, wenn deine Wikinger den Weg nicht finden.
 
 Wähle ihn dazu aus und klicke auf das "Baue Wegweiser" - Symbol in seinem Aktionsmenü. Mit einen Klick auf die rechte Maustaste kannst du einen Wegweiser auf die nun hell erleuchteten Flächen setzen. Achte darauf, dass die Wegweiser stets verbunden sind! Dies erkennst du daran, dass die Schilder in die entsprechenden Richtungen zeigen.
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+PROBLEMY Z ODNALEZIENIEM WŁAŚCIWEJ DROGI ...
+
+Twoi Wikingowie często będą mieli problemy ze zorientowaniem się w terenie, dlatego też dobrym pomysłem jest posiadanie zwiadowcy, który będzie budował drogowskazy, aby twoi ludzie nie zgubili się!
+
+Jeżeli Twoi Wikingowie nie potrafią odnaleźć drogi, wybuduj swoim zwiadowcą Ljotolfem drogowskazy.
+
+Aby postawić drogowskaz, wybierz Ljotolfa i kliknij na symbolu "Postaw drogowskaz" w menu Wikinga. Klikając prawym przyciskiem myszy możesz postawić drogowskaz w jakimkolwiek, podświetlonym miejscu. Upewnij się, że drogowskazy zawsze się łączą! Jest to sygnalizowane przez fakt, że znaki pokazują właściwe kierunki.
 </text>
       </lang>
     </block>
@@ -494,6 +634,18 @@ Im OPTIONSMENÜ (F2) kannst du das Spiel jederzeit NEU STARTEN, BEENDEN und auch
 Für den Anfang solltest du jedes Tutorial am Ende speichern, um das Gelernte jederzeit wieder aufrufen zu können.
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+GRATULACJE! 
+
+Teraz wiesz wszystko o najważniejszych, podstawowych funkcjach. Wiesz, jak kontrolować swoje postaci oraz jak wydawać im rozkazy. Następny rozdział zajmie się umiejętnościami postaci. 
+
+Przejdź do następnego SAMOUCZKA!
+
+Możesz wybrać PONOWNE ROZPOCZĘCIE gry, WYJŚCIE z gry oraz ZAPIS gry w dowolnym momencie, wybierając odpowiednią opcję z menu OPCJE (Aby wywołać menu OPCJE, wciśnij klawisz F2). 
+Przede wszystkim powinieneś zapisać każdy ukończony samouczek, abyś mógł zdać się na pomoc wiadomości, które zdobyłeś.
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -509,6 +661,11 @@ CONTROLS AND OTHER BASIC FUNCTIONS
       <lang code="ger">
         <text> 
 DIE STEUERUNG UND ANDERE WESENTLICHE FUNKTIONEN
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+STEROWANIE I INNE PODSTAWOWE FUNKCJE 
 </text>
       </lang>
     </block>

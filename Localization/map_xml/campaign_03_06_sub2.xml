@@ -4,62 +4,74 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@抵达圣物！</text>
       <text lang="eng">@GET TO THE ARTEFACT!</text>
       <text lang="ger">@GELANGE ZUM ARTEFAKT!</text>
+      <text lang="pol">@ZDOBĄDŹ ARTEFAKT!</text>
     </string>
     <string id="53">
       <text lang="CHN">埃利斯人</text>
       <text lang="eng">Elisians</text>
       <text lang="ger">Eliser</text>
+      <text lang="pol">Eleiczycy</text>
     </string>
     <string id="63">
       <text lang="CHN">埃利斯人</text>
       <text lang="eng">Elisians</text>
       <text lang="ger">Eliser</text>
+      <text lang="pol">Eleiczycy</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="pol">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
       <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
+      <text lang="pol">Hatchie</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="pol">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">诺伯特</text>
       <text lang="eng">Norbert</text>
       <text lang="ger">Norbert</text>
+      <text lang="pol">Norbert</text>
     </string>
     <string id="76">
       <text lang="CHN">玛尼</text>
       <text lang="eng">Mani</text>
       <text lang="ger">Mani</text>
+      <text lang="pol">Mani</text>
     </string>
     <string id="79">
       <text lang="CHN">埃利斯人</text>
       <text lang="eng">Elisians</text>
       <text lang="ger">Eliser</text>
+      <text lang="pol">Eleiczycy</text>
     </string>
     <string id="99">
       <text lang="CHN">火海</text>
       <text lang="eng">THE SEA OF FLAMES</text>
       <text lang="ger">DAS FLAMMENMEER</text>
+      <text lang="pol">MORZE PŁOMIENI</text>
     </string>
   </strings>
   <briefings>
@@ -95,6 +107,17 @@ Eine unwirtliche Gegend verbarg sich unter der Kaserne. Dies waren die ehemalige
 Aber wie musste sich dieser Ort verändert haben! Sie schienen ihre Stadt auf einem Vulkan errichtet zu haben.
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+Pod koszarami otwiera się niegościnny obszar. Była to dawna piwnica Spartan!
+
+</text>
+        <usericon>1,108,35</usericon>
+        <text>
+
+Ale jakże miejsce to musiało się zmienić! Wydaje się, że musieli wybudować swoje miasto na wulkanie.
+</text>
+      </lang>
     </block>
     <block id="00_start1">
       <lang code="CHN">
@@ -114,6 +137,11 @@ Reach the artefact. Beware of fire-spewing rockfaces!
       <lang code="ger">
         <text> 
 Gelange zum Artefakt. Pass auf feuerspeiende Felswände auf! 
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+Zdobądź artefakt. Uważaj na plujące ogniem skalne ściany! 
 </text>
       </lang>
     </block>
@@ -165,6 +193,19 @@ KELLERWÄCHTER
 Die Schalter, die früher mal die Tore zu den Lagern öffneten, sind eingerostet, bis auf einen. Doch was soll ich Fliegengewicht da schon ausrichten..."
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+PIWNICZNA STRAŻ
+
+"Te magazyny niegdyś były pełne, ale teraz skalne ściany popękały i z otworów wydobywa się ogień. Wszystkie drogi do magazynów są zablokowane.
+
+</text>
+        <usericon>1,100,55</usericon>
+        <text>
+
+Wszystkie przełączniki służące do otwierania bram do magazynów przerdzewiały, oprócz jednego. Ale co może zrobić taki słabeusz jak ja ..."
+</text>
+      </lang>
     </block>
     <block id="02">
       <lang code="CHN">
@@ -192,6 +233,13 @@ VORSICHT!
 Die Flammen haben schon so manchen Helden sein Leben gekostet!
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+UWAGA!
+
+Płomienie już upomniały się o sporą liczbę żyć bohaterów!
+</text>
+      </lang>
     </block>
     <block id="03">
       <lang code="CHN">
@@ -217,6 +265,13 @@ Together we managed to operate the switch, but no door opened! A strong draught 
 FLAMMEN GELÖSCHT!
 
 Gemeinsam hatten wir es geschafft, den Schalter zu betätigen, aber er öffnete keine Tür! Ein starker Luftzug durchströmte die Hallen und blies die blockierenden Flammen für eine gewisse Zeit aus.
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+PŁOMIENIE PRZYGASAJĄ!
+
+Razem udało się nam poruszyć przełącznik, ale drzwi się nie otworzyły! Silny przeciąg popłynął korytarzami, przygaszając na chwilę płomienie.
 </text>
       </lang>
     </block>
@@ -248,6 +303,15 @@ Although we had managed to operate the switch, it had no effect.
 SCHALTER BETÄTIGT
 
 Zwar schafften wir es, den Schalter zu betätigen, aber es zeigte sich dadurch keinerlei Wirkung.
+
+</text>
+        <usericon>1,90,70</usericon>
+      </lang>
+      <lang code="pol">
+        <text> 
+PRZEŁĄCZNIK PORUSZONY
+
+Chociaż udało nam się poruszyć przełącznik, jednak nie dało to żadnego efektu.
 
 </text>
         <usericon>1,90,70</usericon>
@@ -285,6 +349,15 @@ Dieser Schalter zeigte keine Wirkung. Vielleicht war die Kraft eines Einzelnen n
 </text>
         <usericon>1,85,50</usericon>
       </lang>
+      <lang code="pol">
+        <text> 
+PRZEŁĄCZNIK
+
+Poruszenie tego przełącznika nie dało żadnego efektu. Być może przełączenie jednego nie było wystarczające ...
+
+</text>
+        <usericon>1,85,50</usericon>
+      </lang>
     </block>
     <block id="06">
       <lang code="CHN">
@@ -314,6 +387,15 @@ Although we had managed to operate the switch, it had no effect.
 SCHALTER
 
 Zwar schafften wir es, den Schalter zu betätigen, aber es zeigte sich dadurch keinerlei Wirkung.
+
+</text>
+        <usericon>1,111,65</usericon>
+      </lang>
+      <lang code="pol">
+        <text> 
+PRZEŁĄCZNIK
+
+Chociaż zdołaliśmy poruszyć przełącznik, to nie dało to żadnego efektu.
 
 </text>
         <usericon>1,111,65</usericon>
@@ -359,6 +441,17 @@ So ein Pech! Der ELISER starb in den Flammen.
 Die Mission war gescheitert.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+ZADANIE NIEWYKONANE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+Co za tragedia! Eleiczyk zginął w płomieniach.
+Zadanie niewykonane.
+</text>
+      </lang>
     </block>
     <block id="100">
       <lang code="CHN">
@@ -398,6 +491,17 @@ MISSION VERLOREN!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+ZADANIE NIEWYKONANE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroizm czy beztroska? Gdy Bjarni umarł, bogowie płakali ... bez tego bohatera, cel misji pozostanie dla ciebie nieosiągalny!
 </text>
       </lang>
     </block>
@@ -441,6 +545,17 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+ZADANIE NIEWYKONANE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Krótka chwila niedbalstwa, tyle tylko trzeba, żebyś stracił życie! Twoja bohaterka CYRA zginęła z powodu twojego niedbalstwa! Bez tej bohaterki, cel misji pozostanie dla ciebie nieosiągalny!! 
+</text>
+      </lang>
     </block>
     <block id="400">
       <lang code="CHN">
@@ -480,6 +595,17 @@ MISSION VERLOREN!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held SIGURD erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+ZADANIE NIEWYKONANE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Krótka chwila niedbalstwa, tyle tylko trzeba, żebyś stracił życie! Twój przyjaciel i bohater SIGURD zginął z powodu twojego niedbalstwa! Bez tego bohatera, cel misji pozostanie dla ciebie nieosiągalny!
 </text>
       </lang>
     </block>
@@ -523,6 +649,17 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+ZADANIE NIEWYKONANE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Krótka chwila niedbalstwa, tyle tylko trzeba, żebyś stracił życie! Twój przyjaciel i bohater smok NORBERT zginął z powodu twojego niedbalstwa! Bez tego bohatera, cel misji pozostanie dla ciebie nieosiągalny!
+</text>
+      </lang>
     </block>
     <block id="50_end">
       <lang code="CHN">
@@ -550,6 +687,13 @@ Das wäre geschafft! Endlich hielten wir das Artefakt in unseren Händen und kon
 Und wir wollten auch keine Minute länger verweilen!
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+Dokonaliśmy tego! Ostatecznie trzymamy artefakt w rękach i możemy opuścić Morze Płomieni. 
+
+I nie chcemy zostać tu ani minuty dłużej!
+</text>
+      </lang>
     </block>
     <block id="50_end1">
       <lang code="CHN">
@@ -559,6 +703,9 @@ Und wir wollten auch keine Minute länger verweilen!
         <usericon>1,136,102</usericon>
       </lang>
       <lang code="ger">
+        <usericon>1,136,102</usericon>
+      </lang>
+      <lang code="pol">
         <usericon>1,136,102</usericon>
       </lang>
     </block>
@@ -580,6 +727,11 @@ MISSION COMPLETED!
       <lang code="ger">
         <text> 
 MISSION GEWONNEN! 
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+ZADANIE WYKONANE! 
 </text>
       </lang>
     </block>
@@ -623,6 +775,17 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+ZADANIE NIEWYKONANE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Krótka chwila niedbalstwa, tyle tylko trzeba, żebyś stracił życie! MANI, syn Bjarniego i Cyry zginął z powodu twojego niedbalstwa! Bez niego, cel misji pozostanie dla ciebie nieosiągalny!
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -642,6 +805,11 @@ THE SEA OF FLAMES
       <lang code="ger">
         <text> 
 DAS FLAMMENMEER
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+MORZE PŁOMIENI 
 </text>
       </lang>
     </block>

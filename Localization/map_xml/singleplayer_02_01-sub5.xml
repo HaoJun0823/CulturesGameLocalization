@@ -4,37 +4,44 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">找到第二个开关，开启通往西北方洞穴的通道！</text>
       <text lang="eng">Find the second switch to open the passage to the cave in the north-west!</text>
       <text lang="ger">Finde den zweiten Schalter, mit dem du den Durchgang zur Höhle im Nordwesten öffnen kannst!</text>
+      <text lang="pol">Znajdź drugi przycisk, przy pomocy którego będziesz mógł otworzyć przejście przez jaskinię na północnym zachodzie!</text>
     </string>
     <string id="1">
       <text lang="CHN">抵御四处游荡的恶狼！</text>
       <text lang="eng">Defend yourself against the stray wolves!</text>
       <text lang="ger">Verteidige dich gegen die herumstreunenden Wölfe!</text>
+      <text lang="pol">Odeprzyj ataki wilków!</text>
     </string>
     <string id="51">
       <text lang="CHN">狼族生物</text>
       <text lang="eng">Wolf Creatures</text>
       <text lang="ger">Wolfskreaturen</text>
+      <text lang="pol">Wilkołaki</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">狼族首领</text>
       <text lang="eng">Wolf Leader</text>
       <text lang="ger">Wolfsführer</text>
+      <text lang="pol">Przewodnik stada wilków</text>
     </string>
     <string id="99">
       <text lang="CHN">狼穴</text>
       <text lang="eng">THE WOLVES' CAVE</text>
       <text lang="ger">DIE WOLFSHÖHLE</text>
+      <text lang="pol">JASKINIA WILKÓW</text>
     </string>
   </strings>
   <briefings>
@@ -57,6 +64,13 @@ I started looking for the switch of this underground vault ...
 Ich machte mich auf die Suche nach dem Schalter dieses unterirdischen Gewölbes...
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Jaskinię wypełniały wilgotne opary, a odór zgnilizny utrudniał oddychanie. Nagle wilki zaintonowały kanon, który wprawił mnie w przerażenie!
+
+Ruszyłem w głąb jaskini w poszukiwaniu przycisku...
+</text>
+      </lang>
     </block>
     <block id="begin_01">
       <lang code="CHN">
@@ -74,6 +88,12 @@ An intruder in our dungeon? Kill him!
         <text>
 
 Ein Eindringling in unserem Verlies? Tötet ihn!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+Intruz w naszej kryjówce? Zabić go!
 </text>
       </lang>
     </block>
@@ -95,6 +115,12 @@ There was the switch I had been looking for ... but it was guarded by hordes of 
 Da war der Schalter, das Ziel meiner Suche... Doch er wurde bewacht von riesigen Wolfshorden und diesen aufrechtgehenden Wolfskreaturen! 
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+Tu był przycisk, którego szukałem... Ale przycisku strzegły wilkołaki i hordy wilków!
+</text>
+      </lang>
     </block>
     <block id="begin_03">
       <lang code="CHN">
@@ -112,6 +138,12 @@ The creatures were dead, but what if there were more of them about?
         <text>
 
 Die Kreaturen waren tot, doch was, wenn es irgendwo noch mehr von ihnen gab?
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+Te bestie nie żyją, ale co będzie, jeśli jest ich jeszcze więcej?
 </text>
       </lang>
     </block>
@@ -133,6 +165,12 @@ Time to get out of this dreadful cave ...
 Jetzt nichts wie raus aus dieser grauenvollen Höhle...
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+Teraz najważniejszą rzeczą jest wydostać się z tej okropnej jaskini...
+</text>
+      </lang>
     </block>
     <block id="begin_05">
       <lang code="CHN">
@@ -150,6 +188,12 @@ Bjarni has died!
         <text>
 
 Bjarni ist gestorben!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+Bjarni nie żyje!
 </text>
       </lang>
     </block>
@@ -171,6 +215,12 @@ I had run through one of these dark, nebulous shapes - it was true what Miguel h
 Ich war durch einen dieser dunklen Nebel gelaufen, und es stimmte tatsächlich, was Miguel von dessen erfrischender Wirkung erzählt hatte: ein paar Sekunden in diesem Nebel, und es ging mir sichtlich besser!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+Wszedłem w jedną z tych ciemnych mgieł i rzeczywiście sprawdziło się to, co mówił Miguel o ich niezwykłym działaniu: po kilku chwilach spędzonych we mgle poczułem wyraźny przypływ nowych sił!
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -189,6 +239,13 @@ THE WOLVES' CAVE
         <text>
 
 DIE WOLFSHÖHLE
+
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+JASKINIA WILKÓW
 
 </text>
       </lang>

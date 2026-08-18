@@ -4,32 +4,38 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">找到山地农人部族的首领！</text>
       <text lang="eng">Find the chieftain of the miners' tribe!</text>
       <text lang="ger">Finde den Häuptling des Bergbauerstammes!</text>
+      <text lang="pol">Odszukaj naczelnika górników!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的部族</text>
       <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarnis Stamm</text>
+      <text lang="pol">Plemię Bjarniego</text>
     </string>
     <string id="51">
       <text lang="CHN">山地农人</text>
       <text lang="eng">Miners' Tribe</text>
       <text lang="ger">Bergbauervolk</text>
+      <text lang="pol">Górnicy</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="99">
       <text lang="CHN">山地部族</text>
       <text lang="eng">THE MOUNTAIN TRIBE</text>
       <text lang="ger">DAS BERGVOLK</text>
+      <text lang="pol">MIESZKAŃCY GÓR</text>
     </string>
   </strings>
   <briefings>
@@ -52,6 +58,13 @@ Als ich die Höhle betrat, war ich erstaunt über die Leute hier. Überall hört
 Erst einmal musste ich den Anführer der Bergbauern aufsuchen.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Gdy wszedłem do jaskini, zaskoczył mnie widok ludzi pracujących przy wydobyciu rudy żelaza. Ze wszystkich stron dochodziły odgłosy uderzeń kilofów, wszędzie widać było krzątaninę i gorliwą pracę!
+
+Najpierw musiałem odszukać naczelnika plemienia.
+</text>
+      </lang>
     </block>
     <block id="begin_01">
       <lang code="CHN">
@@ -69,6 +82,12 @@ This is the gate which separates the inner production places from the outer ones
         <text>
 
 Dies ist das Tor, das die inneren Produktionsstätten von den äußeren Abbaustellen trennt. Es schützt uns vor äußeren Einflüssen, so dass jeder mit voller Konzentration arbeiten kann.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+To jest brama oddzielająca stanowiska pracy wewnątrz kopalni od wyrobisk na zewnątrz. Brama ta chroni nas przed zewnętrznymi wpływami, dzięki czemu każdy z nas może całkowicie skoncentrować się na swojej pracy.
 </text>
       </lang>
     </block>
@@ -96,6 +115,14 @@ FISCHER
 Ich bin der Fischer meines Volkes, und ich habe große Sorgen! Dieser Fischschwarm ist der letzte in unserem Bergsee! Wenn er leergefischt ist, dann geht unsere Nahrungsversorgung zugrunde... Was sollen wir nur machen?
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+RYBAK
+
+Jestem rybakiem i mam wielkie zmartwienie! To ostatnia ławica ryb w naszym górskim jeziorze! Jeśli złowię wszystkie ryby, nasze plemię straci źródło pożywienia... Co mam robić?
+</text>
+      </lang>
     </block>
     <block id="begin_03">
       <lang code="CHN">
@@ -119,6 +146,16 @@ I am my people's chieftain! We are hungry and we are short of many items. Who ar
 HÄUPTLING
 
 Ich bin der Anführer meiner Leute! Wir haben Hunger und es fehlen diverse Gebrauchsgegenstände. Wer bist du? Bringst du uns Glück oder Unglück? Wenn du uns helfen willst, werden wir dich mit den Produkten dieses Berges entlohnen, in einem freien Handel! Gib uns aber vorerst genügend Nahrung, Geschirr und Möbel!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+
+NACZELNIK PLEMIENIA
+Jestem naczelnikiem plemienia! Cierpimy głód i brakuje nam różnych przedmiotów użytkowych. A kim ty jesteś?
+
+Przynosisz nam szczęście czy zmartwienia i zgryzoty? Jeśli nam pomożesz i będziesz handlować z nami, zapłacimy ci żelazem i przedmiotami żelaznymi! Ale najpierw daj nam odpowiednią ilość żywności, naczyń i mebli!
 </text>
       </lang>
     </block>
@@ -146,6 +183,16 @@ Arbeit, Arbeit, Arbeit... Unser Anführer weiß, dass wir Hunger leiden, und tro
 Was willst du noch von mir, ich habe meine Arbeit zu erledigen!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+Praca, praca, praca... Nasz przywódca wie, że cierpimy głód, a mimo to każe nam ciężko pracować! Jeść!
+
+Jeść! Zapytaj rybaka, jaka jest nasza sytuacja...
+
+Czego jeszcze chcesz ode mnie? Nie widzisz, że pracuję!
+</text>
+      </lang>
     </block>
     <block id="begin_05">
       <lang code="CHN">
@@ -163,6 +210,12 @@ My stomach is aching! Have you got any food? No? Then go, I must work ... go, ou
         <text>
 
 Mein Magen knurrt so! Hast du was zu essen dabei? Nein? Dann geh, ich muss weiterarbeiten... Geh weiter, unser Anführer erwartet dich schon!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+Ciągle doskwiera mi głód! Masz coś do jedzenia? Nie? To odejdź, muszę pracować dalej... Idź już, naczelnik czeka już na ciebie!
 </text>
       </lang>
     </block>
@@ -183,6 +236,13 @@ THE MOUNTAIN TRIBE
         <text>
 
 DAS BERGVOLK
+
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+MIESZKAŃCY GÓR
 
 </text>
       </lang>

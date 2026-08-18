@@ -4,27 +4,32 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">求见国王！</text>
       <text lang="eng">Consult the king!</text>
       <text lang="ger">Konsultiere den König!</text>
+      <text lang="pol">Porozmawiaj z królem!</text>
     </string>
     <string id="55">
       <text lang="CHN">米格尔的友人</text>
       <text lang="eng">Miguel's Friends</text>
       <text lang="ger">Miguels Freunde</text>
+      <text lang="pol">Przyjaciele Miguela</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="99">
       <text lang="CHN">危难之族</text>
       <text lang="eng">A TRIBE IN DANGER</text>
       <text lang="ger">BEDROHTES VOLK</text>
+      <text lang="pol">UCIEKINIERZY</text>
     </string>
   </strings>
   <briefings>
@@ -48,6 +53,15 @@ But on closer inspection the inhabitants seemed very thin - and there didn't see
 Diese unterseeische Grotte war ganz und gar nicht wie erwartet! Die Flüchtlinge hatten hier eine kleine Stadt errichtet, und für eine Notunterkunft schien das fast zuviel Luxus zu sein!
 
 Aber bei genauerem Hinsehen fiel auf, wie abgemagert die Bewohner waren - und Süßwasser schien es hier auch nicht viel zugeben...
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Podziemna grota wyglądała zupełnie inaczej, niż się spodziewaliśmy! Uciekinierzy zbudowali tu niewielkie miasto, które jak na przymusowe schronienie sprawiało wrażenie niemal zbytku!
+
+Ale gdy przyjrzeliśmy się dokładniej, zauważyliśmy, jak wychudzeni byli mieszkańcy tego podziemnego miasta.
+
+Słodkiej wody wcale tu nie było...
 </text>
       </lang>
     </block>
@@ -96,6 +110,20 @@ Doch nun seid ihr hier, und unsere Suche hat ein schnelles Ende! Helft uns, und 
 Wenn ihr dieses Versteck wieder verlassen habt, ist die Barriere bestimmt schon fort! Geht und befreit die Welt von diesen Monstern!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+NAJEMNICY
+
+Kim jesteście, przybysze? Słyszeliście nasze wołanie o pomoc? To wspaniale, w takim razie jest jeszcze szansa na ratunek!
+
+Wymyśliliśmy sposób usunięcia przeszkód blokujących wejście na bagna! Właśnie wysłaliśmy tam nasz oddział specjalny i kazaliśmy mu sprowadzić pomoc!
+
+Ale skoro przybyliście nam na ratunek, możemy przerwać poszukiwania! Pomóżcie nam, tak bardzo chcielibyśmy znów ujrzeć słońce!
+
+Gdy opuścicie naszą kryjówkę, przeszkoda na pewno będzie już usunięta! Idźcie i uwolnijcie świat od tych potworów!
+</text>
+      </lang>
     </block>
     <block id="begin_02">
       <lang code="CHN">
@@ -113,6 +141,12 @@ The king's concern about our tribe has made him ill! Things are looking very bad
         <text>
 
 Der König ist vor Sorge um unseren Stamm erkrankt! Es sieht wirklich schlimm für uns aus!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+Król tak bardzo martwił się o los swych poddanych, że rozchorował się ze zgryzoty! Nasza sytuacja jest naprawdę zła!
 </text>
       </lang>
     </block>
@@ -134,6 +168,12 @@ The king has asked his three best mercenaries to represent him! Go to the golden
 Der König lässt sich von seinen drei besten Söldnern vertreten! Geh zur goldenen Statue und triff dich dort mit ihnen!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+Król zgodził się, aby reprezentowali go jego trzej najlepsi najemnicy! Idź do złotego posągu i spotkaj się z nimi!
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -152,6 +192,13 @@ THE SECRET TRIBE
         <text>
 
 GEHEIMES VOLK
+
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+UCIEKINIERZY
 
 </text>
       </lang>

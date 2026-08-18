@@ -4,92 +4,110 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">指派一名商人掌管两座仓库，看看会发生什么。</text>
       <text lang="eng">Give a merchant two warehouses and watch what happens.</text>
       <text lang="ger">Weise einem Händler zwei Lagerhäuser zu und schau, was passiert.</text>
+      <text lang="pol">Daj kupcowi dwa magazyny i patrz, co się dzieje.</text>
     </string>
     <string id="1">
       <text lang="CHN">为雷米与施泰尼的仓库运去 5 件铁质工具！</text>
       <text lang="eng">Take 5 IRON TOOLS to Clayme and Stony's warehouse!</text>
       <text lang="ger">Bringe dem Lagerhaus vom Lehmi und Steini 5 EISENWERKZEUGE!</text>
+      <text lang="pol">Zabierz 5 ŻELAZNYCH NARZĘDZI do magazynu Clayma and Stoniego!</text>
     </string>
     <string id="2">
       <text lang="CHN">与法兰克村落交易 10 件家具！</text>
       <text lang="eng">Trade 10 furniture with the Frankish village!</text>
       <text lang="ger">Handele 10 MÖBEL mit den Frankendörfchen!</text>
+      <text lang="pol">Dokonaj wymiany 10 mebli z wioską Franków!</text>
     </string>
     <string id="3">
       <text lang="CHN">为船只配属一名商人与一辆推车，并经由搬运工将至少 5 袋面粉装船！</text>
       <text lang="eng">Have a merchant with a CART work on the ship and get a carrier to load it with at least 5 sacks of FLOUR!</text>
       <text lang="ger">Weise dem Schiff einen Händler samt KARREN zu und belade das Schiff mit mindestens 5 Säcken MEHL, durch den Träger!</text>
+      <text lang="pol">Niech kupiec zajmie się PRZEWOZEM na statku, oraz zabierz tragarza, aby załadował statek przynajmniej 5 workami MĄKI!</text>
     </string>
     <string id="4">
       <text lang="CHN">乘船驶往撒拉逊岛屿！</text>
       <text lang="eng">Sail to the Saracens' island!</text>
       <text lang="ger">Fahre mit dem Schiff zu der Sarazeneninsel!</text>
+      <text lang="pol">Pożegluj na wyspę Saracenów!</text>
     </string>
     <string id="5">
       <text lang="CHN">卸下货物，与撒拉逊人展开贸易！</text>
       <text lang="eng">Unload the goods and trade with the Saracens!</text>
       <text lang="ger">Entlade die Waren und treibe mit den Sarazenen Handel!</text>
+      <text lang="pol">Wyładuj towary i handluj z Saracenami!</text>
     </string>
     <string id="51">
       <text lang="CHN">法兰克人</text>
       <text lang="eng">Franks</text>
       <text lang="ger">Franken</text>
+      <text lang="pol">Frankowie</text>
     </string>
     <string id="52">
       <text lang="CHN">撒拉逊人</text>
       <text lang="eng">Saracens</text>
       <text lang="ger">Sarazenen</text>
+      <text lang="pol">Saraceni</text>
     </string>
     <string id="71">
       <text lang="CHN">索尔芬</text>
       <text lang="eng">Thorfinn</text>
       <text lang="ger">Thorfinn</text>
+      <text lang="pol">Thorfinn</text>
     </string>
     <string id="72">
       <text lang="CHN">洛丁</text>
       <text lang="eng">Lodin</text>
       <text lang="ger">Lodin</text>
+      <text lang="pol">Lodin</text>
     </string>
     <string id="73">
       <text lang="CHN">雷米</text>
       <text lang="eng">Clayme</text>
       <text lang="ger">Lehmi</text>
+      <text lang="pol">Clayme</text>
     </string>
     <string id="74">
       <text lang="CHN">施泰尼</text>
       <text lang="eng">Stony</text>
       <text lang="ger">Steini</text>
+      <text lang="pol">Stony</text>
     </string>
     <string id="75">
       <text lang="CHN">斯图尔拉</text>
       <text lang="eng">Sturla</text>
       <text lang="ger">Sturla</text>
+      <text lang="pol">Sturla</text>
     </string>
     <string id="76">
       <text lang="CHN">斯诺里</text>
       <text lang="eng">Snorri</text>
       <text lang="ger">Snorri</text>
+      <text lang="pol">Snorri</text>
     </string>
     <string id="79">
       <text lang="CHN">阿里</text>
       <text lang="eng">Ari</text>
       <text lang="ger">Ari</text>
+      <text lang="pol">Ari</text>
     </string>
     <string id="98">
       <text lang="CHN">本关介绍与异族的陆上与海上贸易，以及商人在本村中的运用。</text>
       <text lang="eng">Here you will be shown how to trade with other people by land and sea, and how to use the merchant in your own village.</text>
       <text lang="ger">Hier wirst du eingeführt, in den Land und Seehandel mit anderen Völkern, aber auch in die Verwendung des Händlers im eigenen Dorf.</text>
+      <text lang="pol">W tym samouczku dowiesz się, jak handlować z innymi ludami na lądzie i morzu oraz jak wykorzystać kupca we własnej wiosce.</text>
     </string>
     <string id="99">
       <text lang="CHN">5) 贸易</text>
       <text lang="eng">5) TRADE AND SHIPS</text>
       <text lang="ger">5) HANDEL</text>
+      <text lang="pol">5) HANDEL I STATKI</text>
     </string>
   </strings>
   <briefings>
@@ -114,6 +132,13 @@ Here you will be shown how to trade with other people by land and sea, and how t
 Waren können innerhalb deines Dorfes, aber auch außerhalb des Dorfes zum Tausch angeboten werden. Zuständig dafür ist natürlich der Händler, der die Waren zwischen Produktionsstätten, Lagerhäusern und Hauptquartieren transportiert. 
 
 Hier wirst du eingeführt, in den Land und Seehandel mit anderen Völkern, aber auch in die Verwendung des Händlers im eigenen Dorf ...
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+Towary mogą być dostarczane na handel wewnętrzny i zewnętrzny. Oczywiście, praca ta należy do kupca. Kupiec transportuje towary między miejscami ich wytworzenia, magazynami i kwaterą główną. 
+
+W tym samouczku dowiesz się, jak handlować z innymi ludami na lądzie i morzu oraz jak wykorzystać kupca we własnej wiosce.
 </text>
       </lang>
     </block>
@@ -157,6 +182,20 @@ Der Handel ist im eigenen Volk zwischen allen Gebäuden mit entsprechendem Lager
 Weise einem Händler zwei Lagerhäuser zu.
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+KUPCY
+
+To są Thorfinn, Lodin i Ari, trzej doświadczeni kupcy. 
+
+Po wybraniu kupca, jego okienko postaci otworzy się na zakładce HANDEL, gdzie możesz ustalić ustawienia handlu.
+
+Pierwszą rzeczą którą musisz zrobić, jest wyznaczenie dwóch PUNKTÓW HANDLOWYCH. Aby to zrobić, dla każdego punktu handlowego kliknij na ekranie postaci na małym, okrągłym przycisku obok "Punkt Handlowy", kliknij na przycisku z szalkami w menu akcji kupca, a następnie kliknij na odpowiedni punkt handlowy. Tak jak z jakimkolwiek robotnikiem, możesz przydzielić kupca do punktu handlowego przez kliknięcie prawym przyciskiem myszy.
+We własnej osadzie możesz handlować pomiędzy dowolnymi budowlami z magazynami, np. pomiędzy miejscami produkcji. 
+
+Przydziel kupca do dwóch magazynów.
+</text>
+      </lang>
     </block>
     <block id="02">
       <lang code="CHN">
@@ -182,6 +221,15 @@ Hast du die beiden Handelsposten zugewiesen, solltest du den "HÄNDLER EINSTELLE
 
 Handelst du innerhalb deines Volkes, erscheint ein Fenster mit beiden Handelsposten und in der Mitte siehst du eine Liste mit den Waren, die gehandelt werden können. Klickst du nichts an, versucht der Händler, die Warenbestände der Lager auszugleichen. Die Pfeile neben der Liste symbolisieren einerseits die Richtung, in welche die Ware gebracht wird, andererseits wählst du damit auch deine Waren aus. 
 Klickst du mit einem Linksklick auf einen oder mehrere Pfeile, werden nur noch die Waren transportiert, deren Richtungspfeile aktiv, also hell sind. 
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+Jeśli nie wydasz kupcowi żadnego rozkazu, zacznie on transportować jakikolwiek towary - w tym przypadku miód. 
+Jeśli przydzieliłeś dwa punkty handlowe, powinieneś "ZATRUDNIĆ KUPCA ". Aby to zrobić, kliknij na odpowiedni przycisk z okienka postaci kupca.
+
+Jeśli handlujesz w obrębie swojej nacji, pojawi się okno z oboma punktami handlowymi, a pośrodku zobaczysz listę towarów, które mogą być wymieniane. Jeśli nie klikniesz na jakiś, kupiec spróbuje zbalansować przechowywane w magazynach towary. Strzałki obok listy wskazują kierunek przepływu towarów, jak również pozwalają na twój wybór towarów. 
+Jeśli klikniesz na jedną lub kilka strzałek, wówczas tylko te towary będą transportowane, których strzałki są aktywne, np. podświetlone. 
 </text>
       </lang>
     </block>
@@ -219,6 +267,18 @@ Wähle Thorfinn, Lodin oder Ari aus und weise ihm als Handelhaus 1 das nördlich
 Bringe dem Lagerhaus dann 5 EISENWERKZEUGE! 
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+CLAYME I STONY POTRZEBUJĄ NARZĘDZI 
+(Handlowanie z własnymi ludźmi)
+
+Gdzieś, z dala od twojej wioski twój garncarz i kamieniarz wykonują swoją pracę. Na nieszczęście, zapomnieli oni zabrać swoich dobrych, metalowych narzędzi ze sobą, w związku z czym nie są zbyt produktywni ... 
+
+Wybierz Thorfinna, Lodina lub Ariego, następnie przydziel północny magazyn jako punkt handlowy 1, a południowy magazyn w warsztacie garncarskim jako punkt handlowy 2! (Jeśli chcesz wybrać inny punkt handlowy, wybierz przycisk "Usuń Punkt Handlowy ", a następnie kliknij na punkt handlowy, którego więcej nie potrzebujesz, aby go odznaczyć. Po tym wybierz inny.)
+
+Weź do magazynu 5 jednostek METALOWYCH NARZĘDZI! 
+</text>
+      </lang>
     </block>
     <block id="04">
       <lang code="CHN">
@@ -252,6 +312,17 @@ Hinweis:
 Du kannst einen Karren einem Wikinger auch über die Tooltip-Option direkt mit rechtem Mausklick als Fahrzeug zuweisen.
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+WÓZKI RĘCZNE I WOZY ZAPRZĘGOWE 
+
+Wozy są ważnym usprawnieniem dla tragarzy i kupców, ponieważ mogą przenosić od 10 do 20 towarów odpowiednio w tym samym czasie. Dlatego, czynią one kupców znacznie bardziej efektywnymi. Aby użyć wozu, tragarz lub kupiec musi zostać przydzielony do pojazdu, aby mógł nim kierować. 
+Może to być zrobione przez użycie przycisku akcji "Przydziel Pojazd". Gdy tylko użyjesz tego przycisku, dostępne pojazdy (okręt, wózek ręczny lub wóz zaprzęgowy) zostaną podświetlone. Kliknij prawym przyciskiem myszy na jeden z wozów, aby poinformować Wikinga o twoim wyborze. 
+
+Wskazówka:
+Możesz przydzielić wóz do Wikinga jako pojazd bezpośrednio z opcji podpowiedzi przez kliknięcie prawego przycisku myszy.
+</text>
+      </lang>
     </block>
     <block id="05">
       <lang code="CHN">
@@ -279,6 +350,15 @@ TOLL!
 Nun haben Lehmi und Steini ihre Werkzeuge und können besser arbeiten.
 
 Unsere Händler werden indes neue Handelsbeziehungen zu einem Frankenvolk aufbauen...
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+WSPANIALE!
+
+Teraz gdy Clayme i Stony mają swoje narzędzia, ich produkcja znacząco poprawiła się.
+
+W międzyczasie, nasi kupcy mogą ustanowić nowe relacje handlowe z Frankami ...
 </text>
       </lang>
     </block>
@@ -318,6 +398,19 @@ Willst du ein anderes Handelhaus auswählen, wähle den Button Handelshaus wegne
 Handele mit den Franken 10 Möbel! Du erhältst dafür 20 Goldstücke.
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+HANDLOWANIE Z INNYMI NACJAMI
+
+Aby handlować z inną nacją, która ma PRZYJAZNE nastawienie do ciebie, potrzebujesz faktycznej zgody na handel, a inni ludzie musza posiadać MAGAZYN. Obydwa warunki są spełnione przez Franków zamieszkujących północne wybrzeże. Twoi kupcy muszą mieć przydzielony WÓZ.
+
+Jeśli handlujesz z innymi ludźmi, możesz wybrać towary spośród jednego lub kilku, które oferuje twój partner handlowy, jakie chcesz, aby twój kupiec otrzymywał. Lewa strona wyświetla towary z zapasów zaprzyjaźnionego plemienia. Prawa strona wyświetlona, czego oczekują w zamian. 
+Kliknij lewym przyciskiem myszy na linii z odpowiednią ofertą. Twój kupiec spróbuje wówczas handlować tymi towarami. 
+Jeśli chcesz wybrać inny punkt handlowy, kliknij na przycisku "Usuń Punkt Handlowy ", a następnie kliknij na odpowiedniego partnera handlowego, aby odznaczyć go i  wybierz nowego.
+
+Dokonaj wymiany handlowej 10 jednostek mebli z Frankami! Otrzymasz w zamian 20 sztuk złota.
+</text>
+      </lang>
     </block>
     <block id="07">
       <lang code="CHN">
@@ -339,6 +432,13 @@ You have received 20 gold pieces for your furniture from the Franks. Thus you ha
 SEHR GUT!
 
 Du hast 20 Goldstücke von den Franken für deine Möbel erhalten. Damit hast du deinen Handelsvertrag erfüllt.
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+BARDZO DOBRZE!
+
+Otrzymałeś 20 sztuk złota za swoje meble od Franków. W ten sposób zrealizowałeś swoje porozumienie handlowe.
 </text>
       </lang>
     </block>
@@ -376,6 +476,17 @@ Um ein Schiff zu beladen, muss ihm immer ein TRÄGER zugewiesen sein. Die Schiff
 Belade das Schiff mit mindestens 5 Säcke Mehl und weise ihm einen TRÄGER samt KARREN zu. (Weise dazu erst dem Träger einen Karren als Fahrzeug zu, wähle dann den KARREN aus und weise ihm den Schiff zu.)
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+Rzućmy okiem na handel morski. Czasami będziesz potrzebował załadować statki, aby przewieźć towary do odległych krajów ... ja np. ta przyjazna wioska Saracenów.
+
+STATKI są produkowane w warsztacie ciesielskim 4. Warsztat musi być położony blisko wybrzeża, aby cieśla mógł budować statki.
+
+Aby załadować towary na statek, musi być przydzielony do niego TRAGARZ. Administracja zapasami statku odbywa się w ten sam sposób, jak magazynów: Z indywidualnymi listami pogrupowanymi przez towary. Kliknij na statek i na odpowiednie znaczki plus żądanych towarów, aby ustalić minimalny zapas.
+
+Załaduj przynajmniej 5 worków mąki na statek i przydziel do niego TRAGARZA z WOZEM. (Aby to zrobić, najpierw przydziel tragarzowi wóz jako jego pojazd, a następnie przydziel go do statku.)
+</text>
+      </lang>
     </block>
     <block id="09">
       <lang code="CHN">
@@ -405,6 +516,16 @@ Steuern kann ein Schiff jeder erwachsene Wikinger, dem das Schiff als Fahrzeug z
 (Du kannst ein Schiff einem Wikinger auch über die Tooltip-Option direkt mit rechtem Mausklick als Fahrzeug zuweisen.)
 
 Steuere das Schiff, wie einen deiner Wikinger, mit den "SENDEN NACH" Befehl an das Ufer der Sarazenen. 
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+Towary zostały załadowane i statek jest gotowy do wypłynięcia!
+
+Każdy dorosły Wiking przydzielony do statku może nim sterować - zostanie automatycznie jego dowódcą! Dokonuje się tego przez przycisk akcji "PRZYDZIEL POJAZD". Gdy tylko klikniesz na ten przycisk, dostępne pojazdy podświetlą się. Kliknij prawym przyciskiem na statku, aby poinformować Waikinga o twoim wyborze. 
+(Możesz przydzielić statek do Wikinga jako pojazd bezpośrednio z opcji podpowiedzi przez kliknięcie prawego przycisku myszy.)
+
+Pożegluj statkiem do wybrzeża Saracenów tak, jakbyś kierował jednym ze swoich Wikingów używając rozkazu "IDŹ DO". 
 </text>
       </lang>
     </block>
@@ -448,6 +569,20 @@ Deine Wikinger waren schon fleißig und haben ein Lagerhaus am Sarazenenufer err
 Entlade die Waren (indem du das Schiff auswählst, die Leertaste und den Button "Alle Waren ausladen" drückst) und treibe mit den Sarazenen Handel!
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+Osiągnąłeś wybrzeże Saracenów.
+Jeśli chcesz podróżować lądem, musisz najpierw ZACUMOWAĆ swój statek, ponieważ jest to jedyny sposób, aby twoi Wikingowie mogli wsiadać i wysiadać ze statku, a także aby załadować i rozładować statek! 
+
+Wybierz statek i wciśnij klawisz SPACJI. Wskazane zostaną dostępne dla statku akcje. Wybierz "Cumowanie" i kliknij prawym przyciskiem myszy na jednym z podświetlonych miejsc na wybrzeżu. 
+To, że statek został przycumowany, możesz zauważyć po jego zwiniętych żaglach.
+
+Statek ma swój własny skład, podobny do tego z kwatery głównej i magazynów, ale nadal w rozumieniu środka transportu - a nie domu. Dlatego też, nie jest możliwe handlowanie bezpośrednio ze statku. Potrzebujesz nieruchomego PUNKTU HANDLOWEGO, np. magazynu.
+
+Twoi Wikingowie byli bardzo zajęci, wybudowali magazyn na wybrzeżu Saracenów.
+Wyładuj towary (wybierając statek, wciskając klawisz spacji i klikając na przycisk "Wyładuj Wszystkie Towary ") i handluj nimi z Saracenami!
+</text>
+      </lang>
     </block>
     <block id="11">
       <lang code="CHN">
@@ -475,6 +610,15 @@ Du hast auch den Handelsvertrag mit den Sarazenen erfüllt und kannst dich jetzt
 Auf zum nächsten Tutorial!
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+FANTASTYCZNIE!
+
+Zrealizowałeś swoje porozumienie handlowe z Saracenami. Możesz się teraz naprawdę uważać za wielkiego kupca.
+
+Przejdź do następnego samouczka!
+</text>
+      </lang>
     </block>
     <block id="12">
       <lang code="CHN">
@@ -498,6 +642,14 @@ Assign the two warehouses to the merchant!
 Weise dem Händler die zwei Lagerhäuser zu!
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+
+Sprawdź, czy przydzieliłeś kupcowi północny magazyn jako punkt handlowy 1, a inny magazyn jako punkt handlowy 2.
+
+Przydziel dwa magazyny do kupca!
+</text>
+      </lang>
     </block>
     <block id="13">
       <lang code="CHN">
@@ -515,6 +667,12 @@ Have one merchant take iron tools to Clayme and Stony's warehouse!
         <text> 
 
 Lasse einen Händler Eisenwerkzeuge zum Lagerhaus von Lehmi und Steini bringen!
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+
+Niech jeden kupiec weźmie metalowe narzędzia do magazynów Clayma i Stoniego!
 </text>
       </lang>
     </block>
@@ -536,6 +694,12 @@ Trade furniture for gold with the Franks.
 Handle bei Franken Möbel gegen Gold. 
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+
+Wymień meble za złoto z Frankami. 
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -551,6 +715,11 @@ TRADE AND SHIPS
       <lang code="ger">
         <text> 
 HANDEL UND SCHIFFFAHRT
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+HANDEL I STATKI 
 </text>
       </lang>
     </block>

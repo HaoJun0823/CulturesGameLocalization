@@ -4,67 +4,80 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@与诸英雄一同抵达通往阿斯加德平原之门！</text>
       <text lang="eng">@Reach the gate to the plains of Asgard with your heroes!</text>
       <text lang="ger">@Erreiche mit den Helden gemeinsam das Tor in die Ebenen Asgards!</text>
+      <text lang="pol">@Udaj się wraz z bohaterami do wejścia Asgardu!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的部族</text>
       <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarnis Stamm</text>
+      <text lang="pol">Plemię Bjarniego</text>
     </string>
     <string id="51">
       <text lang="CHN">幽灵战士</text>
       <text lang="eng">Ghost Warriors</text>
       <text lang="ger">Geisterkrieger</text>
+      <text lang="pol">Duchy wojowników</text>
     </string>
     <string id="52">
       <text lang="CHN">蛇战士</text>
       <text lang="eng">Serpent Warriors</text>
       <text lang="ger">Schlangenkrieger</text>
+      <text lang="pol">Wężołaki</text>
     </string>
     <string id="53">
       <text lang="CHN">狼人战士</text>
       <text lang="eng">Werewolf Warriors</text>
       <text lang="ger">Werwölfkrieger</text>
+      <text lang="pol">Wilkołaki</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="pol">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
       <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
+      <text lang="pol">Hatschi</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="pol">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">伊科尔</text>
       <text lang="eng">Ykol</text>
       <text lang="ger">Ykol</text>
+      <text lang="pol">Ykol</text>
     </string>
     <string id="98">
       <text lang="CHN">海姆达尔吹响号角之时，比弗罗斯特桥不仅为我们开启、由此连通阿斯加德之路，更引发了一场冰风暴，令万物冻结。</text>
       <text lang="eng">When Heimdall blew his horn, the bridge of Bifrost opened the way to Asgard, and an ice storm broke out and froze everything.</text>
       <text lang="ger">Als Heimdall in sein Horn blies, öffnete sich nicht nur die Brücke Bifrost für uns und somit der Weg nach Asgard, sondern ein Eissturm brach los und lies alles gefrieren.</text>
+      <text lang="pol">Gdy Heimdall zadął na rogu, naszym oczom ukazał się most Bifrost. Droga do Asgardu była wolna. I właśnie wtedy zerwała się potężna burza śniegowa, skuwając wszystko lodem.</text>
     </string>
     <string id="99">
       <text lang="CHN">冰之世界</text>
       <text lang="eng">THE ICE WORLD</text>
       <text lang="ger">EISWELT</text>
+      <text lang="pol">LODOWA KRAINA</text>
     </string>
   </strings>
   <briefings>
@@ -89,6 +102,13 @@ Suddenly, an enormous ice storm broke out and froze everything around us. Within
 Als Heimdall in sein Horn blies, öffnete sich nicht nur die Brücke Bifrost für uns und somit der Weg nach Asgard... 
 
 Plötzlich brach auch ein gewaltiger Eissturm los und lies alles um uns herum zu Eis erstarren. Die Umgebung verwandelte sich blitzschnell in eine kalte, harte und grellweiße Welt, so dass unsere Augen geblendet wurden und unsere Glieder schmerzten. 
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+Gdy Heimdall zadął w swój róg, naszym oczom ukazał się most Bifrost. Droga do Asgardu była wolna. I właśnie wtedy...
+
+Nagle zerwała się potężna burza śniegowa, skuwając wszystko wokół nas lodem. Okolica w jednej chwili zamieniła się w zimny i martwy krajobraz. Z wielkim trudem przedzieraliśmy się przez tę niedostępną i oślepiająco białą krainę.
 </text>
       </lang>
     </block>
@@ -139,6 +159,21 @@ Und es stellte sich sehr bald heraus, dass diese raue Eiswelt voller Gefahren st
 Erreiche mit den Helden gemeinsam das Portal in die Ebenen Asgards!
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+Nagle znów pojawił się Ykol! Jakimś sposobem dotarł do wejścia przed nami... Ale gdzie był przez ten cały czas?
+
+Ykol twierdził, że miał ważne sprawy do załatwienia, a teraz powrócił.
+
+Mimo wszelkich wątpliwości, które mnie ogarnęły i budzącej się we mnie nieufności, ucieszyło nas, że w tej mrocznej i niebezpiecznej krainie nic złego mu się nie stało. Uradowaliśmy się również, że odnaleźliśmy wejście do świata bogów.
+
+NIE TAK wyobrażaliśmy sobie Asgard! Wszystko pokryte było warstwą lodu. To była zimna i niegościnna kraina. TUTAJ mieli żyć bogowie? TU mieli pędzić szczęśliwy żywot? TO miał być raj?
+
+Pełni obaw weszliśmy do następnego labiryntu... Już wkrótce okazało się, że ta martwa, lodowa kraina kryła w sobie wiele niebezpieczeństw.
+
+Udaj się wraz z bohaterami do wejścia prowadzącego do Asgardu!
+</text>
+      </lang>
     </block>
     <block id="01_player_1_seen">
       <lang code="CHN">
@@ -161,6 +196,13 @@ The souls of deceased Vikings seemed to dwell in these shells of warriors. We di
 GEISTERKRIEGER 
 
 Die Seelen verstorbener Wikinger schienen in diesen leeren Hüllen der Krieger zu stecken. Uns missfiel es, gegen Soldaten unseres eigenen Volkes kämpfen zu müssen, aber wenn wir ihnen zu nahe kommen würden, ließen sie uns keine andere Wahl!
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+DUCHY WOJOWNIKÓW
+
+Wydawało się, że dusze zmarłych Wikingów tkwią w tych pustych zbrojach wojowników. Nie chcieliśmy walczyć przeciwko wojownikom z naszego plemienia, ale gdyby podeszli do nas zbyt blisko, nie mielibyśmy wyboru!
 </text>
       </lang>
     </block>
@@ -187,6 +229,12 @@ SCHIFF GEFUNDEN!
 Hier in dieser unwirklichen Welt mochte uns dieses Schiff noch einen guten Dienst erweisen. Wenn kein anderer Weg uns weiterführen würde, konnten wir damit den Wasserweg benutzen.
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+ZNALEZIENIE STATKU
+Ten statek może nam się jeszcze przydać. Jeśli nie znajdziemy drogi lądowej, dalszą podróż możemy odbyć statkiem.
+</text>
+      </lang>
     </block>
     <block id="03">
       <lang code="CHN">
@@ -209,6 +257,13 @@ When we activated the switch, a gate opened near us. We had to leave one of our 
 TORE OFFEN! Schalter 1
 
 Als wir den Schalter betätigten, öffnete sich ein Tor in der näheren Umgebung. Wir mussten einen unserer Leute auf dem Schalter zurücklassen, damit sich dieses Tore nicht wieder schloss. 
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+DRZWI OTWARTE! Przycisk 1
+
+Gdy nacisnęliśmy ten przycisk, niedaleko nas otworzyły się drzwi. Zostawiliśmy jednego z naszych ludzi przy przycisku, aby drzwi ponownie się nie zamknęły.
 </text>
       </lang>
     </block>
@@ -234,6 +289,13 @@ TORE OFFEN! Schalter 2
 Als wir den Schalter betätigten, öffnete sich ein Tor in der näheren Umgebung. Wir mussten einen unserer Leute auf dem Schalter zurücklassen, damit sich dieses Tore nicht wieder schloss.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+DRZWI OTWARTE! Przycisk 2
+
+Gdy nacisnęliśmy ten przycisk, niedaleko nas otworzyły się drzwi. Zostawiliśmy jednego z naszych ludzi przy przycisku, aby drzwi ponownie się nie zamknęły.
+</text>
+      </lang>
     </block>
     <block id="05">
       <lang code="CHN">
@@ -255,6 +317,13 @@ When we activated the switch, a gate opened near us. We had to leave one of our 
 TORE OFFEN! Schalter 3
 
 Als wir den Schalter betätigten, öffnete sich ein Tor in der näheren Umgebung. Wir mussten einen unserer Leute auf dem Schalter zurücklassen, damit sich dieses Tore nicht wieder schloss.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+DRZWI OTWARTE! Przycisk 3
+
+Gdy nacisnęliśmy ten przycisk, niedaleko nas otworzyły się drzwi. Zostawiliśmy jednego z naszych ludzi przy przycisku, aby drzwi ponownie się nie zamknęły.
 </text>
       </lang>
     </block>
@@ -280,6 +349,13 @@ TORE OFFEN! Schalter 4
 Als wir den Schalter betätigten, öffnete sich ein Tor in der näheren Umgebung. Wir mussten einen unserer Leute auf dem Schalter zurücklassen, damit sich dieses Tore nicht wieder schloss.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+DRZWI OTWARTE! Przycisk 4
+
+Gdy nacisnęliśmy ten przycisk, niedaleko nas otworzyły się drzwi. Zostawiliśmy jednego z naszych ludzi przy przycisku, aby drzwi ponownie się nie zamknęły.
+</text>
+      </lang>
     </block>
     <block id="07">
       <lang code="CHN">
@@ -303,6 +379,13 @@ TORE OFFEN! Schalter 5
 Als wir den Schalter betätigten, öffnete sich ein Tor in der näheren Umgebung. Wir mussten einen unserer Leute auf dem Schalter zurücklassen, damit sich dieses Tore nicht wieder schloss.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+DRZWI OTWARTE! Przycisk 5
+
+Gdy nacisnęliśmy ten przycisk, niedaleko nas otworzyły się drzwi. Zostawiliśmy jednego z naszych ludzi przy przycisku, aby drzwi ponownie się nie zamknęły.
+</text>
+      </lang>
     </block>
     <block id="08">
       <lang code="CHN">
@@ -324,6 +407,13 @@ When we activated the switch, a gate opened near us. We had to leave one of our 
 TORE OFFEN! Schalter 6
 
 Als wir den Schalter betätigten, öffnete sich ein Tor in der näheren Umgebung. Wir mussten einen unserer Leute auf dem Schalter zurücklassen, damit sich dieses Tore nicht wieder schloss.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+DRZWI OTWARTE! Przycisk 6
+
+Gdy nacisnęliśmy ten przycisk, niedaleko nas otworzyły się drzwi. Zostawiliśmy jednego z naszych ludzi przy przycisku, aby drzwi ponownie się nie zamknęły.
 </text>
       </lang>
     </block>
@@ -361,6 +451,17 @@ MISSION VERLOREN!
 Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+NIEPOWODZENIE MISJI!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Bohaterstwo czy lekkomyślność? Gdy umarł Bjarni, opłakiwali go bogowie... Bez tego bohatera nie dokończysz misji.
+</text>
+      </lang>
     </block>
     <block id="200">
       <lang code="CHN">
@@ -394,6 +495,17 @@ MISSION VERLOREN!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin Cyra erlag durch deine Unachtsamkeit! Ohne diese Heldin wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+NIEPOWODZENIE MISJI!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Chwilowy brak rozwagi i po wszystkim! Twoja przyjaciółka i bohaterka Cyra zginęła z powodu twej lekkomyślności! Bez niej nie uda ci się dokończyć misji.
 </text>
       </lang>
     </block>
@@ -431,6 +543,17 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Hatschi erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+NIEPOWODZENIE MISJI!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Chwilowy brak rozwagi i po wszystkim! Twój przyjaciel i bohater Hatschi zginął z powodu twojej lekkomyślności! Bez niego nie uda ci się dokończyć misji.
+</text>
+      </lang>
     </block>
     <block id="400">
       <lang code="CHN">
@@ -464,6 +587,17 @@ MISSION VERLOREN!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Sigurd erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+NIEPOWODZENIE MISJI!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Chwilowy brak rozwagi i po wszystkim! Sigurd zginął z powodu twej lekkomyślności! Bez niego nie uda ci się dokończyć misji.
 </text>
       </lang>
     </block>
@@ -501,6 +635,17 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Ykol erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+NIEPOWODZENIE MISJI!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Chwilowy brak rozwagi i po wszystkim! Ykol zginął z powodu twej lekkomyślności! Bez niego nie uda ci się dokończyć misji.
+</text>
+      </lang>
     </block>
     <block id="50_end">
       <lang code="CHN">
@@ -519,6 +664,11 @@ At the end of the huge labyrinth stood a mighty portal, nearly untouched by the 
 Ein großes Portal stand stolz und nahezu unberührt vom Eis am Ende des verwinkelten Labyrinths. Es schillerte in allen erdenklichen Farben, und als wir hindurch schritten, breitete sich vor uns eine wunderbare Ebene aus, an deren Existenz wir schon nicht mehr geglaubt hatten. Voller Ehrfurcht knieten wir nieder...
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+Na końcu zawiłego labiryntu znajdował się ogromny lodowy portal, który mienił się wszelkimi możliwymi kolorami. Gdy przeszliśmy przez portal, naszym oczom ukazał się wspaniały widok: przed nami rozpościerała się cudowna równina, w której istnienie przestaliśmy już wierzyć. Przepełnieni uczuciem zachwytu i czci, padliśmy na kolana...
+</text>
+      </lang>
     </block>
     <block id="50_end1">
       <lang code="CHN">
@@ -535,6 +685,11 @@ A majestic staircase wound around a rise. THIS had to be the realm of the gods! 
       <lang code="ger">
         <text> 
 Um eine Anhöhe wand sich eine majestätische Treppe. DIES musste das Reich der Götter sein! Und wir waren nur noch einige hundert Treppenstufen davon entfernt ...
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+Wokół wzniesienia wiły się monumentalne schody. TAM musiała być kraina bogów! A nas dzieliło od niej tylko kilkaset stopni...
 </text>
       </lang>
     </block>
@@ -556,6 +711,12 @@ MISSION COMPLETED!
 MISSION GEWONNEN! 
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+
+MISJA ZAKOŃCZONA POMYŚLNIE!
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -573,6 +734,12 @@ THE ICE WORLD
         <text> 
 
 EISWELT
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+
+LODOWA KRAINA 
 </text>
       </lang>
     </block>

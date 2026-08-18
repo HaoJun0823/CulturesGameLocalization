@@ -4,62 +4,74 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">经济：寒冬降临</text>
       <text lang="eng">ECONOMY: WINTER IS HERE</text>
       <text lang="ger">Wirtschaft: WINTEREINBRUCH</text>
+      <text lang="pol">EKONOMIA: NADESZŁA ZIMA</text>
     </string>
     <string id="1">
       <text lang="CHN">4 个部族比邻而居，一同为漫长寒冬做准备。外交与贸易关系，全由你一人决断！</text>
       <text lang="eng">4 tribes live together peacefully and prepare for the long winter. You alone can determine their diplomatic and trade relations!</text>
       <text lang="ger">4 Stämme leben gemeinsam nebeneinander und bereiten sich auf den langen Winter vor. Über Diplomatie- und Handelsbeziehungen entscheidest allein du!</text>
+      <text lang="pol">4 plemiona żyją razem spokojnie i przygotowują się do długiej zimy. Ty sam możesz określić ich wzajemne relacje handlowe i dyplomatyczne!</text>
     </string>
     <string id="2">
       <text lang="CHN">赚取 80 枚金币、25 把长剑、50 份大份食物饮料，并存入你的某个仓库。与其他部族贸易或交战，悉听尊便。最先在仓库集齐资源的部族获胜……</text>
       <text lang="eng">Gather 80 coins, 25 longswords and 50 big nourishing potions and take them to one of your warehouses. You can choose to either trade with the other tribes or fight them. The first tribe to accumulate all the resources wins ...</text>
       <text lang="ger">Erwirtschafte 80 Münzen, 25 Langschwerter, 50 große Nahrungstränke und bringe sie in eines deiner Lager. Der Handel mit den anderen Stämmen oder die Bekämpfung dergleichen ist dir freigestellt. Der Stamm, welcher zuerst die Rohstoffe im Lager hat, gewinnt...</text>
+      <text lang="pol">Zbierz 80 monet, 25 długich mieczy i 50 dużych napojów wzmacniejących i zabierz je do jednego z twoich magazynów. Możesz wybrać handel lub walkę z pozostałymi plemionami. Plemię, które jako pierwsze zbierze wszystkie te surowce wygrywa ...</text>
     </string>
     <string id="10">
       <text lang="CHN">斯库兰人</text>
       <text lang="eng">Skoilanders</text>
       <text lang="ger">Skoiländer</text>
+      <text lang="pol">Skoilanders</text>
     </string>
     <string id="11">
       <text lang="CHN">斯库兰人</text>
       <text lang="eng">Skoilanders</text>
       <text lang="ger">Skoiländer</text>
+      <text lang="pol">Skoilanders</text>
     </string>
     <string id="20">
       <text lang="CHN">文兰人</text>
       <text lang="eng">Vinlanders</text>
       <text lang="ger">Vinländer</text>
+      <text lang="pol">Vinlanders</text>
     </string>
     <string id="21">
       <text lang="CHN">文兰人</text>
       <text lang="eng">Vinlanders</text>
       <text lang="ger">Vinländer</text>
+      <text lang="pol">Vinlanders</text>
     </string>
     <string id="30">
       <text lang="CHN">布尔兰人</text>
       <text lang="eng">Burlanders</text>
       <text lang="ger">Burländer</text>
+      <text lang="pol">Burlanders</text>
     </string>
     <string id="31">
       <text lang="CHN">布尔兰人</text>
       <text lang="eng">Burlanders</text>
       <text lang="ger">Burländer</text>
+      <text lang="pol">Burlanders</text>
     </string>
     <string id="40">
       <text lang="CHN">科兰人</text>
       <text lang="eng">Koalanders</text>
       <text lang="ger">Koaländer</text>
+      <text lang="pol">Koalanders</text>
     </string>
     <string id="41">
       <text lang="CHN">科兰人</text>
       <text lang="eng">Koalanders</text>
       <text lang="ger">Koaländer</text>
+      <text lang="pol">Koalanders</text>
     </string>
   </strings>
   <briefings>
@@ -99,6 +111,19 @@ Vor dem Winter gibt es noch allerhand zu tun: Es gilt also, bestimmte Rohstoffe 
 Das Volk, welches am schnellsten alle benötigten Waren im Lager hat, gewinnt.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Jest to początek nowej ery. Cztery plemiona Wikingów postawiły swoje domy na rozległym obszarze. Jest tu wystarczająco dużo miejsca i surowców dla każdego. 
+Plemiona żyją w pokojowej koegzystencji i nie mają żadnego powodu, aby walczyć pomiędzy sobą ... 
+
+Zanim nastanie mroźna zima, będziesz miał do wykonania mnóstwo prac: Musisz zebrać pewne surowce, by wyprodukować następujące towary:
+80 monet
+25 długich mieczy
+50 dużych napojów wzmacniających
+
+Plemię, które jako pierwsze zgromadzi wszystkie wymagane towary - wygrywa.
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -117,6 +142,13 @@ WINTER IS HERE
         <text>
 
 WINTEREINBRUCH
+
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+NADESZŁA ZIMA
 
 </text>
       </lang>

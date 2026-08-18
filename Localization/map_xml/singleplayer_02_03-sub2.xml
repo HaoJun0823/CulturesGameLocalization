@@ -4,62 +4,74 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">击败秘藏守护者的士兵！</text>
       <text lang="eng">Defeat the soldiers of the Keepers of Knowledge!</text>
       <text lang="ger">Besiege die Soldaten der Hüter des Geheimnisses!</text>
+      <text lang="pol">Pokonaj żołnierzy strażników wiedzy!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="51">
       <text lang="CHN">守护者</text>
       <text lang="eng">Keepers</text>
       <text lang="ger">Hüter</text>
+      <text lang="pol">Strażnicy</text>
     </string>
     <string id="52">
       <text lang="CHN">守护者首领</text>
       <text lang="eng">Keepers' Leader</text>
       <text lang="ger">Anführer der Hüter</text>
+      <text lang="pol">Przywódca strażników</text>
     </string>
     <string id="57">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="58">
       <text lang="CHN">守护者士兵</text>
       <text lang="eng">Keepers' Soldiers</text>
       <text lang="ger">Soldaten der Hüter</text>
+      <text lang="pol">Żołnierze strażników</text>
     </string>
     <string id="59">
       <text lang="CHN">首领</text>
       <text lang="eng">Keepers' Leader</text>
       <text lang="ger">Anführer</text>
+      <text lang="pol">Przywódca</text>
     </string>
     <string id="61">
       <text lang="CHN">近卫</text>
       <text lang="eng">Bodyguard</text>
       <text lang="ger">Leibgarde</text>
+      <text lang="pol">Straż przyboczna</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">守护者首领</text>
       <text lang="eng">Keepers' Leader</text>
       <text lang="ger">Anführer der Hüter</text>
+      <text lang="pol">Przywódca strażników</text>
     </string>
     <string id="99">
       <text lang="CHN">最后的决斗</text>
       <text lang="eng">THE LAST DUEL</text>
       <text lang="ger">DER LETZTE ZWEIKAMPF</text>
+      <text lang="pol">OSTATNI POJEDYNEK</text>
     </string>
   </strings>
   <briefings>
@@ -95,6 +107,17 @@ Die Hüter des Wissens hüteten wirklich ein äußerst gefährliches Geheimnis .
 Dies sollte das letzte Mal sein, dass ich mich auf einen Kampf einließe, ansonsten müsste ich mir etwas anderes einfallen lassen!
 
 Ich würde mich also erneut mit dem Anführer in der Mitte des Schlachtfeldes treffen...
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Znów znajdowałem się na polu walki, chociaż wcale tego nie pragnąłem.
+
+Strażnicy wiedzy rzeczywiście strzegli niezwykle niebezpiecznej tajemnicy... Ale wkrótce zacząłem żałować, że zgodziłem się na ich propozycję. Wciąż musiałem walczyć, gdyż strażnicy nikogo innego nie chcieli wpuścić do swej wioski.
+
+Ostatni raz zgodziłem się na walkę, następnym razem muszę znaleźć inne rozwiązanie!
+
+A więc miałem się ponownie spotkać w samym środku pola walki z dowódcą strażników...
 </text>
       </lang>
     </block>
@@ -137,6 +160,18 @@ Du hast wahrlich schon viele unserer Kämpfer besiegt, aber dich zu prüfen hat 
 Lass uns nun unsere Posten beziehen!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+DOWÓDCA
+
+Nasz naczelnik mianował mnie nowym dowódcą, a moim obowiązkiem jest nie ułatwiać ci zadania! Oto twoje wojska. Użyj ich najlepiej jak umiesz.
+
+Wprawdzie pokonałeś już wielu naszych wojowników, ale to jeszcze nie koniec próby! Udowodnij, że wart jesteś tak wielu ofiar - albo to będzie twój koniec!
+
+Niech wojska zajmą stanowiska!
+</text>
+      </lang>
     </block>
     <block id="begin_02">
       <lang code="CHN">
@@ -177,6 +212,19 @@ Ich war mir nun nicht mehr so sicher, was das größere Übel gewesen wäre...
 Voller Zwiespalt trat ich erneut vor den Anführer der Hüter und hoffte, meine Prüfung damit endlich bestanden zu haben.
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+ZWYCIĘSTWO!
+
+Również tym razem odnieśliśmy zwycięstwo! Tak wiele ludzi straciło życie tylko po to, aby poddać mnie próbie...
+Ale gdybym nie walczył, tajemnicza mgła pochłonęłaby kolejne ofiary...
+
+Teraz nie byłem już pewny, co byłoby większym złem...
+
+Z rozdartym sercem ponownie stanąłem przed dowódcą strażników wiedzy. Miałem nadzieję, że pomyślnie przeszedłem próbę.
+</text>
+      </lang>
     </block>
     <block id="begin_03">
       <lang code="CHN">
@@ -208,6 +256,16 @@ All die Opfer waren umsonst! Du bist nicht würdig, unser Geheimnis kennen zu le
 Holt euch diesen Schurken!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+PORAŻKA!
+
+Wszystkie te ofiary były niepotrzebne! Nie zasługujesz na nasze zaufanie!
+
+Zabierzcie tego niegodziwca!
+</text>
+      </lang>
     </block>
     <block id="begin_04">
       <lang code="CHN">
@@ -233,6 +291,14 @@ DER KAMPF BEGINNT!
 Als wir unsere Positionen erreicht hatten, konnte die Schlacht beginnen. Die Soldaten würden mir sicher treu gehorchen. Und so wurde der Kampf auf mein Zeichen hin eröffnet...
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+ROZPOCZĘCIE WALKI
+
+Zajęliśmy pozycje. Byłem pewien, że moi żołnierze będą walczyć z oddaniem. Na mój znak rozpoczęła się walka...
+</text>
+      </lang>
     </block>
     <block id="begin_05">
       <lang code="CHN">
@@ -248,6 +314,11 @@ Take him away!
       <lang code="ger">
         <text>
 Abführen!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Wyprowadzić!
 </text>
       </lang>
     </block>
@@ -268,6 +339,13 @@ THE LAST DUEL
         <text>
 
 DER LETZTE ZWEIKAMPF
+
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+OSTATNI POJEDYNEK
 
 </text>
       </lang>

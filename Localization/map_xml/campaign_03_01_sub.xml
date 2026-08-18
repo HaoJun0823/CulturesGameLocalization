@@ -4,62 +4,74 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@寻得圣火！</text>
       <text lang="eng">@FIND THE HOLY FIRE!</text>
       <text lang="ger">@SUCHE DAS HEILIGE FEUER!</text>
+      <text lang="pol">@ZNAJDŹ ŚWIĘTY OGIEŃ!</text>
     </string>
     <string id="1">
       <text lang="CHN">设法打开闸门！</text>
       <text lang="eng">Find a way to open the gate!</text>
       <text lang="ger">Finde eine Möglichkeit das Tor zu öffnen!</text>
+      <text lang="pol">Znajdź sposób, aby otworzyć bramę!</text>
     </string>
     <string id="56">
       <text lang="CHN">山地部族矿工</text>
       <text lang="eng">Mountain Tribe Workers</text>
       <text lang="ger">Bergvolkarbeiter</text>
+      <text lang="pol">Górskie Plemię Robotników </text>
     </string>
     <string id="57">
       <text lang="CHN">守卫</text>
       <text lang="eng">Guards</text>
       <text lang="ger">Wachen</text>
+      <text lang="pol">Strażnicy</text>
     </string>
     <string id="66">
       <text lang="CHN">工人</text>
       <text lang="eng">Workers</text>
       <text lang="ger">Arbeiter</text>
+      <text lang="pol">Robotnicy</text>
     </string>
     <string id="67">
       <text lang="CHN">守卫</text>
       <text lang="eng">Guards</text>
       <text lang="ger">Wachen</text>
+      <text lang="pol">Strażnicy</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="pol">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
       <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
+      <text lang="pol">Hatchie</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="pol">Sigurd</text>
     </string>
     <string id="99">
       <text lang="CHN">圣火</text>
       <text lang="eng">THE HOLY FIRE</text>
       <text lang="ger">DAS HEILIGE FEUER</text>
+      <text lang="pol">ŚWIĘTY OGIEŃ</text>
     </string>
   </strings>
   <briefings>
@@ -95,6 +107,17 @@ Tief unten im Bergstollen war von der unbarmherzigen Hitze der Wüste kaum etwas
 Modriger Geruch durchdrang unsere Lungen und aus der nahen Umgebung hörten wir den schallenden Hammerschlag der Bergarbeiter. Wo nur mochten sie das heilige Feuer aufbewahren?
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+Daleko w głębi tunelu, bezlitosny żar pustyni jest z ledwością odczuwalny.
+
+</text>
+        <usericon>1,38,49</usericon>
+        <text>
+
+Stęchłe powietrze przenika do naszych płuc, a gdzieś w pobliżu słyszymy budzące echa uderzenia górniczych młotów. Ale gdzie oni trzymają Święty Ogień?
+</text>
+      </lang>
     </block>
     <block id="00_start1">
       <lang code="CHN">
@@ -113,6 +136,11 @@ Find the Holy Fire.
       <lang code="ger">
         <text> 
 Suche das Heilige Feuer.
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+Znajdź Święty Ogień.
 </text>
       </lang>
     </block>
@@ -139,6 +167,13 @@ MOUNTAIN PEOPLE
 BERGVOLK
 
 "Hey, ihr da! Wer hat euch den Zutritt in unsere Bergwerke gestattet?"
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+LUDZIE GÓR
+
+"Hej, wy! Kto pozwolił wam wkroczyć do naszych kopalń?"
 </text>
       </lang>
     </block>
@@ -168,6 +203,15 @@ WORKER
 ARBEITER
 
 "Tut uns nichts! Wir gehen hier doch nur unserer Arbeit nach und wissen kaum, was oberhalb des Bergwerkes geschieht!" 
+
+</text>
+        <usericon>1,23,62</usericon>
+      </lang>
+      <lang code="pol">
+        <text> 
+ROBOTNIK
+
+"Nie krzywdź nas! Wykonujemy tylko swoją pracę i niewiele wiemy, co się dzieje na górze!" 
 
 </text>
         <usericon>1,23,62</usericon>
@@ -210,6 +254,17 @@ Der Zugang zu dem Tor ist dir noch verwehrt!
 Finde eine Möglichkeit, das Tor zu öffnen!
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+Wejście do bramy jest nadal zablokowane!
+
+</text>
+        <usericon>1,121,52</usericon>
+        <text>
+
+Znajdź sposób, aby otworzyć bramę!
+</text>
+      </lang>
     </block>
     <block id="04">
       <lang code="CHN">
@@ -231,6 +286,13 @@ Your Vikings may now pass the gate! But beware of the guards of the Holy Fire wh
       <lang code="ger">
         <text> 
 Deine Wikinger dürfen das Tor nun passieren! Doch hüte dich vor den Wächtern des heiligen Feuers, die sich hinter dem Tor verbergen!
+
+</text>
+        <usericon>1,121,52</usericon>
+      </lang>
+      <lang code="pol">
+        <text> 
+Twoi Wikingowie mogą przejść przez bramę! Ale strzeż się strażników Świętego Ognia, którzy ukrywają się za bramą!
 
 </text>
         <usericon>1,121,52</usericon>
@@ -279,6 +341,19 @@ Eine seltsame Magie umgab diesen Ort...
 All unsere Männer fühlten sich wie neu geboren!
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+ENERGIA ŻYCIOWA
+
+Dziwna magia otacza to miejsce ... 
+
+</text>
+        <usericon>1,96,77</usericon>
+        <text>
+
+Wszyscy nasi ludzie czują się, jak gdyby narodzili się na nowo!
+</text>
+      </lang>
     </block>
     <block id="100">
       <lang code="CHN">
@@ -318,6 +393,17 @@ MISSION VERLOREN!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+ZADANIE NIEWYKONANE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroizm czy beztroska? Gdy Bjarni umarł, bogowie płakali ... bez tego bohatera, cel misji pozostanie dla ciebie nieosiągalny!
 </text>
       </lang>
     </block>
@@ -361,6 +447,17 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+ZADANIE NIEWYKONANE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Krótka chwila niedbalstwa, tyle tylko trzeba, żebyś stracił życie! Twoja bohaterka CYRA zginęła z powodu twojego niedbalstwa! Bez tej bohaterki, cel misji pozostanie dla ciebie nieosiągalny! 
+</text>
+      </lang>
     </block>
     <block id="300">
       <lang code="CHN">
@@ -400,6 +497,17 @@ MISSION VERLOREN!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held HATSCHI erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+ZADANIE NIEWYKONANE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Krótka chwila niedbalstwa, tyle tylko trzeba, żebyś stracił życie! Twój przyjaciel i bohater HATCHIE zginął z powodu twojego niedbalstwa! Bez tego bohatera, cel misji pozostanie dla ciebie nieosiągalny! 
 </text>
       </lang>
     </block>
@@ -443,6 +551,17 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held SIGURD erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+ZADANIE NIEWYKONANE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Krótka chwila niedbalstwa, tyle tylko trzeba, żebyś stracił życie! Twój przyjaciel i bohater SIGURD zginął z powodu twojego niedbalstwa! Bez tego bohatera, cel misji pozostanie dla ciebie nieosiągalny! 
+</text>
+      </lang>
     </block>
     <block id="50_end">
       <lang code="CHN">
@@ -468,11 +587,19 @@ Endlich hatten wir das Feuer für den Leuchtturm von Pharos zurückerobert. Das 
 </text>
         <usericon>1,137,14</usericon>
       </lang>
+      <lang code="pol">
+        <text> 
+Ostatecznie znaleźliśmy ogień do Latarni. Saraceni dali nam nieźle w kość.
+
+</text>
+        <usericon>1,137,14</usericon>
+      </lang>
     </block>
     <block id="50_end1">
       <lang code="CHN" />
       <lang code="eng" />
       <lang code="ger" />
+      <lang code="pol" />
     </block>
     <block id="50_endheader">
       <lang code="CHN">
@@ -493,6 +620,11 @@ MISSION COMPLETED!
 MISSION GEWONNEN! 
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+ZADANIE WYKONANE! 
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -511,6 +643,11 @@ THE HOLY FIRE
       <lang code="ger">
         <text> 
 DAS HEILIGE FEUER
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+ŚWIĘTY OGIEŃ
 </text>
       </lang>
     </block>

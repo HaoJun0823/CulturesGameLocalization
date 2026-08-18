@@ -4,57 +4,68 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@解答神谕者的谜题！</text>
       <text lang="eng">@Answer the oracle!</text>
       <text lang="ger">@Löse das Orakel!</text>
+      <text lang="pol">@Rozwiąż zagadki wyroczni!</text>
     </string>
     <string id="1">
       <text lang="CHN">寻找一处登陆点！</text>
       <text lang="eng">Find a landing place!</text>
       <text lang="ger">Suche einen Landeplatz!</text>
+      <text lang="pol">Poszukaj miejsca na przybicie do brzegu!</text>
     </string>
     <string id="2">
       <text lang="CHN">探查这片区域！</text>
       <text lang="eng">Explore your surroundings!</text>
       <text lang="ger">Erforsche die Gegend!</text>
+      <text lang="pol">Zbadaj okolicę!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的部族</text>
       <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarni's Stamm</text>
+      <text lang="pol">Plemię Bjarniego</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="pol">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
       <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
+      <text lang="pol">Hatschi</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="pol">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">伊科尔</text>
       <text lang="eng">Ykol</text>
       <text lang="ger">Ykol</text>
+      <text lang="pol">Ykol</text>
     </string>
     <string id="99">
       <text lang="CHN">沉默者之岛 - 芬里尔之链 - 支线2</text>
       <text lang="eng">THE ISLAND OF THE SILENT - The Chain of Fenrir - Sub2</text>
       <text lang="ger">INSEL DER SCHWEIGSAMEN - Die Kette des Fenris - Sub2</text>
+      <text lang="pol">WYSPA MILCZĄCYCH - ŁAŃCUCH FENRISA</text>
     </string>
   </strings>
   <briefings>
@@ -72,6 +83,11 @@ When the fog cleared, the shore of a small island appeared before us.
       <lang code="ger">
         <text>
 Als sich der Nebel lichtete, tauchte vor uns das Ufer einer kleinen verträumten Insel auf. 
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gdy opadła mgła, naszym oczom ukazał się brzeg niewielkiej wyspy.
 </text>
       </lang>
     </block>
@@ -97,6 +113,13 @@ Dies war ein Platz, der für andere Wesen gemacht war, seine Ruhe und Harmonie e
 Suche einen Landeplatz! 
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+Na wyspie stworzonej dla istot innych niż człowiek, panował całkowity spokój i harmonia, co dla nas, ludzi było zjawiskiem zupełnie obcym, ale fascynującym...
+
+Znajdź dogodne miejsce na zawinięcie do brzegu!
+</text>
+      </lang>
     </block>
     <block id="01_landed">
       <lang code="CHN">
@@ -118,6 +141,13 @@ Moor the ship and let your people explore the area!
 Die Ufer der Insel boten gute Landemöglichkeiten, und so suchten wir uns eine kleine Bucht im Westen, um die Insel zu betreten. Alles war sehr ruhig und friedlich, ein unausgesprochener Zauber lag auf diesem Ort...
 
 Docke das Schiff an und lass die Leute von Bord gehen, um die Gegend zu erforschen!
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+Wpłynęliśmy do niewielkiej zatoki na zachodzie i tam rzuciliśmy kotwicę. Panował tu niezmącony spokój i cisza. To miejsce miało niepowtarzalny urok.
+
+Zawiń do brzegu i każ swym ludziom zejść na ląd w celu zbadania okolicy!
 </text>
       </lang>
     </block>
@@ -154,6 +184,17 @@ Alles war wie in einem Traum - wir verstanden jedes ihrer Worte, ohne der Sprach
 Löse das Orakel!
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+
+JEDNOROŻEC
+
+Na polanie spotkaliśmy przecudnej urody istotę. Jej jasność i blask raziły nas w oczy. Był to jednorożec. Powitał nas spokojnym, przyjaznym głosem i dał do zrozumienia, że podaruje nam jeden z magicznych rogów, jeśli rozwiążemy zagadkę.
+To było niesamowite spotkanie - rozumieliśmy każde słowo jednorożca, mimo że nie znaliśmy języka, w którym do nas przemawiał...
+
+Rozwiąż zagadkę wyroczni!
+</text>
+      </lang>
     </block>
     <block id="03_besetzt">
       <lang code="CHN">
@@ -169,6 +210,12 @@ You have to leave the switches, otherwise the unicorn will remain silent!
       <lang code="ger">
         <text> 
 Du musst von den Schaltern herunter gehen, sonst schweigt das Einhorn!
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+
+Musisz zwolnić przyciski, w przeciwnym razie jednorożec będzie milczał.
 </text>
       </lang>
     </block>
@@ -194,6 +241,13 @@ The unicorn said: "To answer my riddle, just step on one of the three switches. 
 "Hier seht ihr SCHALTER A"
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+"Aby odpowiedzieć na moje pytania" mówił jednorożec "udajcie się do jednego z trzech przycisków. Dobrze zapamiętajcie ich oznaczenia! Jeśli nie rozwiążecie zagadki, będziecie musieli jeszcze raz przybyć na wyspę!"
+
+"Tu znajduje się PRZYCISK A"
+</text>
+      </lang>
     </block>
     <block id="05_erklärung2">
       <lang code="CHN">
@@ -212,6 +266,12 @@ The unicorn said: "To answer my riddle, just step on one of the three switches. 
         <text>
 
 "Hier seht ihr SCHALTER B"
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+"Tu znajduje się PRZYCISK B"
 </text>
       </lang>
     </block>
@@ -238,6 +298,14 @@ There are three possible answers to each of my riddles. But only one of them is 
 "Und das ist SCHALTER C" 
 
 Auf jedes meiner Rätsel gibt es 3 mögliche Antworten, aber nur eine davon ist richtig. Antwortet mir, indem ihr den entsprechenden Schalter betätigt! Seid ihr bereit für dieses Rätsel?" 
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+"A to jest PRZYCISK C" 
+
+Na każdą z moich zagadek możliwe są trzy odpowiedzi, ale tylko jedna jest prawidłowa. Aby udzielić odpowiedzi, należy nacisnąć odpowiedni przycisk! Jesteście gotowi?"
 </text>
       </lang>
     </block>
@@ -275,6 +343,17 @@ MISSION VERLOREN!
 Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+NIEPOWODZENIE MISJI!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Bohaterstwo czy lekkomyślność? Gdy umarł Bjarni, opłakiwali go bogowie... Bez tego bohatera nie dokończysz misji.
+</text>
+      </lang>
     </block>
     <block id="10_frage3">
       <lang code="CHN">
@@ -310,6 +389,17 @@ B) Erick Gunnarson
 C) Leif Erickson
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+ZAGADKA 3
+
+"Czyim synem jest Bjarni?"
+
+A) Snooriego Sturlarsona
+B) Ericka Gunnarsona
+C) Leifa Ericksona
+</text>
+      </lang>
     </block>
     <block id="11_right">
       <lang code="CHN">
@@ -328,6 +418,12 @@ CORRECT!!
         <text> 
 
 RICHTIG!!
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+
+PRAWIDŁOWA ODPOWIEDŹ!
 </text>
       </lang>
     </block>
@@ -365,6 +461,17 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin Cyra erlag durch deine Unachtsamkeit! Ohne diese Heldin wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+NIEPOWODZENIE MISJI!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Chwilowy brak rozwagi i po wszystkim! Cyra zginęła z powodu twojej lekkomyślności! Bez niej nie dokończysz misji.
+</text>
+      </lang>
     </block>
     <block id="300">
       <lang code="CHN">
@@ -398,6 +505,17 @@ MISSION VERLOREN!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Hatschi erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+NIEPOWODZENIE MISJI!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Chwilowy brak rozwagi i po wszystkim! Twój przyjaciel i bohater Hatschi zginął z powodu twojej lekkomyślności! Bez niego nie uda ci się dokończyć misji.
 </text>
       </lang>
     </block>
@@ -435,6 +553,17 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Sigurd erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+NIEPOWODZENIE MISJI!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Chwilowy brak rozwagi i po wszystkim! Sigurd zginął z powodu twej lekkomyślności! Bez niego nie uda ci się dokończyć misji.
+</text>
+      </lang>
     </block>
     <block id="500">
       <lang code="CHN">
@@ -470,6 +599,17 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Ykol erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+NIEPOWODZENIE MISJI!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Chwilowy brak rozwagi i po wszystkim! Ykol zginął z powodu twojej lekkomyślności! Bez niego nie uda ci się dokończyć misji.
+</text>
+      </lang>
     </block>
     <block id="50_end">
       <lang code="CHN">
@@ -487,6 +627,11 @@ We had solved the riddles. The being gave us a horn which contained all the magi
 Wir hatten die Rätsel richtig beantwortet und erhielten von dem Wesen ein Horn, das all die magischen Fähigkeiten der Einhörner in sich barg.   
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+Rozwiązaliśmy zagadkę wyroczni i otrzymaliśmy róg kryjący w sobie wszystkie magiczne zdolności jednorożców.
+</text>
+      </lang>
     </block>
     <block id="50_end1">
       <lang code="CHN">
@@ -502,6 +647,11 @@ Now we had found the second magic component, and we could return to the abbey. M
       <lang code="ger">
         <text> 
 Somit war auch die zweite magische Ingredienz gefunden und wir konnten uns zurück zur Abtei begeben. Weitere spannende Abenteuer würden uns noch auf unserer Mission erwarten....
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+Tym samym zdobyliśmy drugi magiczny element łańcucha i mogliśmy udać się w drogę powrotną do opactwa. Podczas naszej misji czekały nas kolejne przygody...
 </text>
       </lang>
     </block>
@@ -522,6 +672,12 @@ MISSION COMPLETED!
         <text> 
 
 MISSION GEWONNEN! 
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+
+MISJA ZAKOŃCZONA POMYŚLNIE!
 </text>
       </lang>
     </block>
@@ -545,6 +701,13 @@ Wrong answer!
 MÖP!
 
 Falsche Antwort!
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+Niestety!
+ 
+Błędna odpowiedź!
 </text>
       </lang>
     </block>
@@ -582,6 +745,17 @@ B) Beduinenschaukler
 C) Fladenscheißer
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+ZAGADKA 1
+
+"Jaki przydomek ma wielbłąd?" 
+
+A) okręt pustyni
+B) beduińska huśtawka 
+C) garbus
+</text>
+      </lang>
     </block>
     <block id="9_frage2">
       <lang code="CHN">
@@ -617,6 +791,17 @@ B) 6
 C) 5
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+ZAGADKA 2
+
+"Ile koźlątek pożarł zły wilk?"
+
+A) 7
+B) 6 
+C) 5
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -639,6 +824,12 @@ THE ISLAND OF THE SILENT
 
 INSEL DER SCHWEIGSAMEN
 
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+WYSPA MILCZĄCYCH
 </text>
       </lang>
     </block>

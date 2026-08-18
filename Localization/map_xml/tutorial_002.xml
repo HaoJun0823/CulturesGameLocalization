@@ -4,77 +4,92 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">赋予比约恩新的身份！让他成为渔夫。</text>
       <text lang="eng">Give Bjoern a new identity! Make him a fisherman.</text>
       <text lang="ger">Gib Bjoern eine neue Identität! Mach ihn zum Fischer.</text>
+      <text lang="pol">Nadaj Bjoernowi nową tożsamość! Zrób z niego rybaka.</text>
     </string>
     <string id="1">
       <text lang="CHN">将渔夫派往拉格纳处。</text>
       <text lang="eng">Send the fisherman to Ragna.</text>
       <text lang="ger">Schicke den Fischer zu Ragna.</text>
+      <text lang="pol">Wyślij rybaka do Ragny.</text>
     </string>
     <string id="2">
       <text lang="CHN">让渔夫与拉格纳成婚，并使他们同居一屋。</text>
       <text lang="eng">Marry the fisherman to Ragna and have them live together in a dwelling.</text>
       <text lang="ger">Verheirate den Fischer mit Ragna und lasse sie zusammen in einem Haus wohnen.</text>
+      <text lang="pol">Ożeń rybaka z Ragną i umieść ich we wspólnym domu.</text>
     </string>
     <string id="3">
       <text lang="CHN">让这对夫妇生养一个孩子。</text>
       <text lang="eng">Tell the couple to have a child.</text>
       <text lang="ger">Lass das Ehepaar ein Kind bekommen.</text>
+      <text lang="pol">Namów parę na posiadanie dziecka.</text>
     </string>
     <string id="4">
       <text lang="CHN">指挥你的英雄击退那些恶狼！</text>
       <text lang="eng">Fight the wolves with your hero!</text>
       <text lang="ger">Bekämpfe mit deinem Held die Wölfe!</text>
+      <text lang="pol">Walcz swoim bohaterem z wilkami!</text>
     </string>
     <string id="71">
       <text lang="CHN">霍尔多尔</text>
       <text lang="eng">Halldor</text>
       <text lang="ger">Halldor</text>
+      <text lang="pol">Halldor</text>
     </string>
     <string id="72">
       <text lang="CHN">贡希尔德</text>
       <text lang="eng">Gunnhild</text>
       <text lang="ger">Gunnhild</text>
+      <text lang="pol">Gunnhild</text>
     </string>
     <string id="73">
       <text lang="CHN">格里姆希尔德</text>
       <text lang="eng">Grimmhild</text>
       <text lang="ger">Grimmhild</text>
+      <text lang="pol">Grimmhild</text>
     </string>
     <string id="74">
       <text lang="CHN">卡尔夫</text>
       <text lang="eng">Kalf</text>
       <text lang="ger">Kalf</text>
+      <text lang="pol">Kalf</text>
     </string>
     <string id="75">
       <text lang="CHN">拉格纳</text>
       <text lang="eng">Ragna</text>
       <text lang="ger">Ragna</text>
+      <text lang="pol">Ragna</text>
     </string>
     <string id="76">
       <text lang="CHN">比约恩</text>
       <text lang="eng">Bjoern</text>
       <text lang="ger">Bjoern</text>
+      <text lang="pol">Bjoern</text>
     </string>
     <string id="77">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="98">
       <text lang="CHN">你的每一位维京人都独一无二！此处将为你详述单个角色的独特能力。</text>
       <text lang="eng">Each of your Vikings is a unique individual! Here you will discover the skills of an individual character.</text>
       <text lang="ger">Jeder deiner Wikinger ist einzigartig! Hier werden dir die individuellen Fähigkeiten einer einzelnen Figur näher gebracht.</text>
+      <text lang="pol">Każdy z Twoich Wikingów jest unikalną postacią! Tutaj odkryjesz umiejętności poszczególnych postaci.</text>
     </string>
     <string id="99">
       <text lang="CHN">2) 每一位维京人都独一无二！</text>
       <text lang="eng">2) EVERY VIKING IS UNIQUE!</text>
       <text lang="ger">2) JEDER WIKINGER IST EINZIGARTIG!</text>
+      <text lang="pol">2) KAŻDY WIKING JEST UNIKALNY!</text>
     </string>
   </strings>
   <briefings>
@@ -121,6 +136,20 @@ Hier werden dir die individuellen Fähigkeiten und Attribute einer einzelnen Fig
 ... denn jeder deiner Wikinger ist einzigartig! ... aber alle sind sie von Natur aus etwas störrisch! ;0)
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+Tutaj zostaniesz poinformowany o indywidualnych umiejętnościach i cechach postaci, takich jak:
+-	imię,
+-	wiedza, 
+-	zawód, 
+-	stan małżeński,
+-	grupa społeczna,
+-	energia życiowa i potrzeby, 
+-	charakterystyki bohatera ...
+
+ ... ponieważ każdy Wiking jest unikalny! Ale wszyscy oni są uparci z natury! ;0)
+</text>
+      </lang>
     </block>
     <block id="01">
       <lang code="CHN">
@@ -160,6 +189,19 @@ Dies zum Beispiel ist HALLDOR.
 Er ist Holzabbauer und ist glücklich bei seiner Arbeit, hat eine Frau und ein kleines Kind, die zu Hause nach getaner Arbeit auf ihn warten.
 
 Jeder Bewohner des Dorfes ist einzigartig. Alle sehen unterschiedlich aus, haben eigene Namen, durchlaufen unterschiedliche Berufswege und haben individuelle Fähigkeiten und Bedürfnisse. Du kannst - bis auf das Aussehen - all diese Dinge beeinflussen! 
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+Weźmy HALLDORA, na przykład. 
+
+</text>
+        <usericon>2,1</usericon>
+        <text>
+
+Jest drwalem i jest szczęśliwy wykonując swoją pracę. Ma żonę i małe dziecko, którzy oczekują na niego w domu, aż powróci z pracy.
+
+Każdy mieszkaniec wsi jest unikalną postacią. Wyglądają różnie, mają różne imiona, różne ścieżki zawodowe, a także indywidualne umiejętności i potrzeby. A ty możesz wpływać na wszystkie te cechy poza ich wyglądem! 
 </text>
       </lang>
     </block>
@@ -204,6 +246,20 @@ ZUSAMMENGEHÖRIGKEIT
 Wenn du den Mauszeiger über Gunnhild bewegst, blinkt ihr Umriss hell auf. Außerdem blinken alle Dinge, die mit der Figur in Zusammenhang stehen: Wohnung, Ehepartner, Arbeitsplatz, Kinder. Somit siehst du auf einen Blick, was zu ihr gehört, wo sie wohnt und arbeitet, und damit auch, welche Wege sie zurücklegen muss. Unter dem Mauszeiger erscheinen darüber hinaus der Name, der aktuelle Beruf und der Erfahrungsstatus der Figur, falls er gerade einen Beruf erlernt.
 
 Den gleichen Effekt siehst du übrigens auch, wenn du den Mauszeiger über ein Gebäude bewegst. Dann blinken auch alle Figuren, die in dem Gebäude leben oder arbeiten.
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+To jest Gunnhilda. Jest szczęśliwą kobietą, żyjącą u boku Halldora. Para ta posiada córeczkę o imienu Grimmhild ...
+
+</text>
+        <usericon>1,88,192</usericon>
+        <text>
+
+GRUPA SPOŁECZNA
+Jeśli najedziesz kursorem nad Grunhildę, obrys jej postaci rozjaśni się. Zacznie również migać wszystko, co jest związane z jej postacią: dom, partner, miejsce pracy i dzieci. W ten sposób napierwszy rzut oka możesz zorientować się, kto jest z nią związany, gdzie mieszka i pracuje, oraz jakie ścieżki musi podjąć. Co więcej, imię, obecny zawód oraz poziom doświadczenia podświetlonej postaci są wyświetlone poniżej wskaźnika myszy, jeśli Wiking tej chwili uczy się zawodu.
+
+Gdy najedziesz kursorem myszy nad budynek, ujrzysz ten sam efekt. Wszystkie postaci, które żyją lub pracują w tym budynku, będą migotać.
 </text>
       </lang>
     </block>
@@ -256,6 +312,22 @@ Fang mit dem NAMEN an. Wähle Björn dazu aus und klicke auf seinen Namen im Fig
 Weise ihm dann den Beruf eines Fischers zu.
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+To jest BJOERN. Jest on zwiadowcą i ma już po dziurki w nosie stawiania drogowskazów jak dzień długi ... 
+
+</text>
+        <usericon>2,6</usericon>
+        <text>
+
+Chciałby mieć żonę, mieszkać w domu i przyłączyć się do plemienia Wikingów. Nie lubi swojego imienia, jak również swojej pracy i o wiele bardziej wolałby przez cały dzień siedzieć i łowić ryby. 
+
+Daj BJOERNOWI nową tożsamość! 
+
+Zacznij od IMIENIA. Wybierz Bjoerna i kliknij na jego imię w okienku postaci. Pojawi się małe okienko, w którym będziesz mógł zmienić jego imię. 
+Daj mu zawód rybaka.
+</text>
+      </lang>
     </block>
     <block id="04">
       <lang code="CHN">
@@ -300,6 +372,20 @@ Verheirate RAGNA und den Wikinger, der früher BJÖRN hieß, weise ihnen das Hau
 Beachte: Nicht immer ist das Heiraten eine einfache Sache. Manche Wikinger sind so vertieft in ihre Aufgaben, dass sie die Werbungen eines anderen gar nicht registrieren oder sich gar einen anderen Partner wählen wollen. Falls du einmal Probleme mit zwei vermeintlich Liebenden hast, dann schicke sie zusammen weg, fernab von allen anderen und gib dann mindestens einen der beiden den Heiratsbefehl! 
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+Następną rzeczą, którą powinien zrobić, jest rozglądnięcie się za panną młodą.
+Dalej w głębi lądu mieszka mistrz ciesielski ze swoją piękną i inteligentną córką Ragną. 
+
+</text>
+        <usericon>1,87,149</usericon>
+        <text>
+
+Wydaj RAGNĘ za Wikinga o imieniu BJOERN, przydziel im budynek na wybrzeżu i pozwól mieć dziecko.
+
+Uwaga: Swatanie nie zawsze jest łatwe. Niektórzy Wikingowie są tak skupieni na swoich sprawach, że nawet nie zauważają przybycia innej osoby lub mogą nawet wybrać innego partnera. Jeśli doświadczysz problemów z dwojgiem, o których sądzisz, że powinni się nawzajem pokochać, wówczas wyślij ich z dala od innych i każ przynajmniej jednej postaci poślubić drugą! 
+</text>
+      </lang>
     </block>
     <block id="05">
       <lang code="CHN">
@@ -335,6 +421,17 @@ PRIMA! Ein kleiner Erdenbewohner hat gerade zum ersten Mal das Licht der Welt ge
 Jeder deiner Wikinger, auch das kleine neugeborene Kind, verfügt über ein bestimmtes Maß an LEBENSENERGIE. Diese kann durch HUNGER oder KAMPFVERLETZUNGEN verloren gehen. Sobald der Missstand aber behoben ist, regeneriert sie sich langsam von alleine wieder - vorausgesetzt natürlich, der Wikinger lebt noch. Aus Altersgründen stirbt jedoch keiner deiner Wikinger! 
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+WSPANIALE! Mały Wiking nareszcie ujrzał światło dzienne.
+
+</text>
+        <usericon>1,124,181</usericon>
+        <text>
+
+Każdy z twoich Wikingów, nawet małe, nowonarodzone dziecko, ma pewien zasób ENERGII ŻYCIOWEJ. Energia ta może zmniejszać się w wyniku GŁODU lub odniesienia RAN. Gdy tylko niekorzystna sytuacja zmieni się, energia postaci zacznie się powoli regenerować - zakładając oczywiście, że Wiking jest wciąż żywy. Żaden z Twoich wikingów nie może umrzeć ze starości!
+</text>
+      </lang>
     </block>
     <block id="06">
       <lang code="CHN">
@@ -365,6 +462,16 @@ Alle deine Wikinger haben jedoch Bedürfnisse wie echte Menschen. Sie müssen es
 Du solltest dafür sorgen, dass deine Wikinger diese Bedürfnisse schnell befriedigen können, damit sie ihre Arbeit fortsetzen. 
 
 Auf den Fähnchen am oberen Bildschirmrand teilen dir deine Wikinger mit, was sie für wichtig halten! Rote sind wichtige, grüne sind weniger wichtige Nachrichten. Mit STRG und Rechtsklick auf eine der Nachrichten, löscht du alle angezeigten Nachrichten.
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+POTRZEBY
+
+Wszyscy twoi Wikingowie mają takie same potrzeby jak prawdziwi ludzie. Muszą jeść, spać i rozmawiać, a niektórzy z nich potrzebują nawet religii, aby być zadowolonymi. Jeśli mieszkańcy wioski mają jakąś potrzebę, wówczas zrobią wszystko, aby zaspokoić ją tak szybko, jak to tylko możliwe. Np. jeśli są głodni, wówczas przerwą pracę, aby poszukać w pobliżu czegoś do jedzenia. Jeśli coś znajdą, wówczas pójdą tam i zjedzą to. Powrócą do pracy dopiero wtedy, gdy nie będą już głodni. 
+Powinieneś upewnić się, że twoi Wikingowie mogą szybko zaspokoić swoje potrzeby, tak aby mogli posuwać się do przodu ze swoja pracą. 
+
+Wikingowie powiedzą Ci, co jest wg nich ważne, poprzez pojawiające się u góry ekranu pergaminy! Czerwone pergaminy są ważne, zielone są nieco mniej istotne. Trzymając CTRL i klikając prawym przyciskiem myszy, możesz skasować wszystkie wyświetlone na ekranie wiadomości.
 </text>
       </lang>
     </block>
@@ -420,6 +527,23 @@ FIGURENMENÜ
 Geht dir mal ein Held oder ein anderer Wikinger verloren, benutze das Figurenmenü (F7) oder den Button mit dem Helm und den Fragezeichen. Dort kannst du deine Figuren nach verschiedenen Kategorien suchen und direkt auswählen.
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+HEROES
+
+Niektórzy Wikingowie różnią się od twojej populacji cywili: są silniejsi i szybsi od zwykłych Wikingów, nie stają się głodni i nie potrzebują snu. Nie posiadają także zawodu, ponieważ ich zawodem jest bycie BOHATREM. Ich zasięg eksploracji odpowiada temu, jaki posiada zwiadowca. Bohaterowie przeważnie prowadzą życie samotnika i nie ma ich wielu na świecie, ale jeden z nich będzie ci towarzyszył od samego początku gry. Jest nim BJARNI - syn legendarnego króla Wikingów, który żył w przeszłości. 
+
+</text>
+        <usericon>2,7</usericon>
+        <text>
+
+Uważaj! Jeśli bohater zginie, twoja misja zakończy się niepowodzeniem!
+
+OKNO POSTACI
+
+Jeśli zgubisz bohatera lub innego Wikinga, wyświetl okno postaci (F7) lub kliknij przycisk z hełmem i znakiem zapytania. Tam możesz odszukać postaci wg różnych kategorii i wybrać je.
+</text>
+      </lang>
     </block>
     <block id="08">
       <lang code="CHN">
@@ -464,6 +588,20 @@ Aber mit einem Helden an deiner Seite sollte dies kein Problem sein ...
 Bekämpfe mit Bjarni die Wölfe im Sumpf, indem du ihn auswählst und mit der RECHTEN MAUSTASTE auf die Tiere klickst, wenn im Tooltip "Bjarni - Greife Tier an" erscheint!
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+WILKI
+
+Jak wspomnieliśmy wcześniej, Wikingowie mogą umrzeć tylko z głodu lub w wyniku ran odniesionych w walce. Dlatego wilki i inne dzikie zwierzęta stwarzają wielkie zagrożenie.
+Chociaż, z bohaterem po twojej stronie, nie powinny stanowić dla ciebie problemu ...
+
+</text>
+        <usericon>1,225,156</usericon>
+        <text>
+
+Walcz Bjarnim z wilkami na bagnach poprzez wybranie go i kliknięcie PRAWYM PRZYCISKIEM MYSZY na zwierzętach, gdy wyświetli się podpowiedź "Bjarni - Zaatakuj zwierzę"!
+</text>
+      </lang>
     </block>
     <block id="09">
       <lang code="CHN">
@@ -488,6 +626,14 @@ Leider bist du gescheitert, denn Bjarni ist den Wölfen zum Opfer gefallen.
 Im wirklichen Spiel hättest du die Mission verloren.
 
 Wir geben dir noch eine Chance und lassen den Helden wieder auferstehen...
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+Niestety, poniosłeś klęskę, ponieważ Bjarni padł ofiarą wilków. 
+W prawdziwej grze, twoja misja zakończyłaby się niepowodzeniem.
+
+Damy ci jeszcze jedną szansę i wskrzesimy bohatera...
 </text>
       </lang>
     </block>
@@ -531,6 +677,19 @@ Du hast das zweite Tutorial bestanden und weißt nun, wie du die individuellen E
 Auf zum nächsten Tutorial!
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+BARDZO DOBRZE! 
+
+</text>
+        <usericon>2,7</usericon>
+        <text>
+
+Przeszedłeś drugi samouczek. Teraz wiesz, jak wpływać na indywidualne cechy postaci oraz jak zatroszczyć się o umiejętności i potrzeby tych małych istot.
+
+Przejdźmy do następnego samouczka!
+</text>
+      </lang>
     </block>
     <block id="11">
       <lang code="CHN">
@@ -546,6 +705,11 @@ Three of your Vikings are going about their work in this massif. They are too fa
       <lang code="ger">
         <text> 
 In diesem Bergmassiv verrichten drei deiner Wikinger ihre Arbeit. Allerdings sind sie zu weit weg, um sich zu unterhalten, haben keine Nahrung mitgenommen und würden auch gerne mal wieder schlafen. Grundsätzlich kümmern sich deine Wikinger auch alleine um sich selber, d.h. sie schlafen, wenn sie müde sind, essen wenn sie hungrig sind und unterhalten sich, wie ihnen der Schnabel wächst! Wenn sie allerdings einen Missstand nicht beheben können, leiden die anderen Bedürfnisse auch darunter.
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+Trzech z twoich Wikingów zamierza rozpocząć pracę w tym masywie górskim. Są zbyt oddaleni od siebie, aby chociaż porozmawiać, nie posiadają żadnej żywności, a jedyne na co ich stać, to możliwość snu. Twoi Wikingowie zatroszczą się o siebie w podstawowym zakresie, np. pójdą spać, kiedy będą zmęczeni, zaczną jeść, kiedy będą głodni i będą rozmawiać tyle, ile będą chcieli! Jednakże, jeżeli nie mogą zaspokoić jednej ze swoich potrzeb, wówczas ma to również wpływ na pozostałe potrzeby.
 </text>
       </lang>
     </block>
@@ -565,6 +729,12 @@ EVERY VIKING IS UNIQUE!
         <text> 
 
 JEDER WIKINGER IST EINZIGARTIG!
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+
+KAŻDY WIKING JEST UNIKALNY!
 </text>
       </lang>
     </block>

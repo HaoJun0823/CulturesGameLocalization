@@ -4,87 +4,104 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@找到奥丁，将希拉从魅惑中解救！</text>
       <text lang="eng">@Find Odin and free Cyra from the spell!</text>
       <text lang="ger">@Finde Odin und befreie Cyra aus dem Bann!</text>
+      <text lang="pol">@Odszukaj Odyna i uwolnij Cyrę od czaru!</text>
     </string>
     <string id="1">
       <text lang="CHN">向那些被冰封的神明探问他们与你的过往。</text>
       <text lang="eng">Ask the frozen gods about their story and yours.</text>
       <text lang="ger">Befrage die eingefrorenen Götter nach ihrer und deiner Geschichte.</text>
+      <text lang="pol">Wysłuchaj historii bogów uwięzionych w lodzie.</text>
     </string>
     <string id="2">
       <text lang="CHN">击退洛基的全部幽灵战士！</text>
       <text lang="eng">Fight all Loki's ghost warriors!</text>
       <text lang="ger">Bekämpfe alle Geisterkrieger Loki's!</text>
+      <text lang="pol">Pokonaj wszystkich wojowników Lokiego!</text>
     </string>
     <string id="3">
       <text lang="CHN">步入瓦尔哈拉。</text>
       <text lang="eng">Enter Valhalla.</text>
       <text lang="ger">Betritt Walhalla.</text>
+      <text lang="pol">Wejdź do sali Walhalla.</text>
     </string>
     <string id="4">
       <text lang="CHN">击败伊科尔，从希拉手中夺回护符！</text>
       <text lang="eng">Fight Ykol and take the amulet away from Cyra!</text>
       <text lang="ger">Bekämpfe Ykol und entreiße Cyra das Amulett!</text>
+      <text lang="pol">Pokonaj Ykola i odbierz Cyrze amulet!</text>
     </string>
     <string id="5">
       <text lang="CHN">沿石径前往阿斯加德的殿厅！</text>
       <text lang="eng">Follow the stony path to the Halls of Asgard!</text>
       <text lang="ger">Folge den steinernen Pfad zu den Hallen Asgards!</text>
+      <text lang="pol">Udaj się kamienną ścieżką do komnat Asgardu!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的部族</text>
       <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarnis Stamm</text>
+      <text lang="pol">Plemię Bjarniego</text>
     </string>
     <string id="51">
       <text lang="CHN">洛基的幽灵战士</text>
       <text lang="eng">Loki's Ghost Warriors</text>
       <text lang="ger">Loki's Geisterkrieger</text>
+      <text lang="pol">Wojownicy Lokiego</text>
     </string>
     <string id="53">
       <text lang="CHN">洛基</text>
       <text lang="eng">Loki</text>
       <text lang="ger">Loki</text>
+      <text lang="pol">Loki</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="pol">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
       <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
+      <text lang="pol">Hatschi</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="pol">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">伊科尔（洛基）</text>
       <text lang="eng">Ykol (Loki)</text>
       <text lang="ger">Ykol (Loki)</text>
+      <text lang="pol">Ykol (Loki)</text>
     </string>
     <string id="98">
       <text lang="CHN">我们终于抵达终点。这便是：阿斯加德--神明的世界！</text>
       <text lang="eng">We had reached our destination. This was it: Asgard - the world of the gods!</text>
       <text lang="ger">Wir waren am Ziel angekommen. Dies war sie nun: Asgard - die Welt der Götter!</text>
+      <text lang="pol">Dotarliśmy do celu. A więc to był Asgard - kraina bogów!</text>
     </string>
     <string id="99">
       <text lang="CHN">阿斯加德</text>
       <text lang="eng">ASGARD</text>
       <text lang="ger">ASGARD</text>
+      <text lang="pol">ASGARD</text>
     </string>
   </strings>
   <briefings>
@@ -124,6 +141,17 @@ Eine majestätisch breite Treppe führte den Berg hinauf auf eine weitere Ebene.
 ... doch noch während wir wie gebannt von diesem prächtigen Anblick verharrten, rannte Ykol plötzlich mit einem hämischen und bösen Lachen davon und die Stufen hinauf! Kaum hatte er eine Stufe hinter sich gelassen, verschwand diese im Boden, so dass schon gleich der untere Teil der Treppe verschwunden war!
 
 Jetzt endlich offenbarte sich, was ich seit dem Eintritt in Hels Reich nur leise befürchtet, aber nicht ernsthaft zu glauben gewagt hatte - Ykol, wer immer er war oder was immer er geplant hatte - er spielte ein falsches Spiel mit uns! 
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+Rozpościerająca się przed nami kraina bogów sprawiała wrażenie zupełnie nierzeczywistej. Wreszcie dotarliśmy do celu! A więc to jest Asgard - siedziba bogów!
+
+Monumentalne szerokie schody prowadziły do góry na następny poziom Asgardu...
+
+...Właśnie zatrzymaliśmy się, urzeczeni zachwycającym widokiem, który ukazał się naszym oczom, gdy nagle Ykol zaczął biec schodami do góry, śmiejąc się przy tym szyderczo! Stopnie, które mijał, natychmiast zapadały się pod ziemię, przez co już po chwili brakowało dolnej części schodów!
+
+Stało się to, czego skrycie obawiałem się od momentu przekroczenia granicy królestwa Hel - Ykol, kimkolwiek był lub cokolwiek planował, chciał nas wywieźć w pole!
 </text>
       </lang>
     </block>
@@ -180,6 +208,22 @@ Wie auch immer - wir mussten ihn in jedem Fall aufhalten!
 Folge den steinernen Pfad zu den Hallen Asgards!
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+Moje obawy sprawdziły się szybciej niż myślałem. Ykol przebiegł kilka stopni, odcinając nam dalszą drogę do góry, a następnie zatrzymał się i odwrócił do nas z szyderczym uśmiechem. Pewny swego zwycięstwa, wyjawił nam swą tajemnicę...
+
+Ykol cały czas nas oszukiwał! W rzeczywistości chciał przejąć władzę w krainie bogów i zemścić się na Odynie i pozostałych bogach za wygnanie go z Asgardu! A w drodze do osiągnięcia tego celu każdy środek był dobry...
+
+Zemścić się? Za co?
+Wygnany przez bogów? Człowiek?
+Ykol? Kim tak naprawdę jest?
+Jaki będzie jego następny ruch?
+
+Bez względu na to, kim jest i co planuje, musimy powstrzymać go za wszelką cenę!
+
+Idź kamienną ścieżką do komnat Asgardu!
+</text>
+      </lang>
     </block>
     <block id="01_player_1_seen">
       <lang code="CHN">
@@ -202,6 +246,13 @@ These undead warriors appeared from out of nowhere and attacked us without warni
 GEISTERKRIEGER
 
 Wie aus dem Nichts kamen diese untoten Krieger auf uns zu und griffen uns ohne Vorwarnung an... 
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+DUCHY WOJOWNIKÓW
+
+Nagle pojawili się polegli wojownicy i bez ostrzeżenia zaatakowali nas...
 </text>
       </lang>
     </block>
@@ -238,6 +289,15 @@ FREYA
 Loki, den ihr Ykol nennt, er, der der Gott der Lüge und Falschheit ist, brachte das Unheil über uns und über so viele Menschen. 
 
 Niemand geringeres als er selbst war verantwortlich für die Hungersnot in Arabien. Mit seinem bösen Zauber hatte er die Not und das Elend über die Menschen dort gebracht! Und euch hat er mit seiner angeblichen Hilfsbereitschaft nur getäuscht, um sich euer Vertrauen zu erschleichen!" 
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+FREYA
+
+"Kiedyś Asgard był potężną i nietykalną krainą, ale Odyn stracił rozum, a my zostaliśmy uwięzieni w lodzie!" przemówił do nas posąg i natychmiast rozpoznaliśmy w nim Freyę, boginię płodności i wojny.
+
+Loki, którego wy zwiecie Ykol, to bóg kłamstwa i zniszczenia, który sprowadził na nas i wielu ludzi nieszczęście. Nikt inny tylko on jest sprawcą klęski głodu w Arabii. Wykorzystał złe moce, aby ludzie cierpieli głód i nędzę! A was zwodził swą rzekomą uczynnością, chcąc zyskać wasze zaufanie!"
 </text>
       </lang>
     </block>
@@ -290,6 +350,19 @@ Und hier warf das Amulett dann einen Liebesbann über Odin selbst, der seither n
 Allzu groß ist die Gefahr, in der Odin nun schwebt!"
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+BALDUR
+
+"Kiedyś Asgard był potężną i nietykalną krainą, ale Odyn stracił rozum, a my zostaliśmy uwięzieni w lodzie!" przemówił do nas posąg i natychmiast rozpoznaliśmy w nim Baldura, dobroczynnego boga światła i niewinności, syna słońca, sprawcę wszystkiego, co dobre.
+
+"Zważcie: Loki, którego wy zwiecie Ykol, demon zniszczenia i kłamstwa, wprawdzie stał po waszej stronie, gdy walczyliście z wilkami... Ale to on stworzył wilka Fenrisa! I to on wypuścił go z uwięzi, aby sprowadzić na was plagę wilków! A wy pomogliście mu odnaleźć "Serce Odyna". Amulet, który ty, Bjarni, za radą Lokiego zawiesiłeś na szyi Cyry, uczynił ją nieśmiertelną. Loki wiedział, że z powodu amuletu Fenris wciągnie Cyrę do Walhalla, krainy nieśmiertelnych!
+
+Za sprawą amuletu i jego czarodziejskiej mocy Odyn zakochał się w śmiertelniczce noszącej ów talizman. Od tego czasu ten najpotężniejszy z bogów nie widzi nic poza swą ukochaną i jest zupełnie bezbronny wobec ataków Lokiego!
+
+"Wielkie jest niebezpieczeństwo, które grozi Odynowi!"
+</text>
+      </lang>
     </block>
     <block id="04_noird">
       <lang code="CHN">
@@ -337,6 +410,17 @@ Und nun habt ihr ihn hierher geführt. Dank eures Zutuns steht seiner Rache nun 
 
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+NJIÖRD
+
+"Kiedyś Asgard był potężną i nietykalną krainą, ale Odyn stracił rozum, a my zostaliśmy uwięzieni w lodzie!" przemówił do nas posąg i natychmiast rozpoznaliśmy w nim NJIÖRDA, władcę wiatru i morza.
+
+"Zważcie: Loki, którego wy zwiecie Ykol, demon zniszczenia i kłamstwa, za sprawą czarnej magii sam doprowadził do plagi węży i klęski głodu! To on powołał do życia te potwory i pozwolił, aby zniszczyły niemal całą Arabię! A gdy wy walczyliście przeciwko jego armii węży, on podstępem zdobył wasze zaufanie i przyjaźń!
+
+A teraz przyprowadziliście go aż tutaj. Dzięki waszej pomocy może teraz bez przeszkód dokonać zemsty..."
+</text>
+      </lang>
     </block>
     <block id="05_baldur">
       <lang code="CHN">
@@ -377,6 +461,17 @@ THOR
 Aber nicht um den Weg für euch zu bahnen, sondern um vor euch Heimdalls Horn zu erreichen! Er bestrich es heimlich mit dem Eistrank der Wyonäzer, und als Heimdall in sein verzaubertes Horn blies, lies er damit ohne sein Wissen und Zutun die Welt der Götter gefrieren. Deshalb sind wir nun in Eisstatuen verwandelt! 
 
 In unserer Machtlosigkeit bleibt uns nur, euch unsere Geschichte zu erzählen..."
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+THOR
+
+"Kiedyś Asgard był potężną i nietykalną krainą, ale Odyn stracił rozum, a my zostaliśmy uwięzieni w lodzie!" przemówił do nas posąg i natychmiast rozpoznaliśmy w nim Thora, boga sił witalnych, władcę burzy i piorunów.
+
+"Zważcie: Loki, którego wy zwiecie Ykol, demon zniszczenia i kłamstwa, oddzielił się od was w królestwie Hel. Ale nie po to, by utorować wam drogę, lecz żeby zdobyć róg Heimdalla! To on posmarował go po kryjomu napojem lodowych gigantów! Gdy Heimdall zadął w swój czarodziejski róg, cały Asgard został skuty lodem, a my zostaliśmy przemienieni w lodowe posągi!
+
+Nie pozostaje nam nic innego, jak tylko opowiedzieć wam naszą historię..."
 </text>
       </lang>
     </block>
@@ -424,6 +519,17 @@ Sie werden euch Krieger der Götter zur Seite stellen, ohne die ihr den Weg zu d
 Befrage die Götter im Eis und sammle die Krieger! 
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+FRIGG
+
+"Kiedyś Asgard był potężną i nietykalną krainą, ale Odyn stracił rozum, a my zostaliśmy uwięzieni w lodzie!" przemówił do nas posąg i natychmiast rozpoznaliśmy w nim Frigg, żonę Odyna, patronkę miłości, niewiast, rodziny i ogniska domowego.
+
+"Loki, którego wy zwiecie Ykol, to bóg kłamstwa i zniszczenia, który sprowadził na nas i wielu ludzi nieszczęście! Spytajcie innych bogów, to opowiedzą wam swą historię. Poza tym wesprą was wojownikami, bez których nigdy nie znajdziecie drogi do komnat Asgardu!"
+
+Porozmawiaj z bogami uwięzionymi w lodzie i zbierz wojowników!
+</text>
+      </lang>
     </block>
     <block id="07_tor">
       <lang code="CHN">
@@ -448,6 +554,13 @@ Diese Tore bargen so manches Geheimnis ...
 Sicherlich würden noch unzählige Geisterkrieger hinter diesen Mauern auf uns warten! Wir mussten uns auf einen gewaltigen Kampf einstellen!!!  
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+Te wrota kryją niejedną tajemnicę...
+
+Za tymi murami z pewnością czekają na nas niezliczone duchy wojowników! Musimy nastawić się na trudną i ciężką walkę!
+</text>
+      </lang>
     </block>
     <block id="08">
       <lang code="CHN">
@@ -464,6 +577,13 @@ We had spoken to all the ice statues. The way into the Halls of Asgard was open 
       <lang code="ger">
         <text> 
 Wir hatten alle Eisstatuen befragt. Der Weg in die Hallen Asgards stand uns damit offen. Mehr Unterstützungen konnten wir von den Götter im Eis nicht erwarten ...
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+Wysłuchaliśmy historie lodowych posągów. Dzięki temu droga do komnat Asgardu stała przed nami otworem.
+
+Nic więcej nie mogli uczynić dla nas bogowie uwięzieni w lodzie...
 </text>
       </lang>
     </block>
@@ -488,6 +608,13 @@ You cannot enter this hall until we have uncovered the gods' secrets and destroy
 DIE GÖTTERHALLE
 
 Bevor wir nicht die Geheimnisse der Götter gelüftet die Geisterkrieger Lokis vernichtet haben, bleibt dir der Zugang zu dieser Halle verwehrt.  
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+KOMNATA BOGÓW
+
+Najpierw musimy poznać tajemnice bogów i pokonać wojowników Lokiego, aby wejść do tej komnaty!
 </text>
       </lang>
     </block>
@@ -523,6 +650,17 @@ MISSION VERLOREN!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+NIEPOWODZENIE MISJI!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Bohaterstwo czy lekkomyślność? Gdy umarł Bjarni, opłakiwali go bogowie... Bez tego bohatera nie dokończysz misji.
 </text>
       </lang>
     </block>
@@ -563,6 +701,17 @@ Hahahahaha!"
 Bekämpfe Loki und seine letzten Krieger und entreiße Cyra das Amulett, um den Bann über Odin zu brechen!
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+LOKI
+
+"Żałośni śmiertelnicy, tak łatwo was oszukać! Teraz ja rządzę krainą bogów, a Odyn, zaślepiony miłością do waszej drogiej Cyry, nawet o tym nie wie!
+
+Cha, cha, cha, cha!" 
+
+Pokonaj Lokiego i resztę jego wojowników. Odbierz Cyrze amulet, aby uwolnić Odyna od czaru rzuconego na niego za sprawą amuletu!
+</text>
+      </lang>
     </block>
     <block id="11">
       <lang code="CHN">
@@ -587,6 +736,13 @@ EISKRIEGER
 Die Göttin im Eis stellte uns 5 tapfere Eiskrieger zur Seite. Wenn wir die anderen Statuen finden würden, konnten wir gewiss noch weitere Krieger für unseren Weg zu den Hallen Asgards gewinnen ....
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+LODOWI WOJOWNICY
+
+Bogini uwięziona w lodzie oddała nam do dyspozycji 5 lodowych wojowników. Jeśli znajdziemy pozostałe posągi, z pewnością zyskamy kolejnych wojowników, potrzebnych nam w drodze do komnat Asgardu...
+</text>
+      </lang>
     </block>
     <block id="12">
       <lang code="CHN">
@@ -604,6 +760,12 @@ We had spoken to the gods in the ice about their story and ours, and all the gho
         <text> 
 
 Die Götter im Eis hatten wir zu ihrer und unserer Geschichte befragt und alle Geisterkrieger waren besiegt. Der Weg in die letzte Halle stand uns nun offen!
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+
+Wysłuchaliśmy historii bogów uwięzionych w lodzie i pokonaliśmy wszystkich duchów wojowników. Droga do ostatniej komnaty była wolna.
 </text>
       </lang>
     </block>
@@ -641,6 +803,17 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Hatschi erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+NIEPOWODZENIE MISJI!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Chwilowy brak rozwagi i po wszystkim! Twój przyjaciel i bohater Hatschi zginął z powodu twej lekkomyślności! Bez niego nie uda ci się dokończyć misji.
+</text>
+      </lang>
     </block>
     <block id="400">
       <lang code="CHN">
@@ -676,6 +849,17 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Sigurd erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+NIEPOWODZENIE MISJI!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Chwilowy brak rozwagi i po wszystkim! Sigurd zginął z powodu twej lekkomyślności! Bez niego nie uda ci się dokończyć misji.
+</text>
+      </lang>
     </block>
     <block id="50_end">
       <lang code="CHN">
@@ -706,6 +890,15 @@ Welch arglistiger Plan! Doch nun war er gescheitert und Lokis falsches Spiel end
 Die Macht des Amulettes, die zwar viel Gutes aber auch viel Böses bewirken konnte, sollte weder den Menschen noch den Göttern jemals wieder Schaden zufügen ...
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+Wspólnymi siłami udało nam się odzyskać amulet, który nosiła Cyra i uwolnić Odyna od czaru, rzuconego na niego za sprawą amuletu. Pod wpływem czaru Odyn bez pamięci zakochał się w Cyrze, zapominając zupełnie o sprawach świata.
+
+Co za przewrotny plan! Ale nie powiódł się i podwójna gra Lokiego została zdemaskowana!
+
+Amulet, którego moc może uczynić wiele dobrego, ale i złego, już nigdy więcej nie wyrządzi krzywdy ludziom ani bogom...
+</text>
+      </lang>
     </block>
     <block id="50_end1">
       <lang code="CHN">
@@ -722,6 +915,11 @@ Die Macht des Amulettes, die zwar viel Gutes aber auch viel Böses bewirken konn
       <lang code="ger">
         <text> 
 ... dies war das Versprechen, das wir Freunde uns an diesem Tage gaben ...
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+...taką obietnicę złożyliśmy tego dnia, my, przyjaciele...
 </text>
       </lang>
     </block>
@@ -743,6 +941,12 @@ MISSION COMPLETED!
 MISSION GEWONNEN! 
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+
+MISJA ZAKOŃCZONA POMYŚLNIE!
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -757,6 +961,12 @@ ASGARD
 </text>
       </lang>
       <lang code="ger">
+        <text> 
+
+ASGARD
+</text>
+      </lang>
+      <lang code="pol">
         <text> 
 
 ASGARD

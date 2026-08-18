@@ -4,14 +4,14 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
-    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">抵达村庄。</text>
       <text lang="eng">Reach the village.</text>
       <text lang="ger">Erreiche das Dorf.</text>
-      <text lang="pol">Udaj siê do wioski.</text>
+      <text lang="pol">Udaj się do wioski.</text>
     </string>
     <string id="1">
       <text lang="CHN">与德鲁伊交谈。</text>
@@ -23,13 +23,13 @@
       <text lang="CHN">前往造船匠处。</text>
       <text lang="eng">Go to the shipbuilder.</text>
       <text lang="ger">Gehe zum Bootsbauer.</text>
-      <text lang="pol">Udaj siê do budowniczego okrêtów.</text>
+      <text lang="pol">Udaj się do budowniczego okrętów.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳所需的贡金。</text>
       <text lang="eng">Pay the demanded tribute.</text>
       <text lang="ger">Zahle den gewünschten Tribut.</text>
-      <text lang="pol">Zap³aæ ¿¹dan¹ kwotê.</text>
+      <text lang="pol">Zapłać żądaną kwotę.</text>
     </string>
     <string id="4">
       <text lang="CHN">寻得诺恩三女神。</text>
@@ -41,7 +41,7 @@
       <text lang="CHN">支付 30 单位蜂蜜酒与 20 块金矿。</text>
       <text lang="eng">Pay 30 mead and 20 pieces of gold.</text>
       <text lang="ger">Bezahle 30 Met und 20 Goldbrocken.</text>
-      <text lang="pol">Zap³aæ 30 dzbanów miodu i 20 sztuk z³ota.</text>
+      <text lang="pol">Zapłać 30 dzbanów miodu i 20 sztuk złota.</text>
     </string>
   </strings>
   <briefings>
@@ -75,7 +75,7 @@ Warte im Dorf auf die Karawane.
       </lang>
       <lang code="pol">
         <text>
-Zwyciê¿yliœmy! Uda³o nam siê pokonaæ wszystkie trzy armie i w ten sposób utorowaæ karawanie drogê przez pustyniê!
+Zwyciężyliśmy! Udało nam się pokonać wszystkie trzy armie i w ten sposób utorować karawanie drogę przez pustynię!
 
 Oczekuj karawany w wiosce.
 </text>
@@ -123,7 +123,7 @@ MISJA NIEUDANA!
         <font>$local$\fonts\font12.fnt</font>
         <picture>$local$\graphics\People_Dead_F.pcx</picture>
         <text>
-Uda³o nam siê bezpiecznie przewieŸæ na drugi brzeg rzeki dwóch wodzów, jednak w chwili, gdy odbiliœmy od brzegu, aby pop³yn¹æ po trzeciego, wziêli siê oni za ³by. Rozmowy pokojowe zakoñczy³y siê fiaskiem i to my zostaniemy obarczeni win¹ za taki rozwój sytuacji.
+Udało nam się bezpiecznie przewieźć na drugi brzeg rzeki dwóch wodzów, jednak w chwili, gdy odbiliśmy od brzegu, aby popłynąć po trzeciego, wzięli się oni za łby. Rozmowy pokojowe zakończyły się fiaskiem i to my zostaniemy obarczeni winą za taki rozwój sytuacji.
 </text>
       </lang>
     </block>
@@ -154,10 +154,10 @@ Bringe die Anführer der Völker zu der anderen Seite des Flusses, ohne dass sie
       </lang>
       <lang code="pol">
         <text>
-Uda³o nam siê przekonaæ przywódców wszystkich trzech stron konfliktu do wziêcia udzia³u w rozmowach pokojowych. Teraz trzeba ich przewieŸæ na drug¹ stronê rzeki tak, aby siê nawzajem nie pozabijali. To nie bêdzie proste zadanie - nie chc¹ nawet na siebie patrzeæ!
-Do ³odzi mo¿emy zabraæ tylko jednego przywódcê naraz, wiêc trzeba by³o zaaran¿owaæ transport tak, aby pozosta³ych dwóch nie zaczê³o walczyæ ze sob¹ w czasie naszego rejsu. Bizantyjczycy nienawidz¹ z wzajemnoœci¹ Saracenów, którzy walcz¹ równie¿ z Frankami. Stosunki Biznatyjczyków i Franków maj¹ charakter pokojowy.
+Udało nam się przekonać przywódców wszystkich trzech stron konfliktu do wzięcia udziału w rozmowach pokojowych. Teraz trzeba ich przewieźć na drugą stronę rzeki tak, aby się nawzajem nie pozabijali. To nie będzie proste zadanie - nie chcą nawet na siebie patrzeć!
+Do łodzi możemy zabrać tylko jednego przywódcę naraz, więc trzeba było zaaranżować transport tak, aby pozostałych dwóch nie zaczęło walczyć ze sobą w czasie naszego rejsu. Bizantyjczycy nienawidzą z wzajemnością Saracenów, którzy walczą również z Frankami. Stosunki Biznatyjczyków i Franków mają charakter pokojowy.
 
-PrzewieŸ przywódców stron konfliktu na drug¹ stronê rzeki tak, aby nie dopuœciæ do wybuchu walk.
+Przewieź przywódców stron konfliktu na drugą stronę rzeki tak, aby nie dopuścić do wybuchu walk.
 </text>
       </lang>
     </block>
@@ -206,13 +206,13 @@ Warte im Dorf auf die Karawane.
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
-MISJA ZAKOÑCZONA SUKCESEM!
+MISJA ZAKOŃCZONA SUKCESEM!
 </text>
         <font>$local$\fonts\font12.fnt</font>
         <picture>$local$\graphics\People_Dead_F.pcx</picture>
         <text>
 
-Uda³o siê, negocjacje by³y udane. Przywódcy trzech narodów uzgodnili warunki zawieszenia broni - nikt nie mia³ pojêcia, na jak d³ugo uda siê powstrzymaæ rozlew krwi, ale karawana na pewno zd¹¿y opuœciæ w tym czasie te niegoœcinne ziemie...
+Udało się, negocjacje były udane. Przywódcy trzech narodów uzgodnili warunki zawieszenia broni - nikt nie miał pojęcia, na jak długo uda się powstrzymać rozlew krwi, ale karawana na pewno zdąży opuścić w tym czasie te niegościnne ziemie...
 
 Oczekuj karawany w wiosce.
 </text>

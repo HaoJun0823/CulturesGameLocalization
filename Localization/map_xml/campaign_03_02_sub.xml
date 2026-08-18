@@ -4,92 +4,110 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@设法取得那份建造图样！</text>
       <text lang="eng">@FIND A WAY TO RETRIEVE THE CONSTRUCTION PLANS!</text>
       <text lang="ger">@SUCHE EINEN WEG, AN DIE BAUZEICHNUNG ZU GELANGEN!</text>
+      <text lang="pol">@ZNAJDŹ SPOSÓB NA ODZYSKANIE PLANów KONSTRUKCYJNYCH!</text>
     </string>
     <string id="1">
       <text lang="CHN">深入地下厅堂的内部！</text>
       <text lang="eng">Get inside the underground halls!</text>
       <text lang="ger">Gelange in das Innere der Unterirdischen Hallen!</text>
+      <text lang="pol">Dostań się do środka podziemnych korytarzy!</text>
     </string>
     <string id="2">
       <text lang="CHN">跟随那些妇女！</text>
       <text lang="eng">Follow the women!</text>
       <text lang="ger">Folge den Frauen!</text>
+      <text lang="pol">Podążaj za kobietami!</text>
     </string>
     <string id="3">
       <text lang="CHN">驱逐强盗！</text>
       <text lang="eng">Drive out the robbers!</text>
       <text lang="ger">Vertreibe die Räuber!</text>
+      <text lang="pol">Przepędź rabusiów!</text>
     </string>
     <string id="4">
       <text lang="CHN">携全部英雄与那条小龙，随妇女一同返回！</text>
       <text lang="eng">Return to the women with all your heroes and the little dragon!</text>
       <text lang="ger">Geh mit allen Helden und dem kleinen Drachen zu den Frauen zurück!</text>
+      <text lang="pol">Wróć do kobiet ze wszystkimi swoimi bohaterami i małym smokiem!</text>
     </string>
     <string id="51">
       <text lang="CHN">龙</text>
       <text lang="eng">Dragons</text>
       <text lang="ger">Drachen</text>
+      <text lang="pol">Smoki</text>
     </string>
     <string id="56">
       <text lang="CHN">妇女</text>
       <text lang="eng">Women</text>
       <text lang="ger">Frauen</text>
+      <text lang="pol">Kobiety</text>
     </string>
     <string id="57">
       <text lang="CHN">强盗</text>
       <text lang="eng">Robbers</text>
       <text lang="ger">Räuber</text>
+      <text lang="pol">Rabusie</text>
     </string>
     <string id="61">
       <text lang="CHN">龙</text>
       <text lang="eng">Dragons</text>
       <text lang="ger">Drachen</text>
+      <text lang="pol">Smoki</text>
     </string>
     <string id="66">
       <text lang="CHN">妇女</text>
       <text lang="eng">Women</text>
       <text lang="ger">Frauen</text>
+      <text lang="pol">Kobiety</text>
     </string>
     <string id="67">
       <text lang="CHN">强盗</text>
       <text lang="eng">Robbers</text>
       <text lang="ger">Räuber</text>
+      <text lang="pol">Rabusie</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="pol">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
       <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
+      <text lang="pol">Hatchie</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="pol">Sigurd</text>
     </string>
     <string id="76">
       <text lang="CHN">诺伯特</text>
       <text lang="eng">Norbert</text>
       <text lang="ger">Norbert</text>
+      <text lang="pol">Norbert</text>
     </string>
     <string id="99">
       <text lang="CHN">地下厅堂</text>
       <text lang="eng">UNDERGROUND HALLS</text>
       <text lang="ger">UNTERIRDISCHE HALLEN</text>
+      <text lang="pol">PODZIEMNE KORYTARZE </text>
     </string>
   </strings>
   <briefings>
@@ -114,6 +132,13 @@ In diesen verborgenen Hallen hatten die Hirten also ihre Frauen untergebracht, u
 </text>
         <usericon>1,21,20</usericon>
       </lang>
+      <lang code="pol">
+        <text> 
+Pasterze trzymali swoje kobiety ukryte w tych podziemnych korytarzach, aby bronić je przed rabusiami. Wejście było dobrze chronione. Miejmy nadzieję, że nikt za nami nie idzie ...
+
+</text>
+        <usericon>1,21,20</usericon>
+      </lang>
     </block>
     <block id="00_start1">
       <lang code="CHN">
@@ -132,6 +157,11 @@ Find a way to retrieve the construction plans!
       <lang code="ger">
         <text> 
 Finde einen Weg, um an die Bauzeichnungen zu gelangen!
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+Znajdź sposób na odzyskanie planów konstrukcyjnych!
 </text>
       </lang>
     </block>
@@ -184,6 +214,21 @@ Sie wurden von den Räubern im Nordwesten entführt. Unsere Männer waren machtl
 Wie können wir euch trauen? Habt ihre diese schrecklichen Geräusche gehört? Die Drachen werden doch nicht in Gefahr sein?"
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+KOBIETY
+
+"Czy jesteście napastnikami? 
+
+</text>
+        <usericon>1,30,48</usericon>
+        <text>
+
+Nasi mężczyźni przyprowadzili nas do tych podziemnych korytarzy dla naszego bezpieczeństwa, aby oszczędzić nam losu, który cierpi wiele innych kobiet naszego ludu. 
+Zostały porwane przez rabusiów na północny zachód. Napastnicy przewyższali liczebnie naszych mężczyzn, dlatego byliśmy bezsilni! Czy wy również należycie do tych łotrów? 
+Skąd możemy wiedzieć, czy możemy wam zaufać? Czy słyszysz te okropne dźwięki? Czy to smoki są w niebezpieczeństwie?"
+</text>
+      </lang>
     </block>
     <block id="02">
       <lang code="CHN">
@@ -210,11 +255,19 @@ RÄUBER
 "Ha! Hier halten die Hirten also ihre Frauen und ihre Güter versteckt! Gut, dass wir euch komischem Gespann gefolgt sind! Wir hörten davon, wie ihr unseren Brüdern die Beute abgeluchst habt! Mit uns habt ihr jedoch bestimmt kein leichtes Spiel! Haha!" 
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+RABUSIE
+
+"Cha! A więc to tutaj pasterze ukrywali swoje kobiety i swoje dobra! Cieszę się, że podążyliśmy za nieznajomymi! Słyszeliśmy, jak wydębiliście łupy od naszych braci! Z nami wam tak łatwo nie pójdzie! Cha, cha!" 
+</text>
+      </lang>
     </block>
     <block id="03">
       <lang code="CHN" />
       <lang code="eng" />
       <lang code="ger" />
+      <lang code="pol" />
     </block>
     <block id="04">
       <lang code="CHN">
@@ -248,6 +301,16 @@ DAS INNERE DER UNTERIRDISCHEN HALLEN
  
 ...doch was war das, wir hörten wieder die Geräusche von der Südseite der Anlage... 
 Gab es etwa einen zweiten Eingang?
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+WEWNĄTRZ PODZIEMNYCH KORYTARZY 
+
+"Udało wam się dotrzeć do wielkich, podziemnych korytarzy! Mówisz, że nasi mężczyźni was przysłali? Ale skąd możemy wiedzieć, że możemy wam zaufać? Och, byłoby tak wspaniale żyć znowu wolno pod słońcem," powiedziała kobieta pasterzy.
+ 
+... ale co to było? Znowu słyszeliśmy hałasy z południowego końca korytarza ... 
+Może było tam drugie wejście?
 </text>
       </lang>
     </block>
@@ -301,6 +364,21 @@ Wir werden euch zurück zu unseren Männern begleiten. Denn die Gefahr durch die
 Folgt uns nun in den oberen Saal!" 
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+DZIĘKUJEMY!
+
+"Przegnaliście napastników z naszych korytarzy. Jesteśmy wam za to niezwykle wdzięczne! Zasłużyliście na nasze zaufanie i w zamian my zaufamy wam ofiarując ukryte plany konstrukcyjne Wiszących Ogrodów. Ukryte są w kryjówce w górnych korytarzach!
+
+</text>
+        <usericon>1,50,16</usericon>
+        <text>
+
+Będziemy wam towarzyszyć w powrocie do naszych mężczyzn, ponieważ wydaje się, że całkowicie zażegnaliście zagrożenie ze strony ciągle najeżdżających nas rabusiów! Wielka szkoda, że niemal całkowicie wymordowali te przyjazne smoki. Ale wydaje się, że znaleźliście nowego przyjaciela ...
+
+Chodźcie za nami do wyższych korytarzy!" 
+</text>
+      </lang>
     </block>
     <block id="06">
       <lang code="CHN">
@@ -328,6 +406,15 @@ We had hardly left when we heard horrible sounds! Somebody must be suffering gre
 GEFAHR!
 
 Kaum waren wir ein paar Schritte gegangen, da hörten wir schreckliche Geräusche! Jemandem geschah großes Leid, und das geschah nicht fern von hier!
+
+</text>
+        <usericon>1,37,138</usericon>
+      </lang>
+      <lang code="pol">
+        <text> 
+NIEBEZPIECZEŃSTWO!
+
+Ledwo wyszliśmy, gdy usłyszeliśmy okropne odgłosy! Ktoś musiał bardzo cierpieć niedaleko stąd!
 
 </text>
         <usericon>1,37,138</usericon>
@@ -402,6 +489,27 @@ Ein kleiner Drachen saß im Gebüsch und zitterte vor Angst. Dieser kleine Kerl 
 Gehe zusammen mit den Drachen und allen Helden zurück zu den Frauen, sobald alle Räuber besiegt sind!
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+MAŁY SMOK
+
+Przybyliśmy za późno! Rabusie wymordowali smoki!
+
+</text>
+        <usericon>1,37,138</usericon>
+        <text>
+
+Ale co to było?
+
+</text>
+        <usericon>1,57,157</usericon>
+        <text>
+
+Mały smok siedział w krzakach trzęsąc się ze strachu. Ta mała istota musiała być świadkiem okropnego losu swoich rodziców i teraz była sama! Musimy się nim zaopiekować!
+
+Po pokonaniu rabusiów wróć razem ze smokiem i wszystkimi swoimi bohaterami do kobiet!
+</text>
+      </lang>
     </block>
     <block id="100">
       <lang code="CHN">
@@ -441,6 +549,17 @@ MISSION VERLOREN!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+ZADANIE NIEWYKONANE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroizm czy beztroska? Gdy Bjarni umarł, bogowie płakali ... bez tego bohatera, cel misji pozostanie dla ciebie nieosiągalny!
 </text>
       </lang>
     </block>
@@ -484,6 +603,17 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+ZADANIE NIEWYKONANE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Krótka chwila niedbalstwa, tyle tylko trzeba, żebyś stracił życie! Twoja bohaterka CYRA zginęła z powodu twojego niedbalstwa! Bez tej bohaterki, cel misji pozostanie dla ciebie nieosiągalny!
+</text>
+      </lang>
     </block>
     <block id="300">
       <lang code="CHN">
@@ -523,6 +653,17 @@ MISSION VERLOREN!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held HATSCHI erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+ZADANIE NIEWYKONANE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Krótka chwila niedbalstwa, tyle tylko trzeba, żebyś stracił życie! Twój przyjaciel i bohater HATCHIE zginął z powodu twojego niedbalstwa! Bez tego bohatera, cel misji pozostanie dla ciebie nieosiągalny!
 </text>
       </lang>
     </block>
@@ -566,6 +707,17 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held SIGURD erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+ZADANIE NIEWYKONANE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Krótka chwila niedbalstwa, tyle tylko trzeba, żebyś stracił życie! Twój przyjaciel i bohater SIGURD zginął z powodu twojego niedbalstwa! Bez tego bohatera, cel misji pozostanie dla ciebie nieosiągalny!
+</text>
+      </lang>
     </block>
     <block id="500">
       <lang code="CHN">
@@ -607,6 +759,17 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+ZADANIE NIEWYKONANE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Krótka chwila niedbalstwa, tyle tylko trzeba, żebyś stracił życie! Twój przyjaciel i bohater smok NORBERT zginął z powodu twojego niedbalstwa! Bez tego bohatera, cel misji pozostanie dla ciebie nieosiągalny! 
+</text>
+      </lang>
     </block>
     <block id="50_end">
       <lang code="CHN">
@@ -632,11 +795,19 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 </text>
         <usericon>1,50,16</usericon>
       </lang>
+      <lang code="pol">
+        <text> 
+"Obyście żyli długo! To dla was, którzy sami przepędziliście napastników z naszych korytarzy. Przyjmijcie proszę te plany konstrukcyjne Wiszących Ogrodów jako symbol naszej wdzięczności. Leżały ukryte w szczelinie podziemnych korytarzy od wieków, a teraz może będą dla was wielce użyteczne."
+
+</text>
+        <usericon>1,50,16</usericon>
+      </lang>
     </block>
     <block id="50_end1">
       <lang code="CHN" />
       <lang code="eng" />
       <lang code="ger" />
+      <lang code="pol" />
     </block>
     <block id="50_endheader">
       <lang code="CHN">
@@ -657,6 +828,11 @@ MISSION COMPLETED!
 MISSION GEWONNEN! 
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+ZADANIE WYKONANE! 
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -675,6 +851,11 @@ UNDERGROUND HALLS
       <lang code="ger">
         <text> 
 UNTERIRDISCHE HALLEN
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+PODZIEMNE KORYTARZE
 </text>
       </lang>
     </block>

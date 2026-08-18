@@ -4,67 +4,80 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">建起你的村庄！</text>
       <text lang="eng">Build up your village!</text>
       <text lang="ger">Baue dein Dorf auf!</text>
+      <text lang="pol">Zbuduj osadę!</text>
     </string>
     <string id="1">
       <text lang="CHN">探索这片区域！</text>
       <text lang="eng">Explore the area!</text>
       <text lang="ger">Erkunde die Gegend!</text>
+      <text lang="pol">Zbadaj okolicę!</text>
     </string>
     <string id="2">
       <text lang="CHN">将好战之族逐出你的岛屿！</text>
       <text lang="eng">Drive the warmongering tribe from your island!</text>
       <text lang="ger">Vertreibe das Kriegerische Volk von deiner Insel!</text>
+      <text lang="pol">Przepędź wojownicze plemię z twojej wyspy!</text>
     </string>
     <string id="3">
       <text lang="CHN">摧毁好战之族的本土基地！</text>
       <text lang="eng">Destroy the home base of the warmongering tribe!</text>
       <text lang="ger">Zerstöre die Heimatbasis des Kriegerischen Volkes!</text>
+      <text lang="pol">Zniszcz główną bazę wojowniczego plemienia!</text>
     </string>
     <string id="4">
       <text lang="CHN">抵御可能的来犯之敌，保卫你的部族！</text>
       <text lang="eng">Defend your tribe against possible aggressors!</text>
       <text lang="ger">Verteidige deinen Stamm vor möglichen Aggressoren!</text>
+      <text lang="pol">Obroń swoje plemię przed ewentualnymi agresorami!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的部族</text>
       <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarnis Stamm</text>
+      <text lang="pol">Plemię Bjarniego</text>
     </string>
     <string id="51">
       <text lang="CHN">前哨 1</text>
       <text lang="eng">Outpost 1</text>
       <text lang="ger">Vorposten 1</text>
+      <text lang="pol">Zwiad 1</text>
     </string>
     <string id="52">
       <text lang="CHN">好战者</text>
       <text lang="eng">Warmongers</text>
       <text lang="ger">Kriegstreiber</text>
+      <text lang="pol">Wojownicze plemię</text>
     </string>
     <string id="53">
       <text lang="CHN">前哨 2</text>
       <text lang="eng">Outpost 2</text>
       <text lang="ger">Vorposten 2</text>
+      <text lang="pol">Zwiad 2</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="98">
       <text lang="CHN">维京人正欲在一座冰雪小岛上定居，却撞见了某个好战部族的前哨。此役极为艰巨！</text>
       <text lang="eng">The Vikings were about to settle on a snowy island when they came across an outpost belonging to a warmongering tribe. This mission will be very hard!</text>
       <text lang="ger">Die Wikinger wollen auf einem verschneiten Eiland siedeln, als sie auf die Vorposten eines kriegerischen Volkes stoßen. Diese Mission erweist sich als sehr schwer!</text>
+      <text lang="pol">Wikingowie chcieli osiedlić się na wyspie, ale natknęli się na oddział zwiadowczy wojowniczego plemienia. Ta misja nie będzie łatwa!</text>
     </string>
     <string id="99">
       <text lang="CHN">冷战</text>
       <text lang="eng">COLD WAR</text>
       <text lang="ger">KALTER KRIEG</text>
+      <text lang="pol">ZIMNA WOJNA</text>
     </string>
   </strings>
   <briefings>
@@ -105,6 +118,17 @@ Du besitzt bereits ein paar Briefe zum Setzen beliebiger Häuser! Du solltest si
 Die Pilze nahe des Goldberges werden es dir ermöglichen, viele Tränke zu brauen. Du wirst sie später sicherlich brauchen können!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Zatrzymaliśmy się na wyspie leżącej na północy, gdyż kończyły się zapasy na naszych statkach. Na razie nie mamy szans na wydostanie się stąd. Najpierw musimy zgromadzić odpowiednią ilość żywności i zbadać okolicę, czy nie grozi nam tu niebezpieczeństwo, na przykład ze strony tubylców.
+
+Wprawdzie klimat jest tu zimny, ale miejsce idealnie nadaje się na budowę osady. Postanowiliśmy zostać przez pewien czas na wyspie i spędzić tu zimę.
+
+Wskazówka:
+Dysponujesz już kilkoma listami umożliwiającymi stawianie budynków! Zachowaj je jednak na później, gdy będziesz ich pilnie potrzebował!
+Dzięki grzybom rosnącym w pobliżu złotej góry będziesz mógł sporządzić mikstury, które później z pewnością ci się przydadzą!
+</text>
+      </lang>
     </block>
     <block id="begin_01">
       <lang code="CHN">
@@ -131,6 +155,15 @@ VORPOSTEN 1
 
 Wer da? Stehen bleiben!
 Wir sind der erste Vorposten unseres Stammes auf dem Festland! Dies ist unsere Insel! Verschwinde freiwillig, oder wir werden deinen Stamm von hier vertreiben!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+ZWIADOWCY 1
+
+Kto tam? Stój!
+Jesteśmy pierwszym oddziałem zwiadowczym naszego plemienia na tym lądzie! To nasza wyspa! Odejdźcie stąd dobrowolnie, albo was przepędzimy!
 </text>
       </lang>
     </block>
@@ -161,6 +194,15 @@ Wer da? Stehen bleiben!
 Wir sind der Vorposten zwei unseres Stammes auf dem Festland! Dies ist unsere Insel! Verschwinde freiwillig, oder wir werden deinen Stamm von hier vertreiben!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+ZWIADOWCY 2
+
+Kto tam? Stój!
+Jesteśmy drugim oddziałem zwiadowczym naszego plemienia na tym lądzie! To nasza wyspa! Odejdźcie stąd dobrowolnie, albo was przepędzimy!
+</text>
+      </lang>
     </block>
     <block id="begin_03">
       <lang code="CHN">
@@ -180,6 +222,12 @@ Intruders! What do you want? ... Soldiers, eliminate them!
 Eindringlinge! Was wollt ihr hier? ... Soldaten, vernichtet sie!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+Intruzi! Czego tu chcecie? Żołnierze, zabić ich!
+</text>
+      </lang>
     </block>
     <block id="begin_04">
       <lang code="CHN">
@@ -197,6 +245,12 @@ Bjarni has died!
         <text>
 
 Bjarni ist gestorben!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+Bjarni nie żyje!
 </text>
       </lang>
     </block>
@@ -230,6 +284,14 @@ Wir wollten nun auf unser Eiland zurückkehren - und es zu unserer neuen Heimat 
 Auf dem Festland errichteten wir unseren Vorposten - der uns vor neuen Gefahren warnen würde, die vom Festland her drohen könnten. Doch vorerst hatten wir nichts mehr zu befürchten...
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+Zwycięstwo! Wojownicze plemię zostało pokonane. Nie musimy się już ich bać! Teraz pragnęliśmy jedynie wrócić na wyspę i ogłosić ją naszą nową ojczyzną! Tak zażarcie walczyliśmy o tę wyspę, że z biegiem czasu stała nam się bardzo bliska.
+
+Na stałym lądzie zbudowaliśmy placówkę, która miała ostrzegać nas przed ewentualnym niebezpieczeństwem grożącym z głębi lądu. Na razie jednak nie mieliśmy powodów do obaw...
+</text>
+      </lang>
     </block>
     <block id="begin_06">
       <lang code="CHN">
@@ -247,6 +309,12 @@ The Vikings have been destroyed!
         <text>
 
 Die Wikinger wurden vernichtet!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+Wikingowie zostali pokonani!
 </text>
       </lang>
     </block>
@@ -268,6 +336,12 @@ The guard had said that this was the "first outpost on the mainland" - so there 
 Dieser Vorposten erwähnte "dies sei der erste Vorposten" - also musste es noch einen anderen hier geben!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+Ci zwiadowcy powiedzieli, że są pierwszym oddziałem zwiadowczym, co oznacza, że musi tu być jeszcze inny oddział!
+</text>
+      </lang>
     </block>
     <block id="begin_08">
       <lang code="CHN">
@@ -285,6 +359,12 @@ The guard had said that this was the "second outpost on the mainland" - so there
         <text>
 
 Dieser Vorposten erwähnte "dies sei Vorposten zwei" - also musste es noch einen anderen hier geben!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+Ci zwiadowcy powiedzieli, że są drugim oddziałem zwiadowczym, co oznacza, że musi tu być jeszcze inny oddział!
 </text>
       </lang>
     </block>
@@ -306,6 +386,12 @@ Now for the other outpost of the warmongers!
 Jetzt kommt der andere Vorposten der Kriegstreiber dran!!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+Teraz rozprawimy się z drugim oddziałem zwiadowczym, wysłanym przez wojownicze plemię!
+</text>
+      </lang>
     </block>
     <block id="begin_10">
       <lang code="CHN">
@@ -323,6 +409,12 @@ Now for the other outpost of the warmongers!
         <text>
 
 Jetzt kommt der andere Vorposten der Kriegstreiber dran!!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+Teraz rozprawimy się z drugim oddziałem zwiadowczym, wysłanym przez wojownicze plemię!
 </text>
       </lang>
     </block>
@@ -362,6 +454,16 @@ Und wer wusste schon, was geschehen würde, wenn der Stamm der Kriegstreiber mit
 Wir wollten also auf der Hut sein!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+Oddziały zwiadowcze zostały pokonane i tym samym zostaliśmy sami na wyspie...
+
+Istniało jednak niebezpieczeństwo, że wojownicze plemię znów zaatakuje. Postanowiliśmy więc ubiec wroga i zaatakować go na jego własnej wyspie. Wróciliśmy do naszej osady, aby przygotować się do ataku. Naszemu cieśli zleciliśmy budowę floty wojennej. Kto wie, co by się stało, gdyby wojownicze plemię wiedziało, co stało się z ich zwiadowcami!
+
+Musimy więc być ostrożni!
+</text>
+      </lang>
     </block>
     <block id="begin_12">
       <lang code="CHN">
@@ -384,6 +486,12 @@ Der Kampf war vorüber, die finsteren Angreifer waren vernichtet.
 Doch es schien noch einige Anhänger unserer Feinde zu geben, die wir aufspüren und in ihre Schranken weisen wollten, um ein erneutes Aufflackern des Konfliktes zu vermeiden!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+Wojna się skończyła, a wojownicze plemię zostało pokonane. Postanowiliśmy jednak wytropić i poskromić zwolenników naszych wrogów, aby tym sposobem uniknąć ponownego wybuchu konfliktu!
+</text>
+      </lang>
     </block>
     <block id="begin_13">
       <lang code="CHN">
@@ -403,6 +511,12 @@ Ahhhh! It is you! You destroyed our outposts, and now you dare to show your face
 Ahhhh! Ihr seid es! Ihr habt unsere Vorposten zerstört, und wagt es, euch hier blicken zu lassen? Wir werden es euch zeigen - denn nun werden wir euer Dorf zerstören!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+To wy zabiliście naszych zwiadowców i jeszcze macie odwagę pokazywać się tu?! Zemścimy się na was - teraz my zniszczymy waszą osadę!
+</text>
+      </lang>
     </block>
     <block id="begin_14">
       <lang code="CHN">
@@ -420,6 +534,12 @@ We are the masters of this island! Leave here or you will die! We will fight you
         <text>
 
 Wir sind die Herrscher dieser Insel! Schert euch fort, oder ihr seid des Todes! Wir werden euch mit allen Mitteln bekämpfen!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+My jesteśmy władcami tej wyspy! Odejdźcie stąd, albo czeka was śmierć! Zrobimy wszystko, żeby was pokonać!
 </text>
       </lang>
     </block>
@@ -443,6 +563,12 @@ KALTER KRIEG
 
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+ZIMNA WOJNA
+</text>
+      </lang>
     </block>
     <block id="lost">
       <lang code="CHN">
@@ -462,6 +588,12 @@ MISSION FAILED!
 MISSION VERLOREN!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+NIEPOWODZENIE MISJI!
+</text>
+      </lang>
     </block>
     <block id="won">
       <lang code="CHN">
@@ -479,6 +611,12 @@ MISSION COMPLETED!
         <text>
 
 MISSION GEWONNEN!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+MISJA ZAKOŃCZONA POMYŚLNIE!
 </text>
       </lang>
     </block>

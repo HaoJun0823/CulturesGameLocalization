@@ -4,62 +4,74 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">每个部族都欲将这片土地据为己有。击败对手，引领你的部族走向黄金未来！</text>
       <text lang="eng">Each tribe strives to possess these lands. Fight your opponents and lead your tribe to a golden future!</text>
       <text lang="ger">Jeder Stamm versucht, das Land zu seinem Eigen zu machen. Bekämpfe deine Gegner und führe deinen Stamm in eine goldene Zukunft!</text>
+      <text lang="pol">Każde z plemion próbuje podbić tę krainę. Pokonaj przeciwników i uczyń swe plemię najpotężniejszym!</text>
     </string>
     <string id="10">
       <text lang="CHN">格陵兰人</text>
       <text lang="eng">Grasslanders</text>
       <text lang="ger">Grünländer</text>
+      <text lang="pol">Mieszkańcy Zielonego Kraju</text>
     </string>
     <string id="11">
       <text lang="CHN">格陵兰人</text>
       <text lang="eng">Grasslanders</text>
       <text lang="ger">Grünländer</text>
+      <text lang="pol">Mieszkańcy Zielonego Kraju</text>
     </string>
     <string id="20">
       <text lang="CHN">海卢兰人</text>
       <text lang="eng">Hellulanders</text>
       <text lang="ger">Helluländer</text>
+      <text lang="pol">Mieszkańcy Hellulandu</text>
     </string>
     <string id="21">
       <text lang="CHN">海卢兰人</text>
       <text lang="eng">Hellulanders</text>
       <text lang="ger">Helluländer</text>
+      <text lang="pol">Mieszkańcy Hellulandu</text>
     </string>
     <string id="30">
       <text lang="CHN">马克兰人</text>
       <text lang="eng">Marklanders</text>
       <text lang="ger">Markländer</text>
+      <text lang="pol">Mieszkańcy Marklandu</text>
     </string>
     <string id="31">
       <text lang="CHN">马克兰人</text>
       <text lang="eng">Marklanders</text>
       <text lang="ger">Markländer</text>
+      <text lang="pol">Mieszkańcy Marklandu</text>
     </string>
     <string id="40">
       <text lang="CHN">普拉特兰人</text>
       <text lang="eng">Flatlanders</text>
       <text lang="ger">Plattländer</text>
+      <text lang="pol">Mieszkańcy równiny</text>
     </string>
     <string id="41">
       <text lang="CHN">普拉特兰人</text>
       <text lang="eng">Flatlanders</text>
       <text lang="ger">Plattländer</text>
+      <text lang="pol">Mieszkańcy równiny</text>
     </string>
     <string id="98">
       <text lang="CHN">将这片土地据为己有，逐走你的对手！这里终将成为你维京殖民地的家园！</text>
       <text lang="eng">Make this territory your own and expel your opponents! One day, this will be the land of your Viking colony!</text>
       <text lang="ger">Mache dir das Land zu Eigen und vertreibe deine Gegner! Dies wird einmal das Land deiner Wikingerkolonie sein!</text>
+      <text lang="pol">Podbij krainę i przepędź swych przeciwników! Tu będzie kiedyś kolonia twoich Wikingów!</text>
     </string>
     <string id="99">
       <text lang="CHN">军事：殖民化</text>
       <text lang="eng">Military: COLONIZATION</text>
       <text lang="ger">Militär: KOLONIALISIERUNG</text>
+      <text lang="pol">WOJSKO: KOLONIZACJA</text>
     </string>
   </strings>
   <briefings>
@@ -93,6 +105,17 @@ Wer am nächsten zu den Rohstoffen siedelt, hält den Schlüssel zum Sieg in der
 In diesem Land gibt es viele Schätze zu entdecken, wer sie sich am ehesten sichert, kann vielleicht den entscheidenden Vorteil erringen!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+Rywalizujące plemiona Wikingów obrały sobie za cel tę samą krainę. Plemiona te nie osiągnęły jeszcze niczego, ale władzy pragną ponad wszystko!
+
+Uczyń swe plemię najpotężniejszym w kraju! Znajdź odpowiednie miejsce pod budowę osady, ale pamiętaj - twoi przeciwnicy uczynią to samo. 
+
+Kto osiedli się najbliżej złóż, ma zwycięstwo w dłoni...
+
+W tym kraju jest wiele bogactw do odkrycia. Kto jako pierwszy zabezpieczy je dla siebie, ma największe szanse na zwycięstwo!
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -111,6 +134,13 @@ COLONIZATION
         <text>
 
 KOLONIALISIERUNG
+
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+KOLONIZACJA
 
 </text>
       </lang>

@@ -4,87 +4,104 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@寻得世界树尤克特拉希尔，恳请进入冥界！</text>
       <text lang="eng">@Find the World Tree Yggdrasil and ask for passage to the Underworld!</text>
       <text lang="ger">@Finde die Weltenesche Yggdrasil und erbitte den Einlass zur Unterwelt!</text>
+      <text lang="pol">@Odszukaj Yggdrasil, wieczny jesion i uzyskaj zgodę na wpuszczenie do podziemnego świata!</text>
     </string>
     <string id="1">
       <text lang="CHN">寻找东北面的维京人村庄。</text>
       <text lang="eng">Find the Viking village in the north-east.</text>
       <text lang="ger">Suche das Wikingerdorf im Nordosten.</text>
+      <text lang="pol">Odszukaj wioskę Wikingów na północnym wschodzie.</text>
     </string>
     <string id="2">
       <text lang="CHN">向维京人村庄缴纳其所索贡金，以获取情报与贸易协定。</text>
       <text lang="eng">Pay the Viking village the required tribute for information and trade agreements.</text>
       <text lang="ger">Zahle den Wikingerdorf den geforderten Tribut für Informationen und Handelsverträge.</text>
+      <text lang="pol">Zapłać mieszkańcom wioski żądany trybut za informacje i umowy handlowe.</text>
     </string>
     <string id="3">
       <text lang="CHN">建造一座神殿。</text>
       <text lang="eng">Build a temple.</text>
       <text lang="ger">Baue einen Tempel.</text>
+      <text lang="pol">Zbuduj świątynię.</text>
     </string>
     <string id="4">
       <text lang="CHN">与全部英雄一同抵达世界树尤克特拉希尔。</text>
       <text lang="eng">Reach the World Tree Yggdrasil with ALL your heroes.</text>
       <text lang="ger">Erreiche mit ALLEN Helden die Weltenesche Yggdrasil.</text>
+      <text lang="pol">Dotrzyj wraz ze WSZYSTKIMI bohaterami do świętego drzewa Yggdrasil.</text>
     </string>
     <string id="31">
       <text lang="CHN">向维京人村庄缴纳 10 单位铁制工具作贡金。</text>
       <text lang="eng">Give the Viking village a tribute of 10 iron tools.</text>
       <text lang="ger">Reiche dem Wikingerdorf 10 Eisenwerkzeuge zum Tribut.</text>
+      <text lang="pol">Wręcz Wikingom trybut w postaci 10 narzędzi.</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的部族</text>
       <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarnis Stamm</text>
+      <text lang="pol">Plemię Bjarniego</text>
     </string>
     <string id="51">
       <text lang="CHN">维京人</text>
       <text lang="eng">Vikings</text>
       <text lang="ger">Wikinger</text>
+      <text lang="pol">Wikingowie</text>
     </string>
     <string id="52">
       <text lang="CHN">世界树教团</text>
       <text lang="eng">Yggdrasil Order</text>
       <text lang="ger">Yggdrasils-Orden</text>
+      <text lang="pol">Strażnicy świętego drzewa</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="pol">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
       <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
+      <text lang="pol">Hatschi</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="pol">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">伊科尔</text>
       <text lang="eng">Ykol</text>
       <text lang="ger">Ykol</text>
+      <text lang="pol">Ykol</text>
     </string>
     <string id="98">
       <text lang="CHN">当希拉为芬里尔狼戴上锁链，她便随它一同被拽入了瓦尔哈拉。可有办法将她救回？</text>
       <text lang="eng">As Cyra put the chain on Fenrir, the Fenris Wolf, she was dragged with him to Valhalla. Can she be saved?</text>
       <text lang="ger">Als Cyra dem Fenriswolf die Kette anlegte, wurde sie zusammen mit ihm nach Walhalla gezogen. Gibt es eine Möglichkeit sie zu retten?</text>
+      <text lang="pol">Cyra nałożyła Fenrisowi łańcuch, ale została wciągnięta wraz z nim do Walhalla. Czy uda się ją uratować?</text>
     </string>
     <string id="99">
       <text lang="CHN">北地</text>
       <text lang="eng">NORTHLAND</text>
       <text lang="ger">NORDLAND</text>
+      <text lang="pol">PÓŁNOC</text>
     </string>
   </strings>
   <briefings>
@@ -105,6 +122,11 @@ Something unnatural surrounded her, and we were unable to return her body to the
         <text> 
 Tiefe Trauer umgab uns nach dem Verlust von Cyra! Ihr lebloser Körper schien um keine Minute zu altern, seitdem ihr Geist mit Fenrir fortgezogen wurde. 
 Etwas Unwirkliches umgab sie, und wir vermochten es nicht, ihren Körper der Erde zurückzugeben... 
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+Głęboki smutek ogarnął nas po utracie Cyry! Jej martwe ciało nic nie straciło na powabie od czasu uprowadzenia jej ducha przez Fenrisa. Otaczała je magiczna aura, a my nie mogliśmy znieść myśli o złożeniu jej ciała w ziemi...
 </text>
       </lang>
     </block>
@@ -134,6 +156,15 @@ Ykol, der in mythologischen Dingen sehr bewandert war, sprach davon, dass Cyras 
 Nur wenige hatten es geschafft, Asgard aufzusuchen, ohne mit ihrem Leben zu bezahlen. Der Weg dahin, so meinte er, führt über die immergrüne Weltenesche Yggdrasil am Brunnen der Urd. Dieser Baum trägt die Welt, seine Zweige breiten sich über den Himmel aus bis zur Erde, sie verbinden das Götterland Asgard mit dem Menschenland Midgard, und beide wiederum mit den unterirdischen Reichen Hel und Niflheim.
 
 Begib dich zur Weltenesche Yggdrasil. Zuvor suche jedoch die Umgebung nach Hinweisen ab!
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+Ykol, który posiadł szeroką wiedzę w dziedzinie mitologii, powiedział nam, że duch Cyry został uprowadzony do Asgardu, krainy bogów. Istnieje jednak sposób na sprowadzenie ducha z powrotem do świata ludzi.
+
+Wielu śmiałków próbowało już odnaleźć Asgard, płacąc za to życiem. Ykol twierdzi, że droga do świata bogów prowadzi przez Yggdrasil, wiecznie zielony jesion, u stóp którego bije źródło Urd. Drzewo to dźwiga na swych konarach cały świat, jego gałęzie sięgają nieba i ziemi, łącząc świat bogów Asgard ze światem ludzi Midgardem, a te - z podziemnymi krainami Hel i Niflheim.
+
+Udaj się do Yggdrasil, wiecznie zielonego drzewa świata. Najpierw jednak poszukaj wskazówek w okolicy!
 </text>
       </lang>
     </block>
@@ -166,6 +197,17 @@ Wir stießen auf ein Wikingerdorf. Sie betrachteten uns mit Argwohn, waren uns j
 Diese Wikinger besaßen außerdem Rohstoffe, die sehr knapp in diesen kargen Gebieten bemessen waren.
 
 Gegen einen Tribut konnten wir mit ihnen vielleicht Handel treiben und etwas über die Weltenesche erfahren...
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+WIOSKA
+
+Podczas wędrówki natknęliśmy się na wioskę Wikingów, powyżej której znajdują się strażnicy świętego drzewa. Jej mieszkańcy przyglądali się nam nieufnie, ale nie byli wrogo nastawieni.
+
+Wioska ta posiada surowce, które na tym jałowym terenie występują w bardzo niewielkich ilościach.
+
+Może w zamian za trybut będziemy mogli handlować z Wikingami i dowiemy się czegoś o świętym jesionie...
 </text>
       </lang>
     </block>
@@ -203,6 +245,17 @@ Nachdem wir ihnen den Tribut überbracht hatten, bot uns das Dorf zahlreiche Han
 Errichtet einen neuen Tempel und die Wächter werden eure guten Absichten billigen. 
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+WIOSKA
+
+Jak tylko wręczyliśmy trybut, mieszkańcy wioski złożyli nam liczne oferty handlowe i udzielili nam cennej wskazówki, jak dostać się do świętego drzewa.
+
+"Strażnicy jesionu" wpuszczają do podziemnego świata tylko ludzi czystego serca. Kiedyś - aby udowodnić swą czystość - ludzie wznosili świątynie i tym sposobem docierali do innego świata. Ale potem świątynie były burzone, przez co strażnicy stali się bardzo nieufni..."
+
+Zbudujcie nową świątynię, a strażnicy docenią wasze starania.
+</text>
+      </lang>
     </block>
     <block id="03_player_2_seen_orden">
       <lang code="CHN">
@@ -236,6 +289,17 @@ YGGRADILS ORDEN
 "Stellt die Reinheit eurer Seele unter Beweis und errichtet einen neuen geweihten Ort! Harrt dort einige Zeit in Demut aus, und unsere Brüder werden euch holen kommen. Dann sei euch der Weg in die Unterwelt gewährt!"
 
 Baue einen neuen Tempel. 
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+STRAŻNICY ŚWIĘTEGO DRZEWA
+
+"Podwoje świętego drzewa Yggdrasil stoją otworem tylko dla ludzi czystego serca. A my strzeżemy tego świętego przybytku, aby już nigdy więcej nie wykorzystano go w służbie zła!" - mówili strażnicy. "Jeśli wam życie miłe, nie ważcie się podchodzić bliżej."
+
+"Dajcie dowód czystości waszych serc i wznieście świątynię! Trwajcie tam w pokorze, aż nasi bracia przyjdą po was. A wtedy droga do podziemnego świata stanie przed wami otworem!"
+
+Zbuduj nową świątynię.
 </text>
       </lang>
     </block>
@@ -273,6 +337,17 @@ YGGDRASILS ORDEN
 Wir lassen dich, Bjarni, mit deinen beiden Freunden Hatschi und Sigurd passieren!"
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+STRAŻNICY ŚWIĘTEGO DRZEWA
+
+"Podwoje świętego drzewa Yggdrasil stoją otworem tylko dla ludzi czystego serca. A my strzeżemy tego świętego przybytku, aby już nigdy więcej nie wykorzystano go w służbie zła!"
+
+"Ponieważ daliście dowód czystości waszych serc i zbudowaliście świątynię, możecie przejść przez bramę.
+
+Pozwalamy tobie, Bjarni, i twym dwóm przyjaciołom Hatschiemu i Sigurdowi przekroczyć podwoje świętego drzewa!"
+</text>
+      </lang>
     </block>
     <block id="05_Ykol">
       <lang code="CHN">
@@ -305,6 +380,15 @@ Er rief: "Mir nach, Freunde!" und wart fortan nicht mehr von uns gesehen...
 Ob er unbeschadet den Weg in die Welt der Götter finden würde? Ihm hatten die Wächter den Zutritt zur Weltenesche ja eigentlich gar nicht gestattet! 
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+Brakuje mi słów, aby opowiedzieć, co zdarzyło się później...
+
+Ykol zlekceważył ostrzeżenia strażników, pędem minął ich w bramie i wbiegł do wnętrza drzewa. Strażnicy jednak sprawiali wrażenie, jakby tego w ogóle nie zauważyli... Ykol zawołał: "Za mną, przyjaciele!" i od tego czasu już go nie widzieliśmy...
+
+Czy Ykol znajdzie drogę do krainy bogów? Czy uda mu się wyjść cało z tej przygody? Przecież strażnicy nie zezwolili mu na wejście do świętego drzewa!
+</text>
+      </lang>
     </block>
     <block id="06_temple">
       <lang code="CHN">
@@ -326,6 +410,13 @@ A magnificent temple rose to the sky and turned this place into sacred ground. W
 TEMPEL GEBAUT! 
 
 Ein prächtiger Tempel erhob sich gen Himmel und verwandelte die Umgebung in geweihtes Land. Nun sollte uns YGGRADILS ORDEN zur Weltenesche vorlassen...
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+ŚWIĄTYNIA ZBUDOWANA!
+
+Wybudowaliśmy okazałą świątynię. Teraz STRAŻNICY ŚWIĘTEGO DRZEWA powinni nas wpuścić...
 </text>
       </lang>
     </block>
@@ -355,6 +446,15 @@ YGGRADILS ORDEN
 "Nun seid ihr des Todes! Ihr wolltet ja nicht auf unsere Warnung hören!"
 
 Mit diesen Worten fielen die Helden und Anführer deiner Wikinger einem furchtbaren Fluch des Ordens zum Opfer und starben eines schrecklichen Todes.
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+STRAŻNICY ŚWIĘTEGO DRZEWA
+
+"Nie posłuchaliście naszego ostrzeżenia! Więc czeka was śmierć!"
+
+Strażnicy świętego drzewa rzucili na bohaterów i przywódców Wikingów straszliwą klątwę. Wikingowie ponieśli śmierć.
 </text>
       </lang>
     </block>
@@ -402,6 +502,19 @@ Manchmal schien es mir fast, sie wolle uns vor einer drohenden Gefahr warnen...
 
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+
+...
+
+Kilka razy widziałem na Północy ducha Cyry. Ledwo dostrzegalna, pojawiała się i znikała, nie dając mi żadnego znaku.
+
+Czasami zdawało mi się, że chciała nas ostrzec przed grożącym nam niebezpieczeństwem...
+[blockend: 08]
+
+
+</text>
+      </lang>
     </block>
     <block id="100">
       <lang code="CHN">
@@ -435,6 +548,17 @@ MISSION VERLOREN!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+NIEPOWODZENIE MISJI!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Bohaterstwo czy lekkomyślność? Gdy umarł Bjarni, opłakiwali go bogowie... Bez tego bohatera nie dokończysz misji.
 </text>
       </lang>
     </block>
@@ -472,6 +596,17 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Hatschi erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+NIEPOWODZENIE MISJI!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Chwilowy brak rozwagi i po wszystkim! Twój przyjaciel i bohater Hatschi zginął z powodu twojej lekkomyślności! Bez niego nie uda ci się dokończyć misji.
+</text>
+      </lang>
     </block>
     <block id="400">
       <lang code="CHN">
@@ -505,6 +640,17 @@ MISSION VERLOREN!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Sigurd erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+NIEPOWODZENIE MISJI!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Chwilowy brak rozwagi i po wszystkim! Sigurd zginął z powodu twej lekkomyślności! Bez niego nie uda ci się dokończyć misji.
 </text>
       </lang>
     </block>
@@ -542,6 +688,17 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Ykol erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+NIEPOWODZENIE MISJI!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Chwilowy brak rozwagi i po wszystkim! Ykol zginął z powodu twej lekkomyślności! Bez niego nie uda ci się dokończyć misji.
+</text>
+      </lang>
     </block>
     <block id="50_end">
       <lang code="CHN">
@@ -559,6 +716,11 @@ The entrance to the World Tree Yggdrasil was surrounded by knotty roots. A dark,
 Der Eingang zur Weltenesche Yggdrasil war umgeben von knorrigen Baumwurzeln. Ein dunkler, unheimlicher Schlund zog uns in die Tiefe. Dort würden wir erst das Reich der Totengöttin Hel durchqueren müssen, bevor wir zu den Göttern in Asgard gelangen konnten. 
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+Wejście do Yggdrasil, wiecznie zielonego jesionu, otaczały sękate korzenie. W głąb drzewa prowadziła ciemna, przejmująca grozą gardziel. Zanim jednak dotrzemy do Asgardu, krainy bogów, musimy przedostać się przez królestwo umarłych, którym włada bogini Hel.
+</text>
+      </lang>
     </block>
     <block id="50_end1">
       <lang code="CHN">
@@ -574,6 +736,11 @@ The deeper we went, the warmer and darker it became, and soon we had forgotten t
       <lang code="ger">
         <text> 
 Je tiefer wir gelangten, desto wärmer und dunkler wurde die Umgebung, und schnell hatten wir das eisige Klima von Nordland vergessen ...
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+Im bardziej zapuszczaliśmy się w głąb drzewa świata, tym było coraz cieplej i ciemniej. Wkrótce zapomnieliśmy o lodowatym klimacie północy...
 </text>
       </lang>
     </block>
@@ -596,6 +763,12 @@ MISSION COMPLETED!
 MISSION GEWONNEN! 
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+
+MISJA ZAKOŃCZONA POMYŚLNIE!
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -614,6 +787,12 @@ NORTHLAND
         <text> 
 
 NORDLAND
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+
+PÓŁNOC
 </text>
       </lang>
     </block>

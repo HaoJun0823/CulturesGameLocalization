@@ -4,87 +4,104 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@寻找年幼的希罗斯特拉特斯，将其关入地牢！</text>
       <text lang="eng">@FIND HEROSTRATES THE YOUNGER AND PUT HIM IN THE DUNGEON!</text>
       <text lang="ger">@SUCHE HEROSTRATIS DEN JÜNGEREN UND SPERRE IHN INS VERLIES!</text>
+      <text lang="pol">@ZNAJDŹ HEROSTRATESA MŁODSZEGO I OSADŹ GO W LOCHU!</text>
     </string>
     <string id="1">
       <text lang="CHN">寻找地牢！</text>
       <text lang="eng">Find the dungeon!</text>
       <text lang="ger">Suche das Verlies!</text>
+      <text lang="pol">Znajdź loch!</text>
     </string>
     <string id="2">
       <text lang="CHN">设法绕过希罗斯特拉特斯的随从！</text>
       <text lang="eng">Try to get past Herostrates the Younger!</text>
       <text lang="ger">Versuche an Herostrates Jüngern vorbei zu gelangen!</text>
+      <text lang="pol">Spróbuj przedostać się do Herostratesa Młodszego!</text>
     </string>
     <string id="3">
       <text lang="CHN">与英雄一同返回入口！</text>
       <text lang="eng">Take the heroes back to the entrance!</text>
       <text lang="ger">Gehe mit den Helden zurück zum Eingang!</text>
+      <text lang="pol">Zabierz bohaterów z powrotem do wyjścia!</text>
     </string>
     <string id="55">
       <text lang="CHN">希罗斯特拉特斯的继承者</text>
       <text lang="eng">Herostrates' Heirs</text>
       <text lang="ger">Herostrates Erben</text>
+      <text lang="pol">Spadkobiercy Herostratesa </text>
     </string>
     <string id="56">
       <text lang="CHN">希罗斯特拉特斯</text>
       <text lang="eng">Herostrates</text>
       <text lang="ger">Herostrates</text>
+      <text lang="pol">Herostrates</text>
     </string>
     <string id="65">
       <text lang="CHN">继承者</text>
       <text lang="eng">Heirs</text>
       <text lang="ger">Erben</text>
+      <text lang="pol">Spadkobiercy</text>
     </string>
     <string id="66">
       <text lang="CHN">希罗斯特拉特斯</text>
       <text lang="eng">Herostrates</text>
       <text lang="ger">Herostrates</text>
+      <text lang="pol">Herostrates</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="pol">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
       <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
+      <text lang="pol">Hatchie</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="pol">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">诺伯特</text>
       <text lang="eng">Norbert</text>
       <text lang="ger">Norbert</text>
+      <text lang="pol">Norbert</text>
     </string>
     <string id="76">
       <text lang="CHN">玛尼</text>
       <text lang="eng">Mani</text>
       <text lang="ger">Mani</text>
+      <text lang="pol">Mani</text>
     </string>
     <string id="77">
       <text lang="CHN">希罗斯特拉特斯</text>
       <text lang="eng">Herostrates</text>
       <text lang="ger">Herostrates</text>
+      <text lang="pol">Herostrates</text>
     </string>
     <string id="99">
       <text lang="CHN">希罗斯特拉特斯继承者</text>
       <text lang="eng">HEROSTRATES' HEIRS</text>
       <text lang="ger">HEROSTRATES ERBEN </text>
+      <text lang="pol">SPADKOBIERCY HEROSTRATESA</text>
     </string>
   </strings>
   <briefings>
@@ -105,6 +122,13 @@ In order to avert the danger from the Temple, we followed the arsonist army thro
       <lang code="ger">
         <text> 
 Um die Bedrohung vom Tempel abzuwenden, folgten wir der Scharr Brandstifter durch einen Berggang in eine scheinbar andere Welt. Dieser Ort konnte nur durch diesen einen Eingang betreten werden. Nie hätten wir einen solchen Ort in den Bergen vermutet!
+
+</text>
+        <usericon>1,40,298</usericon>
+      </lang>
+      <lang code="pol">
+        <text> 
+Aby odwrócić niebezpieczeństwo od Świątyni, podążyliśmy za armią podpalaczy górskimi ścieżkami do, na pozór, innego świata. To miejsce mogło być dostępne tylko przez to przejście. Nigdy nie oczekiwaliśmy znaleźć takie miejsce w górach!
 
 </text>
         <usericon>1,40,298</usericon>
@@ -142,6 +166,15 @@ Schließlich würden die Angriffe erst enden, nachdem man Herostrates den Jünge
 Finde Herostrates den Jüngeren und sperre ihn in ein Verlies! Achte auf geheime Gänge!
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+Aby zakończyć grę "spadkobierców Herostratesa ", musieliśmy pokonać jego uczniów i ziejącego ogniem smoka! 
+
+Gdy było po wszystkim, wiedzieliśmy, że ataki nie zakończą się do czasu, aż Herostrates Młodszy nie zostanie osadzony w lochu, tak aby nie mógł podburzać więcej ludzi.
+
+Odnajdź Herostratesa Młodszego i osadź go w lochu! Uważaj na sekretne ścieżki i przejścia!
+</text>
+      </lang>
     </block>
     <block id="01">
       <lang code="CHN">
@@ -169,6 +202,13 @@ DIE ERBEN HEROSTRATES
 "Hey, ihr da! Wer hat euch den Zutritt in unser Gebiet gestattet?"
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+SPADKOBIERCY HEROSTRATESA
+
+"Hej, ty! Kto zezwolił ci wkroczyć na nasze terytorium?"
+</text>
+      </lang>
     </block>
     <block id="02">
       <lang code="CHN">
@@ -194,6 +234,13 @@ THE HEIRS' SECRET HIDING PLACE
 DAS GEHEIMVERSTECK DER ERBEN
 
 "Ihr wollt unseren Anführer Herostrates in ein Verlies sperren? Das werden wir nie zulassen!"
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+SEKRETNA KRYJÓWKA SPADKOBIERCÓW 
+
+"Chcesz osadzić naszego przywódcę Herostratesa w lochu? Nigdy ci na to nie pozwolimy!"
 </text>
       </lang>
     </block>
@@ -245,6 +292,19 @@ VERLIESWÄCHTER
 Dieser Platz ist heilig und wird von den Erben Herostrates nicht aufgesucht. Sperrt Herostrates hier hinein. Dann werde ich mich um ihn kümmern."
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+STRAŻNIK LOCHU 
+
+"Witam! Oczekiwałem cię. Podpalenie dokonane przez spadkobierców dokonało okropnych zniszczeń, które nikomu nie służą.
+
+</text>
+        <usericon>1,43,175</usericon>
+        <text>
+
+To miejsce jest poświęcone i nie jest odwiedzanie przez spadkobierców Herostratesa. Tutaj zamknij Herostratesa pod kluczem. Wówczas ja się nim zajmę."
+</text>
+      </lang>
     </block>
     <block id="04">
       <lang code="CHN">
@@ -292,6 +352,19 @@ HEROSTRATES
         <text>
 
 Bringe Herostrates in ein Verlies!
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+HEROSTRATES
+
+"Chcesz mnie zamknąć w lochu? Lepiej nie myśl sobie, że nie podążę stąd za tobą!"
+
+</text>
+        <usericon>2,7</usericon>
+        <text>
+
+Zabierz Herostratesa do lochu!
 </text>
       </lang>
     </block>
@@ -343,6 +416,19 @@ Wir hatten es geschafft! Herostrates war in dem Verlies gefangen und wurde von n
 Gehe mit deinen Helden zurück zum Eingang! 
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+HEROSTRATES W LOCHU!
+
+Dokonaliśmy tego! Herostrates został osadzony w lochu i jest teraz pilnowany przez strażnika lochu. Jego uczniowie nie będą w stanie wyciągnąć go stąd.
+
+</text>
+        <usericon>2,7</usericon>
+        <text>
+
+Zabierz swoich bohaterów z powrotem do wejścia! 
+</text>
+      </lang>
     </block>
     <block id="100">
       <lang code="CHN">
@@ -382,6 +468,17 @@ MISSION VERLOREN!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+ZADANIE NIEWYKONANE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroizm czy beztroska? Gdy Bjarni umarł, bogowie płakali ... bez tego bohatera, cel misji pozostanie dla ciebie nieosiągalny!
 </text>
       </lang>
     </block>
@@ -425,6 +522,17 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+ZADANIE NIEWYKONANE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Krótka chwila niedbalstwa, tyle tylko trzeba, żebyś stracił życie! Twoja bohaterka CYRA zginęła z powodu twojego niedbalstwa! Bez tej bohaterki, cel misji pozostanie dla ciebie nieosiągalny! 
+</text>
+      </lang>
     </block>
     <block id="300">
       <lang code="CHN">
@@ -464,6 +572,17 @@ MISSION VERLOREN!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held HATSCHI erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+ZADANIE NIEWYKONANE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Krótka chwila niedbalstwa, tyle tylko trzeba, żebyś stracił życie! Twój przyjaciel i bohater HATCHIE zginął z powodu twojego niedbalstwa! Bez tego bohatera, cel misji pozostanie dla ciebie nieosiągalny! 
 </text>
       </lang>
     </block>
@@ -507,6 +626,17 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held SIGURD erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+ZADANIE NIEWYKONANE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Krótka chwila niedbalstwa, tyle tylko trzeba, żebyś stracił życie! Twój przyjaciel i bohater SIGURD zginął z powodu twojego niedbalstwa! Bez tego bohatera, cel misji pozostanie dla ciebie nieosiągalny! 
+</text>
+      </lang>
     </block>
     <block id="500">
       <lang code="CHN">
@@ -548,6 +678,17 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+ZADANIE NIEWYKONANE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Krótka chwila niedbalstwa, tyle tylko trzeba, żebyś stracił życie! Twój przyjaciel i bohater smok NORBERT zginął z powodu twojego niedbalstwa! Bez tego bohatera, cel misji pozostanie dla ciebie nieosiągalny!
+</text>
+      </lang>
     </block>
     <block id="50_end">
       <lang code="CHN">
@@ -575,11 +716,19 @@ Wir waren zum Eingang der Bergwelt zurückgekehrt, nachdem wir Herostrates dem V
 </text>
         <usericon>1,24,287</usericon>
       </lang>
+      <lang code="pol">
+        <text> 
+Powróciliśmy do wejścia do górskiego świata po tym, jak przekazaliśmy Herostratesa strażnikowi lochu. Tam będzie pilnowany, i nie będzie już więcej podburzał ludzi do podkładania ognia.
+
+</text>
+        <usericon>1,24,287</usericon>
+      </lang>
     </block>
     <block id="50_end1">
       <lang code="CHN" />
       <lang code="eng" />
       <lang code="ger" />
+      <lang code="pol" />
     </block>
     <block id="50_endheader">
       <lang code="CHN">
@@ -599,6 +748,11 @@ MISSION COMPLETED!
       <lang code="ger">
         <text> 
 MISSION GEWONNEN! 
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+ZADANIE WYKONANE! 
 </text>
       </lang>
     </block>
@@ -642,6 +796,17 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+ZADANIE NIEWYKONANE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Krótka chwila niedbalstwa, tyle tylko trzeba, żebyś stracił życie! MANI, syn Bjarniego i Cyry zginął z powodu twojego niedbalstwa! Bez niego, cel misji pozostanie dla ciebie nieosiągalny!
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -661,6 +826,11 @@ HEROSTRATES' HEIRS
       <lang code="ger">
         <text> 
 DIE ERBEN HEROSTRATES
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+SPADKOBIERCY HEROSTRATESA 
 </text>
       </lang>
     </block>

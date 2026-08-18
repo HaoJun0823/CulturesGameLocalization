@@ -4,62 +4,74 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">简短说明 0</text>
       <text lang="eng">Shortdescription 0</text>
       <text lang="ger">Shortdescription 0</text>
+      <text lang="pol">Krótkiopis 0</text>
     </string>
     <string id="1">
       <text lang="CHN">简短说明 1</text>
       <text lang="eng">Shortdescription 1</text>
       <text lang="ger">Shortdescription 1</text>
+      <text lang="pol">Krótkiopis 1</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家</text>
       <text lang="eng">Player</text>
       <text lang="ger">Spieler</text>
+      <text lang="pol">Gracz</text>
     </string>
     <string id="51">
       <text lang="CHN">德米特里奥斯</text>
       <text lang="eng">Demetrios</text>
       <text lang="ger">Demetrios</text>
+      <text lang="pol">Demetrios</text>
     </string>
     <string id="60">
       <text lang="CHN">玩家</text>
       <text lang="eng">Player</text>
       <text lang="ger">Spieler</text>
+      <text lang="pol">Gracz</text>
     </string>
     <string id="61">
       <text lang="CHN">德梅</text>
       <text lang="eng">Demet</text>
       <text lang="ger">Demet</text>
+      <text lang="pol">Demet</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="78">
       <text lang="CHN">古纳尔</text>
       <text lang="eng">Gunnar</text>
       <text lang="ger">Gunnar</text>
+      <text lang="pol">Gunnar</text>
     </string>
     <string id="98">
       <text lang="CHN">巨像密道</text>
       <text lang="eng">COLOSSUS - SECRET PASSAGE</text>
       <text lang="ger">KOLOSS-GEHEIMGANG</text>
+      <text lang="pol">KOLOS - SEKRETNE PRZEJŚCIE</text>
     </string>
     <string id="99">
       <text lang="CHN">巨像密道</text>
       <text lang="eng">COLOSSUS - SECRET PASSAGE</text>
       <text lang="ger">KOLOSS-GEHEIMGANG</text>
+      <text lang="pol">KOLOS - SEKRETNE PRZEJŚCIE</text>
     </string>
     <string id="100">
       <text lang="CHN">将满载蜂蜜酒的推车运至隧道出口。已完全装满！</text>
       <text lang="eng">Take the cart full of mead to the exit of the tunnel. Make sure it is completely full!</text>
       <text lang="ger">Bring den Karren mit dem Met heil zum Ausgang des Tunnels. Komplett gefüllt!</text>
+      <text lang="pol">Zabierz wóz pełen miodu do wyjścia z tunelu. Upenij się, że wóz jest pełen!</text>
     </string>
   </strings>
   <briefings>
@@ -104,6 +116,20 @@ Lass also die Finger vom Met! Der ist nicht für dich bestimmt!
 Viel Glück!
 </text>
       </lang>
+      <lang code="pol">
+        <text> 
+Zabierz wóz pełen miodu do wyjścia, powinno wciąż być niezniszczone. Żołnierze będą cię eskortować i chronić przed potencjalnymi wrogami w tunelach.
+
+</text>
+        <usericon>1,91,129</usericon>
+        <text>
+
+I pamiętaj: Wóz musi być PEŁEN, gdy osiągniesz wyjście! 
+Nie ruszaj miodu! Nie jest przeznaczony dla ciebie!
+
+Powodzenia!
+</text>
+      </lang>
     </block>
     <block id="09_end_header">
       <lang code="CHN">
@@ -122,6 +148,11 @@ WELL DONE!
       <lang code="ger">
         <text> 
 GUT GEMACHT! 
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+DOBRA ROBOTA! 
 </text>
       </lang>
     </block>
@@ -148,6 +179,13 @@ Wait outside for Metros.
 Du hast den Karren mit den 10 Flaschen Met heil durch den unterirdischen Gang gebracht! Sehr gut.
 
 Warte draußen, bis Metros zu dir kommt.
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+Zdołałeś przeprowadzić wóz z 10 butelkami miodu przez podziemny pasaż niezniszczony! Dobra robota.
+
+Poczekaj na zewnątrz na Metrosa.
 </text>
       </lang>
     </block>
@@ -180,6 +218,15 @@ HEILENDE NEBEL
 Diese seltsamen Nebel hatten offensichtlich eine heilende Wirkung!
 
 Man musste sich nur wenige Sekunden darin aufhalten, schon wurden alle Wunden geheilt!
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+LECZĄCA MGŁA
+
+Te dziwne pasma mgły okazały się mieć lecznicze właściwości!
+
+Wystarczy, że zostaniesz we mgle na kilka sekund, a wszystkie twoje rany są uleczone!
 </text>
       </lang>
     </block>
@@ -223,6 +270,17 @@ MISSION VERLOREN!
 Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+ZADANIE NIEWYKONANE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Heroizm czy beztroska? Gdy Bjarni umarł, bogowie płakali ... bez tego bohatera, cel misji pozostanie dla ciebie nieosiągalny!
+</text>
+      </lang>
     </block>
     <block id="110">
       <lang code="CHN">
@@ -247,6 +305,13 @@ The cart carrying the mead has been destroyed! Your mission has failed!
 MISSION GESCHEITERT
 
 Der Wagen mit dem Met wurde zerstört! Dein Auftrag ist gescheitert!
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+ZADANIE NIEWYKONANE!
+
+Wóz przewożący miód został zniszczony! Twoja misja zakończyła się niepowodzeniem!
 </text>
       </lang>
     </block>
@@ -275,6 +340,14 @@ VERSTÄRKUNG
 
 Petros schickt dir noch ein paar Männer als Verstärkung. 
 Mehr Hilfe kann er dir allerdings nicht mehr anbieten...
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+POSIŁKI
+
+Petros przysyła ci posiłki. 
+To jedyny rodzaj pomocy, jaki może ci zaoferować ...
 </text>
       </lang>
     </block>
@@ -318,6 +391,17 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+ZADANIE NIEWYKONANE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Krótka chwila niedbalstwa, tyle tylko trzeba, żebyś stracił życie! Twoja bohaterka CYRA zginęła z powodu twojego niedbalstwa! Bez tej bohaterki, cel misji pozostanie dla ciebie nieosiągalny! 
+</text>
+      </lang>
     </block>
     <block id="300">
       <lang code="CHN">
@@ -359,6 +443,17 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held HATSCHI erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+ZADANIE NIEWYKONANE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Krótka chwila niedbalstwa, tyle tylko trzeba, żebyś stracił życie! Twój przyjaciel i bohater HATCHIE zginął z powodu twojego niedbalstwa! Bez tego bohatera, cel misji pozostanie dla ciebie nieosiągalny! 
+</text>
+      </lang>
     </block>
     <block id="400">
       <lang code="CHN">
@@ -398,6 +493,17 @@ MISSION VERLOREN!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held SIGURD erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+ZADANIE NIEWYKONANE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+Krótka chwila niedbalstwa, tyle tylko trzeba, żebyś stracił życie! Twój przyjaciel i bohater SIGURD zginął z powodu twojego niedbalstwa! Bez tego bohatera, cel misji pozostanie dla ciebie nieosiągalny! 
 </text>
       </lang>
     </block>
@@ -447,6 +553,19 @@ Obwohl man dich gewarnt hatte, hast du deine besten Freunde angegriffen!
 So wirst du deine Mission nicht beenden können!
 </text>
       </lang>
+      <lang code="pol">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+ZADANIE NIEWYKONANE!
+</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+Zaatakowałeś swoich najlepszych przyjaciół, chociaż zostałeś ostrzeżony! 
+
+W ten sposób nie będziesz w stanie ukończyć swojej misji!
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -465,6 +584,11 @@ THE SECRET PASSAGE
       <lang code="ger">
         <text> 
 DER GEHEIMGANG
+</text>
+      </lang>
+      <lang code="pol">
+        <text> 
+SEKRETNE PRZEJŚCIE
 </text>
       </lang>
     </block>

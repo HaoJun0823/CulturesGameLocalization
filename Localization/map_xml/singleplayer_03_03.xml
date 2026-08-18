@@ -4,82 +4,98 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="1">
       <text lang="CHN">探索东部的山区。</text>
       <text lang="eng">Explore the mountains to the east.</text>
       <text lang="ger">Erforsche das Gebirge im Osten.</text>
+      <text lang="pol">Zbadaj góry na wschodzie.</text>
     </string>
     <string id="2">
       <text lang="CHN">消灭北部森林中狼群带来的威胁。</text>
       <text lang="eng">Eliminate the threat of the wolves in the northern forest.</text>
       <text lang="ger">Vernichte die Bedrohung durch die Wölfe im nördlichen Wald.</text>
+      <text lang="pol">Wyeliminuj zagrożenie w postaci wilków w północnym lesie.</text>
     </string>
     <string id="3">
       <text lang="CHN">若你不愿战斗，可在饲料坑中填满 100 份食物。</text>
       <text lang="eng">If you do not want to fight, fill the feeding ground with 100 food.</text>
       <text lang="ger">Wenn du nicht kämpfen möchtest, fülle die Futterstelle mit 100 Nahrung.</text>
+      <text lang="pol">Jeśli nie chcesz walczyć, wypełnij żerowisko 100 jednostkami żywności.</text>
     </string>
     <string id="4">
       <text lang="CHN">远离饲料坑。</text>
       <text lang="eng">Leave the feeding ground.</text>
       <text lang="ger">Entferne dich von der Futterstelle.</text>
+      <text lang="pol">Opuść żerowisko.</text>
     </string>
     <string id="5">
       <text lang="CHN">饲料坑中的食物：%d / 100</text>
       <text lang="eng">Food in the feeding ground: %d / 100</text>
       <text lang="ger">Nahrung in Futtergrube: %d / 100</text>
+      <text lang="pol">Żywność na żerowisku: %d / 100</text>
     </string>
     <string id="50">
       <text lang="CHN">维京人</text>
       <text lang="eng">Vikings</text>
       <text lang="ger">Wikinger</text>
+      <text lang="pol">Wikingowie</text>
     </string>
     <string id="51">
       <text lang="CHN">山地村</text>
       <text lang="eng">Mountain Village</text>
       <text lang="ger">Bergdorf</text>
+      <text lang="pol">Górska Wioska</text>
     </string>
     <string id="52">
       <text lang="CHN">狼群</text>
       <text lang="eng">Wolf Pack</text>
       <text lang="ger">Wolfsrudel</text>
+      <text lang="pol">Wilcza Wataha</text>
     </string>
     <string id="53">
       <text lang="CHN">维京人</text>
       <text lang="eng">Vikings</text>
       <text lang="ger">Wikinger</text>
+      <text lang="pol">Wikingowie</text>
     </string>
     <string id="54">
       <text lang="CHN">山地村</text>
       <text lang="eng">Mountain Village</text>
       <text lang="ger">Bergdorf</text>
+      <text lang="pol">Górska Wioska</text>
     </string>
     <string id="55">
       <text lang="CHN">狼群</text>
       <text lang="eng">Wolf Pack</text>
       <text lang="ger">Wolfsrudel</text>
+      <text lang="pol">Wilcza Wataha</text>
     </string>
     <string id="56">
       <text lang="CHN">商人</text>
       <text lang="eng">Merchant</text>
       <text lang="ger">Händler</text>
+      <text lang="pol">Kupiec</text>
     </string>
     <string id="57">
       <text lang="CHN">商人</text>
       <text lang="eng">Merchant</text>
       <text lang="ger">Händler</text>
+      <text lang="pol">Kupiec</text>
     </string>
     <string id="98">
       <text lang="CHN">帮助一支被逐出家园的部族重返故土。</text>
       <text lang="eng">Enable an expelled tribe to return home.</text>
       <text lang="ger">Ermögliche einem aus seiner Heimat vertriebenen Stamm die Rückkehr.</text>
+      <text lang="pol">Umożliw wygnanemu plemieniu powrót do domu.</text>
     </string>
     <string id="99">
       <text lang="CHN">被逐的森林之民</text>
       <text lang="eng">THE EXPELLED FOREST PEOPLE</text>
       <text lang="ger">DAS VERTRIEBENE WALDVOLK</text>
+      <text lang="pol">WYGNANI MIESZKAŃCY LASU</text>
     </string>
   </strings>
   <briefings>
@@ -103,6 +119,13 @@ As soon as we had ensured food supplies, we wanted to leave for the mountain in 
 Auf unserer Entdeckungstour landeten wir in einer Meeresbucht unweit eines riesigen Gebirges. Hier gab es alles, was wir zum siedeln brauchten, und im Inneren des Bergmassivs vermuteten wir viele Schätze und Rohstoffe. 
 
 Sobald wir uns um unsere Nahrungsversorgung gekümmert hatten, wollten wir zum Berg im Osten aufbrechen...
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+W trakcie naszej eksploracji, wylądowaliśmy w zatoce morskiej niedaleko olbrzymich gór. Tutaj znaleźliśmy wszystko, co potrzebowaliśmy do osiedlenia się, oraz założyliśmy, że w sercu gór znajduje się wiele surowców i skarbów. 
+
+Gdy tylko zabezpieczyliśmy zapasy żywności, chcieliśmy wyruszyć w góry na wschodzie ...
 </text>
       </lang>
     </block>
@@ -154,6 +177,23 @@ Wir wollten nun beginnen, auf unserem neuen Land zu siedeln.
 Wenn du möchtest, kannst du nun versuchen, ein funktionierendes Dorf im Wald zu errichten und nötigte Waren zu erhandeln...
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+OSTATNIA WATAHA
+
+Ostatnia wataha wilków została unicestwiona!!!
+
+Zagrożenie zostało wyeliminowane i podziękowano nam za pomoc.
+W międzyczasie, rada starszych mieszkańców lasu zadecydowała, że cicha, górska dolina dostarczy lepszej ochrony przeciw przyszłym niespodziankom. Chcieli w niej zostać i rozpocząć wszystko od nowa.
+
+Leśna kraina ze wszystkimi jej surowcami została oddana nam w prezencie. Cieszyliśmy się z dobrego sąsiedztwa i ożywionego handlu!
+Chcieliśmy teraz rozpocząć zasiedlanie naszej nowej krainy.
+
+
+Jeśli chcesz, możesz teraz spróbować zbudować w lesie funkcjonującą dolinę i wymieniać się niezbędnymi towarami ...
+</text>
+      </lang>
     </block>
     <block id="02">
       <lang code="CHN">
@@ -174,6 +214,13 @@ They were doomed without your leadership ...
 
 Dein ganzes Volk ist gestorben! 
 Ohne deine Führung waren sie des Todes...
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+Twoi ludzie nie żyją! 
+Bez twojego przywództwa zostali skazani na przegraną ...
 </text>
       </lang>
     </block>
@@ -225,6 +272,22 @@ Als dann die Kreaturen auftauchten, die wir als Rudelführer bezeichnen, mussten
 Könnt ihr uns helfen und die Bedrohung vernichten?" 
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+GÓRSKA WIOSKA
+
+Ni stąd ni zowąd natknęliśmy się na mała wioskę w idyllicznej dolinie. Chcieliśmy w niej spędzić noc i nabyć zapasy żywności.
+
+Chociaż zostaliśmy przyjaźnie powitani, wydawało się, że coś dziwnego się tutaj stało. Mieszkańcy wyglądali na zrozpaczonych, wioska najwyraźniej została niedawno wybudowana.
+
+Wódz wyjaśnił nam sytuację:
+"Nie tak dawno temu zamieszkiwaliśmy las i byliśmy myśliwymi. Nagle zewsząd pojawiła się ogromna wataha wilków, a nasi myśliwi nie byli już w stanie ich kontrolować, gdyż było ich zbyt wiele. 
+Gdy pojawiły się te stwory, które my nazywamy przywódcami watahy, musieliśmy uciekać i opuściliśmy naszą rodzinną wioskę. Teraz na koniec wylądowaliśmy tutaj i dyskutujemy o naszej przyszłości ...
+
+Czy pomożesz nam i zlikwidujesz zagrożenie?" 
+</text>
+      </lang>
     </block>
     <block id="04">
       <lang code="CHN">
@@ -256,6 +319,16 @@ Wir konnten aber auch versuchen, die Wölfe von den Rudelführern zu trennen, in
 Vielleicht würden die Rudelführer ohne ihre "Armee" von Wölfen ja das Weite suchen... 
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+Chcieliśmy pomóc tym biednym ludziom i opracowaliśmy plan. Moglibyśmy obezwładnić te stwory, gdybyśmy dysponowali wystarczającą liczbą żołnierzy, którzy musieliby być bardzo dobrze wyposażeni.
+
+Mogliśmy również spróbować odseparować wilki od ich przywódców wabiąc je pożywieniem ... Po drugiej stronie zatoki było odpowiednie miejsce - a używając szlaku morskiego mogliśmy uniknąć zagrożenia! 
+
+Może wilczy przywódcy spróbują uciec bez swojej "armii" wilków ... 
+</text>
+      </lang>
     </block>
     <block id="05">
       <lang code="CHN">
@@ -273,6 +346,12 @@ We had tracked down one of seven wolf packs together with its leaders. The loudl
         <text>
 
 Wir hatten eines von sieben Wolfsrudeln mitsamt ihren Herren aufgestöbert. Mit lautem Gejaule war es vertrieben worden...
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+Wytropiliśmy jedną z siedmiu wilczych watah razem z jej przywódcą. Głośne wycie watahy zostało odegnane ...
 </text>
       </lang>
     </block>
@@ -308,6 +387,17 @@ Es war genügend Fressen in unserer "Futtersenke" eingelagert, so dass sicherlic
 Wir mussten uns hier nun schnell aus dem Staube machen, bevor die Wölfe uns und das Futter wittern würden!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+WYSTARCZAJĄCO DUŻO ŻYWNOŚCI
+
+Na naszym "żerowisku" było dosyć pożywienia, by skusić zapachem każdego wilka ...
+
+
+Musieliśmy się szybko wynosić, zanim wilki wywęszą pożywienie - i nas!
+</text>
+      </lang>
     </block>
     <block id="07">
       <lang code="CHN">
@@ -331,6 +421,14 @@ It was the outpost of a mountain tribe, which we wanted to visit immediately ...
 Auf dem Weg in die Berge fanden wir ein kleines Handelshaus, in dem uns neben Gold und Eisen sogar Münzen angeboten wurden...
 
 Es handelte sich um einen Außenposten eines im Gebirge lebenden Stammes, den wir umgehend aufsuchen wollten...
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+W drodze w góry, odkryliśmy małą faktorię handlową, w której zaoferowano nam monety, jak również złoto i żelazo ...
+
+Była to placówka górskiego plemienia, które chcieliśmy natychmiast odwiedzić ...
 </text>
       </lang>
     </block>
@@ -380,6 +478,23 @@ Wir wollten nun beginnen, auf unserem neuen Land zu siedeln.
 Wenn du möchtest, kannst du nun versuchen, ein funktionierendes Dorf im Wald zu errichten und benötigte Waren zu erhandeln...
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+UCIECZKA
+
+Ostatni z wilczych przywódców wycofał się!
+
+Zagrożenie zostało wyeliminowane i podziękowano nam za pomoc.
+W międzyczasie, rada starszych mieszkańców lasu zadecydowała, że cicha, górska dolina dostarczy lepszej ochrony przeciw przyszłym niespodziankom. Chcieli w niej zostać i rozpocząć wszystko od nowa.
+
+Leśna kraina ze wszystkimi jej surowcami została oddana nam w prezencie. Cieszyliśmy się z dobrego sąsiedztwa i ożywionego handlu!
+Chcieliśmy teraz rozpocząć zasiedlanie naszej nowej krainy.
+
+
+Jeśli chcesz, możesz teraz spróbować zbudować w lesie funkcjonującą dolinę i wymieniać się niezbędnymi towarami ...
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -398,6 +513,13 @@ THE EXPELLED FOREST PEOPLE
         <text>
 
 DAS VERTRIEBENE WALDVOLK
+
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+WYGNANI MIESZKAŃCY LASU
 
 </text>
       </lang>
@@ -420,6 +542,12 @@ MISSION FAILED!
 MISSION VERLOREN!
 </text>
       </lang>
+      <lang code="pol">
+        <text>
+
+ZADANIE NIEWYKONANE!
+</text>
+      </lang>
     </block>
     <block id="won">
       <lang code="CHN">
@@ -437,6 +565,12 @@ MISSION COMPLETED!
         <text>
 
 MISSION GEWONNEN!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+
+ZADANIE WYKONANE!
 </text>
       </lang>
     </block>

@@ -1,0 +1,112 @@
+[blockstart:keys]
+<font:$local$\fonts\fonthead16bld.fnt>
+KONFIGURACJA KLAWISZY
+<font:$local$\fonts\font12.fnt>
+
+<textxstart:40> Klikniêcie PPM <textxstart:200> Wydanie rozkazu kontekstowego.
+
+<textxstart:40> A <textxstart:200> Otwiera asystenta.
+<textxstart:40> e <textxstart:200> Otwiera menu dodatków.
+<textxstart:40> B <textxstart:200> Otwiera okno zezwoleñ.
+
+<textxstart:40> v <textxstart:200> Aktywuje globalny tryb obrony.
+<textxstart:40> V <textxstart:200> Dezaktywuje globalny tryb obrony.
+
+
+<textxstart:40> . <textxstart:200> Wybiera nastêpnego cywila.
+<textxstart:40> , <textxstart:200> Wybiera nastêpnego zwiadowcê.
+<textxstart:40> f <textxstart:200> Wybiera wszystkich bohaterów.
+<textxstart:40> x <textxstart:200> Odznacza wszystkich nie bohaterów.
+<textxstart:40> y <textxstart:200> Odznacza wszystkich nie ¿o³nierzy.
+
+<textxstart:40> b <textxstart:200>         Wydaje rozkaz budowy budynku.
+<textxstart:40> s <textxstart:200>         Wydaje rozkaz budowy drogi.
+<textxstart:40> d <textxstart:200>         Wydaje rozkaz budowy palisady.
+<textxstart:40> SHIFT d <textxstart:200>         Wydaje rozkaz budowy bramy w palisadzie.
+
+
+<textxstart:0><block:2> GDY POSTAÆ JEST WYBRANA
+
+<textxstart:40> c <textxstart:200> Zmienia zawód postaci.
+<textxstart:40> w <textxstart:200> Przydziela dom.
+<textxstart:40> a <textxstart:200> Przydziela miejsce pracy.
+
+<textxstart:40> CTRL + klikniêcie prawym przyciskiem myszy
+<textxstart:200> Centruje teren pracy (dla robotników pracuj¹cych na zewn¹trz).
+
+<textxstart:40> SPACJA <textxstart:200> Wyœwietla menu akcji.
+
+
+<textxstart:0><block:2> GDY JEDEN LUB KILKA POSTACI, WEHIKU£ÓW LUB BUDYNKÓW JEST WYBRANYCH
+
+<textxstart:40> CTRL 0-9 <textxstart:200> Definiuje wszystkie wybrane postacie, wehiku³y lub budynki jako grupê; Przydziela grupie numer.
+
+<textxstart:40> SHIFT 0-9 <textxstart:200> Dodaje wszystkie dodane postaci, wehiku³y lub budynki do grupy z odpowiednim nuemrem.
+
+<textxstart:40> 0-9 <textxstart:200> Wybiera grupê z odpowiednim numerem.
+
+<textxstart:40> CTRL + klikniêcie lewym przyciskiem myszy
+<textxstart:200> Usuwa zaznaczony obiekt z selekcji.
+
+<textxstart:40> SHIFT + klikniêcie lewym przyciskiem myszy
+<textxstart:200> Dodaje wybrany obiekt do selekcji.
+
+<textxstart:40> SPACJA <textxstart:200> Wyœwietla menu akcji dla wybranego obiektu.
+
+
+<textxstart:40> h <textxstart:200>         Skacze do kwatery g³ównej.
+
+<textxstart:40> z <textxstart:200>         Przybli¿a lub oddala.
+
+<textxstart:40> o <textxstart:200> Otwiera okno obserwacji.
+
+<textxstart:40> p <textxstart:200>         Zatrzymaj grê.
+<textxstart:40> l <textxstart:200> Zwiêksza prêdkoœæ gry.
+
+<textxstart:40> TAB <textxstart:200> Wyœwietla okienka podpowiedzi wszystkich postaci i budynków.
+
+<textxstart:40> Strza³ki <textxstart:200> Przewija ekran szczegó³ów.
+<textxstart:40> Klawiatura num.         <textxstart:200> Przewija ekran szczegó³ów.
+
+<textxstart:40> ESC <textxstart:200> Zamyka okno, Odznacza.
+
+<textxstart:40> F1 <textxstart:200> Pomoc.
+<textxstart:40> F2 <textxstart:200> Otwiera okno opcji (ustawienia gry).
+
+<textxstart:40> F3 <textxstart:200> Wczytuje grê.
+<textxstart:40> F4 <textxstart:200> Zapisuje grê.
+
+<textxstart:40> F5 <textxstart:200> Otwiera okno dyplomacji.
+<textxstart:40> F6 <textxstart:200> Otwiera okno statystyk.
+<textxstart:40> F7 <textxstart:200> Otwiera lsitê postaci.
+<textxstart:40> F8 <textxstart:200> Otwiera drzewo technologiczne.
+
+<textxstart:40> F9 <textxstart:200> Szybki zapis.
+
+<textxstart:40> F10 <textxstart:200> Wyœwietla mapê ogóln¹.
+
+<textxstart:40> CTRL b <textxstart:200> Wykonuje zrzut aktualnego ekranu.
+
+<textxstart:40> CTRL s <textxstart:200> Szybki zapis.
+
+<textxstart:40> ALT (left) + F4 <textxstart:200> Wyjœcie z gry i powrót do Windows.
+
+
+<textxstart:0><block:2> W OKNIE POSTACI (pracownik)
+
+<textxstart:40> CTRL + klikniêcie lewym przyciskiem myszy +/- przyciski obok towarów
+<textxstart:200> Ustawienie iloœci wymaganych towarów na nieksoñczonoœc/¿aden.
+
+
+<textxstart:0><block:2> W OKNIE BUDYNKU (magazyn)
+<textxstart:0><block:2> (gdy wybrany jest rodzaj towaru)
+
+<textxstart:40> CTRL + klikniêcie lewym przyciskiem myszy +/- przyciski
+<textxstart:200> Zwiêksza/zmniejsza iloœæ towarów o 10 jednostek.
+
+
+<textxstart:0><block:2> W GRZE WIELOOSOBOWEJ
+
+<textxstart:40> ENTER        <textxstart:200> Rozpoczyna pogawêdkê.
+
+[blockend:keys]

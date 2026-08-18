@@ -55,18 +55,6 @@
       "missing_key": [],
       "empty": [
         [
-          "campaign_01_05.xml",
-          "b:sub"
-        ],
-        [
-          "campaign_01_07.xml",
-          "b:spieler_attakiert_Byzanz"
-        ],
-        [
-          "campaign_01_07.xml",
-          "b:spieler_zahlt_tribut"
-        ],
-        [
           "campaign_01_09-sub.xml",
           "b:header"
         ],
@@ -136,10 +124,10 @@
         ],
         [
           "campaign_01_07.xml",
-          "b:wikiflucht",
-          11,
-          2,
-          true
+          "b:spieler_attakiert_Byzanz",
+          6,
+          5,
+          false
         ],
         [
           "campaign_01_07.xml",
@@ -897,25 +885,11 @@
           false
         ],
         [
-          "multiplayer_007_ressourcen.xml",
-          "b:begin_00",
-          7,
-          4,
-          true
-        ],
-        [
           "multiplayer_007_special_coop.xml",
           "b:begin_00",
           6,
           4,
           false
-        ],
-        [
-          "multiplayer_02_06_ressourcen.xml",
-          "b:begin_00",
-          7,
-          3,
-          true
         ],
         [
           "multiplayer_101_special_coop.xml",
@@ -1117,8 +1091,8 @@
           "tutorial_001.xml",
           "b:00",
           9,
-          4,
-          true
+          8,
+          false
         ],
         [
           "tutorial_001.xml",
@@ -1357,13 +1331,6 @@
           5,
           4,
           false
-        ],
-        [
-          "tutorial_007.xml",
-          "b:00",
-          9,
-          3,
-          true
         ],
         [
           "tutorial_007.xml",

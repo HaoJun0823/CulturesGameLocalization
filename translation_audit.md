@@ -18,9 +18,9 @@
 - 声明该语言的文件: **114/156**
 （整文件缺失: 42）
 - 单 key 漏翻: **0**
-- 空翻(空值): **16**
+- 空翻(空值): **13**
 - 错行(行数不一致): **6**
-  - 其中疑似截断(差≥3): **1**
+  - 其中疑似截断(差≥3): **0**
 
 
 ### `eng` 整文件缺失语言（42 个）
@@ -70,13 +70,10 @@
   06_Die_Entscheidung.xml
 ```
 
-### `eng` 空翻（16 处，明确缺陷，优先修）
+### `eng` 空翻（13 处，明确缺陷，优先修）
 
 | 文件 | 位置 |
 |---|---|
-| campaign_01_05.xml | b:sub |
-| campaign_01_07.xml | b:spieler_attakiert_Byzanz |
-| campaign_01_07.xml | b:spieler_zahlt_tribut |
 | campaign_01_09-sub.xml | b:header |
 | campaign_02_02.xml | b:07 |
 | campaign_03_01_sub.xml | b:50_end1 |
@@ -95,10 +92,10 @@
 
 | 文件 | 位置 | ger行 | 译文行 | 疑似截断 |
 |---|---|---|---|---|
-| campaign_01_07.xml | b:wikiflucht | 11 | 2 | ⚠️ |
 | campaign_01_06.xml | b:gewonnen_01 | 2 | 3 |  |
 | singleplayer_01_06.xml | b:7 | 3 | 4 |  |
 | campaign_01_02-sub.xml | b:end | 3 | 2 |  |
+| campaign_01_07.xml | b:spieler_attakiert_Byzanz | 6 | 5 |  |
 | tutorial_001.xml | b:00 | 9 | 8 |  |
 | campaign_01_07.xml | b:zerstörtesdorf | 4 | 2 |  |
 
@@ -108,8 +105,8 @@
 （整文件缺失: 0）
 - 单 key 漏翻: **0**
 - 空翻(空值): **29**
-- 错行(行数不一致): **160**
-  - 其中疑似截断(差≥3): **15**
+- 错行(行数不一致): **157**
+  - 其中疑似截断(差≥3): **11**
 
 
 ### `chn` 空翻（29 处，明确缺陷，优先修）
@@ -146,7 +143,7 @@
 | singleplayer_02_03.xml | b:begin_02 |
 | 14_Die_Eiswelt.xml | b:playerfriendly1 |
 
-### `chn` 错行（160 处，待人工核对）
+### `chn` 错行（157 处，待人工核对）
 
 | 文件 | 位置 | ger行 | 译文行 | 疑似截断 |
 |---|---|---|---|---|
@@ -156,14 +153,10 @@
 | campaign_03_03.xml | b:273 | 13 | 10 | ⚠️ |
 | campaign_03_03.xml | b:320 | 11 | 8 | ⚠️ |
 | campaign_03_03.xml | b:450 | 11 | 8 | ⚠️ |
-| multiplayer_007_ressourcen.xml | b:begin_00 | 7 | 4 | ⚠️ |
 | multiplayer_103_special_militar.xml | b:begin_00 | 11 | 8 | ⚠️ |
 | tutorial_005.xml | b:10 | 7 | 4 | ⚠️ |
 | campaign_03_03.xml | b:00_start2 | 10 | 6 | ⚠️ |
-| multiplayer_02_06_ressourcen.xml | b:begin_00 | 7 | 3 | ⚠️ |
 | multiplayer_102_special_coop.xml | b:begin_00 | 12 | 8 | ⚠️ |
-| tutorial_001.xml | b:00 | 9 | 4 | ⚠️ |
-| tutorial_007.xml | b:00 | 9 | 3 | ⚠️ |
 | campaign_01_03.xml | b:schiff_gebaut | 19 | 12 | ⚠️ |
 | singleplayer_02_03.xml | b:begin_06 | 4 | 6 |  |
 | tutorial_007.xml | b:100 | 1 | 3 |  |
@@ -247,6 +240,7 @@
 | singleplayer_03_01.xml | b:10 | 12 | 11 |  |
 | singleplayer_03_04.xml | b:09 | 7 | 6 |  |
 | singleplayer_03_05.xml | b:01 | 7 | 6 |  |
+| tutorial_001.xml | b:00 | 9 | 8 |  |
 | tutorial_001.xml | b:01 | 5 | 4 |  |
 | tutorial_001.xml | b:04 | 5 | 4 |  |
 | tutorial_001.xml | b:05 | 4 | 3 |  |

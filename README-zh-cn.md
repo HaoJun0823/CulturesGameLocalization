@@ -26,19 +26,26 @@ CulturesGameLocalization/
 │   ├── map_xml/             # 128 个主战役地图 XML（CHN/ger/eng/pol 多语言）
 │   ├── map_xml_user/        # 28 个 C2M 用户战役地图 XML
 │   └── text/                # 游戏系统文本（ger 原文 + l10 中文）
-├── Tools/                   # 汉化工具链
+├── Tools/                   # 汉化工具链（用法见 Tools/README.md）
 │   ├── loc_tools.py         # XML 解析核心库 + 构建工具（主依赖）
+│   ├── integrate_lang_xml.py# 多语言合并器（接入新语言的标准入口）
+│   ├── audit_translations.py# 翻译质量审计（空翻/漏翻/错行）
 │   ├── deploy_all.py        # 部署到游戏目录的脚本
 │   └── fix_xml_names.py     # 修正 XML 文件名中的变音字符
 ├── archives/                # 归档的历史工具与审计报告
 ├── build_text.py            # 主构建脚本（多语言 → _build/）
 ├── convert_text_utf8.py     # 批量转换文本为 UTF-8
 ├── publish_build.py         # 本地构建 + 打包 zip + 发布 GitHub Release
+├── language_id-zh-cn.md     # 20 语言 ID↔代码权威映射
+├── language_union.csv       # 术语母表（23 列 = 20 语言码 + 元数据）
+├── 20-language-translation-guide.md # 多语言翻译总流程（未来翻译 20 语言的执行规范）
 ├── Game_FileSystem_Intro.md # 游戏文件系统结构说明
 └── .github/workflows/       # GitHub Actions 自动构建发布
 ```
 
 ## 支持的语言
+
+当前仓库已有内容的语言（详见 `language_id-zh-cn.md` 的完整 20 语言体系）：
 
 | 代码 | 语言 | 说明 |
 |------|------|------|
@@ -46,6 +53,10 @@ CulturesGameLocalization/
 | `eng` | 英语 | 从 GAME_2/3/4 提取合并 |
 | `pol` | 波兰语 | 从 GAME_2 提取合并 |
 | `l10` | 简体中文 | 汉化注入目标语言（外挂加载）|
+
+> 游戏原生支持 ID 0–19 共 **20 种语言**（ger/eng/fra/ita/cze/rus/pol/spa/por/hun/l10–l19）。
+> 未来翻译到更多语言时，术语表 `language_union.csv` 已按 20 语言码建列；
+> 接入任意新语言的端到端流程见 **`20-language-translation-guide.md`**，工作流见 `.workbuddy/skills/`。
 
 ## 构建与部署
 

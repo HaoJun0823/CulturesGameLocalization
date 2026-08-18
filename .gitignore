@@ -20,7 +20,18 @@ _backup_*
 .DS_Store
 
 # ===== 本机工作目录 =====
-.workbuddy/
+# 注意：skills 与 memory 是项目知识资产，必须随仓库提交（防 AI 失忆），故取消忽略
+.workbuddy/*
+!.workbuddy/skills/
+!.workbuddy/skills/**/*.md
+!.workbuddy/memory/
+!.workbuddy/memory/**/*.md
+
+# ===== 合并/校验产生的本地备份（不上传）=====
+Localization/map_xml.bak_*/
+
+# ===== 大体积影片源（230MB，建议走 Release/LFS，不入 git）=====
+/MovieOriginal/
 
 # ===== 系统技能/自动化占位（空文件，非项目内容）=====
 .skills/

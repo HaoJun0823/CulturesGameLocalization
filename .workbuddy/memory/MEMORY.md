@@ -64,12 +64,15 @@
 - **语言码大小写坑（反复栽过）**：XML 里语言是 `"CHN"`（大写），自写脚本比对字典键必须小写归一化，否则会把全部 CHN 误判缺失（曾因此假报 5066）。`audit_translations.py` 已内部归一化。
 - 工作流 skill 在 `.workbuddy/skills/`，但本平台 Skill 工具未注册它们，按 skill 文件正文执行即可，不要凭记忆另写一套检查逻辑。
 
-## 翻译质量现状（2026-08-18 审计校准，156 XML = map_xml 128 + map_xml_user 28）
-- **空翻**：eng 16 处（全 briefings）+ chn 29 处 = **45 处明确缺陷**，待填。
+## 翻译质量现状（2026-08-18 审计 + 同日复核校准，156 XML = map_xml 128 + map_xml_user 28）
+- **GER：已验证 DONE**。`Tools/ger_source_audit.py` 比对 GAME_2/3/4/5_MAP(+USER) 源：156/156 匹配正确源，152 完全一致，3 处仅 CRLF↔LF 行尾差异，1 处 campaign_01_09-sub 多余空 `header` 模板块，**0 幽灵块**（XML 空块在源里同样是空块）。commit `41c426d`。
+- **空翻（节点空）**：eng 13 + chn 29 = **42 处，全部经工具复核为「幽灵块」**（ger 源该块同样为空或无内容），**不是真缺陷、绝不可编造填充**。commit `6d3a9d1` 已修 8 处真缺陷后剩余。
 - **漏翻(key 级)**：0（只要文件声明该语言，ger 每个 key 都有对应条目）。
-- **eng 整文件缺失**：42 个文件（多为 `_campaign_04_*` 与各 `XX_*.xml` 剧情/战役文件未翻英），是否补译由用户定。
-- **错行**：chn 160 处（抽样核实均为完整译文的正常换行压缩，非截断）；eng 6 处（其中 `campaign_01_07.xml b:wikiflucht` ger=11/eng=2 疑似真截断，优先看）。
-- 报告产物：`translation_audit.md`（清单）+ `audit.json`（明细）。
+- **eng 整文件缺失**：42 个文件，**全部是用户/C2M 战役地图**（14 个 `_campaign_04_*` + 28 个 `NN_*.xml` 用户地图），原版游戏即无英文，主战役地图全部含 eng；是否补英文由用户定（中文本地化受众无需英文，建议不补）。
+- **错行（行数不一致）**：chn 157 + eng 6，**全部经字符数复核为良性**——德文比中文约 3× 冗长，完整中译字符数本就只有德文 30–40%，行数差≠截断；eng 的 6 处 abs(差)<3 更无截断。无需逐条改。
+- **已修的真实缺陷**（commit `6d3a9d1`）：eng 3 空翻(campaign_01_05 b:sub、campaign_01_07 b:spieler_attakiert_Byzanz、b:spieler_zahlt_tribut)+1 截断(b:wikiflucht)、chn 4 浓缩摘要(tutorial_007 b:00、multiplayer_007 begin_00、tutorial_001 b:00、multiplayer_02_06 begin_00)。
+- 报告产物：`translation_audit.md` + `audit.json`（空翻/漏翻/错行口径）；`ger_audit_report.md` + `Tools/ger_source_audit.py`（GER 源一致性）。
+- **eng/ger/chn 质量结论**：三项语言质量均已达「无可修真缺陷」状态；剩余项均为政策决策（42 文件补英文与否）或纯格式差异（CRLF/LF、模板空块）。下一步可转向其他语言（pol 已合并，可接 cz/ru/fra/ita…）。
 
 ## 关联
 - 运行期 DLL：`G:\Projects\CulturesGameExtend`

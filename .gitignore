@@ -30,9 +30,6 @@ _backup_*
 # ===== 合并/校验产生的本地备份（不上传）=====
 Localization/map_xml.bak_*/
 
-# ===== 大体积影片源（230MB，建议走 Release/LFS，不入 git）=====
-/MovieOriginal/
-
 # ===== 系统技能/自动化占位（空文件，非项目内容）=====
 .skills/
 /Output

@@ -3,35 +3,51 @@
   <languages>
     <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">日耳曼尼亚</text>
       <text lang="ger">Germania</text>
+      <text lang="eng">Germania</text>
+      <text lang="pol">Germania</text>
     </string>
     <string id="1">
       <text lang="CHN">你来到了美丽的日耳曼尼亚。</text>
       <text lang="ger">Du kommst in das schöne Germania.</text>
+      <text lang="eng">You arrive in beautiful Germania.</text>
+      <text lang="pol">Docierasz do pięknej Germanii.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
       <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
       <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
       <text lang="ger">Spieler0</text>
+      <text lang="eng">Player0</text>
+      <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
       <text lang="ger">Spieler1</text>
+      <text lang="eng">Player1</text>
+      <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
       <text lang="ger">Spieler2</text>
+      <text lang="eng">Player2</text>
+      <text lang="pol">Gracz2</text>
     </string>
   </strings>
   <briefings>
@@ -47,6 +63,18 @@ Dies mußten die Ruinen von Burg Altena sein. Aber wer war in der Lage eine so g
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Altena Castle!!
+These must be the ruins of Altena Castle. But who was able to destroy such a large castle?
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Zamek Altena!!
+To musiały być ruiny zamku Altena. Ale kto był w stanie zniszczy tak duży zamek?
+</text>
+      </lang>
     </block>
     <block id="lost_body">
       <lang code="CHN">
@@ -56,6 +84,16 @@ Dies mußten die Ruinen von Burg Altena sein. Aber wer war in der Lage eine so g
         <text>
 Du hast verloren !! Versuchs doch mit der Partie Mau Mau.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+You lost!! Try a game of Mau Mau instead.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przegrałeś!! Spróbuj zamiast tego partie Mau Mau.
 </text>
       </lang>
     </block>
@@ -69,6 +107,16 @@ Mission verloren!
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja przegrana!
+</text>
+      </lang>
     </block>
     <block id="playerdied1">
       <lang code="CHN">
@@ -78,6 +126,16 @@ Mission verloren!
         <text>
 Spieler 1 ist gestorben.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 1 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 zmarł.
 </text>
       </lang>
     </block>
@@ -91,6 +149,16 @@ Die Banditen sind vernichtet. Doch was war das? Es ertönte eine Stimme. Ihr hab
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+The bandits are destroyed. But what was that? A voice sounded. "You may have beaten us here, but don't come to our homeland in Italy. There you will be slaughtered..."
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Bandyci są zniszczeni. Ale co to było? Rozbrzmiał głos. „Nawet jeśli pobiliście nas tutaj, nie wracajcie do naszej ojczyzny do Włoch. Tam zostaniecie wyrżnicie w pień...”
+</text>
+      </lang>
     </block>
     <block id="playerenemy1">
       <lang code="CHN">
@@ -100,6 +168,16 @@ Die Banditen sind vernichtet. Doch was war das? Es ertönte eine Stimme. Ihr hab
         <text>
 Spieler 1 ist jetzt feindlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz wrogi.
 </text>
       </lang>
     </block>
@@ -115,6 +193,18 @@ Missionsziel:Suche die Banditen im Nordosten.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Thanks for the sweets. You can now send merchants to us. Beware of the northeast. Very dangerous bandits are lurking there.
+Mission objective: Search for the bandits in the northeast.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Dzięki za słodycze. Możecie teraz wysłać handlowców do nas. Strzeżcie się północnego wschodu. Tam gniazdują niebezpieczne bandycki.
+Cel misja: Poszukaj bandytów na północnym wschodzie.
+</text>
+      </lang>
     </block>
     <block id="playerfriendly2">
       <lang code="CHN">
@@ -126,6 +216,16 @@ Spieler 2 ist jetzt freundlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz przyjazny.
+</text>
+      </lang>
     </block>
     <block id="playerneutral2">
       <lang code="CHN">
@@ -135,6 +235,16 @@ Spieler 2 ist jetzt freundlich.
         <text>
 Spieler 2 ist jetzt neutral.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz neutralny.
 </text>
       </lang>
     </block>
@@ -156,6 +266,24 @@ Missionsziel: Lagere 50 Münzen in Dein Lager ein.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Dutch!!
+Yay, greetings, we are the Dutch. Do you have any mead or honey or cakes?
+Best a bit of each. You'll get nice coins too, if you bring us sweets.
+Hmm, so our druid Fridi had been right after all. Coins could be used, since we had spent the rest in Paris for our soldiers.
+Mission objective: Store away 50 coins in your warehouse.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Holendrzy!!
+Juhuu, waza was, jesteśmy Holendrami. Możecie miód i miód i ciasta?
+Najlepiej trochę każdego.Dostaniecie też fajne monety, jeśli przyniesie nam słodycze.
+Hmm, ależ więc nasz druid Fridi miał rację. Monety mogły się przydać, bo wszystkie reszta wydaliśmy w Paryżu na żołnierzy.
+Cel misjist: Zmagazynuj 50 monet w swoich magazynach.
+</text>
+      </lang>
     </block>
     <block id="playerseen2">
       <lang code="CHN">
@@ -171,6 +299,22 @@ Pfeile schossen aus allen Richtungen auf uns zu. Himmel, dachten wir. Nur sie k�
 Wir schworen Rache zu nehmen.
 Missionsziel: Vernichte die Banditen.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Bandits!!
+Arrows shot at us from all directions. "Heavens," we thought. Only they could be responsible for the destruction of the castle.
+We swore to take revenge.
+Mission objective: Destroy the bandits.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Bandycy!!
+Strzały nadleciały z wszystkich stron. „Niebo”, pomyśleliśmy. To tylko oni mogli odpowiadać za zniszczenie zamku.
+Przysięgliśmy, że się zemszczemy.
+Cel misji: Zniszcz bandytów.
 </text>
       </lang>
     </block>
@@ -192,6 +336,24 @@ Erstellt von: Yogi
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Now we had arrived in beautiful Germania. But we didn't quite know what we were supposed to do here. Suddenly came our master druid Fridi. "Dear friends, when I was still young, I discovered a peaceful people who call themselves Dutch. They should be far far in the northwest. There you could get great coins in exchange for a simple cake." We looked at Fridi suspiciously. Had he swallowed too much mead again? Cakes in exchange for coins? Who would do that? But since we didn't know anyone else in this country, we sent out a scout.
+Mission objective: Search the Dutch in the northwest.
+
+
+Created by: Yogi
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przyjechaliśmy wreszcie do pięknej Germanii. Nie wiedzieliśmy właściwie, co mamy tu zrobić. Nniagle przybył Fridi, nasz druid mistrz. „Drodzy przyjaciele, gdy byłem jeszcze młody, odnaleźć spokojny lud, który nazywa się Holwolami. Ma się znajdować daleko daleko na północnym zachodzie. Można było tam kupić fajne monety za zwykłe ciasta. Podejrzlenie spojrzeliśmy na Fridi. Czy znowu wypił zbyt dużo miodu? Ciasto za monety? Kto to robi? Ale że w tym kraju nie znaliśmy nikogo innego, wysłaliśmy zwiadowcę.
+Cel misj: Szukaj Holwów na północnym zachodzie.
+
+
+Stworzone przez: Yogi
+</text>
+      </lang>
     </block>
     <block id="start_header">
       <lang code="CHN">
@@ -201,6 +363,16 @@ Erstellt von: Yogi
         <text>
 Germania
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Germania
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Germania
 </text>
       </lang>
     </block>
@@ -216,6 +388,18 @@ Doch um nach Italien zu kommen, mußten wir zunächst nach Österreich....
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+We had defeated the bandits and made friends with the Dutch. But since the bandits had their main base in Italy, we set off immediately to destroy them there as well.
+But to get to Italy, we had to go to Austria first....
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Pokonaliśmy bandytów i zawarliśmy przyjaźni z Holstami. Ponieważ jednak bandycy mieli swoją główną bazę we Włoszech, wyruszyliśmy natychmiast, by zniszczyć ich tam też.
+Ale żeby dotrzeć do Włoch, musieliśmy najpierw przez Austrię....
+</text>
+      </lang>
     </block>
     <block id="won_header">
       <lang code="CHN">
@@ -225,6 +409,16 @@ Doch um nach Italien zu kommen, mußten wir zunächst nach Österreich....
         <text>
 Mission gewonnen!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja wygrana!
 </text>
       </lang>
     </block>

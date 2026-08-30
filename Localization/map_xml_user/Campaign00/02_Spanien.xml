@@ -3,39 +3,57 @@
   <languages>
     <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">西班牙</text>
       <text lang="ger">Spanien</text>
+      <text lang="eng">Spain</text>
+      <text lang="pol">Hiszpania</text>
     </string>
     <string id="1">
       <text lang="CHN">你已抵达西班牙。</text>
       <text lang="ger">Du bist in Spanien angekommen.</text>
+      <text lang="eng">You have arrived in Spain.</text>
+      <text lang="pol">Dotarłeś do Hiszpanii.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
       <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
       <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
       <text lang="ger">Spieler0</text>
+      <text lang="eng">Player0</text>
+      <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
       <text lang="ger">Spieler1</text>
+      <text lang="eng">Player1</text>
+      <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
       <text lang="ger">Spieler2</text>
+      <text lang="eng">Player2</text>
+      <text lang="pol">Gracz2</text>
     </string>
     <string id="53">
       <text lang="CHN">玩家3</text>
       <text lang="ger">Spieler3</text>
+      <text lang="eng">Player3</text>
+      <text lang="pol">Gracz3</text>
     </string>
   </strings>
   <briefings>
@@ -49,6 +67,16 @@ Du hast verloren!
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+You have lost!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przegrałeś!
+</text>
+      </lang>
     </block>
     <block id="lost_header">
       <lang code="CHN">
@@ -58,6 +86,16 @@ Du hast verloren!
         <text>
 Mission verloren!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja przegrana!
 </text>
       </lang>
     </block>
@@ -71,6 +109,16 @@ Spieler 1 ist gestorben.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 zmarł.
+</text>
+      </lang>
     </block>
     <block id="playerdied2">
       <lang code="CHN">
@@ -80,6 +128,16 @@ Spieler 1 ist gestorben.
         <text>
 Spieler 2 ist gestorben.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 2 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 zmarł.
 </text>
       </lang>
     </block>
@@ -93,6 +151,16 @@ Spieler 3 ist gestorben.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 zmarł.
+</text>
+      </lang>
     </block>
     <block id="playerenemy2">
       <lang code="CHN">
@@ -102,6 +170,16 @@ Spieler 3 ist gestorben.
         <text>
 Spieler 2 ist jetzt feindlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz wrogi.
 </text>
       </lang>
     </block>
@@ -115,6 +193,16 @@ Spieler 3 ist jetzt feindlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 jest teraz wrogi.
+</text>
+      </lang>
     </block>
     <block id="playerfriendly1">
       <lang code="CHN">
@@ -124,6 +212,16 @@ Spieler 3 ist jetzt feindlich.
         <text>
 Spieler 1 ist jetzt freundlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz przyjazny.
 </text>
       </lang>
     </block>
@@ -137,6 +235,16 @@ Spieler 2 ist jetzt freundlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz przyjazny.
+</text>
+      </lang>
     </block>
     <block id="playerneutral1">
       <lang code="CHN">
@@ -148,6 +256,16 @@ Spieler 1 ist jetzt neutral.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz neutralny.
+</text>
+      </lang>
     </block>
     <block id="playerneutral3">
       <lang code="CHN">
@@ -157,6 +275,16 @@ Spieler 1 ist jetzt neutral.
         <text>
 Spieler 3 ist jetzt neutral.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 jest teraz neutralny.
 </text>
       </lang>
     </block>
@@ -172,6 +300,18 @@ Pfeile schossen auf uns zu. Dies schien die Grenze zum portugisischen Reichs zu 
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Halt! Not another step. This is our land. Be gone.
+Arrows flew toward us. This appeared to be the border to the Portuguese empire.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Stójć! Ani kroku dalej. To jest nasza ziemia. Won stąd.
+Strzały poleciały w naszą stronę. Wydawało się, że to granica portugalskiego imperium.
+</text>
+      </lang>
     </block>
     <block id="playerseen2">
       <lang code="CHN">
@@ -183,6 +323,18 @@ Pfeile schossen auf uns zu. Dies schien die Grenze zum portugisischen Reichs zu 
 Bonjour, wir sind die Franzosen. Zahlt uns einen "bescheidenen" Tribut, und wir handeln gerne mit Euch.
 Habt Ihr Met ? Unser Volk möchte viel Met. Wir stellen übrigens die besten Langschwerter und Plattenrüstungen in ganz Frankeich her....
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Bonjour, we are the French. Pay us a "modest" tribute, and we will gladly trade with you.
+Do you have mead? Our people want much mead. By the way, we make the finest long swords and plate armor in all of France....
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Bonjour, my jesteśmy Francuzi. Zapłaćcie nam "skromny" trybut, a chętnie z wami handluj.
+Czy macie miód pitny? Nasz lud chce dużo miodu pitnego. Przy okazji produkujemy najlepsze długie miecze i pancerze płytowe w całej Francji....
 </text>
       </lang>
     </block>
@@ -202,6 +354,24 @@ Was habt ihr für komische Helme auf ?
 Was habt ihr für lange Haare?
 Klar war jedenfalls, daß dieses Volk zum ersten Mal einen Wickinger sah. Wir setzten uns hin und tranken erstmal ein paar Flaschen Met zusammen. Daraufhin bekamen wir großzügige Handelsangebote unterbreitet.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Yoo-hoo, welcome, dear folks! Who are you, then?
+What long beards you have!
+What strange helmets you're wearing!
+What long hair you have!
+One thing was clear — these people were seeing a Viking for the first time. We sat down and shared a few bottles of mead together. After that, we were offered generous trade deals.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Juhuu, witamy, mili ludzie! Kim jesteście?
+Co to za długie brody macie?
+Co to za dziwne hełmy na głowie?
+Co to za długie włosy macie?
+Jedno było jasne — ten lud po raz pierwszy widział Wikinga. Usiedliśmy i razem wypiliśmy kilka butelek miodu pitnego. Potem przedstawiono nam hojne propozycje handlowe.
 </text>
       </lang>
     </block>
@@ -243,6 +413,44 @@ Erstellt von: Yogi
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Finally we had arrived in Spain. Our helmsman was so drunk that he ran aground on a reef off the coast. We could only save a few crates of weapons, which Bjarni did not like at all.
+Angry about this, he gave us the following order:
+Store 40 long swords, 40 defense amulets, and 40 plate armor in the warehouses now.
+Furthermore, he ordered, the Portuguese live in the west.
+Destroy them all!!
+But why we had to sail to Spain, he did not say.
+Well, grumbling, we set to work. But where were we supposed to get the amulets?
+We decided to send a scout. Perhaps there were other peoples here with whom we could trade..........
+
+1. Build your village
+2. Defeat the Portuguese in the west
+3. Store 40 long swords, 40 defense amulets, and 40 plate armor in your future warehouses.
+
+
+Created by: Yogi
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Wreszcie dopłynęliśmy do Hiszpanii. Nasz sternik był tak pijany, że rozbił się o rafę przy brzegu. udało nam się uratować tylko kilka skrzyń z bronią, co Bjarniemu wcale się nie podobało.
+Zły z tego powodu, wydał nam następujący rozkaz:
+Zmagazynujcie teraz 40 długich mieczów, 40 amuletów obronnych i 40 pancerzy płytowych.
+Ponadto, jak rozkazał dalej, na zachodzie mieszkają Portugalczycy.
+Zniszczcie ich wszystkich!!
+Ale dlaczego musieliśmy płynąć do Hiszpanii, tego nie powiedział.
+No cóż, mrucząc pod nosem, wzięliśmy się do pracy. Ale skąd mieliśmy wziąć amulety?
+Postanowiliśmy wysłać zwiadowcę. Może mieszkali tu jeszcze jacyś ludzie, z którymi można by handlować..........
+
+1. Zbuduj swoją wioskę
+2. Pokonaj Portugalczyków na zachodzie
+3. Zmagazynuj 40 długich mieczów, 40 amuletów obronnych i 40 pancerzy płytowych w swoich przyszłych magazynach.
+
+
+Zadanie przygotował: Yogi
+</text>
+      </lang>
     </block>
     <block id="start_header">
       <lang code="CHN">
@@ -252,6 +460,16 @@ Erstellt von: Yogi
         <text>
 Spanien
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Spain
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Hiszpania
 </text>
       </lang>
     </block>
@@ -273,6 +491,24 @@ Und ob uns die Franzosen mit offenen Armen empfingen, war doch mehr als fraglich
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Finally we had stored away all the goods and defeated the Portuguese.
+"Bravo," Bjarni praised us. "You are really good. Let's set off now."
+Our next target was France.
+We looked at each other in astonishment. What did Bjarni want in France?
+And whether the French would welcome us with open arms was more than doubtful. So we loaded our oxen and set off in the direction of France.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+W końcu udało nam się zmagazynować wszystkie towary i pokonać Portugalczyków.
+„Brawo, pochwalił nas Bjarni. Jesteście naprawdę dobrzy. Ruszajmy teraz w drogę.”
+Naszym następnym celem była Francja.
+Ze zdumieniem spojrzeliśmy po sobie. Co Bjarni właściwie chciał we Francji?
+A to, czy Francuzi przyjmą nas z otwartymi ramionami, było więcej niż wątpliwe. Załadowaliśmy więc nasze woły i wyruszyliśmy w kierunku Francji.
+</text>
+      </lang>
     </block>
     <block id="won_header">
       <lang code="CHN">
@@ -282,6 +518,16 @@ Und ob uns die Franzosen mit offenen Armen empfingen, war doch mehr als fraglich
         <text>
 Mission gewonnen!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja wygrana!
 </text>
       </lang>
     </block>

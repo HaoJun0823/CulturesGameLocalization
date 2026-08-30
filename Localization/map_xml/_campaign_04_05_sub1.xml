@@ -3,27 +3,39 @@
   <languages>
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="53">
       <text lang="CHN">阿夸斯--水龙</text>
       <text lang="ger">Aquas - Wasserdrachen</text>
+      <text lang="eng">Aquas - Water Dragons</text>
+      <text lang="pol">Aquas - Smoki Wodne</text>
     </string>
     <string id="63">
       <text lang="CHN">阿夸斯</text>
       <text lang="ger">Aquas</text>
+      <text lang="eng">Aquas</text>
+      <text lang="pol">Aquas</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="ger">Bjarni</text>
+      <text lang="eng">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="73">
       <text lang="CHN">阿夸罗姆</text>
       <text lang="ger">Aquarom</text>
+      <text lang="eng">Aquarom</text>
+      <text lang="pol">Aquarom</text>
     </string>
     <string id="99">
       <text lang="CHN">海底</text>
       <text lang="ger">UNTER DEM MEER</text>
+      <text lang="eng">BENEATH THE SEA</text>
+      <text lang="pol">POD MORZEM</text>
     </string>
   </strings>
   <briefings>
@@ -38,6 +50,16 @@
 "Was? Es ist so schlimm oberhalb des Meeres? Nehmt 10 meiner besten Drachen, während ich weitere trainiere." sprach Aquarom.
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+"What? It is that bad above the sea? Take 10 of my best dragons, while I train more." said Aquarom.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+"Co? Jest aż tak źle nad morzem? Weźcie 10 moich najlepszych smoków, a ja tymczasem wyszkolę więcej." rzekł Aquarom.
+</text>
+      </lang>
     </block>
     <block id="00_start1">
       <lang code="CHN">
@@ -50,6 +72,16 @@
 Unter eurer Führung haben wir eine Chance!" 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Under your leadership, we have a chance!"
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Pod waszym przywództwem mamy szansę!"
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -60,6 +92,16 @@ Unter eurer Führung haben wir eine Chance!"
       <lang code="ger">
         <text> 
 UNTER DEM MEER
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+UNDER THE SEA
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+POD MORZEM
 </text>
       </lang>
     </block>

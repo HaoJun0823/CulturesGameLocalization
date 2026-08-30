@@ -3,39 +3,57 @@
   <languages>
     <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">集币者</text>
       <text lang="ger">Die Münzsammler</text>
+      <text lang="eng">The Coin Collectors</text>
+      <text lang="pol">Zbieracze Monet</text>
     </string>
     <string id="1">
       <text lang="CHN">穿过一道狭窄的海湾，我们来到了一座田园诗般的岛屿，就在这时，我们的仓库总管激动地朝我们跑来……</text>
       <text lang="ger">Durch eine schmale Bucht gelangten wir zu einer idyllischen Insel, als plötzlich unser Lagermeister aufgeregt auf uns zu kam...</text>
+      <text lang="eng">Through a narrow bay we reached an idyllic island, when suddenly our quartermaster excitedly came up to us...</text>
+      <text lang="pol">Przez wąską zatokę dotarliśmy do idyllicznej wyspy, gdy nagle nasz kwatermistrz podekscytowany podszedł do nas...</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
       <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
       <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
       <text lang="ger">Spieler0</text>
+      <text lang="eng">Player0</text>
+      <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
       <text lang="ger">Spieler1</text>
+      <text lang="eng">Player1</text>
+      <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
       <text lang="ger">Spieler2</text>
+      <text lang="eng">Player2</text>
+      <text lang="pol">Gracz2</text>
     </string>
     <string id="53">
       <text lang="CHN">玩家3</text>
       <text lang="ger">Spieler3</text>
+      <text lang="eng">Player3</text>
+      <text lang="pol">Gracz3</text>
     </string>
   </strings>
   <briefings>
@@ -51,6 +69,18 @@ Wir danken euch ein weiteres Mal für das schnucklige Haus. Hier werden wir es e
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Felix and Karo !!
+We thank you once more for the cosy house. Here we will be able to hold out for a while.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Felix i Karo !!
+Dziękujemy wam jeszcze raz za uroczy domek. Tu wytrzymamy przez jakiś czas.
+</text>
+      </lang>
     </block>
     <block id="lost_body">
       <lang code="CHN">
@@ -60,6 +90,16 @@ Wir danken euch ein weiteres Mal für das schnucklige Haus. Hier werden wir es e
         <text>
 Du hast verloren !!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+You lost!!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przegrałeś!!
 </text>
       </lang>
     </block>
@@ -73,6 +113,16 @@ Mission verloren!
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja przegrana!
+</text>
+      </lang>
     </block>
     <block id="playerdied1">
       <lang code="CHN">
@@ -84,6 +134,16 @@ Spieler 1 ist gestorben.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 zmarł.
+</text>
+      </lang>
     </block>
     <block id="playerdied2">
       <lang code="CHN">
@@ -93,6 +153,16 @@ Spieler 1 ist gestorben.
         <text>
 Spieler 2 ist gestorben.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 2 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 zmarł.
 </text>
       </lang>
     </block>
@@ -108,6 +178,18 @@ Merlins Plan, eine Wolfszucht zu errichten hatten wir auch verhindert.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+The wolves are dead !!
+Merlin's plan to establish a wolf breeding farm we had also thwarted.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Wilki zginęły !!
+Plan Merlina założenia hodowli wilków też udaremniliśmy.
+</text>
+      </lang>
     </block>
     <block id="playerenemy1">
       <lang code="CHN">
@@ -117,6 +199,16 @@ Merlins Plan, eine Wolfszucht zu errichten hatten wir auch verhindert.
         <text>
 Spieler 1 ist jetzt feindlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz wrogi.
 </text>
       </lang>
     </block>
@@ -130,6 +222,16 @@ Spieler 2 ist jetzt feindlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz wrogi.
+</text>
+      </lang>
     </block>
     <block id="playerfriendly1">
       <lang code="CHN">
@@ -139,6 +241,16 @@ Spieler 2 ist jetzt feindlich.
         <text>
 Danke für die Münzen. Wenn ihr möchtet handeln wir nun Amulette mit euch. Schickt eure Händler vorbei.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Thank you for the coins. If you like, we will now trade amulets with you. Send your traders over.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Dziękujemy za monety. Jeśli chcecie, będziemy teraz handlować amuletami z wami. Przysyłajcie swoich handlarzy.
 </text>
       </lang>
     </block>
@@ -154,6 +266,18 @@ Ihr dürft nun mit uns handeln.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Thank you for the coins !!
+You may now trade with us.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Dziękujemy za monety !!
+Możecie teraz z nami handlować.
+</text>
+      </lang>
     </block>
     <block id="playerfriendly3">
       <lang code="CHN">
@@ -165,6 +289,16 @@ Spieler 3 ist jetzt freundlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 jest teraz przyjazny.
+</text>
+      </lang>
     </block>
     <block id="playerneutral3">
       <lang code="CHN">
@@ -174,6 +308,16 @@ Spieler 3 ist jetzt freundlich.
         <text>
 Spieler 3 ist jetzt neutral.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 jest teraz neutralny.
 </text>
       </lang>
     </block>
@@ -195,6 +339,24 @@ Missionsziele:
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+The Franks !!
+We joyfully greeted the Franks, they did have wind amulets, but the price of 67 coins for a trade agreement seemed rather high to us. We asked them about Merlin, the red corsair. We only know of an island in the south. The corsair's red flag is said to have been spotted there....
+Mission goals:
+1. Pay the requested tribute so you can trade wind amulets with the Franks.
+2. Explore the island in the southwest.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Frankowie !!
+Radośnie powitaliśmy Franków, mieli co prawda amulety wiatru, ale cena 67 monet za umowę handlową wydała nam się dość wysoka. Zapytaliśmy ich o Merlina, czerwonego korsarza. Wiemy tylko o wyspie na południu. Podobno widziano tam czerwoną flagę korsarza....
+Cele misji:
+1. Zapłać żądany trybut, by móc handlować amuletami wiatru od Franków.
+2. Zbadaj wyspę na południowym zachodzie.
+</text>
+      </lang>
     </block>
     <block id="playerseen2">
       <lang code="CHN">
@@ -214,6 +376,24 @@ Missionsziele:
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+The Byzantines !!
+Hey hey, they called. So so, you want a trade agreement with us? Hmm, let's think. The current economic situation is quite good for us. Pay us 34 coins, and we're in business. By the way, there is an island in the southwest. Strange creatures are said to dwell there. We sent scouts, but nobody came back.
+Mission goals: 
+1. Pay the requested tribute if you want to trade with the Byzantines.
+2. Explore the island in the southwest.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Bizantyńczycy !!
+Hej ho, zawołali. A więc chcecie umowy handlowej z nami? Hmm, pomyślmy. Obecna sytuacja gospodarcza jest dla nas całkiem dobra. Zapłaćcie nam 34 monety i wchodzimy w interesy. Przy okazji, jest wyspa na południowym zachodzie. Podobno mieszkają tam dziwne istoty. Wysłaliśmy zwiadowców, ale żaden nie wrócił.
+Cele misji: 
+1. Zapłać żądany trybut, jeśli chcesz handlować z Bizantyńczykami.
+2. Zbadaj wyspę na południowym zachodzie.
+</text>
+      </lang>
     </block>
     <block id="playerseen3">
       <lang code="CHN">
@@ -227,6 +407,20 @@ Wölfe !!
 Himmel, was waren denn das für Viecher ? Sie trugen die Farben vom roten Korsaren. Bestimmt hatte er hier eine Wolfszucht geplant.Aber das mußten wir auf jeden Fall verhindern.
 Missionsziel: Vernichte die Wölfe.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Wolves !!
+Heavens, what kind of beasts were those? They bore the colours of the red corsair. He must have planned a wolf breeding farm here. But we had to prevent that at all costs.
+Mission goal: Destroy the wolves.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Wilki !!
+Niebiosa, co to za bestie? Miały barwy czerwonego korsarza. Na pewno planował tu hodowlę wilków. Musieliśmy to za wszelką cenę udaremnić.
+Cel misji: Zniszcz wilki.
 </text>
       </lang>
     </block>
@@ -254,6 +448,30 @@ Erstellt von: Yogi
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Hey people, our quartermaster shouted excitedly to us. I have just discovered that we don't have any wind amulets left. Come on, go and search. I need at least 50 of them. Since we could not produce the amulets ourselves, we wanted to send out a scout in the hope that there were peoples here to trade with.
+Mission goals:
+1. Build your village.
+2. Explore the island world.
+3. Store 50 wind amulets.
+
+
+Created by: Yogi
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Hej ludzie, zawołał na nas wzburzony nasz magazynier. Właśnie stwierdziłem, że nie mamy już w ogóle amuletów wiatru. No już, ruszajcie na poszukiwania. Potrzebuję co najmniej 50 sztuk. Ponieważ nie potrafiliśmy sami wytwarzać amuletów, chcieliśmy wysłać zwiadowcę z nadzieją, że są tu ludy, z którymi można handlować.
+Cele misji:
+1. Zbuduj swoją wioskę.
+2. Zbadaj świat wysp.
+3. Zmagazynuj 50 amuletów wiatru.
+
+
+Stworzone przez: Yogi
+</text>
+      </lang>
     </block>
     <block id="start_header">
       <lang code="CHN">
@@ -263,6 +481,16 @@ Erstellt von: Yogi
         <text>
 Die Münzsammler
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+The Coin Collectors
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Kolekcjonerzy Monet
 </text>
       </lang>
     </block>
@@ -276,6 +504,16 @@ Als wir alles beisammen hatten, fuhren wir in nördlicher Richtung weiter. Plöt
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+When we had everything together, we continued northward. Suddenly Felix and Karo recognised the new island chains that opened up before us. Yes, we're coming home, he rejoiced. But Merlin, the red corsair, was already there. A decisive battle awaited us......
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gdy mieliśmy już wszystko razem, popłynęliśmy dalej na północ. Nagle Felix i Karo rozpoznali nowe łańcuchy wysp, które otworzyły się przed nami. Taa, wracamy do ojczyzny, radował się. Lecz Merlin, czerwony korsarz, już tam był. Czekała nas decydująca bitwa......
+</text>
+      </lang>
     </block>
     <block id="won_header">
       <lang code="CHN">
@@ -285,6 +523,16 @@ Als wir alles beisammen hatten, fuhren wir in nördlicher Richtung weiter. Plöt
         <text>
 Mission gewonnen!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja wygrana!
 </text>
       </lang>
     </block>

@@ -3,39 +3,57 @@
   <languages>
     <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">澳大利亚</text>
       <text lang="ger">Australien</text>
+      <text lang="eng">Australia</text>
+      <text lang="pol">Australia</text>
     </string>
     <string id="1">
       <text lang="CHN">我们终于重见天日。</text>
       <text lang="ger">Das Tageslicht hatte uns endlich wieder.</text>
+      <text lang="eng">Daylight had finally returned to us.</text>
+      <text lang="pol">Światło dzienne wreszcie do nas powróciło.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
       <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
       <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
       <text lang="ger">Spieler0</text>
+      <text lang="eng">Player0</text>
+      <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
       <text lang="ger">Spieler1</text>
+      <text lang="eng">Player1</text>
+      <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
       <text lang="ger">Spieler2</text>
+      <text lang="eng">Player2</text>
+      <text lang="pol">Gracz2</text>
     </string>
     <string id="53">
       <text lang="CHN">玩家3</text>
       <text lang="ger">Spieler3</text>
+      <text lang="eng">Player3</text>
+      <text lang="pol">Gracz3</text>
     </string>
   </strings>
   <briefings>
@@ -49,6 +67,16 @@ Du hast verloren !!
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+You lost!!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przegrałeś!!
+</text>
+      </lang>
     </block>
     <block id="lost_header">
       <lang code="CHN">
@@ -58,6 +86,16 @@ Du hast verloren !!
         <text>
 Mission verloren!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja przegrana!
 </text>
       </lang>
     </block>
@@ -71,6 +109,16 @@ Spieler 1 ist gestorben.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 zmarł.
+</text>
+      </lang>
     </block>
     <block id="playerdied2">
       <lang code="CHN">
@@ -80,6 +128,16 @@ Spieler 1 ist gestorben.
         <text>
 Spieler 2 ist gestorben.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 2 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 zmarł.
 </text>
       </lang>
     </block>
@@ -93,6 +151,16 @@ Spieler 3 ist gestorben.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 zmarł.
+</text>
+      </lang>
     </block>
     <block id="playerenemy1">
       <lang code="CHN">
@@ -102,6 +170,16 @@ Spieler 3 ist gestorben.
         <text>
 Spieler 1 ist jetzt feindlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz wrogi.
 </text>
       </lang>
     </block>
@@ -115,6 +193,16 @@ Spieler 2 ist jetzt feindlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz wrogi.
+</text>
+      </lang>
     </block>
     <block id="playerenemy3">
       <lang code="CHN">
@@ -124,6 +212,16 @@ Spieler 2 ist jetzt feindlich.
         <text>
 Spieler 3 ist jetzt feindlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 jest teraz wrogi.
 </text>
       </lang>
     </block>
@@ -137,6 +235,16 @@ Spieler 1 ist jetzt neutral.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz neutralny.
+</text>
+      </lang>
     </block>
     <block id="playerneutral2">
       <lang code="CHN">
@@ -148,6 +256,16 @@ Spieler 2 ist jetzt neutral.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz neutralny.
+</text>
+      </lang>
     </block>
     <block id="playerneutral3">
       <lang code="CHN">
@@ -157,6 +275,16 @@ Spieler 2 ist jetzt neutral.
         <text>
 Spieler 3 ist jetzt neutral.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 jest teraz neutralny.
 </text>
       </lang>
     </block>
@@ -172,6 +300,18 @@ Hallo liebe Leut ! Wir sind die Bewohner von Perth. Schickt Eure Händler. Cultu
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Perth!!
+Hello dear people! We are the inhabitants of Perth. Send your merchants. Culturator, our stonemason, makes first-class goods.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Perth!!
+Witajcie drogi ludzie! Jesteśmyście mieszkańcy Perth. Wyślij swoich handlowców. Culturator, nasz kamieniarz, wytwarza towary najwyższej klasy.
+</text>
+      </lang>
     </block>
     <block id="playerseen2">
       <lang code="CHN">
@@ -185,6 +325,18 @@ Huhu ! Wir, die Einwohner von Melbourne grüßen Euch. Schickt eure Händler vor
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Melbourne!!
+Hey! We, the inhabitants of Melbourne, greet you. Send your merchants over. Malte, our tool maker, makes the best tools in the whole country.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Melbourne!!
+Huhu! My, mieszkańcy Melbourne, pozdrawiamy Cię. Poślij swoich handlowców. Malte, nasz narzędziowiec, tworzy najlepsze narzędzi w całym kraju.
+</text>
+      </lang>
     </block>
     <block id="playerseen3">
       <lang code="CHN">
@@ -196,6 +348,19 @@ Huhu ! Wir, die Einwohner von Melbourne grüßen Euch. Schickt eure Händler vor
 Sydney !!
 Guten Tag liebe Leut. Wollt ihr mit uns handeln? Mully, unser Kräuterexperte ist berühmt für seine Kräuter die man für alles verwenden kann. Wir liefern sogar in die Schweiz für die berühmten Rik-Ola Kräutertränke.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Sydney!!
+Hello, dear folks. Do you want to trade with us? Mully, our herbal expert, is famous for his herbs that can be used for everything. We even supply to Switzerland for the famous Rik-Ola herbal potions.
+
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Sydney!!
+Dzień dobry, drodzzy przyjaciele. Chcesz handlować z nami? Mully, nasz ekspert zielarski, jest znany ze swoich ziół, które można użyć do wszystkiego. Dostarczamy nawet do Szwajcarii słynne mikstury ziołowe Rik-Ola.
 </text>
       </lang>
     </block>
@@ -219,6 +384,26 @@ Erstellt von: Yogi
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Finally we had daylight again! But what a strange land this was! Some of us believed they had seen a strange animal in the thicket with big feet and long ears that moved by hopping. Because we didn't want to make ourselves look silly to the others, everyone kept their opinion. And slowly the homesickness for Wigrid Wall seized us. We decided to store the required goods and set the sails towards home.
+Mission objective: Store the following goods.
+90 food, 90 cakes, 90 mead, 90 wood tools, 90 small food potions.
+
+
+Created by: Yogi
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Wreszcie znów mieliśmy światło dzienne! Ale cóż to był za dziwny kraj? Niektórzy z nas wierzyli, że w gąszczu widzieli dziwną ciętę z wielkimi stopami i długimi uszami, która poruszała się podskakkiem. Ponieważ nie chcieliśmy, by inni sobie z nas śmiali, każdy zatrzynał swoje zdanie dla siebie. Powoli ogarnęła nas tęsknota za Wigrid Wall. Postanowiliśmy zmagazynować potrzebne towary i postawić żagle w kierunku domu.
+Cel misji: Zmagazynuj następujące towary.
+90 Jedzenie, 90 Ciasta, 90 Mada pitnego, 90 narzędzi z drewn, 90 małych mikstur żywnościowych.
+
+
+Stworzy przez: Yogi
+</text>
+      </lang>
     </block>
     <block id="start_header">
       <lang code="CHN">
@@ -228,6 +413,16 @@ Erstellt von: Yogi
         <text>
 Australien
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Australia
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Australia
 </text>
       </lang>
     </block>
@@ -241,6 +436,16 @@ Wir hatten alle Waren zusammen, die für eine so lange Reise nötig waren. Unser
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+We had all the goods together that were needed for such a long journey. Our shipwright had meanwhile built several ships that should bring us home. But some of us wanted to stay here. We couldn't blame them, because it was a very hospitable land. When we had loaded all ships, we said goodbye to the others. We realized it would be a farewell for all time...
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Mieliśmy wszystkie produkty potrzebne do tak długą podróż. Nasz budowniczy okrętów zbudował tymczasem kilka statków, które miały zabrać nas do domu. Ale niektórzy z nas chcieli zostać. Nie mogliśmy im tego uczynić, było to przecież bardzo gościnny kraj. Gdy załadowaliśmy statki, pożegnaliśmy się z innymi. Zauważyliśmy, że to będzie pożegnanie na zawsze...
+</text>
+      </lang>
     </block>
     <block id="won_header">
       <lang code="CHN">
@@ -250,6 +455,16 @@ Wir hatten alle Waren zusammen, die für eine so lange Reise nötig waren. Unser
         <text>
 Mission gewonnen!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja wygrana!
 </text>
       </lang>
     </block>

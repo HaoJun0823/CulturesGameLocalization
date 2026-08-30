@@ -3,23 +3,33 @@
   <languages>
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="ger">Bjarni</text>
+      <text lang="eng">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
       <text lang="ger">Cyra</text>
+      <text lang="eng">Cyra</text>
+      <text lang="pol">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">派罗</text>
       <text lang="ger">Pyro</text>
+      <text lang="eng">Pyro</text>
+      <text lang="pol">Pyro</text>
     </string>
     <string id="99">
       <text lang="CHN">幽暗之尘</text>
       <text lang="ger">ZAPPENDUSTER</text>
+      <text lang="eng">PITCH-DARK</text>
+      <text lang="pol">NIEPRZENIKNIONY MROK</text>
     </string>
   </strings>
   <briefings>
@@ -34,6 +44,16 @@
 Zappenduster war es hier unten in der Höhle. Ohne Fackeln konnten wir hier wenig ausrichten, auch wenn wir in der Ferne ein leichtes Glühen sahen. 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+It was pitch black here down in the cave. Without torches we could accomplish little, even though we saw a faint glow in the distance.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Było tu w dole jaskini mrocznie. Bez pochodni niewiele mogliśmy tu zdziałać, choć w oddali widzieliśmy słabą poświatę.
+</text>
+      </lang>
     </block>
     <block id="00_start1">
       <lang code="CHN">
@@ -46,6 +66,16 @@ Zappenduster war es hier unten in der Höhle. Ohne Fackeln konnten wir hier weni
 Wir mußten einen Feuerdrachen um Hilfe bitten, um uns bei den Erkundungen der Höhle zu unterstützen! 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+We had to ask a fire dragon for help to assist us in exploring the cave!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Musiliśmy poprosić smoka ognia o pomoc, by wesprzał nas w eksploracji jaskini!
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -56,6 +86,16 @@ Wir mußten einen Feuerdrachen um Hilfe bitten, um uns bei den Erkundungen der H
       <lang code="ger">
         <text> 
 DIE DUNKLE HÖHLE
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+THE DARK CAVE
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+MROCZNA JASKINIA
 </text>
       </lang>
     </block>

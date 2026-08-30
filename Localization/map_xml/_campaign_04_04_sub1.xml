@@ -3,59 +3,87 @@
   <languages>
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@寻得你曾解放的三条水龙。</text>
       <text lang="ger">@FINDE DIE DREI WASSERDRACHEN, DIE DU BEFREIT HATTEST.</text>
+      <text lang="eng">@FIND THE THREE WATER DRAGONS YOU FREED.</text>
+      <text lang="pol">@ZNAJDŹ TRZY SMOKI WODNE, KTÓRE UWOLNIŁEŚ.</text>
     </string>
     <string id="1">
       <text lang="CHN">与古尔普交谈。</text>
       <text lang="ger">Sprich mit Gulp.</text>
+      <text lang="eng">Speak to Gulp.</text>
+      <text lang="pol">Porozmawiaj z Gulpem.</text>
     </string>
     <string id="53">
       <text lang="CHN">阿夸斯 - 水龙</text>
       <text lang="ger">Aquas - Wasserdrachen</text>
+      <text lang="eng">Aquas - Water Dragons</text>
+      <text lang="pol">Aquas - Smoki Wodne</text>
     </string>
     <string id="63">
       <text lang="CHN">阿夸斯</text>
       <text lang="ger">Aquas</text>
+      <text lang="eng">Aquas</text>
+      <text lang="pol">Aquas</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="ger">Bjarni</text>
+      <text lang="eng">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
       <text lang="ger">Cyra</text>
+      <text lang="eng">Cyra</text>
+      <text lang="pol">Cyra</text>
     </string>
     <string id="74">
       <text lang="CHN">古尔普</text>
       <text lang="ger">GULP</text>
+      <text lang="eng">GULP</text>
+      <text lang="pol">GULP</text>
     </string>
     <string id="75">
       <text lang="CHN">玛尼</text>
       <text lang="ger">Mani</text>
+      <text lang="eng">Mani</text>
+      <text lang="pol">Mani</text>
     </string>
     <string id="76">
       <text lang="CHN">诺伯特</text>
       <text lang="ger">Norbert</text>
+      <text lang="eng">Norbert</text>
+      <text lang="pol">Norbert</text>
     </string>
     <string id="77">
       <text lang="CHN">涌泉</text>
       <text lang="ger">SPRUDEL</text>
+      <text lang="eng">SPRUDEL</text>
+      <text lang="pol">SPRUDEL</text>
     </string>
     <string id="78">
       <text lang="CHN">水妖</text>
       <text lang="ger">NIXE</text>
+      <text lang="eng">NIXIE</text>
+      <text lang="pol">NIXE</text>
     </string>
     <string id="79">
       <text lang="CHN">波涛</text>
       <text lang="ger">WELLE</text>
+      <text lang="eng">WAVE</text>
+      <text lang="pol">WELLA</text>
     </string>
     <string id="99">
       <text lang="CHN">三叠瀑布</text>
       <text lang="ger">DIE DREI WASSERFÄLLE</text>
+      <text lang="eng">THE THREE WATERFALLS</text>
+      <text lang="pol">TRZY WODOSPADY</text>
     </string>
   </strings>
   <briefings>
@@ -69,6 +97,18 @@
         <text> 
 Wir waren den Drachen gefolgt und augenblicklich fanden wir uns in einer seltsam fremden Umgebung wieder. 
 Zweifellos befanden wir uns wieder in einem der vielen Wassertempel der AQUAS!
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+We had followed the dragons and instantly found ourselves in a strangely unfamiliar environment.
+Without a doubt, we were once more in one of the many water temples of the AQUAS!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Podążaliśmy za smokami i natychmiast znaleźliśmy się w dziwnie obcym otoczeniu.
+Bez wątpienia znów byliśmy w jednej z wielu świątyń wodnych AQUAS!
 </text>
       </lang>
     </block>
@@ -85,6 +125,20 @@ Zweifellos befanden wir uns wieder in einem der vielen Wassertempel der AQUAS!
 Unsere Begleiter gingen sofort ihrer Wege. Wir mußten den Wächter dieses Tempels finden, vielleicht konnte er uns bei unserer Mission unterstützen?
 
 Suche GULP!
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Our companions immediately went their own ways. We had to find the guardian of this temple — perhaps he could support us in our mission?
+
+Find GULP!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Nasi towarzysze natychmiast poszli w swoją stronę. Musieliśmy znaleźć stróża tej świątyni — może mógłby nas wesprzeć w naszej misji?
+
+Znajdź GULP!
 </text>
       </lang>
     </block>
@@ -120,6 +174,34 @@ GULP
 Finde die drei Wasserdrachen, die dich begleitet haben.
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+GULP
+
+"You have truly accomplished something great by rescuing our tribesmen."
+
+
+
+
+"Have you memorized them, do you still remember their names? Three of them are here at the waterfalls. Find them and they have a surprise in store for you!"
+
+Find the three Water Dragons that accompanied you.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+GULP
+
+"Osiągnęliście coś wielkiego, ratując członków naszego klanu."
+
+
+
+
+"Zapamiętaliście ich, pamiętacie, jak się nazywają? Trzy z nich są tu, przy wodospadach. Znajdźcie je, a czeka na was niespodzianka!"
+
+Znajdź trzy Smoki Wodne, które ci towarzyszyły.
+</text>
+      </lang>
     </block>
     <block id="02">
       <lang code="CHN">
@@ -141,6 +223,24 @@ SPRUDEL
         <text>
 
 "Ihr habt mich erkannt! Da hat sich der gesprächige SPRUDEL wohl doch in eure Köpfe gequasselt?" 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+SPRUDEL
+
+
+
+"You recognized me! So the talkative SPRUDEL has been chattering away in your heads after all?"
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+SPRUDEL
+
+
+
+"Rozpoznaliście mnie! Ten rozmowny SPRUDEL jednak wam o mnie naklepał?"
 </text>
       </lang>
     </block>
@@ -165,6 +265,24 @@ NIXE
 "Ihr habt mich erkannt! NIXE wird euch auch immer im Herzen bei sich tragen!" 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+NIXE
+
+
+
+"You recognized me! NIXE will always carry you in her heart!"
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+NIXE
+
+
+
+"Rozpoznaliście mnie! NIXE zawsze będzie was nosić w swoim sercu!"
+</text>
+      </lang>
     </block>
     <block id="04">
       <lang code="CHN">
@@ -185,6 +303,24 @@ WELLE
         <text>
 
 "Ihr habt mich erkannt! "
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+WELLE
+
+
+
+"You recognized me!"
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+WELLE
+
+
+
+"Rozpoznaliście mnie!"
 </text>
       </lang>
     </block>
@@ -209,6 +345,20 @@ MISSION VERLOREN!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+MISSION LOST!
+
+Heroism or recklessness? When BJARNI died, the gods wept... Without this hero, the end of the mission will remain hidden from you.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+MISJA PRZEGRANA!
+
+Bohatersztwo czy lekkomyślność? Gdy BJARNI umarł, bogowie płakali... Bez tego bohatera koniec misji pozostanie dla ciebie ukryty.
 </text>
       </lang>
     </block>
@@ -237,6 +387,20 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+MISSION LOST!
+
+A brief moment of carelessness, so quickly it happens in life! Your heroine CYRA perished through your inattention! Without this heroine, the end of the mission will remain hidden from you.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+MISJA PRZEGRANA!
+
+Chwilka lekkomyślności, tak szybko to w życiu przychodzi! Twoja bohaterka CYRA zginęła przez twoją nieuwagę! Bez tej bohaterki koniec misji pozostanie dla ciebie ukryty.
+</text>
+      </lang>
     </block>
     <block id="50_end">
       <lang code="CHN">
@@ -257,6 +421,20 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin C
 </text>
         <usericon>1,73,37</usericon>
       </lang>
+      <lang code="eng">
+        <text>
+SURPRISE!
+
+"Actually, the waterfalls are nothing more than a small hydroelectric plant. With the help of the immense water power and by activating the three switches, we have the ability to power the teleporters on the Earth's surface!"
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+NIESPODZIANKA!
+
+"Właściwie wodospady to nic innego jak mała elektrownia wodna. Dzięki potężnej sile wody i przez naciśnięcie trzech przełączników mamy możliwość zasilania teleporterów na powierzchni Ziemi!"
+</text>
+      </lang>
     </block>
     <block id="50_end1">
       <lang code="CHN">
@@ -267,6 +445,16 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin C
       <lang code="ger">
         <text> 
 Zum Dank für ihre Rettung, und weil sie für uns mehr waren als nur irgendwelche Drachen, aktivierten die Aquas die Teleporter. 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+In gratitude for their rescue, and because they were more to us than just any dragons, the Aquas activated the teleporters.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+W ramach wdzięczności za ocalenie i dlatego, że były dla nas czymś więcej niż tylko zwykłymi smokami, Aquas aktywowały teleportery.
 </text>
       </lang>
     </block>
@@ -281,6 +469,16 @@ Zum Dank für ihre Rettung, und weil sie für uns mehr waren als nur irgendwelch
 MISSION GEWONNEN! 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+MISSION WON!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+MISJA WYGRANA!
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -291,6 +489,16 @@ MISSION GEWONNEN!
       <lang code="ger">
         <text> 
 DIE DREI WASSERFÄLLE
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+THE THREE WATERFALLS
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+TRZY WODOSPADY
 </text>
       </lang>
     </block>

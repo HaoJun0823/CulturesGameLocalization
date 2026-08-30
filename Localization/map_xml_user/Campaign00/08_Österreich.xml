@@ -3,31 +3,45 @@
   <languages>
     <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">奥地利</text>
       <text lang="ger">Österreich</text>
+      <text lang="eng">Austria</text>
+      <text lang="pol">Austria</text>
     </string>
     <string id="1">
       <text lang="CHN">你来到了美丽的雪国奥地利。</text>
       <text lang="ger">Du kommst in das schöne verschneite Österreich.</text>
+      <text lang="eng">You arrive in beautiful snow-covered Austria.</text>
+      <text lang="pol">Docierasz do pięknej, ośnieżonej Austrii.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
       <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
       <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
       <text lang="ger">Spieler0</text>
+      <text lang="eng">Player0</text>
+      <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
       <text lang="ger">Spieler1</text>
+      <text lang="eng">Player1</text>
+      <text lang="pol">Gracz1</text>
     </string>
   </strings>
   <briefings>
@@ -41,6 +55,16 @@ Du hast die Mission verloren.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+You lost the mission.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przegrałeś misję.
+</text>
+      </lang>
     </block>
     <block id="lost_header">
       <lang code="CHN">
@@ -50,6 +74,16 @@ Du hast die Mission verloren.
         <text>
 Mission verloren!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja przegrana!
 </text>
       </lang>
     </block>
@@ -63,6 +97,16 @@ Die Banditen sind gestorben.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+The bandits have died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Bandyci nie żyją.
+</text>
+      </lang>
     </block>
     <block id="playerfriendly1">
       <lang code="CHN">
@@ -74,6 +118,16 @@ Spieler 1 ist jetzt freundlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz przyjazny.
+</text>
+      </lang>
     </block>
     <block id="playerneutral1">
       <lang code="CHN">
@@ -83,6 +137,16 @@ Spieler 1 ist jetzt freundlich.
         <text>
 Spieler 1 ist jetzt neutral.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz neutralny.
 </text>
       </lang>
     </block>
@@ -98,6 +162,20 @@ Banditen !!
 Schon wieder wurden wir von den Banditen angegriffen. Wir mußten sie auch hier zurückschlagen, damit wieder Frieden hier herrschte.
 Missionsziel: Vernichte die Banditen.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Bandits!!
+Once again we were attacked by the bandits. We had to repel them here too, so that peace could reign again.
+Mission objective: Destroy the bandits.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Bandycy!!
+Znowu zostaliśmy zaatakowani przez bandytów. Musieliśmy ich również tutaj odeprzeć, aby znowu zapanował tutaj pokój.
+Cel misji: Zniszcz bandytów.
 </text>
       </lang>
     </block>
@@ -119,6 +197,24 @@ Erstellt von: Yogi
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Since winter had broken in Austria, we set up our camp in the most southern part of Germania. Because we didn't know anyone in this foreign land, we wanted to send out some scouts first. Bjarni wanted to sail around Spain and reach Italy from the sea.
+Mission objective: Explore Austria with a scout.
+
+
+Created by: Yogi
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Ponieważ w Austrii nadeszła zima, rozbiliśmy obód w najbardziej południowej części Germanii. Ponieważ nie znaliśmy nikogo w tym obcym kraju, chcieliśmy najpierw wysłaczenie zwiadowców. Bjarni chciał opłynąć Hiszpanię i dotrzeć do Włoch od morza.
+Cel misji: Zbadaj Austrię zwiadowcą.
+
+
+Stworzono przez: Yogi
+</text>
+      </lang>
     </block>
     <block id="start_header">
       <lang code="CHN">
@@ -128,6 +224,16 @@ Erstellt von: Yogi
         <text>
 Österreich
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Austria
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Austria
 </text>
       </lang>
     </block>
@@ -141,6 +247,16 @@ Wir hatten auch diesmal die Banditen zurückschlagen können. Aber es war ja nur
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+We had been able to repel the bandits this time too. But it had only been a small garrison. What might be waiting for us in Italy?
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+I tym razem udało nam się odeprzeć bandytów. Ale to była przecież tylko mała warzona. Co mogło na nas czekać we Włoszech?
+</text>
+      </lang>
     </block>
     <block id="won_header">
       <lang code="CHN">
@@ -150,6 +266,16 @@ Wir hatten auch diesmal die Banditen zurückschlagen können. Aber es war ja nur
         <text>
 Mission gewonnen!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja wygrana!
 </text>
       </lang>
     </block>

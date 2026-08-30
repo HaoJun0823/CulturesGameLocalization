@@ -3,39 +3,57 @@
   <languages>
     <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">乍得</text>
       <text lang="ger">Tschad</text>
+      <text lang="eng">Chad</text>
+      <text lang="pol">Czad</text>
     </string>
     <string id="1">
       <text lang="CHN">我们不得不在沙漠中歇脚。</text>
       <text lang="ger">Wir mußten eine Rast in der Wüste einlegen.</text>
+      <text lang="eng">We had to rest in the desert.</text>
+      <text lang="pol">Musielismy odpocząć na pustyni.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
       <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
       <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
       <text lang="ger">Spieler0</text>
+      <text lang="eng">Player0</text>
+      <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
       <text lang="ger">Spieler1</text>
+      <text lang="eng">Player1</text>
+      <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
       <text lang="ger">Spieler2</text>
+      <text lang="eng">Player2</text>
+      <text lang="pol">Gracz2</text>
     </string>
     <string id="53">
       <text lang="CHN">玩家3</text>
       <text lang="ger">Spieler3</text>
+      <text lang="eng">Player3</text>
+      <text lang="pol">Gracz3</text>
     </string>
   </strings>
   <briefings>
@@ -49,6 +67,16 @@ Nanu, was war das fürn Ding? Oh,Schatztruhen.Neugierig wie wir waren wollten wi
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Well, what was that thing? Oh, treasure chests. Curious as we were, we wanted to see straight away what was inside.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Och, co to było? Skrzynie skarbów. Ciekawi jak zawsze, chcieliśmy od razu zobaczyć, co w nich jest.
+</text>
+      </lang>
     </block>
     <block id="lost_body">
       <lang code="CHN">
@@ -58,6 +86,16 @@ Nanu, was war das fürn Ding? Oh,Schatztruhen.Neugierig wie wir waren wollten wi
         <text>
 Du hast verloren !! Die Karte war zu schwer? Dann brauchst Du die nächste erst gar nicht probieren.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+You have lost !! The map was too hard? Then don't even bother trying the next one.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przegrałeś !! Mapa zbyt trudna? To nie próbuj nawet następnej.
 </text>
       </lang>
     </block>
@@ -71,6 +109,16 @@ Mission verloren!
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja przegrana!
+</text>
+      </lang>
     </block>
     <block id="playerdied1">
       <lang code="CHN">
@@ -80,6 +128,16 @@ Mission verloren!
         <text>
 Spieler 1 ist gestorben.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 1 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 zmarł.
 </text>
       </lang>
     </block>
@@ -93,6 +151,16 @@ Merlins Schergen sind vernichtet. Doch mußten auch viele Freunde von uns dran g
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Merlin's henchmen are destroyed. But many friends of ours had to pay with their lives as well.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Sługi Merlina zniszczone. Lecz wielu naszych przyjaciół też musiało zginąć.
+</text>
+      </lang>
     </block>
     <block id="playerdied3">
       <lang code="CHN">
@@ -102,6 +170,16 @@ Merlins Schergen sind vernichtet. Doch mußten auch viele Freunde von uns dran g
         <text>
 Buffalo Dans Schergen sind vernichtet.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+The henchmen of Buffalo Dan have been destroyed.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Sługi Buffalo Dana zostały zniszczone.
 </text>
       </lang>
     </block>
@@ -115,6 +193,16 @@ Spieler 1 ist jetzt feindlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz wrogi.
+</text>
+      </lang>
     </block>
     <block id="playerfriendly2">
       <lang code="CHN">
@@ -124,6 +212,16 @@ Spieler 1 ist jetzt feindlich.
         <text>
 Spieler 2 ist jetzt freundlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz przyjazny.
 </text>
       </lang>
     </block>
@@ -137,6 +235,16 @@ Spieler 3 ist jetzt freundlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 jest teraz przyjazny.
+</text>
+      </lang>
     </block>
     <block id="playerneutral1">
       <lang code="CHN">
@@ -146,6 +254,16 @@ Spieler 3 ist jetzt freundlich.
         <text>
 Spieler 1 ist jetzt neutral.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz neutralny.
 </text>
       </lang>
     </block>
@@ -159,6 +277,16 @@ Spieler 2 ist jetzt neutral.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz neutralny.
+</text>
+      </lang>
     </block>
     <block id="playerneutral3">
       <lang code="CHN">
@@ -170,6 +298,16 @@ Spieler 3 ist jetzt neutral.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 jest teraz neutralny.
+</text>
+      </lang>
     </block>
     <block id="playerseen1">
       <lang code="CHN">
@@ -179,6 +317,16 @@ Spieler 3 ist jetzt neutral.
         <text>
 Juhuu Freunde, wir sagten doch daß wir euch helfen würden im Kampf gegen Tank dem fiesen Sarazenenhäuptling.Braucht ihr Tränke, oder gar Amulette? Wir haben die besten. Wie immer möchten wir dafür Waffen haben.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Hooray friends, we did say we'd help you in the fight against Tank the nasty Saracen chieftain. Do you need potions, or even amulets? We have the best. As always, we'd like weapons in return.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Hej przyjaciele, mówiliśmy przecież, że pomożemy wam w walce z Tankiem, podłym wodzem Saracenów. Potrzebujecie mikstur, a może amuletów? Mamy najlepsze. Jak zawsze, w zamian chcemy broń.
 </text>
       </lang>
     </block>
@@ -194,6 +342,18 @@ Missionsziel: Vernichte Merlins Schergen.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Halt, stop !! I, Merlin, right hand of Tank the Saracen chieftain, already foresee your downfall. Surrender, or you will die. Surrender?? Pah. Not us. But we did need many soldiers to destroy this overwhelming force.
+Mission goal: Destroy Merlin's henchmen.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Stójcie !! Ja, Merlin, prawa ręka Tanka, wodza Saracenów, już teraz przepowiadam wasz upadek. Poddajcie się, albo zginiecie. Poddanie się?? Pah. Nie my. Musieliśmy jednak mieć wielu żołnierzy, by zniszczyć tę przytłaczającą siłę.
+Cel misji: Zniszcz sługi Merlina.
+</text>
+      </lang>
     </block>
     <block id="playerseen3">
       <lang code="CHN">
@@ -207,6 +367,20 @@ Buffalo Dans Schergen !!
 Auf sie mit Gebrüll !! Macht sie nieder!! Sie dürfen auf keinen Fall weiter ins Land vordringen. Pfeile flogen auf uns. Erst diese Hitzewelle und dann mußten wir auch noch kämpfen...
 Missionsziel: Vernichte Buffalo Dans Schergen.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+The henchmen of Buffalo Dan !!
+Charge them with a roar !! Cut them down !! Under no circumstances may they advance further inland. Arrows flew towards us. First this heat wave, and then we had to fight as well...
+Mission goal: Destroy Buffalo Dan's henchmen.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Sługi Buffalo Dana !!
+Na nich z rykiem !! Zetrzyjcie ich z powierzchni ziemi !! Pod żadnym pozorem nie mogą posunąć się dalej w głąb lądu. Strzały poleciały na nas. Najpierw ta fala upału, a potem jeszcze musieliśmy walczyć...
+Cel misji: Zniszcz sługi Buffalo Dana.
 </text>
       </lang>
     </block>
@@ -232,6 +406,28 @@ Erstellt von: Yogi
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Good heavens, what a blazing heat. To make matters worse, we had brought too little water. When we found a well, we decided to establish a small outpost to store new water supplies...
+Mission goals: Build your village.
+Store 100 units of water in the warehouse.
+Explore the area for allies or enemies.
+
+
+Created by: Yogi
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Na litość, jakiż to był palący upał. Na nieszczęście, zabraliśmy ze sobą za mało wody. Gdy znaleźliśmy studnię, postanowiliśmy zbudować małą placówkę, by zmagazynować nowe zapasy wody...
+Cele misji: Zbuduj swoją wioskę.
+Zmagazynuj 100 jednostek wody w magazynie.
+Zbadaj okolicę w poszukiwaniu sojuszników lub wrogów.
+
+
+Stworzone przez: Yogi
+</text>
+      </lang>
     </block>
     <block id="start_header">
       <lang code="CHN">
@@ -241,6 +437,16 @@ Erstellt von: Yogi
         <text>
 Tschad
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Chad
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Czad
 </text>
       </lang>
     </block>
@@ -254,6 +460,16 @@ Wir hatten es geschafft. Merlin und Buffalo Dan waren vernichtet. Wir mußten sc
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+We had done it. Merlin and Buffalo Dan were destroyed. We had to get out of this unbearable heat as quickly as possible, so we loaded our ox carts with the water and marched further inland. Our new friends came along. Allegedly to stand by us in the fight against Tank...
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Udało nam się. Merlin i Buffalo Dan zostali zniszczeni. Musieliśmy jak najszybciej wydostać się z tego nieznośnego upału, dlatego załadowaliśmy nasze woły z wozami zapasami wody i maszerowaliśmy dalej w głąb lądu. Nasi nowi przyjaciele poszli z nami. Podobno by wspomóc nas w walce z Tankiem...
+</text>
+      </lang>
     </block>
     <block id="won_header">
       <lang code="CHN">
@@ -263,6 +479,16 @@ Wir hatten es geschafft. Merlin und Buffalo Dan waren vernichtet. Wir mußten sc
         <text>
 Mission gewonnen!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja wygrana!
 </text>
       </lang>
     </block>

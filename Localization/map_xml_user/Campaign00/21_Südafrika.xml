@@ -3,35 +3,51 @@
   <languages>
     <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">南非</text>
       <text lang="ger">Südafrika</text>
+      <text lang="eng">South Africa</text>
+      <text lang="pol">Afryka Południowa</text>
     </string>
     <string id="1">
       <text lang="CHN">我们嗅到了南非海岸清新的微风，思乡之情渐渐涌上心头。</text>
       <text lang="ger">Wir rochen die frische Brise der südafrikanischen Küste und bekamen langsam Heimweh.</text>
+      <text lang="eng">We smelled the fresh breeze of the South African coast and slowly grew homesick.</text>
+      <text lang="pol">Poczuliśmy świeżą bryzę południowoafrykańskiego wybrzeża i powoli ogarnęła nas tęsknota za domem.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
       <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
       <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
       <text lang="ger">Spieler0</text>
+      <text lang="eng">Player0</text>
+      <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
       <text lang="ger">Spieler1</text>
+      <text lang="eng">Player1</text>
+      <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
       <text lang="ger">Spieler2</text>
+      <text lang="eng">Player2</text>
+      <text lang="pol">Gracz2</text>
     </string>
   </strings>
   <briefings>
@@ -45,6 +61,16 @@ Du hast verloren !! Obwohl man bei dieser Karte eigentlich gar nicht verlieren k
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+You have lost !! Although one actually cannot lose on this map.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przegrałeś !! Chociaż na tej mapie tak naprawdę nie da się przegrać.
+</text>
+      </lang>
     </block>
     <block id="lost_header">
       <lang code="CHN">
@@ -54,6 +80,16 @@ Du hast verloren !! Obwohl man bei dieser Karte eigentlich gar nicht verlieren k
         <text>
 Mission verloren!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja przegrana!
 </text>
       </lang>
     </block>
@@ -67,6 +103,16 @@ Spieler 1 ist gestorben.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 zmarł.
+</text>
+      </lang>
     </block>
     <block id="playerdied2">
       <lang code="CHN">
@@ -76,6 +122,16 @@ Spieler 1 ist gestorben.
         <text>
 Spieler 2 ist gestorben.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 2 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 zmarł.
 </text>
       </lang>
     </block>
@@ -89,6 +145,16 @@ Spieler 1 ist jetzt feindlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz wrogi.
+</text>
+      </lang>
     </block>
     <block id="playerenemy2">
       <lang code="CHN">
@@ -98,6 +164,16 @@ Spieler 1 ist jetzt feindlich.
         <text>
 Spieler 2 ist jetzt feindlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz wrogi.
 </text>
       </lang>
     </block>
@@ -111,6 +187,16 @@ Danke für die Waren. Schickt nun Eure Händler, und holt euch Amulette. Sie sin
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Thank you for the goods. Now send your traders and fetch amulets. They are the latest craze in all of Africa.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Dziękujemy za towary. Wyślijcie teraz swoich handlarzy i odbierzcie amulety. To ostatni krzyk w całej Afryce.
+</text>
+      </lang>
     </block>
     <block id="playerneutral2">
       <lang code="CHN">
@@ -120,6 +206,16 @@ Danke für die Waren. Schickt nun Eure Händler, und holt euch Amulette. Sie sin
         <text>
 Spieler 2 ist jetzt neutral.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz neutralny.
 </text>
       </lang>
     </block>
@@ -133,6 +229,16 @@ Hallo Freunde. Ich Ceebee, Herrscherin über Südafrika begrüße Euch in meinem
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Hello friends. I, Ceebee, ruler of South Africa, welcome you to my land. Enjoy our hospitality as long as you wish. For a small tribute we would give you wonderful amulets.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Witajcie przyjaciele. Ja, Ceebee, władczyni Afryki Południowej, witam was w moim kraju. Korzystajcie z naszej gościnności, jak długo chcecie. Za niewielki trybut dalibyśmy wam wspaniałe amulety.
+</text>
+      </lang>
     </block>
     <block id="playerseen2">
       <lang code="CHN">
@@ -144,6 +250,18 @@ Hallo Freunde. Ich Ceebee, Herrscherin über Südafrika begrüße Euch in meinem
 Silbermonds Dorf !!
 Hallo Freunde, sagte ich nicht das wir von nun an Eure Freunde sind? Schickt Eure Händler, wir machen Euch einzigartige Angebote.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Silbermond's Village !!
+Hello friends, didn't I say that from now on we are your friends? Send your traders, we'll make you unique offers.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Wioska Silbermonda !!
+Hej przyjaciele, czy nie mówiłem, że od teraz jesteśmy waszymi przyjaciółmi? Przysyłajcie swoich handlarzy, złożymy wam wyjątkowe oferty.
 </text>
       </lang>
     </block>
@@ -167,6 +285,26 @@ Erstellt von: Yogi
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Finally we had reached the southernmost tip of Africa. Our two runaways had also found their way back. Slowly homesickness began to grip us. It was time to set sail for home. But we needed some provisions for such a long journey.
+Mission goal: Store the following goods in your warehouse:
+20 nourishing amulets, 20 strength amulets, 20 stamina amulets, 20 units of food and 20 cakes.
+
+
+Created by: Yogi
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Wreszcie dotarliśmy do najbardziej wysuniętego na południe cypelu Afryki. Nasi dwaj uciekinierzy również znaleźli drogę powrotną. Powoli opanowywała nas tęsknota za domem. Nadszedł czas, by popłynąć w stronę ojczyzny. Lecz na tak długą podróż potrzebowaliśmy zapasów.
+Cel misji: Zmagazynuj w swoim magazynie następujące towary:
+20 amuletów pożywienia, 20 amuletów siły, 20 amuletów czuwania, 20 jednostek pożywienia i 20 ciast.
+
+
+Stworzone przez: Yogi
+</text>
+      </lang>
     </block>
     <block id="start_header">
       <lang code="CHN">
@@ -176,6 +314,16 @@ Erstellt von: Yogi
         <text>
 Südafrika
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+South Africa
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Afryka Południowa
 </text>
       </lang>
     </block>
@@ -189,6 +337,16 @@ Schnell hatten wir die Waren eingelagert. Wie freuten wir uns auf unsere Heimat 
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+We had quickly stored the goods. How we looked forward to our homeland Wigrid Wall. We had brought peace to Europe and Africa and experienced great adventures. Quickly we loaded our ships and soon set sail for home...
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Szybko zmagazynowaliśmy towary. Jakże cieszyliśmy się na naszą ojczyznę Wigrid Wall. Przynieśliśmy Europie i Afryce pokój i przeżyliśmy wspaniałe przygody. Szybko załadowaliśmy nasze statki i wkrótce popłynęliśmy w stronę ojczyzny...
+</text>
+      </lang>
     </block>
     <block id="won_header">
       <lang code="CHN">
@@ -198,6 +356,16 @@ Schnell hatten wir die Waren eingelagert. Wie freuten wir uns auf unsere Heimat 
         <text>
 Mission gewonnen!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja wygrana!
 </text>
       </lang>
     </block>

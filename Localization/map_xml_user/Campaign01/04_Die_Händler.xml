@@ -3,39 +3,57 @@
   <languages>
     <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">商人们</text>
       <text lang="ger">Die Händler</text>
+      <text lang="eng">The Traders</text>
+      <text lang="pol">Kupcy</text>
     </string>
     <string id="1">
       <text lang="CHN">这片天地对我们而言全然陌生。因此我们决定先在一座偏僻的岛上建一座小村庄。</text>
       <text lang="ger">Dieser Teil der Welt war uns unbekannt.Deshalb beschlossen wir erstmal ein kleines Dorf auf einer abgelegenen Insel zu bauen.</text>
+      <text lang="eng">This part of the world was unknown to us. So we decided to first build a small village on a remote island.</text>
+      <text lang="pol">Ta część świata była nam nieznana. Dlatego postanowiliśmy najpierw zbudować małą wioskę na odległej wyspie.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
       <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
       <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
       <text lang="ger">Spieler0</text>
+      <text lang="eng">Player0</text>
+      <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
       <text lang="ger">Spieler1</text>
+      <text lang="eng">Player1</text>
+      <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
       <text lang="ger">Spieler2</text>
+      <text lang="eng">Player2</text>
+      <text lang="pol">Gracz2</text>
     </string>
     <string id="53">
       <text lang="CHN">玩家3</text>
       <text lang="ger">Spieler3</text>
+      <text lang="eng">Player3</text>
+      <text lang="pol">Gracz3</text>
     </string>
   </strings>
   <briefings>
@@ -49,6 +67,16 @@ Bei dieser Karte kann man normalerweise nicht verlieren.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+On this map one normally cannot lose.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Na tej mapie zazwyczaj nie można przegrać.
+</text>
+      </lang>
     </block>
     <block id="lost_header">
       <lang code="CHN">
@@ -58,6 +86,16 @@ Bei dieser Karte kann man normalerweise nicht verlieren.
         <text>
 Mission verloren!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja przegrana!
 </text>
       </lang>
     </block>
@@ -71,6 +109,16 @@ Spieler 1 ist gestorben.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 zmarł.
+</text>
+      </lang>
     </block>
     <block id="playerdied2">
       <lang code="CHN">
@@ -80,6 +128,16 @@ Spieler 1 ist gestorben.
         <text>
 Spieler 2 ist gestorben.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 2 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 zmarł.
 </text>
       </lang>
     </block>
@@ -93,6 +151,16 @@ Spieler 3 ist gestorben.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 zmarł.
+</text>
+      </lang>
     </block>
     <block id="playerenemy1">
       <lang code="CHN">
@@ -102,6 +170,16 @@ Spieler 3 ist gestorben.
         <text>
 Spieler 1 ist jetzt feindlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz wrogi.
 </text>
       </lang>
     </block>
@@ -115,6 +193,16 @@ Spieler 2 ist jetzt feindlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz wrogi.
+</text>
+      </lang>
     </block>
     <block id="playerenemy3">
       <lang code="CHN">
@@ -124,6 +212,16 @@ Spieler 2 ist jetzt feindlich.
         <text>
 Spieler 3 ist jetzt feindlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 jest teraz wrogi.
 </text>
       </lang>
     </block>
@@ -139,6 +237,18 @@ Missionsziel: Lagere 40 Nahrungsamulette ein.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+When we had paid the requested tribute, we saw the great trade deals. We decided to trade some goods.
+Mission goal: Store 40 nourishing amulets.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gdy zapłaciliśmy żądany trybut, ujrzeliśmy wspaniałe oferty handlowe. Postanowiliśmy wymienić trochę towarów.
+Cel misji: Zmagazynuj 40 amuletów pożywienia.
+</text>
+      </lang>
     </block>
     <block id="playerfriendly2">
       <lang code="CHN">
@@ -152,6 +262,18 @@ Missionsziel: Lagere 40 Verteidigungsamulette ein.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Thank you for the small tribute. Do you perhaps need some defence amulets? We did not think long and decided to store 40 of them.
+Mission goal: Store 40 defence amulets.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Dziękujemy za niewielki trybut. Potrzebujecie może amuletów obrony? Nie zastanawialiśmy się długo i postanowiliśmy zmagazynować 40 sztuk.
+Cel misji: Zmagazynuj 40 amuletów obrony.
+</text>
+      </lang>
     </block>
     <block id="playerfriendly3">
       <lang code="CHN">
@@ -163,6 +285,18 @@ Missionsziel: Lagere 40 Verteidigungsamulette ein.
 Tolle Handelsangebote hatten sie ja hier, staunten wir, und beschlossen einige Waren zu handeln.
 Missionsziel: Lagere 40 Stärkeamulette ein.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+They had great trade deals here, we marvelled, and decided to trade some goods.
+Mission goal: Store 40 strength amulets.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Mieli tu wspaniałe oferty handlowe, dziwiliśmy się i postanowiliśmy wymienić trochę towarów.
+Cel misji: Zmagazynuj 40 amuletów siły.
 </text>
       </lang>
     </block>
@@ -180,6 +314,20 @@ Missionsziel: Zahle den gewünschten Tribut um die Seekarte zu bekommen.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Hello strangers !! 
+Where are you heading? To the homeland of the S-KI-MOS? Well, we have a sea chart that could take you straight there. But it costs a small fortune...
+Mission goal: Pay the requested tribute to get the sea chart.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Hej obcy !! 
+Dokąd chcecie? Do ojczystego świata S-KI-MOS? Cóż, mamy mapę morską, która mogłaby was zaprowadzić tam wprost. Ale to będzie kosztować drobnostkę...
+Cel misji: Zapłać żądany trybut, by otrzymać mapę morską.
+</text>
+      </lang>
     </block>
     <block id="playerseen2">
       <lang code="CHN">
@@ -193,6 +341,18 @@ Missionsziel: Zahle den gewünschten Tribut um die Seekarte zu bekommen.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Strangers, welcome in peace. Hmm, the homeland of the S-KI-MOS? That is very far from here, they reported. But we have an old sea chart. It is written there where you must sail. But the chart is not exactly cheap...
+Mission goal: Pay the requested tribute to get the sea chart.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Obcy, witajcie w pokoju. Hmm, ojczysty świat S-KI-MOS? To bardzo daleko stąd, mówili. Ale mamy starą mapę morską. Tam jest zapisane, dokąd musicie płynąć. Lecz mapa nie jest tania...
+Cel misji: Zapłać żądany trybut, by otrzymać mapę morską.
+</text>
+      </lang>
     </block>
     <block id="playerseen3">
       <lang code="CHN">
@@ -204,6 +364,18 @@ Missionsziel: Zahle den gewünschten Tribut um die Seekarte zu bekommen.
 Huhu, seit willkommen, Fremdlinge.Ihr sucht die Heimatwelt der S-KI-MOS? Naja, wir waren selbst noch nicht dort, aber wir haben kürzlich von einem Händler eine Seekarte erhalten, dort steht die genaue Route drin. Sie ist aber nicht billig müßt ihr wissen....
 Missionsziel: Zahle den gewünschten Tribut, um die Seekarte zu bekommen.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Hey, welcome, strangers. You seek the homeland of the S-KI-MOS? Well, we have never been there ourselves, but we recently received a sea chart from a merchant, with the exact route on it. It is not cheap, you should know....
+Mission goal: Pay the requested tribute to get the sea chart.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Hej, witajcie, obcy. Szukacie ojczystego świata S-KI-MOS? Cóż, sami tam jeszcze nie byliśmy, ale niedawno otrzymaliśmy od handlarza mapę morską, na której zapisana jest dokładna trasa. Nie jest tania, musicie wiedzieć....
+Cel misji: Zapłać żądany trybut, by otrzymać mapę morską.
 </text>
       </lang>
     </block>
@@ -225,6 +397,24 @@ Erstellt von: Yogi
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Felix, who had in the meantime learned the craft of fishing, told us that there were many merchants in this world who had valuable goods. Since we did not know how to get to the homeland of the S-KI-MOS anyway, we wanted to visit these merchants. Perhaps we could learn more from them....
+Mission goal: Build your village, and explore the island world. Build a ship for this purpose.
+
+
+Created by: Yogi
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Felix, który tymczasem opanował rzemiosło rybackie, opowiedział nam, że w tym świecie jest wielu handlarzy, którzy mają cenne towary. Ponieważ i tak nie wiedzieliśmy, jak dotrzeć do ojczyzny S-KI-MOS, chcieliśmy udać się do tych handlarzy. Może dowiedzielibyśmy się od nich czegoś więcej....
+Cel misji: Zbuduj swoją wioskę i zbadaj świat wysp. Zbuduj w tym celu statek.
+
+
+Stworzone przez: Yogi
+</text>
+      </lang>
     </block>
     <block id="start_header">
       <lang code="CHN">
@@ -234,6 +424,16 @@ Erstellt von: Yogi
         <text>
 Die Händler
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+The Merchants
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Handlarze
 </text>
       </lang>
     </block>
@@ -247,6 +447,16 @@ Jetzt hatten wir drei Seekarten. Doch jede wies uns in eine andere Richtung. Zwe
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Now we had three sea charts. But each pointed us in a different direction. Two must therefore be forgeries. In the end we let the dice decide, and initially oriented ourselves by the first chart.....
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Mieliśmy teraz trzy mapy morskie. Lecz każda wskazywała inny kierunek. Dwie musiały więc być fałszywe. W końcu postanowiliśmy losować i na razie kierowaliśmy się pierwszą mapą.....
+</text>
+      </lang>
     </block>
     <block id="won_header">
       <lang code="CHN">
@@ -256,6 +466,16 @@ Jetzt hatten wir drei Seekarten. Doch jede wies uns in eine andere Richtung. Zwe
         <text>
 Mission gewonnen!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja wygrana!
 </text>
       </lang>
     </block>

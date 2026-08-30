@@ -15,60 +15,13 @@
 
 ## 语言 `eng`
 
-- 声明该语言的文件: **114/156**
-（整文件缺失: 42）
-- 单 key 漏翻: **0**
+- 声明该语言的文件: **156/156**
+（整文件缺失: 0）
+- 单 key 漏翻: **16**
 - 空翻(空值): **13**
-- 错行(行数不一致): **6**
+- 错行(行数不一致): **7**
   - 其中疑似截断(差≥3): **0**
 
-
-### `eng` 整文件缺失语言（42 个）
-
-```
-  _campaign_04_01.xml
-  _campaign_04_01_sub1.xml
-  _campaign_04_01_sub2.xml
-  _campaign_04_01_sub3.xml
-  _campaign_04_02.xml
-  _campaign_04_02_sub1.xml
-  _campaign_04_02_sub2.xml
-  _campaign_04_03.xml
-  _campaign_04_03_sub1.xml
-  _campaign_04_04.xml
-  _campaign_04_04_sub1.xml
-  _campaign_04_04_sub2.xml
-  _campaign_04_05.xml
-  _campaign_04_05_sub1.xml
-  01_Ein_neuer_Anfang.xml
-  02_Spanien.xml
-  03_Frankreich.xml
-  04_Schweiz.xml
-  05_Paris.xml
-  06_Belgien.xml
-  07_Germania.xml
-  08_Österreich.xml
-  09_Italien.xml
-  10_Tunesien.xml
-  11_Die_Unterwelt.xml
-  12_Die_Prüfung.xml
-  13_Das_Tal_der_Könige.xml
-  14_Die_Eiswelt.xml
-  15_Australien.xml
-  16_Wigrid_Wall.xml
-  17_Nordwestafrika.xml
-  18_Tschad.xml
-  19_Kongo.xml
-  20_Die_Höhle.xml
-  21_Südafrika.xml
-  22_Daheim.xml
-  01_Die_Pirateninsel.xml
-  02_Die_Lavainsel.xml
-  03_Verlorene_Welt.xml
-  04_Die_Händler.xml
-  05_Die_Münzsammler.xml
-  06_Die_Entscheidung.xml
-```
 
 ### `eng` 空翻（13 处，明确缺陷，优先修）
 
@@ -88,7 +41,28 @@
 | multiplayer_204_special_cap-the-flag.xml | b:38 |
 | singleplayer_02_03.xml | b:begin_02 |
 
-### `eng` 错行（6 处，待人工核对）
+### `eng` 单 key 漏翻（16 处）
+
+| 文件 | 位置 |
+|---|---|
+| _campaign_04_01_sub1.xml | b:50_end |
+| _campaign_04_01_sub1.xml | b:50_end1 |
+| _campaign_04_01_sub2.xml | b:50_end1 |
+| _campaign_04_01_sub3.xml | b:09 |
+| _campaign_04_01_sub3.xml | b:50_end1 |
+| _campaign_04_02.xml | b:11 |
+| _campaign_04_02.xml | b:17 |
+| _campaign_04_02.xml | b:18 |
+| _campaign_04_02.xml | b:19 |
+| _campaign_04_02.xml | b:20 |
+| _campaign_04_02_sub2.xml | b:50_end1 |
+| _campaign_04_03.xml | b:25 |
+| _campaign_04_03_sub1.xml | b:50_end1 |
+| _campaign_04_04_sub2.xml | b:50_end1 |
+| _campaign_04_05.xml | b:25 |
+| 14_Die_Eiswelt.xml | b:playerfriendly1 |
+
+### `eng` 错行（7 处，待人工核对）
 
 | 文件 | 位置 | ger行 | 译文行 | 疑似截断 |
 |---|---|---|---|---|
@@ -97,6 +71,7 @@
 | campaign_01_02-sub.xml | b:end | 3 | 2 |  |
 | campaign_01_07.xml | b:spieler_attakiert_Byzanz | 6 | 5 |  |
 | tutorial_001.xml | b:00 | 9 | 8 |  |
+| 03_Frankreich.xml | b:playerseen2 | 4 | 3 |  |
 | campaign_01_07.xml | b:zerstörtesdorf | 4 | 2 |  |
 
 ## 语言 `chn`

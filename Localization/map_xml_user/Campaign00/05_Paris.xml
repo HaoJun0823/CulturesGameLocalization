@@ -3,39 +3,57 @@
   <languages>
     <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">巴黎</text>
       <text lang="ger">Paris</text>
+      <text lang="eng">Paris</text>
+      <text lang="pol">Paryż</text>
     </string>
     <string id="1">
       <text lang="CHN">巴黎之战</text>
       <text lang="ger">Die Schlacht um Paris</text>
+      <text lang="eng">The Battle for Paris</text>
+      <text lang="pol">Bitwa o Paryż</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
       <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
       <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
       <text lang="ger">Spieler0</text>
+      <text lang="eng">Player0</text>
+      <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
       <text lang="ger">Spieler1</text>
+      <text lang="eng">Player1</text>
+      <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
       <text lang="ger">Spieler2</text>
+      <text lang="eng">Player2</text>
+      <text lang="pol">Gracz2</text>
     </string>
     <string id="53">
       <text lang="CHN">玩家3</text>
       <text lang="ger">Spieler3</text>
+      <text lang="eng">Player3</text>
+      <text lang="pol">Gracz3</text>
     </string>
   </strings>
   <briefings>
@@ -51,6 +69,18 @@ Spiel doch einfach ne Runde Mühle*gg
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+You lost!!
+Just play a game of Mill instead *gg
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przegrałeś!!
+Zagraj po prostu w młynek *gg
+</text>
+      </lang>
     </block>
     <block id="lost_header">
       <lang code="CHN">
@@ -60,6 +90,16 @@ Spiel doch einfach ne Runde Mühle*gg
         <text>
 Mission verloren!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja przegrana!
 </text>
       </lang>
     </block>
@@ -73,6 +113,16 @@ Die Stadt Paris wurde vernichtet.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+The city of Paris was destroyed.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Miasto Paryż zostało zniszczone.
+</text>
+      </lang>
     </block>
     <block id="playerdied2">
       <lang code="CHN">
@@ -82,6 +132,16 @@ Die Stadt Paris wurde vernichtet.
         <text>
 Die Stadt Montpellier wurde vernichtet.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+The city of Montpellier was destroyed.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Miasto Montpellier zostało zniszczone.
 </text>
       </lang>
     </block>
@@ -95,6 +155,16 @@ Die Stadt Toulouse wurde vernichtet.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+The city of Toulouse was destroyed.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Miasto Tuluza zostało zniszczone.
+</text>
+      </lang>
     </block>
     <block id="playerfriendly1">
       <lang code="CHN">
@@ -104,6 +174,16 @@ Die Stadt Toulouse wurde vernichtet.
         <text>
 Spieler 1 ist jetzt freundlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz przyjazny.
 </text>
       </lang>
     </block>
@@ -117,6 +197,16 @@ Spieler 2 ist jetzt freundlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz przyjazny.
+</text>
+      </lang>
     </block>
     <block id="playerfriendly3">
       <lang code="CHN">
@@ -126,6 +216,16 @@ Spieler 2 ist jetzt freundlich.
         <text>
 Spieler 3 ist jetzt freundlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 jest teraz przyjazny.
 </text>
       </lang>
     </block>
@@ -139,6 +239,16 @@ Spieler 1 ist jetzt neutral.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz neutralny.
+</text>
+      </lang>
     </block>
     <block id="playerneutral2">
       <lang code="CHN">
@@ -148,6 +258,16 @@ Spieler 1 ist jetzt neutral.
         <text>
 Spieler 2 ist jetzt neutral.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz neutralny.
 </text>
       </lang>
     </block>
@@ -161,6 +281,16 @@ Spieler 3 ist jetzt neutral.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 jest teraz neutralny.
+</text>
+      </lang>
     </block>
     <block id="playerseen1">
       <lang code="CHN">
@@ -170,6 +300,16 @@ Spieler 3 ist jetzt neutral.
         <text>
 Du hast die Elitesoldaten von Paris entdeckt.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+You have discovered the elite soldiers of Paris.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Odkryłeś elitarnych żołnierzy Paryża.
 </text>
       </lang>
     </block>
@@ -183,6 +323,16 @@ Du hast die Soldaten von Montpellier entdeckt.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+You have discovered the soldiers of Montpellier.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Odkryłeś żołnierzy Montpellier.
+</text>
+      </lang>
     </block>
     <block id="playerseen3">
       <lang code="CHN">
@@ -192,6 +342,16 @@ Du hast die Soldaten von Montpellier entdeckt.
         <text>
 Du hast die Soldaten von Toulouse entdeckt.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+You have discovered the soldiers of Toulouse.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Odkryłeś żołnierzy Tuluzy.
 </text>
       </lang>
     </block>
@@ -217,6 +377,28 @@ Erstellt von: Yogi
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+When we came back from Switzerland we were not surprised. Bjarni had built quite a lot in the meantime. Immediately Bjarni explained the current situation to us:
+"Our builders, who apparently had swallowed too much mead, have built our village between the front lines, i.e. we are hemmed in." He looked angrily at the builders. "I fear the first attacks will not take long to come. We should try to destroy the outposts to the south of here before we advance on Paris."
+Then at last we will make the King of France pay for it.
+Mission objective: Destroy all enemies!!
+
+
+Created by: Yogi
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gdy wróciliśmy ze Szwajcarii, nie dźwiliśmy się niewiarygodnie. Bjarni tymczasem sporo zbudował. Natychmiast wyjał nam Bjarni bieżącą sytuację:
+„Nasi budowlarze, którzy widocznie wypili za dużo miodu pitnego, zbudowali naszą wioskę między frontami, czyli jesteśmy okrążenicy. – Spojrzał ze złością na budowlanych. – Obawiam się, że pierwsze ataki nie każą na siebie czekać. Zanim ruszymy na Paryż, powinniśmy najpierw spróbować zniszczyć przyczółki znajdujące się na południu stąd.”
+Wtedy wreszcie odpłacamy królowi Francji.
+Cel misjistyczny: Zniszcz wszystkich przeciwników!!
+
+
+Stworzone przez: Yogi
+</text>
+      </lang>
     </block>
     <block id="start_header">
       <lang code="CHN">
@@ -226,6 +408,16 @@ Erstellt von: Yogi
         <text>
 Paris
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Paris
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Paryż
 </text>
       </lang>
     </block>
@@ -241,6 +433,18 @@ Was wir nicht ahnten war, daß der König von Frankreich auch in anderen Länder
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Finally, Felix, King of France, was defeated. But he left a pile of rubble behind. Many countries in Europe were starving. They lacked everything, above all food and clothing. We wanted to try to help some peoples. Our next destination was Belgium.
+What we didn't suspect was that the King of France also had allies in other countries. And they would surely not welcome us.....
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Wreszcie Feliks, król Francji, został pokonany. Ale zostawił po sobie stertę gruzów. Wiele krajów w Europie cierpiała głód. Brakowało im wszystkiego, przede wszystki: jedzenia i ubrań. Chcieliśmy pomóc niektórym ludom. Naszym następnym celem była Belgia.
+Nie przeczuwaliśmy jednak, że król Francji miał sprzymierzeńców także w innych krajach. I oni z pewnością nie przyjęliby nas z otwartymi ramionami.....
+</text>
+      </lang>
     </block>
     <block id="won_header">
       <lang code="CHN">
@@ -250,6 +454,16 @@ Was wir nicht ahnten war, daß der König von Frankreich auch in anderen Länder
         <text>
 Mission gewonnen!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja wygrana!
 </text>
       </lang>
     </block>

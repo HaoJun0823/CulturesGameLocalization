@@ -3,35 +3,51 @@
   <languages>
     <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">熔岩岛</text>
       <text lang="ger">Die Lavainsel</text>
+      <text lang="eng">The Lava Island</text>
+      <text lang="pol">Wyspa Lawy</text>
     </string>
     <string id="1">
       <text lang="CHN">费利克斯的族人在这里曾有一处小型前哨，可当我们抵达时，它却已不见踪影……</text>
       <text lang="ger">Das Volk von Felix hatte hier einen kleinen Außenposten, doch als wir ankamen war er verschwunden.....</text>
+      <text lang="eng">Felix's people had a small outpost here, but when we arrived it had vanished...</text>
+      <text lang="pol">Lud Felixa miał tu mały przyczółek, lecz gdy dotarliśmy, zniknął...</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
       <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
       <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
       <text lang="ger">Spieler0</text>
+      <text lang="eng">Player0</text>
+      <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
       <text lang="ger">Spieler1</text>
+      <text lang="eng">Player1</text>
+      <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
       <text lang="ger">Spieler2</text>
+      <text lang="eng">Player2</text>
+      <text lang="pol">Gracz2</text>
     </string>
   </strings>
   <briefings>
@@ -49,6 +65,20 @@ Missionsziel: Suche das Volk im Südwesten auf. Baue dazu ein Schiff.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Thank you for building this little dwelling for me, my friends. Beware of the Lava Island. It is said there is nothing edible there. But it is only a rumour, for everyone who had set foot on the island never came back.....
+Besides, there is an island people southwest of here. In the past we were able to trade valuable goods with them.
+Mission goal: Seek out the people in the southwest. Build a ship for this purpose.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Dziękuję, że zbudowaliście mi tę małą siedzibę, przyjaciele. Bądźcie ostrożni na Wyspie Lawowej. Podobno nie ma tam nic do jedzenia. Ale to tylko plotka, bo każdy, który wstąpił na wyspę, już nigdy nie wrócił.....
+Poza tym na południowy zachód stąd żyje jeszcze lud wyspiarski. Dawniej udało nam się od niego nabyć cenne towary.
+Cel misji: Odnajdź lud na południowym zachodzie. Zbuduj w tym celu statek.
+</text>
+      </lang>
     </block>
     <block id="findmappos2">
       <lang code="CHN">
@@ -58,6 +88,16 @@ Missionsziel: Suche das Volk im Südwesten auf. Baue dazu ein Schiff.
         <text>
 Halt !! Ich Cherry, die Lavadämonin warne euch !! Wenn ihr weitergeht wird es euer Untergang sein !!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Halt !! I, Cherry, the lava demoness, warn you !! If you go further, it will be your doom !!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Stójcie !! Ja, Cherry, demonica lawy, ostrzegam was !! Jeśli pójdziecie dalej, będzie to wasza zguba !!
 </text>
       </lang>
     </block>
@@ -71,6 +111,16 @@ Du hast verloren !! Versuchs doch mal mit ner Runde Schach.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+You have lost !! Why not try a round of chess.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przegrałeś !! Spróbuj partii szachów.
+</text>
+      </lang>
     </block>
     <block id="lost_header">
       <lang code="CHN">
@@ -80,6 +130,16 @@ Du hast verloren !! Versuchs doch mal mit ner Runde Schach.
         <text>
 Mission verloren!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja przegrana!
 </text>
       </lang>
     </block>
@@ -93,6 +153,16 @@ Spieler 1 ist gestorben.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 zmarł.
+</text>
+      </lang>
     </block>
     <block id="playerdied2">
       <lang code="CHN">
@@ -102,6 +172,16 @@ Spieler 1 ist gestorben.
         <text>
 Endlich, Karo war befreit und fiel Felix in die Arme als sie sich wiedersahen. Merlin, der rote Korsar aber konnte uns wieder entkommen. Er hatte in einer kleinen Bucht abseits der Insel ein Fluchtschiff bereitgestellt, und steuerte die Heimat von Felix an.....
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Finally, Karo was freed and fell into Felix's arms when they saw each other again. Merlin, the red corsair, however, managed to escape us once more. He had readied an escape ship in a small cove away from the island, and steered towards Felix's homeland.....
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Wreszcie, Karo została uwolniona i wpadła Felixowi w ramiona, gdy się ponownie zobaczyli. Merlin, czerwony korsarz, znowu nam uciekł. Przygotował sobie statek ratunkowy w małej zatoce opodal wyspy i skierował się ku ojczyźnie Felixa.....
 </text>
       </lang>
     </block>
@@ -115,6 +195,16 @@ Spieler 1 ist jetzt feindlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz wrogi.
+</text>
+      </lang>
     </block>
     <block id="playerfriendly1">
       <lang code="CHN">
@@ -124,6 +214,16 @@ Spieler 1 ist jetzt feindlich.
         <text>
 Danke für die Kräuter. Wenn ihr Amulette haben wollt, schickt eure Händler vorbei.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Thank you for the herbs. If you want amulets, send your traders over.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Dziękujemy za zioła. Jeśli chcecie amuletów, przysyłajcie swoich handlarzy.
 </text>
       </lang>
     </block>
@@ -137,6 +237,16 @@ Spieler 2 ist jetzt freundlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz przyjazny.
+</text>
+      </lang>
     </block>
     <block id="playerneutral2">
       <lang code="CHN">
@@ -146,6 +256,16 @@ Spieler 2 ist jetzt freundlich.
         <text>
 Spieler 2 ist jetzt neutral.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz neutralny.
 </text>
       </lang>
     </block>
@@ -159,6 +279,16 @@ Juhuu !! Ich Stupsie, Großfürstin der Sarazenen grüße Euch. Habt ihr zufäll
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Yoo-hoo !! I, Stupsie, grand princess of the Saracens, greet you. Do you happen to have herbs for us? We need herbs, for our herb gardener ran his ship onto a reef south of here. Bring us herbs and you may trade with us. We produce first-rate amulets and potions, you see. So you seek the Lava Island? There is nothing edible there, and the pirates are too powerful. It will not be an easy task for you......
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Hej !! Ja, Stupsie, wielka księżna Saracenów, pozdrawiam was. Macie czasem zioła dla nas? Potrzebujemy ziół, bo nasz ogrodnik zielarski rozbił swoim statkiem o rafę na południe stąd. Przynieście nam zioła, a będziecie mogli z nami handlować. Wyrabiamy bowiem pierwszorzędne amulety i mikstury, trzeba wiedzieć. A więc szukacie Wyspy Lawowej? Nie ma tam nic do jedzenia, a piraci są tam zbyt potężni. Nie będzie to łatwe zadanie dla was......
+</text>
+      </lang>
     </block>
     <block id="playerseen2">
       <lang code="CHN">
@@ -170,6 +300,18 @@ Juhuu !! Ich Stupsie, Großfürstin der Sarazenen grüße Euch. Habt ihr zufäll
 Halt !! Ich Merlin, Pirat der sieben Meere, Herrscher über der Karibik, Großfürst und Großmogul der Piraten der roten Flagge, zukünftiger  Mann von Karo, gebe euch den Befehl euch zurückzuziehen, ansonsten werden meine Elite-Soldaten Euch vernichten....
 Waren wir auch stark genug um gegen so eine Übermacht zu bestehen?
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Halt !! I, Merlin, pirate of the seven seas, ruler of the Caribbean, grand prince and grand mogul of the pirates of the red flag, future husband of Karo, order you to withdraw, otherwise my elite soldiers will destroy you....
+Were we also strong enough to stand against such an overwhelming force?
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Stójcie !! Ja, Merlin, pirat siedmiu mórz, władca Karaibów, wielki książę i wielki mogol piratów czerwonej flagi, przyszły mąż Karo, rozkazuję wam się wycofać, w przeciwnym razie moi elici żołnierze was zniszczą....
+Czy byliśmy wystarczająco silni, by przeciwstawić się takiej przewadze?
 </text>
       </lang>
     </block>
@@ -191,6 +333,24 @@ Erstellt von: Yogi
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+The island was empty, no outpost in sight. On the beach we met a wounded man. Those damn pirates, he cursed. Out of nowhere they came from the sea and attacked us. There were hundreds. We had no chance. Suddenly Felix came running up. And my wife? Where is my wife Karo? With his last words, the wounded man told us that the pirates had kidnapped her and taken her to their island, which is also called the Lava Island. First we built a small dwelling for Felix, and he also wanted to try his hand as a fisherman to distract himself. Then we wanted to search for the Lava Island....
+Mission goal: Find the Lava Island, and destroy the pirates of the red corsair.
+
+
+Created by: Yogi
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Wyspa była pusta, nie było widać żadnej placówki. Na plaży natknęliśmy się na rannego człowieka. Ci przeklęci piraci, przeklinał. Jak znikąd przyszli z morza i nas zaatakowali. Byli ich setki. Nie mieliśmy szans. Nagle przybiegł Felix. A moja żona? Gdzie jest moja żona Karo? Z ostatnimi słowami ranny powiedział nam jeszcze, że piraci ją porwali i uprowadzili na swoją wyspę, która też nazywa się Wyspą Lawową. Najpierw zbudowaliśmy dla Felixa małą siedzibę, ponadto chciał spróbować swych sił jako rybak, by odwrócić myśli. Potem zamierzaliśmy szukać Wyspy Lawowej....
+Cel misji: Znajdź Wyspę Lawową i zniszcz piratów czerwonego korsarza.
+
+
+Stworzone przez: Yogi
+</text>
+      </lang>
     </block>
     <block id="start_header">
       <lang code="CHN">
@@ -200,6 +360,16 @@ Erstellt von: Yogi
         <text>
 Die Lavainsel
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+The Lava Island
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Wyspa Lawowa
 </text>
       </lang>
     </block>
@@ -213,6 +383,16 @@ Wir hatten gesiegt. Die Schergen des roten Korsaren waren auch von dieser Welt v
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+We had triumphed. The henchmen of the red corsair had also been driven from this world. But once again Merlin slipped through our fingers. Judging by his wake, he was heading north, straight into the homeland of Felix and his people...
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Zwyciężyliśmy. Sługi czerwonego korsarza zostały też wypędzone z tego świata. Lecz po raz kolejny Merlin wymknął nam się z rąk. Sądząc po jego kilwaterze, płynął na północ, prosto do ojczystego świata Felixa i jego ludu...
+</text>
+      </lang>
     </block>
     <block id="won_header">
       <lang code="CHN">
@@ -222,6 +402,16 @@ Wir hatten gesiegt. Die Schergen des roten Korsaren waren auch von dieser Welt v
         <text>
 Mission gewonnen!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja wygrana!
 </text>
       </lang>
     </block>

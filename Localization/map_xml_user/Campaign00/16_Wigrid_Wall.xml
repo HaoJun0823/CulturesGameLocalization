@@ -3,35 +3,51 @@
   <languages>
     <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">维格利德之墙</text>
       <text lang="ger">Wigrid Wall</text>
+      <text lang="eng">Wigrid</text>
+      <text lang="pol">Wigrid</text>
     </string>
     <string id="1">
       <text lang="CHN">我们终于回到了家乡维格利德之墙。</text>
       <text lang="ger">Endlich waren wir daheim in Wigrid Wall.</text>
+      <text lang="eng">Finally we were home in Wigrid Wall.</text>
+      <text lang="pol">Wreszcie byliśmy w domu w Wigrid Wall.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
       <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
       <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
       <text lang="ger">Spieler0</text>
+      <text lang="eng">Player0</text>
+      <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
       <text lang="ger">Spieler1</text>
+      <text lang="eng">Player1</text>
+      <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
       <text lang="ger">Spieler2</text>
+      <text lang="eng">Player2</text>
+      <text lang="pol">Gracz2</text>
     </string>
   </strings>
   <briefings>
@@ -45,6 +61,16 @@ Du hast verloren !! Versuchs doch mal mit ner Runde "Mensch ärgere Dich nicht".
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+You lost!! Try a game of "Man, Don't Get Angry" instead.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przegrałeś!! Spróbuj zamiast tego rundkę „Nie gniew, się Człowiek”.
+</text>
+      </lang>
     </block>
     <block id="lost_header">
       <lang code="CHN">
@@ -54,6 +80,16 @@ Du hast verloren !! Versuchs doch mal mit ner Runde "Mensch ärgere Dich nicht".
         <text>
 Mission verloren!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja przegrana!
 </text>
       </lang>
     </block>
@@ -67,6 +103,16 @@ Der letzte unserer Freunde war nun auch dahin. Wir begruben die Toten, und schwo
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+The last of our friends was now also gone. We buried the dead, and swore revenge.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Ostatni z naszych przyjaciół też już odszedł. Pogrzebiliśmy zmarłych i przyzrzęliśmy zemstę.
+</text>
+      </lang>
     </block>
     <block id="playerdied2">
       <lang code="CHN">
@@ -76,6 +122,16 @@ Der letzte unserer Freunde war nun auch dahin. Wir begruben die Toten, und schwo
         <text>
 Der Sarazenhäuptling war besiegt, doch er selbst konnte entkommen.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+The Saracen chieftain was defeated, but he himself managed to escape.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Wódz Saracenów został pokonany, lecz jemu samemu udało się uciec.
 </text>
       </lang>
     </block>
@@ -89,6 +145,16 @@ Spieler 1 ist jetzt feindlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz wrogi.
+</text>
+      </lang>
     </block>
     <block id="playerfriendly2">
       <lang code="CHN">
@@ -98,6 +164,16 @@ Spieler 1 ist jetzt feindlich.
         <text>
 Spieler 2 ist jetzt freundlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz przyjazny.
 </text>
       </lang>
     </block>
@@ -111,6 +187,16 @@ Spieler 1 ist jetzt neutral.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz neutralny.
+</text>
+      </lang>
     </block>
     <block id="playerneutral2">
       <lang code="CHN">
@@ -120,6 +206,16 @@ Spieler 1 ist jetzt neutral.
         <text>
 Spieler 2 ist jetzt neutral.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz neutralny.
 </text>
       </lang>
     </block>
@@ -135,6 +231,18 @@ Missionsziel 1:Lagere folgende Waren in Dein Lager: 100 Langschwerter, 100 Kurzs
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+What a gruesome sight awaited us when we arrived at our village. Everything had been burned to the ground. The smoke of death still hung above the rooftops. Who could have done this? A survivor told us of a Saracen chieftain who calls himself Tank. It was he who had attacked the peaceful village without cause. He is said to have withdrawn far to the north. We deliberated what was to be done. Long ago we had buried treasure chests to the south-east of here. Were they still there? With their help we could build a new village. We also needed weapons, many weapons.
+Mission goal 1:Store the following goods in your warehouse: 100 longswords, 100 shortswords, 100 iron spears, 100 plate armours and 100 chain mails. Seek out Tank, the Saracen chieftain.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Jakiż okropny widok zastał nas, gdy dotarliśmy do naszej wioski. Wszystko spalono doszczętnie. Dym śmierci wciąż unosił się nad dachami. Kto mógł to uczynić? Ocalały opowiedział nam o wodzu Saracenów, który nazywa siebie Tank. To on bez powodu zaatakował spokojną wioskę. Mówiono, że wycofał się daleko na północ. Naradzaliśmy się, co robić. Dawno temu zakopaliśmy skrzynie ze skarbami na południowy wschód stąd. Czy wciąż tam są? Z ich pomocą moglibyśmy zbudować nową wioskę. Potrzebowaliśmy też broni, mnóstwo broni.
+Cel misji 1: Zmagazynuj w swoim magazynie następujące towary: 100 długich mieczy, 100 krótkich mieczy, 100 żelaznych włóczni, 100 zbroi płytowych i 100 kolczug. Odnajdź Tanka, wodza Saracenów.
+</text>
+      </lang>
     </block>
     <block id="playerseen2">
       <lang code="CHN">
@@ -146,6 +254,18 @@ Missionsziel 1:Lagere folgende Waren in Dein Lager: 100 Langschwerter, 100 Kurzs
 Halt !! Ich Tank, Häuptling der Sarazenen, neuer König von Wigrid Wall, Herrscher über Afrika und aller arabischen Länder, gebe Euch den Befehl Euch mir zu unterwerfen. Andernfalls gebe ich meinen Truppen den Befehl Euch niederzumetzeln, genauso wie wir es schon mit Euren Freunden gemacht haben. Wir uns unterwerfen? Paah, ihr werdet schon bald den Stahl unserer Klingen spüren dachten wir.
 Missionsziel 2: Vernichte Tank den Sarazenenhäuptling und sein Gefolge.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Halt !! I, Tank, chieftain of the Saracens, new king of Wigrid Wall, ruler over Africa and all Arab lands, command you to submit to me. Otherwise I shall order my troops to butcher you, just as we have already done with your friends. Submit to him? Pah, you will soon feel the steel of our blades, we thought.
+Mission goal 2: Destroy Tank the Saracen chieftain and his entourage.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Stójcie !! Ja, Tank, wódz Saracenów, nowy król Wigrid Wall, władca Afryki i wszystkich krajów arabskich, rozkazuję wam się mi poddać. W przeciwnym razie każę moim wojskom was wyrżnąć, tak jak zrobiliśmy to już z waszymi przyjaciółmi. Poddać się? Pah, wkrótce poczujecie stal naszych ostrzy, pomyśleliśmy.
+Cel misji 2: Zniszcz Tanka, wodza Saracenów, i jego świtę.
 </text>
       </lang>
     </block>
@@ -165,6 +285,22 @@ Erstellt von: Yogi
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+When we left our ships to go to our village, fresh smoke hung in the air. Oh great, we thought, there are fresh sausages. But our new friend from the ice world said: "No, that is the smoke of death". We looked at each other in astonishment, and at the same time worried about our friends. Hurriedly we made our way to our village...
+
+
+Created by: Yogi
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gdy opuszczaliśmy nasze statki, aby udać się do wioski, w powietrzu unosił się świeży dym. Och super, pomyśleliśmy, będą świeże kiełbaski. Lecz nasz nowy przyjaciel z krainy lodu rzekł:"Nie, to jest dym śmierci". Spojrzeliśmy po sobie ze zdumieniem, a zarazem z niepokojem o naszych przyjaciół. W pośpiechu ruszyliśmy do naszej wioski...
+
+
+Stworzone przez: Yogi
+</text>
+      </lang>
     </block>
     <block id="start_header">
       <lang code="CHN">
@@ -174,6 +310,16 @@ Erstellt von: Yogi
         <text>
 Wigrid Wall
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Wigrid Wall
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Wigrid Wall
 </text>
       </lang>
     </block>
@@ -187,6 +333,16 @@ Wir hatten alle erforderlichen Waffen eingelagert und den Sarazenhäuptling aus 
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+We had stored all the required weapons and driven the Saracen chieftain from our homeland. But he himself had fled by ship. Since we had sworn revenge, we wanted to go after him at once. But we had to leave many soldiers behind so that our homeland would be protected from attacks this time. The Saracen chieftain Tank could only flee to a country where he would find allies. We therefore set course for the northernmost tip of Africa...
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Zmagazynowaliśmy całą wymaganą broń i wypędziliśmy wodza Saracenów z naszej ojczyzny. On sam jednak uciekł statkiem. Ponieważ przysięgliśmy zemstę, chcieliśmy natychmiast ruszyć w pogoń. Musieliśmy jednak zostawić wielu żołnierzy, by nasza ojczyzna była tym razem chroniona przed atakami. Wódz Saracenów Tank mógł uciec tylko do kraju, w którym znalazłby sojuszników. Dlatego skierowaliśmy się na najbardziej wysunięty na północ cypel Afryki...
+</text>
+      </lang>
     </block>
     <block id="won_header">
       <lang code="CHN">
@@ -196,6 +352,16 @@ Wir hatten alle erforderlichen Waffen eingelagert und den Sarazenhäuptling aus 
         <text>
 Mission gewonnen!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja wygrana!
 </text>
       </lang>
     </block>

@@ -3,35 +3,51 @@
   <languages>
     <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">冰之世界</text>
       <text lang="ger">Die Eiswelt</text>
+      <text lang="eng">The Ice World</text>
+      <text lang="pol">Lodowy Świat</text>
     </string>
     <string id="1">
       <text lang="CHN">我们偏离了道路，被困在了一处夹缝之间的世界里。</text>
       <text lang="ger">Wir waren vom Weg abgekommen und in einer Zwischenwelt gefangen.</text>
+      <text lang="eng">We had strayed from the path and were trapped in a limbo.</text>
+      <text lang="pol">Zboczyliśmy z drogi i utknęliśmy w zaświatach.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
       <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
       <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
       <text lang="ger">Spieler0</text>
+      <text lang="eng">Player0</text>
+      <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
       <text lang="ger">Spieler1</text>
+      <text lang="eng">Player1</text>
+      <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
       <text lang="ger">Spieler2</text>
+      <text lang="eng">Player2</text>
+      <text lang="pol">Gracz2</text>
     </string>
   </strings>
   <briefings>
@@ -47,6 +63,18 @@ Missionsziel: Finde das Hauptquartier der Eisdämonin und vernichte es komplett.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Stop!! I, Stupsie, the ice demon, ruler of this land, princess of Qaanaaq, also called Thule, order you to turn around immediately. Otherwise my black elite ice demons will destroy you.
+Mission objective: Find the headquarter of the ice demon and destroy it completely.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Halt!! Ja, Stopsia, demon lodu, pani tego kraju, księżna z Kanaak, zwana również Tule, rozkazuje Ci natychmiast zawrócić. W przeciwnym razie moje czarne elitarne demony lodu zniszczy was.
+Cel misji: Znajdź siedzibę główną demonicy lodu i znisz ją w 100%.
+</text>
+      </lang>
     </block>
     <block id="lost_body">
       <lang code="CHN">
@@ -60,6 +88,18 @@ Versuchs doch mal mit einer Runde Dame.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+You lost!! 
+Try a game of checkers instead.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przegrałeś!! 
+Spróbuj zamiast tego rundkę warcab.
+</text>
+      </lang>
     </block>
     <block id="lost_header">
       <lang code="CHN">
@@ -69,6 +109,16 @@ Versuchs doch mal mit einer Runde Dame.
         <text>
 Mission verloren!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja przegrana!
 </text>
       </lang>
     </block>
@@ -82,6 +132,16 @@ Die Eisdämonen waren vernichtet. Als Dank gab uns Karo, die gute Eisfee ihren b
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+The ice demons were destroyed. As a thank you, Karo, the good ice fairy, gave us her best fighter, who from now on should always fight by our side.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Demony lodu zostały zniszczone. W podziękowaniu Karo, dobra wróżka lodowa, dała nam swojego najlepszego wojownika, który odtąd miały walczyć u naszego boku.
+</text>
+      </lang>
     </block>
     <block id="playerdied2">
       <lang code="CHN">
@@ -93,6 +153,16 @@ Spieler 2 ist gestorben.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 zmarł.
+</text>
+      </lang>
     </block>
     <block id="playerenemy2">
       <lang code="CHN">
@@ -102,6 +172,16 @@ Spieler 2 ist gestorben.
         <text>
 Spieler 2 ist jetzt feindlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz wrogi.
 </text>
       </lang>
     </block>
@@ -119,6 +199,16 @@ Danke für Eure Gaben. Schickt nun Eure Händler. Mit unseren Eisklingen werdet 
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Thank you for your gifts. Now send your merchants. With our ice blades you will quickly destroy the ice demon.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Dziękuję za wasze prezenty. Teraz wyślijcie swoich handlarzy. Z naszymi ostrzami lodu szybko zniszczyc demona lodu.
+</text>
+      </lang>
     </block>
     <block id="playerneutral1">
       <lang code="CHN">
@@ -128,6 +218,16 @@ Danke für Eure Gaben. Schickt nun Eure Händler. Mit unseren Eisklingen werdet 
         <text>
 Spieler 1 ist jetzt neutral.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz neutralny.
 </text>
       </lang>
     </block>
@@ -147,6 +247,22 @@ Suche das Tor zur Oberwelt.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+The Elite Ice Demons!! There they are!! Get them!! Surround them!! Kill them all!!
+Suddenly we were attacked from all sides. It would be difficult to destroy these ice demons.
+Mission objective: Destroy the ice demons. 
+Search the gate to the upper world.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Elitarne Demony Lodu!! Zobacz, są!! Bierzcie ich!! Okrążajcie ich!! Wybij wszystkich!!
+Niespodziowanie zostaliśmy zaatakowani ze wszystkich stron. Trudno będzie znisz tych demonów lodu.
+Cel misji: Zniszcz demony lodu. 
+Szukaj bramy do świata powierzchni.
+</text>
+      </lang>
     </block>
     <block id="playerseen2">
       <lang code="CHN">
@@ -162,6 +278,22 @@ Ich Karo, die gute Eisfee vom Lavasee grüße Euch. Wenn ihr freundlich seit dü
 Missionsziel: Gib Karo einen Tribut, wenn Du von ihr Waffen handeln möchtest.
 Suche Stupsie, die Eisdämonin im Norden des Landes.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Hello, you proud Vikings!!
+I, Karo, the good ice fairy of the lava lake, greet you. If you are friendly, you may settle here as long as you wish. But beware of the north. There Stupsie, the evil ice demon, lives. We once fought her, but she defeated all our soldiers. She demands a monthly tribute from us. We secretly built a weapons forge. We'd like to trade weapons with you, for a small tribute of course.
+Mission objective: Give Karo a tribute if you want to trade weapons from her.
+Search for Stupsie, the ice demon, in the north of the country.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Witajcie, dumni z Wikingów!!
+Ja, Karo, dobra lodowa wróżka znad lawowego jeziora, witam was. Jeśli jesteście życzliwiczni, możecie osiedlić się tutaj, jak długo zechcecie. Unikajcie północy. Tam mieszka Stupsia, zła demonica lodu. Kiedyś zwalczaliśmy ją, ale ona pokonała wszystkich naszych żołnierze. Żąda od nas miesięcznego trybutu. Potajemnie zbudowaliśmy zbrojownię. Chętnie handlowalibyśmy z wami bronią, oczywiście za drobny trybut.
+Cel misji: Zapłać Karo trybut, jeśli chcesz od niej handlować bronią.
+Poszukaj Stupsi, demonicy lodu, na północy kraju.
 </text>
       </lang>
     </block>
@@ -183,6 +315,24 @@ Erstellt von: Yogi
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Didn't I say, take the right way? But no, you know it all better. Why did you follow me? Couldn't you have taken the right way? Well, this could not be the upper world. It looked like we were trapped in some kind of world in between...
+Mission objective: Build your village. Search for a way to get to the upper world.
+
+
+Created by: Yogi
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Czy nie mówiłem: idź właściwą drogę? Ale nie, ty znowu wszystko wiesz lepiej. Dlaczego poszedłeś za mną? Mógłbyś przecież wybrać właściwą drogę. To chyba nie był jednak świat powierzchni. Wyglądało na to, że jesteśmy uwięzieni w świecie pośrednim...
+Wskazówki: Zbuduj swoją wioskę. Szukaj drogi do świata powierzchni.
+
+
+Stworzone przez: Yogi
+</text>
+      </lang>
     </block>
     <block id="start_header">
       <lang code="CHN">
@@ -192,6 +342,16 @@ Erstellt von: Yogi
         <text>
 Die Eiswelt
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+The Ice World
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Świat Lodu
 </text>
       </lang>
     </block>
@@ -205,6 +365,16 @@ Wir hatten die Eisdämonin besiegt. Nun konnten wir durch das Tor treten um endl
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+We had defeated the ice demon. Now we could go through the gate to finally leave this country. We were looking forward to the adventures that still lay ahead of us.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Pokonarisśmy demonicę lodu. Teraz mogliśmy przejść przez bramę, aby wreszcie opuścić ten kraj. Byliśmy już ciekawi kolejnych przygody, które jeszcze przed nami.
+</text>
+      </lang>
     </block>
     <block id="won_header">
       <lang code="CHN">
@@ -214,6 +384,16 @@ Wir hatten die Eisdämonin besiegt. Nun konnten wir durch das Tor treten um endl
         <text>
 Mission gewonnen!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja wygrana!
 </text>
       </lang>
     </block>

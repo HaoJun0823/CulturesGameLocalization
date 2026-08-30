@@ -3,39 +3,57 @@
   <languages>
     <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">帝王谷</text>
       <text lang="ger">Das Tal der Könige</text>
+      <text lang="eng">The Valley of the Kings</text>
+      <text lang="pol">Dolina Królów</text>
     </string>
     <string id="1">
       <text lang="CHN">我们终于抵达了帝王谷。</text>
       <text lang="ger">Endlich waren wir im Tal der Könige angekommen.</text>
+      <text lang="eng">Finally we had arrived in the Valley of the Kings.</text>
+      <text lang="pol">Wreszcie dotarliśmy do Doliny Królów.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
       <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
       <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
       <text lang="ger">Spieler0</text>
+      <text lang="eng">Player0</text>
+      <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
       <text lang="ger">Spieler1</text>
+      <text lang="eng">Player1</text>
+      <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
       <text lang="ger">Spieler2</text>
+      <text lang="eng">Player2</text>
+      <text lang="pol">Gracz2</text>
     </string>
     <string id="53">
       <text lang="CHN">玩家3</text>
       <text lang="ger">Spieler3</text>
+      <text lang="eng">Player3</text>
+      <text lang="pol">Gracz3</text>
     </string>
   </strings>
   <briefings>
@@ -47,6 +65,16 @@
         <text>
 Dies schien ein verlassenes Dorf zu sein. Eifrig hießten wir unsere rote Flagge. Dies sollte von nun an uns gehören.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+This seemed to be an abandoned village. Eagerly we hoisted our red flag. From now on this should belong to us.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+To wydawało się opuszczoną wioską. Chętnie podnieśliśmy naszą czerwoną flagę. Odtąd miała należec do nas.
 </text>
       </lang>
     </block>
@@ -62,6 +90,17 @@ Abrakadabra, Simsalabimbambasaladusaladim. Bis ihr mein Dorf erreicht  werdet ih
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Stop!! I, Caesar III, claim the whole land behind this mountain. Do not continue. What? You still want to go on? Despite my warning?
+Abracadabra, Simsalabim bambasaladusaladim. Until you reach my village, you will be starving....
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Stop!! Ja, Cezar III, roszczę sobie prawo do całej ziemi za tą górą. Nie idź dalej. Co? Mimo mojego ostrzeżenia nadal chcesz liść? Abrakadabruj, Simsalabim bambasaladusaladim. Zanim dotrzecie do mojej wioski, zgłodniecie....
+</text>
+      </lang>
     </block>
     <block id="lost_body">
       <lang code="CHN">
@@ -71,6 +110,16 @@ Abrakadabra, Simsalabimbambasaladusaladim. Bis ihr mein Dorf erreicht  werdet ih
         <text>
 Du hast verloren. Versuchs doch mal mit ner Runde Mikado.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+You lost. Try a game of Mikado instead.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przegrałeś. Spróbuj zamiast tego rundkę Mikado.
 </text>
       </lang>
     </block>
@@ -84,6 +133,16 @@ Mission verloren!
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja przegrana!
+</text>
+      </lang>
     </block>
     <block id="playerdied1">
       <lang code="CHN">
@@ -93,6 +152,16 @@ Mission verloren!
         <text>
 Spieler 1 ist gestorben.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 1 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 zmarł.
 </text>
       </lang>
     </block>
@@ -106,6 +175,16 @@ Caesars Horden waren besiegt. Nun war der Weg zum Tor frei.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Caesar's hordes were defeated. Now the way to the gate was clear.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Hordy Cezara zostały pokonane. O teraz droga do bramy była wolna.
+</text>
+      </lang>
     </block>
     <block id="playerdied3">
       <lang code="CHN">
@@ -115,6 +194,16 @@ Caesars Horden waren besiegt. Nun war der Weg zum Tor frei.
         <text>
 Spieler 3 ist gestorben.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 3 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 zmarł.
 </text>
       </lang>
     </block>
@@ -128,6 +217,16 @@ Spieler 1 ist jetzt feindlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz wrogi.
+</text>
+      </lang>
     </block>
     <block id="playerenemy3">
       <lang code="CHN">
@@ -137,6 +236,16 @@ Spieler 1 ist jetzt feindlich.
         <text>
 Spieler 3 ist jetzt feindlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 jest teraz wrogi.
 </text>
       </lang>
     </block>
@@ -150,6 +259,16 @@ Spieler 2 ist jetzt freundlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz przyjazny.
+</text>
+      </lang>
     </block>
     <block id="playerneutral1">
       <lang code="CHN">
@@ -159,6 +278,16 @@ Spieler 2 ist jetzt freundlich.
         <text>
 Spieler 1 ist jetzt neutral.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz neutralny.
 </text>
       </lang>
     </block>
@@ -172,6 +301,16 @@ Spieler 2 ist jetzt neutral.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz neutralny.
+</text>
+      </lang>
     </block>
     <block id="playerneutral3">
       <lang code="CHN">
@@ -181,6 +320,16 @@ Spieler 2 ist jetzt neutral.
         <text>
 Spieler 3 ist jetzt neutral.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 jest teraz neutralny.
 </text>
       </lang>
     </block>
@@ -194,6 +343,18 @@ Spieler 3 ist jetzt neutral.
 Huhu !!
 Ich bin König DJ Culture. Ich grüße Euch recht herzlich. Ich bin der König vom Nordwesten. Kommt, schickt Eure Händler. Wir haben tolle Warenangebote für Euch. Hütet Euch vor dem Nordosten, dort lebt Caesar III mit seinen Horden. Kommt ihm nicht in die Quere.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Huhu!!
+I am King DJ Culture. I welcome you warmly. I am the king of the northwest. Come, send your merchants. We have great goods offers for you. Beware of the northeast, there Caesar III lives with his hordes. Don't get in his way.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Huhu!!
+Jestem król DJ Culture. Serdecznie was witam. Jestem król północnego zachodu. Chodźcie, przyślijcie swoich kupców. Mamy świetne oferty towarów. Strzeżcie się północnego wschodu, tam mieszka Cezar III ze swoimi hordami. Nie wchodz w drogę.
 </text>
       </lang>
     </block>
@@ -211,6 +372,20 @@ Missionsziel: Vernichte Caesars Horden.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Caesar's Hordes!!
+"Stop, I, Caesar III, ruler of the northeast, warn you not to go further, or we will slaughter you like sucking pigs."
+Mission objective: Destroy Caesar's hordes.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Hordy Cezara!!
+„Stop, ja, Cezar III, pana północnego wschodnia, uprzedzam, że nie idziecie dalej, w przeciwug wypadku zostaniecie ubite jak prosięta.”
+Cel misji: Zniszcz hordy Cezara.
+</text>
+      </lang>
     </block>
     <block id="playerseen3">
       <lang code="CHN">
@@ -222,6 +397,19 @@ Missionsziel: Vernichte Caesars Horden.
 Juhuu !!
 Ich Birdy, Herrscherin des Südostens grüße Euch ihr Mannen. Kommt schickt Eure Händler, wir haben tolle Waren im Angebot. Hütet Euch vor dem Nordosten. Dort haust Caesar III mit seinen Schlechtern.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Yay!!
+I, Birdy, ruler of the southeast, greet you, my folks. Come, send your merchants, we have great goods on offer. Beware of the northeast. There Caesar III resides with his butchers.
+
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Juhuu!!
+Ja, Birdy, władczyni południo-wschodu, wita Cię moich ludzi. Przyślij swoich handlarzy, mamy świetne oferty towarów. Strzeż się północnego wschodu. Tam urzęduje Cezar III ze swoimi rzeźnikami.
 </text>
       </lang>
     </block>
@@ -245,6 +433,26 @@ Erstellt von: Yogi
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Only two soldiers had survived the trial. "Hey, let's go further north," one said to the other. "I think I saw something there." "From here?" the other replied. "You have a good look. Of course." Hey, this time we will brew enough potions so that we have enough for the next adventures, what do you think? "Yeah, right," the other answered briefly.
+Mission objective 1: Store 50 large food and 50 large healing potions.
+Mission objective 2: Find the gate to the upper world in order to leave this country again.
+
+
+Created by: Yogi
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Zaledwie dwóch żołnierzy przeżyło próbę. „Hej, chodź, idziemy dalej na północ,” powiedział jeden do drugiego. „Chyba coś widziałem.” „„Stąd?” – odparł drugi. „Ale masz dobre oczy.” „Jasne.” „Hej, tym razem uwarzymy sobie dosyć mikstur, żeby mieć ich dość na następne przygody, co o tym myślisz?” „Jojko,” odpowiedział tylko krótko drugi.
+Cel misji 1: Zmagazynuj 50 dużych mikstur pokarmowych i 50 dużych mikstur leczacych.
+Cel misji 2: Znajdź bramę do świata powierzchni, aby znów opuścić ten kraj.
+
+
+Stworzone przez: Yogi
+</text>
+      </lang>
     </block>
     <block id="start_header">
       <lang code="CHN">
@@ -254,6 +462,16 @@ Erstellt von: Yogi
         <text>
 Das Tal der Könige
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+The Valley of the Kings
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Dolina Królów
 </text>
       </lang>
     </block>
@@ -267,6 +485,16 @@ Wir hatten es ein weiteres Mal geschafft. Caesars Horden waren besiegt, und der 
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+We had made it once again. Caesar's hordes were defeated, and the way to the upper world was finally free. But where would we come out?
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Udało nam się po raz kolejny. Hordy Cezara zostały pokonane, a droga do świata powierzchni była wreszcie wolna. Ale skąd gdzie wyjdziemy?
+</text>
+      </lang>
     </block>
     <block id="won_header">
       <lang code="CHN">
@@ -276,6 +504,16 @@ Wir hatten es ein weiteres Mal geschafft. Caesars Horden waren besiegt, und der 
         <text>
 Mission gewonnen!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja wygrana!
 </text>
       </lang>
     </block>

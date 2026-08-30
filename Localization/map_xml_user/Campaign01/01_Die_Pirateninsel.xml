@@ -3,39 +3,57 @@
   <languages>
     <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">海盗岛</text>
       <text lang="ger">Die Pirateninsel</text>
+      <text lang="eng">The Pirate Island</text>
+      <text lang="pol">Wyspa Piratów</text>
     </string>
     <string id="1">
       <text lang="CHN">我们顺道去了一趟加勒比海，好好享受一场尽兴的假期……</text>
       <text lang="ger">Wir machten einen Abstecher in die Karibik, um uns einen ausgiebigen Urlaub zu gönnen.....</text>
+      <text lang="eng">We made a detour to the Caribbean to treat ourselves to a lavish vacation...</text>
+      <text lang="pol">Skręciliśmy do Karaibów, aby pozwolić sobie na bogate wakacje...</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
       <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
       <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
       <text lang="ger">Spieler0</text>
+      <text lang="eng">Player0</text>
+      <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
       <text lang="ger">Spieler1</text>
+      <text lang="eng">Player1</text>
+      <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
       <text lang="ger">Spieler2</text>
+      <text lang="eng">Player2</text>
+      <text lang="pol">Gracz2</text>
     </string>
     <string id="53">
       <text lang="CHN">玩家3</text>
       <text lang="ger">Spieler3</text>
+      <text lang="eng">Player3</text>
+      <text lang="pol">Gracz3</text>
     </string>
   </strings>
   <briefings>
@@ -53,6 +71,20 @@ Missionsziel: Vernichte Merlin, der im Norden eine Insel besitzt.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Yoo-hoo friends, my name is Felix and I belong to the tribe of the s-ki-mos. We live far, far in the north. In a world that consists only of snow and ice. I want to go home, but in the north lives a terrible pirate who terrorises this place. Numerous raids are his doing. He plunders the peaceful islanders who still live here. He calls himself Merlin, the red corsair. Would you help me get to my homeland?
+I would also show my gratitude.
+Mission goal: Destroy Merlin, who owns an island in the north.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Hej przyjaciele, mam na imię Felix i należę do plemienia s-ki-mos. Żyjemy daleko daleko na północy. W świecie, który składa się tylko ze śniegu i lodu. Chcę wrócić do domu, lecz na północy żyje straszny pirat, który tu sieje postrach. Liczne napady są jego dziełem. Plądruje pokojowych mieszkańców wysp, którzy jeszcze tu żyją. Nazywa siebie Merlin, czerwony korsarz. Czy pomoglibyście mi dotrzeć do ojczyzny?
+Byłbym też wdzięczny.
+Cel misji: Zniszcz Merlina, który posiada wyspę na północy.
+</text>
+      </lang>
     </block>
     <block id="lost_body">
       <lang code="CHN">
@@ -62,6 +94,16 @@ Missionsziel: Vernichte Merlin, der im Norden eine Insel besitzt.
         <text>
 Du hast verloren !!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+You lost!!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przegrałeś!!
 </text>
       </lang>
     </block>
@@ -75,6 +117,16 @@ Mission verloren!
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja przegrana!
+</text>
+      </lang>
     </block>
     <block id="playerdied1">
       <lang code="CHN">
@@ -84,6 +136,16 @@ Mission verloren!
         <text>
 Spieler 1 ist gestorben.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 1 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 zmarł.
 </text>
       </lang>
     </block>
@@ -97,6 +159,16 @@ Spieler 2 ist gestorben.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 zmarł.
+</text>
+      </lang>
     </block>
     <block id="playerdied3">
       <lang code="CHN">
@@ -106,6 +178,16 @@ Spieler 2 ist gestorben.
         <text>
 Merlins Hauptquartier war vernichtet, doch konnte er selbst auf einem schnellen Schiff entkommen. Da wir noch Felix von seiner trostlosen Insel holen mußten, und unsere Sachen packen mußten, konnten wir nicht sofort hinter ihm her. Doch wir würden ihn wiedersehen, so viel stand fest....
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Merlin's headquarters was destroyed, but he himself managed to escape on a fast ship. Since we still had to fetch Felix from his dreary island and pack our things, we could not immediately go after him. But we would see him again, that much was certain....
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Kwatera główna Merlina została zniszczona, lecz jemu samemu udało się uciec szybkim statkiem. Ponieważ musieliśmy jeszcze zabrać Felixa z jego ponurej wyspy i spakować nasze rzeczy, nie mogliśmy natychmiast ruszyć za nim. Lecz spotkamy go ponownie, tyle było pewne....
 </text>
       </lang>
     </block>
@@ -119,6 +201,16 @@ Spieler 1 ist jetzt feindlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz wrogi.
+</text>
+      </lang>
     </block>
     <block id="playerenemy2">
       <lang code="CHN">
@@ -128,6 +220,16 @@ Spieler 1 ist jetzt feindlich.
         <text>
 Spieler 2 ist jetzt feindlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz wrogi.
 </text>
       </lang>
     </block>
@@ -141,6 +243,16 @@ Danke für den bescheidenen Tribut. Ihr dürft nun eure Händler schicken. Doch 
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Thank you for the modest tribute. You may now send your traders. But be warned. If you send gold miners, we will attack you immediately....
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Dziękujemy za skromny trybut. Możecie teraz wysyłać swoich handlarzy. Lecz bądźcie ostrzeżeni. Jeśli wyślecie górników złota, zaatakujemy was natychmiast....
+</text>
+      </lang>
     </block>
     <block id="playerfriendly2">
       <lang code="CHN">
@@ -150,6 +262,16 @@ Danke für den bescheidenen Tribut. Ihr dürft nun eure Händler schicken. Doch 
         <text>
 Oh, danke für den Tribut, ihr dürft nun eure Händler zu uns schicken. Doch hütet euch. Wenn ihr Eisenabbauer schickt, greifen wir euch sofort an....
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Oh, thank you for the tribute, you may now send your traders to us. But beware. If you send iron miners, we will attack you immediately....
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Och, dziękujemy za trybut, możecie teraz wysyłać do nas swoich handlarzy. Lecz strzeżcie się. Jeśli wyślecie górników żelaza, zaatakujemy was natychmiast....
 </text>
       </lang>
     </block>
@@ -163,6 +285,16 @@ Spieler 3 ist jetzt freundlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 jest teraz przyjazny.
+</text>
+      </lang>
     </block>
     <block id="playerneutral3">
       <lang code="CHN">
@@ -172,6 +304,16 @@ Spieler 3 ist jetzt freundlich.
         <text>
 Spieler 3 ist jetzt neutral.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 jest teraz neutralny.
 </text>
       </lang>
     </block>
@@ -189,6 +331,20 @@ Missionsziel: Zahle den Sallamaleikas den gewünschten Tribut, denn nur so kanns
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Sallamaleikumgum !!
+We, the Sallamaleikas of Sallamaleigum, warmly greet you, honourable warriors. You seek gold to mint coins for your healing potions? Hmm, alright then. For a small tribute we could offer you some good trade deals. What do you think? 
+Mission goal: Pay the Sallamaleikas the requested tribute, for only thus can you achieve your goal.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Salamaleikumgum !!
+My, Sallamaleikasi z Sallamaleigum, pozdrawiamy was serdecznie, czciści rycerze. Szukacie złota, by bić monety na wasze mikstury leczące? Hmm, no dobra. Za niewielki trybut moglibyśmy wam przedstawić kilka dobrych ofert handlowych. Co o tym sądzicie? 
+Cel misji: Zapłać Sallamaleikasom żądany trybut, bo tylko tak możesz osiągnąć swój cel.
+</text>
+      </lang>
     </block>
     <block id="playerseen2">
       <lang code="CHN">
@@ -200,6 +356,18 @@ Missionsziel: Zahle den Sallamaleikas den gewünschten Tribut, denn nur so kanns
 Halt !! Was wollt ihr hier ? So ihr braucht Eisen um Eisenwerkzeuge herzustellen? Wir haben Eisen im Überfluß, doch zahlt und zunächst einen Tribut, dann reden wir übers Geschäft.
 Missionsziel: Zahle den gewünschten Tribut, nur so kannst Du Eisen bekommen, den Du für dein Ziel brauchst.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Halt !! What do you want here? So you need iron to make iron tools? We have iron in abundance, but pay us a tribute first, then we'll talk business.
+Mission goal: Pay the requested tribute, only thus can you get the iron you need for your goal.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Stójcie !! Czego tu szukacie? A więc potrzebujecie żelaza, by wyrabiać żelazne narzędzia? Mamy żelaza w bród, lecz wpłaćcie nam najpierw trybut, a potem porozmawiamy o interesach.
+Cel misji: Zapłać żądany trybut, tylko tak dostaniesz żelazo, którego potrzebujesz do swego celu.
 </text>
       </lang>
     </block>
@@ -215,6 +383,20 @@ Halt !!
 Ich Merlin, der rote Korsar, Herrscher der Karibik, König über sämtliche Inseln, Großfürst und Großmogul der Piratenwelt, rate euch sofort zu verschwinden oder meine Bogenschützen werden euch vernichten. 
 Missionsziel: Vernichte Merlin den roten Korsaren und sein Hauptquartier.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Halt !! 
+I, Merlin, the red corsair, ruler of the Caribbean, king of all islands, grand prince and grand mogul of the pirate world, advise you to disappear immediately or my archers will destroy you. 
+Mission goal: Destroy Merlin the red corsair and his headquarters.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Stójcie !! 
+Ja, Merlin, czerwony korsarz, władca Karaibów, król wszystkich wysp, wielki książę i wielki mogol świata piratów, radzę wam natychmiast zniknąć, albo moi łucznicy was zniszczą. 
+Cel misji: Zniszcz Merlina, czerwonego korsarza, i jego kwaterę główną.
 </text>
       </lang>
     </block>
@@ -240,6 +422,28 @@ Erstellt von: Yogi
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+It was holiday time. Hooray, finally, we thought. We had settled on a great island, pulled our ship ashore, which we intended to use as a warehouse. On the way here we had noticed in the distance an island covered with ice. But since we were all eager for the island, we sailed with topsail set towards our holiday island.....
+We decided to store some goods and then later take a look at that small ice island in the southwest.
+Mission goal: Store 50 iron tools and 50 large healing potions. 
+Explore the ice island in the southwest. Build a ship for this purpose.
+
+
+Created by: Yogi
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Zbliżał się urlop. Hurra, nareszcie, pomyśleliśmy. Założyliśmy obóz na świetnej wyspie, wyciągnęliśmy nasz statek na brzeg, który mieliśmy używać jako magazyn. Po drodze tu zauważyliśmy w dali wyspę okrytą lodem. Ponieważ jednak wszyscy już tylko o wyspie marzyliśmy, płynęliśmy z postawionym topslem do naszej wyspy urlopowej.....
+Postanowiliśmy zmagazynować trochę towarów i później zająć się tą małą wyspą lodową na południowym zachodzie.
+Cel misji: Zmagazynuj 50 żelaznych narzędzi i 50 dużych mikstur leczących. 
+Zbadaj wyspę lodową na południowym zachodzie. Zbuduj w tym celu statek.
+
+
+Stworzone przez: Yogi
+</text>
+      </lang>
     </block>
     <block id="start_header">
       <lang code="CHN">
@@ -249,6 +453,16 @@ Erstellt von: Yogi
         <text>
 Die Pirateninsel
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+The Pirate Island
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Wyspa Piracka
 </text>
       </lang>
     </block>
@@ -262,6 +476,16 @@ Puh, das war ein hartes Stück Arbeit gewesen. Endlich hatten wir die erforderli
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Phew, that had been a tough piece of work. Finally we had stored the required goods, fetched Felix from his island, and Merlin had been driven from his island. But he had escaped, and that did not suit us at all. Since he had fled northward, and Felix's people also lived in the north, we feared the worst. We wanted to quickly go after him, so that Merlin's henchmen would not cause any more mischief.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Uff, to był kawał ciężkiej roboty. Wreszcie zmagazynowaliśmy potrzebne towary, zabraliśmy Felixa z jego wyspy, a Merlin został wypędzony ze swojej wyspy. Lecz on uciekł, a to nam wcale nie pasowało. Ponieważ uciekł na północ, a lud Felixa również żył na północy, przeczuwaliśmy coś złego. Chcieliśmy szybko ruszyć w pogoń, by sługi Merlina nie zdążyły wyrządzić więcej szkody.
+</text>
+      </lang>
     </block>
     <block id="won_header">
       <lang code="CHN">
@@ -271,6 +495,16 @@ Puh, das war ein hartes Stück Arbeit gewesen. Endlich hatten wir die erforderli
         <text>
 Mission gewonnen!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja wygrana!
 </text>
       </lang>
     </block>

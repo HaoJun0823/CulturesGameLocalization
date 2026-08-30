@@ -3,35 +3,51 @@
   <languages>
     <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">比利时</text>
       <text lang="ger">Belgien</text>
+      <text lang="eng">Belgium</text>
+      <text lang="pol">Belgia</text>
     </string>
     <string id="1">
       <text lang="CHN">你必须让比利时的民众免于饿死。</text>
       <text lang="ger">Du mußt die Bevölkerung von Belgien vom Hungertod bewahren.</text>
+      <text lang="eng">You must save the people of Belgium from starvation.</text>
+      <text lang="pol">Musisz ocalić ludność Belgii przed głodem.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
       <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
       <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
       <text lang="ger">Spieler0</text>
+      <text lang="eng">Player0</text>
+      <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
       <text lang="ger">Spieler1</text>
+      <text lang="eng">Player1</text>
+      <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
       <text lang="ger">Spieler2</text>
+      <text lang="eng">Player2</text>
+      <text lang="pol">Gracz2</text>
     </string>
   </strings>
   <briefings>
@@ -47,6 +63,18 @@ Kichernd verschwand der Troll wieder......
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Hey, I am Caesar the forest troll. Have you already discovered the Luxembourgers? They live in the southwest. They urgently need food and dishes. Also lives there Cherry. She is the best dressmaker in the whole country. She may serve you well. By the way, I brought you a gift from the far north.
+He laughing, the troll disappeared again......
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Cześć, jestem Grahnom Cezar leśny troll. Czy znaleźliście już Luksemburczczków? Mieszkają na południowym zachodzie. Pilnie potrzebują jedzenia i naczyń. Mieszka tam też Cherry. Jest najlepszą krawcową w całym kraju. Może wam dobrze posłużyć. Przy okazji, przywiozłem wam prezent z dalekiej północy.
+Chichocząc, troll zniknął ponownie......
+</text>
+      </lang>
     </block>
     <block id="lost_body">
       <lang code="CHN">
@@ -56,6 +84,16 @@ Kichernd verschwand der Troll wieder......
         <text>
 Du hast verloren, obwohl man diese Mission eigentlich gar nicht verlieren kann.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+You lost, even though you actually can't lose this mission at all.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przegrałeś, chociaż tej misji właściwie nie można przegrać.
 </text>
       </lang>
     </block>
@@ -69,6 +107,16 @@ Mission verloren!
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja przegrana!
+</text>
+      </lang>
     </block>
     <block id="playerdied1">
       <lang code="CHN">
@@ -78,6 +126,16 @@ Mission verloren!
         <text>
 Spieler 1 ist gestorben.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 1 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 zmarł.
 </text>
       </lang>
     </block>
@@ -91,6 +149,16 @@ Spieler 2 ist gestorben.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 zmarł.
+</text>
+      </lang>
     </block>
     <block id="playerenemy1">
       <lang code="CHN">
@@ -100,6 +168,16 @@ Spieler 2 ist gestorben.
         <text>
 Spieler 1 ist jetzt feindlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz wrogi.
 </text>
       </lang>
     </block>
@@ -113,6 +191,16 @@ Spieler 2 ist jetzt feindlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz wrogi.
+</text>
+      </lang>
     </block>
     <block id="playerfriendly1">
       <lang code="CHN">
@@ -124,6 +212,16 @@ Die Bevölkerung von Antwerpen ist Dir nun freundlich gesinnt. Du kannst nun mit
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+The population of Antwerp is now friendly to you. You can now trade with them.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Ludność Antwerpii jest teraz do Ciebie przyjazna. Możesz teraz z nimi handlować.
+</text>
+      </lang>
     </block>
     <block id="playerfriendly2">
       <lang code="CHN">
@@ -133,6 +231,16 @@ Die Bevölkerung von Antwerpen ist Dir nun freundlich gesinnt. Du kannst nun mit
         <text>
 Danke danke für Speis und Trank. Wir haben jetzt die Kraft um Euch Eure Gewänder zu schneidern. Was für eine Farbe soll es sein ? ROT ???? Hmm, na gut, aber es wird länger dauern. Inzwischen könnt ihr mit uns handeln.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Thank you, thank you for food and drink. We now have the strength to make garments for you. What color should it be? RED???? Hmm, well, but it will take longer. In the meantime you can trade with us.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Dzięki, dzięki za jedzenie i picie. Mamy teraz siłę, aby uszyć dla was szaty. Jaki kolor ma być? CZERWONY???? Hmm, no dobrze, ale to potrwa dłużej. W międzyczasie możecie z nami handlować.
 </text>
       </lang>
     </block>
@@ -150,6 +258,20 @@ Bitte gebt uns etwas zu essen. Es soll nicht Euer Schaden sein. Wir haben nämli
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Antwerp!!
+Help..We are hungry!!
+Please give us something to eat. It shall not be to your harm. We have something you need.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Antwerpy!!
+Pomooocy.. Głodujemy!!
+Błagam dajcie nam coś do jedzenia. Nie będzie to waszą szkodą. Mamy właściwie coś, czego potrzebujecie.
+</text>
+      </lang>
     </block>
     <block id="playerseen2">
       <lang code="CHN">
@@ -161,6 +283,18 @@ Bitte gebt uns etwas zu essen. Es soll nicht Euer Schaden sein. Wir haben nämli
 Luxemburg!!
 Hiilfe..Helft uns bitte, wir sterben fast vor Hunger. Wir haben tolle Amulette für Euch, aber zuerst bringt uns bitte etwas zu essen. Ihr möchtet neue Gewänder? Kein Problem, Cherry unsere Meisternäherin wird sie Euch schneidern, gegen einen kleinen Tribut versteht sich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Luxembourg!!
+Help..Please help us, we are dying of hunger. We have nice amulets for you, but first bring us something to eat. You want new garments? No problem, Cherry our master dressmaker will cut them for you, for a small tribute of course.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Luksemburg!!
+Pomocy..Pomóżcie nam proszę, umieramy prawie z głodu. Mamy dla was świetne amulety, ale najpierw proszę przynieście nam coś do jedzenia. Chcecie nowe szaty? Bez problemu, Cherry nasza mistrzyni szycia uszyje je dla was, za drobny trybut rzecz jasna.
 </text>
       </lang>
     </block>
@@ -182,6 +316,24 @@ Erstellt von: Yogi
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+We set out with a small crew towards Belgium. We wanted to help the people because a great famine reigned there. And in Luxembourg there were the best dressmakers. We wanted to have other garments made before we moved on, because we would be discovered too quickly in the green ones later. Besides, our soldiers had to be better equipped. So we wanted to get amulets.
+Mission objective: Store away 10 wind amulets and 10 strength amulets each.
+
+
+Created by: Yogi
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Wyruszyliśmy z małą drużynną w kierunku Belgii. Chcieliśmy pomóc ludności, ponieważ panował tam wielki głód. Pon także w Luksemburgu były najlepsze karmcowe. Chcieliśmy bowiem uszyć sobie inne szaty, zanim ruszymy dalej, bo w zielonych ubraniach zostałybyśmybyśmy potem zbyt szybko odkryci. Poza tym nasi żołnierze mieli być lepiej wyposażeni. Chcieliśmy więc zaopażyć się w amulety.
+Cel misja: Zmagazynuj po 10 amuletów wiatru i 10 amuletów siły.
+
+
+Stworzone przez: Yogi
+</text>
+      </lang>
     </block>
     <block id="start_header">
       <lang code="CHN">
@@ -191,6 +343,16 @@ Erstellt von: Yogi
         <text>
 Belgien
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Belgium
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Belgia
 </text>
       </lang>
     </block>
@@ -206,6 +368,18 @@ Für den Streich den uns Caesar, der Waldtroll gespielt hatte sollte noch unsere
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Finally we had stored away the required amulets. Proud and happy of our new garments we left this friendly country heading for Germania.
+For the trick that Caesar the forest troll had played on us, our revenge was still to come...
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+W końcu zmagazynowaliśmy wymagane amulety. Dumni i szczęśliwi z naszych nowych szat opuściliśmy ten przyjazny kraj w stronę Germanii.
+Za psikusa, którego spłatał nam Cezar leśny troll, zemsta miała jeszcze nastąpić...
+</text>
+      </lang>
     </block>
     <block id="won_header">
       <lang code="CHN">
@@ -215,6 +389,16 @@ Für den Streich den uns Caesar, der Waldtroll gespielt hatte sollte noch unsere
         <text>
 Mission gewonnen!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja wygrana!
 </text>
       </lang>
     </block>

@@ -3,39 +3,57 @@
   <languages>
     <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">试炼</text>
       <text lang="ger">Die Prüfung</text>
+      <text lang="eng">The Trial</text>
+      <text lang="pol">Próba</text>
     </string>
     <string id="1">
       <text lang="CHN">为了进入帝王谷，我们必须迎接最后的试炼。</text>
       <text lang="ger">Um das in das Tal der Könige zu gelangen, mußten wir uns der letzten Prüfung stellen.</text>
+      <text lang="eng">To reach the Valley of the Kings, we had to face the final trial.</text>
+      <text lang="pol">Aby dotrzeć do Doliny Królów, musieliśmy stawić czoło ostatniej próbie.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
       <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
       <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
       <text lang="ger">Spieler0</text>
+      <text lang="eng">Player0</text>
+      <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
       <text lang="ger">Spieler1</text>
+      <text lang="eng">Player1</text>
+      <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
       <text lang="ger">Spieler2</text>
+      <text lang="eng">Player2</text>
+      <text lang="pol">Gracz2</text>
     </string>
     <string id="53">
       <text lang="CHN">玩家3</text>
       <text lang="ger">Spieler3</text>
+      <text lang="eng">Player3</text>
+      <text lang="pol">Gracz3</text>
     </string>
   </strings>
   <briefings>
@@ -49,6 +67,16 @@ Du hast verloren. Vielleicht solltest Du Deine Taktik etwas ändern...
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+You lost. Maybe you should change your tactics a bit...
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przegrałeś. Może powinieneś trochę zmienić swoją taktykę...
+</text>
+      </lang>
     </block>
     <block id="lost_header">
       <lang code="CHN">
@@ -58,6 +86,16 @@ Du hast verloren. Vielleicht solltest Du Deine Taktik etwas ändern...
         <text>
 Mission verloren!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja przegrana!
 </text>
       </lang>
     </block>
@@ -71,6 +109,16 @@ Die Schlangen sind gestorben.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+The snakes have died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Węże zginęły.
+</text>
+      </lang>
     </block>
     <block id="playerdied2">
       <lang code="CHN">
@@ -80,6 +128,16 @@ Die Schlangen sind gestorben.
         <text>
 Die Schlangen sind gestorben.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+The snakes have died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Węże zginęły.
 </text>
       </lang>
     </block>
@@ -93,6 +151,16 @@ Die Schlangen sind gestorben.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+The snakes have died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Węże zginęły.
+</text>
+      </lang>
     </block>
     <block id="playerfriendly1">
       <lang code="CHN">
@@ -102,6 +170,16 @@ Die Schlangen sind gestorben.
         <text>
 Spieler 1 ist jetzt freundlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz przyjazny.
 </text>
       </lang>
     </block>
@@ -115,6 +193,16 @@ Spieler 2 ist jetzt freundlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz przyjazny.
+</text>
+      </lang>
     </block>
     <block id="playerfriendly3">
       <lang code="CHN">
@@ -124,6 +212,16 @@ Spieler 2 ist jetzt freundlich.
         <text>
 Spieler 3 ist jetzt freundlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 jest teraz przyjazny.
 </text>
       </lang>
     </block>
@@ -137,6 +235,16 @@ Spieler 1 ist jetzt neutral.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz neutralny.
+</text>
+      </lang>
     </block>
     <block id="playerneutral2">
       <lang code="CHN">
@@ -148,6 +256,16 @@ Spieler 2 ist jetzt neutral.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz neutralny.
+</text>
+      </lang>
     </block>
     <block id="playerneutral3">
       <lang code="CHN">
@@ -157,6 +275,16 @@ Spieler 2 ist jetzt neutral.
         <text>
 Spieler 3 ist jetzt neutral.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 jest teraz neutralny.
 </text>
       </lang>
     </block>
@@ -172,6 +300,18 @@ Schon wieder wurden wir von den merkwürdig aussehenden Wesen angegriffen. Aber 
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Snakes!!
+Once again we were attacked by the strangely looking creatures. But this time they weren't too many.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Węże!!
+Znowu zaatakowały nas dziwnie wyglądające stwory. Ale tym razem nie było ich za wiele.
+</text>
+      </lang>
     </block>
     <block id="playerseen2">
       <lang code="CHN">
@@ -183,6 +323,18 @@ Schon wieder wurden wir von den merkwürdig aussehenden Wesen angegriffen. Aber 
 Schlangen !!
 Jaa, is klar, dachten wir. Die würden wir auch noch erledigen.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Snakes!!
+"Yeah, right," we thought. We would take care of them too.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Węże!!
+„Tak, jasne,” — pomyśleliśmy. „Te też załatwimy.”
 </text>
       </lang>
     </block>
@@ -198,6 +350,20 @@ Schlangen !!
 Aller guten Dinge sind drei, oder wie war das?
 Inzwischen waren wir schon gut trainiert. Die letzten würden wir schnell erledigen.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Snakes!!
+All good things come in threes, or how was that saying?
+By now we were well trained. We would quickly deal with the last ones.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Węże!!
+Wszystko co dobre na polu wszystko to się po, trzej czy tak było?
+W międzyczasie byliśmy już dobrze wytrenowani. Te ostatnie załatwimy szybko.
 </text>
       </lang>
     </block>
@@ -221,6 +387,26 @@ Erstellt von: Yogi
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+As we stepped out of the exit, we saw a strange-looking figure. "Ah, newcomers," he whispered. "You want to go to the Valley of the Kings? Well, for that you must undergo 10 trials. On 10 small islands enemies await you. You must defeat them all. Only then are you worthy enough to enter the Valley of the Kings. But keep in mind, you must make do with what you have with you. On the eleventh island is finally the gate to the Valley of the Kings.
+Mission objective 1: Defeat all enemies.
+Mission objective 2: Find the gate to the Valley of the Kings.
+
+
+Created by: Yogi
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gdy wyszliśmy z wyjścia, ujrzeliśmy dziwnie wyglądającą postać. „Ach, nowo przybyli,” mruknął. „Chcecie dojść do Doliny Królów? Cóż, musicie przejść 10 prób. Na 10 małych wyspach czekają na was wrogowie. Musicie ich wszystkich pokonać. Dopiero wtedy będziecie wystarczająco godni, by wejść do Doliny Królów. Ale pamiętajcie, musicie radzić sobie tym, co macie przy sobie. Na jedenastej wyspie znajduje się wreszcie brama do Doliny Królów.
+Cel misji 1: Pokonaj wszystkich wrogów.
+Cel misji 2: Znajdź bramę do Doliny Królów.
+
+
+Stworzone przez: Yogi
+</text>
+      </lang>
     </block>
     <block id="start_header">
       <lang code="CHN">
@@ -230,6 +416,16 @@ Erstellt von: Yogi
         <text>
 Die Prüfung
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+The Trial
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Próba
 </text>
       </lang>
     </block>
@@ -243,6 +439,16 @@ Wir hatten es geschafft. So schwer war es gar nicht gewesen, hatten wir auf unse
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+We made it. It hadn't been that hard, for we had already gathered much combat experience during our long journey. But now straight into the next gate. We were very excited to see what the Valley of the Kings had in store...
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Udało nam się. Tak naprawdę nie było trudno, bo podczas długiej podróży zdobyliśmy już mnóstwo bojowego doświadczenia. Ale teraz przejść do kolejnej bramy. Byliśmy bardzo ciekawi, co ma nam do zaoferowania Dolina Krółów...
+</text>
+      </lang>
     </block>
     <block id="won_header">
       <lang code="CHN">
@@ -252,6 +458,16 @@ Wir hatten es geschafft. So schwer war es gar nicht gewesen, hatten wir auf unse
         <text>
 Mission gewonnen!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja wygrana!
 </text>
       </lang>
     </block>

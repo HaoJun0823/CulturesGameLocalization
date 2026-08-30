@@ -3,39 +3,57 @@
   <languages>
     <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">地下世界</text>
       <text lang="ger">Die Unterwelt</text>
+      <text lang="eng">The Underworld</text>
+      <text lang="pol">Podziemie</text>
     </string>
     <string id="1">
       <text lang="CHN">我们抵达了地下世界。这里究竟会有什么在等着我们呢？</text>
       <text lang="ger">Wir waren in der Unterwelt angekommen. Was würde und hier nur erwarten?</text>
+      <text lang="eng">We had arrived in the underworld. What could await us here?</text>
+      <text lang="pol">Dotarliśmy do podziemia. Co mogło nas tu czekać?</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
       <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
       <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
       <text lang="ger">Spieler0</text>
+      <text lang="eng">Player0</text>
+      <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
       <text lang="ger">Spieler1</text>
+      <text lang="eng">Player1</text>
+      <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
       <text lang="ger">Spieler2</text>
+      <text lang="eng">Player2</text>
+      <text lang="pol">Gracz2</text>
     </string>
     <string id="53">
       <text lang="CHN">玩家3</text>
       <text lang="ger">Spieler3</text>
+      <text lang="eng">Player3</text>
+      <text lang="pol">Gracz3</text>
     </string>
   </strings>
   <briefings>
@@ -49,6 +67,16 @@ Schatztruhen !?! Hmm, was mochte dort nur drin sein??
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Treasure chests!?! Hmm, what might be inside them??
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Skrzynie ze skarbami!?! Hmm, co może w nich być??
+</text>
+      </lang>
     </block>
     <block id="findmappos2">
       <lang code="CHN">
@@ -58,6 +86,16 @@ Schatztruhen !?! Hmm, was mochte dort nur drin sein??
         <text>
 Hmm, ab hier schien es wohl nichts essbares mehr zu geben. Wir wollten erstmal zurück um Nahrungstränke herzustellen....
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Hmm, from here on there seemed to be nothing more edible. We wanted to first go back and make food potions....
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Hmm, od tego miejsca wyglądało, że nie ma nic do zjedzenia. Chcieliśmy wrócić, by przygotować mikstury pokarmowe....
 </text>
       </lang>
     </block>
@@ -73,6 +111,18 @@ Versuchs doch mal mit einer Partie Monopoly.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+You lost!!
+Try a game of Monopoly instead.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przegrałeś!!
+Spróbuj zamiast tego partie Monopoly.
+</text>
+      </lang>
     </block>
     <block id="lost_header">
       <lang code="CHN">
@@ -82,6 +132,16 @@ Versuchs doch mal mit einer Partie Monopoly.
         <text>
 Mission verloren!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja przegrana!
 </text>
       </lang>
     </block>
@@ -95,6 +155,16 @@ Wir verfluchen Euch.Mögen die Schlangen der Finsternis Euch vernichten.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+We curse you. May the snakes of darkness destroy you.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+My was przekłanamy. Niech zniszczą was węże ciemności.
+</text>
+      </lang>
     </block>
     <block id="playerdied2">
       <lang code="CHN">
@@ -104,6 +174,16 @@ Wir verfluchen Euch.Mögen die Schlangen der Finsternis Euch vernichten.
         <text>
 Die Torwächter waren auch vernichtet.Nun konnten wir das Tor betreten.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+The gatekeepers were also destroyed. Now we could enter the gate.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Strażnicy bramy też zostali zniszczone. Teraz mogliśmy wejść przez bramę.
 </text>
       </lang>
     </block>
@@ -117,6 +197,16 @@ Zisch,Pfeiff,Züngel...Wir verstanden nur Bahnhof.Sollte das wieder ein Fluch ge
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Ssss, hiss, flicker... We couldn't understand anything. Was that meant to be a curse again?
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Sss, sycz, mlaszcz... nie rozumieliśmy nic. Czy to znów była przeklina?
+</text>
+      </lang>
     </block>
     <block id="playerfriendly1">
       <lang code="CHN">
@@ -126,6 +216,16 @@ Zisch,Pfeiff,Züngel...Wir verstanden nur Bahnhof.Sollte das wieder ein Fluch ge
         <text>
 Spieler 1 ist jetzt freundlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz przyjazny.
 </text>
       </lang>
     </block>
@@ -139,6 +239,16 @@ Spieler 2 ist jetzt freundlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz przyjazny.
+</text>
+      </lang>
     </block>
     <block id="playerfriendly3">
       <lang code="CHN">
@@ -148,6 +258,16 @@ Spieler 2 ist jetzt freundlich.
         <text>
 Spieler 3 ist jetzt freundlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 jest teraz przyjazny.
 </text>
       </lang>
     </block>
@@ -161,6 +281,16 @@ Spieler 1 ist jetzt neutral.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz neutralny.
+</text>
+      </lang>
     </block>
     <block id="playerneutral2">
       <lang code="CHN">
@@ -172,6 +302,16 @@ Spieler 2 ist jetzt neutral.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz neutralny.
+</text>
+      </lang>
     </block>
     <block id="playerneutral3">
       <lang code="CHN">
@@ -181,6 +321,16 @@ Spieler 2 ist jetzt neutral.
         <text>
 Spieler 3 ist jetzt neutral.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 jest teraz neutralny.
 </text>
       </lang>
     </block>
@@ -200,6 +350,22 @@ Missionsziel 2: Suche den Eingang zum Tal der Könige.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+The Guardians!!
+"Stop, you strangers! We are the guardians of the entrance to the Valley of the Kings. If your life means something to you, do not continue."
+Mission objective 1: Destroy the guardians.
+Mission objective 2: Search for the entrance to the Valley of the Kings.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Strażnicy!!
+„Halt, nieznajomi! Jesteśmy strażnicy wejścia do Doliny Króów. Jeśli wam na waszym życiu zależy, nie idź dalej.”
+Cel misji 1: Zniszcz stróżów.
+Cel misji 2: Szukaj wejścia do Doliny Królów.
+</text>
+      </lang>
     </block>
     <block id="playerseen2">
       <lang code="CHN">
@@ -215,6 +381,20 @@ Missionsziel:Vernichte die Torwächter.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+The Gatekeepers!!
+"Here you will die," a voice called. It wasn't quite wrong, since these gatekeepers were superior in numbers...
+Mission objective: Destroy the gatekeepers.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Bramkarze!!
+„Tu zginiecie” — zawołał głos. Nie miał do końca racji nie: po wszystkim ci strażnicy bramy przeważali liczebnie...
+Cel misji: Zniszcz bramkarzy.
+</text>
+      </lang>
     </block>
     <block id="playerseen3">
       <lang code="CHN">
@@ -228,6 +408,20 @@ Die Schlangen der Finsternis !!
 Dies war also der Fluch gewesen. Wie Aasgeier fielen sie über uns her. Wir mußten auch sie vernichten, wollten wir zum Tal der Könige kommen.
 Missionsziel: Vernichte die Schlangen der Finsternis.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+The Snakes of Darkness!!
+So this was the curse. Like vultures they fell upon us. We had to destroy them too if we wanted to reach the Valley of the Kings.
+Mission objective: Destroy the Snakes of Darkness.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Węże Ciemności!!
+Więc to było przekleństwo. Jak ssy y padli na nas. Musieliśmy ich również znisz, jeśli chcieliśmy dotrzeć do Doliny Krówów.
+Wyznaczony cel: Zniszcz Węże Ciemności.
 </text>
       </lang>
     </block>
@@ -249,6 +443,24 @@ Erstellt von: Yogi
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Hey, you were supposed to only find the entrance, not to go inside. You went inside, I only followed you. No man. No man. In the meantime one of us had explored the area. "Hey folks, don't argue, to the north lies a beautiful valley. An ideal place to settle." "Really? Great. Hurry up..."
+Mission objective: Search the valley in the north and build a new settlement, then continue to explore the area.
+
+
+Created by: Yogi
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Hej, miałeś tylko znaleźć wejście, a nie wchodzić do środka. Weszłeś do środka, ja tylko poszedłem za tobą. Nie, nie Ty. W międzyczasie jeden z nas zapoznał okolicę. „Ludzie, nie czij się, na północy jest piękna dolina. Idealne miejsce do osiedlenia.” „Naprawdę? Super. To ruszmy dalej...”
+Cel misji: Znajdź dolinę na północ i zbuduj nową osadę, potem eksplorują okolicę dalej.
+
+
+Stworzone przez: Yogi
+</text>
+      </lang>
     </block>
     <block id="start_header">
       <lang code="CHN">
@@ -258,6 +470,16 @@ Erstellt von: Yogi
         <text>
 Die Unterwelt
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+The Underworld
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Podziemny Świat
 </text>
       </lang>
     </block>
@@ -271,6 +493,16 @@ Wir hatten um haaresbreite gesiegt. Was würde uns im Tal der Könige erwarten?
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+We had won by a hair's width. What was about to wait for us in the Valley of the Kings?
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Zwyciężyliśmy, choć było ciasną. Co miał nas czekać w Dolinie Krółów?
+</text>
+      </lang>
     </block>
     <block id="won_header">
       <lang code="CHN">
@@ -280,6 +512,16 @@ Wir hatten um haaresbreite gesiegt. Was würde uns im Tal der Könige erwarten?
         <text>
 Mission gewonnen!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja wygrana!
 </text>
       </lang>
     </block>

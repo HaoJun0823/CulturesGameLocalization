@@ -3,39 +3,57 @@
   <languages>
     <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">突尼斯</text>
       <text lang="ger">Tunesien</text>
+      <text lang="eng">Tunisia</text>
+      <text lang="pol">Tunezja</text>
     </string>
     <string id="1">
       <text lang="CHN">在突尼斯这里，我们打算好好度个假。至少我们原本是这么打算的……</text>
       <text lang="ger">Hier in Tunesien würden wir uns einen Urlaub gönnen.So hatten wir es zumindest vor...</text>
+      <text lang="eng">Here in Tunisia we would treat ourselves to a vacation. That was the plan, at least...</text>
+      <text lang="pol">Tutaj w Tunezji pozwolilibyśmy sobie na wakacje. Tak przynajmniej planowaliśmy...</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
       <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
       <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
       <text lang="ger">Spieler0</text>
+      <text lang="eng">Player0</text>
+      <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
       <text lang="ger">Spieler1</text>
+      <text lang="eng">Player1</text>
+      <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
       <text lang="ger">Spieler2</text>
+      <text lang="eng">Player2</text>
+      <text lang="pol">Gracz2</text>
     </string>
     <string id="53">
       <text lang="CHN">玩家3</text>
       <text lang="ger">Spieler3</text>
+      <text lang="eng">Player3</text>
+      <text lang="pol">Gracz3</text>
     </string>
   </strings>
   <briefings>
@@ -51,6 +69,18 @@ Versuchs doch mal mit ner Runde Halma.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+You lost!!
+Try a game of Halma instead.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przegrałeś!!
+Spróbuj zamiast tego rundki Halma.
+</text>
+      </lang>
     </block>
     <block id="lost_header">
       <lang code="CHN">
@@ -60,6 +90,16 @@ Versuchs doch mal mit ner Runde Halma.
         <text>
 Mission verloren!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja przegrana!
 </text>
       </lang>
     </block>
@@ -73,6 +113,16 @@ Spieler 1 ist gestorben.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 zmarł.
+</text>
+      </lang>
     </block>
     <block id="playerdied2">
       <lang code="CHN">
@@ -82,6 +132,16 @@ Spieler 1 ist gestorben.
         <text>
 Spieler 2 ist gestorben.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 2 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 zmarł.
 </text>
       </lang>
     </block>
@@ -95,6 +155,16 @@ Spieler 3 ist gestorben.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 zmarł.
+</text>
+      </lang>
     </block>
     <block id="playerenemy1">
       <lang code="CHN">
@@ -104,6 +174,16 @@ Spieler 3 ist gestorben.
         <text>
 Spieler 1 ist jetzt feindlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz wrogi.
 </text>
       </lang>
     </block>
@@ -119,6 +199,18 @@ Missionsziel: Finde den Eingang zur Unterwelt.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Thank you, dear people. We normally live in the underworld and got lost. We can't find the entrance to our realm. Can you help us?
+Mission objective: Find the entrance to the underworld.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Dziękujemy drogi lud. Normalnie mieszkamy w podziemi świat, a zgubiliśmy się. Nie mogą znaleźć wejścia do naszego królestwa. Możecie nam pomoc?
+Wskazówki misji: Znajdź wejście do podziemnego świata.
+</text>
+      </lang>
     </block>
     <block id="playerfriendly2">
       <lang code="CHN">
@@ -128,6 +220,16 @@ Missionsziel: Finde den Eingang zur Unterwelt.
         <text>
 Spieler 2 ist jetzt freundlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz przyjazny.
 </text>
       </lang>
     </block>
@@ -141,6 +243,16 @@ Spieler 3 ist jetzt freundlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 jest teraz przyjazny.
+</text>
+      </lang>
     </block>
     <block id="playerneutral2">
       <lang code="CHN">
@@ -152,6 +264,16 @@ Spieler 2 ist jetzt neutral.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz neutralny.
+</text>
+      </lang>
     </block>
     <block id="playerneutral3">
       <lang code="CHN">
@@ -161,6 +283,16 @@ Spieler 2 ist jetzt neutral.
         <text>
 Spieler 3 ist jetzt neutral.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 jest teraz neutralny.
 </text>
       </lang>
     </block>
@@ -180,6 +312,22 @@ Missionsziel: Zahle den gewünschten Tribut an das unbekannte Volk.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Unknown People!!
+Ümnür de Krümü.Lumumba ul Kranrikel de Polunak en Munaba.
+We looked at each other perplexed. Our druid Fridi said: "I only understood that we should pay them a tribute in the form of potions. Once they have drunk them, we might understand them better." Well then, we thought.
+Mission objective: Pay the desired tribute to the unknown people.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Nieznany lud!!
+Ümnür de Krümü.Lumumba ul Kranrikel de Polunak en Munaba.
+Spojrzeliśmy po sobie zdezorientowani. Nasz druid Fridi powiedział: „Zrozumiałem tylko tyle, że mamy zapłacić im trybut w formie mikstur. Gdy je wypiją, być mogeśmy się lepiej porozumieć.” „Dobrze,” — pomyśleliśmy.
+Cel misji: Zapłać wymaganytrybut nieznanemu ludowi.
+</text>
+      </lang>
     </block>
     <block id="playerseen2">
       <lang code="CHN">
@@ -193,6 +341,20 @@ Schlangenmenschen !!
 Was waren das denn für komische Wesen? Jedenfalls schienen sie keinen Spaß zu verstehen.
 Missionsziel: Vernichte die Schlangenmenschen.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Snake People!!
+What kind of weird creatures were these? In any case, they didn't seem to get no joke.
+Mission objective: Destroy the snake people.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Ludzie-węże!!
+Co za dzikie istoty to były? W każdym razie nie wyglądały na to, że rozumieją żartów.
+Cel misji: Zniszcz lud-węże.
 </text>
       </lang>
     </block>
@@ -210,6 +372,22 @@ Was waren das denn schon wieder für Wesen ?
 Jedenfalls schienen sie keinen Spaß zu verstehen.
 Missionsziel: Vernichte die Werwölfe.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Werewolves!!
+What kind of creatures were these now?
+In any case, they didn't seem to understand a joke.
+Mission objective: Destroy the werewolves.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Wilkołaki!!
+Co to za stwory znowu było?
+W każdym razie nie wyglądają, że rozumieją żartować.
+Missionscel: Wypędź wilkołaki.
 </text>
       </lang>
     </block>
@@ -233,6 +411,26 @@ Erstellt von: Yogi
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+We steered the coast of Tunisia. Here we wanted to rest and recover from the hardships of the past months. Suddenly druid Fridi came to us: "We have too few potions in our stores. There are plenty of ingredients for new potions here. I urgently need 25 large food potions, 25 large healing potions and 25 large watch potions."
+In the meantime we wanted to send a scout out, because you could never know...
+Mission objective: Create the required potions and store them away.
+
+
+Created by: Yogi
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Żeglujemy do wybrzeży Tunezji. Tutaj chcieliśmy odpocząć i dojść do sił po trudach minionych miesięcy. Nagle nadszedł Fridi, nasz druid: „Mamy za mało mikstur w naszych magazynach. Jest tu sporo składników na nowe mikstury. Pilnie potrzebuję 25 dużych mikstur pokarmowych, 25 dużych mikstur leczących i 25 dużych mikstur snnych."
+W międzyczasie chcieliśmy wysłać zwiadowcę, bo nigdy nic nie wiadomo...
+Cel misji: Wykonaj wymagane mikstury i zmagazynuj je.
+
+
+Stworzone przez: Yogi
+</text>
+      </lang>
     </block>
     <block id="start_header">
       <lang code="CHN">
@@ -242,6 +440,16 @@ Erstellt von: Yogi
         <text>
 Tunesien
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Tunisia
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Tunezja
 </text>
       </lang>
     </block>
@@ -255,6 +463,16 @@ Wir hatten die Ungeheuer besiegt, und den Eingang zur Unterwelt gefunden. Aber w
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+We had defeated the monsters and found the entrance to the underworld. But what might be waiting for us there?
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Pokonaresziliśmy potwory i znaleźliśmy wejście do podziemnego światła. Ale co mogło nas tam czekać?
+</text>
+      </lang>
     </block>
     <block id="won_header">
       <lang code="CHN">
@@ -264,6 +482,16 @@ Wir hatten die Ungeheuer besiegt, und den Eingang zur Unterwelt gefunden. Aber w
         <text>
 Mission gewonnen!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja wygrana!
 </text>
       </lang>
     </block>

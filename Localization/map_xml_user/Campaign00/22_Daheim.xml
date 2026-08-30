@@ -3,35 +3,51 @@
   <languages>
     <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">归乡</text>
       <text lang="ger">Daheim</text>
+      <text lang="eng">Home</text>
+      <text lang="pol">W Domu</text>
     </string>
     <string id="1">
       <text lang="CHN">我们终于回到了家乡维格利德之墙。</text>
       <text lang="ger">Endlich waren wir in unserer Heimat Wigrid Wall.</text>
+      <text lang="eng">Finally we were in our homeland Wigrid Wall.</text>
+      <text lang="pol">Wreszcie byliśmy w naszej ojczyźnie Wigrid Wall.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
       <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
       <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
       <text lang="ger">Spieler0</text>
+      <text lang="eng">Player0</text>
+      <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
       <text lang="ger">Spieler1</text>
+      <text lang="eng">Player1</text>
+      <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
       <text lang="ger">Spieler2</text>
+      <text lang="eng">Player2</text>
+      <text lang="pol">Gracz2</text>
     </string>
   </strings>
   <briefings>
@@ -45,6 +61,16 @@ Du hast verloren !!
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+You lost!!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przegrałeś!!
+</text>
+      </lang>
     </block>
     <block id="lost_header">
       <lang code="CHN">
@@ -54,6 +80,16 @@ Du hast verloren !!
         <text>
 Mission verloren!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja przegrana!
 </text>
       </lang>
     </block>
@@ -67,6 +103,16 @@ Spieler 1 ist gestorben.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 zmarł.
+</text>
+      </lang>
     </block>
     <block id="playerdied2">
       <lang code="CHN">
@@ -76,6 +122,16 @@ Spieler 1 ist gestorben.
         <text>
 Spieler 2 ist gestorben.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 2 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 zmarł.
 </text>
       </lang>
     </block>
@@ -89,6 +145,16 @@ Spieler 1 ist jetzt feindlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz wrogi.
+</text>
+      </lang>
     </block>
     <block id="playerenemy2">
       <lang code="CHN">
@@ -98,6 +164,16 @@ Spieler 1 ist jetzt feindlich.
         <text>
 Spieler 2 ist jetzt feindlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz wrogi.
 </text>
       </lang>
     </block>
@@ -111,6 +187,16 @@ Spieler 1 ist jetzt neutral.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz neutralny.
+</text>
+      </lang>
     </block>
     <block id="playerneutral2">
       <lang code="CHN">
@@ -120,6 +206,16 @@ Spieler 1 ist jetzt neutral.
         <text>
 Spieler 2 ist jetzt neutral.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz neutralny.
 </text>
       </lang>
     </block>
@@ -135,6 +231,18 @@ Wenn ihr wollt dürft ihr Eure Händler schicken, wir haben tolle Waren im Angeb
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+We were joyfully greeted by our neighbours. Come, sit down and have some mead with us. Besides, we have cigars from a land far, far away in the west....
+If you like, you may send your traders, we have great goods on offer.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Radośnie zostaliśmy powitani przez naszych sąsiadów. Chodźcie, usiądźcie i napijcie się z nami miodu pitnego. Mamy też cygara z kraju bardzo daleko na zachodzie....
+Jeśli chcecie, możecie wysyłać swoich handlarzy, mamy wspaniałe towary w ofercie.
+</text>
+      </lang>
     </block>
     <block id="playerseen2">
       <lang code="CHN">
@@ -146,6 +254,18 @@ Wenn ihr wollt dürft ihr Eure Händler schicken, wir haben tolle Waren im Angeb
 Juhuu Nachbarn !! Kommt setzt euch. Wir machen ein Fass euch zu Ehren auf. Hier eßt ein Stück Wildbraten. Außerdem haben wir ein neues Getränk von einem Land welches sich weit weit im Westen befindet.....
 Kommt, schickt Eure Händler vorbei. Wir haben etwas was ihr eventuell gebrauchen könntet.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Yoo-hoo neighbours !! Come, sit down. We'll open a barrel in your honour. Here, have a piece of roast venison. Besides, we have a new drink from a land far, far away in the west.....
+Come, send your traders over. We have something you might be able to use.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Hej sąsiedzi !! Chodźcie, usiądźcie. Otwórzmy beczkę na waszą cześć. Proszę, zjedzcie kawałek pieczeni z dziczyzny. Mamy też nowy napój z kraju, który znajduje się daleko daleko na zachodzie.....
+Chodźcie, przysyłajcie swoich handlarzy. Mamy coś, czego moglibyście potrzebować.
 </text>
       </lang>
     </block>
@@ -169,6 +289,26 @@ Erstellt von: Yogi
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Hey helmsman, the coast is further to port. Port? Hic, is that now right or left? Hic......crash, clatter, gurgle. Strange, recently there was no coast here, right? Hic. Mani, Bjarni's son, who had finally grown up, came towards us angrily. It seems to me you drink too much mead. As punishment, you shall now produce so much mead that you have enough of it for all time.
+Mission goal: Store 200 units of mead, 30 coins, 30 oil, 30 large nourishing potions and 30 large stamina potions.
+Tip: Why not pay a visit to your neighbours...
+
+
+Created by: Yogi
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Hej sterniku, wybrzeże jest dalej na bakburcie. Bakburta? Beks, czy to teraz prawo czy lewo? Beks......łup, brzęk, bulgot. Dziwne, ostatnio nie było tu wybrzeża, czyż nie? Beks. Mani, syn Bjarniego, który wreszcie dorósł, podszedł do nas ze złością. Wydaje mi się, że pijecie za dużo miodu pitnego. Na karę będziecie teraz warzyć tyle miodu, że na wszystkie czasy będziecie go mieć dość.
+Cel misji: Zmagazynuj 200 jednostek miodu pitnego, 30 monet, 30 oleju, 30 dużych mikstur pożywienia i 30 dużych mikstur pobudzenia.
+Wskazówka: Zajrzyj do swoich sąsiadów...
+
+
+Stworzone przez: Yogi
+</text>
+      </lang>
     </block>
     <block id="start_header">
       <lang code="CHN">
@@ -178,6 +318,16 @@ Erstellt von: Yogi
         <text>
 Daheim
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+At Home
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+W Domu
 </text>
       </lang>
     </block>
@@ -195,6 +345,20 @@ The End
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+We now had everything together. Bravo, said Mani, finally we can hold our feast. We looked at each other in bewilderment. Hehe, giggled Mani, we want to give you a proper welcome, and for that we needed the mead.
+In the evening by the campfire, everyone listened eagerly to our druid Fridi as he told of our adventures.  Back then we had no inkling of the threat that was to come upon us. But that was a new story.....
+The End
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Mielismy już wszystko razem. Brawo, powiedział Mani, wreszcie możemy urządzić nasze święto. Zdumieni spojrzeliśmy po sobie. Hihi, chichotał Mani, chcemy wam przecież należycie powitać, a do tego potrzebujemy miodu pitnego.
+Wieczorem przy ognisku wszyscy w napięciu słuchali naszego druida Fridiego, gdy opowiadał o naszych przygodach. Wówczas nie przeczuwaliśmy jeszcze nic o zagrożeniu, które miało na nas przyjść. Ale to była już nowa historia.....
+Koniec
+</text>
+      </lang>
     </block>
     <block id="won_header">
       <lang code="CHN">
@@ -204,6 +368,16 @@ The End
         <text>
 Mission gewonnen!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja wygrana!
 </text>
       </lang>
     </block>

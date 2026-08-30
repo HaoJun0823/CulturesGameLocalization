@@ -3,27 +3,39 @@
   <languages>
     <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">洞穴</text>
       <text lang="ger">Die Höhle</text>
+      <text lang="eng">The Cave</text>
+      <text lang="pol">Jaskinia</text>
     </string>
     <string id="1">
       <text lang="CHN">在前往南非的漫长行军途中，我们中有两人遭遇了一场糟糕的意外。</text>
       <text lang="ger">Auf dem langen Marsch nach Südafrika erlebten zwei Leute von uns eine böse Überraschung.</text>
+      <text lang="eng">On the long march to South Africa, two of our people experienced a nasty surprise.</text>
+      <text lang="pol">Podczas długiego marszu do Afryki Południowej dwóch naszych ludzi przeżyło niemiłą niespodziankę.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
       <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
       <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
       <text lang="ger">Spieler0</text>
+      <text lang="eng">Player0</text>
+      <text lang="pol">Gracz0</text>
     </string>
   </strings>
   <briefings>
@@ -39,6 +51,18 @@ Missionsziel: Lagere 20 Goldbarren und 20 Kuchen ein.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Yoo-hoo, you good people. My name is Silbermond, because I was born in moonlight. My people live in South Africa. A slave trader there has locked me up here. She demands a ransom of 20 gold bars. Do you have anything sweet with you? It's been soooo long since I ate anything sweet. I could use a bit of cake. Well, we didn't want to be unkind and decided to help her. We had only seen gold in one place. Where we had fallen into the cave...
+Mission goal: Store 20 gold bars and 20 cakes.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Hej ho, kochani ludzie. Mam na imię Silbermond, bo urodziłem się w świetle księżyca. Mój lud żyje w Afryce Południowej. Handlarzka niewolników uwięziła mnie tutaj. Żąda okupu w wysokości 20 sztabek złota. Macie coś słodkiego przy sobie? Już taaaak długo nie jadłem nic słodkiego. Przydałoby się trochę ciasta. No cóż, nie chcieliśmy być niemili i postanowiliśmy jej pomóc. Złoto widzieliśmy tylko w jednym miejscu. Tam, gdzie wpadliśmy do jaskini...
+Cel misji: Zmagazynuj 20 sztabek złota i 20 ciast.
+</text>
+      </lang>
     </block>
     <block id="lost_body">
       <lang code="CHN">
@@ -50,6 +74,16 @@ Du hast verloren !! Versuchs doch mal mir ner Runde Schach.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+You have lost !! Try a round of chess.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przegrałeś !! Spróbuj partii szachów.
+</text>
+      </lang>
     </block>
     <block id="lost_header">
       <lang code="CHN">
@@ -59,6 +93,16 @@ Du hast verloren !! Versuchs doch mal mir ner Runde Schach.
         <text>
 Mission verloren!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja przegrana!
 </text>
       </lang>
     </block>
@@ -80,6 +124,24 @@ Erstellt von: Yogi
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Hey, look at that, what a huge abyss. Come on, we must keep following the others. Hey, careful, don't get so close to the edge. What did you say?...creak, Heeelp, I'm falling. Let me go, no, heeelp, I'm falling too....thud. You and your terrible curiosity. That's what you get. Come on, let's find the exit, it can't be that far......
+Mission goal: Find the exit.
+
+
+Created by: Yogi
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Hej, popatrz, jaka ogromna otchłań. Chodź, musimy iść dalej za innymi. Hej, uważaj, nie podchodź tak blisko krawędzi. Co powiedziałeś?...skrzyp, Pomoocy, spadam. Puść mnie, nie, pomoocy, ja też spadam....łup. Ty i twoja okropna ciekawość. To masz teraz za swoje. Chodź, szukajmy wyjścia, nie może być tak daleko......
+Cel misji: Znajdź wyjście.
+
+
+Stworzone przez: Yogi
+</text>
+      </lang>
     </block>
     <block id="start_header">
       <lang code="CHN">
@@ -89,6 +151,16 @@ Erstellt von: Yogi
         <text>
 Die Höhle
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+The Cave
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Jaskinia
 </text>
       </lang>
     </block>
@@ -102,6 +174,16 @@ Ich danke Euch für Eure Hilfe. Ich werde meinem Volk berichten, was für tapfer
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+I thank you for your help. I shall report to my people what brave and helpful men you are. In gratitude I promise you our friendship. Hey look, there is another abyss. I've had enough of abysses. Come on, this way, let's go, let's go. I'm coming already......
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Dziękuję wam za pomoc. Opowiem mojemu ludowi, jak odważni i pomocni jesteście. W podzięce obiecuję wam naszą przyjaźń. Hej, popatrz, tam jest kolejna otchłań. Mam już dość otchłani. Chodźcie, tędy, dawaj, dawaj. Już idę......
+</text>
+      </lang>
     </block>
     <block id="won_header">
       <lang code="CHN">
@@ -111,6 +193,16 @@ Ich danke Euch für Eure Hilfe. Ich werde meinem Volk berichten, was für tapfer
         <text>
 Mission gewonnen!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja wygrana!
 </text>
       </lang>
     </block>

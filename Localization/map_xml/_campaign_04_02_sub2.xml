@@ -3,39 +3,57 @@
   <languages>
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@抵达结晶！</text>
       <text lang="ger">@GELANGE ZUM KRISTALL!</text>
+      <text lang="eng">@REACH THE CRYSTAL!</text>
+      <text lang="pol">@DOTRZYJ DO KRYSZTAŁU!</text>
     </string>
     <string id="1">
       <text lang="CHN">点燃火把。</text>
       <text lang="ger">Entflamme die Fackeln.</text>
+      <text lang="eng">Light the torches.</text>
+      <text lang="pol">Rozpal pochodnie.</text>
     </string>
     <string id="53">
       <text lang="CHN">暗龙</text>
       <text lang="ger">Dunkeldrachen</text>
+      <text lang="eng">Dark Dragons</text>
+      <text lang="pol">Smoki Mroku</text>
     </string>
     <string id="63">
       <text lang="CHN">暗龙</text>
       <text lang="ger">Dunkeldrachen</text>
+      <text lang="eng">Dark Dragons</text>
+      <text lang="pol">Smoki Mroku</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="ger">Bjarni</text>
+      <text lang="eng">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
       <text lang="ger">Cyra</text>
+      <text lang="eng">Cyra</text>
+      <text lang="pol">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">派罗</text>
       <text lang="ger">Pyro</text>
+      <text lang="eng">Pyro</text>
+      <text lang="pol">Pyro</text>
     </string>
     <string id="99">
       <text lang="CHN">扎彭杜施泰斯特</text>
       <text lang="ger">ZAPPENDUSTER</text>
+      <text lang="eng">PITCH-DARK</text>
+      <text lang="pol">NIEPRZENIKNIONY MROK</text>
     </string>
   </strings>
   <briefings>
@@ -48,6 +66,16 @@
       <lang code="ger">
         <text> 
 Es war immer noch zappenduster in der Höhle. So sehr wir uns bemühten, wir gelangten nicht vom Fleck. Ein seltsames Energiefeld umgab die hohen Säulen und ließ uns nicht weiter ins Innere der Höhle. 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+It was still pitch black in the cave. No matter how hard we tried, we could not get anywhere. A strange energy field surrounded the tall pillars and prevented us from going deeper into the cave.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+W jaskini wciąż było ciemno jak w grobie. Jak bardzo byśmy się nie starali, nie mogliśmy ruszyć się z miejsca. Dziwne pole energetyczne otaczało wysokie filary i nie pozwalało nam wejść głębiej do wnętrza jaskini.
 </text>
       </lang>
     </block>
@@ -64,6 +92,20 @@ Es war immer noch zappenduster in der Höhle. So sehr wir uns bemühten, wir gel
 Unseren Hoffnungen stützten sich auf PYRO, den Feuerdrachen. Er würde sicherlich die erloschenen Fackeln wieder entflammen... 
  
 Entflamme die Fackeln und finde den Weg zum Kristall.
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Our hopes rested on PYRO, the fire dragon. He would surely be able to reignite the extinguished torches... 
+ 
+Ignite the torches and find the way to the crystal.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Nasze nadzieje spoczywały na PYRO, smoku ognia. Na pewno zdoła rozpalić na nowo zgasłe pochodnie... 
+ 
+Rozpal pochodnie i znajdź drogę do kryształu.
 </text>
       </lang>
     </block>
@@ -83,6 +125,22 @@ Hier am Eingang der Höhle waren nun alle Fackeln entzündet! Wie von Zauberhand
 Wir konnten nun das Innere der Höhle weiter erkunden! Sicherlich gab es hier noch viele Fackeln die es zu entflammen galt.
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+ALL TORCHES IGNITED!
+
+Here at the entrance of the cave, all torches were now ignited! As if by magic, one of the strange pillars had vanished and the energy field was broken.
+We could now explore the interior of the cave further! Surely there were still many torches here to ignite.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+WSZYSTKIE POCHODNIE ZAPLONY!
+
+Tutaj przy wejściu do jaskini wszystkie pochodnie były teraz zapalone! Jak za dotknięciem czarodziejskiej różdżki zniknął jeden z dziwnych filarów, a pole energetyczne zostało przełamane.
+Teraz mogliśmy dalej badać wnętrze jaskini! Zapewne znajdowało się tu jeszcze wiele pochodni do rozpalenia.
+</text>
+      </lang>
     </block>
     <block id="02">
       <lang code="CHN">
@@ -97,6 +155,20 @@ Wir konnten nun das Innere der Höhle weiter erkunden! Sicherlich gab es hier no
 ALLE FACKELN ENTZÜNDET!
 
 Alle Fackeln wurden von unserem Freund Pyro entzündet. Der Weg zum Feuerkristall war nun frei!
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+ALL TORCHES IGNITED!
+
+All torches were ignited by our friend Pyro. The path to the fire crystal was now clear!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+WSZYSTKIE POCHODNIE ZAPLONY!
+
+Wszystkie pochodnie zostały zapalone przez naszego przyjaciela Pyro. Droga do kryształu ognia była teraz wolna!
 </text>
       </lang>
     </block>
@@ -130,6 +202,28 @@ Wir mußten versuchen, sie von dort wegzulocken. Vielleicht konnten wir sie im R
 </text>
         <usericon>1,43,61</usericon>
       </lang>
+      <lang code="eng">
+        <text>
+DARK DRAGONS
+
+Through the barred walls we saw black dragons. They seemed dangerous and were probably guarding the entrance to the crystal.
+
+
+
+We had to try to lure them away from there. Perhaps we could lock them in the rainbow room?
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+MROCZNE SMOKI
+
+Przez kratowane ściany widzieliśmy czarne smoki. Wydawały się niebezpieczne i prawdopodobnie strzegły wejścia do kryształu.
+
+
+
+Musielismy spróbować zwabić je stamtąd. Może moglibyśmy je uwięzić w tęczowej komnacie?
+</text>
+      </lang>
     </block>
     <block id="04">
       <lang code="CHN">
@@ -144,6 +238,20 @@ Wir mußten versuchen, sie von dort wegzulocken. Vielleicht konnten wir sie im R
 DRACHEN BESIEGT!
 
 Wir hatten die farblosen Geschöpfe besiegt, aber war dies wirklich nötig gewesen? Hätten wir sie nicht auch in eine Falle in den Regenbogenraum locken können?
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+DRAGONS DEFEATED!
+
+We had defeated the colorless creatures, but was it really necessary? Could we not have lured them into a trap in the rainbow room?
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+SMOKI POKONANE!
+
+Pokonaliśmy te bezbarwne stworzenia, ale czy było to naprawdę konieczne? Czyż nie mogliśmy zwabić ich w pułapkę w tęczowej komnacie?
 </text>
       </lang>
     </block>
@@ -170,6 +278,24 @@ DRACHEN EINGESPERRT!
 Wir hatten es geschafft, alle Dunkeldrachen befanden sich im Regenbogenraum!
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+DRAGONS LOCKED UP!
+
+
+
+We had done it - all the dark dragons were in the rainbow room!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+SMOKI UWIĘZIONE!
+
+
+
+Udało nam się - wszystkie mroczne smoki znajdowały się w tęczowej komnacie!
+</text>
+      </lang>
     </block>
     <block id="06">
       <lang code="CHN">
@@ -184,6 +310,20 @@ Wir hatten es geschafft, alle Dunkeldrachen befanden sich im Regenbogenraum!
 VERSCHLOSSENER RAUM
 
 Das Innere dieses Raumes wird dir verborgen bleiben, solange nicht alle Fackeln entfacht sind!
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+LOCKED ROOM
+
+The interior of this room will remain hidden from you as long as not all torches are lit!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+ZAMKNIĘTA KOMNATA
+
+Wnętrze tej komnaty pozostanie przed tobą ukryte, dopóki nie zostaną zapalone wszystkie pochodnie!
 </text>
       </lang>
     </block>
@@ -211,6 +351,20 @@ MISSION VERLOREN!
 Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+MISSION LOST!
+
+Heroism or recklessness? When BJARNI died, the gods wept... Without this hero, the end of the mission will remain hidden from you.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+MISJA PRZEGRANA!
+
+Bohatersztwo czy lekkomyślność? Gdy BJARNI umarł, bogowie płakali... Bez tego bohatera koniec misji pozostanie dla ciebie ukryty.
+</text>
+      </lang>
     </block>
     <block id="200">
       <lang code="CHN">
@@ -233,6 +387,20 @@ MISSION VERLOREN!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+MISSION LOST!
+
+A brief moment of carelessness, so quickly it happens in life! Your heroine CYRA perished through your inattention! Without this heroine, the end of the mission will remain hidden from you.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+MISJA PRZEGRANA!
+
+Chwilka lekkomyślności, tak szybko to w życiu przychodzi! Twoja bohaterka CYRA zginęła przez twoją nieuwagę! Bez tej bohaterki koniec misji pozostanie dla ciebie ukryty.
 </text>
       </lang>
     </block>
@@ -259,6 +427,20 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund PYRO erlag durch deine Unachtsamkeit! Ohne ihn wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+MISSION LOST!
+
+A brief moment of carelessness, so quickly it happens in life! Your friend PYRO perished through your inattention! Without him, the end of the mission will remain hidden from you.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+MISJA PRZEGRANA!
+
+Chwilka lekkomyślności, tak szybko to w życiu przychodzi! Twój przyjaciel PYRO zginął przez twoją nieuwagę! Bez niego koniec misji pozostanie dla ciebie ukryty.
+</text>
+      </lang>
     </block>
     <block id="50_end">
       <lang code="CHN">
@@ -274,6 +456,16 @@ Wir hatten den Krisall im Inneren der Höhle gefunden! Nun mußten wir ihn zum W
 
 </text>
         <usericon>1,49,21</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+We had found the crystal inside the cave! Now we had to bring it to the forest warden BORKENZAHN.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Znaleźliśmy kryształ we wnętrzu jaskini! Teraz musieliśmy zanieść go leśniczemu BORKENZAHNOWI.
+</text>
       </lang>
     </block>
     <block id="50_end1">
@@ -291,6 +483,16 @@ Wir hatten den Krisall im Inneren der Höhle gefunden! Nun mußten wir ihn zum W
 MISSION GEWONNEN! 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+MISSION WON!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+MISJA WYGRANA!
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -302,6 +504,16 @@ MISSION GEWONNEN!
       <lang code="ger">
         <text> 
 DIE DUNKLE HÖHLE
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+THE DARK CAVE
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+MROCZNA JASKINIA
 </text>
       </lang>
     </block>

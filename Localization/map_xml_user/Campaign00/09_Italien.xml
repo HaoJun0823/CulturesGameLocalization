@@ -3,39 +3,57 @@
   <languages>
     <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">意大利</text>
       <text lang="ger">Italien</text>
+      <text lang="eng">Italy</text>
+      <text lang="pol">Włochy</text>
     </string>
     <string id="1">
       <text lang="CHN">你来到了意大利。</text>
       <text lang="ger">Du kommst nach Italien.</text>
+      <text lang="eng">You arrive in Italy.</text>
+      <text lang="pol">Docierasz do Włoch.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
       <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
       <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
       <text lang="ger">Spieler0</text>
+      <text lang="eng">Player0</text>
+      <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
       <text lang="ger">Spieler1</text>
+      <text lang="eng">Player1</text>
+      <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
       <text lang="ger">Spieler2</text>
+      <text lang="eng">Player2</text>
+      <text lang="pol">Gracz2</text>
     </string>
     <string id="53">
       <text lang="CHN">玩家3</text>
       <text lang="ger">Spieler3</text>
+      <text lang="eng">Player3</text>
+      <text lang="pol">Gracz3</text>
     </string>
   </strings>
   <briefings>
@@ -49,6 +67,16 @@ Nanu, was standen hier denn für Kisten rum? Neugierig wollte ich gleich mal ein
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Hmm, what kind of boxes were standing around here? Curious, I wanted to open one right away.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Hmm, co to za skrzyni tu stały? Z ciekawa od razu chciałem jedną otworzyć.
+</text>
+      </lang>
     </block>
     <block id="findmappos2">
       <lang code="CHN">
@@ -58,6 +86,16 @@ Nanu, was standen hier denn für Kisten rum? Neugierig wollte ich gleich mal ein
         <text>
 Was war das für eine trostlose Gegend? Und kein Beerenstrauch weit und breit zu sehen. Hier konnte doch bestimmt keiner wohnen.....
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+What a bleak region this was? And not a berry bush in sight. Nobody could live here for sure.....
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Cóż to była za jałowa okolica? I ani jednego krzaka jagód ze de. Z pewnością nikt tu nie mieszka.....
 </text>
       </lang>
     </block>
@@ -73,6 +111,18 @@ Versuchs doch mal mit ner Runde "Mensch ärgere Dich nicht"
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+You lost!!
+Try a game of "Man, Don't Get Angry" instead
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przegrałeś!!
+Spróbuj zamiast tego rundkę "Nie gniewaj się, człowieku"
+</text>
+      </lang>
     </block>
     <block id="lost_header">
       <lang code="CHN">
@@ -82,6 +132,16 @@ Versuchs doch mal mit ner Runde "Mensch ärgere Dich nicht"
         <text>
 Mission verloren!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja przegrana!
 </text>
       </lang>
     </block>
@@ -95,6 +155,16 @@ Die Sizilianer sind gestorben.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+The Sicilians have died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Sykicylijczycy nie żyją.
+</text>
+      </lang>
     </block>
     <block id="playerdied2">
       <lang code="CHN">
@@ -104,6 +174,16 @@ Die Sizilianer sind gestorben.
         <text>
 Die Banditen sind gestorben.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+The bandits have died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Bandyci nie żyją.
 </text>
       </lang>
     </block>
@@ -117,6 +197,16 @@ Spieler 3 ist gestorben.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 zmarł.
+</text>
+      </lang>
     </block>
     <block id="playerenemy3">
       <lang code="CHN">
@@ -126,6 +216,16 @@ Spieler 3 ist gestorben.
         <text>
 Spieler 3 ist jetzt feindlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 jest teraz wrogi.
 </text>
       </lang>
     </block>
@@ -139,6 +239,16 @@ Spieler 1 ist jetzt freundlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz przyjazny.
+</text>
+      </lang>
     </block>
     <block id="playerfriendly2">
       <lang code="CHN">
@@ -148,6 +258,16 @@ Spieler 1 ist jetzt freundlich.
         <text>
 Spieler 2 ist jetzt freundlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz przyjazny.
 </text>
       </lang>
     </block>
@@ -161,6 +281,16 @@ Danke, danke, ihr könnt nun Eure Händler schicken, aber achtet darauf das sie 
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Thank you, thank you, you can now send your merchants, but make sure they take plenty of food with them, otherwise they will starve on the way.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Dzięki, dzięki, możecie teraz wysłać swoich handlarzy, ale upewnijcie się, że zabiorą ze sobą dużo jedzenia, inaczej zginą głodem po drodze.
+</text>
+      </lang>
     </block>
     <block id="playerneutral1">
       <lang code="CHN">
@@ -172,6 +302,16 @@ Spieler 1 ist jetzt neutral.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz neutralny.
+</text>
+      </lang>
     </block>
     <block id="playerneutral2">
       <lang code="CHN">
@@ -181,6 +321,16 @@ Spieler 1 ist jetzt neutral.
         <text>
 Spieler 2 ist jetzt neutral.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz neutralny.
 </text>
       </lang>
     </block>
@@ -198,6 +348,20 @@ Missionsziel: Vernichte die Sizilianer.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Sicilians!!
+We are the allies of the bandits. Get lost, or we will massacre you.
+Mission objective: Destroy the Sicilians.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Scycilian!!
+Jesteśmy sojusznikami bandytów. Znikj, albo zarżniemy was.
+Cel misji: Zniszcz Sycylijczyków.
+</text>
+      </lang>
     </block>
     <block id="playerseen2">
       <lang code="CHN">
@@ -213,6 +377,20 @@ Missionsziel: Vernichte die Banditen.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Bandits!!
+Here was finally the main base of the bandits. When we were done with them, peace would reign in the country again.
+Mission objective: Destroy the bandits.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Bandycy!!
+Tutaj była wreszcie główna baza bandytów. Gdybyśmy skończyli z nimi, w kraju znów zapanowałby pokoj.
+Cel misji: Zniszcz bandytów.
+</text>
+      </lang>
     </block>
     <block id="playerseen3">
       <lang code="CHN">
@@ -224,6 +402,18 @@ Missionsziel: Vernichte die Banditen.
 Bulgarier !!
 Huhu, was macht ihr denn hier? Habt ihr vielleicht etwas Weizen, Wasser und Met? Ja?, Gut dann gebt uns etwas und ihr könnt mit uns handeln. Aber viel haben wir nicht zu bieten, da wir sehr arm sind.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Bulgarians!!
+Hey, what are you doing here? Do you have some wheat, water and mead? Do you? Then give us some and you can trade with us. But we don't have much to offer, for we are very poor.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Bułgarzy!!
+Hej, co wy tutaj robicie? Może ma ecie pszenica, woda i miód? Tak? Dobrze, to dajcie nam trochę, a będziecie mogli z nami handlować. Ale nie mamy wiele do zaoferowania, bo jesteśmy bardzo biedni.
 </text>
       </lang>
     </block>
@@ -247,6 +437,26 @@ Erstellt von: Yogi
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Hey helmsman, there is a island with a lighthouse on it coming. Oh nonsense, that's just the moon. Oh well...... craaash, bang, rattle, sink, bubble. Our helmsman had done it again. All ships except one had sunk and the deep sea had swallowed our comrades. Only one soldier could save himself in time.
+Mission objective: Go to northern Italy where hopefully your comrades, who had come from Austria into the country, are waiting for you.
+
+
+
+Created by: Yogi
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Hej, sterniku, nadpływa wyspa z latarną morską. Bzdura, to tylko księżyc. Ach tak...... cracz, bam, bumba, tonie, bulbul. Nasz sternik znowu to sprawił. Wszystkie łódki za wyjątkiem jednej zatonęły, a głębokie morze pochłonęło naszych towarzyszy. Tylko jeden żołnier zdołał się uratować.
+Cel misji: Udaj się na północne Włochy, gdzie, mał nadzieję, czekają na ciebie towarzysze, którzy przybyli do kraju z Austrii.
+
+
+
+Stworzone przez: Yogi
+</text>
+      </lang>
     </block>
     <block id="start_header">
       <lang code="CHN">
@@ -256,6 +466,16 @@ Erstellt von: Yogi
         <text>
 Italien
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Italy
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Włochy
 </text>
       </lang>
     </block>
@@ -269,6 +489,16 @@ Wir hatten wieder einmal gesiegt. Die Banditen und die Sizilianer waren vernicht
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Once again we had won. The bandits and the Sicilians were destroyed. Now there was peace. We wanted to take a holiday first and rest in sunny Tunisia.....
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Znowu zwyciężyliśmy. Bandycy i Sycylińczycyzostali zniszczeni. Teraz znowu panował pokoj. Chcieliśmy najpierw zrobić wakacji i odpocząć w słonecznej Tunezji.....
+</text>
+      </lang>
     </block>
     <block id="won_header">
       <lang code="CHN">
@@ -278,6 +508,16 @@ Wir hatten wieder einmal gesiegt. Die Banditen und die Sizilianer waren vernicht
         <text>
 Mission gewonnen!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja wygrana!
 </text>
       </lang>
     </block>

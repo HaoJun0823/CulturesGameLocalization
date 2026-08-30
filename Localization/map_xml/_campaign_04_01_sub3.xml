@@ -3,67 +3,99 @@
   <languages>
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@向格拉乌霍尔姆打听诺伯特的身世！</text>
       <text lang="ger">@ERFAHRE VON GRAUHOLM ÜBER NORBERTS HERKUNFT!</text>
+      <text lang="eng">@LEARN FROM GRAUHOLM ABOUT NORBERT'S ORIGINS!</text>
+      <text lang="pol">@DOWIEDZ SIĘ OD GRAUHOLMA O POCHODZENIU NORBERTA!</text>
     </string>
     <string id="1">
       <text lang="CHN">寻找罗希尔德与布劳施特鲁姆夫，将她们带往格拉乌霍尔姆。</text>
       <text lang="ger">Suche Rothild und Blaustrump und bringe sie zu Grauholm.</text>
+      <text lang="eng">Find Rothild and Blaustrump and bring them to Grauholm.</text>
+      <text lang="pol">Znajdź Rothild i Blaustrumpa i przyprowadź ich do Grauholma.</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的部族</text>
       <text lang="ger">Bjarnis Stamm</text>
+      <text lang="eng">Bjarni's Tribe</text>
+      <text lang="pol">Plemię Bjarniego</text>
     </string>
     <string id="51">
       <text lang="CHN">石龙</text>
       <text lang="ger">Steindrachen</text>
+      <text lang="eng">Stone Dragons</text>
+      <text lang="pol">Smoki Kamienne</text>
     </string>
     <string id="52">
       <text lang="CHN">火龙</text>
       <text lang="ger">Feuerdrachen</text>
+      <text lang="eng">Fire Dragons</text>
+      <text lang="pol">Smoki Ogniste</text>
     </string>
     <string id="53">
       <text lang="CHN">水龙</text>
       <text lang="ger">Wasserdrachen</text>
+      <text lang="eng">Water Dragons</text>
+      <text lang="pol">Smoki Wodne</text>
     </string>
     <string id="61">
       <text lang="CHN">格罗尔斯</text>
       <text lang="ger">Gerols</text>
+      <text lang="eng">Gerols</text>
+      <text lang="pol">Gerols</text>
     </string>
     <string id="62">
       <text lang="CHN">卢米斯</text>
       <text lang="ger">Lumis</text>
+      <text lang="eng">Lumis</text>
+      <text lang="pol">Lumis</text>
     </string>
     <string id="63">
       <text lang="CHN">阿夸斯</text>
       <text lang="ger">Aquas</text>
+      <text lang="eng">Aquas</text>
+      <text lang="pol">Aquas</text>
     </string>
     <string id="71">
       <text lang="CHN">格拉乌霍尔姆</text>
       <text lang="ger">GRAUHOLM</text>
+      <text lang="eng">GRAUHOLM</text>
+      <text lang="pol">GRAUHOLM</text>
     </string>
     <string id="72">
       <text lang="CHN">罗希尔德</text>
       <text lang="ger">Rothild</text>
+      <text lang="eng">Rothild</text>
+      <text lang="pol">Rothild</text>
     </string>
     <string id="73">
       <text lang="CHN">布劳施特鲁姆夫</text>
       <text lang="ger">Blaustrump</text>
+      <text lang="eng">Blaustrump</text>
+      <text lang="pol">Blaustrump</text>
     </string>
     <string id="75">
       <text lang="CHN">诺伯特</text>
       <text lang="ger">Norbert</text>
+      <text lang="eng">Norbert</text>
+      <text lang="pol">Norbert</text>
     </string>
     <string id="76">
       <text lang="CHN">玛尼</text>
       <text lang="ger">Mani</text>
+      <text lang="eng">Mani</text>
+      <text lang="pol">Mani</text>
     </string>
     <string id="99">
       <text lang="CHN">石龙圣殿</text>
       <text lang="ger">DIE HEILIGE HALLE DER STEINDRACHEN</text>
+      <text lang="eng">THE SACRED HALL OF THE STONE DRAGONS</text>
+      <text lang="pol">ŚWIĘTA KOMNATA SMOKÓW KAMIENNYCH</text>
     </string>
   </strings>
   <briefings>
@@ -82,6 +114,18 @@ Die heilige Halle der Steindrachen lag vor ihnen.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+This far Norbert and Mani had made it. 
+The sacred hall of the stone dragons lay before them.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Jak dotąd zdołali zajść Norbert i Mani. 
+Przed nimi leżała święta sala smoków kamiennych.
+</text>
+      </lang>
     </block>
     <block id="00_start1">
       <lang code="CHN">
@@ -93,6 +137,18 @@ Die heilige Halle der Steindrachen lag vor ihnen.
         <text> 
 Würde der weise Grauholm etwas über Norberts Herkunft wissen? 
 Bald nun sollten sie eine Antwort auf diese Frage erhalten...
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Would the wise Grauholm know something about Norbert's origin? 
+Soon they were to receive an answer to this question...
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Czy mądry Grauholm wiedziałby coś o pochodzeniu Norberta? 
+Wkrótce mieli otrzymać odpowiedź na to pytanie...
 </text>
       </lang>
     </block>
@@ -117,6 +173,24 @@ DIE WACHDRACHEN UM GRAUHOLM
         <text>
 
 "GRAUHOLM erwartet euch bereits! Folgt uns zu ihm!"
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+THE GUARDIAN DRAGONS AROUND GRAUHOLM                        
+
+
+
+"GRAUHOLM is already expecting you! Follow us to him!"
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+SMOKI STRAŻNICZE WOKÓŁ GRAUHOLMA                        
+
+
+
+„GRAUHOLM już was oczekuje! Podążajcie za nami do niego!"
 </text>
       </lang>
     </block>
@@ -151,6 +225,34 @@ Rothild und Blaustrump, zwei Vertreter der Feuer- und Wasserdrachen, machen sich
 Rothild ist in den Hallen im Westen und Blaustrump in denen im Osten. Findet und bringt sie zu mir und ich werde euch von eurer Herkunft berichten!
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+GRAUHOLM
+
+"Truly, you have managed to settle the discord between the individual peoples!
+
+
+
+Only one remains, yet I doubt that these two quarrel out of intolerance, fear or envy...
+Rothild and Blaustrump, two representatives of the fire and water dragons, make life here truly difficult...
+
+Rothild is in the halls to the west and Blaustrump in those to the east. Find them and bring them to me, and I shall tell you of your origin!"
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+GRAUHOLM
+
+„Zaprawdę, udało wam się załagodzić spór między poszczególnymi ludami!
+
+
+
+Pozostał jeszcze tylko jeden, choć wątpię, by ci dwa swarzyli się z nietolerancji, strachu czy zawiści...
+Rothild i Blaustrump, dwoje przedstawicieli smoków ognia i wody, naprawdę utrudniają tu życie...
+
+Rothild znajduje się w salach na zachodzie, a Blaustrump w tych na wschodzie. Znajdźcie ich i przyprowadźcie do mnie, a opowiem wam o waszym pochodzeniu!"
+</text>
+      </lang>
     </block>
     <block id="03">
       <lang code="CHN">
@@ -180,6 +282,32 @@ Vielleicht ein paar Blumen und ein paar geflunkelte nette Worte?
 So pflückten Mani und Norbert ein paar blaue Blumen und gingen zu Rothild...
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+FLOWERS!
+
+Mani and Norbert had to employ a trick in reconciling the two...
+The dragons were very stubborn. Then they had an idea! 
+
+
+
+Perhaps a few flowers and some fabricated kind words? 
+So Mani and Norbert picked a few blue flowers and went to Rothild...
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+KWIATY!
+
+Mani i Norbert musieli zastosować sprytny trik przy godzeniu tych dwojga...
+Smoki były bardzo uparte. Wtedy wpadli na pomysł! 
+
+
+
+Może parę kwiatów i zmyślone miłe słowa? 
+Więc Mani i Norbert zerwali kilka niebieskich kwiatów i udali się do Rothild...
+</text>
+      </lang>
     </block>
     <block id="04">
       <lang code="CHN">
@@ -199,6 +327,22 @@ sprach Rothild und kehrte uns den Rücken zu.
 
 </text>
         <usericon>2,2</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+ROTHILD
+
+"I will not come along and meet that conceited water dragon over there!... hmph"
+spoke Rothild and turned her back to us.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+ROTHILD
+
+„Nie przyjdę z wami i nie spotkam tego zarozumiałego smoka wodnego tam!... fyy"
+rzekła Rothild i odwróciła się do nas plecami.
+</text>
       </lang>
     </block>
     <block id="05">
@@ -233,6 +377,34 @@ Für einen Wasserdrachen hat er ja einen guten Geschmack. Vielleicht hatte ich m
 Gut, ich werde Euch begleiten."
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+ROTHILD
+
+"Blue flowers, how beautiful they are!
+What? These flowers come from Blaustrump? 
+
+
+
+For a water dragon he has good taste. Perhaps I was wrong about him?
+
+Very well, I shall accompany you."
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+ROTHILD
+
+„Niebieskie kwiaty, ależ są przepiękne!
+Co? Te kwiaty pochodzą od Blaustrumpa? 
+
+
+
+Jak na smoka wodnego ma dobry gust. Może jednak go źle oceniałam?
+
+Dobrze, pójdę z wami."
+</text>
+      </lang>
     </block>
     <block id="06">
       <lang code="CHN">
@@ -253,6 +425,22 @@ sprach Blaustrump und kehrte uns den Rücken zu.
 </text>
         <usericon>2,3</usericon>
       </lang>
+      <lang code="eng">
+        <text>
+BLAUSTRUMP
+
+"That Rothild thinks she is something special! No, I will not come along and possibly meet her there."
+spoke Blaustrump and turned his back to us.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+BLAUSTRUMP
+
+„Ta Rothild myśli, że jest kimś wyjątkowym! Nie, nie pójdę z wami i tam jej ewentualnie nie spotkam."
+rzekł Blaustrump i odwrócił się do nas plecami.
+</text>
+      </lang>
     </block>
     <block id="07">
       <lang code="CHN">
@@ -272,6 +460,20 @@ BLAUSTRUMP
 </text>
         <usericon>2,3</usericon>
       </lang>
+      <lang code="eng">
+        <text>
+BLAUSTRUMP
+
+"What, she likes me? Is that really true? Well, if that is so, I shall of course accompany you. Secretly I have always found her quite sweet."
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+BLAUSTRUMP
+
+„Co, ona mnie lubi? Czy to naprawdę prawda? Cóż, skoro tak, to naturalnie pójdę z wami. Potajemnie zawsze uważałem ją za całkiem uroczą."
+</text>
+      </lang>
     </block>
     <block id="08">
       <lang code="CHN">
@@ -290,6 +492,20 @@ Als die beiden dickköpfigen Drachen sich nun so mit anderen Augen sahen, verlie
 
 </text>
         <usericon>2,2</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+ROTHILD AND BLAUSTRUMP
+
+When the two bull-headed dragons now saw each other with different eyes, everything fell into place. Despite their different origins, they had found each other."
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+ROTHILD I BLAUSTRUMP
+
+Gdy te dwa uparte smoki spojrzały na siebie innymi oczami, wszystko poszło jak po maśle. Znalazły się nawzajem, mimo różnego pochodzenia."
+</text>
       </lang>
     </block>
     <block id="09">
@@ -318,6 +534,20 @@ MISSION VERLOREN!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+MISSION LOST!
+
+A brief moment of carelessness, so quickly it happens in life! Your friend and hero, the dragon NORBERT, perished through your inattention! Without this hero, the end of the mission will remain hidden from you.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+MISJA PRZEGRANA!
+
+Chwilka lekkomyślności, tak szybko to w życiu przychodzi! Twój przyjaciel i bohater, smok NORBERT, zginął przez twoją nieuwagę! Bez tego bohatera koniec misji pozostanie dla ciebie ukryty.
 </text>
       </lang>
     </block>
@@ -353,6 +583,38 @@ Wenn es noch Erdrachen gibt, dann im Dschungel.
 Zieht also nach Süden!"
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+GRAUHOLM
+
+"Now you have brought these two together as well. As thanks, I shall tell you what I know of your origin:
+Norbert, my young Earth Dragon
+The Earth Dragons were a peaceful folk who never brought harm to any other creature. 
+
+
+
+Sadly, their good nature was often exploited, and they were a popular quarry of the TORUMANNEN. Only a few survived, secluded from the rest of the world. 
+If any Earth Dragons remain, then in the jungle. 
+
+Head south!"
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+GRAUHOLM
+
+„A teraz połączyliście również i te dwoje. W podzięce opowiem wam, co wiem o waszym pochodzeniu:
+Norberte, młody Smoku Ziemny
+Smoki Ziemne były spokojnym ludem, który nigdy nie wyrządził krzywdy innym stworzeniom. 
+
+
+
+Niestety, ich dobroduszność była często wykorzystywana i stanowiły popularny łup TORUMANÓW. Tylko nieliczni przetrwali w odosobnieniu od reszty świata. 
+Jeśli jeszcze gdzieś są Smoki Ziemne, to w dżungli. 
+
+Udajcie się na południe!"
+</text>
+      </lang>
     </block>
     <block id="50_end1">
       <lang code="CHN" />
@@ -367,6 +629,16 @@ Zieht also nach Süden!"
       <lang code="ger">
         <text> 
 MISSION GEWONNEN! 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+MISSION WON!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+MISJA WYGRANA!
 </text>
       </lang>
     </block>
@@ -389,6 +661,20 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+MISSION LOST!
+
+A brief moment of carelessness, so quickly it happens in life! MANI - son of Bjarni and Cyra - perished through your inattention! Without this hero, the end of the mission will remain hidden from you.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+MISJA PRZEGRANA!
+
+Chwilka lekkomyślności, tak szybko to w życiu przychodzi! MANI - syn Bjarniego i Cyry - zginął przez twoją nieuwagę! Bez tego bohatera koniec misji pozostanie dla ciebie ukryty.
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -399,6 +685,16 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn vo
       <lang code="ger">
         <text> 
 DIE HEILIGE HALLE DER STEINDRACHEN
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+THE SACRED HALL OF THE STONE DRAGONS
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+ŚWIĘTA SALA SMOKÓW KAMIENNYCH
 </text>
       </lang>
     </block>

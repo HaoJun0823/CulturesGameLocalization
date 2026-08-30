@@ -3,35 +3,51 @@
   <languages>
     <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">失落之地</text>
       <text lang="ger">Verlorene Welt</text>
+      <text lang="eng">Lost World</text>
+      <text lang="pol">Zaginiony Świat</text>
     </string>
     <string id="1">
       <text lang="CHN">在朝北方航行的途中，我们卷入了一个凶险的漩涡，它把我们带到了一个陌生的世界。</text>
       <text lang="ger">Auf dem Weg Richtung Norden gerieten wir in einen heimtückischen Strudel, der uns in eine fremde Welt brachte.</text>
+      <text lang="eng">On the way north we were caught in a treacherous current that brought us to a strange world.</text>
+      <text lang="pol">W drodze na północ wpadliśmy w zdradziecki prąd, który zabrał nas do obcego świata.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
       <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
       <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
       <text lang="ger">Spieler0</text>
+      <text lang="eng">Player0</text>
+      <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
       <text lang="ger">Spieler1</text>
+      <text lang="eng">Player1</text>
+      <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
       <text lang="ger">Spieler2</text>
+      <text lang="eng">Player2</text>
+      <text lang="pol">Gracz2</text>
     </string>
   </strings>
   <briefings>
@@ -47,6 +63,18 @@ Danke für das Zweifamilienhaus meine Freunde. Wir hoffen ihr werdet einen Weg f
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Felix and Karo !!
+Thank you for the semi-detached house, my friends. We hope you will find a way for us to get out of here again.....
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Felix i Karo !!
+Dziękujemy za dom dwurodzinny, przyjaciele. Mamy nadzieję, że znajdziecie sposób, byśmy mogli stąd znowu wyjść.....
+</text>
+      </lang>
     </block>
     <block id="findmappos2">
       <lang code="CHN">
@@ -60,6 +88,18 @@ Schon wieder neue Besucher? Freut mich euch zu sehen. Hoffentlich seit ihr freun
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+An old man !!
+More visitors again? Pleased to see you. I hope you will be kinder to me than the sinister figures who visited me recently. They were heavily armed and wore red uniforms. Merlin the red corsair, it could only be him. So he had also sailed into this maelstrom. You want to get out of here? Well, you must first get past the snakes, then through the lava road to the desert island, then past the Ice Saints. Then sail through the two obelisks, and you will be able to leave this land. But where the sinister figures are staying, I do not know......
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Stary człowiek !!
+Znowu nowi goście? Miło was widzieć. Mam nadzieję, że będziecie dla mnie milsi niż te mroczne postacie, które niedawno mnie odwiedziły. Były ciężko uzbrojone i miały czerwone mundury. Merlin czerwony korsarz, to mógł być tylko on. Więc on też wpłynął w ten wir. Chcecie się stąd wydostać? Cóż, musicie najpierw przejść obok węży, potem przez lawową drogę na wyspę pustynną, następnie obok Lodowych Świętych. Potem przepłyńcie przez dwa obeliski, a będziecie mogli opuścić ten kraj. Lecz gdzie przebywają mroczne postacie, nie wiem......
+</text>
+      </lang>
     </block>
     <block id="lost_body">
       <lang code="CHN">
@@ -71,6 +111,16 @@ Du hast verloren. Nun bist Du für immer in dieser verlorenen Welt gefangen.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+You have lost. Now you are trapped forever in this lost world.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przegrałeś. Teraz jesteś na zawsze uwięziony w tym zaginionym świecie.
+</text>
+      </lang>
     </block>
     <block id="lost_header">
       <lang code="CHN">
@@ -80,6 +130,16 @@ Du hast verloren. Nun bist Du für immer in dieser verlorenen Welt gefangen.
         <text>
 Mission verloren!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja przegrana!
 </text>
       </lang>
     </block>
@@ -95,6 +155,18 @@ Missionsziel: Baue ein Schiff und erkunde über den Seeweg die Gegend.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Well, they were gone. Since we could not get further overland, we decided to build a ship to explore the area further.
+Mission goal: Build a ship and explore the area by sea.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+No i po nich. Ponieważ lądem nie mogliśmy iść dalej, postanowiliśmy zbudować statek, by dalej badać okolicę.
+Cel misji: Zbuduj statek i zbadaj okolicę drogą morską.
+</text>
+      </lang>
     </block>
     <block id="playerdied2">
       <lang code="CHN">
@@ -108,6 +180,18 @@ Missionsziel:Baue westlich der Insel ein weiteres Schiff und suche die beiden Ob
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+We had victory quickly in the bag, as there were not too many pirates. Right, now we had to get past the Ice Saints to the two obelisks. We decided to build another ship on the western side of the island.
+Mission goal: Build another ship on the west side of the island and find the two obelisks. Then sail through them and you have won.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Zwycięstwo mieliśmy szybko w kieszeni, piratów nie było zbyt wielu. No, teraz musieliśmy przejść obok Lodowych Świętych do dwóch obelisków. Postanowiliśmy zbudować kolejny statek po zachodniej stronie wyspy.
+Cel misji: Zbuduj kolejny statek po zachodniej stronie wyspy i znajdź dwa obeliski. Przepłyń przez nie i wygrasz.
+</text>
+      </lang>
     </block>
     <block id="playerfriendly1">
       <lang code="CHN">
@@ -117,6 +201,16 @@ Missionsziel:Baue westlich der Insel ein weiteres Schiff und suche die beiden Ob
         <text>
 Spieler 1 ist jetzt freundlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz przyjazny.
 </text>
       </lang>
     </block>
@@ -130,6 +224,16 @@ Spieler 2 ist jetzt freundlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz przyjazny.
+</text>
+      </lang>
     </block>
     <block id="playerneutral1">
       <lang code="CHN">
@@ -141,6 +245,16 @@ Spieler 1 ist jetzt neutral.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz neutralny.
+</text>
+      </lang>
     </block>
     <block id="playerneutral2">
       <lang code="CHN">
@@ -150,6 +264,16 @@ Spieler 1 ist jetzt neutral.
         <text>
 Spieler 2 ist jetzt neutral.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz neutralny.
 </text>
       </lang>
     </block>
@@ -167,6 +291,20 @@ Missionsziel: Vernichte die Schlangen.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Hiss !! Crackle !! Flicker !!
+Whoa, there were huge snakes here. Must be the hot lava, we thought. These must be the snakes the old man meant. We had to destroy them if we wanted to get further.
+Mission goal: Destroy the snakes.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Sycz !! Trzask !! Syczą !!
+Och, tu były wielkie węże. Pewnie od gorącej lawy, pomyśleliśmy. To musiały być węże, o których mówił stary człowiek. Musieliśmy je zniszczyć, jeśli chcieliśmy iść dalej.
+Cel misji: Zniszcz węże.
+</text>
+      </lang>
     </block>
     <block id="playerseen2">
       <lang code="CHN">
@@ -180,6 +318,20 @@ Wickinger !! Ergeift Sie !!
 Pfeile schossen auf uns zu. Hier also hatte sich das Heer des roten Korsaren niedergelassen.Er selbst aber schien nicht da zu sein, also mußte es einen Weg raus geben. Der alte Mann hatte recht gehabt. Doch zunächst mußten wir die restlichen Piraten vernichten.
 Missionsziel: Vernichte die Piraten.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Vikings !! Seize them !!
+Arrows flew towards us. So this was where the army of the red corsair had settled. He himself did not seem to be there, so there must be a way out. The old man had been right. But first we had to destroy the remaining pirates.
+Mission goal: Destroy the pirates.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Wikingowie !! Schwytajcie ich !!
+Strzały poleciały na nas. Więc tu obozowała armia czerwonego korsarza. On sam zdawał się nie być obecny, więc musiał być jakiś sposób na wyjście. Stary człowiek miał rację. Lecz najpierw musieliśmy zniszczyć resztę piratów.
+Cel misji: Zniszcz piratów.
 </text>
       </lang>
     </block>
@@ -201,6 +353,24 @@ Erstellt von: Yogi
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+The maelstrom swept us all away. Nobody could escape it. Our ships smashed against the riverbank of a small island surrounded by solidified lava. Fortunately Felix and his wife Karo escaped unharmed. Some of us as well, but most fell victim to the maelstrom....
+Mission goal: Build a small village, and explore the area.
+
+
+Created by: Yogi
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Wir pociągnął nas wszystkich. Nikt nie mógł mu uciec. Nasze statki rozbiły się na brzegu rzeki małej wyspy, otoczonej zastygłą lawą. Na szczęście Felix i jego żona Karo wyszli z tego bez szwanku. Także niektórzy z nas, lecz większość padła ofiarą wiru....
+Cel misji: Zbuduj małą wioskę i zbadaj okolicę.
+
+
+Stworzone przez: Yogi
+</text>
+      </lang>
     </block>
     <block id="start_header">
       <lang code="CHN">
@@ -210,6 +380,16 @@ Erstellt von: Yogi
         <text>
 Verlorene Welt
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Lost World
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Zaginiony Świat
 </text>
       </lang>
     </block>
@@ -223,6 +403,16 @@ Endlich hatten wir unser Ziel erreicht !! Das erste Schiff hatte die Obelisken p
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Finally we had reached our goal !! The first ship had passed the obelisks. Now we could fetch the others. But where we would come out was still a mystery to us. Hopefully we would soon find our home waters again.....
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Wreszcie osiągnęliśmy cel !! Pierwszy statek minął obeliski. Teraz mogliśmy zabrać resztę. Ale gdzie będziemy wpływać, było dla nas wciąż zagadką. Miejmy nadzieję, że szybko znajdziemy znowu rodzinne wody.....
+</text>
+      </lang>
     </block>
     <block id="won_header">
       <lang code="CHN">
@@ -232,6 +422,16 @@ Endlich hatten wir unser Ziel erreicht !! Das erste Schiff hatte die Obelisken p
         <text>
 Mission gewonnen!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja wygrana!
 </text>
       </lang>
     </block>

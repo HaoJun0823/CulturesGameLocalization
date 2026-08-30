@@ -3,39 +3,57 @@
   <languages>
     <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">刚果</text>
       <text lang="ger">Kongo</text>
+      <text lang="eng">Congo</text>
+      <text lang="pol">Kongo</text>
     </string>
     <string id="1">
       <text lang="CHN">我们来到了邻近的刚果。对抗坦克的决战将在此地打响。</text>
       <text lang="ger">Wir kamen ins benachbarte Kongo.Hier sollte die entscheidene Schlacht gegen Tank stattfinden.</text>
+      <text lang="eng">We came to neighboring Congo. Here the decisive battle against Tank was to take place.</text>
+      <text lang="pol">Dotarliśmy do sąsiedniego Konga. Tu miała się odbyć decydująca bitwa z Tankiem.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
       <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
       <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
       <text lang="ger">Spieler0</text>
+      <text lang="eng">Player0</text>
+      <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
       <text lang="ger">Spieler1</text>
+      <text lang="eng">Player1</text>
+      <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
       <text lang="ger">Spieler2</text>
+      <text lang="eng">Player2</text>
+      <text lang="pol">Gracz2</text>
     </string>
     <string id="53">
       <text lang="CHN">玩家3</text>
       <text lang="ger">Spieler3</text>
+      <text lang="eng">Player3</text>
+      <text lang="pol">Gracz3</text>
     </string>
   </strings>
   <briefings>
@@ -51,6 +69,18 @@ Halt, keinen Schritt weiter. Ab hier beginnt mein Reich. Zieht euch lieber zurü
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Suddenly an image of Tank appeared !! Since it was only an illusion, we could not attack him.
+Halt, not one step further. My realm begins here. You had better retreat, or you will die.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Nagle pojawił się wizerunek Tanka !! Ponieważ był to tylko złudny obraz, nie mogliśmy go zaatakować.
+Stójcie, ani kroku dalej. Tu zaczyna się moje królestwo. Lepiej się wycofajcie, bo zginiecie.
+</text>
+      </lang>
     </block>
     <block id="lost_body">
       <lang code="CHN">
@@ -60,6 +90,16 @@ Halt, keinen Schritt weiter. Ab hier beginnt mein Reich. Zieht euch lieber zurü
         <text>
 Du hast verloren !! Versuchs doch mal mit ner Runde Mikado.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+You have lost !! Try a round of Mikado.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przegrałeś !! Spróbuj partii Mikado.
 </text>
       </lang>
     </block>
@@ -73,6 +113,16 @@ Mission verloren!
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja przegrana!
+</text>
+      </lang>
     </block>
     <block id="playerdied1">
       <lang code="CHN">
@@ -82,6 +132,16 @@ Mission verloren!
         <text>
 Mavericks Banditen sind Geschichte.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Maverick's bandits are history.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Bandyci Mavericka to już przeszłość.
 </text>
       </lang>
     </block>
@@ -95,6 +155,16 @@ Yvoks Banditen sind Geschichte.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Yvoks' bandits are history.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Bandyci Yvoks to już przeszłość.
+</text>
+      </lang>
     </block>
     <block id="playerdied3">
       <lang code="CHN">
@@ -104,6 +174,16 @@ Yvoks Banditen sind Geschichte.
         <text>
 Tank ist tot, lang leben die Wickinger !!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Tank is dead, long live the Vikings !!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Tank nie żyje, niech żyją Wikingowie !!
 </text>
       </lang>
     </block>
@@ -117,6 +197,16 @@ Spieler 1 ist jetzt freundlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz przyjazny.
+</text>
+      </lang>
     </block>
     <block id="playerfriendly2">
       <lang code="CHN">
@@ -126,6 +216,16 @@ Spieler 1 ist jetzt freundlich.
         <text>
 Spieler 2 ist jetzt freundlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz przyjazny.
 </text>
       </lang>
     </block>
@@ -139,6 +239,16 @@ Spieler 3 ist jetzt freundlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 jest teraz przyjazny.
+</text>
+      </lang>
     </block>
     <block id="playerneutral1">
       <lang code="CHN">
@@ -148,6 +258,16 @@ Spieler 3 ist jetzt freundlich.
         <text>
 Spieler 1 ist jetzt neutral.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz neutralny.
 </text>
       </lang>
     </block>
@@ -161,6 +281,16 @@ Spieler 2 ist jetzt neutral.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz neutralny.
+</text>
+      </lang>
     </block>
     <block id="playerneutral3">
       <lang code="CHN">
@@ -170,6 +300,16 @@ Spieler 2 ist jetzt neutral.
         <text>
 Spieler 3 ist jetzt neutral.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 jest teraz neutralny.
 </text>
       </lang>
     </block>
@@ -185,6 +325,18 @@ Missionsziel: Vernichte Maverick und seine Banditen.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Suddenly we were attacked. I, Maverick, friend of Tank, tell you: you will never reach Tank's headquarters, because WE will finish you off first.
+Mission goal: Destroy Maverick and his bandits.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Nagle zostaliśmy zaatakowani. Ja, Maverick, przyjaciel Tanka, mówię wam: nigdy nie dotrzecie do kwatery głównej Tanka, bo MY was wykończymy wcześniej.
+Cel misji: Zniszcz Mavericka i jego bandytów.
+</text>
+      </lang>
     </block>
     <block id="playerseen2">
       <lang code="CHN">
@@ -198,6 +350,18 @@ Missionsziel: Besiege Yvoks Banditen !!
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Suddenly arrows rained down on us. I, Yvoks, ruler of the Congo, friend of Tank, tell you: you will never reach Tank's headquarters, because WE will finish you off first.
+Mission goal: Defeat Yvoks' bandits !!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Nagle deszcz strzał spadł na nas. Ja, Yvoks, władczyni Konga, przyjaciółka Tanka, mówię wam: nigdy nie dotrzecie do kwatery głównej Tanka, bo MY was wykończymy wcześniej.
+Cel misji: Pokonaj bandytów Yvoks !!
+</text>
+      </lang>
     </block>
     <block id="playerseen3">
       <lang code="CHN">
@@ -209,6 +373,18 @@ Missionsziel: Besiege Yvoks Banditen !!
 Für diesen feigen Mord an unseren Frauen, wollten wir Tank an der höchsten Palme aufhängen.
 Missionsziel: Vernichte Tank und sein Gefolge.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+For this cowardly murder of our women, we wanted to hang Tank from the tallest palm tree.
+Mission goal: Destroy Tank and his entourage.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Za to tchórzliwe morderstwo naszych kobiet chcieliśmy powiesić Tanka na najwyższej palmie.
+Cel misji: Zniszcz Tanka i jego świtę.
 </text>
       </lang>
     </block>
@@ -230,6 +406,24 @@ Erstellt von: Yogi
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+When we marched into the Congo, our friends suddenly attacked us and kidnapped almost all of our women. From afar we could still hear their screams, but we could no longer help them. The one who had posed as our friend, and whom we had supplied with so many weapons, was none other than Tank himself. Once more he had taken our friends from us. But it was to be the last time, for here he was trapped.
+Mission goal: Defeat Tank and all his allies !!
+
+
+Created by: Yogi
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gdy wkroczyliśmy do Konga, nasi przyjaciele nagle nas zaatakowali i porwali niemal wszystkie nasze kobiety. Z daleka wciąż słyszeliśmy ich krzyki, ale nie mogliśmy już im pomóc. Ten, który podawał się za naszego przyjaciela, a którego zaopatrywaliśmy w tak dużo broni, to nie był nikt inny jak sam Tank. Kolejny raz odebrał nam przyjaciół. Lecz miało to być ostatni raz, bo tutaj wpadł w pułapkę.
+Cel misji: Pokonaj Tanka i wszystkich jego sojuszników !!
+
+
+Stworzone przez: Yogi
+</text>
+      </lang>
     </block>
     <block id="start_header">
       <lang code="CHN">
@@ -239,6 +433,16 @@ Erstellt von: Yogi
         <text>
 Kongo
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Congo
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Kongo
 </text>
       </lang>
     </block>
@@ -252,6 +456,16 @@ Wir hatten das unmögliche möglich gemacht. Tank und seine Verbündeten waren b
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+We had made the impossible possible. Tank and his allies had been defeated. At last we could leave this land. We set off towards South Africa, for we needed to breathe the sea air once more....
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Udało nam się uczynić niemożliwe. Tank i jego sojusznicy zostali pokonani. Wreszcie mogliśmy opuścić ten kraj. Ruszyliśmy w kierunku Afryki Południowej, bo musieliśmy znowu poczuć morską bryzę...
+</text>
+      </lang>
     </block>
     <block id="won_header">
       <lang code="CHN">
@@ -261,6 +475,16 @@ Wir hatten das unmögliche möglich gemacht. Tank und seine Verbündeten waren b
         <text>
 Mission gewonnen!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja wygrana!
 </text>
       </lang>
     </block>

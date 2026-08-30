@@ -3,39 +3,57 @@
   <languages>
     <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">西北非洲</text>
       <text lang="ger">Nordwestafrika</text>
+      <text lang="eng">Northwest Africa</text>
+      <text lang="pol">Północno-Zachodnia Afryka</text>
     </string>
     <string id="1">
       <text lang="CHN">我们抵达了西北非洲。可坦克和他的撒拉逊人却踪影全无。</text>
       <text lang="ger">Wir hatten Nordwestafrika erreicht. Aber von Tank und seinen Sarazenen war nichts zu sehen.</text>
+      <text lang="eng">We had reached Northwest Africa. But there was no sign of Tank and his Saracens.</text>
+      <text lang="pol">Dotarliśmy do Północno-Zachodniej Afryki. Lecz nie było śladu Tanka i jego Saracenów.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
       <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
       <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
       <text lang="ger">Spieler0</text>
+      <text lang="eng">Player0</text>
+      <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
       <text lang="ger">Spieler1</text>
+      <text lang="eng">Player1</text>
+      <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
       <text lang="ger">Spieler2</text>
+      <text lang="eng">Player2</text>
+      <text lang="pol">Gracz2</text>
     </string>
     <string id="53">
       <text lang="CHN">玩家3</text>
       <text lang="ger">Spieler3</text>
+      <text lang="eng">Player3</text>
+      <text lang="pol">Gracz3</text>
     </string>
   </strings>
   <briefings>
@@ -49,6 +67,16 @@ War die Karte zu schwer? Versuchs doch mal mit ner Runde Mühle.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Was the map too hard? Try a game of Nine Men's Morris.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Mapa zbyt trudna? Spróbuj gry w młyna.
+</text>
+      </lang>
     </block>
     <block id="lost_header">
       <lang code="CHN">
@@ -58,6 +86,16 @@ War die Karte zu schwer? Versuchs doch mal mit ner Runde Mühle.
         <text>
 Mission verloren!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja przegrana!
 </text>
       </lang>
     </block>
@@ -71,6 +109,16 @@ Marokko ist vernichtet.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Morocco has been destroyed.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Maroko zostało zniszczone.
+</text>
+      </lang>
     </block>
     <block id="playerdied2">
       <lang code="CHN">
@@ -80,6 +128,16 @@ Marokko ist vernichtet.
         <text>
 Dakar ist vernichtet.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Dakar has been destroyed.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Dakar zostało zniszczone.
 </text>
       </lang>
     </block>
@@ -93,6 +151,16 @@ Spieler 3 ist gestorben.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 zmarł.
+</text>
+      </lang>
     </block>
     <block id="playerenemy3">
       <lang code="CHN">
@@ -102,6 +170,16 @@ Spieler 3 ist gestorben.
         <text>
 Spieler 3 ist jetzt feindlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 jest teraz wrogi.
 </text>
       </lang>
     </block>
@@ -115,6 +193,16 @@ Spieler 1 ist jetzt freundlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz przyjazny.
+</text>
+      </lang>
     </block>
     <block id="playerfriendly2">
       <lang code="CHN">
@@ -124,6 +212,16 @@ Spieler 1 ist jetzt freundlich.
         <text>
 Spieler 2 ist jetzt freundlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz przyjazny.
 </text>
       </lang>
     </block>
@@ -137,6 +235,16 @@ Danke für die Waffen. Ihr dürft nun eure Händler schicken.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Thank you for the weapons. You may now send your traders.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Dziękujemy za broń. Możecie teraz wysyłać swoich handlarzy.
+</text>
+      </lang>
     </block>
     <block id="playerneutral1">
       <lang code="CHN">
@@ -148,6 +256,16 @@ Spieler 1 ist jetzt neutral.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz neutralny.
+</text>
+      </lang>
     </block>
     <block id="playerneutral2">
       <lang code="CHN">
@@ -157,6 +275,16 @@ Spieler 1 ist jetzt neutral.
         <text>
 Spieler 2 ist jetzt neutral.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz neutralny.
 </text>
       </lang>
     </block>
@@ -174,6 +302,20 @@ Missionsziel: Vernichte Marokko.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Morocco !!
+Halt, we, the friends of Tank, the one true ruler of Africa, order you to surrender. Otherwise we will butcher you.
+Mission goal: Destroy Morocco.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Maroko !!
+Stójcie, my, przyjaciele Tanka, jedynego prawdziwego władcy Afryki, rozkazujemy wam się poddać. W przeciwnym razie wyrżniemy was w pień.
+Cel misji: Zniszcz Maroko.
+</text>
+      </lang>
     </block>
     <block id="playerseen2">
       <lang code="CHN">
@@ -189,6 +331,20 @@ Missionsziel: Vernichte Dakar.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Dakar !!
+Halt, we, the friends of Tank, the one true king of Africa, order you to turn back, otherwise you will be annihilated by our troops.
+Mission goal: Destroy Dakar.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Dakar !!
+Stójcie, my, przyjaciele Tanka, jedynego prawdziwego króla Afryki, rozkazujemy wam zawrócić, w przeciwnym razie zostaniecie zniszczeni przez nasze wojska.
+Cel misji: Zniszcz Dakar.
+</text>
+      </lang>
     </block>
     <block id="playerseen3">
       <lang code="CHN">
@@ -200,6 +356,18 @@ Missionsziel: Vernichte Dakar.
 Sarazenen !!
 Wir das Volk von Ibadan, grüßen Euch edle Wickinger. Tank, der sich selbst König über Afrika nennt, hungert uns aus. Doch Dank unserer Nahrungstränke, schaffen wir es zu überleben. Wir würden gerne mit euch Seite an Seite gegen Tank kämpfen, doch benötigen wir Waffen dazu. Einen Vorschlag: Ihr gebt uns Waffen, und wir geben Euch dafür Zutaten damit ihr euch Nahrungstränke herstellen könnt. Eventuell können wir euch sogar ein paar große Nahrungstränke überlassen. Doch zunächst zahlt uns einen kleinen bescheidenen Tribut...
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Saracens !!
+We, the people of Ibadan, greet you, noble Vikings. Tank, who calls himself king of Africa, is starving us out. But thanks to our nourishing potions we manage to survive. We would gladly fight side by side with you against Tank, but we need weapons for it. A proposal: you give us weapons, and in return we give you ingredients so you can brew nourishing potions. We might even be able to spare you a few large nourishing potions. But first, pay us a small, modest tribute...
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Saraceni !!
+My, lud z Ibadan, pozdrawiamy was, szlachetni Wikingowie. Tank, który sam nazywa się królem Afryki, głodzi nas. Lecz dzięki naszym miksturom pożywienia udaje nam się przetrwać. Chcielibyśmy walczyć ramię w ramię z wami przeciw Tankowi, ale potrzebujemy do tego broni. Propozycja: dacie nam broń, a my w zamian damy wam składniki, byście mogli warzyć mikstury pożywienia. Być może uda nam się nawet odstąpić wam kilka dużych mikstur pożywienia. Lecz najpierw zapłaćcie nam niewielki, skromny trybut...
 </text>
       </lang>
     </block>
@@ -223,6 +391,26 @@ Erstellt von: Yogi
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Right upon arrival we were attacked near the coast by allies of the Saracen chieftain. For that reason we established our headquarters inland. However, there was no sign of Tank, the Saracen chieftain. We therefore had to push deeper into the heart of Africa. To make sure we had no enemies at our back, we decided to destroy all enemies located near the coast. Besides, we would face food problems later on. That is why we also decided to store 20 large nourishing potions. But since we found no gold, we had to check whether there were any traders nearby.
+Mission goal 1: Kill all peoples who are hostile towards you.
+Mission goal 2: Store 20 large nourishing potions.
+
+
+Created by: Yogi
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Już po przybyciu zostaliśmy zaatakowani w pobliżu wybrzeża przez sojuszników wodza Saracenów. Dlatego założyliśmy naszą kwaterę główną w głębi lądu. O Tanku, wodzu Saracenów, nie było jednak śladu. Musieliśmy więc wkroczyć głębiej w serce Afryki. Aby nie mieć wrogów na tyłach, postanowiliśmy zniszczyć wszystkich wrogów w pobliżu wybrzeża. Poza tym mielibyśmy później problemy z pożywieniem. Dlatego postanowiliśmy również zmagazynować 20 dużych mikstur pożywienia. Ponieważ jednak nie znaleźliśmy złota, musieliśmy sprawdzić, czy w pobliżu są jacyś handlarze.
+Cel misji 1: Zabij wszystkie ludy, które są ci wrogie.
+Cel misji 2: Zmagazynuj 20 dużych mikstur pożywienia.
+
+
+Stworzone przez: Yogi
+</text>
+      </lang>
     </block>
     <block id="start_header">
       <lang code="CHN">
@@ -232,6 +420,16 @@ Erstellt von: Yogi
         <text>
 Nordwestafrika
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Northwest Africa
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Afryka Północno-Zachodnia
 </text>
       </lang>
     </block>
@@ -245,6 +443,16 @@ Wir hatten gesiegt. Die Feinde waren vernichtet, und die benötigten Nahrungstr�
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+We had triumphed. The enemies were destroyed, and the nourishing potions we needed had been stored thanks to the Saracens in the south. Beneath the scorching desert sun we marched further inland, to finally take our revenge on Tank, the Saracen chieftain...
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Zwyciężyliśmy. Wrogowie zostali zniszczeni, a potrzebne mikstury pożywienia zostały zmagazynowane dzięki Saracenom na południu. Pod palącym słońcem pustyni maszerowaliśmy dalej w głąb lądu, by wreszcie zemścić się na Tanku, wodzu Saracenów...
+</text>
+      </lang>
     </block>
     <block id="won_header">
       <lang code="CHN">
@@ -254,6 +462,16 @@ Wir hatten gesiegt. Die Feinde waren vernichtet, und die benötigten Nahrungstr�
         <text>
 Mission gewonnen!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja wygrana!
 </text>
       </lang>
     </block>

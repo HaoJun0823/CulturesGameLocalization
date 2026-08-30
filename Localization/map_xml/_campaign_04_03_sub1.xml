@@ -3,43 +3,63 @@
   <languages>
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@抵达传送台前！</text>
       <text lang="ger">@GELANGE ZU DEM SCHALTER FÜR DIE TELEPORTER!</text>
+      <text lang="eng">@REACH THE TELEPORTER SWITCH!</text>
+      <text lang="pol">@DOTRZYJ DO PRZEŁĄCZNIKA TELEPORTÓW!</text>
     </string>
     <string id="1">
       <text lang="CHN">与阿夸罗姆们交谈。</text>
       <text lang="ger">Sprich mit den AQUAROM.</text>
+      <text lang="eng">Speak to the AQUAROM.</text>
+      <text lang="pol">Porozmawiaj z AQUAROM.</text>
     </string>
     <string id="2">
       <text lang="CHN">登上一艘船。</text>
       <text lang="ger">Nimm ein Schiff.</text>
+      <text lang="eng">Take a ship.</text>
+      <text lang="pol">Weź statek.</text>
     </string>
     <string id="53">
       <text lang="CHN">阿夸斯 - 水龙</text>
       <text lang="ger">Aquas - Wasserdrachen</text>
+      <text lang="eng">Aquas - Water Dragons</text>
+      <text lang="pol">Aquas - Smoki Wodne</text>
     </string>
     <string id="63">
       <text lang="CHN">阿夸斯</text>
       <text lang="ger">Aquas</text>
+      <text lang="eng">Aquas</text>
+      <text lang="pol">Aquas</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="ger">Bjarni</text>
+      <text lang="eng">Bjarni</text>
+      <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
       <text lang="ger">Cyra</text>
+      <text lang="eng">Cyra</text>
+      <text lang="pol">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">阿夸罗姆</text>
       <text lang="ger">Aquarom</text>
+      <text lang="eng">Aquarom</text>
+      <text lang="pol">Aquarom</text>
     </string>
     <string id="99">
       <text lang="CHN">海底</text>
       <text lang="ger">UNTER DEM MEER</text>
+      <text lang="eng">BENEATH THE SEA</text>
+      <text lang="pol">POD MORZEM</text>
     </string>
   </strings>
   <briefings>
@@ -54,6 +74,16 @@
 Augenblicklich fanden wir uns in einer seltsam fremden Umgebung wieder. 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Instantly we found ourselves in a strangely unfamiliar environment.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Natychmiast znaleźliśmy się w dziwnie obcym otoczeniu.
+</text>
+      </lang>
     </block>
     <block id="00_start1">
       <lang code="CHN">
@@ -64,6 +94,16 @@ Augenblicklich fanden wir uns in einer seltsam fremden Umgebung wieder.
       <lang code="ger">
         <text>
 Zweifellos befanden wir uns in einem der vielen Wassertempel der AQUAS! 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Without a doubt, we were in one of the many water temples of the AQUAS!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Bez wątpienia znaleźliśmy się w jednej z wielu świątyń wodnych AQUAS!
 </text>
       </lang>
     </block>
@@ -94,6 +134,28 @@ WASSERDRACHEN
 Zweifellos verstanden die Aquas etwas von Gastfreundschaft!
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+WATER DRAGONS
+
+"Welcome to our water temple. Earthlings rarely visit us here, but make yourselves at home."
+
+
+
+Without a doubt, the Aquas knew a thing or two about hospitality!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+SMOKI WODNE
+
+"Witamy w naszej świątyni wodnej. Ziemianie rzadko nas tu odwiedzają, ale czujcie się jak w domu."
+
+
+
+Bez wątpienia Aquas znały się na gościnności!
+</text>
+      </lang>
     </block>
     <block id="02">
       <lang code="CHN">
@@ -114,6 +176,24 @@ SCHIFFE
         <text>
 
 Wahrscheinlich benötigten wir auch ein Schiff, um zum Schalter für die Teleporter zu gelangen...
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+SHIPS
+
+
+
+We would probably also need a ship to reach the switch for the teleporters...
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+STATKI
+
+
+
+Prawdopodobnie potrzebowalibyśmy także statku, by dotrzeć do przełącznika teleporterów...
 </text>
       </lang>
     </block>
@@ -142,6 +222,28 @@ AQUARUM UND DER SCHALTER
 "Wenn ihr mich für eine Weile ablöst, leihe ich euch mein Schiff."
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+AQUARUM AND THE SWITCH
+
+"I am tired of standing on this switch, but it is vital for us here beneath the sea, for it drives the turbine for the water flow."
+
+
+
+"If you relieve me for a while, I will lend you my ship."
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+AQUARUM I PRZEŁĄCZNIK
+
+"Mam już dość stania na tym przełączniku, ale jest on nam niezbędny tu pod morzem, bo napędza turbinę dla przepływu wody."
+
+
+
+"Jeśli mnie wyręczycie chwilę, pożyczę wam mój statek."
+</text>
+      </lang>
     </block>
     <block id="04">
       <lang code="CHN">
@@ -161,6 +263,20 @@ AQUARUM UND DER SCHALTER
 </text>
         <usericon>2,3</usericon>
       </lang>
+      <lang code="eng">
+        <text>
+AQUARUM AND THE SWITCH
+
+"Good, my ship belongs to you as long as one of you stands on the switch."
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+AQUARUM I PRZEŁĄCZNIK
+
+"Dobrze, mój statek jest wasz, dopóki ktoś z was stoi na przełączniku."
+</text>
+      </lang>
     </block>
     <block id="05">
       <lang code="CHN">
@@ -179,6 +295,20 @@ AQUARUM
 
 </text>
         <usericon>1,88,123</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+AQUARUM
+
+"If none of you stands on the switch, the ship belongs to me again!"
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+AQUARUM
+
+"Jeśli nikt z was nie stoi na przełączniku, statek znów należy do mnie!"
+</text>
       </lang>
     </block>
     <block id="100">
@@ -205,6 +335,20 @@ MISSION VERLOREN!
 Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+MISSION LOST!
+
+Heroism or recklessness? When BJARNI died, the gods wept... Without this hero, the end of the mission will remain hidden from you.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+MISJA PRZEGRANA!
+
+Bohatersztwo czy lekkomyślność? Gdy BJARNI umarł, bogowie płakali... Bez tego bohatera koniec misji pozostanie dla ciebie ukryty.
+</text>
+      </lang>
     </block>
     <block id="200">
       <lang code="CHN">
@@ -229,6 +373,20 @@ MISSION VERLOREN!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+MISSION LOST!
+
+A brief moment of carelessness, so quickly it happens in life! Your heroine CYRA perished through your inattention! Without this heroine, the end of the mission will remain hidden from you.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+MISJA PRZEGRANA!
+
+Chwilka lekkomyślności, tak szybko to w życiu przychodzi! Twoja bohaterka CYRA zginęła przez twoją nieuwagę! Bez tej bohaterki koniec misji pozostanie dla ciebie ukryty.
 </text>
       </lang>
     </block>
@@ -267,6 +425,36 @@ Ein Rucken und Rumoren durchzog das kleine Inselreich. Doch tatsächlich sollten
 Bedenke: Der Teleporter funktioniert nur in eine Richtung! Willst du die Insel der Walddorfschule wieder verlassen, benötigst du ein Schiff.
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+A jolt and a rumbling ran through the small island realm. But indeed, this switch should have set the teleporters on the surface in motion!
+
+
+
+...one to step into
+
+
+
+...the other whirls us back out again!
+
+Bear in mind: The teleporter only works in one direction! If you want to leave the island of the forest school again, you will need a ship.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Drżenie i poruszenie przeszło przez małe królestwo wysp. Lecz istotnie, ten przełącznik powinien wprawić w ruch teleportery na powierzchni!
+
+
+
+...jeden, by wejść do środka
+
+
+
+...drugi wyrzuca nas z powrotem!
+
+Pamiętaj: Teleporter działa tylko w jednym kierunku! Jeśli chcesz opuścić wyspę szkoły leśnej, potrzebujesz statku.
+</text>
+      </lang>
     </block>
     <block id="50_end1">
       <lang code="CHN" />
@@ -283,6 +471,16 @@ Bedenke: Der Teleporter funktioniert nur in eine Richtung! Willst du die Insel d
 MISSION GEWONNEN! 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+MISSION WON!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+MISJA WYGRANA!
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -294,6 +492,16 @@ MISSION GEWONNEN!
       <lang code="ger">
         <text> 
 UNTER DEM MEER
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+UNDER THE SEA
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+POD MORZEM
 </text>
       </lang>
     </block>

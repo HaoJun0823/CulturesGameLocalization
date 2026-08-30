@@ -3,27 +3,39 @@
   <languages>
     <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">新的开端</text>
       <text lang="ger">Ein neuer Anfang</text>
+      <text lang="eng">A New Beginning</text>
+      <text lang="pol">Nowy Początek</text>
     </string>
     <string id="1">
       <text lang="CHN">一场新的冒险正等待着我们。</text>
       <text lang="ger">Ein neues Abenteuer erwartet uns.</text>
+      <text lang="eng">A new adventure awaits us.</text>
+      <text lang="pol">Nowa przygoda czeka na nas.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
       <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
       <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
       <text lang="ger">Spieler0</text>
+      <text lang="eng">Player0</text>
+      <text lang="pol">Gracz0</text>
     </string>
   </strings>
   <briefings>
@@ -37,6 +49,16 @@ Du hast die Mission verloren!
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+You have lost the mission!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przegrałeś misję!
+</text>
+      </lang>
     </block>
     <block id="lost_header">
       <lang code="CHN">
@@ -46,6 +68,16 @@ Du hast die Mission verloren!
         <text>
 Mission verloren!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja przegrana!
 </text>
       </lang>
     </block>
@@ -87,6 +119,44 @@ Erstellt von: Yogi
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Our life in the village was quiet and peaceful, when suddenly King Bjarni said:
+My men have grown lazy and fat. It is time to set sail again for new adventures. Come on, prepare a ship and set the sails. In the end, he found only one loyal follower willing to sail with him. So the two of them set out to sea.......
+
+Eventually we found a small island. Perhaps there were women willing to marry here?.....
+
+King Bjarni ordered me:
+1. Build a new village
+2. Store 20 long swords, 20 plate armor, 20 chain mail, and 20 short swords in your warehouses.
+Additionally, 20 large healing potions must be in the warehouse.
+What did Bjarni want with so many weapons?
+Did he know more than he was willing to admit?
+Well, first we had to find willing girls to marry, then we would try to fulfill Bjarni's wish.
+
+
+Created by: Yogi
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Nasze życie we wsi było spokojne i dostatnie, ale pewnego dnia król Bjarni oznajmił:
+Moim ludziom zrobić się leniwymi i grubymi. Pora znowu ruszyć w morze na nowe przygody. No już, przygotować okręt i postawić żagle. W końcu znalazł jednego tylko lojalnego druha, który był gotów popłynąć z Bjarnim. Tak oto tylko we dwóch wyruszyli na morze.......
+
+Po pewnym czasie znaleźliśmy małą wyspę. Może są tu dziewczęta chętne do małżeństwa?.....
+
+Król Bjarni kazał mi:
+1. Zbuduj nową wioskę
+2. Zmagazynuj 20 długich mieczów, 20 pancerzy płytowych, 20 kolczug i 20 krótkich mieczów w swoich magazynach.
+Ponadto w magazynie musi być 20 dużych mikstur leczniczych.
+Po co Bjarniemu tyle broni?
+Czy wiedział więcej, niż przyznawał?
+No cóż, najpierw musieliśmy znaleźć chętne dziewczęta do ślubu, a potem spróbować spełnić życzenie Bjarniego.
+
+
+Zadanie przygotował: Yogi
+</text>
+      </lang>
     </block>
     <block id="start_header">
       <lang code="CHN">
@@ -96,6 +166,16 @@ Erstellt von: Yogi
         <text>
 Ein neuer Anfang
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+A New Beginning
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Nowy początek
 </text>
       </lang>
     </block>
@@ -117,6 +197,24 @@ Was uns wohl in Spanien erwartete ?
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Hardly had we produced the required goods when Bjarni urged us to move on. We loaded our ship with the many weapons, and Bjarni ordered us to sail toward Spain.
+What did Bjarni want in Spain?
+We preferred not to ask too many questions — after all, we did not want to sour Bjarni's mood.
+Some of us wanted to stay here, though, for they had learned to love the tranquility.
+What might await us in Spain?
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Ledwo wyprodukowaliśmy wymagane towary, Bjarni pogonił nas do dalszej podróży. Załadowaliśmy statek wieloma broniami, a Bjarni kazał nam płynąć w stronę Hiszpanii.
+Co Bjarni chciał w Hiszpanii?
+Woleliśmy nie zadawać tylu pytań — w końcu nie chcieliśmy pszukać nastroju Bjarniemu.
+Niektórzy z nas chcieli jednak zostać tutaj, bo nauczyli się kochać ten spokój.
+Co nas pewnie czekało w Hiszpanii?
+</text>
+      </lang>
     </block>
     <block id="won_header">
       <lang code="CHN">
@@ -126,6 +224,16 @@ Was uns wohl in Spanien erwartete ?
         <text>
 Mission gewonnen!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja wygrana!
 </text>
       </lang>
     </block>

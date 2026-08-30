@@ -3,39 +3,57 @@
   <languages>
     <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">抉择</text>
       <text lang="ger">Die Entscheidung</text>
+      <text lang="eng">The Decision</text>
+      <text lang="pol">Decyzja</text>
     </string>
     <string id="1">
       <text lang="CHN">我们抵达了爱斯基摩人的家乡。尽管我们再三警告他们提防梅林，费利克斯和卡萝还是想回到他们的村庄。</text>
       <text lang="ger">Wir waren in der Heimat der S-KI-MOS.Felix und Karo wollten zu Ihrem Dorf trotz unserer Warnungen vor Merlin.</text>
+      <text lang="eng">We were in the homeland of the S-KI-MOS. Felix and Karo wanted to go to their village despite our warnings about Merlin.</text>
+      <text lang="pol">Byliśmy w ojczyźnie S-KI-MOS. Felix i Karo chcieli iść do swojej wioski pomimo naszych ostrzeżeń o Merlinie.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
       <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
       <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
       <text lang="ger">Spieler0</text>
+      <text lang="eng">Player0</text>
+      <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
       <text lang="ger">Spieler1</text>
+      <text lang="eng">Player1</text>
+      <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
       <text lang="ger">Spieler2</text>
+      <text lang="eng">Player2</text>
+      <text lang="pol">Gracz2</text>
     </string>
     <string id="53">
       <text lang="CHN">玩家3</text>
       <text lang="ger">Spieler3</text>
+      <text lang="eng">Player3</text>
+      <text lang="pol">Gracz3</text>
     </string>
   </strings>
   <briefings>
@@ -53,6 +71,20 @@ Missionsziel: Vernichte Merlins Außenposten.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Merlin's Outpost !!
+We would quickly destroy this outpost.
+Mission goal: Destroy Merlin's outpost.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Placówka Merlina !!
+Tę placówkę szybko zniszczylibyśmy.
+Cel misji: Zniszcz placówkę Merlina.
+</text>
+      </lang>
     </block>
     <block id="findmappos2">
       <lang code="CHN">
@@ -68,6 +100,20 @@ Missionsziel: Vernichte den Außenposten.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Outpost of the Elite Guard !!
+This must be an outpost of Merlin's Elite Guard.
+Mission goal: Destroy the outpost.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Placówka elitarnej gwardii !!
+To musiała być placówka elitarnej gwardii Merlina.
+Cel misji: Zniszcz placówkę.
+</text>
+      </lang>
     </block>
     <block id="lost_body">
       <lang code="CHN">
@@ -77,6 +123,16 @@ Missionsziel: Vernichte den Außenposten.
         <text>
 Wir hatten verloren.Die Angreifer waren zu stark gewesen.Plötzlich tat sich der Himmel über uns auf, und eine Stimme sprach zu uns. Freunde, ich gebe Euch eine zweite Chance, fangt einfach nochmals von vorne an....
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+We had lost. The attackers had been too strong. Suddenly the sky opened above us, and a voice spoke to us. Friends, I give you a second chance, just start over from the beginning....
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przegraliśmy. Atakujący byli zbyt silni. Nagle otworzyło się nad nami niebo i odezwał się do nas głos. Przyjaciele, daję wam drugą szansę, zacznijcie po prostu od nowa....
 </text>
       </lang>
     </block>
@@ -90,6 +146,16 @@ Mission verloren!
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja przegrana!
+</text>
+      </lang>
     </block>
     <block id="playerdied1">
       <lang code="CHN">
@@ -99,6 +165,16 @@ Mission verloren!
         <text>
 Endlich hatten wir Merlin mitsamt seinem Außenposten vernichtet. Nun würde endlich wieder Frieden einkehren....
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Finally we had destroyed Merlin along with his outpost. Now peace would finally return....
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Wreszcie zniszczyliśmy Merlina wraz z jego placówką. Teraz wreszcie ma zapanować pokój....
 </text>
       </lang>
     </block>
@@ -112,6 +188,16 @@ Durch einen Boten bekamen wir eine schreckliche Nachricht. Merlins Truppen hatte
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Through a messenger we received terrible news. Merlin's troops had attacked the village of Felix and his people and wiped out all living things there. Our grief turned to hatred and wrath. We swore revenge........
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przez posłańca dostaliśmy straszną wieść. Wojska Merlina zaatakowały wioskę Felixa i jego ludu i wymordowały tam wszystko, co żywe. Nasza żałoba zamieniła się w nienawiść i gniew. Przysięgliśmy zemstę........
+</text>
+      </lang>
     </block>
     <block id="playerdied3">
       <lang code="CHN">
@@ -121,6 +207,16 @@ Durch einen Boten bekamen wir eine schreckliche Nachricht. Merlins Truppen hatte
         <text>
 Endlich hatten wir Merlins Elite-Leibgarde mitsamt seinem Außenposten vernichtet.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Finally we had destroyed Merlin's Elite Guard along with his outpost.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Wreszcie zniszczyliśmy elitarną gwardię Merlina wraz z jego placówką.
 </text>
       </lang>
     </block>
@@ -134,6 +230,16 @@ Spieler 2 ist jetzt feindlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz wrogi.
+</text>
+      </lang>
     </block>
     <block id="playerfriendly1">
       <lang code="CHN">
@@ -143,6 +249,16 @@ Spieler 2 ist jetzt feindlich.
         <text>
 Spieler 1 ist jetzt freundlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz przyjazny.
 </text>
       </lang>
     </block>
@@ -156,6 +272,16 @@ Spieler 3 ist jetzt freundlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 jest teraz przyjazny.
+</text>
+      </lang>
     </block>
     <block id="playerneutral1">
       <lang code="CHN">
@@ -165,6 +291,16 @@ Spieler 3 ist jetzt freundlich.
         <text>
 Spieler 1 ist jetzt neutral.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz neutralny.
 </text>
       </lang>
     </block>
@@ -178,6 +314,16 @@ Spieler 2 ist jetzt neutral.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz neutralny.
+</text>
+      </lang>
     </block>
     <block id="playerneutral3">
       <lang code="CHN">
@@ -187,6 +333,16 @@ Spieler 2 ist jetzt neutral.
         <text>
 Spieler 3 ist jetzt neutral.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 jest teraz neutralny.
 </text>
       </lang>
     </block>
@@ -209,6 +365,24 @@ Tip: Vielleicht erreichst Du den Außenposten nur über den Seeweg....
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Merlin's Troops !!
+I, Merlin, pirate of the seven seas, ruler of the Caribbean, shall now destroy you. You did not pass my outpost unpunished....
+Mission goal: Destroy Merlin the red corsair.
+Find the outpost and destroy it as well.
+Tip: Perhaps you can only reach the outpost by sea....
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Wojska Merlina !!
+Ja, Merlin, pirat siedmiu mórz, władca Karaibów, teraz was zniszczę. Nie przeszliście bezkarnie obok mojej placówki....
+Cel misji: Zniszcz Merlina, czerwonego korsarza.
+Znajdź placówkę i również ją zniszcz.
+Wskazówka: Być może dotrzesz do placówki tylko drogą morską....
+</text>
+      </lang>
     </block>
     <block id="playerseen2">
       <lang code="CHN">
@@ -218,6 +392,16 @@ Tip: Vielleicht erreichst Du den Außenposten nur über den Seeweg....
         <text>
 Dies war wohl das Dorf von Felix und seinen S-KI-MOS.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+This was probably the village of Felix and his S-KI-MOS.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+To była chyba wioska Felixa i jego S-KI-MOS.
 </text>
       </lang>
     </block>
@@ -237,6 +421,24 @@ Missionsziel: Vernichte Merlins Elite-Leibgarde.
 Suche den Außenposten der Elite-Leibgarde und vernichte ihn ebenfalls.
 Tip: Vielleicht erreichst Du den Außenposten nur über den Seeweg....
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Merlin's Elite Guard !!
+I, Maverick, supreme commander of Merlin's Elite Guard, prophesy your downfall. But how could you pass my outpost unpunished?
+Mission goal: Destroy Merlin's Elite Guard.
+Find the outpost of the Elite Guard and destroy it as well.
+Tip: Perhaps you can only reach the outpost by sea....
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Elitarna gwardia Merlina !!
+Ja, Maverick, naczelny wódz elitarnej gwardii Merlina, przepowiadam wam zgubę. Lecz jak mogliście przejść bezkarnie obok mojej placówki?
+Cel misji: Zniszcz elitarną gwardię Merlina.
+Znajdź placówkę elitarnej gwardii i również ją zniszcz.
+Wskazówka: Być może dotrzesz do placówki tylko drogą morską....
 </text>
       </lang>
     </block>
@@ -262,6 +464,28 @@ Erstellt von: Yogi
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+So the two of them went on their way. We advised them to stay with us, but homesickness was too great. Karo in particular was looking forward to seeing her children again. To be safe, we had built a few defence towers. You could never know. Our scout reported a very small number of berry bushes in the land. So we would have to brew nourishing potions to push further inland. We had not yet caught sight of Merlin, but that would surely change soon....
+Mission goal: Find Merlin, the red corsair, and destroy him once and for all.
+Tip: Quickly build up your defence.
+Brew nourishing potions to explore the inland.
+
+
+Created by: Yogi
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Tak więc odeszli oboje. Radziliśmy im zostać z nami, ale tęsknota za domem była zbyt wielka. Przede wszystkim Karo cieszyła się, że znów zobaczy swoje dzieci. Dla bezpieczeństwa zbudowaliśmy kilka wież strażniczych. Nigdy nie wiadomo. Nasz zwiadowca doniósł nam o bardzo małej liczbie krzaków jagodowych w krainie. Musieliśmy więc uwarzyć mikstury pożywienia, by móc posunąć się dalej w głąb lądu. Merlina jeszcze nie było widać, ale to niedługo się zmieni....
+Cel misji: Znajdź Merlina, czerwonego korsarza, i zniszcz go ostatecznie.
+Wskazówka: Szybko rozbuduj swoją obronę.
+Uwarz mikstury pożywienia, by zbadać wnętrze lądu.
+
+
+Stworzone przez: Yogi
+</text>
+      </lang>
     </block>
     <block id="start_header">
       <lang code="CHN">
@@ -271,6 +495,16 @@ Erstellt von: Yogi
         <text>
 Die Entscheidung
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+The Decision
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Decyzja
 </text>
       </lang>
     </block>
@@ -286,6 +520,18 @@ Doch dies ist eine neue Geschichte. Vielleicht erzähle ich sie euch irgendwann 
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+We had made it. Merlin and his henchmen were destroyed. But the price was high. Felix and his people had been wiped out. Since there was no more life in this beautiful land, some of us decided to stay and found a new colony. Suddenly a ship arrived from our far, far away homeland Wigrid Wall. The half-starved captain told us of great troubles in our homeland.
+But that is a new story. Perhaps I will tell it to you someday...........
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Udało nam się. Merlin i jego słudzy zostali zniszczeni. Lecz cena była wysoka. Felix i jego lud zostali wymordowani. Ponieważ na tym pięknym kraju nie było już życia, niektórzy z nas postanowili tu zostać i założyć nową kolonię. Nagle przypłynął statek z naszej dalekiej dalekiej ojczyzny Wigrid Wall. Na wpół zagłodzony kapitan opowiedział nam o wielkich kłopotach w naszej ojczyźnie.
+Lecz to jest już nowa historia. Może opowiem wam ją kiedyś...........
+</text>
+      </lang>
     </block>
     <block id="won_header">
       <lang code="CHN">
@@ -295,6 +541,16 @@ Doch dies ist eine neue Geschichte. Vielleicht erzähle ich sie euch irgendwann 
         <text>
 Mission gewonnen!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja wygrana!
 </text>
       </lang>
     </block>

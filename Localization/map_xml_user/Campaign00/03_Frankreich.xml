@@ -3,39 +3,57 @@
   <languages>
     <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">法国</text>
       <text lang="ger">Frankreich</text>
+      <text lang="eng">France</text>
+      <text lang="pol">Francja</text>
     </string>
     <string id="1">
       <text lang="CHN">你已抵达法国。</text>
       <text lang="ger">Du bist in Frankreich angekommen.</text>
+      <text lang="eng">You have arrived in France.</text>
+      <text lang="pol">Dotarłeś do Francji.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
       <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
       <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
       <text lang="ger">Spieler0</text>
+      <text lang="eng">Player0</text>
+      <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
       <text lang="ger">Spieler1</text>
+      <text lang="eng">Player1</text>
+      <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
       <text lang="ger">Spieler2</text>
+      <text lang="eng">Player2</text>
+      <text lang="pol">Gracz2</text>
     </string>
     <string id="53">
       <text lang="CHN">玩家3</text>
       <text lang="ger">Spieler3</text>
+      <text lang="eng">Player3</text>
+      <text lang="pol">Gracz3</text>
     </string>
   </strings>
   <briefings>
@@ -49,6 +67,16 @@ Du hast die Mission verloren.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+You lost the mission.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przegrałeś misję.
+</text>
+      </lang>
     </block>
     <block id="lost_header">
       <lang code="CHN">
@@ -58,6 +86,16 @@ Du hast die Mission verloren.
         <text>
 Mission verloren!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja przegrana!
 </text>
       </lang>
     </block>
@@ -71,6 +109,16 @@ Spieler 1 ist gestorben.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 zmarł.
+</text>
+      </lang>
     </block>
     <block id="playerdied2">
       <lang code="CHN">
@@ -80,6 +128,16 @@ Spieler 1 ist gestorben.
         <text>
 Spieler 2 ist gestorben.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 2 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 zmarł.
 </text>
       </lang>
     </block>
@@ -93,6 +151,16 @@ Spieler 3 ist gestorben.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 zmarł.
+</text>
+      </lang>
     </block>
     <block id="playerenemy1">
       <lang code="CHN">
@@ -102,6 +170,16 @@ Spieler 3 ist gestorben.
         <text>
 Spieler 1 ist jetzt feindlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz wrogi.
 </text>
       </lang>
     </block>
@@ -115,6 +193,16 @@ Spieler 2 ist jetzt feindlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz wrogi.
+</text>
+      </lang>
     </block>
     <block id="playerenemy3">
       <lang code="CHN">
@@ -124,6 +212,16 @@ Spieler 2 ist jetzt feindlich.
         <text>
 Spieler 3 ist jetzt feindlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 jest teraz wrogi.
 </text>
       </lang>
     </block>
@@ -137,6 +235,16 @@ Spieler 2 ist jetzt freundlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 2 jest teraz przyjazny.
+</text>
+      </lang>
     </block>
     <block id="playerfriendly3">
       <lang code="CHN">
@@ -148,6 +256,16 @@ Spieler 3 ist jetzt freundlich.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now friendly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 3 jest teraz przyjazny.
+</text>
+      </lang>
     </block>
     <block id="playerneutral1">
       <lang code="CHN">
@@ -157,6 +275,16 @@ Spieler 3 ist jetzt freundlich.
         <text>
 Spieler 1 ist jetzt neutral.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now neutral.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz neutralny.
 </text>
       </lang>
     </block>
@@ -172,6 +300,20 @@ Madrid !!
 Juhuu Freunde. braucht ihr Nachschub?
 Wir haben tolle Tränke für Euch. Schaut doch mal bei unserem Händler vorbei.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Madrid!!
+Yay, friends. Do you need supplies?
+We have great potions for you. Drop by our merchant.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Madryt!!
+Juhuu, przyjaciele. Potrzebujecie zaopatrzenia?
+Mamy dla was świetne mikstury. Zajrzyjcie do naszego handlowca.
 </text>
       </lang>
     </block>
@@ -191,6 +333,21 @@ Ihr wißt ja, wir haben die besten. Eventuell hätten wir auch Münzen anzubiete
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Clermont-Ferrand!!
+Finally we had reached the first outpost, the city of Clermont-Ferrand. It was the same people we had already encountered at the Spanish-French border.
+"Hey there," they called out, "welcome to our humble village. Perhaps you need longswords again? You know we have the best. We might also have some coins to offer. But first pay us a small tribute, then we'll talk further."
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Clermont-Ferrond!!
+W końcu dotarliśmy do pierwszej placówki, miasta Clermont-Ferrand. Byli to ci sami ludzie, których spotkaliśmy już na granicy hiszpańsko-francuskiej.
+„Hej, zawołali, witajcie w naszej skromnej wiosce. Może znowu potrzebuje długich mieczy?
+Wiecie, że mamy najlepsze. Możemy również zaoferować monety. Ale najpierw zapłaćcie nam drobny trybut, to porozmawiamy dalej.”
+</text>
+      </lang>
     </block>
     <block id="playerseen3">
       <lang code="CHN">
@@ -204,6 +361,20 @@ Le Mans !!
 Mißtrauisch beäugelten uns die Einwohner Le Mans.
 Was wollt ihr hier ? zischte uns der Dorfälteste an. Ihr sucht nach Münzen ? Nun, vielleicht hätten wir ja Münzen anzubieten, aber zahlt uns erstmal einen Tribut, dann reden wir weiter.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Le Mans!!
+The inhabitants of Le Mans eyed us suspiciously.
+"What do you want here?" the village elder hissed at us. "You are looking for coins? Well, we might have some coins to offer, but first pay us a tribute, then we'll talk."
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Le Mans!!
+Mieszkańcy Le Mans spojrzeli na nas z nieufnością.
+„Czego tu chcecie?” syknął do nas starszy wioski. „Szukacie monet? Cóż, być może mielibyśmy monety do zaoferowania, ale najpierw zapłaćcie nam trybut, a potem pogadamy.”
 </text>
       </lang>
     </block>
@@ -227,6 +398,26 @@ Erstellt von: Yogi
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+After we had left some troops behind in Spain who could supply us if needed, we set up camp at the French border.
+It didn't take long until Bjarni stepped into our midst and told us why we had come to France.
+"Well, the story is soon told," he muttered. "King Felix of France has declared war on the whole of Europe. Our friends are being oppressed throughout Europe and condemned to slavery. Friends," he cried, "we must put an end to this. As it seems, he has barricaded himself in Paris. But Paris is far away from here. First we must reach the French outposts and either win them over to our side or destroy them. In any case, we must reach Paris, whatever it takes. Some peoples may demand a tribute, so we must see to it that we fill our treasury with coins. Our goal is to store away 100 coins.....
+
+
+Created by: Yogi
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Po tym, jak zostawiliśmy w Hiszpanii spło żołnierzy, którzy w razie potrzeby mogli dostarczyć nam zaopatrzenia, rozbiliśmy obóz na granicy francuzkiej.
+Nie długo potem Bjarni wszedł między nas i powiedział nam, dlaczego przybyliśmy do Francji.
+„No cóż, tę historię łatwo wytłumaczyć” – mruknął. „Król Feliks z Francji wypowiedział wojnę całej Europie. Nasi przyjaciele są przez niego gnębieni w całej Europie i skazani na niewolnictwo. Przyjaciele,” – zawołał – „musimy to zakończyć. Jak się wydaje, okopał się w Paryżu. Ale Paryż jest daleko stąd. Najpierw musimy dotrzeć do francuskich przyczółków i albo przeciągnąć ich na naszą stronę, albo zniszczyć. W każdym razie musimy dotrzeć do Paryża, cokolwiek by to kosztowało. Niektóre ludy mogą zażądać trybutu, więc musimy zadbać o to, aby dokładnie wypełniać nasze kasy monetami. Naszym celem powinno być zmagazynowanie 100 monet.....
+
+
+Stworzone przez: Yogi
+</text>
+      </lang>
     </block>
     <block id="start_header">
       <lang code="CHN">
@@ -236,6 +427,16 @@ Erstellt von: Yogi
         <text>
 Frankreich
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+France
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Francja
 </text>
       </lang>
     </block>
@@ -253,6 +454,20 @@ Wenn wir geahnt hätten was auf uns zu kommt, wären wir sicherlich alle hier ge
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+You stored away the required coins.
+"Let's go," Bjarni called with a serious voice, "off to Paris. Let's pay Felix, King of France back......"
+If we had suspected what was about to come, we surely would have all stayed here.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Zmagazynłeś wymagane monety.
+„Ruszajmy,” zawołał Bjarni poważnym głosem, „do Paryża. Zapłaćmy Feliksowi, królowi Francji za wszystko...”
+„Gdybyśmy przewidzieli, co na nas czeka, z pewnością wszyscy zostalibyśmy tutaj.”
+</text>
+      </lang>
     </block>
     <block id="won_header">
       <lang code="CHN">
@@ -262,6 +477,16 @@ Wenn wir geahnt hätten was auf uns zu kommt, wären wir sicherlich alle hier ge
         <text>
 Mission gewonnen!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja wygrana!
 </text>
       </lang>
     </block>

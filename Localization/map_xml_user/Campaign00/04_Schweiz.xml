@@ -3,31 +3,45 @@
   <languages>
     <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">瑞士</text>
       <text lang="ger">Schweiz</text>
+      <text lang="eng">Switzerland</text>
+      <text lang="pol">Szwajcaria</text>
     </string>
     <string id="1">
       <text lang="CHN">你顺道前往瑞士。</text>
       <text lang="ger">Du machst einen Abstecher in die Schweiz. </text>
+      <text lang="eng">You make a detour into Switzerland. </text>
+      <text lang="pol">Robisz wycieczkę do Szwajcarii. </text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
       <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
       <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
       <text lang="ger">Spieler0</text>
+      <text lang="eng">Player0</text>
+      <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
       <text lang="ger">Spieler1</text>
+      <text lang="eng">Player1</text>
+      <text lang="pol">Gracz1</text>
     </string>
   </strings>
   <briefings>
@@ -41,6 +55,16 @@ Du hast verloren !!
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+You lost!!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Przegrałeś!!
+</text>
+      </lang>
     </block>
     <block id="lost_header">
       <lang code="CHN">
@@ -50,6 +74,16 @@ Du hast verloren !!
         <text>
 Mission verloren!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja przegrana!
 </text>
       </lang>
     </block>
@@ -63,6 +97,16 @@ Spieler 1 ist gestorben.
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 has died.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 zmarł.
+</text>
+      </lang>
     </block>
     <block id="playerenemy1">
       <lang code="CHN">
@@ -72,6 +116,16 @@ Spieler 1 ist gestorben.
         <text>
 Spieler 1 ist jetzt feindlich.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now hostile.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Gracz 1 jest teraz wrogi.
 </text>
       </lang>
     </block>
@@ -85,6 +139,16 @@ Die Braumeister sind Dir nun freundlich gesinnt. Du kannst nun mit Ihnen handeln
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+The brewmasters now regard you as friends. You can now trade with them.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Mistrzowie Browarnicy są teraz do Ciebie przyjaźni. Możesz teraz z nimi handlować.
+</text>
+      </lang>
     </block>
     <block id="playerseen1">
       <lang code="CHN">
@@ -96,6 +160,18 @@ Die Braumeister sind Dir nun freundlich gesinnt. Du kannst nun mit Ihnen handeln
 Die Braumeister !!
 Grützi Gott miteinander. Wir haben schon von Eurem Vorhaben gehört, aber laßt Euch sagen. Ihr werdet Paris nie ohne unsere berühmten Rik-Ola Heiltränke einnehmen. Leider sind uns momentan die Kräüter ausgegangen. Bringt uns Kräuter und vielleicht ein wenig Met, dann können wir ins Geschäft kommen.
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+The Brewmasters!!
+"Greetzi God to you all. We have already heard of your plan, but let us tell you: you will never take Paris without our famous Rik-Ola healing potions. Unfortunately we have just run out of herbs. Bring us herbs and perhaps a little mead, then we can do business."
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Mistrzowie Piwowarnictwa!!
+„Grützi Bogu ze wszystkimi. Słychaliśmy już o waszych zamiarach, ale dajcieżcie powiedzieć: bez naszych słynnych leczniczych mikstur Rik-Ola nigdy nie zdobędziecie Paryża. Niestety, właśnie skończyły się nam zioła. Przyniescie nam zioła i może odroblną miodu pitnego, a wtedy wejdziemy w interes."
 </text>
       </lang>
     </block>
@@ -119,6 +195,26 @@ Erstellt von: Yogi
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+After we had passed France's outposts, we split up. Bjarni wanted to build a strong fortress in front of Paris, and the other part made a detour to Switzerland. Our druid Samino had good friends there who brewed wonderful healing potions. We decided to store away 100 large healing potions, either through our own production or through trade.
+That would give us a considerable advantage in the fight against Paris, or at least so we thought.....
+Objective: Store away 100 large healing potions.
+
+
+Created by: Yogi
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Po minięciu francuzkich przyczółków rozdzieliliśmy się. Bjarni chciał wznieść silną twierdzę pod Paryżem, a druga część pojechała na wyprawę do Szwajcarii. Nasz druid Samina miał tam dobrych przyjaciół, którzy warzyć wspaniałe leki. Postanowiliśmy zmagazynować 100 dużych mikstur leczących. Albo drogą własnej produkcji, albo handlu.
+Dzięki temu mielibyśmy ogromną przewagę w walce z Paryżem, tak przynajmniej sobie myśleli.....
+Cel misji: Zmagazynuj 100 dużych mikstur leczących.
+
+
+Stworzył: Yogi
+</text>
+      </lang>
     </block>
     <block id="start_header">
       <lang code="CHN">
@@ -128,6 +224,16 @@ Erstellt von: Yogi
         <text>
 Schweiz
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Switzerland
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Szwajcaria
 </text>
       </lang>
     </block>
@@ -143,6 +249,18 @@ Schnell machten wir uns auf den Weg zurück, denn Bjarni brauchte wohl schon dri
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+You stored away the required healing potions.
+Quickly we made our way back, for Bjarni surely already needed our healing potions badly.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Zmagazynkowałeś wymagane mikstury leczące.
+Szybko ruszyliśmy w drogę powrotną, bo Bjarni już pewnie pilnie potrzebował nasze mikstury leczące.
+</text>
+      </lang>
     </block>
     <block id="won_header">
       <lang code="CHN">
@@ -152,6 +270,16 @@ Schnell machten wir uns auf den Weg zurück, denn Bjarni brauchte wohl schon dri
         <text>
 Mission gewonnen!
 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Misja wygrana!
 </text>
       </lang>
     </block>

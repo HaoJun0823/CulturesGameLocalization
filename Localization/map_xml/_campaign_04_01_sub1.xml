@@ -3,43 +3,63 @@
   <languages>
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@抵达阿夸里乌斯！</text>
       <text lang="ger">@GELANGE ZU AQUARIUS!</text>
+      <text lang="eng">@REACH AQUARIUS!</text>
+      <text lang="pol">@DOTRZYJ DO AQUARIUSA!</text>
     </string>
     <string id="1">
       <text lang="CHN">与阿夸里乌斯的守卫龙交谈。</text>
       <text lang="ger">Sprich mit dem Wachdrachen von Aquarius.</text>
+      <text lang="eng">Speak to the guardian dragon of Aquarius.</text>
+      <text lang="pol">Porozmawiaj ze smokiem stróżem Aquariusa.</text>
     </string>
     <string id="2">
       <text lang="CHN">前往出口，在海面之上寻找解决之道。</text>
       <text lang="ger">Gehe zum Ausgang und suche oberhalb des Meeres nach einer Lösung.</text>
+      <text lang="eng">Go to the exit and search above the sea for a solution.</text>
+      <text lang="pol">Udaj się do wyjścia i szukaj nad morzem rozwiązania.</text>
     </string>
     <string id="53">
       <text lang="CHN">阿夸斯--水龙</text>
       <text lang="ger">Aquas - Wasserdrachen</text>
+      <text lang="eng">Aquas - Water Dragons</text>
+      <text lang="pol">Aquas - Smoki Wodne</text>
     </string>
     <string id="63">
       <text lang="CHN">阿夸斯</text>
       <text lang="ger">Aquas</text>
+      <text lang="eng">Aquas</text>
+      <text lang="pol">Aquas</text>
     </string>
     <string id="75">
       <text lang="CHN">诺伯特</text>
       <text lang="ger">Norbert</text>
+      <text lang="eng">Norbert</text>
+      <text lang="pol">Norbert</text>
     </string>
     <string id="76">
       <text lang="CHN">玛尼</text>
       <text lang="ger">Mani</text>
+      <text lang="eng">Mani</text>
+      <text lang="pol">Mani</text>
     </string>
     <string id="77">
       <text lang="CHN">阿夸里乌斯</text>
       <text lang="ger">Aquarius</text>
+      <text lang="eng">Aquarius</text>
+      <text lang="pol">Aquarius</text>
     </string>
     <string id="99">
       <text lang="CHN">深海之下</text>
       <text lang="ger">UNTER DEM MEER</text>
+      <text lang="eng">BENEATH THE SEA</text>
+      <text lang="pol">POD MORZEM</text>
     </string>
   </strings>
   <briefings>
@@ -57,6 +77,16 @@ Augenblicklich nachdem Mani und Norbert den Eingang des Wasserdrachentempels bet
 </text>
         <usericon>2,5</usericon>
       </lang>
+      <lang code="eng">
+        <text>
+The moment Mani and Norbert entered the entrance of the water dragon temple, they found themselves in a strangely alien environment. All their movements were slower and things shimmered before their eyes, as if they were diving.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+W chwili gdy Mani i Norbert przekroczyli próg świątyni smoków wodnych, znaleźli się w dziwnie obcym otoczeniu. Wszystkie ich ruchy były wolniejsze, a przed oczami mieniło im się, jakby nurkowali.
+</text>
+      </lang>
     </block>
     <block id="00_start1">
       <lang code="CHN">
@@ -67,6 +97,16 @@ Augenblicklich nachdem Mani und Norbert den Eingang des Wasserdrachentempels bet
       <lang code="ger">
         <text> 
 Dieser Tempel befand sich tatsächlich unter dem Meer. Mani und Norbert befanden sich in einem der drei Wassertempel der AQUAS! 
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+This temple was indeed beneath the sea. Mani and Norbert were in one of the three water temples of the AQUAS!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+Ta świątynia znajdowała się rzeczywiście pod morzem. Mani i Norbert byli w jednej z trzech świątyń wody AQUASÓW!
 </text>
       </lang>
     </block>
@@ -117,6 +157,46 @@ Könnt ihr uns helfen?
 Geht gemeinsam zum Ausgang, um wieder an die Meeresoberfläche zu gelangen. Kommt wieder, wenn ihr uns helfen könnt. Die Wasserdrachen sind euch immer freundlich gesonnen! 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+AQUARIUS GUARD
+
+"It's enough to make you breathe fire! Except that this talent is unfortunately not very pronounced among us water dragons...
+The waters of the water dragons have cooled considerably, and suddenly there it was, this ICE STATUE.
+
+
+
+Now it blocks the way to AQUARIUS for all visitors and for me! Anyone who gets too close freezes fast, like this poor 
+creature here...
+
+
+
+Our people will perish without the wisdom of AQUARIUS...
+Can you help us?
+
+Go together to the exit to reach the surface of the sea again. Come back when you can help us. The water dragons are always well disposed toward you!"
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+STRAŻNIK AQUARIUSA
+
+„Aż chce się plunąć ogniem! Tylko że ta umiejętność jest u nas, smoków wodnych, niestety słabo rozwinięta...
+Wody smoków wodnych mocno się ochłodziły i nagle pojawiła się ona, ta LODOWA STATUA.
+
+
+
+Teraz blokuje drogę do AQUARIUSA wszystkim odwiedzającym i mnie! Każdy, kto zbliży się zbyt blisko, zamarza, jak to biedne 
+stworzenie tutaj...
+
+
+
+Nasz lud zginie bez mądrości AQUARIUSA...
+Czy możecie nam pomóc?
+
+Idźcie razem do wyjścia, by znów dotrzeć na powierzchnię morza. Wróćcie, gdy będzize mogli nam pomóc. Smoki wodne są zawsze przyjaźnie do was nastawione!"
+</text>
+      </lang>
     </block>
     <block id="500">
       <lang code="CHN">
@@ -139,6 +219,20 @@ MISSION VERLOREN!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+MISSION LOST!
+
+A brief moment of carelessness, so quickly it happens in life! Your friend and hero, the dragon NORBERT, perished through your inattention! Without this hero, the end of the mission will remain hidden from you.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+MISJA PRZEGRANA!
+
+Chwilka lekkomyślności, tak szybko to w życiu przychodzi! Twój przyjaciel i bohater, smok NORBERT, zginął przez twoją nieuwagę! Bez tego bohatera koniec misji pozostanie dla ciebie ukryty.
 </text>
       </lang>
     </block>
@@ -165,6 +259,16 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund un
 MISSION GEWONNEN! 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+MISSION WON!
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+MISJA WYGRANA!
+</text>
+      </lang>
     </block>
     <block id="600">
       <lang code="CHN">
@@ -189,6 +293,20 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+MISSION LOST!
+
+A brief moment of carelessness, so quickly it happens in life! MANI - son of Bjarni and Cyra - perished through your inattention! Without this hero, the end of the mission will remain hidden from you.
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+MISJA PRZEGRANA!
+
+Chwilka lekkomyślności, tak szybko to w życiu przychodzi! MANI - syn Bjarniego i Cyry - zginął przez twoją nieuwagę! Bez tego bohatera koniec misji pozostanie dla ciebie ukryty.
+</text>
+      </lang>
     </block>
     <block id="header">
       <lang code="CHN">
@@ -199,6 +317,16 @@ Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn vo
       <lang code="ger">
         <text> 
 UNTER DEM MEER
+</text>
+      </lang>
+      <lang code="eng">
+        <text>
+UNDER THE SEA
+</text>
+      </lang>
+      <lang code="pol">
+        <text>
+POD MORZEM
 </text>
       </lang>
     </block>

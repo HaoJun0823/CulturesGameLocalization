@@ -1,872 +1,872 @@
 ﻿ger,eng,fra,ita,cze,rus,pol,spa,por,hun,l10(简体中文),l11(繁体中文),l12(日语),l13(韩语),l14(印地语),l15(阿拉伯语),l16(孟加拉语),l17(印度尼西亚语),l18(土耳其语),l19(斯瓦希里语),META_TYPE,META_DESCRIPTION,META_REFERENCES
-Halldor,Halldor,,,,,Halldor,,,,霍尔多尔,,,,,,,,,,人名,教程角色,tutorial_002
-Gunnhild,Gunnhild,,,,,Gunnhild,,,,贡希尔德,,,,,,,,,,人名,教程角色,tutorial_002
-Grimmhild,Grimmhild,,,,,Grimmhild,,,,格里姆希尔德,,,,,,,,,,人名,教程角色,tutorial_002
-Kalf,Kalf,,,,,Kalf,,,,卡尔夫,,,,,,,,,,人名,教程角色,tutorial_002
-Ragna,Ragna,,,,,Ragna,,,,拉格纳,,,,,,,,,,人名,教程角色,tutorial_002
-Bjoern,Bjoern,,,,,Bjoern,,,,比约恩,,,,,,,,,,人名,教程角色,tutorial_002
-Snorri,Snorri,,,,,Snorri,,,,斯诺里,,,,,,,,,,人名,教程角色,tutorial_003; tutorial_004; tutorial_005
-Hedin,Hedin,,,,,Hedin,,,,海丁,,,,,,,,,,人名,教程角色,tutorial_003; tutorial_004
-Orm,Orm,,,,,Orm,,,,奥姆,,,,,,,,,,人名,教程角色,tutorial_003; tutorial_004
-Ralf,Ralf,,,,,Ralf,,,,拉尔夫,,,,,,,,,,人名,教程角色,tutorial_003; tutorial_004
-Geir,Geir,,,,,Geir,,,,盖尔,,,,,,,,,,人名,教程角色,tutorial_003; tutorial_004
-Eystein,Eystein,,,,,Eystein,,,,埃斯坦,,,,,,,,,,人名,教程角色,tutorial_003; tutorial_004
-Bjarni,Bjarni,,,,,Bjarni,,,,比雅尼,,,,,,,,,,人名,主角，战役角色；主线主角，维京勇士,campaign_01_01; campaign_01_02; tutorial_001
-Hoirio,Hoirio,,,,,Hoirio,,,,霍里奥,,,,,,,,,,人名,造船匠,campaign_01_01
-Gabelbart,Gabelbart,,,,,Gabelbart,,,,岔胡子福克比尔德,,,,,,,,,,人名,比亚尔尼的表兄,campaign_01_01
-Nornen,Norns,,,,,Norny,,,,诺恩三女神,,,,,,,,,,神话人物,命运三女神乌尔德、薇儿丹蒂、诗寇蒂；北欧神话，命运三女神,campaign_01_01
-Urd,Urd,,,,,Urd,,,,乌尔德,,,,,,,,,,神话人物,诺恩三女神之一，掌管过去,campaign_01_01
-Werdandi,Werdandi,,,,,Werdandi,,,,薇儿丹蒂,,,,,,,,,,神话人物,诺恩三女神之一，掌管现在,campaign_01_01
-Skuld,Skuld,,,,,Skuld,,,,诗寇蒂,,,,,,,,,,神话人物,诺恩三女神之一，掌管未来,campaign_01_01
-Jörmungander,Jormungand,,,,,Jörmungand,,,,耶梦加得,,,,,,,,,,神话怪物,米德加尔特巨蛇,campaign_01_01
-Ragnarök,Ragnarok,,,,,Ragnarok,,,,诸神的黄昏,,,,,,,,,,神话事件,诸神的最终之战；北欧神话，末日之战,campaign_01_01; campaign_01_11
-Asgard,Asgard,,,,,Asgard,,,,阿斯加德,,,,,,,,,,神话地点,诸神的家园,campaign_01_01
-Midgard,Midgard,,,,,Midgard,,,,米德加尔特,,,,,,,,,,神话地点,凡人世界,campaign_01_01
-Norland,Norland,,,,,Wyspa Norland,,,,诺尔兰,,,,,,,,,,地点,诺恩三女神的岛屿,campaign_01_01
-Wigrid Wall,Wigrid,,,,,Wigrid,,,,维格利德之墙,,,,,,,,,,地点,命运之战的战场,campaign_01_01
-Wiklingshausen,Vikingthorpe,,,,,Wikingthorpe,,,,维京索普,,,,,,,,,,地点,村庄名称,campaign_01_01
-Grönland,Greenland,,,,,Grenlandia,,,,格陵兰,,,,,,,,,,地点,游戏开场地点,campaign_01_01
-Met,Mead,,,,,Miody Pitne,,,,蜂蜜酒,,,,,,,,,,物品,酿造的酒类饮品；消耗品,campaign_01_01; goods.ini
-Bootsbauer,Shipbuilder,,,,,Budowniczy okrętów,,,,造船匠,,,,,,,,,,职业,建造船只的工匠；造船工匠,campaign_01_01
-Träger,Carrier,,,,,Tragarze,,,,搬运工,,,,,,,,,,职业,为工作场所运输物品的工人,campaign_01_01
-Braumeister,Brewer,,,,,Piwowarzy,,,,酿酒师,,,,,,,,,,职业,酿造蜂蜜酒的工匠；酿造蜂蜜酒的职业,campaign_01_01; jobs.ini
-Bienenstock,Beehive,,,,,Ul,,,,蜂巢,,,,,,,,,,建筑,生产蜂蜜的建筑,campaign_01_01; houses.ini
-Brauerei,Brewery,,,,,Browar,,,,酿酒坊,,,,,,,,,,建筑,酿造蜂蜜酒的建筑,campaign_01_01; houses.ini
-Hauptquartier,Headquarters,,,,,Kwatera Główna,,,,大本营,,,,,,,,,,建筑,每个村庄的基础建筑，用于储存物品和宗教动机,houses.ini
-Wohnhaus 1,Dwelling 1,,,,,Dom 1,,,,一级民居,,,,,,,,,,建筑,可容纳一个家庭的民居,houses.ini
-Wohnhaus 2,Dwelling 2,,,,,Dom 2,,,,二级民居,,,,,,,,,,建筑,可容纳两个家庭的民居,houses.ini
-Wohnhaus 3,Dwelling 3,,,,,Dom 3,,,,三级民居,,,,,,,,,,建筑,可容纳三个家庭的民居,houses.ini
-Wohnhaus 4,Dwelling 4,,,,,Dom 4,,,,四级民居,,,,,,,,,,建筑,可容纳四个家庭的民居,houses.ini
-Wohnhaus 5,Dwelling 5,,,,,Dom 5,,,,五级民居,,,,,,,,,,建筑,可容纳五个家庭的民居,houses.ini
-Lagerhaus 1,Warehouse 1,,,,,Magazyn 1,,,,一级仓库,,,,,,,,,,建筑,最小的仓库,houses.ini
-Lagerhaus 2,Warehouse 2,,,,,Magazyn 2,,,,二级仓库,,,,,,,,,,建筑,中型仓库,houses.ini
-Lagerhaus 3,Warehouse 3,,,,,Magazyn 3,,,,三级仓库,,,,,,,,,,建筑,大型仓库,houses.ini
-Brunnen,Well,,,,,Studnie,,,,水井,,,,,,,,,,建筑,生产水的建筑,houses.ini
-Farm,Farm,,,,,Farma,,,,农场,,,,,,,,,,建筑,种植小麦的建筑,houses.ini
-Muhle,Mill,,,,,Młyn,,,,磨坊,,,,,,,,,,建筑,将小麦磨成面粉的建筑,houses.ini
-Buckerei 1,Bakery 1,,,,,Piekarnia 1,,,,一级烘焙坊,,,,,,,,,,建筑,烘焙面包的建筑,houses.ini
-Buckerei 2,Bakery 2,,,,,Piekarnia 2,,,,二级烘焙坊,,,,,,,,,,建筑,烘焙蛋糕的建筑,houses.ini
-Viehzuchtere,Cattle Farm,,,,,Ferma bydła,,,,畜牧场,,,,,,,,,,建筑,养殖动物的建筑,houses.ini
-Naherei 1,Tailor's Workshop 1,,,,,Zakład krawiecki 1,,,,一级裁缝铺,,,,,,,,,,建筑,生产鞋子的建筑,houses.ini
-Naherei 2,Tailor's Workshop 2,,,,,Zakład krawiecki 2,,,,二级裁缝铺,,,,,,,,,,建筑,生产皮甲和布甲的建筑,houses.ini
-Topferei 1,Pottery 1,,,,,Warsztat garncarski 1,,,,一级制陶坊,,,,,,,,,,建筑,生产陶砖的建筑,houses.ini
-Topferei 2,Pottery 2,,,,,Warsztat garncarski 2,,,,二级制陶坊,,,,,,,,,,建筑,生产瓦片的建筑,houses.ini
-Topferei 3,Pottery 3,,,,,Warsztat garncarski 3,,,,三级制陶坊,,,,,,,,,,建筑,生产器皿的建筑,houses.ini
-Schreinerei 1,Carpenter's Shop 1,,,,,Warsztat ciesielski 1,,,,一级木匠坊,,,,,,,,,,建筑,生产木质工具的建筑,houses.ini
-Schreinerei 2,Carpenter's Shop 2,,,,,Warsztat ciesielski 2,,,,二级木匠坊,,,,,,,,,,建筑,生产家具的建筑,houses.ini
-Schreinerei 3,Carpenter's Shop 3,,,,,Warsztat ciesielski 3,,,,三级木匠坊,,,,,,,,,,建筑,生产木矛和手推车的建筑,houses.ini
-Schreinerei 4,Carpenter's Shop 4,,,,,Warsztat ciesielski 4,,,,四级木匠坊,,,,,,,,,,建筑,生产船只和牛车的建筑,houses.ini
-Waffenhutte 1,Armourer's Shop 1,,,,,Warsztat płatnerski 1,,,,一级武器坊,,,,,,,,,,建筑,生产短弓和长弓的建筑,houses.ini
-Waffenhutte 2,Armourer's Shop 2,,,,,Warsztat płatnerski 2,,,,二级武器坊,,,,,,,,,,建筑,生产投石机的建筑,houses.ini
-Steinmetzhutte 1,Mason's Shop 1,,,,,Warsztat kamieniarski 1,,,,一级石匠坊,,,,,,,,,,建筑,生产石砖的建筑,houses.ini
-Steinmetzhutte 2,Mason's Shop 2,,,,,Warsztat kamieniarski 2,,,,二级石匠坊,,,,,,,,,,建筑,生产大理石的建筑,houses.ini
-Schmiede 1,Smithy 1,,,,,Kuźnia 1,,,,一级铁匠铺,,,,,,,,,,建筑,生产铁质工具和武器的建筑,houses.ini
-Schmiede 2,Smithy 2,,,,,Kuźnia 2,,,,二级铁匠铺,,,,,,,,,,建筑,生产长剑和铁甲的建筑,houses.ini
-Munzpruge,Coin Mint,,,,,Mennica,,,,铸币厂,,,,,,,,,,建筑,铸造金币的建筑,houses.ini
-Kruuterhutte,Herb Hut,,,,,Chatka zielarza,,,,草药屋,,,,,,,,,,建筑,采集和种植草药的建筑,houses.ini
-Alchemistenhutte 1,Alchemist's Hut 1,,,,,Chatka alchemika 1,,,,一级炼金小屋,,,,,,,,,,建筑,生产油的建筑,houses.ini
-Alchemistenhutte 2,Alchemist's Hut 2,,,,,Chatka alchemika 2,,,,二级炼金小屋,,,,,,,,,,建筑,生产药剂的建筑,houses.ini
-Tempel,Temple,,,,,Świątynie,,,,神庙,,,,,,,,,,建筑,用于宗教动机的建筑,houses.ini
-Schule,School,,,,,Szkoła,,,,学校,,,,,,,,,,建筑,学习新职业的建筑,houses.ini
-Kaserne,Barracks,,,,,Koszary,,,,兵营,,,,,,,,,,建筑,招募士兵的建筑,houses.ini
-Wachturm 1,Defence Tower 1,,,,,Wieża obronna 1,,,,一级箭塔,,,,,,,,,,建筑,防御性建筑,houses.ini
-Wachturm 2,Defence Tower 2,,,,,Wieża obronna 2,,,,二级箭塔,,,,,,,,,,建筑,防御性建筑,houses.ini
-Wasser,Water,,,,,Woda,,,,水,,,,,,,,,,物品,基础资源,goods.ini
-Lehm,Clay,,,,,Glina,,,,黏土,,,,,,,,,,物品,基础资源,goods.ini
-Bruchstein,Rubble stone,,,,,Nieobrobiony kamień,,,,碎石,,,,,,,,,,物品,基础资源,goods.ini
-Weizen,Wheat,,,,,Pszenica,,,,小麦,,,,,,,,,,物品,基础资源,goods.ini
-Holz,Wood,,,,,Drewno,,,,木材,,,,,,,,,,物品,基础资源,goods.ini
-Eisen,Iron,,,,,Żelazo,,,,铁矿,,,,,,,,,,物品,基础资源,goods.ini
-Gold,Gold,,,,,Złoto,,,,金矿,,,,,,,,,,物品,基础资源,goods.ini
-Munzen,Coins,,,,,Monety,,,,金币,,,,,,,,,,物品,贸易商品,goods.ini
-Leder,Leather,,,,,Skóry,,,,皮革,,,,,,,,,,物品,原材料,goods.ini
-Wolle,Wool,,,,,Wełny,,,,羊毛,,,,,,,,,,物品,原材料,goods.ini
-Mehl,Flour,,,,,Mąki,,,,面粉,,,,,,,,,,物品,加工品,goods.ini
-Honig,Honey,,,,,Miody,,,,蜂蜜,,,,,,,,,,物品,加工品,goods.ini
-Kruuter,Herbs,,,,,Zioła,,,,草药,,,,,,,,,,物品,原材料,goods.ini
-Pilze,Mushrooms,,,,,Grzyby,,,,蘑菇,,,,,,,,,,物品,原材料,goods.ini
-Ol,Oil,,,,,Oliwa,,,,油,,,,,,,,,,物品,加工品,goods.ini
-Nahrung,Food,,,,,Żywność,,,,食物,,,,,,,,,,物品,消耗品,goods.ini
-Kuchen,Cake,,,,,Ciastka,,,,蛋糕,,,,,,,,,,物品,特殊食物,goods.ini
-Fruchte,Fruits,,,,,Owoce,,,,水果,,,,,,,,,,物品,食物,goods.ini
-Brot,Bread,,,,,Chleb,,,,面包,,,,,,,,,,物品,食物,goods.ini
-Fleisch,Meat,,,,,Mięsa,,,,肉,,,,,,,,,,物品,食物,goods.ini
-Fisch,Fish,,,,,Ryby,,,,鱼,,,,,,,,,,物品,食物,goods.ini
-Wurst,Sausage,,,,,Kiełbasa,,,,香肠,,,,,,,,,,物品,食物,goods.ini
-Backsteine,Bricks,,,,,Cegły,,,,陶砖,,,,,,,,,,物品,建筑材料,goods.ini
-Dachziegel,Tiles,,,,,Dachówki,,,,瓦片,,,,,,,,,,物品,建筑材料,goods.ini
-Steinblocke,Stone blocks,,,,,Kamienne bloki,,,,石砖,,,,,,,,,,物品,建筑材料,goods.ini
-Marmor,Marble,,,,,Marmury,,,,大理石,,,,,,,,,,物品,建筑材料,goods.ini
-Geschirr,Crockery,,,,,Naczynia,,,,器皿,,,,,,,,,,物品,家具,goods.ini
-Mobel,Furniture,,,,,Meble,,,,家具,,,,,,,,,,物品,家具,goods.ini
-Schuhe,Shoes,,,,,Buty,,,,鞋子,,,,,,,,,,物品,装备,goods.ini
-Holzwerkzeuge,Wooden tools,,,,,Drewniane Narzędzia,,,,木质工具,,,,,,,,,,物品,工具,goods.ini
-Eisenwerkzeuge,Iron tools,,,,,Żelazne Narzędzia,,,,铁质工具,,,,,,,,,,物品,工具,goods.ini
-Waffenrock,Tunic,,,,,Tunika,,,,布甲,,,,,,,,,,物品,护甲,goods.ini
-Lederrustung,Leather armour,,,,,Skórzana zbroja,,,,皮甲,,,,,,,,,,物品,护甲,goods.ini
-Kettenhemd,Chain mail,,,,,Kolczuga,,,,锁甲,,,,,,,,,,物品,护甲,goods.ini
-Plattenrustung,Plate armour,,,,,Zbroja płytowa,,,,板甲,,,,,,,,,,物品,护甲,goods.ini
-Kurzbogen,Short bow,,,,,Krótki łuk,,,,短弓,,,,,,,,,,物品,武器,goods.ini
-Langbogen,Longbow,,,,,Długi łuk,,,,长弓,,,,,,,,,,物品,武器,goods.ini
-Holzspeer,Wooden spear,,,,,Drewniana włócznia,,,,木矛,,,,,,,,,,物品,武器,goods.ini
-Eisenspeer,Iron spear,,,,,Żelazna włócznia,,,,铁矛,,,,,,,,,,物品,武器,goods.ini
-Kurzschwert,Shortsword,,,,,Krótki miecz,,,,短剑,,,,,,,,,,物品,武器,goods.ini
-Langschwert,Longsword,,,,,Długi miecz,,,,长剑,,,,,,,,,,物品,武器,goods.ini
-Kleiner Nahrungstrank,Small nourishing potion,,,,,Mała odżywcza mikstura,,,,小型营养药水,,,,,,,,,,物品,消耗品,goods.ini
-Grosser Nahrungstrank,Large nourishing potion,,,,,Duża odżywcza mikstura,,,,大型营养药水,,,,,,,,,,物品,消耗品,goods.ini
-Kleiner Wachtrank,Small stamina potion,,,,,Mała mikstura wytrzymałości,,,,小型耐力药水,,,,,,,,,,物品,消耗品,goods.ini
-Grosser Wachtrank,Large stamina potion,,,,,Duża mikstura wytrzymałości,,,,大型耐力药水,,,,,,,,,,物品,消耗品,goods.ini
-Kleiner Heiltrank,Small healing potion,,,,,Mała lecznicza mikstura,,,,小型治疗药水,,,,,,,,,,物品,消耗品,goods.ini
-Grosser Heiltrank,Large healing potion,,,,,Duża lecznicza mikstura,,,,大型治疗药水,,,,,,,,,,物品,消耗品,goods.ini
-Nahrungsamulett,Nourishing amulet,,,,,Odżywczy amulet,,,,营养护符,,,,,,,,,,物品,护符,goods.ini
-Wachbleibamulett,Stamina amulet,,,,,Amulet wytrzymałości,,,,耐力护符,,,,,,,,,,物品,护符,goods.ini
-Starkeamulett,Strength amulet,,,,,Amulet siły,,,,力量护符,,,,,,,,,,物品,护符,goods.ini
-Verteidigungsamulett,Defence amulet,,,,,Amulet obrony,,,,防御护符,,,,,,,,,,物品,护符,goods.ini
-Trefferamulett,Precision amulet,,,,,Amulet precyzji,,,,精准护符,,,,,,,,,,物品,护符,goods.ini
-Windamulett,Wind amulet,,,,,Amulet wiatru,,,,疾风护符,,,,,,,,,,物品,护符,goods.ini
-Bauarbeiter,Builder,,,,,Budowniczowie,,,,建筑工人,,,,,,,,,,职业,建造建筑的职业,jobs.ini
-Abbauer,Gatherer,,,,,Zbieracze,,,,采集工,,,,,,,,,,职业,采集资源的职业,jobs.ini
-Jager,Hunter,,,,,Myśliwy,,,,猎人,,,,,,,,,,职业,狩猎动物的职业,jobs.ini
-Fischer,Fisherman,,,,,Rybacy,,,,渔夫,,,,,,,,,,职业,捕鱼的职业,jobs.ini
-Bauer,Farmer,,,,,Rolnik,,,,农民,,,,,,,,,,职业,种植小麦的职业,jobs.ini
-Muller,Miller,,,,,Młynarz,,,,磨坊主,,,,,,,,,,职业,磨面粉的职业,jobs.ini
-Backer,Baker,,,,,Piekarz,,,,面包师,,,,,,,,,,职业,烘焙面包的职业,jobs.ini
-Viehzuchter,Livestock breeder,,,,,Hodowca bydła,,,,畜牧工,,,,,,,,,,职业,养殖动物的职业,jobs.ini
-Nahermeister,Tailor,,,,,Krawiec,,,,裁缝,,,,,,,,,,职业,制作衣物的职业,jobs.ini
-Topfer,Potter,,,,,Garncarz,,,,陶工,,,,,,,,,,职业,制作陶器的职业,jobs.ini
-Schreiner,Carpenter,,,,,Cieśle,,,,木工,,,,,,,,,,职业,制作木制品的职业,jobs.ini
-Waffenbauer,Weaponsmith,,,,,Płatnerze,,,,武器匠,,,,,,,,,,职业,制作武器的职业,jobs.ini
-Steinmetz,Mason,,,,,Kamieniarz,,,,石匠,,,,,,,,,,职业,制作石材制品的职业,jobs.ini
-Schmied,Blacksmith,,,,,Kowal,,,,铁匠,,,,,,,,,,职业,锻造铁制品的职业,jobs.ini
-Munzpruger,Coin minter,,,,,Mincerz,,,,铸币师,,,,,,,,,,职业,铸造金币的职业,jobs.ini
-Kruutersammler,Herb gatherer,,,,,Zbieracz ziół,,,,草药采集者,,,,,,,,,,职业,采集草药的职业,jobs.ini
-Druide,Druid,,,,,Druid,,,,德鲁伊,,,,,,,,,,职业,村庄的智者与祭司,jobs.ini
-Soldat,Soldier,,,,,Żołnierz,,,,士兵,,,,,,,,,,职业,战斗单位,jobs.ini
-Kundschafter,Scout,,,,,Zwiadowcy,,,,侦察兵,,,,,,,,,,职业,探索和发现,jobs.ini
-Trager,Carrier,,,,,Tragarz,,,,搬运工,,,,,,,,,,职业,搬运物品,jobs.ini
-Handler,Trader,,,,,Kupiec,,,,商人,,,,,,,,,,职业,贸易,jobs.ini
-Wikinger,Vikings,,,,,Wikingowie,,,,维京人,,,,,,,,,,种族,北欧海盗民族,tribes.ini
-Ägypterdörfchen,Egyptian Village,,,,,Wioska,,,,埃及小村,,,,,,,,,,地名,教程地图中尼罗河畔的埃及人村落,tutorial_001
-Wikingersoldat,Viking Soldier,,,,,Żołnierz Wikingów,,,,维京战士,,,,,,,,,,军事,维京战斗单位（游戏中称 Wikingersoldat）,tutorial_001; tutorial_007
-Sarazenen,Saracens,,,,,Saraceni,,,,撒拉逊人,,,,,,,,,,种族,阿拉伯民族,tribes.ini
-Franken,Franks,,,,,Frankowie,,,,法兰克人,,,,,,,,,,种族,西欧民族,tribes.ini
-Byzanz,Byzantines,,,,,Bizancjum,,,,拜占庭人,,,,,,,,,,种族,东罗马帝国民族,tribes.ini
-Eskimo,Eskimos,,,,,Eskimosi,,,,爱斯基摩人,,,,,,,,,,种族,北极民族,tribes.ini
-S-KI-MOS,S-KI-MOS,,,,,S-KI-MOS,,,,爱斯基摩人,,,,,,,,,,种族,北极民族（德语变体写法，同 Eskimos）,map_xml_user/Campaign01
-Ykol,Ykol,,,,,Ykol,,,,伊科尔,,,,,,,,,,角色,特殊NPC,wonders001.ini
-Wolfe,Wolves,,,,,Wilki,,,,狼群,,,,,,,,,,生物,野生动物,chesttypes.ini
-Lowen,Lions,,,,,Lwy,,,,狮子,,,,,,,,,,生物,野生动物,chesttypes.ini
-Werwolf,Werewolf,,,,,Wilkołak,,,,狼人,,,,,,,,,,生物,神话生物,tribes.ini
-Katapult,Catapult,,,,,Katapulta,,,,投石机,,,,,,,,,,车辆,攻城武器,vehicletypes.ini
-Handkarren,Handcart,,,,,Wózki Ręczne,,,,手推车,,,,,,,,,,车辆,运输工具,vehicletypes.ini
-Ochsenkarren,Ox Cart,,,,,Zaprzęgi,,,,牛车,,,,,,,,,,车辆,运输工具,vehicletypes.ini
-Schiff,Ship,,,,,Statek,,,,船只,,,,,,,,,,车辆,水上交通工具,vehicletypes.ini
-Grosses Schiff,Big Ship,,,,,Duży Statek,,,,大型船只,,,,,,,,,,车辆,水上交通工具,vehicletypes.ini
-Mission,Mission,,,,,Zadanie,,,,任务,,,,,,,,,,游戏术语,游戏中的任务,ingameguimessages.ini
-Kampagne,Campaign,,,,,Kampania,,,,战役,,,,,,,,,,游戏术语,一系列任务,mainmenu.ini
-Tutorial,Tutorial,,,,,Samouczek,,,,教程,,,,,,,,,,游戏术语,教学模式,odin001.ini
-Saga,Saga,,,,,Saga,,,,萨迦,,,,,,,,,,游戏术语,北欧传奇故事,saga001.ini
-Mythologie,Mythology,,,,,Mitologia,,,,神话,,,,,,,,,,游戏术语,北欧神话,odin001.ini
-Aggressiv,Aggressive,,,,,Agresywny,,,,进攻,,,,,,,,,,军事模式,士兵进攻模式,militarymodes.ini
-Defensiv,Defensive,,,,,Defensywny,,,,防御,,,,,,,,,,军事模式,士兵防御模式,militarymodes.ini
-Ignorant,Ignorant,,,,,Ignorowanie,,,,无视,,,,,,,,,,军事模式,士兵无视模式,militarymodes.ini
-Fliehen,Flee,,,,,Ucieczka,,,,逃跑,,,,,,,,,,军事模式,士兵逃跑模式,militarymodes.ini
-Freundlich,Friend,,,,,Przyjazny,,,,友好,,,,,,,,,,外交状态,友好关系,ingameguimisclogic.ini
-Neutral,Neutral,,,,,Neutralny,,,,中立,,,,,,,,,,外交状态,中立关系,ingameguimisclogic.ini
-Feindlich,Enemy,,,,,Wrogi,,,,敌对,,,,,,,,,,外交状态,敌对关系,ingameguimisclogic.ini
-Sigurd,Sigurd,,,,,Sigurd,,,,西格德,,,,,,,,,,人名,Bjarni的好友，维京勇士,campaign_01_04; campaign_02_01; campaign_02_03
-Cyra,Cyra,,,,,Cyra,,,,希拉,,,,,,,,,,人名,Bjarni的妻子，参与封印芬里尔狼,campaign_01_05; campaign_02_06
-Hatschi,Hatchie,,,,,Hatchie,,,,哈奇,,,,,,,,,,人名,阿拉伯朋友，二代主线配角,campaign_01_10; campaign_02_01
-Mani,Mani,,,,,Mani,,,,玛尼,,,,,,,,,,人名,第八世界奇迹主角之一,_campaign_04_01; campaign_03_01
-Norbert,Norbert,,,,,Norbert,,,,诺伯特,,,,,,,,,,人名,龙，Mani的伙伴,_campaign_04_01; campaign_03_02
-Miguel,Miguel,,,,,Miguel,,,,米格尔,,,,,,,,,,人名,singleplayer_02_01 角色,campaign_02_01; singleplayer_02_01
-Gunnar,Gunnar,,,,,Gunnar,,,,古纳尔,,,,,,,,,,人名,campaign_03_03 角色,campaign_03_03
-Herostrates,Herostrates,,,,,Herostrates,,,,赫罗斯特拉特斯,,,,,,,,,,人名,纵火者，为求名焚毁阿尔忒弥斯神庙,campaign_03_05; campaign_03_05_sub1
-Rothild,Rothild,,,,,Rothild,,,,罗希尔德,,,,,,,,,,人名,_campaign_04_01_sub3 角色,_campaign_04_01_sub3
-Blaustrumpf,Blaustrumpf,,,,,Blaustrumpf,,,,布劳施特鲁姆夫,,,,,,,,,,人名,_campaign_04_01_sub3 角色,_campaign_04_01_sub3
-Pyro,Pyro,,,,,Pyro,,,,派罗,,,,,,,,,,人名,火龙，_campaign_04_02 角色,_campaign_04_02; _campaign_04_02_sub1
-Aquarius,Aquarius,,,,,Aquarius,,,,阿夸里乌斯,,,,,,,,,,人名,水龙,_campaign_04_01_sub1; _campaign_04_01_sub2
-Aquarom,Aquarom,,,,,Aquarom,,,,阿夸罗姆,,,,,,,,,,人名,_campaign_04_03_sub1 角色,_campaign_04_03_sub1; _campaign_04_05_sub1
-Kobul,Kobul,,,,,Kobul,,,,科布尔,,,,,,,,,,人名,campaign_03_02 角色,campaign_03_02; _campaign_04_04
-Terras,Terras,,,,,Terras,,,,特拉斯,,,,,,,,,,人名,地龙,_campaign_04_04_sub2; _campaign_04_05
-Abras,Abras,,,,,Abras,,,,阿布拉斯,,,,,,,,,,人名,水龙,_campaign_04_04_sub2; _campaign_04_05
-Lumis,Lumis,,,,,Lumis,,,,卢米斯,,,,,,,,,,人名,_campaign_04_01 角色,_campaign_04_01; _campaign_04_02
-Gerols,Gerols,,,,,Gerols,,,,格罗尔斯,,,,,,,,,,人名,_campaign_04_01 角色,_campaign_04_01; _campaign_04_03; _campaign_04_05
-Jafar,Jafar,,,,,Jafar,,,,贾法尔,,,,,,,,,,人名,campaign_01_08 角色,campaign_01_08
-Ali Baba,Ali Baba,,,,,Ali Baba,,,,阿里巴巴,,,,,,,,,,人名,campaign_01_08 角色,campaign_01_08
-Sindbad,Sindbad,,,,,Sindbad,,,,辛巴达,,,,,,,,,,人名,campaign_01_10 角色,campaign_01_10
-Heimdall,Heimdall,,,,,Heimdall,,,,海姆达尔,,,,,,,,,,人名,北欧神话，彩虹桥守卫者,campaign_02_07; campaign_02_07-sub
-Loki,Loki,,,,,Loki,,,,洛基,,,,,,,,,,人名,北欧神话，诡计之神，Ykol的真身,campaign_02_08
-Hardradi,Hardradi,,,,,Hardrada,,,,哈德拉迪,,,,,,,,,,人名,拜占庭将军,campaign_01_06; campaign_01_07
-Sven Herulfson,Sven Herulfson,,,,,Swen Herulfson,,,,斯文·赫鲁尔夫松,,,,,,,,,,人名,campaign_01_07 角色,campaign_01_07
-Wieland,Wieland,,,,,Wieland,,,,维兰,,,,,,,,,,人名,传奇铁匠,campaign_01_03
-Robin Hood,Robin Hood,,,,,Robin Hood,,,,罗宾汉,,,,,,,,,,人名,英格兰传奇英雄,campaign_01_03
-Knut,Knut,,,,,Knut,,,,克努特,,,,,,,,,,人名,教程角色,tutorial_001
-Ulla,Ulla,,,,,Ulla,,,,乌拉,,,,,,,,,,人名,教程角色,tutorial_001
-Thorbjorn,Thorbjorn,,,,,Thorbjorn,,,,托尔比约恩,,,,,,,,,,人名,教程角色,tutorial_001
-Kari,Kari,,,,,Kari,,,,卡里,,,,,,,,,,人名,教程角色,tutorial_001
-Groa,Groa,,,,,Groa,,,,格罗阿,,,,,,,,,,人名,教程角色,tutorial_001
-Ljotolf,Ljotolf,,,,,Ljotolf,,,,约托尔夫,,,,,,,,,,人名,教程角色,tutorial_001
-Thorfinn,Thorfinn,,,,,Thorfinn,,,,托尔芬,,,,,,,,,,人名,教程角色,tutorial_005
-Lodin,Lodin,,,,,Lodin,,,,洛丁,,,,,,,,,,人名,教程角色,tutorial_005
-Lehmi,Lehmi,,,,,Clayme,,,,莱米,,,,,,,,,,人名,教程角色,tutorial_005
-Steini,Steini,,,,,Stony,,,,施泰尼,,,,,,,,,,人名,教程角色,tutorial_005
-Sturla,Sturla,,,,,Sturla,,,,斯图尔拉,,,,,,,,,,人名,教程角色,tutorial_005
-Ari,Ari,,,,,Ari,,,,阿里,,,,,,,,,,人名,教程角色,tutorial_005
-Chares,Chares,,,,,Chares,,,,卡雷斯,,,,,,,,,,人名,罗德岛太阳神巨像建筑师,campaign_03_03
-Demetrios,Demetrios,,,,,Demetrios,,,,德米特里奥斯,,,,,,,,,,人名,campaign_03_03 角色,campaign_03_03_sub1; campaign_03_03_sub2
-Plato,Plato,,,,,Plato,,,,柏拉图,,,,,,,,,,人名,campaign_03_03 角色,campaign_03_03
-Sostratos,Sostratos,,,,,Sostratos,,,,索斯特拉托斯,,,,,,,,,,人名,法罗斯灯塔建筑师,campaign_03_01
-Croesus,Croesus,,,,,Croesus,,,,克罗伊斯,,,,,,,,,,人名,campaign_03_03 角色,campaign_03_03
-Mausolos,Mausolos,,,,,Mauzolos,,,,毛索洛斯,,,,,,,,,,人名,哈利卡纳苏斯国王，陵墓主人,campaign_03_04
-Artemisia,Artemisia,,,,,Artemizja,,,,阿尔特米西亚,,,,,,,,,,人名,摩索拉斯王之妻,campaign_03_04
-Satyros,Satyros,,,,,Satyros,,,,萨提罗斯,,,,,,,,,,人名,campaign_03_04 角色,campaign_03_04
-Halikarnassos,Halikarnassos,,,,,Helikarnas,,,,哈利卡纳苏斯,,,,,,,,,,地名,卡里亚之都,campaign_03_04
-Osirer,Osirer,,,,,Ozyrianie,,,,奥西里斯族,,,,,,,,,,部族,奉冥界之神为名的埃及裔族裔,campaign_03_04
-Al Rhababa,Al Rhababa,,,,,Al Rhababa,,,,阿尔拉哈巴,,,,,,,,,,部族,哈利卡纳苏斯外海海盗,campaign_03_04
-El Arab,El Arab,,,,,El Arab,,,,埃尔阿拉布,,,,,,,,,,部族,山脚部族,campaign_03_04
-Letros,Letros,,,,,Letros,,,,莱特罗斯,,,,,,,,,,人名,箱商,campaign_03_04
-Amulos,Amulos,,,,,Amulos,,,,阿穆洛斯,,,,,,,,,,人名,箱商,campaign_03_04
-Vinos,Vinos,,,,,Vinos,,,,维诺斯,,,,,,,,,,人名,箱商,campaign_03_04
-Tut Ma' Nix,Tut Ma' Nix,,,,,Toot N Commin,,,,塔特·马·尼克斯,,,,,,,,,,人名,奥西里斯族大祭司,campaign_03_04
-Phidias,Phidias,,,,,Fidiasz,,,,菲狄亚斯,,,,,,,,,,人名,宙斯神像雕塑家,campaign_03_06
-Amelia,Amelia,,,,,Amelia,,,,阿梅利亚,,,,,,,,,,人名,campaign_03_05 角色,campaign_03_05
-Hermeias,Hermeias,,,,,Hermeias,,,,赫尔梅亚斯,,,,,,,,,,人名,campaign_03_05 角色,campaign_03_05
-Artemis,Artemis,,,,,Artemida,,,,阿尔忒弥斯,,,,,,,,,,神明,狩猎与月亮女神,campaign_03_05
-Ephesos,Ephesos,,,,,Efez,,,,以弗所,,,,,,,,,,地名,小亚细亚古城，阿尔忒弥斯神庙所在地,campaign_03_05
-Sumpfvolk,swamp tribe,,,,,Plemię z bagien,,,,沼泽部族,,,,,,,,,,部族,居于沼泽边缘之族,campaign_03_05_sub2
-Sumpfweisen,swamp sages,,,,,Mędrcy z Bagien,,,,沼泽智者,,,,,,,,,,部族,隐于沼泽深处的智者,campaign_03_05_sub2
-Lebensenergie,life energy,,,,,Energia Życiowa,,,,生命能量,,,,,,,,,,概念,沼泽中的奇异魔法能量,campaign_03_05_sub2
-Anthusa,Anthusa,,,,,Anthusa,,,,安图萨,,,,,,,,,,人名,campaign_03_06 角色,campaign_03_06
-Destasia,Destasia,,,,,Destasia,,,,德斯塔西亚,,,,,,,,,,人名,campaign_03_06 角色,campaign_03_06
-Pasara,Pasara,,,,,Pasara,,,,帕萨拉,,,,,,,,,,人名,campaign_03_06 角色,campaign_03_06
-Olympia,Olympia,,,,,Olimpia,,,,奥林匹亚,,,,,,,,,,地名,宙斯巨像所在地，奥林匹克竞技发源地,campaign_03_06
-Elis,Elis,,,,,Eleia,,,,埃利斯,,,,,,,,,,地名,伯罗奔尼撒城邦,campaign_03_06
-Korinth,Korinth,,,,,Korynt,,,,科林斯,,,,,,,,,,地名,古希腊城邦,campaign_03_06
-Sparta,Sparta,,,,,Sparta,,,,斯巴达,,,,,,,,,,地名,古希腊军事城邦,campaign_03_06
-Megara,Megara,,,,,Megara,,,,墨伽拉,,,,,,,,,,地名,古希腊城邦,campaign_03_06
-Eliser,Eliser,,,,,Eleiczyk,,,,埃利斯人,,,,,,,,,,部族,埃利斯之民,campaign_03_06
-Läufer,Runner,,,,,Biegacz,,,,赛跑者,,,,,,,,,,身份,奥林匹亚竞技之赛跑者,campaign_03_06
-Nomadenkrieger,nomad warriors,,,,,Wojownicy Nomadów,,,,游牧战士,,,,,,,,,,部族,崇拜宙斯之游牧武士,campaign_03_06
-Kronos,Kronos,,,,,Kronos,,,,克洛诺斯,,,,,,,,,,神明,提坦神，宙斯之父,campaign_03_06
-Flammenmeer,Flammenmeer,,,,,Morze Płomieni,,,,火海,,,,,,,,,,地名,斯巴达地下熔岩秘窟,campaign_03_06_sub2
-Elfenbein,ivory,,,,,Kość Słoniowa,,,,象牙,,,,,,,,,,材料,巨像裸身镶饰所用,campaign_03_06
-Edelmetalle,precious metals,,,,,Metale Szlachetne,,,,贵金属,,,,,,,,,,材料,嵌于权杖之稀有金属,campaign_03_06
-Nike,Nike,,,,,Nike,,,,尼刻,,,,,,,,,,神明,胜利女神，立于宙斯右手,campaign_03_06
-Zeusstatue,Statue of Zeus,,,,,Statua Zeusa,,,,宙斯巨像,,,,,,,,,,奇迹,世界奇迹5（菲狄亚斯塑）,campaign_03_06
-Merobaudes,Merobaudes,,,,,Merobaudes,,,,梅罗鲍德斯,,,,,,,,,,人名,singleplayer_01_07 角色,singleplayer_01_07
-Nanuk,Nanuk,,,,,Nanuk,,,,纳努克,,,,,,,,,,人名,weinachten_2002 角色,weinachten_2002
-Linda,Linda,,,,,Linda,,,,琳达,,,,,,,,,,人名,campaign_03_03 角色,campaign_03_03
-Petros,Petros,,,,,Petros,,,,佩特罗斯,,,,,,,,,,人名,campaign_03_03 角色,campaign_03_03
-Buerokrates,Buerokrates,,,,,Buerocrates,,,,官僚布罗克拉特斯,,,,,,,,,,人名,campaign_03_03 角色（戏仿官僚）,campaign_03_03
-Sekretarios,Sekretarios,,,,,Secretarios,,,,秘书塞克拉塔里奥斯,,,,,,,,,,人名,campaign_03_03 角色（戏仿秘书）,campaign_03_03
-Metros,Metros,,,,,Metros,,,,梅特罗斯,,,,,,,,,,人名,campaign_03_03 角色,campaign_03_03
-Prof. Wamugo,Prof. Wamugo,,,,,Prof. Wamugo,,,,瓦穆戈教授,,,,,,,,,,人名,_campaign_04_03 角色,_campaign_04_03; _campaign_04_05
-Tankred,Tankred,,,,,Tancred,,,,坦克雷德,,,,,,,,,,人名,campaign_01_02-sub 角色,campaign_01_02-sub
-Johannes,Johannes,,,,,Johannes,,,,约翰内斯,,,,,,,,,,人名,campaign_02_04 角色,campaign_02_04
-Smilch,Smilch,,,,,Smilch,,,,斯米尔奇,,,,,,,,,,人名,campaign_02_04 角色,campaign_02_04
-Dobur,Dobur,,,,,Dobur,,,,多布尔,,,,,,,,,,人名,campaign_02_04 角色,campaign_02_04
-NORMANDIE,NORMANDY,,,,,NORMANDIA,,,,诺曼底,,,,,,,,,,地名,法国北部地区,campaign_01_02
-ENGLAND,ENGLAND,,,,,ANGLIA,,,,英格兰,,,,,,,,,,地名,英国,campaign_01_03
-ITALIEN,ITALY,,,,,ITALIA,,,,意大利,,,,,,,,,,地名,南欧,campaign_01_04
-MIKLAGARD,MIKLAGARD,,,,,MIKLAGARD,,,,米克拉加德,,,,,,,,,,地名,维京对君士坦丁堡的称呼,campaign_01_05
-ALEXANDRIA,ALEXANDRIA,,,,,ALEKSANDRIA,,,,亚历山大港,,,,,,,,,,地名,埃及港口城市,campaign_01_08; campaign_03_01
-PALÄSTINA,PALESTINE,,,,,PALESTYNA,,,,巴勒斯坦,,,,,,,,,,地名,中东地区,campaign_01_09
-BAGDAD,BAGHDAD,,,,,BAGDAD,,,,巴格达,,,,,,,,,,地名,伊拉克首都,campaign_01_10
-WALHALLA,VALHALLA,,,,,WALHALLA,,,,瓦尔哈拉,,,,,,,,,,地名,北欧神话，英灵殿,campaign_02_06
-NORDLAND,NORTHLAND,,,,,PÓŁNOC,,,,北地,,,,,,,,,,地名,北方之地,campaign_02_06
-HEL'S REICH,HEL'S REALM,,,,,KRÓLESTWO HEL,,,,海尔之国,,,,,,,,,,地名,北欧神话，死亡女神Hel的领地,campaign_02_07
-PHAROS,PHAROS,,,,,FAROS,,,,法罗斯,,,,,,,,,,地名,亚历山大港外岛屿，灯塔所在地,campaign_03_01
-RHODOS,RHODES,,,,,RODOS,,,,罗德岛,,,,,,,,,,地名,希腊岛屿，巨像所在地,campaign_03_03
-GIZEH,GIZA,,,,,GIZA,,,,吉萨,,,,,,,,,,地名,埃及金字塔所在地,campaign_03_07
-THULE,THULE,,,,,TULE,,,,图勒,,,,,,,,,,地名,北欧神话中的极北之地,campaign_01_03
-LONDON,LONDON,,,,,LONDYN,,,,伦敦,,,,,,,,,,地名,英国首都,campaign_01_03
-NOTTINGHAM,NOTTINGHAM,,,,,NOTTINGHAM,,,,诺丁汉,,,,,,,,,,地名,英国城市,campaign_01_03
-PARIS,PARIS,,,,,PARYŻ,,,,巴黎,,,,,,,,,,地名,法国首都,campaign_01_02
-RATINGEN,RATINGEN,,,,,RATINGEN,,,,拉廷根,,,,,,,,,,地名,德国城市,campaign_01_02
-OBERKIRCH,OBERKIRCH,,,,,OBERKIRCH,,,,奥伯基希,,,,,,,,,,地名,德国城市,campaign_01_02
-BRISTOL,BRISTOL,,,,,BRISTOL,,,,布里斯托尔,,,,,,,,,,地名,英国城市,campaign_01_03
-YORK,YORK,,,,,YORK,,,,约克,,,,,,,,,,地名,英国城市,campaign_01_03
-BABYLON,BABYLON,,,,,BABILON,,,,巴比伦,,,,,,,,,,地名,古巴比伦城,campaign_03_02; _campaign_04_04
-ANTIOCHIA,ANTIOCHIA,,,,,ANTIOCHIA,,,,安条克,,,,,,,,,,地名,古叙利亚城市,singleplayer_01_05
-AKKON,AKKON,,,,,AKKA,,,,阿克,,,,,,,,,,地名,黎凡特城市,singleplayer_01_10
-HAITABU,HAITABU,,,,,HAITABU,,,,海塔布,,,,,,,,,,地名,维京时代重要贸易站,singleplayer_01_04
-MONTSERAINE,MONTSERAINE,,,,,MONTSERAINE,,,,蒙特塞雷恩,,,,,,,,,,地名,demo_singleplayer_02 虚构地名,demo_singleplayer_02
-LINDOS,LINDOS,,,,,LINDOS,,,,林多斯,,,,,,,,,,地名,罗德岛古城,campaign_03_03
-BIFROST,BIFROST,,,,,BIFROST,,,,比弗罗斯特,,,,,,,,,,地名,北欧神话，彩虹桥,campaign_02_07-sub
-GRAUHOLM,GRAUHOLM,,,,,GRAUHOLM,,,,格拉乌霍尔姆,,,,,,,,,,地名,_campaign_04_01_sub3 虚构地名,_campaign_04_01_sub3
-SÄRKLAND,SARKLAND,,,,,SERKLAND,,,,萨尔克兰,,,,,,,,,,地名,维京对中东/巴格达地区的称呼,campaign_01_10
-Fenriswolf,Fenris Wolf,,,,,Wilk Fenrisa,,,,芬里尔狼,,,,,,,,,,神话,北欧神话，Loki之子，巨狼,campaign_02_04; campaign_02_05
-Fenrir,Fenrir,,,,,Fenrir,,,,芬里尔,,,,,,,,,,神话,芬里尔狼的别名,campaign_02_04; campaign_02_05
-Midgardschlange,Midgard Serpent,,,,,Wąż Midgardu,,,,米德加德之蛇,,,,,,,,,,神话,北欧神话，Loki之子，耶梦加得,campaign_01_11
-Yggdrasil,Yggdrasil,,,,,Yggdrasil,,,,世界树,,,,,,,,,,神话,北欧神话，宇宙之树,campaign_02_06
-Yggdrasils-Orden,Yggdrasil Order,,,,,Strażnicy świętego drzewa,,,,世界树教团,,,,,,,,,,神话,游戏组织,campaign_02_06
-Warägergarde,Waräger Guard,,,,,Gwardia Waregów,,,,瓦良格卫队,,,,,,,,,,军事,拜占庭皇帝的维京卫队,campaign_01_06; campaign_01_07
-Aquas,Aquas,,,,,Aquas,,,,阿夸斯,,,,,,,,,,生物,水龙,_campaign_04_01; _campaign_04_04_sub2
-Feuerdrachen,Fire Dragons,,,,,Smoki Ogniste,,,,火龙,,,,,,,,,,生物,_campaign_04 系列,_campaign_04_01
-Steindrachen,Stone Dragons,,,,,Smoki Kamienne,,,,石龙,,,,,,,,,,生物,_campaign_04 系列,_campaign_04_01
-Wasserdrachen,Water Dragons,,,,,Smoki Wodne,,,,水龙,,,,,,,,,,生物,_campaign_04 系列,_campaign_04_01
-Schwarzdrachen,Black Dragons,,,,,Czarne Smoki,,,,黑龙,,,,,,,,,,生物,_campaign_04_02_sub2,_campaign_04_02_sub2
-Erddrachen,Earth Dragons,,,,,Smoki Ziemne,,,,地龙,,,,,,,,,,生物,_campaign_04_05,_campaign_04_05
-Zauberdrachen,Magic Dragons,,,,,Smoki Magiczne,,,,魔法龙,,,,,,,,,,生物,_campaign_04_05,_campaign_04_05
-Schlangenkrieger,Serpent Warriors,,,,,Wężołaki,,,,蛇战士,,,,,,,,,,军事,蛇族战士,campaign_02_01
-Schlangenvolk,Serpent People,,,,,Ludzie-węże,,,,蛇族,,,,,,,,,,种族,蛇形人种,campaign_01_11; singleplayer_01_08
-Schlangendämonen,Serpent Demons,,,,,Demony,,,,蛇魔,,,,,,,,,,生物,蛇形恶魔,demo_singleplayer_02; singleplayer_02_06
-Schlangenwächter,Serpent Guard,,,,,Wężowy strażnik,,,,蛇卫,,,,,,,,,,军事,蛇族守卫,campaign_01_10-sub
-Nebelschlangen,Fog Serpents,,,,,Węże,,,,雾蛇,,,,,,,,,,生物,singleplayer_02_03-sub3,singleplayer_02_03-sub3
-Geisterkrieger,Ghost Warriors,,,,,Duchy wojowników,,,,幽灵战士,,,,,,,,,,军事,Loki的幽灵战士,campaign_02_07; campaign_02_08
-Werwölfkrieger,Werewolf Warriors,,,,,Wilkołaki,,,,狼人战士,,,,,,,,,,军事,狼人战士,campaign_02_07
-Wolfskreaturen,Wolf Creatures,,,,,Wilcze Stwory,,,,狼人生物,,,,,,,,,,生物,singleplayer_02_01-sub5,singleplayer_02_01-sub5
-Drachen,Dragons,,,,,Smoki,,,,龙,,,,,,,,,,生物,龙族总称,campaign_03_02_sub
-Plattländer,Lowlanders,,,,,Wiking z nizin,,,,低地人,,,,,,,,,,种族,多人地图部族,multiplayer_005; multiplayer_101
-Highländer,Highlanders,,,,,Wiking z gór,,,,高地人,,,,,,,,,,种族,多人地图部族,multiplayer_005; multiplayer_101
-Nomaden,Nomads,,,,,Beduini,,,,游牧民,,,,,,,,,,种族,游牧民族,campaign_01_08; campaign_03_01
-Hafenvolk,Harbour People,,,,,Lud Zatoki,,,,港口民,,,,,,,,,,种族,港口部族,campaign_01_10; campaign_03_05
-Bergvolk,Mountain Tribe,,,,,Górskie Plemię,,,,山地部族,,,,,,,,,,种族,山地部族,campaign_03_01
-Sandleute,Sand Dwellers,,,,,Sand Dwellers,,,,沙民,,,,,,,,,,种族,沙漠部族,multiplayer_204
-Schneeschieber,Snow Pushers,,,,,Snow Pushers,,,,推雪者,,,,,,,,,,种族,多人地图部族,multiplayer_204
-Dunkelländer,Darklanders,,,,,Mieszkańcy Krainy Ciemności,,,,暗地人,,,,,,,,,,种族,多人地图部族,multiplayer_101
-Finsterländer,Gloomlanders,,,,,Gloomlanders,,,,幽地人,,,,,,,,,,种族,多人地图部族,multiplayer_201
-Markländer,Marklanders,,,,,Marklandczyk,,,,边地人,,,,,,,,,,种族,singleplayer_02_03 部族,singleplayer_02_03
-Helluländer,Hellulanders,,,,,Hellulandczyk,,,,赫鲁兰人,,,,,,,,,,种族,singleplayer_02_03 部族,singleplayer_02_03
-Goldmangies,Goldmangies,,,,,Złotnicy,,,,金曼吉斯人,,,,,,,,,,种族,singleplayer_02_03 部族,singleplayer_02_03
-Graukimos,Greykimos,,,,,Szaromosi,,,,灰爱斯基摩人,,,,,,,,,,种族,weinachten_2002 部族,weinachten_2002
-Gelbimos,Yellimos,,,,,Żółtomosi,,,,黄爱斯基摩人,,,,,,,,,,种族,weinachten_2002 部族,weinachten_2002
-Schwarzimos,Blackimos,,,,,Czarnomosi,,,,黑爱斯基摩人,,,,,,,,,,种族,weinachten_2002 部族,weinachten_2002
-Hüter,Keepers,,,,,Strażnicy,,,,守护者,,,,,,,,,,种族,神秘组织,singleplayer_02_03
-Hüter des Wissens,Keepers of Knowledge,,,,,Strażnicy wiedzy,,,,知识守护者,,,,,,,,,,种族,守护者分支,singleplayer_02_03
-Beduinen,Bedouins,,,,,Beduini,,,,贝都因人,,,,,,,,,,种族,阿拉伯游牧民族,campaign_03_07
-Inselvolk,Island People,,,,,Wyspiarze,,,,岛民,,,,,,,,,,种族,campaign_03_08 部族,campaign_03_08
-Dunkles Heer,Dark Army,,,,,Mroczna Armia,,,,暗黑军团,,,,,,,,,,军事,敌对势力,campaign_03_07
-Räuber,Robbers,,,,,Rozbójnicy,,,,强盗,,,,,,,,,,军事,通用敌对单位,campaign_03_02; tutorial_007
-Banditen,Brigands,,,,,Bandyci,,,,匪徒,,,,,,,,,,军事,敌对单位,campaign_01_05
-Wachen,Guards,,,,,Strażnicy,,,,守卫,,,,,,,,,,军事,通用单位,campaign_03_01_sub
-Händler,Merchant,,,,,Kupiec,,,,商人,,,,,,,,,,职业,贸易单位（剧情中）,campaign_03_05; singleplayer_03_03
-Fährmann,Ferryman,,,,,Przewoźnik,,,,渡船夫,,,,,,,,,,职业,渡船人,campaign_02_04; _campaign_04_01
-Leuchtturm von Pharos,Pharos Lighthouse,,,,,Latarnia Morska na Faros,,,,法罗斯灯塔,,,,,,,,,,奇迹,世界奇迹1,campaign_03_01
-Koloss von Rhodos,Colossus of Rhodes,,,,,Kolos Rodyjski,,,,罗德岛太阳神巨像,,,,,,,,,,奇迹,世界奇迹2,campaign_03_03
-Hängende Gärten von Semiramis,Hanging Gardens of Semiramis,,,,,Wiszące Ogrody Semiramidy,,,,塞弥拉弥斯空中花园,,,,,,,,,,奇迹,世界奇迹3,campaign_03_02
-Mausoleum,Mausoleum,,,,,Mauzolea,,,,摩索拉斯王陵,,,,,,,,,,奇迹,世界奇迹4,campaign_03_04
-Tempel der Artemis,Temple of Artemis,,,,,Świątynia Artemidy,,,,阿尔忒弥斯神庙,,,,,,,,,,奇迹,世界奇迹5,campaign_03_05
-Zeustatue des Phidias,Zeus Statue of Phidias,,,,,Statua Zeusa Fidiasza,,,,菲狄亚斯宙斯神像,,,,,,,,,,奇迹,世界奇迹6,campaign_03_06
-Pyramiden von Gizeh,Pyramids of Giza,,,,,Piramidy w Gizie,,,,吉萨金字塔,,,,,,,,,,奇迹,世界奇迹7,campaign_03_07
-Das achte Weltwunder,Eighth Wonder of the World,,,,,Ósmy Cud Świata,,,,第八世界奇迹,,,,,,,,,,奇迹,世界奇迹8，游戏终极目标,campaign_03_08
-Orakel,Oracle,,,,,Wyrocznia,,,,神谕,,,,,,,,,,神话,神谕所/神谕者,campaign_03_03_sub3
-Semiramis,Semiram,,,,,Semiramis,,,,塞弥拉弥斯,,,,,,,,,,人名,传说中空中花园的建造者,campaign_03_02
-Bjarnis Stamm,Bjarni's Tribe,,,,,Plemię Bjarniego,,,,比雅尼的部族,,,,,,,,,,种族,Bjarni的维京部族,campaign_01_02
-Bjarnis Volk,Bjarni's People,,,,,Plemię Bjarniego,,,,比雅尼的子民,,,,,,,,,,种族,Bjarni的维京子民,singleplayer_01_04
-Bjarnis Dorf,Bjarni's Village,,,,,Wioska Bjarniego,,,,比雅尼的村庄,,,,,,,,,,地名,Bjarni的村庄,campaign_01_03
-Hatschis Dorf,Hatchie's Village,,,,,Wioska Hatschiego,,,,哈奇的村庄,,,,,,,,,,地名,Hatschi的村庄,campaign_02_01
-Sigurds Festung,Sigurd's Fortress,,,,,Twierdza Sigurda,,,,西格德的要塞,,,,,,,,,,地名,Sigurd的要塞,campaign_02_03
-Sigurds Burg,Sigurd's Castle,,,,,Zamek Sigurda,,,,西格德的城堡,,,,,,,,,,地名,Sigurd的城堡,campaign_02_04
-Königreich Thule,Kingdom of Thule,,,,,Królestwo Thule'a,,,,图勒王国,,,,,,,,,,地名,Thule王国,campaign_01_03
-König Thule,King Thule,,,,,Król Thule,,,,图勒国王,,,,,,,,,,人名,Thule国王,campaign_01_03
-Meisterschmied Wieland,Wieland the Blacksmith,,,,,Kowal Wieland,,,,铁匠大师维兰,,,,,,,,,,人名,传奇铁匠Wieland,campaign_01_03
-General Hardradi,General Hardradi,,,,,Generał Hardrada,,,,哈德拉迪将军,,,,,,,,,,人名,拜占庭将军,campaign_01_07
-Ali Babas Bruder,Ali Baba's Brother,,,,,Brat Ali Baby,,,,阿里巴巴的兄弟,,,,,,,,,,人名,campaign_01_08 角色,campaign_01_08
-Ykol (Loki),Ykol (Loki),,,,,Ykol (Loki),,,,伊科尔（洛基）,,,,,,,,,,人名,Ykol的真实身份是Loki,campaign_02_08
-Herostrates Erben,Herostrates' Heirs,,,,,Spadkobiercy Herostratesa,,,,希罗斯特拉特斯的继承者,,,,,,,,,,军事,纵火者组织,campaign_03_05; campaign_03_05_sub1
-Miguels Freunde,Miguel's Friends,,,,,Przyjaciele Miguela,,,,米格尔的朋友们,,,,,,,,,,军事,singleplayer_02_01-sub4,singleplayer_02_01-sub4
-Miguels Stamm,Miguel's tribe,,,,,Plemię Miguela,,,,米格尔的部族,,,,,,,,,,种族,singleplayer_02_01,singleplayer_02_01
-Anführer der Hüter,Keepers' Leader,,,,,Dowódca strażników,,,,守护者首领,,,,,,,,,,人名,守护者组织首领,singleplayer_02_03-sub1
-Soldaten der Hüter,Keepers' Soldiers,,,,,Żołnierze strażników,,,,守护者士兵,,,,,,,,,,军事,守护者士兵,singleplayer_02_03-sub1
-Brückenwächter,Bridge Guard,,,,,Strażnik mostu,,,,桥卫,,,,,,,,,,军事,守桥人,campaign_01_05; campaign_01_07
-Kopfgeldjäger,Bounty Hunter,,,,,Łowca nagród,,,,赏金猎人,,,,,,,,,,军事,campaign_01_10,campaign_01_10
-Sarazenen Dorf,Saracen Village,,,,,Wioska Saracenów,,,,撒拉逊村庄,,,,,,,,,,地名,撒拉逊人村庄,campaign_01_10
-Sarazenenheer,Saracen Army,,,,,Armia Saracenów,,,,撒拉逊军队,,,,,,,,,,军事,撒拉逊军队,singleplayer_01_10
-Frankenprinzessin,Frankish Princess,,,,,Frankońska księżniczka,,,,法兰克公主,,,,,,,,,,人名,campaign_01_02 角色,campaign_01_02
-Normannenprinz,Norman Prince,,,,,Normański książe,,,,诺曼底王子,,,,,,,,,,人名,campaign_01_02 角色,campaign_01_02
-Prinzessin,Princess,,,,,Księżniczka,,,,公主,,,,,,,,,,人名,通用公主,campaign_01_02-sub; campaign_01_05-sub
-Prinz,Prince,,,,,Książe,,,,王子,,,,,,,,,,人名,通用王子,campaign_01_02-sub
-Frankenkönig,King of the Franks,,,,,Król Franków,,,,法兰克国王,,,,,,,,,,人名,法兰克国王,singleplayer_01_09
-König Mausolos,King Mausolos,,,,,Król Mauzolos,,,,毛索洛斯国王,,,,,,,,,,人名,哈利卡纳苏斯国王,campaign_03_04
-Königin Artemisia,Queen Artemisia,,,,,Królowa Artemisia,,,,阿耳忒弥西亚女王,,,,,,,,,,人名,毛索洛斯之妻,campaign_03_04
-Häuptling,Chieftain,,,,,Wódz,,,,酋长,,,,,,,,,,人名,部落酋长,weinachten_2002
-Häuptling Oasiens,Chieftain of Oasia,,,,,Wódz z Oazy,,,,绿洲酋长,,,,,,,,,,人名,singleplayer_03_01,singleplayer_03_01
-Der Hexer,The Sorcerer,,,,,Czarnoksiężnik,,,,巫师,,,,,,,,,,人名,singleplayer_01_08 角色,singleplayer_01_08
-Der Druide,The Druid,,,,,Druid,,,,德鲁伊,,,,,,,,,,人名,singleplayer_02_03 角色,singleplayer_02_03
-Der General,The General,,,,,Generał,,,,将军,,,,,,,,,,人名,campaign_03_05 角色,campaign_03_05
-Tyrann,Tyrant,,,,,Tyran,,,,暴君,,,,,,,,,,人名,campaign_02_04 角色,campaign_02_04
-Leibgarde,Bodyguard,,,,,Straż przyboczna,,,,贴身卫队,,,,,,,,,,军事,护卫,singleplayer_02_03-sub1
-Kamelwache,Camel Guard,,,,,Strażnik Wielbłądów,,,,骆驼守卫,,,,,,,,,,军事,singleplayer_03_01,singleplayer_03_01
-Erkundungstrupp,Scouts,,,,,Zwiadowcy,,,,侦察队,,,,,,,,,,军事,singleplayer_03_02,singleplayer_03_02
-Wolfsrudel,Wolf Pack,,,,,Wilcza Wataha,,,,狼群,,,,,,,,,,生物,野狼群,singleplayer_03_03
-Bergdorf,Mountain Village,,,,,Górska Wioska,,,,山地村,,,,,,,,,,地名,singleplayer_03_03,singleplayer_03_03
-Bergfestung,Mountain Fortress,,,,,Górska forteca,,,,山间要塞,,,,,,,,,,地名,campaign_01_05,campaign_01_05
-Verlassenes Dorf,Abandoned Village,,,,,Opuszczona wioska,,,,废弃村庄,,,,,,,,,,地名,campaign_02_02,campaign_02_02
-Außenposten Londons,London Outpost,,,,,Londyński posterunek,,,,伦敦前哨,,,,,,,,,,地名,campaign_01_03,campaign_01_03
-Fenris Horden,Fenrir's Hordes,,,,,Hordy Fenrisa,,,,芬里尔的部落,,,,,,,,,,军事,芬里尔狼的爪牙,campaign_02_05
-Loki's Geisterkrieger,Loki's Ghost Warriors,,,,,Wojownicy Lokiego,,,,洛基的幽灵战士,,,,,,,,,,军事,Loki的幽灵战士,campaign_02_08
-Drachensklaven,Dragon Slaves,,,,,Zniewolone smoki,,,,龙奴,,,,,,,,,,军事,龙的奴隶,singleplayer_03_04
-Piraten,Pirates,,,,,Piraci,,,,海盗,,,,,,,,,,军事,海盗,singleplayer_03_04
-Grabräuber,Grave Robbers,,,,,Rabusie Grobów,,,,盗墓贼,,,,,,,,,,军事,singleplayer_03_05,singleplayer_03_05
-Wolfsmenschenführer,Wolf Leader,,,,,Przywódca Wilkołaków,,,,狼人首领,,,,,,,,,,人名,singleplayer_02_01-sub5,singleplayer_02_01-sub5
-Kolonialisierung,Colonization,,,,,Kolonizacja,,,,殖民化,,,,,,,,,,游戏术语,多人地图模式,multiplayer_105
-Flagge erobern,Cap the Flag,,,,,Zdobywanie Flag,,,,夺旗,,,,,,,,,,游戏术语,多人地图模式,multiplayer_204; multiplayer_005
-Kuh erobern,Cap the Cow,,,,,Zdobywanie Krowy,,,,夺牛,,,,,,,,,,游戏术语,多人地图模式,multiplayer_004; multiplayer_205
-Koop,Coop,,,,,Kooperacja,,,,合作,,,,,,,,,,游戏术语,多人合作模式,multiplayer_007; multiplayer_101
-Odin,Odin,,,,,Odyn,,,,奥丁,,,,,,,,,,神话人物,北欧神话，众神之父,campaign_01_01
-Eisriesen,Ice Giants,,,,,Lodowi Olbrzymi,,,,冰巨人,,,,,,,,,,神话生物,冰霜巨人族,campaign_01_01
-Schicksalsschwestern,Fate Sisters,,,,,Norny,,,,命运三姐妹,,,,,,,,,,神话称谓,诺恩三女神的别称,campaign_01_01
-Odins Tafel,Odin's Table,,,,,Uczta Odyna,,,,奥丁的宴席,,,,,,,,,,神话概念,英灵殿中奥丁的盛宴,campaign_01_01
-Normannen,Normans,,,,,Normanowie,,,,诺曼人,,,,,,,,,,种族,定居诺曼底的北欧人后裔,campaign_01_02
-St. Pierre,St. Pierre,,,,,St. Pierre,,,,圣皮埃尔,,,,,,,,,,地名,法兰克山谷和修道院,campaign_01_02
-Informant,Informant,,,,,Informator,,,,线人,,,,,,,,,,职业,提供情报的神秘人,campaign_01_02
-Zauberschwert,Magic Sword,,,,,Czarodziejski Miecz,,,,魔法剑,,,,,,,,,,物品,维兰锻造的神兵,campaign_01_03
-Little John,Little John,,,,,Mały John,,,,小约翰,,,,,,,,,,人名,罗宾汉的副手,campaign_01_03
-Sheriff von Nottingham,Sheriff of Nottingham,,,,,Szeryf z Nottingham,,,,诺丁汉治安官,,,,,,,,,,人名,campaign_01_03 角色,campaign_01_03
-Briten,Britons,,,,,Brytowie,,,,不列颠人,,,,,,,,,,种族,不列颠岛居民,campaign_01_03
-Müller,Miller,,,,,Młynarze,,,,磨坊主,,,,,,,,,,职业,操作磨坊的工人,campaign_01_01
-Bäcker,Baker,,,,,Piekarze,,,,烘焙师,,,,,,,,,,职业,烘焙面包的工人,campaign_01_01
-Zivilist,Civilian,,,,,Cywil,,,,平民,,,,,,,,,,职业,村庄中的平民居民,campaign_01_01
-Tribut,Tribute,,,,,Danina,,,,贡品,,,,,,,,,,物品,需缴纳的贡品/税负,campaign_01_01
-Straße,Road,,,,,Droga,,,,道路,,,,,,,,,,建筑,连接两地的道路,campaign_01_01
-Haus,House,,,,,Dom,,,,房屋,,,,,,,,,,建筑,村民居住的房屋,campaign_01_01
-Bedürfnis,Need,,,,,Potrzeba,,,,需求,,,,,,,,,,概念,村民的自然需求（饮食/睡眠/娱乐）,campaign_01_01
-Julia,Juliet,,,,,Julia,,,,朱丽叶,,,,,,,,,,人名,法兰克公主，致敬罗密欧与朱丽叶,campaign_01_02
-Romeo,Romeo,,,,,Romeo,,,,罗密欧,,,,,,,,,,人名,诺曼王子，致敬罗密欧与朱丽叶,campaign_01_02
-Britannien,Brittany,,,,,Brytania,,,,不列颠,,,,,,,,,,地名,英国岛，campaign_01_02 航行目的地,campaign_01_02
-Abtei,Abbey,,,,,Opactwo,,,,修道院,,,,,,,,,,建筑,圣皮埃尔修道院,campaign_01_02
-Töpfer,Potter,,,,,Garncarze,,,,陶工,,,,,,,,,,职业,制作砖瓦陶器的工匠,campaign_01_02
-Näher,Tailor,,,,,Krawcy,,,,裁缝,,,,,,,,,,职业,制作鞋与皮甲的工匠,campaign_01_02
-Viehzüchter,Stock Farmer,,,,,Hodowcy Bydła,,,,畜牧工,,,,,,,,,,职业,饲养牛羊的工匠,campaign_01_02
-Plattenrüstung,Plate Armour,,,,,Zbroja Płytowa,,,,板甲,,,,,,,,,,物品,护甲,campaign_01_02
-Handelsschiff,Merchant Ship,,,,,Statek Handlowy,,,,商船,,,,,,,,,,车辆,运输工具,campaign_01_02
-Schriftrolle,Scroll,,,,,Zwój,,,,卷轴,,,,,,,,,,物品,开启建筑蓝图,campaign_01_02
-Schmiede,Smithy,,,,,Kowal,,,,铁匠铺,,,,,,,,,,建筑,生产铁质工具武器,campaign_01_02
-Schreinerei,Carpenter's Workshop,,,,,Warsztat Ciesielski,,,,木工坊,,,,,,,,,,建筑,生产木质工具,campaign_01_02
-Steinmetzhütte,Stonemason's Workshop,,,,,Warsztat Kamieniarski,,,,石匠坊,,,,,,,,,,建筑,生产石料,campaign_01_02
-Töpferei,Pottery,,,,,Warsztat Garncarski,,,,陶艺坊,,,,,,,,,,建筑,生产砖瓦,campaign_01_02
-Lehmabbauer,Clay-worker,,,,,Zbieracz Gliny,,,,采泥工,,,,,,,,,,职业,采集黏土,campaign_01_02
-Erzabbauer,Ore Miner,,,,,Zbieracz Rudy,,,,矿工,,,,,,,,,,职业,采矿石,campaign_01_02
-Holzabbauer,Woodcutter,,,,,Zbieracz Drewna,,,,伐木工,,,,,,,,,,职业,伐木,campaign_01_02
-Jäger,Huntsman,,,,,Myśliwy,,,,猎人,,,,,,,,,,职业,狩猎与皮革,campaign_01_02
-Viehzüchterei,Cattle Farm,,,,,Ferma bydła,,,,畜牧场,,,,,,,,,,建筑,饲养牲畜,campaign_01_02
-Lederrüstung,Leather Armour,,,,,Skórzana zbroja,,,,皮甲,,,,,,,,,,物品,护甲,campaign_01_02
-Öl,Oil,,,,,Oliwy,,,,油,,,,,,,,,,物品,精油/食用油,campaign_01_03
-Sherwood,Sherwood,,,,,Sherwood,,,,舍伍德,,,,,,,,,,地点,舍伍德森林，罗宾汉活动地,campaign_01_03
-Brite,Briton,,,,,Bryt,,,,不列颠人,,,,,,,,,,阵营,不列颠原住民,campaign_01_03
-Alben,Alf,,,,,Elfy,,,,精灵,,,,,,,,,,神话人物,北欧神话中的精灵/侏儒族,campaign_01_03
-Erzbischof,Archbishop,,,,,Arcybiskup,,,,大主教,,,,,,,,,,职业,教会高阶教职,campaign_01_03
-Robin,Robin,,,,,Robin,,,,罗宾,,,,,,,,,,人名,罗宾汉之名,campaign_01_03
-Benevent,Benevent,,,,,Benewent,,,,贝内文托,,,,,,,,,,地点,意大利城市,campaign_01_04
-Napoli,Naples,,,,,Neapol,,,,那不勒斯,,,,,,,,,,地点,意大利城市,campaign_01_04
-Roma,Rome,,,,,Rzym,,,,罗马,,,,,,,,,,地点,意大利城市,campaign_01_04
-Gibraltar,Gibraltar,,,,,Gibraltar,,,,直布罗陀,,,,,,,,,,地点,直布罗陀海峡,campaign_01_04
-Waräger,Warägers,,,,,Waregowie,,,,瓦良格,,,,,,,,,,种族,,
-Kaiser,Emperor,,,,,Cesarz,,,,皇帝,,,,,,,,,,官职,,
-General,General,,,,,Generał,,,,将军,,,,,,,,,,官职,,
-Imperator,Imperator,,,,,Imperator,,,,君主,,,,,,,,,,官职,,
-Hardradis Soldaten,Hardradi's Soldiers,,,,,Wojska Hardrady,,,,哈尔德拉迪的士兵,,,,,,,,,,军事,,
-Flüchtlinge,Refugees,,,,,Uciekinierzy,,,,难民,,,,,,,,,,称谓,,
-Tante,Aunt,,,,,Ciotka,,,,姑母,,,,,,,,,,称谓,,
-Cäsaren,Caesars,,,,,Cezarowie,,,,恺撒,,,,,,,,,,人名,,
-Allah,Allah,,,,,Allah,,,,安拉,,,,,,,,,,宗教,,
-Sesambrötchen,sesame roll,,,,,bułeczka sezamowa,,,,芝麻开门,,,,,,,,,,神话,,
-Felsengarten,rock garden,,,,,kamienny ogród,,,,岩石花园,,,,,,,,,,建筑,,
-Lampengeist,genie of the lamp,,,,,dżin z lampy,,,,灯神,,,,,,,,,,神话,,
-Oase,Oasis,,,,,Oaza,,,,绿洲,,,,,,,,,,地名,,
-Basar,bazaar,,,,,bazar,,,,集市,,,,,,,,,,建筑,,
-Universität,university,,,,,uniwersytet,,,,学府,,,,,,,,,,建筑,,
-Harun,Harun,,,,,Harun,,,,哈伦,,,,,,,,,,人名,,
-Kalif,Caliph,,,,,Kalif,,,,哈里发,,,,,,,,,,官职,,
-Karawane,caravan,,,,,karawana,,,,商队,,,,,,,,,,通用,,
-Waffenstillstand,armistice,,,,,rozejm,,,,停战,,,,,,,,,,抽象,,
-Kreuzfahrer,Crusaders,,,,,Krzyżowcy,,,,十字军,,,,,,,,,,军事,,
-Sirenen,sirens,,,,,syreny,,,,塞壬,,,,,,,,,,神话,,
-Golamedis,Golamedis,,,,,Golamedis,,,,戈拉梅迪司,,,,,,,,,,人名,,
-Kismet,kismet,,,,,kismet,,,,定数,,,,,,,,,,抽象,,
-Wielands Zauberschwert,Wieland's magic sword,,,,,magiczny miecz Wielanda,,,,维兰的魔法剑,,,,,,,,,,物品,,
-Tigris,Tigris,,,,,Tygrys,,,,底格里斯,,,,,,,,,,地名,,
-Dieb,thief,,,,,złodziej,,,,盗贼,,,,,,,,,,职业,,
-Volksfront,The People's Front,,,,,Front Ludowy,,,,人民阵线,,,,,,,,,,组织,,
-Jormungander,Jormungand,,,,,Jormundgand,,,,耶梦加得,,,,,,,,,,神话,,
-Pesthauch,pestilent breath,,,,,trujący oddech,,,,瘟疫之息,,,,,,,,,,抽象,,
-Schlangenplage,snake plague,,,,,Plaga węży,,,,蛇灾,,,,,,,,,,灾害,阿拉伯地区的蛇群灾害,campaign_02_01
-Schlangenwesen,snake creatures,,,,,Węże,,,,蛇形生物,,,,,,,,,,生物,神秘的蛇类生物,campaign_02_01
-Schlangenbiester,snake beasts,,,,,Wężowe bestie,,,,蛇怪,,,,,,,,,,生物,凶暴的蛇形野兽,campaign_02_01
-Schlangenkreaturen,snake creatures,,,,,Wężowe stwory,,,,蛇怪生物,,,,,,,,,,生物,迫使村民逃离的蛇形生物,campaign_02_01
-Schlangenbrut,snake brood,,,,,Wężowy pomiot,,,,蛇裔,,,,,,,,,,生物,被击退但未灭绝的蛇族后代,campaign_02_01
-Goldberg,Goldberg,,,,,Złota Góra,,,,金山,,,,,,,,,,地名,南方强大的金矿山地,campaign_02_01
-Goldbrocken,gold nuggets,,,,,Bryłka złota,,,,金块,,,,,,,,,,物品,可交付的黄金矿石,campaign_02_01
-Wachtürme,defence towers,,,,,Wieża obronna,,,,哨塔,,,,,,,,,,建筑,设弓箭手的哨塔,campaign_02_01
-Langbogenschützen,longbow archers,,,,,Łucznicy z dł. łukami,,,,长弓手,,,,,,,,,,军事,拜占庭弩手兵种,campaign_02_01
-Sippe,clan,,,,,Ród,,,,氏族,,,,,,,,,,社会组织,比雅尼所属的家族氏族,campaign_02_01
-Leif,Leif,,,,,Leif,,,,莱夫,,,,,,,,,,人名,比雅尼之父,campaign_02_01
-Schumsali,Schumsali,,,,,Schumsali,,,,舒姆萨利,,,,,,,,,,地名,北方山后的神秘地穴所在地,campaign_02_02
-Katakomben,catacombs,,,,,Katakumby,,,,地下墓穴,,,,,,,,,,建筑,神秘地下墓穴建筑,campaign_02_02
-Hungersnot,famine,,,,,Głód,,,,饥荒,,,,,,,,,,灾害,蛇灾引发的粮食危机,campaign_02_02
-Flaschengeist,bottle spirit,,,,,Dżin z butelki,,,,神灯精灵,,,,,,,,,,神话,瓶中精灵，助主角除灾,campaign_02_02
-Herz des Odin,Heart of Odin,,,,,Serce Odyna,,,,奥丁之心,,,,,,,,,,物品,奥丁护符，比雅尼赠希拉,campaign_02_02
-Gewölbe,vault,,,,,Krypta,,,,地穴,,,,,,,,,,建筑,舒姆萨利地穴，藏有神灵,campaign_02_02
-Talenge,Talenge,,,,,Wąska dolina,,,,峡谷隘口,,,,,,,,,,地名,分隔道路的狭长山谷,campaign_02_02
-Labyrinth,Labyrinth,,,,,Labirynt,,,,迷宫,,,,,,,,,,地名,迷宫般的地带,campaign_02_02
-Wegweiser,signpost,,,,,Drogowskaz,,,,路标,,,,,,,,,,物品,侦察兵建造的指引物,campaign_02_02
-Aladin,Aladin,,,,,Aladyn,,,,阿拉丁,,,,,,,,,,人名,童话人物，三个愿望谜题引用,campaign_02_02-sub
-Fata Morgana,Fata Morgana,,,,,Fata Morgana,,,,海市蜃楼,,,,,,,,,,自然,沙漠中的光学幻象,campaign_02_02-sub
-Schneehase,snow hare,,,,,Zając,,,,雪兔,,,,,,,,,,生物,谜题错误选项,campaign_02_02-sub
-Quastenflosser,coelacanth,,,,,Latimeria,,,,腔棘鱼,,,,,,,,,,生物,谜题错误选项,campaign_02_02-sub
-Schalter,switch,,,,,Przełącznik,,,,开关,,,,,,,,,,物品,地穴中的谜题机关,campaign_02_02-sub
-Türmechanismen,door mechanisms,,,,,Mechanizmy drzwiowe,,,,机关门,,,,,,,,,,建筑,困住蛇族的机关,campaign_02_02-sub
-Futterstelle,feeding place,,,,,Miejsce karmienia,,,,投喂点,,,,,,,,,,物品,诱捕狼群的喂食处,campaign_02_03
-Bodengruben,pit traps,,,,,Wilcze doły,,,,陷阱坑,,,,,,,,,,建筑,藏匿的捕狼陷阱,campaign_02_03
-Eisenspeerträger,iron spearmen,,,,,Włócznicy z żel. włóczniami,,,,铁矛兵,,,,,,,,,,军事,拜占庭重装兵种,campaign_02_03
-Kurzschwertkämpfer,shortsword fighters,,,,,Wojownik z krótkim mieczem,,,,短剑士,,,,,,,,,,军事,拜占庭近战兵种,campaign_02_03
-Hafenstädtchen,Port,,,,,Miasteczko portowe,,,,港口小镇,,,,,,,,,,地名,法兰克人小港口,campaign_02_03
-Massiv,Massiv,,,,,Masyw,,,,山岩,,,,,,,,,,地名,西部山体,campaign_02_03
-Talsenke,Talsenke,,,,,Kotlina,,,,谷地,,,,,,,,,,地名,山岩中的低洼地,campaign_02_03
-Fenriskette,Fenrir's Chain,,,,,Łańcuch Fenrira,,,,芬里尔链,,,,,,,,,,物品,束缚芬里尔狼的魔法锁链,campaign_02_04
-Ingredienz,ingredient,,,,,Składnik,,,,原料,,,,,,,,,,物品,锻造锁链所需的魔法成分,campaign_02_04
-Schwerter der Könige,Swords of the Kings,,,,,Miecze królów,,,,王者之剑,,,,,,,,,,物品,三王之剑，锁链基石,campaign_02_04
-Druiden,Druiden,,,,,Druidzi,,,,德鲁伊,,,,,,,,,,种族,灰袍德鲁伊，祝圣者,campaign_02_04
-Ketten schmieden,forge chains,,,,,Kucie łańcucha,,,,锻造锁链,,,,,,,,,,动作,用王者之剑锻造芬里尔链,campaign_02_04
-weihen,consecrate,,,,,Poświęcić,,,,祝圣,,,,,,,,,,动作,为锁链赋予魔力,campaign_02_04
-Kräuter,herbs,,,,,Zioła,,,,草药,,,,,,,,,,物品,修道院福祉贡品,campaign_02_04
-Münzen,coins,,,,,Monety,,,,硬币,,,,,,,,,,物品,货币单位,campaign_02_04
-Strudel,whirlpool,,,,,Wir wodny,,,,漩涡,,,,,,,,,,自然,湖心大漩涡,campaign_02_04
-Gruft,tomb,,,,,Grobowiec,,,,墓室,,,,,,,,,,建筑,地下墓穴中的墓室,campaign_02_04-sub1
-Schließmechanismen,locking mechanisms,,,,,Mechanizmy zamykające,,,,闭锁机关,,,,,,,,,,建筑,墓穴门扉的锁定机制,campaign_02_04-sub1
-Buchten,Buchten,,,,,Zatoki,,,,小湾,,,,,,,,,,地名,墓穴中的水湾,campaign_02_04-sub1
-Insel der Schweigsamen,Island of the Silent Ones,,,,,Wyspa milczących,,,,寂静之岛,,,,,,,,,,地名,独角兽所在的谜题岛,campaign_02_04-sub2
-Snoori Sturlarson,Snoori Sturlarson,,,,,Snoori Sturlarson,,,,斯努里·斯图拉松,,,,,,,,,,人名,谜题干扰项,campaign_02_04-sub2
-Erick Gunnarson,Erick Gunnarson,,,,,Erick Gunnarson,,,,埃里克·贡纳松,,,,,,,,,,人名,谜题干扰项,campaign_02_04-sub2
-Leif Erickson,Leif Erickson,,,,,Leif Erickson,,,,莱夫·埃里克松,,,,,,,,,,人名,比雅尼之父（谜题答案）,campaign_02_04-sub2
-Böse Wolf,Big Bad Wolf,,,,,Zły wilk,,,,恶狼,,,,,,,,,,神话,童话中的大恶狼,campaign_02_04-sub2
-Geißlein,little goats,,,,,Koźlątka,,,,小羊,,,,,,,,,,生物,童话中的小山羊,campaign_02_04-sub2
-Wüstenschiff,ship of the desert,,,,,Statek pustyni,,,,沙漠之舟,,,,,,,,,,物品,骆驼的别称,campaign_02_04-sub2
-Beduinenschaukler,Bedouin rocking chair,,,,,beduińska huśtawka,,,,贝都因摇床,,,,,,,,,,物品,谜题干扰项,campaign_02_04-sub2
-Fladenscheißer,flatbread pooper,,,,,garbus,,,,饼屎客,,,,,,,,,,物品,谜题干扰项（诙谐）,campaign_02_04-sub2
-Fenrishorden,Fenrir's Hordes,,,,,Hordy Fenrira,,,,芬里尔部众,,,,,,,,,,生物,芬里尔狼率领的狼群,campaign_02_05
-Langschwertträger,longsword fighters,,,,,Wojownik z dł. mieczem,,,,长剑士,,,,,,,,,,军事,法兰克重装兵种,campaign_02_05
-Tränke,healing potions,,,,,Mikstura,,,,药剂,,,,,,,,,,物品,增益药水,campaign_02_05
-Amuletten,amulets,,,,,Amulety,,,,护符,,,,,,,,,,物品,魔法护身符,campaign_02_05
-Sümpfe,swamps,,,,,Bagna,,,,沼泽,,,,,,,,,,地名,狼群盘踞的湿地,campaign_02_05
-Aura,Aura,,,,,Aura,,,,光环,,,,,,,,,,神话,芬里尔狼周围的魔法光环,campaign_02_05
-Weltenesche,World Ash,,,,,Jesion świata,,,,世界树,,,,,,,,,,神话,北欧宇宙树（同 Yggdrasil）,campaign_02_06
-Yggdrasils Orden,Order of Yggdrasil,,,,,Zakon Yggdrasila,,,,尤克特拉希尔之序,,,,,,,,,,组织,守护世界树的教团,campaign_02_06
-Unterwelt,underworld,,,,,Zaświaty,,,,冥界,,,,,,,,,,神话,死亡国度入口,campaign_02_06
-Asen,Aesir,,,,,Asowie,,,,阿萨神族,,,,,,,,,,神话,北欧神话，以奥丁为首的神族,campaign_02_07-sub
-Eiswelt,Eiswelt,,,,,Lodowy świat,,,,冰世界,,,,,,,,,,地名,北欧神话，阿斯加德中被冰封的世界,campaign_02_07-sub
-Wyonäzer,Wyonäzer,,,,,Wyonäzer,,,,维奥纳泽,,,,,,,,,,神话,北欧神话，酿造冰饮的矮人族,campaign_02_08
-Freya,Freya,,,,,Freya,,,,弗蕾亚,,,,,,,,,,神话人物,北欧神话，爱与战争女神,campaign_02_08
-Baldur,Baldur,,,,,Baldur,,,,巴德尔,,,,,,,,,,神话人物,北欧神话，光明与治愈之神，奥丁之子,campaign_02_08
-Thor,Thor,,,,,Thor,,,,托尔,,,,,,,,,,神话人物,北欧神话，雷神，保护之力显于雷电,campaign_02_08
-Frigg,Frigg,,,,,Frigg,,,,弗丽嘉,,,,,,,,,,神话人物,北欧神话，奥丁之妻，爱之女神,campaign_02_08
-Njörd,Njord,,,,,Njord,,,,尼奥尔德,,,,,,,,,,神话人物,北欧神话，风与海之神,campaign_02_08
-Eiskrieger,ice warriors,,,,,Lodowi wojownicy,,,,冰战士,,,,,,,,,,军事,冰之神明赐予的勇猛战士,campaign_02_08
-Hel,Hel,,,,,Hel,,,,海尔,,,,,,,,,,神话人物,北欧神话，死亡女神，海尔之国的统治者,campaign_02_08
-Vagabunden,Vagabonds,,,,,Włóczędzy,,,,流浪者,,,,,,,,,,种族,盘踞山中、劫持建筑师的流浪匪帮,campaign_03_01
-Architekt,Architect,,,,,Architekt,,,,建筑师,,,,,,,,,,职业,建造世界奇迹的工匠,campaign_03_01
-Weltwunder,Wonder of the World,,,,,Cud świata,,,,世界奇迹,,,,,,,,,,概念,古代世界七大奇迹，重建以驱散黑暗,campaign_03_01
-Obelisk,Obelisk,,,,,Obelisk,,,,方尖碑,,,,,,,,,,建筑,环绕魔法传送场的高大石柱,campaign_03_01
-heiliges Feuer,Holy Fire,,,,,Święty ogień,,,,圣火,,,,,,,,,,物品,法罗斯灯塔顶端所需的神圣之火,campaign_03_01
-Leuchtturm,Lighthouse,,,,,Latarnia morska,,,,灯塔,,,,,,,,,,建筑,法罗斯灯塔，世界奇迹之一,campaign_03_01
-Nil,Nile,,,,,Nil,,,,尼罗河,,,,,,,,,,地名,埃及母亲河,campaign_03_01
-Byzantiner,Byzantines,,,,,Bizantyjczycy,,,,拜占庭人,,,,,,,,,,种族,守卫吉萨金字塔的族群,campaign_03_01
-Ägypter,Egyptians,,,,,Egipcjanie,,,,埃及人,,,,,,,,,,种族,守卫吉萨金字塔的族群,campaign_03_01
-Drachenfutter,Dragon Feed,,,,,Smocza pasza,,,,龙饲料,,,,,,,,,,物品,流浪者豢养巨龙所需的口粮,campaign_03_01
-Sostratos Vater,Sostratos' Father,,,,,Ojciec Sostratosa,,,,索斯特拉托斯之父,,,,,,,,,,角色,同为建筑师，悬赏寻子,campaign_03_01
-Bergvolkarbeiter,Mountain Tribe Worker,,,,,Górskie Plemię Robotników,,,,山地部族矿工,,,,,,,,,,角色,圣火矿井中的山地部族劳工,campaign_03_01_sub
-Euphrat,Euphrates,,,,,Eufrat,,,,幼发拉底河,,,,,,,,,,地名,古河床，新聚落所在地,campaign_03_02
-Nebukadnezar,Nebuchadnezzar,,,,,Nabuchodonozor,,,,尼布甲尼撒,,,,,,,,,,人名,巴比伦王，为王后建空中花园,campaign_03_02
-Hirtenvolk,Herdsmen,,,,,Pasterze,,,,牧民部族,,,,,,,,,,种族,沙漠中安分的牧民,campaign_03_02
-Helios,Helios,,,,,Helios,,,,赫利俄斯,,,,,,,,,,神话,太阳神，巨像敬奉对象,campaign_03_03
-Poseidon,Poseidon,,,,,Posejdon,,,,波塞冬,,,,,,,,,,神话,海神，制造迷雾,campaign_03_03
-Bakshish,Bakshish,,,,,Bakshish,,,,巴克希什,,,,,,,,,,人名,沙漠商人,campaign_03_03
-Chronos,Chronos,,,,,Chronos,,,,克洛诺斯,,,,,,,,,,人名,武器商岛主,campaign_03_03
-Oxos,Oxos,,,,,Oxos,,,,奥克索斯,,,,,,,,,,人名,手推车商人,campaign_03_03
-Oxidos,Oxidos,,,,,Oxidos,,,,奥克西多斯,,,,,,,,,,地名,罗德附近小岛,campaign_03_03
-Ägäis,Aegean,,,,,Morze Egejskie,,,,爱琴海,,,,,,,,,,地名,地中海海域,campaign_03_03
-Goldbarren,Gold Bar,,,,,Złota sztabka,,,,金条,,,,,,,,,,物品,贵重建材/贡品,campaign_03_03
-Circe,Circe,,,,,Cyrce,,,,喀耳刻,,,,,,,,,,神话,女巫，太阳神赫利俄斯之女,campaign_03_03_sub3
-Perse,Perse,,,,,Perse,,,,珀耳塞,,,,,,,,,,神话,月神，喀耳刻之母,campaign_03_03_sub3
-Pyramiden,pyramids,,,,,Piramidy,,,,金字塔,,,,,,,,,,建筑,古埃及帝王陵墓,campaign_03_07
-Tal der Könige,Valley of the Kings,,,,,Dolina Królów,,,,国王谷,,,,,,,,,,地名,帝王陵墓群,campaign_03_07
-Pharao,pharaoh,,,,,Faraon,,,,法老,,,,,,,,,,身份,古埃及君王,campaign_03_07
-Cheops,Cheops,,,,,Cheops,,,,胡夫,,,,,,,,,,人名,第四王朝法老，大金字塔建造者,campaign_03_07
-Chepren,Chepren,,,,,Chefren,,,,哈夫拉,,,,,,,,,,人名,第四王朝法老，第二金字塔建造者,campaign_03_07
-Mykerinos,Mykerinos,,,,,Mykerinos,,,,门卡拉,,,,,,,,,,人名,第四王朝法老，第三金字塔建造者,campaign_03_07
-Magier,mage,,,,,Magowie,,,,魔法师,,,,,,,,,,身份,调制昏睡汤药的术士,campaign_03_07
-Moorvolk,swamp tribe,,,,,Plemię z bagien,,,,沼泽部族,,,,,,,,,,部族,居岛之沼泽智者，藏神庙圣物,campaign_03_08
-Napalianer,Nabalians,,,,,Nabalianie,,,,纳帕利亚人,,,,,,,,,,种族,纳帕利亚民族（Napalianer/Nabalianer/Kabalianer 异拼统一）,_campaign_04
-Nabalianer,Nabalians,,,,,Nabalianie,,,,纳帕利亚人,,,,,,,,,,种族,纳帕利亚民族异拼（同 Napalianer）,_campaign_04
-Kabalianer,Kabalians,,,,,Kabalianie,,,,纳帕利亚人,,,,,,,,,,种族,纳帕利亚民族异拼（同 Napalianer）,_campaign_04
-Mädchen,Girl,,,,,Dziewczyna,,,,女孩,,,,,,,,,,通用,女孩,_campaign_04
-Junge,Boy,,,,,Chłopiec,,,,男孩,,,,,,,,,,通用,男孩,_campaign_04
-Erdrache,Earth Dragon,,,,,Smok Ziemi,,,,地龙,,,,,,,,,,生物,地龙（Earth Dragon）,_campaign_04_05
-Torumannen,Torumanns,,,,,Torumanni,,,,托鲁曼人,,,,,,,,,,种族,托鲁曼民族,_campaign_04
-Waldhüter,Forest Warden,,,,,Leśniczy,,,,森林守护者,,,,,,,,,,种族,森林守护者,_campaign_04
-Borkenzahn,Borkenzahn,,,,,Borkenzahn,,,,博肯扎恩,,,,,,,,,,人名,森林守护者角色,_campaign_04
-Weidentreu,Weidentreu,,,,,Weidentreu,,,,韦登特罗伊,,,,,,,,,,人名,森林守护者角色,_campaign_04
-Rapslieschen,Rapslieschen,,,,,Rapslieschen,,,,拉普斯丽申,,,,,,,,,,人名,森林守护者角色,_campaign_04
-Guckfix,Peekfix,,,,,Guckfix,,,,古克菲克斯,,,,,,,,,,人名,角色名,_campaign_04
-Dunkeldrachen,Dark Dragons,,,,,Smoki Mroku,,,,暗龙,,,,,,,,,,生物,暗龙,_campaign_04
-Sümpfe des Vergessens,Marshes of Oblivion,,,,,Bagna Zapomnienia,,,,遗忘沼泽,,,,,,,,,,地名,遗忘沼泽,_campaign_04
-zappendustere Höhle,pitch-dark cave,,,,,mroczna jaskinia,,,,幽暗洞穴,,,,,,,,,,地名,幽暗洞穴,_campaign_04
-Wachtränke,stamina potions,,,,,mikstury czuwania,,,,守夜药剂,,,,,,,,,,物品,守夜药剂（消耗品）,_campaign_04
-Feuerkristall,Fire Crystal,,,,,Kryształ Ognia,,,,火水晶,,,,,,,,,,物品,火水晶,_campaign_04
-Regenbogenraum,Rainbow Room,,,,,Komnata Tęczy,,,,彩虹之厅,,,,,,,,,,地名,彩虹之厅,_campaign_04
-Waldtempelwächter,forest temple guard,,,,,strażnik leśnej świątyni,,,,森林神庙守卫,,,,,,,,,,职业,森林神庙守卫,_campaign_04
-Waldposten,Forest Outpost,,,,,Leśny Posterunek,,,,森林哨站,,,,,,,,,,地名,森林哨站,_campaign_04
-Palmenhain,palm grove,,,,,gaj palmowy,,,,棕榈林,,,,,,,,,,地名,棕榈林,_campaign_04
-Giftdrachen,poison dragons,,,,,smoki trujące,,,,毒龙,,,,,,,,,,生物,毒龙,_campaign_04
-Teleporter,teleporter,,,,,teleport,,,,传送装置,,,,,,,,,,物品,传送装置,_campaign_04
-Nixe,nixie,,,,,nimfa wodna,,,,尼刻斯,,,,,,,,,,生物,水妖/宁芙,_campaign_04
-Welle,Welle,,,,,Welle,,,,薇蕾,,,,,,,,,,人名,角色名（水相关）,_campaign_04
-Kerker,dungeon,,,,,loch,,,,地牢,,,,,,,,,,地名,地牢,_campaign_04
-Friedhof,cemetery,,,,,cmentarz,,,,墓地,,,,,,,,,,地名,墓地,_campaign_04
-Gulp,Gulp,,,,,Gulp,,,,古尔普,,,,,,,,,,人名,角色名,_campaign_04
-Wasserfälle,waterfalls,,,,,wodospady,,,,瀑布,,,,,,,,,,地名,瀑布,_campaign_04
-Wasserkraftwerk,hydroelectric power plant,,,,,elektrownia wodna,,,,水力发电站,,,,,,,,,,建筑,水力发电站,_campaign_04
-orangene Drachen,orange dragons,,,,,pomarańczowe smoki,,,,橙色龙,,,,,,,,,,生物,橙色龙,_campaign_04
-Brieftauben,carrier pigeons,,,,,gołębie pocztowe,,,,信鸽,,,,,,,,,,生物,信鸽,_campaign_04
-Babul,Babul,,,,,Babul,,,,巴布尔,,,,,,,,,,人名,角色名,_campaign_04
-Obeliskenkreis,obelisk circle,,,,,krąg obelisków,,,,方尖碑圈,,,,,,,,,,地名,方尖碑圈,_campaign_04
-Unsichtbarkeitstrank,invisibility potion,,,,,mikstura niewidzialności,,,,隐形药剂,,,,,,,,,,物品,隐形药剂,_campaign_04
-Sprudel,Sprudel,,,,,Sprudel,,,,斯普鲁德尔,,,,,,,,,,人名,角色名（水相关）,_campaign_04
-Plünderer,marauders,,,,,grabieżcy,,,,劫掠者,,,,,,,,,,通用,劫掠者（Trupp Plünderer 指劫掠者队伍）,campaign_01_02-sub
-Priester,Parson,,,,,Opat,,,,牧师,,,,,,,,,,职业,牧师/神父,campaign_01_02-sub
-FREIE WELT,FREE WORLD,,,,,PUSTA KRAINA,,,,自由世界,,,,,,,,,,模式,自由世界/沙盒模式（Freie Welt）,singleplayer_01_01
-Oberkircher,Oberkircher,,,,,Oberkirchczyk,,,,奥伯基尔希,,,,,,,,,,人名,家族/派系名（Oberkirch 音译）,singleplayer_01_01
-Mülheimer,Muelheimer,,,,,Muelheimczyk,,,,米尔海姆人,,,,,,,,,,人名,家族/派系名（Mülheim 居民，米尔海姆人）,singleplayer_01_01
-Ratinger,Ratinger,,,,,Ratyzbończyk,,,,拉廷根,,,,,,,,,,人名,家族/派系名（Ratingen 音译）,singleplayer_01_01
-Rheinländer,Rheinlaender,,,,,Renlandczyk,,,,莱茵兰人,,,,,,,,,,人名,家族/派系名（Rheinland 居民，莱茵兰人）,singleplayer_01_01
-Rheinlaender,Rheinlaender,,,,,Rheinlaender,,,,莱茵兰人,,,,,,,,,,人名,家族/派系名异拼（同 Rheinländer）,singleplayer_01_01
-INSELREICH,ISLAND REALM,,,,,WYSPIARSKIE KRÓLESTWO,,,,岛屿王国,,,,,,,,,,模式,岛屿王国（Inselreich，沙盒/挑战模式）,singleplayer_01_06
-Inselkönig,island king,,,,,król wyspy,,,,岛王,,,,,,,,,,人名,岛屿王国中的君主（Inselkönig）,singleplayer_01_06
-Königskinder,Royal Children,,,,,Królewskie dzieci,,,,王室子孙,,,,,,,,,,人名,王室子孙/国王子女,singleplayer_01_06
-Friedensvertrag,peace treaty,,,,,traktat pokojowy,,,,和平条约,,,,,,,,,,物品,和平条约（任务目标）,singleplayer_01_07
-Schwertkämpfer,swordsman,,,,,szermierz,,,,剑士,,,,,,,,,,军事,剑士单位,singleplayer_01_07
-Bogenschütze,archer,,,,,łucznik,,,,弓箭手,,,,,,,,,,军事,弓箭手单位,singleplayer_01_07
-Speerträger,spearman,,,,,włócznik,,,,矛兵,,,,,,,,,,军事,矛兵单位,singleplayer_01_07
-Friedenszahlung,Peace tribute,,,,,Opłata za pokój,,,,和平贡金,,,,,,,,,,物品,和平贡金（任务奖励）,singleplayer_01_07
-Freundschaftszahlung,Friendship tribute,,,,,Opłata za przyjaźń,,,,友谊贡金,,,,,,,,,,物品,友谊贡金（任务奖励）,singleplayer_01_07
-Sklaven,Slaves,,,,,Niewolnicy,,,,奴隶,,,,,,,,,,人物,奴隶,singleplayer_01_07
-Außenposten,Outpost,,,,,Posterunek,,,,前哨站,,,,,,,,,,地名,前哨站,singleplayer_01_07
-DIE REBELLION,THE REBELLION,,,,,REBELIA,,,,叛乱,,,,,,,,,,专有名词,地图名 THE REBELLION,singleplayer_01_07
-Landsleute,fellow countrymen,,,,,rodacy,,,,同胞,,,,,,,,,,称谓,同胞／同乡,singleplayer_01_07
-Söldner,mercenaries,,,,,najemnicy,,,,雇佣兵,,,,,,,,,,军事,雇佣兵,singleplayer_01_07
-Goldminen,gold mines,,,,,kopalnie złota,,,,金矿,,,,,,,,,,地名,金矿,singleplayer_01_07
-Schreckensherrschaft,reign of terror,,,,,rządy terroru,,,,恐怖统治,,,,,,,,,,专有名词,恐怖统治,singleplayer_01_07
-Stadthalter,governor,,,,,namiestnik,,,,总督,,,,,,,,,,官职,法兰克地方总督,singleplayer_01_07
-Rebellen,Rebels,,,,,Rebelianci,,,,叛军,,,,,,,,,,军事,叛军,singleplayer_01_07
-Friedensbotschaft,peace message,,,,,posłanie pokojowe,,,,和平书信,,,,,,,,,,物品,和平书信（任务目标）,singleplayer_01_07
-Hexer,Sorcerer,,,,,Czarownik,,,,巫师,,,,,,,,,,人名,巫师（地图角色 The Sorcerer）,singleplayer_01_08
-DIE INSEL DER TOTEN,THE ISLE OF THE DEAD,,,,,WYSPA UMARŁYCH,,,,亡者之岛,,,,,,,,,,专有名词,地图名 THE ISLE OF THE DEAD,singleplayer_01_08
-Grabwächter,guard of the graves,,,,,strażnik grobów,,,,守墓人,,,,,,,,,,军事,守墓人,singleplayer_01_08
-Fluch,curse,,,,,klątwa,,,,诅咒,,,,,,,,,,专有名词,诅咒（岛屿的诅咒）,singleplayer_01_08
-Ahnen,ancestors,,,,,przodkowie,,,,祖先,,,,,,,,,,称谓,祖先／先祖,singleplayer_01_08
-Steinkreis,circle of stone,,,,,krąg kamienny,,,,石环,,,,,,,,,,建筑,石环（远古陵墓标记）,singleplayer_01_08
-Grab,grave,,,,,grób,,,,陵墓,,,,,,,,,,建筑,陵墓／坟墓,singleplayer_01_08
-Ruinen,ruins,,,,,ruiny,,,,废墟,,,,,,,,,,地名,废墟,singleplayer_01_08
-Geister,spirits,,,,,duchy,,,,亡魂,,,,,,,,,,专有名词,亡魂／亡者之灵,singleplayer_01_08
-Ehre,honour,,,,,honor,,,,敬意,,,,,,,,,,抽象,敬意／致意,singleplayer_01_08
-Toter,the dead,,,,,zmarli,,,,亡者,,,,,,,,,,称谓,亡者／逝者,singleplayer_01_08
-Unachtsamkeit,carelessness,,,,,nieostrożność,,,,疏忽,,,,,,,,,,抽象,疏忽／粗心,singleplayer_01_08
-König,King,,,,,Król,,,,国王,,,,,,,,,,人名,国王,singleplayer_01_08
-Wolfsjagd,wolf hunt,,,,,polowanie na wilki,,,,猎狼行动,,,,,,,,,,专有名词,猎狼行动（年度狩猎活动）,singleplayer_01_09
-Jagd,hunt,,,,,polowanie,,,,狩猎,,,,,,,,,,专有名词,狩猎／打猎,singleplayer_01_09
-Ehrentitel,title of honour,,,,,tytuł honorowy,,,,荣誉称号,,,,,,,,,,专有名词,荣誉称号,singleplayer_01_09
-Titel,title,,,,,tytuł,,,,头衔,,,,,,,,,,专有名词,头衔／称号,singleplayer_01_09
-Wettstreit,contest,,,,,konkurs,,,,较量,,,,,,,,,,抽象,较量／竞争,singleplayer_01_09
-Verwicklungen,entanglements,,,,,zawikłania,,,,纠葛,,,,,,,,,,抽象,（外交）纠葛／纷争,singleplayer_01_09
-Stamm,tribe,,,,,plemię,,,,部族,,,,,,,,,,社会组织,部族／部落,singleplayer_01_09
-Hauptstadt,capital,,,,,stolica,,,,首都,,,,,,,,,,地名,首都／王城,singleplayer_01_09
-Viehställe,cattle sheds,,,,,obory,,,,牲畜棚,,,,,,,,,,建筑,牲畜棚／畜栏,singleplayer_01_09
-Abgaben,taxes,,,,,daniny,,,,赋税,,,,,,,,,,抽象,赋税／捐税,singleplayer_01_09
-Konkurrenz,rivalry,,,,,konkurencja,,,,竞争对手,,,,,,,,,,称谓,竞争对手／竞争者,singleplayer_01_09
-Gerüchte,rumours,,,,,pogłoski,,,,风声,,,,,,,,,,抽象,风声／谣言,singleplayer_01_09
-Angriff,attack,,,,,atak,,,,突袭,,,,,,,,,,军事,突袭／攻击,singleplayer_01_09
-Sieg,victory,,,,,zwycięstwo,,,,胜利,,,,,,,,,,抽象,胜利,singleplayer_01_09
-Untertanen,Subjects,,,,,Poddani,,,,臣民,,,,,,,,,,称谓,臣民／百姓,singleplayer_01_09
-Zeremonie,ceremony,,,,,ceremonia,,,,典礼,,,,,,,,,,专有名词,典礼／仪式,singleplayer_01_09
-Fest,feast,,,,,uczta,,,,宴会,,,,,,,,,,通用,宴会／庆典,singleplayer_01_09
-Geschenke,gifts,,,,,prezenty,,,,礼物,,,,,,,,,,物品,礼物／礼品,singleplayer_01_09
-Dorf,Village,,,,,Wioska,,,,村庄,,,,,,,,,,地名,村庄／村落,singleplayer_01_09
-Fluss,river,,,,,rzeka,,,,河,,,,,,,,,,地名,河流／河,singleplayer_01_09
-Pomp,pomp,,,,,pompa,,,,排场,,,,,,,,,,抽象,排场／盛况,singleplayer_01_09
-hinterhältig,treacherous,,,,,podstępny,,,,阴险,,,,,,,,,,抽象,阴险／卑鄙,singleplayer_01_09
-König der Jagd,King of the Hunt,,,,,Król Polowania,,,,狩猎之王,,,,,,,,,,专有名词,狩猎之王（年度狩猎称号）,singleplayer_01_09
-Wikingerstämme,Viking Tribes,,,,,Plemiona Wikingów,,,,维京部族,,,,,,,,,,社会组织,维京部族,multiplayer_batch
-Grönländer,Greenlander,,,,,Grenlandczyk,,,,格陵兰人,,,,,,,,,,种族,格陵兰人（部落名）,multiplayer_batch
-Vinländer,Vinlander,,,,,Winlandczyk,,,,文兰人,,,,,,,,,,种族,文兰人（部落名）,multiplayer_batch
-Wirtschaft,Economy,,,,,Gospodarka,,,,经济,,,,,,,,,,专有名词,经济（地图类型）,multiplayer_batch
-Diplomatie,Diplomacy,,,,,Dyplomacja,,,,外交,,,,,,,,,,抽象,外交,multiplayer_batch
-Handel,Trade,,,,,Handel,,,,贸易,,,,,,,,,,抽象,贸易,multiplayer_batch
-Rohstoffe,Raw Materials,,,,,Surowce,,,,资源,,,,,,,,,,抽象,资源／原料,multiplayer_batch
-Lager,Store,,,,,Magazyn,,,,仓库,,,,,,,,,,建筑,仓库,multiplayer_batch
-Schätze,Treasures,,,,,Skarby,,,,宝藏,,,,,,,,,,物品,宝藏／珍宝,multiplayer_batch
-Siedlung,Settlement,,,,,Osada,,,,聚落,,,,,,,,,,建筑,聚落／定居点,multiplayer_batch
-Inselstämme,Island Tribes,,,,,Plemiona Wyspowe,,,,岛上部族,,,,,,,,,,社会组织,岛上部族,multiplayer_batch
-Herrschaft,Dominion,,,,,Panowanie,,,,统治权,,,,,,,,,,抽象,统治权／霸权,multiplayer_batch
-Vulkaninsel,Volcano Island,,,,,Wyspa Wulkaniczna,,,,火山岛,,,,,,,,,,地名,火山岛,multiplayer_batch
-Feuerflammen,Fire Flames,,,,,Płomienie Ognia,,,,火舌,,,,,,,,,,自然,火山火舌,multiplayer_batch
-Bergmassiv,Mountain Massif,,,,,Masyw Górski,,,,山脉,,,,,,,,,,地名,山脉,multiplayer_batch
-Höhle,Cave,,,,,Jaskinia,,,,洞穴,,,,,,,,,,建筑,洞穴,multiplayer_batch
-Winter,Winter,,,,,Zima,,,,寒冬,,,,,,,,,,自然,寒冬／冬季,multiplayer_batch
-Einbruch,Onset,,,,,Nadejście,,,,降临,,,,,,,,,,抽象,降临（冬季降临）,multiplayer_batch
-Vorherrschaft,Supremacy,,,,,Supremacja,,,,霸权,,,,,,,,,,抽象,霸权／统治,multiplayer_batch
-Stämme,Tribes,,,,,Plemiona,,,,部族,,,,,,,,,,社会组织,部族（复数）,multiplayer_batch
-Tributzahlungen,Tribute Payments,,,,,Daniny,,,,贡金,,,,,,,,,,物品,贡金／赎金,multiplayer_batch
-Hauptquartiersflagge,Headquarters Flag,,,,,Flaga Kwatery Głównej,,,,主基地旗帜,,,,,,,,,,专有名词,主基地旗帜,multiplayer_batch
-Inselflagge,Island Flag,,,,,Flaga Wyspy,,,,岛屿旗帜,,,,,,,,,,专有名词,岛屿旗帜,multiplayer_batch
-Nachbarinsel,Neighbouring Island,,,,,Sąsiednia Wyspa,,,,邻岛,,,,,,,,,,地名,邻岛,multiplayer_batch
-Ausgeschieden,Eliminated,,,,,Wyeliminowany,,,,出局,,,,,,,,,,抽象,出局／淘汰,multiplayer_batch
-Kartenmitte,Map Centre,,,,,Środek Mapy,,,,地图中央,,,,,,,,,,地名,地图中央,multiplayer_batch
-Wettjagen,The Great Hunt,,,,,Wielkie Łowy,,,,赛跑,,,,,,,,,,抽象,大赛跑／竞赛,multiplayer_batch
-Federvieh,Poultry,,,,,Drób,,,,家禽,,,,,,,,,,动物,家禽,multiplayer_batch
-Frühstückseier,Breakfast Eggs,,,,,Jajka śniadaniowe,,,,早餐蛋,,,,,,,,,,物品,早餐的蛋,multiplayer_batch
-Jägermeister,Master of the Hunt,,,,,Mistrz Polowania,,,,狩猎官,,,,,,,,,,官职,总狩猎官,multiplayer_batch
-Schaltern,Switches,,,,,Przełączniki,,,,开关,,,,,,,,,,物品,开关（机关）,multiplayer_batch
-Startvorteil,Starting Advantage,,,,,Przewaga Startowa,,,,起步优势,,,,,,,,,,抽象,起步优势,multiplayer_batch
-Wolfswald,Wolf Forest,,,,,Wilczy Las,,,,狼林,,,,,,,,,,地名,狼林,multiplayer_batch
-Mechanismen,Mechanisms,,,,,Mechanizmy,,,,机关,,,,,,,,,,物品,古老机关,multiplayer_batch
-Regen,Rain,,,,,Deszcz,,,,雨,,,,,,,,,,自然,雨／雨之符,multiplayer_batch
-Heiligen,Relics,,,,,Relikwie,,,,圣物,,,,,,,,,,物品,不朽圣物,multiplayer_batch
-Unsterblichen,Immortals,,,,,Nieśmiertelni,,,,不朽,,,,,,,,,,抽象,不朽（圣物）,multiplayer_batch
-Briefe,Letters,,,,,Listy,,,,书信,,,,,,,,,,物品,书信（道具）,multiplayer_batch
-Vieh,Livestock,,,,,Bydło,,,,牲畜,,,,,,,,,,动物,牲畜,multiplayer_batch
-Schafe,Sheep,,,,,Owce,,,,羊,,,,,,,,,,动物,羊,multiplayer_batch
-Kühe,Cows,,,,,Krowy,,,,牛,,,,,,,,,,动物,牛,multiplayer_batch
-Flaggen,Flags,,,,,Flagi,,,,旗帜,,,,,,,,,,专有名词,旗帜,multiplayer_batch
-Burgen,Castles,,,,,Zamki,,,,城堡,,,,,,,,,,建筑,城堡,multiplayer_batch
-Dunkle,Dark,,,,,Ciemny,,,,黑暗,,,,,,,,,,抽象,黑暗（黑暗城堡）,multiplayer_batch
-Brücken,Bridges,,,,,Mosty,,,,桥梁,,,,,,,,,,建筑,河上桥梁,multiplayer_batch
-Jahreszeiten,Seasons,,,,,Pory Roku,,,,四季,,,,,,,,,,自然,四季,multiplayer_batch
-Klima,Climate,,,,,Klimat,,,,气候,,,,,,,,,,自然,气候,multiplayer_batch
-Kolonisation,Colonisation,,,,,Kolonizacja,,,,殖民,,,,,,,,,,专有名词,殖民开拓,multiplayer_batch
-Vulkan,Volcano,,,,,Wulkan,,,,火山,,,,,,,,,,自然,火山,multiplayer_batch
-Tal,Valley,,,,,Dolina,,,,山谷,,,,,,,,,,地名,山谷,multiplayer_batch
-Birken,Birches,,,,,Brzozy,,,,白桦,,,,,,,,,,植物,白桦,multiplayer_batch
-Nordland,Northland,,,,,Kraina Północy,,,,北方,,,,,,,,,,地名,北方／北境,multiplayer_batch
-Coop,Co-op,,,,,Koop,,,,合作,,,,,,,,,,专有名词,合作模式,multiplayer_batch
-Nocoop,No Co-op,,,,,Bez Koop,,,,不合作,,,,,,,,,,专有名词,不合作模式,multiplayer_batch
-Lavaland,Lava Land,,,,,Kraina Lawy,,,,熔岩之地,,,,,,,,,,专有名词,熔岩之地（地图名）,multiplayer_batch
-Höhlenzauber,Cave Magic,,,,,Magia Jaskini,,,,洞穴魔法,,,,,,,,,,专有名词,洞穴魔法（地图名）,multiplayer_batch
-Trophäenjagd,Trophy Hunt,,,,,Polowanie na Trofea,,,,战利品狩猎,,,,,,,,,,专有名词,战利品狩猎（地图名）,multiplayer_batch
-Drachenland,Dragon Land,,,,,Kraina Smoków,,,,龙之地,,,,,,,,,,专有名词,龙之地（地图名）,multiplayer_batch
-Wintereinbruch,Onset of Winter,,,,,Nadejście Zimy,,,,冬季降临,,,,,,,,,,专有名词,冬季降临（地图名）,multiplayer_batch
-Eisiger,Icy,,,,,Lodowy,,,,冰封,,,,,,,,,,形容词,冰封（冰封春日）,multiplayer_batch
-Schneetreiben,Snowstorm,,,,,Zamieć,,,,风雪,,,,,,,,,,自然,风雪（地图名）,multiplayer_batch
-Kolonisierung,Colonization,,,,,Kolonizacja,,,,殖民化,,,,,,,,,,专有名词,殖民化（地图名）,multiplayer_batch
-Dunkle Burg,Dark Castle,,,,,Ciemny Zamek,,,,黑暗城堡,,,,,,,,,,专有名词,黑暗城堡（地图名）,multiplayer_batch
-Brücken am Fluss,Bridges over the River,,,,,Mosty nad Rzeką,,,,河上桥梁,,,,,,,,,,专有名词,河上桥梁（地图名）,multiplayer_batch
-Vier Jahreszeiten,Four Seasons,,,,,Cztery Pory Roku,,,,四季,,,,,,,,,,专有名词,四季（地图名）,multiplayer_batch
-Intimes Treiben,CLOSE AND PERSONAL,,,,,TWARZĄ W TWARZ,,,,局促之地,,,,,,,,,,专有名词,局促之地（地图名）,multiplayer_batch
-Insel der Träume,Island of Dreams,,,,,Wyspa Snów,,,,梦幻岛,,,,,,,,,,专有名词,梦幻岛（地图名）,multiplayer_batch
-Ressourcen ohne Ende,Endless Resources,,,,,Zasoby Bez Końca,,,,无尽资源,,,,,,,,,,专有名词,无尽资源（地图名）,multiplayer_batch
-Weites Land,Wide Land,,,,,Rozległa Kraina,,,,辽阔大地,,,,,,,,,,专有名词,辽阔大地（地图名）,multiplayer_batch
-Inselherrschaft,Island Dominion,,,,,Wyspowe Panowanie,,,,岛屿霸权,,,,,,,,,,专有名词,岛屿霸权（地图名）,multiplayer_batch
-Wüstenvolk,Desert People,,,,,Lud Pustyni,,,,沙漠部族,,,,,,,,,,地名,沙漠中的原住部族,singleplayer_03_05
-Expedition,Expedition,,,,,Ekspedycja,,,,远征队,,,,,,,,,,专有名词,北上探险的维京队伍,singleplayer_03_04
-Angreifer,Attackers,,,,,Napastnicy,,,,攻击者,,,,,,,,,,军事,敌方攻击单位,singleplayer_03_04
-Piratencamp,Pirate Camp,,,,,Obozowisko Piratów,,,,海盗营地,,,,,,,,,,地名,海盗王国中心营地,singleplayer_03_04
-Intihuatana,Intihuatana,,,,,Intihuatana,,,,印蒂瓦塔纳,,,,,,,,,,地名,太阳被系缚之处的沙漠之城,singleplayer_03_05
-Intih.,Intih.,,,,,Intih.,,,,印蒂,,,,,,,,,,专有名词,Intihuatana 简称,singleplayer_03_05
-Ofeig,Ofeig,,,,,Ofeig,,,,奥费格,,,,,,,,,,人名,维京人（剧情名）,singleplayer_03_04
-Steinthor,Steinthor,,,,,Steinthor,,,,斯泰因索尔,,,,,,,,,,人名,维京人（剧情名）,singleplayer_03_04
-Bodvar,Bodvar,,,,,Bodvar,,,,博德瓦尔,,,,,,,,,,人名,维京人（剧情名）,singleplayer_03_04
-Ingolf,Ingolf,,,,,Ingolf,,,,英戈尔夫,,,,,,,,,,人名,维京人（剧情名）,singleplayer_03_04
-Sumarlidi,Sumarlidi,,,,,Sumarlidi,,,,苏马尔利迪,,,,,,,,,,人名,维京人（剧情名）,singleplayer_03_04
-Thorbrand,Thorbrand,,,,,Thorbrand,,,,索尔布兰德,,,,,,,,,,人名,维京人（剧情名）,singleplayer_03_04
-Botolf,Botolf,,,,,Botolf,,,,博托尔夫,,,,,,,,,,人名,维京人（剧情名）,singleplayer_03_04
-Erdrachen,Earth Dragons,,,,,Smoki Ziemne,,,,地龙,,,,,,,,,,专有名词,campaign_04 地龙种族,campaign_04_04
-Wachdrachen,Guard Dragons,,,,,Smoki Strażnicze,,,,守卫龙,,,,,,,,,,专有名词,campaign_04 守卫龙,campaign_04_01_sub1
-Grauholm,Grauholm,,,,,Grauholm,,,,格劳霍尔姆,,,,,,,,,,人名,campaign_04 剧情人物,campaign_04_01_sub3
-Wamugo,Wamugo,,,,,Wamugo,,,,瓦穆戈,,,,,,,,,,人名,campaign_04 教授,campaign_04_03
-Kräutersammler,Herb Gatherers,,,,,Zbieracze Ziół,,,,采药人,,,,,,,,,,专有名词,campaign_04 采药人哨站,campaign_04_03
-London,London,,,,,Londyn,,,,伦敦,,,,,,,,,,地名,英格兰城市,campaign_01_03
-Nottingham,Nottingham,,,,,Nottingham,,,,诺丁汉,,,,,,,,,,地名,英格兰城市,campaign_01_03
-Bristol,Bristol,,,,,Bristol,,,,布里斯托,,,,,,,,,,地名,英格兰城市,campaign_01_03
-York,York,,,,,York,,,,约克,,,,,,,,,,地名,英格兰城市,campaign_01_03
-Thule,Thule,,,,,Thule,,,,图勒,,,,,,,,,,地名,图勒王国,campaign_01_03
-Notti.,Nott.,,,,,Nott.,,,,诺蒂,,,,,,,,,,人名,图勒人物,campaign_01_03
-Alexandria,Alexandria,,,,,Aleksandria,,,,亚历山大港,,,,,,,,,,地名,埃及港口城市,campaign_01_08
-Bagdad,Baghdad,,,,,Bagdad,,,,巴格达,,,,,,,,,,地名,伊拉克首都,campaign_01_10
-WIGRID WALL,WIGRID WALL,,,,,MUR WIGRID,,,,维格里德城墙,,,,,,,,,,地名,米德加德之蛇领地,campaign_01_11
-BAGDAD - Sub,BAGHDAD - Sub,,,,,BAGDAD - zadanie dodatkowe,,,,巴格达 - 支线,,,,,,,,,,地名,巴格达支线标识,campaign_01_10-sub
-Hatschis Nachbarn,Hatchie's Neighbours,,,,,Sąsiedzi Hatschiego,,,,哈奇的邻居,,,,,,,,,,地名,哈奇的邻居,campaign_02_02
-Nachbarn,Neighbours,,,,,Sąsiedzi,,,,邻居,,,,,,,,,,通用,邻居,campaign_02_02
-DIE PLAGE,THE PLAGUE,,,,,PLAGA,,,,瘟疫,,,,,,,,,,事件,蛇患/瘟疫,campaign_02_01
-DIE GROSSE HUNGERSNOT,THE GREAT FAMINE,,,,,WIELKA KLĘSKA GŁODU,,,,大饥荒,,,,,,,,,,事件,阿拉伯大饥荒,campaign_02_02
-DREI WÜNSCHE - Die Große Hungersnot - Sub,THREE WISHES - The Great Famine - Sub,,,,,TRZY ŻYCZENIA - WIELKA KLĘSKA GŁODU,,,,三个愿望 - 大饥荒 - 支线,,,,,,,,,,事件,支线标题,campaign_02_02-sub
-Städtchen,Town,,,,,Miasto,,,,小镇,,,,,,,,,,地名,小城镇,campaign_02_03
-ALTE FREUNDE,OLD FRIENDS,,,,,STARZY PRZYJACIELE,,,,故友,,,,,,,,,,事件,故友重逢,campaign_02_03
-Schmied Johannes,Johannes the Smith,,,,,Kowal Johannes,,,,铁匠约翰内斯,,,,,,,,,,人名,铁匠,campaign_02_04
-Fenris,Fenrir,,,,,Fenrir,,,,芬里尔,,,,,,,,,,人名,北欧神话巨狼,campaign_02_04
-Wikingerdorf,Viking Village,,,,,Wioska Wikingów,,,,维京人村庄,,,,,,,,,,地名,维京人村庄,campaign_02_06
-Walhalla,Valhalla,,,,,Walhalla,,,,瓦尔哈拉,,,,,,,,,,地名,英灵殿,campaign_02_06
-Weltenesche Yggdrasil,World Ash Yggdrasil,,,,,Jesion Świata Yggdrasil,,,,世界树尤克特拉希尔,,,,,,,,,,地名,世界树,campaign_02_06
-DIE KETTE DES FENRIS,THE CHAIN OF FENRIR,,,,,ŁAŃCUCH FENRISA,,,,芬里尔之链,,,,,,,,,,事件,芬里尔之链,campaign_02_04
-SCHWERTER DER KÖNIGE - Die Kette des Fenris - Sub1,THE SWORDS OF THE KINGS - The Chain of Fenrir - Sub1,,,,,MIECZE KRÓLI - ŁAŃCUCH FENRISA,,,,王者之剑 - 芬里尔之链 - 支线1,,,,,,,,,,事件,支线标题,campaign_02_04-sub1
-INSEL DER SCHWEIGSAMEN - Die Kette des Fenris - Sub2,THE ISLAND OF THE SILENT - The Chain of Fenrir - Sub2,,,,,WYSPA MILCZĄCYCH - ŁAŃCUCH FENRISA,,,,沉默者之岛 - 芬里尔之链 - 支线2,,,,,,,,,,事件,支线标题,campaign_02_04-sub2
-FENRIS HORDEN,FENRIR'S HORDES,,,,,HORDY FENRISA,,,,芬里尔部落,,,,,,,,,,地名,芬里尔部落,campaign_02_05
-Mönche,Monks,,,,,Mnisi,,,,修士,,,,,,,,,,人名,修道院修士,campaign_02_04
-Fährm.,Ferry.,,,,,Przew.,,,,渡船,,,,,,,,,,通用,渡船夫简称,campaign_02_04
-Brücke Bifrost,Bifrost Bridge,,,,,Most Bifrost,,,,比弗罗斯特桥,,,,,,,,,,地名,彩虹桥,campaign_02_07
-EISWELT,THE ICE WORLD,,,,,LODOWA KRAINA,,,,冰之世界,,,,,,,,,,地名,冰之世界,campaign_02_07-sub
-Odín,Odin,,,,,Odin,,,,奥丁,,,,,,,,,,人名,北欧主神,campaign_02_08
-Architekten,Architects,,,,,Architekci,,,,建筑师,,,,,,,,,,人名,建筑师,campaign_03_01
-Babylon,Babylon,,,,,Babilon,,,,巴比伦,,,,,,,,,,地名,巴比伦,campaign_03_02
-Bauarbeiternomaden,Builder Nomads,,,,,Budowniczy Nomadów,,,,游牧工兵,,,,,,,,,,人名,游牧工兵,campaign_03_02
-Hirten,Shepherds,,,,,Pasterze,,,,牧人,,,,,,,,,,通用,牧人,campaign_03_02
-Frauen,Women,,,,,Kobiety,,,,妇女,,,,,,,,,,通用,妇女,campaign_03_02_sub
-DER LEUCHTTURM VON PHAROS,THE PHAROS LIGHTHOUSE,,,,,LATARNIA MORSKA Z FAROS,,,,法罗斯灯塔,,,,,,,,,,事件,世界奇观,campaign_03_01
-DIE HÄNGENDEN GÄRTEN VON SEMIRAMIS,THE HANGING GARDENS OF SEMIRAMIS,,,,,WISZĄCE OGRODY SEMIRAMIDY,,,,塞米拉米斯空中花园,,,,,,,,,,事件,世界奇观,campaign_03_02
-UNTERIRDISCHE HALLEN,UNDERGROUND HALLS,,,,,PODZIEMNE KORYTARZE,,,,地下厅堂,,,,,,,,,,地名,地下厅堂,campaign_03_02_sub
-Pharaonenkrieger,Pharaoh Warriors,,,,,Wojownicy Faraona,,,,法老战士,,,,,,,,,,人名,法老战士,campaign_03_07
-Stadtteil 1,District 1,,,,,Dystrykt 1,,,,城区 1,,,,,,,,,,地名,城区,campaign_03_08
-Stadtteil 2,District 2,,,,,Dystrykt 2,,,,城区 2,,,,,,,,,,地名,城区,campaign_03_08
-Stadtteil 3,District 3,,,,,Dystrykt 3,,,,城区 3,,,,,,,,,,地名,城区,campaign_03_08
-DER TEMPEL DER ARTEMIS,THE TEMPLE OF ARTEMIS,,,,,ŚWIĄTYNIA ARTEMIDY,,,,阿尔忒弥斯神庙,,,,,,,,,,事件,世界奇观,campaign_03_05
-HEROSTRATES ERBEN,HEROSTRATES' HEIRS,,,,,SPADKOBIERCY HEROSTRATESA,,,,赫罗斯特拉特斯继承者,,,,,,,,,,人名,纵火者继承者,campaign_03_05
-DIE VERLORENEN SÜMPFE,THE LOST SWAMPS,,,,,ZAGINIONE BAGNA,,,,迷失沼泽,,,,,,,,,,地名,迷失沼泽,campaign_03_05_sub2
-DIE PYRAMIDEN VON GIZEH,THE PYRAMIDS OF GIZA,,,,,PIRAMIDY Z GIZA,,,,吉萨金字塔,,,,,,,,,,事件,世界奇观,campaign_03_07
-DAS ACHTE WELTWUNDER,THE EIGHTH WONDER OF THE WORLD,,,,,ÓSMY CUD ŚWIATA,,,,第八大奇迹,,,,,,,,,,事件,世界奇观,campaign_03_08
-Kolosses von Rhodos,Colossus of Rhodes,,,,,Kolos z Rodos,,,,罗德岛巨像,,,,,,,,,,事件,世界奇观,campaign_03_08
-Grabstätte des Mausolos,Tomb of Mausolus,,,,,Grobowiec Mauzolosa,,,,摩索拉斯王陵,,,,,,,,,,事件,世界奇观,campaign_03_08
-Zeusstatue in Olympia,Statue of Zeus at Olympia,,,,,Posąg Zeusa w Olimpii,,,,奥林匹亚宙斯巨像,,,,,,,,,,事件,世界奇观,campaign_03_08
-Spieler,Player,,,,,Gracz,,,,玩家,,,,,,,,,,通用,玩家,campaign_03_03_sub
-Wächter,Guard,,,,,Strażnik,,,,守卫,,,,,,,,,,通用,守卫,campaign_03_03_sub3
-Der Läufer von Elis,Runner of Elis,,,,,Biegacz Elei,,,,伊利斯的长跑者,,,,,,,,,,人名,长跑者,campaign_03_06_sub1
-KOLOSS-GEHEIMGANG,COLOSSUS - SECRET PASSAGE,,,,,KOLOS - SEKRETNE PRZEJŚCIE,,,,巨像密道,,,,,,,,,,地名,巨像密道,campaign_03_03_sub
-KOLOSS-ORAKEL,COLOSSUS - ORACLE,,,,,KOLOS - WYROCZNIA,,,,巨像神谕,,,,,,,,,,地名,巨像神谕,campaign_03_03_sub3
-DER WETTSTREIT,THE COMPETITION,,,,,ZAWODY,,,,竞技之争,,,,,,,,,,事件,竞技之争,campaign_03_06_sub1
-DAS FLAMMENMEER,THE SEA OF FLAMES,,,,,MORZE PŁOMIENI,,,,火海,,,,,,,,,,地名,火海,campaign_03_06_sub2
-Erdrachen,Earth Dragons,,,,,Smoki Ziemne,,,,土龙,,,,,,,,,,术语,campaign_04 龙种（土龙）,campaign_04;tutorial;demo
-Wasserdachen,Water Dragons,,,,,Wodne Smoki,,,,水龙,,,,,,,,,,术语,campaign_04 龙种 sid13 旧拼法,campaign_04;tutorial;demo
-Hirt.,Herd.,,,,,Past.,,,,牧.,,,,,,,,,,术语,campaign_04 牧人缩写,campaign_04;tutorial;demo
-Napal.,Nabal.,,,,,Nabal.,,,,纳.,,,,,,,,,,术语,campaign_04 纳帕利亚缩写,campaign_04;tutorial;demo
-SPRUDEL,SPRUDEL,,,,,SPRUDEL,,,,涌泉,,,,,,,,,,术语,campaign_04 地形,campaign_04;tutorial;demo
-NIXE,NIXIE,,,,,NIXE,,,,水妖,,,,,,,,,,术语,campaign_04 地形,campaign_04;tutorial;demo
-WELLE,WAVE,,,,,WELLA,,,,波涛,,,,,,,,,,术语,campaign_04 地形,campaign_04;tutorial;demo
-Montseraine,Montseraine,,,,,Montseraine,,,,蒙瑟雷,,,,,,,,,,术语,demo_singleplayer_02 地名,campaign_04;tutorial;demo
-Bergräuber,Mountain Marauders,,,,,Rabusie,,,,山贼,,,,,,,,,,术语,demo_singleplayer_02 敌人,campaign_04;tutorial;demo
-Kultstätte,Place of Worship,,,,,Miejsce Kultu,,,,圣地,,,,,,,,,,术语,demo_singleplayer_02 祭祀场,campaign_04;tutorial;demo
-Dämon,Demon,,,,,Demon,,,,恶魔,,,,,,,,,,术语,demo_singleplayer_02 敌人,campaign_04;tutorial;demo
-Ausrüstungsgegenstände,Equipment Items,,,,,Przedmioty Ekwipunku,,,,装备物资,,,,,,,,,,术语,tutorial_006 通用词,campaign_04;tutorial;demo
-Unterhändler,Negotiator,,,,,Negocjator,,,,调停人,,,,,,,,,,术语,demo_singleplayer_02 角色,campaign_04;tutorial;demo
-Bote,Messenger,,,,,Posłaniec,,,,信使,,,,,,,,,,术语,demo_singleplayer_02 角色,campaign_04;tutorial;demo
-Gesinnung,Attitude,,,,,Nastawienie,,,,立场,,,,,,,,,,术语,demo_singleplayer_02 外交词,campaign_04;tutorial;demo
-Ehepaar,Married Couple,,,,,Małżeństwo,,,,夫妇,,,,,,,,,,术语,tutorial_002 通用词,campaign_04;tutorial;demo
-Holzsperrträger,Wooden Spearmen,,,,,Włócznicy z drew. włóczniami,,,,木栅兵,,,,,,,,,,术语,tutorial_006 兵种,campaign_04;tutorial;demo
-Wachturm,Defence Tower,,,,,Wieża obronna,,,,哨塔,,,,,,,,,,术语,tutorial_006 建筑,campaign_04;tutorial;demo
-Eskimos,Eskimos,,,,,Eskimosi,,,,爱斯基摩人,,,,,,,,,,术语,圣诞特辑 种族,tutorial;demo
-Näherei,Tailor's Workshop,,,,,Zakład krawiecki,,,,裁缝坊,,,,,,,,,,术语,tutorial 建筑,tutorial;demo
-TÖPFEREI,POTTERY,,,,,WARSZTAT GARNCARSKI,,,,陶艺坊,,,,,,,,,,术语,tutorial_004 建筑(全大写强调),tutorial;demo
-TÖPFERS,POTTERS,,,,,GARNCARZE,,,,陶工,,,,,,,,,,术语,tutorial_004 职业(全大写强调),tutorial;demo
-Steinmetzes,Stonemasons,,,,,Kamieniarze,,,,石匠,,,,,,,,,,术语,tutorial_004 职业,tutorial;demo
-Schreiners,Carpenters,,,,,Cieśle,,,,木工,,,,,,,,,,术语,tutorial_004 职业,tutorial;demo
-Schmiedes,Blacksmiths,,,,,Kowale,,,,铁匠,,,,,,,,,,术语,tutorial_004 职业,tutorial;demo
-Nähers,Tailors,,,,,Krawcy,,,,裁缝,,,,,,,,,,术语,tutorial_004 职业,tutorial;demo
-Viehzüchters,Stock Farmers,,,,,Hodowcy Bydła,,,,畜牧者,,,,,,,,,,术语,tutorial_004 职业,tutorial;demo
-Möbel,Furniture,,,,,Meble,,,,家具,,,,,,,,,,术语,通用 物资,tutorial;demo
-Lederrüstungen,Leather Armours,,,,,Skórzane Zbroje,,,,皮甲,,,,,,,,,,术语,通用 装备,tutorial;demo
-Technologien,Technologies,,,,,Technologie,,,,科技,,,,,,,,,,术语,tutorial_004 标题,tutorial;demo
-Pharos,Pharos,,,,,Faros,,,,法罗斯,,,,,,,,,,术语,demo_mainmenu_10 地名(岛/灯塔),tutorial;demo
-Marmorblöcke,Marble Blocks,,,,,Bloki marmuru,,,,大理石块,,,,,,,,,,术语,demo_mainmenu_10 物资,tutorial;demo
-Heiltränke,Healing Potions,,,,,Lecznicze mikstury,,,,治疗药剂,,,,,,,,,,术语,通用 道具,tutorial;demo
-Verteidigungsamulette,Amulets of Defence,,,,,Amulety Obrony,,,,防御护符,,,,,,,,,,术语,demo_mainmenu_10 道具,tutorial;demo
-Wikingern,Vikings,,,,,Wikingowie,,,,维京人,,,,,,,,,,术语,demo_mainmenu_10 部族(与格),tutorial;demo
-Langschwerter,Longswords,,,,,Długie Miecze,,,,长剑,,,,,,,,,,术语,demo_mainmenu_10 兵器,tutorial;demo
-Vagabundenlager,Vagabond Camp,,,,,Obóz włóczęgów,,,,流浪者营地,,,,,,,,,,术语,demo_mainmenu_10 地点,tutorial;demo
+Halldor,Halldor,,,,,Halldor,,,,霍尔多尔,霍爾多爾,ハルドル,할도르,,,,,,,人名,教程角色,tutorial_002
+Gunnhild,Gunnhild,,,,,Gunnhild,,,,贡希尔德,貢希爾德,グンヒルド,군힐데,,,,,,,人名,教程角色,tutorial_002
+Grimmhild,Grimmhild,,,,,Grimmhild,,,,格里姆希尔德,格里姆希爾德,グリムヒルド,그림힐데,,,,,,,人名,教程角色,tutorial_002
+Kalf,Kalf,,,,,Kalf,,,,卡尔夫,卡爾夫,カルフ,칼프,,,,,,,人名,教程角色,tutorial_002
+Ragna,Ragna,,,,,Ragna,,,,拉格纳,拉格納,ラグナ,라그나,,,,,,,人名,教程角色,tutorial_002
+Bjoern,Bjoern,,,,,Bjoern,,,,比约恩,比約恩,ビョルン,비에른,,,,,,,人名,教程角色,tutorial_002
+Snorri,Snorri,,,,,Snorri,,,,斯诺里,斯諾里,スノッリ,스노리,,,,,,,人名,教程角色,tutorial_003; tutorial_004; tutorial_005
+Hedin,Hedin,,,,,Hedin,,,,海丁,海丁,ヘディン,헤딘,,,,,,,人名,教程角色,tutorial_003; tutorial_004
+Orm,Orm,,,,,Orm,,,,奥姆,奧姆,オルム,오름,,,,,,,人名,教程角色,tutorial_003; tutorial_004
+Ralf,Ralf,,,,,Ralf,,,,拉尔夫,拉爾夫,ラルフ,랄프,,,,,,,人名,教程角色,tutorial_003; tutorial_004
+Geir,Geir,,,,,Geir,,,,盖尔,蓋爾,ゲイル,게이르,,,,,,,人名,教程角色,tutorial_003; tutorial_004
+Eystein,Eystein,,,,,Eystein,,,,埃斯坦,埃斯坦,エイステイン,에이스테인,,,,,,,人名,教程角色,tutorial_003; tutorial_004
+Bjarni,Bjarni,,,,,Bjarni,,,,比雅尼,比雅尼,ビャルニ,비아르니,,,,,,,人名,主角，战役角色；主线主角，维京勇士,campaign_01_01; campaign_01_02; tutorial_001
+Hoirio,Hoirio,,,,,Hoirio,,,,霍里奥,霍里奧,ホイリオ,호이리오,,,,,,,人名,造船匠,campaign_01_01
+Gabelbart,Gabelbart,,,,,Gabelbart,,,,岔胡子福克比尔德,岔鬍子福克比爾德,ガベルバルト,가벨바르트,,,,,,,人名,比亚尔尼的表兄,campaign_01_01
+Nornen,Norns,,,,,Norny,,,,诺恩三女神,諾恩三女神,ノルン,노른,,,,,,,神话人物,命运三女神乌尔德、薇儿丹蒂、诗寇蒂；北欧神话，命运三女神,campaign_01_01
+Urd,Urd,,,,,Urd,,,,乌尔德,烏爾德,ウルズ,우르드,,,,,,,神话人物,诺恩三女神之一，掌管过去,campaign_01_01
+Werdandi,Werdandi,,,,,Werdandi,,,,薇儿丹蒂,薇兒丹蒂,ヴェルダンディ,베르단디,,,,,,,神话人物,诺恩三女神之一，掌管现在,campaign_01_01
+Skuld,Skuld,,,,,Skuld,,,,诗寇蒂,詩寇蒂,スクルド,스쿨드,,,,,,,神话人物,诺恩三女神之一，掌管未来,campaign_01_01
+Jörmungander,Jormungand,,,,,Jörmungand,,,,耶梦加得,耶夢加得,ヨルムンガンド,요르문간드,,,,,,,神话怪物,米德加尔特巨蛇,campaign_01_01
+Ragnarök,Ragnarok,,,,,Ragnarok,,,,诸神的黄昏,諸神的黃昏,ラグナロク,라그나로크,,,,,,,神话事件,诸神的最终之战；北欧神话，末日之战,campaign_01_01; campaign_01_11
+Asgard,Asgard,,,,,Asgard,,,,阿斯加德,阿斯加德,アスガルド,아스가르드,,,,,,,神话地点,诸神的家园,campaign_01_01
+Midgard,Midgard,,,,,Midgard,,,,米德加尔特,米德加爾特,ミドガルド,미드가르드,,,,,,,神话地点,凡人世界,campaign_01_01
+Norland,Norland,,,,,Wyspa Norland,,,,诺尔兰,諾爾蘭,ノルランド,노르란드,,,,,,,地点,诺恩三女神的岛屿,campaign_01_01
+Wigrid Wall,Wigrid,,,,,Wigrid,,,,维格利德之墙,維格利德之牆,ヴィグリドの壁,비그리드 장벽,,,,,,,地点,命运之战的战场,campaign_01_01
+Wiklingshausen,Vikingthorpe,,,,,Wikingthorpe,,,,维京索普,維京索普,ヴィクリングスハウゼン,비클링스하우젠,,,,,,,地点,村庄名称,campaign_01_01
+Grönland,Greenland,,,,,Grenlandia,,,,格陵兰,格陵蘭,グリーンランド,그린란드,,,,,,,地点,游戏开场地点,campaign_01_01
+Met,Mead,,,,,Miody Pitne,,,,蜂蜜酒,蜂蜜酒,蜂蜜酒,꿀술,,,,,,,物品,酿造的酒类饮品；消耗品,campaign_01_01; goods.ini
+Bootsbauer,Shipbuilder,,,,,Budowniczy okrętów,,,,造船匠,造船匠,造船工,조선공,,,,,,,职业,建造船只的工匠；造船工匠,campaign_01_01
+Träger,Carrier,,,,,Tragarze,,,,搬运工,搬運工,運搬人,운반인,,,,,,,职业,为工作场所运输物品的工人,campaign_01_01
+Braumeister,Brewer,,,,,Piwowarzy,,,,酿酒师,釀酒師,醸造師,양조사,,,,,,,职业,酿造蜂蜜酒的工匠；酿造蜂蜜酒的职业,campaign_01_01; jobs.ini
+Bienenstock,Beehive,,,,,Ul,,,,蜂巢,蜂巢,蜂の巣,벌집,,,,,,,建筑,生产蜂蜜的建筑,campaign_01_01; houses.ini
+Brauerei,Brewery,,,,,Browar,,,,酿酒坊,釀酒坊,醸造所,양조장,,,,,,,建筑,酿造蜂蜜酒的建筑,campaign_01_01; houses.ini
+Hauptquartier,Headquarters,,,,,Kwatera Główna,,,,大本营,大本營,本拠地,본거지,,,,,,,建筑,每个村庄的基础建筑，用于储存物品和宗教动机,houses.ini
+Wohnhaus 1,Dwelling 1,,,,,Dom 1,,,,一级民居,一級民居,住居1,주택1,,,,,,,建筑,可容纳一个家庭的民居,houses.ini
+Wohnhaus 2,Dwelling 2,,,,,Dom 2,,,,二级民居,二級民居,住居2,주택2,,,,,,,建筑,可容纳两个家庭的民居,houses.ini
+Wohnhaus 3,Dwelling 3,,,,,Dom 3,,,,三级民居,三級民居,住居3,주택3,,,,,,,建筑,可容纳三个家庭的民居,houses.ini
+Wohnhaus 4,Dwelling 4,,,,,Dom 4,,,,四级民居,四級民居,住居4,주택4,,,,,,,建筑,可容纳四个家庭的民居,houses.ini
+Wohnhaus 5,Dwelling 5,,,,,Dom 5,,,,五级民居,五級民居,住居5,주택5,,,,,,,建筑,可容纳五个家庭的民居,houses.ini
+Lagerhaus 1,Warehouse 1,,,,,Magazyn 1,,,,一级仓库,一級倉庫,倉庫1,창고1,,,,,,,建筑,最小的仓库,houses.ini
+Lagerhaus 2,Warehouse 2,,,,,Magazyn 2,,,,二级仓库,二級倉庫,倉庫2,창고2,,,,,,,建筑,中型仓库,houses.ini
+Lagerhaus 3,Warehouse 3,,,,,Magazyn 3,,,,三级仓库,三級倉庫,倉庫3,창고3,,,,,,,建筑,大型仓库,houses.ini
+Brunnen,Well,,,,,Studnie,,,,水井,水井,井戸,우물,,,,,,,建筑,生产水的建筑,houses.ini
+Farm,Farm,,,,,Farma,,,,农场,農場,農場,농장,,,,,,,建筑,种植小麦的建筑,houses.ini
+Muhle,Mill,,,,,Młyn,,,,磨坊,磨坊,製粉所,제분소,,,,,,,建筑,将小麦磨成面粉的建筑,houses.ini
+Buckerei 1,Bakery 1,,,,,Piekarnia 1,,,,一级烘焙坊,一級烘焙坊,製パン所1,제과점1,,,,,,,建筑,烘焙面包的建筑,houses.ini
+Buckerei 2,Bakery 2,,,,,Piekarnia 2,,,,二级烘焙坊,二級烘焙坊,製パン所2,제과점2,,,,,,,建筑,烘焙蛋糕的建筑,houses.ini
+Viehzuchtere,Cattle Farm,,,,,Ferma bydła,,,,畜牧场,畜牧場,牧畜場,목장,,,,,,,建筑,养殖动物的建筑,houses.ini
+Naherei 1,Tailor's Workshop 1,,,,,Zakład krawiecki 1,,,,一级裁缝铺,一級裁縫鋪,裁縫工房1,재봉소1,,,,,,,建筑,生产鞋子的建筑,houses.ini
+Naherei 2,Tailor's Workshop 2,,,,,Zakład krawiecki 2,,,,二级裁缝铺,二級裁縫鋪,裁縫工房2,재봉소2,,,,,,,建筑,生产皮甲和布甲的建筑,houses.ini
+Topferei 1,Pottery 1,,,,,Warsztat garncarski 1,,,,一级制陶坊,一級製陶坊,陶芸工房1,도예소1,,,,,,,建筑,生产陶砖的建筑,houses.ini
+Topferei 2,Pottery 2,,,,,Warsztat garncarski 2,,,,二级制陶坊,二級製陶坊,陶芸工房2,도예소2,,,,,,,建筑,生产瓦片的建筑,houses.ini
+Topferei 3,Pottery 3,,,,,Warsztat garncarski 3,,,,三级制陶坊,三級製陶坊,陶芸工房3,도예소3,,,,,,,建筑,生产器皿的建筑,houses.ini
+Schreinerei 1,Carpenter's Shop 1,,,,,Warsztat ciesielski 1,,,,一级木匠坊,一級木匠坊,大工工房1,목공소1,,,,,,,建筑,生产木质工具的建筑,houses.ini
+Schreinerei 2,Carpenter's Shop 2,,,,,Warsztat ciesielski 2,,,,二级木匠坊,二級木匠坊,大工工房2,목공소2,,,,,,,建筑,生产家具的建筑,houses.ini
+Schreinerei 3,Carpenter's Shop 3,,,,,Warsztat ciesielski 3,,,,三级木匠坊,三級木匠坊,大工工房3,목공소3,,,,,,,建筑,生产木矛和手推车的建筑,houses.ini
+Schreinerei 4,Carpenter's Shop 4,,,,,Warsztat ciesielski 4,,,,四级木匠坊,四級木匠坊,大工工房4,목공소4,,,,,,,建筑,生产船只和牛车的建筑,houses.ini
+Waffenhutte 1,Armourer's Shop 1,,,,,Warsztat płatnerski 1,,,,一级武器坊,一級武器坊,武器工房1,무기공방1,,,,,,,建筑,生产短弓和长弓的建筑,houses.ini
+Waffenhutte 2,Armourer's Shop 2,,,,,Warsztat płatnerski 2,,,,二级武器坊,二級武器坊,武器工房2,무기공방2,,,,,,,建筑,生产投石机的建筑,houses.ini
+Steinmetzhutte 1,Mason's Shop 1,,,,,Warsztat kamieniarski 1,,,,一级石匠坊,一級石匠坊,石工工房1,석공소1,,,,,,,建筑,生产石砖的建筑,houses.ini
+Steinmetzhutte 2,Mason's Shop 2,,,,,Warsztat kamieniarski 2,,,,二级石匠坊,二級石匠坊,石工工房2,석공소2,,,,,,,建筑,生产大理石的建筑,houses.ini
+Schmiede 1,Smithy 1,,,,,Kuźnia 1,,,,一级铁匠铺,一級鐵匠鋪,鍛冶場1,대장간1,,,,,,,建筑,生产铁质工具和武器的建筑,houses.ini
+Schmiede 2,Smithy 2,,,,,Kuźnia 2,,,,二级铁匠铺,二級鐵匠鋪,鍛冶場2,대장간2,,,,,,,建筑,生产长剑和铁甲的建筑,houses.ini
+Munzpruge,Coin Mint,,,,,Mennica,,,,铸币厂,鑄幣廠,造幣所,조폐소,,,,,,,建筑,铸造金币的建筑,houses.ini
+Kruuterhutte,Herb Hut,,,,,Chatka zielarza,,,,草药屋,草藥屋,薬草小屋,약초오두막,,,,,,,建筑,采集和种植草药的建筑,houses.ini
+Alchemistenhutte 1,Alchemist's Hut 1,,,,,Chatka alchemika 1,,,,一级炼金小屋,一級鍊金小屋,錬金術師の小屋1,연금술사의오두막1,,,,,,,建筑,生产油的建筑,houses.ini
+Alchemistenhutte 2,Alchemist's Hut 2,,,,,Chatka alchemika 2,,,,二级炼金小屋,二級鍊金小屋,錬金術師の小屋2,연금술사의오두막2,,,,,,,建筑,生产药剂的建筑,houses.ini
+Tempel,Temple,,,,,Świątynie,,,,神庙,神廟,神殿,신전,,,,,,,建筑,用于宗教动机的建筑,houses.ini
+Schule,School,,,,,Szkoła,,,,学校,學校,学校,학교,,,,,,,建筑,学习新职业的建筑,houses.ini
+Kaserne,Barracks,,,,,Koszary,,,,兵营,兵營,兵舎,병영,,,,,,,建筑,招募士兵的建筑,houses.ini
+Wachturm 1,Defence Tower 1,,,,,Wieża obronna 1,,,,一级箭塔,一級箭塔,防衛塔1,방어탑1,,,,,,,建筑,防御性建筑,houses.ini
+Wachturm 2,Defence Tower 2,,,,,Wieża obronna 2,,,,二级箭塔,二級箭塔,防衛塔2,방어탑2,,,,,,,建筑,防御性建筑,houses.ini
+Wasser,Water,,,,,Woda,,,,水,水,水,물,,,,,,,物品,基础资源,goods.ini
+Lehm,Clay,,,,,Glina,,,,黏土,黏土,粘土,점토,,,,,,,物品,基础资源,goods.ini
+Bruchstein,Rubble stone,,,,,Nieobrobiony kamień,,,,碎石,碎石,砕石,부석,,,,,,,物品,基础资源,goods.ini
+Weizen,Wheat,,,,,Pszenica,,,,小麦,小麥,小麦,밀,,,,,,,物品,基础资源,goods.ini
+Holz,Wood,,,,,Drewno,,,,木材,木材,木材,목재,,,,,,,物品,基础资源,goods.ini
+Eisen,Iron,,,,,Żelazo,,,,铁矿,鐵礦,鉄,철,,,,,,,物品,基础资源,goods.ini
+Gold,Gold,,,,,Złoto,,,,金矿,金礦,金,금,,,,,,,物品,基础资源,goods.ini
+Munzen,Coins,,,,,Monety,,,,金币,金幣,金貨,금화,,,,,,,物品,贸易商品,goods.ini
+Leder,Leather,,,,,Skóry,,,,皮革,皮革,革,가죽,,,,,,,物品,原材料,goods.ini
+Wolle,Wool,,,,,Wełny,,,,羊毛,羊毛,羊毛,양모,,,,,,,物品,原材料,goods.ini
+Mehl,Flour,,,,,Mąki,,,,面粉,麵粉,小麦粉,밀가루,,,,,,,物品,加工品,goods.ini
+Honig,Honey,,,,,Miody,,,,蜂蜜,蜂蜜,蜂蜜,꿀,,,,,,,物品,加工品,goods.ini
+Kruuter,Herbs,,,,,Zioła,,,,草药,草藥,薬草,약초,,,,,,,物品,原材料,goods.ini
+Pilze,Mushrooms,,,,,Grzyby,,,,蘑菇,蘑菇,キノコ,버섯,,,,,,,物品,原材料,goods.ini
+Ol,Oil,,,,,Oliwa,,,,油,油,油,기름,,,,,,,物品,加工品,goods.ini
+Nahrung,Food,,,,,Żywność,,,,食物,食物,食料,식량,,,,,,,物品,消耗品,goods.ini
+Kuchen,Cake,,,,,Ciastka,,,,蛋糕,蛋糕,ケーキ,케이크,,,,,,,物品,特殊食物,goods.ini
+Fruchte,Fruits,,,,,Owoce,,,,水果,水果,果物,과일,,,,,,,物品,食物,goods.ini
+Brot,Bread,,,,,Chleb,,,,面包,麵包,パン,빵,,,,,,,物品,食物,goods.ini
+Fleisch,Meat,,,,,Mięsa,,,,肉,肉,肉,고기,,,,,,,物品,食物,goods.ini
+Fisch,Fish,,,,,Ryby,,,,鱼,魚,魚,생선,,,,,,,物品,食物,goods.ini
+Wurst,Sausage,,,,,Kiełbasa,,,,香肠,香腸,ソーセージ,소시지,,,,,,,物品,食物,goods.ini
+Backsteine,Bricks,,,,,Cegły,,,,陶砖,陶磚,レンガ,벽돌,,,,,,,物品,建筑材料,goods.ini
+Dachziegel,Tiles,,,,,Dachówki,,,,瓦片,瓦片,瓦,기와,,,,,,,物品,建筑材料,goods.ini
+Steinblocke,Stone blocks,,,,,Kamienne bloki,,,,石砖,石磚,石材,석재,,,,,,,物品,建筑材料,goods.ini
+Marmor,Marble,,,,,Marmury,,,,大理石,大理石,大理石,대리석,,,,,,,物品,建筑材料,goods.ini
+Geschirr,Crockery,,,,,Naczynia,,,,器皿,器皿,食器,식기,,,,,,,物品,家具,goods.ini
+Mobel,Furniture,,,,,Meble,,,,家具,傢俱,家具,가구,,,,,,,物品,家具,goods.ini
+Schuhe,Shoes,,,,,Buty,,,,鞋子,鞋子,靴,신발,,,,,,,物品,装备,goods.ini
+Holzwerkzeuge,Wooden tools,,,,,Drewniane Narzędzia,,,,木质工具,木質工具,木製道具,목제 도구,,,,,,,物品,工具,goods.ini
+Eisenwerkzeuge,Iron tools,,,,,Żelazne Narzędzia,,,,铁质工具,鐵質工具,鉄製道具,철제 도구,,,,,,,物品,工具,goods.ini
+Waffenrock,Tunic,,,,,Tunika,,,,布甲,布甲,布鎧,천 갑옷,,,,,,,物品,护甲,goods.ini
+Lederrustung,Leather armour,,,,,Skórzana zbroja,,,,皮甲,皮甲,革鎧,가죽 갑옷,,,,,,,物品,护甲,goods.ini
+Kettenhemd,Chain mail,,,,,Kolczuga,,,,锁甲,鎖甲,鎖帷子,사슬 갑옷,,,,,,,物品,护甲,goods.ini
+Plattenrustung,Plate armour,,,,,Zbroja płytowa,,,,板甲,板甲,板金鎧,판금 갑옷,,,,,,,物品,护甲,goods.ini
+Kurzbogen,Short bow,,,,,Krótki łuk,,,,短弓,短弓,短弓,짧은 활,,,,,,,物品,武器,goods.ini
+Langbogen,Longbow,,,,,Długi łuk,,,,长弓,長弓,長弓,장궁,,,,,,,物品,武器,goods.ini
+Holzspeer,Wooden spear,,,,,Drewniana włócznia,,,,木矛,木矛,木製槍,목제 창,,,,,,,物品,武器,goods.ini
+Eisenspeer,Iron spear,,,,,Żelazna włócznia,,,,铁矛,鐵矛,鉄製槍,철제 창,,,,,,,物品,武器,goods.ini
+Kurzschwert,Shortsword,,,,,Krótki miecz,,,,短剑,短劍,短剣,단검,,,,,,,物品,武器,goods.ini
+Langschwert,Longsword,,,,,Długi miecz,,,,长剑,長劍,長剣,장검,,,,,,,物品,武器,goods.ini
+Kleiner Nahrungstrank,Small nourishing potion,,,,,Mała odżywcza mikstura,,,,小型营养药水,小型營養藥水,小型栄養ポーション,소형 영양 물약,,,,,,,物品,消耗品,goods.ini
+Grosser Nahrungstrank,Large nourishing potion,,,,,Duża odżywcza mikstura,,,,大型营养药水,大型營養藥水,大型栄養ポーション,대형 영양 물약,,,,,,,物品,消耗品,goods.ini
+Kleiner Wachtrank,Small stamina potion,,,,,Mała mikstura wytrzymałości,,,,小型耐力药水,小型耐力藥水,小型スタミナポーション,소형 체력 물약,,,,,,,物品,消耗品,goods.ini
+Grosser Wachtrank,Large stamina potion,,,,,Duża mikstura wytrzymałości,,,,大型耐力药水,大型耐力藥水,大型スタミナポーション,대형 체력 물약,,,,,,,物品,消耗品,goods.ini
+Kleiner Heiltrank,Small healing potion,,,,,Mała lecznicza mikstura,,,,小型治疗药水,小型治療藥水,小型回復ポーション,소형 치유 물약,,,,,,,物品,消耗品,goods.ini
+Grosser Heiltrank,Large healing potion,,,,,Duża lecznicza mikstura,,,,大型治疗药水,大型治療藥水,大型回復ポーション,대형 치유 물약,,,,,,,物品,消耗品,goods.ini
+Nahrungsamulett,Nourishing amulet,,,,,Odżywczy amulet,,,,营养护符,營養護符,栄養の護符,영양 부적,,,,,,,物品,护符,goods.ini
+Wachbleibamulett,Stamina amulet,,,,,Amulet wytrzymałości,,,,耐力护符,耐力護符,スタミナの護符,체력 부적,,,,,,,物品,护符,goods.ini
+Starkeamulett,Strength amulet,,,,,Amulet siły,,,,力量护符,力量護符,力の護符,힘 부적,,,,,,,物品,护符,goods.ini
+Verteidigungsamulett,Defence amulet,,,,,Amulet obrony,,,,防御护符,防禦護符,防御の護符,방어 부적,,,,,,,物品,护符,goods.ini
+Trefferamulett,Precision amulet,,,,,Amulet precyzji,,,,精准护符,精準護符,命中の護符,명중 부적,,,,,,,物品,护符,goods.ini
+Windamulett,Wind amulet,,,,,Amulet wiatru,,,,疾风护符,疾風護符,風の護符,바람 부적,,,,,,,物品,护符,goods.ini
+Bauarbeiter,Builder,,,,,Budowniczowie,,,,建筑工人,建築工人,建築作業員,건축 노동자,,,,,,,职业,建造建筑的职业,jobs.ini
+Abbauer,Gatherer,,,,,Zbieracze,,,,采集工,採集工,採集人,채집꾼,,,,,,,职业,采集资源的职业,jobs.ini
+Jager,Hunter,,,,,Myśliwy,,,,猎人,獵人,狩人,사냥꾼,,,,,,,职业,狩猎动物的职业,jobs.ini
+Fischer,Fisherman,,,,,Rybacy,,,,渔夫,漁夫,漁師,어부,,,,,,,职业,捕鱼的职业,jobs.ini
+Bauer,Farmer,,,,,Rolnik,,,,农民,農民,農夫,농부,,,,,,,职业,种植小麦的职业,jobs.ini
+Muller,Miller,,,,,Młynarz,,,,磨坊主,磨坊主,粉屋,제분업자,,,,,,,职业,磨面粉的职业,jobs.ini
+Backer,Baker,,,,,Piekarz,,,,面包师,麵包師,パン職人,제빵사,,,,,,,职业,烘焙面包的职业,jobs.ini
+Viehzuchter,Livestock breeder,,,,,Hodowca bydła,,,,畜牧工,畜牧工,畜産人,목축업자,,,,,,,职业,养殖动物的职业,jobs.ini
+Nahermeister,Tailor,,,,,Krawiec,,,,裁缝,裁縫,裁縫師,재단사,,,,,,,职业,制作衣物的职业,jobs.ini
+Topfer,Potter,,,,,Garncarz,,,,陶工,陶工,陶工,도공,,,,,,,职业,制作陶器的职业,jobs.ini
+Schreiner,Carpenter,,,,,Cieśle,,,,木工,木工,大工,목수,,,,,,,职业,制作木制品的职业,jobs.ini
+Waffenbauer,Weaponsmith,,,,,Płatnerze,,,,武器匠,武器匠,武器職人,무기장인,,,,,,,职业,制作武器的职业,jobs.ini
+Steinmetz,Mason,,,,,Kamieniarz,,,,石匠,石匠,石工,석공,,,,,,,职业,制作石材制品的职业,jobs.ini
+Schmied,Blacksmith,,,,,Kowal,,,,铁匠,鐵匠,鍛冶屋,대장장이,,,,,,,职业,锻造铁制品的职业,jobs.ini
+Munzpruger,Coin minter,,,,,Mincerz,,,,铸币师,鑄幣師,鋳幣師,주조공,,,,,,,职业,铸造金币的职业,jobs.ini
+Kruutersammler,Herb gatherer,,,,,Zbieracz ziół,,,,草药采集者,草藥採集者,薬草採取人,약초 채집꾼,,,,,,,职业,采集草药的职业,jobs.ini
+Druide,Druid,,,,,Druid,,,,德鲁伊,德魯伊,ドルイド,드루이드,,,,,,,职业,村庄的智者与祭司,jobs.ini
+Soldat,Soldier,,,,,Żołnierz,,,,士兵,士兵,兵士,병사,,,,,,,职业,战斗单位,jobs.ini
+Kundschafter,Scout,,,,,Zwiadowcy,,,,侦察兵,偵察兵,斥候,정찰병,,,,,,,职业,探索和发现,jobs.ini
+Trager,Carrier,,,,,Tragarz,,,,搬运工,搬運工,運搬人,운반꾼,,,,,,,职业,搬运物品,jobs.ini
+Handler,Trader,,,,,Kupiec,,,,商人,商人,商人,상인,,,,,,,职业,贸易,jobs.ini
+Wikinger,Vikings,,,,,Wikingowie,,,,维京人,維京人,ヴァイキング,바이킹,,,,,,,种族,北欧海盗民族,tribes.ini
+Ägypterdörfchen,Egyptian Village,,,,,Wioska,,,,埃及小村,埃及小村,エジプトの小村,이집트 작은 마을,,,,,,,地名,教程地图中尼罗河畔的埃及人村落,tutorial_001
+Wikingersoldat,Viking Soldier,,,,,Żołnierz Wikingów,,,,维京战士,維京戰士,ヴァイキング兵士,바이킹 병사,,,,,,,军事,维京战斗单位（游戏中称 Wikingersoldat）,tutorial_001; tutorial_007
+Sarazenen,Saracens,,,,,Saraceni,,,,撒拉逊人,撒拉遜人,サラセン人,사라센인,,,,,,,种族,阿拉伯民族,tribes.ini
+Franken,Franks,,,,,Frankowie,,,,法兰克人,法蘭克人,フランク人,프랑크인,,,,,,,种族,西欧民族,tribes.ini
+Byzanz,Byzantines,,,,,Bizancjum,,,,拜占庭人,拜占庭人,ビザンツ人,비잔티움인,,,,,,,种族,东罗马帝国民族,tribes.ini
+Eskimo,Eskimos,,,,,Eskimosi,,,,爱斯基摩人,愛斯基摩人,エスキモー,에스키모인,,,,,,,种族,北极民族,tribes.ini
+S-KI-MOS,S-KI-MOS,,,,,S-KI-MOS,,,,爱斯基摩人,愛斯基摩人,S-KI-MOS,S-KI-MOS,,,,,,,种族,北极民族（德语变体写法，同 Eskimos）,map_xml_user/Campaign01
+Ykol,Ykol,,,,,Ykol,,,,伊科尔,伊科爾,イコル,이콜,,,,,,,角色,特殊NPC,wonders001.ini
+Wolfe,Wolves,,,,,Wilki,,,,狼群,狼群,狼,늑대,,,,,,,生物,野生动物,chesttypes.ini
+Lowen,Lions,,,,,Lwy,,,,狮子,獅子,獅子,사자,,,,,,,生物,野生动物,chesttypes.ini
+Werwolf,Werewolf,,,,,Wilkołak,,,,狼人,狼人,人狼,늑대인간,,,,,,,生物,神话生物,tribes.ini
+Katapult,Catapult,,,,,Katapulta,,,,投石机,投石機,投石機,투석기,,,,,,,车辆,攻城武器,vehicletypes.ini
+Handkarren,Handcart,,,,,Wózki Ręczne,,,,手推车,手推車,手押し車,수레,,,,,,,车辆,运输工具,vehicletypes.ini
+Ochsenkarren,Ox Cart,,,,,Zaprzęgi,,,,牛车,牛車,牛車,소수레,,,,,,,车辆,运输工具,vehicletypes.ini
+Schiff,Ship,,,,,Statek,,,,船只,船隻,船,배,,,,,,,车辆,水上交通工具,vehicletypes.ini
+Grosses Schiff,Big Ship,,,,,Duży Statek,,,,大型船只,大型船隻,大型船,대형선,,,,,,,车辆,水上交通工具,vehicletypes.ini
+Mission,Mission,,,,,Zadanie,,,,任务,任務,ミッション,미션,,,,,,,游戏术语,游戏中的任务,ingameguimessages.ini
+Kampagne,Campaign,,,,,Kampania,,,,战役,戰役,キャンペーン,캠페인,,,,,,,游戏术语,一系列任务,mainmenu.ini
+Tutorial,Tutorial,,,,,Samouczek,,,,教程,教程,チュートリアル,튜토리얼,,,,,,,游戏术语,教学模式,odin001.ini
+Saga,Saga,,,,,Saga,,,,萨迦,薩迦,サーガ,사가,,,,,,,游戏术语,北欧传奇故事,saga001.ini
+Mythologie,Mythology,,,,,Mitologia,,,,神话,神話,神話,신화,,,,,,,游戏术语,北欧神话,odin001.ini
+Aggressiv,Aggressive,,,,,Agresywny,,,,进攻,進攻,攻撃的,공격적,,,,,,,军事模式,士兵进攻模式,militarymodes.ini
+Defensiv,Defensive,,,,,Defensywny,,,,防御,防禦,防御的,방어적,,,,,,,军事模式,士兵防御模式,militarymodes.ini
+Ignorant,Ignorant,,,,,Ignorowanie,,,,无视,無視,無視,무시,,,,,,,军事模式,士兵无视模式,militarymodes.ini
+Fliehen,Flee,,,,,Ucieczka,,,,逃跑,逃跑,逃走,도주,,,,,,,军事模式,士兵逃跑模式,militarymodes.ini
+Freundlich,Friend,,,,,Przyjazny,,,,友好,友好,友好,우호,,,,,,,外交状态,友好关系,ingameguimisclogic.ini
+Neutral,Neutral,,,,,Neutralny,,,,中立,中立,中立,중립,,,,,,,外交状态,中立关系,ingameguimisclogic.ini
+Feindlich,Enemy,,,,,Wrogi,,,,敌对,敵對,敵対,적대,,,,,,,外交状态,敌对关系,ingameguimisclogic.ini
+Sigurd,Sigurd,,,,,Sigurd,,,,西格德,西格德,シグルド,시구르드,,,,,,,人名,Bjarni的好友，维京勇士,campaign_01_04; campaign_02_01; campaign_02_03
+Cyra,Cyra,,,,,Cyra,,,,希拉,希拉,シーラ,시라,,,,,,,人名,Bjarni的妻子，参与封印芬里尔狼,campaign_01_05; campaign_02_06
+Hatschi,Hatchie,,,,,Hatchie,,,,哈奇,哈奇,ハッチ,하치,,,,,,,人名,阿拉伯朋友，二代主线配角,campaign_01_10; campaign_02_01
+Mani,Mani,,,,,Mani,,,,玛尼,瑪尼,マニ,마니,,,,,,,人名,第八世界奇迹主角之一,_campaign_04_01; campaign_03_01
+Norbert,Norbert,,,,,Norbert,,,,诺伯特,諾伯特,ノルベルト,노르베르트,,,,,,,人名,龙，Mani的伙伴,_campaign_04_01; campaign_03_02
+Miguel,Miguel,,,,,Miguel,,,,米格尔,米格爾,ミゲル,미구엘,,,,,,,人名,singleplayer_02_01 角色,campaign_02_01; singleplayer_02_01
+Gunnar,Gunnar,,,,,Gunnar,,,,古纳尔,古納爾,グンナル,군나르,,,,,,,人名,campaign_03_03 角色,campaign_03_03
+Herostrates,Herostrates,,,,,Herostrates,,,,赫罗斯特拉特斯,赫羅斯特拉特斯,ヘロストラテス,헤로스트라테스,,,,,,,人名,纵火者，为求名焚毁阿尔忒弥斯神庙,campaign_03_05; campaign_03_05_sub1
+Rothild,Rothild,,,,,Rothild,,,,罗希尔德,羅希爾德,ロートヒルド,로트힐드,,,,,,,人名,_campaign_04_01_sub3 角色,_campaign_04_01_sub3
+Blaustrumpf,Blaustrumpf,,,,,Blaustrumpf,,,,布劳施特鲁姆夫,布勞施特魯姆夫,ブラウシュトルンプフ,브라우슈투름프,,,,,,,人名,_campaign_04_01_sub3 角色,_campaign_04_01_sub3
+Pyro,Pyro,,,,,Pyro,,,,派罗,派羅,パイロ,파이로,,,,,,,人名,火龙，_campaign_04_02 角色,_campaign_04_02; _campaign_04_02_sub1
+Aquarius,Aquarius,,,,,Aquarius,,,,阿夸里乌斯,阿誇裡烏斯,アクアリウス,아쿠아리우스,,,,,,,人名,水龙,_campaign_04_01_sub1; _campaign_04_01_sub2
+Aquarom,Aquarom,,,,,Aquarom,,,,阿夸罗姆,阿誇羅姆,アクアロム,아쿠아롬,,,,,,,人名,_campaign_04_03_sub1 角色,_campaign_04_03_sub1; _campaign_04_05_sub1
+Kobul,Kobul,,,,,Kobul,,,,科布尔,科布林,コブル,코불,,,,,,,人名,campaign_03_02 角色,campaign_03_02; _campaign_04_04
+Terras,Terras,,,,,Terras,,,,特拉斯,特拉斯,テラス,테라스,,,,,,,人名,地龙,_campaign_04_04_sub2; _campaign_04_05
+Abras,Abras,,,,,Abras,,,,阿布拉斯,阿布拉斯,アブラス,아브라스,,,,,,,人名,水龙,_campaign_04_04_sub2; _campaign_04_05
+Lumis,Lumis,,,,,Lumis,,,,卢米斯,盧米斯,ルミス,루미스,,,,,,,人名,_campaign_04_01 角色,_campaign_04_01; _campaign_04_02
+Gerols,Gerols,,,,,Gerols,,,,格罗尔斯,格羅爾斯,ゲロルス,게롤스,,,,,,,人名,_campaign_04_01 角色,_campaign_04_01; _campaign_04_03; _campaign_04_05
+Jafar,Jafar,,,,,Jafar,,,,贾法尔,賈法爾,ジャファー,자파르,,,,,,,人名,campaign_01_08 角色,campaign_01_08
+Ali Baba,Ali Baba,,,,,Ali Baba,,,,阿里巴巴,阿里巴巴,アリババ,알리바바,,,,,,,人名,campaign_01_08 角色,campaign_01_08
+Sindbad,Sindbad,,,,,Sindbad,,,,辛巴达,辛巴達,シンドバッド,신드바드,,,,,,,人名,campaign_01_10 角色,campaign_01_10
+Heimdall,Heimdall,,,,,Heimdall,,,,海姆达尔,海姆達爾,ハイムダル,하임달,,,,,,,人名,北欧神话，彩虹桥守卫者,campaign_02_07; campaign_02_07-sub
+Loki,Loki,,,,,Loki,,,,洛基,洛基,ロキ,로키,,,,,,,人名,北欧神话，诡计之神，Ykol的真身,campaign_02_08
+Hardradi,Hardradi,,,,,Hardrada,,,,哈德拉迪,哈德拉迪,ハルドラディ,할드라디,,,,,,,人名,拜占庭将军,campaign_01_06; campaign_01_07
+Sven Herulfson,Sven Herulfson,,,,,Swen Herulfson,,,,斯文·赫鲁尔夫松,斯文·赫魯爾夫松,スヴェン・ヘルルフソン,스벤 헤룰프손,,,,,,,人名,campaign_01_07 角色,campaign_01_07
+Wieland,Wieland,,,,,Wieland,,,,维兰,維蘭,ヴィーラント,위란트,,,,,,,人名,传奇铁匠,campaign_01_03
+Robin Hood,Robin Hood,,,,,Robin Hood,,,,罗宾汉,羅賓漢,ロビン・フッド,로빈 후드,,,,,,,人名,英格兰传奇英雄,campaign_01_03
+Knut,Knut,,,,,Knut,,,,克努特,克努特,クヌート,크누트,,,,,,,人名,教程角色,tutorial_001
+Ulla,Ulla,,,,,Ulla,,,,乌拉,烏拉,ウッラ,울라,,,,,,,人名,教程角色,tutorial_001
+Thorbjorn,Thorbjorn,,,,,Thorbjorn,,,,托尔比约恩,托爾比約恩,トールビョルン,토르비요른,,,,,,,人名,教程角色,tutorial_001
+Kari,Kari,,,,,Kari,,,,卡里,卡里,カリ,카리,,,,,,,人名,教程角色,tutorial_001
+Groa,Groa,,,,,Groa,,,,格罗阿,格羅阿,グローア,그로아,,,,,,,人名,教程角色,tutorial_001
+Ljotolf,Ljotolf,,,,,Ljotolf,,,,约托尔夫,約托爾夫,リョトウルフ,료톨프,,,,,,,人名,教程角色,tutorial_001
+Thorfinn,Thorfinn,,,,,Thorfinn,,,,托尔芬,托爾芬,トールフィン,토르핀,,,,,,,人名,教程角色,tutorial_005
+Lodin,Lodin,,,,,Lodin,,,,洛丁,洛丁,ロディン,로딘,,,,,,,人名,教程角色,tutorial_005
+Lehmi,Lehmi,,,,,Clayme,,,,莱米,萊米,レーミ,레미,,,,,,,人名,教程角色,tutorial_005
+Steini,Steini,,,,,Stony,,,,施泰尼,施泰尼,シュタイニ,슈타이니,,,,,,,人名,教程角色,tutorial_005
+Sturla,Sturla,,,,,Sturla,,,,斯图尔拉,斯圖爾拉,ストゥルラ,스튤라,,,,,,,人名,教程角色,tutorial_005
+Ari,Ari,,,,,Ari,,,,阿里,阿里,アリ,아리,,,,,,,人名,教程角色,tutorial_005
+Chares,Chares,,,,,Chares,,,,卡雷斯,卡雷斯,カレス,카레스,,,,,,,人名,罗德岛太阳神巨像建筑师,campaign_03_03
+Demetrios,Demetrios,,,,,Demetrios,,,,德米特里奥斯,德米特里奧斯,デメトリオス,데메트리오스,,,,,,,人名,campaign_03_03 角色,campaign_03_03_sub1; campaign_03_03_sub2
+Plato,Plato,,,,,Plato,,,,柏拉图,柏拉圖,プラトン,플라톤,,,,,,,人名,campaign_03_03 角色,campaign_03_03
+Sostratos,Sostratos,,,,,Sostratos,,,,索斯特拉托斯,索斯特拉託斯,ソストラトス,소스트라토스,,,,,,,人名,法罗斯灯塔建筑师,campaign_03_01
+Croesus,Croesus,,,,,Croesus,,,,克罗伊斯,克羅伊斯,クロイソス,크로이소스,,,,,,,人名,campaign_03_03 角色,campaign_03_03
+Mausolos,Mausolos,,,,,Mauzolos,,,,毛索洛斯,毛索洛斯,マウソロス,마우솔로스,,,,,,,人名,哈利卡纳苏斯国王，陵墓主人,campaign_03_04
+Artemisia,Artemisia,,,,,Artemizja,,,,阿尔特米西亚,阿爾特米西亞,アルテミシア,아르테미시아,,,,,,,人名,摩索拉斯王之妻,campaign_03_04
+Satyros,Satyros,,,,,Satyros,,,,萨提罗斯,薩提羅斯,サテュロス,사튀로스,,,,,,,人名,campaign_03_04 角色,campaign_03_04
+Halikarnassos,Halikarnassos,,,,,Helikarnas,,,,哈利卡纳苏斯,哈利卡納蘇斯,ハリカルナッソス,할리카르나소스,,,,,,,地名,卡里亚之都,campaign_03_04
+Osirer,Osirer,,,,,Ozyrianie,,,,奥西里斯族,奧西里斯族,オシリス族,오시리스족,,,,,,,部族,奉冥界之神为名的埃及裔族裔,campaign_03_04
+Al Rhababa,Al Rhababa,,,,,Al Rhababa,,,,阿尔拉哈巴,阿爾拉哈巴,アル・ラババ,알 라바바,,,,,,,部族,哈利卡纳苏斯外海海盗,campaign_03_04
+El Arab,El Arab,,,,,El Arab,,,,埃尔阿拉布,埃爾阿拉布,エル・アラブ,엘 아랍,,,,,,,部族,山脚部族,campaign_03_04
+Letros,Letros,,,,,Letros,,,,莱特罗斯,萊特羅斯,レトロス,레트로스,,,,,,,人名,箱商,campaign_03_04
+Amulos,Amulos,,,,,Amulos,,,,阿穆洛斯,阿穆洛斯,アムロス,아물로스,,,,,,,人名,箱商,campaign_03_04
+Vinos,Vinos,,,,,Vinos,,,,维诺斯,維諾斯,ヴィノス,비노스,,,,,,,人名,箱商,campaign_03_04
+Tut Ma' Nix,Tut Ma' Nix,,,,,Toot N Commin,,,,塔特·马·尼克斯,塔特·馬·尼克斯,トゥット・マ・ニクス,투트 마 닉스,,,,,,,人名,奥西里斯族大祭司,campaign_03_04
+Phidias,Phidias,,,,,Fidiasz,,,,菲狄亚斯,菲狄亞斯,ペイディアス,피디아스,,,,,,,人名,宙斯神像雕塑家,campaign_03_06
+Amelia,Amelia,,,,,Amelia,,,,阿梅利亚,阿梅利亞,アメリア,아멜리아,,,,,,,人名,campaign_03_05 角色,campaign_03_05
+Hermeias,Hermeias,,,,,Hermeias,,,,赫尔梅亚斯,赫爾梅亞斯,ヘルメイアス,헤르메이아스,,,,,,,人名,campaign_03_05 角色,campaign_03_05
+Artemis,Artemis,,,,,Artemida,,,,阿尔忒弥斯,阿爾忒彌斯,アルテミス,아르테미스,,,,,,,神明,狩猎与月亮女神,campaign_03_05
+Ephesos,Ephesos,,,,,Efez,,,,以弗所,以弗所,エフェソス,에페소스,,,,,,,地名,小亚细亚古城，阿尔忒弥斯神庙所在地,campaign_03_05
+Sumpfvolk,swamp tribe,,,,,Plemię z bagien,,,,沼泽部族,沼澤部族,沼の民,늪의 부족,,,,,,,部族,居于沼泽边缘之族,campaign_03_05_sub2
+Sumpfweisen,swamp sages,,,,,Mędrcy z Bagien,,,,沼泽智者,沼澤智者,沼の賢者,늪의 현자,,,,,,,部族,隐于沼泽深处的智者,campaign_03_05_sub2
+Lebensenergie,life energy,,,,,Energia Życiowa,,,,生命能量,生命能量,生命力,생명 에너지,,,,,,,概念,沼泽中的奇异魔法能量,campaign_03_05_sub2
+Anthusa,Anthusa,,,,,Anthusa,,,,安图萨,安圖薩,アントゥサ,안투사,,,,,,,人名,campaign_03_06 角色,campaign_03_06
+Destasia,Destasia,,,,,Destasia,,,,德斯塔西亚,德斯塔西亞,デスタシア,데스타시아,,,,,,,人名,campaign_03_06 角色,campaign_03_06
+Pasara,Pasara,,,,,Pasara,,,,帕萨拉,帕薩拉,パサラ,파사라,,,,,,,人名,campaign_03_06 角色,campaign_03_06
+Olympia,Olympia,,,,,Olimpia,,,,奥林匹亚,奧林匹亞,オリンピア,올림피아,,,,,,,地名,宙斯巨像所在地，奥林匹克竞技发源地,campaign_03_06
+Elis,Elis,,,,,Eleia,,,,埃利斯,埃利斯,エリス,엘리스,,,,,,,地名,伯罗奔尼撒城邦,campaign_03_06
+Korinth,Korinth,,,,,Korynt,,,,科林斯,科林斯,コリントス,코린토스,,,,,,,地名,古希腊城邦,campaign_03_06
+Sparta,Sparta,,,,,Sparta,,,,斯巴达,斯巴達,スパルタ,스파르타,,,,,,,地名,古希腊军事城邦,campaign_03_06
+Megara,Megara,,,,,Megara,,,,墨伽拉,墨伽拉,メガラ,메가라,,,,,,,地名,古希腊城邦,campaign_03_06
+Eliser,Eliser,,,,,Eleiczyk,,,,埃利斯人,埃利斯人,エリス人,엘리스 사람,,,,,,,部族,埃利斯之民,campaign_03_06
+Läufer,Runner,,,,,Biegacz,,,,赛跑者,賽跑者,走者,주자,,,,,,,身份,奥林匹亚竞技之赛跑者,campaign_03_06
+Nomadenkrieger,nomad warriors,,,,,Wojownicy Nomadów,,,,游牧战士,遊牧戰士,遊牧戦士,유목 전사,,,,,,,部族,崇拜宙斯之游牧武士,campaign_03_06
+Kronos,Kronos,,,,,Kronos,,,,克洛诺斯,克洛諾斯,クロノス,크로노스,,,,,,,神明,提坦神，宙斯之父,campaign_03_06
+Flammenmeer,Flammenmeer,,,,,Morze Płomieni,,,,火海,火海,火の海,불바다,,,,,,,地名,斯巴达地下熔岩秘窟,campaign_03_06_sub2
+Elfenbein,ivory,,,,,Kość Słoniowa,,,,象牙,象牙,象牙,상아,,,,,,,材料,巨像裸身镶饰所用,campaign_03_06
+Edelmetalle,precious metals,,,,,Metale Szlachetne,,,,贵金属,貴金屬,貴金属,귀금속,,,,,,,材料,嵌于权杖之稀有金属,campaign_03_06
+Nike,Nike,,,,,Nike,,,,尼刻,尼刻,ニケ,니케,,,,,,,神明,胜利女神，立于宙斯右手,campaign_03_06
+Zeusstatue,Statue of Zeus,,,,,Statua Zeusa,,,,宙斯巨像,宙斯巨像,ゼウス巨像,제우스 거상,,,,,,,奇迹,世界奇迹5（菲狄亚斯塑）,campaign_03_06
+Merobaudes,Merobaudes,,,,,Merobaudes,,,,梅罗鲍德斯,梅羅鮑德斯,メロバウデス,메로바우데스,,,,,,,人名,singleplayer_01_07 角色,singleplayer_01_07
+Nanuk,Nanuk,,,,,Nanuk,,,,纳努克,納努克,ナヌーク,나눅,,,,,,,人名,weinachten_2002 角色,weinachten_2002
+Linda,Linda,,,,,Linda,,,,琳达,琳達,リンダ,린다,,,,,,,人名,campaign_03_03 角色,campaign_03_03
+Petros,Petros,,,,,Petros,,,,佩特罗斯,佩特羅斯,ペトロス,페트로스,,,,,,,人名,campaign_03_03 角色,campaign_03_03
+Buerokrates,Buerokrates,,,,,Buerocrates,,,,官僚布罗克拉特斯,官僚布羅克拉特斯,ビューロクラテス,뷰로크라테스,,,,,,,人名,campaign_03_03 角色（戏仿官僚）,campaign_03_03
+Sekretarios,Sekretarios,,,,,Secretarios,,,,秘书塞克拉塔里奥斯,秘書塞克拉塔里奧斯,セクレタリオス,세크레타리오스,,,,,,,人名,campaign_03_03 角色（戏仿秘书）,campaign_03_03
+Metros,Metros,,,,,Metros,,,,梅特罗斯,梅特羅斯,メトロス,메트로스,,,,,,,人名,campaign_03_03 角色,campaign_03_03
+Prof. Wamugo,Prof. Wamugo,,,,,Prof. Wamugo,,,,瓦穆戈教授,瓦穆戈教授,ワムゴ教授,와무고 교수,,,,,,,人名,_campaign_04_03 角色,_campaign_04_03; _campaign_04_05
+Tankred,Tankred,,,,,Tancred,,,,坦克雷德,坦克雷德,タンクレード,탕크레드,,,,,,,人名,campaign_01_02-sub 角色,campaign_01_02-sub
+Johannes,Johannes,,,,,Johannes,,,,约翰内斯,約翰內斯,ヨハネス,요하네스,,,,,,,人名,campaign_02_04 角色,campaign_02_04
+Smilch,Smilch,,,,,Smilch,,,,斯米尔奇,斯米爾奇,スミルヒ,스밀히,,,,,,,人名,campaign_02_04 角色,campaign_02_04
+Dobur,Dobur,,,,,Dobur,,,,多布尔,多布林,ドブール,도부르,,,,,,,人名,campaign_02_04 角色,campaign_02_04
+NORMANDIE,NORMANDY,,,,,NORMANDIA,,,,诺曼底,諾曼底,ノルマンディー,노르망디,,,,,,,地名,法国北部地区,campaign_01_02
+ENGLAND,ENGLAND,,,,,ANGLIA,,,,英格兰,英格蘭,イングランド,잉글랜드,,,,,,,地名,英国,campaign_01_03
+ITALIEN,ITALY,,,,,ITALIA,,,,意大利,義大利,イタリア,이탈리아,,,,,,,地名,南欧,campaign_01_04
+MIKLAGARD,MIKLAGARD,,,,,MIKLAGARD,,,,米克拉加德,米克拉加德,ミクラガルド,미클라가르드,,,,,,,地名,维京对君士坦丁堡的称呼,campaign_01_05
+ALEXANDRIA,ALEXANDRIA,,,,,ALEKSANDRIA,,,,亚历山大港,亞歷山大港,アレクサンドリア,알렉산드리아,,,,,,,地名,埃及港口城市,campaign_01_08; campaign_03_01
+PALÄSTINA,PALESTINE,,,,,PALESTYNA,,,,巴勒斯坦,巴勒斯坦,パレスチナ,팔레스타인,,,,,,,地名,中东地区,campaign_01_09
+BAGDAD,BAGHDAD,,,,,BAGDAD,,,,巴格达,巴格達,バグダッド,바그다드,,,,,,,地名,伊拉克首都,campaign_01_10
+WALHALLA,VALHALLA,,,,,WALHALLA,,,,瓦尔哈拉,瓦爾哈拉,ヴァルハラ,발할라,,,,,,,地名,北欧神话，英灵殿,campaign_02_06
+NORDLAND,NORTHLAND,,,,,PÓŁNOC,,,,北地,北地,ノルトランド,노르트란트,,,,,,,地名,北方之地,campaign_02_06
+HEL'S REICH,HEL'S REALM,,,,,KRÓLESTWO HEL,,,,海尔之国,海爾之國,ヘルの国,헬의 나라,,,,,,,地名,北欧神话，死亡女神Hel的领地,campaign_02_07
+PHAROS,PHAROS,,,,,FAROS,,,,法罗斯,法羅斯,ファロス,파로스,,,,,,,地名,亚历山大港外岛屿，灯塔所在地,campaign_03_01
+RHODOS,RHODES,,,,,RODOS,,,,罗德岛,羅德島,ロードス,로도스,,,,,,,地名,希腊岛屿，巨像所在地,campaign_03_03
+GIZEH,GIZA,,,,,GIZA,,,,吉萨,吉薩,ギザ,기자,,,,,,,地名,埃及金字塔所在地,campaign_03_07
+THULE,THULE,,,,,TULE,,,,图勒,圖勒,トゥーレ,툴레,,,,,,,地名,北欧神话中的极北之地,campaign_01_03
+LONDON,LONDON,,,,,LONDYN,,,,伦敦,倫敦,ロンドン,런던,,,,,,,地名,英国首都,campaign_01_03
+NOTTINGHAM,NOTTINGHAM,,,,,NOTTINGHAM,,,,诺丁汉,諾丁漢,ノッティンガム,노팅엄,,,,,,,地名,英国城市,campaign_01_03
+PARIS,PARIS,,,,,PARYŻ,,,,巴黎,巴黎,パリ,파리,,,,,,,地名,法国首都,campaign_01_02
+RATINGEN,RATINGEN,,,,,RATINGEN,,,,拉廷根,拉廷根,ラーティンゲン,라팅엔,,,,,,,地名,德国城市,campaign_01_02
+OBERKIRCH,OBERKIRCH,,,,,OBERKIRCH,,,,奥伯基希,奧伯基希,オーバーキルヒ,오버키르히,,,,,,,地名,德国城市,campaign_01_02
+BRISTOL,BRISTOL,,,,,BRISTOL,,,,布里斯托尔,布里斯托爾,ブリストル,브리스틀,,,,,,,地名,英国城市,campaign_01_03
+YORK,YORK,,,,,YORK,,,,约克,約克,ヨーク,요크,,,,,,,地名,英国城市,campaign_01_03
+BABYLON,BABYLON,,,,,BABILON,,,,巴比伦,巴比倫,バビロン,바빌론,,,,,,,地名,古巴比伦城,campaign_03_02; _campaign_04_04
+ANTIOCHIA,ANTIOCHIA,,,,,ANTIOCHIA,,,,安条克,安條克,アンティオキア,안티오키아,,,,,,,地名,古叙利亚城市,singleplayer_01_05
+AKKON,AKKON,,,,,AKKA,,,,阿克,阿克,アッコン,아콘,,,,,,,地名,黎凡特城市,singleplayer_01_10
+HAITABU,HAITABU,,,,,HAITABU,,,,海塔布,海塔布,ハイタブ,하이타부,,,,,,,地名,维京时代重要贸易站,singleplayer_01_04
+MONTSERAINE,MONTSERAINE,,,,,MONTSERAINE,,,,蒙特塞雷恩,蒙特塞雷恩,モントセレーン,몽세렌,,,,,,,地名,demo_singleplayer_02 虚构地名,demo_singleplayer_02
+LINDOS,LINDOS,,,,,LINDOS,,,,林多斯,林多斯,リンドス,린도스,,,,,,,地名,罗德岛古城,campaign_03_03
+BIFROST,BIFROST,,,,,BIFROST,,,,比弗罗斯特,比弗羅斯特,ビフレスト,비프로스트,,,,,,,地名,北欧神话，彩虹桥,campaign_02_07-sub
+GRAUHOLM,GRAUHOLM,,,,,GRAUHOLM,,,,格拉乌霍尔姆,格拉烏霍爾姆,グラウホルム,그라우홀름,,,,,,,地名,_campaign_04_01_sub3 虚构地名,_campaign_04_01_sub3
+SÄRKLAND,SARKLAND,,,,,SERKLAND,,,,萨尔克兰,薩爾克蘭,セルクランド,세르크란트,,,,,,,地名,维京对中东/巴格达地区的称呼,campaign_01_10
+Fenriswolf,Fenris Wolf,,,,,Wilk Fenrisa,,,,芬里尔狼,芬里爾狼,フェンリスウルフ,펜리스울프,,,,,,,神话,北欧神话，Loki之子，巨狼,campaign_02_04; campaign_02_05
+Fenrir,Fenrir,,,,,Fenrir,,,,芬里尔,芬里爾,フェンリル,펜리르,,,,,,,神话,芬里尔狼的别名,campaign_02_04; campaign_02_05
+Midgardschlange,Midgard Serpent,,,,,Wąż Midgardu,,,,米德加德之蛇,米德加德之蛇,ミドガルドの蛇,미드가르드 뱀,,,,,,,神话,北欧神话，Loki之子，耶梦加得,campaign_01_11
+Yggdrasil,Yggdrasil,,,,,Yggdrasil,,,,世界树,世界樹,ユグドラシル,이그드라실,,,,,,,神话,北欧神话，宇宙之树,campaign_02_06
+Yggdrasils-Orden,Yggdrasil Order,,,,,Strażnicy świętego drzewa,,,,世界树教团,世界樹教團,ユグドラシル教団,이그드라실 교단,,,,,,,神话,游戏组织,campaign_02_06
+Warägergarde,Waräger Guard,,,,,Gwardia Waregów,,,,瓦良格卫队,瓦良格衛隊,ヴァリャーグ親衛隊,바랑기아 근위대,,,,,,,军事,拜占庭皇帝的维京卫队,campaign_01_06; campaign_01_07
+Aquas,Aquas,,,,,Aquas,,,,阿夸斯,阿誇斯,アクアス,아쿠아스,,,,,,,生物,水龙,_campaign_04_01; _campaign_04_04_sub2
+Feuerdrachen,Fire Dragons,,,,,Smoki Ogniste,,,,火龙,火龍,火竜,화룡,,,,,,,生物,_campaign_04 系列,_campaign_04_01
+Steindrachen,Stone Dragons,,,,,Smoki Kamienne,,,,石龙,石龍,石竜,석룡,,,,,,,生物,_campaign_04 系列,_campaign_04_01
+Wasserdrachen,Water Dragons,,,,,Smoki Wodne,,,,水龙,水龍,水竜,수룡,,,,,,,生物,_campaign_04 系列,_campaign_04_01
+Schwarzdrachen,Black Dragons,,,,,Czarne Smoki,,,,黑龙,黑龍,黒竜,흑룡,,,,,,,生物,_campaign_04_02_sub2,_campaign_04_02_sub2
+Erddrachen,Earth Dragons,,,,,Smoki Ziemne,,,,地龙,地龍,地竜,지룡,,,,,,,生物,_campaign_04_05,_campaign_04_05
+Zauberdrachen,Magic Dragons,,,,,Smoki Magiczne,,,,魔法龙,魔法龍,魔竜,마룡,,,,,,,生物,_campaign_04_05,_campaign_04_05
+Schlangenkrieger,Serpent Warriors,,,,,Wężołaki,,,,蛇战士,蛇戰士,蛇戦士,뱀 전사,,,,,,,军事,蛇族战士,campaign_02_01
+Schlangenvolk,Serpent People,,,,,Ludzie-węże,,,,蛇族,蛇族,蛇族,뱀족,,,,,,,种族,蛇形人种,campaign_01_11; singleplayer_01_08
+Schlangendämonen,Serpent Demons,,,,,Demony,,,,蛇魔,蛇魔,蛇魔,뱀 요마,,,,,,,生物,蛇形恶魔,demo_singleplayer_02; singleplayer_02_06
+Schlangenwächter,Serpent Guard,,,,,Wężowy strażnik,,,,蛇卫,蛇衛,蛇衛兵,뱀 근위병,,,,,,,军事,蛇族守卫,campaign_01_10-sub
+Nebelschlangen,Fog Serpents,,,,,Węże,,,,雾蛇,霧蛇,霧蛇,안개 뱀,,,,,,,生物,singleplayer_02_03-sub3,singleplayer_02_03-sub3
+Geisterkrieger,Ghost Warriors,,,,,Duchy wojowników,,,,幽灵战士,幽靈戰士,幽霊戦士,유령 전사,,,,,,,军事,Loki的幽灵战士,campaign_02_07; campaign_02_08
+Werwölfkrieger,Werewolf Warriors,,,,,Wilkołaki,,,,狼人战士,狼人戰士,狼人戦士,늑대인간 전사,,,,,,,军事,狼人战士,campaign_02_07
+Wolfskreaturen,Wolf Creatures,,,,,Wilcze Stwory,,,,狼人生物,狼人生物,狼獣,늑대 짐승,,,,,,,生物,singleplayer_02_01-sub5,singleplayer_02_01-sub5
+Drachen,Dragons,,,,,Smoki,,,,龙,龍,竜,드래곤,,,,,,,生物,龙族总称,campaign_03_02_sub
+Plattländer,Lowlanders,,,,,Wiking z nizin,,,,低地人,低地人,低地の民,저지대 민족,,,,,,,种族,多人地图部族,multiplayer_005; multiplayer_101
+Highländer,Highlanders,,,,,Wiking z gór,,,,高地人,高地人,高地の民,고지대 민족,,,,,,,种族,多人地图部族,multiplayer_005; multiplayer_101
+Nomaden,Nomads,,,,,Beduini,,,,游牧民,遊牧民,遊牧民,유목민,,,,,,,种族,游牧民族,campaign_01_08; campaign_03_01
+Hafenvolk,Harbour People,,,,,Lud Zatoki,,,,港口民,港口民,港の民,항구 민족,,,,,,,种族,港口部族,campaign_01_10; campaign_03_05
+Bergvolk,Mountain Tribe,,,,,Górskie Plemię,,,,山地部族,山地部族,山岳族,산악 부족,,,,,,,种族,山地部族,campaign_03_01
+Sandleute,Sand Dwellers,,,,,Sand Dwellers,,,,沙民,沙民,砂の民,모래 민족,,,,,,,种族,沙漠部族,multiplayer_204
+Schneeschieber,Snow Pushers,,,,,Snow Pushers,,,,推雪者,推雪者,雪かき族,눈 치우는 족,,,,,,,种族,多人地图部族,multiplayer_204
+Dunkelländer,Darklanders,,,,,Mieszkańcy Krainy Ciemności,,,,暗地人,暗地人,暗地の民,어두운 땅 사람,,,,,,,种族,多人地图部族,multiplayer_101
+Finsterländer,Gloomlanders,,,,,Gloomlanders,,,,幽地人,幽地人,幽地の民,침울한 땅 사람,,,,,,,种族,多人地图部族,multiplayer_201
+Markländer,Marklanders,,,,,Marklandczyk,,,,边地人,邊地人,辺境の民,변경 민족,,,,,,,种族,singleplayer_02_03 部族,singleplayer_02_03
+Helluländer,Hellulanders,,,,,Hellulandczyk,,,,赫鲁兰人,赫魯蘭人,ヘルランド人,헬루란드 사람,,,,,,,种族,singleplayer_02_03 部族,singleplayer_02_03
+Goldmangies,Goldmangies,,,,,Złotnicy,,,,金曼吉斯人,金曼吉斯人,ゴールドマンギーズ,골드맨기즈 사람,,,,,,,种族,singleplayer_02_03 部族,singleplayer_02_03
+Graukimos,Greykimos,,,,,Szaromosi,,,,灰爱斯基摩人,灰愛斯基摩人,灰エスキモー族,회색 에스키모족,,,,,,,种族,weinachten_2002 部族,weinachten_2002
+Gelbimos,Yellimos,,,,,Żółtomosi,,,,黄爱斯基摩人,黃愛斯基摩人,黄エスキモー族,노랑 에스키모족,,,,,,,种族,weinachten_2002 部族,weinachten_2002
+Schwarzimos,Blackimos,,,,,Czarnomosi,,,,黑爱斯基摩人,黑愛斯基摩人,黒エスキモー族,검은 에스키모족,,,,,,,种族,weinachten_2002 部族,weinachten_2002
+Hüter,Keepers,,,,,Strażnicy,,,,守护者,守護者,守護者,수호자,,,,,,,种族,神秘组织,singleplayer_02_03
+Hüter des Wissens,Keepers of Knowledge,,,,,Strażnicy wiedzy,,,,知识守护者,知識守護者,知識の守護者,지식의 수호자,,,,,,,种族,守护者分支,singleplayer_02_03
+Beduinen,Bedouins,,,,,Beduini,,,,贝都因人,貝都因人,ベドウィン,베두인족,,,,,,,种族,阿拉伯游牧民族,campaign_03_07
+Inselvolk,Island People,,,,,Wyspiarze,,,,岛民,島民,島民,섬 주민,,,,,,,种族,campaign_03_08 部族,campaign_03_08
+Dunkles Heer,Dark Army,,,,,Mroczna Armia,,,,暗黑军团,暗黑軍團,闇の軍勢,어둠의 군대,,,,,,,军事,敌对势力,campaign_03_07
+Räuber,Robbers,,,,,Rozbójnicy,,,,强盗,強盜,強盗,강도,,,,,,,军事,通用敌对单位,campaign_03_02; tutorial_007
+Banditen,Brigands,,,,,Bandyci,,,,匪徒,匪徒,盗賊,도적,,,,,,,军事,敌对单位,campaign_01_05
+Wachen,Guards,,,,,Strażnicy,,,,守卫,守衛,衛兵,경비병,,,,,,,军事,通用单位,campaign_03_01_sub
+Händler,Merchant,,,,,Kupiec,,,,商人,商人,商人,상인,,,,,,,职业,贸易单位（剧情中）,campaign_03_05; singleplayer_03_03
+Fährmann,Ferryman,,,,,Przewoźnik,,,,渡船夫,渡船伕,渡し守,나룻배 사공,,,,,,,职业,渡船人,campaign_02_04; _campaign_04_01
+Leuchtturm von Pharos,Pharos Lighthouse,,,,,Latarnia Morska na Faros,,,,法罗斯灯塔,法羅斯燈塔,ファロス灯台,파로스 등대,,,,,,,奇迹,世界奇迹1,campaign_03_01
+Koloss von Rhodos,Colossus of Rhodes,,,,,Kolos Rodyjski,,,,罗德岛太阳神巨像,羅德島太陽神巨像,ロドスの巨像,로도스의 거상,,,,,,,奇迹,世界奇迹2,campaign_03_03
+Hängende Gärten von Semiramis,Hanging Gardens of Semiramis,,,,,Wiszące Ogrody Semiramidy,,,,塞弥拉弥斯空中花园,塞彌拉彌斯空中花園,セミラミスの空中庭園,세미라미스의 공중 정원,,,,,,,奇迹,世界奇迹3,campaign_03_02
+Mausoleum,Mausoleum,,,,,Mauzolea,,,,摩索拉斯王陵,摩索拉斯王陵,マウソロス霊廟,마우솔로스 영묘,,,,,,,奇迹,世界奇迹4,campaign_03_04
+Tempel der Artemis,Temple of Artemis,,,,,Świątynia Artemidy,,,,阿尔忒弥斯神庙,阿爾忒彌斯神廟,アルテミス神殿,아르테미스 신전,,,,,,,奇迹,世界奇迹5,campaign_03_05
+Zeustatue des Phidias,Zeus Statue of Phidias,,,,,Statua Zeusa Fidiasza,,,,菲狄亚斯宙斯神像,菲狄亞斯宙斯神像,ペイディアスのゼウス像,페이디아스의 제우스 상,,,,,,,奇迹,世界奇迹6,campaign_03_06
+Pyramiden von Gizeh,Pyramids of Giza,,,,,Piramidy w Gizie,,,,吉萨金字塔,吉薩金字塔,ギザのピラミッド,기자의 피라미드,,,,,,,奇迹,世界奇迹7,campaign_03_07
+Das achte Weltwunder,Eighth Wonder of the World,,,,,Ósmy Cud Świata,,,,第八世界奇迹,第八世界奇蹟,世界第八の不思議,세계 제8의 불가사의,,,,,,,奇迹,世界奇迹8，游戏终极目标,campaign_03_08
+Orakel,Oracle,,,,,Wyrocznia,,,,神谕,神諭,神託,신탁,,,,,,,神话,神谕所/神谕者,campaign_03_03_sub3
+Semiramis,Semiram,,,,,Semiramis,,,,塞弥拉弥斯,塞彌拉彌斯,セミラミス,세미라미스,,,,,,,人名,传说中空中花园的建造者,campaign_03_02
+Bjarnis Stamm,Bjarni's Tribe,,,,,Plemię Bjarniego,,,,比雅尼的部族,比雅尼的部族,ビャルニの部族,비야르니의 부족,,,,,,,种族,Bjarni的维京部族,campaign_01_02
+Bjarnis Volk,Bjarni's People,,,,,Plemię Bjarniego,,,,比雅尼的子民,比雅尼的子民,ビャルニの民,비야르니의 민족,,,,,,,种族,Bjarni的维京子民,singleplayer_01_04
+Bjarnis Dorf,Bjarni's Village,,,,,Wioska Bjarniego,,,,比雅尼的村庄,比雅尼的村莊,ビャルニの村,비야르니의 마을,,,,,,,地名,Bjarni的村庄,campaign_01_03
+Hatschis Dorf,Hatchie's Village,,,,,Wioska Hatschiego,,,,哈奇的村庄,哈奇的村莊,ハッチの村,하치의 마을,,,,,,,地名,Hatschi的村庄,campaign_02_01
+Sigurds Festung,Sigurd's Fortress,,,,,Twierdza Sigurda,,,,西格德的要塞,西格德的要塞,シグルドの要塞,시구르드의 요새,,,,,,,地名,Sigurd的要塞,campaign_02_03
+Sigurds Burg,Sigurd's Castle,,,,,Zamek Sigurda,,,,西格德的城堡,西格德的城堡,シグルドの城,시구르드의 성,,,,,,,地名,Sigurd的城堡,campaign_02_04
+Königreich Thule,Kingdom of Thule,,,,,Królestwo Thule'a,,,,图勒王国,圖勒王國,トゥーレ王国,툴레 왕국,,,,,,,地名,Thule王国,campaign_01_03
+König Thule,King Thule,,,,,Król Thule,,,,图勒国王,圖勒國王,トゥーレ王,툴레왕,,,,,,,人名,Thule国王,campaign_01_03
+Meisterschmied Wieland,Wieland the Blacksmith,,,,,Kowal Wieland,,,,铁匠大师维兰,鐵匠大師維蘭,名工ヴィーラント,명장 빌란트,,,,,,,人名,传奇铁匠Wieland,campaign_01_03
+General Hardradi,General Hardradi,,,,,Generał Hardrada,,,,哈德拉迪将军,哈德拉迪將軍,ハルドラディ将軍,하르드라디 장군,,,,,,,人名,拜占庭将军,campaign_01_07
+Ali Babas Bruder,Ali Baba's Brother,,,,,Brat Ali Baby,,,,阿里巴巴的兄弟,阿里巴巴的兄弟,アリババの兄弟,알리바바의 형제,,,,,,,人名,campaign_01_08 角色,campaign_01_08
+Ykol (Loki),Ykol (Loki),,,,,Ykol (Loki),,,,伊科尔（洛基）,伊科爾（洛基）,イコル（ロキ）,이콜(로키),,,,,,,人名,Ykol的真实身份是Loki,campaign_02_08
+Herostrates Erben,Herostrates' Heirs,,,,,Spadkobiercy Herostratesa,,,,希罗斯特拉特斯的继承者,希羅斯特拉特斯的繼承者,ヘロストラトスの継承者,헤로스트라토스의 계승자,,,,,,,军事,纵火者组织,campaign_03_05; campaign_03_05_sub1
+Miguels Freunde,Miguel's Friends,,,,,Przyjaciele Miguela,,,,米格尔的朋友们,米格爾的朋友們,ミゲルの仲間たち,미구엘의 친구들,,,,,,,军事,singleplayer_02_01-sub4,singleplayer_02_01-sub4
+Miguels Stamm,Miguel's tribe,,,,,Plemię Miguela,,,,米格尔的部族,米格爾的部族,ミゲルの部族,미구엘의 부족,,,,,,,种族,singleplayer_02_01,singleplayer_02_01
+Anführer der Hüter,Keepers' Leader,,,,,Dowódca strażników,,,,守护者首领,守護者首領,守護者の長,수호자의 수장,,,,,,,人名,守护者组织首领,singleplayer_02_03-sub1
+Soldaten der Hüter,Keepers' Soldiers,,,,,Żołnierze strażników,,,,守护者士兵,守護者士兵,守護者の兵士,수호자의 병사,,,,,,,军事,守护者士兵,singleplayer_02_03-sub1
+Brückenwächter,Bridge Guard,,,,,Strażnik mostu,,,,桥卫,橋衛,橋の番人,다리 수비병,,,,,,,军事,守桥人,campaign_01_05; campaign_01_07
+Kopfgeldjäger,Bounty Hunter,,,,,Łowca nagród,,,,赏金猎人,賞金獵人,賞金稼ぎ,현상금 사냥꾼,,,,,,,军事,campaign_01_10,campaign_01_10
+Sarazenen Dorf,Saracen Village,,,,,Wioska Saracenów,,,,撒拉逊村庄,撒拉遜村莊,サラセンの村,사라센 마을,,,,,,,地名,撒拉逊人村庄,campaign_01_10
+Sarazenenheer,Saracen Army,,,,,Armia Saracenów,,,,撒拉逊军队,撒拉遜軍隊,サラセン軍,사라센 군,,,,,,,军事,撒拉逊军队,singleplayer_01_10
+Frankenprinzessin,Frankish Princess,,,,,Frankońska księżniczka,,,,法兰克公主,法蘭克公主,フランクの王女,프랑크 공주,,,,,,,人名,campaign_01_02 角色,campaign_01_02
+Normannenprinz,Norman Prince,,,,,Normański książe,,,,诺曼底王子,諾曼底王子,ノルマンの王子,노르만 왕자,,,,,,,人名,campaign_01_02 角色,campaign_01_02
+Prinzessin,Princess,,,,,Księżniczka,,,,公主,公主,王女,공주,,,,,,,人名,通用公主,campaign_01_02-sub; campaign_01_05-sub
+Prinz,Prince,,,,,Książe,,,,王子,王子,王子,왕자,,,,,,,人名,通用王子,campaign_01_02-sub
+Frankenkönig,King of the Franks,,,,,Król Franków,,,,法兰克国王,法蘭克國王,フランク王,프랑크왕,,,,,,,人名,法兰克国王,singleplayer_01_09
+König Mausolos,King Mausolos,,,,,Król Mauzolos,,,,毛索洛斯国王,毛索洛斯國王,マウソロス王,마우솔로스왕,,,,,,,人名,哈利卡纳苏斯国王,campaign_03_04
+Königin Artemisia,Queen Artemisia,,,,,Królowa Artemisia,,,,阿耳忒弥西亚女王,阿耳忒彌西亞女王,アルテミシア女王,아르테미시아 여왕,,,,,,,人名,毛索洛斯之妻,campaign_03_04
+Häuptling,Chieftain,,,,,Wódz,,,,酋长,酋長,族長,족장,,,,,,,人名,部落酋长,weinachten_2002
+Häuptling Oasiens,Chieftain of Oasia,,,,,Wódz z Oazy,,,,绿洲酋长,綠洲酋長,緑洲の族長,오아시스 족장,,,,,,,人名,singleplayer_03_01,singleplayer_03_01
+Der Hexer,The Sorcerer,,,,,Czarnoksiężnik,,,,巫师,巫師,魔術師,마술사,,,,,,,人名,singleplayer_01_08 角色,singleplayer_01_08
+Der Druide,The Druid,,,,,Druid,,,,德鲁伊,德魯伊,ドルイド,드루이드,,,,,,,人名,singleplayer_02_03 角色,singleplayer_02_03
+Der General,The General,,,,,Generał,,,,将军,將軍,将軍,장군,,,,,,,人名,campaign_03_05 角色,campaign_03_05
+Tyrann,Tyrant,,,,,Tyran,,,,暴君,暴君,暴君,폭군,,,,,,,人名,campaign_02_04 角色,campaign_02_04
+Leibgarde,Bodyguard,,,,,Straż przyboczna,,,,贴身卫队,貼身衛隊,親衛隊,호위대,,,,,,,军事,护卫,singleplayer_02_03-sub1
+Kamelwache,Camel Guard,,,,,Strażnik Wielbłądów,,,,骆驼守卫,駱駝守衛,らくだ守衛隊,낙타 수비대,,,,,,,军事,singleplayer_03_01,singleplayer_03_01
+Erkundungstrupp,Scouts,,,,,Zwiadowcy,,,,侦察队,偵察隊,偵察隊,정찰대,,,,,,,军事,singleplayer_03_02,singleplayer_03_02
+Wolfsrudel,Wolf Pack,,,,,Wilcza Wataha,,,,狼群,狼群,狼の群れ,늑대 무리,,,,,,,生物,野狼群,singleplayer_03_03
+Bergdorf,Mountain Village,,,,,Górska Wioska,,,,山地村,山地村,山岳村,산골 마을,,,,,,,地名,singleplayer_03_03,singleplayer_03_03
+Bergfestung,Mountain Fortress,,,,,Górska forteca,,,,山间要塞,山間要塞,山岳要塞,산악 요새,,,,,,,地名,campaign_01_05,campaign_01_05
+Verlassenes Dorf,Abandoned Village,,,,,Opuszczona wioska,,,,废弃村庄,廢棄村莊,廃村,버려진 마을,,,,,,,地名,campaign_02_02,campaign_02_02
+Außenposten Londons,London Outpost,,,,,Londyński posterunek,,,,伦敦前哨,倫敦前哨,ロンドン前哨基地,런던 전초기지,,,,,,,地名,campaign_01_03,campaign_01_03
+Fenris Horden,Fenrir's Hordes,,,,,Hordy Fenrisa,,,,芬里尔的部落,芬里爾的部落,フェンリスの軍勢,펜리스의 군대,,,,,,,军事,芬里尔狼的爪牙,campaign_02_05
+Loki's Geisterkrieger,Loki's Ghost Warriors,,,,,Wojownicy Lokiego,,,,洛基的幽灵战士,洛基的幽靈戰士,ロキの幽霊戦士,로키의 유령 전사,,,,,,,军事,Loki的幽灵战士,campaign_02_08
+Drachensklaven,Dragon Slaves,,,,,Zniewolone smoki,,,,龙奴,龍奴,竜の奴隷,용의 노예,,,,,,,军事,龙的奴隶,singleplayer_03_04
+Piraten,Pirates,,,,,Piraci,,,,海盗,海盜,海賊,해적,,,,,,,军事,海盗,singleplayer_03_04
+Grabräuber,Grave Robbers,,,,,Rabusie Grobów,,,,盗墓贼,盜墓賊,盗墓者,도굴꾼,,,,,,,军事,singleplayer_03_05,singleplayer_03_05
+Wolfsmenschenführer,Wolf Leader,,,,,Przywódca Wilkołaków,,,,狼人首领,狼人首領,狼人族の長,늑대인간 대장,,,,,,,人名,singleplayer_02_01-sub5,singleplayer_02_01-sub5
+Kolonialisierung,Colonization,,,,,Kolonizacja,,,,殖民化,殖民化,植民化,식민화,,,,,,,游戏术语,多人地图模式,multiplayer_105
+Flagge erobern,Cap the Flag,,,,,Zdobywanie Flag,,,,夺旗,奪旗,旗奪取,깃발 탈취,,,,,,,游戏术语,多人地图模式,multiplayer_204; multiplayer_005
+Kuh erobern,Cap the Cow,,,,,Zdobywanie Krowy,,,,夺牛,奪牛,牛奪取,소 탈취,,,,,,,游戏术语,多人地图模式,multiplayer_004; multiplayer_205
+Koop,Coop,,,,,Kooperacja,,,,合作,合作,協力,협동,,,,,,,游戏术语,多人合作模式,multiplayer_007; multiplayer_101
+Odin,Odin,,,,,Odyn,,,,奥丁,奧丁,オーディン,오딘,,,,,,,神话人物,北欧神话，众神之父,campaign_01_01
+Eisriesen,Ice Giants,,,,,Lodowi Olbrzymi,,,,冰巨人,冰巨人,霜の巨人,얼음 거인,,,,,,,神话生物,冰霜巨人族,campaign_01_01
+Schicksalsschwestern,Fate Sisters,,,,,Norny,,,,命运三姐妹,命運三姐妹,運命の三姉妹,운명의 세 자매,,,,,,,神话称谓,诺恩三女神的别称,campaign_01_01
+Odins Tafel,Odin's Table,,,,,Uczta Odyna,,,,奥丁的宴席,奧丁的宴席,オーディンの宴,오딘의 연회,,,,,,,神话概念,英灵殿中奥丁的盛宴,campaign_01_01
+Normannen,Normans,,,,,Normanowie,,,,诺曼人,諾曼人,ノルマン人,노르만인,,,,,,,种族,定居诺曼底的北欧人后裔,campaign_01_02
+St. Pierre,St. Pierre,,,,,St. Pierre,,,,圣皮埃尔,聖皮埃爾,サンピエール,생피에르,,,,,,,地名,法兰克山谷和修道院,campaign_01_02
+Informant,Informant,,,,,Informator,,,,线人,線人,密告者,정보원,,,,,,,职业,提供情报的神秘人,campaign_01_02
+Zauberschwert,Magic Sword,,,,,Czarodziejski Miecz,,,,魔法剑,魔法劍,魔法の剣,마법 검,,,,,,,物品,维兰锻造的神兵,campaign_01_03
+Little John,Little John,,,,,Mały John,,,,小约翰,小約翰,リトル・ジョン,리틀 존,,,,,,,人名,罗宾汉的副手,campaign_01_03
+Sheriff von Nottingham,Sheriff of Nottingham,,,,,Szeryf z Nottingham,,,,诺丁汉治安官,諾丁漢治安官,ノッティンガムの保安官,노팅엄 치안관,,,,,,,人名,campaign_01_03 角色,campaign_01_03
+Briten,Britons,,,,,Brytowie,,,,不列颠人,不列顛人,ブリトン人,브리튼인,,,,,,,种族,不列颠岛居民,campaign_01_03
+Müller,Miller,,,,,Młynarze,,,,磨坊主,磨坊主,粉ひき,제분공,,,,,,,职业,操作磨坊的工人,campaign_01_01
+Bäcker,Baker,,,,,Piekarze,,,,烘焙师,烘焙師,パン屋,빵장수,,,,,,,职业,烘焙面包的工人,campaign_01_01
+Zivilist,Civilian,,,,,Cywil,,,,平民,平民,民間人,민간인,,,,,,,职业,村庄中的平民居民,campaign_01_01
+Tribut,Tribute,,,,,Danina,,,,贡品,貢品,貢物,공물,,,,,,,物品,需缴纳的贡品/税负,campaign_01_01
+Straße,Road,,,,,Droga,,,,道路,道路,道路,도로,,,,,,,建筑,连接两地的道路,campaign_01_01
+Haus,House,,,,,Dom,,,,房屋,房屋,家,집,,,,,,,建筑,村民居住的房屋,campaign_01_01
+Bedürfnis,Need,,,,,Potrzeba,,,,需求,需求,欲求,욕구,,,,,,,概念,村民的自然需求（饮食/睡眠/娱乐）,campaign_01_01
+Julia,Juliet,,,,,Julia,,,,朱丽叶,朱麗葉,ジュリア,줄리아,,,,,,,人名,法兰克公主，致敬罗密欧与朱丽叶,campaign_01_02
+Romeo,Romeo,,,,,Romeo,,,,罗密欧,羅密歐,ロミオ,로미오,,,,,,,人名,诺曼王子，致敬罗密欧与朱丽叶,campaign_01_02
+Britannien,Brittany,,,,,Brytania,,,,不列颠,不列顛,ブリテン,브리튼,,,,,,,地名,英国岛，campaign_01_02 航行目的地,campaign_01_02
+Abtei,Abbey,,,,,Opactwo,,,,修道院,修道院,修道院,수도원,,,,,,,建筑,圣皮埃尔修道院,campaign_01_02
+Töpfer,Potter,,,,,Garncarze,,,,陶工,陶工,陶工,도공,,,,,,,职业,制作砖瓦陶器的工匠,campaign_01_02
+Näher,Tailor,,,,,Krawcy,,,,裁缝,裁縫,裁縫師,재봉사,,,,,,,职业,制作鞋与皮甲的工匠,campaign_01_02
+Viehzüchter,Stock Farmer,,,,,Hodowcy Bydła,,,,畜牧工,畜牧工,畜産農,목축업자,,,,,,,职业,饲养牛羊的工匠,campaign_01_02
+Plattenrüstung,Plate Armour,,,,,Zbroja Płytowa,,,,板甲,板甲,板金鎧,판금 갑옷,,,,,,,物品,护甲,campaign_01_02
+Handelsschiff,Merchant Ship,,,,,Statek Handlowy,,,,商船,商船,商船,상선,,,,,,,车辆,运输工具,campaign_01_02
+Schriftrolle,Scroll,,,,,Zwój,,,,卷轴,卷軸,巻物,두루마리,,,,,,,物品,开启建筑蓝图,campaign_01_02
+Schmiede,Smithy,,,,,Kowal,,,,铁匠铺,鐵匠鋪,鍛冶場,대장간,,,,,,,建筑,生产铁质工具武器,campaign_01_02
+Schreinerei,Carpenter's Workshop,,,,,Warsztat Ciesielski,,,,木工坊,木工坊,木工場,목공소,,,,,,,建筑,生产木质工具,campaign_01_02
+Steinmetzhütte,Stonemason's Workshop,,,,,Warsztat Kamieniarski,,,,石匠坊,石匠坊,石工小屋,석공소,,,,,,,建筑,生产石料,campaign_01_02
+Töpferei,Pottery,,,,,Warsztat Garncarski,,,,陶艺坊,陶藝坊,陶芸工房,도예공방,,,,,,,建筑,生产砖瓦,campaign_01_02
+Lehmabbauer,Clay-worker,,,,,Zbieracz Gliny,,,,采泥工,採泥工,粘土採取人,점토 채취꾼,,,,,,,职业,采集黏土,campaign_01_02
+Erzabbauer,Ore Miner,,,,,Zbieracz Rudy,,,,矿工,礦工,鉱夫,광부,,,,,,,职业,采矿石,campaign_01_02
+Holzabbauer,Woodcutter,,,,,Zbieracz Drewna,,,,伐木工,伐木工,木こり,벌목꾼,,,,,,,职业,伐木,campaign_01_02
+Jäger,Huntsman,,,,,Myśliwy,,,,猎人,獵人,狩人,사냥꾼,,,,,,,职业,狩猎与皮革,campaign_01_02
+Viehzüchterei,Cattle Farm,,,,,Ferma bydła,,,,畜牧场,畜牧場,牧場,목장,,,,,,,建筑,饲养牲畜,campaign_01_02
+Lederrüstung,Leather Armour,,,,,Skórzana zbroja,,,,皮甲,皮甲,革鎧,가죽 갑옷,,,,,,,物品,护甲,campaign_01_02
+Öl,Oil,,,,,Oliwy,,,,油,油,油,기름,,,,,,,物品,精油/食用油,campaign_01_03
+Sherwood,Sherwood,,,,,Sherwood,,,,舍伍德,舍伍德,シャーウッド,셔우드,,,,,,,地点,舍伍德森林，罗宾汉活动地,campaign_01_03
+Brite,Briton,,,,,Bryt,,,,不列颠人,不列顛人,ブリトン人,브리튼인,,,,,,,阵营,不列颠原住民,campaign_01_03
+Alben,Alf,,,,,Elfy,,,,精灵,精靈,アルヴ,알프,,,,,,,神话人物,北欧神话中的精灵/侏儒族,campaign_01_03
+Erzbischof,Archbishop,,,,,Arcybiskup,,,,大主教,大主教,大司教,대주교,,,,,,,职业,教会高阶教职,campaign_01_03
+Robin,Robin,,,,,Robin,,,,罗宾,羅賓,ロビン,로빈,,,,,,,人名,罗宾汉之名,campaign_01_03
+Benevent,Benevent,,,,,Benewent,,,,贝内文托,貝內文託,ベネヴェント,베네벤토,,,,,,,地点,意大利城市,campaign_01_04
+Napoli,Naples,,,,,Neapol,,,,那不勒斯,那不勒斯,ナポリ,나폴리,,,,,,,地点,意大利城市,campaign_01_04
+Roma,Rome,,,,,Rzym,,,,罗马,羅馬,ローマ,로마,,,,,,,地点,意大利城市,campaign_01_04
+Gibraltar,Gibraltar,,,,,Gibraltar,,,,直布罗陀,直布羅陀,ジブラルタル,지브롤터,,,,,,,地点,直布罗陀海峡,campaign_01_04
+Waräger,Warägers,,,,,Waregowie,,,,瓦良格,瓦良格,ヴァリャーグ,바랑기인,,,,,,,种族,,
+Kaiser,Emperor,,,,,Cesarz,,,,皇帝,皇帝,皇帝,황제,,,,,,,官职,,
+General,General,,,,,Generał,,,,将军,將軍,将軍,장군,,,,,,,官职,,
+Imperator,Imperator,,,,,Imperator,,,,君主,君主,君主,군주,,,,,,,官职,,
+Hardradis Soldaten,Hardradi's Soldiers,,,,,Wojska Hardrady,,,,哈尔德拉迪的士兵,哈爾德拉迪計程車兵,ハルドラディの兵士,하르드라디의 병사,,,,,,,军事,,
+Flüchtlinge,Refugees,,,,,Uciekinierzy,,,,难民,難民,避難民,피난민,,,,,,,称谓,,
+Tante,Aunt,,,,,Ciotka,,,,姑母,姑母,叔母,고모,,,,,,,称谓,,
+Cäsaren,Caesars,,,,,Cezarowie,,,,恺撒,愷撒,カエサル,카이사르,,,,,,,人名,,
+Allah,Allah,,,,,Allah,,,,安拉,安拉,アッラー,알라,,,,,,,宗教,,
+Sesambrötchen,sesame roll,,,,,bułeczka sezamowa,,,,芝麻开门,芝麻開門,開けゴマ,열어라 참깨,,,,,,,神话,,
+Felsengarten,rock garden,,,,,kamienny ogród,,,,岩石花园,岩石花園,岩石庭園,암석 정원,,,,,,,建筑,,
+Lampengeist,genie of the lamp,,,,,dżin z lampy,,,,灯神,燈神,ランプの精,램프의 정령,,,,,,,神话,,
+Oase,Oasis,,,,,Oaza,,,,绿洲,綠洲,オアシス,오아시스,,,,,,,地名,,
+Basar,bazaar,,,,,bazar,,,,集市,集市,バザール,시장,,,,,,,建筑,,
+Universität,university,,,,,uniwersytet,,,,学府,學府,大学,대학,,,,,,,建筑,,
+Harun,Harun,,,,,Harun,,,,哈伦,哈倫,ハールーン,하룬,,,,,,,人名,,
+Kalif,Caliph,,,,,Kalif,,,,哈里发,哈里發,カリフ,칼리프,,,,,,,官职,,
+Karawane,caravan,,,,,karawana,,,,商队,商隊,キャラバン,캐러밴,,,,,,,通用,,
+Waffenstillstand,armistice,,,,,rozejm,,,,停战,停戰,停戦,휴전,,,,,,,抽象,,
+Kreuzfahrer,Crusaders,,,,,Krzyżowcy,,,,十字军,十字軍,十字軍,십자군,,,,,,,军事,,
+Sirenen,sirens,,,,,syreny,,,,塞壬,塞壬,セイレーン,세이렌,,,,,,,神话,,
+Golamedis,Golamedis,,,,,Golamedis,,,,戈拉梅迪司,戈拉梅迪司,ゴラメディス,골라메디스,,,,,,,人名,,
+Kismet,kismet,,,,,kismet,,,,定数,定數,キスメット,키스메트,,,,,,,抽象,,
+Wielands Zauberschwert,Wieland's magic sword,,,,,magiczny miecz Wielanda,,,,维兰的魔法剑,維蘭的魔法劍,ヴィーランドの魔法剣,위엘란드의 마법 검,,,,,,,物品,,
+Tigris,Tigris,,,,,Tygrys,,,,底格里斯,底格里斯,チグリス,티그리스,,,,,,,地名,,
+Dieb,thief,,,,,złodziej,,,,盗贼,盜賊,盗賊,도적,,,,,,,职业,,
+Volksfront,The People's Front,,,,,Front Ludowy,,,,人民阵线,人民陣線,人民戦線,인민 전선,,,,,,,组织,,
+Jormungander,Jormungand,,,,,Jormundgand,,,,耶梦加得,耶夢加得,ヨルムンガンド,요르문간드,,,,,,,神话,,
+Pesthauch,pestilent breath,,,,,trujący oddech,,,,瘟疫之息,瘟疫之息,疫病の息吹,역병의 숨결,,,,,,,抽象,,
+Schlangenplage,snake plague,,,,,Plaga węży,,,,蛇灾,蛇災,蛇の災厄,뱀의 재앙,,,,,,,灾害,阿拉伯地区的蛇群灾害,campaign_02_01
+Schlangenwesen,snake creatures,,,,,Węże,,,,蛇形生物,蛇形生物,蛇の魔物,뱀 마물,,,,,,,生物,神秘的蛇类生物,campaign_02_01
+Schlangenbiester,snake beasts,,,,,Wężowe bestie,,,,蛇怪,蛇怪,蛇獣,뱀괴수,,,,,,,生物,凶暴的蛇形野兽,campaign_02_01
+Schlangenkreaturen,snake creatures,,,,,Wężowe stwory,,,,蛇怪生物,蛇怪生物,蛇の生物,뱀 생물,,,,,,,生物,迫使村民逃离的蛇形生物,campaign_02_01
+Schlangenbrut,snake brood,,,,,Wężowy pomiot,,,,蛇裔,蛇裔,蛇の血族,뱀의 혈족,,,,,,,生物,被击退但未灭绝的蛇族后代,campaign_02_01
+Goldberg,Goldberg,,,,,Złota Góra,,,,金山,金山,金山,금산,,,,,,,地名,南方强大的金矿山地,campaign_02_01
+Goldbrocken,gold nuggets,,,,,Bryłka złota,,,,金块,金塊,金塊,금덩이,,,,,,,物品,可交付的黄金矿石,campaign_02_01
+Wachtürme,defence towers,,,,,Wieża obronna,,,,哨塔,哨塔,見張り塔,감시탑,,,,,,,建筑,设弓箭手的哨塔,campaign_02_01
+Langbogenschützen,longbow archers,,,,,Łucznicy z dł. łukami,,,,长弓手,長弓手,長弓射手,장궁 궁수,,,,,,,军事,拜占庭弩手兵种,campaign_02_01
+Sippe,clan,,,,,Ród,,,,氏族,氏族,氏族,씨족,,,,,,,社会组织,比雅尼所属的家族氏族,campaign_02_01
+Leif,Leif,,,,,Leif,,,,莱夫,萊夫,レイフ,레이프,,,,,,,人名,比雅尼之父,campaign_02_01
+Schumsali,Schumsali,,,,,Schumsali,,,,舒姆萨利,舒姆薩利,シュムサリ,슈무살리,,,,,,,地名,北方山后的神秘地穴所在地,campaign_02_02
+Katakomben,catacombs,,,,,Katakumby,,,,地下墓穴,地下墓穴,カタコンベ,카타콤,,,,,,,建筑,神秘地下墓穴建筑,campaign_02_02
+Hungersnot,famine,,,,,Głód,,,,饥荒,饑荒,飢饉,기근,,,,,,,灾害,蛇灾引发的粮食危机,campaign_02_02
+Flaschengeist,bottle spirit,,,,,Dżin z butelki,,,,神灯精灵,神燈精靈,瓶の精霊,병의 정령,,,,,,,神话,瓶中精灵，助主角除灾,campaign_02_02
+Herz des Odin,Heart of Odin,,,,,Serce Odyna,,,,奥丁之心,奧丁之心,オーディンの心,오딘의 심장,,,,,,,物品,奥丁护符，比雅尼赠希拉,campaign_02_02
+Gewölbe,vault,,,,,Krypta,,,,地穴,地穴,地下空洞,지하 공동,,,,,,,建筑,舒姆萨利地穴，藏有神灵,campaign_02_02
+Talenge,Talenge,,,,,Wąska dolina,,,,峡谷隘口,峽谷隘口,ターレンゲ,탈렌게,,,,,,,地名,分隔道路的狭长山谷,campaign_02_02
+Labyrinth,Labyrinth,,,,,Labirynt,,,,迷宫,迷宮,迷宮,미궁,,,,,,,地名,迷宫般的地带,campaign_02_02
+Wegweiser,signpost,,,,,Drogowskaz,,,,路标,路標,道しるべ,이정표,,,,,,,物品,侦察兵建造的指引物,campaign_02_02
+Aladin,Aladin,,,,,Aladyn,,,,阿拉丁,阿拉丁,アラジン,알라딘,,,,,,,人名,童话人物，三个愿望谜题引用,campaign_02_02-sub
+Fata Morgana,Fata Morgana,,,,,Fata Morgana,,,,海市蜃楼,海市蜃樓,蜃気楼,신기루,,,,,,,自然,沙漠中的光学幻象,campaign_02_02-sub
+Schneehase,snow hare,,,,,Zając,,,,雪兔,雪兔,雪兎,눈토끼,,,,,,,生物,谜题错误选项,campaign_02_02-sub
+Quastenflosser,coelacanth,,,,,Latimeria,,,,腔棘鱼,腔棘魚,シーラカンス,실라캔스,,,,,,,生物,谜题错误选项,campaign_02_02-sub
+Schalter,switch,,,,,Przełącznik,,,,开关,開關,スイッチ,스위치,,,,,,,物品,地穴中的谜题机关,campaign_02_02-sub
+Türmechanismen,door mechanisms,,,,,Mechanizmy drzwiowe,,,,机关门,機關門,仕掛け扉,장치문,,,,,,,建筑,困住蛇族的机关,campaign_02_02-sub
+Futterstelle,feeding place,,,,,Miejsce karmienia,,,,投喂点,投餵點,給餌場,먹이터,,,,,,,物品,诱捕狼群的喂食处,campaign_02_03
+Bodengruben,pit traps,,,,,Wilcze doły,,,,陷阱坑,陷阱坑,落とし穴,함정 구덩이,,,,,,,建筑,藏匿的捕狼陷阱,campaign_02_03
+Eisenspeerträger,iron spearmen,,,,,Włócznicy z żel. włóczniami,,,,铁矛兵,鐵矛兵,鉄槍兵,철창병,,,,,,,军事,拜占庭重装兵种,campaign_02_03
+Kurzschwertkämpfer,shortsword fighters,,,,,Wojownik z krótkim mieczem,,,,短剑士,短劍士,短剣士,단검병,,,,,,,军事,拜占庭近战兵种,campaign_02_03
+Hafenstädtchen,Port,,,,,Miasteczko portowe,,,,港口小镇,港口小鎮,港町,항구 마을,,,,,,,地名,法兰克人小港口,campaign_02_03
+Massiv,Massiv,,,,,Masyw,,,,山岩,山岩,山塊,산괴,,,,,,,地名,西部山体,campaign_02_03
+Talsenke,Talsenke,,,,,Kotlina,,,,谷地,谷地,谷地,골짜기,,,,,,,地名,山岩中的低洼地,campaign_02_03
+Fenriskette,Fenrir's Chain,,,,,Łańcuch Fenrira,,,,芬里尔链,芬里爾鏈,フェンリルの鎖,펜리르의 사슬,,,,,,,物品,束缚芬里尔狼的魔法锁链,campaign_02_04
+Ingredienz,ingredient,,,,,Składnik,,,,原料,原料,原料,원료,,,,,,,物品,锻造锁链所需的魔法成分,campaign_02_04
+Schwerter der Könige,Swords of the Kings,,,,,Miecze królów,,,,王者之剑,王者之劍,王たちの剣,왕들의 검,,,,,,,物品,三王之剑，锁链基石,campaign_02_04
+Druiden,Druiden,,,,,Druidzi,,,,德鲁伊,德魯伊,ドルイド,드루이드,,,,,,,种族,灰袍德鲁伊，祝圣者,campaign_02_04
+Ketten schmieden,forge chains,,,,,Kucie łańcucha,,,,锻造锁链,鍛造鎖鏈,鎖の鍛造,사슬 단조,,,,,,,动作,用王者之剑锻造芬里尔链,campaign_02_04
+weihen,consecrate,,,,,Poświęcić,,,,祝圣,祝聖,祝聖,축성,,,,,,,动作,为锁链赋予魔力,campaign_02_04
+Kräuter,herbs,,,,,Zioła,,,,草药,草藥,薬草,약초,,,,,,,物品,修道院福祉贡品,campaign_02_04
+Münzen,coins,,,,,Monety,,,,硬币,硬幣,硬貨,동전,,,,,,,物品,货币单位,campaign_02_04
+Strudel,whirlpool,,,,,Wir wodny,,,,漩涡,漩渦,渦潮,소용돌이,,,,,,,自然,湖心大漩涡,campaign_02_04
+Gruft,tomb,,,,,Grobowiec,,,,墓室,墓室,墓室,묘실,,,,,,,建筑,地下墓穴中的墓室,campaign_02_04-sub1
+Schließmechanismen,locking mechanisms,,,,,Mechanizmy zamykające,,,,闭锁机关,閉鎖機關,閉鎖機構,잠금 장치,,,,,,,建筑,墓穴门扉的锁定机制,campaign_02_04-sub1
+Buchten,Buchten,,,,,Zatoki,,,,小湾,小灣,入り江,만,,,,,,,地名,墓穴中的水湾,campaign_02_04-sub1
+Insel der Schweigsamen,Island of the Silent Ones,,,,,Wyspa milczących,,,,寂静之岛,寂靜之島,沈黙の島,침묵의 섬,,,,,,,地名,独角兽所在的谜题岛,campaign_02_04-sub2
+Snoori Sturlarson,Snoori Sturlarson,,,,,Snoori Sturlarson,,,,斯努里·斯图拉松,斯努裡·斯圖拉松,スノーリ・ストゥルラソン,스노리 스투를라손,,,,,,,人名,谜题干扰项,campaign_02_04-sub2
+Erick Gunnarson,Erick Gunnarson,,,,,Erick Gunnarson,,,,埃里克·贡纳松,埃裡克·貢納松,エリック・グンナルソン,에릭 군나르손,,,,,,,人名,谜题干扰项,campaign_02_04-sub2
+Leif Erickson,Leif Erickson,,,,,Leif Erickson,,,,莱夫·埃里克松,萊夫·埃裡克松,レイフ・エリクソン,레이프 에릭손,,,,,,,人名,比雅尼之父（谜题答案）,campaign_02_04-sub2
+Böse Wolf,Big Bad Wolf,,,,,Zły wilk,,,,恶狼,惡狼,大悪狼,큰 나쁜 늑대,,,,,,,神话,童话中的大恶狼,campaign_02_04-sub2
+Geißlein,little goats,,,,,Koźlątka,,,,小羊,小羊,子山羊,아기 염소,,,,,,,生物,童话中的小山羊,campaign_02_04-sub2
+Wüstenschiff,ship of the desert,,,,,Statek pustyni,,,,沙漠之舟,沙漠之舟,砂漠の舟,사막의 배,,,,,,,物品,骆驼的别称,campaign_02_04-sub2
+Beduinenschaukler,Bedouin rocking chair,,,,,beduińska huśtawka,,,,贝都因摇床,貝都因搖床,ベドウィンの揺り籠,베두인 요람,,,,,,,物品,谜题干扰项,campaign_02_04-sub2
+Fladenscheißer,flatbread pooper,,,,,garbus,,,,饼屎客,餅屎客,パン糞屋,납작빵 똥꾼,,,,,,,物品,谜题干扰项（诙谐）,campaign_02_04-sub2
+Fenrishorden,Fenrir's Hordes,,,,,Hordy Fenrira,,,,芬里尔部众,芬里爾部眾,フェンリルの軍勢,펜리르의 무리,,,,,,,生物,芬里尔狼率领的狼群,campaign_02_05
+Langschwertträger,longsword fighters,,,,,Wojownik z dł. mieczem,,,,长剑士,長劍士,長剣士,장검병,,,,,,,军事,法兰克重装兵种,campaign_02_05
+Tränke,healing potions,,,,,Mikstura,,,,药剂,藥劑,薬剤,물약,,,,,,,物品,增益药水,campaign_02_05
+Amuletten,amulets,,,,,Amulety,,,,护符,護符,護符,부적,,,,,,,物品,魔法护身符,campaign_02_05
+Sümpfe,swamps,,,,,Bagna,,,,沼泽,沼澤,沼地,늪,,,,,,,地名,狼群盘踞的湿地,campaign_02_05
+Aura,Aura,,,,,Aura,,,,光环,光環,オーラ,오라,,,,,,,神话,芬里尔狼周围的魔法光环,campaign_02_05
+Weltenesche,World Ash,,,,,Jesion świata,,,,世界树,世界樹,世界樹,세계수,,,,,,,神话,北欧宇宙树（同 Yggdrasil）,campaign_02_06
+Yggdrasils Orden,Order of Yggdrasil,,,,,Zakon Yggdrasila,,,,尤克特拉希尔之序,尤克特拉希爾之序,ユグドラシルの教団,위그드라실의 교단,,,,,,,组织,守护世界树的教团,campaign_02_06
+Unterwelt,underworld,,,,,Zaświaty,,,,冥界,冥界,冥界,명계,,,,,,,神话,死亡国度入口,campaign_02_06
+Asen,Aesir,,,,,Asowie,,,,阿萨神族,阿薩神族,アース神族,아스 신족,,,,,,,神话,北欧神话，以奥丁为首的神族,campaign_02_07-sub
+Eiswelt,Eiswelt,,,,,Lodowy świat,,,,冰世界,冰世界,氷の世界,얼음 세계,,,,,,,地名,北欧神话，阿斯加德中被冰封的世界,campaign_02_07-sub
+Wyonäzer,Wyonäzer,,,,,Wyonäzer,,,,维奥纳泽,維奧納澤,ヴィオナザー,비오나저,,,,,,,神话,北欧神话，酿造冰饮的矮人族,campaign_02_08
+Freya,Freya,,,,,Freya,,,,弗蕾亚,弗蕾亞,フレイヤ,프레이야,,,,,,,神话人物,北欧神话，爱与战争女神,campaign_02_08
+Baldur,Baldur,,,,,Baldur,,,,巴德尔,巴德爾,バルドル,발두르,,,,,,,神话人物,北欧神话，光明与治愈之神，奥丁之子,campaign_02_08
+Thor,Thor,,,,,Thor,,,,托尔,托爾,トール,토르,,,,,,,神话人物,北欧神话，雷神，保护之力显于雷电,campaign_02_08
+Frigg,Frigg,,,,,Frigg,,,,弗丽嘉,弗麗嘉,フリッグ,프리그,,,,,,,神话人物,北欧神话，奥丁之妻，爱之女神,campaign_02_08
+Njörd,Njord,,,,,Njord,,,,尼奥尔德,尼奧爾德,ニョルズ,뇨르드,,,,,,,神话人物,北欧神话，风与海之神,campaign_02_08
+Eiskrieger,ice warriors,,,,,Lodowi wojownicy,,,,冰战士,冰戰士,氷の戦士,얼음 전사,,,,,,,军事,冰之神明赐予的勇猛战士,campaign_02_08
+Hel,Hel,,,,,Hel,,,,海尔,海爾,ヘル,헬,,,,,,,神话人物,北欧神话，死亡女神，海尔之国的统治者,campaign_02_08
+Vagabunden,Vagabonds,,,,,Włóczędzy,,,,流浪者,流浪者,放浪者,방랑자,,,,,,,种族,盘踞山中、劫持建筑师的流浪匪帮,campaign_03_01
+Architekt,Architect,,,,,Architekt,,,,建筑师,建築師,建築家,건축가,,,,,,,职业,建造世界奇迹的工匠,campaign_03_01
+Weltwunder,Wonder of the World,,,,,Cud świata,,,,世界奇迹,世界奇蹟,世界の不思議,세계의 불가사의,,,,,,,概念,古代世界七大奇迹，重建以驱散黑暗,campaign_03_01
+Obelisk,Obelisk,,,,,Obelisk,,,,方尖碑,方尖碑,オベリスク,오벨리스크,,,,,,,建筑,环绕魔法传送场的高大石柱,campaign_03_01
+heiliges Feuer,Holy Fire,,,,,Święty ogień,,,,圣火,聖火,聖火,성화,,,,,,,物品,法罗斯灯塔顶端所需的神圣之火,campaign_03_01
+Leuchtturm,Lighthouse,,,,,Latarnia morska,,,,灯塔,燈塔,灯台,등대,,,,,,,建筑,法罗斯灯塔，世界奇迹之一,campaign_03_01
+Nil,Nile,,,,,Nil,,,,尼罗河,尼羅河,ナイル川,나일 강,,,,,,,地名,埃及母亲河,campaign_03_01
+Byzantiner,Byzantines,,,,,Bizantyjczycy,,,,拜占庭人,拜占庭人,ビザンツ人,비잔틴인,,,,,,,种族,守卫吉萨金字塔的族群,campaign_03_01
+Ägypter,Egyptians,,,,,Egipcjanie,,,,埃及人,埃及人,エジプト人,이집트인,,,,,,,种族,守卫吉萨金字塔的族群,campaign_03_01
+Drachenfutter,Dragon Feed,,,,,Smocza pasza,,,,龙饲料,龍飼料,ドラゴンの餌,드래곤 먹이,,,,,,,物品,流浪者豢养巨龙所需的口粮,campaign_03_01
+Sostratos Vater,Sostratos' Father,,,,,Ojciec Sostratosa,,,,索斯特拉托斯之父,索斯特拉託斯之父,ソストラトスの父,소스트라토스의 아버지,,,,,,,角色,同为建筑师，悬赏寻子,campaign_03_01
+Bergvolkarbeiter,Mountain Tribe Worker,,,,,Górskie Plemię Robotników,,,,山地部族矿工,山地部族礦工,山岳部族の労働者,산악 부족 노동자,,,,,,,角色,圣火矿井中的山地部族劳工,campaign_03_01_sub
+Euphrat,Euphrates,,,,,Eufrat,,,,幼发拉底河,幼發拉底河,ユーフラテス川,유프라테스 강,,,,,,,地名,古河床，新聚落所在地,campaign_03_02
+Nebukadnezar,Nebuchadnezzar,,,,,Nabuchodonozor,,,,尼布甲尼撒,尼布甲尼撒,ネブカドネザル,네부카드네자르,,,,,,,人名,巴比伦王，为王后建空中花园,campaign_03_02
+Hirtenvolk,Herdsmen,,,,,Pasterze,,,,牧民部族,牧民部族,牧民,목민족,,,,,,,种族,沙漠中安分的牧民,campaign_03_02
+Helios,Helios,,,,,Helios,,,,赫利俄斯,赫利俄斯,ヘーリオス,헬리오스,,,,,,,神话,太阳神，巨像敬奉对象,campaign_03_03
+Poseidon,Poseidon,,,,,Posejdon,,,,波塞冬,波塞冬,ポセイドン,포세이돈,,,,,,,神话,海神，制造迷雾,campaign_03_03
+Bakshish,Bakshish,,,,,Bakshish,,,,巴克希什,巴克希什,バクシーシュ,바크시시,,,,,,,人名,沙漠商人,campaign_03_03
+Chronos,Chronos,,,,,Chronos,,,,克洛诺斯,克洛諾斯,クロノス,크로노스,,,,,,,人名,武器商岛主,campaign_03_03
+Oxos,Oxos,,,,,Oxos,,,,奥克索斯,奧克索斯,オクソス,옥소스,,,,,,,人名,手推车商人,campaign_03_03
+Oxidos,Oxidos,,,,,Oxidos,,,,奥克西多斯,奧克西多斯,オクシドス,옥시도스,,,,,,,地名,罗德附近小岛,campaign_03_03
+Ägäis,Aegean,,,,,Morze Egejskie,,,,爱琴海,愛琴海,エーゲ海,에게 해,,,,,,,地名,地中海海域,campaign_03_03
+Goldbarren,Gold Bar,,,,,Złota sztabka,,,,金条,金條,金の延べ棒,금괴,,,,,,,物品,贵重建材/贡品,campaign_03_03
+Circe,Circe,,,,,Cyrce,,,,喀耳刻,喀耳刻,キルケ,키르케,,,,,,,神话,女巫，太阳神赫利俄斯之女,campaign_03_03_sub3
+Perse,Perse,,,,,Perse,,,,珀耳塞,珀耳塞,ペルセ,페르세,,,,,,,神话,月神，喀耳刻之母,campaign_03_03_sub3
+Pyramiden,pyramids,,,,,Piramidy,,,,金字塔,金字塔,ピラミッド,피라미드,,,,,,,建筑,古埃及帝王陵墓,campaign_03_07
+Tal der Könige,Valley of the Kings,,,,,Dolina Królów,,,,国王谷,國王谷,王の谷,왕의 계곡,,,,,,,地名,帝王陵墓群,campaign_03_07
+Pharao,pharaoh,,,,,Faraon,,,,法老,法老,ファラオ,파라오,,,,,,,身份,古埃及君王,campaign_03_07
+Cheops,Cheops,,,,,Cheops,,,,胡夫,胡夫,クフ,쿠푸,,,,,,,人名,第四王朝法老，大金字塔建造者,campaign_03_07
+Chepren,Chepren,,,,,Chefren,,,,哈夫拉,哈夫拉,カフラー,카프레,,,,,,,人名,第四王朝法老，第二金字塔建造者,campaign_03_07
+Mykerinos,Mykerinos,,,,,Mykerinos,,,,门卡拉,門卡拉,メンカウラー,멘카우레,,,,,,,人名,第四王朝法老，第三金字塔建造者,campaign_03_07
+Magier,mage,,,,,Magowie,,,,魔法师,魔法師,魔術師,마법사,,,,,,,身份,调制昏睡汤药的术士,campaign_03_07
+Moorvolk,swamp tribe,,,,,Plemię z bagien,,,,沼泽部族,沼澤部族,沼の民,늪 부족,,,,,,,部族,居岛之沼泽智者，藏神庙圣物,campaign_03_08
+Napalianer,Nabalians,,,,,Nabalianie,,,,纳帕利亚人,納帕利亞人,ナパリア人,나팔리아인,,,,,,,种族,纳帕利亚民族（Napalianer/Nabalianer/Kabalianer 异拼统一）,_campaign_04
+Nabalianer,Nabalians,,,,,Nabalianie,,,,纳帕利亚人,納帕利亞人,ナパリア人,나팔리아인,,,,,,,种族,纳帕利亚民族异拼（同 Napalianer）,_campaign_04
+Kabalianer,Kabalians,,,,,Kabalianie,,,,纳帕利亚人,納帕利亞人,ナパリア人,나팔리아인,,,,,,,种族,纳帕利亚民族异拼（同 Napalianer）,_campaign_04
+Mädchen,Girl,,,,,Dziewczyna,,,,女孩,女孩,少女,소녀,,,,,,,通用,女孩,_campaign_04
+Junge,Boy,,,,,Chłopiec,,,,男孩,男孩,少年,소년,,,,,,,通用,男孩,_campaign_04
+Erdrache,Earth Dragon,,,,,Smok Ziemi,,,,地龙,地龍,地竜,지룡,,,,,,,生物,地龙（Earth Dragon）,_campaign_04_05
+Torumannen,Torumanns,,,,,Torumanni,,,,托鲁曼人,託魯曼人,トルマン人,토루만인,,,,,,,种族,托鲁曼民族,_campaign_04
+Waldhüter,Forest Warden,,,,,Leśniczy,,,,森林守护者,森林守護者,森の守り手,숲 수호자,,,,,,,种族,森林守护者,_campaign_04
+Borkenzahn,Borkenzahn,,,,,Borkenzahn,,,,博肯扎恩,博肯扎恩,ボルケンツァーン,보르켄차안,,,,,,,人名,森林守护者角色,_campaign_04
+Weidentreu,Weidentreu,,,,,Weidentreu,,,,韦登特罗伊,韋登特羅伊,ヴァイデントロイ,바이덴트로이,,,,,,,人名,森林守护者角色,_campaign_04
+Rapslieschen,Rapslieschen,,,,,Rapslieschen,,,,拉普斯丽申,拉普斯麗申,ラプスリーシェン,랍스리셴,,,,,,,人名,森林守护者角色,_campaign_04
+Guckfix,Peekfix,,,,,Guckfix,,,,古克菲克斯,古克菲克斯,グックフィックス,구크픽스,,,,,,,人名,角色名,_campaign_04
+Dunkeldrachen,Dark Dragons,,,,,Smoki Mroku,,,,暗龙,暗龍,暗黒竜,어둠의 용,,,,,,,生物,暗龙,_campaign_04
+Sümpfe des Vergessens,Marshes of Oblivion,,,,,Bagna Zapomnienia,,,,遗忘沼泽,遺忘沼澤,忘却の沼,망각의 늪,,,,,,,地名,遗忘沼泽,_campaign_04
+zappendustere Höhle,pitch-dark cave,,,,,mroczna jaskinia,,,,幽暗洞穴,幽暗洞穴,真っ暗闇の洞窟,칠흑 같은 동굴,,,,,,,地名,幽暗洞穴,_campaign_04
+Wachtränke,stamina potions,,,,,mikstury czuwania,,,,守夜药剂,守夜藥劑,守夜の薬,파수약,,,,,,,物品,守夜药剂（消耗品）,_campaign_04
+Feuerkristall,Fire Crystal,,,,,Kryształ Ognia,,,,火水晶,火水晶,火の水晶,불의 결정,,,,,,,物品,火水晶,_campaign_04
+Regenbogenraum,Rainbow Room,,,,,Komnata Tęczy,,,,彩虹之厅,彩虹之廳,虹の間,무지개의 방,,,,,,,地名,彩虹之厅,_campaign_04
+Waldtempelwächter,forest temple guard,,,,,strażnik leśnej świątyni,,,,森林神庙守卫,森林神廟守衛,森の神殿警備兵,숲 신전 수호자,,,,,,,职业,森林神庙守卫,_campaign_04
+Waldposten,Forest Outpost,,,,,Leśny Posterunek,,,,森林哨站,森林哨站,森の前哨基地,숲 전초기지,,,,,,,地名,森林哨站,_campaign_04
+Palmenhain,palm grove,,,,,gaj palmowy,,,,棕榈林,棕櫚林,椰子の林,야자수 숲,,,,,,,地名,棕榈林,_campaign_04
+Giftdrachen,poison dragons,,,,,smoki trujące,,,,毒龙,毒龍,毒竜,독룡,,,,,,,生物,毒龙,_campaign_04
+Teleporter,teleporter,,,,,teleport,,,,传送装置,傳送裝置,テレポーター,텔레포터,,,,,,,物品,传送装置,_campaign_04
+Nixe,nixie,,,,,nimfa wodna,,,,尼刻斯,尼刻斯,ニクシー,닉시,,,,,,,生物,水妖/宁芙,_campaign_04
+Welle,Welle,,,,,Welle,,,,薇蕾,薇蕾,ヴェレ,벨레,,,,,,,人名,角色名（水相关）,_campaign_04
+Kerker,dungeon,,,,,loch,,,,地牢,地牢,牢獄,지하 감옥,,,,,,,地名,地牢,_campaign_04
+Friedhof,cemetery,,,,,cmentarz,,,,墓地,墓地,墓地,묘지,,,,,,,地名,墓地,_campaign_04
+Gulp,Gulp,,,,,Gulp,,,,古尔普,古爾普,グルプ,굴프,,,,,,,人名,角色名,_campaign_04
+Wasserfälle,waterfalls,,,,,wodospady,,,,瀑布,瀑布,滝,폭포,,,,,,,地名,瀑布,_campaign_04
+Wasserkraftwerk,hydroelectric power plant,,,,,elektrownia wodna,,,,水力发电站,水力發電站,水力発電所,수력 발전소,,,,,,,建筑,水力发电站,_campaign_04
+orangene Drachen,orange dragons,,,,,pomarańczowe smoki,,,,橙色龙,橙色龍,橙色の竜,주황색 용,,,,,,,生物,橙色龙,_campaign_04
+Brieftauben,carrier pigeons,,,,,gołębie pocztowe,,,,信鸽,信鴿,伝書鳩,전서구,,,,,,,生物,信鸽,_campaign_04
+Babul,Babul,,,,,Babul,,,,巴布尔,巴布林,バブル,바불,,,,,,,人名,角色名,_campaign_04
+Obeliskenkreis,obelisk circle,,,,,krąg obelisków,,,,方尖碑圈,方尖碑圈,オベリスクの環,오벨리스크 고리,,,,,,,地名,方尖碑圈,_campaign_04
+Unsichtbarkeitstrank,invisibility potion,,,,,mikstura niewidzialności,,,,隐形药剂,隱形藥劑,透明化の薬,투명화 물약,,,,,,,物品,隐形药剂,_campaign_04
+Sprudel,Sprudel,,,,,Sprudel,,,,斯普鲁德尔,斯普魯德爾,シュプルデル,슈프루델,,,,,,,人名,角色名（水相关）,_campaign_04
+Plünderer,marauders,,,,,grabieżcy,,,,劫掠者,劫掠者,略奪者,약탈자,,,,,,,通用,劫掠者（Trupp Plünderer 指劫掠者队伍）,campaign_01_02-sub
+Priester,Parson,,,,,Opat,,,,牧师,牧師,牧師,목사,,,,,,,职业,牧师/神父,campaign_01_02-sub
+FREIE WELT,FREE WORLD,,,,,PUSTA KRAINA,,,,自由世界,自由世界,自由世界,자유 세계,,,,,,,模式,自由世界/沙盒模式（Freie Welt）,singleplayer_01_01
+Oberkircher,Oberkircher,,,,,Oberkirchczyk,,,,奥伯基尔希,奧伯基爾希,オーバーキルヒャー,오버키르허,,,,,,,人名,家族/派系名（Oberkirch 音译）,singleplayer_01_01
+Mülheimer,Muelheimer,,,,,Muelheimczyk,,,,米尔海姆人,米爾海姆人,ミュルハイム人,뮐하임인,,,,,,,人名,家族/派系名（Mülheim 居民，米尔海姆人）,singleplayer_01_01
+Ratinger,Ratinger,,,,,Ratyzbończyk,,,,拉廷根,拉廷根,ラティンガー,라팅어,,,,,,,人名,家族/派系名（Ratingen 音译）,singleplayer_01_01
+Rheinländer,Rheinlaender,,,,,Renlandczyk,,,,莱茵兰人,萊茵蘭人,ラインラント人,라인란트인,,,,,,,人名,家族/派系名（Rheinland 居民，莱茵兰人）,singleplayer_01_01
+Rheinlaender,Rheinlaender,,,,,Rheinlaender,,,,莱茵兰人,萊茵蘭人,ラインラント人,라인란트인,,,,,,,人名,家族/派系名异拼（同 Rheinländer）,singleplayer_01_01
+INSELREICH,ISLAND REALM,,,,,WYSPIARSKIE KRÓLESTWO,,,,岛屿王国,島嶼王國,島の王国,섬 왕국,,,,,,,模式,岛屿王国（Inselreich，沙盒/挑战模式）,singleplayer_01_06
+Inselkönig,island king,,,,,król wyspy,,,,岛王,島王,島の王,섬의 왕,,,,,,,人名,岛屿王国中的君主（Inselkönig）,singleplayer_01_06
+Königskinder,Royal Children,,,,,Królewskie dzieci,,,,王室子孙,王室子孫,王家の子女,왕실의 자녀,,,,,,,人名,王室子孙/国王子女,singleplayer_01_06
+Friedensvertrag,peace treaty,,,,,traktat pokojowy,,,,和平条约,和平條約,平和条約,평화 조약,,,,,,,物品,和平条约（任务目标）,singleplayer_01_07
+Schwertkämpfer,swordsman,,,,,szermierz,,,,剑士,劍士,剣士,검사,,,,,,,军事,剑士单位,singleplayer_01_07
+Bogenschütze,archer,,,,,łucznik,,,,弓箭手,弓箭手,弓兵,궁수,,,,,,,军事,弓箭手单位,singleplayer_01_07
+Speerträger,spearman,,,,,włócznik,,,,矛兵,矛兵,槍兵,창병,,,,,,,军事,矛兵单位,singleplayer_01_07
+Friedenszahlung,Peace tribute,,,,,Opłata za pokój,,,,和平贡金,和平貢金,平和の貢ぎ物,평화 공물,,,,,,,物品,和平贡金（任务奖励）,singleplayer_01_07
+Freundschaftszahlung,Friendship tribute,,,,,Opłata za przyjaźń,,,,友谊贡金,友誼貢金,友好の貢ぎ物,우호 공물,,,,,,,物品,友谊贡金（任务奖励）,singleplayer_01_07
+Sklaven,Slaves,,,,,Niewolnicy,,,,奴隶,奴隸,奴隷,노예,,,,,,,人物,奴隶,singleplayer_01_07
+Außenposten,Outpost,,,,,Posterunek,,,,前哨站,前哨站,前哨基地,전초기지,,,,,,,地名,前哨站,singleplayer_01_07
+DIE REBELLION,THE REBELLION,,,,,REBELIA,,,,叛乱,叛亂,反乱,반란,,,,,,,专有名词,地图名 THE REBELLION,singleplayer_01_07
+Landsleute,fellow countrymen,,,,,rodacy,,,,同胞,同胞,同胞,동포,,,,,,,称谓,同胞／同乡,singleplayer_01_07
+Söldner,mercenaries,,,,,najemnicy,,,,雇佣兵,僱傭兵,傭兵,용병,,,,,,,军事,雇佣兵,singleplayer_01_07
+Goldminen,gold mines,,,,,kopalnie złota,,,,金矿,金礦,金鉱,금광,,,,,,,地名,金矿,singleplayer_01_07
+Schreckensherrschaft,reign of terror,,,,,rządy terroru,,,,恐怖统治,恐怖統治,恐怖政治,공포 통치,,,,,,,专有名词,恐怖统治,singleplayer_01_07
+Stadthalter,governor,,,,,namiestnik,,,,总督,總督,総督,총독,,,,,,,官职,法兰克地方总督,singleplayer_01_07
+Rebellen,Rebels,,,,,Rebelianci,,,,叛军,叛軍,反乱軍,반군,,,,,,,军事,叛军,singleplayer_01_07
+Friedensbotschaft,peace message,,,,,posłanie pokojowe,,,,和平书信,和平書信,平和の書状,평화 서신,,,,,,,物品,和平书信（任务目标）,singleplayer_01_07
+Hexer,Sorcerer,,,,,Czarownik,,,,巫师,巫師,呪術師,주술사,,,,,,,人名,巫师（地图角色 The Sorcerer）,singleplayer_01_08
+DIE INSEL DER TOTEN,THE ISLE OF THE DEAD,,,,,WYSPA UMARŁYCH,,,,亡者之岛,亡者之島,死者の島,죽은 자의 섬,,,,,,,专有名词,地图名 THE ISLE OF THE DEAD,singleplayer_01_08
+Grabwächter,guard of the graves,,,,,strażnik grobów,,,,守墓人,守墓人,墓守,무덤 수호자,,,,,,,军事,守墓人,singleplayer_01_08
+Fluch,curse,,,,,klątwa,,,,诅咒,詛咒,呪い,저주,,,,,,,专有名词,诅咒（岛屿的诅咒）,singleplayer_01_08
+Ahnen,ancestors,,,,,przodkowie,,,,祖先,祖先,祖先,조상,,,,,,,称谓,祖先／先祖,singleplayer_01_08
+Steinkreis,circle of stone,,,,,krąg kamienny,,,,石环,石環,石の環,돌고리,,,,,,,建筑,石环（远古陵墓标记）,singleplayer_01_08
+Grab,grave,,,,,grób,,,,陵墓,陵墓,陵墓,능묘,,,,,,,建筑,陵墓／坟墓,singleplayer_01_08
+Ruinen,ruins,,,,,ruiny,,,,废墟,廢墟,廃墟,폐허,,,,,,,地名,废墟,singleplayer_01_08
+Geister,spirits,,,,,duchy,,,,亡魂,亡魂,亡霊,혼령,,,,,,,专有名词,亡魂／亡者之灵,singleplayer_01_08
+Ehre,honour,,,,,honor,,,,敬意,敬意,敬意,경의,,,,,,,抽象,敬意／致意,singleplayer_01_08
+Toter,the dead,,,,,zmarli,,,,亡者,亡者,死者,망자,,,,,,,称谓,亡者／逝者,singleplayer_01_08
+Unachtsamkeit,carelessness,,,,,nieostrożność,,,,疏忽,疏忽,不注意,부주의,,,,,,,抽象,疏忽／粗心,singleplayer_01_08
+König,King,,,,,Król,,,,国王,國王,国王,국왕,,,,,,,人名,国王,singleplayer_01_08
+Wolfsjagd,wolf hunt,,,,,polowanie na wilki,,,,猎狼行动,獵狼行動,狼狩り,늑대 사냥,,,,,,,专有名词,猎狼行动（年度狩猎活动）,singleplayer_01_09
+Jagd,hunt,,,,,polowanie,,,,狩猎,狩獵,狩猟,사냥,,,,,,,专有名词,狩猎／打猎,singleplayer_01_09
+Ehrentitel,title of honour,,,,,tytuł honorowy,,,,荣誉称号,榮譽稱號,栄誉称号,명예 칭호,,,,,,,专有名词,荣誉称号,singleplayer_01_09
+Titel,title,,,,,tytuł,,,,头衔,頭銜,称号,칭호,,,,,,,专有名词,头衔／称号,singleplayer_01_09
+Wettstreit,contest,,,,,konkurs,,,,较量,較量,勝負,경쟁,,,,,,,抽象,较量／竞争,singleplayer_01_09
+Verwicklungen,entanglements,,,,,zawikłania,,,,纠葛,糾葛,紛糾,얽힘,,,,,,,抽象,（外交）纠葛／纷争,singleplayer_01_09
+Stamm,tribe,,,,,plemię,,,,部族,部族,部族,부족,,,,,,,社会组织,部族／部落,singleplayer_01_09
+Hauptstadt,capital,,,,,stolica,,,,首都,首都,首都,수도,,,,,,,地名,首都／王城,singleplayer_01_09
+Viehställe,cattle sheds,,,,,obory,,,,牲畜棚,牲畜棚,家畜小屋,가축 우리,,,,,,,建筑,牲畜棚／畜栏,singleplayer_01_09
+Abgaben,taxes,,,,,daniny,,,,赋税,賦稅,租税,조세,,,,,,,抽象,赋税／捐税,singleplayer_01_09
+Konkurrenz,rivalry,,,,,konkurencja,,,,竞争对手,競爭對手,競争相手,경쟁자,,,,,,,称谓,竞争对手／竞争者,singleplayer_01_09
+Gerüchte,rumours,,,,,pogłoski,,,,风声,風聲,噂,소문,,,,,,,抽象,风声／谣言,singleplayer_01_09
+Angriff,attack,,,,,atak,,,,突袭,突襲,奇襲,기습,,,,,,,军事,突袭／攻击,singleplayer_01_09
+Sieg,victory,,,,,zwycięstwo,,,,胜利,勝利,勝利,승리,,,,,,,抽象,胜利,singleplayer_01_09
+Untertanen,Subjects,,,,,Poddani,,,,臣民,臣民,臣民,신민,,,,,,,称谓,臣民／百姓,singleplayer_01_09
+Zeremonie,ceremony,,,,,ceremonia,,,,典礼,典禮,儀式,의식,,,,,,,专有名词,典礼／仪式,singleplayer_01_09
+Fest,feast,,,,,uczta,,,,宴会,宴會,宴会,잔치,,,,,,,通用,宴会／庆典,singleplayer_01_09
+Geschenke,gifts,,,,,prezenty,,,,礼物,禮物,贈り物,선물,,,,,,,物品,礼物／礼品,singleplayer_01_09
+Dorf,Village,,,,,Wioska,,,,村庄,村莊,村,마을,,,,,,,地名,村庄／村落,singleplayer_01_09
+Fluss,river,,,,,rzeka,,,,河,河,川,강,,,,,,,地名,河流／河,singleplayer_01_09
+Pomp,pomp,,,,,pompa,,,,排场,排場,豪華,화려함,,,,,,,抽象,排场／盛况,singleplayer_01_09
+hinterhältig,treacherous,,,,,podstępny,,,,阴险,陰險,陰険,음험한,,,,,,,抽象,阴险／卑鄙,singleplayer_01_09
+König der Jagd,King of the Hunt,,,,,Król Polowania,,,,狩猎之王,狩獵之王,狩猟の王,사냥의 왕,,,,,,,专有名词,狩猎之王（年度狩猎称号）,singleplayer_01_09
+Wikingerstämme,Viking Tribes,,,,,Plemiona Wikingów,,,,维京部族,維京部族,ヴァイキング部族,바이킹 부족,,,,,,,社会组织,维京部族,multiplayer_batch
+Grönländer,Greenlander,,,,,Grenlandczyk,,,,格陵兰人,格陵蘭人,グリーンランダー,그린란더,,,,,,,种族,格陵兰人（部落名）,multiplayer_batch
+Vinländer,Vinlander,,,,,Winlandczyk,,,,文兰人,文蘭人,ヴィンランダー,빈란더,,,,,,,种族,文兰人（部落名）,multiplayer_batch
+Wirtschaft,Economy,,,,,Gospodarka,,,,经济,經濟,経済,경제,,,,,,,专有名词,经济（地图类型）,multiplayer_batch
+Diplomatie,Diplomacy,,,,,Dyplomacja,,,,外交,外交,外交,외교,,,,,,,抽象,外交,multiplayer_batch
+Handel,Trade,,,,,Handel,,,,贸易,貿易,貿易,무역,,,,,,,抽象,贸易,multiplayer_batch
+Rohstoffe,Raw Materials,,,,,Surowce,,,,资源,資源,資源,자원,,,,,,,抽象,资源／原料,multiplayer_batch
+Lager,Store,,,,,Magazyn,,,,仓库,倉庫,倉庫,창고,,,,,,,建筑,仓库,multiplayer_batch
+Schätze,Treasures,,,,,Skarby,,,,宝藏,寶藏,宝物,보물,,,,,,,物品,宝藏／珍宝,multiplayer_batch
+Siedlung,Settlement,,,,,Osada,,,,聚落,聚落,入植地,정착지,,,,,,,建筑,聚落／定居点,multiplayer_batch
+Inselstämme,Island Tribes,,,,,Plemiona Wyspowe,,,,岛上部族,島上部族,島の部族,섬 부족,,,,,,,社会组织,岛上部族,multiplayer_batch
+Herrschaft,Dominion,,,,,Panowanie,,,,统治权,統治權,支配権,지배권,,,,,,,抽象,统治权／霸权,multiplayer_batch
+Vulkaninsel,Volcano Island,,,,,Wyspa Wulkaniczna,,,,火山岛,火山島,火山島,화산섬,,,,,,,地名,火山岛,multiplayer_batch
+Feuerflammen,Fire Flames,,,,,Płomienie Ognia,,,,火舌,火舌,火炎,화염,,,,,,,自然,火山火舌,multiplayer_batch
+Bergmassiv,Mountain Massif,,,,,Masyw Górski,,,,山脉,山脈,山塊,산맥,,,,,,,地名,山脉,multiplayer_batch
+Höhle,Cave,,,,,Jaskinia,,,,洞穴,洞穴,洞窟,동굴,,,,,,,建筑,洞穴,multiplayer_batch
+Winter,Winter,,,,,Zima,,,,寒冬,寒冬,冬,겨울,,,,,,,自然,寒冬／冬季,multiplayer_batch
+Einbruch,Onset,,,,,Nadejście,,,,降临,降臨,降臨,강림,,,,,,,抽象,降临（冬季降临）,multiplayer_batch
+Vorherrschaft,Supremacy,,,,,Supremacja,,,,霸权,霸權,覇権,패권,,,,,,,抽象,霸权／统治,multiplayer_batch
+Stämme,Tribes,,,,,Plemiona,,,,部族,部族,部族,부족,,,,,,,社会组织,部族（复数）,multiplayer_batch
+Tributzahlungen,Tribute Payments,,,,,Daniny,,,,贡金,貢金,貢ぎ物,공물,,,,,,,物品,贡金／赎金,multiplayer_batch
+Hauptquartiersflagge,Headquarters Flag,,,,,Flaga Kwatery Głównej,,,,主基地旗帜,主基地旗幟,本拠地の旗,본부 기,,,,,,,专有名词,主基地旗帜,multiplayer_batch
+Inselflagge,Island Flag,,,,,Flaga Wyspy,,,,岛屿旗帜,島嶼旗幟,島の旗,섬 기,,,,,,,专有名词,岛屿旗帜,multiplayer_batch
+Nachbarinsel,Neighbouring Island,,,,,Sąsiednia Wyspa,,,,邻岛,鄰島,隣島,인접 섬,,,,,,,地名,邻岛,multiplayer_batch
+Ausgeschieden,Eliminated,,,,,Wyeliminowany,,,,出局,出局,敗退,탈락,,,,,,,抽象,出局／淘汰,multiplayer_batch
+Kartenmitte,Map Centre,,,,,Środek Mapy,,,,地图中央,地圖中央,マップ中央,맵 중앙,,,,,,,地名,地图中央,multiplayer_batch
+Wettjagen,The Great Hunt,,,,,Wielkie Łowy,,,,赛跑,賽跑,狩猟競争,사냥 경주,,,,,,,抽象,大赛跑／竞赛,multiplayer_batch
+Federvieh,Poultry,,,,,Drób,,,,家禽,家禽,家禽,가금,,,,,,,动物,家禽,multiplayer_batch
+Frühstückseier,Breakfast Eggs,,,,,Jajka śniadaniowe,,,,早餐蛋,早餐蛋,朝食の卵,아침 달걀,,,,,,,物品,早餐的蛋,multiplayer_batch
+Jägermeister,Master of the Hunt,,,,,Mistrz Polowania,,,,狩猎官,狩獵官,狩猟長,수렵장,,,,,,,官职,总狩猎官,multiplayer_batch
+Schaltern,Switches,,,,,Przełączniki,,,,开关,開關,スイッチ,스위치,,,,,,,物品,开关（机关）,multiplayer_batch
+Startvorteil,Starting Advantage,,,,,Przewaga Startowa,,,,起步优势,起步優勢,開始時優位,시작 우위,,,,,,,抽象,起步优势,multiplayer_batch
+Wolfswald,Wolf Forest,,,,,Wilczy Las,,,,狼林,狼林,狼の森,늑대 숲,,,,,,,地名,狼林,multiplayer_batch
+Mechanismen,Mechanisms,,,,,Mechanizmy,,,,机关,機關,仕掛け,장치,,,,,,,物品,古老机关,multiplayer_batch
+Regen,Rain,,,,,Deszcz,,,,雨,雨,雨,비,,,,,,,自然,雨／雨之符,multiplayer_batch
+Heiligen,Relics,,,,,Relikwie,,,,圣物,聖物,聖遺物,성유물,,,,,,,物品,不朽圣物,multiplayer_batch
+Unsterblichen,Immortals,,,,,Nieśmiertelni,,,,不朽,不朽,不滅,불멸,,,,,,,抽象,不朽（圣物）,multiplayer_batch
+Briefe,Letters,,,,,Listy,,,,书信,書信,手紙,편지,,,,,,,物品,书信（道具）,multiplayer_batch
+Vieh,Livestock,,,,,Bydło,,,,牲畜,牲畜,家畜,가축,,,,,,,动物,牲畜,multiplayer_batch
+Schafe,Sheep,,,,,Owce,,,,羊,羊,羊,양,,,,,,,动物,羊,multiplayer_batch
+Kühe,Cows,,,,,Krowy,,,,牛,牛,牛,소,,,,,,,动物,牛,multiplayer_batch
+Flaggen,Flags,,,,,Flagi,,,,旗帜,旗幟,旗,깃발,,,,,,,专有名词,旗帜,multiplayer_batch
+Burgen,Castles,,,,,Zamki,,,,城堡,城堡,城,성,,,,,,,建筑,城堡,multiplayer_batch
+Dunkle,Dark,,,,,Ciemny,,,,黑暗,黑暗,闇,어둠,,,,,,,抽象,黑暗（黑暗城堡）,multiplayer_batch
+Brücken,Bridges,,,,,Mosty,,,,桥梁,橋樑,橋,다리,,,,,,,建筑,河上桥梁,multiplayer_batch
+Jahreszeiten,Seasons,,,,,Pory Roku,,,,四季,四季,四季,사계절,,,,,,,自然,四季,multiplayer_batch
+Klima,Climate,,,,,Klimat,,,,气候,氣候,気候,기후,,,,,,,自然,气候,multiplayer_batch
+Kolonisation,Colonisation,,,,,Kolonizacja,,,,殖民,殖民,植民,식민,,,,,,,专有名词,殖民开拓,multiplayer_batch
+Vulkan,Volcano,,,,,Wulkan,,,,火山,火山,火山,화산,,,,,,,自然,火山,multiplayer_batch
+Tal,Valley,,,,,Dolina,,,,山谷,山谷,谷,계곡,,,,,,,地名,山谷,multiplayer_batch
+Birken,Birches,,,,,Brzozy,,,,白桦,白樺,白樺,자작나무,,,,,,,植物,白桦,multiplayer_batch
+Nordland,Northland,,,,,Kraina Północy,,,,北方,北方,北方,북방,,,,,,,地名,北方／北境,multiplayer_batch
+Coop,Co-op,,,,,Koop,,,,合作,合作,協力,협동,,,,,,,专有名词,合作模式,multiplayer_batch
+Nocoop,No Co-op,,,,,Bez Koop,,,,不合作,不合作,協力なし,비협동,,,,,,,专有名词,不合作模式,multiplayer_batch
+Lavaland,Lava Land,,,,,Kraina Lawy,,,,熔岩之地,熔岩之地,溶岩の地,용암의 대지,,,,,,,专有名词,熔岩之地（地图名）,multiplayer_batch
+Höhlenzauber,Cave Magic,,,,,Magia Jaskini,,,,洞穴魔法,洞穴魔法,洞窟の魔法,동굴 마법,,,,,,,专有名词,洞穴魔法（地图名）,multiplayer_batch
+Trophäenjagd,Trophy Hunt,,,,,Polowanie na Trofea,,,,战利品狩猎,戰利品狩獵,トロフィーハント,트로피 사냥,,,,,,,专有名词,战利品狩猎（地图名）,multiplayer_batch
+Drachenland,Dragon Land,,,,,Kraina Smoków,,,,龙之地,龍之地,ドラゴンの地,드래곤의 대지,,,,,,,专有名词,龙之地（地图名）,multiplayer_batch
+Wintereinbruch,Onset of Winter,,,,,Nadejście Zimy,,,,冬季降临,冬季降臨,冬の降臨,겨울의 강림,,,,,,,专有名词,冬季降临（地图名）,multiplayer_batch
+Eisiger,Icy,,,,,Lodowy,,,,冰封,冰封,氷封,빙결,,,,,,,形容词,冰封（冰封春日）,multiplayer_batch
+Schneetreiben,Snowstorm,,,,,Zamieć,,,,风雪,風雪,吹雪,눈보라,,,,,,,自然,风雪（地图名）,multiplayer_batch
+Kolonisierung,Colonization,,,,,Kolonizacja,,,,殖民化,殖民化,植民化,식민화,,,,,,,专有名词,殖民化（地图名）,multiplayer_batch
+Dunkle Burg,Dark Castle,,,,,Ciemny Zamek,,,,黑暗城堡,黑暗城堡,闇の城,어둠의 성,,,,,,,专有名词,黑暗城堡（地图名）,multiplayer_batch
+Brücken am Fluss,Bridges over the River,,,,,Mosty nad Rzeką,,,,河上桥梁,河上橋樑,川の橋,강의 다리,,,,,,,专有名词,河上桥梁（地图名）,multiplayer_batch
+Vier Jahreszeiten,Four Seasons,,,,,Cztery Pory Roku,,,,四季,四季,四季,사계절,,,,,,,专有名词,四季（地图名）,multiplayer_batch
+Intimes Treiben,CLOSE AND PERSONAL,,,,,TWARZĄ W TWARZ,,,,局促之地,侷促之地,密着の地,밀착의 땅,,,,,,,专有名词,局促之地（地图名）,multiplayer_batch
+Insel der Träume,Island of Dreams,,,,,Wyspa Snów,,,,梦幻岛,夢幻島,夢の島,꿈의 섬,,,,,,,专有名词,梦幻岛（地图名）,multiplayer_batch
+Ressourcen ohne Ende,Endless Resources,,,,,Zasoby Bez Końca,,,,无尽资源,無盡資源,無限の資源,무한 자원,,,,,,,专有名词,无尽资源（地图名）,multiplayer_batch
+Weites Land,Wide Land,,,,,Rozległa Kraina,,,,辽阔大地,遼闊大地,広大なる地,광활한 대지,,,,,,,专有名词,辽阔大地（地图名）,multiplayer_batch
+Inselherrschaft,Island Dominion,,,,,Wyspowe Panowanie,,,,岛屿霸权,島嶼霸權,島の覇権,섬의 패권,,,,,,,专有名词,岛屿霸权（地图名）,multiplayer_batch
+Wüstenvolk,Desert People,,,,,Lud Pustyni,,,,沙漠部族,沙漠部族,砂漠の民,사막 부족,,,,,,,地名,沙漠中的原住部族,singleplayer_03_05
+Expedition,Expedition,,,,,Ekspedycja,,,,远征队,遠征隊,遠征隊,원정대,,,,,,,专有名词,北上探险的维京队伍,singleplayer_03_04
+Angreifer,Attackers,,,,,Napastnicy,,,,攻击者,攻擊者,攻撃者,공격자,,,,,,,军事,敌方攻击单位,singleplayer_03_04
+Piratencamp,Pirate Camp,,,,,Obozowisko Piratów,,,,海盗营地,海盜營地,海賊の野営,해적 야영지,,,,,,,地名,海盗王国中心营地,singleplayer_03_04
+Intihuatana,Intihuatana,,,,,Intihuatana,,,,印蒂瓦塔纳,印蒂瓦塔納,インティワタナ,인티와타나,,,,,,,地名,太阳被系缚之处的沙漠之城,singleplayer_03_05
+Intih.,Intih.,,,,,Intih.,,,,印蒂,印蒂,インティ,인티,,,,,,,专有名词,Intihuatana 简称,singleplayer_03_05
+Ofeig,Ofeig,,,,,Ofeig,,,,奥费格,奧費格,オフェイグ,오페이그,,,,,,,人名,维京人（剧情名）,singleplayer_03_04
+Steinthor,Steinthor,,,,,Steinthor,,,,斯泰因索尔,斯泰因索爾,スタインソル,스타인소르,,,,,,,人名,维京人（剧情名）,singleplayer_03_04
+Bodvar,Bodvar,,,,,Bodvar,,,,博德瓦尔,博德瓦爾,ボドヴァル,보드바르,,,,,,,人名,维京人（剧情名）,singleplayer_03_04
+Ingolf,Ingolf,,,,,Ingolf,,,,英戈尔夫,英戈爾夫,インゴルフ,잉골프,,,,,,,人名,维京人（剧情名）,singleplayer_03_04
+Sumarlidi,Sumarlidi,,,,,Sumarlidi,,,,苏马尔利迪,蘇馬爾利迪,スマルリディ,수마르리디,,,,,,,人名,维京人（剧情名）,singleplayer_03_04
+Thorbrand,Thorbrand,,,,,Thorbrand,,,,索尔布兰德,索爾布蘭德,ソールブランド,토르브란드,,,,,,,人名,维京人（剧情名）,singleplayer_03_04
+Botolf,Botolf,,,,,Botolf,,,,博托尔夫,博托爾夫,ボトルフ,보톨프,,,,,,,人名,维京人（剧情名）,singleplayer_03_04
+Erdrachen,Earth Dragons,,,,,Smoki Ziemne,,,,地龙,土龍,地竜,지룡,,,,,,,专有名词,campaign_04 地龙种族,campaign_04_04
+Wachdrachen,Guard Dragons,,,,,Smoki Strażnicze,,,,守卫龙,守衛龍,守護竜,수호룡,,,,,,,专有名词,campaign_04 守卫龙,campaign_04_01_sub1
+Grauholm,Grauholm,,,,,Grauholm,,,,格劳霍尔姆,格勞霍爾姆,グラウホルム,그라우홀름,,,,,,,人名,campaign_04 剧情人物,campaign_04_01_sub3
+Wamugo,Wamugo,,,,,Wamugo,,,,瓦穆戈,瓦穆戈,ワムゴ,와무고,,,,,,,人名,campaign_04 教授,campaign_04_03
+Kräutersammler,Herb Gatherers,,,,,Zbieracze Ziół,,,,采药人,採藥人,薬草採取人,약초 채집꾼,,,,,,,专有名词,campaign_04 采药人哨站,campaign_04_03
+London,London,,,,,Londyn,,,,伦敦,倫敦,ロンドン,런던,,,,,,,地名,英格兰城市,campaign_01_03
+Nottingham,Nottingham,,,,,Nottingham,,,,诺丁汉,諾丁漢,ノッティンガム,노팅엄,,,,,,,地名,英格兰城市,campaign_01_03
+Bristol,Bristol,,,,,Bristol,,,,布里斯托,布里斯托,ブリストル,브리스틀,,,,,,,地名,英格兰城市,campaign_01_03
+York,York,,,,,York,,,,约克,約克,ヨーク,요크,,,,,,,地名,英格兰城市,campaign_01_03
+Thule,Thule,,,,,Thule,,,,图勒,圖勒,トゥーレ,툴레,,,,,,,地名,图勒王国,campaign_01_03
+Notti.,Nott.,,,,,Nott.,,,,诺蒂,諾蒂,ノッティ.,노티.,,,,,,,人名,图勒人物,campaign_01_03
+Alexandria,Alexandria,,,,,Aleksandria,,,,亚历山大港,亞歷山大港,アレクサンドリア,알렉산드리아,,,,,,,地名,埃及港口城市,campaign_01_08
+Bagdad,Baghdad,,,,,Bagdad,,,,巴格达,巴格達,バグダード,바그다드,,,,,,,地名,伊拉克首都,campaign_01_10
+WIGRID WALL,WIGRID WALL,,,,,MUR WIGRID,,,,维格里德城墙,維格里德城牆,ウィグリッドの城壁,위그리드 성벽,,,,,,,地名,米德加德之蛇领地,campaign_01_11
+BAGDAD - Sub,BAGHDAD - Sub,,,,,BAGDAD - zadanie dodatkowe,,,,巴格达 - 支线,巴格達 - 支線,バグダード - サブ,바그다드 - 서브,,,,,,,地名,巴格达支线标识,campaign_01_10-sub
+Hatschis Nachbarn,Hatchie's Neighbours,,,,,Sąsiedzi Hatschiego,,,,哈奇的邻居,哈奇的鄰居,ハッチの隣人たち,하치의 이웃들,,,,,,,地名,哈奇的邻居,campaign_02_02
+Nachbarn,Neighbours,,,,,Sąsiedzi,,,,邻居,鄰居,隣人,이웃,,,,,,,通用,邻居,campaign_02_02
+DIE PLAGE,THE PLAGUE,,,,,PLAGA,,,,瘟疫,瘟疫,ペスト,역병,,,,,,,事件,蛇患/瘟疫,campaign_02_01
+DIE GROSSE HUNGERSNOT,THE GREAT FAMINE,,,,,WIELKA KLĘSKA GŁODU,,,,大饥荒,大饑荒,大飢饉,대기근,,,,,,,事件,阿拉伯大饥荒,campaign_02_02
+DREI WÜNSCHE - Die Große Hungersnot - Sub,THREE WISHES - The Great Famine - Sub,,,,,TRZY ŻYCZENIA - WIELKA KLĘSKA GŁODU,,,,三个愿望 - 大饥荒 - 支线,三個願望 - 大饑荒 - 支線,三つの願い - 大飢饉 - サブ,세 가지 소원 - 대기근 - 서브,,,,,,,事件,支线标题,campaign_02_02-sub
+Städtchen,Town,,,,,Miasto,,,,小镇,小鎮,小さな町,작은 마을,,,,,,,地名,小城镇,campaign_02_03
+ALTE FREUNDE,OLD FRIENDS,,,,,STARZY PRZYJACIELE,,,,故友,故友,旧友,옛 친구,,,,,,,事件,故友重逢,campaign_02_03
+Schmied Johannes,Johannes the Smith,,,,,Kowal Johannes,,,,铁匠约翰内斯,鐵匠約翰內斯,鍛冶屋ヨハネス,대장장이 요하네스,,,,,,,人名,铁匠,campaign_02_04
+Fenris,Fenrir,,,,,Fenrir,,,,芬里尔,芬里爾,フェンリス,펜리스,,,,,,,人名,北欧神话巨狼,campaign_02_04
+Wikingerdorf,Viking Village,,,,,Wioska Wikingów,,,,维京人村庄,維京人村莊,ヴァイキングの村,바이킹 마을,,,,,,,地名,维京人村庄,campaign_02_06
+Walhalla,Valhalla,,,,,Walhalla,,,,瓦尔哈拉,瓦爾哈拉,ヴァルハラ,발할라,,,,,,,地名,英灵殿,campaign_02_06
+Weltenesche Yggdrasil,World Ash Yggdrasil,,,,,Jesion Świata Yggdrasil,,,,世界树尤克特拉希尔,世界樹尤克特拉希爾,世界樹ユグドラシル,세계수 이그드라실,,,,,,,地名,世界树,campaign_02_06
+DIE KETTE DES FENRIS,THE CHAIN OF FENRIR,,,,,ŁAŃCUCH FENRISA,,,,芬里尔之链,芬里爾之鏈,フェンリスの鎖,펜리스의 사슬,,,,,,,事件,芬里尔之链,campaign_02_04
+SCHWERTER DER KÖNIGE - Die Kette des Fenris - Sub1,THE SWORDS OF THE KINGS - The Chain of Fenrir - Sub1,,,,,MIECZE KRÓLI - ŁAŃCUCH FENRISA,,,,王者之剑 - 芬里尔之链 - 支线1,王者之劍 - 芬里爾之鏈 - 支線1,王たちの剣 - フェンリスの鎖 - サブ1,왕들의 검 - 펜리스의 사슬 - 서브1,,,,,,,事件,支线标题,campaign_02_04-sub1
+INSEL DER SCHWEIGSAMEN - Die Kette des Fenris - Sub2,THE ISLAND OF THE SILENT - The Chain of Fenrir - Sub2,,,,,WYSPA MILCZĄCYCH - ŁAŃCUCH FENRISA,,,,沉默者之岛 - 芬里尔之链 - 支线2,沉默者之島 - 芬里爾之鏈 - 支線2,沈黙者の島 - フェンリスの鎖 - サブ2,침묵자의 섬 - 펜리스의 사슬 - 서브2,,,,,,,事件,支线标题,campaign_02_04-sub2
+FENRIS HORDEN,FENRIR'S HORDES,,,,,HORDY FENRISA,,,,芬里尔部落,芬里爾部落,フェンリスの軍勢,펜리스의 무리,,,,,,,地名,芬里尔部落,campaign_02_05
+Mönche,Monks,,,,,Mnisi,,,,修士,修士,修道士,수도사,,,,,,,人名,修道院修士,campaign_02_04
+Fährm.,Ferry.,,,,,Przew.,,,,渡船,渡船,渡し船.,나룻배.,,,,,,,通用,渡船夫简称,campaign_02_04
+Brücke Bifrost,Bifrost Bridge,,,,,Most Bifrost,,,,比弗罗斯特桥,比弗羅斯特橋,ビフレスト橋,비프로스트 다리,,,,,,,地名,彩虹桥,campaign_02_07
+EISWELT,THE ICE WORLD,,,,,LODOWA KRAINA,,,,冰之世界,冰之世界,氷の世界,얼음의 세계,,,,,,,地名,冰之世界,campaign_02_07-sub
+Odín,Odin,,,,,Odin,,,,奥丁,奧丁,オーディン,오딘,,,,,,,人名,北欧主神,campaign_02_08
+Architekten,Architects,,,,,Architekci,,,,建筑师,建築師,建築家,건축가,,,,,,,人名,建筑师,campaign_03_01
+Babylon,Babylon,,,,,Babilon,,,,巴比伦,巴比倫,バビロン,바빌론,,,,,,,地名,巴比伦,campaign_03_02
+Bauarbeiternomaden,Builder Nomads,,,,,Budowniczy Nomadów,,,,游牧工兵,遊牧工兵,建設遊牧民,건축 유목민,,,,,,,人名,游牧工兵,campaign_03_02
+Hirten,Shepherds,,,,,Pasterze,,,,牧人,牧人,羊飼い,목자,,,,,,,通用,牧人,campaign_03_02
+Frauen,Women,,,,,Kobiety,,,,妇女,婦女,女性,여인들,,,,,,,通用,妇女,campaign_03_02_sub
+DER LEUCHTTURM VON PHAROS,THE PHAROS LIGHTHOUSE,,,,,LATARNIA MORSKA Z FAROS,,,,法罗斯灯塔,法羅斯燈塔,ファロスの灯台,파로스 등대,,,,,,,事件,世界奇观,campaign_03_01
+DIE HÄNGENDEN GÄRTEN VON SEMIRAMIS,THE HANGING GARDENS OF SEMIRAMIS,,,,,WISZĄCE OGRODY SEMIRAMIDY,,,,塞米拉米斯空中花园,塞米拉米斯空中花園,セミラミスの空中庭園,세미라미스의 공중 정원,,,,,,,事件,世界奇观,campaign_03_02
+UNTERIRDISCHE HALLEN,UNDERGROUND HALLS,,,,,PODZIEMNE KORYTARZE,,,,地下厅堂,地下廳堂,地下広間,지하 광장,,,,,,,地名,地下厅堂,campaign_03_02_sub
+Pharaonenkrieger,Pharaoh Warriors,,,,,Wojownicy Faraona,,,,法老战士,法老戰士,ファラオの戦士,파라오 전사,,,,,,,人名,法老战士,campaign_03_07
+Stadtteil 1,District 1,,,,,Dystrykt 1,,,,城区 1,城區 1,地区 1,구역 1,,,,,,,地名,城区,campaign_03_08
+Stadtteil 2,District 2,,,,,Dystrykt 2,,,,城区 2,城區 2,地区 2,구역 2,,,,,,,地名,城区,campaign_03_08
+Stadtteil 3,District 3,,,,,Dystrykt 3,,,,城区 3,城區 3,地区 3,구역 3,,,,,,,地名,城区,campaign_03_08
+DER TEMPEL DER ARTEMIS,THE TEMPLE OF ARTEMIS,,,,,ŚWIĄTYNIA ARTEMIDY,,,,阿尔忒弥斯神庙,阿爾忒彌斯神廟,アルテミス神殿,아르테미스 신전,,,,,,,事件,世界奇观,campaign_03_05
+HEROSTRATES ERBEN,HEROSTRATES' HEIRS,,,,,SPADKOBIERCY HEROSTRATESA,,,,赫罗斯特拉特斯继承者,赫羅斯特拉特斯繼承者,ヘロストラトスの後継者,헤로스트라토스의 후계자,,,,,,,人名,纵火者继承者,campaign_03_05
+DIE VERLORENEN SÜMPFE,THE LOST SWAMPS,,,,,ZAGINIONE BAGNA,,,,迷失沼泽,迷失沼澤,失われし沼地,잃어버린 늪,,,,,,,地名,迷失沼泽,campaign_03_05_sub2
+DIE PYRAMIDEN VON GIZEH,THE PYRAMIDS OF GIZA,,,,,PIRAMIDY Z GIZA,,,,吉萨金字塔,吉薩金字塔,ギザのピラミッド,기자의 피라미드,,,,,,,事件,世界奇观,campaign_03_07
+DAS ACHTE WELTWUNDER,THE EIGHTH WONDER OF THE WORLD,,,,,ÓSMY CUD ŚWIATA,,,,第八大奇迹,第八大奇蹟,世界第八の不思議,제8대 세계 불가사의,,,,,,,事件,世界奇观,campaign_03_08
+Kolosses von Rhodos,Colossus of Rhodes,,,,,Kolos z Rodos,,,,罗德岛巨像,羅德島巨像,ロドス島の巨像,로도스 섬의 거상,,,,,,,事件,世界奇观,campaign_03_08
+Grabstätte des Mausolos,Tomb of Mausolus,,,,,Grobowiec Mauzolosa,,,,摩索拉斯王陵,摩索拉斯王陵,マウソロスの霊廟,마우솔로스의 능묘,,,,,,,事件,世界奇观,campaign_03_08
+Zeusstatue in Olympia,Statue of Zeus at Olympia,,,,,Posąg Zeusa w Olimpii,,,,奥林匹亚宙斯巨像,奧林匹亞宙斯巨像,オリンピアのゼウス像,올림피아의 제우스 상,,,,,,,事件,世界奇观,campaign_03_08
+Spieler,Player,,,,,Gracz,,,,玩家,玩家,プレイヤー,플레이어,,,,,,,通用,玩家,campaign_03_03_sub
+Wächter,Guard,,,,,Strażnik,,,,守卫,守衛,衛兵,경비병,,,,,,,通用,守卫,campaign_03_03_sub3
+Der Läufer von Elis,Runner of Elis,,,,,Biegacz Elei,,,,伊利斯的长跑者,伊利斯的長跑者,エーリスの走者,엘리스의 주자,,,,,,,人名,长跑者,campaign_03_06_sub1
+KOLOSS-GEHEIMGANG,COLOSSUS - SECRET PASSAGE,,,,,KOLOS - SEKRETNE PRZEJŚCIE,,,,巨像密道,巨像密道,巨像の隠し通路,거상의 비밀 통로,,,,,,,地名,巨像密道,campaign_03_03_sub
+KOLOSS-ORAKEL,COLOSSUS - ORACLE,,,,,KOLOS - WYROCZNIA,,,,巨像神谕,巨像神諭,巨像の神託,거상의 신탁,,,,,,,地名,巨像神谕,campaign_03_03_sub3
+DER WETTSTREIT,THE COMPETITION,,,,,ZAWODY,,,,竞技之争,競技之爭,競い合い,경쟁,,,,,,,事件,竞技之争,campaign_03_06_sub1
+DAS FLAMMENMEER,THE SEA OF FLAMES,,,,,MORZE PŁOMIENI,,,,火海,火海,炎の海,불바다,,,,,,,地名,火海,campaign_03_06_sub2
+Erdrachen,Earth Dragons,,,,,Smoki Ziemne,,,,土龙,土龍,地竜,지룡,,,,,,,术语,campaign_04 龙种（土龙）,campaign_04;tutorial;demo
+Wasserdachen,Water Dragons,,,,,Wodne Smoki,,,,水龙,水龍,水竜,수룡,,,,,,,术语,campaign_04 龙种 sid13 旧拼法,campaign_04;tutorial;demo
+Hirt.,Herd.,,,,,Past.,,,,牧.,牧.,羊.,목.,,,,,,,术语,campaign_04 牧人缩写,campaign_04;tutorial;demo
+Napal.,Nabal.,,,,,Nabal.,,,,纳.,納.,ナパ.,나파.,,,,,,,术语,campaign_04 纳帕利亚缩写,campaign_04;tutorial;demo
+SPRUDEL,SPRUDEL,,,,,SPRUDEL,,,,涌泉,湧泉,湧き水,솟는샘,,,,,,,术语,campaign_04 地形,campaign_04;tutorial;demo
+NIXE,NIXIE,,,,,NIXE,,,,水妖,水妖,水妖,물요정,,,,,,,术语,campaign_04 地形,campaign_04;tutorial;demo
+WELLE,WAVE,,,,,WELLA,,,,波涛,波濤,波浪,파도,,,,,,,术语,campaign_04 地形,campaign_04;tutorial;demo
+Montseraine,Montseraine,,,,,Montseraine,,,,蒙瑟雷,蒙瑟雷,モントセレーヌ,몽세렌,,,,,,,术语,demo_singleplayer_02 地名,campaign_04;tutorial;demo
+Bergräuber,Mountain Marauders,,,,,Rabusie,,,,山贼,山賊,山賊,산적,,,,,,,术语,demo_singleplayer_02 敌人,campaign_04;tutorial;demo
+Kultstätte,Place of Worship,,,,,Miejsce Kultu,,,,圣地,聖地,聖地,성지,,,,,,,术语,demo_singleplayer_02 祭祀场,campaign_04;tutorial;demo
+Dämon,Demon,,,,,Demon,,,,恶魔,惡魔,悪魔,악마,,,,,,,术语,demo_singleplayer_02 敌人,campaign_04;tutorial;demo
+Ausrüstungsgegenstände,Equipment Items,,,,,Przedmioty Ekwipunku,,,,装备物资,裝備物資,装備品,장비품,,,,,,,术语,tutorial_006 通用词,campaign_04;tutorial;demo
+Unterhändler,Negotiator,,,,,Negocjator,,,,调停人,調停人,交渉人,협상자,,,,,,,术语,demo_singleplayer_02 角色,campaign_04;tutorial;demo
+Bote,Messenger,,,,,Posłaniec,,,,信使,信使,使者,전령,,,,,,,术语,demo_singleplayer_02 角色,campaign_04;tutorial;demo
+Gesinnung,Attitude,,,,,Nastawienie,,,,立场,立場,立場,입장,,,,,,,术语,demo_singleplayer_02 外交词,campaign_04;tutorial;demo
+Ehepaar,Married Couple,,,,,Małżeństwo,,,,夫妇,夫婦,夫婦,부부,,,,,,,术语,tutorial_002 通用词,campaign_04;tutorial;demo
+Holzsperrträger,Wooden Spearmen,,,,,Włócznicy z drew. włóczniami,,,,木栅兵,木柵兵,木柵兵,목책병,,,,,,,术语,tutorial_006 兵种,campaign_04;tutorial;demo
+Wachturm,Defence Tower,,,,,Wieża obronna,,,,哨塔,哨塔,見張り塔,감시탑,,,,,,,术语,tutorial_006 建筑,campaign_04;tutorial;demo
+Eskimos,Eskimos,,,,,Eskimosi,,,,爱斯基摩人,愛斯基摩人,エスキモー,에스키모,,,,,,,术语,圣诞特辑 种族,tutorial;demo
+Näherei,Tailor's Workshop,,,,,Zakład krawiecki,,,,裁缝坊,裁縫坊,裁縫工房,재봉 공방,,,,,,,术语,tutorial 建筑,tutorial;demo
+TÖPFEREI,POTTERY,,,,,WARSZTAT GARNCARSKI,,,,陶艺坊,陶藝坊,陶芸工房,도예 공방,,,,,,,术语,tutorial_004 建筑(全大写强调),tutorial;demo
+TÖPFERS,POTTERS,,,,,GARNCARZE,,,,陶工,陶工,陶工,도공,,,,,,,术语,tutorial_004 职业(全大写强调),tutorial;demo
+Steinmetzes,Stonemasons,,,,,Kamieniarze,,,,石匠,石匠,石工,석공,,,,,,,术语,tutorial_004 职业,tutorial;demo
+Schreiners,Carpenters,,,,,Cieśle,,,,木工,木工,大工,목수,,,,,,,术语,tutorial_004 职业,tutorial;demo
+Schmiedes,Blacksmiths,,,,,Kowale,,,,铁匠,鐵匠,鍛冶屋,대장장이,,,,,,,术语,tutorial_004 职业,tutorial;demo
+Nähers,Tailors,,,,,Krawcy,,,,裁缝,裁縫,裁縫師,재단사,,,,,,,术语,tutorial_004 职业,tutorial;demo
+Viehzüchters,Stock Farmers,,,,,Hodowcy Bydła,,,,畜牧者,畜牧者,畜牧家,축산업자,,,,,,,术语,tutorial_004 职业,tutorial;demo
+Möbel,Furniture,,,,,Meble,,,,家具,傢俱,家具,가구,,,,,,,术语,通用 物资,tutorial;demo
+Lederrüstungen,Leather Armours,,,,,Skórzane Zbroje,,,,皮甲,皮甲,革鎧,가죽 갑옷,,,,,,,术语,通用 装备,tutorial;demo
+Technologien,Technologies,,,,,Technologie,,,,科技,科技,技術,기술,,,,,,,术语,tutorial_004 标题,tutorial;demo
+Pharos,Pharos,,,,,Faros,,,,法罗斯,法羅斯,ファロス,파로스,,,,,,,术语,demo_mainmenu_10 地名(岛/灯塔),tutorial;demo
+Marmorblöcke,Marble Blocks,,,,,Bloki marmuru,,,,大理石块,大理石塊,大理石のブロック,대리석 블록,,,,,,,术语,demo_mainmenu_10 物资,tutorial;demo
+Heiltränke,Healing Potions,,,,,Lecznicze mikstury,,,,治疗药剂,治療藥劑,治癒薬,치유 물약,,,,,,,术语,通用 道具,tutorial;demo
+Verteidigungsamulette,Amulets of Defence,,,,,Amulety Obrony,,,,防御护符,防禦護符,防御の護符,방어 부적,,,,,,,术语,demo_mainmenu_10 道具,tutorial;demo
+Wikingern,Vikings,,,,,Wikingowie,,,,维京人,維京人,ヴァイキング,바이킹,,,,,,,术语,demo_mainmenu_10 部族(与格),tutorial;demo
+Langschwerter,Longswords,,,,,Długie Miecze,,,,长剑,長劍,長剣,장검,,,,,,,术语,demo_mainmenu_10 兵器,tutorial;demo
+Vagabundenlager,Vagabond Camp,,,,,Obóz włóczęgów,,,,流浪者营地,流浪者營地,放浪者の野営,방랑자 야영지,,,,,,,术语,demo_mainmenu_10 地点,tutorial;demo

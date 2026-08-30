@@ -29,6 +29,13 @@
 - 术语母表 `language_union.csv` 现状(2026-08-18)：有数据=ger/eng/l10(eng 已全面去德语词)；空列待填=fra/ita/cze/rus/pol/spa/por/hun/l11–l19。
 - 接入新语言端到端步骤见 `20-language-translation-guide.md`。
 
+## 各代主战役官方译名对照（已知语言，供多语言菜单/文本对齐）
+- **仙宫之门**（Cultures II / Asgard's Gate）：ger **Die Tore Asgards**；pol **Bramy Asgardu**
+- **北国风云**（Cultures III / Nordland）：ger **Reise nach Nordland**（菜单简称 Nordland）；pol **Wyprawa na Północ**
+- **第八世界奇迹**（Cultures IV/VI / Das achte Weltwunder）：ger **Das achte Weltwunder**；pol **8 Cud Świata**
+- **萨迦**（Cultures V / Saga）：ger **Saga**；pol **无官方译名，自行翻译**（Saga 为波兰语固有词，可保留 Saga）
+- 用途：接 pol（及后续 cz/ru 等）到 `saga*.ini`、战役 XML 的菜单名/描述时，须用对应官方译名，勿音译或字面直译。
+
 ## 构建/部署
 - `python build_text.py` → `_build/` 与游戏目录对齐，可直接覆盖
 - 游戏以 GER 启动，CHN 由外挂 DLL 注入；文本 UTF-8 构建，游戏仅 GB2312（loc_tools 内置兼容）

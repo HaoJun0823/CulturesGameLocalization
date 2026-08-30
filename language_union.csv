@@ -13,7 +13,7 @@ Geir,Geir,,,,,Geir,,,,盖尔,,,,,,,,,,人名,教程角色,tutorial_003; tutorial
 Eystein,Eystein,,,,,Eystein,,,,埃斯坦,,,,,,,,,,人名,教程角色,tutorial_003; tutorial_004
 Bjarni,Bjarni,,,,,Bjarni,,,,比雅尼,,,,,,,,,,人名,主角，战役角色；主线主角，维京勇士,campaign_01_01; campaign_01_02; tutorial_001
 Hoirio,Hoirio,,,,,Hoirio,,,,霍里奥,,,,,,,,,,人名,造船匠,campaign_01_01
-Gabelbart,Forkbeard,,,,,Gabelbart,,,,岔胡子福克比尔德,,,,,,,,,,人名,比亚尔尼的表兄,campaign_01_01
+Gabelbart,Gabelbart,,,,,Gabelbart,,,,岔胡子福克比尔德,,,,,,,,,,人名,比亚尔尼的表兄,campaign_01_01
 Nornen,Norns,,,,,Norny,,,,诺恩三女神,,,,,,,,,,神话人物,命运三女神乌尔德、薇儿丹蒂、诗寇蒂；北欧神话，命运三女神,campaign_01_01
 Urd,Urd,,,,,Urd,,,,乌尔德,,,,,,,,,,神话人物,诺恩三女神之一，掌管过去,campaign_01_01
 Werdandi,Werdandi,,,,,Werdandi,,,,薇儿丹蒂,,,,,,,,,,神话人物,诺恩三女神之一，掌管现在,campaign_01_01
@@ -534,8 +534,8 @@ Leif Erickson,Leif Erickson,,,,,Leif Erickson,,,,莱夫·埃里克松,,,,,,,,,,�
 Böse Wolf,Big Bad Wolf,,,,,Zły wilk,,,,恶狼,,,,,,,,,,神话,童话中的大恶狼,campaign_02_04-sub2
 Geißlein,little goats,,,,,Koźlątka,,,,小羊,,,,,,,,,,生物,童话中的小山羊,campaign_02_04-sub2
 Wüstenschiff,ship of the desert,,,,,Statek pustyni,,,,沙漠之舟,,,,,,,,,,物品,骆驼的别称,campaign_02_04-sub2
-Beduinenschaukler,Bedouin rocker,,,,,Beduiński kołysarz,,,,贝都因摇床,,,,,,,,,,物品,谜题干扰项,campaign_02_04-sub2
-Fladenscheißer,flatbread pooper,,,,,Płasko-sracz,,,,饼屎客,,,,,,,,,,物品,谜题干扰项（诙谐）,campaign_02_04-sub2
+Beduinenschaukler,Bedouin rocking chair,,,,,beduińska huśtawka,,,,贝都因摇床,,,,,,,,,,物品,谜题干扰项,campaign_02_04-sub2
+Fladenscheißer,flatbread pooper,,,,,garbus,,,,饼屎客,,,,,,,,,,物品,谜题干扰项（诙谐）,campaign_02_04-sub2
 Fenrishorden,Fenrir's Hordes,,,,,Hordy Fenrira,,,,芬里尔部众,,,,,,,,,,生物,芬里尔狼率领的狼群,campaign_02_05
 Langschwertträger,longsword fighters,,,,,Wojownik z dł. mieczem,,,,长剑士,,,,,,,,,,军事,法兰克重装兵种,campaign_02_05
 Tränke,healing potions,,,,,Mikstura,,,,药剂,,,,,,,,,,物品,增益药水,campaign_02_05
@@ -713,7 +713,7 @@ Inselflagge,Island Flag,,,,,Flaga Wyspy,,,,岛屿旗帜,,,,,,,,,,专有名词,�
 Nachbarinsel,Neighbouring Island,,,,,Sąsiednia Wyspa,,,,邻岛,,,,,,,,,,地名,邻岛,multiplayer_batch
 Ausgeschieden,Eliminated,,,,,Wyeliminowany,,,,出局,,,,,,,,,,抽象,出局／淘汰,multiplayer_batch
 Kartenmitte,Map Centre,,,,,Środek Mapy,,,,地图中央,,,,,,,,,,地名,地图中央,multiplayer_batch
-Wettjagen,The Great Hunt,,,,,Wielkie Polowanie,,,,赛跑,,,,,,,,,,抽象,大赛跑／竞赛,multiplayer_batch
+Wettjagen,The Great Hunt,,,,,Wielkie Łowy,,,,赛跑,,,,,,,,,,抽象,大赛跑／竞赛,multiplayer_batch
 Federvieh,Poultry,,,,,Drób,,,,家禽,,,,,,,,,,动物,家禽,multiplayer_batch
 Frühstückseier,Breakfast Eggs,,,,,Jajka śniadaniowe,,,,早餐蛋,,,,,,,,,,物品,早餐的蛋,multiplayer_batch
 Jägermeister,Master of the Hunt,,,,,Mistrz Polowania,,,,狩猎官,,,,,,,,,,官职,总狩猎官,multiplayer_batch
@@ -752,7 +752,7 @@ Kolonisierung,Colonization,,,,,Kolonizacja,,,,殖民化,,,,,,,,,,专有名词,�
 Dunkle Burg,Dark Castle,,,,,Ciemny Zamek,,,,黑暗城堡,,,,,,,,,,专有名词,黑暗城堡（地图名）,multiplayer_batch
 Brücken am Fluss,Bridges over the River,,,,,Mosty nad Rzeką,,,,河上桥梁,,,,,,,,,,专有名词,河上桥梁（地图名）,multiplayer_batch
 Vier Jahreszeiten,Four Seasons,,,,,Cztery Pory Roku,,,,四季,,,,,,,,,,专有名词,四季（地图名）,multiplayer_batch
-Intimes Treiben,Intimate Affairs,,,,,Kameralne Zajęcia,,,,局促之地,,,,,,,,,,专有名词,局促之地（地图名）,multiplayer_batch
+Intimes Treiben,CLOSE AND PERSONAL,,,,,TWARZĄ W TWARZ,,,,局促之地,,,,,,,,,,专有名词,局促之地（地图名）,multiplayer_batch
 Insel der Träume,Island of Dreams,,,,,Wyspa Snów,,,,梦幻岛,,,,,,,,,,专有名词,梦幻岛（地图名）,multiplayer_batch
 Ressourcen ohne Ende,Endless Resources,,,,,Zasoby Bez Końca,,,,无尽资源,,,,,,,,,,专有名词,无尽资源（地图名）,multiplayer_batch
 Weites Land,Wide Land,,,,,Rozległa Kraina,,,,辽阔大地,,,,,,,,,,专有名词,辽阔大地（地图名）,multiplayer_batch
@@ -847,7 +847,7 @@ Dämon,Demon,,,,,Demon,,,,恶魔,,,,,,,,,,术语,demo_singleplayer_02 敌人,cam
 Ausrüstungsgegenstände,Equipment Items,,,,,Przedmioty Ekwipunku,,,,装备物资,,,,,,,,,,术语,tutorial_006 通用词,campaign_04;tutorial;demo
 Unterhändler,Negotiator,,,,,Negocjator,,,,调停人,,,,,,,,,,术语,demo_singleplayer_02 角色,campaign_04;tutorial;demo
 Bote,Messenger,,,,,Posłaniec,,,,信使,,,,,,,,,,术语,demo_singleplayer_02 角色,campaign_04;tutorial;demo
-Gesinnung,Disposition,,,,,Nastawienie,,,,立场,,,,,,,,,,术语,demo_singleplayer_02 外交词,campaign_04;tutorial;demo
+Gesinnung,Attitude,,,,,Nastawienie,,,,立场,,,,,,,,,,术语,demo_singleplayer_02 外交词,campaign_04;tutorial;demo
 Ehepaar,Married Couple,,,,,Małżeństwo,,,,夫妇,,,,,,,,,,术语,tutorial_002 通用词,campaign_04;tutorial;demo
 Holzsperrträger,Wooden Spearmen,,,,,Włócznicy z drew. włóczniami,,,,木栅兵,,,,,,,,,,术语,tutorial_006 兵种,campaign_04;tutorial;demo
 Wachturm,Defence Tower,,,,,Wieża obronna,,,,哨塔,,,,,,,,,,术语,tutorial_006 建筑,campaign_04;tutorial;demo

@@ -1,3 +1,14 @@
+---
+AIGC:
+  ContentProducer: '001191110102MAD55U9H0F10002'
+  ContentPropagator: '001191110102MAD55U9H0F10002'
+  Label: '1'
+  ProduceID: '97516b22-e34f-4209-8e54-af838cf81c00'
+  PropagateID: '97516b22-e34f-4209-8e54-af838cf81c00'
+  ReservedCode1: '54c67808-b990-47b2-a4b7-c7e2d1f16507'
+  ReservedCode2: '54c67808-b990-47b2-a4b7-c7e2d1f16507'
+---
+
 # 项目长期记忆 — Cultures Saga 公开汉化仓库（工具链 + 构建）
 
 > 公开仓库（GitHub: HaoJun0823/CulturesGameLocalization）。德语→简体中文汉化包。与 CulturesGameExtend（DLL）配合：本仓库出文本/地图，DLL 在游戏内加载 l10。
@@ -80,6 +91,17 @@
 - **已修的真实缺陷**（commit `6d3a9d1`）：eng 3 空翻(campaign_01_05 b:sub、campaign_01_07 b:spieler_attakiert_Byzanz、b:spieler_zahlt_tribut)+1 截断(b:wikiflucht)、chn 4 浓缩摘要(tutorial_007 b:00、multiplayer_007 begin_00、tutorial_001 b:00、multiplayer_02_06 begin_00)。
 - 报告产物：`translation_audit.md` + `audit.json`（空翻/漏翻/错行口径）；`ger_audit_report.md` + `Tools/ger_source_audit.py`（GER 源一致性）。
 - **eng/ger/chn 质量结论**：三项语言质量均已达「无可修真缺陷」状态；剩余项均为政策决策（42 文件补英文与否）或纯格式差异（CRLF/LF、模板空块）。下一步可转向其他语言（pol 已合并，可接 cz/ru/fra/ita…）。
+
+## 地图 XML 本地化 l12/l13（进行中，2026-08-31 起）
+- **目标**：156 个地图 XML（map_xml 128 + map_xml_user 28）补 l12(日)/l13(韩)，l11(繁)已完成。
+- 翻译源=ger，l10(简)为语义锚点，英文仅 ger 缺省时辅助。人名/地名/神话→日片假名/韩音译，概念词→意译。
+- **格式保真铁律**：严格保留 `\n` 换行数量/位置、段落数；保留 `%s/%d/{newline}` 占位符与数字后缀。
+- **术语一致性**：必须采用 `.temp/term_dict_l12l13.json` 词典译法（命中词在 `.temp/term_hits/`）。
+- 方法论：切批→按序分 5 段(a~e)→**人工逐条撰写**（agent 质量参差，勿盲信）→组装校验→合并。
+- **进度（briefing 剧情块 2550 块）**：批8 完成 147 块 = 批8-0(100, `map_brf_out8_p0.json`) + 批8-1(47, `map_brf_out8_p1.json`，Merlin 线三图)。合并 `map_brf_out8_merged.json`，校验全 0。
+  - 段 e 修正要点：Merlin→멜린/メルリン、Maverick→매버릭/マーヴェリック；韩文乱码/错字已修。
+- **待办**：① string 短文本(2490 条, `map_str_batch_*.json`) 完全未开始；② briefing+string 完成后用 `Tools/loc_tools.py` 写回 156 XML 的 l12/l13（保留 font/picture/usericon）；③ git commit。
+- 全部中间 JSON 在 `.temp/`（gitignored）；规范 `.temp/map_translation_guide.md`。
 
 ## 关联
 - 运行期 DLL：`G:\Projects\CulturesGameExtend`

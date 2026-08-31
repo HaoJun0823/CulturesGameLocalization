@@ -1,58 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="17_Nordwestafrika" export_map_id="17_Nordwestafrika" map_md5="ea0a9b94da1bb27f651a2c82eb3749ae" IsC2M="true">
+<localization version="1.3" map_id="17_Nordwestafrika" export_map_id="17_Nordwestafrika" map_md5="ea0a9b94da1bb27f651a2c82eb3749ae" IsC2M="true" deprecated="false">
   <languages>
-    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">西北非洲</text>
-      <text lang="ger">Nordwestafrika</text>
       <text lang="eng">Northwest Africa</text>
+      <text lang="ger">Nordwestafrika</text>
+      <text lang="l11">西北非洲</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Północno-Zachodnia Afryka</text>
     </string>
     <string id="1">
       <text lang="CHN">我们抵达了西北非洲。可坦克和他的撒拉逊人却踪影全无。</text>
-      <text lang="ger">Wir hatten Nordwestafrika erreicht. Aber von Tank und seinen Sarazenen war nichts zu sehen.</text>
       <text lang="eng">We had reached Northwest Africa. But there was no sign of Tank and his Saracens.</text>
+      <text lang="ger">Wir hatten Nordwestafrika erreicht. Aber von Tank und seinen Sarazenen war nichts zu sehen.</text>
+      <text lang="l11">我們抵達了西北非洲。可坦克和他的撒拉遜人卻蹤影全無。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Dotarliśmy do Północno-Zachodniej Afryki. Lecz nie było śladu Tanka i jego Saracenów.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
-      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得友好。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
-      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得中立。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
-      <text lang="ger">Spieler0</text>
       <text lang="eng">Player0</text>
+      <text lang="ger">Spieler0</text>
+      <text lang="l11">玩家0</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
-      <text lang="ger">Spieler1</text>
       <text lang="eng">Player1</text>
+      <text lang="ger">Spieler1</text>
+      <text lang="l11">玩家1</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
-      <text lang="ger">Spieler2</text>
       <text lang="eng">Player2</text>
+      <text lang="ger">Spieler2</text>
+      <text lang="l11">玩家2</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz2</text>
     </string>
     <string id="53">
       <text lang="CHN">玩家3</text>
-      <text lang="ger">Spieler3</text>
       <text lang="eng">Player3</text>
+      <text lang="ger">Spieler3</text>
+      <text lang="l11">玩家3</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz3</text>
     </string>
   </strings>
@@ -61,16 +88,25 @@
       <lang code="CHN">
         <text>这张地图太难了吗？要不去玩一局九子棋吧。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Was the map too hard? Try a game of Nine Men's Morris.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 War die Karte zu schwer? Versuchs doch mal mit ner Runde Mühle.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Was the map too hard? Try a game of Nine Men's Morris.
-</text>
+      <lang code="l11">
+        <text>這張地圖太難了嗎？要不去玩一局九子棋吧。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -82,16 +118,25 @@ Mapa zbyt trudna? Spróbuj gry w młyna.
       <lang code="CHN">
         <text>任务失败！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission verloren!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission lost!
-</text>
+      <lang code="l11">
+        <text>任務失敗！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -103,16 +148,25 @@ Misja przegrana!
       <lang code="CHN">
         <text>摩洛哥已被摧毁。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Morocco has been destroyed.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Marokko ist vernichtet.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Morocco has been destroyed.
-</text>
+      <lang code="l11">
+        <text>摩洛哥已被摧毀。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -124,16 +178,25 @@ Maroko zostało zniszczone.
       <lang code="CHN">
         <text>达喀尔已被摧毁。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Dakar has been destroyed.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Dakar ist vernichtet.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Dakar has been destroyed.
-</text>
+      <lang code="l11">
+        <text>達喀爾已被摧毀。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -145,16 +208,25 @@ Dakar zostało zniszczone.
       <lang code="CHN">
         <text>玩家3已阵亡。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 has died.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 3 ist gestorben.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 3 has died.
-</text>
+      <lang code="l11">
+        <text>玩家3已陣亡。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -166,16 +238,25 @@ Gracz 3 zmarł.
       <lang code="CHN">
         <text>玩家3现在转为敌对。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now hostile.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 3 ist jetzt feindlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 3 is now hostile.
-</text>
+      <lang code="l11">
+        <text>玩家3現在轉為敵對。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -187,16 +268,25 @@ Gracz 3 jest teraz wrogi.
       <lang code="CHN">
         <text>玩家1现在转为友好。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now friendly.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist jetzt freundlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 is now friendly.
-</text>
+      <lang code="l11">
+        <text>玩家1現在轉為友好。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -208,16 +298,25 @@ Gracz 1 jest teraz przyjazny.
       <lang code="CHN">
         <text>玩家2现在转为友好。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now friendly.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt freundlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now friendly.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為友好。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -229,16 +328,25 @@ Gracz 2 jest teraz przyjazny.
       <lang code="CHN">
         <text>谢谢你们的武器。现在你们可以派商人来了。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Thank you for the weapons. You may now send your traders.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Danke für die Waffen. Ihr dürft nun eure Händler schicken.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Thank you for the weapons. You may now send your traders.
-</text>
+      <lang code="l11">
+        <text>謝謝你們的武器。現在你們可以派商人來了。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -250,16 +358,25 @@ Dziękujemy za broń. Możecie teraz wysyłać swoich handlarzy.
       <lang code="CHN">
         <text>玩家1现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家1現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -271,16 +388,25 @@ Gracz 1 jest teraz neutralny.
       <lang code="CHN">
         <text>玩家2现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -294,6 +420,13 @@ Gracz 2 jest teraz neutralny.
 站住，我们是坦克--非洲唯一真正统治者--的朋友，命令你们投降。否则我们就把你们屠戮殆尽。
 任务目标：消灭摩洛哥。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Morocco !!
+Halt, we, the friends of Tank, the one true ruler of Africa, order you to surrender. Otherwise we will butcher you.
+Mission goal: Destroy Morocco.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Marokko !!
@@ -302,12 +435,16 @@ Missionsziel: Vernichte Marokko.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Morocco !!
-Halt, we, the friends of Tank, the one true ruler of Africa, order you to surrender. Otherwise we will butcher you.
-Mission goal: Destroy Morocco.
-</text>
+      <lang code="l11">
+        <text>摩洛哥！！
+站住，我們是坦克--非洲唯一真正統治者--的朋友，命令你們投降。否則我們就把你們屠戮殆盡。
+任務目標：消滅摩洛哥。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -323,6 +460,13 @@ Cel misji: Zniszcz Maroko.
 站住，我们是坦克--非洲唯一真正的国王--的朋友，命令你们掉头返回，否则你们将被我们的军队消灭。
 任务目标：消灭达喀尔。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Dakar !!
+Halt, we, the friends of Tank, the one true king of Africa, order you to turn back, otherwise you will be annihilated by our troops.
+Mission goal: Destroy Dakar.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Dakar !!
@@ -331,12 +475,16 @@ Missionsziel: Vernichte Dakar.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Dakar !!
-Halt, we, the friends of Tank, the one true king of Africa, order you to turn back, otherwise you will be annihilated by our troops.
-Mission goal: Destroy Dakar.
-</text>
+      <lang code="l11">
+        <text>達喀爾！！
+站住，我們是坦克--非洲唯一真正的國王--的朋友，命令你們掉頭返回，否則你們將被我們的軍隊消滅。
+任務目標：消滅達喀爾。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -351,6 +499,12 @@ Cel misji: Zniszcz Dakar.
         <text>撒拉逊人！！
 我们是伊巴丹的族人，问候你们，尊贵的维京人。那个自称非洲之王的坦克在拿饥饿逼迫我们。可幸亏有我们的营养药水，我们才得以活命。我们乐意与你们并肩对抗坦克，可为此我们需要武器。有个提议：你们给我们武器，我们则回赠你们酿造营养药水的材料。也许我们甚至还能匀给你们几瓶大型营养药水。不过请先给我们缴一点微薄的贡品……</text>
       </lang>
+      <lang code="eng">
+        <text>
+Saracens !!
+We, the people of Ibadan, greet you, noble Vikings. Tank, who calls himself king of Africa, is starving us out. But thanks to our nourishing potions we manage to survive. We would gladly fight side by side with you against Tank, but we need weapons for it. A proposal: you give us weapons, and in return we give you ingredients so you can brew nourishing potions. We might even be able to spare you a few large nourishing potions. But first, pay us a small, modest tribute...
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Sarazenen !!
@@ -358,11 +512,15 @@ Wir das Volk von Ibadan, grüßen Euch edle Wickinger. Tank, der sich selbst Kö
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Saracens !!
-We, the people of Ibadan, greet you, noble Vikings. Tank, who calls himself king of Africa, is starving us out. But thanks to our nourishing potions we manage to survive. We would gladly fight side by side with you against Tank, but we need weapons for it. A proposal: you give us weapons, and in return we give you ingredients so you can brew nourishing potions. We might even be able to spare you a few large nourishing potions. But first, pay us a small, modest tribute...
-</text>
+      <lang code="l11">
+        <text>撒拉遜人！！
+我們是伊巴丹的族人，問候你們，尊貴的維京人。那個自稱非洲之王的坦克在拿飢餓逼迫我們。可幸虧有我們的營養藥水，我們才得以活命。我們樂意與你們並肩對抗坦克，可為此我們需要武器。有個提議：你們給我們武器，我們則回贈你們釀造營養藥水的材料。也許我們甚至還能勻給你們幾瓶大型營養藥水。不過請先給我們繳一點微薄的貢品……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -380,6 +538,16 @@ My, lud z Ibadan, pozdrawiamy was, szlachetni Wikingowie. Tank, który sam nazyw
 
 制作者：尤基</text>
       </lang>
+      <lang code="eng">
+        <text>
+Right upon arrival we were attacked near the coast by allies of the Saracen chieftain. For that reason we established our headquarters inland. However, there was no sign of Tank, the Saracen chieftain. We therefore had to push deeper into the heart of Africa. To make sure we had no enemies at our back, we decided to destroy all enemies located near the coast. Besides, we would face food problems later on. That is why we also decided to store 20 large nourishing potions. But since we found no gold, we had to check whether there were any traders nearby.
+Mission goal 1: Kill all peoples who are hostile towards you.
+Mission goal 2: Store 20 large nourishing potions.
+
+
+Created by: Yogi
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Schon bei der Ankunft wurden wir in Küstennähe von Verbündeten des Sarazenenhäuptlings angegriffen. Deshalb schlugen wir unser Hauptquartier im Landesinneren auf. Von Tank, dem Sarazenenhäuptling war jedoch nichts zu entdecken. Deshalb mußten wir tiefer in das Herz Afrikas vordringen. Damit wir keine Feinde im Rücken hatten, beschlossen wir sämtliche Feinde die sich in Küstennähe befanden zu vernichten. Außerdem würden wir später Nahrungsprobleme bekommen. Deshalb beschlossen wir ebenfalls 20 große Nahrungstränke einzulagern. Da wir aber kein Gold fanden, mußten wir schauen, ob es hier in der Nähe Händler gab.
@@ -391,15 +559,19 @@ Erstellt von: Yogi
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Right upon arrival we were attacked near the coast by allies of the Saracen chieftain. For that reason we established our headquarters inland. However, there was no sign of Tank, the Saracen chieftain. We therefore had to push deeper into the heart of Africa. To make sure we had no enemies at our back, we decided to destroy all enemies located near the coast. Besides, we would face food problems later on. That is why we also decided to store 20 large nourishing potions. But since we found no gold, we had to check whether there were any traders nearby.
-Mission goal 1: Kill all peoples who are hostile towards you.
-Mission goal 2: Store 20 large nourishing potions.
+      <lang code="l11">
+        <text>我們一登陸，就在近岸處遭到撒拉遜酋長盟友的襲擊。因此我們把大本營紮在了內陸。可撒拉遜酋長坦克卻蹤影全無。於是我們只得更深入地向非洲腹地挺進。為了不讓敵人留在身後，我們決定把近岸處的所有敵人統統消滅。此外我們日後還會遇到糧食問題。因此我們同樣決定儲備20瓶大型營養藥水。可我們找不到黃金，只得四處檢視這附近是否有商人。
+任務目標1：殺死所有對你懷有敵意的族群。
+任務目標2：儲備20瓶大型營養藥水。
 
 
-Created by: Yogi
-</text>
+製作者：尤基</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -416,16 +588,25 @@ Stworzone przez: Yogi
       <lang code="CHN">
         <text>西北非洲</text>
       </lang>
+      <lang code="eng">
+        <text>
+Northwest Africa
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Nordwestafrika
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Northwest Africa
-</text>
+      <lang code="l11">
+        <text>西北非洲</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -437,16 +618,25 @@ Afryka Północno-Zachodnia
       <lang code="CHN">
         <text>我们取得了胜利。敌人已被消灭，所需的营养药水也多亏南方的撒拉逊人得以储备。顶着炽热的沙漠骄阳，我们继续朝非洲腹地进军，只为最终向撒拉逊酋长坦克复仇……</text>
       </lang>
+      <lang code="eng">
+        <text>
+We had triumphed. The enemies were destroyed, and the nourishing potions we needed had been stored thanks to the Saracens in the south. Beneath the scorching desert sun we marched further inland, to finally take our revenge on Tank, the Saracen chieftain...
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Wir hatten gesiegt. Die Feinde waren vernichtet, und die benötigten Nahrungstränke waren Dank der Sarazenen im Süden eingelagert. Durch die heiße Wüstensonne marschierten wir weiter ins Landesinnere Afrikas, um uns endlich an Tank, dem Sarazenenhäuptling zu rächen...
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-We had triumphed. The enemies were destroyed, and the nourishing potions we needed had been stored thanks to the Saracens in the south. Beneath the scorching desert sun we marched further inland, to finally take our revenge on Tank, the Saracen chieftain...
-</text>
+      <lang code="l11">
+        <text>我們取得了勝利。敵人已被消滅，所需的營養藥水也多虧南方的撒拉遜人得以儲備。頂著熾熱的沙漠驕陽，我們繼續朝非洲腹地進軍，只為最終向撒拉遜酋長坦克復仇……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -458,16 +648,25 @@ Zwyciężyliśmy. Wrogowie zostali zniszczeni, a potrzebne mikstury pożywienia 
       <lang code="CHN">
         <text>任务达成！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission gewonnen!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission won!
-</text>
+      <lang code="l11">
+        <text>任務達成！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

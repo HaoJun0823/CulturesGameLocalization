@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,36 +14,54 @@
       <text lang="CHN">抵达村庄。</text>
       <text lang="eng">Reach the village.</text>
       <text lang="ger">Erreiche das Dorf.</text>
+      <text lang="l11">抵達村莊。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Udaj się do wioski.</text>
     </string>
     <string id="1">
       <text lang="CHN">与德鲁伊交谈。</text>
       <text lang="eng">Talk to the druid.</text>
       <text lang="ger">Spreche mit dem Druiden.</text>
+      <text lang="l11">與德魯伊交談。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Porozmawiaj z druidem.</text>
     </string>
     <string id="2">
       <text lang="CHN">前往造船匠处。</text>
       <text lang="eng">Go to the shipbuilder.</text>
       <text lang="ger">Gehe zum Bootsbauer.</text>
+      <text lang="l11">前往造船匠處。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Udaj się do budowniczego okrętów.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳所需的贡金。</text>
       <text lang="eng">Pay the demanded tribute.</text>
       <text lang="ger">Zahle den gewünschten Tribut.</text>
+      <text lang="l11">繳納所需的貢金。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać żądaną kwotę.</text>
     </string>
     <string id="4">
       <text lang="CHN">寻得诺恩三女神。</text>
       <text lang="eng">Find the Norns.</text>
       <text lang="ger">Finde die Nornen.</text>
+      <text lang="l11">尋得諾恩三女神。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Odszukaj Norny.</text>
     </string>
     <string id="5">
       <text lang="CHN">支付 30 单位蜂蜜酒与 20 块金矿。</text>
       <text lang="eng">Pay 30 mead and 20 pieces of gold.</text>
       <text lang="ger">Bezahle 30 Met und 20 Goldbrocken.</text>
+      <text lang="l11">支付 30 單位蜂蜜酒與 20 塊金礦。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać 30 dzbanów miodu i 20 sztuk złota.</text>
     </string>
   </strings>
@@ -49,6 +70,9 @@
       <lang code="CHN" />
       <lang code="eng" />
       <lang code="ger" />
+      <lang code="l11" />
+      <lang code="l12" />
+      <lang code="l13" />
       <lang code="pol" />
     </block>
     <block id="kampfsieg">
@@ -72,6 +96,19 @@ Der Sieg war unser! Wir hatten es geschafft alle drei Völker zu besiegen und un
 
 Warte im Dorf auf die Karawane.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+勝利屬於我們！我們終將三族盡數擊敗，由此闢出穿越沙漠之路。
+
+在村莊等候商隊。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -115,6 +152,31 @@ MISSION VERLOREN!
 Wir hatten es nicht geschafft, die Anführer sicher über den Fluss zu bringen. Kaum hatten wir zwei von ihnen alleine gelassen, so griffen sie sich gegenseitig an. Die Friedensgespräche waren gescheitert. Sicher würde man uns dafür verantwortlich machen. .
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+我們未能將首領們安然送過河。剛留其二獨處，他們便互相攻伐。和談告吹。必有人要我等為此負責。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -151,6 +213,20 @@ Wir konnten jeweils nur eine Partei mit unseren Boot übersetzen, dabei mussten 
 
 Bringe die Anführer der Völker zu der anderen Seite des Flusses, ohne dass sie sich gegenseitig etwas antun.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+我們當真說動了三族首領來議和。如今只需將他們送過河對岸，且莫讓他們彼此加害--這卻非易事，他們本就勢同水火。
+我們每次只能以船載一族渡河，若將其二留於任一岸獨處，須防他們互攻。拜占庭人敵視撒拉遜人，撒拉遜人又與法蘭克人交戰，唯拜占庭人與法蘭克人彼此中立。
+
+將各族首領送至河對岸，且莫令他們互相加害。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -202,6 +278,33 @@ Wir hatten es geschafft, die Friedensverhandlungen waren erfolgreich. Die Anfüh
 
 Warte im Dorf auf die Karawane.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務成功！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+我們做到了，和談成功。三族首領達成停戰。它能維持多久雖未可知，但足以讓商隊啟程。
+
+在村莊等候商隊。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>

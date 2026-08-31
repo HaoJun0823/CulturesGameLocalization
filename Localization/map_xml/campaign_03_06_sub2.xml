@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,66 +14,99 @@
       <text lang="CHN">@抵达圣物！</text>
       <text lang="eng">@GET TO THE ARTEFACT!</text>
       <text lang="ger">@GELANGE ZUM ARTEFAKT!</text>
+      <text lang="l11">@抵達聖物！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">@ZDOBĄDŹ ARTEFAKT!</text>
     </string>
     <string id="53">
       <text lang="CHN">埃利斯人</text>
       <text lang="eng">Elisians</text>
       <text lang="ger">Eliser</text>
+      <text lang="l11">埃利斯人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Eleiczycy</text>
     </string>
     <string id="63">
       <text lang="CHN">埃利斯人</text>
       <text lang="eng">Elisians</text>
       <text lang="ger">Eliser</text>
+      <text lang="l11">埃利斯人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Eleiczycy</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="l11">希拉</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
       <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
+      <text lang="l11">哈奇</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hatchie</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="l11">西格德</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">诺伯特</text>
       <text lang="eng">Norbert</text>
       <text lang="ger">Norbert</text>
+      <text lang="l11">諾伯特</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Norbert</text>
     </string>
     <string id="76">
       <text lang="CHN">玛尼</text>
       <text lang="eng">Mani</text>
       <text lang="ger">Mani</text>
+      <text lang="l11">瑪尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mani</text>
     </string>
     <string id="79">
       <text lang="CHN">埃利斯人</text>
       <text lang="eng">Elisians</text>
       <text lang="ger">Eliser</text>
+      <text lang="l11">埃利斯人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Eleiczycy</text>
     </string>
     <string id="99">
       <text lang="CHN">火海</text>
       <text lang="eng">THE SEA OF FLAMES</text>
       <text lang="ger">DAS FLAMMENMEER</text>
+      <text lang="l11">火海</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">MORZE PŁOMIENI</text>
     </string>
   </strings>
@@ -107,6 +143,25 @@ Eine unwirtliche Gegend verbarg sich unter der Kaserne. Dies waren die ehemalige
 Aber wie musste sich dieser Ort verändert haben! Sie schienen ihre Stadt auf einem Vulkan errichtet zu haben.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+兵營之下，藏著一片荒涼之地。此乃斯巴達人昔日的地窖！
+        </text>
+        <usericon>1,108,35</usericon>
+        <text>
+但這地方變得何等面目全非！他們似乎把城建在了一座火山上。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,108,35</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,108,35</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Pod koszarami otwiera się niegościnny obszar. Była to dawna piwnica Spartan!
@@ -138,6 +193,21 @@ Reach the artefact. Beware of fire-spewing rockfaces!
         <text> 
 Gelange zum Artefakt. Pass auf feuerspeiende Felswände auf! 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+抵達聖物之處。當心吐火的巖壁！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -193,6 +263,37 @@ KELLERWÄCHTER
 Die Schalter, die früher mal die Tore zu den Lagern öffneten, sind eingerostet, bis auf einen. Doch was soll ich Fliegengewicht da schon ausrichten..."
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+地窖守衛
+
+"往日這些庫房充盈，今卻裂隙橫生，火焰四竄。通庫之門，盡皆堵塞。
+
+
+        
+        </text>
+        <usericon>1,100,55</usericon>
+        <text>
+
+
+
+昔日開啟庫門的機關，已鏽死殆盡，僅餘其一。然我這般輕體重，又能有何作為……"
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,100,55</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,100,55</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 PIWNICZNA STRAŻ
@@ -233,6 +334,23 @@ VORSICHT!
 Die Flammen haben schon so manchen Helden sein Leben gekostet!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+當心！
+
+火焰已奪去不知多少英雄性命！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 UWAGA!
@@ -266,6 +384,23 @@ FLAMMEN GELÖSCHT!
 
 Gemeinsam hatten wir es geschafft, den Schalter zu betätigen, aber er öffnete keine Tür! Ein starker Luftzug durchströmte die Hallen und blies die blockierenden Flammen für eine gewisse Zeit aus.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+火焰已熄！
+
+我們合力扳動機關，然它不開門！一股強風穿堂而過，將阻路之火暫吹滅。
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -305,6 +440,27 @@ SCHALTER BETÄTIGT
 Zwar schafften wir es, den Schalter zu betätigen, aber es zeigte sich dadurch keinerlei Wirkung.
 
 </text>
+        <usericon>1,90,70</usericon>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+機關已動
+
+我們雖扳動機關，卻不見任何效應。
+
+
+        
+        </text>
+        <usericon>1,90,70</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,90,70</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
         <usericon>1,90,70</usericon>
       </lang>
       <lang code="pol">
@@ -349,6 +505,27 @@ Dieser Schalter zeigte keine Wirkung. Vielleicht war die Kraft eines Einzelnen n
 </text>
         <usericon>1,85,50</usericon>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+機關
+
+此機關毫無效應。或許一人之力尚不充足……
+
+
+        
+        </text>
+        <usericon>1,85,50</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,85,50</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,85,50</usericon>
+      </lang>
       <lang code="pol">
         <text> 
 PRZEŁĄCZNIK
@@ -389,6 +566,27 @@ SCHALTER
 Zwar schafften wir es, den Schalter zu betätigen, aber es zeigte sich dadurch keinerlei Wirkung.
 
 </text>
+        <usericon>1,111,65</usericon>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+機關
+
+我們雖扳動機關，卻不見任何效應。
+
+
+        
+        </text>
+        <usericon>1,111,65</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,111,65</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
         <usericon>1,111,65</usericon>
       </lang>
       <lang code="pol">
@@ -440,6 +638,35 @@ MISSION VERLOREN!
 So ein Pech! Der ELISER starb in den Flammen.
 Die Mission war gescheitert.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+
+
+真不走運！埃利斯人葬身火海。
+任務敗矣。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -493,6 +720,37 @@ MISSION VERLOREN!
 Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+英雄氣概，還是魯莽？當比雅尼殞命，眾神落淚……失此英雄，你便無緣得見任務終局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -544,6 +802,37 @@ MISSION VERLOREN!
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時疏忽，人生便急轉直下！你的女英雄希拉因你大意而殞命！失此英雄，你便無緣得見任務終局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -597,6 +886,37 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held SIGURD erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時疏忽，人生便急轉直下！你的摯友與英雄西格德因你大意而殞命！失此英雄，你便無緣得見任務終局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -649,6 +969,37 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時疏忽，人生便急轉直下！你的摯友與英雄--巨龍諾伯特--因你大意而殞命！失此英雄，你便無緣得見任務終局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -687,6 +1038,23 @@ Das wäre geschafft! Endlich hielten wir das Artefakt in unseren Händen und kon
 Und wir wollten auch keine Minute länger verweilen!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+大功告成！我們終將聖物握於手中，得以離開火海。
+
+我們一刻也不願多留！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Dokonaliśmy tego! Ostatecznie trzymamy artefakt w rękach i możemy opuścić Morze Płomieni. 
@@ -703,6 +1071,15 @@ I nie chcemy zostać tu ani minuty dłużej!
         <usericon>1,136,102</usericon>
       </lang>
       <lang code="ger">
+        <usericon>1,136,102</usericon>
+      </lang>
+      <lang code="l11">
+        <usericon>1,136,102</usericon>
+      </lang>
+      <lang code="l12">
+        <usericon>1,136,102</usericon>
+      </lang>
+      <lang code="l13">
         <usericon>1,136,102</usericon>
       </lang>
       <lang code="pol">
@@ -728,6 +1105,21 @@ MISSION COMPLETED!
         <text> 
 MISSION GEWONNEN! 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+任務成功！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -775,6 +1167,37 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時疏忽，人生便急轉直下！瑪尼--比雅尼與希拉之子--因你大意而殞命！失此英雄，你便無緣得見任務終局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -806,6 +1229,21 @@ THE SEA OF FLAMES
         <text> 
 DAS FLAMMENMEER
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+火海
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 

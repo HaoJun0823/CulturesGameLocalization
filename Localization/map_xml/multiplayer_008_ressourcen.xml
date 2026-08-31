@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,66 +14,99 @@
       <text lang="CHN">经济：熔岩之地</text>
       <text lang="eng">Economy: LAVA LAND</text>
       <text lang="ger">Wirtschaft: LAVALAND</text>
+      <text lang="l11">經濟：熔岩之地</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ekonomia: KRAINA LAWY</text>
     </string>
     <string id="1">
       <text lang="CHN">4 个维京部族在火山岛上安了家。你可施展外交与贸易！</text>
       <text lang="eng">4 Viking tribes have settled on a volcanic island. You can create diplomatic ties and trade!</text>
       <text lang="ger">4 Wikingerstämme haben sich auf einer Vulkaninsel niedergelassen. Du kannst Diplomatie und Handel betreiben!</text>
+      <text lang="l11">4 個維京部族在火山島上安了家。你可施展外交與貿易！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Na tej wulkanicznej wysepce osiedliły się 4 wikińskie plemiona, a od ciebie zależy, jak się ułożą ich stosunki sąsiedzkie i handlowe.</text>
     </string>
     <string id="2">
       <text lang="CHN">积攒木材与黏土各 75，外加石料、铁、金各 150。运进你的任一仓库。但须当心火山谷中的火舌--即便短暂接触也往往致命！</text>
       <text lang="eng">Procure 75 units each of wood and clay, and 150 of stone, iron and gold. Take them to your warehouse. Watch out for the flames in the volcanic valley, even a very short contact is often lethal!</text>
       <text lang="ger">Erwirtschafte je 75 Holz und Lehm, außerdem je 150 Stein, Eisen und Gold. Bringe sie in eines deiner Lager. Aber achte auf die Feuerflammen im Vulkantal, selbst bei kurzem Kontakt wirken sie oft tödlich!</text>
+      <text lang="l11">積攢木材與黏土各 75，外加石料、鐵、金各 150。運進你的任一倉庫。但須當心火山谷中的火舌--即便短暫接觸也往往致命！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zgromadź 150 jednostek kamienia, żelaza i złota oraz 75 drewna i gliny, uważaj jednak na śmiercionośne płomienie wulkanicznej doliny.</text>
     </string>
     <string id="10">
       <text lang="CHN">格陵兰人</text>
       <text lang="eng">Greenlander</text>
       <text lang="ger">Grünländer</text>
+      <text lang="l11">格陵蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Grenlandczyk</text>
     </string>
     <string id="11">
       <text lang="CHN">格陵兰人</text>
       <text lang="eng">Greenlander</text>
       <text lang="ger">Grünländer</text>
+      <text lang="l11">格陵蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Grenlandczyk</text>
     </string>
     <string id="20">
       <text lang="CHN">文兰人</text>
       <text lang="eng">Vinlander</text>
       <text lang="ger">Vinländer</text>
+      <text lang="l11">文蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Winlandczyk</text>
     </string>
     <string id="21">
       <text lang="CHN">文兰人</text>
       <text lang="eng">Vinlander</text>
       <text lang="ger">Vinländer</text>
+      <text lang="l11">文蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Winlandczyk</text>
     </string>
     <string id="30">
       <text lang="CHN">海卢兰人</text>
       <text lang="eng">Hellulander</text>
       <text lang="ger">Helluländer</text>
+      <text lang="l11">海盧蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hellulandczyk</text>
     </string>
     <string id="31">
       <text lang="CHN">海卢兰人</text>
       <text lang="eng">Hellulander</text>
       <text lang="ger">Helluländer</text>
+      <text lang="l11">海盧蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hellulandczyk</text>
     </string>
     <string id="40">
       <text lang="CHN">马克兰人</text>
       <text lang="eng">Marklander</text>
       <text lang="ger">Markländer</text>
+      <text lang="l11">馬克蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Marklandczyk</text>
     </string>
     <string id="41">
       <text lang="CHN">马克兰人</text>
       <text lang="eng">Marklander</text>
       <text lang="ger">Markländer</text>
+      <text lang="l11">馬克蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Marklandczyk</text>
     </string>
   </strings>
@@ -103,6 +139,21 @@ Die Wikingerstämme leben friedlich nebeneinander her und sammeln ihre Ressource
 Sammle Ressourcen und behalte den Vulkan im Auge. Wer weiß, welche Gefahren dort lauern!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+維京人在一座火山島上落了腳。
+
+各部族比鄰而居、和平共處，一同採集資源……
+
+採集資源，同時盯緊火山。誰知道它何時會醒？
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 Wikingowie osiedlili się na wulkanicznej wyspie. Miejsca starczy dla wszystkich i jedynym zagrożeniem jest ewentualna erupcja wulkanu...
@@ -132,6 +183,17 @@ LAVA LAND
 LAVALAND
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+熔岩之地
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,66 +14,99 @@
       <text lang="CHN">自由世界</text>
       <text lang="eng">FREE WORLD</text>
       <text lang="ger">FREIE WELT</text>
+      <text lang="l11">自由世界</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">PUSTA KRAINA</text>
     </string>
     <string id="1">
       <text lang="CHN">辽阔的疆域向你敞开，邀你在此定居。</text>
       <text lang="eng">A vast realm invites you to settle there.</text>
       <text lang="ger">Ein großes Reich lädt zum siedeln ein.</text>
+      <text lang="l11">遼闊的疆域向你敞開，邀你在此定居。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Przed twoimi oczami rozpościera się wielka, pusta kraina.</text>
     </string>
     <string id="2">
       <text lang="CHN">尽情游玩，不设目标，想玩多久就玩多久……</text>
       <text lang="eng">Play without objectives for as long as you like ...</text>
       <text lang="ger">Spielen ohne Ziel. Solange man Spaß hat...</text>
+      <text lang="l11">盡情遊玩，不設目標，想玩多久就玩多久……</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Graj tak długo jak chcesz, bez żadnych celów i wymagań.</text>
     </string>
     <string id="10">
       <text lang="CHN">奥伯基尔希</text>
       <text lang="eng">Oberkircher</text>
       <text lang="ger">Oberkircher</text>
+      <text lang="l11">奧伯基爾希</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Oberkirchczyk</text>
     </string>
     <string id="11">
       <text lang="CHN">奥伯基尔希</text>
       <text lang="eng">Oberkircher</text>
       <text lang="ger">Oberkircher</text>
+      <text lang="l11">奧伯基爾希</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Oberkirchczyk</text>
     </string>
     <string id="20">
       <text lang="CHN">米尔海姆人</text>
       <text lang="eng">Muelheimer</text>
       <text lang="ger">Mülheimer</text>
+      <text lang="l11">米爾海姆人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Muelheimczyk</text>
     </string>
     <string id="21">
       <text lang="CHN">米尔海姆人</text>
       <text lang="eng">Muelheimer</text>
       <text lang="ger">Mülheimer</text>
+      <text lang="l11">米爾海姆人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Muelheimczyk</text>
     </string>
     <string id="30">
       <text lang="CHN">拉廷根</text>
       <text lang="eng">Ratinger</text>
       <text lang="ger">Ratinger</text>
+      <text lang="l11">拉廷根</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ratyzbończyk</text>
     </string>
     <string id="31">
       <text lang="CHN">拉廷根</text>
       <text lang="eng">Ratinger</text>
       <text lang="ger">Ratinger</text>
+      <text lang="l11">拉廷根</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ratyzbończyk</text>
     </string>
     <string id="40">
       <text lang="CHN">莱茵兰人</text>
       <text lang="eng">Rheinlaender</text>
       <text lang="ger">Rheinländer</text>
+      <text lang="l11">萊茵蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Renlandczyk</text>
     </string>
     <string id="41">
       <text lang="CHN">莱茵兰人</text>
       <text lang="eng">Rheinlaender</text>
       <text lang="ger">Rheinländer</text>
+      <text lang="l11">萊茵蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Renlandczyk</text>
     </string>
   </strings>
@@ -98,6 +134,19 @@ Ein großes Reich lädt zum Siedeln ein.
 
 Spielen Sie, wie es Ihnen gefällt. Kein Ziel, keine Aufgabe...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+遼闊的疆域向你敞開，邀你定居於此。
+
+隨性遊玩，不設目標，沒有任務……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -131,6 +180,21 @@ FREE WORLD
 FREIE WELT
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+自由世界
+
+
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

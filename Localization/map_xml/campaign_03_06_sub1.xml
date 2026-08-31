@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,36 +14,54 @@
       <text lang="CHN">@在竞技中击败长跑者！</text>
       <text lang="eng">@DEFEAT THE RUNNER IN A RACE!</text>
       <text lang="ger">@BESIEGE DEN LÄUFER IM WETTKAMPF!</text>
+      <text lang="l11">@在競技中擊敗長跑者！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">@POKONAJ BIEGACZA W WYŚCIGU!</text>
     </string>
     <string id="53">
       <text lang="CHN">伊利斯的长跑者</text>
       <text lang="eng">Runner of Elis</text>
       <text lang="ger">Der Läufer von Elis</text>
+      <text lang="l11">伊利斯的長跑者</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Biegacz Elei </text>
     </string>
     <string id="63">
       <text lang="CHN">赛跑者</text>
       <text lang="eng">Runner</text>
       <text lang="ger">Läufer</text>
+      <text lang="l11">賽跑者</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Biegacz</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="l11">西格德</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Sigurd</text>
     </string>
     <string id="77">
       <text lang="CHN">赛跑者</text>
       <text lang="eng">Runner</text>
       <text lang="ger">Läufer</text>
+      <text lang="l11">賽跑者</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Biegacz</text>
     </string>
     <string id="99">
       <text lang="CHN">竞技之争</text>
       <text lang="eng">THE COMPETITION</text>
       <text lang="ger">DER WETTSTREIT</text>
+      <text lang="l11">競技之爭</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">ZAWODY</text>
     </string>
   </strings>
@@ -83,6 +104,31 @@ Der Läufer von Elis war in Bestform, und es würde nicht einfach für Sigurd we
 Trotzdem - er musste es versuchen, denn würde er den Kampf gewinnen, wäre uns die Unterstützung der Olympianer und der Eliser sicher...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+埃利斯賽跑者狀態正佳，西格德要勝過他，絕非易事！
+
+
+        </text>
+        <usericon>1,22,119</usericon>
+        <text>
+
+
+然他必須一試，因若勝此賽，奧林匹亞人與埃利斯人之助便穩了……
+
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,22,119</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,22,119</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Biegacz Elei jest w dobrej formie i nie będzie łatwo Sigurdowi pokonać go w tej konkurencji! 
@@ -112,6 +158,19 @@ Defeat the runner in the competition!
         <text> 
 Besiege den Läufer im Wettkampf!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+於競速中擊敗賽跑者！
+
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -151,6 +210,30 @@ MISSION VERLOREN!
         <text>
 Der Läufer ist gestorben! Dies ist keine faire Art, einen Wettkampf zu entscheiden!
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+
+賽跑者殞命！這可不是裁定勝負的正當之法！
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -217,6 +300,43 @@ So ein Pech! Der Läufer war eindeutig schneller als dein Freund und Held Sigurd
 Versuch es ein weiteres Mal!
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+
+真不走運！賽跑者分明快過你的摯友與英雄西格德。
+
+
+        </text>
+        <usericon>2,7</usericon>
+        <text>
+
+
+再試一回！
+
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+        <usericon>2,7</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+        <usericon>2,7</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -272,6 +392,31 @@ Gratulation! Das hätte man dem Sigurd gar nicht zugetraut!
 Doch sein Sportsgeist und Willen war außerordentlich stark und so war es ihm möglich, den Läufer von Elis zu besiegen!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+恭喜！這誰能料到西格德竟能做到！
+
+
+        </text>
+        <usericon>2,4</usericon>
+        <text>
+
+
+然他體育精神與意志極是堅卓，終得擊敗埃利斯賽跑者！
+
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,4</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,4</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Gratulacje! Nikt nie wierzył, że Sigurd potrafi wygrać! 
@@ -288,6 +433,9 @@ Ale jego umiejętności sportowe oraz ambicja były tak silne, że zdołał poko
       <lang code="CHN" />
       <lang code="eng" />
       <lang code="ger" />
+      <lang code="l11" />
+      <lang code="l12" />
+      <lang code="l13" />
       <lang code="pol" />
     </block>
     <block id="50_endheader">
@@ -307,6 +455,19 @@ MISSION COMPLETED!
         <text> 
 MISSION GEWONNEN! 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+任務成功！
+
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -331,6 +492,19 @@ THE COMPETITION
         <text> 
 DER WETTKAMPF
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+競速之賽
+
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 

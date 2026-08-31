@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,66 +14,99 @@
       <text lang="CHN">简短说明 0</text>
       <text lang="eng">Shortdescription 0</text>
       <text lang="ger">Shortdescription 0</text>
+      <text lang="l11">簡短說明 0</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Krótkiopis 0</text>
     </string>
     <string id="1">
       <text lang="CHN">简短说明 1</text>
       <text lang="eng">Shortdescription 1</text>
       <text lang="ger">Shortdescription 1</text>
+      <text lang="l11">簡短說明 1</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Krótkiopis 1</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家</text>
       <text lang="eng">Player</text>
       <text lang="ger">Spieler</text>
+      <text lang="l11">玩家</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz</text>
     </string>
     <string id="51">
       <text lang="CHN">德米特里奥斯</text>
       <text lang="eng">Demetrios</text>
       <text lang="ger">Demetrios</text>
+      <text lang="l11">德米特里奧斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Demetrios</text>
     </string>
     <string id="60">
       <text lang="CHN">玩家</text>
       <text lang="eng">Player</text>
       <text lang="ger">Spieler</text>
+      <text lang="l11">玩家</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz</text>
     </string>
     <string id="61">
       <text lang="CHN">德梅</text>
       <text lang="eng">Demet</text>
       <text lang="ger">Demet</text>
+      <text lang="l11">德梅</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Demet</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="78">
       <text lang="CHN">古纳尔</text>
       <text lang="eng">Gunnar</text>
       <text lang="ger">Gunnar</text>
+      <text lang="l11">古納爾</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gunnar</text>
     </string>
     <string id="98">
       <text lang="CHN">巨像密道</text>
       <text lang="eng">COLOSSUS - SECRET PASSAGE</text>
       <text lang="ger">KOLOSS-GEHEIMGANG</text>
+      <text lang="l11">巨像密道</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">KOLOS - SEKRETNE PRZEJŚCIE</text>
     </string>
     <string id="99">
       <text lang="CHN">巨像密道</text>
       <text lang="eng">COLOSSUS - SECRET PASSAGE</text>
       <text lang="ger">KOLOSS-GEHEIMGANG</text>
+      <text lang="l11">巨像密道</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">KOLOS - SEKRETNE PRZEJŚCIE</text>
     </string>
     <string id="100">
       <text lang="CHN">将满载蜂蜜酒的推车运至隧道出口。已完全装满！</text>
       <text lang="eng">Take the cart full of mead to the exit of the tunnel. Make sure it is completely full!</text>
       <text lang="ger">Bring den Karren mit dem Met heil zum Ausgang des Tunnels. Komplett gefüllt!</text>
+      <text lang="l11">將滿載蜂蜜酒的推車運至隧道出口。已完全裝滿！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zabierz wóz pełen miodu do wyjścia z tunelu. Upenij się, że wóz jest pełen!</text>
     </string>
   </strings>
@@ -116,6 +152,28 @@ Lass also die Finger vom Met! Der ist nicht für dich bestimmt!
 Viel Glück!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+把這車蜜酒安全送到出口。士兵們負責護送，抵禦隧道中可能出現的敵人。
+        </text>
+        <usericon>1,91,129</usericon>
+        <text>
+記住：到達出口時，車必須是滿的！
+所以別偷喝蜜酒！那不是給你的！
+
+祝你好運！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,91,129</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,91,129</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Zabierz wóz pełen miodu do wyjścia, powinno wciąż być niezniszczone. Żołnierze będą cię eskortować i chronić przed potencjalnymi wrogami w tunelach.
@@ -150,6 +208,20 @@ WELL DONE!
 GUT GEMACHT! 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+幹得漂亮！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 DOBRA ROBOTA! 
@@ -180,6 +252,22 @@ Du hast den Karren mit den 10 Flaschen Met heil durch den unterirdischen Gang ge
 
 Warte draußen, bis Metros zu dir kommt.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+你將那輛載有 10 瓶蜜酒的手推車安然送過密道。
+
+在外等候，直至梅特羅斯前來與你接頭。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -219,6 +307,24 @@ Diese seltsamen Nebel hatten offensichtlich eine heilende Wirkung!
 
 Man musste sich nur wenige Sekunden darin aufhalten, schon wurden alle Wunden geheilt!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+治癒之霧
+
+這些奇異的霧氣顯然有療愈之效。
+
+只需在其間駐足片刻，傷勢便迅速痊癒。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -270,6 +376,37 @@ MISSION VERLOREN!
 Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+是英勇還是魯莽？當比雅尼倒下時，眾神為之落淚……失去這位英雄，你將無緣見到任務的結局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -307,6 +444,22 @@ MISSION GESCHEITERT
 Der Wagen mit dem Met wurde zerstört! Dein Auftrag ist gescheitert!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+任務受挫
+
+載蜜酒的車被毀了！你的任務宣告失敗。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 ZADANIE NIEWYKONANE!
@@ -341,6 +494,22 @@ VERSTÄRKUNG
 Petros schickt dir noch ein paar Männer als Verstärkung. 
 Mehr Hilfe kann er dir allerdings nicht mehr anbieten...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+增援
+
+佩特羅斯又派來幾名部下作為增援。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -390,6 +559,37 @@ MISSION VERLOREN!
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時的疏忽，人生便會急轉直下！你的女英雄希拉因你的大意而喪命！失去這位英雄，你將無緣見到任務的結局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -443,6 +643,37 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held HATSCHI erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時的疏忽，人生便會急轉直下！你的摯友與英雄哈奇因你的大意而喪命！失去這位英雄，你將無緣見到任務的結局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -494,6 +725,37 @@ MISSION VERLOREN!
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held SIGURD erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時的疏忽，人生便會急轉直下！你的摯友與英雄西格德因你的大意而喪命！失去這位英雄，你將無緣見到任務的結局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -553,6 +815,39 @@ Obwohl man dich gewarnt hatte, hast du deine besten Freunde angegriffen!
 So wirst du deine Mission nicht beenden können!
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+
+
+儘管已有人警告於你，你竟攻擊了自己最好的朋友！
+
+如此你將無法完成使命！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -585,6 +880,20 @@ THE SECRET PASSAGE
         <text> 
 DER GEHEIMGANG
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+密道
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 

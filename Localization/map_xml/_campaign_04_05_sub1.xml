@@ -1,59 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="_campaign_04_05_sub1" export_map_id="_campaign_04_05_sub1" map_md5="cb941502a67432913f1c928ab467a52f" IsC2M="false">
+<localization version="1.3" map_id="_campaign_04_05_sub1" export_map_id="_campaign_04_05_sub1" map_md5="cb941502a67432913f1c928ab467a52f" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="53">
       <text lang="CHN">阿夸斯--水龙</text>
-      <text lang="ger">Aquas - Wasserdrachen</text>
       <text lang="eng">Aquas - Water Dragons</text>
+      <text lang="ger">Aquas - Wasserdrachen</text>
+      <text lang="l11">阿誇斯--水龍</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Aquas - Smoki Wodne</text>
     </string>
     <string id="63">
       <text lang="CHN">阿夸斯</text>
-      <text lang="ger">Aquas</text>
       <text lang="eng">Aquas</text>
+      <text lang="ger">Aquas</text>
+      <text lang="l11">阿誇斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Aquas</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
-      <text lang="ger">Bjarni</text>
       <text lang="eng">Bjarni</text>
+      <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="73">
       <text lang="CHN">阿夸罗姆</text>
-      <text lang="ger">Aquarom</text>
       <text lang="eng">Aquarom</text>
+      <text lang="ger">Aquarom</text>
+      <text lang="l11">阿誇羅姆</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Aquarom</text>
     </string>
     <string id="99">
       <text lang="CHN">海底</text>
-      <text lang="ger">UNTER DEM MEER</text>
       <text lang="eng">BENEATH THE SEA</text>
+      <text lang="ger">UNTER DEM MEER</text>
+      <text lang="l11">海底</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">POD MORZEM</text>
     </string>
   </strings>
   <briefings>
     <block id="00_start">
       <lang code="CHN">
-                <text>
+        <text>
 "什么？海面上的情形竟已糟糕至此？带上我十条最精锐的龙吧，我继续训练新的。"阿夸罗姆说道。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+"What? It is that bad above the sea? Take 10 of my best dragons, while I train more." said Aquarom.
+</text>
       </lang>
       <lang code="ger">
         <text> 
 "Was? Es ist so schlimm oberhalb des Meeres? Nehmt 10 meiner besten Drachen, während ich weitere trainiere." sprach Aquarom.
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-"What? It is that bad above the sea? Take 10 of my best dragons, while I train more." said Aquarom.
-</text>
+"什麼？海面上的情形竟已糟糕至此？帶上我十條最精銳的龍吧，我繼續訓練新的。"阿誇羅姆說道。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -63,19 +92,30 @@
     </block>
     <block id="00_start1">
       <lang code="CHN">
-                <text>
+        <text>
 在你们的领导下，我们才有希望！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Under your leadership, we have a chance!"
+</text>
       </lang>
       <lang code="ger">
         <text>
 Unter eurer Führung haben wir eine Chance!" 
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-Under your leadership, we have a chance!"
-</text>
+在你們的領導下，我們才有希望！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -85,19 +125,30 @@ Pod waszym przywództwem mamy szansę!"
     </block>
     <block id="header">
       <lang code="CHN">
-                <text>
+        <text>
 海底
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+UNDER THE SEA
+</text>
       </lang>
       <lang code="ger">
         <text> 
 UNTER DEM MEER
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-UNDER THE SEA
-</text>
+海底
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

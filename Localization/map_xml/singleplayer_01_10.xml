@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,54 +14,81 @@
       <text lang="CHN">守住阿卡城，歼灭撒拉逊大军</text>
       <text lang="eng">Hold the city of Akkon and defeat the Saracen army.</text>
       <text lang="ger">Halte die Stadt Akkon und vernichte das Sarazenenheer</text>
+      <text lang="l11">守住阿卡城，殲滅撒拉遜大軍</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Obroń miasto Akkon i pokonaj atakujących je Saracenów.</text>
     </string>
     <string id="1">
       <text lang="CHN">雇佣 5 名雇佣兵</text>
       <text lang="eng">Hire 5 mercenaries</text>
       <text lang="ger">Heuere 5 Söldner an</text>
+      <text lang="l11">僱傭 5 名僱傭兵</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Przyjmnij na służbę 5 najemników</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的子民</text>
       <text lang="eng">Bjarni's People</text>
       <text lang="ger">Bjarnis Volk</text>
+      <text lang="l11">比雅尼的子民</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Lud Bjarniego</text>
     </string>
     <string id="51">
       <text lang="CHN">阿卡</text>
       <text lang="eng">Akkon</text>
       <text lang="ger">Akkon</text>
+      <text lang="l11">阿卡</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Akkon</text>
     </string>
     <string id="52">
       <text lang="CHN">撒拉逊大军</text>
       <text lang="eng">Saracen Army</text>
       <text lang="ger">Sarazenenheer</text>
+      <text lang="l11">撒拉遜大軍</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Armia Saracenów</text>
     </string>
     <string id="53">
       <text lang="CHN">拜占庭人</text>
       <text lang="eng">Byzantines</text>
       <text lang="ger">Byzantiner</text>
+      <text lang="l11">拜占庭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bizantyjczycy</text>
     </string>
     <string id="98">
       <text lang="CHN">一支庞大的撒拉逊军队已在阿卡城门外现身……！</text>
       <text lang="eng">A massive army of Saracens has been sighted outside the gates of the city of Akkon ...!</text>
       <text lang="ger">Ein gewaltiges Heer der Sarazenen wurde vor den Toren der Stadt Akkon gesichtet...!</text>
+      <text lang="l11">一支龐大的撒拉遜軍隊已在阿卡城門外現身……！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Pod murami Akkonu dostrzeżono potężną armię Saracenów!</text>
     </string>
     <string id="99">
       <text lang="CHN">阿卡之战</text>
       <text lang="eng">THE BATTLE OF AKKON</text>
       <text lang="ger">DIE SCHLACHT UM AKKON</text>
+      <text lang="l11">阿卡之戰</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">BITWA O AKKON</text>
     </string>
     <string id="100">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
   </strings>
@@ -101,6 +131,24 @@ Leiste der bedrängten Stadt Unterstützung mit deinen Soldaten und befestige di
 
 Vernichte das Heer, so dass es in Zukunft keine Bedrohung mehr darstellt.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+維京人登陸聖地，靠近被諾曼人攻佔的阿卡城。
+這座雖小卻至關重要的港口城市，是十字軍補給的橋頭堡，絕不可落入敵手。
+
+偵察兵報告：一支龐大的撒拉遜軍隊正逼近！
+
+率你計程車兵馳援這座危城，在敵軍進攻前加固三處可能的入口！倘若港口那座著名的大教堂被毀，整場十字軍東征都將岌岌可危。
+
+殲滅這支軍隊，使它再也無法構成威脅。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -153,6 +201,30 @@ Gewonnen! Der Sieg ist dein! Geschlagen ziehen sich die Reste des einst so stolz
 Dank eures beherzten Eingreifens ist Akkon, und damit die Versorgung des Kreuzfahrerheeres vor Jerusalem, gesichert. Euer Name wird in die Geschichte eingehen!                                                                                
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務成功！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+勝利了！勝券在握！曾不可一世的撒拉遜大軍殘部潰退而去。
+
+多虧你英勇出擊，阿卡得以保全，耶路撒冷城外十字軍大軍的補給也有了保障。你的英名必將載入史冊！
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -183,6 +255,17 @@ How terrible! Bjarni is dead! Now your Viking village must make do without its h
 
 Wie schrecklich! Bjarni ist tot! Jetzt muss dein Wikingerdorf ohne seinen Helden auskommen.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+太可怕了！比雅尼犧牲了！如今你的維京村莊只能在沒有英雄的情況下勉力支撐。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -234,6 +317,32 @@ Die Kunde verbreitete sich wie ein Lauffeuer. War der Sieg der Kreuzritter viell
 Das Kreuzritterheer vor Jerusalem verlor ohne seinen wichtigsten Nachschubweg die Oberhand und wurde zurückgeschlagen. Euch bleibt nichts anderes übrig, als gedemütigt und von allen geächtet nach Hause zurückzukehren.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+當撒拉遜人摧毀阿卡的大教堂時，守軍陣中響起一片驚呼。
+
+訊息如野火般傳開。難道十字軍的勝利並非天意？守軍很快喪失了鬥志，撒拉遜人便勢如破竹。耶路撒冷城外的十字軍大軍失去了最重要的補給線，就此失勢潰敗。
+
+你們別無選擇，只能帶著恥辱、為人所不齒地返回家鄉。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -271,6 +380,19 @@ ANTIOCHIA
 Als ihr zu einem byzantinischen Außenposten kommt, werdet ihr herzlich empfangen. Hier seid ihr bei Verbündeten, von denen ihr sicher wichtige Waren und Soldaten erhandeln könnt.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+安條克
+
+當你們抵達一處拜占庭前哨，受到了熱烈歡迎。在這裡，你們與盟友為伍，定能從他們手中換得重要的物資與士兵。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 ANTIOCHIA
@@ -296,6 +418,17 @@ The powerful Saracen army is in sight! God have mercy on you now! Only a complet
 
 Das mächtige Sarazenenheer ist in Sicht! Nun gnade euch Gott! Nur ein vollständiger Sieg wird die Machtverhältnisse in dieser Region für die nächsten Jahre klären.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+強大的撒拉遜大軍已映入眼簾！此刻願上帝垂憐！唯有徹勝，方能決定這片區域未來數年的勢力格局。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -332,6 +465,21 @@ In den Strassen von Akkon jubelten uns die Bewohner begeistert zu, doch würden 
 Auf dem Platz vor der Kathedrale, die wir um jeden Preis verteidigen mussten, empfing uns der Patriarch und unterstellte einige Soldaten der Stadt unserem Kommando.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+阿卡
+
+阿卡的街巷中，居民向我們歡呼雀躍，可我們真能將他們從撒拉遜大軍手中救下嗎？在大教堂前的廣場上
+
+--那是我們誓死守衛之地--宗主教接見了我們，並將城中部分士兵交由我們調遣。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 AKKON
@@ -360,6 +508,17 @@ Antiochia sent us the promised soldiers and said that we could address them late
 Antochia sendete uns die versprochenen Söldner mit dem Hinweis, wir könnten uns später noch mal an sie wenden, wenn wir noch mehr Männer bräuchten.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+安條克如約送來了僱傭兵，並提醒我們：若還需更多兵員，日後儘可再向他們求援。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -386,6 +545,17 @@ THE BATTLE OF AKKON
 DIE SCHLACHT UM AKKON
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+阿卡之戰
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -425,6 +595,28 @@ MISSION VERLOREN!
         <text>
 Durch eine Fügung des Schicksals wurde deine gesamte Bevölkerung hingerafft. Damit besteht für die Akkonnen kaum noch Hoffnung...
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+命運弄人，你的全體子民竟盡數罹難。至此，阿卡人幾乎再無希望……
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>

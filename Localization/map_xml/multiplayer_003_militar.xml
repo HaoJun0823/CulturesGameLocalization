@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,66 +14,99 @@
       <text lang="CHN">军事：无尽资源</text>
       <text lang="eng">Military: ENDLESS RESOURCES</text>
       <text lang="ger">Militär: RESSOURCEN OHNE ENDE</text>
+      <text lang="l11">軍事：無盡資源</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ekonomia: NIEKOŃCZĄCE SIĘ SUROWCE</text>
     </string>
     <string id="1">
       <text lang="CHN">4 个维京部族在失和中比邻而居。用战斗来终结这重重纷争！</text>
       <text lang="eng">4 Viking tribes are at odds with one another. Fight to end the conflict!</text>
       <text lang="ger">4 Wikingerstämme leben in Zwietracht nebenher. Kämpfe, um die Zwistigkeiten zu beenden!</text>
+      <text lang="l11">4 個維京部族在失和中比鄰而居。用戰鬥來終結這重重紛爭！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">4 wikińskie plemiona żyją w pokoju, a od ciebie zależy, jak się ułożą ich kontakty dyplomatyczne i handlowe.</text>
     </string>
     <string id="2">
       <text lang="CHN">最后幸存下来的部族获胜！</text>
       <text lang="eng">The last surviving tribe wins!</text>
       <text lang="ger">Der letzte überlebende Stamm gewinnt!</text>
+      <text lang="l11">最後倖存下來的部族獲勝！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Masz szerokie możliwości. Musisz zdobyć 100 jednostek drewna, gliny i kamienia oraz 75 jednostek złota i żelaza, ale czy je wyprodukujesz, kupisz czy zdobędziesz w bitwie, to już zależy od ciebie...</text>
     </string>
     <string id="10">
       <text lang="CHN">格陵兰人</text>
       <text lang="eng">Greenlander</text>
       <text lang="ger">Grünländer</text>
+      <text lang="l11">格陵蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Grenlandczyk</text>
     </string>
     <string id="11">
       <text lang="CHN">格陵兰人</text>
       <text lang="eng">Greenlander</text>
       <text lang="ger">Grünländer</text>
+      <text lang="l11">格陵蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Grenlandczyk</text>
     </string>
     <string id="20">
       <text lang="CHN">文兰人</text>
       <text lang="eng">Vinlander</text>
       <text lang="ger">Vinländer</text>
+      <text lang="l11">文蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Winlandczyk</text>
     </string>
     <string id="21">
       <text lang="CHN">文兰人</text>
       <text lang="eng">Vinlander</text>
       <text lang="ger">Vinländer</text>
+      <text lang="l11">文蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Winlandczyk</text>
     </string>
     <string id="30">
       <text lang="CHN">海卢兰人</text>
       <text lang="eng">Hellulander</text>
       <text lang="ger">Helluländer</text>
+      <text lang="l11">海盧蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hellulandczyk</text>
     </string>
     <string id="31">
       <text lang="CHN">海卢兰人</text>
       <text lang="eng">Hellulander</text>
       <text lang="ger">Helluländer</text>
+      <text lang="l11">海盧蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hellulandczyk</text>
     </string>
     <string id="40">
       <text lang="CHN">马克兰人</text>
       <text lang="eng">Marklander</text>
       <text lang="ger">Markländer</text>
+      <text lang="l11">馬克蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Marklandczyk</text>
     </string>
     <string id="41">
       <text lang="CHN">马克兰人</text>
       <text lang="eng">Marklander</text>
       <text lang="ger">Markländer</text>
+      <text lang="l11">馬克蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Marklandczyk</text>
     </string>
   </strings>
@@ -98,6 +134,19 @@ Dabei gäbe es hier einiges zu entdecken - viele Schätze soll es hier versteckt
 
 Mach dich an die Arbeit, dein Stamm braucht einen Anführer!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+這可不是太平年月。維京人始終處於緊張的敵對之中，隨時可能兵戎相見……
+
+快行動起來吧，你的部族需要一位領袖！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -127,6 +176,17 @@ ENDLESS RESOURCES
 RESSOURCEN OHNE ENDE
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+無盡資源
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

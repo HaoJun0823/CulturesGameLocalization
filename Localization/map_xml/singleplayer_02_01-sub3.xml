@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,18 +14,27 @@
       <text lang="CHN">揭开此地的秘密！</text>
       <text lang="eng">Uncover the secret of this place!</text>
       <text lang="ger">Lüfte das Geheimnis des Ortes!</text>
+      <text lang="l11">揭開此地的秘密！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Rozwiąż zagadkę związaną z tym miejscem!</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="99">
       <text lang="CHN">地牢</text>
       <text lang="eng">THE DUNGEON</text>
       <text lang="ger">DAS VERLIES</text>
+      <text lang="l11">地牢</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">LOCHY</text>
     </string>
   </strings>
@@ -51,6 +63,20 @@ Es war schwülwarm hier drin, was an den heißen Wasserdämpfen liegen musste, d
 
 Erinnerungen an die Schlangenfallen im Moor kamen Bjarni ins Gedächtnis, doch dieser Dampf schien natürlich zu sein. Erhitzt von einer unterirdischen Wärmequelle!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+這地牢裡空氣汙濁而潮溼！
+室內悶熱，定是地下湧出的熱氣蒸煮所致……
+
+比雅尼想起沼澤中的蛇之陷阱，可這蒸汽看似天然。它由地下熱源加熱！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -90,6 +116,21 @@ Bjarni fand eine Inschrift im Mauerwerk:
 Beeilt euch, denn sonst erstickt ihr! Wenn ihr den Ausgang erreicht, dann werdet ihr belohnt!"
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+比雅尼在磚石上發現一行銘文：
+
+"你們啟動了古老的機關，如今且看你們如何逃出這洞穴！火焰會奪走你們的呼吸，靠得太近便將你們燒成灰燼！
+
+快些，否則你們會窒息！若抵達出口，必有厚賞！"
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -119,6 +160,17 @@ Bjarni has been burnt!
 Bjarni ist verbrannt!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+比雅尼被燒死了！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -143,6 +195,17 @@ Bjarni has suffocated!
 
 Bjarni ist erstickt!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+比雅尼窒息而亡！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -170,6 +233,17 @@ THE DUNGEON
 DAS VERLIES
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+地牢
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

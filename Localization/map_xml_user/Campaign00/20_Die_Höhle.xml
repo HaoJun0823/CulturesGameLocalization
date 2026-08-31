@@ -1,40 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="20_Die_Höhle" export_map_id="20_Die_Höhle" map_md5="4febe8a0034366ed6fb3513d8508a279" IsC2M="true">
+<localization version="1.3" map_id="20_Die_Höhle" export_map_id="20_Die_Höhle" map_md5="4febe8a0034366ed6fb3513d8508a279" IsC2M="true" deprecated="false">
   <languages>
-    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">洞穴</text>
-      <text lang="ger">Die Höhle</text>
       <text lang="eng">The Cave</text>
+      <text lang="ger">Die Höhle</text>
+      <text lang="l11">洞穴</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Jaskinia</text>
     </string>
     <string id="1">
       <text lang="CHN">在前往南非的漫长行军途中，我们中有两人遭遇了一场糟糕的意外。</text>
-      <text lang="ger">Auf dem langen Marsch nach Südafrika erlebten zwei Leute von uns eine böse Überraschung.</text>
       <text lang="eng">On the long march to South Africa, two of our people experienced a nasty surprise.</text>
+      <text lang="ger">Auf dem langen Marsch nach Südafrika erlebten zwei Leute von uns eine böse Überraschung.</text>
+      <text lang="l11">在前往南非的漫長行軍途中，我們中有兩人遭遇了一場糟糕的意外。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Podczas długiego marszu do Afryki Południowej dwóch naszych ludzi przeżyło niemiłą niespodziankę.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
-      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得友好。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
-      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得中立。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
-      <text lang="ger">Spieler0</text>
       <text lang="eng">Player0</text>
+      <text lang="ger">Spieler0</text>
+      <text lang="l11">玩家0</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz0</text>
     </string>
   </strings>
@@ -44,6 +62,12 @@
         <text>呀嗬，可爱的人们。我叫银月，因为我出生在月光之下。我的族人住在南非。那里有个女奴隶贩子把我关在了这儿。她索要20根金条作赎金。你们身上带着甜食吗？我已经好久好久没吃过甜的了。来点蛋糕我应该消受得起。罢了，我们不想太不近人情，便决定帮她一把。黄金我们只在一个地方见过，就是我们坠入洞穴的那里……
 任务目标：储备20根金条和20份蛋糕。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Yoo-hoo, you good people. My name is Silbermond, because I was born in moonlight. My people live in South Africa. A slave trader there has locked me up here. She demands a ransom of 20 gold bars. Do you have anything sweet with you? It's been soooo long since I ate anything sweet. I could use a bit of cake. Well, we didn't want to be unkind and decided to help her. We had only seen gold in one place. Where we had fallen into the cave...
+Mission goal: Store 20 gold bars and 20 cakes.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Juhuu, ihr lieben Leut. Mein Name ist Silbermond, weil ich bei Mondschein geboren wurde. Mein Volk lebt in Südafrika. Eine Sklavenhändlerin dort hat mich hier eingesperrt. Sie verlangt 20 Goldbarren Lösegeld. Habt ihr was Süßes dabei? Ich hab schon soooo lange nichts Süßes mehr gegessen. Ich könnte ein wenig Kuchen vertragen. Naja, wir wollten mal nicht so sein und ihr helfen. Gold hatten wir nur an einer Stelle gesehen. Dort wo wir in die Höhle gefallen waren...
@@ -51,11 +75,15 @@ Missionsziel: Lagere 20 Goldbarren und 20 Kuchen ein.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Yoo-hoo, you good people. My name is Silbermond, because I was born in moonlight. My people live in South Africa. A slave trader there has locked me up here. She demands a ransom of 20 gold bars. Do you have anything sweet with you? It's been soooo long since I ate anything sweet. I could use a bit of cake. Well, we didn't want to be unkind and decided to help her. We had only seen gold in one place. Where we had fallen into the cave...
-Mission goal: Store 20 gold bars and 20 cakes.
-</text>
+      <lang code="l11">
+        <text>呀嗬，可愛的人們。我叫銀月，因為我出生在月光之下。我的族人住在南非。那裡有個女奴隸販子把我關在了這兒。她索要20根金條作贖金。你們身上帶著甜食嗎？我已經好久好久沒吃過甜的了。來點蛋糕我應該消受得起。罷了，我們不想太不近人情，便決定幫她一把。黃金我們只在一個地方見過，就是我們墜入洞穴的那裡……
+任務目標：儲備20根金條和20份蛋糕。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -68,16 +96,25 @@ Cel misji: Zmagazynuj 20 sztabek złota i 20 ciast.
       <lang code="CHN">
         <text>你失败了！！要不去下一局国际象棋吧。</text>
       </lang>
+      <lang code="eng">
+        <text>
+You have lost !! Try a round of chess.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Du hast verloren !! Versuchs doch mal mir ner Runde Schach.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-You have lost !! Try a round of chess.
-</text>
+      <lang code="l11">
+        <text>你失敗了！！要不去下一局國際象棋吧。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -89,16 +126,25 @@ Przegrałeś !! Spróbuj partii szachów.
       <lang code="CHN">
         <text>任务失败！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission verloren!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission lost!
-</text>
+      <lang code="l11">
+        <text>任務失敗！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -114,6 +160,15 @@ Misja przegrana!
 
 制作者：尤基</text>
       </lang>
+      <lang code="eng">
+        <text>
+Hey, look at that, what a huge abyss. Come on, we must keep following the others. Hey, careful, don't get so close to the edge. What did you say?...creak, Heeelp, I'm falling. Let me go, no, heeelp, I'm falling too....thud. You and your terrible curiosity. That's what you get. Come on, let's find the exit, it can't be that far......
+Mission goal: Find the exit.
+
+
+Created by: Yogi
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Hey, guck doch mal, was für ein riesiger Abgrund. Komm, wir müssen weiter hinter den anderen her. Hey Vorsicht geh nicht so nah an den Abgrund. Was sagtest Du?...knirsch,Hilfeeeee, ich falle. Laß mich los, nein Hilfffee ich falle auch....plummps. Du mit Deiner schrecklichen Neugier. Das hast Du jetzt davon. Komm, wir suchen den Ausgang, so weit kanns ja nicht sein......
@@ -124,14 +179,18 @@ Erstellt von: Yogi
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Hey, look at that, what a huge abyss. Come on, we must keep following the others. Hey, careful, don't get so close to the edge. What did you say?...creak, Heeelp, I'm falling. Let me go, no, heeelp, I'm falling too....thud. You and your terrible curiosity. That's what you get. Come on, let's find the exit, it can't be that far......
-Mission goal: Find the exit.
+      <lang code="l11">
+        <text>嘿，快看，好大一道深谷。來，我們得跟在他們後面繼續走。嘿小心，別離深谷那麼近。你說什麼？……咔嚓，救命啊，我要掉下去了。快拉住我，不，救命啊我也要掉下去了……撲通。都怪你那該死的好奇心。這就是下場。來，我們找出口去，應該不會太遠……
+任務目標：找到出口。
 
 
-Created by: Yogi
-</text>
+製作者：尤基</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -147,16 +206,25 @@ Stworzone przez: Yogi
       <lang code="CHN">
         <text>洞穴</text>
       </lang>
+      <lang code="eng">
+        <text>
+The Cave
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Die Höhle
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-The Cave
-</text>
+      <lang code="l11">
+        <text>洞穴</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -168,16 +236,25 @@ Jaskinia
       <lang code="CHN">
         <text>感谢你们的帮助。我会向我的族人禀报，你们是何等勇敢、何等乐于助人的好汉。为表谢意，我向你们许下我们的友谊。嘿看啊，那边又有一道深渊。深渊我可看够了。走，那边是路，快走快走。我这就走嘛……</text>
       </lang>
+      <lang code="eng">
+        <text>
+I thank you for your help. I shall report to my people what brave and helpful men you are. In gratitude I promise you our friendship. Hey look, there is another abyss. I've had enough of abysses. Come on, this way, let's go, let's go. I'm coming already......
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Ich danke Euch für Eure Hilfe. Ich werde meinem Volk berichten, was für tapfere und hilfsbereite Mannen ihr seit. Als Dank verspreche ich Euch unsere Freundschaft. Hey guck mal, da ist noch ein Abgrund. Ich habe von Abgründen die Nase voll. Los, da gehts lang, los los. Ich geh ja schoon......
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-I thank you for your help. I shall report to my people what brave and helpful men you are. In gratitude I promise you our friendship. Hey look, there is another abyss. I've had enough of abysses. Come on, this way, let's go, let's go. I'm coming already......
-</text>
+      <lang code="l11">
+        <text>感謝你們的幫助。我會向我的族人稟報，你們是何等勇敢、何等樂於助人的好漢。為表謝意，我向你們許下我們的友誼。嘿看啊，那邊又有一道深淵。深淵我可看夠了。走，那邊是路，快走快走。我這就走嘛……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -189,16 +266,25 @@ Dziękuję wam za pomoc. Opowiem mojemu ludowi, jak odważni i pomocni jesteści
       <lang code="CHN">
         <text>任务达成！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission gewonnen!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission won!
-</text>
+      <lang code="l11">
+        <text>任務達成！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

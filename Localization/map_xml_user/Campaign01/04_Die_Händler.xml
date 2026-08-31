@@ -1,58 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="04_Die_Händler" export_map_id="04_Die_Händler" map_md5="9c6711f75096815df6884bb9dfc65800" IsC2M="true">
+<localization version="1.3" map_id="04_Die_Händler" export_map_id="04_Die_Händler" map_md5="9c6711f75096815df6884bb9dfc65800" IsC2M="true" deprecated="false">
   <languages>
-    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">商人们</text>
-      <text lang="ger">Die Händler</text>
       <text lang="eng">The Traders</text>
+      <text lang="ger">Die Händler</text>
+      <text lang="l11">商人們</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Kupcy</text>
     </string>
     <string id="1">
       <text lang="CHN">这片天地对我们而言全然陌生。因此我们决定先在一座偏僻的岛上建一座小村庄。</text>
-      <text lang="ger">Dieser Teil der Welt war uns unbekannt.Deshalb beschlossen wir erstmal ein kleines Dorf auf einer abgelegenen Insel zu bauen.</text>
       <text lang="eng">This part of the world was unknown to us. So we decided to first build a small village on a remote island.</text>
+      <text lang="ger">Dieser Teil der Welt war uns unbekannt.Deshalb beschlossen wir erstmal ein kleines Dorf auf einer abgelegenen Insel zu bauen.</text>
+      <text lang="l11">這片天地對我們而言全然陌生。因此我們決定先在一座偏僻的島上建一座小村莊。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ta część świata była nam nieznana. Dlatego postanowiliśmy najpierw zbudować małą wioskę na odległej wyspie.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
-      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得友好。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
-      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得中立。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
-      <text lang="ger">Spieler0</text>
       <text lang="eng">Player0</text>
+      <text lang="ger">Spieler0</text>
+      <text lang="l11">玩家0</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
-      <text lang="ger">Spieler1</text>
       <text lang="eng">Player1</text>
+      <text lang="ger">Spieler1</text>
+      <text lang="l11">玩家1</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
-      <text lang="ger">Spieler2</text>
       <text lang="eng">Player2</text>
+      <text lang="ger">Spieler2</text>
+      <text lang="l11">玩家2</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz2</text>
     </string>
     <string id="53">
       <text lang="CHN">玩家3</text>
-      <text lang="ger">Spieler3</text>
       <text lang="eng">Player3</text>
+      <text lang="ger">Spieler3</text>
+      <text lang="l11">玩家3</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz3</text>
     </string>
   </strings>
@@ -61,16 +88,25 @@
       <lang code="CHN">
         <text>这张地图通常是不会失败的。</text>
       </lang>
+      <lang code="eng">
+        <text>
+On this map one normally cannot lose.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Bei dieser Karte kann man normalerweise nicht verlieren.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-On this map one normally cannot lose.
-</text>
+      <lang code="l11">
+        <text>這張地圖通常是不會失敗的。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -82,16 +118,25 @@ Na tej mapie zazwyczaj nie można przegrać.
       <lang code="CHN">
         <text>任务失败！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission verloren!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission lost!
-</text>
+      <lang code="l11">
+        <text>任務失敗！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -103,16 +148,25 @@ Misja przegrana!
       <lang code="CHN">
         <text>玩家1已阵亡。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 has died.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist gestorben.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 has died.
-</text>
+      <lang code="l11">
+        <text>玩家1已陣亡。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -124,16 +178,25 @@ Gracz 1 zmarł.
       <lang code="CHN">
         <text>玩家2已阵亡。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 has died.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist gestorben.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 has died.
-</text>
+      <lang code="l11">
+        <text>玩家2已陣亡。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -145,16 +208,25 @@ Gracz 2 zmarł.
       <lang code="CHN">
         <text>玩家3已阵亡。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 has died.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 3 ist gestorben.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 3 has died.
-</text>
+      <lang code="l11">
+        <text>玩家3已陣亡。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -166,16 +238,25 @@ Gracz 3 zmarł.
       <lang code="CHN">
         <text>玩家1现在转为敌对。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now hostile.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist jetzt feindlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 is now hostile.
-</text>
+      <lang code="l11">
+        <text>玩家1現在轉為敵對。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -187,16 +268,25 @@ Gracz 1 jest teraz wrogi.
       <lang code="CHN">
         <text>玩家2现在转为敌对。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now hostile.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt feindlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now hostile.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為敵對。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -208,16 +298,25 @@ Gracz 2 jest teraz wrogi.
       <lang code="CHN">
         <text>玩家3现在转为敌对。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now hostile.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 3 ist jetzt feindlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 3 is now hostile.
-</text>
+      <lang code="l11">
+        <text>玩家3現在轉為敵對。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -230,6 +329,12 @@ Gracz 3 jest teraz wrogi.
         <text>当我们缴清所要求的贡品后，便见到了那些绝佳的交易。我们决定换购一些货物。
 任务目标：储备40件营养护符。</text>
       </lang>
+      <lang code="eng">
+        <text>
+When we had paid the requested tribute, we saw the great trade deals. We decided to trade some goods.
+Mission goal: Store 40 nourishing amulets.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Als wir den gewünschten Tribut bezahlt hatten, sahen wir die tollen Handelsangebote. Wir beschlossen einige Waren zu handeln.
@@ -237,11 +342,15 @@ Missionsziel: Lagere 40 Nahrungsamulette ein.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-When we had paid the requested tribute, we saw the great trade deals. We decided to trade some goods.
-Mission goal: Store 40 nourishing amulets.
-</text>
+      <lang code="l11">
+        <text>當我們繳清所要求的貢品後，便見到了那些絕佳的交易。我們決定換購一些貨物。
+任務目標：儲備40件營養護符。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -255,6 +364,12 @@ Cel misji: Zmagazynuj 40 amuletów pożywienia.
         <text>谢谢你们这点贡品。你们是不是需要几件防御护符？我们没多想便决定储备40件。
 任务目标：储备40件防御护符。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Thank you for the small tribute. Do you perhaps need some defence amulets? We did not think long and decided to store 40 of them.
+Mission goal: Store 40 defence amulets.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Danke für den kleinen Tribut.Braucht ihr vielleicht ein paar Verteidigungsamulette? Wir überlegten nicht lange und beschlossen 40 Stück davon einzulagern.
@@ -262,11 +377,15 @@ Missionsziel: Lagere 40 Verteidigungsamulette ein.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Thank you for the small tribute. Do you perhaps need some defence amulets? We did not think long and decided to store 40 of them.
-Mission goal: Store 40 defence amulets.
-</text>
+      <lang code="l11">
+        <text>謝謝你們這點貢品。你們是不是需要幾件防禦護符？我們沒多想便決定儲備40件。
+任務目標：儲備40件防禦護符。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -280,6 +399,12 @@ Cel misji: Zmagazynuj 40 amuletów obrony.
         <text>他们这里的交易可真不错，我们惊叹道，便决定换购一些货物。
 任务目标：储备40件力量护符。</text>
       </lang>
+      <lang code="eng">
+        <text>
+They had great trade deals here, we marvelled, and decided to trade some goods.
+Mission goal: Store 40 strength amulets.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Tolle Handelsangebote hatten sie ja hier, staunten wir, und beschlossen einige Waren zu handeln.
@@ -287,11 +412,15 @@ Missionsziel: Lagere 40 Stärkeamulette ein.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-They had great trade deals here, we marvelled, and decided to trade some goods.
-Mission goal: Store 40 strength amulets.
-</text>
+      <lang code="l11">
+        <text>他們這裡的交易可真不錯，我們驚歎道，便決定換購一些貨物。
+任務目標：儲備40件力量護符。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -306,6 +435,13 @@ Cel misji: Zmagazynuj 40 amuletów siły.
 你们要去哪儿？去爱斯基摩人的家园世界？嗯，我们这儿正好有一张海图，能直接把你们引到那里。不过这得花点小钱……
 任务目标：缴纳所要求的贡品以换取海图。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Hello strangers !! 
+Where are you heading? To the homeland of the S-KI-MOS? Well, we have a sea chart that could take you straight there. But it costs a small fortune...
+Mission goal: Pay the requested tribute to get the sea chart.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Hallo Fremdlinge !! 
@@ -314,12 +450,16 @@ Missionsziel: Zahle den gewünschten Tribut um die Seekarte zu bekommen.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Hello strangers !! 
-Where are you heading? To the homeland of the S-KI-MOS? Well, we have a sea chart that could take you straight there. But it costs a small fortune...
-Mission goal: Pay the requested tribute to get the sea chart.
-</text>
+      <lang code="l11">
+        <text>你們好，外鄉人！！
+你們要去哪兒？去愛斯基摩人的家園世界？嗯，我們這兒正好有一張海圖，能直接把你們引到那裡。不過這得花點小錢……
+任務目標：繳納所要求的貢品以換取海圖。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -334,6 +474,12 @@ Cel misji: Zapłać żądany trybut, by otrzymać mapę morską.
         <text>外乡人，愿你们平安而来，欢迎。嗯，爱斯基摩人的家园世界？那离此地非常远，他们说道。不过我们有一张古老的海图。上面写着你们该从何处启航。可这张图可不便宜……
 任务目标：缴纳所要求的贡品以换取海图。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Strangers, welcome in peace. Hmm, the homeland of the S-KI-MOS? That is very far from here, they reported. But we have an old sea chart. It is written there where you must sail. But the chart is not exactly cheap...
+Mission goal: Pay the requested tribute to get the sea chart.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Fremdlinge, seit Willkommen in Frieden. Hmm, die Heimatwelt der S-KI-MOS? Das ist sehr weit weg von hier, berichteten sie.Aber wir haben eine alte Seekarte. Dort steht geschrieben woher ihr fahren müßt.Doch die Karte ist nicht ganz billig...
@@ -341,11 +487,15 @@ Missionsziel: Zahle den gewünschten Tribut um die Seekarte zu bekommen.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Strangers, welcome in peace. Hmm, the homeland of the S-KI-MOS? That is very far from here, they reported. But we have an old sea chart. It is written there where you must sail. But the chart is not exactly cheap...
-Mission goal: Pay the requested tribute to get the sea chart.
-</text>
+      <lang code="l11">
+        <text>外鄉人，願你們平安而來，歡迎。嗯，愛斯基摩人的家園世界？那離此地非常遠，他們說道。不過我們有一張古老的海圖。上面寫著你們該從何處啟航。可這張圖可不便宜……
+任務目標：繳納所要求的貢品以換取海圖。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -359,6 +509,12 @@ Cel misji: Zapłać żądany trybut, by otrzymać mapę morską.
         <text>嗬嗬，欢迎啊，外乡人。你们在找爱斯基摩人的家园世界？这个嘛，我们自己也没去过，不过我们最近从一个商人那里得到了一张海图，上面写着确切的航线。可要知道，它并不便宜……
 任务目标：缴纳所要求的贡品以换取海图。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Hey, welcome, strangers. You seek the homeland of the S-KI-MOS? Well, we have never been there ourselves, but we recently received a sea chart from a merchant, with the exact route on it. It is not cheap, you should know....
+Mission goal: Pay the requested tribute to get the sea chart.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Huhu, seit willkommen, Fremdlinge.Ihr sucht die Heimatwelt der S-KI-MOS? Naja, wir waren selbst noch nicht dort, aber wir haben kürzlich von einem Händler eine Seekarte erhalten, dort steht die genaue Route drin. Sie ist aber nicht billig müßt ihr wissen....
@@ -366,11 +522,15 @@ Missionsziel: Zahle den gewünschten Tribut, um die Seekarte zu bekommen.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Hey, welcome, strangers. You seek the homeland of the S-KI-MOS? Well, we have never been there ourselves, but we recently received a sea chart from a merchant, with the exact route on it. It is not cheap, you should know....
-Mission goal: Pay the requested tribute to get the sea chart.
-</text>
+      <lang code="l11">
+        <text>嗬嗬，歡迎啊，外鄉人。你們在找愛斯基摩人的家園世界？這個嘛，我們自己也沒去過，不過我們最近從一個商人那裡得到了一張海圖，上面寫著確切的航線。可要知道，它並不便宜……
+任務目標：繳納所要求的貢品以換取海圖。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -387,6 +547,15 @@ Cel misji: Zapłać żądany trybut, by otrzymać mapę morską.
 
 制作者：尤基</text>
       </lang>
+      <lang code="eng">
+        <text>
+Felix, who had in the meantime learned the craft of fishing, told us that there were many merchants in this world who had valuable goods. Since we did not know how to get to the homeland of the S-KI-MOS anyway, we wanted to visit these merchants. Perhaps we could learn more from them....
+Mission goal: Build your village, and explore the island world. Build a ship for this purpose.
+
+
+Created by: Yogi
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Felix, der inzwischen das Handwerk des Fischers erlernt hatte,berichtete uns das es in dieser Welt viele Händler gäbe,die wertvolle Waren hätten.Da wir ohnehin nicht wußten wie wir zur Heimat der S-KI-MOS kommen sollten, wollten wir diese Händler aufsuchen. Vielleicht konnten wir von ihnen ja mehr erfahren....
@@ -397,14 +566,18 @@ Erstellt von: Yogi
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Felix, who had in the meantime learned the craft of fishing, told us that there were many merchants in this world who had valuable goods. Since we did not know how to get to the homeland of the S-KI-MOS anyway, we wanted to visit these merchants. Perhaps we could learn more from them....
-Mission goal: Build your village, and explore the island world. Build a ship for this purpose.
+      <lang code="l11">
+        <text>費利克斯這段時間已學會了打魚的手藝，他告訴我們，這個世界裡有許多商人，手裡都握有珍貴的貨物。反正我們也不知道該如何前往愛斯基摩人的家鄉，便打算去拜訪這些商人。也許我們能從他們那兒打聽到更多……
+任務目標：建立你的村莊，探索這片島嶼世界。為此建造一艘船。
 
 
-Created by: Yogi
-</text>
+製作者：尤基</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -420,16 +593,25 @@ Stworzone przez: Yogi
       <lang code="CHN">
         <text>商人们</text>
       </lang>
+      <lang code="eng">
+        <text>
+The Merchants
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Die Händler
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-The Merchants
-</text>
+      <lang code="l11">
+        <text>商人們</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -441,16 +623,25 @@ Handlarze
       <lang code="CHN">
         <text>如今我们手里有了三张海图。可每一张指向的方向都不同。这么说其中两张必是伪造的。最后我们只得听天由命，姑且先照着第一张图辨认方向……</text>
       </lang>
+      <lang code="eng">
+        <text>
+Now we had three sea charts. But each pointed us in a different direction. Two must therefore be forgeries. In the end we let the dice decide, and initially oriented ourselves by the first chart.....
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Jetzt hatten wir drei Seekarten. Doch jede wies uns in eine andere Richtung. Zwei mußten also Fälschungen sein. Schließlich ließen wir das Los entscheiden, und orientierten uns zunächst einmal nach der ersten Karte.....
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Now we had three sea charts. But each pointed us in a different direction. Two must therefore be forgeries. In the end we let the dice decide, and initially oriented ourselves by the first chart.....
-</text>
+      <lang code="l11">
+        <text>如今我們手裡有了三張海圖。可每一張指向的方向都不同。這麼說其中兩張必是偽造的。最後我們只得聽天由命，姑且先照著第一張圖辨認方向……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -462,16 +653,25 @@ Mieliśmy teraz trzy mapy morskie. Lecz każda wskazywała inny kierunek. Dwie m
       <lang code="CHN">
         <text>任务达成！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission gewonnen!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission won!
-</text>
+      <lang code="l11">
+        <text>任務達成！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

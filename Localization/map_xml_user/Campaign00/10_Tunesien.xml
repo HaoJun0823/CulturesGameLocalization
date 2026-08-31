@@ -1,58 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="10_Tunesien" export_map_id="10_Tunesien" map_md5="414964d192c2c86c96bbb43e5cdb074a" IsC2M="true">
+<localization version="1.3" map_id="10_Tunesien" export_map_id="10_Tunesien" map_md5="414964d192c2c86c96bbb43e5cdb074a" IsC2M="true" deprecated="false">
   <languages>
-    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">突尼斯</text>
-      <text lang="ger">Tunesien</text>
       <text lang="eng">Tunisia</text>
+      <text lang="ger">Tunesien</text>
+      <text lang="l11">突尼西亞</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Tunezja</text>
     </string>
     <string id="1">
       <text lang="CHN">在突尼斯这里，我们打算好好度个假。至少我们原本是这么打算的……</text>
-      <text lang="ger">Hier in Tunesien würden wir uns einen Urlaub gönnen.So hatten wir es zumindest vor...</text>
       <text lang="eng">Here in Tunisia we would treat ourselves to a vacation. That was the plan, at least...</text>
+      <text lang="ger">Hier in Tunesien würden wir uns einen Urlaub gönnen.So hatten wir es zumindest vor...</text>
+      <text lang="l11">在突尼西亞這裡，我們打算好好度個假。至少我們原本是這麼打算的……</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Tutaj w Tunezji pozwolilibyśmy sobie na wakacje. Tak przynajmniej planowaliśmy...</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
-      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得友好。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
-      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得中立。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
-      <text lang="ger">Spieler0</text>
       <text lang="eng">Player0</text>
+      <text lang="ger">Spieler0</text>
+      <text lang="l11">玩家0</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
-      <text lang="ger">Spieler1</text>
       <text lang="eng">Player1</text>
+      <text lang="ger">Spieler1</text>
+      <text lang="l11">玩家1</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
-      <text lang="ger">Spieler2</text>
       <text lang="eng">Player2</text>
+      <text lang="ger">Spieler2</text>
+      <text lang="l11">玩家2</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz2</text>
     </string>
     <string id="53">
       <text lang="CHN">玩家3</text>
-      <text lang="ger">Spieler3</text>
       <text lang="eng">Player3</text>
+      <text lang="ger">Spieler3</text>
+      <text lang="l11">玩家3</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz3</text>
     </string>
   </strings>
@@ -62,6 +89,12 @@
         <text>你失败了！！
 要不去玩一局跳棋吧。</text>
       </lang>
+      <lang code="eng">
+        <text>
+You lost!!
+Try a game of Halma instead.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Du hast verloren !! 
@@ -69,11 +102,15 @@ Versuchs doch mal mit ner Runde Halma.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-You lost!!
-Try a game of Halma instead.
-</text>
+      <lang code="l11">
+        <text>你失敗了！！
+要不去玩一局跳棋吧。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -86,16 +123,25 @@ Spróbuj zamiast tego rundki Halma.
       <lang code="CHN">
         <text>任务失败！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission verloren!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission lost!
-</text>
+      <lang code="l11">
+        <text>任務失敗！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -107,16 +153,25 @@ Misja przegrana!
       <lang code="CHN">
         <text>玩家1已阵亡。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 has died.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist gestorben.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 has died.
-</text>
+      <lang code="l11">
+        <text>玩家1已陣亡。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -128,16 +183,25 @@ Gracz 1 zmarł.
       <lang code="CHN">
         <text>玩家2已阵亡。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 has died.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist gestorben.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 has died.
-</text>
+      <lang code="l11">
+        <text>玩家2已陣亡。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -149,16 +213,25 @@ Gracz 2 zmarł.
       <lang code="CHN">
         <text>玩家3已阵亡。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 has died.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 3 ist gestorben.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 3 has died.
-</text>
+      <lang code="l11">
+        <text>玩家3已陣亡。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -170,16 +243,25 @@ Gracz 3 zmarł.
       <lang code="CHN">
         <text>玩家1现在转为敌对。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now hostile.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist jetzt feindlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 is now hostile.
-</text>
+      <lang code="l11">
+        <text>玩家1現在轉為敵對。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -192,6 +274,12 @@ Gracz 1 jest teraz wrogi.
         <text>谢谢你们，可爱的人们。我们平日住在地下世界，如今迷了路。我们找不到通往我们国度的入口。你们能帮帮我们吗？
 任务目标：找到通往地下世界的入口。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Thank you, dear people. We normally live in the underworld and got lost. We can't find the entrance to our realm. Can you help us?
+Mission objective: Find the entrance to the underworld.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Danke ihr lieben Leut.Wir leben normalerweise in der Unterwelt, und haben uns verlaufen.Wir können den Eingang zu unserem Reich nicht finden.Könnt ihr uns helfen?
@@ -199,11 +287,15 @@ Missionsziel: Finde den Eingang zur Unterwelt.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Thank you, dear people. We normally live in the underworld and got lost. We can't find the entrance to our realm. Can you help us?
-Mission objective: Find the entrance to the underworld.
-</text>
+      <lang code="l11">
+        <text>謝謝你們，可愛的人們。我們平日住在地下世界，如今迷了路。我們找不到通往我們國度的入口。你們能幫幫我們嗎？
+任務目標：找到通往地下世界的入口。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -216,16 +308,25 @@ Wskazówki misji: Znajdź wejście do podziemnego świata.
       <lang code="CHN">
         <text>玩家2现在转为友好。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now friendly.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt freundlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now friendly.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為友好。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -237,16 +338,25 @@ Gracz 2 jest teraz przyjazny.
       <lang code="CHN">
         <text>玩家3现在转为友好。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now friendly.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 3 ist jetzt freundlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 3 is now friendly.
-</text>
+      <lang code="l11">
+        <text>玩家3現在轉為友好。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -258,16 +368,25 @@ Gracz 3 jest teraz przyjazny.
       <lang code="CHN">
         <text>玩家2现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -279,16 +398,25 @@ Gracz 2 jest teraz neutralny.
       <lang code="CHN">
         <text>玩家3现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 3 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 3 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家3現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -303,6 +431,14 @@ Gracz 3 jest teraz neutralny.
 我们茫然地面面相觑。我们的德鲁伊弗里迪说：我只听懂了这么多--我们得以药水的形式向他们缴纳贡品。等他们喝下之后，我们大概就能更好地听懂他们的话了。也好，我们心想。
 任务目标：向这个未知民族缴纳所要求的贡品。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Unknown People!!
+Ümnür de Krümü.Lumumba ul Kranrikel de Polunak en Munaba.
+We looked at each other perplexed. Our druid Fridi said: "I only understood that we should pay them a tribute in the form of potions. Once they have drunk them, we might understand them better." Well then, we thought.
+Mission objective: Pay the desired tribute to the unknown people.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Unbekanntes Volk !!
@@ -312,13 +448,17 @@ Missionsziel: Zahle den gewünschten Tribut an das unbekannte Volk.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Unknown People!!
-Ümnür de Krümü.Lumumba ul Kranrikel de Polunak en Munaba.
-We looked at each other perplexed. Our druid Fridi said: "I only understood that we should pay them a tribute in the form of potions. Once they have drunk them, we might understand them better." Well then, we thought.
-Mission objective: Pay the desired tribute to the unknown people.
-</text>
+      <lang code="l11">
+        <text>未知民族！！
+烏姆努爾・德・克呂繆。盧蒙巴・烏爾・克蘭裡克爾・德・波盧納克・恩・穆納巴。
+我們茫然地面面相覷。我們的德魯伊弗裡迪說：我只聽懂了這麼多--我們得以藥水的形式向他們繳納貢品。等他們喝下之後，我們大概就能更好地聽懂他們的話了。也好，我們心想。
+任務目標：向這個未知民族繳納所要求的貢品。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -335,6 +475,13 @@ Cel misji: Zapłać wymaganytrybut nieznanemu ludowi.
 这些究竟是些什么古怪的生物？总之他们似乎一点玩笑都开不得。
 任务目标：消灭蛇人。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Snake People!!
+What kind of weird creatures were these? In any case, they didn't seem to get no joke.
+Mission objective: Destroy the snake people.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Schlangenmenschen !!
@@ -343,12 +490,16 @@ Missionsziel: Vernichte die Schlangenmenschen.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Snake People!!
-What kind of weird creatures were these? In any case, they didn't seem to get no joke.
-Mission objective: Destroy the snake people.
-</text>
+      <lang code="l11">
+        <text>蛇人！！
+這些究竟是些什麼古怪的生物？總之他們似乎一點玩笑都開不得。
+任務目標：消滅蛇人。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -365,6 +516,14 @@ Cel misji: Zniszcz lud-węże.
 总之他们似乎一点玩笑都开不得。
 任务目标：消灭狼人。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Werewolves!!
+What kind of creatures were these now?
+In any case, they didn't seem to understand a joke.
+Mission objective: Destroy the werewolves.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Werwölfe !!
@@ -374,13 +533,17 @@ Missionsziel: Vernichte die Werwölfe.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Werewolves!!
-What kind of creatures were these now?
-In any case, they didn't seem to understand a joke.
-Mission objective: Destroy the werewolves.
-</text>
+      <lang code="l11">
+        <text>狼人！！
+這又是些什麼生物？
+總之他們似乎一點玩笑都開不得。
+任務目標：消滅狼人。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -400,6 +563,16 @@ Missionscel: Wypędź wilkołaki.
 
 制作者：尤基</text>
       </lang>
+      <lang code="eng">
+        <text>
+We steered the coast of Tunisia. Here we wanted to rest and recover from the hardships of the past months. Suddenly druid Fridi came to us: "We have too few potions in our stores. There are plenty of ingredients for new potions here. I urgently need 25 large food potions, 25 large healing potions and 25 large watch potions."
+In the meantime we wanted to send a scout out, because you could never know...
+Mission objective: Create the required potions and store them away.
+
+
+Created by: Yogi
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Wir steuerten die Küste Tunesiens an.Hier wollten wir Rast machen, und uns von den Strapazen der vergangenen Monate erholen. Plötzlich kam Fridi, unser Druide. Wir haben zu wenig Tränke in unseren Lagern. Es gibt hier reichlich Zutaten für neue Tränke.Ich brauche dringend 25 große Nahrungstränke,25 große Heiltränke und 25 Gr.Wachtränke.
@@ -411,15 +584,19 @@ Erstellt von: Yogi
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-We steered the coast of Tunisia. Here we wanted to rest and recover from the hardships of the past months. Suddenly druid Fridi came to us: "We have too few potions in our stores. There are plenty of ingredients for new potions here. I urgently need 25 large food potions, 25 large healing potions and 25 large watch potions."
-In the meantime we wanted to send a scout out, because you could never know...
-Mission objective: Create the required potions and store them away.
+      <lang code="l11">
+        <text>我們朝突尼西亞海岸駛去。我們想在這裡歇腳，從過去數月的勞頓中恢復過來。忽然，我們的德魯伊弗裡迪走了過來。我們倉庫裡的藥水太少了。這裡有充足的釀造新藥水的材料。我急需25瓶大型營養藥水、25瓶大型治療藥水和25瓶大型耐力藥水。
+在此期間我們想派一名偵察兵出去，畢竟世事難料……
+任務目標：釀造所需的藥水並儲備起來。
 
 
-Created by: Yogi
-</text>
+製作者：尤基</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -436,16 +613,25 @@ Stworzone przez: Yogi
       <lang code="CHN">
         <text>突尼斯</text>
       </lang>
+      <lang code="eng">
+        <text>
+Tunisia
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Tunesien
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Tunisia
-</text>
+      <lang code="l11">
+        <text>突尼西亞</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -457,16 +643,25 @@ Tunezja
       <lang code="CHN">
         <text>我们击败了那些怪物，也找到了通往地下世界的入口。可那里又会有什么在等着我们呢？</text>
       </lang>
+      <lang code="eng">
+        <text>
+We had defeated the monsters and found the entrance to the underworld. But what might be waiting for us there?
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Wir hatten die Ungeheuer besiegt, und den Eingang zur Unterwelt gefunden. Aber was mochte uns dort erwarten?
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-We had defeated the monsters and found the entrance to the underworld. But what might be waiting for us there?
-</text>
+      <lang code="l11">
+        <text>我們擊敗了那些怪物，也找到了通往地下世界的入口。可那裡又會有什麼在等著我們呢？</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -478,16 +673,25 @@ Pokonaresziliśmy potwory i znaleźliśmy wejście do podziemnego światła. Ale
       <lang code="CHN">
         <text>任务达成！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission gewonnen!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission won!
-</text>
+      <lang code="l11">
+        <text>任務達成！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,36 +14,54 @@
       <text lang="CHN">找到第二个开关，开启通往西北方洞穴的通道！</text>
       <text lang="eng">Find the second switch to open the passage to the cave in the north-west!</text>
       <text lang="ger">Finde den zweiten Schalter, mit dem du den Durchgang zur Höhle im Nordwesten öffnen kannst!</text>
+      <text lang="l11">找到第二個開關，開啟通往西北方洞穴的通道！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Znajdź drugi przycisk, przy pomocy którego będziesz mógł otworzyć przejście przez jaskinię na północnym zachodzie!</text>
     </string>
     <string id="1">
       <text lang="CHN">抵御四处游荡的恶狼！</text>
       <text lang="eng">Defend yourself against the stray wolves!</text>
       <text lang="ger">Verteidige dich gegen die herumstreunenden Wölfe!</text>
+      <text lang="l11">抵禦四處遊蕩的惡狼！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Odeprzyj ataki wilków!</text>
     </string>
     <string id="51">
       <text lang="CHN">狼族生物</text>
       <text lang="eng">Wolf Creatures</text>
       <text lang="ger">Wolfskreaturen</text>
+      <text lang="l11">狼族生物</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wilkołaki</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">狼族首领</text>
       <text lang="eng">Wolf Leader</text>
       <text lang="ger">Wolfsführer</text>
+      <text lang="l11">狼族首領</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Przewodnik stada wilków</text>
     </string>
     <string id="99">
       <text lang="CHN">狼穴</text>
       <text lang="eng">THE WOLVES' CAVE</text>
       <text lang="ger">DIE WOLFSHÖHLE</text>
+      <text lang="l11">狼穴</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">JASKINIA WILKÓW</text>
     </string>
   </strings>
@@ -63,6 +84,18 @@ I started looking for the switch of this underground vault ...
 Überall hier drinnen war ein übler Nebel, begleitet von einem modrigen, verwesenden Geruch. Und die Wölfe ringsherum stimmten einen Kanon an, von dem mir beinahe das Herz stehen blieb! 
 Ich machte mich auf die Suche nach dem Schalter dieses unterirdischen Gewölbes...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+洞內處處瀰漫惡臭的霧氣，伴著腐臭之氣。四周群狼齊嘯，幾乎令我心膽俱裂！
+我動身去尋找這地下穹廳的開關……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -90,6 +123,17 @@ An intruder in our dungeon? Kill him!
 Ein Eindringling in unserem Verlies? Tötet ihn!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+有闖入者進了我們的地牢？殺了他！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -114,6 +158,17 @@ There was the switch I had been looking for ... but it was guarded by hordes of 
 
 Da war der Schalter, das Ziel meiner Suche... Doch er wurde bewacht von riesigen Wolfshorden und diesen aufrechtgehenden Wolfskreaturen! 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+開關就在那兒，我尋覓的目標……卻由龐大的狼群與這些直立的狼族生物把守！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -140,6 +195,17 @@ The creatures were dead, but what if there were more of them about?
 Die Kreaturen waren tot, doch was, wenn es irgendwo noch mehr von ihnen gab?
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+怪物已死，可若別處還有更多呢？
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -164,6 +230,17 @@ Time to get out of this dreadful cave ...
 
 Jetzt nichts wie raus aus dieser grauenvollen Höhle...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+此刻只求速離這可怖洞穴……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -190,6 +267,17 @@ Bjarni has died!
 Bjarni ist gestorben!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+比雅尼犧牲了！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -214,6 +302,17 @@ I had run through one of these dark, nebulous shapes - it was true what Miguel h
 
 Ich war durch einen dieser dunklen Nebel gelaufen, und es stimmte tatsächlich, was Miguel von dessen erfrischender Wirkung erzählt hatte: ein paar Sekunden in diesem Nebel, und es ging mir sichtlich besser!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+我穿行過一團幽暗之霧，米格爾所言它的提神之效竟是真的：在霧中駐留片刻，我便明顯好轉！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -241,6 +340,17 @@ THE WOLVES' CAVE
 DIE WOLFSHÖHLE
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+狼穴
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

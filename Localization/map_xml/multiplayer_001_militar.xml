@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,66 +14,99 @@
       <text lang="CHN">军事：辽阔大地</text>
       <text lang="eng">Military: BIG COUNTRY</text>
       <text lang="ger">Militär: WEITES LAND</text>
+      <text lang="l11">軍事：遼闊大地</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Walka: WIELKA KRAINA</text>
     </string>
     <string id="1">
       <text lang="CHN">4 个维京部族在这片广袤疆域上争夺霸权。</text>
       <text lang="eng">4 Viking tribes fight for supremacy in this vast realm.</text>
       <text lang="ger">4 Wikingerstämme kämpfen um die Vorherrschaft in diesem großen Reich.</text>
+      <text lang="l11">4 個維京部族在這片廣袤疆域上爭奪霸權。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">O władzę nad tym rozległym państwem walczą 4 wikińskie plemiona.</text>
     </string>
     <string id="2">
       <text lang="CHN">最后幸存下来的部族获胜……</text>
       <text lang="eng">The last surviving tribe wins ...</text>
       <text lang="ger">Der letzte überlebende Stamm gewinnt...</text>
+      <text lang="l11">最後倖存下來的部族獲勝……</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zwycięży to plemię, które przetrwa...</text>
     </string>
     <string id="10">
       <text lang="CHN">格陵兰人</text>
       <text lang="eng">Greenlander</text>
       <text lang="ger">Grünländer</text>
+      <text lang="l11">格陵蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Grenlandczyk</text>
     </string>
     <string id="11">
       <text lang="CHN">格陵兰人</text>
       <text lang="eng">Greenlander</text>
       <text lang="ger">Grünländer</text>
+      <text lang="l11">格陵蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Grenlandczyk</text>
     </string>
     <string id="20">
       <text lang="CHN">文兰人</text>
       <text lang="eng">Vinlander</text>
       <text lang="ger">Vinländer</text>
+      <text lang="l11">文蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Winlandczyk</text>
     </string>
     <string id="21">
       <text lang="CHN">文兰人</text>
       <text lang="eng">Vinlander</text>
       <text lang="ger">Vinländer</text>
+      <text lang="l11">文蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Winlandczyk</text>
     </string>
     <string id="30">
       <text lang="CHN">海卢兰人</text>
       <text lang="eng">Hellulander</text>
       <text lang="ger">Helluländer</text>
+      <text lang="l11">海盧蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hellulandczyk</text>
     </string>
     <string id="31">
       <text lang="CHN">海卢兰人</text>
       <text lang="eng">Hellulander</text>
       <text lang="ger">Helluländer</text>
+      <text lang="l11">海盧蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hellulandczyk</text>
     </string>
     <string id="40">
       <text lang="CHN">马克兰人</text>
       <text lang="eng">Marklander</text>
       <text lang="ger">Markländer</text>
+      <text lang="l11">馬克蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Marklandczyk</text>
     </string>
     <string id="41">
       <text lang="CHN">马克兰人</text>
       <text lang="eng">Marklander</text>
       <text lang="ger">Markländer</text>
+      <text lang="l11">馬克蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Marklandczyk</text>
     </string>
   </strings>
@@ -103,6 +139,21 @@ Die Wikingerstämme leben nebeneinander her, und es sollte eigentlich keinen Gru
 Doch in der Realität sieht das ganz anders aus - also geh und kämpfe!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+一個新時代拉開了序幕。維京人在一處寬闊山谷中安下新家，這裡每個人都有足夠的棲身之所，無人須憂心資源匱乏。
+
+維京各部族比鄰而居，本不該有兵戎相見的理由……
+
+然而現實截然不同--所以，去戰鬥吧！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 Oto początek nowej ery. Wikingowie zasiedlili rozległą dolinę, która od dziś będzie ich nowym domem. Jest tu dość miejsca dla wszystkich. O surowce naturalne też nie trzeba się martwić.
@@ -132,6 +183,17 @@ BIG COUNTRY
 WEITES LAND
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+遼闊大地
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

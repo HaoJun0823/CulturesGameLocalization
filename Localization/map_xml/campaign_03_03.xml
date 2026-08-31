@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,360 +14,540 @@
       <text lang="CHN">短描述 0</text>
       <text lang="eng">Shortdescription 0</text>
       <text lang="ger">Shortdescription 0</text>
+      <text lang="l11">短描述 0</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Krótki opis 0</text>
     </string>
     <string id="1">
       <text lang="CHN">短描述 1</text>
       <text lang="eng">Shortdescription 1</text>
       <text lang="ger">Shortdescription 1</text>
+      <text lang="l11">短描述 1</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Krótki opis 1</text>
     </string>
     <string id="30">
       <text lang="CHN">缴纳贡品，使克洛诺斯之民成为你的贸易伙伴。</text>
       <text lang="eng">Pay the tribute to win the people of Chronos as trading partners.</text>
       <text lang="ger">Zahle den Tribut, um das Volk von Chronos als Handelspartner zu gewinnen.</text>
+      <text lang="l11">繳納貢品，使克洛諾斯之民成為你的貿易伙伴。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, by zyskać mieszkańców Chronosa jako partnerów handlowych.</text>
     </string>
     <string id="31">
       <text lang="CHN">缴纳贡品，使奥克索斯之民重归友好。</text>
       <text lang="eng">Pay the tribute to make the people of Oxidos happy again.</text>
       <text lang="ger">Zahle den Tribut, um das Volk von Oxidos wieder freundlich zu stimmen.</text>
+      <text lang="l11">繳納貢品，使奧克索斯之民重歸友好。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, by uczynić mieszkańców Oxidos ponownie szczęśliwymi.</text>
     </string>
     <string id="32">
       <text lang="CHN">向克罗伊斯缴纳贡品，以促成和平。</text>
       <text lang="eng">Pay Croesus a tribute to establish peace.</text>
       <text lang="ger">Zahle Croesus einen Tribut, um Frieden zu stiften.</text>
+      <text lang="l11">向克羅伊斯繳納貢品，以促成和平。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut Croesus, by ustanowić pokój.</text>
     </string>
     <string id="40">
       <text lang="CHN">玩家</text>
       <text lang="eng">Player</text>
       <text lang="ger">Spieler</text>
+      <text lang="l11">玩家</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz</text>
     </string>
     <string id="41">
       <text lang="CHN">罗德人</text>
       <text lang="eng">Rhodes</text>
       <text lang="ger">Rhoder</text>
+      <text lang="l11">羅德人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Rhodes</text>
     </string>
     <string id="42">
       <text lang="CHN">德米特里奥斯</text>
       <text lang="eng">Demetrios</text>
       <text lang="ger">Demetrios</text>
+      <text lang="l11">德米特里奧斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Demetrios</text>
     </string>
     <string id="43">
       <text lang="CHN">巴克希什</text>
       <text lang="eng">Bakshish</text>
       <text lang="ger">Bakshish</text>
+      <text lang="l11">巴克希什</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bakshish</text>
     </string>
     <string id="44">
       <text lang="CHN">奥克索斯</text>
       <text lang="eng">Oxos</text>
       <text lang="ger">Oxos</text>
+      <text lang="l11">奧克索斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Oxos</text>
     </string>
     <string id="45">
       <text lang="CHN">克洛诺斯</text>
       <text lang="eng">Chronos</text>
       <text lang="ger">Chronos</text>
+      <text lang="l11">克洛諾斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Chronos</text>
     </string>
     <string id="46">
       <text lang="CHN">奥克索斯</text>
       <text lang="eng">Oxidos</text>
       <text lang="ger">Oxidos</text>
+      <text lang="l11">奧克索斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Oxidos</text>
     </string>
     <string id="47">
       <text lang="CHN">克罗伊斯</text>
       <text lang="eng">Croesus</text>
       <text lang="ger">Croesus</text>
+      <text lang="l11">克羅伊斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Croesus</text>
     </string>
     <string id="48">
       <text lang="CHN">林多斯</text>
       <text lang="eng">Lindos</text>
       <text lang="ger">Lindos</text>
+      <text lang="l11">林多斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Lindos</text>
     </string>
     <string id="49">
       <text lang="CHN">墨特罗斯</text>
       <text lang="eng">Metros</text>
       <text lang="ger">Metros</text>
+      <text lang="l11">墨特羅斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Metros</text>
     </string>
     <string id="50">
       <text lang="CHN">卡瑞斯</text>
       <text lang="eng">Chares</text>
       <text lang="ger">Chares</text>
+      <text lang="l11">卡瑞斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Chares</text>
     </string>
     <string id="60">
       <text lang="CHN">玩家</text>
       <text lang="eng">Player</text>
       <text lang="ger">Spieler</text>
+      <text lang="l11">玩家</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz</text>
     </string>
     <string id="61">
       <text lang="CHN">罗德</text>
       <text lang="eng">Rhod</text>
       <text lang="ger">Rhod</text>
+      <text lang="l11">羅德</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Rhod</text>
     </string>
     <string id="62">
       <text lang="CHN">狄米</text>
       <text lang="eng">Deme</text>
       <text lang="ger">Deme</text>
+      <text lang="l11">狄米</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Deme</text>
     </string>
     <string id="63">
       <text lang="CHN">巴克斯</text>
       <text lang="eng">Baks</text>
       <text lang="ger">Baks</text>
+      <text lang="l11">巴克斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Baks</text>
     </string>
     <string id="64">
       <text lang="CHN">奥克索斯</text>
       <text lang="eng">Oxos</text>
       <text lang="ger">Oxos</text>
+      <text lang="l11">奧克索斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Oxos</text>
     </string>
     <string id="65">
       <text lang="CHN">克罗</text>
       <text lang="eng">Chro</text>
       <text lang="ger">Chro</text>
+      <text lang="l11">克羅</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Chro</text>
     </string>
     <string id="66">
       <text lang="CHN">奥克西</text>
       <text lang="eng">Oxid</text>
       <text lang="ger">Oxid</text>
+      <text lang="l11">奧克西</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Oxid</text>
     </string>
     <string id="67">
       <text lang="CHN">克洛伊</text>
       <text lang="eng">Croe</text>
       <text lang="ger">Croe</text>
+      <text lang="l11">克洛伊</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Croe</text>
     </string>
     <string id="68">
       <text lang="CHN">林德</text>
       <text lang="eng">Lind</text>
       <text lang="ger">Lind</text>
+      <text lang="l11">林德</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Lind</text>
     </string>
     <string id="69">
       <text lang="CHN">墨特</text>
       <text lang="eng">Metr</text>
       <text lang="ger">Metr</text>
+      <text lang="l11">墨特</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Metr</text>
     </string>
     <string id="70">
       <text lang="CHN">卡瑞</text>
       <text lang="eng">Char</text>
       <text lang="ger">Char</text>
+      <text lang="l11">卡瑞</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Char</text>
     </string>
     <string id="72">
       <text lang="CHN">"秘书"塞克拉塔里奥斯</text>
       <text lang="eng">Secretarios</text>
       <text lang="ger">Sekretarios</text>
+      <text lang="l11">"秘書"塞克拉塔里奧斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Secretarios</text>
     </string>
     <string id="73">
       <text lang="CHN">柏拉图</text>
       <text lang="eng">Plato</text>
       <text lang="ger">Plato</text>
+      <text lang="l11">柏拉圖</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Plato</text>
     </string>
     <string id="78">
       <text lang="CHN">古纳尔</text>
       <text lang="eng">Gunnar</text>
       <text lang="ger">Gunnar</text>
+      <text lang="l11">古納爾</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gunnar</text>
     </string>
     <string id="81">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="82">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="l11">希拉</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Cyra</text>
     </string>
     <string id="83">
       <text lang="CHN">哈奇</text>
       <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
+      <text lang="l11">哈奇</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hatchie</text>
     </string>
     <string id="84">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="l11">西格德</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Sigurd</text>
     </string>
     <string id="85">
       <text lang="CHN">诺伯特</text>
       <text lang="eng">Norbert</text>
       <text lang="ger">Norbert</text>
+      <text lang="l11">諾伯特</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Norbert</text>
     </string>
     <string id="86">
       <text lang="CHN">玛尼</text>
       <text lang="eng">Mani</text>
       <text lang="ger">Mani</text>
+      <text lang="l11">瑪尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mani</text>
     </string>
     <string id="90">
       <text lang="CHN">墨特罗斯</text>
       <text lang="eng">Metros</text>
       <text lang="ger">Metros</text>
+      <text lang="l11">墨特羅斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Metros</text>
     </string>
     <string id="91">
       <text lang="CHN">卡瑞斯</text>
       <text lang="eng">Chares</text>
       <text lang="ger">Chares</text>
+      <text lang="l11">卡瑞斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Chares</text>
     </string>
     <string id="96">
       <text lang="CHN">比罗克拉特斯</text>
       <text lang="eng">Buerocrates</text>
       <text lang="ger">Buerokrates</text>
+      <text lang="l11">比羅克拉特斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Buerocrates</text>
     </string>
     <string id="98">
       <text lang="CHN">我们航行前往罗德岛，本欲在那里竖起一尊巨像。然而等待我们的，却是一番恶毒的意外……</text>
       <text lang="eng">We sailed to the isle of Rhodes where we were supposed to erect a majestic statue. But instead, a nasty surprise was waiting for us ...</text>
       <text lang="ger">Wir segelten zur Insel Rhodos, wo wir eine gigantische Statue errichten sollten.Doch wird erlebten eine böse Überraschung...</text>
+      <text lang="l11">我們航行前往羅德島，本欲在那裡豎起一尊巨像。然而等待我們的，卻是一番惡毒的意外……</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Przypłynęliśmy na wyspę Rodos, gdzie spodziewaliśmy się wznieść majestatyczną statuę. Ale zamiast tego, czekała nas niemiła niespodzianka ...</text>
     </string>
     <string id="99">
       <text lang="CHN">罗德岛巨像</text>
       <text lang="eng">THE COLOSSUS OF RHODES</text>
       <text lang="ger">DER KOLOSS VON RHODOS</text>
+      <text lang="l11">羅德島巨像</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">KOLOS Z RODOS </text>
     </string>
     <string id="100">
       <text lang="CHN">派遣一名侦察兵前往罗德。</text>
       <text lang="eng">Send a scout to Rhodes.</text>
       <text lang="ger">Schicke einen Kundschafter nach Rhodos.</text>
+      <text lang="l11">派遣一名偵察兵前往羅德。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wyślij zwiadowców na Rodos.</text>
     </string>
     <string id="110">
       <text lang="CHN">找到线索，看看你能如何援助罗德人……</text>
       <text lang="eng">Find a hint how you can assist the people of Rhodes ...</text>
       <text lang="ger">Finde einen Hinweis, wie du den Rhodern helfen kannst...</text>
+      <text lang="l11">找到線索，看看你能如何援助羅德人……</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Znajdź wskazówkę, jak możesz pomóc mieszkańcom Rodos ...</text>
     </string>
     <string id="111">
       <text lang="CHN">找到琳达的妹妹。</text>
       <text lang="eng">Find Linda's sister.</text>
       <text lang="ger">Finde die Schwester von Linda.</text>
+      <text lang="l11">找到琳達的妹妹。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Znajdź siostrę Lindy.</text>
     </string>
     <string id="112">
       <text lang="CHN">去见佩特罗斯。他会继续助你一臂之力。</text>
       <text lang="eng">Go to Petros. He will help you.</text>
       <text lang="ger">Gehe zu Petros. Er wird dir weiter helfen.</text>
+      <text lang="l11">去見佩特羅斯。他會繼續助你一臂之力。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Idź do Petrosa. On ci pomoże.</text>
     </string>
     <string id="113">
       <text lang="CHN">备一辆手推车，装上 10 桶蜂蜜酒，带到佩特罗斯处。</text>
       <text lang="eng">Get a handcart with 10 mead and take it to Petros.</text>
       <text lang="ger">Besorge einen Handkarren mit 10 Met und gehe damit zu Petros.</text>
+      <text lang="l11">備一輛手推車，裝上 10 桶蜂蜜酒，帶到佩特羅斯處。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Weź ręczny wózek z 10 miodami i zabierz je do Petrosa.</text>
     </string>
     <string id="114">
       <text lang="CHN">若你愿意，可向奥克索斯缴贡买下这辆手推车。</text>
       <text lang="eng">If you want to, buy the handcart off Oxos by paying him a tribute.</text>
       <text lang="ger">Wenn du magst, kaufe per Tributzahlung den Handkarren von Oxos.</text>
+      <text lang="l11">若你願意，可向奧克索斯繳貢買下這輛手推車。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Jeśli chcesz, kup ręczny wózek od Oxosa płacąc mu trybut.</text>
     </string>
     <string id="115">
       <text lang="CHN">向克罗伊斯缴纳 10 把长弓作为贡品，以使他对你友好。</text>
       <text lang="eng">Pay Croesus a tribute of 10 longbows to make him happy.</text>
       <text lang="ger">Zahle Croesus 10 Langbogen als Tribut, um ihn friedlich zu stimmen.</text>
+      <text lang="l11">向克羅伊斯繳納 10 把長弓作為貢品，以使他對你友好。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać Croesusowi trybut w wysokości 10 długich łuków, by go uszczęśliwić.</text>
     </string>
     <string id="120">
       <text lang="CHN">向东南突围前往林多斯。到了那里，你便能求得援手。</text>
       <text lang="eng">Make your way towards the south-east to Lindos. You will find help there.</text>
       <text lang="ger">Schlag dich gen Südenosten nach Lindos durch. Dort findest du Hilfe.</text>
+      <text lang="l11">向東南突圍前往林多斯。到了那裡，你便能求得援手。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Skieruj się w kierunku południowo-wschodnim do Lindos. Znajdziesz tam pomoc.</text>
     </string>
     <string id="121">
       <text lang="CHN">去拜访林多斯的市长。</text>
       <text lang="eng">Find the mayor of Lindos.</text>
       <text lang="ger">Suche den Bürgermeister von Lindos auf.</text>
+      <text lang="l11">去拜訪林多斯的市長。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Znajdź burmistrza Lindos.</text>
     </string>
     <string id="122">
       <text lang="CHN">与"秘书"塞克拉塔里奥斯一同去见港务长。</text>
       <text lang="eng">Take Secretarios to the harbour master.</text>
       <text lang="ger">Geh mit Sekretarios zum Hafenmeister.</text>
+      <text lang="l11">與"秘書"塞克拉塔里奧斯一同去見港務長。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zabierz Secretariosa do kapitana portu.</text>
     </string>
     <string id="123">
       <text lang="CHN">向市长领取一份许可文书。</text>
       <text lang="eng">Get a letter of approval from the mayor.</text>
       <text lang="ger">Hole ein Genehmigungsschreiben beim Bürgermeister.</text>
+      <text lang="l11">向市長領取一份許可文書。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zabierz pismo ze zgodą od burmistrza.</text>
     </string>
     <string id="124">
       <text lang="CHN">把市长给的许可文书送交比罗克拉特斯。</text>
       <text lang="eng">Take the letter of approval from the mayor to Buerocrates.</text>
       <text lang="ger">Bring das Genehmigungsschreiben vom Bürgermeister zu Buerokrates.</text>
+      <text lang="l11">把市長給的許可文書送交比羅克拉特斯。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zabierz list ze zgodą od burmistrza do Buerocratesa.</text>
     </string>
     <string id="125">
       <text lang="CHN">在东方海岛上找到神谕神庙。</text>
       <text lang="eng">Find the temple of the oracle on the island in the east.</text>
       <text lang="ger">Finde den Tempel des Orakels auf der Insel im Osten.</text>
+      <text lang="l11">在東方海島上找到神諭神廟。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Znajdź świątynię wyroczni na wyspie na wschodzie.</text>
     </string>
     <string id="130">
       <text lang="CHN">去林多斯寻访卡瑞斯。</text>
       <text lang="eng">Look for Chares in Lindos.</text>
       <text lang="ger">Suche Chares in Lindos auf.</text>
+      <text lang="l11">去林多斯尋訪卡瑞斯。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Poszukaj Charesa w Lindos.</text>
     </string>
     <string id="131">
       <text lang="CHN">向卡瑞斯缴纳 25 块大理石（以贡品形式）。</text>
       <text lang="eng">Deliver 25 blocks of marble to Chares (as a tribute).</text>
       <text lang="ger">Liefere Chares 25 Marmorblöcke (per Tribut).</text>
+      <text lang="l11">向卡瑞斯繳納 25 塊大理石（以貢品形式）。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Dostarcz 25 bloków marmuru do Chares (jako trybut).</text>
     </string>
     <string id="132">
       <text lang="CHN">向卡瑞斯缴纳 5 根金条、10 份黏土、10 块碎石（以贡品形式）。</text>
       <text lang="eng">Deliver 5 gold ingots, 10 clay and 10 quarrystones to Chares (as a tribute).</text>
       <text lang="ger">Liefere Chares 5 Goldbarren, 10 Lehm und 10 Bruchsteine (per Tribut).</text>
+      <text lang="l11">向卡瑞斯繳納 5 根金條、10 份黏土、10 塊碎石（以貢品形式）。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Dostarcz 5 sztabek złota, 10 gliny i 10 obrobionych kamieni do Chares (jako trybut).</text>
     </string>
     <string id="133">
       <text lang="CHN">再向卡瑞斯缴纳 5 根金条、10 份黏土、10 块碎石（以贡品形式）。</text>
       <text lang="eng">Deliver another 5 gold ingots, 10 clay and 10 quarrystones to Chares (as a tribute).</text>
       <text lang="ger">Liefere Chares weitere 5 Goldbarren, 10 Lehm und 10 Bruchsteine (per Tribut).</text>
+      <text lang="l11">再向卡瑞斯繳納 5 根金條、10 份黏土、10 塊碎石（以貢品形式）。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Dostarcz kolejne 5 złotych sztabek, 10 gliny i 10 obrobionych kamieni do Chares (jako trybut).</text>
     </string>
     <string id="134">
       <text lang="CHN">再向卡瑞斯缴纳 10 根金条与 10 根铁条（以贡品形式）。</text>
       <text lang="eng">Deliver another 10 gold ingots and 10 iron bars to Chares (as a tribute).</text>
       <text lang="ger">Liefere Chares weitere 10 Goldbarren und 10 Eisenbarren (per Tribut).</text>
+      <text lang="l11">再向卡瑞斯繳納 10 根金條與 10 根鐵條（以貢品形式）。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Dostarcz kolejne 10 złotych sztabek i 10 sztabek żelaza do Chares (jako trybut).</text>
     </string>
     <string id="140">
       <text lang="CHN">@竖起罗德岛巨像！</text>
       <text lang="eng">@BUILD THE COLOSSUS OF RHODES!</text>
       <text lang="ger">@ERRICHTE DEN KOLOS VON RHODOS!</text>
+      <text lang="l11">@豎起羅德島巨像！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">@WYBUDUJ KOLOSA RODYJSKIEGO!</text>
     </string>
   </strings>
@@ -386,6 +569,17 @@ We had arrived on a small island near Rhodes to restock our supplies and to reco
 Wir waren auf einer kleinen Insel nahe Rhodos gelandet, um unsere Vorräte aufzufüllen und uns von der Reise etwas zu erholen. Schließlich wollten wir nach Rhodos übersetzen, denn dort war der richtige Platz, um das nächste Weltwunder zu vollenden - eine Statue, welche die Dächer der Stadt überragen sollte. Einen mächtigen Koloss! So hatte der Rat es uns aufgetragen, und wir ahnten, dass dies keine leichte Aufgabe werden würde...
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+我們在羅德島附近的一座小島上登陸，補充給養，稍作休整。最終我們要渡海前往羅德島--因為真正的巨像就矗立在那裡，等待著我們去完成它。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -450,6 +644,30 @@ Schweren Mutes mussten wir Hatschi und Sigurd mit ihrer Aufgabe alleine lassen, 
 Wir wünschten ihnen alles Gute und versprachen, sofort zurückzukehren, sobald Mani wieder genesen war.
 Dann setzen wir Segel gen Byzanz...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+歸鄉
+
+我們剛一靠岸卸貨，兒子瑪尼便驟然昏倒，不省人事地躺在沙灘上！
+
+他的額頭滾燙如焚，渾身冷汗涔涔。
+
+瑪尼急需醫治，島上卻無醫生。
+
+我們只得讓哈奇與西格德護送他離去。
+
+我們祝福他們，並承諾定將完成巨像以為呼應。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -516,6 +734,26 @@ Lass dich auf der Insel nieder und sende Kundschafter nach Rhodos.
 Benutze deine Briefe und die Waren aus dem Schiff.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+我們剛離開船隻，便聽見遠方傳來廝殺聲與號角！
+
+我們一時難以辨明聲響來自何方。
+
+決定先在此安頓下來。
+
+在島上落腳，並派出偵察兵。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -550,6 +788,20 @@ MISSION COMPLETED!
         <text> 
 MISSION GEWONNEN! 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+任務成功！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -590,6 +842,24 @@ Einzig Chares war wenig begeistert. Ihn hatte der Bau finanziell ruiniert! Verzw
 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+大功告成！在卡瑞斯的協助下，我們竟建成了第三座世界奇蹟！
+
+耀眼而壯麗的羅德島巨像拔地而起……
+
+唯獨卡瑞斯興致寥寥。這一遭，他被人狠狠算計了。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Dokonaliśmy tego! Z naszą pomocą, Chares zdołał wznieść trzeci Cud Świata!
@@ -625,6 +895,22 @@ Auch für uns war die Zeit des Abschieds gekommen. Wie verließen die prächtige
 
 Denn dort wartete bereits das nächste Weltwunder auf uns - DAS GARBMAL DES MAUSOLOS.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+對我們而言，告別之時也已來臨。我們離開華美的羅德城，揚帆駛向哈利卡納蘇斯。
+
+因為那裡正等候著……
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -674,6 +960,26 @@ Sie freuen sich über jedes gute Geschäft, das sie machen können und sind übe
 
 Bestimmt handeln sie auch gerne mit dir.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+奧克索斯
+
+這是奧克索斯島。一座小巧而寧靜的孤島。宜作短途度假，可惜誰又有這等閒情？
+
+奧克索斯島上蘊藏豐沛的鐵礦與金礦。
+
+他們定也樂與你交易。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -729,6 +1035,37 @@ MISSION VERLOREN!
 Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+是英勇還是魯莽？當比雅尼倒下時，眾神為之落淚……失去這位英雄，你將無緣見到任務的結局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -780,6 +1117,26 @@ Allerdings kostet das eine Kleinigkeit...
 Zahle den geforderten Tribut, wenn du die Oxidenter wieder friedlich stimmen willst.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+這就是待客之道嗎？襲擊只想與外來者交好的和平之民？身在他鄉，竟如此行事？
+
+無論如何--奧克索斯人對人侵擾興趣缺缺。
+
+不過，這須花上小小代價……
+
+若想與奧克索斯人交好，便繳納索求的貢品。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Czy to jest sposób na dobre zachowanie? Atakować spokojnych ludzi, którzy myślą tylko o twoim dobrze? Czy powinieneś się zachowywać w ten sposób, gdy nie jesteś u siebie w domu?
@@ -825,6 +1182,24 @@ Du hast Chronos erreicht. Hier leben Waffen- und Warenhändler, die im ganzen Mi
 
 Zahle Tribut, wenn du handeln willst.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+克洛諾斯
+
+你抵達了克洛諾斯。此處住著武器商與貨商，他們以精良貨品聞名整個地中海。
+
+若要交易，便須繳納貢品。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -876,6 +1251,37 @@ MISSION VERLOREN!
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時的疏忽，人生便會急轉直下！你的女英雄希拉因你的大意而喪命！失去這位英雄，你將無緣見到任務的結局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -955,6 +1361,39 @@ Du findest ihn in seinem Haus in der Nähe des byzantinischen Viertels.
 Und wehe dir, wenn du ein Spion bist!"
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+德米特里奧斯
+
+"啊……外鄉人。哼。在這片地界……你們莫非是奸細？
+        
+        </text>
+        <usericon>1,231,81</usericon>
+        <text>
+
+
+聽著：數週來，我們的城池一直被德米特里奧斯王及其大軍圍困！
+
+去見鎮長佩特羅斯！他統領我們。
+
+……
+
+若你真是奸細，定無好下場！"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,231,81</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,231,81</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 DIMITRI 
@@ -996,6 +1435,20 @@ You have paid Chronos the tribute. Now you are allowed to trade.
 Du hast den Tribut an Chronos bezahlt. Nun kannst du handeln.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+你已向克洛諾斯繳付貢品。如今可以交易了。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Zapłaciłeś Chronosowi trybut. Teraz wolno ci handlować.
@@ -1030,6 +1483,25 @@ OXOS
 "Manchmal hab ich gute Angebote. Komm später wieder."
 
 </text>
+        <usericon>1,267,118</usericon>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+奧克索斯
+
+"我偶爾有些好貨。改日再來吧。"
+        
+        </text>
+        <usericon>1,267,118</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,267,118</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
         <usericon>1,267,118</usericon>
       </lang>
       <lang code="pol">
@@ -1091,6 +1563,35 @@ Nun, wer weiß... vielleicht baut hier ja bald wieder jemand ein hübsches Lager
 
 Wollt ihr nicht eines bauen? Ihr seht sehr tüchtig aus..."
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+海倫娜
+
+"這兒地方不錯，對吧？從前這兒矗立著一座華麗的倉庫，可西部港口一修，它就……
+        
+        </text>
+        <usericon>1,276,79</usericon>
+        <text>
+
+
+誰知道呢……或許不久後，又會有人在此蓋起漂亮的倉棧……
+
+你們看著挺能幹，不如自己建一座？"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,276,79</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,276,79</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1154,6 +1655,34 @@ Hast du schön von dem Berg im Süden gehört? Dort soll es riesige Goldvorkomme
 
 Man sagt aber, dass dieser Berg König Croesus gehört und der es gar nicht gerne hat, wenn jemand seinen Schätzen zu nahe kommt!"
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+陰謀者
+
+"嘿，外鄉人……
+你可聽過南邊那座山？據說那裡蘊藏巨量金礦！連鐵也有！
+        
+        </text>
+        <usericon>1,321,103</usericon>
+        <text>
+
+
+可有人說，那山歸克羅伊斯王所有，誰敢近他的寶物，他定然暴跳如雷！"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,321,103</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,321,103</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1220,6 +1749,35 @@ Ist grad alle, aber wen du später noch mal kommst, kann ich dir vielleicht helf
 HEY - und... Pssst! Nur für gute Freunde wie dich!"
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+阿爾科利奧斯
+
+"嘿，外鄉人……噓……在我這兒能買到世上最烈的酒！上等貨！酒坊剛釀出來！好年份，我說的！
+        
+        </text>
+        <usericon>1,340,107</usericon>
+        <text>
+
+
+眼下剛好售罄，不過你遲些再來，或許我能幫上忙……
+
+嘿--還有……噓！只給像你這樣的好朋友！"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,340,107</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,340,107</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 ALCOLIOS
@@ -1282,6 +1840,34 @@ ALCOLIOS
 Ich hab ne neue Lieferung bekommen. Möchtest du mal probieren? Auf Kosten des Hauses versteht sich... hihi
 Wem's schmeckt, der kommt wieder hihihi..."
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+阿爾科利奧斯
+
+"啊--咱們不是認識的麼？嘿嘿……上等貨，你知道的……嘻嘻……
+        
+        </text>
+        <usericon>1,340,107</usericon>
+        <text>
+
+
+我剛到了新貨。想嚐嚐嗎？算店裡請客……嘻嘻
+誰喝得慣，自然會再來的，嘻嘻嘻……"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,340,107</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,340,107</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1358,6 +1944,37 @@ Fahre gen Norden und von dort stets in Richtung der aufgehenden Sonne. Dann wirs
 Möge Neptun mit dir sein!"
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+奧德修斯
+
+"外鄉人，幸會！
+
+我遊歷甚廣，足跡遍佈天下。多少故事能與你講……
+        
+        </text>
+        <usericon>1,317,141</usericon>
+        <text>
+
+
+可話說回來--你可知道奧克索斯與克洛諾斯二島？絕佳去處，正宜小憩！此外在克洛諾斯還能買到最好的兵器……
+
+朝北航行，再由那裡一路向東，你便能抵達羅德。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,317,141</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,317,141</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 ULYSSES
@@ -1432,6 +2049,36 @@ Seit ich aber alt bin und mir die Kraft fehlt, meine Felder zu bewirtschaften, b
 
 Aber um ehrlich zu sein - mir hat es im Süden besser gefallen!"
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+巴登索斯
+
+"唉，外鄉人！
+從前我住在國境南部、大山脈以西。
+        
+        </text>
+        <usericon>1,245,126</usericon>
+        <text>
+
+
+那裡水草豐美，林木蔥蘢滿是野物，資源取之不盡。
+
+不過說實話--在南方，我過得更好……
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,245,126</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,245,126</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1529,6 +2176,43 @@ Sie versteht es, mit den Götter des Windes und des Wetters zu reden. Sie ist ei
 Und wenn der Regen aufhört, kommt Petros vielleicht raus, um mit dir zu reden..."
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+琳達，佩特羅斯之妻
+
+"外鄉人，幸會。"
+
+我是琳達，本鎮鎮長佩特羅斯的妻子。
+        
+        </text>
+        <usericon>1,218,126</usericon>
+        <text>
+
+
+數週來，我們的城池一直被德米特里奧斯及其大軍圍困。處境日益絕望！
+
+佩特羅斯已訂下良策……
+
+可惜佩特羅斯他，呃，怎麼說呢……有些怕雨。
+
+去尋找我的妹妹……她常在城東神廟。
+
+待雨歇了，佩特羅斯或許會走出房門。"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,218,126</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,218,126</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 LINDA, ŻONA PETROSA
@@ -1605,6 +2289,35 @@ Wir hatten die Schwester von Linda gefunden. Doch noch ehe wir unser Anliegen sc
 Nun denn - ich will euch helfen. Tretet mal einen Schritt zurück..."
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+琳達的妹妹
+
+我們找到了琳達的妹妹。未及說明來意，她便先開了口：
+        
+        </text>
+        <usericon>1,317,91</usericon>
+        <text>
+
+
+"哼，又讓我去把雨變沒……難道咱家好佩特羅斯不願踏出房門半步？嘻嘻嘻"。
+
+那麼--我願助你們一臂之力。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,317,91</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,317,91</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 SIOSTRA LINDY
@@ -1658,6 +2371,31 @@ And give my regards to Linda!"
 
 Und richte Linda einen schönen Gruß von mir aus!"
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+"去吧，去見咱們那位怕雨的英雄。去找佩特羅斯……嘻嘻嘻
+        
+        </text>
+        <usericon>1,317,91</usericon>
+        <text>
+
+
+代我向琳達問好！"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,317,91</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,317,91</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1763,6 +2501,47 @@ Einen Handkarren könnt ihr eventuell bei Oxos am Markt kaufen.
 Bis später dann!"
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+佩特羅斯
+
+"啊，幸會，外鄉人！拙荊早已向我提起你們！你們想幫忙，可是當真？妙極了！
+        
+        </text>
+        <usericon>1,218,128</usericon>
+        <text>
+
+
+那麼，且聽我之計：
+
+我們在敵營安插了一名眼線，名叫梅特羅斯。他是個商人，專給敵軍補給……
+
+我家地下藏著一條秘密通道，直通城外。
+
+林多斯是東南海港，向來與羅德交好。
+
+計劃很簡單，本應萬無一失……
+
+你們願替我們擔此任？當真？！
+
+那麼，推一輛滿載蜜酒的手推車來此。
+
+後會有期！"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,218,128</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,218,128</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 PETROS
@@ -1838,6 +2617,33 @@ OXOS
 Für zwei Met könnt ihr ihn haben! Wir regeln das dann über eine Tributzahlung, ok?!"
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+奧克索斯
+
+"我這兒有個好買賣給你們！一輛頂好的手推車！新打的。結實無比！真正的傑作！
+        
+        </text>
+        <usericon>1,267,118</usericon>
+        <text>
+
+
+兩桶蜜酒就能拿下！咱們走個貢品賬，如何？！"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,267,118</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,267,118</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 OXOS
@@ -1895,6 +2701,33 @@ OXOS
 
 Hier, nehmt das gute Stück. Und passt gut darauf auf!"
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+奧克索斯
+
+"多謝你的蜜酒！
+        
+        </text>
+        <usericon>1,267,118</usericon>
+        <text>
+
+
+來，收好這好物件。可要妥加保管！"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,267,118</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,267,118</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1964,6 +2797,35 @@ Im Südosten gibt es eine hübsche Stadt! Lindos heißt sie. Müsst ihr unbeding
 Ich kenne da auch einen geheimen Pfad durch die Berge! Schwer zu finden, aber mit sehr schönem Ausblick auf's Meer. Wenn ihr den sucht, haltet nach Schatzkisten Ausschau..."
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+圖勒王
+
+"幸會，故鄉來的朋友們！遙遠的北地可好？那裡是否仍是大雪紛飛？
+        
+        </text>
+        <usericon>1,199,138</usericon>
+        <text>
+
+
+須知，縱使我曾是一大方維京部族之主，卻始終難耐冰雪嚴寒。
+
+東南方有座可愛的城！名曰林多斯……
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,199,138</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,199,138</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 KRÓL THULE
@@ -2025,6 +2887,33 @@ BOTE VON PETROS
 
 Möge euch das Schicksal diesmal mehr Glück schenken!"
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+佩特羅斯的使者
+
+"我們已為你們備妥一切！
+        
+        </text>
+        <usericon>2,62</usericon>
+        <text>
+
+
+願此次命運賜你們更多好運！"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,62</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,62</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -2096,6 +2985,37 @@ Viel Erfolg! Das Schicksal des Volkes von Rhodos hängt von euch ab!
 Wie gesagt, ich würde ja selbst... aber mein Rücken..."
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+佩特羅斯
+
+"啊哈，看來你們帶著蜜酒來了！甚好，甚好……
+        
+        </text>
+        <usericon>1,218,128</usericon>
+        <text>
+
+
+穿過地下迷宮，將蜜酒送給梅特羅斯。帶上幾個我的部下一同前往……以防不測……
+
+祝順利！羅德之民的命運繫於你們一身。
+
+如我所言，我本欲親往……奈何舊傷未愈。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,218,128</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,218,128</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 PETROS
@@ -2157,6 +3077,33 @@ Plötzlich landete ein Schiff mit Soldaten an Bord an der Küste!
 
 Demetrios's Truppen! Sie hatten uns entdeckt und waren nun darauf aus, den Küstenstreifen zu sichern...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+突襲！
+
+忽然一艘載滿士兵的船在海岸登陸！
+        
+        </text>
+        <usericon>1,32,228</usericon>
+        <text>
+
+
+德米特里奧斯的部隊！他們發現了我們，正欲封鎖這段海岸……
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,32,228</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,32,228</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -2222,6 +3169,35 @@ Allerdings ist er bereit, gegen die Zahlung eines gewissen "Friedenspreises" die
 Zahle den Tribut, um Frieden zu stiften...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+克羅伊斯
+
+你闖入了克羅伊斯王的領地！他最容不得外人覬覦他的黃金！
+        
+        </text>
+        <usericon>1,47,390</usericon>
+        <text>
+
+
+不過，只要繳付一筆"和平代價"，他願意放下武器。
+
+繳納貢品，以締造和平……
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,47,390</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,47,390</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 CROESUS
@@ -2278,6 +3254,37 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held HATSCHI erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時的疏忽，人生便會急轉直下！你的摯友與英雄哈奇因你的大意而喪命！失去這位英雄，你將無緣見到任務的結局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -2333,6 +3340,33 @@ Croesus zieht sich wie versprochen vom Goldberg zurück.
 
 Er wird dich nun nicht mehr angreifen.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+停戰
+
+克羅伊斯如約從金礦撤走。
+        
+        </text>
+        <usericon>1,53,466</usericon>
+        <text>
+
+
+他不會再攻擊你了。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,53,466</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,53,466</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -2391,6 +3425,33 @@ Es war geschafft! Wir traten aus dem Ausgang des Geheimganges ans Tageslicht. Hi
 
 Wir warteten...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+出口
+
+成了！我們走出密道的出口，重見天日。約好的商人梅特羅斯應在此與我們接頭，取走蜜酒……
+        
+        </text>
+        <usericon>1,207,234</usericon>
+        <text>
+
+
+我們等待著……
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,207,234</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,207,234</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -2457,6 +3518,35 @@ Dennoch - mein Herz schlägt eigentlich für Rhodos. Und man muss das Geschäftl
  
 Nun, momentan kann ich nichts für euch tun, aber geht in Rhodos zum Bürgermeister. Petros ist sein Name. Er kann euch vielleicht weiter helfen."
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+梅特羅斯
+
+"你好啊外鄉人！你們竟敢深入敵境如此之遠！
+        
+        </text>
+        <usericon>2,90</usericon>
+        <text>
+
+
+我在此與德米特里奧斯計程車兵做買賣。一門肥差，你們懂的，嘿嘿嘿。他們什麼都買……
+
+眼下我雖幫不上忙，但改日或許能助你們一臂之力……
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,90</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,90</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -2555,6 +3645,43 @@ Passt gut auf euch auf! Versteckt euch hier, bis die Soldaten vorbei sind. Und d
 Viel Glück!"
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+梅特羅斯
+
+我們沒等多久，梅特羅斯便迎上前來：
+        
+        </text>
+        <usericon>2,90</usericon>
+        <text>
+
+
+"啊，你們來了。我正候著你們。是打密道過來的，對吧？
+
+多謝你的蜜酒！我看看能否拿它換些情報……
+
+啊對了--這還有傳送門的鑰匙。
+
+再把這幾件武器拿上。途中或許用得著。
+
+務必小心！在此隱蔽，待敵軍撤走。
+
+祝好運！"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,90</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,90</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 METROS
@@ -2609,6 +3736,23 @@ Dein Bote ist tot!
 Der Trick mit dem Met wird jedoch bestimmt ein zweites Mal funktionieren. 
 Schicke einen neuen Boten mit einem Handkarren voll Met zu Petros. Er öffnet dir dann wieder den Eingang zum Geheimgang...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+你的使者已死！
+
+不過用蜜酒使詐，定能再度奏效。
+派一名新使者，推滿蜜酒的手推車過來。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -2681,6 +3825,39 @@ Hmmmm... lasst mal überlegen... Ja. Geht zum Hafenmeister Buerokrates. Richtet 
 Mein Sekretär soll mit dir gehen. Er wird alles weitere für euch regeln. Ruht euch solange hier aus, wenn ihr mögt."
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+柏拉圖
+
+我們找到了林多斯鎮長：
+        
+        </text>
+        <usericon>2,95</usericon>
+        <text>
+
+
+"啊，幸會，外鄉人。你們是如何穿過敵軍防線的？定然不易吧？
+
+你們尋找神諭？唔。這個嘛……神諭廟在東方海上。
+
+嗯……讓我想想……對了。去港口。
+
+我的"秘書"塞克拉塔里奧斯應與你同往。一切交由他安排。"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,95</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,95</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 PLATO
@@ -2750,6 +3927,35 @@ Mein geschätzter Sekretarios ist verstorben... Welch tragisches Schicksal!
 
 Nun, dann muss einer von euch Wikingern seinen Posten übernehmen und den Auftrag zu Ende führen."
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+柏拉圖
+
+"噢……
+        
+        </text>
+        <usericon>2,95</usericon>
+        <text>
+
+
+我敬愛的"秘書"塞克拉塔里奧斯故去了……何等悲慘的厄運！
+
+那麼，須得你們維京人中一員接替其職，充當……
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,95</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,95</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -2825,6 +4031,37 @@ Ohne das geht gar nichts, verstanden?
 Je schneller du damit zurück bist, desto besser. Ich will pünktlich Feierabend machen! Also spute dich!"
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+"官僚"布羅克拉特斯
+
+港務官在港口附近現身。他面無表情地聽完了我們的來意。
+        
+        </text>
+        <usericon>2,96</usericon>
+        <text>
+
+
+"哼。一艘船。嗯哼。人人都能來這一套！你這一套說辭我也聽得多了！
+
+沒有文書，一概免談，明白嗎？
+
+你越早帶回文書，事情越好。趕緊去。"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,96</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,96</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 BUEROCRATES
@@ -2888,6 +4125,33 @@ Als der Bürgermeister von der Forderung von Buerokrates hörte, schüttelte er 
 "Ach, dieser elende Bürokrat! Na denn, warte hier einen Moment..."
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+柏拉圖
+
+鎮長一聽"官僚"布羅克拉特斯的要求，只搖了搖頭：
+        
+        </text>
+        <usericon>2,95</usericon>
+        <text>
+
+
+"唉，這可惡的官僚！罷了，且在此稍候片刻……"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,95</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,95</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 PLATO
@@ -2948,6 +4212,34 @@ PLATO
 Bring es Buerokrates. Und richtet diesem... ach, lasst es. 
 Er macht ja eigentlich nur seinen Job..."
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+柏拉圖
+
+"喏，許可文書在此。一式三份，雙印加封。
+        
+        </text>
+        <usericon>2,95</usericon>
+        <text>
+
+
+帶去給"官僚"布羅克拉特斯。替我問候那傢伙……算了，不必了。
+他不過是在履行職責罷了……"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,95</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,95</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -3030,6 +4322,39 @@ So, und nun -
 Endlich Feierabend..."
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+"官僚"布羅克拉特斯
+
+"這就對了，辦得到嘛。拿來吧……
+        
+        </text>
+        <usericon>2,96</usericon>
+        <text>
+
+
+……啊哈……嗯哼……唔……是。
+
+看來無誤。
+
+那麼……收下這船，向東航行。那裡有神聖之島……
+
+好，這下--終於下班了……"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,96</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,96</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 BUEROCRATES
@@ -3082,6 +4407,24 @@ Vor dir taucht wie aus dem Nichts eine undurchdringliche Nebelwand auf. Hier gib
 
 Was nun? ...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+波塞冬之霧
+
+一道密不透光的霧牆憑空浮現於你眼前。此處無路可通。
+
+如今如何？……
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -3158,6 +4501,39 @@ Hm. Hm. Hm....
 
 Ich kann euch vielleicht helfen... ein kleiner Zauber unter Behörden, so hie und da nur, versteht sich...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+"官僚"布羅克拉特斯
+
+波塞冬之霧忽而傳來"官僚"布羅克拉特斯的聲音：
+        
+        </text>
+        <usericon>2,96</usericon>
+        <text>
+
+
+"啊對--我竟忘得一乾二淨……
+
+那臭名昭著的波塞冬之霧……據說是用來阻退好奇遊客、不讓他們近島的……
+
+嗯。嗯。嗯……
+
+我或許能助你們一臂之力……稍施個小法術……"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,96</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,96</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -3240,6 +4616,32 @@ Wir beschlossen, die Lage zunächst zu erforschen und nach Informationen zu such
 Suche in der Stadt nach Informationen, wie du vielleicht helfen kannst.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+羅德島
+
+著名的羅德港城，位於同名島嶼北部。旅人相傳，羅德島是愛琴海最秀美的島嶼之一。
+
+街巷間隨處可見士兵，他們正嚴陣以待。
+
+羅德被圍困了！城中戰雲密佈。
+
+然只要戰事未息，便無從著手建像。
+
+我們決定先探查局勢，再圖後計。
+
+在城中尋訪線索，看看如何幫助羅德人……
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 RODOS
@@ -3300,6 +4702,37 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held SIGURD erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時的疏忽，人生便會急轉直下！你的摯友與英雄西格德因你的大意而喪命！失去這位英雄，你將無緣見到任務的結局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -3340,6 +4773,23 @@ Endlich erreichten wir den Tempel des Orakels.
 Hinter der Eingangspforte führte ein Weg hinab in ein geheimnisvolles Gewölbe...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+神諭神廟
+
+我們終於抵達神諭神廟。
+入口大門後，一條小徑向下通入幽秘的穹窿……
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 ŚWIĄTYNIA WYROCZNI
@@ -3373,6 +4823,22 @@ Warum bist du gegen das Volk von Rhodos feindlich eingestellt? Sie haben dir nic
 
 Ändere deine Einstellung, oder du wirst dein Ziel nicht erreichen! 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+你為何對羅德之民抱有敵意？他們從未得罪於你！
+
+改變你的態度，否則將無緣達成目標。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -3428,6 +4894,28 @@ Helios hatte Wort gehalten! Rhodos war befreit!
 Nun war es an uns, die Statue zu errichten, die der Preis für die Hilfe sein sollte. 
 War es Zufall oder Schicksal - es gab keinen Zweifel, dass dieser Koloss genau jenes WELTWUNDER war, welches wir zu errichten aufgebrochen waren!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+赫利俄斯之罰
+
+當我們踏出神廟、重見天日，赫利俄斯便施展了他的神力！
+
+一陣劇烈震動撼動了大地，耀眼金光……
+
+赫利俄斯兌現了諾言！羅德終獲自由！
+
+如今輪到我們，去矗立那尊本應在此的巨像了。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -3517,6 +5005,41 @@ Habt schon jetzt Dank für eure Hilfe!"
 Such Chares in Lindos auf.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+佩特羅斯
+
+"朋友們，我們永世感激你們！
+        
+        </text>
+        <usericon>2,95</usericon>
+        <text>
+
+
+唯有憑你們的勇氣與無畏，我族才免於覆滅！
+
+縱使我深明這份重擔……
+
+我們願立起巍峨巨像，敬奉太陽神赫利俄斯。
+
+此刻便先謝過你們的相助！
+
+前往林多斯尋找卡瑞斯。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,95</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,95</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 PETROS
@@ -3585,6 +5108,33 @@ BÜRGER
 Den hab ich hier schon länger nicht mehr gesehen..."
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+市民
+
+"你找卡瑞斯？那位偉大的建築師？
+        
+        </text>
+        <usericon>2,120</usericon>
+        <text>
+
+
+他呀，我許久未見了……"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,120</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,120</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 CITIZEN
@@ -3642,6 +5192,33 @@ BÜRGER
 
 Ja, den kenne ich. Ich habe gehört, er wollte ein paar Tage Urlaub machen."
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+市民
+
+"卡瑞斯？
+        
+        </text>
+        <usericon>2,121</usericon>
+        <text>
+
+
+認得。聽說他想休幾天假。"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,121</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,121</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -3706,6 +5283,35 @@ Er hatte in letzter Zeit so viel Arbeit, dass er sich etwas erholen wollte. Ein 
 
 Ich glaube, er wollte Fischen gehen! Er hat da so sein geheimes Revier. Er hat mir allerdings nie erzählt, wo das ist..."
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+市民
+
+"噢對，卡瑞斯是我的好友！
+        
+        </text>
+        <usericon>2,122</usericon>
+        <text>
+
+
+他近日操勞過度，想稍作休整。去透幾日新鮮空氣，你懂的。
+
+我想他是想去……
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,122</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,122</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -3774,6 +5380,35 @@ So wie ich ihn kenne, wird er gerade mal eine mickrige Makrele an Land ziehen un
 
 Jaja, der gute, alte Chares..."
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+市民
+
+"卡瑞斯？認得，我見過他。
+        
+        </text>
+        <usericon>2,123</usericon>
+        <text>
+
+
+他正坐在北邊海灘上釣魚呢。嘻嘻！
+
+是呀，那好老頭卡瑞斯……
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,123</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,123</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -3886,6 +5521,49 @@ Ansonsten sehe ich mich leider außerstande, eurer Bitte nachzukommen...
 Also, wie steht's?"
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+卡瑞斯
+
+這便是名建築師卡瑞斯！
+        
+        </text>
+        <usericon>2,98</usericon>
+        <text>
+
+
+我們說明了來意，他卻似乎興致缺缺。
+
+"你們瞧見，我正偷得浮生半日閒！自個兒……
+
+要我為赫利俄斯神立一尊巨像？
+
+……
+
+這差事倒怪有趣的……
+
+……
+
+罷了。我想，這能撩起我的興致。但有個條件--
+
+你們須助我完成此舉！我可不願再被坑一回。
+
+那麼，意下如何？"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,98</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,98</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 CHARES
@@ -3945,6 +5623,22 @@ Umso besser, wenn ein berühmter Baumeister und da helfen würde.
 Nachdem wir Chares unsere Unterstützung zugesagt hatten, begab er sich umgehend nach Rhodos, um sich dort mit dem Bürgermeister zu treffen.
 Auch wir machten und auf den Weg in die Stadt.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+我們思忖片刻，終是應允了卡瑞斯的提議。畢竟我們此來，正是為建這世界奇蹟。
+
+既已向卡瑞斯許下援手，我們便隨他去了。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -4040,6 +5734,43 @@ Chares wandte sich nun an uns und verlangte von uns, ihm 25 Marmor für das Fund
 Liefere Chares 25 Marmor (per Tribut).
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+談判
+
+卡瑞斯與羅德鎮長佩特羅斯商議良久。
+        
+        </text>
+        <usericon>2,98</usericon>
+        <text>
+
+
+議題包括紀念碑的形制、高度、用料、安放之處，以及--價……
+
+最終議定，巨像立於港口近旁。
+
+基座須以最上等的大理石砌成，其上再飾以……
+
+這乃浩大工程，卡瑞斯索價不菲。
+
+待一切議定，他們便動身去了。
+
+向卡瑞斯運送 25 大理石（繳貢）。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,98</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,98</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 NEGOCJACJE
@@ -4118,6 +5849,35 @@ Mächtig war es anzusehen und es lies bereits erahnen, welch gigantisches Meiste
 
 Als Chares mit dem Fundament fertig war, rief ihn der Bürgermeister zu sich.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+地基已立
+
+憑我們運來的大理石，卡瑞斯迅速為巨像打下地基。
+        
+        </text>
+        <usericon>1,229,69</usericon>
+        <text>
+
+
+其勢恢宏，已讓人想見此地終將矗立何等鉅製……
+
+卡瑞斯著手……
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,229,69</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,229,69</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -4203,6 +5963,41 @@ Was, wenn wir den Koloss DOPPELT so groß bauen? Nicht 18 Meter, nein - 36 Meter
 Wir zahlen dir natürlich auch den doppelten Preis..."
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+談判
+
+"卡瑞斯，真是令人傾倒！"佩特羅斯迎上前去，"你確是此道真宗大師！
+        
+        </text>
+        <usericon>2,98</usericon>
+        <text>
+
+
+毋庸置疑，你定能讓這巨像成為整個地中海最宏偉的傑作！何等天才！"
+
+卡瑞斯自是對這般盛讚受用不已。
+
+"卡瑞斯，偉大的宗師！倘若我們讓你的傑作更上層樓呢？
+
+倘若我們把巨像造得足足兩倍高？不止一……
+
+我們自然也付你雙倍的價錢……"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,98</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,98</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 NEGOCJACJE
@@ -4275,6 +6070,30 @@ Von uns verlangte er nun, ihm das berechnete Material für die Statue zu beschaf
 
 Liefere Chares 5 Gold, 10 Lehm und 10 Bruchstein (per Tribut).
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+這便是其中的玄機！雙倍高度，雙倍價錢！
+
+卡瑞斯得的並非雙倍，而是八倍的量。
+
+我們本想警告他，可他已向鎮長許下承諾。
+
+唉，這下可有好戲看了……
+
+他轉而向我們要那核算好的材料。
+
+向卡瑞斯運送 5 金、10 黏土與 10 碎石（繳貢）。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -4350,6 +6169,37 @@ WIR waren da etwas skeptisch, aber es ist manchmal besser, wenn man von einem Un
 
 Liefere Chares nochmals 5 Gold, 10 Lehm und 10 Bruchstein (per Tribut).
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+我們向卡瑞斯交付了所需建材，他便一徑建造。然而儘管最終材料用盡，巨像卻僅……
+
+卡瑞斯先前按整座巨像所需備料，此刻……
+        
+        </text>
+        <usericon>2,98</usericon>
+        <text>
+
+
+這正是我們預料之中！卡瑞斯被羅德人狠狠宰了一刀，此刻他才恍然。
+
+我們雖早有疑慮，有時卻不妨順其自然。
+
+向卡瑞斯再運送 5 金、10 黏土與 10 碎石（繳貢）。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,98</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,98</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -4438,6 +6288,39 @@ Chares blieb also nichts anders übrig als sein Werk zu vollenden...
 Liefere Chares nochmals 10 Gold und 10 Eisen (per Tribut).
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+籌措所需材料漸成苦差，終而我們辦到了，卡瑞斯重又開工。
+
+他一徑建造，待材料用盡，巨像卻……
+
+……至少才及腰身！
+        
+        </text>
+        <usericon>2,98</usericon>
+        <text>
+
+
+卡瑞斯暴跳咒罵，因為他明白自己被矇騙得多深，所有指望的盈利皆成泡影。
+
+他去找佩特羅斯，欲與之重訂契約。
+
+向卡瑞斯再運送 10 金與 10 鐵錠（繳貢）。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,98</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,98</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Zaczynało być problemem dostać wszystkie potrzebne materiały. Ale w końcu dokonaliśmy tego i Chares podjął swoją pracę natychmiast.
@@ -4494,6 +6377,24 @@ König Demetrios mit seinem Heer. Seit Wochen schon belagert er die Stadt Rhodos
 Halte dich von seinen  Soldaten fern! Sie werden keine Gnade zeigen!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+德米特里奧斯
+
+德米特里奧斯王及其大軍。數週來他圍困羅德城。至今仍未能攻破堅固的城牆……
+
+離他計程車兵遠些！他們絕不會對你客氣。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 DEMETRIOS
@@ -4545,6 +6446,37 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! NORBERT, der kleine Drache und Freund von Mani, kam durch deine Unachtsamkeit ums Leben! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時的疏忽，人生便會急轉直下！諾伯特--瑪尼的小龍夥伴，因你的大意而殞命！失去這位英雄，你將無緣見到任務的結局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -4587,6 +6519,25 @@ Demetrios hat hier eine Seeblockade errichtet. Hier gibt es kein Durchkommen!
 </text>
         <usericon>1,409,199</usericon>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+海上封鎖
+
+德米特里奧斯在此設下海上封鎖。此處無路可通！
+        
+        </text>
+        <usericon>1,409,199</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,409,199</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,409,199</usericon>
+      </lang>
       <lang code="pol">
         <text> 
 MORSKA BLOKADA
@@ -4627,6 +6578,24 @@ Das ist die Stadt Lindos. Obwohl die Bewohner mit Rhodos eng befreundet sind, si
 
 Aber wer weiß, welche Rolle die tapferen Bewohner dieser Stadt in dem herrschenden Konflikt noch spielen werden...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+林多斯
+
+這是林多斯城。儘管居民與羅德交好，自身卻太弱，無力提供軍援以抗德米特里奧斯……
+
+但誰又知，這些勇敢的居民此番會扮演何種角色……
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -4678,6 +6647,37 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Der Sohn von Bjarni und Cyra, der kleine MANI, kam durch deine Unachtsamkeit ums Leben! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時的疏忽，人生便會急轉直下！比雅尼與希拉之子，小瑪尼因你的大意而殞命！失去這位英雄，你將無緣見到任務的結局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -4715,6 +6715,22 @@ Warum bist du gegen das Volk von Lindos feindlich eingestellt? Sie haben dir nic
 Ändere deine Einstellung, oder du wirst dein Ziel nicht erreichen! 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+你為何對林多斯之民抱有敵意？他們從未得罪於你！
+
+改變你的態度，否則將無緣達成目標。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Dlaczego masz wrogie nastawienie do mieszkańców Lindos? Przecież nie uczynili ci żadnej krzywdy!
@@ -4751,6 +6767,25 @@ BACKSHISH
 Hier lebt normalerweise der Wüstenhändler Bakshish mit seiner Frau. Seit der Belagerung durch Demetrios hat er sich allerdings irgendwo versteckt.
 
 </text>
+        <usericon>1,118,187</usericon>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+巴克希什
+
+沙漠商人巴克希什與妻子平日住在此處。自德米特里奧斯圍城以來，他卻不知所蹤……
+        
+        </text>
+        <usericon>1,118,187</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,118,187</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
         <usericon>1,118,187</usericon>
       </lang>
       <lang code="pol">
@@ -4809,6 +6844,39 @@ Obwohl man dich gewarnt hatte, hast du deine besten Freunde angegriffen!
 So wirst du deine Mission nicht beenden können!
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+
+
+儘管已有人警告於你，你竟攻擊了自己最好的朋友！
+
+如此你將無法完成使命！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -4853,6 +6921,25 @@ Das ist das Lager von Bakshish, dem bekannten Wüstenhändler. Seit dem Ende der
 </text>
         <usericon>1,118,187</usericon>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+巴克希什
+
+這是著名沙漠商人巴克希什的營地。封鎖解除後，他重操舊業，滿心歡喜……
+        
+        </text>
+        <usericon>1,118,187</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,118,187</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,118,187</usericon>
+      </lang>
       <lang code="pol">
         <text> 
 BACKSHISH
@@ -4867,6 +6954,9 @@ To jest obóz Bakshisha, słynnego pustynnego kupca. Od czasu zakończenia bloka
       <lang code="CHN" />
       <lang code="eng" />
       <lang code="ger" />
+      <lang code="l11" />
+      <lang code="l12" />
+      <lang code="l13" />
       <lang code="pol" />
     </block>
     <block id="header">
@@ -4887,6 +6977,20 @@ THE COLOSSUS OF RHODES
         <text> 
 DER KOLOSS VON RHODOS
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+羅德島太陽神巨像
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 

@@ -1,82 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="_campaign_04_01_sub2" export_map_id="_campaign_04_01_sub2" map_md5="e3129947521d9d8443eb864278da33ae" IsC2M="false">
+<localization version="1.3" map_id="_campaign_04_01_sub2" export_map_id="_campaign_04_01_sub2" map_md5="e3129947521d9d8443eb864278da33ae" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@抵达阿夸里乌斯！</text>
-      <text lang="ger">@GELANGE ZU AQUARIUS!</text>
       <text lang="eng">@REACH AQUARIUS!</text>
+      <text lang="ger">@GELANGE ZU AQUARIUS!</text>
+      <text lang="l11">@抵達阿誇裡烏斯！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">@DOTRZYJ DO AQUARIUSA!</text>
     </string>
     <string id="1">
       <text lang="CHN">与阿夸里乌斯的守龙交谈。</text>
-      <text lang="ger">Sprich mit dem Wachdrachen von Aquarius.</text>
       <text lang="eng">Speak to the guardian dragon of Aquarius.</text>
+      <text lang="ger">Sprich mit dem Wachdrachen von Aquarius.</text>
+      <text lang="l11">與阿誇裡烏斯的守龍交談。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Porozmawiaj ze smokiem stróżem Aquariusa.</text>
     </string>
     <string id="2">
       <text lang="CHN">借火龙之力熔铸雕像！</text>
-      <text lang="ger">Schmelze mit dem Feuerdrachen die Statue!</text>
       <text lang="eng">Melt the statue with the fire dragon!</text>
+      <text lang="ger">Schmelze mit dem Feuerdrachen die Statue!</text>
+      <text lang="l11">借火龍之力熔鑄雕像！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Stop rzeźbę smokiem ognistym!</text>
     </string>
     <string id="3">
       <text lang="CHN">与英雄一同返回出口！</text>
-      <text lang="ger">Gehe mit den Helden zurück zum Ausgang!</text>
       <text lang="eng">Go back to the exit with the heroes!</text>
+      <text lang="ger">Gehe mit den Helden zurück zum Ausgang!</text>
+      <text lang="l11">與英雄一同返回出口！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wróć z bohaterami do wyjścia!</text>
     </string>
     <string id="52">
       <text lang="CHN">火龙</text>
-      <text lang="ger">Feuerdrachen</text>
       <text lang="eng">Fire Dragons</text>
+      <text lang="ger">Feuerdrachen</text>
+      <text lang="l11">火龍</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Smoki Ogniste</text>
     </string>
     <string id="53">
       <text lang="CHN">阿夸斯 - 水龙</text>
-      <text lang="ger">Aquas - Wasserdrachen</text>
       <text lang="eng">Aquas - Water Dragons</text>
+      <text lang="ger">Aquas - Wasserdrachen</text>
+      <text lang="l11">阿誇斯 - 水龍</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Aquas - Smoki Wodne</text>
     </string>
     <string id="62">
       <text lang="CHN">卢米斯</text>
-      <text lang="ger">Lumis</text>
       <text lang="eng">Lumis</text>
+      <text lang="ger">Lumis</text>
+      <text lang="l11">盧米斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Lumis</text>
     </string>
     <string id="63">
       <text lang="CHN">阿夸斯</text>
-      <text lang="ger">Aquas</text>
       <text lang="eng">Aquas</text>
+      <text lang="ger">Aquas</text>
+      <text lang="l11">阿誇斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Aquas</text>
     </string>
     <string id="75">
       <text lang="CHN">诺伯特</text>
-      <text lang="ger">Norbert</text>
       <text lang="eng">Norbert</text>
+      <text lang="ger">Norbert</text>
+      <text lang="l11">諾伯特</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Norbert</text>
     </string>
     <string id="76">
       <text lang="CHN">玛尼</text>
-      <text lang="ger">Mani</text>
       <text lang="eng">Mani</text>
+      <text lang="ger">Mani</text>
+      <text lang="l11">瑪尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mani</text>
     </string>
     <string id="77">
       <text lang="CHN">阿夸里乌斯</text>
-      <text lang="ger">Aquarius</text>
       <text lang="eng">Aquarius</text>
+      <text lang="ger">Aquarius</text>
+      <text lang="l11">阿誇裡烏斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Aquarius</text>
     </string>
     <string id="99">
       <text lang="CHN">海底</text>
-      <text lang="ger">UNTER DEM MEER</text>
       <text lang="eng">BENEATH THE SEA</text>
+      <text lang="ger">UNTER DEM MEER</text>
+      <text lang="l11">海底</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">POD MORZEM</text>
     </string>
   </strings>
@@ -88,16 +127,28 @@
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Mani and Norbert entered the water temple of the AQUAS beneath the sea again. In this alien environment, all their movements were slower and things shimmered before their eyes.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Mani und Norbert betraten wieder den Wassertempel der AQUAS unter dem Meer. In dieser fremden Umgebung, verliefen alle ihre Bewegungen langsamer und es schimmerte vor ihren Augen.
 
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-Mani and Norbert entered the water temple of the AQUAS beneath the sea again. In this alien environment, all their movements were slower and things shimmered before their eyes.
+瑪尼與諾伯特再次踏入阿誇斯位於海底的水之神廟。在這陌生的環境裡，他們的動作變得遲緩，眼前波光閃爍。
+
 </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -111,15 +162,26 @@ Mani i Norbert ponownie weszli do świątyni wody AQUASÓW pod morzem. W tym obc
 而那座冰雕像就矗立在那里，挡住了通往阿夸里乌斯的去路！
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+And there it was, the ice statue blocking the way to Aquarius!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Und dort war sie, die Eisstatue, die den Weg zu Aquarius versperrte!
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-And there it was, the ice statue blocking the way to Aquarius!
-</text>
+而那座冰雕像就矗立在那裡，擋住了通往阿誇裡烏斯的去路！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -141,6 +203,17 @@ I oto była - lodowa statua, która blokowała drogę do Aquariusa!
 只管走向冰像，若你们不成，恐怕便无人能成了！
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+AQUARIUS GUARD
+
+"Oh, I see you have brought one of the Lumis, the fire dragons. They shun water as we shun fire. It must have taken him great effort. Can he perhaps melt the ice?
+
+
+
+Step up to the ice statue without worry - if you cannot do it, then probably no one can!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 AQUARIUS WACHE
@@ -154,16 +227,28 @@ AQUARIUS WACHE
 Tretet ruhig zur Eisstatue, wenn ihr es nicht schafft, dann schafft es wahrscheinlich niemand!"
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-AQUARIUS GUARD
+阿誇裡烏斯守衛
 
-"Oh, I see you have brought one of the Lumis, the fire dragons. They shun water as we shun fire. It must have taken him great effort. Can he perhaps melt the ice?
+“噢，我看你們帶了一條盧米斯族的火龍來。它們怕水，正如我們怕火。他定是鼓起了莫大的勇氣。不知他能否融化這冰？”
 
-
-
-Step up to the ice statue without worry - if you cannot do it, then probably no one can!"
 </text>
+        <usericon>2,9</usericon>
+        <text>
+
+只管走向冰像，若你們不成，恐怕便無人能成了！
+</text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,9</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,9</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -185,6 +270,13 @@ Podejdźcie śmiało do lodowej statuy - jeśli wam się nie uda, to zapewne nik
 “你们当真做到了。我们着实小看了火龙。这份恩情我们永志不忘。随我来见阿夸里乌斯吧！”
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+AQUARIUS GUARD
+
+"You have actually done it. We have truly underestimated the fire dragons. Our gratitude is yours forever. Follow me now to AQUARIUS!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 AQUARIUS WACHE
@@ -192,12 +284,18 @@ AQUARIUS WACHE
 "Ihr habt es tatsächlich vollbracht. Wir haben die Feuerdrachen wahrlich unterschätzt. Unser Dank sei für immer Euer. Folgt mir nun zu AQUARIUS!"
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-AQUARIUS GUARD
+阿誇裡烏斯守衛
 
-"You have actually done it. We have truly underestimated the fire dragons. Our gratitude is yours forever. Follow me now to AQUARIUS!"
+“你們當真做到了。我們著實小看了火龍。這份恩情我們永誌不忘。隨我來見阿誇裡烏斯吧！”
 </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -223,6 +321,20 @@ STRAŻNIK AQUARIUSA
 返回出口！”
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+AQUARIUS
+
+"Welcome to the realm beneath the sea!" spoke Aquarius with a gurgling voice, as small bubbling bubbles rose from his maw.
+
+
+ 
+"The fish have already told me of your adventure. Thanks to you, the entrance to the temple is free again. I shall send word to the wise peacemaker GRAUHOLM that we have reconciled with the fire dragons, then he will grant you admittance and help you."
+
+
+Go back to the exit!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 AQUARIUS
@@ -238,19 +350,30 @@ AQUARIUS
 Gehe zurück zum Ausgang!
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-AQUARIUS
+阿誇裡烏斯
 
-"Welcome to the realm beneath the sea!" spoke Aquarius with a gurgling voice, as small bubbling bubbles rose from his maw.
+“歡迎來到海底之國！”阿誇裡烏斯用咕嚕作響的聲音說道，嘴裡還冒出小小的氣泡。
 
-
- 
-"The fish have already told me of your adventure. Thanks to you, the entrance to the temple is free again. I shall send word to the wise peacemaker GRAUHOLM that we have reconciled with the fire dragons, then he will grant you admittance and help you."
-
-
-Go back to the exit!
 </text>
+        <usericon>2,8</usericon>
+        <text>
+
+“魚兒們已將你們的冒險告知於我。多虧你們，神殿入口重又暢通。我會傳信給睿智的和平使者格拉烏霍爾姆，告知我們已與火龍言歸於好，屆時他必放你們進去，助你們一臂之力。
+
+返回出口！”
+</text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,8</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,8</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -280,6 +403,13 @@ Wróć do wyjścia!
 一时的轻率，生命便转瞬即逝！你的挚友、英雄之龙诺伯特，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+MISSION LOST!
+
+A brief moment of carelessness, so quickly it happens in life! Your friend and hero, the dragon NORBERT, perished through your inattention! Without this hero, the end of the mission will remain hidden from you.
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -291,12 +421,31 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
-MISSION LOST!
-
-A brief moment of carelessness, so quickly it happens in life! Your friend and hero, the dragon NORBERT, perished through your inattention! Without this hero, the end of the mission will remain hidden from you.
+任務失敗！
 </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+一時的輕率，生命便轉瞬即逝！你的摯友、英雄之龍諾伯特，因你的疏忽而殞命！少了這位英雄，任務的結局將永遠對你隱藏。
+</text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -316,6 +465,15 @@ Chwilka lekkomyślności, tak szybko to w życiu przychodzi! Twój przyjaciel i 
 睿智的格拉乌霍尔姆一定会为此感到欣慰！
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+Mani and Norbert had succeeded in bringing whole peoples together through their willingness to help! The Aquas and the Lumis were again well disposed toward each other! That was a success!
+
+
+
+The wise GRAUHOLM would surely appreciate this!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Mani und Norbert hatten es geschafft durch ihre Hilfsbereitschaft ganze Völker zusammenzuführen! Die Aquas und die Lumis waren sich wieder wohlgesonnen! Das war ein Erfolg!
@@ -327,14 +485,24 @@ Mani und Norbert hatten es geschafft durch ihre Hilfsbereitschaft ganze Völker 
 Der weise GRAUHOLM würde dies sicherlich zu schätzen wissen!
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-Mani and Norbert had succeeded in bringing whole peoples together through their willingness to help! The Aquas and the Lumis were again well disposed toward each other! That was a success!
-
-
-
-The wise GRAUHOLM would surely appreciate this!
-</text>
+瑪尼與諾伯特憑著熱心助人，竟促成了整個族群的聯合！阿誇斯與盧米斯重歸於好！
+        </text>
+        <usericon>2,6</usericon>
+        <text>
+睿智的格拉烏霍爾姆一定會為此感到欣慰！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,6</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,6</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -348,7 +516,12 @@ Mądry GRAUHOLM z pewnością to doceni!
     </block>
     <block id="50_end1">
       <lang code="CHN" />
+      <lang code="eng" />
       <lang code="ger" />
+      <lang code="l11" />
+      <lang code="l12" />
+      <lang code="l13" />
+      <lang code="pol" />
     </block>
     <block id="50_endheader">
       <lang code="CHN">
@@ -356,15 +529,26 @@ Mądry GRAUHOLM z pewnością to doceni!
 任务成功！
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+MISSION WON!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 MISSION GEWONNEN! 
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-MISSION WON!
-</text>
+任務成功！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -380,6 +564,13 @@ MISJA WYGRANA!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>生活中的片刻疏忽，人生如此迅速！ 玛尼--比雅尼与希拉之子--因你的疏忽而丧命！失去这位英雄，你将无法得知任务的结局。</text>
       </lang>
+      <lang code="eng">
+        <text>
+MISSION LOST!
+
+A brief moment of carelessness, so quickly it happens in life! MANI - son of Bjarni and Cyra - perished through your inattention! Without this hero, the end of the mission will remain hidden from you.
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -391,12 +582,26 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-MISSION LOST!
-
-A brief moment of carelessness, so quickly it happens in life! MANI - son of Bjarni and Cyra - perished through your inattention! Without this hero, the end of the mission will remain hidden from you.
-</text>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>任務失敗！</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>生活中的片刻疏忽，人生如此迅速！ 瑪尼--比雅尼與希拉之子--因你的疏忽而喪命！失去這位英雄，你將無法得知任務的結局。</text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -412,15 +617,26 @@ Chwilka lekkomyślności, tak szybko to w życiu przychodzi! MANI - syn Bjarnieg
 海底之下
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+UNDER THE SEA
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 UNTER DEM MEER
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-UNDER THE SEA
-</text>
+海底之下
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

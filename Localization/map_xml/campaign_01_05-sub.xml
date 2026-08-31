@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,42 +14,63 @@
       <text lang="CHN">解救皇帝的女儿！</text>
       <text lang="eng">Rescue the Emperor's daughter!</text>
       <text lang="ger">Befreie die Tochter des Kaisers!</text>
+      <text lang="l11">解救皇帝的女兒！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Uratuj córkę Cesarza!</text>
     </string>
     <string id="51">
       <text lang="CHN">匪徒</text>
       <text lang="eng">Brigands</text>
       <text lang="ger">Banditen</text>
+      <text lang="l11">匪徒</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bandyci</text>
     </string>
     <string id="52">
       <text lang="CHN">公主</text>
       <text lang="eng">Princess</text>
       <text lang="ger">Prinzessin</text>
+      <text lang="l11">公主</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Księżniczka</text>
     </string>
     <string id="99">
       <text lang="CHN">米克拉加德 - 支线</text>
       <text lang="eng">MIKLAGARD - Sub</text>
       <text lang="ger">MIKLAGARD - Sub</text>
+      <text lang="l11">米克拉加德 - 支線</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">MIKLAGARD - zadanie dodatkowe</text>
     </string>
     <string id="101">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="102">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="l11">西格德</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Sigurd</text>
     </string>
     <string id="103">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="l11">希拉</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Cyra</text>
     </string>
   </strings>
@@ -85,6 +109,31 @@ MISSION VERLOREN!
 Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ihr Ende war besiegelt und mit ihnen das Ende der Welt der Menschen!
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+英雄氣概，還是魯莽輕率？當比雅尼倒下，諸神也在慟哭……他們的命運已定，人類的末日隨之降臨。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -116,6 +165,17 @@ THE DUNGEON
 DER KERKER
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+地牢
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -165,6 +225,33 @@ Das ist das Ende! Die Vision wird sich nun niemals erfüllen können!
 Trotz erbitterter Gegenwehr wurde einer der Helden von der Übermacht des Gegners überwältigt!
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+全完了！預言中的景象再無實現之日！
+
+儘管拼死抵抗，預言裡的一位英雄仍被敵軍優勢兵力擊倒！
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -207,6 +294,21 @@ Ein lautes, knarrendes Geräusch ertönte...
 Das musste etwas zu bedeuten haben!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+一聲刺耳的吱呀巨響驟然響起……
+
+……繼而是一陣金屬碰撞的嘩啦聲！
+
+這必有深意！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 Usłyszeliśmy głośny zgrzyt...
@@ -248,6 +350,21 @@ Was würde uns erwarten?
 
 Befreie die Tochter des Kaisers!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+我們終於尋得那秘牢的隱蔽後門，皇帝的女兒正囚於其中。因不知敵方虛實，悄然潛入此刻至關重要。
+
+於是我決意獨往，可我們的法蘭克英雄執意相隨，無可勸阻。一條幽暗的地下通道在我們眼前展開……前方會有什麼等著我們？
+
+解救皇帝的女兒！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -307,6 +424,32 @@ Eilig gelangten wir auf dem gleichen Weg wieder ans Tageslicht und wurden von un
 
 Geleite die Tochter des Kaisers sicher zu ihrem Vater.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務成功！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+憑智謀與些許運氣，我們制服守衛，救出了拜占庭皇帝的女兒。
+
+我們循原路匆匆回到地面，早有不耐煩的同伴在入口處迎候，如釋重負。此刻還須將疲憊而惶惑的公主安然送回其父王身邊。
+
+護送皇帝的女兒安全回到其父王身邊。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>

@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,318 +14,477 @@
       <text lang="CHN">短描述 0</text>
       <text lang="eng">Shortdescription 0</text>
       <text lang="ger">Shortdescription 0</text>
+      <text lang="l11">短描述 0</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Krótkiopis 0</text>
     </string>
     <string id="1">
       <text lang="CHN">短描述 1</text>
       <text lang="eng">Shortdescription 1</text>
       <text lang="ger">Shortdescription 1</text>
+      <text lang="l11">短描述 1</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Krótkiopis 1</text>
     </string>
     <string id="21">
       <text lang="CHN">缴纳贡品，使奥西里斯部族保持中立。</text>
       <text lang="eng">Pay a tribute in order to create neutral relations with the Osirians.</text>
       <text lang="ger">Zahle den Tribut, um den Stamm der Osirer neutral zu stimmen.</text>
+      <text lang="l11">繳納貢品，使奧西里斯部族保持中立。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut by stworzyć neutralne relacje z Ozyrianami.</text>
     </string>
     <string id="22">
       <text lang="CHN">缴纳一份贡品，赢取奥西里斯人的友谊。</text>
       <text lang="eng">Pay a tribute in order to make friends with the Osirians.</text>
       <text lang="ger">Zahle einen Tribut, um die Freundschaft der Osirer zu gewinnen.</text>
+      <text lang="l11">繳納一份貢品，贏取奧西里斯人的友誼。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut by zaprzyjaźnić się z Ozyrianami.</text>
     </string>
     <string id="23">
       <text lang="CHN">缴纳贡品，使埃尔阿拉布之民保持中立。</text>
       <text lang="eng">Pay a tribute in order to create neutral relations with the people of El Arab.</text>
       <text lang="ger">Zahle den Tribut, um das Volk von El Arab neutral zu stimmen.</text>
+      <text lang="l11">繳納貢品，使埃爾阿拉布之民保持中立。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut by stworzyć neutralne relacje z ludem El Arab.</text>
     </string>
     <string id="24">
       <text lang="CHN">缴纳贡品，使阿尔拉哈巴的海盗归于平和。</text>
       <text lang="eng">Pay a tribute in order to make the pirates of Al Rhababa happy.</text>
       <text lang="ger">Zahle Tribut, um die Piraten von Al Rhababa friedlich zu stimmen.</text>
+      <text lang="l11">繳納貢品，使阿爾拉哈巴的海盜歸於平和。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut by uczynić piratów Al Rhababa szczęśliwymi.</text>
     </string>
     <string id="25">
       <text lang="CHN">把商人莱特罗斯所求的货品（作为贡品）交予他，以购得一只箱子。</text>
       <text lang="eng">Give Letros the merchant the desired goods (tribute) to buy a chest.</text>
       <text lang="ger">Gib dem Händler Letros die gewünschten Waren (Tribut), um eine Kiste zu kaufen.</text>
+      <text lang="l11">把商人萊特羅斯所求的貨品（作為貢品）交予他，以購得一隻箱子。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Daj kupcowi Letrosowi żądane towary (trybut) aby kupić skrzynię.</text>
     </string>
     <string id="26">
       <text lang="CHN">把商人阿穆洛斯所求的货品（作为贡品）交予他，以购得一只箱子。</text>
       <text lang="eng">Give Amulos the merchant the desired goods (tribute) to buy a chest.</text>
       <text lang="ger">Gib dem Händler Amulos die gewünschten Waren (Tribut), um eine Kiste zu kaufen.</text>
+      <text lang="l11">把商人阿穆洛斯所求的貨品（作為貢品）交予他，以購得一隻箱子。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Daj kupcowi Amulosowi żądane towary (trybut) aby kupić skrzynię.</text>
     </string>
     <string id="27">
       <text lang="CHN">把商人维诺斯所求的货品（作为贡品）交予他，以购得一只箱子。</text>
       <text lang="eng">Give Vinos the merchant the desired goods (tribute) to buy a chest.</text>
       <text lang="ger">Gib dem Händler Vinos die gewünschten Waren (Tribut), um eine Kiste zu kaufen.</text>
+      <text lang="l11">把商人維諾斯所求的貨品（作為貢品）交予他，以購得一隻箱子。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Daj kupcowi Vinosowi żądane towary (trybut) aby kupić skrzynię.</text>
     </string>
     <string id="28">
       <text lang="CHN">向摩索拉斯陵墓的工人们支付他们的工钱（作为贡品）。</text>
       <text lang="eng">Pay the builders of the Mausoleum their wages (tribute).</text>
       <text lang="ger">Zahle den Bauarbeitern des Mausoleums ihren Lohn (Tribut).</text>
+      <text lang="l11">向摩索拉斯陵墓的工人們支付他們的工錢（作為貢品）。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać budowniczym Mauzoleum ich wynagrodzenia (trybut).</text>
     </string>
     <string id="30">
       <text lang="CHN">派玛尼与诺伯特去见奥西里斯人的祭司。</text>
       <text lang="eng">Send Mani and Norbert to the Osirian priest.</text>
       <text lang="ger">Schicke Mani und Norbert zum Priester der Osirer.</text>
+      <text lang="l11">派瑪尼與諾伯特去見奧西里斯人的祭司。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wyślij Maniego i Norberta do kapłana Ozyrian.</text>
     </string>
     <string id="40">
       <text lang="CHN">玩家</text>
       <text lang="eng">Player</text>
       <text lang="ger">Spieler</text>
+      <text lang="l11">玩家</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz</text>
     </string>
     <string id="41">
       <text lang="CHN">哈利卡纳索斯</text>
       <text lang="eng">Halicarnassus</text>
       <text lang="ger">Halikarnassos</text>
+      <text lang="l11">哈利卡納索斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Helikarnas</text>
     </string>
     <string id="42">
       <text lang="CHN">奥西里斯人</text>
       <text lang="eng">Osirians</text>
       <text lang="ger">Osirer</text>
+      <text lang="l11">奧西里斯人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ozyrianie</text>
     </string>
     <string id="43">
       <text lang="CHN">阿尔拉哈巴</text>
       <text lang="eng">Al Rhababa</text>
       <text lang="ger">Al Rhababa</text>
+      <text lang="l11">阿爾拉哈巴</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Al Rhababa</text>
     </string>
     <string id="44">
       <text lang="CHN">埃尔阿拉布</text>
       <text lang="eng">El Arab</text>
       <text lang="ger">El Arab</text>
+      <text lang="l11">埃爾阿拉布</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">El Arab</text>
     </string>
     <string id="47">
       <text lang="CHN">莱特罗斯</text>
       <text lang="eng">Letros</text>
       <text lang="ger">Letros</text>
+      <text lang="l11">萊特羅斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Letros</text>
     </string>
     <string id="48">
       <text lang="CHN">阿穆洛斯</text>
       <text lang="eng">Amulos</text>
       <text lang="ger">Amulos</text>
+      <text lang="l11">阿穆洛斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Amulos</text>
     </string>
     <string id="49">
       <text lang="CHN">维诺斯</text>
       <text lang="eng">Vinos</text>
       <text lang="ger">Vinos</text>
+      <text lang="l11">維諾斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Vinos</text>
     </string>
     <string id="60">
       <text lang="CHN">玩家</text>
       <text lang="eng">Player</text>
       <text lang="ger">Spieler</text>
+      <text lang="l11">玩家</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz</text>
     </string>
     <string id="61">
       <text lang="CHN">哈勒</text>
       <text lang="eng">Harl</text>
       <text lang="ger">Harl</text>
+      <text lang="l11">哈勒</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Harl</text>
     </string>
     <string id="62">
       <text lang="CHN">奥西</text>
       <text lang="eng">Osi</text>
       <text lang="ger">Osi</text>
+      <text lang="l11">奧西</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ozi</text>
     </string>
     <string id="63">
       <text lang="CHN">拉哈</text>
       <text lang="eng">Rhab</text>
       <text lang="ger">Rhab</text>
+      <text lang="l11">拉哈</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Rhab</text>
     </string>
     <string id="64">
       <text lang="CHN">阿拉</text>
       <text lang="eng">Arab</text>
       <text lang="ger">Arab</text>
+      <text lang="l11">阿拉</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Arab</text>
     </string>
     <string id="67">
       <text lang="CHN">莱特</text>
       <text lang="eng">Letr</text>
       <text lang="ger">Letr</text>
+      <text lang="l11">萊特</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Letr</text>
     </string>
     <string id="68">
       <text lang="CHN">阿穆</text>
       <text lang="eng">Amul</text>
       <text lang="ger">Amul</text>
+      <text lang="l11">阿穆</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Amul</text>
     </string>
     <string id="69">
       <text lang="CHN">维诺</text>
       <text lang="eng">Vino</text>
       <text lang="ger">Vino</text>
+      <text lang="l11">維諾</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Vino</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="l11">希拉</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
       <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
+      <text lang="l11">哈奇</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hatchie</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="l11">西格德</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">诺伯特</text>
       <text lang="eng">Norbert</text>
       <text lang="ger">Norbert</text>
+      <text lang="l11">諾伯特</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Norbert</text>
     </string>
     <string id="76">
       <text lang="CHN">玛尼</text>
       <text lang="eng">Mani</text>
       <text lang="ger">Mani</text>
+      <text lang="l11">瑪尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mani</text>
     </string>
     <string id="80">
       <text lang="CHN">摩索拉斯</text>
       <text lang="eng">Mausolos</text>
       <text lang="ger">Mausolos</text>
+      <text lang="l11">摩索拉斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mauzolos</text>
     </string>
     <string id="81">
       <text lang="CHN">阿尔特米西亚</text>
       <text lang="eng">Artemisia</text>
       <text lang="ger">Artemisia</text>
+      <text lang="l11">阿爾特米西亞</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Artemizja</text>
     </string>
     <string id="82">
       <text lang="CHN">萨堤罗斯</text>
       <text lang="eng">Satyros</text>
       <text lang="ger">Satyros</text>
+      <text lang="l11">薩堤羅斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Satyros</text>
     </string>
     <string id="83">
       <text lang="CHN">图特・马・尼克斯</text>
       <text lang="eng">Toot N Commin</text>
       <text lang="ger">Tut Ma' Nix</text>
+      <text lang="l11">圖特・馬・尼克斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Toot N Commin</text>
     </string>
     <string id="98">
       <text lang="CHN">在哈利卡纳索斯，我们本应为摩索拉斯王建起一座巨构--他的陵墓，即世界第四大奇迹。</text>
       <text lang="eng">In Halicarnassus we were supposed to build a gigantic construction for King Mausolos - the Mausoleum, the 4th Wonder of the World.</text>
       <text lang="ger">In Halikarnassos sollten wir für König Mausolos ein gigantisches Bauwerk errichten - sein Grabmal, das 4. Weltwunder.</text>
+      <text lang="l11">在哈利卡納索斯，我們本應為摩索拉斯王建起一座巨構--他的陵墓，即世界第四大奇蹟。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">W Helikarnasie mieliśmy wybudować a gigantyczną konstrukcję dla Króla Mauzolosa - Mauzoleum, 4-ty Cud Świata.</text>
     </string>
     <string id="99">
       <text lang="CHN">摩索拉斯陵墓</text>
       <text lang="eng">THE MAUSOLEUM</text>
       <text lang="ger">DAS MAUSOLEUM</text>
+      <text lang="l11">摩索拉斯陵墓</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">MAUZOLEUM</text>
     </string>
     <string id="100">
       <text lang="CHN">前往哈利卡纳索斯，在那里寻访统治者。</text>
       <text lang="eng">Go to Halicarnassus and look out for the monarch.</text>
       <text lang="ger">Gehe nach Halikarnassos und suche dort den Herrscher auf.</text>
+      <text lang="l11">前往哈利卡納索斯，在那裡尋訪統治者。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Idź do Helikarnasu i odszukaj monarchę.</text>
     </string>
     <string id="105">
       <text lang="CHN">寻访摩索拉斯王。</text>
       <text lang="eng">Look for King Mausolos.</text>
       <text lang="ger">Suche König Mausolos auf.</text>
+      <text lang="l11">尋訪摩索拉斯王。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Odszukaj Króla Mauzolosa.</text>
     </string>
     <string id="106">
       <text lang="CHN">与比雅尼一同去见摩索拉斯王。</text>
       <text lang="eng">Take Bjarni to King Mausolos.</text>
       <text lang="ger">Gehe mit Bjarni zu König Mausolos.</text>
+      <text lang="l11">與比雅尼一同去見摩索拉斯王。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zabierz Bjarniego do Króla Mauzolosa.</text>
     </string>
     <string id="107">
       <text lang="CHN">缴纳贡品，赢取摩索拉斯王的友谊。</text>
       <text lang="eng">Pay a tribute to make friends with King Mausolos.</text>
       <text lang="ger">Zahle Tribut, um die Freundschaft von König Mausolos zu gewinnen.</text>
+      <text lang="l11">繳納貢品，贏取摩索拉斯王的友誼。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby zaprzyjaźnić się z Królem Mauzolosem.</text>
     </string>
     <string id="108">
       <text lang="CHN">与比雅尼一同去见阿尔特米西亚王后。</text>
       <text lang="eng">Take Bjarni to Queen Artemisia.</text>
       <text lang="ger">Gehe mit Bjarni zu Königin Artemisia.</text>
+      <text lang="l11">與比雅尼一同去見阿爾特米西亞王后。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zabierz Bjarniego to Królowej Artemizji.</text>
     </string>
     <string id="110">
       <text lang="CHN">砖块 %d/10</text>
       <text lang="eng">Brick %d/10</text>
       <text lang="ger">Backstein %d/10</text>
+      <text lang="l11">磚塊 %d/10</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Cegła %d/10</text>
     </string>
     <string id="111">
       <text lang="CHN">大理石 %d/10</text>
       <text lang="eng">Marble %d/10</text>
       <text lang="ger">Marmor %d/10</text>
+      <text lang="l11">大理石 %d/10</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Marmur %d/10</text>
     </string>
     <string id="112">
       <text lang="CHN">碎石 %d/20</text>
       <text lang="eng">Quarrystone %d/20</text>
       <text lang="ger">Bruchstein %d/20</text>
+      <text lang="l11">碎石 %d/20</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Obrobiony kamień %d/20</text>
     </string>
     <string id="115">
       <text lang="CHN">将 10 块砖、10 块大理石与 20 块碎石运抵工地。</text>
       <text lang="eng">Take 10 bricks, 10 blocks of marble and 20 quarrystones to the building site.</text>
       <text lang="ger">Bringe 10 Backsteine, 10 Marmorblöcke und 20 Bruchsteine zur Baustelle.</text>
+      <text lang="l11">將 10 塊磚、10 塊大理石與 20 塊碎石運抵工地。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Weź 10 cegieł, 10 bloków marmuru i 20 obrobionych kamieni na miejsce budowy.</text>
     </string>
     <string id="120">
       <text lang="CHN">大理石 %d/10</text>
       <text lang="eng">Marble %d/10</text>
       <text lang="ger">Marmor %d/10</text>
+      <text lang="l11">大理石 %d/10</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Marmur %d/10</text>
     </string>
     <string id="121">
       <text lang="CHN">黄金 %d/10</text>
       <text lang="eng">Gold %d/10</text>
       <text lang="ger">Gold %d/10</text>
+      <text lang="l11">黃金 %d/10</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Złoto %d/10</text>
     </string>
     <string id="122">
       <text lang="CHN">屋顶瓦 %d/20</text>
       <text lang="eng">Roof tiles %d/20</text>
       <text lang="ger">Dachziegeln %d/20</text>
+      <text lang="l11">屋頂瓦 %d/20</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Dachówki %d/20</text>
     </string>
     <string id="125">
       <text lang="CHN">将 10 块大理石、10 根金条与 20 片屋顶瓦运抵工地。</text>
       <text lang="eng">Take 10 blocks of marble, 10 gold ingots and 20 roof tiles to the building site.</text>
       <text lang="ger">Bringe 10 Marmorblöcke, 10 Goldbarren und 20 Dachziegeln zur Baustelle.</text>
+      <text lang="l11">將 10 塊大理石、10 根金條與 20 片屋頂瓦運抵工地。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Weź 10 bloków marmuru, 10 sztabek złota i 20 dachówek na miejsce budowy.</text>
     </string>
     <string id="200">
       <text lang="CHN">@筑起摩索拉斯陵墓！</text>
       <text lang="eng">@BUILD THE MAUSOLEUM!</text>
       <text lang="ger">@ERRICHTE DAS MAUSOLEUM!</text>
+      <text lang="l11">@築起摩索拉斯陵墓！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">@WYBUDUJ MAUZOLEUM!</text>
     </string>
   </strings>
@@ -348,6 +510,19 @@ Nach dem erfolgreichen Bau des Kolosses waren Sigurd und Hatschi mit dem Rest de
 
 Der Name des Königs war im Lauf der Jahrhunderte in Vergessenheit geraten, und auch das Bauwerk selbst war der Sage nach bei einem Erdbeben weitgehend zerstört worden. 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+巨像建成後，西格德和哈奇率其餘隊伍前往哈利卡納蘇斯。
+
+在這座港口城市附近，古時曾矗立著一座宏偉建築--據傳說，此建築亦在地震中幾近傾頹。這座陵墓正是我們下一個目標。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -392,6 +567,24 @@ Hatschi und Sigurd landeten mit dem Schiff nördlich der Stadt. Sie wollten zun�
 Gehe nach Halikarnassos und suche dort den Herrscher auf.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+我們的使命，便是將王陵恢復原貌。幸而根基依在位，依議會所言，應不日可成。
+
+哈奇與西格德乘船於城北登陸。他們先欲拜訪哈利卡納蘇斯之主，探明城中局勢。經羅德一事，他們已學乖了……
+
+前往哈利卡納蘇斯，尋訪其統治者。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Naszym zadaniem było wskrzesić budowlę. Z niewielkim łutem szczęścia powinno nam się to udać w krótkim czasie, ponieważ zgodnie ze słowami Rady, przynajmniej fundamenty powinny wciąż istnieć.
@@ -422,6 +615,20 @@ MISSION COMPLETED!
         <text> 
 MISSION GEWONNEN! 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+任務成功！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -459,6 +666,24 @@ Mit Hilfe von Königin Artemisia war es uns gelungen, trotz Piraten und Erbeben 
  
 Wir konnten nun nur noch hoffen, dass dieses Weltwunder so lange von irgendwelchen Katastrophen verschont blieb, bis wir unsere große Mission vollendet hatten.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+大功告成！
+
+在阿爾特米西亞王后的協助下，我們終克海盜與地震，完成了王陵！
+
+唯盼這世界奇蹟能免於災厄，直至我們的大任功成。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -502,6 +727,24 @@ Dies zumindest hatte man uns im Rat der Völker erzählt. Wir hofften, hier kein
 
 Wir hatten keine Zeit mehr zu verlieren... 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+我們繼而轉赴以弗所。欲看阿爾特米西亞神廟是否仍完好無缺。
+
+至少議會是這般告知的。但願此行不再有惡毒意外，因黑暗與邪祟已步步逼近。
+
+我們已無暇可失……
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -550,6 +793,26 @@ Der Herrscher von Karien war König Mausolos. Ihn wollten wir aufsuchen, um zu s
 
 Gleichzeitig wollten wir auch nach den Überresten des alten Grabmals Ausschau halten. Sie mussten ja irgendwo zu finden sein...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+哈利卡納蘇斯
+
+此乃哈利卡納蘇斯，卡里亞之都。城踞天然良港，外有離島為屏。
+
+卡里亞之主為摩索拉斯王。我們欲見他一面，探問重建古王陵一事是否會遇阻礙。
+
+同時亦想尋那古陵殘跡。它總該在某處……
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -602,6 +865,37 @@ MISSION VERLOREN!
         <text>
 Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+是英勇還是魯莽？當比雅尼倒下時，眾神為之落淚……失去這位英雄，你將無緣見到任務的結局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -678,6 +972,39 @@ So, nun muss ich aber weg. Ist mir zu unsicher hier..."
 
 Mit diesen Worten löste sich der Fremde quasi in Rauch auf. Hatten wir hier etwa einen Geist gesehen??
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+本地人
+
+在湖畔近處，一名本地人上前搭話。
+        
+        </text>
+        <usericon>1,218,27</usericon>
+        <text>
+
+
+"啊，這一帶來了外鄉人！可要當心！此地常發劇震，損毀屋舍！近海處安穩，若深入內陸則險象環生！
+
+收下這些物事，權當贈禮，或許有用。
+
+唉，我得走了，這兒太不太平……"
+
+言罷，那人竟如煙而散。我們莫非撞見了幽靈？？
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,218,27</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,218,27</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -758,6 +1085,37 @@ Wenn wir an diese heran wollten, mussten wir die Osirer vertreiben oder einen We
 Vertreibe die Osirer oder leiste den geforderten Tribut, damit sie ihre kriegerische Haltung deinem Stamm gegenüber aufgeben.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+奧西里斯族
+        
+        </text>
+        <usericon>1,83,83</usericon>
+        <text>
+
+
+在哈利卡納蘇斯近郊，聚居一族，源出遠方的埃及。他們自號奧西里斯族，奉冥界之神為名。
+
+他們好妒而勇悍，死守村旁山中所產資源。
+
+若我們想取那些資源，要麼逐走奧西里斯族，要麼贏得其友誼。
+
+驅逐奧西里斯族，或繳付索求之貢品，使其放棄對你的敵意。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,83,83</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,83,83</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 PLEMIĘ OZYRIAN
@@ -833,6 +1191,37 @@ Aber scheinbar bringen es unsere Soldaten nicht fertig, die Piratenschiffe von d
 Ach, haltet euch besser fern von hier... Nicht, dass ihr noch Schaden nehmt!"
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+老漁夫
+        
+        </text>
+        <usericon>1,209,259</usericon>
+        <text>
+
+
+"這地方可不太平。是呀……
+
+阿爾拉哈巴的海盜在此登陸劫城多少次了！我們特意在港中岬角建了堡壘……
+
+可咱們的兵卒竟無從在堡中擊退賊船……
+
+唉，你們還是離這兒遠些……免得平白遭殃！"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,209,259</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,209,259</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 STARY RYBAK
@@ -904,6 +1293,36 @@ Und er hat einen Fimmel für seltene und merkwürdige Dinge!
 Naja, vielleicht lernt ihr ihn ja mal kennen. Tut Ma' Nix ist sein Name..." 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+哈利卡納蘇斯市民
+        
+        </text>
+        <usericon>2,101</usericon>
+        <text>
+
+
+"你們聽過奧西里斯族？沿西北海岸走，便能到他們村子。
+
+他們有位大祭司，通曉諸多古秘！據說對朋友極是熱心。
+他且對珍稀古怪之物癖好成狂！
+
+呃，或許你們終會結識他。他名叫圖特・馬・尼克斯……"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,101</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,101</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 MIESZKANIEC HELIKARNASU
@@ -974,6 +1393,36 @@ Oh ja...
 Wenn man nur auf die Insel käme, ohne sofort vernichtet zu werden. Aber kein Schiff fasst genug Soldaten und Waffen, um das zu schaffen..."
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+哈利卡納蘇斯市民
+"你們聽過海盜？他們住在城外不遠的海島上！
+        
+        </text>
+        <usericon>2,102</usericon>
+        <text>
+
+
+兇險得很，喲！船快！堡壘固！兵多！兵器也歹毒……
+
+喲……
+
+若能登島而不立遭屠戮便好了。可沒哪艘船裝得下足夠兵甲以成此事……"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,102</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,102</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 MIESZKANIEC HELIKARNASU
@@ -1034,6 +1483,33 @@ BÜRGER VON HALIKARNASSOS
 
 Nur mit einer großen Armee kann es gelingen, sie zu besiegen und für Ruhe zu sorgen! Aber wie soll man die auf die Insel bringen, ohne gesehen zu werden?"
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+哈利卡納蘇斯市民
+        
+        </text>
+        <usericon>2,103</usericon>
+        <text>
+
+
+"你們聽過海盜？對，他們住在城外島上。那堡壘難攻得很。
+
+唯有大軍方能破之、還此地安寧！可如何悄然運兵上島？"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,103</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,103</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1098,6 +1574,35 @@ Angeblich gibt es sogar einen solchen Weg auf die Insel der Piraten! Aber den w�
 
 Sagt man zumindest..."
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+哈利卡納蘇斯市民
+        
+        </text>
+        <usericon>2,104</usericon>
+        <text>
+
+
+"噓……酒館裡可有什麼傳聞？奧西里斯族有秘道，轉瞬便可自此及彼！嗖的一下，如施魔法！
+
+據說連通往海盜島的秘道都有！可那必只告於全然信得過之人！
+
+眾人是這般說的……"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,104</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,104</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1165,6 +1670,35 @@ Steht außerdem auf allerhand komische Viecher. Einhörner, Sphinxen, Minotauren
 SEHR suspekt, wenn ihr mich fragt..."
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+哈利卡納蘇斯市民
+        
+        </text>
+        <usericon>2,105</usericon>
+        <text>
+
+
+"圖特・馬・尼克斯？不就是奧西里斯族的祭司？嗯，這名兒我聽過。說他通曉秘辛，秘道與魔徑之類。我是當胡謅……
+
+他還好些古怪活物：獨角獸、斯芬克斯、牛頭怪、龍之類……
+
+依我看，甚是可疑……"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,105</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,105</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 MIESZKANIEC HELIKARNASU 
@@ -1220,6 +1754,26 @@ Sie waren äußerst kriegerisch, und mit ihren Schiffen konnten sie schnell gro�
 Rüste dich gegen Überfälle der Piraten. Eventuell kannst du dir den Frieden mit ihnen erkaufen, so dass sie gegen dich keine Raubzüge starten.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+阿爾拉哈巴
+
+哈利卡納蘇斯以西海島上，盤踞著阿爾拉哈巴之民。海盜以劫掠為生。
+
+他們極是尚武，船行迅捷，遠海無阻！無人能免其襲擾，我們也恐成其貪金之餌……
+
+整備以御海盜來襲。或許可買得平安，使其不犯於你。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 AL RHABABA
@@ -1265,6 +1819,24 @@ Am Fuß der Berge lebte ein kleine Völkchen, das sich El Arab nannte. Sie betra
 
 Vielleicht kannst du sie über eine Tributzahlung von ihrer kriegerischen Haltung abbringen...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+埃爾阿拉布
+
+山腳下住著一小族，自稱埃爾阿拉布。他們視群山為己物，凡擅入者皆擊之。
+
+或可以貢金使其斂去鋒芒……
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1320,6 +1892,33 @@ Nachdem wir den Piraten von Al Rhababa einen überaus hohen Tribut bezahlt hatte
 
 Sie stellten ihre Überfälle ein und ließen uns künftig in Frieden.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+阿爾拉哈巴
+
+向阿爾拉哈巴海盜繳下重貢，其貪金之念暫息。
+        
+        </text>
+        <usericon>1,64,348</usericon>
+        <text>
+
+
+他們停止劫掠，此後任我們安寧。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,64,348</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,64,348</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1380,6 +1979,33 @@ Nachdem wir den Osirern den geforderten Tribut bezahlt hatten, stellten sie ihre
 
 Versuche, nun auch die Freundschaft der Osirer zu gewinnen! Es könnte sich für dich auszahlen!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+奧西里斯族
+        
+        </text>
+        <usericon>1,83,83</usericon>
+        <text>
+
+
+我們繳付索求之貢後，奧西里斯族斂了兵戈。如此我們得取山中發現的寶貴資源。
+
+不妨也去贏取奧西里斯族的友誼！或能有所回報！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,83,83</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,83,83</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1455,6 +2081,38 @@ Vertrauen muss sein, du verstehst... Dafür sind die Preise recht günstig.
 Die erste Kiste ist gratis. Unter Freunden, du verstehst... Um die Ware zu testen. So zu sagen."
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+萊特羅斯，箱商
+
+"幸會，朋友們。在下萊特羅斯。
+        
+        </text>
+        <usericon>1,206,240</usericon>
+        <text>
+
+
+我與兩弟在城中經營箱櫃買賣，生意興隆。
+
+永遠走在潮流尖端，永遠童叟無欺！只是箱中何物，我們從不言明。
+信任至上，你懂的……故而價錢也頗公道。
+
+首箱免費，朋友之間，你懂的……權當試貨。"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,206,240</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,206,240</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 LETROS HANDLARZ SKRZYNIAMI
@@ -1520,6 +2178,33 @@ LETROS, DER KISTENHÄNDLER
 Zahle Letros die gewünschten Waren (Tribut), um eine neue Kiste zu bekommen.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+萊特羅斯，箱商
+
+"你若予我些貨物作償，我便給你一箱新的！"
+        
+        </text>
+        <usericon>1,206,240</usericon>
+        <text>
+
+
+向萊特羅斯交付所需貨物（貢品）以得一箱。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,206,240</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,206,240</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 LETROS HANDLARZ SKRZYNIAMI 
@@ -1579,6 +2264,33 @@ LETROS, DER KISTENHÄNDLER
 Viel Spaß damit!"
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+萊特羅斯，箱商
+
+"多謝！但願箱中物你中意。
+        
+        </text>
+        <usericon>1,206,240</usericon>
+        <text>
+
+
+玩得開心！"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,206,240</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,206,240</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 LETROS HANDLARZ SKRZYNIAMI 
@@ -1636,6 +2348,33 @@ Nachdem wir dem Volk von El Arab den geforderten Tribut bezahlt hatten, legten s
 
 Dort gab es wertvolle Rohstoffe, die uns bei unserer schweren Aufgabe durchaus von Nutzen sein konnten.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+埃爾阿拉布
+        
+        </text>
+        <usericon>1,279,244</usericon>
+        <text>
+
+
+我們向埃爾阿拉布繳付貢金後，他們放下兵器，許我們自由入山。
+
+那裡有寶貴資源，於這艱鉅使命不無小補。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,279,244</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,279,244</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1713,6 +2452,39 @@ Die erste Kiste ist umsonst. Quasi unter Freunden, möchte ich sagen... Um die W
 Nicht, dass das nötig wäre..."
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+阿穆洛斯，箱商
+
+"啊，城中來了外鄉人。竭誠歡迎！在下阿穆洛斯。
+        
+        </text>
+        <usericon>1,245,258</usericon>
+        <text>
+
+
+我與兩弟在城中經營箱櫃買賣，生意興隆。
+
+永遠走在潮流尖端，永遠童叟無欺！只是箱中何物，我們從不言明。
+顧客對我們盲信不疑，倒也正當……故而價錢也頗公道。
+
+首箱白送，朋友之間，可謂……權當試貨……
+又何必多此一舉呢……"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,245,258</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,245,258</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 AMULOS HANDLARZ SKRZYNIAMI 
@@ -1779,6 +2551,33 @@ AMULOS, DER KISTENHÄNDLER
 Zahle Amulos die gewünschten Waren (Tribut), um eine neue Kiste zu bekommen.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+阿穆洛斯，箱商
+
+"你若予我些貨物作償，我便給你一箱新的！"
+        
+        </text>
+        <usericon>1,245,258</usericon>
+        <text>
+
+
+向阿穆洛斯交付所需貨物（貢品）以得一箱。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,245,258</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,245,258</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 AMULOS HANDLARZ SKRZYNIAMI 
@@ -1838,6 +2637,33 @@ AMULOS, DER KISTENHÄNDLER
 Viel Spaß damit!"
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+阿穆洛斯，箱商
+
+"多謝！但願箱中物你中意。
+        
+        </text>
+        <usericon>1,245,258</usericon>
+        <text>
+
+
+玩得開心！"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,245,258</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,245,258</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 AMULOS HANDLARZ SKRZYNIAMI 
@@ -1895,6 +2721,33 @@ Wenn du unbedingt den Konflikt suchst, sollst du ihn bekommen!
 
 Die Osirer, die dir sicherlich in einigen Dingen noch hätten nützlich sein können, wenden sich nun für alle Zeiten gegen dich!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+奧西里斯族
+
+若你執意尋釁，便給你尋釁！
+        
+        </text>
+        <usericon>1,83,83</usericon>
+        <text>
+
+
+奧西里斯族本可於諸多方面助你，如今卻永世與你為敵！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,83,83</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,83,83</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1969,6 +2822,38 @@ Ein Geschäft gegenseitigen Vertrauens quasi... Dafür sind die Preise recht gü
 Die erste Kiste ist umsonst. Quasi von Kenner zu Kenner... Um die Ware zu testen. Quasi..."
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+維諾斯，箱商
+
+"喲呵！哪路來的客？我看諸位乃是美酒妙釀的行家！
+        
+        </text>
+        <usericon>1,285,301</usericon>
+        <text>
+
+
+在下維諾斯，朋友們都這麼叫我。我在城中經營箱櫃買賣，家傳營生，兄弟們也幹這行。
+
+永遠走在潮流尖端，永遠童叟無欺！只是箱中何物，我們從不言明。
+這買賣全憑互信，可謂……故而價錢也頗公道。
+
+首箱白送，行家之間，可謂……權當試貨，可謂……"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,285,301</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,285,301</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 VINOS HANDLARZ SKRZYNIAMI 
@@ -2034,6 +2919,33 @@ VINOS, DER KISTENHÄNDLER
 Zahle Vinos die gewünschten Waren (Tribut), um eine neue Kiste zu bekommen.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+維諾斯，箱商
+
+"你若予我些貨物作償，我便給你一箱新的！"
+        
+        </text>
+        <usericon>1,285,301</usericon>
+        <text>
+
+
+向維諾斯交付所需貨物（貢品）以得一箱。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,285,301</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,285,301</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 VINOS HANDLARZ SKRZYNIAMI 
@@ -2093,6 +3005,33 @@ VINOS, DER KISTENHÄNDLER
 Viel Spaß damit!"
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+維諾斯，箱商
+
+"多謝！但願箱中物你中意。
+        
+        </text>
+        <usericon>1,285,301</usericon>
+        <text>
+
+
+玩得開心！"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,285,301</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,285,301</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 VINOS HANDLARZ SKRZYNIAMI
@@ -2150,6 +3089,33 @@ Durch die Zahlung des gewünschten Tributs war es uns gelungen, die Freundschaft
 
 Wer weiß, welchen Nutzen dies uns noch bringen mochte...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+奧西里斯族
+
+憑繳付貢金，我們終贏得奧西里斯族的友誼！
+        
+        </text>
+        <usericon>1,83,83</usericon>
+        <text>
+
+
+誰知其後尚能予我等何益……
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,83,83</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,83,83</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -2247,6 +3213,45 @@ Gemeinsam würde es uns nun ein Leichtes sein, das nächste Wunder zu vollenden!
 Nun, wenn wir uns da mal nicht täuschen sollten...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+摯友抵達
+
+當我們的船載著我、希拉、兒子瑪尼、他的龍諾伯特，以及希拉之父的幾名近衛登陸沙灘時，眾人驚愕不已！
+        
+        </text>
+        <usericon>1,173,34</usericon>
+        <text>
+
+
+瑪尼已安然渡過那場險症--當日便是它迫我們離去。
+
+我們自羅德啟程後，抵達希拉之父、拜占庭皇帝宮廷，他傾舉國之力，召來帝國最良之醫。瑪尼終得可期之至療。
+
+唯賴這般悉心照護，他方能速愈。我們留居宮廷，直至他恢復元氣。
+
+隨後整備船隻，再赴羅德。遙見港中巨像，我們便知友人功成，遂直駛哈利卡納蘇斯。
+
+於是我們在此！
+
+眾人合力，完成下一奇蹟自是易事！
+
+嗯，但願我們沒看錯……
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,173,34</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,173,34</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 PRZYBYCIE PRZYJACIÓŁ
@@ -2313,6 +3318,37 @@ MISSION VERLOREN!
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時的疏忽，人生便會急轉直下！你的女英雄希拉因你的大意而喪命！失去這位英雄，你將無緣見到任務的結局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -2401,6 +3437,43 @@ Ansonsten - entschuldigt mich bitte!"
 
 Geh mit Bjarni zu König Mausolos. Nur - wo steckt der Kerl denn bloß?
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+摩索拉斯王
+
+"啊，城中來了外鄉人！真是稀客……
+        
+        </text>
+        <usericon>1,218,272</usericon>
+        <text>
+
+
+你們尋那古王之陵？唔。確有其事，就在那邊山丘上。
+
+那些石頭，我們已拿去城中蓋了新房。頗是好料，助益良多。
+
+原址之處，我們闢了座小公園，供市民休憩。可見數百載後，這古物仍有其用。
+
+好了，就此打住。朕畢竟是王，不是嚮導！若還有事商議，遣你們首領來！
+
+否則--失陪了！"
+
+與比雅尼同去見摩索拉斯王。只是--那傢伙究竟在何處？
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,218,272</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,218,272</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -2496,6 +3569,41 @@ Als Freundschaftsdienst, so zu sagen."
 
 Beweise König Mausolos durch eine großzügige Gabe (Tribut) deine Freundschaft.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+摩索拉斯王
+
+"比雅尼？那個比雅尼？
+        
+        </text>
+        <usericon>1,218,272</usericon>
+        <text>
+
+
+啊，我聽過你！建下偌大功業！在極西之地發現新陸，還降了塵世巨蛇，是吧？
+
+至少傳言如此。
+
+若屬實，你該富甲一方才是？那麼，滿足我一個小小心願，於你自是易事……
+
+權當友誼之舉。"
+
+以厚禮（貢品）向摩索拉斯王證你友誼。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,218,272</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,218,272</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -2612,6 +3720,53 @@ Aber warum redet ihr nicht selbst mit ihr? Dann trifft mich keine Schuld, und vi
 Gehe mit Bjarni zu Königin Artemisia, um mit ihr über Bau des Grabmals zu sprechen.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+摩索拉斯王
+
+"啊，看來你們確是富甲權傾！能迎諸位蒞臨鄙邦，榮幸之至！何事風塵僕僕至此？
+        
+        </text>
+        <usericon>1,218,272</usericon>
+        <text>
+
+
+我三言兩語道明來意。他--說得委婉些--甚是訝異！
+
+"什麼？你們要重建古陵？我沒聽錯？
+這確是浩大工程！縱說關乎全人類福祉，也非易事。
+
+須知，原址之處我們已闢了座雅園，供市民 閒適。而此園，恰是我尊夫人的最愛去處！
+        
+        </text>
+        <usericon>1,234,293</usericon>
+        <text>
+
+
+若我如今命人拆園，她定與我沒完！她絕不會饒我！……
+
+然何不親與她談？那樣便不關我事，或許你們言辭比我更得體。"
+
+與比雅尼同去見阿爾特米西亞王后，商談建陵之事。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,218,272</usericon>
+        <text />
+        <usericon>1,234,293</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,218,272</usericon>
+        <text />
+        <usericon>1,234,293</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 KRÓL MAUZOLOS
@@ -2700,6 +3855,37 @@ Kümmert ihr euch um die Baumaterialien und bringt sie zum Eingang des Parks! Do
 Bring die nötigen Waren zur markierten Stelle am Parkeingang.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+阿爾特米西亞王后
+
+與王后交談，竟比預想中易。她對迫近之危與我們的使命，全然理解。
+        
+        </text>
+        <usericon>1,226,266</usericon>
+        <text>
+
+
+"你們的事業獲我支援，絕無疑義！若黑暗籠罩世界、人類沉淪，再美的園子又有何用？
+
+你們只管籌備建材，運至園門。我的工人便會在那裡重建王陵！我已命人清園，你們盡有空間。"
+
+將所需貨物運至園門標記處。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,226,266</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,226,266</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 KRÓLOWA ARTEMIZJA
@@ -2776,6 +3962,37 @@ Könntet ihr das bitte übernehmen? Habt vielen Dank!"
 
 Bezahle die Bauarbeiter (Tributzahlung).
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+阿爾特米西亞王后
+        
+        </text>
+        <usericon>1,226,266</usericon>
+        <text>
+
+
+"還有一樁小事，須託付你們……
+
+海盜屢襲，國庫空空如我夫之禿頂。然工人要討建陵的工錢。
+
+這便煩請諸位代勞了？多謝！"
+
+向建築工支付工錢（貢品）。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,226,266</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,226,266</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -2860,6 +4077,39 @@ Wir brauchen nun noch einiges an Baumaterial. Bringt die Sachen an der Fuß des 
 Bring die nötigen Waren zur markierten Stelle am Fuß des Hügels.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+阿爾特米西亞王后
+
+我們傾盡所有，以付工人。然若能救人類，任何代價皆不足惜。
+        
+        </text>
+        <usericon>1,226,266</usericon>
+        <text>
+
+
+"多謝！高貴的比雅尼，你真是慷慨之人！
+
+如今王陵可續建了。你們不反對這名字吧？我想以亡夫之名命名……
+
+我們仍需些建材。運至山腳標記處，那裡盡有空間！"
+
+將所需貨物運至山腳標記處。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,226,266</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,226,266</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 KRÓLOWA ARTEMIZJA 
@@ -2932,6 +4182,35 @@ Komme nicht auf die Idee, deine Freude anzugreifen! Du wirst diese Mission dann 
 
 Sei gewarnt!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+你意欲何為？
+
+你對哈利卡納蘇斯之民露出了敵意！
+        
+        </text>
+        <usericon>1,218,272</usericon>
+        <text>
+
+
+莫動攻擊友軍之念！否則你將無法完成此任務！
+
+以此為戒！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,218,272</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,218,272</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -3008,6 +4287,37 @@ Nicht zu glauben vermag ich solche Worte! Doch wenn die Legenden stimmen, so sch
 Schicke Mani und Norbert zu Tut Ma' Nix.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+祭司圖特・馬・尼克斯
+
+奧西里斯族祭司圖特・馬・尼克斯，願助我們一臂之力。
+        
+        </text>
+        <usericon>2,150</usericon>
+        <text>
+
+
+"朋友們，我聞你們的偉業！也有人報，你們行列中有孩童攜龍同行！
+
+此等言語，我實難置信！然若傳說不虛，便遣那二位來見我，容我一睹奇景！若得見此奇蹟，我願將奧西里斯族一大秘辛相告！"
+
+派瑪尼與諾伯特前往圖特・馬・尼克斯處。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,150</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,150</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 KAPŁAN TUT MA' NIX
@@ -3067,6 +4377,37 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held HATSCHI erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時的疏忽，人生便會急轉直下！你的摯友與英雄哈奇因你的大意而喪命！失去這位英雄，你將無緣見到任務的結局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -3122,6 +4463,33 @@ Die Piraten von Al Rhababa waren vernichtet!
 
 Künftig werden die Völker hier ohne Angst vor ihren Angriffen leben können. 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+阿爾拉哈巴
+
+阿爾拉哈巴的海盜已被殲滅！
+        
+        </text>
+        <usericon>1,59,325</usericon>
+        <text>
+
+
+此後此地諸族可免於其襲擾而安居。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,59,325</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,59,325</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -3181,6 +4549,33 @@ Das Volk der El Arab war vernichtet!
 Der Zugang zu den rohstoffreichen Bergen war nun frei. 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+埃爾阿拉布
+
+埃爾阿拉布之民已被殲滅！
+        
+        </text>
+        <usericon>1,284,250</usericon>
+        <text>
+
+
+富礦之山的通道，如今敞開。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,284,250</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,284,250</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 EL ARAB
@@ -3238,6 +4633,33 @@ Der Stamm der Osirer war vernichtet!
 
 Der Zugang zu den rohstoffreichen Bergen war nun frei. 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+奧西里斯族
+
+奧西里斯族已被殲滅！
+        
+        </text>
+        <usericon>1,83,83</usericon>
+        <text>
+
+
+富礦之山的通道，如今敞開。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,83,83</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,83,83</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -3349,6 +4771,59 @@ Benutzt jene Pforte, um in unser Dorf zu gelangen:
 Gebt aber acht - die Pforten wechseln von Zeit zu Zeit ihre Richtung! Dann könnt ihr den Weg, den ihr gekommen seid, auch wieder zurück nehmen!"
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+祭司圖特・馬・尼克斯
+
+圖特・馬・尼克斯一見瑪尼與諾伯特，眼中便放光！
+        
+        </text>
+        <usericon>2,150</usericon>
+        <text>
+
+
+"噢，何等奇蹟賜我！真龍一條！由北地孩童引領！願奧西里斯賜福於你，長掩其冥界之門！
+
+多謝你們顯此奇蹟！作為回報，你們當知曉奧西里斯族的秘道！我們鮮用，然或於你們有益……我願為你們開啟……
+
+聽好！經此魔法之門，可達阿爾拉哈巴之島：
+        
+        </text>
+        <usericon>1,26,129</usericon>
+        <text>
+
+
+借那門，可入我村：
+        
+        </text>
+        <usericon>1,215,127</usericon>
+        <text>
+
+
+然須當心--門之朝向時有更變！屆時你可循來路而歸！"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,150</usericon>
+        <text />
+        <usericon>1,26,129</usericon>
+        <text />
+        <usericon>1,215,127</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,150</usericon>
+        <text />
+        <usericon>1,26,129</usericon>
+        <text />
+        <usericon>1,215,127</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 KAPŁAN TUT MA' NIX
@@ -3420,6 +4895,37 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held SIGURD erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時的疏忽，人生便會急轉直下！你的摯友與英雄西格德因你的大意而喪命！失去這位英雄，你將無緣見到任務的結局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -3472,6 +4978,37 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! NORBERT, der kleine Drache und Freund von Mani, kam durch deine Unachtsamkeit ums Leben! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時的疏忽，人生便會急轉直下！諾伯特--瑪尼的小龍夥伴，因你的大意而殞命！失去這位英雄，你將無緣見到任務的結局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -3523,6 +5060,37 @@ MISSION VERLOREN!
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Der Sohn von Bjarni und Cyra, der kleine MANI, kam durch deine Unachtsamkeit ums Leben! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時的疏忽，人生便會急轉直下！比雅尼與希拉之子，小瑪尼因你的大意而殞命！失去這位英雄，你將無緣見到任務的結局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -3582,6 +5150,39 @@ Obwohl man dich gewarnt hatte, hast du deine besten Freunde angegriffen!
 So wirst du deine Mission nicht beenden können!
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+
+
+儘管已有人警告於你，你竟攻擊了自己最好的朋友！
+
+如此你將無法完成使命！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -3639,6 +5240,33 @@ Die Seeräuber von Al Rhababa sind am Strand gelandet!
 
 Verteidige dich!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+突襲！
+
+阿爾拉哈巴的海盜在沙灘登陸！
+        
+        </text>
+        <usericon>2,201</usericon>
+        <text>
+
+
+防守！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,201</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,201</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -3698,6 +5326,33 @@ Die Seeräuber von Al Rhababa sind am Strand gelandet!
 Verteidige dich! Und triff besser Vorkehrungen gegen weitere Attacken!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+突襲！
+
+阿爾拉哈巴的海盜在沙灘登陸！
+        
+        </text>
+        <usericon>2,205</usericon>
+        <text>
+
+
+防守！並妥善防備後續攻擊！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,205</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,205</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 ATAK!
@@ -3755,6 +5410,33 @@ Die Seeräuber von Al Rhababa sind am Strand gelandet!
 
 Verteidige dich! Und triff besser Vorkehrungen gegen weitere Attacken!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+突襲！
+
+阿爾拉哈巴的海盜在沙灘登陸！
+        
+        </text>
+        <usericon>2,206</usericon>
+        <text>
+
+
+防守！並妥善防備後續攻擊！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,206</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,206</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -3814,6 +5496,33 @@ Die Seeräuber von Al Rhababa sind am Strand gelandet!
 Verteidige dich! Und triff besser Vorkehrungen gegen weitere Attacken!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+突襲！
+
+阿爾拉哈巴的海盜在沙灘登陸！
+        
+        </text>
+        <usericon>2,203</usericon>
+        <text>
+
+
+防守！並妥善防備後續攻擊！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,203</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,203</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 ATAK!
@@ -3871,6 +5580,28 @@ Es lag uns fern, Vergeltung zu üben. Wir liebten den Frieden über alles, und n
 Wir waren sicher, dass von ihnen fortan keine Gefahr mehr drohen würde.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+海盜敗北！
+
+我們的勇毅英雄終克阿爾拉哈巴海盜！
+
+殘眾乞憐求和平。他們降伏，將命運託付我們手。
+
+我們無意報復。和平高於一切；既已降伏，便與之立下和約。
+
+我們確信，此後他們再無威脅。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 PIRACI POKONANI!
@@ -3915,6 +5646,24 @@ Ein schweres Erdbeben erschüttert die Erde!
 
 In einem großen Bereich rund um das Epizentrum in den Bergen richtet es mächtig Schaden an!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+地震！！！
+
+劇烈地震撼動大地！
+
+以山中震中為中心的大片區域，遭受重創！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -3988,6 +5737,39 @@ Wir werden alle zur Verfügung stehenden Bauwaren brauchen, um die Stadt wieder 
 Bitte habt Verständnis für unsere Notlage, edler Bjarni..."
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+地震！！！
+
+劇震搖撼哈利卡納蘇斯，城中損毀慘重！
+
+阿爾特米西亞王后向我們求援：
+        
+        </text>
+        <usericon>1,226,266</usericon>
+        <text>
+
+
+"何等災厄降臨吾城！地震重創，屋舍傾危！
+
+重建之城須用盡所有建材，即便本為陵墓所備者……
+
+高貴的比雅尼，請體察我們的困厄……"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,226,266</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,226,266</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 TRZĘSIENIE ZIMI!
@@ -4026,6 +5808,20 @@ THE MAUSOLEUM
         <text> 
 DAS MAUSOLEUM
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+摩索拉斯王陵
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 

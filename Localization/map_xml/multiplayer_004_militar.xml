@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,66 +14,99 @@
       <text lang="CHN">军事：局促之地</text>
       <text lang="eng">Military: CLOSE AND PERSONAL</text>
       <text lang="ger">Militär: INTIMES TREIBEN</text>
+      <text lang="l11">軍事：侷促之地</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Walka: TWARZĄ W TWARZ</text>
     </string>
     <string id="1">
       <text lang="CHN">4 个维京部族在一片极为狭小的土地上争夺霸权。</text>
       <text lang="eng">4 Viking tribes fight for predominance over a very small area of land.</text>
       <text lang="ger">4 Wikingerstämme kämpfen um die Vorherrschaft in einem sehr kleinen Land.</text>
+      <text lang="l11">4 個維京部族在一片極為狹小的土地上爭奪霸權。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">4 wikińskie plemiona walczą o władzę nad tą wyjątkowo małą połacią lądu.</text>
     </string>
     <string id="2">
       <text lang="CHN">攻占敌方村庄！</text>
       <text lang="eng">Conquer the hostile villages!</text>
       <text lang="ger">Erobere die feindlichen Dörfer!</text>
+      <text lang="l11">攻佔敵方村莊！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Pokonaj wrogie wioski!</text>
     </string>
     <string id="10">
       <text lang="CHN">格陵兰人</text>
       <text lang="eng">Greenlander</text>
       <text lang="ger">Grönländer</text>
+      <text lang="l11">格陵蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Grenlandczyk</text>
     </string>
     <string id="11">
       <text lang="CHN">格陵兰人</text>
       <text lang="eng">Greenlander</text>
       <text lang="ger">Grönländer</text>
+      <text lang="l11">格陵蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Grenlandczyk</text>
     </string>
     <string id="20">
       <text lang="CHN">文兰人</text>
       <text lang="eng">Vinlander</text>
       <text lang="ger">Vinländer</text>
+      <text lang="l11">文蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Winlandczyk</text>
     </string>
     <string id="21">
       <text lang="CHN">文兰人</text>
       <text lang="eng">Vinlander</text>
       <text lang="ger">Vinländer</text>
+      <text lang="l11">文蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Winlandczyk</text>
     </string>
     <string id="30">
       <text lang="CHN">海卢兰人</text>
       <text lang="eng">Hellulander</text>
       <text lang="ger">Helluländer</text>
+      <text lang="l11">海盧蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hellulandczyk</text>
     </string>
     <string id="31">
       <text lang="CHN">海卢兰人</text>
       <text lang="eng">Hellulander</text>
       <text lang="ger">Helluländer</text>
+      <text lang="l11">海盧蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hellulandczyk</text>
     </string>
     <string id="40">
       <text lang="CHN">马克兰人</text>
       <text lang="eng">Marklander</text>
       <text lang="ger">Markländer</text>
+      <text lang="l11">馬克蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Marklandczyk</text>
     </string>
     <string id="41">
       <text lang="CHN">马克兰人</text>
       <text lang="eng">Marklander</text>
       <text lang="ger">Markländer</text>
+      <text lang="l11">馬克蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Marklandczyk</text>
     </string>
   </strings>
@@ -105,6 +141,21 @@ In letzter Zeit war es sogar zu handfesten Auseinandersetzungen gekommen.
 Verjage deine Gegner aus dem Land, bevor sie das mit dir tun!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+長久以來，住民之間一直存在領地紛爭。誰都想把鄰居擠出這片彈丸之地。
+
+"資源越來越緊了！我們得做點什麼……"
+
+趕在對手把你逐出這片土地之前，先把他們趕出去！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 Spór o panowanie nad tym terytorium trwa już od wielu lat, zaś jego podstawową przyczyną są kurczące się w szybkim tempie ławice ryb.
@@ -135,6 +186,17 @@ CLOSE AND PERSONAL
 INTIMES TREIBEN
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+侷促之地
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

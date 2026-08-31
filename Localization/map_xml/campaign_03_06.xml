@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,306 +14,459 @@
       <text lang="CHN">@在神庙前竖起宙斯巨像！</text>
       <text lang="eng">@BUILD THE ZEUS STATUE AT THE TEMPLE!</text>
       <text lang="ger">@ERRICHTE DIE ZEUSSTATUE AM TEMPEL!</text>
+      <text lang="l11">@在神廟前豎起宙斯巨像！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">@WYBUDUJ STATUĘ ZEUSA W ŚWIĄTYNI!</text>
     </string>
     <string id="1">
       <text lang="CHN">寻访并联合你的部族。</text>
       <text lang="eng">Find and unite your people.</text>
       <text lang="ger">Suche und vereine dein Volk.</text>
+      <text lang="l11">尋訪並聯合你的部族。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Znajdź i połącz swoich ludzi.</text>
     </string>
     <string id="2">
       <text lang="CHN">在商人的货栈屋之间，建起一座你自己的仓储屋！</text>
       <text lang="eng">Build an extra warehouse between the merchants' warehouses!</text>
       <text lang="ger">Errichte zwischen den Händlerlagerhäusern ein eigenes Lagerhaus!</text>
+      <text lang="l11">在商人的貨棧屋之間，建起一座你自己的倉儲屋！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wybuduj dodatkowy magazyn między magazynami kupców!</text>
     </string>
     <string id="3">
       <text lang="CHN">前往工地。</text>
       <text lang="eng">Go to the building site.</text>
       <text lang="ger">Gehe zum Bauplatz.</text>
+      <text lang="l11">前往工地。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Idź na plac budowy.</text>
     </string>
     <string id="4">
       <text lang="CHN">将 80 金运抵巨像工地。</text>
       <text lang="eng">Take 80 gold to the Zeus Statue building site.</text>
       <text lang="ger">Bringe 80 Gold zum Bauplatz der Statue.</text>
+      <text lang="l11">將 80 金運抵巨像工地。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Weź 80 złota na miejsce budowy Statuy Zeusa.</text>
     </string>
     <string id="5">
       <text lang="CHN">前往伊利斯。</text>
       <text lang="eng">Go to Elis.</text>
       <text lang="ger">Gehe nach Elis.</text>
+      <text lang="l11">前往伊利斯。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Idź do Elei.</text>
     </string>
     <string id="6">
       <text lang="CHN">寻得隐秘的象牙与那些珍稀的贵金属。</text>
       <text lang="eng">Find the hidden ivory and the rare precious metals.</text>
       <text lang="ger">Finde das verborgene Elfenbein und die seltenen Edelmetalle.</text>
+      <text lang="l11">尋得隱秘的象牙與那些珍稀的貴金屬。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Odnajdź ukrytą kość słoniową i rzadkie metale szlachetne.</text>
     </string>
     <string id="7">
       <text lang="CHN">向科林斯人奉上一件他们信仰的圣物。</text>
       <text lang="eng">Bring the Corinthians an artefact of their faith.</text>
       <text lang="ger">Bringe den Korinthern ein Artefakt ihres Glaubens.</text>
+      <text lang="l11">向科林斯人奉上一件他們信仰的聖物。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Przynieś Koryntianom artefakt ich zaufania.</text>
     </string>
     <string id="8">
       <text lang="CHN">找到奥林匹亚的奔跑者，向他发起一场赛跑挑战。</text>
       <text lang="eng">Find the runner of Olympia and compete with him in a race.</text>
       <text lang="ger">Finde den Läufer von Olympia und trete gegen ihn ein Wettrennen an.</text>
+      <text lang="l11">找到奧林匹亞的奔跑者，向他發起一場賽跑挑戰。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Znajdź biegacza Olimpii i zmierz się z nim w wyścigu.</text>
     </string>
     <string id="9">
       <text lang="CHN">促使诸族携手协作，与伊利斯人同赴斯巴达！</text>
       <text lang="eng">Get the people to co-operate, take the Elisians to Sparta!</text>
       <text lang="ger">Bringe die Völker zur Zusammenarbeit, gehe mit Elisern nach Sparta!</text>
+      <text lang="l11">促使諸族攜手協作，與伊利斯人同赴斯巴達！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Przygotuj ludzi do współpracy, zabierz Eleiczyków do Sparty!</text>
     </string>
     <string id="10">
       <text lang="CHN">向商人缴纳 15 罐蜂蜜作为贡品，以换取更多货品。</text>
       <text lang="eng">Pay the merchants a tribute of 15 bowls of honey for additional goods.</text>
       <text lang="ger">Zahle den Händler 15 Schalen Honig als Tribut für weitere Waren.</text>
+      <text lang="l11">向商人繳納 15 罐蜂蜜作為貢品，以換取更多貨品。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać kupcom trybut w wysokości 15 misek miodu za dodatkowe towary.</text>
     </string>
     <string id="11">
       <text lang="CHN">向游牧民缴纳 15 把长剑作为贡品。</text>
       <text lang="eng">Pay the nomads a tribute of 15 longswords.</text>
       <text lang="ger">Zahle den Nomaden 15 Langschwerter als Tribut.</text>
+      <text lang="l11">向遊牧民繳納 15 把長劍作為貢品。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać nomadom trybut w wysokości 15 długich mieczy.</text>
     </string>
     <string id="12">
       <text lang="CHN">将 40 根大理石柱运抵巨像工地。</text>
       <text lang="eng">Take 40 marble columns to the Zeus Statue building site.</text>
       <text lang="ger">Bringe 40 Marmorsäulen zum Bauplatz der Statue.</text>
+      <text lang="l11">將 40 根大理石柱運抵巨像工地。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zabierz 40 marmurowych kolumn na miejsce budowy Statuy Zeusa.</text>
     </string>
     <string id="13">
       <text lang="CHN">携你全部英雄与一名伊利斯士兵，前往兵营。</text>
       <text lang="eng">Take all of your heroes and an Elisian soldier to the barracks.</text>
       <text lang="ger">Gehe mit allen deinen Helden und einem Elisersoldaten zur Kaserne.</text>
+      <text lang="l11">攜你全部英雄與一名伊利斯士兵，前往兵營。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Weź wszystkich swoich bohaterów i Żołnierzy eleiskich do koszar.</text>
     </string>
     <string id="14">
       <text lang="CHN">与你的英雄们返回巨像工地！</text>
       <text lang="eng">Return to the Zeus Statue building site with your heroes!</text>
       <text lang="ger">Gehe mit deine Helden zurück zum Bauplatz der Statue!</text>
+      <text lang="l11">與你的英雄們返回巨像工地！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wróć ze swoimi bohaterami na teren budowy Statuy Zeusa!</text>
     </string>
     <string id="15">
       <text lang="CHN">去探索斯巴达吧，你现已获准于此！</text>
       <text lang="eng">Explore Sparta, you are now allowed to!</text>
       <text lang="ger">Erkunde Sparta, du hast nun die Erlaubnis hierzu!</text>
+      <text lang="l11">去探索斯巴達吧，你現已獲准於此！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zbadaj Spartę, teraz już ci wolno!</text>
     </string>
     <string id="16">
       <text lang="CHN">缴此贡品，你将得一辆手推车与一辆牛车：</text>
       <text lang="eng">In return for this tribute you will get a handcart and an ox cart:</text>
       <text lang="ger">Für diesen Tribut erhältst du einen Hand- und einen Ochsenkarren:</text>
+      <text lang="l11">繳此貢品，你將得一輛手推車與一輛牛車：</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">W zamian za twój trybut otrzymasz wózek ręczny i wóz z wołami:</text>
     </string>
     <string id="17">
       <text lang="CHN">缴此贡品，你将得 15 个营养护符：</text>
       <text lang="eng">In return for this tribute you will get 15 nourishing amulets:</text>
       <text lang="ger">Für diesen Tribut erhältst du 15 Nahrungsamulette:</text>
+      <text lang="l11">繳此貢品，你將得 15 個營養護符：</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">W zamian za twój trybut otrzymasz 15 amuletów wzmocnienia:</text>
     </string>
     <string id="20">
       <text lang="CHN">大理石柱 %d/40</text>
       <text lang="eng">Marble columns %d/40</text>
       <text lang="ger">Marmorsäulen %d/40</text>
+      <text lang="l11">大理石柱 %d/40</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Marmurowe kolumny %d/40</text>
     </string>
     <string id="21">
       <text lang="CHN">黄金 %d/80</text>
       <text lang="eng">Gold %d/80</text>
       <text lang="ger">Gold %d/80</text>
+      <text lang="l11">黃金 %d/80</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Złoto %d/80</text>
     </string>
     <string id="22">
       <text lang="CHN">大理石柱已送达</text>
       <text lang="eng">Marble columns delivered</text>
       <text lang="ger">Marmorsäulen geliefert</text>
+      <text lang="l11">大理石柱已送達</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Marmurowe kolumny dostarczone </text>
     </string>
     <string id="23">
       <text lang="CHN">黄金已送达</text>
       <text lang="eng">Gold delivered</text>
       <text lang="ger">Gold geliefert</text>
+      <text lang="l11">黃金已送達</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Złoto dostarczone </text>
     </string>
     <string id="24">
       <text lang="CHN">象牙与贵金属已送达</text>
       <text lang="eng">Ivory and precious metals delivered</text>
       <text lang="ger">Elfenbein und Edelmetalle geliefert</text>
+      <text lang="l11">象牙與貴金屬已送達</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Kość słoniowa i metale szlachetne dostarczone </text>
     </string>
     <string id="51">
       <text lang="CHN">奥林匹亚</text>
       <text lang="eng">Olympia</text>
       <text lang="ger">Olympia</text>
+      <text lang="l11">奧林匹亞</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Olimpia</text>
     </string>
     <string id="52">
       <text lang="CHN">游牧武士</text>
       <text lang="eng">Nomad Warriors</text>
       <text lang="ger">Nomadenkrieger</text>
+      <text lang="l11">遊牧武士</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wojownicy Nomadów</text>
     </string>
     <string id="53">
       <text lang="CHN">伊利斯</text>
       <text lang="eng">Elis</text>
       <text lang="ger">Elis</text>
+      <text lang="l11">伊利斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Eleia</text>
     </string>
     <string id="54">
       <text lang="CHN">科林斯</text>
       <text lang="eng">Corinth</text>
       <text lang="ger">Korinth</text>
+      <text lang="l11">科林斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Korynt</text>
     </string>
     <string id="55">
       <text lang="CHN">斯巴达</text>
       <text lang="eng">Sparta</text>
       <text lang="ger">Sparta</text>
+      <text lang="l11">斯巴達</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Sparta</text>
     </string>
     <string id="56">
       <text lang="CHN">墨加拉</text>
       <text lang="eng">Megara</text>
       <text lang="ger">Megara</text>
+      <text lang="l11">墨加拉</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Megara</text>
     </string>
     <string id="58">
       <text lang="CHN">市集</text>
       <text lang="eng">Market</text>
       <text lang="ger">Markt</text>
+      <text lang="l11">市集</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Targ</text>
     </string>
     <string id="61">
       <text lang="CHN">奥林匹</text>
       <text lang="eng">Olym.</text>
       <text lang="ger">Olym.</text>
+      <text lang="l11">奧林匹</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Olim.</text>
     </string>
     <string id="62">
       <text lang="CHN">游牧</text>
       <text lang="eng">Noma.</text>
       <text lang="ger">Noma.</text>
+      <text lang="l11">遊牧</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Noma.</text>
     </string>
     <string id="63">
       <text lang="CHN">伊利斯</text>
       <text lang="eng">Elis</text>
       <text lang="ger">Elis</text>
+      <text lang="l11">伊利斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Eleia</text>
     </string>
     <string id="64">
       <text lang="CHN">科林</text>
       <text lang="eng">Corin.</text>
       <text lang="ger">Korin.</text>
+      <text lang="l11">科林</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Koryn.</text>
     </string>
     <string id="65">
       <text lang="CHN">斯巴</text>
       <text lang="eng">Spar.</text>
       <text lang="ger">Spar.</text>
+      <text lang="l11">斯巴</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Spar.</text>
     </string>
     <string id="66">
       <text lang="CHN">墨加</text>
       <text lang="eng">Mega.</text>
       <text lang="ger">Mega.</text>
+      <text lang="l11">墨加</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mega.</text>
     </string>
     <string id="68">
       <text lang="CHN">市集</text>
       <text lang="eng">Market</text>
       <text lang="ger">Markt</text>
+      <text lang="l11">市集</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Targ</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="l11">希拉</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
       <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
+      <text lang="l11">哈奇</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hatchie</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="l11">西格德</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">诺伯特</text>
       <text lang="eng">Norbert</text>
       <text lang="ger">Norbert</text>
+      <text lang="l11">諾伯特</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Norbert</text>
     </string>
     <string id="76">
       <text lang="CHN">玛尼</text>
       <text lang="eng">Mani</text>
       <text lang="ger">Mani</text>
+      <text lang="l11">瑪尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mani</text>
     </string>
     <string id="77">
       <text lang="CHN">奔跑者</text>
       <text lang="eng">Runner</text>
       <text lang="ger">Läufer</text>
+      <text lang="l11">奔跑者</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Biegacz</text>
     </string>
     <string id="78">
       <text lang="CHN">伊利斯商人</text>
       <text lang="eng">Elisian Merchant</text>
       <text lang="ger">Eliserhändler</text>
+      <text lang="l11">伊利斯商人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Kupiec Eleiński</text>
     </string>
     <string id="79">
       <text lang="CHN">伊利斯人</text>
       <text lang="eng">Elisian</text>
       <text lang="ger">Eliser</text>
+      <text lang="l11">伊利斯人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Eleiczyk</text>
     </string>
     <string id="83">
       <text lang="CHN">安图萨</text>
       <text lang="eng">Anthusa</text>
       <text lang="ger">Anthusa</text>
+      <text lang="l11">安圖薩</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Anthusa</text>
     </string>
     <string id="84">
       <text lang="CHN">德斯塔西亚</text>
       <text lang="eng">Destasia</text>
       <text lang="ger">Destasia</text>
+      <text lang="l11">德斯塔西亞</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Destasia</text>
     </string>
     <string id="85">
       <text lang="CHN">帕萨拉</text>
       <text lang="eng">Pasara</text>
       <text lang="ger">Pasara</text>
+      <text lang="l11">帕薩拉</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Pasara</text>
     </string>
     <string id="98">
       <text lang="CHN">每隔四载之夏，奥林匹亚便有一场盛大庆典。只要节庆持续，克洛诺斯丘周遭的圣林之地便得安宁……可我们真能重建菲迪亚斯的那尊巨像吗？诸城之间，猜忌实在太深。</text>
       <text lang="eng">Every fourth summer, a huge festival was held in Olympia. For the duration of the festival, the area around the Kronos Hill in the Holy Grove was peaceful ... But would we be able to resurrect the Zeus Statue of Phidias? There was a lot of mistrust among the cities.</text>
       <text lang="ger">Jeden vierten Sommer fand in Olympia ein großes Fest statt. Solange das Fest andauerte, herrscht Frieden in der Umgebung des Kronos-Hügels im Heiligen Hain… doch wird es uns gelingen, die Statue des Phidias wieder zu errichten? Es herrschte soviel Misstrauen unter den Städten.</text>
+      <text lang="l11">每隔四載之夏，奧林匹亞便有一場盛大慶典。只要節慶持續，克洛諾斯丘周遭的聖林之地便得安寧……可我們真能重建菲迪亞斯的那尊巨像嗎？諸城之間，猜忌實在太深。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Co cztery lata, w Olimpii odbywała się olbrzymia uroczystość. Na czas trwania uroczystości, teren wokół Wzgórza Kronosa w Świętym Gaju był miejscem pokoju ... Ale czy będzie możliwe wskrzeszenie Statuy Zeusa Fidiasza? Było mnóstwo nieporozumień pomiędzy miastami.</text>
     </string>
     <string id="99">
       <text lang="CHN">奥林匹亚的菲迪亚斯宙斯像</text>
       <text lang="eng">THE ZEUS STATUE OF PHIDIAS IN OLYMPIA</text>
       <text lang="ger">ZEUSTATUE DES PHIDIAS IN OLYMPIA</text>
+      <text lang="l11">奧林匹亞的菲迪亞斯宙斯像</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">STATUA ZEUSA FIDIASZA W OLIMPII </text>
     </string>
   </strings>
@@ -342,6 +498,21 @@ Wir mussten die Völker der Umgebung von Olympia überzeugen, bei der Errichtung
 
 Doch hatten wir selbst arge Probleme... Ein starker Sturm hatte unsere Schiffe bei der Anreise getrennt. Unsere Frauen und Männer mussten an einer anderen Stelle der Halbinsel gelandet sein.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+我們的下一個任務要求我們建造一座宏偉的宙斯巨像。
+
+諸族議會發現，這必是下一座蘊含神秘力量的世界奇蹟--傳說能封印黑暗。
+
+我們只能寄望議會無誤，世界奇蹟真能將黑暗逐出大地……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -381,6 +552,24 @@ Doch jeden vierten Sommer fand in Olympia ein großes Fest statt. Solange dieses
 
 Hilf bei der Errichtung der Zeusstatue!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+在這黯淡時世，諸族征戰不休。
+然每第四年之夏，奧林匹亞便舉大祭。祭禮存續期間，克洛諾斯丘周遭聖林之內，和平降臨。凡赴奧林匹亞參與奧林匹克競技者，沿途皆享絕對通行之權。此乃宙斯之命……
+
+助建宙斯巨像！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -448,6 +637,40 @@ Er trainiert Tag und Nacht und zieht seine Kreise."
 Finde den Läufer von Elis und trete mit ihn einen Wettkampf an!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+奧林匹亞市民
+
+"噢！赴奧林匹克競技的新面孔！幸會！我們樂助你們重建宙斯巨像。
+然請先向我們證明爾等之體育精神！與埃利斯賽跑者一較高下！他就在我們美麗城池近處。
+
+
+        
+        </text>
+        <usericon>2,7</usericon>
+        <text>
+
+
+
+他日夜苦練，繞圈不休。"
+
+尋得埃利斯賽跑者，與之競速！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,7</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,7</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 MIESZKAŃCY OLIMPII 
@@ -493,6 +716,24 @@ WÄCHTER DER ZEUSSTATUE
 "Hier stand einst ein mächtiger Tempel, der in seinem Innersten die Zeusstatue des Phidias beherbergte. Wir sind die Wächter des Bauplatzes und hüten diesen heiligen Hain. 
 Wir Olympianer werden euch erst Unterstützung bei der Errichtung der Statue leisten, wenn ihr euch für würdig erwiesen habt..."
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+宙斯巨像守衛
+
+"此處昔有偉廟，廟心供奉菲迪亞斯所塑宙斯巨像。我等乃工地守衛，守此聖林。
+我等奧林匹亞人，須待你等證得配承此任，方助建巨像……"
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -563,6 +804,41 @@ Die Korinther sind recht umgänglich und ließen uns wissen, dass sie uns ihr Go
 Liefere 80 Gold und 40 Marmorsäulen zu dem Bauplatz! Der Läufer von Elis zeigt euch den Weg!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+巨像守衛
+
+"你等確已證得配領此工。如你所見，奧林匹亞與埃利斯之民，已動工建像。"
+
+
+        
+        </text>
+        <usericon>1,83,253</usericon>
+        <text>
+
+
+
+"惜我等原料已罄。尚需更多金與大理石柱。大理石柱可由埃利斯人運來，然金子除西北諸城外，此地已無人所有。
+
+科林斯人甚是隨和，言若我們獻上一件斯巴達人所藏聖物，便將金相贈。惜斯巴達人對我等殊無善意。而遠居西北的墨伽拉之民，則分毫不與任何人共享……"
+
+向工地運送 80 金與 40 大理石柱！埃利斯賽跑者會為你指路！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,83,253</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,83,253</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 STRAŻNICY STATUY 
@@ -607,6 +883,23 @@ UNSER DORF
 Hier hatten die anderen Schiffe unseres Volkes also angelegt und in der Zwischenzeit sogar schon eine funktionierende Siedlung aufgebaut. Wir konnten diese nutzen oder eine zweite in der Nähe des Bauplatzes der Statue errichten...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+我等村落
+
+我族其餘船隻，原來在此靠岸，期間竟已建起一處運轉如常的聚落。我們可藉此地，或於巨像工地近處另築一處……
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 NASZA WIOSKA
@@ -640,6 +933,23 @@ WAREN GELIEFERT
 
 Wir hatten die benötigten Waren am Bauplatz abgeliefert. Von nun an würde der Bau der Statue nicht mehr lange dauern. 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+貨物已送達
+
+所需貨物已運抵工地。自此巨像之建，不日可成。
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -697,6 +1007,37 @@ DER LÄUFER
 Gehe mit Sigurd zum Läufer!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+賽跑者
+
+"啊哈！你想與我一較高下！我只與你們法蘭克人之英雄比！"
+
+
+        
+        </text>
+        <usericon>2,7</usericon>
+        <text>
+
+
+
+率西格德前往賽跑者處！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,7</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,7</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 BIEGACZ
@@ -741,6 +1082,27 @@ DER LÄUFER
 "Seid ihr bereit für einen Wettstreit? Dann soll es sein!"
 
 </text>
+        <usericon>2,7</usericon>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+賽跑者
+
+"可準備好了比試？那便開始！"
+
+
+        
+        </text>
+        <usericon>2,7</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,7</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
         <usericon>2,7</usericon>
       </lang>
       <lang code="pol">
@@ -807,6 +1169,39 @@ Ein kleiner Tipp: Er läuft so schnell, dass man ihn oftmals nicht einholt. Wart
 ... so müsste er euch früher oder später über den Weg laufen..."
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+埃利斯
+
+"我們歡迎外鄉人！近前來。你想挑戰我們的賽跑者？若你勝出，我們便相助，並將所有大理石盡數相借……
+
+一個小提示：他跑得極快，常令人追趕不上。在窄木橋上候他便好……
+
+
+        
+        </text>
+        <usericon>1,108,275</usericon>
+        <text>
+
+
+
+……如此他遲早會與你相逢。"
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,108,275</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,108,275</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 ELEJA
@@ -871,6 +1266,37 @@ ELIS
 Diese Händler könnten sie zu euch bringen. Gebt ihnen nur Geleit... Vielleicht können sie euch auch noch für andere Handelsdienste nützlich sein..."
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+埃利斯
+
+"你們竟勝了埃利斯賽跑者？為此，我們將建像所需的大理石柱盡數相贈……
+
+
+        
+        </text>
+        <usericon>1,87,147</usericon>
+        <text>
+
+
+
+這些商人可替你運送。只須為他們護行……或許他們還能為你效其他商旅之勞……"
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,87,147</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,87,147</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 ELIS
@@ -916,6 +1342,25 @@ KORINTH
 
 Bringe den Korinthern das alte Artefakt ihres Glaubens von den Spartanern.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+科林斯
+
+"諸城之間猜忌深重。你等若能自斯巴達人手中奪回我族舊日聖物，我們便助你一臂之力。然除埃利斯人外，斯巴達人對誰皆無善意！
+
+向科林斯人送還斯巴達人手中其信仰之舊聖物。
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -966,6 +1411,37 @@ MISSION VERLOREN!
         <text>
 Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+英雄氣概，還是魯莽？當比雅尼殞命，眾神落淚……失此英雄，你便無緣得見任務終局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -1033,6 +1509,39 @@ Unser Volk ist euch zu großem Dank verpflichtet und gibt euch 60 Gold für die 
 Weiterhin erhaltet ihr das benötigte Elfenbein und die seltenen Edelmetalle von uns."
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+科林斯
+聖物已送達！
+
+"你們做到了！自斯巴達人手中奪回，定非易事，因他們對除埃利斯人外皆無善意。
+我族深謝你等，贈你等 60 金以建巨像！即刻便送往工地……
+
+
+        
+        </text>
+        <usericon>1,76,241</usericon>
+        <text>
+
+
+
+此外，所需象牙與珍稀貴金屬，亦由我等相贈。"
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,76,241</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,76,241</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 KORYNT
@@ -1084,6 +1593,26 @@ Geht dorthin zurück, woher ihr gekommen seid!"
 Gehe und komme mit KRIEGERN der Eliser wieder!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+斯巴達
+
+"我們不喜歡你們！我們疑心一切外鄉人！唯一可信者，唯西北面的埃利斯人。
+回你來的地方去！"
+
+率埃利斯戰士再來！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 SPARTA
@@ -1126,6 +1655,25 @@ SPARTA
 
 Suche in Sparta nach einem ARTEFAKT für die Korinther.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+斯巴達
+
+"埃利斯人，歡迎！我們久未共慶佳節，欣喜你們再臨！你等朋友亦受歡迎……"
+
+於斯巴達尋一件予科林斯人的聖物。
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1194,6 +1742,40 @@ Der Eingang befindet sich bei der Kaserne. Nur Helden sollten diesen Ort betrete
 Gehe mit allen deinen Helden und einem ELISERSOLDATEN zur Kaserne.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+斯巴達
+
+"你們來取予科林斯人的聖物？--此乃贗品！
+
+
+        
+        </text>
+        <usericon>1,236,505</usericon>
+        <text>
+
+
+
+因連年動亂與襲擾，我們不再將它置於地面，而是藏於城下--火海之中。
+入口在軍營處。唯英雄可入此境！若你能自那裡取出，便歸你所有！"
+
+率全體英雄與一名埃利斯士兵前往軍營。
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,236,505</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,236,505</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 SPARTA
@@ -1243,6 +1825,25 @@ MEGARA
 Sie waren uns nun wirklich nicht freundlich gesonnen. Die Anzeichen dafür konnte man nicht missverstehen...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+墨伽拉
+
+"金子是我們的！誰也不給，縱為建此巨像！"墨伽拉之民遠遠便朝我們叫囂，箭矢未落便已如此……
+
+他們對我們實在毫無善意。此意昭然，不容錯解……
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 MEGARA
@@ -1287,6 +1888,26 @@ MARMOR GELIEFERT
 
 Bringe Elfenbein und die Edelmetalle zur Statue.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+大理石已送達
+
+"好，你們得了大理石。
+順帶一提，險些忘了說：建像尚需象牙與他種珍稀貴金屬。科林斯人或斯巴達人，必能相助……"
+
+將象牙與貴金屬運至巨像處。
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1346,6 +1967,37 @@ DER ALTE MANN
 
 Sie waren sehr nett und boten mir frisch duftendes Brot an."
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+老者
+
+"我穿過這些魔法之野。南向彼端，遇一族類如你們者。
+
+
+        
+        </text>
+        <usericon>1,193,330</usericon>
+        <text>
+
+
+
+他們極是和善，贈我新焙飄香之麵包。"
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,193,330</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,193,330</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1408,6 +2060,37 @@ DER ALTE MANN
 
 Seine Frau erwartet ihn zu den Mahlzeiten immer auf der kleinen Holzbrücke. Dort bekommt man ihn auf jeden Fall zu Gesicht..."
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+老者
+
+"是呀是呀，埃利斯賽跑者幾難攔停！
+
+
+        
+        </text>
+        <usericon>1,134,198</usericon>
+        <text>
+
+
+
+他妻每於餐時在小木橋上候他。那裡定能見著他……"
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,134,198</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,134,198</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1477,6 +2160,39 @@ Wenn ich noch jung wäre, so wie ihr, würde ich mein Lager hier errichten. Eine
 Baue, wenn du willst, ein Lagerhaus innerhalb der Markierungen.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+老者
+
+"這工地恰宜建倉--正居於撒拉遜集市兩間商行正中。
+
+
+        
+        </text>
+        <usericon>1,355,285</usericon>
+        <text>
+
+
+
+若我如你們般年少，便在此立倉。再無更便宜之處。"
+
+若願，於標記之內建一座貨倉。
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,355,285</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,355,285</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 STARZEC
@@ -1497,6 +2213,9 @@ Jeśli chcesz, wybuduj magazyn na zaznaczonym obszarze.
       <lang code="CHN" />
       <lang code="eng" />
       <lang code="ger" />
+      <lang code="l11" />
+      <lang code="l12" />
+      <lang code="l13" />
       <lang code="pol" />
     </block>
     <block id="200">
@@ -1538,6 +2257,37 @@ MISSION VERLOREN!
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時疏忽，人生便急轉直下！你的女英雄希拉因你大意而殞命！失此英雄，你便無緣得見任務終局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -1592,6 +2342,35 @@ ZEUSSTATUE AUSGEBAUT!
 
 Mit den Edelmetallen konnten die Bewohner von Olympia den Bau der Statue vorantreiben, aber ihnen fehlten noch die anderen bereits geforderten Waren.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+宙斯巨像擴建！
+
+
+        
+        </text>
+        <usericon>1,83,242</usericon>
+        <text>
+
+
+
+藉貴金屬之力，奧林匹亞人得推建像之工，然其餘索求之物尚缺。
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,83,242</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,83,242</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1652,6 +2431,37 @@ Endlich hatten wir alle Baustoffe aufgetrieben, so dass der Bau der Statue beend
 
 Gehe mit allen Helden zur Statue!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+所有主線目標皆已達成！
+
+
+        
+        </text>
+        <usericon>1,83,231</usericon>
+        <text>
+
+
+
+我們終集齊諸般建材，巨像之工得以竣事。
+
+率全體英雄前往巨像！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,83,231</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,83,231</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1715,6 +2525,37 @@ ANTHUSA
 In meinem Garten wachsen leider nur gelbe Blumen. Was würde ich dafür geben, ein paar rote zu haben. Nehmt diese gelben Blumen. Vielleicht findet ihr jemanden, der sich über diese Sorte freut..."
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+安圖薩
+
+"我聽說，這類花尚有紅與藍二色。
+
+
+        
+        </text>
+        <usericon>2,13</usericon>
+        <text>
+
+
+
+我園中惜只長黃花了。若能得幾朵紅者，我願付出許多。收下這些黃花吧。或許你能尋得喜此色之人……"
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,13</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,13</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 ANTHUSA
@@ -1776,6 +2617,37 @@ DESTASIA
 
 In meinem Garten wachsen leider nur rote Blumen. Was würde ich dafür geben, ein paar blaue zu haben. Nehmt diese roten Blumen. Vielleicht findet ihr jemanden, der sich über diese Sorte freut..."
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+德斯塔西亞
+
+"我聽說，這類花尚有黃與藍二色。
+
+
+        
+        </text>
+        <usericon>2,14</usericon>
+        <text>
+
+
+
+我園中惜只長紅了。若能得幾朵藍者，我願付出許多。收下這些紅花吧。或許你能尋得喜此色之人……"
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,14</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,14</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1839,6 +2711,37 @@ PASARA
 In meinem Garten wachsen leider nur blaue Blumen. Was würde ich dafür geben, ein paar gelbe zu haben. Nehmt diese blauen Blumen. Vielleicht findet ihr jemanden, der sich über diese Sorte freut..."
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+帕薩拉
+
+"我聽說，這類花尚有紅與黃二色。
+
+
+        
+        </text>
+        <usericon>2,15</usericon>
+        <text>
+
+
+
+我園中惜只長藍了。若能得幾朵黃者，我願付出許多。收下這些藍花吧。或許你能尋得喜此色之人……"
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,15</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,15</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 PASARA
@@ -1900,6 +2803,37 @@ ANTHUSA
 
 Du erhältst 10 Gold und 5 Münzen! 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+安圖薩
+
+"噢！紅花！我向來想要！收下屋前之金以為謝。請務必不要推辭。"
+
+
+        
+        </text>
+        <usericon>2,13</usericon>
+        <text>
+
+
+
+你獲得 10 金與 5 枚錢幣！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,13</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,13</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1963,6 +2897,37 @@ DESTASIA
 Du erhältst 10 Gold und 5 Münzen!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+德斯塔西亞
+
+"噢！藍花！我向來想要！收下屋前之金以為謝。請務必不要推辭。"
+
+
+        
+        </text>
+        <usericon>2,14</usericon>
+        <text>
+
+
+
+你獲得 10 金與 5 枚錢幣！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,14</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,14</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 DESTASIA
@@ -2025,6 +2990,37 @@ PASARA
 Du erhältst 10 Gold und 5 Münzen!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+帕薩拉
+
+"噢！黃花！我向來想要！收下屋前之金以為謝。請務必不要推辭。"
+
+
+        
+        </text>
+        <usericon>2,15</usericon>
+        <text>
+
+
+
+你獲得 10 金與 5 枚錢幣！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,15</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,15</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 PASARA
@@ -2071,6 +3067,25 @@ NOMADENKRIEGER
 Zahle 15 Langschwerter zum Tribut!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+遊牧戰士
+
+"我等不放行旅人，因宙斯之意志於我等無足輕重！"
+
+向遊牧戰士繳納 15 柄長劍為貢！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 WOJOWNICY NOMADÓW
@@ -2106,6 +3121,23 @@ TRIBUT AN NOMADENKRIEGER BEZAHLT!
 
 "Wir werden euresgleichen in Frieden ziehen lassen." riefen uns die Nomadenkrieger zu, als sie den Tribut von uns entgegennahmen. 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+已向遊牧戰士納貢！
+
+"我等將容你等和平透過。"遊牧戰士受貢時朝我們喊道。
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -2155,9 +3187,41 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held HATSCHI erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時疏忽，人生便急轉直下！你的摯友與英雄哈奇因你大意而殞命！失此英雄，你便無緣得見任務終局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
+
 ZADANIE NIEWYKONANE!
 </text>
         <font>$local$\fonts\font12.fnt</font>
@@ -2199,6 +3263,25 @@ MARKTPLATZ
 Doch errichte zuvor zwischen unseren beiden Lagerhäusern ein eigenes Lagerhaus!"
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+集市
+
+"於此你可憑貢換得手推車、牛車、食物護符，乃至長劍……
+
+然須先在我等兩間貨倉之間自建一座貨倉！"
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 TARG
@@ -2239,6 +3322,27 @@ TRIBUT AN HÄNDLER DES MARKTPLATZES BEZAHLT!
 "Für diesen Tribut erhältst du von uns 15 Langschwerter. Mögen sie dir von großem Nutzen sein."
 
 </text>
+        <usericon>1,354,272</usericon>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+已向集市商人納貢！
+
+"以此貢，我等予你 15 柄長劍。願它們於你大有用處。"
+
+
+        
+        </text>
+        <usericon>1,354,272</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,354,272</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
         <usericon>1,354,272</usericon>
       </lang>
       <lang code="pol">
@@ -2283,6 +3387,27 @@ TRIBUT AN HÄNDLER DES MARKTPLATZES BEZAHLT!
 </text>
         <usericon>1,350,290</usericon>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+已向集市商人納貢！
+
+"以此貢，我等予你手推車與牛車各一。願它們於你大有用處。"
+
+
+        
+        </text>
+        <usericon>1,350,290</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,350,290</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,350,290</usericon>
+      </lang>
       <lang code="pol">
         <text> 
 TRYBUT ZAPŁACONY KUPCOM Z TARGU! 
@@ -2323,6 +3448,27 @@ TRIBUT AN HÄNDLER DES MARKTPLATZES BEZAHLT!
 "Für diesen Tribut erhältst du von uns 15 Nahrungsamulette. Mögen sie dir von großem Nutzen sein."
 
 </text>
+        <usericon>1,354,272</usericon>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+已向集市商人納貢！
+
+"以此貢，我等予你 15 枚食物護符。願它們於你大有用處。"
+
+
+        
+        </text>
+        <usericon>1,354,272</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,354,272</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
         <usericon>1,354,272</usericon>
       </lang>
       <lang code="pol">
@@ -2374,6 +3520,37 @@ MISSION VERLOREN!
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held SIGURD erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時疏忽，人生便急轉直下！你的摯友與英雄西格德因你大意而殞命！失此英雄，你便無緣得見任務終局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -2427,6 +3604,37 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時疏忽，人生便急轉直下！你的摯友與英雄--巨龍諾伯特--因你大意而殞命！失此英雄，你便無緣得見任務終局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -2464,6 +3672,23 @@ Es war vollbracht! Die thronende Zeusgestalt stand auf einem Kalksteinsockel und
 
 Der mächtige Kern des Kolossalbildes war aus Zypressen- und Ebenholz gebildet. Die unbekleideten Körperpartien waren in Elfenbeinverkleidung meisterhaft modelliert. Die Sohlen der Sandalen, das bis zu den Knöcheln herabreichende Göttergewand und die den Nacken umwallenden Haarflechten bestanden aus purem Gold!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+大功告成！端坐的宙斯巨像立於石灰岩基座之上，高約常人之七倍！
+
+巨像之核，以柏木與烏木為之。裸身之處，象牙鑲飾，巧奪天工。鞋底、垂至踝際的神袍，與披拂頸後的髮辮，皆純金所鑄！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -2505,6 +3730,25 @@ Wir standen voller Stolz und Ehrfurcht vor den Füßen der Statue. Welch geheimn
 Wir konnten jedoch nicht lange hier verweilen. Man hatte uns berichtet, dass unser nächstes Ziel, die PYRAMIDEN VON GIZEH, unter starker Belagerung standen! Wir mussten also schnell ins Land der Sarazenen zurückkehren...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+宙斯伸展之右手，托起輕盈懸浮的尼刻；左手執嵌以諸般貴金屬之權杖，杖頂立金色王鷹。
+
+我們滿懷著驕傲與敬畏，立於巨像足下。此豐碑究藏何等神秘之力，我們幾可感知！
+
+然我們不能久留。有人報稱，我們下一目標--吉薩金字塔--正遭重圍！須速返撒拉遜人之地……
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 W swojej wyciągniętej ręce, Zeus trzymał szybującą, szczupłą Nike; lewa ręka trzymała berło, wykonane z różnych metali szlachetnych, a ukoronowane było złotym orłem.
@@ -2534,6 +3778,21 @@ MISSION COMPLETED!
         <text> 
 MISSION GEWONNEN! 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+任務成功！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -2581,6 +3840,37 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時疏忽，人生便急轉直下！瑪尼--比雅尼與希拉之子--因你大意而殞命！失此英雄，你便無緣得見任務終局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -2612,6 +3902,21 @@ THE ZEUS STATUE OF PHIDIAS IN OLYMPIA
         <text> 
 DIE ZEUSTSTATUE DES PHIDIAS IN OLYMPIA
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+奧林匹亞的菲迪亞斯宙斯巨像
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 

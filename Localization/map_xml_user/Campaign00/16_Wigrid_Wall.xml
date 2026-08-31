@@ -1,52 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="16_Wigrid_Wall" export_map_id="16_Wigrid_Wall" map_md5="b6b72963afad371fb3e8028c54af89f0" IsC2M="true">
+<localization version="1.3" map_id="16_Wigrid_Wall" export_map_id="16_Wigrid_Wall" map_md5="b6b72963afad371fb3e8028c54af89f0" IsC2M="true" deprecated="false">
   <languages>
-    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">维格利德之墙</text>
-      <text lang="ger">Wigrid Wall</text>
       <text lang="eng">Wigrid</text>
+      <text lang="ger">Wigrid Wall</text>
+      <text lang="l11">維格利德之牆</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wigrid</text>
     </string>
     <string id="1">
       <text lang="CHN">我们终于回到了家乡维格利德之墙。</text>
-      <text lang="ger">Endlich waren wir daheim in Wigrid Wall.</text>
       <text lang="eng">Finally we were home in Wigrid Wall.</text>
+      <text lang="ger">Endlich waren wir daheim in Wigrid Wall.</text>
+      <text lang="l11">我們終於回到了家鄉維格利德之牆。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wreszcie byliśmy w domu w Wigrid Wall.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
-      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得友好。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
-      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得中立。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
-      <text lang="ger">Spieler0</text>
       <text lang="eng">Player0</text>
+      <text lang="ger">Spieler0</text>
+      <text lang="l11">玩家0</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
-      <text lang="ger">Spieler1</text>
       <text lang="eng">Player1</text>
+      <text lang="ger">Spieler1</text>
+      <text lang="l11">玩家1</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
-      <text lang="ger">Spieler2</text>
       <text lang="eng">Player2</text>
+      <text lang="ger">Spieler2</text>
+      <text lang="l11">玩家2</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz2</text>
     </string>
   </strings>
@@ -55,16 +79,25 @@
       <lang code="CHN">
         <text>你失败了！！要不去玩一局“别生气”棋吧。</text>
       </lang>
+      <lang code="eng">
+        <text>
+You lost!! Try a game of "Man, Don't Get Angry" instead.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Du hast verloren !! Versuchs doch mal mit ner Runde "Mensch ärgere Dich nicht".
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-You lost!! Try a game of "Man, Don't Get Angry" instead.
-</text>
+      <lang code="l11">
+        <text>你失敗了！！要不去玩一局“別生氣”棋吧。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -76,16 +109,25 @@ Przegrałeś!! Spróbuj zamiast tego rundkę „Nie gniew, się Człowiek”.
       <lang code="CHN">
         <text>任务失败！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission verloren!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission lost!
-</text>
+      <lang code="l11">
+        <text>任務失敗！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -97,16 +139,25 @@ Misja przegrana!
       <lang code="CHN">
         <text>我们最后一位朋友如今也走了。我们埋葬了死者，发誓要复仇。</text>
       </lang>
+      <lang code="eng">
+        <text>
+The last of our friends was now also gone. We buried the dead, and swore revenge.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Der letzte unserer Freunde war nun auch dahin. Wir begruben die Toten, und schworen Rache.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-The last of our friends was now also gone. We buried the dead, and swore revenge.
-</text>
+      <lang code="l11">
+        <text>我們最後一位朋友如今也走了。我們埋葬了死者，發誓要復仇。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -118,16 +169,25 @@ Ostatni z naszych przyjaciół też już odszedł. Pogrzebiliśmy zmarłych i pr
       <lang code="CHN">
         <text>撒拉逊酋长已被击败，可他本人却逃脱了。</text>
       </lang>
+      <lang code="eng">
+        <text>
+The Saracen chieftain was defeated, but he himself managed to escape.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Der Sarazenhäuptling war besiegt, doch er selbst konnte entkommen.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-The Saracen chieftain was defeated, but he himself managed to escape.
-</text>
+      <lang code="l11">
+        <text>撒拉遜酋長已被擊敗，可他本人卻逃脫了。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -139,16 +199,25 @@ Wódz Saracenów został pokonany, lecz jemu samemu udało się uciec.
       <lang code="CHN">
         <text>玩家1现在转为敌对。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now hostile.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist jetzt feindlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 is now hostile.
-</text>
+      <lang code="l11">
+        <text>玩家1現在轉為敵對。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -160,16 +229,25 @@ Gracz 1 jest teraz wrogi.
       <lang code="CHN">
         <text>玩家2现在转为友好。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now friendly.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt freundlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now friendly.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為友好。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -181,16 +259,25 @@ Gracz 2 jest teraz przyjazny.
       <lang code="CHN">
         <text>玩家1现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家1現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -202,16 +289,25 @@ Gracz 1 jest teraz neutralny.
       <lang code="CHN">
         <text>玩家2现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -224,6 +320,12 @@ Gracz 2 jest teraz neutralny.
         <text>当我们回到自己的村庄时，眼前是何等骇人的景象。一切都被烧成了灰烬。死亡的浓烟仍盘旋在屋顶之上。这究竟会是谁干的？一名幸存者还向我们说起一个自称坦克的撒拉逊酋长。正是他无缘无故地袭击了这座和平的村庄。据说他已退回了遥远的北方。我们商议该如何是好。很久以前，我们曾在此地东南方埋下过一些宝箱。它们是否还在？借助它们，我们或许能重建一座新村庄。此外我们还需要武器，大量的武器。
 任务目标1：在仓库中储备以下物资：100把长剑、100把短剑、100支铁矛、100副板甲和100件锁甲。寻找撒拉逊酋长坦克。</text>
       </lang>
+      <lang code="eng">
+        <text>
+What a gruesome sight awaited us when we arrived at our village. Everything had been burned to the ground. The smoke of death still hung above the rooftops. Who could have done this? A survivor told us of a Saracen chieftain who calls himself Tank. It was he who had attacked the peaceful village without cause. He is said to have withdrawn far to the north. We deliberated what was to be done. Long ago we had buried treasure chests to the south-east of here. Were they still there? With their help we could build a new village. We also needed weapons, many weapons.
+Mission goal 1:Store the following goods in your warehouse: 100 longswords, 100 shortswords, 100 iron spears, 100 plate armours and 100 chain mails. Seek out Tank, the Saracen chieftain.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Was für ein grauenhafter Anblick bot sich uns, als wir in unser Dorf kamen. Alles war niedergebrannt. Der Rauch des Todes schwebte noch über den Dächern. Wer konnte das gewesen sein?  Ein Überlebender berichtete uns noch von einem Sarazenhäuptling der sich Tank nennt. Er war es gewesen, der das friedliche Dorf ohne Grund angegriffen hatte. Er soll sich in den hohen Norden zurückgezogen haben. Wir berieten was zu tun sei. Vor langer Zeit hatten wir südöstlich von hier Schatztruhen vergraben.Ob sie noch da waren? Mit ihrer Hilfe könnten wir ein neues Dorf errichten. Außerdem brauchten wir Waffen, viele Waffen.
@@ -231,11 +333,15 @@ Missionsziel 1:Lagere folgende Waren in Dein Lager: 100 Langschwerter, 100 Kurzs
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-What a gruesome sight awaited us when we arrived at our village. Everything had been burned to the ground. The smoke of death still hung above the rooftops. Who could have done this? A survivor told us of a Saracen chieftain who calls himself Tank. It was he who had attacked the peaceful village without cause. He is said to have withdrawn far to the north. We deliberated what was to be done. Long ago we had buried treasure chests to the south-east of here. Were they still there? With their help we could build a new village. We also needed weapons, many weapons.
-Mission goal 1:Store the following goods in your warehouse: 100 longswords, 100 shortswords, 100 iron spears, 100 plate armours and 100 chain mails. Seek out Tank, the Saracen chieftain.
-</text>
+      <lang code="l11">
+        <text>當我們回到自己的村莊時，眼前是何等駭人的景象。一切都被燒成了灰燼。死亡的濃煙仍盤旋在屋頂之上。這究竟會是誰幹的？一名倖存者還向我們說起一個自稱坦克的撒拉遜酋長。正是他無緣無故地襲擊了這座和平的村莊。據說他已退回了遙遠的北方。我們商議該如何是好。很久以前，我們曾在此地東南方埋下過一些寶箱。它們是否還在？藉助它們，我們或許能重建一座新村莊。此外我們還需要武器，大量的武器。
+任務目標1：在倉庫中儲備以下物資：100把長劍、100把短劍、100支鐵矛、100副板甲和100件鎖甲。尋找撒拉遜酋長坦克。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -249,6 +355,12 @@ Cel misji 1: Zmagazynuj w swoim magazynie następujące towary: 100 długich mie
         <text>站住！！我，撒拉逊酋长、维格利德之墙的新王、非洲及所有阿拉伯地区的统治者坦克，命令你们向我臣服。否则我便命令我的军队把你们屠戮殆尽，就像我们已经对你们的朋友做过的那样。要我们臣服？呸，你们很快就会尝到我们刀刃的钢铁滋味，我们心想。
 任务目标2：消灭撒拉逊酋长坦克及其随从。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Halt !! I, Tank, chieftain of the Saracens, new king of Wigrid Wall, ruler over Africa and all Arab lands, command you to submit to me. Otherwise I shall order my troops to butcher you, just as we have already done with your friends. Submit to him? Pah, you will soon feel the steel of our blades, we thought.
+Mission goal 2: Destroy Tank the Saracen chieftain and his entourage.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Halt !! Ich Tank, Häuptling der Sarazenen, neuer König von Wigrid Wall, Herrscher über Afrika und aller arabischen Länder, gebe Euch den Befehl Euch mir zu unterwerfen. Andernfalls gebe ich meinen Truppen den Befehl Euch niederzumetzeln, genauso wie wir es schon mit Euren Freunden gemacht haben. Wir uns unterwerfen? Paah, ihr werdet schon bald den Stahl unserer Klingen spüren dachten wir.
@@ -256,11 +368,15 @@ Missionsziel 2: Vernichte Tank den Sarazenenhäuptling und sein Gefolge.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Halt !! I, Tank, chieftain of the Saracens, new king of Wigrid Wall, ruler over Africa and all Arab lands, command you to submit to me. Otherwise I shall order my troops to butcher you, just as we have already done with your friends. Submit to him? Pah, you will soon feel the steel of our blades, we thought.
-Mission goal 2: Destroy Tank the Saracen chieftain and his entourage.
-</text>
+      <lang code="l11">
+        <text>站住！！我，撒拉遜酋長、維格利德之牆的新王、非洲及所有阿拉伯地區的統治者坦克，命令你們向我臣服。否則我便命令我的軍隊把你們屠戮殆盡，就像我們已經對你們的朋友做過的那樣。要我們臣服？呸，你們很快就會嚐到我們刀刃的鋼鐵滋味，我們心想。
+任務目標2：消滅撒拉遜酋長坦克及其隨從。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -276,6 +392,14 @@ Cel misji 2: Zniszcz Tanka, wodza Saracenów, i jego świtę.
 
 制作者：尤基</text>
       </lang>
+      <lang code="eng">
+        <text>
+When we left our ships to go to our village, fresh smoke hung in the air. Oh great, we thought, there are fresh sausages. But our new friend from the ice world said: "No, that is the smoke of death". We looked at each other in astonishment, and at the same time worried about our friends. Hurriedly we made our way to our village...
+
+
+Created by: Yogi
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Als wir unsere Schiffe verließen, um in unser Dorf zu gehen lag frischer Rauch in der Luft. Oh prima, dachten wir, es gibt frische Würstchen. Doch unser neuer Freund aus der Eiswelt sagte:"Nein, das ist der Rauch des Todes". Wir schauten uns verdutzt an, und sorgten uns zugleich um unsere Freunde. Eilig machten wir uns auf in unser Dorf...
@@ -285,13 +409,17 @@ Erstellt von: Yogi
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-When we left our ships to go to our village, fresh smoke hung in the air. Oh great, we thought, there are fresh sausages. But our new friend from the ice world said: "No, that is the smoke of death". We looked at each other in astonishment, and at the same time worried about our friends. Hurriedly we made our way to our village...
+      <lang code="l11">
+        <text>當我們棄船上岸、朝村莊走去時，空氣中瀰漫著一股新鮮的煙味。哦，太好了，我們心想，有新鮮的香腸吃了。可我們那位來自冰之世界的新朋友卻說：“不，那是死亡的濃煙。”我們茫然地面面相覷，同時也為朋友們擔起心來。我們急忙朝村莊趕去……
 
 
-Created by: Yogi
-</text>
+製作者：尤基</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -306,16 +434,25 @@ Stworzone przez: Yogi
       <lang code="CHN">
         <text>维格利德之墙</text>
       </lang>
+      <lang code="eng">
+        <text>
+Wigrid Wall
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Wigrid Wall
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Wigrid Wall
-</text>
+      <lang code="l11">
+        <text>維格利德之牆</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -327,16 +464,25 @@ Wigrid Wall
       <lang code="CHN">
         <text>我们储备好了所有所需的武器，并把撒拉逊酋长赶出了我们的家乡。可他本人却乘船逃走了。既已立誓复仇，我们便想立刻追赶。可我们不得不留下许多士兵，好让家乡这一次能免遭袭击。撒拉逊酋长坦克只可能逃往一个他能找到盟友的国度。因此我们朝非洲最北端驶去……</text>
       </lang>
+      <lang code="eng">
+        <text>
+We had stored all the required weapons and driven the Saracen chieftain from our homeland. But he himself had fled by ship. Since we had sworn revenge, we wanted to go after him at once. But we had to leave many soldiers behind so that our homeland would be protected from attacks this time. The Saracen chieftain Tank could only flee to a country where he would find allies. We therefore set course for the northernmost tip of Africa...
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Wir hatten alle erforderlichen Waffen eingelagert und den Sarazenhäuptling aus unserer Heimat vertrieben. Doch hatte er selbst mit einem Schiff die Flucht ergriffen. Da wir Rache geschworen hatten, wollten wir sofort hinterher. Doch wir mußten viele Soldaten zurücklassen, damit unsere Heimat diesmal vor Angriffen geschützt war. Der Sarazenhäuptling Tank konnte nur in ein Land fliehen wo er Verbündete fand. Wir steuerten deshalb die nördlichste Spitze von Afrika an...
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-We had stored all the required weapons and driven the Saracen chieftain from our homeland. But he himself had fled by ship. Since we had sworn revenge, we wanted to go after him at once. But we had to leave many soldiers behind so that our homeland would be protected from attacks this time. The Saracen chieftain Tank could only flee to a country where he would find allies. We therefore set course for the northernmost tip of Africa...
-</text>
+      <lang code="l11">
+        <text>我們儲備好了所有所需的武器，並把撒拉遜酋長趕出了我們的家鄉。可他本人卻乘船逃走了。既已立誓復仇，我們便想立刻追趕。可我們不得不留下許多士兵，好讓家鄉這一次能免遭襲擊。撒拉遜酋長坦克只可能逃往一個他能找到盟友的國度。因此我們朝非洲最北端駛去……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -348,16 +494,25 @@ Zmagazynowaliśmy całą wymaganą broń i wypędziliśmy wodza Saracenów z nas
       <lang code="CHN">
         <text>任务达成！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission gewonnen!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission won!
-</text>
+      <lang code="l11">
+        <text>任務達成！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

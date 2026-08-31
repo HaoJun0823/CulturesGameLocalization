@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,42 +14,63 @@
       <text lang="CHN">消灭那威胁！</text>
       <text lang="eng">Eliminate the threat!</text>
       <text lang="ger">Vernichte die Bedrohung!</text>
+      <text lang="l11">消滅那威脅！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zlikwiduj zagrożenie!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="51">
       <text lang="CHN">耶梦加得</text>
       <text lang="eng">Fog Serpents</text>
       <text lang="ger">Nebelschlangen</text>
+      <text lang="l11">耶夢加得</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Węże</text>
     </string>
     <string id="57">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="58">
       <text lang="CHN">耶梦加得</text>
       <text lang="eng">Fog Serpents</text>
       <text lang="ger">Nebelschlangen</text>
+      <text lang="l11">耶夢加得</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Węże</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="99">
       <text lang="CHN">恐怖之雾中</text>
       <text lang="eng">IN THE FOG OF HORRORS</text>
       <text lang="ger">IM NEBEL DES GRAUENS</text>
+      <text lang="l11">恐怖之霧中</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">WE MGLE</text>
     </string>
   </strings>
@@ -78,6 +102,21 @@ Trotz des Amuletts umgab uns dieser grauenvolle Nebel ständig und raubte uns di
 
 Plötzlich tauchte die Insel direkt vor uns auf, und wir beschlossen, das Schiff zu verlassen und diesen unheilvollen Ort zu erkunden. Meine Männer machten sich auf alles gefasst und harrten der Dinge, die da kommen sollten...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+我們終於抵達了旅程的終點。多少冒險須得闖過，多少阻礙須得克服！
+
+儘管有護符在身，這可怖的迷霧仍始終環繞我們，遮蔽視線。似乎有什麼人或什麼東西，感應到了我們的到來，並欲加以抗拒！我們近乎盲目地在那片死水般靜滯的淺水中迂迴行進。越是逼近迷霧中心，便越是溫熱。不祥的預感襲上心頭--大自然的力量似乎正嚴重威脅著我們。
+
+忽然，島嶼出現在我們正前方，我們決定棄船上岸，探一探這兇險之地。我的部下們做足了迎擊一切的準備，靜待將至之事……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -115,6 +154,19 @@ Die Midgardschlange!!!
 Aber das war nicht möglich, die hatten wir doch seinerzeit besiegt?! Sie konnte es nicht sein, aber sie sah ihr so ähnlich! Es musste eine Schlange von der selben Brut sein - und sie war ähnlich gefährlich! Wir mussten erst ihre Krieger besiegen, nur so konnten wir den Kampf überleben!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+耶夢加得！！！
+
+這不可能，我們當年不是已將她擊敗了嗎？！不可能是她，可她實在太像了！這必是同一窩所出的蛇--且同樣危險！我們必須先擊敗她的戰士，方能於這場戰鬥中活命！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -144,6 +196,17 @@ Bjarni died! It was all for nothing, and the ghostly serpents now had a ship. Th
 Bjarni war gestorben! Es war alles umsonst - und die Geisterschlangen hatten nun ein Schiff. Sie brachten Übel und Verderben über das Land. Die Hüter hatten sich in Bjarni geirrt!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+比雅尼陣亡了！一切皆付諸東流--而幽靈蛇如今有了一艘船。它們將災禍與毀滅帶向大地。守護者們當初看錯了比雅尼！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -168,6 +231,17 @@ When we had defeated the serpent's followers, it returned to the depths of the g
 
 Als wir die Gefolgschaft der Schlange besiegt hatten, hatte sie sich umgehend in der glühenden Lava verkrochen... Ohne ihre Gefolgschaft war sie zu feige gewesen, sich dem Kampf zu stellen! Als sie verschwunden war, schien der Vulkan wieder im Wasser zu versinken! Wir stürmten zu unserem Schiff zurück verließen dieses furchtbare Eiland!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+待我們擊敗蛇之眷屬，她便即刻縮入了熾烈的熔岩之中……失了眷屬，她怯於應戰！她消失後，火山似又沉回水中！我們衝回船上，離開了這座可怖的孤島！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -198,6 +272,17 @@ IM NEBEL DES GRAUENS
 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+恐怖之霧中
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -224,6 +309,17 @@ MISSION FAILED!
 MISSION VERLOREN!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+任務失敗！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -248,6 +344,17 @@ MISSION COMPLETED!
 
 MISSION GEWONNEN!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+任務成功！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

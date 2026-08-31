@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,66 +14,99 @@
       <text lang="CHN">每个部族都想开采这片土地的资源。获胜需 500 木与石、300 黏土、铁与金！</text>
       <text lang="eng">Each tribe tries to exploit the raw materials of this country. You need 500 wood and stone as well as 300 clay and gold in order to win!</text>
       <text lang="ger">Jeder Stamm versucht, die Rohstoffe dieses Landes auszubeuten. Zum Sieg brauchst du 500 Holz und Stein; 300 Lehm, Eisen und Gold!</text>
+      <text lang="l11">每個部族都想開採這片土地的資源。獲勝需 500 木與石、300 黏土、鐵與金！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Każde z plemion próbuje wydobywać złoża tego kraju. Aby zwyciężyć, potrzebujesz 500 sztuk drewna i kamieni; 300 sztuk gliny, żelaza i złota!</text>
     </string>
     <string id="10">
       <text lang="CHN">格陵兰人</text>
       <text lang="eng">Grasslanders</text>
       <text lang="ger">Grünländer</text>
+      <text lang="l11">格陵蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mieszkańcy Zielonego Kraju</text>
     </string>
     <string id="11">
       <text lang="CHN">格陵兰人</text>
       <text lang="eng">Grasslanders</text>
       <text lang="ger">Grünländer</text>
+      <text lang="l11">格陵蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mieszkańcy Zielonego Kraju</text>
     </string>
     <string id="20">
       <text lang="CHN">海卢兰人</text>
       <text lang="eng">Hellulanders</text>
       <text lang="ger">Helluländer</text>
+      <text lang="l11">海盧蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mieszkańcy Hellulandu</text>
     </string>
     <string id="21">
       <text lang="CHN">海卢兰人</text>
       <text lang="eng">Hellulanders</text>
       <text lang="ger">Helluländer</text>
+      <text lang="l11">海盧蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mieszkańcy Hellulandu</text>
     </string>
     <string id="30">
       <text lang="CHN">马克兰人</text>
       <text lang="eng">Marklanders</text>
       <text lang="ger">Markländer</text>
+      <text lang="l11">馬克蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mieszkańcy Marklandu</text>
     </string>
     <string id="31">
       <text lang="CHN">马克兰人</text>
       <text lang="eng">Marklanders</text>
       <text lang="ger">Markländer</text>
+      <text lang="l11">馬克蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mieszkańcy Marklandu</text>
     </string>
     <string id="40">
       <text lang="CHN">普拉特兰人</text>
       <text lang="eng">Flatlanders</text>
       <text lang="ger">Plattländer</text>
+      <text lang="l11">普拉特蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mieszkańcy równiny</text>
     </string>
     <string id="41">
       <text lang="CHN">普拉特兰人</text>
       <text lang="eng">Flatlanders</text>
       <text lang="ger">Plattländer</text>
+      <text lang="l11">普拉特蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mieszkańcy równiny</text>
     </string>
     <string id="98">
       <text lang="CHN">将这片土地据为己有，开采其中资源！</text>
       <text lang="eng">Make these lands yours and procure resources!</text>
       <text lang="ger">Mache dir das Land zu Eigen und baue die Ressourcen ab!</text>
+      <text lang="l11">將這片土地據為己有，開採其中資源！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Podbij krainę i zajmij się wydobyciem surowców!</text>
     </string>
     <string id="99">
       <text lang="CHN">经济：殖民化</text>
       <text lang="eng">Economy: COLONIZATION</text>
       <text lang="ger">Wirtschaft: KOLONIALISIERUNG</text>
+      <text lang="l11">經濟：殖民化</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">GOSPODARKA: KOLONIZACJA</text>
     </string>
   </strings>
@@ -107,6 +143,21 @@ Bedenke: Um zu siegen, brauchst du 500 Holz und Stein; 300 Lehm, Eisen und Gold!
 In diesem Land gibt es viele Schätze zu entdecken, sie werden dir einige Zeit ersparen! 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+相互競爭的維京部族，在同一片土地上紮下了根。
+
+為你新生的村莊擇一處寶地--資源越豐饒越好。
+
+這片土地上埋藏著無數寶藏，待你去發掘，它們終將歸你所有。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 Rywalizujące ze sobą plemiona Wikingów chcą skolonizować tę samą krainę. Plemiona te są biedne i żądne posiadania bogatych złóż. 
@@ -138,6 +189,17 @@ COLONIZATION
 KOLONIALISIERUNG
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+殖民開拓
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

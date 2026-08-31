@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,66 +14,99 @@
       <text lang="CHN">简短说明 0</text>
       <text lang="eng">Shortdescription 0</text>
       <text lang="ger">Shortdescription 0</text>
+      <text lang="l11">簡短說明 0</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Krótkiopis 0</text>
     </string>
     <string id="1">
       <text lang="CHN">简短说明 1</text>
       <text lang="eng">Shortdescription 1</text>
       <text lang="ger">Shortdescription 1</text>
+      <text lang="l11">簡短說明 1</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Krótkiopis 1</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家</text>
       <text lang="eng">Player</text>
       <text lang="ger">Spieler</text>
+      <text lang="l11">玩家</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz</text>
     </string>
     <string id="51">
       <text lang="CHN">守卫</text>
       <text lang="eng">Guard</text>
       <text lang="ger">Wächter</text>
+      <text lang="l11">守衛</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Strażnik</text>
     </string>
     <string id="60">
       <text lang="CHN">玩家</text>
       <text lang="eng">Player</text>
       <text lang="ger">Spieler</text>
+      <text lang="l11">玩家</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz</text>
     </string>
     <string id="61">
       <text lang="CHN">守卫</text>
       <text lang="eng">Guard</text>
       <text lang="ger">Wächter</text>
+      <text lang="l11">守衛</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Strażnik</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="98">
       <text lang="CHN">巨像神谕</text>
       <text lang="eng">COLOSSUS - ORACLE</text>
       <text lang="ger">KOLOSS-ORAKEL</text>
+      <text lang="l11">巨像神諭</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">KOLOS - WYROCZNIA</text>
     </string>
     <string id="99">
       <text lang="CHN">巨像神谕</text>
       <text lang="eng">COLOSSUS - ORACLE</text>
       <text lang="ger">KOLOSS-ORAKEL</text>
+      <text lang="l11">巨像神諭</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">KOLOS - WYROCZNIA</text>
     </string>
     <string id="100">
       <text lang="CHN">与神谕者交谈。大胆走近他！</text>
       <text lang="eng">Talk to the oracle. Be brave and approach it!</text>
       <text lang="ger">Sprich mit dem Orakel. Wage dich in seine Nähe!</text>
+      <text lang="l11">與神諭者交談。大膽走近他！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Porozmawiaj z wyrocznią. Bądź dzielny i podejdź do niej!</text>
     </string>
     <string id="110">
       <text lang="CHN">再度离开神谕者……</text>
       <text lang="eng">Leave the oracle ...</text>
       <text lang="ger">Verlasse das Orakel wieder...</text>
+      <text lang="l11">再度離開神諭者……</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Opuść wyrocznię ...</text>
     </string>
   </strings>
@@ -113,6 +149,23 @@ Welches Schicksal mochte uns hier erwarten? Hatte man uns in eine Falle gelockt?
 Erreiche das Orakel.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+神廟穹窿之下，一條小徑向下通入神諭的聖地。
+
+眼前所見，令我們屏息！
+
+這神諭--竟非旁人，而是喀耳刻！太陽神赫利俄斯與珀耳塞之女，
+
+曾令無數英雄折腰--如今，她就在我們面前。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Ścieżka w świątynnej krypcie prowadzi na dół, do świętego miejsca wyroczni. Ale to, co zobaczyliśmy, zmroziło nam krew!
@@ -131,6 +184,9 @@ Dotrzyj do wyroczni.
       <lang code="CHN" />
       <lang code="eng" />
       <lang code="ger" />
+      <lang code="l11" />
+      <lang code="l12" />
+      <lang code="l13" />
       <lang code="pol" />
     </block>
     <block id="09_end_text1">
@@ -163,6 +219,24 @@ Nun, das war ja doch einfacher gewesen, als wir uns das vorgestellt hatten.
 
 Gespannt traten wir ins Freie um zu sehen, wie sich der Zorn der Götter bemerkbar machen würde...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+出口
+
+說來，這比我們預想的容易得多。
+
+我們忐忑地踏出戶外，想看眾神的怒火將如何顯現……
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -234,6 +308,33 @@ Geh nun hinauf und sieh!"
 Verlasse das Orakel.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+喀耳刻
+
+當我們立於喀耳刻面前，女神以神秘之聲向我們開口：
+
+"借我之口，太陽神赫利俄斯、羅德之守護者如此說。
+聽者，外鄉人，須知你們的危難我已盡知。德米特里奧斯這卑劣狂徒，連同其部眾，必當傾覆！
+凡招惹神怒者，必遭惡報！
+
+作為代價，為我立一尊雕像。巍峨而輝煌，使我名永享尊榮！
+它須妝點羅德城，使之長記我之助！
+
+去吧，上行觀看！"
+
+離開神諭。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 CIRCE
@@ -294,6 +395,37 @@ MISSION VERLOREN!
 Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+是英勇還是魯莽？當比雅尼倒下時，眾神為之落淚……失去這位英雄，你將無緣見到任務的結局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -339,6 +471,25 @@ Vor uns tauchte ein riesiger Dämon aus der Dunkelheit auf, der das Orakel bewac
 
 Mögen die Götter uns gnädig sein!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+神諭守衛
+
+此劫終難倖免……
+一個巨魔自黑暗中現身，正是守護神諭者！
+
+願眾神垂憐於我們！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -390,6 +541,37 @@ MISSION VERLOREN!
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時的疏忽，人生便會急轉直下！你的女英雄希拉因你的大意而喪命！失去這位英雄，你將無緣見到任務的結局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -443,6 +625,37 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held HATSCHI erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時的疏忽，人生便會急轉直下！你的摯友與英雄哈奇因你的大意而喪命！失去這位英雄，你將無緣見到任務的結局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -494,6 +707,37 @@ MISSION VERLOREN!
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held SIGURD erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時的疏忽，人生便會急轉直下！你的摯友與英雄西格德因你的大意而喪命！失去這位英雄，你將無緣見到任務的結局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -552,6 +796,39 @@ Obwohl man dich gewarnt hatte, hast du deine besten Freunde angegriffen!
 
 So wirst du deine Mission nicht beenden können!
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+
+
+儘管已有人警告於你，你竟攻擊了自己最好的朋友！
+
+如此你將無法完成使命！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -613,6 +890,39 @@ Der Wächter der Orakels war stärker als du.
 Nun wirst du nie erfahren, welches Geheimnis das Orakel birgt!
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+神諭守衛比你更加強大。
+
+如今你再無緣知曉，神諭究竟藏著何種秘密！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -645,6 +955,20 @@ THE ORACLE
         <text> 
 DAS ORAKEL
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+神諭
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 

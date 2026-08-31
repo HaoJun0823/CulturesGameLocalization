@@ -1,58 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="13_Das_Tal_der_Könige" export_map_id="13_Das_Tal_der_Könige" map_md5="f8e18cca05797bde8f7b9d545fa1c02d" IsC2M="true">
+<localization version="1.3" map_id="13_Das_Tal_der_Könige" export_map_id="13_Das_Tal_der_Könige" map_md5="f8e18cca05797bde8f7b9d545fa1c02d" IsC2M="true" deprecated="false">
   <languages>
-    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">帝王谷</text>
-      <text lang="ger">Das Tal der Könige</text>
       <text lang="eng">The Valley of the Kings</text>
+      <text lang="ger">Das Tal der Könige</text>
+      <text lang="l11">帝王谷</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Dolina Królów</text>
     </string>
     <string id="1">
       <text lang="CHN">我们终于抵达了帝王谷。</text>
-      <text lang="ger">Endlich waren wir im Tal der Könige angekommen.</text>
       <text lang="eng">Finally we had arrived in the Valley of the Kings.</text>
+      <text lang="ger">Endlich waren wir im Tal der Könige angekommen.</text>
+      <text lang="l11">我們終於抵達了帝王谷。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wreszcie dotarliśmy do Doliny Królów.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
-      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得友好。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
-      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得中立。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
-      <text lang="ger">Spieler0</text>
       <text lang="eng">Player0</text>
+      <text lang="ger">Spieler0</text>
+      <text lang="l11">玩家0</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
-      <text lang="ger">Spieler1</text>
       <text lang="eng">Player1</text>
+      <text lang="ger">Spieler1</text>
+      <text lang="l11">玩家1</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
-      <text lang="ger">Spieler2</text>
       <text lang="eng">Player2</text>
+      <text lang="ger">Spieler2</text>
+      <text lang="l11">玩家2</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz2</text>
     </string>
     <string id="53">
       <text lang="CHN">玩家3</text>
-      <text lang="ger">Spieler3</text>
       <text lang="eng">Player3</text>
+      <text lang="ger">Spieler3</text>
+      <text lang="l11">玩家3</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz3</text>
     </string>
   </strings>
@@ -61,16 +88,25 @@
       <lang code="CHN">
         <text>这里似乎是一座被废弃的村庄。我们急切地升起了我们的红旗。从今往后，这里便归我们所有。</text>
       </lang>
+      <lang code="eng">
+        <text>
+This seemed to be an abandoned village. Eagerly we hoisted our red flag. From now on this should belong to us.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Dies schien ein verlassenes Dorf zu sein. Eifrig hießten wir unsere rote Flagge. Dies sollte von nun an uns gehören.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-This seemed to be an abandoned village. Eagerly we hoisted our red flag. From now on this should belong to us.
-</text>
+      <lang code="l11">
+        <text>這裡似乎是一座被廢棄的村莊。我們急切地升起了我們的紅旗。從今往後，這裡便歸我們所有。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -83,6 +119,12 @@ To wydawało się opuszczoną wioską. Chętnie podnieśliśmy naszą czerwoną 
         <text>站住！！我，凯撒三世，宣称这座山背后的全部土地归我。不许再往前。什么？你们无论如何都要继续？哪怕我警告过你们？
 阿布拉卡达布拉，辛萨拉宾班巴萨拉丁沙拉丁。等你们抵达我的村庄，只怕早就饿死了……</text>
       </lang>
+      <lang code="eng">
+        <text>
+Stop!! I, Caesar III, claim the whole land behind this mountain. Do not continue. What? You still want to go on? Despite my warning?
+Abracadabra, Simsalabim bambasaladusaladim. Until you reach my village, you will be starving....
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Halt !! Ich Caesar III beanspruche das ganze Land hinter diesem Berg. Geht nicht weiter. Was ? Ihr wollt trotzdem weitergehen? Trotz meiner Warnung?
@@ -90,11 +132,15 @@ Abrakadabra, Simsalabimbambasaladusaladim. Bis ihr mein Dorf erreicht  werdet ih
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Stop!! I, Caesar III, claim the whole land behind this mountain. Do not continue. What? You still want to go on? Despite my warning?
-Abracadabra, Simsalabim bambasaladusaladim. Until you reach my village, you will be starving....
-</text>
+      <lang code="l11">
+        <text>站住！！我，凱撒三世，宣稱這座山背後的全部土地歸我。不許再往前。什麼？你們無論如何都要繼續？哪怕我警告過你們？
+阿布拉卡達布拉，辛薩拉賓班巴薩拉丁沙拉丁。等你們抵達我的村莊，只怕早就餓死了……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -106,16 +152,25 @@ Stop!! Ja, Cezar III, roszczę sobie prawo do całej ziemi za tą górą. Nie id
       <lang code="CHN">
         <text>你失败了。要不去玩一局挑棒游戏吧。</text>
       </lang>
+      <lang code="eng">
+        <text>
+You lost. Try a game of Mikado instead.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Du hast verloren. Versuchs doch mal mit ner Runde Mikado.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-You lost. Try a game of Mikado instead.
-</text>
+      <lang code="l11">
+        <text>你失敗了。要不去玩一局挑棒遊戲吧。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -127,16 +182,25 @@ Przegrałeś. Spróbuj zamiast tego rundkę Mikado.
       <lang code="CHN">
         <text>任务失败！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission verloren!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission lost!
-</text>
+      <lang code="l11">
+        <text>任務失敗！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -148,16 +212,25 @@ Misja przegrana!
       <lang code="CHN">
         <text>玩家1已阵亡。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 has died.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist gestorben.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 has died.
-</text>
+      <lang code="l11">
+        <text>玩家1已陣亡。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -169,16 +242,25 @@ Gracz 1 zmarł.
       <lang code="CHN">
         <text>凯撒的大军已被击败。如今通往那道门的路畅通无阻了。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Caesar's hordes were defeated. Now the way to the gate was clear.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Caesars Horden waren besiegt. Nun war der Weg zum Tor frei.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Caesar's hordes were defeated. Now the way to the gate was clear.
-</text>
+      <lang code="l11">
+        <text>凱撒的大軍已被擊敗。如今通往那道門的路暢通無阻了。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -190,16 +272,25 @@ Hordy Cezara zostały pokonane. O teraz droga do bramy była wolna.
       <lang code="CHN">
         <text>玩家3已阵亡。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 has died.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 3 ist gestorben.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 3 has died.
-</text>
+      <lang code="l11">
+        <text>玩家3已陣亡。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -211,16 +302,25 @@ Gracz 3 zmarł.
       <lang code="CHN">
         <text>玩家1现在转为敌对。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now hostile.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist jetzt feindlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 is now hostile.
-</text>
+      <lang code="l11">
+        <text>玩家1現在轉為敵對。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -232,16 +332,25 @@ Gracz 1 jest teraz wrogi.
       <lang code="CHN">
         <text>玩家3现在转为敌对。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now hostile.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 3 ist jetzt feindlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 3 is now hostile.
-</text>
+      <lang code="l11">
+        <text>玩家3現在轉為敵對。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -253,16 +362,25 @@ Gracz 3 jest teraz wrogi.
       <lang code="CHN">
         <text>玩家2现在转为友好。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now friendly.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt freundlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now friendly.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為友好。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -274,16 +392,25 @@ Gracz 2 jest teraz przyjazny.
       <lang code="CHN">
         <text>玩家1现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家1現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -295,16 +422,25 @@ Gracz 1 jest teraz neutralny.
       <lang code="CHN">
         <text>玩家2现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -316,16 +452,25 @@ Gracz 2 jest teraz neutralny.
       <lang code="CHN">
         <text>玩家3现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 3 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 3 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家3現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -338,6 +483,12 @@ Gracz 3 jest teraz neutralny.
         <text>嗬嗬！！
 我是DJ文化王。我衷心问候你们。我是西北方之王。来吧，派你们的商人来。我们有绝佳的货物供你们选购。要当心东北方，凯撒三世带着他的大军住在那里。别去招惹他。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Huhu!!
+I am King DJ Culture. I welcome you warmly. I am the king of the northwest. Come, send your merchants. We have great goods offers for you. Beware of the northeast, there Caesar III lives with his hordes. Don't get in his way.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Huhu !!
@@ -345,11 +496,15 @@ Ich bin König DJ Culture. Ich grüße Euch recht herzlich. Ich bin der König v
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Huhu!!
-I am King DJ Culture. I welcome you warmly. I am the king of the northwest. Come, send your merchants. We have great goods offers for you. Beware of the northeast, there Caesar III lives with his hordes. Don't get in his way.
-</text>
+      <lang code="l11">
+        <text>嗬嗬！！
+我是DJ文化王。我衷心問候你們。我是西北方之王。來吧，派你們的商人來。我們有絕佳的貨物供你們選購。要當心東北方，凱撒三世帶著他的大軍住在那裡。別去招惹他。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -364,6 +519,13 @@ Jestem król DJ Culture. Serdecznie was witam. Jestem król północnego zachodu
 站住，我，凯撒三世，东北方的统治者，警告你们别再往前，否则我们就像宰乳猪一样把你们宰了。
 任务目标：消灭凯撒的大军。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Caesar's Hordes!!
+"Stop, I, Caesar III, ruler of the northeast, warn you not to go further, or we will slaughter you like sucking pigs."
+Mission objective: Destroy Caesar's hordes.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Caesars Horden !!
@@ -372,12 +534,16 @@ Missionsziel: Vernichte Caesars Horden.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Caesar's Hordes!!
-"Stop, I, Caesar III, ruler of the northeast, warn you not to go further, or we will slaughter you like sucking pigs."
-Mission objective: Destroy Caesar's hordes.
-</text>
+      <lang code="l11">
+        <text>凱撒的大軍！！
+站住，我，凱撒三世，東北方的統治者，警告你們別再往前，否則我們就像宰乳豬一樣把你們宰了。
+任務目標：消滅凱撒的大軍。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -392,6 +558,13 @@ Cel misji: Zniszcz hordy Cezara.
         <text>呀嗬！！
 我，东南方的统治者伯迪，问候你们这些好汉。来吧，派你们的商人来，我们有绝佳的货物供你们选购。要当心东北方。凯撒三世带着他那帮恶徒盘踞在那里。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Yay!!
+I, Birdy, ruler of the southeast, greet you, my folks. Come, send your merchants, we have great goods on offer. Beware of the northeast. There Caesar III resides with his butchers.
+
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Juhuu !!
@@ -399,12 +572,15 @@ Ich Birdy, Herrscherin des Südostens grüße Euch ihr Mannen. Kommt schickt Eur
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Yay!!
-I, Birdy, ruler of the southeast, greet you, my folks. Come, send your merchants, we have great goods on offer. Beware of the northeast. There Caesar III resides with his butchers.
-
-</text>
+      <lang code="l11">
+        <text>呀嗬！！
+我，東南方的統治者伯迪，問候你們這些好漢。來吧，派你們的商人來，我們有絕佳的貨物供你們選購。要當心東北方。凱撒三世帶著他那幫惡徒盤踞在那裡。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -422,6 +598,16 @@ Ja, Birdy, władczyni południo-wschodu, wita Cię moich ludzi. Przyślij swoich
 
 制作者：尤基</text>
       </lang>
+      <lang code="eng">
+        <text>
+Only two soldiers had survived the trial. "Hey, let's go further north," one said to the other. "I think I saw something there." "From here?" the other replied. "You have a good look. Of course." Hey, this time we will brew enough potions so that we have enough for the next adventures, what do you think? "Yeah, right," the other answered briefly.
+Mission objective 1: Store 50 large food and 50 large healing potions.
+Mission objective 2: Find the gate to the upper world in order to leave this country again.
+
+
+Created by: Yogi
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Gerade mal zwei Soldaten hatten die Prüfung überlebt.He komm laß uns mal weiter Richtung Norden gehen, sagte der eine zum anderen. Ich glaube ich habe da etwas gesehen. Von hier aus? entgegnete der andere. Hast Du aber ne gute Brille auf. Na klaro. He diesmal werden wir uns aber genügend Tränke brauen, damit wir genug für die nächsten Abenteuer haben, was meinst Du? Jojo, antwortete der andere nur kurz.
@@ -433,15 +619,19 @@ Erstellt von: Yogi
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Only two soldiers had survived the trial. "Hey, let's go further north," one said to the other. "I think I saw something there." "From here?" the other replied. "You have a good look. Of course." Hey, this time we will brew enough potions so that we have enough for the next adventures, what do you think? "Yeah, right," the other answered briefly.
-Mission objective 1: Store 50 large food and 50 large healing potions.
-Mission objective 2: Find the gate to the upper world in order to leave this country again.
+      <lang code="l11">
+        <text>熬過試煉的只剩兩名士兵了。喂，來吧，咱們繼續往北走走，一個對另一個說道。我好像看到那邊有什麼東西。從這麼遠？另一個回道。你這眼神可真好。那當然。喂，這次咱們可得釀夠藥水，好讓下一場冒險有得用，你說呢？行行行，另一個只是簡短地應了一聲。
+任務目標1：儲備50瓶大型營養藥水和50瓶大型治療藥水。
+任務目標2：找到通往地上世界的那道門，好離開這片土地。
 
 
-Created by: Yogi
-</text>
+製作者：尤基</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -458,16 +648,25 @@ Stworzone przez: Yogi
       <lang code="CHN">
         <text>帝王谷</text>
       </lang>
+      <lang code="eng">
+        <text>
+The Valley of the Kings
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Das Tal der Könige
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-The Valley of the Kings
-</text>
+      <lang code="l11">
+        <text>帝王谷</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -479,16 +678,25 @@ Dolina Królów
       <lang code="CHN">
         <text>我们又一次成功了。凯撒的大军已被击败，通往地上世界的路终于畅通。可我们又会从哪里冒出来呢？</text>
       </lang>
+      <lang code="eng">
+        <text>
+We had made it once again. Caesar's hordes were defeated, and the way to the upper world was finally free. But where would we come out?
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Wir hatten es ein weiteres Mal geschafft. Caesars Horden waren besiegt, und der Weg zur Oberwelt endlich frei. Aber wo würden wir herauskommen ?
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-We had made it once again. Caesar's hordes were defeated, and the way to the upper world was finally free. But where would we come out?
-</text>
+      <lang code="l11">
+        <text>我們又一次成功了。凱撒的大軍已被擊敗，通往地上世界的路終於暢通。可我們又會從哪裡冒出來呢？</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -500,16 +708,25 @@ Udało nam się po raz kolejny. Hordy Cezara zostały pokonane, a droga do świa
       <lang code="CHN">
         <text>任务达成！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission gewonnen!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission won!
-</text>
+      <lang code="l11">
+        <text>任務達成！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

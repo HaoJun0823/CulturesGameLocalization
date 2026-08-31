@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,12 +14,18 @@
       <text lang="CHN">众多部族在此聚居，纷争也随之酝酿。而维京人，恰好身处这漩涡的中心。</text>
       <text lang="eng">Many tribes live here, and there is trouble ahead. The Vikings are right in the middle of it.</text>
       <text lang="ger">Viele Völker leben hier, und viel Ärger bahnt sich an. Die Wikinger genau mitten drin.</text>
+      <text lang="l11">眾多部族在此聚居，紛爭也隨之醞釀。而維京人，恰好身處這漩渦的中心。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">W tej krainie żyje wiele plemion - Wikingowie lądują w samym środku czegoś, co zwiastuje spore kłopoty.</text>
     </string>
     <string id="99">
       <text lang="CHN">巴勒斯坦</text>
       <text lang="eng">PALESTINE</text>
       <text lang="ger">PALÄSTINA</text>
+      <text lang="l11">巴勒斯坦</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">PALESTYNA</text>
     </string>
   </strings>
@@ -50,6 +59,21 @@ Die Kaufleute empfingen uns freundlich. Gerne würden sie uns mit nach Bagdad ne
 
 Erreiche einen Waffenstillstand zwischen den Kriegsparteien.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+漫長艱辛的行軍後，我們的斥候力竭筋疲，終尋得商隊棲息的綠洲。
+
+商賈熱情相迎。他們本樂意攜我們同往巴格達，然只要法蘭克人與撒拉遜人的戰事不停，他們便無法啟程。若能停戰，他們立即可發。
+
+促成交戰各方停戰。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -98,6 +122,23 @@ In einer stillen Minute trat ein Fremder an uns heran. Sein Name war Harun und e
 Erreiche einen der Anführer der drei Kriegsparteien.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+我們為村莊送去亟需之水，居民感激涕零，奉上厚禮。
+
+靜謐時分，一異鄉人近前。他名哈倫，似是見多識廣之輩。
+
+"我聞你等困頓。既你等如此無私助村，我便告你或許能促成停戰之法：將三族首領齊聚中立之地，共議和平。"
+
+尋得三族交戰方的一位首領。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 Dostarczyliśmy wiosce wody, a jej mieszkańcy zrewanżowali nam się licznymi podarkami.
@@ -141,6 +182,21 @@ Als wir erneut zum Dorf kamen, empfing uns HARUN mit wissendem Blick:
 Erreiche einen der Anführer der drei Kriegsparteien.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+我們再次抵村，哈倫目光了然地迎上來：
+
+"我聞你等困頓。既你等如此無私助村，我便告你或許能促成停戰之法：將三族首領齊聚中立之地，共議和平。"
+
+尋得三族交戰方的一位首領。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 Wrócilismy do wioski, a Harun powitał nas z błyskiem w oku.
@@ -173,6 +229,19 @@ Als wir dem Dorf das dringend benötigte Wasser gebracht hatten, dankten uns die
 
 In einer stillen Minute trat ein Fremder an uns heran. Sein Name war Harun und er war scheinbar ein weitgereister Mann. Sollten wir irgendwann Hilfe benötigen, so könnten wir jederzeit zu ihm kommen...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+我們為村莊送去亟需之水，居民感激涕零，奉上厚禮。
+
+靜謐時分，一異鄉人近前。他名哈倫，似是見多識廣之輩。若他日需助，我等隨時可去尋他……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -216,6 +285,31 @@ MISSION VERLOREN!
 Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ihr Ende war besiegelt und mit ihnen das Ende der Welt der Menschen.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+英雄氣概，還是魯莽輕率？當比雅尼倒下，諸神也在慟哭……他們的命運已定，人類的末日隨之降臨。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -251,6 +345,19 @@ Im Norden stießen wir auf einen Vorposten der Byzantiner. Von hier aus versucht
 
 Wenn wir in den Konflikt nicht hineingezogen werden wollten, sollten wir ihnen besser aus dem Weg gehen.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+在北方，我們撞見拜占庭人的前哨。他們正圖收復在巴勒斯坦的舊土。
+
+若不願捲入衝突，我們最好對其敬而遠之。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -296,6 +403,23 @@ Wollt ihr uns beistehen, so bringt uns Wasser!"
 
 Bringe 111 Wasser zum Dorf.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+穿行沙漠時，我部遇見一座困頓小村。
+
+"過客行善！數月無雨，井泉枯竭。值此危難，你等豈可漠然徑過！
+
+若肯相助，請攜水而來！"
+
+向村莊運送 111 單位水。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -346,6 +470,23 @@ Wollt ihr uns beistehen, so bringt uns Wasser!"
 Bringe 111 Wasser zum Dorf im Nord-Osten.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+一日，東北小村的求援者尋至我們面前。
+
+"過客行善！數月無雨，井泉枯竭。值此危難，你等豈可漠然徑過！
+
+若肯相助，請攜水而來！"
+
+向東北方的村莊運送 111 單位水。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 Pewnego dnia dotarli do nas wysłannicy małej wioski z północnego wschodu.
@@ -389,6 +530,28 @@ MISSION GEWONNEN!
         <text>
 Die Karawane hatte unser Dorf erreicht! 
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務成功！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+商隊已抵達我們的村莊！
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -438,6 +601,30 @@ Endlich konnten wir dieses karge Land verlassen, auf das die Sonne so unermüdli
 Nur mit einigen wenigen Männern und Frauen machten wir uns auf die weite, gefahrvolle Reise durch das Morgenland - unserem nächsten Abenteuer entgegen! 
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務成功！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+我們終於得以離開這片貧瘠之地，烈日曬烤不息、毫不留情。若可信那燈神之言，在巴格達我們終將尋得最後那塊地圖碎片……！
+
+僅率少數男女，我們踏上穿越東方險途的漫漫征程--去迎向新的冒險！
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -473,6 +660,19 @@ Fanfaren ertönten, als wir auf die Franken trafen. Ein gewaltiges Kreuzfahrerhe
 Wir sollten ihnen dabei besser nicht in die Quere kommen!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+號角聲起，我們與法蘭克人相遇。一支浩大的十字軍正旌旗蔽空，備戰以奪聖地。
+
+我們最好莫要擋其去路！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 Podczas podróży usłyszeliśmy nagle dęcie w niezliczone trąby. Wkrótce później napotkaliśmy Franków. Potężna armia krzyżowców szykowała się do podboju Ziemi Świętej.
@@ -500,6 +700,17 @@ PALESTINE
 PALÄSTINA
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+巴勒斯坦
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -539,6 +750,21 @@ Als wir den Informanten bezahlt hatten, gab er uns die gewünschten Auskünfte.
 Finde die Karawane im Nord-Osten.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+我們付過線人，他便吐露所求之訊。
+
+"東北遠方一座綠洲中，有一支商隊正啟程赴巴格達。然唯一路徑穿越沙漠，路遙艱辛，唯你等斥候裝備精良方可抵達！"
+
+尋找東北方的商隊。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 Po zainkasowaniu żądanej sumy, informator zaczął mówić.
@@ -565,6 +791,17 @@ From the east the army of the Saracens approached, determined to defend their co
         <text>
 Aus dem Osten näherte sich das Heer der Sarazenen, wild entschlossen, ihr Land gegen jeden Eindringling zu verteidigen.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+自東方逼近的，是撒拉遜人的大軍，他們誓死守土，不容任何來犯。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -607,6 +844,23 @@ Nicht weit von unserem Lager trafen wir auf einen alten Bekannten, den Informant
 
 Zahle dem Informanten die 10 Goldstücke.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+線人
+
+離營地不遠，我們撞見舊識--那線人：
+
+"我以少許黃金為酬，向你們提供重要情報，或於你們前往巴格達的路上大有裨益。"
+
+向線人繳納 10 金幣。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -655,6 +909,31 @@ MISSION VERLOREN!
 Du hast versagt! Deine Wikinger hatten auf dich vertraut und du hast sie im Stich gelassen. An Odins Tafel wird kein Platz für dich sein.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text>
+你失敗了！你的維京人曾信任你，你卻讓他們失望。奧丁的宴席上，再沒有你的位置。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\People_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -689,6 +968,19 @@ Ein staubiges, kahles Land breitete sich vor uns aus. Viele Steine gab es hier, 
 Auf unserem Weg nach Bagdad waren wir an der Küste Palästinas gelandet, einem Gebiet, in dem die Interessen der verschiedenen Länder aufeinander stießen. Die Heere der Franken, Byzantiner und der Sarazenen standen sich unversöhnlich gegenüber. 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+一片塵垢禿土在眼前鋪展。頑石遍佈，沃土稀少。
+
+赴巴格達途中，我們於巴勒斯坦海岸登陸，此地各國利益交錯衝撞。法蘭克人、拜占庭人與撒拉遜人的軍隊勢同水火，彼此對立。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 Zakurzona, pusta ziemia powitała nas na wybrzeżu Palestyny, krainy kamieni, nieurodzajnych gleb i poważnych kłopotów.
@@ -720,6 +1012,19 @@ Jeder von ihnen beanspruchte die heiligen Stätten für sich. Durch dieses Chaos
 
 Erkunde die Gegend und schließe dich einer Karawane nach Osten an.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+各方皆聲稱聖地為己所有。我們須在這片混亂中尋路穿越浩瀚沙漠。或許一支商隊能為引我們前往巴格達的哈里發。
+
+勘察周邊，加入一支向東的商隊。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

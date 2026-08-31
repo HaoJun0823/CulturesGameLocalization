@@ -1,256 +1,382 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="_campaign_04_04" export_map_id="_campaign_04_04" map_md5="86d876ddf06bb9e6fd71bdeeb0feed18" IsC2M="false">
+<localization version="1.3" map_id="_campaign_04_04" export_map_id="_campaign_04_04" map_md5="86d876ddf06bb9e6fd71bdeeb0feed18" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@解放土龙！</text>
-      <text lang="ger">@BEFREIE DIE ERDDRACHEN!</text>
       <text lang="eng">@FREE THE EARTH DRAGONS!</text>
+      <text lang="ger">@BEFREIE DIE ERDDRACHEN!</text>
+      <text lang="l11">@解放土龍！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">@UWOLNIJ SMOKI ZIEMNE!</text>
     </string>
     <string id="1">
       <text lang="CHN">建立一座小型聚落。</text>
-      <text lang="ger">Baue eine kleine Siedlung auf.</text>
       <text lang="eng">Build a small settlement.</text>
+      <text lang="ger">Baue eine kleine Siedlung auf.</text>
+      <text lang="l11">建立一座小型聚落。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zbuduj małą osadę.</text>
     </string>
     <string id="2">
       <text lang="CHN">可选：向牧民部族进献鞋作贡金，他们便献上交易要约。</text>
-      <text lang="ger">Optional: Reiche dem Hirtenvolk die Schuhe zum Tribut und sie offerieren ihre Handelsangebote.</text>
       <text lang="eng">Optional: Offer the herdsmen shoes as tribute and they will offer their trade deals.</text>
+      <text lang="ger">Optional: Reiche dem Hirtenvolk die Schuhe zum Tribut und sie offerieren ihre Handelsangebote.</text>
+      <text lang="l11">可選：向牧民部族進獻鞋作貢金，他們便獻上交易要約。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Opcjonalnie: Złóż pasterzom buty jako trybut, a oni przedstawią swoje oferty handlowe.</text>
     </string>
     <string id="3">
       <text lang="CHN">可选：在牧民营地建起 3 座哨塔以资支援。</text>
-      <text lang="ger">Optional: Errichte 3 Wachtürme in den Hirtensiedlungen zu deren Unterstützung.</text>
       <text lang="eng">Optional: Build 3 watchtowers in the herdsmen's settlements to support them.</text>
+      <text lang="ger">Optional: Errichte 3 Wachtürme in den Hirtensiedlungen zu deren Unterstützung.</text>
+      <text lang="l11">可選：在牧民營地建起 3 座哨塔以資支援。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Opcjonalnie: Zbuduj 3 wieże strażnicze w osadach pasterzy, aby ich wesprzeć.</text>
     </string>
     <string id="4">
       <text lang="CHN">向巴布尔缴纳其所索贡金，换取中立姿态。</text>
-      <text lang="ger">Zahle den geforderten Tribut an Babul für eine neutrale Haltung.</text>
       <text lang="eng">Pay the demanded tribute to Babul for a neutral stance.</text>
+      <text lang="ger">Zahle den geforderten Tribut an Babul für eine neutrale Haltung.</text>
+      <text lang="l11">向巴布林繳納其所索貢金，換取中立姿態。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać żądany trybut Babulowi za neutralne stanowisko.</text>
     </string>
     <string id="5">
       <text lang="CHN">向方尖碑环中的魔法龙运送 80 木材与 40 黏土！</text>
-      <text lang="ger">Liefere 80 Holz und 40 Lehm zu den Zauberdrachen in den Obeliskenkreis!</text>
       <text lang="eng">Deliver 80 wood and 40 clay to the magic dragons in the obelisk circle!</text>
+      <text lang="ger">Liefere 80 Holz und 40 Lehm zu den Zauberdrachen in den Obeliskenkreis!</text>
+      <text lang="l11">向方尖碑環中的魔法龍運送 80 木材與 40 黏土！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Dostarcz 80 drewna i 40 gliny do smoków magicznych w kręgu obelisków!</text>
     </string>
     <string id="6">
       <text lang="CHN">可选：为换取牧人的勇兵，缴 5 单位铁作贡金。</text>
-      <text lang="ger">Optional: Zahle den Hirten für tapfere Soldaten 5 Eisen Tribut.</text>
       <text lang="eng">Optional: Pay the herdsmen 5 iron as tribute for brave soldiers.</text>
+      <text lang="ger">Optional: Zahle den Hirten für tapfere Soldaten 5 Eisen Tribut.</text>
+      <text lang="l11">可選：為換取牧人的勇兵，繳 5 單位鐵作貢金。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Opcjonalnie: Zapłać pasterzom 5 żelaza jako trybut za odważnych żołnierzy.</text>
     </string>
     <string id="7">
       <text lang="CHN">可选：解放水龙。</text>
-      <text lang="ger">Optional: Befreie die Wasserdrachen.</text>
       <text lang="eng">Optional: Free the water dragons.</text>
+      <text lang="ger">Optional: Befreie die Wasserdrachen.</text>
+      <text lang="l11">可選：解放水龍。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Opcjonalnie: Uwolnij smoki wodne.</text>
     </string>
     <string id="8">
       <text lang="CHN">可选：与你的英雄进入水之殿。</text>
-      <text lang="ger">Optional: Gehe mit deinen Helden in den Wassertempel.</text>
       <text lang="eng">Optional: Go with your heroes to the water temple.</text>
+      <text lang="ger">Optional: Gehe mit deinen Helden in den Wassertempel.</text>
+      <text lang="l11">可選：與你的英雄進入水之殿。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Opcjonalnie: Udaj się z bohaterami do świątyni wodnej.</text>
     </string>
     <string id="9">
       <text lang="CHN">可选：将龙带回水之殿。</text>
-      <text lang="ger">Optional: Bringe die Drachen zurück in den Wassertempel.</text>
       <text lang="eng">Optional: Bring the dragons back to the water temple.</text>
+      <text lang="ger">Optional: Bringe die Drachen zurück in den Wassertempel.</text>
+      <text lang="l11">可選：將龍帶回水之殿。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Opcjonalnie: Sprowadź smoki z powrotem do świątyni wodnej.</text>
     </string>
     <string id="10">
       <text lang="CHN">深入地下地牢，解放其余的龙！</text>
-      <text lang="ger">Gehe in die unterirdischen Kerker und befreie die anderen Drachen!</text>
       <text lang="eng">Go into the underground dungeons and free the other dragons!</text>
+      <text lang="ger">Gehe in die unterirdischen Kerker und befreie die anderen Drachen!</text>
+      <text lang="l11">深入地下地牢，解放其餘的龍！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wejdź do podziemnych lochów i uwolnij pozostałe smoki!</text>
     </string>
     <string id="11">
       <text lang="CHN">向魔法龙进献草药，以求和平化解。</text>
-      <text lang="ger">Reiche den Zauberdrachen Kräuter für eine friedliche Lösung.</text>
       <text lang="eng">Offer the magic dragons herbs for a peaceful solution.</text>
+      <text lang="ger">Reiche den Zauberdrachen Kräuter für eine friedliche Lösung.</text>
+      <text lang="l11">向魔法龍進獻草藥，以求和平化解。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Złóż smokom magicznym zioła za pokojowe rozwiązanie.</text>
     </string>
     <string id="12">
       <text lang="CHN">可选：缴纳贡金换取更多佣兵。</text>
-      <text lang="ger">Optional: Zahle den Tribut für weitere Söldner.</text>
       <text lang="eng">Optional: Pay tribute for more mercenaries.</text>
+      <text lang="ger">Optional: Zahle den Tribut für weitere Söldner.</text>
+      <text lang="l11">可選：繳納貢金換取更多傭兵。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Opcjonalnie: Zapłać trybut za kolejnych najemników.</text>
     </string>
     <string id="13">
       <text lang="CHN">向巴布尔缴纳其所索贡金，以释放水龙。</text>
-      <text lang="ger">Zahle den geforderten Tribut an Babul für die Freilassung der Wasserdachen.</text>
       <text lang="eng">Pay the demanded tribute to Babul for the release of the water dragons.</text>
+      <text lang="ger">Zahle den geforderten Tribut an Babul für die Freilassung der Wasserdachen.</text>
+      <text lang="l11">向巴布林繳納其所索貢金，以釋放水龍。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać żądany trybut Babulowi za uwolnienie smoków wodnych.</text>
     </string>
     <string id="20">
       <text lang="CHN">哨塔 %d/3</text>
-      <text lang="ger">Wachtürme %d/3</text>
       <text lang="eng">Watchtowers %d/3</text>
+      <text lang="ger">Wachtürme %d/3</text>
+      <text lang="l11">哨塔 %d/3</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wieże strażnicze %d/3</text>
     </string>
     <string id="21">
       <text lang="CHN">木材 %d/80</text>
-      <text lang="ger">Holz %d/80</text>
       <text lang="eng">Wood %d/80</text>
+      <text lang="ger">Holz %d/80</text>
+      <text lang="l11">木材 %d/80</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Drewno %d/80</text>
     </string>
     <string id="23">
       <text lang="CHN">黏土 %d/40</text>
-      <text lang="ger">Lehm %d/40</text>
       <text lang="eng">Clay %d/40</text>
+      <text lang="ger">Lehm %d/40</text>
+      <text lang="l11">黏土 %d/40</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Glina %d/40</text>
     </string>
     <string id="25">
       <text lang="CHN">哨塔已建成</text>
-      <text lang="ger">Wachtürme errichtet</text>
       <text lang="eng">Watchtowers built</text>
+      <text lang="ger">Wachtürme errichtet</text>
+      <text lang="l11">哨塔已建成</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wieże strażnicze zbudowane</text>
     </string>
     <string id="26">
       <text lang="CHN">物资已送达</text>
-      <text lang="ger">Waren geliefert</text>
       <text lang="eng">Goods delivered</text>
+      <text lang="ger">Waren geliefert</text>
+      <text lang="l11">物資已送達</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Towary dostarczone</text>
     </string>
     <string id="32">
       <text lang="CHN">可选：向牧民部族进献鞋作贡金。</text>
-      <text lang="ger">Optional: Reiche den Hirtenvolk die Schuhe zum Tribut.</text>
       <text lang="eng">Optional: Offer the herdsmen shoes as tribute.</text>
+      <text lang="ger">Optional: Reiche den Hirtenvolk die Schuhe zum Tribut.</text>
+      <text lang="l11">可選：向牧民部族進獻鞋作貢金。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Opcjonalnie: Złóż pasterzom buty jako trybut.</text>
     </string>
     <string id="51">
       <text lang="CHN">牧民部族</text>
-      <text lang="ger">Hirtenvolk</text>
       <text lang="eng">Herdsmen</text>
+      <text lang="ger">Hirtenvolk</text>
+      <text lang="l11">牧民部族</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Pasterze</text>
     </string>
     <string id="52">
       <text lang="CHN">巴布尔</text>
-      <text lang="ger">Babul</text>
       <text lang="eng">Babul</text>
+      <text lang="ger">Babul</text>
+      <text lang="l11">巴布林</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Babul</text>
     </string>
     <string id="53">
       <text lang="CHN">纳帕利亚人</text>
-      <text lang="ger">Napalianer</text>
       <text lang="eng">Nabalians</text>
+      <text lang="ger">Napalianer</text>
+      <text lang="l11">納帕利亞人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Nabalianie</text>
     </string>
     <string id="54">
       <text lang="CHN">魔法龙</text>
-      <text lang="ger">Zauberdrachen</text>
       <text lang="eng">Magic Dragons</text>
+      <text lang="ger">Zauberdrachen</text>
+      <text lang="l11">魔法龍</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Smoki Magiczne</text>
     </string>
     <string id="55">
       <text lang="CHN">土龙</text>
-      <text lang="ger">Erdrachen</text>
       <text lang="eng">Earth Dragons</text>
+      <text lang="ger">Erdrachen</text>
+      <text lang="l11">土龍</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Smoki Ziemne</text>
     </string>
     <string id="56">
       <text lang="CHN">水龙</text>
-      <text lang="ger">Wasserdrachen</text>
       <text lang="eng">Water Dragons</text>
+      <text lang="ger">Wasserdrachen</text>
+      <text lang="l11">水龍</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Smoki Wodne</text>
     </string>
     <string id="61">
       <text lang="CHN">牧.</text>
-      <text lang="ger">Hirt.</text>
       <text lang="eng">Herd.</text>
+      <text lang="ger">Hirt.</text>
+      <text lang="l11">牧.</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Past.</text>
     </string>
     <string id="62">
       <text lang="CHN">巴布尔</text>
-      <text lang="ger">Babul</text>
       <text lang="eng">Babul</text>
+      <text lang="ger">Babul</text>
+      <text lang="l11">巴布林</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Babul</text>
     </string>
     <string id="63">
       <text lang="CHN">纳.</text>
-      <text lang="ger">Napal.</text>
       <text lang="eng">Nabal.</text>
+      <text lang="ger">Napal.</text>
+      <text lang="l11">納.</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Nabal.</text>
     </string>
     <string id="64">
       <text lang="CHN">阿布拉斯</text>
-      <text lang="ger">Abras</text>
       <text lang="eng">Abras</text>
+      <text lang="ger">Abras</text>
+      <text lang="l11">阿布拉斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Abras</text>
     </string>
     <string id="65">
       <text lang="CHN">特拉斯</text>
-      <text lang="ger">Terras</text>
       <text lang="eng">Terras</text>
+      <text lang="ger">Terras</text>
+      <text lang="l11">特拉斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Terras</text>
     </string>
     <string id="66">
       <text lang="CHN">阿夸斯</text>
-      <text lang="ger">Aquas</text>
       <text lang="eng">Aquas</text>
+      <text lang="ger">Aquas</text>
+      <text lang="l11">阿誇斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Aquas</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
-      <text lang="ger">Bjarni</text>
       <text lang="eng">Bjarni</text>
+      <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
-      <text lang="ger">Cyra</text>
       <text lang="eng">Cyra</text>
+      <text lang="ger">Cyra</text>
+      <text lang="l11">希拉</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Cyra</text>
     </string>
     <string id="75">
       <text lang="CHN">玛尼</text>
-      <text lang="ger">Mani</text>
       <text lang="eng">Mani</text>
+      <text lang="ger">Mani</text>
+      <text lang="l11">瑪尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mani</text>
     </string>
     <string id="76">
       <text lang="CHN">诺伯特</text>
-      <text lang="ger">Norbert</text>
       <text lang="eng">Norbert</text>
+      <text lang="ger">Norbert</text>
+      <text lang="l11">諾伯特</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Norbert</text>
     </string>
     <string id="77">
       <text lang="CHN">涌泉</text>
-      <text lang="ger">SPRUDEL</text>
       <text lang="eng">SPRUDEL</text>
+      <text lang="ger">SPRUDEL</text>
+      <text lang="l11">湧泉</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">SPRUDEL</text>
     </string>
     <string id="78">
       <text lang="CHN">水妖</text>
-      <text lang="ger">NIXE</text>
       <text lang="eng">NIXIE</text>
+      <text lang="ger">NIXE</text>
+      <text lang="l11">水妖</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">NIXE</text>
     </string>
     <string id="79">
       <text lang="CHN">波涛</text>
-      <text lang="ger">WELLE</text>
       <text lang="eng">WAVE</text>
+      <text lang="ger">WELLE</text>
+      <text lang="l11">波濤</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">WELLA</text>
     </string>
     <string id="98">
       <text lang="CHN">在故河道之畔，我们建起一处小营地。由此，我们便能统领解放土龙的远征。</text>
-      <text lang="ger">In der Nähe eines alten Flussbettes errichteten wir ein kleines Lager. Von hier aus würden wir unsere Expedition zur Befreiung der Erddrachen leiten können.</text>
       <text lang="eng">Near an old riverbed we set up a small camp. From here we would be able to lead our expedition to free the earth dragons.</text>
+      <text lang="ger">In der Nähe eines alten Flussbettes errichteten wir ein kleines Lager. Von hier aus würden wir unsere Expedition zur Befreiung der Erddrachen leiten können.</text>
+      <text lang="l11">在故河道之畔，我們建起一處小營地。由此，我們便能統領解放土龍的遠征。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">W pobliżu starego koryta rzeki założyliśmy mały obóz. Stąd mogliśmy kierować naszą ekspedycją w celu uwolnienia smoków ziemnych.</text>
     </string>
     <string id="99">
       <text lang="CHN">解放土龙</text>
-      <text lang="ger">BEFREIUNG DER ERDDRACHEN</text>
       <text lang="eng">LIBERATION OF THE EARTH DRAGONS</text>
+      <text lang="ger">BEFREIUNG DER ERDDRACHEN</text>
+      <text lang="l11">解放土龍</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">WYZWOLENIE SMOKÓW ZIEMNYCH</text>
     </string>
   </strings>
@@ -261,15 +387,26 @@
 我们在河畔扎下营地。这处登陆点正适合作为基地，从这里出发，我们就能踏上寻找地龙的旅途。
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+We set up our camp along the river. This landing site would make a good base from which to set out in search of the Earth Dragons.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Wir schlugen unser Lager entlang des Flusses auf. Dieser Landeplatz würde eine gute Basis abgeben, von hier aus konnten wir uns auf die Suche nach den Erddrachen begeben.
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-We set up our camp along the river. This landing site would make a good base from which to set out in search of the Earth Dragons.
+我們在河畔紮下營地。這處登陸點正適合作為基地，從這裡出發，我們就能踏上尋找地龍的旅途。
 </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -285,6 +422,13 @@ Rozbiliśmy obóz wzdłuż rzeki. To miejsce lądowania stanowiłoby dobrą baz�
 建立你的村庄，去寻找地龙。
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Not far from here, fighting must have been taking place, for in the mild nights we heard sounds that robbed us of our sleep. We had to get to the bottom of these conflicts. Perhaps dragons were involved too?
+
+Build your village and search for the Earth Dragons.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Unweit von hier mussten Kämpfe stattfinden, denn wir hörten in den lauen Nächten Geräusche, die uns den Schlaf raubten. Wir mussten den Ursachen dieser Auseinandersetzungen auf den Grund gehen. Vielleicht waren ja auch Drachen in diese verwickelt?
@@ -292,12 +436,18 @@ Unweit von hier mussten Kämpfe stattfinden, denn wir hörten in den lauen Näch
 Baue dein Dorf auf und suche nach den Erddrachen.
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-Not far from here, fighting must have been taking place, for in the mild nights we heard sounds that robbed us of our sleep. We had to get to the bottom of these conflicts. Perhaps dragons were involved too?
+不遠處必有一場戰鬥，因為和煦的夜裡我們聽見聲響，擾人清夢。我們須查明這些爭鬥的根源。或許龍也捲入其中？
 
-Build your village and search for the Earth Dragons.
+建立你的村莊，去尋找地龍。
 </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -327,6 +477,23 @@ Zbuduj swoją wioskę i szukaj Smoków Ziemnych.
 给牧人几双鞋，他们便会向你献上交易报价！
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+HERDSMEN
+
+"The dragons are more to be trusted than humans! We have lived in small villages in this land for centuries, and now others are making life difficult for us!" these poor herdsmen complained.
+
+
+
+They told us of their former community with the dragons and how humans came, captured them, and carried them off to display them as circus attractions and zoo animals in their land.
+
+They were neither friend nor foe to us, so we had to earn their trust.
+
+They noticed our fine shoemaking, even though the shoes were already very worn and used. They would have liked to have a few pairs for themselves!
+
+Give the herdsmen some shoes and they will offer you their trade goods!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 HIRTEN
@@ -346,22 +513,34 @@ Sie bemerkten unsere guten Schuharbeiten, auch wenn diese schon sehr ausgetreten
 Reiche den Hirten ein paar Schuhe und sie werden dir ihre Handelsangebote offerieren! 
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-HERDSMEN
+牧人
 
-"The dragons are more to be trusted than humans! We have lived in small villages in this land for centuries, and now others are making life difficult for us!" these poor herdsmen complained.
+“寧可信龍，也別信人！我們在這片土地的小村落裡住了數百年，如今卻有別人來叫我們不好過！”這些可憐牧人抱怨道。
 
-
-
-They told us of their former community with the dragons and how humans came, captured them, and carried them off to display them as circus attractions and zoo animals in their land.
-
-They were neither friend nor foe to us, so we had to earn their trust.
-
-They noticed our fine shoemaking, even though the shoes were already very worn and used. They would have liked to have a few pairs for themselves!
-
-Give the herdsmen some shoes and they will offer you their trade goods!
 </text>
+        <usericon>1,380,19</usericon>
+        <text>
+
+他們向我們講述昔日與龍的共處，以及人類如何到來、將龍抓捕擄走，當作馬戲團噱頭與動物園禽獸在他鄉展覽。
+
+他們對我們非友非敵，我們須贏得其信任。
+
+他們留意到我們腳上鞋匠的好手藝，雖已穿得破舊磨損，卻仍想要幾雙留著！
+
+給牧人幾雙鞋，他們便會向你獻上交易報價！
+</text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,380,19</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,380,19</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -394,6 +573,17 @@ Daj pasterzom trochę butów, a oni zaoferują ci swoje towary handlowe!
 他们还向我们讲起或许最强大的龙族：魔法龙。若说有谁能助我们完成任务，必是这一族无疑。
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+SHOES DELIVERED!
+
+We had presented the herdsmen with the shoes as tribute. They instantly changed their attitude toward us. Their joy over the shoes was so great that they offered us exceedingly favorable trade terms.
+
+
+
+They also told us of what was perhaps the most powerful dragon species: the MAGIC DRAGONS. If anyone could support us in our mission, it was surely this tribe.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 SCHUHE GELIEFERT!
@@ -407,16 +597,27 @@ Wir hatten den Hirten die Schuhe zum Tribut überreicht. Sie wechselten ihre Hal
 Auch erzählten sie uns von der wohl mächtigsten Drachenart: den ZAUBERDRACHEN. Wenn uns jemand bei unserer Mission unterstützen konnte, dann sicherlich dieser Stamm.
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-SHOES DELIVERED!
+鞋子已送達！
 
-We had presented the herdsmen with the shoes as tribute. They instantly changed their attitude toward us. Their joy over the shoes was so great that they offered us exceedingly favorable trade terms.
+我們已將鞋子作為貢品交給牧人。他們當下便改變了對我們的姿態。對鞋子的欣喜如此之大，竟向我們開出極為優厚的交易條件。
+        </text>
+        <usericon>1,380,19</usericon>
+        <text>
 
-
-
-They also told us of what was perhaps the most powerful dragon species: the MAGIC DRAGONS. If anyone could support us in our mission, it was surely this tribe.
+他們還向我們講起或許最強大的龍族：魔法龍。若說有誰能助我們完成任務，必是這一族無疑。
 </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,380,19</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,380,19</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -445,6 +646,19 @@ Opowiedzieli nam też o najpotężniejszym gatunku smoków: SMOKACH MAGICZNYCH. 
 注意：要建造建筑，你的维京人须近在咫尺！
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+MERCENARIES FROM THE HERDSMEN
+
+"You seem very brave! We will support you! We are a simple folk, but fighting alongside you, we have a chance!" said the herdsmen.
+
+
+
+"If you build 3 watchtowers in the nearly destroyed settlement south of Babul, we will support you even more!"
+
+Note: To place buildings, your Vikings must be nearby!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 SÖLDNER vom HIRTENVOLK
@@ -460,18 +674,29 @@ SÖLDNER vom HIRTENVOLK
 Beachte: Um Gebäude zu setzen, müssen sich deine Wikinger in der Nähe aufhalten!
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-MERCENARIES FROM THE HERDSMEN
+牧人民
 
-"You seem very brave! We will support you! We are a simple folk, but fighting alongside you, we have a chance!" said the herdsmen.
+族的僱傭兵</text>
+        <usericon>1,395,25</usericon>
+        <text>
 
+“你們看來勇氣可嘉！我們願助你們一臂之力！我們雖是樸素之民，但與你們並肩作戰，便有一線勝機！”牧人們說道。
+“若你們在巴布林以南那座幾近被毀的聚落裡建起 3 座哨塔，我們便傾力支援你們！”
 
-
-"If you build 3 watchtowers in the nearly destroyed settlement south of Babul, we will support you even more!"
-
-Note: To place buildings, your Vikings must be nearby!
+注意：要建造建築，你的維京人須近在咫尺！
 </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,395,25</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,395,25</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -496,6 +721,13 @@ Uwaga: Aby stawiać budynki, twoi Wikingowie muszą znajdować się w pobliżu!
 </text>
         <usericon>1,201,261</usericon>
       </lang>
+      <lang code="eng">
+        <text>
+WATCHTOWERS BUILT!
+
+We had built a defense for the herdsmen that would hopefully withstand all attacks from Babul. They showed themselves exceedingly grateful and supported us with additional soldiers.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 WACHTÜRME ERRICHTET!
@@ -505,12 +737,21 @@ Wir hatten dem Hirtenvolk eine Verteidigung aufgebaut, die hoffentlich allen Üb
 </text>
         <usericon>1,201,261</usericon>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-WATCHTOWERS BUILT!
+哨塔已建成！
 
-We had built a defense for the herdsmen that would hopefully withstand all attacks from Babul. They showed themselves exceedingly grateful and supported us with additional soldiers.
+我們為牧人民族築起了防禦，但願能抵擋巴布林的一切侵擾。他們感激不盡，又增派士兵相助。
 </text>
+        <usericon>1,201,261</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,201,261</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,201,261</usericon>
       </lang>
       <lang code="pol">
         <text>
@@ -529,6 +770,13 @@ Zbudowaliśmy dla pasterzy obronę, która miejmy nadzieję oprze się wszystkim
 </text>
         <usericon>1,201,261</usericon>
       </lang>
+      <lang code="eng">
+        <text>
+MORE SOLDIERS FROM THE HERDSMEN!
+
+For this tribute we received more soldiers from the herdsmen. Hard to believe how many mercenaries this little folk could mobilize...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 WEITERE SOLDATEN VON HIRTEN!
@@ -538,12 +786,21 @@ Für diesenn Tribut erhielten wir von den Hirten weitere Soldaten. Kaum zu glaub
 </text>
         <usericon>1,201,261</usericon>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-MORE SOLDIERS FROM THE HERDSMEN!
+牧人增援更多士兵！
 
-For this tribute we received more soldiers from the herdsmen. Hard to believe how many mercenaries this little folk could mobilize...
+憑這份貢品，我們從牧人處換得更多士兵。難以置信，這小小民族竟能動員如此眾多的僱傭兵……
 </text>
+        <usericon>1,201,261</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,201,261</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,201,261</usericon>
       </lang>
       <lang code="pol">
         <text>
@@ -569,6 +826,19 @@ Za ten trybut otrzymaliśmy od pasterzy kolejnych żołnierzy. Trudno uwierzyć,
 向龙群运送 80 木材与 40 黏土。”
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+MAGIC DRAGONS
+
+"You mean us no harm... We Magic Dragons have a keen sense for bad people. Perhaps you could stand by the dragons?"
+
+
+
+"Prove your worth by delivering the following goods to the obelisk circle west of here, and the support of us Magic Dragons is yours."
+
+Deliver 80 wood and 40 clay to the dragons.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 ZAUBERDRACHEN
@@ -584,18 +854,30 @@ ZAUBERDRACHEN
 Liefere den Drachen 80 Holz und 40 Lehm.
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-MAGIC DRAGONS
+魔法龍
 
-"You mean us no harm... We Magic Dragons have a keen sense for bad people. Perhaps you could stand by the dragons?"
+“你們對我們並無惡意……我們魔法龍對惡人嗅覺敏銳。或許你們真能助龍一臂之力？”
 
-
-
-"Prove your worth by delivering the following goods to the obelisk circle west of here, and the support of us Magic Dragons is yours."
-
-Deliver 80 wood and 40 clay to the dragons.
 </text>
+        <usericon>1,321,394</usericon>
+        <text>
+
+“證明你們的本事吧——將下列貨物運抵西邊方尖碑圈，魔法龍的支援便少不了。
+
+向龍群運送 80 木材與 40 黏土。”
+</text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,321,394</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,321,394</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -625,6 +907,19 @@ Dostarcz smokom 80 drewna i 40 gliny.
 向魔法龙进献草药，谋求和平解决。
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+GOODS DELIVERED TO THE MAGIC DRAGONS!
+
+We had delivered the goods to the Magic Dragons. They transformed the site of the obelisk circle into a place full of magic where our life energy was healed, and opened further portals to the regions of the Nabalians.
+
+
+
+They spoke of an invisibility potion that they could brew for us to avoid any conflict with the Nabalians. If we delivered the necessary herbs, they would do their best.
+
+Give the Magic Dragons herbs for a peaceful solution.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 WAREN AN ZAUBERDRACHEN GELIEFERT!
@@ -640,18 +935,28 @@ Sie sprachen von einen Unsichtbarkeitstrank, den sie uns brauen könnten, um jed
 Reiche den Zauberdrachen Kräuter für eine friedliche Lösung.
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-GOODS DELIVERED TO THE MAGIC DRAGONS!
+貨物已交給魔法龍！
 
-We had delivered the goods to the Magic Dragons. They transformed the site of the obelisk circle into a place full of magic where our life energy was healed, and opened further portals to the regions of the Nabalians.
+我們將貨物交予魔法龍。他們把方尖碑圈那處化為充盈魔法之地，治癒了我們的生命能量，並開啟了通往納帕利亞人領地的更多傳送門。
+        </text>
+        <usericon>1,321,394</usericon>
+        <text>
+他們提起一種隱形藥劑，說可為我們來釀造，好避開一切與納帕利亞人的衝突。若我們送去所需草藥，他們必竭盡全力。
 
-
-
-They spoke of an invisibility potion that they could brew for us to avoid any conflict with the Nabalians. If we delivered the necessary herbs, they would do their best.
-
-Give the Magic Dragons herbs for a peaceful solution.
-</text>
+向魔法龍進獻草藥，謀求和平解決。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,321,394</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,321,394</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -679,6 +984,17 @@ Daj Smokom Magicznym zioła na pokojowe rozwiązanie.
 魔法龙将药剂交予我们英雄。仿佛施了魔法，我们隐去了身形——唯有自己人能依稀辨出轮廓。药剂不能持久，魔法龙便引我们抄最近的小路前往地下地牢。我们如受遥控般穿过了纳帕利亚人的营地……
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+INVISIBILITY POTION
+
+The Magic Dragons presented the potion to us heroes. And as if by magic, we became invisible — only our own people could vaguely make out our silhouettes.
+
+
+
+Since the potion would not last long, the Magic Dragons guided us by the shortest route to the underground dungeons. As if remote-controlled, we walked through the Nabalians' camp...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 UNSICHTBARKEITSTRANK
@@ -692,16 +1008,26 @@ Die Zauberdrachen überreichten den Trank an uns Helden. Und wie von Zauberhand 
 Da der Trank nicht lange anhalten würde, leiteten uns die Zauberdrachen auf kürzestem Weg zu den unterirdischen Kerkern. Wie ferngesteuert liefen wir durch das Lager der Napalianer... 
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-INVISIBILITY POTION
+隱
 
-The Magic Dragons presented the potion to us heroes. And as if by magic, we became invisible — only our own people could vaguely make out our silhouettes.
+形藥劑</text>
+        <usericon>1,262,416</usericon>
+        <text>
 
-
-
-Since the potion would not last long, the Magic Dragons guided us by the shortest route to the underground dungeons. As if remote-controlled, we walked through the Nabalians' camp...
+魔法龍將藥劑交予我們英雄。彷彿施了魔法，我們隱去了身形——唯有自己人能依稀辨出輪廓。藥劑不能持久，魔法龍便引我們抄最近的小路前往地下地牢。我們如受遙控般穿過了納帕利亞人的營地……
 </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,262,416</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,262,416</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -728,6 +1054,17 @@ Ponieważ mikstura nie działałaby długo, Smoki Magiczne poprowadziły nas naj
 解放水龙与地龙。
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+WATER DRAGONS
+
+
+
+"These despicable humans! They have captured our brothers and now hold them in narrow cages. There are still enough of us left, but the Earth Dragons are truly faring badly — they are nearly wiped out!" lamented the Water Dragons.
+
+Free the Water Dragons and the Earth Dragons.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 WASSERDRACHEN
@@ -741,16 +1078,27 @@ WASSERDRACHEN
 Befreie die Wasserdrachen und die Erddrachen. 
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-WATER DRAGONS
-
-
-
-"These despicable humans! They have captured our brothers and now hold them in narrow cages. There are still enough of us left, but the Earth Dragons are truly faring badly — they are nearly wiped out!" lamented the Water Dragons.
-
-Free the Water Dragons and the Earth Dragons.
+水龍
 </text>
+        <usericon>2,1</usericon>
+        <text>
+
+“這些可惡的人類！他們抓了我們的兄弟，關進狹窄牢籠。我們這邊餘者尚多，可地龍境況悽慘，幾近滅族！”水龍們悲訴。
+
+解放水龍與地龍。
+</text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,1</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,1</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -777,6 +1125,17 @@ Uwolnij Smoki Wodne i Smoki Ziemne.
 与你的英雄及龙群一同前往神庙！
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+WATER DRAGONS
+
+"You have brought them back to us unharmed!" the Water Dragons rejoiced when we returned to the temple with the other dragons.
+
+
+
+Go with your heroes and the dragons to the temple!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 WASSERDRACHEN
@@ -790,16 +1149,27 @@ WASSERDRACHEN
 Gehe mit deinen Helden und den Drachen zum Tempel!
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-WATER DRAGONS
+水龍
 
-"You have brought them back to us unharmed!" the Water Dragons rejoiced when we returned to the temple with the other dragons.
-
-
-
-Go with your heroes and the dragons to the temple!
+“你們竟把他們完好無損地帶回來了！”當我們與其他龍回到神廟，水龍們喜出望外。
 </text>
+        <usericon>1,115,29</usericon>
+        <text>
+
+與你的英雄及龍群一同前往神廟！
+</text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,115,29</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,115,29</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -825,6 +1195,13 @@ Idź ze swoimi bohaterami i smokami do świątyni!
 是英勇，还是鲁莽？比雅尼陨落之时，诸神落泪……少了这位英雄，任务的结局将永远对你隐藏。
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+MISSION LOST!
+
+Heroism or recklessness? When BJARNI died, the gods wept... Without this hero, the end of the mission will remain hidden from you.
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -836,12 +1213,30 @@ MISSION VERLOREN!
 Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
-MISSION LOST!
-
-Heroism or recklessness? When BJARNI died, the gods wept... Without this hero, the end of the mission will remain hidden from you.
+任務失敗！
 </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+是英勇，還是魯莽？比雅尼隕落之時，諸神落淚……少了這位英雄，任務的結局將永遠對你隱藏。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -867,6 +1262,19 @@ Bohatersztwo czy lekkomyślność? Gdy BJARNI umarł, bogowie płakali... Bez te
 解放其他龙！
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+WATER DRAGONS FREED!
+
+"Finally we have been freed from the clutches of these cruel humans. Hard to imagine what else might have happened to us. The dragons they carried off — we never saw them again!"
+
+
+
+"From time to time, the rare Earth Dragons were also brought here. What might have become of them?"
+
+Free the other dragons!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 WASSERDRACHEN BEFREIT!
@@ -882,18 +1290,30 @@ WASSERDRACHEN BEFREIT!
 Befreie die anderen Drachen!
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-WATER DRAGONS FREED!
+水龍已解放！
 
-"Finally we have been freed from the clutches of these cruel humans. Hard to imagine what else might have happened to us. The dragons they carried off — we never saw them again!"
+“終於脫離那些殘忍人類的魔爪了。難以想象我們還會遭遇什麼。那些被運走的龍，我們再也沒見過！”
 
-
-
-"From time to time, the rare Earth Dragons were also brought here. What might have become of them?"
-
-Free the other dragons!
 </text>
+        <usericon>2,9</usericon>
+        <text>
+
+“我們偶爾在此見到稀有的地龍。它們如今下落如何？”
+
+解放其他龍！
+</text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,9</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,9</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -917,6 +1337,13 @@ Uwolnij pozostałe smoki!
 “嘿，你们！这儿不欢迎任何人！再敢靠前一步，我们立刻开火！”
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+NABALIANS
+
+"Hey, you there! Nobody is welcome here! We will open fire immediately if you dare take another step!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 NAPALINER
@@ -924,12 +1351,18 @@ NAPALINER
 "Hey, ihr da! Niemand ist hier willkommen! Wir eröffnen sofort das Feuer, wagt ihr euch einen Schritt weiter!"
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-NABALIANS
+納帕利亞人
 
-"Hey, you there! Nobody is welcome here! We will open fire immediately if you dare take another step!"
+“嘿，你們！這兒不歡迎任何人！再敢靠前一步，我們立刻開火！”
 </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -948,6 +1381,13 @@ NABALIANIE
         </text>
         <usericon>1,106,243</usericon>
       </lang>
+      <lang code="eng">
+        <text>
+BABUL
+
+"Hey, you there! You are not welcome in our city! Pay us a tribute and we will not harm you! But do not be too curious! Many nosy parkers have come to a bad end in our city!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 BABUL
@@ -957,12 +1397,21 @@ BABUL
 </text>
         <usericon>1,106,243</usericon>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-BABUL
+巴布林
 
-"Hey, you there! You are not welcome in our city! Pay us a tribute and we will not harm you! But do not be too curious! Many nosy parkers have come to a bad end in our city!"
-</text>
+“嘿，你們！我們城裡不歡迎你們！繳貢便不傷你們！但別太好奇！多少多管閒事的鼻子，在我們城裡都沒好下場！”
+        </text>
+        <usericon>1,106,243</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,106,243</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,106,243</usericon>
       </lang>
       <lang code="pol">
         <text>
@@ -984,6 +1433,15 @@ BABUL
 我们向巴布尔缴了巨额贡品，他们这才不情愿地放了水龙。他们说水龙本就是易擒的猎物，随时可再袭而掠之……
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+TRIBUTE PRESENTED TO BABUL!
+
+
+
+We had paid BABUL the enormous tribute, and so they reluctantly released the Water Dragons. They said the Water Dragons were such easy prey that they could always raid and plunder them again whenever they wished...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 TRIBUT AN BABUL ÜBERREICHT!
@@ -995,14 +1453,26 @@ TRIBUT AN BABUL ÜBERREICHT!
 Wir hatten BABUL den enormen Tribut bezahlt und so gaben sie die Wasserdachen widerwillig frei. Sie meinten, die Wasserdrachen seien eh solch leichte Opfer, das sie sie auch jederzeit wieder überfallen und plündern könnten...
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-TRIBUTE PRESENTED TO BABUL!
+已向巴布林繳納貢品！
 
-
-
-We had paid BABUL the enormous tribute, and so they reluctantly released the Water Dragons. They said the Water Dragons were such easy prey that they could always raid and plunder them again whenever they wished...
 </text>
+        <usericon>1,86,196</usericon>
+        <text>
+
+我們向巴布林繳了鉅額貢品，他們這才不情願地放了水龍。他們說水龍本就是易擒的獵物，隨時可再襲而掠之……
+</text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,86,196</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,86,196</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1023,6 +1493,13 @@ Zapłaciliśmy BABUL ogromny trybut i tak niechętnie uwolnili Smoki Wodne. Powi
 </text>
         <usericon>1,39,473</usericon>
       </lang>
+      <lang code="eng">
+        <text>
+ENTRANCE TO THE UNDERGROUND DUNGEONS
+
+You have no permission to enter the DUNGEONS. Go and help the herdsmen and the Water Dragons. Then return here with your heroes, and access shall be granted to you!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 EINGANG ZU DEN UNTERIRDISCHEN KERKER
@@ -1032,12 +1509,21 @@ Du hast keine Erlaubnis, in die KERKER vorzudringen. Geh und hilf dem Hirtenvolk
 </text>
         <usericon>1,39,473</usericon>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-ENTRANCE TO THE UNDERGROUND DUNGEONS
+地下地牢入口
 
-You have no permission to enter the DUNGEONS. Go and help the herdsmen and the Water Dragons. Then return here with your heroes, and access shall be granted to you!
+“你無權闖入地牢。去助牧人民族與水龍，再帶英雄回來，那時便放你通行！”
 </text>
+        <usericon>1,39,473</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,39,473</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,39,473</usericon>
       </lang>
       <lang code="pol">
         <text>
@@ -1056,6 +1542,13 @@ Nie masz pozwolenia na wejście do LOCHÓW. Idź i pomóż pasterzom oraz Smokom
 </text>
         <usericon>1,86,196</usericon>
       </lang>
+      <lang code="eng">
+        <text>
+TRIBUTE PRESENTED TO BABUL!
+
+"For now we are neutral toward you, but keep your noses out of things that don't concern you!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 TRIBUT AN BABUL ÜBERREICHT!
@@ -1065,12 +1558,21 @@ TRIBUT AN BABUL ÜBERREICHT!
 </text>
         <usericon>1,86,196</usericon>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-TRIBUTE PRESENTED TO BABUL!
+已向巴布林繳納貢品！
 
-"For now we are neutral toward you, but keep your noses out of things that don't concern you!"
+“眼下我們對你們中立，但別把鼻子伸進與你們無關的事裡！”
 </text>
+        <usericon>1,86,196</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,86,196</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,86,196</usericon>
       </lang>
       <lang code="pol">
         <text>
@@ -1086,15 +1588,26 @@ TRYBUT ZAPŁACONY BABUL!
 纳帕利亚人败北！
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+NABALIANS DEFEATED!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 NAPALIANER BESIEGT!
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-NABALIANS DEFEATED!
+納帕利亞人敗北！
 </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1114,6 +1627,15 @@ NABALIANIE POKONANI!
 我们撞见传送装置。可惜出口必被封死，于我们毫无用处。
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+MAGICAL FIELDS
+
+
+
+We came across teleporters. Unfortunately, the exits had to be blocked, and so they were of no use to us.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 MAGISCHE FELDER
@@ -1125,14 +1647,26 @@ MAGISCHE FELDER
 Wir stießen auf Teleporter. Leider mussten die Ausgänge blockiert sein und so waren sie uns leider zu nichts nutze.
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-MAGICAL FIELDS
+魔法之地
 
-
-
-We came across teleporters. Unfortunately, the exits had to be blocked, and so they were of no use to us.
 </text>
+        <usericon>1,238,79</usericon>
+        <text>
+
+我們撞見傳送裝置。可惜出口必被封死，於我們毫無用處。
+</text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,238,79</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,238,79</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1153,6 +1687,13 @@ Natknęliśmy się na teleportery. Niestety wyjścia musiały być zablokowane, 
 </text>
         <usericon>1,106,243</usericon>
       </lang>
+      <lang code="eng">
+        <text>
+BABUL HOSTILE AGAIN!
+
+"You have stuck your noses into things that don't concern you! Pay the tribute and we will give you what you want."
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 BABUL WIEDER FEINDLICH!
@@ -1162,12 +1703,21 @@ BABUL WIEDER FEINDLICH!
 </text>
         <usericon>1,106,243</usericon>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-BABUL HOSTILE AGAIN!
+巴布林重又敵對！
 
-"You have stuck your noses into things that don't concern you! Pay the tribute and we will give you what you want."
+“你們把鼻子伸進了與你們無關的事裡！繳貢，我們便給你們想要的東西。”
 </text>
+        <usericon>1,106,243</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,106,243</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,106,243</usericon>
       </lang>
       <lang code="pol">
         <text>
@@ -1189,6 +1739,15 @@ BABUL ZNÓW WROGI!
 这只魔法箱中装着 50 枚金币，自动送抵我们的总部！
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+50 COINS
+
+
+
+In this magical chest were 50 gold coins, which automatically arrived at our headquarters!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 50 MÜNZEN
@@ -1200,14 +1759,26 @@ BABUL ZNÓW WROGI!
 In dieser magischen Kiste befanden sich 50 Goldmünzen, die automatisch in unser Hauptquartier gelangten!
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-50 COINS
+50 枚金幣
 
-
-
-In this magical chest were 50 gold coins, which automatically arrived at our headquarters!
 </text>
+        <usericon>1,186,38</usericon>
+        <text>
+
+這隻魔法箱中裝著 50 枚金幣，自動送抵我們的總部！
+</text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,186,38</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,186,38</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1231,6 +1802,13 @@ W tej magicznej skrzyni znajdowało się 50 złotych monet, które automatycznie
 一时的轻率，生命便转瞬即逝！你的女英雄希拉，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+MISSION LOST!
+
+A brief moment of carelessness, so quickly it happens in life! Your heroine CYRA perished through your inattention! Without this heroine, the end of the mission will remain hidden from you.
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1242,12 +1820,30 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
-MISSION LOST!
-
-A brief moment of carelessness, so quickly it happens in life! Your heroine CYRA perished through your inattention! Without this heroine, the end of the mission will remain hidden from you.
-</text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+一時的輕率，生命便轉瞬即逝！你的女英雄希拉，因你的疏忽而殞命！少了這位英雄，任務的結局將永遠對你隱藏。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1265,6 +1861,13 @@ Chwilka lekkomyślności, tak szybko to w życiu przychodzi! Twoja bohaterka CYR
 哎呀，水龙们都死了。没了它们，任务的结局将永远对你隐藏！
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+WATER DRAGONS DEAD!
+
+Oh no, the WATER DRAGONS have died. Without them the end of the mission will remain hidden from you!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 WASSERDRACHEN GESTORBEN!
@@ -1272,12 +1875,18 @@ WASSERDRACHEN GESTORBEN!
 Oh je, die WASSERDACHEN sind gestorben. Ohne sie wird dir das Ende der Mission verborgen bleiben!
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-WATER DRAGONS DEAD!
+水龍已死！
 
-Oh no, the WATER DRAGONS have died. Without them the end of the mission will remain hidden from you!
+哎呀，水龍們都死了。沒了它們，任務的結局將永遠對你隱藏！
 </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1295,6 +1904,13 @@ O nie, SMOKI WODNE zmarły. Bez nich koniec misji pozostanie dla ciebie ukryty!
 我们大败巴布尔！他们再也不能加害牧人民族。
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+BABUL DEFEATED!
+
+We had defeated BABUL victoriously! Never again would they cause harm to the herdsmen.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 BABUL BESIEGT!
@@ -1302,12 +1918,18 @@ BABUL BESIEGT!
 Wir hatten BABUL siegreich geschlagen! Nie wieder würden sie dem Hirtenvolk einen Schaden zufügen. 
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-BABUL DEFEATED!
+巴布林敗北！
 
-We had defeated BABUL victoriously! Never again would they cause harm to the herdsmen.
+我們大敗巴布林！他們再也不能加害牧人民族。
 </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1329,6 +1951,15 @@ Pokonaliśmy BABUL zwycięsko! Nigdy więcej nie wyrządzą szkody pasterzom.
 是谁把这些投石机留在此处？总之它们于我们大有用处！
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+CATAPULTS FOUND
+
+
+
+Who might have left these catapults here? They could certainly be of good use to us!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 KATAPULTE GEFUNDEN
@@ -1340,14 +1971,26 @@ KATAPULTE GEFUNDEN
 Wer hatte diese Katapulte hier wohl stehen lassen? Uns konnten sie jedenfalls gute Dienste erweisen!
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-CATAPULTS FOUND
+發現投石機
 
-
-
-Who might have left these catapults here? They could certainly be of good use to us!
 </text>
+        <usericon>1,42,295</usericon>
+        <text>
+
+是誰把這些投石機留在此處？總之它們於我們大有用處！
+</text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,42,295</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,42,295</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1367,6 +2010,13 @@ Kto mógł zostawić tu te katapulty? Nam mogły się z pewnością przydać!
 不久，温暖酥脆面包的独特香气将抚慰我们的鼻息，因为烘焙坊为我们营地奠定了稳固的粮食根基。
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+OWN CAMP BUILT!
+
+The unmistakable scent of warm, crusty bread would soon delight our noses, for with the bakery we had created a stable food supply for our camp.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 EIGENES LAGER ERRICHTET!
@@ -1374,12 +2024,18 @@ EIGENES LAGER ERRICHTET!
 Der unverwechselbare Duft von warmem knusprigem Brot würde bald unsere Nasen verwöhnen, denn mit der Bäckerei hatten wir eine stabile Nahrungsgrundlage für unser Lager geschaffen.
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-OWN CAMP BUILT!
+己方營地已建成！
 
-The unmistakable scent of warm, crusty bread would soon delight our noses, for with the bakery we had created a stable food supply for our camp.
+不久，溫暖酥脆麵包的獨特香氣將撫慰我們的鼻息，因為烘焙坊為我們營地奠定了穩固的糧食根基。
 </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1398,6 +2054,13 @@ Niezaprzeczalna woń ciepłego, chrupiącego chleba wkrótce ucieszy nasze nosy,
 </text>
         <usericon>1,257,298</usericon>
       </lang>
+      <lang code="eng">
+        <text>
+GRAVEYARD
+
+"Incredible, what we saw before us in the middle of the desert. This had to be a graveyard, but not an ordinary one — we could tell from the oversized gravestones."
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 FRIEDHOF
@@ -1407,12 +2070,21 @@ FRIEDHOF
 </text>
         <usericon>1,257,298</usericon>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-GRAVEYARD
+墓地
 
-"Incredible, what we saw before us in the middle of the desert. This had to be a graveyard, but not an ordinary one — we could tell from the oversized gravestones."
+“難以置信，我們竟在沙漠中央看見此景。這必是處墓地，但從超大的墓碑便可看出，絕非尋常。”
 </text>
+        <usericon>1,257,298</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,257,298</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,257,298</usericon>
       </lang>
       <lang code="pol">
         <text>
@@ -1438,6 +2110,19 @@ CMENTERZ
 护送水龙前往水之神庙！
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+ALL WATER DRAGONS FREED!
+
+Now we had finally freed all the Water Dragons in Babul.
+
+
+
+Everyone told us of the rare Earth Dragons. Nobody had seen them anymore. There were rumors of underground dungeons where they were being held."
+
+Escort the Water Dragons to the water temple!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 ALLE WASSERDRACHEN BEFREIT!
@@ -1453,18 +2138,30 @@ Alle erzählten uns von den seltenen Erddrachen. Die niemand mehr gesehen hatte.
 Geleite die Wasserdrachen zum Wassertempel!
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-ALL WATER DRAGONS FREED!
+所有水龍已解放！
 
-Now we had finally freed all the Water Dragons in Babul.
+如今我們終於解放了巴布林處所有的水龍。
 
-
-
-Everyone told us of the rare Earth Dragons. Nobody had seen them anymore. There were rumors of underground dungeons where they were being held."
-
-Escort the Water Dragons to the water temple!
 </text>
+        <usericon>2,9</usericon>
+        <text>
+
+他們都向我們講起稀有的地龍。無人再見過它們。有傳言說它們被關在地下地牢中。”
+
+護送水龍前往水之神廟！
+</text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,9</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,9</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1489,6 +2186,13 @@ Eskortuj Smoki Wodne do świątyni wodnej!
 </text>
         <usericon>1,31,335</usericon>
       </lang>
+      <lang code="eng">
+        <text>
+TELEPORTER ACTIVATED!
+
+In gratitude for freeing the Water Dragons, the Water Dragons activated the teleporters in the desert.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 TELEPORTER AKTIVIERT!
@@ -1498,12 +2202,21 @@ Zum Dank für die Befreiung der Wasserdrachen aktivierten die Wasserdrachen die 
 </text>
         <usericon>1,31,335</usericon>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-TELEPORTER ACTIVATED!
+傳送裝置已啟用！
 
-In gratitude for freeing the Water Dragons, the Water Dragons activated the teleporters in the desert.
+為感解放水龍之恩，水龍們啟用了沙漠中的傳送裝置。
 </text>
+        <usericon>1,31,335</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,31,335</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,31,335</usericon>
       </lang>
       <lang code="pol">
         <text>
@@ -1522,6 +2235,13 @@ W dowód wdzięczności za uwolnienie Smoków Wodnych, Smoki Wodne aktywowały t
 </text>
         <usericon>1,125,141</usericon>
       </lang>
+      <lang code="eng">
+        <text>
+EARTH DRAGONS!
+
+Finally we had found Earth Dragons!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 ERDDRACHEN!
@@ -1531,12 +2251,21 @@ Endlich hatten wir Erddrachen gefunden!
 </text>
         <usericon>1,125,141</usericon>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-EARTH DRAGONS!
+地龍！
 
-Finally we had found Earth Dragons!
+我們終於尋得了地龍！
 </text>
+        <usericon>1,125,141</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,125,141</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,125,141</usericon>
       </lang>
       <lang code="pol">
         <text>
@@ -1558,6 +2287,15 @@ Wreszcie znaleźliśmy Smoki Ziemne!
 这只魔法箱中装着 50 枚金币，自动送抵我们的总部！
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+50 COINS
+
+
+
+In this magical chest were 50 gold coins, which automatically arrived at our headquarters!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 50 MÜNZEN
@@ -1569,14 +2307,26 @@ Wreszcie znaleźliśmy Smoki Ziemne!
 In dieser magischen Kiste befanden sich 50 Goldmünzen, die automatisch in unser Hauptquartier gelangten!
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-50 COINS
+50 枚金幣
 
-
-
-In this magical chest were 50 gold coins, which automatically arrived at our headquarters!
 </text>
+        <usericon>1,125,142</usericon>
+        <text>
+
+這隻魔法箱中裝著 50 枚金幣，自動送抵我們的總部！
+</text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,125,142</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,125,142</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1600,6 +2350,13 @@ W tej magicznej skrzyni znajdowało się 50 złotych monet, które automatycznie
 一时的轻率，生命便转瞬即逝！你的挚友、英雄之龙诺伯特，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+MISSION LOST!
+
+A brief moment of carelessness, so quickly it happens in life! Your friend and hero, the dragon NORBERT, perished through your inattention! Without this hero, the end of the mission will remain hidden from you.
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1611,12 +2368,30 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
-MISSION LOST!
-
-A brief moment of carelessness, so quickly it happens in life! Your friend and hero, the dragon NORBERT, perished through your inattention! Without this hero, the end of the mission will remain hidden from you.
-</text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+一時的輕率，生命便轉瞬即逝！你的摯友、英雄之龍諾伯特，因你的疏忽而殞命！少了這位英雄，任務的結局將永遠對你隱藏。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1633,16 +2408,28 @@ Chwilka lekkomyślności, tak szybko to w życiu przychodzi! Twój przyjaciel i 
 
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+From the dungeon, we were able to free not only Earth Dragons but also some Magic and Water Dragons. But for Norbert, meeting his own kind was the most important thing. How much he could learn from them!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Aus dem Kerker konnten wir nicht nur Erddrachen, sondern auch einige Zauber- und Wasserdrachen befreien. Aber für Norbert war das Kennenlernen seiner Artgenossen am wichtigsten. Wie viel konnte er von ihnen lernen! 
   
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-From the dungeon, we were able to free not only Earth Dragons but also some Magic and Water Dragons. But for Norbert, meeting his own kind was the most important thing. How much he could learn from them!
+我們從地牢中不僅救出了地龍，還救出了一些魔法龍與水龍。但對諾伯特來說，結識同族才是最重要的。他能從他們身上學到多少東西啊！
+
 </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1658,6 +2445,13 @@ Z lochu udało nam się uwolnić nie tylko Smoki Ziemne, ale też kilka Smoków 
 有人望见几名纳帕利亚人朝我们故乡方向而去。难道我们永不能与他们和平共处？他们的文化与我们如此迥异……
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+Mani, meanwhile, was sad, for now the parting from his best friend was at hand. So many adventures had they bravely endured together, and now he would go with the other Earth Dragons.
+
+Some Nabalians were seen heading in the direction of our homeland. Would we never be able to live in peace with them? Their culture was so different from ours...
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mani indess war traurig, da nun der Abschied von seinem besten Freund bevor stand. So viele Abenteuer hatten sie gemeinsam tapfer durchgestanden und nun würde er mit den anderen Erddrachen ziehen.
@@ -1665,12 +2459,18 @@ Mani indess war traurig, da nun der Abschied von seinem besten Freund bevor stan
 Einige Napalianer wurden gesehen, wie sie in die Richtung unserer Heimat zogen. Würden wir nie mit ihnen in Frieden leben können? Ihre Kultur war so verschieden der unseren...  
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-Mani, meanwhile, was sad, for now the parting from his best friend was at hand. So many adventures had they bravely endured together, and now he would go with the other Earth Dragons.
+瑪尼卻鬱鬱不樂，因為與摯友分別的時刻近了。他們共同勇敢闖過多少冒險，如今它卻要隨其他地龍離去。
 
-Some Nabalians were seen heading in the direction of our homeland. Would we never be able to live in peace with them? Their culture was so different from ours...
+有人望見幾名納帕利亞人朝我們故鄉方向而去。難道我們永不能與他們和平共處？他們的文化與我們如此迥異……
 </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1686,15 +2486,26 @@ Widziano kilku Nabalian, jak zmierzali w kierunku naszej ojczyzny. Czyżby nigdy
 任务成功！
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+MISSION WON!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 MISSION GEWONNEN! 
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-MISSION WON!
-</text>
+任務成功！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1710,6 +2521,13 @@ MISJA WYGRANA!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>生活中的片刻疏忽，人生如此迅速！ 玛尼--比雅尼与希拉之子--因你的疏忽而丧命！失去这位英雄，你将无法得知任务的结局。</text>
       </lang>
+      <lang code="eng">
+        <text>
+MISSION LOST!
+
+A brief moment of carelessness, so quickly it happens in life! MANI - son of Bjarni and Cyra - perished through your inattention! Without this hero, the end of the mission will remain hidden from you.
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1721,12 +2539,26 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-MISSION LOST!
-
-A brief moment of carelessness, so quickly it happens in life! MANI - son of Bjarni and Cyra - perished through your inattention! Without this hero, the end of the mission will remain hidden from you.
-</text>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>任務失敗！</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>生活中的片刻疏忽，人生如此迅速！ 瑪尼--比雅尼與希拉之子--因你的疏忽而喪命！失去這位英雄，你將無法得知任務的結局。</text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1742,15 +2574,26 @@ Chwilka lekkomyślności, tak szybko to w życiu przychodzi! MANI - syn Bjarnieg
 地龙的解放
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+THE LIBERATION OF THE EARTH DRAGONS
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DIE BEFREIUNG DER ERDDRACHEN
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-THE LIBERATION OF THE EARTH DRAGONS
-</text>
+地龍的解放
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

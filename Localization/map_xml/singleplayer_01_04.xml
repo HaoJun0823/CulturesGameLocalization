@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,48 +14,72 @@
       <text lang="CHN">将你的硬币储备增至 150 枚！</text>
       <text lang="eng">Triple your amount of coins to 150!</text>
       <text lang="ger">Verdreifache deine Münzvorräte auf 150 Taler!</text>
+      <text lang="l11">將你的硬幣儲備增至 150 枚！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Potrój swoje zasoby złota do 150 sztuk!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的子民</text>
       <text lang="eng">Bjarni's People</text>
       <text lang="ger">Bjarnis Volk</text>
+      <text lang="l11">比雅尼的子民</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Plemię Bjarniego</text>
     </string>
     <string id="51">
       <text lang="CHN">维京人1</text>
       <text lang="eng">Vikings1</text>
       <text lang="ger">Wikinger1</text>
+      <text lang="l11">維京人1</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wikingowie</text>
     </string>
     <string id="52">
       <text lang="CHN">维京人2</text>
       <text lang="eng">Vikings2</text>
       <text lang="ger">Wikinger2</text>
+      <text lang="l11">維京人2</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Inni Wikingowie</text>
     </string>
     <string id="53">
       <text lang="CHN">法兰克人</text>
       <text lang="eng">Franks</text>
       <text lang="ger">Franken</text>
+      <text lang="l11">法蘭克人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Frankowie</text>
     </string>
     <string id="98">
       <text lang="CHN">海塔布--施莱湾对岸最大的贸易据点之一，拥有自己的铸币厂。在此，维京人须证明他们能靠交易货物获利！</text>
       <text lang="eng">Haitabu - one of the biggest trading places with its own coin mint on the other side of the Schlei. Here the Vikings shall prove that they can trade their goods profitably!</text>
       <text lang="ger">Haitabu - eine der größten Handelsplätze mit eigener Münzprägung am anderen Ufer der Schlei. Hier sollen Ihre Wikinger beweisen, das sie Waren gewinnbringend tauschen können!</text>
+      <text lang="l11">海塔布--施萊灣對岸最大的貿易據點之一，擁有自己的鑄幣廠。在此，維京人須證明他們能靠交易貨物獲利！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Haitabu to jedno z największych targowisk po drugiej stronie Schlei, ma nawet własną mennicę. Tutaj twoi Wikingowie będą mogli udowodnić, że znają się na handlu!</text>
     </string>
     <string id="99">
       <text lang="CHN">海塔布</text>
       <text lang="eng">HAITABU</text>
       <text lang="ger">HAITABU</text>
+      <text lang="l11">海塔布</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">HAITABU</text>
     </string>
     <string id="100">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
   </strings>
@@ -80,6 +107,19 @@ Haitabu - eine der größten Handelsplätze mit eigener Münzprägung am anderen
 
 Verdreifache deine Münzvorräte von 50 auf 150 Taler!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+海塔布--施萊灣對岸最大的貿易據點之一，擁有自己的鑄幣廠。在此，維京人須證明他們能靠交易貨物獲利！
+
+將你的硬幣儲備從 50 枚增至 150 枚！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -121,6 +161,28 @@ MISSION GEWONNEN!
 Unsere Wikinger hatten es geschafft, ihre Münzvorräte erfolgreich zu vermehren.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務成功！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+我們的維京人成功擴充了硬幣儲備。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -147,6 +209,17 @@ Your hero Bjarni died due to your inattentiveness! Now your Viking village will 
         <text>
 Dein Held Bjarni ist durch deine Unachtsamkeit gestorben! Jetzt muss dein Wikingerdorf ohne seinen Helden auskommen.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+你的英雄比雅尼因你的疏忽而殞命！如今維京村莊將失去英雄，勉力支撐。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -185,6 +258,28 @@ MISSION VERLOREN!
 Leider haben es deine Wikinger nicht geschafft, ihre Münzvorräte aufzustocken, und durch eine Fügung des Schicksals wurde deine gesamte Bevölkerung hingerafft.  
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+可惜你的維京人未能充實硬幣儲備，一場厄運更奪走了全體族人的性命。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -211,6 +306,17 @@ The small, friendly Viking village not far from our camp on the northern isle se
         <text>
 Dieses kleine freundliche Wikingervolk unweit unseres Lagerplatzes auf der nördlichsten Insel schien ein geeigneter Handelspartner zu sein. 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+北方島嶼上、距我們營地不遠的那座友善小維京村莊，似乎是個理想的貿易伙伴。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -240,6 +346,19 @@ Mit unseren Schiff stießen wir auf ein freundliches Wikingervolk auf einer etwa
 Sie unterbreiteten uns sofort ihre Handelsangebote. 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+在船上，我們於遠離營地的偏遠島嶼遇見一支部族友善的維京人。
+
+他們立刻表示願意與我們交易。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 Nasz statek napotkał przyjazne plemię Wikingów na niewielkiej wyspie, dalej od naszego obozu.
@@ -263,6 +382,17 @@ The trading offer of the Frankish people would have to be very advantageous to j
         <text>
 Das Handelsangebot dieses Frankenvolkes musste schon überzeugend sein, dass wir diese lange Handelsroute noch einmal auf uns nehmen würden.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+法蘭克人的交易條件須極具吸引力，才值得我們再走這一趟漫長的商路。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -293,6 +423,21 @@ HAITABU
 HAITABU
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+海塔布
+
+
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

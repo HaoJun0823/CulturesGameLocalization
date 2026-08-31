@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,96 +14,144 @@
       <text lang="CHN">@寻找年幼的希罗斯特拉特斯，将其关入地牢！</text>
       <text lang="eng">@FIND HEROSTRATES THE YOUNGER AND PUT HIM IN THE DUNGEON!</text>
       <text lang="ger">@SUCHE HEROSTRATIS DEN JÜNGEREN UND SPERRE IHN INS VERLIES!</text>
+      <text lang="l11">@尋找年幼的希羅斯特拉特斯，將其關入地牢！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">@ZNAJDŹ HEROSTRATESA MŁODSZEGO I OSADŹ GO W LOCHU!</text>
     </string>
     <string id="1">
       <text lang="CHN">寻找地牢！</text>
       <text lang="eng">Find the dungeon!</text>
       <text lang="ger">Suche das Verlies!</text>
+      <text lang="l11">尋找地牢！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Znajdź loch!</text>
     </string>
     <string id="2">
       <text lang="CHN">设法绕过希罗斯特拉特斯的随从！</text>
       <text lang="eng">Try to get past Herostrates the Younger!</text>
       <text lang="ger">Versuche an Herostrates Jüngern vorbei zu gelangen!</text>
+      <text lang="l11">設法繞過希羅斯特拉特斯的隨從！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Spróbuj przedostać się do Herostratesa Młodszego!</text>
     </string>
     <string id="3">
       <text lang="CHN">与英雄一同返回入口！</text>
       <text lang="eng">Take the heroes back to the entrance!</text>
       <text lang="ger">Gehe mit den Helden zurück zum Eingang!</text>
+      <text lang="l11">與英雄一同返回入口！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zabierz bohaterów z powrotem do wyjścia!</text>
     </string>
     <string id="55">
       <text lang="CHN">希罗斯特拉特斯的继承者</text>
       <text lang="eng">Herostrates' Heirs</text>
       <text lang="ger">Herostrates Erben</text>
+      <text lang="l11">希羅斯特拉特斯的繼承者</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Spadkobiercy Herostratesa </text>
     </string>
     <string id="56">
       <text lang="CHN">希罗斯特拉特斯</text>
       <text lang="eng">Herostrates</text>
       <text lang="ger">Herostrates</text>
+      <text lang="l11">希羅斯特拉特斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Herostrates</text>
     </string>
     <string id="65">
       <text lang="CHN">继承者</text>
       <text lang="eng">Heirs</text>
       <text lang="ger">Erben</text>
+      <text lang="l11">繼承者</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Spadkobiercy</text>
     </string>
     <string id="66">
       <text lang="CHN">希罗斯特拉特斯</text>
       <text lang="eng">Herostrates</text>
       <text lang="ger">Herostrates</text>
+      <text lang="l11">希羅斯特拉特斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Herostrates</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="l11">希拉</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
       <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
+      <text lang="l11">哈奇</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hatchie</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="l11">西格德</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">诺伯特</text>
       <text lang="eng">Norbert</text>
       <text lang="ger">Norbert</text>
+      <text lang="l11">諾伯特</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Norbert</text>
     </string>
     <string id="76">
       <text lang="CHN">玛尼</text>
       <text lang="eng">Mani</text>
       <text lang="ger">Mani</text>
+      <text lang="l11">瑪尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mani</text>
     </string>
     <string id="77">
       <text lang="CHN">希罗斯特拉特斯</text>
       <text lang="eng">Herostrates</text>
       <text lang="ger">Herostrates</text>
+      <text lang="l11">希羅斯特拉特斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Herostrates</text>
     </string>
     <string id="99">
       <text lang="CHN">希罗斯特拉特斯继承者</text>
       <text lang="eng">HEROSTRATES' HEIRS</text>
       <text lang="ger">HEROSTRATES ERBEN </text>
+      <text lang="l11">希羅斯特拉特斯繼承者</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">SPADKOBIERCY HEROSTRATESA</text>
     </string>
   </strings>
@@ -124,6 +175,20 @@ In order to avert the danger from the Temple, we followed the arsonist army thro
 Um die Bedrohung vom Tempel abzuwenden, folgten wir der Scharr Brandstifter durch einen Berggang in eine scheinbar andere Welt. Dieser Ort konnte nur durch diesen einen Eingang betreten werden. Nie hätten wir einen solchen Ort in den Bergen vermutet!
 
 </text>
+        <usericon>1,40,298</usericon>
+      </lang>
+      <lang code="l11">
+        <text>
+為消弭神廟之危，我們循那夥縱火賊穿過山道，竟入一似是另一世界之境。此地方可自那唯一入口進入。若非親眼所見，我們絕不會相信--這火山內部竟別有洞天！
+        </text>
+        <usericon>1,40,298</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,40,298</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
         <usericon>1,40,298</usericon>
       </lang>
       <lang code="pol">
@@ -166,6 +231,25 @@ Schließlich würden die Angriffe erst enden, nachdem man Herostrates den Jünge
 Finde Herostrates den Jüngeren und sperre ihn in ein Verlies! Achte auf geheime Gänge!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+欲治住"希羅斯特拉特斯之裔"，須避開其門徒與吐火之龍！
+
+唯尋得幼者希羅斯特拉特斯，將其囚於地牢，使他再不能煽惑眾人，攻擊方止。
+
+尋得幼者希羅斯特拉特斯，將其囚入地牢！當心秘道！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Aby zakończyć grę "spadkobierców Herostratesa ", musieliśmy pokonać jego uczniów i ziejącego ogniem smoka! 
@@ -202,6 +286,23 @@ DIE ERBEN HEROSTRATES
 "Hey, ihr da! Wer hat euch den Zutritt in unser Gebiet gestattet?"
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+希羅斯特拉特斯之裔
+
+"嘿，你們！誰準你們踏入我等領地？"
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 SPADKOBIERCY HEROSTRATESA
@@ -235,6 +336,23 @@ DAS GEHEIMVERSTECK DER ERBEN
 
 "Ihr wollt unseren Anführer Herostrates in ein Verlies sperren? Das werden wir nie zulassen!"
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+希羅斯特拉特斯之裔秘窟
+
+"你們想把我們的首領希羅斯特拉特斯關進地牢？我們絕不容許！"
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -291,6 +409,37 @@ VERLIESWÄCHTER
 
 Dieser Platz ist heilig und wird von den Erben Herostrates nicht aufgesucht. Sperrt Herostrates hier hinein. Dann werde ich mich um ihn kümmern."
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+地牢看守
+
+"幸會！我候你們多時了。希羅斯特拉特斯之裔縱火行惡，於人無益。
+
+
+        
+        </text>
+        <usericon>1,43,175</usericon>
+        <text>
+
+
+
+此地神聖，希羅斯特拉特斯之裔從不至此。將他囚於此間，我自會看管。"
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,43,175</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,43,175</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -354,6 +503,37 @@ HEROSTRATES
 Bringe Herostrates in ein Verlies!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+希羅斯特拉特斯
+
+"你們要把我關進地牢？休想我會乖乖跟你們走！"
+
+
+        
+        </text>
+        <usericon>2,7</usericon>
+        <text>
+
+
+
+將希羅斯特拉特斯押入地牢！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,7</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,7</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 HEROSTRATES
@@ -416,6 +596,37 @@ Wir hatten es geschafft! Herostrates war in dem Verlies gefangen und wurde von n
 Gehe mit deinen Helden zurück zum Eingang! 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+希羅斯特拉特斯身陷地牢！
+
+我們成功了！希羅斯特拉特斯困於地牢，自此由地牢看守看管。其門徒再不能將他救出。
+
+
+        
+        </text>
+        <usericon>2,7</usericon>
+        <text>
+
+
+
+率眾英雄返回入口！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,7</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,7</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 HEROSTRATES W LOCHU!
@@ -470,6 +681,37 @@ MISSION VERLOREN!
 Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+英雄氣概，還是魯莽？當比雅尼殞命，眾神落淚……失此英雄，你便無緣得見任務終局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -521,6 +763,37 @@ MISSION VERLOREN!
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時疏忽，人生便急轉直下！你的女英雄希拉因你大意而殞命！失此英雄，你便無緣得見任務終局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -574,6 +847,37 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held HATSCHI erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時疏忽，人生便急轉直下！你的摯友與英雄哈奇因你大意而殞命！失此英雄，你便無緣得見任務終局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -625,6 +929,37 @@ MISSION VERLOREN!
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held SIGURD erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時疏忽，人生便急轉直下！你的摯友與英雄西格德因你大意而殞命！失此英雄，你便無緣得見任務終局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -678,6 +1013,37 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時疏忽，人生便急轉直下！你的摯友與英雄--巨龍諾伯特--因你大意而殞命！失此英雄，你便無緣得見任務終局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -716,6 +1082,25 @@ Wir waren zum Eingang der Bergwelt zurückgekehrt, nachdem wir Herostrates dem V
 </text>
         <usericon>1,24,287</usericon>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+我們將希羅斯特拉特斯交予地牢看守後，便返回山界入口。在那裡他備受看管，再不能煽人縱火。
+
+
+        
+        </text>
+        <usericon>1,24,287</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,24,287</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,24,287</usericon>
+      </lang>
       <lang code="pol">
         <text> 
 Powróciliśmy do wejścia do górskiego świata po tym, jak przekazaliśmy Herostratesa strażnikowi lochu. Tam będzie pilnowany, i nie będzie już więcej podburzał ludzi do podkładania ognia.
@@ -728,6 +1113,9 @@ Powróciliśmy do wejścia do górskiego świata po tym, jak przekazaliśmy Hero
       <lang code="CHN" />
       <lang code="eng" />
       <lang code="ger" />
+      <lang code="l11" />
+      <lang code="l12" />
+      <lang code="l13" />
       <lang code="pol" />
     </block>
     <block id="50_endheader">
@@ -749,6 +1137,21 @@ MISSION COMPLETED!
         <text> 
 MISSION GEWONNEN! 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+任務成功！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -796,6 +1199,37 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時疏忽，人生便急轉直下！瑪尼--比雅尼與希拉之子--因你大意而殞命！失此英雄，你便無緣得見任務終局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -827,6 +1261,21 @@ HEROSTRATES' HEIRS
         <text> 
 DIE ERBEN HEROSTRATES
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+希羅斯特拉特斯之裔
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 

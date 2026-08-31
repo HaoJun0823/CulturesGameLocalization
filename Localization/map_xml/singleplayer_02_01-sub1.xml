@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,30 +14,45 @@
       <text lang="CHN">找到山地农人部族的首领！</text>
       <text lang="eng">Find the chieftain of the miners' tribe!</text>
       <text lang="ger">Finde den Häuptling des Bergbauerstammes!</text>
+      <text lang="l11">找到山地農人部族的首領！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Odszukaj naczelnika górników!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的部族</text>
       <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarnis Stamm</text>
+      <text lang="l11">比雅尼的部族</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Plemię Bjarniego</text>
     </string>
     <string id="51">
       <text lang="CHN">山地农人</text>
       <text lang="eng">Miners' Tribe</text>
       <text lang="ger">Bergbauervolk</text>
+      <text lang="l11">山地農人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Górnicy</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="99">
       <text lang="CHN">山地部族</text>
       <text lang="eng">THE MOUNTAIN TRIBE</text>
       <text lang="ger">DAS BERGVOLK</text>
+      <text lang="l11">山地部族</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">MIESZKAŃCY GÓR</text>
     </string>
   </strings>
@@ -57,6 +75,18 @@ First of all, I had to find the leader of the miners.
 Als ich die Höhle betrat, war ich erstaunt über die Leute hier. Überall hörte ich den Schall von Hammerschlägen, die das Erz aus dem Berg schlugen! Überall emsiges Treiben und Geschäftigkeit!
 Erst einmal musste ich den Anführer der Bergbauern aufsuchen.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+當我步入洞穴，此處之人令我驚歎。四處聽聞錘擊之聲，從山中鑿出礦石！一片繁忙勞作之景！
+我得先去拜訪山地農人的首領。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -83,6 +113,17 @@ This is the gate which separates the inner production places from the outer ones
 
 Dies ist das Tor, das die inneren Produktionsstätten von den äußeren Abbaustellen trennt. Es schützt uns vor äußeren Einflüssen, so dass jeder mit voller Konzentration arbeiten kann.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+這是一道門，將內部的生產工坊與外部採礦場隔開。它使我們免受外擾，人人得以專心勞作。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -114,6 +155,19 @@ FISCHER
 
 Ich bin der Fischer meines Volkes, und ich habe große Sorgen! Dieser Fischschwarm ist der letzte in unserem Bergsee! Wenn er leergefischt ist, dann geht unsere Nahrungsversorgung zugrunde... Was sollen wir nur machen?
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+漁夫
+
+"我是部族的漁夫，憂心忡忡！這群魚是我們山湖中最後的魚了！一旦捕盡，我們的食物供給便要崩潰……我們該怎麼辦？"
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -147,6 +201,19 @@ HÄUPTLING
 
 Ich bin der Anführer meiner Leute! Wir haben Hunger und es fehlen diverse Gebrauchsgegenstände. Wer bist du? Bringst du uns Glück oder Unglück? Wenn du uns helfen willst, werden wir dich mit den Produkten dieses Berges entlohnen, in einem freien Handel! Gib uns aber vorerst genügend Nahrung, Geschirr und Möbel!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+首領
+
+"我是族人的首領！我們忍飢挨餓，還缺各種日用之物。你是誰？給我們帶來福還是禍？若你願相助，我們便以這山中所產，在自由交易中美謝你！但先給我們足夠的糧食、器皿與傢俱！"
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -183,6 +250,19 @@ Arbeit, Arbeit, Arbeit... Unser Anführer weiß, dass wir Hunger leiden, und tro
 Was willst du noch von mir, ich habe meine Arbeit zu erledigen!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+勞作，勞作，勞作……首領明知我們捱餓，卻仍鐵腕逼我們不休作工！我餓！我們都餓！去問漁夫，我們的境況如何……
+
+你還想從我這兒要什麼，我還有活要幹！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -212,6 +292,17 @@ My stomach is aching! Have you got any food? No? Then go, I must work ... go, ou
 Mein Magen knurrt so! Hast du was zu essen dabei? Nein? Dann geh, ich muss weiterarbeiten... Geh weiter, unser Anführer erwartet dich schon!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+我肚子咕咕叫！你帶了吃的嗎？沒有？那走吧，我得繼續幹活……快走，首領正等著你呢！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -238,6 +329,17 @@ THE MOUNTAIN TRIBE
 DAS BERGVOLK
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+山地部族
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

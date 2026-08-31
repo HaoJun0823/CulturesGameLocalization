@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,66 +14,99 @@
       <text lang="CHN">经济：梦幻岛</text>
       <text lang="eng">Economy: ISLE OF DREAMS</text>
       <text lang="ger">Wirtschaft: INSEL DER TRÄUME</text>
+      <text lang="l11">經濟：夢幻島</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ekonomia: WYSPA SNÓW</text>
     </string>
     <string id="1">
       <text lang="CHN">4 个维京部族在一座世外桃源般的南太平洋小岛上，为珍贵的宝藏与资源而战。</text>
       <text lang="eng">4 Viking tribes fight for valuable treasure and resources on this idyllic Pacific isle.</text>
       <text lang="ger">4 Wikingerstämme kämpfen auf einer idyllischen Südseeinsel um wertvolle Schätze und Ressourcen.</text>
+      <text lang="l11">4 個維京部族在一座世外桃源般的南太平洋小島上，為珍貴的寶藏與資源而戰。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">4 wikińskie plemiona walczą o cenne surowce i przeżycie na tej idyllicznej wysepce.</text>
     </string>
     <string id="2">
       <text lang="CHN">定居此岛。你还能在此寻得奇妙宝藏！欲取胜，需积攒 50 单位资源：木材、石料、黏土、铁与金！</text>
       <text lang="eng">Settle on the isle. You will find great treasures here! To win you will need 50 units each of wood, stone, clay, iron and gold!</text>
       <text lang="ger">Besiedle die Insel. Du kannst hier auch tolle Schätze finden! Zum Sieg benötigst Du 50 Ressourcen der Arten Holz, Stein, Lehm, Eisen und Gold!</text>
+      <text lang="l11">定居此島。你還能在此尋得奇妙寶藏！欲取勝，需積攢 50 單位資源：木材、石料、黏土、鐵與金！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zasiedl wyspę - znajdziesz na niej wspaniałe skarby! Będziesz potrzebował 50 jednostek drewna, kamienia, gliny, żelaza i złota.</text>
     </string>
     <string id="10">
       <text lang="CHN">格陵兰人</text>
       <text lang="eng">Greenlander</text>
       <text lang="ger">Grönländer</text>
+      <text lang="l11">格陵蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Grenlandczyk</text>
     </string>
     <string id="11">
       <text lang="CHN">格陵兰人</text>
       <text lang="eng">Greenlander</text>
       <text lang="ger">Grönländer</text>
+      <text lang="l11">格陵蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Grenlandczyk</text>
     </string>
     <string id="20">
       <text lang="CHN">文兰人</text>
       <text lang="eng">Vinlander</text>
       <text lang="ger">Vinländer</text>
+      <text lang="l11">文蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Winlandczyk</text>
     </string>
     <string id="21">
       <text lang="CHN">文兰人</text>
       <text lang="eng">Vinlander</text>
       <text lang="ger">Vinländer</text>
+      <text lang="l11">文蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Winlandczyk</text>
     </string>
     <string id="30">
       <text lang="CHN">海卢兰人</text>
       <text lang="eng">Hellulander</text>
       <text lang="ger">Helluländer</text>
+      <text lang="l11">海盧蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hellulandczyk</text>
     </string>
     <string id="31">
       <text lang="CHN">海卢兰人</text>
       <text lang="eng">Hellulander</text>
       <text lang="ger">Helluländer</text>
+      <text lang="l11">海盧蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hellulandczyk</text>
     </string>
     <string id="40">
       <text lang="CHN">马克兰人</text>
       <text lang="eng">Marklander</text>
       <text lang="ger">Markländer</text>
+      <text lang="l11">馬克蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Marklandczyk</text>
     </string>
     <string id="41">
       <text lang="CHN">马克兰人</text>
       <text lang="eng">Marklander</text>
       <text lang="ger">Markländer</text>
+      <text lang="l11">馬克蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Marklandczyk</text>
     </string>
   </strings>
@@ -96,6 +132,19 @@ Ein kleines, idyllisches Eiland mitten in der Südsee. Vier Wikingerstämme sind
 
 Besiedle die Insel und suche nach Schätzen und Rohstoffen. Wer zuerst genügend Ressourcen hat, der wird am Ende die Herrschaft über das Eiland erringen...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+南太平洋中央，一座小巧而恬靜的島嶼。四個部族在此相遇，將要為無盡的寶藏而一決高下……
+
+定居此島，尋覓寶藏與資源。只怕時日無多，須抓緊了！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -124,6 +173,17 @@ ISLE OF DREAMS
 INSEL DER TRÄUME
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+夢幻島
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

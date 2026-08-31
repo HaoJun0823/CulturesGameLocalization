@@ -1,40 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="01_Ein_neuer_Anfang" export_map_id="01_Ein_neuer_Anfang" map_md5="d27030d5a022170314e64f37bf076f2e" IsC2M="true">
+<localization version="1.3" map_id="01_Ein_neuer_Anfang" export_map_id="01_Ein_neuer_Anfang" map_md5="d27030d5a022170314e64f37bf076f2e" IsC2M="true" deprecated="false">
   <languages>
-    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">新的开端</text>
-      <text lang="ger">Ein neuer Anfang</text>
       <text lang="eng">A New Beginning</text>
+      <text lang="ger">Ein neuer Anfang</text>
+      <text lang="l11">新的開端</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Nowy Początek</text>
     </string>
     <string id="1">
       <text lang="CHN">一场新的冒险正等待着我们。</text>
-      <text lang="ger">Ein neues Abenteuer erwartet uns.</text>
       <text lang="eng">A new adventure awaits us.</text>
+      <text lang="ger">Ein neues Abenteuer erwartet uns.</text>
+      <text lang="l11">一場新的冒險正等待著我們。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Nowa przygoda czeka na nas.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
-      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得友好。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
-      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得中立。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
-      <text lang="ger">Spieler0</text>
       <text lang="eng">Player0</text>
+      <text lang="ger">Spieler0</text>
+      <text lang="l11">玩家0</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz0</text>
     </string>
   </strings>
@@ -43,16 +61,25 @@
       <lang code="CHN">
         <text>你未能完成该任务！</text>
       </lang>
+      <lang code="eng">
+        <text>
+You have lost the mission!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Du hast die Mission verloren!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-You have lost the mission!
-</text>
+      <lang code="l11">
+        <text>你未能完成該任務！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -64,16 +91,25 @@ Przegrałeś misję!
       <lang code="CHN">
         <text>任务失败！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission verloren!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission lost!
-</text>
+      <lang code="l11">
+        <text>任務失敗！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -99,6 +135,25 @@ Misja przegrana!
 
 制作者：尤基</text>
       </lang>
+      <lang code="eng">
+        <text>
+Our life in the village was quiet and peaceful, when suddenly King Bjarni said:
+My men have grown lazy and fat. It is time to set sail again for new adventures. Come on, prepare a ship and set the sails. In the end, he found only one loyal follower willing to sail with him. So the two of them set out to sea.......
+
+Eventually we found a small island. Perhaps there were women willing to marry here?.....
+
+King Bjarni ordered me:
+1. Build a new village
+2. Store 20 long swords, 20 plate armor, 20 chain mail, and 20 short swords in your warehouses.
+Additionally, 20 large healing potions must be in the warehouse.
+What did Bjarni want with so many weapons?
+Did he know more than he was willing to admit?
+Well, first we had to find willing girls to marry, then we would try to fulfill Bjarni's wish.
+
+
+Created by: Yogi
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Unser Leben im Dorf verlief ruhig und friedlich, als plötzlich König Bjarni meinte:
@@ -119,24 +174,28 @@ Erstellt von: Yogi
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Our life in the village was quiet and peaceful, when suddenly King Bjarni said:
-My men have grown lazy and fat. It is time to set sail again for new adventures. Come on, prepare a ship and set the sails. In the end, he found only one loyal follower willing to sail with him. So the two of them set out to sea.......
+      <lang code="l11">
+        <text>我們在村中的生活本來平靜而安寧，直到有一天比雅尼王突然說道：
+我的部下們變得又懶又肥。是時候再次揚帆出海，去經歷新的冒險了。快去，備好一艘船，升起風帆。可最後他只找到一名忠實的追隨者願意與比雅尼同行。於是他倆只得兩人出海……
 
-Eventually we found a small island. Perhaps there were women willing to marry here?.....
+我們最終發現了一座小島。也許這裡會有願意成婚的姑娘吧？……
 
-King Bjarni ordered me:
-1. Build a new village
-2. Store 20 long swords, 20 plate armor, 20 chain mail, and 20 short swords in your warehouses.
-Additionally, 20 large healing potions must be in the warehouse.
-What did Bjarni want with so many weapons?
-Did he know more than he was willing to admit?
-Well, first we had to find willing girls to marry, then we would try to fulfill Bjarni's wish.
+比雅尼王命令我：
+1. 建立一座新的村莊
+2. 在你的倉庫中儲備20把長劍、20副板甲、20件鎖甲和20把短劍。
+此外倉庫中還須有20瓶大型治療藥水。
+比雅尼要這麼多武器做什麼？
+他是不是知道一些不願明說的事？
+好吧，眼下我們得先找到願意成婚的姑娘，然後再設法滿足比雅尼的心願。
 
 
-Created by: Yogi
-</text>
+製作者：尤基</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -162,16 +221,25 @@ Zadanie przygotował: Yogi
       <lang code="CHN">
         <text>新的开端</text>
       </lang>
+      <lang code="eng">
+        <text>
+A New Beginning
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Ein neuer Anfang
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-A New Beginning
-</text>
+      <lang code="l11">
+        <text>新的開端</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -187,6 +255,15 @@ Nowy początek
 不过我们中有些人愿意留在这里，因为他们已经爱上了此地的宁静。
 西班牙又会有什么在等着我们呢？</text>
       </lang>
+      <lang code="eng">
+        <text>
+Hardly had we produced the required goods when Bjarni urged us to move on. We loaded our ship with the many weapons, and Bjarni ordered us to sail toward Spain.
+What did Bjarni want in Spain?
+We preferred not to ask too many questions — after all, we did not want to sour Bjarni's mood.
+Some of us wanted to stay here, though, for they had learned to love the tranquility.
+What might await us in Spain?
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Kaum hatten wir die erforderlichen Waren hergestellt, drängte uns Bjarni zum weiterreisen. Wir beluden unser Schiff mit den vielen Waffen, und Bjarni befahl uns in Richtung Spanien zu segeln.
@@ -197,14 +274,18 @@ Was uns wohl in Spanien erwartete ?
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Hardly had we produced the required goods when Bjarni urged us to move on. We loaded our ship with the many weapons, and Bjarni ordered us to sail toward Spain.
-What did Bjarni want in Spain?
-We preferred not to ask too many questions — after all, we did not want to sour Bjarni's mood.
-Some of us wanted to stay here, though, for they had learned to love the tranquility.
-What might await us in Spain?
-</text>
+      <lang code="l11">
+        <text>我們剛備齊所需的物資，比雅尼便催促我們繼續啟程。我們把大量武器裝上船，比雅尼命令我們朝西班牙的方向航行。
+比雅尼在西班牙究竟想做什麼？
+我們寧可不多問，畢竟不想掃了比雅尼的興致。
+不過我們中有些人願意留在這裡，因為他們已經愛上了此地的寧靜。
+西班牙又會有什麼在等著我們呢？</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -220,16 +301,25 @@ Co nas pewnie czekało w Hiszpanii?
       <lang code="CHN">
         <text>任务达成！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission gewonnen!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission won!
-</text>
+      <lang code="l11">
+        <text>任務達成！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

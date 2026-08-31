@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,54 +14,81 @@
       <text lang="CHN">确保有一座村庄在撒拉逊人袭扰下仍达到 50 名维京人与 10 名士兵的人口，否则就击溃撒拉逊人！</text>
       <text lang="eng">Make sure that one village reaches a population of 50 Vikings and 10 soldiers in spite of the Saracen attacks. Or defeat the Saracens!</text>
       <text lang="ger">Sorge dafür, dass ein Dorf, trotz der Sarazenenüberfälle eine Bevölkerungszahl von 50 Wikingern und 10 Soldaten erreicht oder besiege die Sarazenen!</text>
+      <text lang="l11">確保有一座村莊在撒拉遜人襲擾下仍達到 50 名維京人與 10 名士兵的人口，否則就擊潰撒拉遜人！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zadbaj o to, aby twoja osada osiągnęła liczebność 50 Wikingów i 10 wojów mimo saraceńskich ataków, lub pokonaj Saracenów!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的村庄</text>
       <text lang="eng">Bjarni's Village</text>
       <text lang="ger">Bjarnis Dorf</text>
+      <text lang="l11">比雅尼的村莊</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wioska Bjarniego</text>
     </string>
     <string id="51">
       <text lang="CHN">撒拉逊人 西北</text>
       <text lang="eng">Saracens N/W</text>
       <text lang="ger">Sarazenen N/W</text>
+      <text lang="l11">撒拉遜人 西北</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Saraceni NW</text>
     </string>
     <string id="52">
       <text lang="CHN">撒拉逊人 东北</text>
       <text lang="eng">Saracens N/E</text>
       <text lang="ger">Sarazenen N/O</text>
+      <text lang="l11">撒拉遜人 東北</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Saraceni NE</text>
     </string>
     <string id="53">
       <text lang="CHN">撒拉逊人 东南</text>
       <text lang="eng">Saracens S/E</text>
       <text lang="ger">Sarazenen S/O</text>
+      <text lang="l11">撒拉遜人 東南</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Saraceni SE</text>
     </string>
     <string id="54">
       <text lang="CHN">拜占庭人</text>
       <text lang="eng">Byzantines</text>
       <text lang="ger">Byzantiner</text>
+      <text lang="l11">拜占庭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bizantyjczycy</text>
     </string>
     <string id="98">
       <text lang="CHN">维京人因在拜占庭瓦良格卫队服役，获赐安条克王国的一块封地。若成功定居，此地便归他们所有……但显然没那么容易……</text>
       <text lang="eng">For their service in the Byzantine Waräger Guard, the Vikings receive a fief in Antiochia. If they successfully settle there, it will become their property ... but that won't be so very easy ...</text>
       <text lang="ger">Die Wikinger bekommen für die Dienste der byzantinischen Warägergarde ein Lehen im Königreich Antochia. Bei erfolgreicher Besiedelung geht es in ihr Eigentum über, allerdings scheint dies gar nicht so einfach zu sein...</text>
+      <text lang="l11">維京人因在拜占庭瓦良格衛隊服役，獲賜安條克王國的一塊封地。若成功定居，此地便歸他們所有……但顯然沒那麼容易……</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Za swoją służbę w Straży Waregów Wikingowie otrzymali lenno w Antiochii. Jeśli uda im się tam osiedlić, przejdzie ono na ich własność, nie będzie to jednak takie proste...</text>
     </string>
     <string id="99">
       <text lang="CHN">安条克</text>
       <text lang="eng">ANTIOCHIA</text>
       <text lang="ger">ANTIOCHIA</text>
+      <text lang="l11">安條克</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">ANTIOCHIA</text>
     </string>
     <string id="100">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
   </strings>
@@ -86,6 +116,19 @@ Die Wikinger bekommen für die Dienste der byzantinischen Warägergarde ein Lehe
 
 Sorge dafür, dass ein Dorf trotz der Sarazenenüberfälle eine Bevölkerungszahl von 50 Wikingern und 10 Soldaten erreicht. Oder besiege die Sarazenen...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+維京人因在拜占庭瓦良格衛隊服役，獲賜安條克王國的一塊封地。若成功定居，此地便歸他們所有……但顯然沒那麼容易……
+
+確保有一座村莊在撒拉遜人襲擾下仍達到 50 名維京人與 10 名士兵的人口，否則就擊潰撒拉遜人！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -127,6 +170,28 @@ MISSION GEWONNEN!
 Bravo! Du hast es mit deinen tapferen Wikingern geschafft, dich erfolgreich gegen die Sarazenenangriffe zur Wehr zu setzen. 
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務成功！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+好極了！你與你勇敢的維京人成功抵禦了撒拉遜人的進攻。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -157,6 +222,19 @@ Your hero Bjarni died due to your inattentiveness! Now your Viking village will 
 
 Dein Held Bjarni ist durch deine Unachtsamkeit gestorben! Jetzt muss dein Wikingerdorf ohne seinen Helden auskommen...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+你的英雄比雅尼因你的疏忽而殞命！如今維京村莊將失去英雄，勉力支撐……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -196,6 +274,28 @@ MISSION VERLOREN!
 Du hast es mit deinen tapferen Wikingern nicht geschafft, dich gegen die Sarazenenangriffe zur Wehr zu setzen. Viele deiner Männer mussten ihr Leben geben und das geliehene Land vom Königreich Antiochia wird wohl auf ewig unbesiedelt bleiben...
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+你未能抵禦撒拉遜人的進攻。許多部下捐軀，安條克的土地恐將永遠荒蕪……
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -227,6 +327,19 @@ The uncouth Saracens declared war on us as soon as they set eyes on us.
 Diese ungehobelten Sarazenen erklärten uns sofort den Krieg, als wir ihnen begegneten. 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+這些粗野的撒拉遜人一見我們便宣戰。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -254,6 +367,19 @@ The Saracens in the north-eastern encampment weren't very inclined towards us ei
 Das Lager der Sarazenen im Nordosten war uns wohl auch nicht besonders wohlgesonnen. Ihre Art uns gegenüberzutreten war eine klare Kriegsansage! 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+東北營地的撒拉遜人對我們也毫無善意。他們的做派分明是戰書！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -280,6 +406,19 @@ The Saracens in the south-west were frankly hostile. They showered us with arrow
 
 Mit offener Feindschaft traten uns die Sarazenen aus dem Südwesten entgegen. Ohne Vorwarnung prasselten ihre Pfeile auf uns nieder!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+西南的撒拉遜人公然敵視。毫無預警，箭雨便傾瀉而下！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -314,6 +453,21 @@ Die Byzantiner dieser kleiner Handelsstadt waren uns friedlich gesinnt. Sie unte
 Auch boten sie uns Söldner zu einen geringen Tribut an, die uns vor Angriffen der Sarazenen dieser Gegenden schützen konnten.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+這座小貿易城的拜占庭人對我們態度平和。他們給出的提議，正可用於村莊的擴建與防禦。
+
+他們甚至願以微薄貢金提供傭兵，助我們抵禦此地的撒拉遜人進攻。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -342,6 +496,19 @@ After we had paid the tribute, the Byzantines provided us with 10 strong longswo
 
 Nachdem wir den Tribut aufgebracht hatten, stellten die Byzantiner uns 10 starke Langschwertkämpfer zur Seite, die wir gut bei der Verteidigung unseres Dorfes gebrauchen konnten.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+繳納貢金後，拜占庭人派來 10 名強壯的長劍戰士，對村莊防禦大有助益。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -373,6 +540,21 @@ ANTIOCHIA
 ANTIOCHIA
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+安條克
+
+
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

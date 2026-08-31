@@ -1,280 +1,418 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="_campaign_04_03" export_map_id="_campaign_04_03" map_md5="1d304b045a4d06d0f4691cabcf0fa034" IsC2M="false">
+<localization version="1.3" map_id="_campaign_04_03" export_map_id="_campaign_04_03" map_md5="1d304b045a4d06d0f4691cabcf0fa034" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">@搜寻玛尼与诺伯特。</text>
-      <text lang="ger">@SUCHE NACH MANI UND NORBERT.</text>
       <text lang="eng">@SEARCH FOR MANI AND NORBERT.</text>
+      <text lang="ger">@SUCHE NACH MANI UND NORBERT.</text>
+      <text lang="l11">@搜尋瑪尼與諾伯特。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">@WYRUSZ NA POSZUKIWANIE MANIEGO I NORBERTA.</text>
     </string>
     <string id="1">
       <text lang="CHN">@建起你的村庄！</text>
-      <text lang="ger">@ERRICHTE DEIN DORF!</text>
       <text lang="eng">@ESTABLISH YOUR VILLAGE!</text>
+      <text lang="ger">@ERRICHTE DEIN DORF!</text>
+      <text lang="l11">@建起你的村莊！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">@ZAŁÓŻ SWOJĄ WIOSKĘ!</text>
     </string>
     <string id="2">
       <text lang="CHN">走访此地所有的林哨：</text>
-      <text lang="ger">Besuche alle hiesigen Waldposten:</text>
       <text lang="eng">Visit all the local forest outposts:</text>
+      <text lang="ger">Besuche alle hiesigen Waldposten:</text>
+      <text lang="l11">走訪此地所有的林哨：</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Odwiedź wszystkie tutejsze leśne posterunki:</text>
     </string>
     <string id="3">
       <text lang="CHN">寻访林庙守卫的哨所。</text>
-      <text lang="ger">Suche den Posten der Waldtempelwächter auf.</text>
       <text lang="eng">Seek out the forest temple guard outpost.</text>
+      <text lang="ger">Suche den Posten der Waldtempelwächter auf.</text>
+      <text lang="l11">尋訪林廟守衛的哨所。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Odszukaj posterunek strażników leśnej świątyni.</text>
     </string>
     <string id="4">
       <text lang="CHN">与希拉、比雅尼一同进入那幽暗窟穴。</text>
-      <text lang="ger">Gehe mit Cyra und Bjarni in die zappendustere Höhle.</text>
       <text lang="eng">Go with Cyra and Bjarni into the pitch-dark cave.</text>
+      <text lang="ger">Gehe mit Cyra und Bjarni in die zappendustere Höhle.</text>
+      <text lang="l11">與希拉、比雅尼一同進入那幽暗窟穴。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Udaj się z Cyrą i Bjarnim do mrocznej jaskini.</text>
     </string>
     <string id="5">
       <text lang="CHN">可选：烤制蛋糕奉予巨龙，使它们在任务中随同你的维京人。</text>
-      <text lang="ger">Optional: Backe Kuchen und überreiche sie den Drachen, damit sie deine Wikinger bei der Mission begleiten.</text>
       <text lang="eng">Optional: Bake cakes and present them to the dragons so they accompany your Vikings on the mission.</text>
+      <text lang="ger">Optional: Backe Kuchen und überreiche sie den Drachen, damit sie deine Wikinger bei der Mission begleiten.</text>
+      <text lang="l11">可選：烤制蛋糕奉予巨龍，使它們在任務中隨同你的維京人。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Opcjonalnie: Upiecz ciasta i ofiaruj je smokom, aby towarzyszyły twoim wikingom w misji.</text>
     </string>
     <string id="6">
       <text lang="CHN">与希拉、比雅尼带着一头火龙，再入那幽暗窟穴。</text>
-      <text lang="ger">Gehe mit Cyra und Bjarni und einen Feuerdrachen erneut in die zappendustere Höhle.</text>
       <text lang="eng">Go with Cyra and Bjarni and a fire dragon back into the pitch-dark cave.</text>
+      <text lang="ger">Gehe mit Cyra und Bjarni und einen Feuerdrachen erneut in die zappendustere Höhle.</text>
+      <text lang="l11">與希拉、比雅尼帶著一頭火龍，再入那幽暗窟穴。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Udaj się z Cyrą i Bjarnim oraz smokiem ognistym ponownie do mrocznej jaskini.</text>
     </string>
     <string id="7">
       <text lang="CHN">寻访草药师的哨所。</text>
-      <text lang="ger">Suche den Posten der Kräutersammler auf.</text>
       <text lang="eng">Seek out the herb gatherers' outpost.</text>
+      <text lang="ger">Suche den Posten der Kräutersammler auf.</text>
+      <text lang="l11">尋訪草藥師的哨所。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Odszukaj posterunek zbieraczy ziół.</text>
     </string>
     <string id="8">
       <text lang="CHN">向草药师哨所缴纳 5 把铁制工具作为贡品。</text>
-      <text lang="ger">Reiche den Posten der Kräutersammlern 5 Eisenwerkzeuge zum Tribut.</text>
       <text lang="eng">Offer the herb gatherers' outpost 5 iron tools as tribute.</text>
+      <text lang="ger">Reiche den Posten der Kräutersammlern 5 Eisenwerkzeuge zum Tribut.</text>
+      <text lang="l11">向草藥師哨所繳納 5 把鐵製工具作為貢品。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Złóż posterunkowi zbieraczy ziół 5 żelaznych narzędzi jako trybut.</text>
     </string>
     <string id="9">
       <text lang="CHN">寻访商人的哨所。</text>
-      <text lang="ger">Suche den Posten der Händler auf.</text>
       <text lang="eng">Seek out the traders' outpost.</text>
+      <text lang="ger">Suche den Posten der Händler auf.</text>
+      <text lang="l11">尋訪商人的哨所。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Odszukaj posterunek kupców.</text>
     </string>
     <string id="10">
       <text lang="CHN">与那商人交易 20 件货品。</text>
-      <text lang="ger">Handele mit dem Händler 20 Waren.</text>
       <text lang="eng">Trade 20 goods with the trader.</text>
+      <text lang="ger">Handele mit dem Händler 20 Waren.</text>
+      <text lang="l11">與那商人交易 20 件貨品。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wymień z kupcem 20 towarów.</text>
     </string>
     <string id="11">
       <text lang="CHN">在棕榈林间寻访学童的哨所。</text>
-      <text lang="ger">Suche den Posten der Schulkinder im Palmenhain auf.</text>
       <text lang="eng">Seek out the schoolchildren's outpost in the palm grove.</text>
+      <text lang="ger">Suche den Posten der Schulkinder im Palmenhain auf.</text>
+      <text lang="l11">在棕櫚林間尋訪學童的哨所。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Odszukaj posterunek dzieci szkolnych w gaju palmowym.</text>
     </string>
     <string id="12">
       <text lang="CHN">寻访水龙们的林村学堂。</text>
-      <text lang="ger">Suche die Walddorfschule der Wasserdrachen auf.</text>
       <text lang="eng">Seek out the forest school of the water dragons.</text>
+      <text lang="ger">Suche die Walddorfschule der Wasserdrachen auf.</text>
+      <text lang="l11">尋訪水龍們的林村學堂。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Odszukaj leśną szkołę smoków wodnych.</text>
     </string>
     <string id="13">
       <text lang="CHN">护送孩子们前往林村学堂，去上水龙们的课！</text>
-      <text lang="ger">Geleite die Kinder zum Unterricht der Wasserdrachen in der Walddorfschule!</text>
       <text lang="eng">Escort the children to the water dragons' lesson at the forest school!</text>
+      <text lang="ger">Geleite die Kinder zum Unterricht der Wasserdrachen in der Walddorfschule!</text>
+      <text lang="l11">護送孩子們前往林村學堂，去上水龍們的課！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Eskortuj dzieci na lekcję smoków wodnych w leśnej szkole!</text>
     </string>
     <string id="14">
       <text lang="CHN">向纳帕利亚人缴纳 25 桶蜂蜜酒作为贡品，使它们重归中立。</text>
-      <text lang="ger">Reiche den Napalianern 25 Met zum Tribut um sie wieder neutral zu stimmen.</text>
       <text lang="eng">Offer the Nabalians 25 mead as tribute to make them neutral again.</text>
+      <text lang="ger">Reiche den Napalianern 25 Met zum Tribut um sie wieder neutral zu stimmen.</text>
+      <text lang="l11">向納帕利亞人繳納 25 桶蜂蜜酒作為貢品，使它們重歸中立。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Złóż Nabalianom 25 miodów pitnych jako trybut, aby ich znów neutralizować.</text>
     </string>
     <string id="15">
       <text lang="CHN">向林庙守卫缴纳 10 份蘑菇与 10 份草药作为贡品。</text>
-      <text lang="ger">Zahle den Waldtempelwächtern 10 Pilze und 10 Kräuter zum Tribut.</text>
       <text lang="eng">Pay the forest temple guards 10 mushrooms and 10 herbs as tribute.</text>
+      <text lang="ger">Zahle den Waldtempelwächtern 10 Pilze und 10 Kräuter zum Tribut.</text>
+      <text lang="l11">向林廟守衛繳納 10 份蘑菇與 10 份草藥作為貢品。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać strażnikom leśnej świątyni 10 grzybów i 10 ziół jako trybut.</text>
     </string>
     <string id="16">
       <text lang="CHN">使传送装置恢复运作，与比雅尼、希拉同入水庙。</text>
-      <text lang="ger">Mach die Teleporter funktionstüchtig, gehe mit Bjarni und Cyra in den Wassertempel.</text>
       <text lang="eng">Make the teleporters functional, go with Bjarni and Cyra to the water temple.</text>
+      <text lang="ger">Mach die Teleporter funktionstüchtig, gehe mit Bjarni und Cyra in den Wassertempel.</text>
+      <text lang="l11">使傳送裝置恢復運作，與比雅尼、希拉同入水廟。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Napraw teleporty, udaj się z Bjarnim i Cyrą do świątyni wodnej.</text>
     </string>
     <string id="21">
       <text lang="CHN">蛋糕 %d/15</text>
-      <text lang="ger">Kuchen %d/15</text>
       <text lang="eng">Cakes %d/15</text>
+      <text lang="ger">Kuchen %d/15</text>
+      <text lang="l11">蛋糕 %d/15</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ciasta %d/15</text>
     </string>
     <string id="33">
       <text lang="CHN">为火龙的协助缴纳 20 份蛋糕作为贡品！</text>
-      <text lang="ger">Zahle für Unterstützung durch die Feuerdrachen 20 Kuchen Tribut!</text>
       <text lang="eng">Pay 20 cakes as tribute for the fire dragons' support!</text>
+      <text lang="ger">Zahle für Unterstützung durch die Feuerdrachen 20 Kuchen Tribut!</text>
+      <text lang="l11">為火龍的協助繳納 20 份蛋糕作為貢品！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać 20 ciast jako trybut za wsparcie smoków ognistych!</text>
     </string>
     <string id="34">
       <text lang="CHN">向林庙守卫缴纳 10 份蘑菇与 10 份草药作为贡品。</text>
-      <text lang="ger">Zahle den Waldtempelwächter 10 Pilze und 10 Kräuter zum Tribut.</text>
       <text lang="eng">Pay the forest temple guard 10 mushrooms and 10 herbs as tribute.</text>
+      <text lang="ger">Zahle den Waldtempelwächter 10 Pilze und 10 Kräuter zum Tribut.</text>
+      <text lang="l11">向林廟守衛繳納 10 份蘑菇與 10 份草藥作為貢品。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać strażnikowi leśnej świątyni 10 grzybów i 10 ziół jako trybut.</text>
     </string>
     <string id="35">
       <text lang="CHN">把 5 把铁制工具交给草药师们。</text>
-      <text lang="ger">Gib den Kräutersammlern 5 Eisenwerkzeuge.</text>
       <text lang="eng">Give the herb gatherers 5 iron tools.</text>
+      <text lang="ger">Gib den Kräutersammlern 5 Eisenwerkzeuge.</text>
+      <text lang="l11">把 5 把鐵製工具交給草藥師們。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Daj zbieraczom ziół 5 żelaznych narzędzi.</text>
     </string>
     <string id="36">
       <text lang="CHN">向纳帕利亚人缴纳 25 份大型治疗药水作为贡品。</text>
-      <text lang="ger">Reiche den Napalianern 25 große Heiltränke zum Tribut.</text>
       <text lang="eng">Offer the Nabalians 25 large healing potions as tribute.</text>
+      <text lang="ger">Reiche den Napalianern 25 große Heiltränke zum Tribut.</text>
+      <text lang="l11">向納帕利亞人繳納 25 份大型治療藥水作為貢品。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Złóż Nabalianom 25 dużych mikstur leczących jako trybut.</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的部族</text>
-      <text lang="ger">Bjarnis Stamm</text>
       <text lang="eng">Bjarni's Tribe</text>
+      <text lang="ger">Bjarnis Stamm</text>
+      <text lang="l11">比雅尼的部族</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Plemię Bjarniego</text>
     </string>
     <string id="51">
       <text lang="CHN">石龙</text>
-      <text lang="ger">Steindrachen</text>
       <text lang="eng">Stone Dragons</text>
+      <text lang="ger">Steindrachen</text>
+      <text lang="l11">石龍</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Smoki Kamienne</text>
     </string>
     <string id="52">
       <text lang="CHN">火龙</text>
-      <text lang="ger">Feuerdrachen</text>
       <text lang="eng">Fire Dragons</text>
+      <text lang="ger">Feuerdrachen</text>
+      <text lang="l11">火龍</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Smoki Ogniste</text>
     </string>
     <string id="53">
       <text lang="CHN">水龙</text>
-      <text lang="ger">Wasserdrachen</text>
       <text lang="eng">Water Dragons</text>
+      <text lang="ger">Wasserdrachen</text>
+      <text lang="l11">水龍</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Smoki Wodne</text>
     </string>
     <string id="54">
       <text lang="CHN">维京人</text>
-      <text lang="ger">Wikinger</text>
       <text lang="eng">Vikings</text>
+      <text lang="ger">Wikinger</text>
+      <text lang="l11">維京人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wikingowie</text>
     </string>
     <string id="55">
       <text lang="CHN">林哨</text>
-      <text lang="ger">Waldposten</text>
       <text lang="eng">Forest Outpost</text>
+      <text lang="ger">Waldposten</text>
+      <text lang="l11">林哨</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Leśny Posterunek</text>
     </string>
     <string id="56">
       <text lang="CHN">纳帕利亚人</text>
-      <text lang="ger">Napalianer</text>
       <text lang="eng">Nabalians</text>
+      <text lang="ger">Napalianer</text>
+      <text lang="l11">納帕利亞人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Nabalianie</text>
     </string>
     <string id="61">
       <text lang="CHN">格罗尔斯</text>
-      <text lang="ger">Gerols</text>
       <text lang="eng">Gerols</text>
+      <text lang="ger">Gerols</text>
+      <text lang="l11">格羅爾斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gerols</text>
     </string>
     <string id="62">
       <text lang="CHN">卢米斯</text>
-      <text lang="ger">Lumis</text>
       <text lang="eng">Lumis</text>
+      <text lang="ger">Lumis</text>
+      <text lang="l11">盧米斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Lumis</text>
     </string>
     <string id="63">
       <text lang="CHN">阿夸斯</text>
-      <text lang="ger">Aquas</text>
       <text lang="eng">Aquas</text>
+      <text lang="ger">Aquas</text>
+      <text lang="l11">阿誇斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Aquas</text>
     </string>
     <string id="64">
       <text lang="CHN">维基斯</text>
-      <text lang="ger">Wikis</text>
       <text lang="eng">Viks</text>
+      <text lang="ger">Wikis</text>
+      <text lang="l11">維基斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wikingowie</text>
     </string>
     <string id="65">
       <text lang="CHN">林哨</text>
-      <text lang="ger">Waldp.</text>
       <text lang="eng">Forest</text>
+      <text lang="ger">Waldp.</text>
+      <text lang="l11">林哨</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Leśn.P.</text>
     </string>
     <string id="66">
       <text lang="CHN">纳帕</text>
-      <text lang="ger">Napal.</text>
       <text lang="eng">Nabal.</text>
+      <text lang="ger">Napal.</text>
+      <text lang="l11">納帕</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Nabal.</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
-      <text lang="ger">Bjarni</text>
       <text lang="eng">Bjarni</text>
+      <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
-      <text lang="ger">Cyra</text>
       <text lang="eng">Cyra</text>
+      <text lang="ger">Cyra</text>
+      <text lang="l11">希拉</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Cyra</text>
     </string>
     <string id="75">
       <text lang="CHN">玛尼</text>
-      <text lang="ger">Mani</text>
       <text lang="eng">Mani</text>
+      <text lang="ger">Mani</text>
+      <text lang="l11">瑪尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mani</text>
     </string>
     <string id="76">
       <text lang="CHN">诺伯特</text>
-      <text lang="ger">Norbert</text>
       <text lang="eng">Norbert</text>
+      <text lang="ger">Norbert</text>
+      <text lang="l11">諾伯特</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Norbert</text>
     </string>
     <string id="77">
       <text lang="CHN">瓦穆戈教授</text>
-      <text lang="ger">Prof. Wamugo</text>
       <text lang="eng">Prof. Wamugo</text>
+      <text lang="ger">Prof. Wamugo</text>
+      <text lang="l11">瓦穆戈教授</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Prof. Wamugo</text>
     </string>
     <string id="78">
       <text lang="CHN">女孩</text>
-      <text lang="ger">Mädchen</text>
       <text lang="eng">Girl</text>
+      <text lang="ger">Mädchen</text>
+      <text lang="l11">女孩</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Dziewczyna</text>
     </string>
     <string id="79">
       <text lang="CHN">男孩</text>
-      <text lang="ger">Junge</text>
       <text lang="eng">Boy</text>
+      <text lang="ger">Junge</text>
+      <text lang="l11">男孩</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Chłopiec</text>
     </string>
     <string id="80">
       <text lang="CHN">渡船夫</text>
-      <text lang="ger">Fährmann</text>
       <text lang="eng">Ferryman</text>
+      <text lang="ger">Fährmann</text>
+      <text lang="l11">渡船伕</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Przewoźnik</text>
     </string>
     <string id="98">
       <text lang="CHN">我们终在幽暗林中觅得一条出路。一片广袤、足以定居、资源丰沛的地域，展现在眼前。</text>
-      <text lang="ger">Endlich hatten wir einen Weg aus dem Dunkelwald gefunden. Ein weiträumiges Gebiet zum Besiedeln, dass genug Ressourcen bot, lag vor uns.</text>
       <text lang="eng">Finally we had found a way out of the dark forest. A spacious area to settle, offering enough resources, lay before us.</text>
+      <text lang="ger">Endlich hatten wir einen Weg aus dem Dunkelwald gefunden. Ein weiträumiges Gebiet zum Besiedeln, dass genug Ressourcen bot, lag vor uns.</text>
+      <text lang="l11">我們終在幽暗林中覓得一條出路。一片廣袤、足以定居、資源豐沛的地域，展現在眼前。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wreszcie znaleźliśmy drogę z ciemnego lasu. Rozległy obszar do zasiedlenia, oferujący wystarczająco zasobów, leżał przed nami.</text>
     </string>
     <string id="99">
       <text lang="CHN">大迁居</text>
-      <text lang="ger">DIE GROSSE UMSIEDLUNG</text>
       <text lang="eng">THE GREAT RESETTLEMENT</text>
+      <text lang="ger">DIE GROSSE UMSIEDLUNG</text>
+      <text lang="l11">大遷居</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">WIELKA RELOKACJA</text>
     </string>
   </strings>
@@ -285,15 +423,26 @@
 我们终于抵达了那片打算定居的沃土。然而玛尼与诺伯特的失踪，仍让我们忧心忡忡。
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+At last we had reached the fertile land we intended to settle. But the disappearance of Mani and Norbert still caused us great worry.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Endlich hatten wir das fruchtbare Land, das wir zu besiedeln beabsichtigten, erreicht. Doch das Verschwinden von Mani und Norbert bereitete uns immer noch große Sorgen. 
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-At last we had reached the fertile land we intended to settle. But the disappearance of Mani and Norbert still caused us great worry.
+我們終於抵達了那片打算定居的沃土。然而瑪尼與諾伯特的失蹤，仍讓我們憂心忡忡。
 </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -309,6 +458,13 @@ Wreszcie osiągnęliśmy żyzną ziemię, którą zamierzali zasiedlić. Lecz zn
 建立你的村庄，去寻找玛尼与诺伯特！
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+We owed it to our tribe and now had to attend to building the village, but we decided to send out a search party. 
+
+Build your village and search for Mani and Norbert!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Wir waren unserem Stamm verpflichtet und mussten uns nun um den Aufbau des Dorfes kümmern, doch beschlossen wir, einen Suchtrupp auszusenden. 
@@ -316,12 +472,18 @@ Wir waren unserem Stamm verpflichtet und mussten uns nun um den Aufbau des Dorfe
 Errichte dein Dorf und suche nach Mani und Norbert!
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-We owed it to our tribe and now had to attend to building the village, but we decided to send out a search party. 
+我們身負部族之責，須著手建村，卻決意派出一支搜尋隊。
 
-Build your village and search for Mani and Norbert!
+建立你的村莊，去尋找瑪尼與諾伯特！
 </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -345,6 +507,17 @@ Zbuduj swoją wieś i szukaj Maniego i Norberta!
 “我们乃森林守护者的一支哨站。只因神庙远离其他哨站，鲜少有人送来草药与蘑菇。若你们以此进贡，我们的援助定然少不了！”
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+FOREST POST 1 - THE TEMPLE GUARDS
+
+"Welcome!" spoke the temple guards. 
+
+
+
+"We are a post of the forest wardens. But our temple is far from the others, and we are rarely supplied with herbs and mushrooms. If you deliver some to us as tribute, our help is yours!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 WALDPOSTEN 1 - DIE TEMPELWÄCHTER
@@ -358,16 +531,28 @@ WALDPOSTEN 1 - DIE TEMPELWÄCHTER
 "Wir sind ein Posten der Waldhüter. Doch ist unser Tempel weit ab von den anderen und wir werden selten mit Kräutern unf Pilzen beliefert. Reicht ihr uns welche zum Tribut, sei euch unsere Hilfe sicher!" 
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-FOREST POST 1 - THE TEMPLE GUARDS
+森林哨站 1--神廟守衛
 
-"Welcome!" spoke the temple guards. 
+“歡迎！”神廟守衛們說道。
 
-
-
-"We are a post of the forest wardens. But our temple is far from the others, and we are rarely supplied with herbs and mushrooms. If you deliver some to us as tribute, our help is yours!"
 </text>
+        <usericon>1,201,69</usericon>
+        <text>
+
+“我們乃森林守護者的一支哨站。只因神廟遠離其他哨站，鮮少有人送來草藥與蘑菇。若你們以此進貢，我們的援助定然少不了！”
+</text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,201,69</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,201,69</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -390,6 +575,13 @@ LEŚNA PLACÓWKA 1 - STRAŻNICY ŚWIĄTYNI
 </text>
         <usericon>1,201,69</usericon>
       </lang>
+      <lang code="eng">
+        <text>
+TRIBUTE PAID TO TEMPLE GUARDS!
+
+"Such fresh mushrooms and fragrant herbs we have rarely had! Our help is yours when the time comes! You can count on us!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 TRIBUT AN TEMPELWÄCHTER BEZAHLT!
@@ -399,12 +591,21 @@ TRIBUT AN TEMPELWÄCHTER BEZAHLT!
 </text>
         <usericon>1,201,69</usericon>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-TRIBUTE PAID TO TEMPLE GUARDS!
+已向神廟守衛繳納貢品！
 
-"Such fresh mushrooms and fragrant herbs we have rarely had! Our help is yours when the time comes! You can count on us!"
+“如此新鮮的蘑菇與芬芳的草藥，我們難得一見！時機恰當之時，我們的援助必至！你們儘可仰仗我們！”
 </text>
+        <usericon>1,201,69</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,201,69</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,201,69</usericon>
       </lang>
       <lang code="pol">
         <text>
@@ -428,6 +629,17 @@ TRYBUT ZAPŁACONY STRAŻNIKOM ŚWIĄTYNI!
 将新的铁制工具交给采药人！
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+POST 2 - HERB GATHERERS
+
+"We would gladly go about our work, but we lack the proper tools! Our old sickles are blunt, and rust has eaten through them."
+
+
+
+Deliver new iron tools to the herb gatherers!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 POSTEN 2 - KRÄUTERSAMMLER
@@ -441,16 +653,28 @@ POSTEN 2 - KRÄUTERSAMMLER
 Liefere den Kräutersammlern neues Eisenwerkzeug!
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-POST 2 - HERB GATHERERS
+哨站 2--採藥人
 
-"We would gladly go about our work, but we lack the proper tools! Our old sickles are blunt, and rust has eaten through them."
+“我們本願勤力勞作，卻苦無稱手工具！舊鐮刀早已鈍鏽，被鐵鏽蝕透。”
 
-
-
-Deliver new iron tools to the herb gatherers!
 </text>
+        <usericon>1,358,90</usericon>
+        <text>
+
+將新的鐵製工具交給採藥人！
+</text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,358,90</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,358,90</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -473,6 +697,13 @@ Dostarcz zbieraczom ziół nowe żelazne narzędzia!
 </text>
         <usericon>1,358,90</usericon>
       </lang>
+      <lang code="eng">
+        <text>
+IRON TOOLS DELIVERED TO HERB GATHERERS
+
+"We have never had a tool with such gleaming, sharp blades! Our help is yours when the time comes! You can count on us!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 EISENWERKZEUG AN KRÄUTERSAMMLER GELIEFERT
@@ -482,12 +713,21 @@ EISENWERKZEUG AN KRÄUTERSAMMLER GELIEFERT
 </text>
         <usericon>1,358,90</usericon>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-IRON TOOLS DELIVERED TO HERB GATHERERS
+鐵製工具已交給採藥人
 
-"We have never had a tool with such gleaming, sharp blades! Our help is yours when the time comes! You can count on us!"
+“這般刃光閃閃的利器，我們從未有過！時機恰當之時，我們的援助必至！你們儘可仰仗我們！”
 </text>
+        <usericon>1,358,90</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,358,90</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,358,90</usericon>
       </lang>
       <lang code="pol">
         <text>
@@ -506,6 +746,13 @@ IRON TOOLS DELIVERED TO HERB GATHERERS
         </text>
         <usericon>1,358,90</usericon>
       </lang>
+      <lang code="eng">
+        <text>
+GEROLS - THE STONE DRAGONS
+
+In the rocky mountains we met old, wise stone dragons.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 GEROLS - DIE STEINDRACHEN
@@ -515,12 +762,21 @@ In dem steinigen Gebirge trafen wir auf alte weise Steindrachen.
 </text>
         <usericon>1,312,65</usericon>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-GEROLS - THE STONE DRAGONS
+格羅爾斯--石龍
 
-In the rocky mountains we met old, wise stone dragons.
-</text>
+在嶙峋山脈中，我們遇見了古老的智慧石龍。
+        </text>
+        <usericon>1,358,90</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,358,90</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,358,90</usericon>
       </lang>
       <lang code="pol">
         <text>
@@ -544,6 +800,17 @@ W skalistych górach spotkaliśmy stare, mądre smoki kamienne.
 并向我们提出了优厚的贸易契约。
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+VIKING VILLAGE
+
+The Vikings in this region were exceedingly friendly. They let us use their smaller warehouse in the north of the village
+
+
+
+and offered us favorable trade agreements.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 WIKINGERDORF
@@ -557,16 +824,28 @@ Die Wikinger in diesem Landstrich waren überaus freundlich. Sie überliesen uns
 und boten uns günstige Handelsverträge an.
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-VIKING VILLAGE
+維京人村莊
 
-The Vikings in this region were exceedingly friendly. They let us use their smaller warehouse in the north of the village
+這一帶的維京人極為友善。他們將村莊北側較小的倉屋讓與我們
 
-
-
-and offered us favorable trade agreements.
 </text>
+        <usericon>1,365,345</usericon>
+        <text>
+
+並向我們提出了優厚的貿易契約。
+</text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,365,345</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,365,345</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -592,6 +871,17 @@ i zaproponowali nam korzystne umowy handlowe.
 “可惜我正逢生意清淡，但若与我交易，我的援助定然少不了。”
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+POST 3 - MERCHANT
+
+"Come in and marvel at my wares! My terms are favorable!" the merchant called out to us from afar.
+
+ 
+
+"Unfortunately, I am in a small trade slump, but if you trade with me, my help is yours."
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 POSTEN 3 - HÄNDLER
@@ -605,16 +895,26 @@ POSTEN 3 - HÄNDLER
 "Leider bin ich in einer kleinen Handelsflaute, aber wenn ihr mit mir Handel treibt, ist euch meine Hilfe sicher."
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-POST 3 - MERCHANT
+哨站 
 
-"Come in and marvel at my wares! My terms are favorable!" the merchant called out to us from afar.
-
- 
-
-"Unfortunately, I am in a small trade slump, but if you trade with me, my help is yours."
-</text>
+3--商人</text>
+        <usericon>1,365,345</usericon>
+        <text>
+“進來開開眼吧，瞧瞧我的貨色！我的價錢公道的！”商人老遠便朝我們喊道。
+“可惜我正逢生意清淡，但若與我交易，我的援助定然少不了。”
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,365,345</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,365,345</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -637,6 +937,13 @@ PLACÓWKA 3 - KUPIEC
 </text>
         <usericon>1,246,361</usericon>
       </lang>
+      <lang code="eng">
+        <text>
+GOODS TRADED WITH MERCHANT
+
+"My business is booming, thanks to your help! I too shall help you with my house dragon when the time comes."
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 WAREN MIT HÄNDLER GEHANDELT
@@ -646,12 +953,21 @@ WAREN MIT HÄNDLER GEHANDELT
 </text>
         <usericon>1,246,361</usericon>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-GOODS TRADED WITH MERCHANT
+已與商人交易貨物
 
-"My business is booming, thanks to your help! I too shall help you with my house dragon when the time comes."
+“多虧你們相助，我的生意紅火起來了！屆時我也會派出我的家養龍助你們一臂之力。”
 </text>
+        <usericon>1,246,361</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,246,361</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,246,361</usericon>
       </lang>
       <lang code="pol">
         <text>
@@ -675,6 +991,17 @@ TOWARY WYMIENIONE Z KUPCEM
 给火龙送去蛋糕，或许能稍减它们的食欲！
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+FIRE DRAGONS
+
+"We are not well disposed toward other creatures. Hunger constantly plagues us and makes us grumpy. We don't want to harm anyone, but the hunger..."
+
+
+
+Bring cakes to the fire dragons, perhaps that will ease their appetite!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 FEUERDRACHEN
@@ -688,16 +1015,28 @@ FEUERDRACHEN
 Bringe Kuchen zu den Feuerdrachen, vielleicht lindert das ihren Appetit!
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-FIRE DRAGONS
+火龍
 
-"We are not well disposed toward other creatures. Hunger constantly plagues us and makes us grumpy. We don't want to harm anyone, but the hunger..."
+“我們對其他生靈素無好感。飢餓總來糾纏，令我們乖戾易怒。我們本無意傷人，可這飢腸……”
 
-
-
-Bring cakes to the fire dragons, perhaps that will ease their appetite!
 </text>
+        <usericon>1,152,345</usericon>
+        <text>
+
+給火龍送去蛋糕，或許能稍減它們的食慾！
+</text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,152,345</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,152,345</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -722,6 +1061,18 @@ Przynieś smokom ognia ciasta, może to złagodzi ich apetyt!
 从今往后，我们中有五条将听命于你们！若还需更多，尽管缴纳贡品！
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+FIRE DRAGONS
+ 
+"You are true master bakers! Our support is yours!"
+spoke the fire dragons.
+
+
+
+Five of us shall from now on be at your service! If you need more of us, pay the tribute!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 FEUERDRACHEN
@@ -736,17 +1087,25 @@ sprachen die Feuerdrachen.
 Fünf von uns werden von nun an in eurem Dienste stehen! Falls ihr mehr von uns benötigt, zahlt den Tribut!
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
+        <text>火
+
+龍</text>
+        <usericon>1,152,345</usericon>
         <text>
-FIRE DRAGONS
- 
-"You are true master bakers! Our support is yours!"
-spoke the fire dragons.
-
-
-
-Five of us shall from now on be at your service! If you need more of us, pay the tribute!
-</text>
+“你們真是烘焙大師！我們的支援定然少不了！”火龍們說道。
+從今往後，我們中有五條將聽命於你們！若還需更多，儘管繳納貢品！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,152,345</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,152,345</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -773,6 +1132,13 @@ Pięciu z nas będzie od teraz w waszej służbie! Jeśli potrzebujecie więcej,
 是英勇，还是鲁莽？比雅尼陨落之时，诸神落泪……少了这位英雄，任务的结局将永远对你隐藏。
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+MISSION LOST!
+
+Heroism or recklessness? When BJARNI died, the gods wept... Without this hero, the end of the mission will remain hidden from you.
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -784,12 +1150,30 @@ MISSION VERLOREN!
 Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
-MISSION LOST!
-
-Heroism or recklessness? When BJARNI died, the gods wept... Without this hero, the end of the mission will remain hidden from you.
+任務失敗！
 </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+是英勇，還是魯莽？比雅尼隕落之時，諸神落淚……少了這位英雄，任務的結局將永遠對你隱藏。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -813,6 +1197,17 @@ Bohatersztwo czy lekkomyślność? Gdy BJARNI umarł, bogowie płakali... Bez te
 为瓦穆戈教授的学校寻些学生来！
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+POST 4 - FOREST SCHOOL OF THE WATER DRAGONS
+
+"Oh, if only we had enough pupils! We have a truly wonderful school here, and Professor WAMUGO is one of the best teachers one could wish for."
+
+
+
+Find pupils for the school of Professor WAMUGO!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 POSTEN 4 - WALDSCHULE DER WASSERDRACHEN
@@ -826,16 +1221,28 @@ POSTEN 4 - WALDSCHULE DER WASSERDRACHEN
 Suche Schüler für die Schule von Professor WAMUGO!
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-POST 4 - FOREST SCHOOL OF THE WATER DRAGONS
+哨站 4--水龍森林學校
 
-"Oh, if only we had enough pupils! We have a truly wonderful school here, and Professor WAMUGO is one of the best teachers one could wish for."
+“唉，若我們有足夠的學生就好了！我們這所學校極好，瓦穆戈教授更是一流的良師，世間難求。”
 
-
-
-Find pupils for the school of Professor WAMUGO!
 </text>
+        <usericon>1,78,530</usericon>
+        <text>
+
+為瓦穆戈教授的學校尋些學生來！
+</text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,78,530</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,78,530</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -859,6 +1266,15 @@ Znajdź uczniów dla szkoły profesora WAMUGO!
 “我总算凑齐了一整个班级！这真叫我欢喜。”瓦穆戈教授说道。“我们的谢意与学识，与你们同在！”
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+PUPILS ARRIVED AT THE FOREST SCHOOL OF THE WATER DRAGONS
+
+
+
+"At last I have a whole class together! This will bring me joy!" spoke Professor WAMUGO! "Our gratitude and knowledge are with you!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 SCHÜLER IN DER WALDDORFSCHULE DER WASSERDRACHEN ANGEKOMMEN
@@ -870,14 +1286,24 @@ SCHÜLER IN DER WALDDORFSCHULE DER WASSERDRACHEN ANGEKOMMEN
 "Endlich habe ich eine ganze Klasse zusammen! Das wird mir Freude bereiten sprach Professor WAMUGO! Unser Dank und Wissen ist mit Euch!"
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-PUPILS ARRIVED AT THE FOREST SCHOOL OF THE WATER DRAGONS
-
-
-
-"At last I have a whole class together! This will bring me joy!" spoke Professor WAMUGO! "Our gratitude and knowledge are with you!"
+水龍森林村莊學校已迎來學生
 </text>
+        <usericon>1,78,530</usericon>
+        <text>
+“我總算湊齊了一整個班級！這真叫我歡喜。”瓦穆戈教授說道。“我們的謝意與學識，與你們同在！”
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,78,530</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,78,530</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -909,6 +1335,21 @@ UCZNIOWIE PRZYBYLI DO LEŚNEJ SZKOŁY SMOKÓW WODNYCH
 寻访瓦穆戈教授的学校，把孩子们带去那里。
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+POST 5 - SCHOOL AT THE PALM GROVE
+
+"Our children are extremely inquisitive, but unfortunately we cannot teach them much. 
+
+
+
+If only there were a school for the older children with a competent teacher, where the children could be taught over the summer... They say Professor WAMOGO runs such a school - we have heard only good things about it..."
+
+
+
+Find the school of Professor WAMOGO and bring the children there.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 POSTEN 5 - SCHULE AM PALMENHAIN
@@ -928,20 +1369,38 @@ Gebe es doch eine Schule für die älteren Kinder mit einer kompetenten Lehrkraf
 Suche die Schule des Professors WAMOGU auf und bringe die Kinder dorthin.
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-POST 5 - SCHOOL AT THE PALM GROVE
+哨站 5--棕櫚林學堂
 
-"Our children are extremely inquisitive, but unfortunately we cannot teach them much. 
+“我們的孩子求知若渴，可惜我們能教他們的實在有限。
 
-
-
-If only there were a school for the older children with a competent teacher, where the children could be taught over the summer... They say Professor WAMOGO runs such a school - we have heard only good things about it..."
-
-
-
-Find the school of Professor WAMOGO and bring the children there.
 </text>
+        <usericon>1,376,559</usericon>
+        <text>
+
+若有一所為年長些的孩子設立、由勝任的師長執教的學堂，讓孩子們能於夏日受教……便好了。聽說瓦穆戈教授主持著這樣一所學校，我們對它只聞佳音……”
+
+</text>
+        <usericon>1,78,530</usericon>
+        <text>
+
+尋訪瓦穆戈教授的學校，把孩子們帶去那裡。
+</text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,376,559</usericon>
+        <text />
+        <usericon>1,78,530</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,376,559</usericon>
+        <text />
+        <usericon>1,78,530</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -973,6 +1432,19 @@ Znajdź szkołę profesora WAMOGO i doprowadź tam dzieci.
 “这条龙是我的朋友。带上它，它能助你一臂之力！”
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+THE OLD MAN
+
+
+
+"There is no joking with the Nabalians! As soon as you venture into their territory, their arrows come raining down on you. They surely have something to hide, for they do not protect their second base with this poison cloud for nothing! But the forest posts in the vicinity have dragons that are immune to the poison - one would only need enough of them."
+
+
+
+"This dragon here is my friend. Take him with you, he can support you in your mission!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DER ALTE MANN
@@ -990,18 +1462,32 @@ DER ALTE MANN
 "Dieser Drache hier, ist mein Freund. Nehmt ihn mit, er kann euch bei eurer Mission unterstützen!"
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-THE OLD MAN
-
-
-
-"There is no joking with the Nabalians! As soon as you venture into their territory, their arrows come raining down on you. They surely have something to hide, for they do not protect their second base with this poison cloud for nothing! But the forest posts in the vicinity have dragons that are immune to the poison - one would only need enough of them."
-
-
-
-"This dragon here is my friend. Take him with you, he can support you in your mission!"
+老者
 </text>
+        <usericon>1,376,559</usericon>
+        <text>
+“納帕利亞人可不是好惹的！一旦踏進他們的地界，箭矢便劈頭蓋臉飛來。他們定有隱情，否則何必用毒雲護住第二處據點！周遭森林哨站養著對毒免疫的龍，只需足夠數量便成。”
+        </text>
+        <usericon>1,376,559</usericon>
+        <text>
+“這條龍是我的朋友。帶上它，它能助你一臂之力！”
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,376,559</usericon>
+        <text />
+        <usericon>1,376,559</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,376,559</usericon>
+        <text />
+        <usericon>1,376,559</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1035,6 +1521,19 @@ STARZEC
 </text>
         <usericon>1,372,261</usericon>
       </lang>
+      <lang code="eng">
+        <text>
+ALL POSTS OF THE FOREST WARDENS
+
+We had now visited all posts of the forest wardens and helped them. They were indeed of great use to us, for they discovered that Mani and Norbert had been abducted by the Nabalians! 
+
+
+
+That was why they were so unfriendly to us and did not want to grant us entry to their bases...
+
+The largest base, where Mani and Norbert were also being held, was surrounded by an impenetrable smoke cloud of the poison dragons...
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 ALLE POSTEN DER WALDHÜTER
@@ -1052,18 +1551,34 @@ Der größte Stützpunkt, in dem auch Mani und Norbert festgehalten wurden, war 
 </text>
         <usericon>1,372,261</usericon>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-ALL POSTS OF THE FOREST WARDENS
+所有森林守護者哨站
 
-We had now visited all posts of the forest wardens and helped them. They were indeed of great use to us, for they discovered that Mani and Norbert had been abducted by the Nabalians! 
+如今我們尋遍了所有守護者哨站，並施以援手。他們當真助益良多，因為查出瑪尼與諾伯特竟是被納帕利亞人擄走的！
 
-
-
-That was why they were so unfriendly to us and did not want to grant us entry to their bases...
-
-The largest base, where Mani and Norbert were also being held, was surrounded by an impenetrable smoke cloud of the poison dragons...
 </text>
+        <usericon>1,440,163</usericon>
+        <text>
+
+難怪他們對我們如此無禮，不肯放我們進據點……
+
+關押瑪尼與諾伯特的最大據點，被毒龍那道無隙可入的煙雲所籠罩……
+
+</text>
+        <usericon>1,372,261</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,440,163</usericon>
+        <text />
+        <usericon>1,372,261</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,440,163</usericon>
+        <text />
+        <usericon>1,372,261</usericon>
       </lang>
       <lang code="pol">
         <text>
@@ -1093,6 +1608,17 @@ Największa baza, w której przetrzymywano także Maniego i Norberta, była otoc
 </text>
         <usericon>1,440,163</usericon>
       </lang>
+      <lang code="eng">
+        <text>
+POISON CLOUD CLEARED
+
+But what was this? The house dragons of each individual forest post neutralized the poison cloud around the main base of the Nabalians!
+
+
+
+Now the path was clear, and we had to decide for ourselves whether to take the martial or a peaceful path. The forest wardens whispered that the prisoners could be freed from the eastern direction almost unseen!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 GIFTWOLKE BESEITIGT
@@ -1108,16 +1634,30 @@ Nun war der Weg frei und wir mußten selbst entscheiden ob wir den kriegerischen
 </text>
         <usericon>1,439,151</usericon>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-POISON CLOUD CLEARED
+毒雲
 
-But what was this? The house dragons of each individual forest post neutralized the poison cloud around the main base of the Nabalians!
+已清除</text>
+        <usericon>1,440,163</usericon>
+        <text>
 
-
-
-Now the path was clear, and we had to decide for ourselves whether to take the martial or a peaceful path. The forest wardens whispered that the prisoners could be freed from the eastern direction almost unseen!
+可那是何物？每個森林哨站的家養龍竟一同中和了納帕利亞人主據點外的毒雲！
+道路已通，須由我們決斷：動武，還是謀和。森林守護者私下議論，從東側方向幾乎可神不知鬼不覺地救出囚犯！
 </text>
+        <usericon>1,440,163</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,440,163</usericon>
+        <text />
+        <usericon>1,440,163</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,440,163</usericon>
+        <text />
+        <usericon>1,440,163</usericon>
       </lang>
       <lang code="pol">
         <text>
@@ -1143,6 +1683,15 @@ Teraz droga była wolna i musieliśmy sami zdecydować, czy obrać drogą wojny,
 “从这里往西北有条小路直通囚犯处。一旦毒云被清除，就能神不知鬼不觉地潜到他们身边！”
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+THE OLD MAN
+
+
+
+"The small path northwest of here leads directly to the prisoners. Once the poison cloud is cleared, it would be easy to reach them unseen!"
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DER ALTE MANN
@@ -1154,14 +1703,26 @@ DER ALTE MANN
 "Der kleine Pfad nord-westlich von hier führt direkt an zu den Gefangenen, sobald die Giftwolke beseitigt ist, wäre es ein Leichtes, ungesehen zu ihnen vorzudringen!"
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-THE OLD MAN
+老者
 
-
-
-"The small path northwest of here leads directly to the prisoners. Once the poison cloud is cleared, it would be easy to reach them unseen!"
 </text>
+        <usericon>1,505,190</usericon>
+        <text>
+
+“從這裡往西北有條小路直通囚犯處。一旦毒雲被清除，就能神不知鬼不覺地潛到他們身邊！”
+</text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,505,190</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,505,190</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1186,6 +1747,18 @@ STARZEC
 向东行，你会抵达一座水龙神庙；向西，则是偏居一隅的瓦穆戈教授的学校。
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+AQUAS - THE WATER DRAGONS
+
+We are peace-loving dragons. Use our ship here!
+
+
+
+If you sail east, you reach a water dragon temple,
+in the west, however, lies the somewhat remote school of Professor WAMUGO.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 AQUAS - DIE WASSERDRACHEN
@@ -1200,17 +1773,27 @@ Fahrt ihr in östliche Richtung, gelangt ihr zu einem Wasserdrachentempel,
 in westlicher Richtung befindet sich hingegen die etwas abseits gelegene Schule von Professor WAMUGO.
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-AQUAS - THE WATER DRAGONS
+阿誇斯--水龍
 
-We are peace-loving dragons. Use our ship here!
-
-
-
-If you sail east, you reach a water dragon temple,
-in the west, however, lies the somewhat remote school of Professor WAMUGO.
+我們是愛好和平的龍。儘管用我們這裡的船！
 </text>
+        <usericon>1,505,190</usericon>
+        <text>
+我們是愛好和平的龍。儘管用我們這裡的船！
+向東行，你會抵達一座水龍神廟；向西，則是偏居一隅的瓦穆戈教授的學校。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,505,190</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,505,190</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1237,6 +1820,17 @@ w kierunku zachodnim znajduje się zaś nieco oddalona szkoła profesora WAMUGO.
 真是无礼之族！我们从未受过这般对待。除了不靠近，别无他法，因为他们定会将威胁付诸行动。
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+NABALIANS
+
+"Not a step closer! Otherwise we shall use our weapons!"
+
+ 
+ 
+A most unfriendly folk! Never were we received in such a manner. We had no choice but not to approach them too closely, for they would surely carry out their threat.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 NAPALIANER
@@ -1250,16 +1844,26 @@ NAPALIANER
 Ein gar unfreundliches Volk! Noch nie wurden wir auf diese Art empfangen. Es blieb und nichts weiter über, als ihnen nicht zu nahe zu kommen, denn sicherlich würden sie ihre Drohung auch in die Tat umsetzen.
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-NABALIANS
+納帕
 
-"Not a step closer! Otherwise we shall use our weapons!"
-
- 
- 
-A most unfriendly folk! Never were we received in such a manner. We had no choice but not to approach them too closely, for they would surely carry out their threat.
-</text>
+利亞人</text>
+        <usericon>1,169,577</usericon>
+        <text>
+“敢再靠近一步！我們便動用武器！”
+真是無禮之族！我們從未受過這般對待。除了不靠近，別無他法，因為他們定會將威脅付諸行動。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,169,577</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,169,577</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1283,6 +1887,15 @@ Niezwykle nieprzyjazny lud! Nigdy nie przyjęto nas w ten sposób. Nie pozostał
 缴纳贡品，使他们恢复中立！
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+NABALIANS
+
+"You asked for it! Our weapons will destroy you. Pay the tribute and we shall reconsider our stance toward you, but only if you leave our bases immediately!"
+
+Pay the tribute to make them neutral again!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 NAPALIANER
@@ -1292,14 +1905,20 @@ NAPALIANER
 Zahle den Tribut, um sie wieder neutral zu stimmen!
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-NABALIANS
+納帕利亞人
 
-"You asked for it! Our weapons will destroy you. Pay the tribute and we shall reconsider our stance toward you, but only if you leave our bases immediately!"
+“這是你們自找的！我們的武器會將你們消滅。繳納貢品，我們便重新考慮對你們的態度，但前提是你們立刻離開我們的據點！”
 
-Pay the tribute to make them neutral again!
+繳納貢品，使他們恢復中立！
 </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1324,6 +1943,13 @@ Zapłać trybut, by znów ich neutralizować!
 一时的轻率，生命便转瞬即逝！你的女英雄希拉，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+MISSION LOST!
+
+A brief moment of carelessness, so quickly it happens in life! Your heroine CYRA perished through your inattention! Without this heroine, the end of the mission will remain hidden from you.
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1335,12 +1961,31 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
-MISSION LOST!
-
-A brief moment of carelessness, so quickly it happens in life! Your heroine CYRA perished through your inattention! Without this heroine, the end of the mission will remain hidden from you.
+任務失敗！
 </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+一時的輕率，生命便轉瞬即逝！你的女英雄希拉，因你的疏忽而殞命！少了這位英雄，任務的結局將永遠對你隱藏。
+</text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1359,6 +2004,13 @@ Chwilka lekkomyślności, tak szybko to w życiu przychodzi! Twoja bohaterka CYR
 </text>
         <usericon>1,581,291</usericon>
       </lang>
+      <lang code="eng">
+        <text>
+TRIBUTE PAID!
+
+"Now we shall reconsider our stance toward you, but do not venture into our territory again!" the Nabalians called to us and immediately changed their diplomatic status toward us.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 TRIBUT GELEISTET!
@@ -1368,12 +2020,21 @@ TRIBUT GELEISTET!
 </text>
         <usericon>1,581,291</usericon>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-TRIBUTE PAID!
+已繳納貢品！
 
-"Now we shall reconsider our stance toward you, but do not venture into our territory again!" the Nabalians called to us and immediately changed their diplomatic status toward us.
+“我們自會重新考慮對你們的態度，但休想再踏入我們的地界！”納帕利亞人朝我們喊道，並即刻改變了對待我們的外交姿態。
 </text>
+        <usericon>1,581,291</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,581,291</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,581,291</usericon>
       </lang>
       <lang code="pol">
         <text>
@@ -1392,6 +2053,13 @@ TRYBUT ZAPŁACONY!
 </text>
         <usericon>1,578,299</usericon>
       </lang>
+      <lang code="eng">
+        <text>
+NABALIANS DEFEATED!
+
+Though the Nabalians were defeated, could a peaceful settlement not also have been reached?
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 NAPALIANER BESIEGT!
@@ -1400,12 +2068,21 @@ Zwar waren die Napalianer geschlagen, doch war nicht auch eine friedliche Einigu
 </text>
         <usericon>1,578,299</usericon>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-NABALIANS DEFEATED!
+納帕利亞人敗北！
 
-Though the Nabalians were defeated, could a peaceful settlement not also have been reached?
+納帕利亞人雖被擊敗，可若當初本也能和平了結？
 </text>
+        <usericon>1,578,299</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,578,299</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,578,299</usericon>
       </lang>
       <lang code="pol">
         <text>
@@ -1424,6 +2101,13 @@ Choć Nabalianie zostali pokonani, czyż nie było również możliwe pokojowe p
 </text>
         <usericon>1,95,545</usericon>
       </lang>
+      <lang code="eng">
+        <text>
+TELEPORTER ACTIVE
+
+Now the teleporters were activated that would bring the children to WAMUGO.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 TELEPORTER AKTIV
@@ -1433,12 +2117,21 @@ Nun waren die Teleporter aktiviert, die die Kinder zu WAMUGO bringen würden.
 </text>
         <usericon>1,95,545</usericon>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-TELEPORTER ACTIVE
+傳送裝置已啟動
 
-Now the teleporters were activated that would bring the children to WAMUGO.
+如今傳送裝置已然啟用，它將把孩子們送往瓦穆戈處。
 </text>
+        <usericon>1,95,545</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,95,545</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,95,545</usericon>
       </lang>
       <lang code="pol">
         <text>
@@ -1456,6 +2149,13 @@ Teraz aktywowano teleportery, które miały zabrać dzieci do WAMUGO.
 新落成的蛋糕烘焙坊，为我们这座运转中的村庄奠定了基石。
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+OWN VILLAGE ESTABLISHED!
+
+With our new cake bakery, the foundation for our functioning village was laid.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 EIGENES DORF ERRICHTET!
@@ -1463,12 +2163,18 @@ EIGENES DORF ERRICHTET!
 Mit unserer neuen Kuchenbäckerei war der Grundstein für unser funktionierendes Dorf gelegt.
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-OWN VILLAGE ESTABLISHED!
+己方村莊已建成！
 
-With our new cake bakery, the foundation for our functioning village was laid.
+新落成的蛋糕烘焙坊，為我們這座運轉中的村莊奠定了基石。
 </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1480,7 +2186,12 @@ Dzięki naszej nowej piekarni ciast podwaliny pod funkcjonującą wieś zostały
     </block>
     <block id="25">
       <lang code="CHN" />
+      <lang code="eng" />
       <lang code="ger" />
+      <lang code="l11" />
+      <lang code="l12" />
+      <lang code="l13" />
+      <lang code="pol" />
     </block>
     <block id="500">
       <lang code="CHN">
@@ -1489,6 +2200,13 @@ Dzięki naszej nowej piekarni ciast podwaliny pod funkcjonującą wieś zostały
         <font>$local$\fonts\font12.fnt</font>
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>生活中的片刻疏忽，人生如此迅速！ 玛尼--比雅尼与希拉之子--因你的疏忽而丧命！失去这位英雄，你将无法得知任务的结局。</text>
+      </lang>
+      <lang code="eng">
+        <text>
+MISSION LOST!
+
+A brief moment of carelessness, so quickly it happens in life! MANI - son of Bjarni and Cyra - perished through your inattention! Without this hero, the end of the mission will remain hidden from you.
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -1501,12 +2219,26 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-MISSION LOST!
-
-A brief moment of carelessness, so quickly it happens in life! MANI - son of Bjarni and Cyra - perished through your inattention! Without this hero, the end of the mission will remain hidden from you.
-</text>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>任務失敗！</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>生活中的片刻疏忽，人生如此迅速！ 瑪尼--比雅尼與希拉之子--因你的疏忽而喪命！失去這位英雄，你將無法得知任務的結局。</text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1522,15 +2254,26 @@ Chwilka lekkomyślności, tak szybko to w życiu przychodzi! MANI - syn Bjarnieg
 我们在纳帕利亚人处找到了玛尼与诺伯特，成功将他们救出。如今我们终于又团聚了。
 </text>
       </lang>
+      <lang code="eng">
+        <text>
+We had tracked down Mani and Norbert among the Nabalians and were able to free them. Now we were all together again.
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 Wir hatten Mani und Norbert bei den Napalianern ausfindig gemacht und sie befreien können. Nun waren wir wieder alle beisammen. 
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-We had tracked down Mani and Norbert among the Nabalians and were able to free them. Now we were all together again.
+我們在納帕利亞人處找到了瑪尼與諾伯特，成功將他們救出。如今我們終於又團聚了。
 </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1544,15 +2287,26 @@ Zdołaliśmy namierzyć Maniego i Norberta wśród Nabalian i ich uwolnić. Tera
 他们为自己让我们如此忧心而抱歉，但最重要的是他们又回到我们身边。我们一同决意，要探明地龙消失的真相。
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+They were sorry to have caused us such great worry, but the main thing was that they were back among us. Together we decided to investigate the disappearance of the Earth Dragons.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Ihnen tat es leid, uns solch große Sorgen bereitet zu haben, aber die Hauptsache war, sie weilten wieder unter uns. Wir beschlossen gemeinsam dem Verschwinden der Erddrachen auf den Grund zu gehen.
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-They were sorry to have caused us such great worry, but the main thing was that they were back among us. Together we decided to investigate the disappearance of the Earth Dragons.
-</text>
+他們為自己讓我們如此憂心而抱歉，但最重要的是他們又回到我們身邊。我們一同決意，要探明地龍消失的真相。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1566,15 +2320,26 @@ Było im przykro, że sprawili nam tyle zmartwień, ale najważniejsze było to,
 任务成功！
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+MISSION WON!
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 MISSION GEWONNEN! 
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-MISSION WON!
-</text>
+任務成功！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1590,6 +2355,13 @@ MISJA WYGRANA!
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>生活中的片刻疏忽，人生如此迅速！ 你的朋友兼英雄--巨龙诺伯特--因你的疏忽而丧命！失去这位英雄，你将无法得知任务的结局。</text>
       </lang>
+      <lang code="eng">
+        <text>
+MISSION LOST!
+
+A brief moment of carelessness, so quickly it happens in life! Your friend and hero, the dragon NORBERT, perished through your inattention! Without this hero, the end of the mission will remain hidden from you.
+</text>
+      </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1601,12 +2373,26 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-MISSION LOST!
-
-A brief moment of carelessness, so quickly it happens in life! Your friend and hero, the dragon NORBERT, perished through your inattention! Without this hero, the end of the mission will remain hidden from you.
-</text>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>任務失敗！</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>生活中的片刻疏忽，人生如此迅速！ 你的朋友兼英雄--巨龍諾伯特--因你的疏忽而喪命！失去這位英雄，你將無法得知任務的結局。</text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1622,15 +2408,26 @@ Chwilka lekkomyślności, tak szybko to w życiu przychodzi! Twój przyjaciel i 
 大迁徙
         </text>
       </lang>
+      <lang code="eng">
+        <text>
+THE GREAT RESETTLEMENT
+</text>
+      </lang>
       <lang code="ger">
         <text> 
 DIE GROSSE UMSIEDLUNG
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-THE GREAT RESETTLEMENT
-</text>
+大遷徙
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

@@ -1,58 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="05_Die_Münzsammler" export_map_id="05_Die_Münzsammler" map_md5="5544408230699a680b38a2a1cc1262ab" IsC2M="true">
+<localization version="1.3" map_id="05_Die_Münzsammler" export_map_id="05_Die_Münzsammler" map_md5="5544408230699a680b38a2a1cc1262ab" IsC2M="true" deprecated="false">
   <languages>
-    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">集币者</text>
-      <text lang="ger">Die Münzsammler</text>
       <text lang="eng">The Coin Collectors</text>
+      <text lang="ger">Die Münzsammler</text>
+      <text lang="l11">集幣者</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zbieracze Monet</text>
     </string>
     <string id="1">
       <text lang="CHN">穿过一道狭窄的海湾，我们来到了一座田园诗般的岛屿，就在这时，我们的仓库总管激动地朝我们跑来……</text>
-      <text lang="ger">Durch eine schmale Bucht gelangten wir zu einer idyllischen Insel, als plötzlich unser Lagermeister aufgeregt auf uns zu kam...</text>
       <text lang="eng">Through a narrow bay we reached an idyllic island, when suddenly our quartermaster excitedly came up to us...</text>
+      <text lang="ger">Durch eine schmale Bucht gelangten wir zu einer idyllischen Insel, als plötzlich unser Lagermeister aufgeregt auf uns zu kam...</text>
+      <text lang="l11">穿過一道狹窄的海灣，我們來到了一座田園詩般的島嶼，就在這時，我們的倉庫總管激動地朝我們跑來……</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Przez wąską zatokę dotarliśmy do idyllicznej wyspy, gdy nagle nasz kwatermistrz podekscytowany podszedł do nas...</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
-      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得友好。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
-      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得中立。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
-      <text lang="ger">Spieler0</text>
       <text lang="eng">Player0</text>
+      <text lang="ger">Spieler0</text>
+      <text lang="l11">玩家0</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
-      <text lang="ger">Spieler1</text>
       <text lang="eng">Player1</text>
+      <text lang="ger">Spieler1</text>
+      <text lang="l11">玩家1</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
-      <text lang="ger">Spieler2</text>
       <text lang="eng">Player2</text>
+      <text lang="ger">Spieler2</text>
+      <text lang="l11">玩家2</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz2</text>
     </string>
     <string id="53">
       <text lang="CHN">玩家3</text>
-      <text lang="ger">Spieler3</text>
       <text lang="eng">Player3</text>
+      <text lang="ger">Spieler3</text>
+      <text lang="l11">玩家3</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz3</text>
     </string>
   </strings>
@@ -62,6 +89,12 @@
         <text>费利克斯与卡萝！！
 我们再次感谢你们建起这座温馨的房子。在这里我们能安顿上一阵子了。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Felix and Karo !!
+We thank you once more for the cosy house. Here we will be able to hold out for a while.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Felix und Karo !!
@@ -69,11 +102,15 @@ Wir danken euch ein weiteres Mal für das schnucklige Haus. Hier werden wir es e
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Felix and Karo !!
-We thank you once more for the cosy house. Here we will be able to hold out for a while.
-</text>
+      <lang code="l11">
+        <text>費利克斯與卡蘿！！
+我們再次感謝你們建起這座溫馨的房子。在這裡我們能安頓上一陣子了。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -86,16 +123,25 @@ Dziękujemy wam jeszcze raz za uroczy domek. Tu wytrzymamy przez jakiś czas.
       <lang code="CHN">
         <text>你失败了！！</text>
       </lang>
+      <lang code="eng">
+        <text>
+You lost!!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Du hast verloren !!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-You lost!!
-</text>
+      <lang code="l11">
+        <text>你失敗了！！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -107,16 +153,25 @@ Przegrałeś!!
       <lang code="CHN">
         <text>任务失败！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission verloren!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission lost!
-</text>
+      <lang code="l11">
+        <text>任務失敗！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -128,16 +183,25 @@ Misja przegrana!
       <lang code="CHN">
         <text>玩家1已阵亡。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 has died.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist gestorben.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 has died.
-</text>
+      <lang code="l11">
+        <text>玩家1已陣亡。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -149,16 +213,25 @@ Gracz 1 zmarł.
       <lang code="CHN">
         <text>玩家2已阵亡。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 has died.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist gestorben.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 has died.
-</text>
+      <lang code="l11">
+        <text>玩家2已陣亡。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -171,6 +244,12 @@ Gracz 2 zmarł.
         <text>群狼已死！！
 梅林想建立狼群养殖场的计划，也被我们挫败了。</text>
       </lang>
+      <lang code="eng">
+        <text>
+The wolves are dead !!
+Merlin's plan to establish a wolf breeding farm we had also thwarted.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Die Wölfe sind gestorben !!
@@ -178,11 +257,15 @@ Merlins Plan, eine Wolfszucht zu errichten hatten wir auch verhindert.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-The wolves are dead !!
-Merlin's plan to establish a wolf breeding farm we had also thwarted.
-</text>
+      <lang code="l11">
+        <text>群狼已死！！
+梅林想建立狼群養殖場的計劃，也被我們挫敗了。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -195,16 +278,25 @@ Plan Merlina założenia hodowli wilków też udaremniliśmy.
       <lang code="CHN">
         <text>玩家1现在转为敌对。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now hostile.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist jetzt feindlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 is now hostile.
-</text>
+      <lang code="l11">
+        <text>玩家1現在轉為敵對。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -216,16 +308,25 @@ Gracz 1 jest teraz wrogi.
       <lang code="CHN">
         <text>玩家2现在转为敌对。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now hostile.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt feindlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now hostile.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為敵對。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -237,16 +338,25 @@ Gracz 2 jest teraz wrogi.
       <lang code="CHN">
         <text>谢谢你们的硬币。你们若愿意，现在我们便与你们做护符买卖。派你们的商人过来吧。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Thank you for the coins. If you like, we will now trade amulets with you. Send your traders over.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Danke für die Münzen. Wenn ihr möchtet handeln wir nun Amulette mit euch. Schickt eure Händler vorbei.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Thank you for the coins. If you like, we will now trade amulets with you. Send your traders over.
-</text>
+      <lang code="l11">
+        <text>謝謝你們的硬幣。你們若願意，現在我們便與你們做護符買賣。派你們的商人過來吧。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -259,6 +369,12 @@ Dziękujemy za monety. Jeśli chcecie, będziemy teraz handlować amuletami z wa
         <text>谢谢你们的硬币！！
 现在你们可以与我们通商了。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Thank you for the coins !!
+You may now trade with us.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Danke für die Münzen !!
@@ -266,11 +382,15 @@ Ihr dürft nun mit uns handeln.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Thank you for the coins !!
-You may now trade with us.
-</text>
+      <lang code="l11">
+        <text>謝謝你們的硬幣！！
+現在你們可以與我們通商了。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -283,16 +403,25 @@ Możecie teraz z nami handlować.
       <lang code="CHN">
         <text>玩家3现在转为友好。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now friendly.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 3 ist jetzt freundlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 3 is now friendly.
-</text>
+      <lang code="l11">
+        <text>玩家3現在轉為友好。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -304,16 +433,25 @@ Gracz 3 jest teraz przyjazny.
       <lang code="CHN">
         <text>玩家3现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 3 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 3 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家3現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -329,6 +467,15 @@ Gracz 3 jest teraz neutralny.
 1. 缴纳所要求的贡品，好让你能从法兰克人那里换取疾风护符。
 2. 探索西南方的那座岛。</text>
       </lang>
+      <lang code="eng">
+        <text>
+The Franks !!
+We joyfully greeted the Franks, they did have wind amulets, but the price of 67 coins for a trade agreement seemed rather high to us. We asked them about Merlin, the red corsair. We only know of an island in the south. The corsair's red flag is said to have been spotted there....
+Mission goals:
+1. Pay the requested tribute so you can trade wind amulets with the Franks.
+2. Explore the island in the southwest.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Die Franken !!
@@ -339,14 +486,18 @@ Missionsziele:
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-The Franks !!
-We joyfully greeted the Franks, they did have wind amulets, but the price of 67 coins for a trade agreement seemed rather high to us. We asked them about Merlin, the red corsair. We only know of an island in the south. The corsair's red flag is said to have been spotted there....
-Mission goals:
-1. Pay the requested tribute so you can trade wind amulets with the Franks.
-2. Explore the island in the southwest.
-</text>
+      <lang code="l11">
+        <text>法蘭克人！！
+我們喜氣洋洋地迎接法蘭克人，他們雖有疾風護符，可一紙貿易協定要價67枚硬幣，在我們看來實在偏高。我們向他們打聽紅海盜梅林。我們只知道南邊有座島。據說有人在那裡見過海盜的紅旗……
+任務目標：
+1. 繳納所要求的貢品，好讓你能從法蘭克人那裡換取疾風護符。
+2. 探索西南方的那座島。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -366,6 +517,15 @@ Cele misji:
 1. 若你想与拜占庭人通商，就缴纳所要求的贡品。
 2. 探索西南方的那座岛。</text>
       </lang>
+      <lang code="eng">
+        <text>
+The Byzantines !!
+Hey hey, they called. So so, you want a trade agreement with us? Hmm, let's think. The current economic situation is quite good for us. Pay us 34 coins, and we're in business. By the way, there is an island in the southwest. Strange creatures are said to dwell there. We sent scouts, but nobody came back.
+Mission goals: 
+1. Pay the requested tribute if you want to trade with the Byzantines.
+2. Explore the island in the southwest.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Die Byzantiner !!
@@ -376,14 +536,18 @@ Missionsziele:
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-The Byzantines !!
-Hey hey, they called. So so, you want a trade agreement with us? Hmm, let's think. The current economic situation is quite good for us. Pay us 34 coins, and we're in business. By the way, there is an island in the southwest. Strange creatures are said to dwell there. We sent scouts, but nobody came back.
-Mission goals: 
-1. Pay the requested tribute if you want to trade with the Byzantines.
-2. Explore the island in the southwest.
-</text>
+      <lang code="l11">
+        <text>拜占庭人！！
+嗬嗬，他們喊道。哦，這麼說你們想與我們籤一紙貿易協定？嗯，讓我想想。眼下的經濟形勢對我們相當有利。給我們34枚硬幣，這買賣就成。順帶一提，西南方有座島。據說那裡盤踞著古怪的生物。我們派出過偵察兵，可沒有一個回來。
+任務目標：
+1. 若你想與拜占庭人通商，就繳納所要求的貢品。
+2. 探索西南方的那座島。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -401,6 +565,13 @@ Cele misji:
 老天，这些又是什么畜生？它们身上带着红海盗的颜色。他准是打算在这里搞个狼群养殖场。可这我们无论如何都得阻止。
 任务目标：消灭群狼。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Wolves !!
+Heavens, what kind of beasts were those? They bore the colours of the red corsair. He must have planned a wolf breeding farm here. But we had to prevent that at all costs.
+Mission goal: Destroy the wolves.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Wölfe !!
@@ -409,12 +580,16 @@ Missionsziel: Vernichte die Wölfe.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Wolves !!
-Heavens, what kind of beasts were those? They bore the colours of the red corsair. He must have planned a wolf breeding farm here. But we had to prevent that at all costs.
-Mission goal: Destroy the wolves.
-</text>
+      <lang code="l11">
+        <text>群狼！！
+老天，這些又是什麼畜生？它們身上帶著紅海盜的顏色。他準是打算在這裡搞個狼群養殖場。可這我們無論如何都得阻止。
+任務目標：消滅群狼。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -435,6 +610,18 @@ Cel misji: Zniszcz wilki.
 
 制作者：尤基</text>
       </lang>
+      <lang code="eng">
+        <text>
+Hey people, our quartermaster shouted excitedly to us. I have just discovered that we don't have any wind amulets left. Come on, go and search. I need at least 50 of them. Since we could not produce the amulets ourselves, we wanted to send out a scout in the hope that there were peoples here to trade with.
+Mission goals:
+1. Build your village.
+2. Explore the island world.
+3. Store 50 wind amulets.
+
+
+Created by: Yogi
+</text>
+      </lang>
       <lang code="ger">
         <text>
 He Leute, rief uns unser Lagermeister aufgeregt zu .Ich habe gerade festgestellt, daß wir gar keine Windamulette mehr haben.Los macht euch auf die Suche.Ich brauche mindestens 50 Stück.Da wir die Amulette nicht selbst herstellen konnten wollten wir  einen Kundschafter losschicken in der Hoffnung das es hier Völker gibt mit denen man handeln kann.
@@ -448,17 +635,21 @@ Erstellt von: Yogi
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Hey people, our quartermaster shouted excitedly to us. I have just discovered that we don't have any wind amulets left. Come on, go and search. I need at least 50 of them. Since we could not produce the amulets ourselves, we wanted to send out a scout in the hope that there were peoples here to trade with.
-Mission goals:
-1. Build your village.
-2. Explore the island world.
-3. Store 50 wind amulets.
+      <lang code="l11">
+        <text>喂，夥計們，我們的倉庫總管激動地朝我們喊道。我剛發現，我們的疾風護符一件都不剩了。快去找。我至少需要50件。由於這些護符我們無法自己製作，便打算派一名偵察兵出去，指望這裡能有可以通商的族群。
+任務目標：
+1. 建立你的村莊。
+2. 探索這片島嶼世界。
+3. 儲備50件疾風護符。
 
 
-Created by: Yogi
-</text>
+製作者：尤基</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -477,16 +668,25 @@ Stworzone przez: Yogi
       <lang code="CHN">
         <text>集币者</text>
       </lang>
+      <lang code="eng">
+        <text>
+The Coin Collectors
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Die Münzsammler
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-The Coin Collectors
-</text>
+      <lang code="l11">
+        <text>集幣者</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -498,16 +698,25 @@ Kolekcjonerzy Monet
       <lang code="CHN">
         <text>当我们备齐一切后，便继续朝北方航行。忽然，费利克斯和卡萝认出了在我们眼前展开的那一片新的岛链。是的，我们要回到家乡了，他欣喜若狂。可红海盗梅林早已在那里。一场决战即将向我们逼近……</text>
       </lang>
+      <lang code="eng">
+        <text>
+When we had everything together, we continued northward. Suddenly Felix and Karo recognised the new island chains that opened up before us. Yes, we're coming home, he rejoiced. But Merlin, the red corsair, was already there. A decisive battle awaited us......
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Als wir alles beisammen hatten, fuhren wir in nördlicher Richtung weiter. Plötzlich erkannte Felix und Karo die neuen Inselketten die sich vor uns auftaten. Jaa, wir kommen in die Heimat, freute er sich. Doch Merlin, der rote Korsar war auch schon dort. Es sollte uns eine Entscheidungsschlacht bevorstehen......
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-When we had everything together, we continued northward. Suddenly Felix and Karo recognised the new island chains that opened up before us. Yes, we're coming home, he rejoiced. But Merlin, the red corsair, was already there. A decisive battle awaited us......
-</text>
+      <lang code="l11">
+        <text>當我們備齊一切後，便繼續朝北方航行。忽然，費利克斯和卡蘿認出了在我們眼前展開的那一片新的島鏈。是的，我們要回到家鄉了，他欣喜若狂。可紅海盜梅林早已在那裡。一場決戰即將向我們逼近……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -519,16 +728,25 @@ Gdy mieliśmy już wszystko razem, popłynęliśmy dalej na północ. Nagle Feli
       <lang code="CHN">
         <text>任务达成！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission gewonnen!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission won!
-</text>
+      <lang code="l11">
+        <text>任務達成！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

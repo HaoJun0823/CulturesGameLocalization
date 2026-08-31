@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,162 +14,243 @@
       <text lang="CHN">驻扎待命，直至收到哈奇的消息。</text>
       <text lang="eng">Settle until you receive a message from Hatchie.</text>
       <text lang="ger">Siedele, bis du Nachricht von Hatschi erhältst.</text>
+      <text lang="l11">駐紮待命，直至收到哈奇的訊息。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zajmij się budową osady do czasu otrzymania wiadomości od Hatschiego.</text>
     </string>
     <string id="1">
       <text lang="CHN">为哈奇提供 20 名士兵，并在他的村庄建起 4 座防御塔。</text>
       <text lang="eng">Give Hatchie 20 soldiers and build 4 defence towers in his village.</text>
       <text lang="ger">Stelle Hatschi 20 Soldaten und errichte 4 Verteidigungstürme in seinem Dorf.</text>
+      <text lang="l11">為哈奇提供 20 名士兵，並在他的村莊建起 4 座防禦塔。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Dostarcz Hatschiemu 20 wojowników i zbuduj 4 strażnice w jego wiosce.</text>
     </string>
     <string id="2">
       <text lang="CHN">@解救哈奇的村庄，使其脱离蛇患！</text>
       <text lang="eng">@Free Hatchie's village from the serpent plague!</text>
       <text lang="ger">@Befreie Hatschis Dorf von der Schlangenplage!</text>
+      <text lang="l11">@解救哈奇的村莊，使其脫離蛇患！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">@Uwolnij wioskę Hatschiego od plagi węży!</text>
     </string>
     <string id="3">
       <text lang="CHN">向米格尔送达 20 块金矿。</text>
       <text lang="eng">Bring Miguel 20 gold nuggets.</text>
       <text lang="ger">Liefere Miguel 20 Goldbrocken.</text>
+      <text lang="l11">向米格爾送達 20 塊金礦。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Dostarcz Miguelowi 20 sztuk złota.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡金，方可与撒拉逊人贸易。</text>
       <text lang="eng">Pay the tribute to trade with the Saracens.</text>
       <text lang="ger">Zahle den Tribut, um mit den Sarazenen handeln zu können.</text>
+      <text lang="l11">繳納貢金，方可與撒拉遜人貿易。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, żeby handlować z Saracenami.</text>
     </string>
     <string id="5">
       <text lang="CHN">若想招募佣兵并争取贸易伙伴，须缴纳拜占庭人所索的贡金。</text>
       <text lang="eng">Pay the tribute demanded by the Byzantines if you want to gain mercenaries and a trading partner.</text>
       <text lang="ger">Zahle den von den Byzantinern geforderten Tribut, wenn du Söldner und einen Handelspartner gewinnen möchtest.</text>
+      <text lang="l11">若想招募傭兵並爭取貿易伙伴，須繳納拜占庭人所索的貢金。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać żądany przez Bizantyjczyków trybut, jeśli potrzebujesz najemników i partnera do handlu.</text>
     </string>
     <string id="6">
       <text lang="CHN">跟随伊科尔前往“废弃村庄”。</text>
       <text lang="eng">Follow Ykol to the 'abandoned village'.</text>
       <text lang="ger">Folge Ykol zum 'Verlassenen Dorf'.</text>
+      <text lang="l11">跟隨伊科爾前往“廢棄村莊”。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Idź za Ykolem do opuszczonej wioski.</text>
     </string>
     <string id="7">
       <text lang="CHN">寻找金矿山脉。</text>
       <text lang="eng">Find the gold mountain.</text>
       <text lang="ger">Finde den Goldberg.</text>
+      <text lang="l11">尋找金礦山脈。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Znajdź złotą górę.</text>
     </string>
     <string id="8">
       <text lang="CHN">清除“废弃村庄”中的蛇群。</text>
       <text lang="eng">Remove the serpents from the 'abandoned village'.</text>
       <text lang="ger">Beseitige die Schlangen im 'Verlassenen Dorf'.</text>
+      <text lang="l11">清除“廢棄村莊”中的蛇群。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Rozpraw się z wężami w opuszczonej wiosce.</text>
     </string>
     <string id="32">
       <text lang="CHN">若要与渔村贸易，须缴 10 单位小麦作贡金。</text>
       <text lang="eng">Pay 10 wheat as a tribute if you want to trade with the fishing village.</text>
       <text lang="ger">Zahle 10 Weizen Tribut, wenn du mit dem Fischerdorf Handel treiben willst.</text>
+      <text lang="l11">若要與漁村貿易，須繳 10 單位小麥作貢金。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut w postaci 10 snopów pszenicy, jeśli chcesz handlować z wioską rybacką.</text>
     </string>
     <string id="33">
       <text lang="CHN">若要与拜占庭人贸易，须缴 10 单位家具作贡金。</text>
       <text lang="eng">Pay 10 furniture as a tribute if you want to trade with the Byzantines.</text>
       <text lang="ger">Zahle 10 Möbel Tribut, wenn du mit den Byzantinern Handel treiben willst.</text>
+      <text lang="l11">若要與拜占庭人貿易，須繳 10 單位傢俱作貢金。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut w postaci 10 sztuk mebli, jeśli chcesz handlować z Bizantyjczykami.</text>
     </string>
     <string id="34">
       <text lang="CHN">若想从米格尔处获取情报，须缴 20 单位金作贡金。</text>
       <text lang="eng">Pay 20 gold as a tribute if you want to obtain information from Miguel.</text>
       <text lang="ger">Zahle 20 Gold Tribut, wenn du von Miguel Informationen erhalten möchtest.</text>
+      <text lang="l11">若想從米格爾處獲取情報，須繳 20 單位金作貢金。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut w postaci 20 sztuk złota, jeśli chcesz otrzymać wskazówki od Miguela.</text>
     </string>
     <string id="35">
       <text lang="CHN">再缴 5 单位家具，可增募 5 名长弓手。</text>
       <text lang="eng">Pay 5 furniture as a tribute for 5 additional longbow archers.</text>
       <text lang="ger">Zahle 5 Möbel Tribut für weitere 5 Langbogenschützen.</text>
+      <text lang="l11">再繳 5 單位傢俱，可增募 5 名長弓手。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut w postaci 5 sztuk mebli za kolejnych 5 łuczników.</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的部族</text>
       <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarnis Stamm</text>
+      <text lang="l11">比雅尼的部族</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Plemię Bjarniego</text>
     </string>
     <string id="51">
       <text lang="CHN">哈奇的村庄</text>
       <text lang="eng">Hatchie's Village</text>
       <text lang="ger">Hatschis Dorf</text>
+      <text lang="l11">哈奇的村莊</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wioska Hatschiego</text>
     </string>
     <string id="52">
       <text lang="CHN">撒拉逊人</text>
       <text lang="eng">Saracens</text>
       <text lang="ger">Sarazenen</text>
+      <text lang="l11">撒拉遜人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Saraceni</text>
     </string>
     <string id="53">
       <text lang="CHN">拜占庭人</text>
       <text lang="eng">Byzantines</text>
       <text lang="ger">Byzantiner</text>
+      <text lang="l11">拜占庭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bizantyjczycy</text>
     </string>
     <string id="54">
       <text lang="CHN">米格尔</text>
       <text lang="eng">Miguel</text>
       <text lang="ger">Miguel</text>
+      <text lang="l11">米格爾</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Miguel</text>
     </string>
     <string id="55">
       <text lang="CHN">蛇战士</text>
       <text lang="eng">Serpent Warriors</text>
       <text lang="ger">Schlangenkrieger</text>
+      <text lang="l11">蛇戰士</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wężołaki</text>
     </string>
     <string id="56">
       <text lang="CHN">村庄</text>
       <text lang="eng">Village</text>
       <text lang="ger">Dorf</text>
+      <text lang="l11">村莊</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wioska</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="l11">希拉</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
       <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
+      <text lang="l11">哈奇</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hatschi</text>
     </string>
     <string id="75">
       <text lang="CHN">伊科尔</text>
       <text lang="eng">Ykol</text>
       <text lang="ger">Ykol</text>
+      <text lang="l11">伊科爾</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ykol</text>
     </string>
     <string id="76">
       <text lang="CHN">米格尔</text>
       <text lang="eng">Miguel</text>
       <text lang="ger">Miguel</text>
+      <text lang="l11">米格爾</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Miguel</text>
     </string>
     <string id="98">
       <text lang="CHN">维京人在阿拉伯海岸登陆，前来援助旧友哈奇。因为那些诡谲的蛇形生物，正令这片土地陷入不安……</text>
       <text lang="eng">The Vikings have landed on the coast of Arabia to help their old friend Hatchie. Strange serpent creatures have rattled the locals ...</text>
       <text lang="ger">Die Wikinger landen an der Küste Arabiens, um ihren alten Freund Hatschi zu helfen. Denn unheimliche Schlangenwesen verunsichern das Land...</text>
+      <text lang="l11">維京人在阿拉伯海岸登陸，前來援助舊友哈奇。因為那些詭譎的蛇形生物，正令這片土地陷入不安……</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wikingowie zawinęli do brzegów Arabii, aby pomóc staremu przyjacielowi Hatschiemu uporać się z inwazją węży...</text>
     </string>
     <string id="99">
       <text lang="CHN">瘟疫</text>
       <text lang="eng">THE PLAGUE</text>
       <text lang="ger">DIE PLAGE</text>
+      <text lang="l11">瘟疫</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">PLAGA</text>
     </string>
   </strings>
@@ -198,6 +282,21 @@ Mein letztes Abenteuer hatte mich auf meiner Suche, das Geheimnis um eine besorg
 
 Es hatte eine rauschende Siegesfeier gegeben, doch dann war die Zeit gekommen, da sich unsere Wege trennen mussten...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+我是比雅尼，萊夫之子。小時候我曾隨氏族遠航，在遙遠的西方發現了一片未知的土地。在那裡，我們歷經重重驚險的冒險，結識了陌生的紅皮膚人，他們把友誼贈予了我們。
+
+上一場冒險中，為探尋一個令人不安的預兆背後的秘密，我穿越整個歐洲，一路來到東方。旅途中，三位來自遠方的勇士加入了我的行列。歷經無數冒險，我們終於合力擊敗了恐怖的世界蛇，拯救世界免於毀滅。因為這正是我的預兆，也是我的命運……
+
+我們曾舉辦過一場盛大的慶功宴，但分別的時刻終究還是到來了……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -264,6 +363,30 @@ Eines Tages ereilte uns ein dringender Hilferuf unseres Freundes Hatschi. Seine 
 Trotz des angenehmen Lebens, das wir führten, zögerten Cyra und ich keine Sekunde und waren bereit, die Strapazen auf uns zu nehmen und unserem Gefährten zu Hilfe zu eilen...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+勇敢的撒拉遜人、無畏的戰士哈奇，在宴會結束後回到了東方故鄉的城池。
+來自法蘭克王國的著名英雄西格德，也渴望重回故土那青翠豐美的草地與森林，於是加入了一支北上的商隊。
+
+而希拉，那位來自拜占庭的勇敢公主……無論我們共同經歷了多少危險，或許正因如此，我們之間萌生了深厚的情愫。彷彿自太初之時，諸神便已註定我們要相伴一生……
+
+我們的道路不再分離。於是我們隨希拉前往拜占庭，來到她父親的宮廷--他乃這輝煌帝國的皇帝。
+皇宮的榮光與富庶難以言表！我們在此一無所缺。最出色的廚師奉上世界各地的佳餚，我們暢飲帝國最好的美酒，侍從用芬芳的油膏為我們按摩身體。
+那是連諸神都無法過得更好的生活，於是我們在無憂與和平中一天天度過。
+
+然而正如常事，這份安寧與幸福又一次過早、又猝不及防地被打破了……
+
+一日，我們的朋友哈奇傳來了緊急求救。他的故鄉正遭到神秘蛇形生物的侵襲，它們給大地帶來混亂與毀滅。他急需援助，又因希望在此找到我們，便派來了信使。
+
+儘管生活優渥，希拉與我沒有半點遲疑，甘願踏上艱辛旅途，奔赴同伴身旁施以援手……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Hatschi, mężny Saracen i nieustraszony wojownik, wrócił do swej rodzinnej wioski na Wschodzie. Również Sigurd, sławny bohater z Francji, zatęsknił za swoją ojczyzną, więc przyłączył się do karawany zmierzającej na Północ.
@@ -302,6 +425,19 @@ Kaum waren wir an Land gegangen und hatten begonnen unsere Zelte aufzuschlagen, 
 Befreie Hatschis Dorf von der Schlangenplage! 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+我們剛一登陸、支起帳篷，便收到了老友哈奇的口信。可他的訊息悲傷又駭人：阿拉伯大片土地已遭蛇災侵襲。這些黑暗造物襲擊了哈奇周邊的許多村莊，此刻已逼近他村莊的大門。我們必須抓緊建立經濟與軍備……
+
+解放在哈奇村莊的蛇災！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Ledwo zeszliśmy na ląd i zaczęliśmy rozstawiać namioty, dotarła do nas przerażająca wiadomość od naszego przyjaciela Hatschiego. Znaczną część Arabii nawiedziła plaga węży. Węże zaatakowały wiele osad i właśnie dotarły do wrót wioski Hatschiego. Musieliśmy się spieszyć z przygotowaniami do walki...
@@ -326,6 +462,17 @@ The refugees from the village were still under shock. The serpent creatures had 
 Der Schrecken saß diesen Flüchtlingen aus dem Dorf noch im Nacken. Zu viele Schlangenkreaturen hatten sie dazu gebracht, ihre Heimat zu verlassen. Nur die Mutigsten blieben zurück - geführt von unserem alten Freund Hatschi. Die anderen baten uns, schnellstens der Plage ein Ende zu setzen, bevor sie sich über ganz Arabien ausbreiten konnte. 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+這些來自村莊的難民，驚懼仍縈繞於心。太多的蛇怪生物逼得他們背井離鄉。唯有最勇敢的人留下--由我們的老友哈奇率領。其餘的人懇求我們儘快終結這場災禍，免得它蔓延整個阿拉伯。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 Ze strachu przed inwazją węży wielu mieszkańców w popłochu opuściło wieś. Pozostali tylko najodważniejsi, którym dowodził nasz stary przyjaciel Hatschi. Naszym zadaniem było jak najszybciej rozprawić się z wężami, aby te nie rozpełzły się po całej Arabii.
@@ -347,6 +494,17 @@ With a deafening hiss, the strange serpent creatures attacked us. Would we be ab
         <text> 
 Mit einem ohrenbetäubenden Zischen fielen diese unheimlichen Schlangenwesen über uns herein. Ob wir dieser Attacke standhalten konnten? 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+伴隨著震耳欲聾的嘶鳴，這些神秘的蛇形生物朝我們撲來。我們能否擋下這次進攻？
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -376,6 +534,19 @@ Die Angriffswellen der Schlangenbiester schienen nicht abzubrechen!
 Hatschi hatte deshalb einen seiner Leute ausgesandt, um die Ursache der Schlangenplage zu erforschen. Dieser uns unbekannte Gefährte namens YKOL stand unserem Freund Hatschi schon seit einiger Zeit zur Seite. Er war aus dem weiten Norden gekommen und wollte den südlichen Teil der Welt durchreisen. Als er jedoch von dem Schlangenproblem erfuhr, war er geblieben, um zu helfen. Schon bald würden wir ihn kennen lernen...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+蛇怪的攻勢似乎沒有停歇！
+
+為此，哈奇派出一名部下去探查蛇災的源頭。這位我們並不熟識、名叫伊科爾（YKOL）的同伴，已有一段時間在旁協助哈奇。他來自遙遠的北方，本想穿越世界南部。然而得知蛇患後，他便留下幫忙。很快我們便會與他相識……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Fale ataków, przeprowadzanych przez te bestie, zdawały się nie mieć końca!
@@ -400,6 +571,17 @@ The terrible serpent creatures attacked us again. Their attacks grew stronger an
 Diese schrecklichen Schlangenwesen fielen ein weiteres Mal über uns herein. Ihre Angriffe wurden immer gewaltiger. Hoch im Norden braute sich etwas Unheimliches zusammen. Ob wir einer weiteren Angriffswelle standhalten konnten? 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+這些可怕的蛇形生物再次撲向我們。它們的攻擊愈發猛烈。北方高處，正醞釀著某種不祥之物。我們能否擋下又一波攻勢？
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Te potwory znów nas zaatakowały. Ich ataki były coraz silniejsze. Z dalekiej Północy zbliżała się do nas przerażająca siła zła. Czy uda nam się stawić czoło kolejnej fali ataków?
@@ -422,6 +604,17 @@ The serpent creatures attacked us more fiercely than ever before. This time we w
 Gewaltiger und furchteinflößender als bei jedem Angriff zuvor fielen die Schlangenwesen über uns herein. Dieses Mal würden wir sie nicht so einfach vertreiben können. Es waren einfach zu viele! 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+比以往任何一次進攻都更猛烈、更可怖，蛇形生物朝我們湧來。這一次，我們沒那麼容易將他們趕走了。它們實在太多了！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Jeszcze nigdy węże nie zaatakowały z taką furią i nie były tak przerażające. Tym razem nie było tak łatwo ich przepędzić. Po prostu było ich za wiele!
@@ -443,6 +636,17 @@ Once more an army of serpent creatures assaulted us. They seemed to be everywher
         <text> 
 Ein weiteres Mal fiel ein Heer der Schlangenwesen über uns herein. Sie schienen überall zu sein! Würden wir sie dieses Mal noch zurückschlagen können?
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+蛇形生物的大軍再一次襲來。它們似乎無處不在！這一次，我們還能將其擊退嗎？
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -472,6 +676,19 @@ Unweit der Küste trafen wir auf Sarazenen. Sie waren weitgehend von der Schlang
 Gegen einen geringen Tribut konnten wir mit ihnen vielleicht Handel treiben...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+在靠近海岸處，我們遇上了撒拉遜人。他們大體躲過了蛇災，對我們並無敵意。
+
+繳納少量貢品，我們或許就能與他們貿易……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Niedaleko wybrzeża natrafiliśmy na Saracenów. Udało im się ujść przed plagą węży. Nie byli wobec nas wrogo nastawieni. Może zgodzą się handlować z nami, jeśli zapłacimy im niewielki trybut...
@@ -499,6 +716,19 @@ Als wir den Sarazenen den Tribut überbrachten, waren sie uns alsbald sehr freun
 
 Wir wären jederzeit willkommen, ließ man uns wissen und sogleich bot man uns günstige Handelsverträge an.  
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+當我們把貢品交給撒拉遜人，他們立刻對我們十分友好。
+
+我們隨時都受歡迎--他們傳話道，並隨即向我們提出了優厚的貿易契約。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -540,6 +770,31 @@ MISSION VERLOREN!
 Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+是英勇，還是魯莽？比雅尼死時，諸神也為之落淚……少了這位英雄，你便無從知曉任務的結局。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -574,6 +829,19 @@ Unsere Kundschafter stießen auf ein Byzantinerdorf. Sie betrachteten uns mit Ar
 Gegen einen geringen Tribut konnten wir mit ihnen vielleicht Handel treiben und Söldner anheuern...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+我們的偵察兵撞見一座拜占庭村莊。他們心存疑慮地打量我們，卻並無敵意。
+
+繳納少量貢品，我們或許就能與他們貿易，並僱傭僱傭兵……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Nasi zwiadowcy natknęli się na bizantyjską wioskę. Jej mieszkańcy obserwowali nas nieufnie, ale nie byli wrogo nastawieni. Może zgodzą się handlować z nami, a my zwerbujemy najemników, jeśli zapłacimy im niewielki trybut...
@@ -601,6 +869,19 @@ Als wir unseren guten Willen durch die Tributzahlung unter Beweis gestellt hatte
 
 Zahle den Byzantinern den geforderten Tribut für weitere Söldner, sofern deine Wikinger sie benötigen. 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+當我們以繳納貢品證明誠意後，他們便向我們伸出友誼之手，願助我們完成後續任務。拜占庭人在橋上方派駐了 5 名最勇敢的長弓手作為僱傭兵，並願提供更多增援。
+
+若你的維京人需要，請向拜占庭人繳納所索貢品，換取更多僱傭兵。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -632,6 +913,19 @@ Als wir auf Hatschis Dorf trafen, wurden wir freundlich empfangen. Zu lange wurd
 Hilf dem Dorf und kümmere dich auch um Hatschi!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+當我們抵達哈奇的村莊，受到了熱情接待。這些可憐人遭受蛇災荼毒太久了。如今我們願挺身相助。
+
+援助村莊，也關照一下哈奇！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 W wiosce Hatschiego zostaliśmy serdecznie przyjęci. Ci biedacy już zbyt długo zmagali się z plagą węży. Teraz my mieliśmy im pomóc.
@@ -661,6 +955,19 @@ Als wir die Brücke passierten kam ein fliegender Händler auf uns zu. Er stellt
 
 Finde den Goldberg und liefere Miguel 20 Goldbrocken!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+我們過橋時，一名飛行商人朝我們走來。他自稱米格爾，並給出如下提示：“南方有座強大的金山。可惜我年老骨朽，無力自行開採。但若你們能把 20 塊金塊送進我的倉庫，我必再給你好些良策！”
+
+找到金山，並向米格爾交付 20 塊金塊！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -697,6 +1004,21 @@ Er riet uns, Wachtürme an den Übergangsstellen des ausgetrockneten Flussufers 
 
 "An dieser Stelle werdet ihr Kisten mit Wachtürmen und Bogenschützen finden. Aber seit auf der Hut vor den Raubtieren der Wüste!" sprach er ...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+與米格爾交易了不少黃金後，他給了我們遏制蛇災的重要指點。
+
+他建議我們在北方乾涸河岸的過渡地帶修築哨塔，並派駐弓箭手。
+
+“此處你們會找到裝有哨塔與弓箭手的箱子。但須提防沙漠中的猛獸！”他說道……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -736,6 +1058,21 @@ So machten wir uns auf den Weg - ungewiss, wohin uns diese Reise führen würde.
 Folge mit deinen Helden Ykol zum verlassenen Dorf. 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+彷彿憑空出現，消失許久的哈奇之友伊科爾現了身。“我的朋友們！你們雖已制服蛇災，但它們還會捲土重來！”
+他縱橫阿拉伯的探查已見成果。他向我們喊道：“隨我去廢棄村莊，我已追查到蛇災的源頭！”
+於是我們啟程--不知這趟旅程將引向何方……
+
+率領你的英雄，跟隨伊科爾前往廢棄村莊。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Niespodziewanie przybył przyjaciel Hatschiego, Ykol, od którego już od dłuższego czasu nie było żadnych wieści. "Moi przyjaciele! Wprawdzie udało wam się poskromić plagę węży, ale one powrócą!"
@@ -768,6 +1105,19 @@ Erneut stellten uns die freundlichen Byzantiner Söldner zur Verfügung, die obe
 Zahle den Byzantinern den geforderten Tribut für weitere Söldner, sofern deine Wikinger sie benötigen.   
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+友善的拜占庭人再次為我們提供僱傭兵，他們在橋上方等候。他們最勇敢的長弓手隨我們一同對抗蛇災！若我們需要，他們願提供更多增援。
+
+若你的維京人需要，請向拜占庭人繳納所索貢品，換取更多僱傭兵。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Zaprzyjaźnieni Bizantyjczycy ponownie dostarczyli najemników i obiecali dalszą pomoc. Najemnicy czekają na nas powyżej mostu.
@@ -798,6 +1148,19 @@ MISSION VERLOREN!
 Oh je! Ein ganzes Volk fiel den Schlangenwesen zum Opfer! Deinen Wikingern ist es nicht gelungen, die Plage aufzuhalten...    
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+任務失敗！
+
+哎呀！整個民族都淪為蛇形生物的犧牲品！你的維京人未能阻止這場災禍……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 NIEPOWODZENIE MISJI!
@@ -821,6 +1184,17 @@ This had to be the gold mountain the merchant Miguel had told us about!
         <text> 
 Das musste der Goldberg sein, von dem der Händler Miguel uns erzählt hatte!  
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+這想必就是商人米格爾所說的金山了！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -846,6 +1220,18 @@ It was strange that the wild animals didn't seem to harm him ...
 Ykol hatte das "Verlassene Dorf" bereits erreicht...
 Seltsam, die wilden Tiere schienen ihm nichts anhaben zu können...  
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+伊科爾已抵達“廢棄村莊”……
+奇怪，那些野獸似乎傷不了他分毫……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -875,6 +1261,19 @@ Viele unserer Waren befanden sich in unseren Hand-, Ochsenkarren und im Schiff.
 
 Nutze die Waren aus den Fahrzeugen, wenn du sie benötigst!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+我們的許多貨物都在手推車、牛車與船隻之中。
+
+若你需要，可使用車輛中的貨物！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -917,6 +1316,31 @@ MISSION VERLOREN!
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命中片刻的魯莽，轉瞬即至！你的女英雄希拉因你的疏忽而殞命！少了這位英雄，你便無從知曉任務的結局。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -964,6 +1388,31 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Hatschi erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命中片刻的魯莽，轉瞬即至！你的朋友與英雄哈奇因你的疏忽而殞命！少了這位英雄，你便無從知曉任務的結局。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>NIEPOWODZENIE MISJI!
@@ -1009,6 +1458,31 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Ykol erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命中片刻的魯莽，轉瞬即至！伊科爾因你的疏忽而殞命！少了這位英雄，你便無從知曉任務的結局。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1040,6 +1514,18 @@ Als wir das verlassene Dorf erreichten und keine Schlangenwesen antrafen, wusste
 Unser neuer Freund Ykol verließ uns alsbald wieder, um seine Nachforschungen zu überprüfen. Uns erwarteten indes andere Aufgaben...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+當我們抵達廢棄村莊、未見任何蛇形生物，便知蛇裔雖被擊退，卻未被徹底消滅。
+我們的新友伊科爾隨即離去，去複核他的探查。而我們，則另有任務在等待……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Gdy dotarliśmy do opuszczonej wioski, nie zastaliśmy ani jednego węża. Wiedzieliśmy, że chociaż udało nam się wyprzeć wężowe plemię, nie pokonaliśmy go ostatecznie.
@@ -1066,6 +1552,18 @@ MISSION COMPLETED!
 MISSION GEWONNEN! 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+任務成功！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 
@@ -1091,6 +1589,18 @@ THE PLAGUE
 
 DIE PLAGE
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+蛇災
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 

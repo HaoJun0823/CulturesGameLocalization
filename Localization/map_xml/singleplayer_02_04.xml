@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,162 +14,243 @@
       <text lang="CHN">建立你的村庄！</text>
       <text lang="eng">Build up your village!</text>
       <text lang="ger">Baue dein Dorf auf!</text>
+      <text lang="l11">建立你的村莊！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zbuduj osadę!</text>
     </string>
     <string id="1">
       <text lang="CHN">进一步了解这片土地！</text>
       <text lang="eng">Find out more about this country!</text>
       <text lang="ger">Finde mehr über dieses Land heraus!</text>
+      <text lang="l11">進一步瞭解這片土地！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Dowiedz się czegoś więcej o tym kraju!</text>
     </string>
     <string id="2">
       <text lang="CHN">寻找盟友！</text>
       <text lang="eng">Find allies!</text>
       <text lang="ger">Suche Verbündete!</text>
+      <text lang="l11">尋找盟友！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Poszukaj sojuszników!</text>
     </string>
     <string id="3">
       <text lang="CHN">护送西格德返回他的部族！</text>
       <text lang="eng">Escort Sigurd to his tribe!</text>
       <text lang="ger">Eskortiere Siegurd zu seinem Stamm!</text>
+      <text lang="l11">護送西格德返回他的部族！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapewnij Sigurdowi eskortę w drodze do jego plemienia!</text>
     </string>
     <string id="4">
       <text lang="CHN">向变节的法兰克人缴纳贡品，助西格德重聚部族！</text>
       <text lang="eng">Pay the tribute to the renegade Franks to help Sigurd unite his tribe!</text>
       <text lang="ger">Zahle den Tribut an die abtrünnigen Franken, um Siegurd bei der Wiederzusammenführung zu helfen!</text>
+      <text lang="l11">向變節的法蘭克人繳納貢品，助西格德重聚部族！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut zbuntowanym Frankom, aby pomóc Sigurdowi w zjednoczeniu plemienia!</text>
     </string>
     <string id="5">
       <text lang="CHN">协助西格德抵御撒拉逊人即将发动的进攻！</text>
       <text lang="eng">Help Sigurd to ward off the attack of the Saracens, which will take place soon!</text>
       <text lang="ger">Hilf Siegurd, den baldigen Angriff der Sarazenen abzuwehren!</text>
+      <text lang="l11">協助西格德抵禦撒拉遜人即將發動的進攻！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Pomóż Sigurdowi odeprzeć mający nastąpić atak Saracenów!</text>
     </string>
     <string id="6">
       <text lang="CHN">消灭撒拉逊人带来的威胁！</text>
       <text lang="eng">Destroy the Saracen threat!</text>
       <text lang="ger">Vernichte die Bedrohung durch die Sarazenen!</text>
+      <text lang="l11">消滅撒拉遜人帶來的威脅！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Pokonaj Saracenów!</text>
     </string>
     <string id="7">
       <text lang="CHN">寻找西格德！法兰克人提及一座岛屿--你需一艘船！</text>
       <text lang="eng">Find Sigurd! The Franks spoke of an island - so you will need a ship!</text>
       <text lang="ger">Finde Siegurd! Die Franken sprachen von einer Insel - du brauchst also ein Schiff!</text>
+      <text lang="l11">尋找西格德！法蘭克人提及一座島嶼--你需一艘船！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Odszukaj Sigurda! Frankowie mówili o wyspie - potrzebujesz więc statku!</text>
     </string>
     <string id="30">
       <text lang="CHN">向变节的一支族人缴纳贡品，以援助西格德！</text>
       <text lang="eng">Pay the tribute to the renegade Franks to help Sigurd!</text>
       <text lang="ger">Zahle dem abtrünnigen Stammesteil den Tribut, um Siegurd zu helfen!</text>
+      <text lang="l11">向變節的一支族人繳納貢品，以援助西格德！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać buntownikom trybut, aby pomóc Sigurdowi!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的部族</text>
       <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarnis Stamm</text>
+      <text lang="l11">比雅尼的部族</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Plemię Bjarniego</text>
     </string>
     <string id="51">
       <text lang="CHN">尊贵法兰克人</text>
       <text lang="eng">Honourable Franks</text>
       <text lang="ger">Ehrwürdige Franken</text>
+      <text lang="l11">尊貴法蘭克人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Szlachetni Frankowie</text>
     </string>
     <string id="52">
       <text lang="CHN">撒拉逊商人</text>
       <text lang="eng">Saracen Merchants</text>
       <text lang="ger">Sarazenische Händler</text>
+      <text lang="l11">撒拉遜商人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Saraceńscy handlarze</text>
     </string>
     <string id="53">
       <text lang="CHN">变节法兰克人</text>
       <text lang="eng">Renegade Franks</text>
       <text lang="ger">Abtrünnige Franken</text>
+      <text lang="l11">變節法蘭克人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zbuntowani Frankowie</text>
     </string>
     <string id="54">
       <text lang="CHN">奸恶撒拉逊人</text>
       <text lang="eng">Saracen Rogues</text>
       <text lang="ger">Schurkische Sarazenen</text>
+      <text lang="l11">奸惡撒拉遜人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Podli Saraceni</text>
     </string>
     <string id="55">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="56">
       <text lang="CHN">法兰克人</text>
       <text lang="eng">Franks</text>
       <text lang="ger">Franken</text>
+      <text lang="l11">法蘭克人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Frankowie</text>
     </string>
     <string id="57">
       <text lang="CHN">商人</text>
       <text lang="eng">Merchants</text>
       <text lang="ger">Händler</text>
+      <text lang="l11">商人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Handlarze</text>
     </string>
     <string id="58">
       <text lang="CHN">变节者</text>
       <text lang="eng">Renegades</text>
       <text lang="ger">Abtrünnige</text>
+      <text lang="l11">變節者</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Buntownicy</text>
     </string>
     <string id="59">
       <text lang="CHN">撒拉逊人</text>
       <text lang="eng">Saracens</text>
       <text lang="ger">Sarazenen</text>
+      <text lang="l11">撒拉遜人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Saraceni</text>
     </string>
     <string id="60">
       <text lang="CHN">密道守卫</text>
       <text lang="eng">Guards of the Secret Passage</text>
       <text lang="ger">Wachen zum Geheimgang</text>
+      <text lang="l11">密道守衛</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Strażnicy tajemnego przejścia</text>
     </string>
     <string id="61">
       <text lang="CHN">守卫</text>
       <text lang="eng">Guards</text>
       <text lang="ger">Wachen</text>
+      <text lang="l11">守衛</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Straż</text>
     </string>
     <string id="62">
       <text lang="CHN">法兰克哨兵</text>
       <text lang="eng">Frankish Guards</text>
       <text lang="ger">Wachposten der Franken</text>
+      <text lang="l11">法蘭克哨兵</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Frankońska straż</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Siegurd</text>
+      <text lang="l11">西格德</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Sigurd</text>
     </string>
     <string id="73">
       <text lang="CHN">部族代表</text>
       <text lang="eng">Tribe Representative</text>
       <text lang="ger">Stammesvertreter</text>
+      <text lang="l11">部族代表</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Negocjator</text>
     </string>
     <string id="98">
       <text lang="CHN">当维京人在一片看似有人居住的岸边搁浅，一场大冒险便将他们卷入其中。</text>
       <text lang="eng">The Vikings have been stranded on an apparently inhabited coast and will soon be involved in a great adventure.</text>
       <text lang="ger">Als die Wikinger vor einer scheinbar bewohnten Küste stranden, werden sie in ein großes Abenteuer gerissen.</text>
+      <text lang="l11">當維京人在一片看似有人居住的岸邊擱淺，一場大冒險便將他們捲入其中。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Statki Wikingów zatonęły u wybrzeży nieznanej wyspy. Tak zaczęła się ich wielka przygoda.</text>
     </string>
     <string id="99">
       <text lang="CHN">撒拉逊人大战</text>
       <text lang="eng">THE GREAT SARACEN BATTLE</text>
       <text lang="ger">DIE GROßE SARAZENENSCHLACHT</text>
+      <text lang="l11">撒拉遜人大戰</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">WIELKA BITWA Z SARACENAMI</text>
     </string>
   </strings>
@@ -235,6 +319,33 @@ Von den bewaffneten Sarazenen wollte ich mich jedoch vorerst fern halten - wenn 
 Wir hatten ein paar Briefe in unserem Besitz, mit denen wir beliebige Häuser setzen konnten! Vielleicht sollten wir sie uns noch für später aufheben...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+我們乘著幾艘船踏上新的冒險，地平線上卻浮現出一座陌生、看似有人居住的島嶼。
+
+然而當我們欲靠近那遠處看似天堂的土地時，忽然騰起一片密不透風的濃霧，將我們的船隻盡數吞沒。失去了視線，我們撞上近岸的礁石，就此失去了所有的船。只餘一艘！
+
+我們泅水逃上近岸。溼透而疲憊的倖存者在海灘上集結，商議對策。我們首先著手，將船上殘存、尚且可用的物件盡數收集。或許日後還能派上用場。
+
+但我們從海上望見的此地居民，自始至終全副武裝、一動不動地立在岸上遠處，沉默地注視著我們的舉動--這景象著實令人不安！
+
+我們用搶救出的殘骸建起一座新的主營，將倖存的財物儲入其中。
+
+既已擱淺於此，我們便想安頓下來，建一座村莊，好早日再造新船、囤積補給。士兵們放哨警戒，我們則著手興建這座維京人新營地。
+
+我，比雅尼，雷夫之子，親自出發去探明這片土地。我想刺探居民，或許還能尋得盟友。
+只是那些武裝的撒拉遜人，我眼下還須敬而遠之--若被他們察覺，我的部族恐將大禍臨頭！
+
+另：
+我們隨身帶著幾封信，憑之可隨意安置房屋！或許該留待日後再用……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -274,6 +385,17 @@ Bjarni has died!
 Bjarni ist gestorben!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+比雅尼陣亡了！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -304,6 +426,19 @@ HILFERUF EINES FRÄNKISCHEN WACHPOSTENS
 
 Hilfe!!! Wir werden von den sarazenischen Schurken vom Festland angegriffen! Helft uns doch! Wo ist unser Anführer, wenn wir ihn mal brauchen?
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+法蘭克哨兵的求救
+
+救命！！！我們正遭大陸上那些撒拉遜惡徒攻擊！快幫幫我們！我們的首領呢，正用得著他的時候？
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -365,6 +500,28 @@ Er weiß nichts von unserer schrecklichen Lage, also informiere ihn bitte.
 Wir flehen dich an! Hilf uns!"
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+尊貴法蘭克人
+
+"這些可惡的撒拉遜人！他們襲擊了我們僅剩的最後一座前哨……自從我們拒絕倒向他們，侵擾便接踵而至。而沒有首領，我們根本無力抗衡！
+
+雖不願承認--我們許多人懼怕這個好戰的部族，也正因如此，有些人歸順了撒拉遜人！可若連自身都無法同心，我們又如何抵禦外敵？
+
+我們必須贏回兄弟姐妹……可如何著手？我們百般懇求，他們卻毫無回應！
+
+尊貴的比雅尼，求你助我們尋回首領！他離去前曾說，要去東方一座孤島上度假--唯有在那兒，他方能真正放鬆！
+他對我們的慘況一無所知，請你告知於他。
+
+我們懇求你！幫幫我們！"
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -413,6 +570,21 @@ Wir sind die Wächter dieses Geheimganges! Aus welchem Grunde möchtest du hier 
 
 Wie dem auch sei - komm später wieder, vielleicht überlegen wir es uns dann noch mal und lassen dich passieren!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+密道守衛
+
+我們是這條密道的守衛！你因何欲從此透過？
+
+無論如何--改日再來吧，或許到時我們改變主意，便放你通行！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -479,6 +651,29 @@ Tipp:
 Du solltest einen Weg nehmen, der dich um deine Feinde herumleitet - eine direkt Konfrontation wäre bestimmt tödlich!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+西格德
+
+你好！你在我島上作甚？
+
+什麼？我的部族竟分裂了？撒拉遜人越發咄咄逼人？戰火一觸即發？
+
+天哪！為何無人知會我？我明明將這島的精確座標留在了營中！這群蠢材！怎的沒一人前來？
+
+罷了，事已至此--多謝你告知於我！
+請儘快護送我返回部族--那邊似乎情形不妙……沒了首領。唉，我看來得重新照料我的子民了！還休什麼假……
+
+提示：
+你該選一條繞過敵人的路--正面衝突必死無疑！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -530,6 +725,22 @@ Aber gut, dafür bin ich ja nun wieder da. Ich werde unseren Stamm wieder zusamm
 Ich werde mich mit unseren ehemaligen Stammesbrüdern treffen, und ihnen ihren Fehler deutlich machen! Niemals darf unser Stamm getrennte Wege gehen... Feind hin, Gefahr her!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+歸鄉
+
+兄弟們，我向你們致意！可告訴我--你們怎容部族分裂？莫非全無頭腦？才離開區區數日……
+
+不過也好，正因如此，我如今回來了。我會讓部族重歸一統！
+我會與昔日的族人會面，叫他們認清自己的過錯！我們的部族絕不可各行其是……管他敵人還是危險！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -574,6 +785,22 @@ Und denkt dran - wer nicht unser Freund ist, ist unser Feind! Unsere Nebelflotte
 Ihr habt noch zwanzig Minuten Zeit. Wer dann nicht verschwunden ist, bekommt unsere Klingen zu spüren!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+撒拉遜人
+
+你們法蘭克人，是想來找茬嗎？！我們不容許這次會面！
+記著--不與我們為友者，便是我們的敵人！我們的迷霧艦隊已然備便，定將你們的村莊夷為平地！
+
+你們還有二十分鐘。到時仍未消失者，便嚐嚐我們的利刃！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -608,6 +835,19 @@ GREISER EREMIT
 
 Einen wertvollen Tipp möchte ich dir noch mit auf den Weg geben: Es gibt einen versteckten Weg von hinten ins Dorf der Sarazenen! Es wird nicht leicht sein, sie zu besiegen, aber wenn du dort mit einer Flotte landest, könntest du sie vielleicht überraschen...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+白髮隱士
+
+臨行前，我再贈你一條寶貴提示：有一條隱秘小道，可從背後潛入撒拉遜人的村莊！擊敗他們殊非易事，但若有艦隊從此登陸，或可打個他們措手不及……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -659,6 +899,25 @@ Wir können niemanden schicken, ihn zu suchen - jeden Moment können uns die Sar
 
 Wir hoffen nur, das unser Anführer bald zurückkommt - vielleicht kann er ja unsere Stammesbrüder wieder zur Vernunft bringen...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+尊貴法蘭克人
+
+維京人，向你們致意！
+你們來得真不是時候！我們部族分裂，又與撒拉遜鄰人糾紛不斷。許多人已倒向了他們！
+
+我們的首領卻腳底抹油，說要去小島上好好度個假！哈！他連島在何處都未透露……
+我們抽不出人手去尋找他--撒拉遜人隨時可能進攻！我們每個壯丁都不可或缺。
+
+我們只盼首領早日歸來--或許他能喚醒族人的理智……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -734,6 +993,31 @@ TIPP:
 Den Tribut kannst du gleich den abtrünnigen Franken bezahlen, dann muß sich Siegurd nicht noch einmal mit deren Unterhändler treffen...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+部族談判
+
+我，西格德，立於約定之地，直視那變節支系使者的眼睛！我真想宰了這叛徒……罷了，不提！
+如今我須與他談判--他要價五十金，方肯在"自己"的部族中為複合出面斡旋！何等狂妄！
+
+我必須不惜一切代價讓村莊重歸一統。唯其如此，我們法蘭克人方能於對撒拉遜人之戰中立足……可我手中無金，亟需資援！
+且慢--在我度假那島近旁，另有一島，金礦極豐！
+
+比雅尼，你的部族可助我們開採黃金？待我們親抵彼處、採足黃金，期限早已過了！
+若你採金時間不足，至少也請派兵助戰！
+
+唉，這"使者"還命其部眾參與撒拉遜人的每次進攻--以向我們表明，他的最後通牒絕非兒戲……
+
+提示：
+貢品可徑直付與變節法蘭克人，如此西格德便無需再與其使者會面……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -792,6 +1076,23 @@ Nun werden wir es den Sarazenen zeigen! Die Nebelflotte wird keine Chance haben 
 Helft uns! Und wenn ihr beginnt, die Sarazenen anzugreifen, werden wir euch mit Soldaten unterstützen! Ihre dunkle Herrschaft muss beendet werden!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+重歸一統
+
+我，西格德，法蘭克人的首領，感謝你們的支援！
+
+我們重為一族了！團結如初，凝聚一心！如今我們定要讓撒拉遜人好看！迷霧艦隊面對我們統一的部族，絕無勝算！
+
+助我們！待你們起兵進攻撒拉遜人，我們必派兵相助！他們黑暗的統治必須終結！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -844,6 +1145,24 @@ Geht! Wenn unsere neuen Herren mitbekommen, dass ihr hier seid, werden sie uns b
 Und wir werden nicht den Gehorsam verweigern!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+變節者
+
+首領棄我們而去，正因如此，我們另投新主！我們脫離了法蘭克大部族，再不願與之有任何瓜葛！撒拉遜人有令，我們甚至不惜攻之！
+
+滾開，這兒沒你們的事！
+走！若我們的新主察覺你們在此，必令我們取你性命！
+
+而我們，絕不會抗命！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -879,6 +1198,19 @@ SCHURKISCHE SARAZENEN
 Wir sind der mächtige Stamm der Sarazenen, und wir herrschen über dieses Land! Du hast hier nichts zu suchen - also verschwinde, oder wir helfen dem nach! Mischt euch nicht in unsere Geschäfte ein!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+奸惡撒拉遜人
+
+我們是強大的撒拉遜部族，統治著這片土地！你在此無事可做--消失吧，否則我們幫你"消失"！少來插手我們的勾當！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -912,6 +1244,19 @@ INFORMANT
 Einst war dies eine riesige Festung, bis die Franken sie abtrugen, um aus den Rohstoffen ihre Stadt zu bauen!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+線人
+
+這裡曾是座巨大堡壘，直到法蘭克人將其拆毀，取用建材去築他們的城！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -944,6 +1289,19 @@ FREIE PASSAGE
 
 Wir brauchen Hilfe! Der Durchgang ist frei!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+自由通行
+
+我們需要幫助！通道已暢通！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -981,6 +1339,20 @@ Der Stamm der ehrwürdigen Franken ist geschlagen!
 Nun werden wir allein gegen die Sarazenen kämpfen müssen! Früher oder später werden sie uns sonst genauso vernichten wie die ehrwürdigen Franken...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+盟友折損
+
+尊貴法蘭克人的部族戰敗了！
+如今我們須獨自對抗撒拉遜人！遲早，他們會如毀滅尊貴法蘭克人那般，將我們也盡數剷除……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -1014,6 +1386,19 @@ VERGELTUNG
 Wir haben es diesen Abtrünnigen gezeigt! Sich gegen seine eigenen Kameraden zu erheben - das darf es nicht geben!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+報復
+
+我們已讓那些變節者嚐到苦頭！竟敢反叛自己的同袍--此風絕不可長！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -1040,6 +1425,17 @@ VICTORY is ours! The Saracens have been defeated! Now we will honour our gods an
 
 Der SIEG ist unser!!! Die Sarazenen sind bezwungen! Nun ehren wir unsere Götter und bauen dieses Land neu auf!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+勝利終屬我們！！！撒拉遜人已被降服！如今我們敬奉神明，重建這片土地！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1080,6 +1476,21 @@ Wir grüßen euch! Wir wollen gerne mit euch handeln! Wir handeln nämlich mit j
 Wenn du Waren brauchst, dann komm zu uns!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+經商的撒拉遜人
+
+向你們致意！我們很願與你們交易！只要出價夠好，我們與誰都做買賣！正因如此，同族才容得下我們！
+
+若需貨物，來找我們便是！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -1106,6 +1517,17 @@ That was the end of the Saracen merchants. Anyone who supports our enemies will 
 
 Das war das Ende der sarazenischen Händler. Denn wer zu unseren Feinden hält, hat keine Schonung zu erwarten...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+那些撒拉遜商人的末日到了。因為誰若與我們的敵人為伍，便休想獲得寬恕……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1137,6 +1559,19 @@ VERSTÄRKUNG
 
 Haltet durch, Waffenbrüder, wir schicken euch Verstärkung! Wir haben uns auf diesen Moment vorbereitet - Endlich ist es soweit! Wenn wir zusammenhalten, werden wir gewinnen!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+增援
+
+撐住，戰友們，我們派增援來了！我們為此刻籌備已久--終於盼到了！只要同心協力，我們必勝！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1201,6 +1636,29 @@ Nur ein kleiner, aber gut bewaffneter Rest des Stammes konnte dem Druck der Sara
 Niemand ist hier mehr sicher, sei also auf der Hut! Wenn die Sarazenen sich von dir gestört fühlen, könnten sie auch dich angreifen!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+白髮隱士
+
+我在此地居住已久，熟知這片土地的往事。我曾是大西北那座巨堡的居民！直到撒拉遜人將它摧毀的那天。
+
+他們自北方湧來，成群結隊。圍城數月，無可阻擋。我們不久便瀕於餓死，國王只得投降以保全眾命。他卻遭人怯懦地殺害，我們這些臣民則被奴役、驅離！
+
+我是族中僅存者，全憑法蘭克人的仁慈才得活命。他們遲來此地許久，長期未被撒拉遜人察覺！可當他們欲在近旁定居，卻收到最後通牒：為我們生息勞作，否則死！
+
+恐懼之下，部分法蘭克人屈從了命運--自此他們便在他族統治下苟活！
+
+唯有一小支裝備精良的部眾，堪與撒拉遜人的壓力抗衡。然有傳言稱撒拉遜人即將進攻--他們為此在其前哨附近的迷霧峽谷，特地建起一支龐大的戰艦艦隊！
+
+此地再無安全可言，務請當心！若撒拉遜人認為你礙事，亦會向你下手！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -1250,6 +1708,21 @@ Sigurd ist gestorben, es muss nun ohne ihn weitergehen... Die Franken haben nun 
 Aber wo wir doch selbst von den Sarazenen bedroht werden - wie viele Soldaten können wir da entbehren?
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+英雄之死
+
+西格德殞命，往後的路只得在沒有他的情況下走下去……法蘭克人如今僅存一線生機：若我們派兵馳援，或可助他們一臂之力！
+
+可我們自己亦受撒拉遜人威脅--又能分出多少兵力？
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -1284,6 +1757,19 @@ TOD EINES HELDEN
 
 Sigurd wurde im Kampf getötet. Ein ehrenhafter Tod für diesen tapferen und furchtlosen Helden! Doch nun ist sein Stamm auf sich allein gestellt - und aufs ärgste vom Untergang bedroht!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+英雄之死
+
+西格德戰死沙場。對這位勇敢無畏的英雄而言，這是光榮的死！可他的部族如今孤立無援--正瀕臨覆滅！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1327,6 +1813,22 @@ Hinweis:
 Du hast noch dreißig Sekunden, um die Abtrünnigen zurückzugewinnen!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+進攻
+
+迷霧艦隊啟航了！他們的進攻將毀滅一切！變節者亦會推波助瀾！
+
+提示：
+你還有三十秒，去贏回那些變節者！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -1362,6 +1864,19 @@ KONSEQUENZEN
 
 Was?!? Ihr verbündet euch wieder? Das wird euch teuer zu stehen kommen! Sterbt, ihr fränkischen Verräter!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+後果
+
+什麼？！你們又結盟了？這要讓你們付出慘痛代價！死吧，你們這些法蘭克叛徒！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1401,6 +1916,21 @@ Alle auf ihre Verteidigungsposten!
 
 Das musste ja so kommen! Nun sind die Sarazenen über unser Dorf hergefallen!!! Hoffentlich können wir sie zurückdrängen...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+警報！
+我們遭襲了！
+各就防禦崗位！
+
+這結局早可預見！如今撒拉遜人已撲向我們的村莊！！！只盼我們能將他們擊退……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1443,6 +1973,21 @@ Ihr habt den Tribut nicht gezahlt! Unsere Herren greifen euch an! Ihr seid nicht
 Der Kampf beginnt nun also auch für uns!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+抉擇
+
+你們未繳貢品！我們的主子進攻你們了！你們無力護佑部族免遭撒拉遜人之手--如今我們便要向他們效忠。
+
+戰鬥，就此也向我們打響！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -1480,6 +2025,21 @@ Wir haben sie zurückgedrängt! Danke edler Bjarni, diesen Sieg verdanken wir nu
 Nun hilf uns bitte, auch den Rest dieser Schurken aus dem Lande zu vertreiben.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+得勝之役
+我們已將他們擊退！尊貴的比雅尼，多謝你，這場勝利全仰仗於你
+
+！！
+如今請助我們，將這群惡徒的殘部也逐出這片土地。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -1513,6 +2073,20 @@ WÄCHTER
                    
 Siegurd! Endlich bist du wieder da! Für dich öffnen wir den Durchgang natürlich sofort...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+守衛
+西格德！你終於回來了！為你，我
+
+們自然即刻敞開通道……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1554,6 +2128,22 @@ Nun müssen wir den Angriff der Nebelflotte abwarten... Sollte mir etwas gescheh
 Ich mache mir große Sorgen um uns alle!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+西格德
+如今我們須靜待迷霧艦隊的進攻……若
+
+我有不測，比雅尼，你須助我的部族！我懇求你……
+
+我為所有人深深憂心！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
                    
@@ -1588,6 +2178,20 @@ DIE ATTACKE
 Die Nebelflotte ist gestartet! Ihr Angriff wird verheerend werden! Aber wir sind nun ein Stamm - wir werden gewinnen!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+進攻
+迷霧艦隊啟航了！他們的進攻將毀滅一切！但
+
+我們如今已是一族--我們必勝！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -1617,6 +2221,17 @@ DIE GROSSE SARAZENENSCHLACHT
 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+撒拉遜人大戰
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -1642,6 +2257,17 @@ MISSION FAILED!
 MISSION VERLOREN!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+任務失敗！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -1666,6 +2292,17 @@ MISSION COMPLETED!
 
 MISSION GEWONNEN!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+任務成功！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

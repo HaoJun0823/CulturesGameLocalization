@@ -1,58 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="01_Die_Pirateninsel" export_map_id="01_Die_Pirateninsel" map_md5="c29c81b6b2985ce255895d622849f5ef" IsC2M="true">
+<localization version="1.3" map_id="01_Die_Pirateninsel" export_map_id="01_Die_Pirateninsel" map_md5="c29c81b6b2985ce255895d622849f5ef" IsC2M="true" deprecated="false">
   <languages>
-    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">海盗岛</text>
-      <text lang="ger">Die Pirateninsel</text>
       <text lang="eng">The Pirate Island</text>
+      <text lang="ger">Die Pirateninsel</text>
+      <text lang="l11">海盜島</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wyspa Piratów</text>
     </string>
     <string id="1">
       <text lang="CHN">我们顺道去了一趟加勒比海，好好享受一场尽兴的假期……</text>
-      <text lang="ger">Wir machten einen Abstecher in die Karibik, um uns einen ausgiebigen Urlaub zu gönnen.....</text>
       <text lang="eng">We made a detour to the Caribbean to treat ourselves to a lavish vacation...</text>
+      <text lang="ger">Wir machten einen Abstecher in die Karibik, um uns einen ausgiebigen Urlaub zu gönnen.....</text>
+      <text lang="l11">我們順道去了一趟加勒比海，好好享受一場盡興的假期……</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Skręciliśmy do Karaibów, aby pozwolić sobie na bogate wakacje...</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
-      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得友好。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
-      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得中立。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
-      <text lang="ger">Spieler0</text>
       <text lang="eng">Player0</text>
+      <text lang="ger">Spieler0</text>
+      <text lang="l11">玩家0</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
-      <text lang="ger">Spieler1</text>
       <text lang="eng">Player1</text>
+      <text lang="ger">Spieler1</text>
+      <text lang="l11">玩家1</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
-      <text lang="ger">Spieler2</text>
       <text lang="eng">Player2</text>
+      <text lang="ger">Spieler2</text>
+      <text lang="l11">玩家2</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz2</text>
     </string>
     <string id="53">
       <text lang="CHN">玩家3</text>
-      <text lang="ger">Spieler3</text>
       <text lang="eng">Player3</text>
+      <text lang="ger">Spieler3</text>
+      <text lang="l11">玩家3</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz3</text>
     </string>
   </strings>
@@ -63,6 +90,13 @@
 我也会知恩图报的。
 任务目标：消灭在北方拥有一座岛的梅林。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Yoo-hoo friends, my name is Felix and I belong to the tribe of the s-ki-mos. We live far, far in the north. In a world that consists only of snow and ice. I want to go home, but in the north lives a terrible pirate who terrorises this place. Numerous raids are his doing. He plunders the peaceful islanders who still live here. He calls himself Merlin, the red corsair. Would you help me get to my homeland?
+I would also show my gratitude.
+Mission goal: Destroy Merlin, who owns an island in the north.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Juhuu Freunde, ich heiße Felix und gehöre zum Stamm der s-ki-mos. Wir leben weit weit im Norden. In einer Welt die nur aus Schnee und Eis besteht. Ich möchte nach Hause doch im Norden lebt ein schrecklicher Pirat, der hier sein Unwesen treibt. Zahlreiche Überfälle gehen auf sein Konto. Er plündert die friedlichen Inselbewohner aus, die noch hier leben. Er nennt sich selbst Merlin, der rote Korsar. Würdet ihr mir helfen in meine Heimat zu gelangen?
@@ -71,12 +105,16 @@ Missionsziel: Vernichte Merlin, der im Norden eine Insel besitzt.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Yoo-hoo friends, my name is Felix and I belong to the tribe of the s-ki-mos. We live far, far in the north. In a world that consists only of snow and ice. I want to go home, but in the north lives a terrible pirate who terrorises this place. Numerous raids are his doing. He plunders the peaceful islanders who still live here. He calls himself Merlin, the red corsair. Would you help me get to my homeland?
-I would also show my gratitude.
-Mission goal: Destroy Merlin, who owns an island in the north.
-</text>
+      <lang code="l11">
+        <text>呀嗬，朋友們，我叫費利克斯，屬於 愛斯基摩部族。我們居住在遙遠的北方。那是一個只有冰雪的世界。我想回家，可北方住著一個可怕的海盜，在這裡作惡多端。無數次襲擊都出自他手。他劫掠那些仍在此安居的平和島民。他自封紅海盜梅林。你們願意幫我回到家鄉嗎？
+我也會知恩圖報的。
+任務目標：消滅在北方擁有一座島的梅林。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -90,16 +128,25 @@ Cel misji: Zniszcz Merlina, który posiada wyspę na północy.
       <lang code="CHN">
         <text>你失败了！！</text>
       </lang>
+      <lang code="eng">
+        <text>
+You lost!!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Du hast verloren !!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-You lost!!
-</text>
+      <lang code="l11">
+        <text>你失敗了！！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -111,16 +158,25 @@ Przegrałeś!!
       <lang code="CHN">
         <text>任务失败！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission verloren!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission lost!
-</text>
+      <lang code="l11">
+        <text>任務失敗！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -132,16 +188,25 @@ Misja przegrana!
       <lang code="CHN">
         <text>玩家1已阵亡。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 has died.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist gestorben.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 has died.
-</text>
+      <lang code="l11">
+        <text>玩家1已陣亡。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -153,16 +218,25 @@ Gracz 1 zmarł.
       <lang code="CHN">
         <text>玩家2已阵亡。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 has died.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist gestorben.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 has died.
-</text>
+      <lang code="l11">
+        <text>玩家2已陣亡。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -174,16 +248,25 @@ Gracz 2 zmarł.
       <lang code="CHN">
         <text>梅林的大本营已被摧毁，可他本人却乘一艘快船逃脱了。由于我们还得把费利克斯从他那座荒凉的岛上接出来，还得收拾行装，一时无法立刻追赶。可我们终会再见到他，这一点是确定无疑的……</text>
       </lang>
+      <lang code="eng">
+        <text>
+Merlin's headquarters was destroyed, but he himself managed to escape on a fast ship. Since we still had to fetch Felix from his dreary island and pack our things, we could not immediately go after him. But we would see him again, that much was certain....
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Merlins Hauptquartier war vernichtet, doch konnte er selbst auf einem schnellen Schiff entkommen. Da wir noch Felix von seiner trostlosen Insel holen mußten, und unsere Sachen packen mußten, konnten wir nicht sofort hinter ihm her. Doch wir würden ihn wiedersehen, so viel stand fest....
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Merlin's headquarters was destroyed, but he himself managed to escape on a fast ship. Since we still had to fetch Felix from his dreary island and pack our things, we could not immediately go after him. But we would see him again, that much was certain....
-</text>
+      <lang code="l11">
+        <text>梅林的大本營已被摧毀，可他本人卻乘一艘快船逃脫了。由於我們還得把費利克斯從他那座荒涼的島上接出來，還得收拾行裝，一時無法立刻追趕。可我們終會再見到他，這一點是確定無疑的……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -195,16 +278,25 @@ Kwatera główna Merlina została zniszczona, lecz jemu samemu udało się uciec
       <lang code="CHN">
         <text>玩家1现在转为敌对。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now hostile.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist jetzt feindlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 is now hostile.
-</text>
+      <lang code="l11">
+        <text>玩家1現在轉為敵對。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -216,16 +308,25 @@ Gracz 1 jest teraz wrogi.
       <lang code="CHN">
         <text>玩家2现在转为敌对。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now hostile.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt feindlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now hostile.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為敵對。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -237,16 +338,25 @@ Gracz 2 jest teraz wrogi.
       <lang code="CHN">
         <text>谢谢你们微薄的贡品。现在你们可以派商人来了。不过先警告你们：若你们派采金工来，我们立刻攻击你们……</text>
       </lang>
+      <lang code="eng">
+        <text>
+Thank you for the modest tribute. You may now send your traders. But be warned. If you send gold miners, we will attack you immediately....
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Danke für den bescheidenen Tribut. Ihr dürft nun eure Händler schicken. Doch seit gewarnt. Falls ihr Goldabbauer schickt greifen wir euch sofort an....
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Thank you for the modest tribute. You may now send your traders. But be warned. If you send gold miners, we will attack you immediately....
-</text>
+      <lang code="l11">
+        <text>謝謝你們微薄的貢品。現在你們可以派商人來了。不過先警告你們：若你們派採金工來，我們立刻攻擊你們……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -258,16 +368,25 @@ Dziękujemy za skromny trybut. Możecie teraz wysyłać swoich handlarzy. Lecz b
       <lang code="CHN">
         <text>哦，谢谢你们的贡品，现在你们可以派商人到我们这里来了。不过要当心。若你们派采铁工来，我们立刻攻击你们……</text>
       </lang>
+      <lang code="eng">
+        <text>
+Oh, thank you for the tribute, you may now send your traders to us. But beware. If you send iron miners, we will attack you immediately....
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Oh, danke für den Tribut, ihr dürft nun eure Händler zu uns schicken. Doch hütet euch. Wenn ihr Eisenabbauer schickt, greifen wir euch sofort an....
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Oh, thank you for the tribute, you may now send your traders to us. But beware. If you send iron miners, we will attack you immediately....
-</text>
+      <lang code="l11">
+        <text>哦，謝謝你們的貢品，現在你們可以派商人到我們這裡來了。不過要當心。若你們派採鐵工來，我們立刻攻擊你們……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -279,16 +398,25 @@ Och, dziękujemy za trybut, możecie teraz wysyłać do nas swoich handlarzy. Le
       <lang code="CHN">
         <text>玩家3现在转为友好。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now friendly.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 3 ist jetzt freundlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 3 is now friendly.
-</text>
+      <lang code="l11">
+        <text>玩家3現在轉為友好。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -300,16 +428,25 @@ Gracz 3 jest teraz przyjazny.
       <lang code="CHN">
         <text>玩家3现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 3 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 3 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家3現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -323,6 +460,13 @@ Gracz 3 jest teraz neutralny.
 我们是萨拉马雷古姆的萨拉马雷卡人，衷心问候你们，尊贵的勇士。你们在寻找黄金，好铸造硬币来换取治疗药水？嗯，那好吧。只需一点贡品，我们便能给你们提供几笔不错的交易。你们意下如何？
 任务目标：向萨拉马雷卡人缴纳所要求的贡品，因为唯有如此你才能达成目标。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Sallamaleikumgum !!
+We, the Sallamaleikas of Sallamaleigum, warmly greet you, honourable warriors. You seek gold to mint coins for your healing potions? Hmm, alright then. For a small tribute we could offer you some good trade deals. What do you think? 
+Mission goal: Pay the Sallamaleikas the requested tribute, for only thus can you achieve your goal.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Sallamaleikumgum !!
@@ -331,12 +475,16 @@ Missionsziel: Zahle den Sallamaleikas den gewünschten Tribut, denn nur so kanns
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Sallamaleikumgum !!
-We, the Sallamaleikas of Sallamaleigum, warmly greet you, honourable warriors. You seek gold to mint coins for your healing potions? Hmm, alright then. For a small tribute we could offer you some good trade deals. What do you think? 
-Mission goal: Pay the Sallamaleikas the requested tribute, for only thus can you achieve your goal.
-</text>
+      <lang code="l11">
+        <text>薩拉馬雷孔姆！！
+我們是薩拉馬雷古姆的薩拉馬雷卡人，衷心問候你們，尊貴的勇士。你們在尋找黃金，好鑄造硬幣來換取治療藥水？嗯，那好吧。只需一點貢品，我們便能給你們提供幾筆不錯的交易。你們意下如何？
+任務目標：向薩拉馬雷卡人繳納所要求的貢品，因為唯有如此你才能達成目標。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -351,6 +499,12 @@ Cel misji: Zapłać Sallamaleikasom żądany trybut, bo tylko tak możesz osiąg
         <text>站住！！你们来这儿做什么？这么说你们需要铁来打造铁质工具？我们有的是铁，不过先给我们缴一份贡品，然后咱们再谈买卖。
 任务目标：缴纳所要求的贡品，唯有如此你才能得到你为达成目标所需的铁。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Halt !! What do you want here? So you need iron to make iron tools? We have iron in abundance, but pay us a tribute first, then we'll talk business.
+Mission goal: Pay the requested tribute, only thus can you get the iron you need for your goal.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Halt !! Was wollt ihr hier ? So ihr braucht Eisen um Eisenwerkzeuge herzustellen? Wir haben Eisen im Überfluß, doch zahlt und zunächst einen Tribut, dann reden wir übers Geschäft.
@@ -358,11 +512,15 @@ Missionsziel: Zahle den gewünschten Tribut, nur so kannst Du Eisen bekommen, de
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Halt !! What do you want here? So you need iron to make iron tools? We have iron in abundance, but pay us a tribute first, then we'll talk business.
-Mission goal: Pay the requested tribute, only thus can you get the iron you need for your goal.
-</text>
+      <lang code="l11">
+        <text>站住！！你們來這兒做什麼？這麼說你們需要鐵來打造鐵質工具？我們有的是鐵，不過先給我們繳一份貢品，然後咱們再談買賣。
+任務目標：繳納所要求的貢品，唯有如此你才能得到你為達成目標所需的鐵。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -377,6 +535,13 @@ Cel misji: Zapłać żądany trybut, tylko tak dostaniesz żelazo, którego potr
 我，红海盗梅林，加勒比海的统治者、所有岛屿之王、海盗世界的大公与大君主，奉劝你们立刻消失，否则我的弓箭手会把你们消灭。
 任务目标：消灭红海盗梅林及其大本营。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Halt !! 
+I, Merlin, the red corsair, ruler of the Caribbean, king of all islands, grand prince and grand mogul of the pirate world, advise you to disappear immediately or my archers will destroy you. 
+Mission goal: Destroy Merlin the red corsair and his headquarters.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Halt !! 
@@ -385,12 +550,16 @@ Missionsziel: Vernichte Merlin den roten Korsaren und sein Hauptquartier.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Halt !! 
-I, Merlin, the red corsair, ruler of the Caribbean, king of all islands, grand prince and grand mogul of the pirate world, advise you to disappear immediately or my archers will destroy you. 
-Mission goal: Destroy Merlin the red corsair and his headquarters.
-</text>
+      <lang code="l11">
+        <text>站住！！
+我，紅海盜梅林，加勒比海的統治者、所有島嶼之王、海盜世界的大公與大君主，奉勸你們立刻消失，否則我的弓箭手會把你們消滅。
+任務目標：消滅紅海盜梅林及其大本營。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -410,6 +579,17 @@ Cel misji: Zniszcz Merlina, czerwonego korsarza, i jego kwaterę główną.
 
 制作者：尤基</text>
       </lang>
+      <lang code="eng">
+        <text>
+It was holiday time. Hooray, finally, we thought. We had settled on a great island, pulled our ship ashore, which we intended to use as a warehouse. On the way here we had noticed in the distance an island covered with ice. But since we were all eager for the island, we sailed with topsail set towards our holiday island.....
+We decided to store some goods and then later take a look at that small ice island in the southwest.
+Mission goal: Store 50 iron tools and 50 large healing potions. 
+Explore the ice island in the southwest. Build a ship for this purpose.
+
+
+Created by: Yogi
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Es war Urlaub angesagt. Hurra, endlich dachten wir. Wir hatten uns auf einer tollen Insel niedergelassen, unser Schiff an Land gezogen, welches wir als Lager benutzen wollten. Auf dem Weg hierher hatten wir in weiter Ferne eine mit Eis bedeckte Insel bemerkt. Da wir aber alle Reif für die Insel waren fuhren wir mit gesetztem Topsegel unsere Urlaubsinsel an.....
@@ -422,16 +602,20 @@ Erstellt von: Yogi
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-It was holiday time. Hooray, finally, we thought. We had settled on a great island, pulled our ship ashore, which we intended to use as a warehouse. On the way here we had noticed in the distance an island covered with ice. But since we were all eager for the island, we sailed with topsail set towards our holiday island.....
-We decided to store some goods and then later take a look at that small ice island in the southwest.
-Mission goal: Store 50 iron tools and 50 large healing potions. 
-Explore the ice island in the southwest. Build a ship for this purpose.
+      <lang code="l11">
+        <text>假期到了。萬歲，終於盼到了，我們心想。我們在一座絕妙的島上安頓下來，把船拖上了岸，打算拿它當倉庫用。來這兒的路上，我們在遠處望見了一座被冰雪覆蓋的島嶼。可我們個個都累壞了，只想上島歇著，便升起頂帆朝我們的度假島駛去……
+我們決定先儲備些物資，日後再去瞧瞧西南方那座冰雪小島。
+任務目標：儲備50件鐵質工具和50瓶大型治療藥水。
+探索西南方的冰島。為此建造一艘船。
 
 
-Created by: Yogi
-</text>
+製作者：尤基</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -449,16 +633,25 @@ Stworzone przez: Yogi
       <lang code="CHN">
         <text>海盗岛</text>
       </lang>
+      <lang code="eng">
+        <text>
+The Pirate Island
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Die Pirateninsel
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-The Pirate Island
-</text>
+      <lang code="l11">
+        <text>海盜島</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -470,16 +663,25 @@ Wyspa Piracka
       <lang code="CHN">
         <text>呼，这可是件苦差事。我们终于储备好了所需的物资，把费利克斯从他的岛上接了出来，梅林也被赶出了他的岛。可他逃脱了，这让我们十分不快。既然他朝北方逃去，而费利克斯的族人也住在北方，我们便预感到了不祥。我们想尽快追上去，免得梅林的爪牙再酿出更多祸端。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Phew, that had been a tough piece of work. Finally we had stored the required goods, fetched Felix from his island, and Merlin had been driven from his island. But he had escaped, and that did not suit us at all. Since he had fled northward, and Felix's people also lived in the north, we feared the worst. We wanted to quickly go after him, so that Merlin's henchmen would not cause any more mischief.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Puh, das war ein hartes Stück Arbeit gewesen. Endlich hatten wir die erforderlichen Waren eingelagert, hatten Felix von seiner Insel geholt und Merlin war von seiner Insel vertrieben worden. Doch war er entkommen, und das paßte uns gar nicht. Da er Richtung Norden geflohen war, und das Volk von Felix auch im Norden lebte ahnten wir schreckliches. Wir wollten schnell hinterher, damit Merlins Schergen nicht noch mehr Unheil anrichtete.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Phew, that had been a tough piece of work. Finally we had stored the required goods, fetched Felix from his island, and Merlin had been driven from his island. But he had escaped, and that did not suit us at all. Since he had fled northward, and Felix's people also lived in the north, we feared the worst. We wanted to quickly go after him, so that Merlin's henchmen would not cause any more mischief.
-</text>
+      <lang code="l11">
+        <text>呼，這可是件苦差事。我們終於儲備好了所需的物資，把費利克斯從他的島上接了出來，梅林也被趕出了他的島。可他逃脫了，這讓我們十分不快。既然他朝北方逃去，而費利克斯的族人也住在北方，我們便預感到了不祥。我們想盡快追上去，免得梅林的爪牙再釀出更多禍端。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -491,16 +693,25 @@ Uff, to był kawał ciężkiej roboty. Wreszcie zmagazynowaliśmy potrzebne towa
       <lang code="CHN">
         <text>任务达成！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission gewonnen!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission won!
-</text>
+      <lang code="l11">
+        <text>任務達成！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

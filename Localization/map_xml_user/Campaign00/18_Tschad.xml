@@ -1,58 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="18_Tschad" export_map_id="18_Tschad" map_md5="14e7610cb73445742f034a956ea12203" IsC2M="true">
+<localization version="1.3" map_id="18_Tschad" export_map_id="18_Tschad" map_md5="14e7610cb73445742f034a956ea12203" IsC2M="true" deprecated="false">
   <languages>
-    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">乍得</text>
-      <text lang="ger">Tschad</text>
       <text lang="eng">Chad</text>
+      <text lang="ger">Tschad</text>
+      <text lang="l11">查德</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Czad</text>
     </string>
     <string id="1">
       <text lang="CHN">我们不得不在沙漠中歇脚。</text>
-      <text lang="ger">Wir mußten eine Rast in der Wüste einlegen.</text>
       <text lang="eng">We had to rest in the desert.</text>
+      <text lang="ger">Wir mußten eine Rast in der Wüste einlegen.</text>
+      <text lang="l11">我們不得不在沙漠中歇腳。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Musielismy odpocząć na pustyni.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
-      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得友好。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
-      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得中立。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
-      <text lang="ger">Spieler0</text>
       <text lang="eng">Player0</text>
+      <text lang="ger">Spieler0</text>
+      <text lang="l11">玩家0</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
-      <text lang="ger">Spieler1</text>
       <text lang="eng">Player1</text>
+      <text lang="ger">Spieler1</text>
+      <text lang="l11">玩家1</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
-      <text lang="ger">Spieler2</text>
       <text lang="eng">Player2</text>
+      <text lang="ger">Spieler2</text>
+      <text lang="l11">玩家2</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz2</text>
     </string>
     <string id="53">
       <text lang="CHN">玩家3</text>
-      <text lang="ger">Spieler3</text>
       <text lang="eng">Player3</text>
+      <text lang="ger">Spieler3</text>
+      <text lang="l11">玩家3</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz3</text>
     </string>
   </strings>
@@ -61,16 +88,25 @@
       <lang code="CHN">
         <text>咦，那是什么东西？哦，宝箱。我们向来好奇，便打算立刻看看里面藏着什么。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Well, what was that thing? Oh, treasure chests. Curious as we were, we wanted to see straight away what was inside.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Nanu, was war das fürn Ding? Oh,Schatztruhen.Neugierig wie wir waren wollten wir gleich mal sehen was drin steckt.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Well, what was that thing? Oh, treasure chests. Curious as we were, we wanted to see straight away what was inside.
-</text>
+      <lang code="l11">
+        <text>咦，那是什麼東西？哦，寶箱。我們向來好奇，便打算立刻看看裡面藏著什麼。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -82,16 +118,25 @@ Och, co to było? Skrzynie skarbów. Ciekawi jak zawsze, chcieliśmy od razu zob
       <lang code="CHN">
         <text>你失败了！！这张地图太难了？那你连下一张都不必去试了。</text>
       </lang>
+      <lang code="eng">
+        <text>
+You have lost !! The map was too hard? Then don't even bother trying the next one.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Du hast verloren !! Die Karte war zu schwer? Dann brauchst Du die nächste erst gar nicht probieren.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-You have lost !! The map was too hard? Then don't even bother trying the next one.
-</text>
+      <lang code="l11">
+        <text>你失敗了！！這張地圖太難了？那你連下一張都不必去試了。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -103,16 +148,25 @@ Przegrałeś !! Mapa zbyt trudna? To nie próbuj nawet następnej.
       <lang code="CHN">
         <text>任务失败！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission verloren!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission lost!
-</text>
+      <lang code="l11">
+        <text>任務失敗！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -124,16 +178,25 @@ Misja przegrana!
       <lang code="CHN">
         <text>玩家1已阵亡。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 has died.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist gestorben.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 has died.
-</text>
+      <lang code="l11">
+        <text>玩家1已陣亡。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -145,16 +208,25 @@ Gracz 1 zmarł.
       <lang code="CHN">
         <text>梅林的爪牙已被消灭。可我们也有许多朋友为此丧了命。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Merlin's henchmen are destroyed. But many friends of ours had to pay with their lives as well.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Merlins Schergen sind vernichtet. Doch mußten auch viele Freunde von uns dran glauben.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Merlin's henchmen are destroyed. But many friends of ours had to pay with their lives as well.
-</text>
+      <lang code="l11">
+        <text>梅林的爪牙已被消滅。可我們也有許多朋友為此喪了命。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -166,16 +238,25 @@ Sługi Merlina zniszczone. Lecz wielu naszych przyjaciół też musiało zginą�
       <lang code="CHN">
         <text>水牛丹的爪牙已被消灭。</text>
       </lang>
+      <lang code="eng">
+        <text>
+The henchmen of Buffalo Dan have been destroyed.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Buffalo Dans Schergen sind vernichtet.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-The henchmen of Buffalo Dan have been destroyed.
-</text>
+      <lang code="l11">
+        <text>水牛丹的爪牙已被消滅。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -187,16 +268,25 @@ Sługi Buffalo Dana zostały zniszczone.
       <lang code="CHN">
         <text>玩家1现在转为敌对。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now hostile.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist jetzt feindlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 is now hostile.
-</text>
+      <lang code="l11">
+        <text>玩家1現在轉為敵對。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -208,16 +298,25 @@ Gracz 1 jest teraz wrogi.
       <lang code="CHN">
         <text>玩家2现在转为友好。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now friendly.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt freundlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now friendly.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為友好。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -229,16 +328,25 @@ Gracz 2 jest teraz przyjazny.
       <lang code="CHN">
         <text>玩家3现在转为友好。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now friendly.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 3 ist jetzt freundlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 3 is now friendly.
-</text>
+      <lang code="l11">
+        <text>玩家3現在轉為友好。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -250,16 +358,25 @@ Gracz 3 jest teraz przyjazny.
       <lang code="CHN">
         <text>玩家1现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家1現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -271,16 +388,25 @@ Gracz 1 jest teraz neutralny.
       <lang code="CHN">
         <text>玩家2现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -292,16 +418,25 @@ Gracz 2 jest teraz neutralny.
       <lang code="CHN">
         <text>玩家3现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 3 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 3 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家3現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -313,16 +448,25 @@ Gracz 3 jest teraz neutralny.
       <lang code="CHN">
         <text>呀嗬，朋友们，我们说过会助你们对抗那卑鄙的撒拉逊酋长坦克。你们需要药水，或者护符吗？我们的最好。一如既往，我们想用这些换武器。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Hooray friends, we did say we'd help you in the fight against Tank the nasty Saracen chieftain. Do you need potions, or even amulets? We have the best. As always, we'd like weapons in return.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Juhuu Freunde, wir sagten doch daß wir euch helfen würden im Kampf gegen Tank dem fiesen Sarazenenhäuptling.Braucht ihr Tränke, oder gar Amulette? Wir haben die besten. Wie immer möchten wir dafür Waffen haben.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Hooray friends, we did say we'd help you in the fight against Tank the nasty Saracen chieftain. Do you need potions, or even amulets? We have the best. As always, we'd like weapons in return.
-</text>
+      <lang code="l11">
+        <text>呀嗬，朋友們，我們說過會助你們對抗那卑鄙的撒拉遜酋長坦克。你們需要藥水，或者護符嗎？我們的最好。一如既往，我們想用這些換武器。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -335,6 +479,12 @@ Hej przyjaciele, mówiliśmy przecież, że pomożemy wam w walce z Tankiem, pod
         <text>站住，别动！！我，撒拉逊酋长坦克的左膀右臂梅林，现在就预言你们的覆灭。投降吧，否则你们必死无疑。投降？？呸。我们才不会。不过要消灭这支占尽人数优势的敌军，我们必须要有大量士兵。
 任务目标：消灭梅林的爪牙。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Halt, stop !! I, Merlin, right hand of Tank the Saracen chieftain, already foresee your downfall. Surrender, or you will die. Surrender?? Pah. Not us. But we did need many soldiers to destroy this overwhelming force.
+Mission goal: Destroy Merlin's henchmen.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Halt Stop !! Ich Merlin, die rechte Hand von Tank dem Sarazenhäuptling prophezeihe euch jetzt schon euren Untergang. Ergebt euch, oder ihr werdet sterben. Ergeben?? Paah. Wir doch nicht. Allerdings mußten wir viele Soldaten haben, um diese Übermacht zu vernichten.
@@ -342,11 +492,15 @@ Missionsziel: Vernichte Merlins Schergen.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Halt, stop !! I, Merlin, right hand of Tank the Saracen chieftain, already foresee your downfall. Surrender, or you will die. Surrender?? Pah. Not us. But we did need many soldiers to destroy this overwhelming force.
-Mission goal: Destroy Merlin's henchmen.
-</text>
+      <lang code="l11">
+        <text>站住，別動！！我，撒拉遜酋長坦克的左膀右臂梅林，現在就預言你們的覆滅。投降吧，否則你們必死無疑。投降？？呸。我們才不會。不過要消滅這支佔盡人數優勢的敵軍，我們必須要有大量士兵。
+任務目標：消滅梅林的爪牙。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -361,6 +515,13 @@ Cel misji: Zniszcz sługi Merlina.
 呐喊着冲上去！！把他们打倒！！绝不能让他们再往这片土地深处推进。利箭朝我们飞来。先是这股热浪，接着我们还得作战……
 任务目标：消灭水牛丹的爪牙。</text>
       </lang>
+      <lang code="eng">
+        <text>
+The henchmen of Buffalo Dan !!
+Charge them with a roar !! Cut them down !! Under no circumstances may they advance further inland. Arrows flew towards us. First this heat wave, and then we had to fight as well...
+Mission goal: Destroy Buffalo Dan's henchmen.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Buffalo Dans Schergen !!
@@ -369,12 +530,16 @@ Missionsziel: Vernichte Buffalo Dans Schergen.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-The henchmen of Buffalo Dan !!
-Charge them with a roar !! Cut them down !! Under no circumstances may they advance further inland. Arrows flew towards us. First this heat wave, and then we had to fight as well...
-Mission goal: Destroy Buffalo Dan's henchmen.
-</text>
+      <lang code="l11">
+        <text>水牛丹的爪牙！！
+吶喊著衝上去！！把他們打倒！！絕不能讓他們再往這片土地深處推進。利箭朝我們飛來。先是這股熱浪，接著我們還得作戰……
+任務目標：消滅水牛丹的爪牙。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -394,6 +559,17 @@ Cel misji: Zniszcz sługi Buffalo Dana.
 
 制作者：尤基</text>
       </lang>
+      <lang code="eng">
+        <text>
+Good heavens, what a blazing heat. To make matters worse, we had brought too little water. When we found a well, we decided to establish a small outpost to store new water supplies...
+Mission goals: Build your village.
+Store 100 units of water in the warehouse.
+Explore the area for allies or enemies.
+
+
+Created by: Yogi
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Himmel nochmal, war das eine glühende Hitze. Zu allem übel hatten wir zu wenig Wasser mitgenommen. Als wir einen Brunnen fanden, beschlossen wir ein kleinen Außenposten zu errichten, um neue Wasservorräte einzulagern...
@@ -406,16 +582,20 @@ Erstellt von: Yogi
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Good heavens, what a blazing heat. To make matters worse, we had brought too little water. When we found a well, we decided to establish a small outpost to store new water supplies...
-Mission goals: Build your village.
-Store 100 units of water in the warehouse.
-Explore the area for allies or enemies.
+      <lang code="l11">
+        <text>老天爺啊，這是何等灼人的酷熱。更糟的是，我們帶的水太少了。當我們找到一口井時，便決定修建一處小型前哨，以儲備新的水源……
+任務目標：建立你的村莊。
+在倉庫中儲備100單位水。
+探索周邊，尋找盟友或敵人。
 
 
-Created by: Yogi
-</text>
+製作者：尤基</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -433,16 +613,25 @@ Stworzone przez: Yogi
       <lang code="CHN">
         <text>乍得</text>
       </lang>
+      <lang code="eng">
+        <text>
+Chad
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Tschad
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Chad
-</text>
+      <lang code="l11">
+        <text>查德</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -454,16 +643,25 @@ Czad
       <lang code="CHN">
         <text>我们成功了。梅林和水牛丹都已被消灭。我们必须尽快逃离这难以忍受的酷热，于是把水装上牛车，继续朝内陆进军。我们的新朋友们也一同前来，据说是为了在对抗坦克的战斗中助我们一臂之力……</text>
       </lang>
+      <lang code="eng">
+        <text>
+We had done it. Merlin and Buffalo Dan were destroyed. We had to get out of this unbearable heat as quickly as possible, so we loaded our ox carts with the water and marched further inland. Our new friends came along. Allegedly to stand by us in the fight against Tank...
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Wir hatten es geschafft. Merlin und Buffalo Dan waren vernichtet. Wir mußten schleunigst aus dieser unerträglichen Hitze raus, deshalb beluden wir unsere Ochsenkarren mit dem Wasser, und marschierten weiter ins Landesinnere. Unsere neuen Freunde kamen mit. Angeblich um uns bei dem Kampf gegen Tank beizustehen...
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-We had done it. Merlin and Buffalo Dan were destroyed. We had to get out of this unbearable heat as quickly as possible, so we loaded our ox carts with the water and marched further inland. Our new friends came along. Allegedly to stand by us in the fight against Tank...
-</text>
+      <lang code="l11">
+        <text>我們成功了。梅林和水牛丹都已被消滅。我們必須儘快逃離這難以忍受的酷熱，於是把水裝上牛車，繼續朝內陸進軍。我們的新朋友們也一同前來，據說是為了在對抗坦克的戰鬥中助我們一臂之力……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -475,16 +673,25 @@ Udało nam się. Merlin i Buffalo Dan zostali zniszczeni. Musieliśmy jak najszy
       <lang code="CHN">
         <text>任务达成！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission gewonnen!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission won!
-</text>
+      <lang code="l11">
+        <text>任務達成！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

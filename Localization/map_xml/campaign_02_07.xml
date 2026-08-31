@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,156 +14,234 @@
       <text lang="CHN">@找到并跨越比弗罗斯特桥。</text>
       <text lang="eng">@Find and cross the bridge of Bifrost.</text>
       <text lang="ger">@Finde und überquere die Brücke Bifrost</text>
+      <text lang="l11">@找到並跨越比弗羅斯特橋。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">@Odszukaj i przekrocz most Bifrost.</text>
     </string>
     <string id="1">
       <text lang="CHN">抵达海姆达尔。</text>
       <text lang="eng">Reach Heimdall.</text>
       <text lang="ger">Erreiche Heimdall.</text>
+      <text lang="l11">抵達海姆達爾。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Udaj się do Heimdalla.</text>
     </string>
     <string id="2">
       <text lang="CHN">寻找海姆达尔的号角！</text>
       <text lang="eng">Find Heimdall's horn!</text>
       <text lang="ger">Suche das Horn Heimdalls!</text>
+      <text lang="l11">尋找海姆達爾的號角！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Odszukaj róg Heimdalla!</text>
     </string>
     <string id="3">
       <text lang="CHN">解开谜题。</text>
       <text lang="eng">Solve the riddle.</text>
       <text lang="ger">Löse das Rätsel.</text>
+      <text lang="l11">解開謎題。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Rozwiąż zagadkę.</text>
     </string>
     <string id="4">
       <text lang="CHN">与全部英雄过桥并穿门而过。</text>
       <text lang="eng">Cross the bridge and the gate with ALL your heroes.</text>
       <text lang="ger">Gehe mit ALLEN Helden über die Brücke und durch das Tor.</text>
+      <text lang="l11">與全部英雄過橋並穿門而過。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Przejdź ze WSZYSTKIMI bohaterami przez most i przez bramę.</text>
     </string>
     <string id="5">
       <text lang="CHN">必要时向海姆达尔缴纳其所索贡金。</text>
       <text lang="eng">Pay Heimdall the required tribute if necessary.</text>
       <text lang="ger">Zahle Heimdall wenn nötig den geforderten Tribut.</text>
+      <text lang="l11">必要時向海姆達爾繳納其所索貢金。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">W razie konieczności zapłać Heimdallowi żądany trybut.</text>
     </string>
     <string id="6">
       <text lang="CHN">寻找海姆达尔的战斧。</text>
       <text lang="eng">Find Heimdall's axe.</text>
       <text lang="ger">Suche das Axt Heimdalls.</text>
+      <text lang="l11">尋找海姆達爾的戰斧。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Odszukaj topór Heimdalla.</text>
     </string>
     <string id="7">
       <text lang="CHN">寻找海姆达尔的盔甲。</text>
       <text lang="eng">Find Heimdall's armour.</text>
       <text lang="ger">Suche die Rüstung Heimdalls.</text>
+      <text lang="l11">尋找海姆達爾的盔甲。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Poszukaj zbroi Heimdalla.</text>
     </string>
     <string id="8">
       <text lang="CHN">取走海姆达尔的号角。</text>
       <text lang="eng">Pick up Heimdall's horn.</text>
       <text lang="ger">Nimm das Horn Heimdalls auf.</text>
+      <text lang="l11">取走海姆達爾的號角。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Weź róg Heimdalla.</text>
     </string>
     <string id="9">
       <text lang="CHN">取走海姆达尔的战斧。</text>
       <text lang="eng">Pick up Heimdall's axe.</text>
       <text lang="ger">Nimm die Axt Heimdalls auf.</text>
+      <text lang="l11">取走海姆達爾的戰斧。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Weź topór Heimdalla.</text>
     </string>
     <string id="10">
       <text lang="CHN">取走海姆达尔的盔甲。</text>
       <text lang="eng">Pick up Heimdall's armour.</text>
       <text lang="ger">Nimm sie Rüstung Heimdalls auf.</text>
+      <text lang="l11">取走海姆達爾的盔甲。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Weź zbroję Heimdalla.</text>
     </string>
     <string id="11">
       <text lang="CHN">与全部英雄过桥，直抵那神秘的入口！</text>
       <text lang="eng">Cross the bridge with all your heroes and reach the mysterious entrance!</text>
       <text lang="ger">Überquere mit allen Helden die Brücke bis zum geheimnisvollen Eingang!</text>
+      <text lang="l11">與全部英雄過橋，直抵那神秘的入口！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Przekrocz most wraz ze wszystkimi bohaterami i udaj się do tajemniczego wejścia!</text>
     </string>
     <string id="31">
       <text lang="CHN">若需海姆达尔派出英雄，须付其 15 枚钱币。</text>
       <text lang="eng">Pay Heimdall 15 coins if you need some of his heroes.</text>
       <text lang="ger">Zahle Heimdall 15 Münzen, falls du von ihm Helden benötigst.</text>
+      <text lang="l11">若需海姆達爾派出英雄，須付其 15 枚錢幣。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać Heimdallowi 15 monet, jeśli potrzebujesz jego wojowników.</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的部族</text>
       <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarnis Stamm</text>
+      <text lang="l11">比雅尼的部族</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Plemię Bjarniego</text>
     </string>
     <string id="51">
       <text lang="CHN">海姆达尔</text>
       <text lang="eng">Heimdall</text>
       <text lang="ger">Heimdall</text>
+      <text lang="l11">海姆達爾</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Heimdall</text>
     </string>
     <string id="52">
       <text lang="CHN">幽灵战士</text>
       <text lang="eng">Ghost Warriors</text>
       <text lang="ger">Geisterkrieger</text>
+      <text lang="l11">幽靈戰士</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Duchy wojowników</text>
     </string>
     <string id="53">
       <text lang="CHN">蛇战士</text>
       <text lang="eng">Serpent Warriors</text>
       <text lang="ger">Schlangenkrieger</text>
+      <text lang="l11">蛇戰士</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wężołaki</text>
     </string>
     <string id="54">
       <text lang="CHN">狼人战士</text>
       <text lang="eng">Werewolf Warriors</text>
       <text lang="ger">Werwölfkrieger</text>
+      <text lang="l11">狼人戰士</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wilkołaki</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="l11">希拉</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
       <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
+      <text lang="l11">哈奇</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hatschi</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="l11">西格德</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">伊科尔</text>
       <text lang="eng">Ykol</text>
       <text lang="ger">Ykol</text>
+      <text lang="l11">伊科爾</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ykol</text>
     </string>
     <string id="76">
       <text lang="CHN">海姆达尔</text>
       <text lang="eng">Heimdall</text>
       <text lang="ger">Heimdall</text>
+      <text lang="l11">海姆達爾</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Heimdall</text>
     </string>
     <string id="98">
       <text lang="CHN">唯有海姆达尔那威力号角的声响，方能为我们指明通往阿斯加德之路。然而在这虚幻之地，危机四伏……</text>
       <text lang="eng">Only the sound of Heimdall's mighty horn could show us the way to Asgard. But numerous dangers were lurking in this unreal place ... </text>
       <text lang="ger">Nur der Klang des mächtigen Hornes Heimdalls konnte uns den Weg nach Asgard zeigen. Aber in dieser unwirklichen Gegend lauerten viele Gefahren... </text>
+      <text lang="l11">唯有海姆達爾那威力號角的聲響，方能為我們指明通往阿斯加德之路。然而在這虛幻之地，危機四伏……</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Tylko dźwięk czarodziejskiego rogu Heimdalla mógł wskazać nam drogę do Asgardu. Ale w tej nierzeczywistej krainie czyhało na nas wiele niebezpieczeństw... </text>
     </string>
     <string id="99">
       <text lang="CHN">海尔之国</text>
       <text lang="eng">HEL'S REALM</text>
       <text lang="ger">HEL'S REICH</text>
+      <text lang="l11">海爾之國</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">KRÓLESTWO HEL</text>
     </string>
   </strings>
@@ -184,6 +265,19 @@ A dark, stony labyrinth full of streams of lava opened up right in front of us. 
 Eine unwirkliche Gegend... 
 Ein steiniges, dunkles Labyrinth, durchzogen von Lavaflüssen, tat sich vor uns auf. Wir fühlten uns beobachtet, obwohl wir niemanden sahen... In den verwinkelten Gängen, schienen überall Gefahren zu lauern... 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+一片虛幻之境在我們眼前展開。
+一個怪石嶙峋、黑暗幽深的迷宮，被條條熔岩河流縱橫切割，出現在我們面前。儘管四下無人，我們卻感到被什麼東西注視著……在那些盤曲纏繞的通道里，彷彿處處潛藏著危險……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -223,6 +317,22 @@ So zumindest erzählten es die alten Mythen und Legenden...
 Finde Heimdall und überquere die Brücke Bifrost.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+我們必須在這黑暗的迷宮中殺出一條路，找到海姆達爾。這位太陽與白晝之神，守護著通往諸神的道路，而那道路便跨越彩虹橋比弗羅斯特。唯有他那威力無窮的號角之聲，能為我們指引通往阿斯加德之路。
+
+古老的神話與傳說，便是這樣告訴我們的……
+
+找到海姆達爾，跨越彩虹橋比弗羅斯特。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Musieliśmy znaleźć drogę przez ten mroczny labirynt i odszukać Heimdalla, boga słońca i światła, który strzegł mostu Bifrost, prowadzącego do krainy bogów. Tylko dźwięk jego potężnego rogu mógł nam wskazać drogę do Asgardu.
@@ -256,6 +366,20 @@ HEIMDALLS SICHERER HAFEN
 Tief im Inneren des Reiches der Hel fanden wir Heimdalls sicheren Hafen. Dieser Ort war frei von Werwolf-, Schlangen- und Geisterkriegern und eventuell konnten wir uns hier sogar vorübergehend zum Siedeln niederlassen, um neue Nahrung und Rohstoffe zu produzieren...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+海姆達爾的安全港灣
+
+在海爾統治領域的深處，我們找到了海姆達爾的安全港灣。此地沒有狼人、蛇人與幽靈戰士的侵擾，我們甚至或許能暫居於此，安頓下來，生產新的食物與原料……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 ZAMEK HEIMDALLA
@@ -286,6 +410,20 @@ GEISTERKRIEGER
 
 Die Seelen verstorbener Wikinger schienen in diesen leeren Hüllen der Krieger zu stecken. Uns missfiel es, gegen Soldaten unseres eigenen Volkes kämpfen zu müssen, aber wenn wir ihnen zu nahe kommen würden, ließen sie uns keine andere Wahl!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+幽靈戰士
+
+已故維京人的魂魄，似乎附在了這些戰士空洞的軀殼之中。我們並不願與同族同胞計程車兵為敵，可一旦過於靠近，他們便不會給我們別的選擇！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -323,6 +461,22 @@ Hatten wir die Schlangenplage doch in der Welt der Menschen besiegt, so schien u
 
 Hier, in Hel's Reich, war diese Plage wieder allgegenwärtig und wir mussten uns ihr erneut stellen...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+蛇戰士
+
+我們雖在人間擊退了蛇災，可當初向神燈精靈許下的願望，在這地底之下似乎並未應驗。
+
+在這裡，在海爾之國，那場災禍再度無處不在，我們不得不再次面對它……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -362,6 +516,22 @@ Hatten wir die Wolfsplage doch vermeintlich besiegt, indem wir die Fenriskette n
 
 Hier waren die Werwolfskrieger wieder allgegenwärtig und wir mussten uns ihnen erneut stellen...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+狼人戰士
+
+我們曾以為重鑄芬里爾鏈、套住那惡魔之狼便戰勝了狼禍，可這番英雄壯舉在海爾之國竟似毫無作用。
+
+此處狼人戰士再度橫行，我們唯有再次迎戰……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -421,6 +591,29 @@ Ich halte mein Horn gut verschlossen in einer Kammer in den Bergen im Westen."
 Weiterhin bot er uns an, dass wir gegen einen Tribut Helden anheuern könnten. Dies würde sich für uns durchaus lohnen ... 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+海姆達爾
+
+在海爾領域的深處，我們找到了海姆達爾的堡壘。橋前佇立著一位佝僂而神秘的老者。他自稱海姆達爾，將我們攔下。
+
+"站住，遠來的旅人！我早已在等候你們！"他說道，"但休想再向前一步！凡欲過彩虹橋比弗羅斯特者，須先滌淨此界一切邪物，或將我的劍與甲送來。那時我自會料理這些禍患。
+若你們未能先取來我的號角，也休想透過此橋！唯有號角能指引通往阿斯加德之路，卻也只有我能吹響它，故切莫妄動，自行去用！
+
+我的號角，正妥鎖於西方山中的密室。"
+
+"所以，要麼將我的甲與劍送來，要麼剿滅所有邪物。無論如何，定要將我那威力無窮的號角帶來！"
+
+此外，他提議我們可交納貢品來僱傭英雄。這對我們而言，著實是樁划算的買賣……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 HEIMDALL
@@ -469,6 +662,23 @@ Heimdall musste über mächtige Zauberkraft verfügen, um solche Geisterkrieger 
 Zahle Heimdall den geforderten Tribut für weitere Helden, sofern deine Wikinger sie benötigen.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+海姆達爾在橋前為我們引見了三名傭兵英雄，並表示還能提供更多增援。
+
+可這是怎麼回事？這些英雄竟與我們如此相像！
+海姆達爾必是掌握了強大的魔法，方能造出這般幽靈戰士！！
+
+若你的維京人需要更多英雄，請向海姆達爾交納所索之貢品。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Heimdall oddał nam do dyspozycji 3 bohaterów jako najemników i obiecał dalsze wsparcie. Bohaterzy czekają na nas przy moście.
@@ -509,6 +719,22 @@ Wagt euch keinen Schritt weiter! Wer über die Brücke Bifrost will, muss diese 
 "Bringt mir also meine Rüstung und meine Axt oder besiegt alle Unwesen!"
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+海姆達爾
+
+"休想再向前一步！凡欲過彩虹橋比弗羅斯特者，須先滌淨此界一切可怖邪物，或將我的劍與甲送來。否則休想透過。我的號角，你們已然尋得。"
+
+"所以，將我的甲與斧送來，要麼就剿滅所有邪物！"
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 HEIMDALL
@@ -541,6 +767,20 @@ HEIMDALLS HORN
 
 Du hast Heimdalls Horn aufgenommen! 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+海姆達爾之角
+
+你已拾取海姆達爾之角！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -578,6 +818,22 @@ Ich halte mein Horn gut verschlossen in einer Kammer in den Bergen."
 
 Löst das Rätsel zum Öffnen der Tür und bringt mir mein Horn! 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+"你們英勇善戰，也帶來了我所要的甲冑，可你們能否既智且勇？最後一項使命，是將那能指引阿斯加德之路的號角帶來。但唯有我能吹響它，故切莫妄動去用！
+
+我的號角，正妥鎖于山中密室。"
+
+解開機關之門，將我的號角取來！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -622,6 +878,31 @@ MISSION VERLOREN!
         <text>
 Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+是逞勇還是魯莽？比雅尼隕落之時，諸神亦為之落淚……少了這位英雄，你便無緣得知此役的結局。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -672,6 +953,24 @@ Obwohl alles in Ordnung zu sein schien, hatte ich ein seltsames Kribbeln in der 
 Doch auf einmal wurde es kalt. EISIG kalt...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+海姆達爾
+
+"你們身手不凡，也已證明自己堪當此任。如今過橋之路已為你們敞開！去吧，但切莫回頭！"海姆達爾說著，舉起了他的號角。
+
+儘管一切看似無恙，我的胃中卻泛起一陣異樣悸動，頸後寒毛直豎，彷彿正懸於某種可怖危難之中。然而四下並無異象，我們便壯膽踏上了彩虹橋比弗羅斯特。
+
+可驟然間，寒氣襲來。刺骨冰寒……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 HEIMDALL
@@ -719,6 +1018,24 @@ Was war mit Ykol los? Warum verhielt er sich plötzlich so merkwürdig? Führte 
 Oder hatten wir uns gar die ganze Zeit von ihm täuschen lassen? Hatte er einen eigenen, geheimen und arglistigen Plan verfolgt, bei dessen Durchführung wir ihm die ganze Zeit nur als Gehilfen und Mittel zum Zweck gedient hatten? Der hämische, böse Klang seines Lachens ging mir nicht mir aus dem Sinn, und mir schwante langsam nichts Gutes...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+伊科爾
+
+"哈，哈，哈……！"
+伴隨著一陣冷笑，伊科爾消失不見，我們三個好友頓時孤立無援。
+伊科爾究竟怎麼了？為何突然舉止如此怪異？他是否在暗中盤算著什麼？？？是否他知曉此地的某些秘辛，卻不願與我們吐露？若是如此，又為何不向我們明言？？？
+
+莫非我們自始至終都被他矇騙？他是否另懷隱秘詭詐之心，而我們一路不過是被他當作幫兇與工具？那冷酷惡毒的笑聲在我腦中揮之不去，我不祥的預感漸生……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 YKOL
@@ -759,6 +1076,21 @@ Es musste sich irgendwo ein weiterer befinden, der GEMEINSAM mit diesem Schalter
 Sollten wir einen unserer Männer zurücklassen, um den Schalter zu bewachen?
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+我們扳動開關時，聽到一聲金屬響動。可這開關似乎不足以開啟一扇門！
+必另有開關藏於某處，須與它合力方能啟動閉鎖機關！
+
+我們是否該留下一名部眾，看守這開關？
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Gdy nacisnęliśmy przycisk, usłyszeliśmy głośny, metaliczny dźwięk. Okazało się, że naciśnięcie tego przycisku nie wystarcza, aby otworzyć drzwi!
@@ -786,6 +1118,18 @@ When we activated the switch, we heard a loud metallic clank. Together with anot
 Als wir den Schalter betätigten, hörten wir ein lautes metallisches Geräusch. Dieser Schalter musste gemeinsam mit einen anderen Schalter an einer Stelle, nicht fern von hier, ein großes Tor geöffnet haben!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+我們扳動開關時，聽到一聲響亮的金屬轟鳴。這開關必是與不遠處另一處開關合力，開啟了一扇大門！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Gdy nacisnęliśmy przycisk, usłyszeliśmy głośny metaliczny dźwięk. Przycisk ten wraz z innym przyciskiem musiał otworzyć potężne drzwi znajdujące się gdzieś w pobliżu!
@@ -809,6 +1153,18 @@ When we activated the switch, we heard a loud metallic clank. This switch must h
 Als wir den Schalter betätigten, hörten wir ein lautes metallisches Geräusch. Dieser Schalter musste an einer Stelle, nicht fern von hier, ein großes Tor geöffnet haben!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+我們扳動開關時，聽到一聲響亮的金屬轟鳴。這開關必是在不遠處開啟了一扇大門！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Gdy nacisnęliśmy przycisk, usłyszeliśmy głośny metaliczny dźwięk. Ten przycisk musiał otworzyć potężne drzwi znajdujące się gdzieś w pobliżu!
@@ -831,6 +1187,18 @@ When we activated the switch, we heard a loud metallic clank. This switch must h
         <text> 
 Als wir den Schalter betätigten, hörten wir ein lautes metallisches Geräusch. Dieser Schalter musste an einer Stelle, nicht fern von hier, ein großes Tor geöffnet haben!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+我們扳動開關時，聽到一聲響亮的金屬轟鳴。這開關必是在不遠處開啟了一扇大門！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -860,6 +1228,20 @@ HEIMDALLS HORN
 
 An diesem Platz fanden wir ein Horn. Sollte das Heimdalls Horn sein, mit dem er den Weg nach Asgard öffnen konnte? Wir würden es bestimmt herausfinden. Klar war jedoch, dass wir nur mit Heimdalls Auftrag das Horn aufnehmen konnten!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+海姆達爾之角
+
+我們在此地尋得一角。這莫非便是能開啟阿斯加德之路的海姆達爾之角？我們定要查明。但顯然，唯有接下海姆達爾之命，方能拾取此角！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -898,6 +1280,22 @@ An diesem Platz fanden wir eine Rüstung mit der Inschrift: "Heimdalls Haut, um 
 Ob Heimdall sie einsetzen konnte, sollte die Zukunft zeigen!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+海姆達爾之甲
+
+我們在此地尋得一甲，其上銘文："海姆達爾之皮，驅邪辟惡"。
+
+海姆達爾能否用它，且待將來分曉！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 ZBROJA HEIMDALLA
@@ -932,6 +1330,21 @@ An diesem Platz fanden wir eine AXT mit der Inschrift: "Heimdalls Klinge, um das
 Ob Heimdall sie einsetzen konnte, sollte die Zukunft zeigen!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+海姆達爾之斧
+
+我們在此地尋得一斧，其上銘文："海姆達爾之刃，驅邪辟惡"。
+海姆達爾能否用它，且待將來分曉！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 TOPÓR HEIMDALLA
@@ -956,6 +1369,18 @@ We had completed our task and were now ready to return to Heimdall. He would blo
         <text> 
 Wir hatten unser Ziel erfüllt und sollten nun zurück zu Heimdall gehen. Nun würde er für uns sein mächtiges Horn blasen, um uns den Weg nach Asgard zu öffnen. 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+我們已達成目標，此刻當返回海姆達爾處。此刻他將為我們在他那威力無窮的號角中吹響，為我們開啟阿斯加德之路。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -985,6 +1410,20 @@ HEIMDALLS RÜSTUNG
 
 Du hast Heimdalls Rüstung aufgenommen! 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+海姆達爾之甲
+
+你已拾取海姆達爾之甲！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1016,6 +1455,20 @@ HEIMDALLS AXT
 
 Du hast Heimdalls Axt aufgenommen! 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+海姆達爾之斧
+
+你已拾取海姆達爾之斧！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1058,6 +1511,31 @@ MISSION VERLOREN!
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Hatschi erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命裡片刻的輕率，便致此般後果！你的摯友與英雄哈奇，因你的疏忽而殞命！少了這位英雄，你便無緣得知此役的結局。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -1105,6 +1583,31 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Sigurd erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命裡片刻的輕率，便致此般後果！你的摯友與英雄西格德，因你的疏忽而殞命！少了這位英雄，你便無緣得知此役的結局。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1151,6 +1654,31 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Ykol erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命裡片刻的輕率，便致此般後果！伊科爾因你的疏忽而殞命！少了這位英雄，你便無緣得知此役的結局。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1180,6 +1708,18 @@ When Heimdall blew his horn, the bridge of Bifrost opened the way to Asgard. How
 Als Heimdall in sein Horn blies, öffnete sich die Brücke Bifrost für uns und somit der Weg nach Asgard. Doch beim Überschreiten der Brücke Bifrost überkam uns ein leichter Schauer. Irgendetwas stimmte hier nicht...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+海姆達爾吹響號角，彩虹橋比弗羅斯特為我們開啟，通往阿斯加德之路就此鋪展。然而踏上此橋時，一陣輕微的寒顫掠過我們周身。此地，似有哪裡不對……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Heimdall zadął na rogu, a wtedy otworzył się most Bifrost. Droga do Asgardu stała przed nami otworem. Ale podczas przekraczania mostu poczuliśmy dreszcz strachu. Coś było nie tak...
@@ -1202,6 +1742,18 @@ Suddenly, an enormous ice storm broke out and froze everything around us. Only w
         <text> 
 Von einem Moment zum nächsten brach hinter uns plötzlich ein gewaltiger Eissturm los und lies alles gefrieren. Nur mit viel Mühe gelangten wir in eine kalte, harte und grellweiße Welt. Wie konnte das geschehen? Was hatten wir falsch gemacht? 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+剎那之間，一場浩大的冰風暴在我們身後驟然爆發，將所有一切凍結。我們幾經艱難，才踏入一個冰冷、堅硬而慘白刺目的世界。這怎麼可能發生？我們究竟做錯了什麼？
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1227,6 +1779,17 @@ MISSION COMPLETED!
 MISSION GEWONNEN! 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+任務成功！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 
@@ -1251,6 +1814,17 @@ HEL'S REALM
 
 HEL'S REICH
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+海爾之國
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 

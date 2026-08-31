@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,24 +14,36 @@
       <text lang="CHN">求见国王！</text>
       <text lang="eng">Consult the king!</text>
       <text lang="ger">Konsultiere den König!</text>
+      <text lang="l11">求見國王！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Porozmawiaj z królem!</text>
     </string>
     <string id="55">
       <text lang="CHN">米格尔的友人</text>
       <text lang="eng">Miguel's Friends</text>
       <text lang="ger">Miguels Freunde</text>
+      <text lang="l11">米格爾的友人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Przyjaciele Miguela</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="99">
       <text lang="CHN">危难之族</text>
       <text lang="eng">A TRIBE IN DANGER</text>
       <text lang="ger">BEDROHTES VOLK</text>
+      <text lang="l11">危難之族</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">UCIEKINIERZY</text>
     </string>
   </strings>
@@ -54,6 +69,19 @@ Diese unterseeische Grotte war ganz und gar nicht wie erwartet! Die Flüchtlinge
 
 Aber bei genauerem Hinsehen fiel auf, wie abgemagert die Bewohner waren - und Süßwasser schien es hier auch nicht viel zugeben...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+這海底洞窟全然出乎意料！逃亡者在此建起一座小城，作為應急棲身之所，未免太過奢華！
+
+可細看之下，居民盡顯瘦削--此處似乎也無多少淡水……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -110,6 +138,26 @@ Doch nun seid ihr hier, und unsere Suche hat ein schnelles Ende! Helft uns, und 
 Wenn ihr dieses Versteck wieder verlassen habt, ist die Barriere bestimmt schon fort! Geht und befreit die Welt von diesen Monstern!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+僱傭兵
+
+"你們是何人，外鄉人？你們應我們的求救而來？
+太好了，那我們還有一線生機！
+
+我們在此想出一法，能清除通往沼澤迷宮的屏障！一支秘密小隊已動身前往！我們本想讓他們去各處求援！
+
+如今你們既到此，搜尋便可速速了結！助我們一臂之力，我們永誌不忘！我們多想重見天日！
+
+你們一旦離開這藏身處，屏障定已消散！去吧，將這世間從怪物手中解放！"
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -143,6 +191,17 @@ The king's concern about our tribe has made him ill! Things are looking very bad
 Der König ist vor Sorge um unseren Stamm erkrankt! Es sieht wirklich schlimm für uns aus!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+國王因憂心部族而病倒！我們的處境實在不妙！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -167,6 +226,17 @@ The king has asked his three best mercenaries to represent him! Go to the golden
 
 Der König lässt sich von seinen drei besten Söldnern vertreten! Geh zur goldenen Statue und triff dich dort mit ihnen!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+國王由他最得力的三名僱傭兵代為行事！前往黃金雕像，在那裡與他們會合！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -194,6 +264,17 @@ THE SECRET TRIBE
 GEHEIMES VOLK
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+隱秘之族
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,84 +14,126 @@
       <text lang="CHN">选中克努特，将他送到标记位置。</text>
       <text lang="eng">Select Knut and send him to the marked place.</text>
       <text lang="ger">Wähle Knut aus und sende ihn zu der gekennzeichneten Stelle.</text>
+      <text lang="l11">選中克努特，將他送到標記位置。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wybierz Knuta i wyślij go w zaznaczone miejsce.</text>
     </string>
     <string id="1">
       <text lang="CHN">给克努特一个栖身之所。</text>
       <text lang="eng">Give Knut a roof over his head.</text>
       <text lang="ger">Gib Knut ein Dach über den Kopf.</text>
+      <text lang="l11">給克努特一個棲身之所。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Daj Knutowi dach nad głową.</text>
     </string>
     <string id="2">
       <text lang="CHN">让克努特在农场里当农夫！</text>
       <text lang="eng">Have Knut work as a farmer on the farm!</text>
       <text lang="ger">Lass Knut als Farmer in der Farm arbeiten!</text>
+      <text lang="l11">讓克努特在農場裡當農夫！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Niech Knut pracuje na farmie jako farmer!</text>
     </string>
     <string id="3">
       <text lang="CHN">在附近找一个女人！</text>
       <text lang="eng">Find a woman for him in his surroundings!</text>
       <text lang="ger">Suche in der Umgebung nach einer Frau!</text>
+      <text lang="l11">在附近找一個女人！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Znajdź Knutowi w okolicy kobietę!</text>
     </string>
     <string id="4">
       <text lang="CHN">把柳托夫、索尔比约恩、卡里、格罗娅和乌拉派往埃及人小村。</text>
       <text lang="eng">Send Ljotolf, Thorbjorn, Kari, Groa and Ulla into the village.</text>
       <text lang="ger">Schicke Ljotolf, Thorbjorn, Kari, Groa und Ulla ins Ägypterdörfchen.</text>
+      <text lang="l11">把柳托夫、索爾比約恩、卡里、格羅婭和烏拉派往埃及人小村。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wyślij Ljotolfa, Thorbjorna, Kariego, Groa i Ulla do wioski.</text>
     </string>
     <string id="53">
       <text lang="CHN">埃及人小村</text>
       <text lang="eng">Village</text>
       <text lang="ger">Ägypterdörfchen</text>
+      <text lang="l11">埃及人小村</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wioska</text>
     </string>
     <string id="71">
       <text lang="CHN">克努特</text>
       <text lang="eng">Knut </text>
       <text lang="ger">Knut </text>
+      <text lang="l11">克努特</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Knut </text>
     </string>
     <string id="72">
       <text lang="CHN">乌拉</text>
       <text lang="eng">Ulla</text>
       <text lang="ger">Ulla</text>
+      <text lang="l11">烏拉</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ulla</text>
     </string>
     <string id="73">
       <text lang="CHN">索尔比约恩</text>
       <text lang="eng">Thorbjorn</text>
       <text lang="ger">Thorbjorn</text>
+      <text lang="l11">索爾比約恩</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Thorbjorn</text>
     </string>
     <string id="74">
       <text lang="CHN">卡里</text>
       <text lang="eng">Kari</text>
       <text lang="ger">Kari</text>
+      <text lang="l11">卡里</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Kari</text>
     </string>
     <string id="75">
       <text lang="CHN">格罗娅</text>
       <text lang="eng">Groa</text>
       <text lang="ger">Groa</text>
+      <text lang="l11">格羅婭</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Groa</text>
     </string>
     <string id="76">
       <text lang="CHN">柳托夫</text>
       <text lang="eng">Ljotolf</text>
       <text lang="ger">Ljotolf</text>
+      <text lang="l11">柳托夫</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ljotolf</text>
     </string>
     <string id="98">
       <text lang="CHN">本教程将为你讲解角色的操控以及其他重要功能。</text>
       <text lang="eng">This tutorial will explain the controls for your characters and other basic functions.</text>
       <text lang="ger">In diesen Tutorial wird dir die Steuerung deiner Figuren und andere wesentliche Funktionen erklärt.</text>
+      <text lang="l11">本教程將為你講解角色的操控以及其他重要功能。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ten samouczek objaśni, jak sterować postaciami oraz inne podstawowe funkcje.</text>
     </string>
     <string id="99">
       <text lang="CHN">1) 操控</text>
       <text lang="eng">1) CONTROLS</text>
       <text lang="ger">1) STEUERUNG</text>
+      <text lang="l11">1) 操控</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">1) STEROWANIE</text>
     </string>
   </strings>
@@ -137,6 +182,26 @@ P.S. FENSTER SCHLIESSEN
 Du schließt alle Fenster durch Drücken des ESC - Buttons oder durch Klick mit der linken Maustaste auf den Button mit dem "x" rechts oben in der Ecke.
 (Durch einen Klick auf das Fähnchensymbol links in der Menüleiste kannst du dir dieses und alle nachfolgenden Fenster noch einmal anschauen.)
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+本教程將帶你初步瞭解遊戲的操作介面，以及如何在遊戲世界中移動。它會講解角色的選擇與控制，以及其它基本功能，例如：
+
+-	地圖導航
+-	加速
+-	開始/結束/暫停遊戲
+-	基本按鈕與視窗
+
+P.S. 關閉視窗
+按 ESC 鍵，或左鍵點選右上角的“x”按鈕，即可關閉所有視窗。
+（點選選單欄左側的旗幟圖示，可重新檢視本視窗及之後的所有視窗。）
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -199,6 +264,29 @@ Wenn du Knut eine Anweisung geben willst, wähle ihn aus und drücke anschließe
 Wähle Knut aus und sende ihn mit einem rechten Maustastenklick zu der gekennzeichneten Stelle.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+這位是克努特。
+        </text>
+        <usericon>2,1</usericon>
+        <text>
+克努特目前沒有工作，整天無所事事。
+
+要選中他，在克努特身上點選滑鼠左鍵即可。
+
+被選中的單位會以彩色圓圈高亮顯示。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,1</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,1</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 To jest Knut.
@@ -244,6 +332,21 @@ Wenn du mit einem ausgewählten Wikinger einen RECHTSKLICK auf ein Arbeitsgebäu
 Also: Gib Knut ein Dach über den Kopf und lass ihn als Farmer in der Farm arbeiten!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+很好！不過還有更快更直接的辦法！
+
+用選中的維京人對一座工作建築點滑鼠右鍵，他就會在這座建築裡開始工作，只要他有相應能力，還會自動承擔對應職業。對住宅點右鍵，只要有空房，你的維京人就會住進去。對空地右鍵，你的人就會直接走過去。滑鼠旁的提示文字會告訴你對應的操作。
+
+那麼：給克努特一個安身之所，再讓他在農場裡當農夫幹活！
+</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 WSPANIALE! Jest jednak szybszy i prostszy sposób!
@@ -281,6 +384,21 @@ Nun lasse ihn als Farmer arbeiten!
 
 Übrigens: einen Befehl wieder abbrechen oder eine Figur deselektieren kannst du, indem du mit der linken Maustaste auf eine beliebige leere Stelle auf der Landschaft drückst.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+幹得好！克努特現在有棲身之所了！
+
+接下來讓他去當農夫。要給他分配職業，先選中克努特--如果還沒選中的話。
+
+然後在藍色標記點上點選滑鼠左鍵開啟任務選單，選擇鋤頭圖示！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -329,6 +447,23 @@ Führe den Mauszeiger über eine beliebige Stelle auf der Landschaft. Halte nun 
 
 Möchtest du automatisch scrollen, sobald du mit den Mauszeiger auf den BILDSCHIRMRAND triffst, musst du dieses im OPTIONSMENÜ (F2) einstellen. Dieses findest du über den Button mit den Werkzeugen in der Leiste am linken Bildschirmrand. Drücke dann auf EINGABE und du kannst im mittleren Bereich des Fensters den Scrollmodus einstellen.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+太棒了！現在克努特有家也有工作了，生活無憂。
+
+不過是不是還缺點什麼？
+
+有了：他還缺個女人！
+
+在定居點附近找找吧！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>  
@@ -386,6 +521,27 @@ HILFE!
 Oftmals ist es leichter und schneller über Tastaturkürzel Befehle auszuführen. Die Tastaturbelegung (F 1) im HILFESYSTEM gibt dir darüber Auskunft.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+克努特找到了一個女人！
+        </text>
+        <usericon>2,2</usericon>
+        <text>
+讓兩人結婚吧--選中克努特，按空格鍵，然後選擇那個女人為目標。這樣他們就組成一個家庭了，同住一屋。
+
+如果需要，你也可以把房子升級到更大的。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,2</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,2</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Knut znalazł partnerkę! 
@@ -435,6 +591,23 @@ Drücke die Taste "l" auf der Tastatur, um die Spielgeschwindigkeit zu verdoppel
 
 Klicke mit der linken Maustaste auf den roten Fleck in der Übersichtskarte am linken unteren Bildschirmrand. Du siehst ein kleines Dorf der Ägypter. Probiere nun die Spielgeschwindigkeit aus und schau, wie flink sie sich bewegen! 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+暫停與遊戲速度
+
+你可以隨時按鍵盤上的 “p” 鍵暫停遊戲，再按一次繼續。
+
+按鍵盤上的 “l” 鍵可將遊戲速度加倍；再按一次變為三倍，再按一次恢復常速。
+
+用滑鼠左鍵點選左下螢幕邊緣總覽地圖上的紅點，你會看到一處埃及人的小村莊。現在試試調節遊戲速度，看看他們動作有多迅捷！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -502,6 +675,31 @@ Hast du eine Gruppe selektiert, die du vielleicht öfters benötigst, kannst du 
 Probier dies aus. Schicke Ljotolf, Thorbjorn, Kari, Groa und Ulla ins Dorf der Ägypter!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+編組
+
+你的兩個維京人有訪客來了！他們是柳托夫、索爾比約恩、卡里、格羅婭和烏拉。他們來找克努特，打算在新大陸闖蕩一番。
+        </text>
+        <usericon>2,3</usericon>
+        <text>
+你可以在一個單位上按住滑鼠左鍵，拖動出一個選擇框來同時選中多個單位。
+
+選中多個單位後，同樣可以開啟任務選單。
+
+試試同時選中所有人，把他們派往埃及人小村吧！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,3</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,3</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 TWORZENIE GRUP
@@ -547,6 +745,20 @@ Wenn du auf das Fähnchensymbol in der Menüleiste am linken Bildschirmrand klic
 Ein nochmaliger Klick auf das Fähnchensymbol schließt das Fenster.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+任務目標
+點選螢幕左側選單欄中的小旗圖示，會開啟任務目標視窗。你可以在其中檢視當前任務的進度。
+
+要關閉視窗，再次點選小旗圖示即可。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 CELE MISJI
@@ -589,6 +801,23 @@ Lasse von dem Kundschafter Ljotolf Wegweiser bauen, wenn deine Wikinger den Weg 
 
 Wähle ihn dazu aus und klicke auf das "Baue Wegweiser" - Symbol in seinem Aktionsmenü. Mit einen Klick auf die rechte Maustaste kannst du einen Wegweiser auf die nun hell erleuchteten Flächen setzen. Achte darauf, dass die Wegweiser stets verbunden sind! Dies erkennst du daran, dass die Schilder in die entsprechenden Richtungen zeigen.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+迷路問題……
+
+你的維京人常常會迷路，這時不妨讓偵察兵修建路標，確保誰都不會走丟！
+
+當你的維京人找不到路時，讓偵察兵柳托夫修路標。
+
+選中他，點選他操作選單裡的“修建路標”圖示。右鍵點選那些亮起的區域，就能把路標放上去。注意路標之間必須保持相連！這可以從指示牌指向的方向看出來。
+</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -638,6 +867,23 @@ Im OPTIONSMENÜ (F2) kannst du das Spiel jederzeit NEU STARTEN, BEENDEN und auch
 Für den Anfang solltest du jedes Tutorial am Ende speichern, um das Gelernte jederzeit wieder aufrufen zu können.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+恭喜！
+
+你已經學會了最重要的基本功能，現在可以開啟一場真正的任務或自選地圖的遊戲了！
+
+選擇"單人遊戲"進入第一關，或者開始一場"自由遊戲"--
+
+--當然，也可以試試"多人遊戲"模式！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 GRATULACJE! 
@@ -666,6 +912,17 @@ CONTROLS AND OTHER BASIC FUNCTIONS
         <text> 
 DIE STEUERUNG UND ANDERE WESENTLICHE FUNKTIONEN
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+操控與其他重要功能
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 

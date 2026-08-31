@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,264 +14,396 @@
       <text lang="CHN">出海捕鱼以养活你的子民，并用蜜酒武装他们。</text>
       <text lang="eng">Go fishing in order to feed your people and give them mead.</text>
       <text lang="ger">Gehe auf Fischfang, um deine Leute zu ernähren und rüste sie mit Met aus.</text>
+      <text lang="l11">出海捕魚以養活你的子民，並用蜜酒武裝他們。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Nałap ryb, by wykarmić swoich ludzi oraz daj im miodu.</text>
     </string>
     <string id="2">
       <text lang="CHN">前往西南大陆上的两座雇佣兵营地。</text>
       <text lang="eng">Visit the two mercenary camps on the south-western continent.</text>
       <text lang="ger">Suche die zwei Söldnercamps auf dem südwestlichen Kontinent auf.</text>
+      <text lang="l11">前往西南大陸上的兩座僱傭兵營地。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Odwiedź dwa obozowiska najemników w południowo-zachodniej części kontynentu.</text>
     </string>
     <string id="3">
       <text lang="CHN">向雇佣兵缴纳贡金，使他们加入你的麾下。此处你只应建造最重要的建筑。</text>
       <text lang="eng">Pay tributes to the mercenaries to make them join you. You should only build the most important buildings here.</text>
       <text lang="ger">Zahle die Tribute an die Söldner, damit sie sich dir anschließen. Du solltest hier nur die wichtigsten Gebäude bauen.</text>
+      <text lang="l11">向僱傭兵繳納貢金，使他們加入你的麾下。此處你只應建造最重要的建築。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybuty najemnikom w zamian za przyłączenie się do ciebie. Powinieneś wybudować tutaj tylko najważniejsze budowle.</text>
     </string>
     <string id="4">
       <text lang="CHN">若你不愿自行造船，也可向营地首领缴纳贡金订购船只。</text>
       <text lang="eng">If you do not want to build ships yourself, you can also order them from the camp leaders for payment.</text>
       <text lang="ger">Wenn du selbst keine Schiffe herstellen möchtest, kannst du sie auch bei den Campführern per Tribut ordern.</text>
+      <text lang="l11">若你不願自行造船，也可向營地首領繳納貢金訂購船隻。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Jeśli nie chcesz sam budować statków, możesz zamówić je za zapłatą od przywódców obozowisk.</text>
     </string>
     <string id="5">
       <text lang="CHN">尝试将你的家园岛屿从海盗手中解放。你应尽可能带上所有可用之兵。</text>
       <text lang="eng">Try to free your home island from the pirates. You should take every available man with you.</text>
       <text lang="ger">Versuche, deine Heimatinsel von den Piraten zu befreien. Du solltest jeden Mann mitnehmen, der zur Verfügung steht.</text>
+      <text lang="l11">嘗試將你的家園島嶼從海盜手中解放。你應儘可能帶上所有可用之兵。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Spróbuj uwolnić swoją ojczystą wyspę od piratów. Powinieneś wziąć ze sobą każdego dostępnego człowieka.</text>
     </string>
     <string id="6">
       <text lang="CHN">找到数年前北上探险、去探索那片土地的远征队。</text>
       <text lang="eng">Find the expedition which left to explore the north years ago.</text>
       <text lang="ger">Finde die Expedition, die sich vor Jahren in den Norden aufmachte, um ihn zu erforschen.</text>
+      <text lang="l11">找到數年前北上探險、去探索那片土地的遠征隊。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Odszukaj ekspedycję, która wyruszyła na eksplorację północy lata temu.</text>
     </string>
     <string id="7">
       <text lang="CHN">帮助北方所有的龙族重获自由。为此你必须解放四座营地。</text>
       <text lang="eng">Help the dragon people of the north to regain its freedom. To do so, you will have to free FOUR camps.</text>
       <text lang="ger">Hilf dem gesamten Drachenvolk des Nordens, seine Freiheit wieder zu erlangen. Dafür mußt du VIER Lager befreien.</text>
+      <text lang="l11">幫助北方所有的龍族重獲自由。為此你必須解放四座營地。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Pomóż smokom na północy odzyskać wolność. Aby tego dokonać, będziesz musiał uwolnić CZTERY obozy.</text>
     </string>
     <string id="9">
       <text lang="CHN">@解放你部族所有被俘的妇女。</text>
       <text lang="eng">@FREE ALL CAPTIVE WOMEN OF YOUR TRIBE.</text>
       <text lang="ger">@BEFREIE ALLE GEFANGENEN FRAUEN DEINES STAMMES.</text>
+      <text lang="l11">@解放你部族所有被俘的婦女。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">@UWOLNIJ WSZYSTKIE SCHWYTANE KOBIETY TWOJEGO PLEMIENIA.</text>
     </string>
     <string id="10">
       <text lang="CHN">此刻你将在远征营地受到欢迎。</text>
       <text lang="eng">Now you will be welcome in the expedition camp.</text>
       <text lang="ger">Man wird dich nun im Expeditionslager willkommen heißen.</text>
+      <text lang="l11">此刻你將在遠征營地受到歡迎。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Teraz zostaniesz powitany w obozowisku ekspedycji.</text>
     </string>
     <string id="11">
       <text lang="CHN">若你厌倦了征战，便接受海盗的提议--缴纳索要的赎金。</text>
       <text lang="eng">If you are tired of fighting, accept the pirates' offer - pay the suggested tribute.</text>
       <text lang="ger">Wenn du des Kampfes müde bist, dann nimm das Angebot der Piraten an - zahle das geforderte Lösegeld.</text>
+      <text lang="l11">若你厭倦了征戰，便接受海盜的提議--繳納索要的贖金。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Jeśli zmęczyłeś się walką, zaakceptuj ofertę piratów - zapłać sugerowany trybut.</text>
     </string>
     <string id="12">
       <text lang="CHN">打开通往海盗王国的通道。</text>
       <text lang="eng">Open the access to the pirates' realm.</text>
       <text lang="ger">Öffne den Zugang zum Piratenreich.</text>
+      <text lang="l11">開啟通往海盜王國的通道。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Otwórz drogę do królestwa piratów.</text>
     </string>
     <string id="13">
       <text lang="CHN">你必须将家园岛屿从海盗手中解放，否则在此地找不到任何盟友。</text>
       <text lang="eng">You have to free your home island from the pirates as you will not find allies otherwise.</text>
       <text lang="ger">Du mußt deine Heimatinsel von den Piraten befreien, da du hier sonst keine Verbündeten findest.</text>
+      <text lang="l11">你必須將家園島嶼從海盜手中解放，否則在此地找不到任何盟友。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Musisz uwolnić swoją ojczystą wyspę z rąk piratów, w przeciwnym wypadku nie znajdziesz sprzymierzeńców.</text>
     </string>
     <string id="30">
       <text lang="CHN">支付下列代价，以雇佣这些雇佣兵：</text>
       <text lang="eng">Pay the following price to hire the mercenaries:</text>
       <text lang="ger">Zahle den folgenden Preis, um die Söldner anzuheuern:</text>
+      <text lang="l11">支付下列代價，以僱傭這些僱傭兵：</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać następującą cenę za wynajęcie najemników:</text>
     </string>
     <string id="31">
       <text lang="CHN">若你想在此营地订购一艘船，请支付：</text>
       <text lang="eng">If you want to order a ship at this camp, you will have to pay:</text>
       <text lang="ger">Wenn du in diesem Camp ein Schiff ordern möchtest, dann zahle:</text>
+      <text lang="l11">若你想在此營地訂購一艘船，請支付：</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Jeśli chcesz zamówić statek w tym obozie, będziesz musiał zpałacić:</text>
     </string>
     <string id="32">
       <text lang="CHN">我们释放最后一批妇女，换取：</text>
       <text lang="eng">We will set the last women free for:</text>
       <text lang="ger">Wir lassen die letzten Frauen frei für:</text>
+      <text lang="l11">我們釋放最後一批婦女，換取：</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Uwolnimy pozostałe kobiety za:</text>
     </string>
     <string id="40">
       <text lang="CHN">奥费格</text>
       <text lang="eng">Ofeig</text>
       <text lang="ger">Ofeig</text>
+      <text lang="l11">奧費格</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ofeig</text>
     </string>
     <string id="41">
       <text lang="CHN">斯泰因索尔</text>
       <text lang="eng">Steinthor</text>
       <text lang="ger">Steinthor</text>
+      <text lang="l11">斯泰因索爾</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Steinthor</text>
     </string>
     <string id="42">
       <text lang="CHN">洛丁</text>
       <text lang="eng">Lodin</text>
       <text lang="ger">Lodin</text>
+      <text lang="l11">洛丁</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Lodin</text>
     </string>
     <string id="43">
       <text lang="CHN">略托尔夫</text>
       <text lang="eng">Ljotolf</text>
       <text lang="ger">Ljotolf</text>
+      <text lang="l11">略托爾夫</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ljotolf</text>
     </string>
     <string id="44">
       <text lang="CHN">索尔布兰德</text>
       <text lang="eng">Thorbrand</text>
       <text lang="ger">Thorbrand</text>
+      <text lang="l11">索爾布蘭德</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Thorbrand</text>
     </string>
     <string id="45">
       <text lang="CHN">索尔比约恩</text>
       <text lang="eng">Thorbjorn</text>
       <text lang="ger">Thorbjorn</text>
+      <text lang="l11">索爾比約恩</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Thorbjorn</text>
     </string>
     <string id="46">
       <text lang="CHN">博德瓦尔</text>
       <text lang="eng">Bodvar</text>
       <text lang="ger">Bodvar</text>
+      <text lang="l11">博德瓦爾</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bodvar</text>
     </string>
     <string id="47">
       <text lang="CHN">苏马尔利迪</text>
       <text lang="eng">Sumarlidi</text>
       <text lang="ger">Sumarlidi</text>
+      <text lang="l11">蘇馬爾利迪</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Sumarlidi</text>
     </string>
     <string id="48">
       <text lang="CHN">英戈尔夫</text>
       <text lang="eng">Ingolf</text>
       <text lang="ger">Ingolf</text>
+      <text lang="l11">英戈爾夫</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ingolf</text>
     </string>
     <string id="49">
       <text lang="CHN">博托尔夫</text>
       <text lang="eng">Botolf</text>
       <text lang="ger">Botolf</text>
+      <text lang="l11">博托爾夫</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Botolf</text>
     </string>
     <string id="50">
       <text lang="CHN">维京人</text>
       <text lang="eng">Vikings</text>
       <text lang="ger">Wikinger</text>
+      <text lang="l11">維京人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wikingowie</text>
     </string>
     <string id="51">
       <text lang="CHN">雇佣兵营地 1</text>
       <text lang="eng">Mercenary Camp 1</text>
       <text lang="ger">Söldnercamp 1</text>
+      <text lang="l11">僱傭兵營地 1</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Obóz Najemników 1</text>
     </string>
     <string id="52">
       <text lang="CHN">攻击者</text>
       <text lang="eng">Attackers</text>
       <text lang="ger">Angreifer</text>
+      <text lang="l11">攻擊者</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Napastnicy</text>
     </string>
     <string id="53">
       <text lang="CHN">龙族奴隶</text>
       <text lang="eng">Dragon Slaves</text>
       <text lang="ger">Drachensklaven</text>
+      <text lang="l11">龍族奴隸</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zniewolone smoki</text>
     </string>
     <string id="54">
       <text lang="CHN">法兰克人</text>
       <text lang="eng">Franks</text>
       <text lang="ger">Franken</text>
+      <text lang="l11">法蘭克人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Frankowie</text>
     </string>
     <string id="55">
       <text lang="CHN">龙族营地 1/4</text>
       <text lang="eng">Dragon Camp 1 of 4</text>
       <text lang="ger">Drachenlager 1 von 4</text>
+      <text lang="l11">龍族營地 1/4</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Smocze Obozowisko 1 of 4</text>
     </string>
     <string id="56">
       <text lang="CHN">龙族营地 2/4</text>
       <text lang="eng">Dragon Camp 2 of 4</text>
       <text lang="ger">Drachenlager 2 von 4</text>
+      <text lang="l11">龍族營地 2/4</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Smocze Obozowisko 2 of 4</text>
     </string>
     <string id="57">
       <text lang="CHN">龙族营地 3/4</text>
       <text lang="eng">Dragon Camp 3 of 4</text>
       <text lang="ger">Drachenlager 3 von 4</text>
+      <text lang="l11">龍族營地 3/4</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Smocze Obozowisko 3 of 4</text>
     </string>
     <string id="59">
       <text lang="CHN">海盗营地</text>
       <text lang="eng">Pirate Camp</text>
       <text lang="ger">Piratencamp</text>
+      <text lang="l11">海盜營地</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Obozowisko Piratów</text>
     </string>
     <string id="60">
       <text lang="CHN">龙族营地 4/4</text>
       <text lang="eng">Dragon Camp 4 of 4</text>
       <text lang="ger">Drachenlager 4 von 4</text>
+      <text lang="l11">龍族營地 4/4</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Smocze Obozowisko 4 of 4</text>
     </string>
     <string id="61">
       <text lang="CHN">雇佣兵营地 2</text>
       <text lang="eng">Mercenary Camp 2</text>
       <text lang="ger">Söldnercamp 2</text>
+      <text lang="l11">僱傭兵營地 2</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Obóz Najemników 2</text>
     </string>
     <string id="62">
       <text lang="CHN">远征队</text>
       <text lang="eng">Expedition</text>
       <text lang="ger">Expedition</text>
+      <text lang="l11">遠征隊</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ekspedycja</text>
     </string>
     <string id="63">
       <text lang="CHN">雇佣兵 1</text>
       <text lang="eng">Mercenary 1</text>
       <text lang="ger">Söldner 1</text>
+      <text lang="l11">僱傭兵 1</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Najemnik 1</text>
     </string>
     <string id="64">
       <text lang="CHN">雇佣兵 2</text>
       <text lang="eng">Mercenary 2</text>
       <text lang="ger">Söldner 2</text>
+      <text lang="l11">僱傭兵 2</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Najemnik 2</text>
     </string>
     <string id="65">
       <text lang="CHN">海盗</text>
       <text lang="eng">Pirates</text>
       <text lang="ger">Piraten</text>
+      <text lang="l11">海盜</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Piraci</text>
     </string>
     <string id="66">
       <text lang="CHN">法兰克人</text>
       <text lang="eng">Franks</text>
       <text lang="ger">Franken</text>
+      <text lang="l11">法蘭克人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Frankowie</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="98">
       <text lang="CHN">当你的维京人从一种怪异的昏迷中醒来，发现自己身处极其凄凉的境地……</text>
       <text lang="eng">When your Vikings woke up from a strange faint, they were in an extremely hopeless situation ...</text>
       <text lang="ger">Als deine Wikinger aus einer seltsamen Ohnmacht erwachen, befinden sie sich in einer äußerst trostlosen Lage...</text>
+      <text lang="l11">當你的維京人從一種怪異的昏迷中醒來，發現自己身處極其淒涼的境地……</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gdy twoi Wikingowie przebudzili się z dziwnego osłabienia, znajdowali się w beznadziejnej sytuacji ...</text>
     </string>
     <string id="99">
       <text lang="CHN">凄凉的苏醒</text>
       <text lang="eng">BLEAK AWAKENING</text>
       <text lang="ger">TROSTLOSES ERWACHEN</text>
+      <text lang="l11">淒涼的甦醒</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">PONURE PRZEBUDZENIE</text>
     </string>
   </strings>
@@ -330,6 +465,33 @@ Sie bereiteten sich darauf vor, zu überleben. Was immer ihr Schicksal sein moch
 
 Die Hoffnung stirbt stets zuletzt. Man würde also warten. Warten auf das Schicksal...
 </text>
+      </lang>
+      <lang code="l11">
+        <usericon>1,196,613</usericon>
+        <text>
+那是漫長而無夢的沉睡……
+船隻撞碎在礁石上……
+眾人精疲力竭，沉入沙中……
+黑暗……
+長夜……
+
+戰士們許久之後才甦醒。飢餓--且萬分惶惑。所有的記憶都被抹去了！定是發生了可怕之事，才無人願去回想！
+他們就這樣流落在這座荒蕪的小島，不知自己是誰，也不知來自何方。
+
+他們準備活下去。無論命運如何--此地魚蝦豐沛，岸邊也被衝上了些許蜜酒。
+
+
+
+希望總在最後熄滅。於是他們只有等待。等待命運……
+        </text>
+      </lang>
+      <lang code="l12">
+        <usericon>1,196,613</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <usericon>1,196,613</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <usericon>1,196,613</usericon>
@@ -431,6 +593,45 @@ Erinnert euch! Ich bin es, Bjarni, euer Häuptling!"
 ...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+救援
+
+“奧丁保佑！我找到了我的弟兄們！”
+        </text>
+        <usericon>0,71</usericon>
+        <text>
+我歡欣地跳下船，奔向我的部下。可他們起初似乎什麼也記不起了。難道他們的記憶也被抹去了？
+
+於是，我向他們講述所發生的往事：
+
+“昨日第一縷陽光初現時，我們遭海盜襲擊！未及反應，他們便擄走了所有婦女！
+        </text>
+        <usericon>1,416,506</usericon>
+        <usericon>1,482,203</usericon>
+        <text>
+...那些匪徒企圖殺光所有男人……我們一敗塗地！你們是僅存的倖存者！……
+回想起來吧！我是比雅尼，你們的酋長！”
+
+……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>0,71</usericon>
+        <text />
+        <usericon>1,416,506</usericon>
+        <usericon>1,482,203</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>0,71</usericon>
+        <text />
+        <usericon>1,416,506</usericon>
+        <usericon>1,482,203</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -531,6 +732,40 @@ Nun, wie dem auch sei. Wir müssen uns erst mal selbst helfen. Ich habe auch sch
 Im Süden gab es früher Lager von Söldnern, die dort regelmäßig trainierten. Wenn die noch dort sind und es uns gelingt, sie anzuheuern, können wir unser Land vielleicht zurückerobern! Und danach werden wir uns um unsere Frauen kümmern!"
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+……
+
+“那夥賊人制住了我們，同時奪走了我們的婦女。起初我們尚且抵擋得住。可當騎龍的強盜隨後趕到，便將我們擊潰逐走……
+
+他們緊追不捨，許多勇敢的男兒就此喪命。
+
+
+
+龍群隨後襲擊了我們的家園……
+        </text>
+        <usericon>2,416</usericon>
+        <usericon>2,411</usericon>
+        <text>
+……可我覺著，它們似乎只是不情願地聽命於海盜。它們自己彷彿也是囚徒！
+
+無論如何，我們得先自救。我已有主意！
+
+南方從前有僱傭兵的營地，他們常在那兒操練。若他們還在，而我們又能僱下他們，或許就能奪回故土！此後，我們再去解救我們的婦女！”
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,416</usericon>
+        <usericon>2,411</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,416</usericon>
+        <usericon>2,411</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -602,6 +837,29 @@ Ich hatte also recht behalten - die Söldner würden uns gegen Bezahlung helfen.
 Dabei mussten wir uns beeilen - je mehr Zeit verstrich, desto schlimmer würden die Piraten in unserem Dorf wüten...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+僱傭兵營地 1
+
+“歡迎來到我們的訓練營！若你們付得起，我們願為你等效勞……”
+        </text>
+        <usericon>1,61,713</usericon>
+        <text>
+看來我猜得沒錯--僱傭兵願為酬勞相助。只是代價不菲。我們須先建起小小的營地，生產出索要的物資……
+
+我們須得抓緊--時光流逝，村中的海盜只會愈發猖狂……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,61,713</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,61,713</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -662,6 +920,28 @@ Die Söldner würden uns gegen entsprechende Bezahlung helfen. Der Preis dafür 
 Die geforderten Waren mussten wir trotz unserer Eile erst produzieren... 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+僱傭兵營地 2
+
+“歡迎光臨，我們在此磨礪技藝！若你們付得起，我們也樂意為你等效勞……”
+        </text>
+        <usericon>1,34,579</usericon>
+        <text>
+僱傭兵願為相應酬勞相助。代價著實不菲。
+索要的物資，我們儘管匆忙，也須先生產出來……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,34,579</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,34,579</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -718,6 +998,27 @@ Wir hatten alle Söldner angeheuert. Sie folgten von nun an meinem Kommando. Mit
 Die Drachen jedoch wollten wir zunächst verschonen. Denn wenn ich recht hatte und sie nur Gefangene waren, dann würden sie uns vielleicht helfen, wenn wir sie befreiten...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+進軍作戰！
+
+我們已僱下所有僱傭兵。從此他們聽我調遣。憑這些兵士，我們定能將海盜逐出家島！
+        </text>
+        <usericon>0,71</usericon>
+        <text>
+至於龍群，我們暫且放他們一馬。因若我所料不差，他們只是囚徒，那麼待我們解救他們，或許他們會助我們一臂之力……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>0,71</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>0,71</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -762,6 +1063,21 @@ Wir hatten nun ein paar Söldner angeheuert, doch brauchten wir ja auch genügen
 
 Wir konnten sie bei den Söldnercamps gleich mit kaufen - was uns die eigene langwierige Produktion ersparte...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+船隻？！
+
+我們已僱得若干僱傭兵，可也亟需足夠的船隻！
+
+我們大可在僱傭兵營地一併買下--省去自家漫長的建造之苦……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -865,6 +1181,46 @@ TIPP:
 Um Frauen oder Drachen zu befreien, musst du entweder alle Wachen besiegen oder ins Innere des jeweiligen Verschlags gelangen.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+解放
+
+我們放過了龍群，因為他們似乎也無心加害我們。為報解放之恩，他們竟加入了我們的隊伍！而且--又一樁奇事--龍竟能言語！真是不可思議！
+
+於是他們能將所知的、關於我們婦女下落的一切告知我們：
+
+“我們來此途中，曾在一座營地裡望見她們。處境尚可。但看守甚嚴……我們聽聞有三座營地--其餘何在，卻無從探知。
+
+我們的家園亦遭奴役！
+        </text>
+        <usericon>1,195,72</usericon>
+        <text>
+求求你們！助我們的族人掙脫奴役。我們本居於遙遠的北方，直到他們在那裡建起三座營寨，將許多人圈禁其中。其餘則被掠往他們的海盜王國，
+        </text>
+        <usericon>1,445,333</usericon>
+        <text>
+正如你們的婦女一般……
+
+若你們助我們解放營寨，我們的族人必會加入你們的戰鬥！”
+
+提示：
+要解放婦女或龍，你須擊敗所有守衛，或進入各自圍欄的內部。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,195,72</usericon>
+        <text />
+        <usericon>1,445,333</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,195,72</usericon>
+        <text />
+        <usericon>1,445,333</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -958,6 +1314,35 @@ Da entsann ich mich, das vor langer Zeit eine Expedition nach Norden aufgebroche
 Diese Expedition wollten wir nun suchen - sie war unsere größte Hoffnung.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+勝利！
+
+海盜敗北，國土重歸我們手中。可如今只剩斷壁殘垣……
+        </text>
+        <usericon>1,226,541</usericon>
+        <text>
+……而無婦女在側，我們面臨虛無，部族瀕臨滅絕……
+
+
+
+我忽憶起，許久之前曾有一支遠征隊北上行進，去勘探那片土地。隊中亦有婦女同行！
+
+
+
+我們如今便要尋這支遠征隊--它是我們最大的希望。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,226,541</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,226,541</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -1033,6 +1418,29 @@ Es galt nun, die Drachen zu befreien und unsere Frauen zu retten! Wir brauchten 
 Dies würde eine harte Mission, doch wir hatten ja nun die Möglichkeit, alle nötigen Vorbereitungen zu treffen.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+遠征隊 / 新的開端
+
+我們踏入這片土地，路標將我們引向內陸深處。不久便遇上了路標的主人：那正是--我們的遠征隊！
+
+可敘之事甚多--這些拓荒者的冒險，以及他們新結交的法蘭克商友。亦有我們自身的悲慘遭際。
+
+眾人欣喜地邀我們留下--此地便是我們的新家園！
+
+眼下要解放龍族、營救婦女！我們需要一支小型艦隊，滿載裝備精良的兵士與充足的給養。
+
+
+
+這將是一場苦戰，但如今我們總算能做好一切必要的準備。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -1079,6 +1487,21 @@ Wie beabsichtigt hatten wir unser Land zurückerobert - doch ohne Frauen war es 
 
 Hoffentlich würde man uns nun freundlicher im Lager der Expedition begrüßen...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+如我們所願，我們已收復故土--然而沒有婦女，它便一文不值。
+
+
+
+但願遠征營地此刻會以更友好的姿態迎接我們……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1139,6 +1562,28 @@ Wir bräuchten nur den Wegweisern im Osten folgen, so sagte man uns, und wir wü
 Wir bedankten uns und machten uns gleich auf den Weg...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+提示
+
+我們遇見一處法蘭克人的聚落，居民對我們心懷善意。
+
+當我們探問這份熱忱的緣由，他們談起另一些維京人，他們不時與之貿易。買賣於雙方皆有利，故此地百姓生活安適。
+
+當我們講述自身的故事，他們願伸出援手。
+只需循東方的路標而行，他們說，我們便能尋得自家人……
+
+
+
+我們道謝，隨即啟程……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -1185,6 +1630,21 @@ Wir fanden das Frankendorf und wurden freundlich empfangen.
 
 Die Handelsangebote unserer Stammesbrüder galten selbstverständlich auch für uns. Dankend nahmen wir sie an.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+貿易伙伴
+
+我們尋得法蘭克人的村莊，受到熱情接待。
+
+我們同族兄弟的貿易報價，自然也對我們生效。我們感激地接受了。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1246,6 +1706,28 @@ Es galt nun, die Drachen zu befreien und unsere Frauen zu retten! Wir brauchten 
 Dies würde eine harte Mission, doch wir hatten ja nun die Möglichkeit, alle nötigen Vorbereitungen zu treffen.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+遠征隊 / 新的開端
+
+終於，我們尋到了自己的遠征隊！
+
+這些拓荒者的冒險，有太多可講。亦有我們自身的悲慘遭際。
+眾人欣喜地邀我們留下--此地便是我們的新家園！
+
+眼下要解放龍族、營救婦女！我們需要一支小型艦隊，滿載裝備精良的兵士與充足的給養。
+
+
+
+這將是一場苦戰，但如今我們總算能做好一切必要的準備。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -1304,6 +1786,25 @@ Auch sie erkannten uns, doch wollten sie uns nicht helfen. Wenn wir nicht Willen
 Wir durften eine Weile bleiben, doch konnten wir uns nichts vormachen: erst, wenn wir die Piraten aus unserem Land vertrieben hatten, würde man uns hier weiterhelfen...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+我們尚未收復故土，便遠遠望見另一支維京部族。
+
+及至進村，我立刻認出了他們：正是許久以前離開我們島嶼、去探索北方的那支小遠征隊。原來我們的親族在此安營紮寨……
+
+他們也認出了我們，卻不願相助。若我們無意奪回先祖之地，便不受歡迎。
+
+
+
+我們獲准逗留片刻，卻不可自欺：唯有將海盜逐出我們的土地，此地之人方會施以援手……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -1354,6 +1855,23 @@ Es galt, die Drachen zu befreien und unsere Frauen zu retten! Wir brauchten eine
 Dies würde eine harte Mission, doch wir hatten ja nun die Möglichkeit, alle nötigen Vorbereitungen zu treffen.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+當我們再次來到同族兄弟處，他們對我們的勝利欣喜不已。如今既已證得榮譽，他們便願相助。
+
+我們受到接納，得以備戰。
+
+要解放龍族、營救婦女！我們需要一支小型艦隊，滿載裝備精良的兵士與充足的給養。
+
+這將是一場苦戰，但如今我們總算能做好一切必要的準備。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -1385,6 +1903,17 @@ We came across a Frankish settlement, whose inhabitants were friendly to us. In 
 Wir trafen auf eine fränkische Siedlung, die uns friedlich gesonnen war. In besseren Zeiten wollte man gerne  mit uns Handel treiben...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+我們遇見一處法蘭克人的聚落，對我們心懷和平之意。待時局好轉，他們願與我們貿易……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -1415,6 +1944,19 @@ GEHEIMPASSAGE
 
 Mit unserem Schiff hatten wir eine geheime Passage entdeckt! Diesen Weg mussten die Piraten gekommen sein...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+隱秘通道
+
+我們的船隻發現了一條隱秘通道！海盜定是經此而來……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1454,6 +1996,21 @@ Mit unserem Schiff hatten wir eine geheime Passage entdeckt! Über diesen Weg ko
 
 Doch wenn die Piraten diesen Weg auch kannten, dann waren alle in großer Gefahr...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+隱秘通道
+
+我們的船隻發現了一條隱秘通道！循此我們可迅捷返回己方，去取補給。
+
+但若海盜也識得此路，那麼所有人都危在旦夕……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1508,6 +2065,26 @@ Wir sollten zuerst unser Dorf wieder aufbauen und mehr Soldaten ausbilden, bevor
 
 Und so hörten wir auf sie...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+意外的救援
+
+我們部族的首批婦女已得救！
+
+然而當我們欲尋其餘之人，她們卻將我們攔下！這片土地上海盜太多，而我們人手不足……
+我們應先重建村莊、操練更多兵士，再啟此戰！
+
+
+
+於是我們聽從了她們……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1564,6 +2141,25 @@ Vieles gab es zu erzählen - von den Abenteuern dieser Siedler und ihren neuen H
 Voll Zuversicht lud man uns ein zu bleiben...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+遠征隊
+
+我們踏入這片土地，路標將我們引向內陸深處。不久便遇上了路標的主人：那正是我們的遠征隊！
+
+可敘之事甚多--這些拓荒者的冒險，以及他們新結的貿易伙伴。亦有我們自身的悲慘遭際。
+
+
+
+眾人滿懷信心地邀我們留下……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -1611,6 +2207,25 @@ Mit unserem Schiff hatten wir die Mitte des Piratenreichs erreicht. Der erste gr
 
 Unsere Späher sahen eine Bucht, die vielleicht eine Passage zur anderen Seite des Gebirges verbarg. Wir wollten diesen Weg erkunden...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+我們的船隻已抵達海盜王國的中心。首段征程已然完成！
+        </text>
+        <usericon>1,361,415</usericon>
+        <text>
+我們的偵察兵望見一處海灣，或許藏著通往山脈另一側的通道。我們想去探探這條路……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,361,415</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,361,415</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1671,6 +2286,29 @@ Glücklich schluchzend fielen uns die Frauen in die Arme. Dann erzählten sie un
 Es würde schwer werden, sie von dort zu befreien...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+解放
+
+三座婦女營地之一已被解放！
+
+婦女們喜極而泣，撲入我們懷中。隨後她們告知，最後的婦女已被直接押往海盜王國腹地的海盜營地。
+        </text>
+        <usericon>1,432,774</usericon>
+        <text>
+要從那裡解救她們，必是艱難……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,432,774</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,432,774</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -1721,6 +2359,24 @@ Eines der drei Frauencamps war befreit!
 Das am Besten bewachte Lager befand sich allerdings weit im Süden, direkt in der Piratenstadt!
 
 </text>
+        <usericon>1,432,764</usericon>
+      </lang>
+      <lang code="l11">
+        <text>
+解放
+
+三座婦女營地之一已被解放！
+
+不過守衛最森嚴的營地遠在南方，就在海盜城之中！
+        </text>
+        <usericon>1,432,764</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,432,764</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
         <usericon>1,432,764</usericon>
       </lang>
       <lang code="pol">
@@ -1804,6 +2460,37 @@ Ihr habt die Wahl - wenn ihr kämpft, werden wir euch besiegen!"
 Dieses Angebot kam überraschend. Es schien, als hätten die Piraten Angst!!! Ich musste mich nun entscheiden, wie ich weiter vorgehen wollte...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+一個可疑的提議
+
+我們已解放外圍兩座婦女營地--如今只差最後一座。乘勝之勇，我們向那座營地進發--……
+
+忽然，海盜傳來訊息：
+        </text>
+        <usericon>1,450,764</usericon>
+        <text>
+“我們承認你們的實力--若你們想避免流血，儘可贖回你們的婦女！
+
+我們索要 100 枚金幣--那時便放人，你們大可平和地將她們接走。
+
+你們自己選--若戰，必敗於我們之手！”
+
+
+
+這提議來得突兀。看來海盜是怕了！！！此刻我須決斷，該當如何行事……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,450,764</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,450,764</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -1864,6 +2551,23 @@ So war unser Sieg verbunden mit der völligen Niederlage der Piraten... Der Triu
 Von diesem Tage würden wir noch in vielen Jahren in Geschichten und Liedern hören!!!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+勝利！！！
+
+我們將海盜那可笑的提議拋諸腦後--豈容被勒索！
+
+於是我們的勝利伴隨著海盜的徹底潰敗……捷報屬於我們，如今我們可如英雄般還鄉。
+
+多年之後，人們仍將傳頌這一日的事蹟！！！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -1904,6 +2608,21 @@ Nach einer erbitterten Schlacht hatten wir unsere Frauen endlich aus diesem Lage
 
 Doch es gab noch andere, die ebenfalls gerettet werden mussten...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+經過一場殊死之戰，我們終於將婦女從此地營中解救出來！
+
+
+
+可還有其他人，同樣亟待救援……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1973,6 +2692,33 @@ Und wir hatten gezahlt, um nicht noch weiter kämpfen zu müssen!
 Wir konnten mächtig stolz sein auf unsere Leistung!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+勝利！！！
+
+我們已支付贖金--果然，婦女圍欄的大門開啟，她們重獲自由！
+
+只要我們不挑釁，海盜便不攻我們……我們遂能將婦女帶回家！！！
+        </text>
+        <usericon>1,432,776</usericon>
+        <text>
+漫漫長路，慘烈鏖戰，終有所值--海盜提出這提議，想必當真只是懼於我們的怒火！！！
+
+而我們付了贖金，只為免再征戰！
+
+我們大可為自己的作為深感自豪！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,432,776</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,432,776</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -2017,6 +2763,19 @@ SIEG!!!
 
 Alle Frauen waren befreit - wir hatten einen glorreichen Sieg errungen! Nun konnten wir als Helden in unser Dorf zurückkehren - von diesem Tage würden wir noch vielen Jahre lang in Geschichten hören!!!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+勝利！！！
+
+所有婦女皆已獲救--我們贏得了一場榮耀的勝利！如今我們可如英雄般還鄉--多年之後，人們仍將傳頌這一日！！！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -2063,6 +2822,23 @@ Die Drachen bedankten sich für unsere Hilfe und schlossen sich unserem Kampf an
 "Wir werden euch für immer dankbar sein und euch deshalb auch unterstützen! Lasst uns die anderen Brüder und Schwestern befreien!"
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+第一座營地
+
+此地三座龍族營地之一已被解放！
+
+龍族為我們的相助致謝，並加入我們的戰鬥。
+
+“我們將永遠感激你們，並因此施以援手！讓我們去解放其他的兄弟姐妹吧！”
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -2105,6 +2881,21 @@ Das zweite der drei Drachenlager war befreit!
 
 Wie zuvor bedankte man sich und schloss sich uns an! Doch ein weiteres Drachenlager in diesem Land war noch zu befreien, und so machten wir uns gemeinsam auf den Weg.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+第二座營地
+
+三座龍族營地的第二座已被解放！
+
+如先前一般，他們致謝並加入我們！可此地還有一座龍族營地有待解放，於是我們並肩啟程。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -2178,6 +2969,34 @@ Sie befinden sich gleich hinter dem Tor, doch sie werden gut bewacht.
 Wir müssen uns einen Weg durch die Blockadewälle zu den Schaltern bahnen..."
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+第三座營地
+
+三座龍族營地的第三座已被解放！
+這些龍也滿懷感激地加入我們--他們將在營救婦女之戰中成為莫大助力……
+
+一條龍向我們說道：
+
+“還有一座營寨，圈著餘下的龍！它深藏在海盜王國的某處……
+我們只得經東北通道抵達那裡。但首先須扳動兩個開關，解開那古老海障的機關！
+        </text>
+        <usericon>1,438,77</usericon>
+        <text>
+它們就在大門後方，卻守衛森嚴。
+我們須從阻擋的壁壘中殺出一條路，直抵開關……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,438,77</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,438,77</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -2246,6 +3065,29 @@ Für immer wären sie uns dankbar! Bis zum Ende unserer Mission würden sie uns 
 ...tief in mir verspürte ich den Wunsch, dass auch unsere Frauen endlich befreit sein würden - doch bis dahin war es noch ein weiter Weg...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+最後的龍族營地
+
+最後被奴役的龍重獲自由！！！
+
+他們將對我們永懷感激！直至使命終結，他們都將與我們並肩。
+        </text>
+        <usericon>2,71</usericon>
+        <text>
+……心底深處，我盼著我們的婦女也終獲自由--可距離那一日，尚路途遙遙……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,71</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,71</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -2292,6 +3134,22 @@ Mit einem lauten Knarren hatte sich die schwere Pforte geöffnet! Der Weg ins Pi
 </text>
         <usericon>1,438,77</usericon>
       </lang>
+      <lang code="l11">
+        <text>
+暢通之路
+
+隨著一聲巨響，沉重的門扉開啟！通往海盜王國的海路，向我們的船隻敞開……
+        </text>
+        <usericon>1,438,77</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,438,77</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,438,77</usericon>
+      </lang>
       <lang code="pol">
         <text>
 
@@ -2330,6 +3188,20 @@ All deine Leute sind gestorben, und die Frauen werden den Rest ihres Lebens als 
 Du solltest besser noch mal weiter vorne beginnen...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+維京人部族已被擊潰……
+你的所有人皆已死去，婦女將在囚禁中度過餘生……
+
+你最好從更前的節點重新開始……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -2358,6 +3230,17 @@ Bjarni died! This story cannot end happily without his help!
 Bjarni ist gestorben! Ohne seine Hilfe kann diese Geschichte kein gutes Ende nehmen!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+比雅尼已死！沒有他的相助，這段故事便不會有善終！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -2382,6 +3265,17 @@ The camp our dragons came from was freed by us ... But many of them were still s
 
 Das Lager, aus dem unsere Drachen stammten, wurde von uns befreit... Doch in ihrer Heimat weit im Norden blieben noch viele unterjocht! Aus Dankbarkeit schlossen sich auch diese Drachen unserem Kampf an.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+我們解放了龍族原本所在的營地……可在遙遠的北方故土，仍有許多龍遭奴役！為報恩情，這些龍也加入了我們的戰鬥。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -2439,6 +3333,31 @@ Sie befanden sich gleich hinter dem Tor, doch sie wurden gut bewacht.
 
 Wir mussten uns einen Weg durch die Blockadewälle zu den Schaltern bahnen...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+海盜王國入口
+
+這便是東北通道，經此我們可深入海盜之地。但首先須扳動兩個開關，解開那古老海障的機關！
+        </text>
+        <usericon>1,438,77</usericon>
+        <text>
+它們就在大門後方，卻守衛森嚴。
+
+
+
+我們須從阻擋的壁壘中殺出一條路，直抵開關……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,438,77</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,438,77</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -2500,6 +3419,25 @@ Einer der vielen Drachen wandte sich an uns:
 "Ein Lager mit den restlichen Drachen gibt es noch! Es liegt irgendwo tief im Piratenland..."
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+第三座營地
+
+三座龍族營地的第三座已被解放！
+
+這些龍也滿懷感激地加入我們--他們將在營救婦女之戰中成為莫大助力……
+
+眾多龍中的一條向我們說道：
+
+“還有一座營寨，圈著餘下的龍！它深藏在海盜王國的某處……”
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -2545,6 +3483,21 @@ Die Schiffe unserer Feinde konnten uns noch gute Dienste erweisen! Wenn wir die 
 Wir mussten nur darauf achten, sie dabei nicht zu zerstören.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+提示：奪取船隻
+
+敵人的船隻仍能為我等效勞！若我們擊敗各島上的對手，便能登船奪取！
+
+我們只須留意，莫將它們毀於一旦。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -2575,6 +3528,17 @@ We had arrived on our home island completely unprepared - with so few people, we
 Wir waren völlig unvorbereitet auf unserer Heimatinsel eingetroffen - diesen Kampf konnten wir mit so wenig Leuten nur schwer überstehen!
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+我們毫無準備地回到家園島嶼--憑如此寡少的人手，這一仗難以支撐！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -2608,6 +3572,19 @@ Mit den Söldnern sollte es uns möglich sein, die Piraten von unserer Heimatins
 Die Drachen jedoch wollten wir zunächst verschonen. Denn wenn ich recht hatte und sie nur Gefangene waren, dann würden sie uns vielleicht helfen, wenn wir sie befreiten...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+憑這些僱傭兵，我們定能將海盜逐出家島！
+
+至於龍群，我們暫且放他們一馬。因若我所料不差，他們只是囚徒，那麼待我們解救他們，或許他們會助我們一臂之力……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -2637,6 +3614,17 @@ TROSTLOSES ERWACHEN
 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+淒涼的甦醒
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -2663,6 +3651,17 @@ MISSION FAILED!
 MISSION VERLOREN!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+任務失敗！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -2687,6 +3686,17 @@ MISSION COMPLETED!
 
 MISSION GEWONNEN!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+任務成功！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

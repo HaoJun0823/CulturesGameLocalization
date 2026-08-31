@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,96 +14,144 @@
       <text lang="CHN">@找到奥丁，将希拉从魅惑中解救！</text>
       <text lang="eng">@Find Odin and free Cyra from the spell!</text>
       <text lang="ger">@Finde Odin und befreie Cyra aus dem Bann!</text>
+      <text lang="l11">@找到奧丁，將希拉從魅惑中解救！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">@Odszukaj Odyna i uwolnij Cyrę od czaru!</text>
     </string>
     <string id="1">
       <text lang="CHN">向那些被冰封的神明探问他们与你的过往。</text>
       <text lang="eng">Ask the frozen gods about their story and yours.</text>
       <text lang="ger">Befrage die eingefrorenen Götter nach ihrer und deiner Geschichte.</text>
+      <text lang="l11">向那些被冰封的神明探問他們與你的過往。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wysłuchaj historii bogów uwięzionych w lodzie.</text>
     </string>
     <string id="2">
       <text lang="CHN">击退洛基的全部幽灵战士！</text>
       <text lang="eng">Fight all Loki's ghost warriors!</text>
       <text lang="ger">Bekämpfe alle Geisterkrieger Loki's!</text>
+      <text lang="l11">擊退洛基的全部幽靈戰士！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Pokonaj wszystkich wojowników Lokiego!</text>
     </string>
     <string id="3">
       <text lang="CHN">步入瓦尔哈拉。</text>
       <text lang="eng">Enter Valhalla.</text>
       <text lang="ger">Betritt Walhalla.</text>
+      <text lang="l11">步入瓦爾哈拉。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wejdź do sali Walhalla.</text>
     </string>
     <string id="4">
       <text lang="CHN">击败伊科尔，从希拉手中夺回护符！</text>
       <text lang="eng">Fight Ykol and take the amulet away from Cyra!</text>
       <text lang="ger">Bekämpfe Ykol und entreiße Cyra das Amulett!</text>
+      <text lang="l11">擊敗伊科爾，從希拉手中奪回護符！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Pokonaj Ykola i odbierz Cyrze amulet!</text>
     </string>
     <string id="5">
       <text lang="CHN">沿石径前往阿斯加德的殿厅！</text>
       <text lang="eng">Follow the stony path to the Halls of Asgard!</text>
       <text lang="ger">Folge den steinernen Pfad zu den Hallen Asgards!</text>
+      <text lang="l11">沿石徑前往阿斯加德的殿廳！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Udaj się kamienną ścieżką do komnat Asgardu!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的部族</text>
       <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarnis Stamm</text>
+      <text lang="l11">比雅尼的部族</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Plemię Bjarniego</text>
     </string>
     <string id="51">
       <text lang="CHN">洛基的幽灵战士</text>
       <text lang="eng">Loki's Ghost Warriors</text>
       <text lang="ger">Loki's Geisterkrieger</text>
+      <text lang="l11">洛基的幽靈戰士</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wojownicy Lokiego</text>
     </string>
     <string id="53">
       <text lang="CHN">洛基</text>
       <text lang="eng">Loki</text>
       <text lang="ger">Loki</text>
+      <text lang="l11">洛基</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Loki</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="l11">希拉</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
       <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
+      <text lang="l11">哈奇</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hatschi</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="l11">西格德</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">伊科尔（洛基）</text>
       <text lang="eng">Ykol (Loki)</text>
       <text lang="ger">Ykol (Loki)</text>
+      <text lang="l11">伊科爾（洛基）</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ykol (Loki)</text>
     </string>
     <string id="98">
       <text lang="CHN">我们终于抵达终点。这便是：阿斯加德--神明的世界！</text>
       <text lang="eng">We had reached our destination. This was it: Asgard - the world of the gods!</text>
       <text lang="ger">Wir waren am Ziel angekommen. Dies war sie nun: Asgard - die Welt der Götter!</text>
+      <text lang="l11">我們終於抵達終點。這便是：阿斯加德--神明的世界！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Dotarliśmy do celu. A więc to był Asgard - kraina bogów!</text>
     </string>
     <string id="99">
       <text lang="CHN">阿斯加德</text>
       <text lang="eng">ASGARD</text>
       <text lang="ger">ASGARD</text>
+      <text lang="l11">阿斯加德</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">ASGARD</text>
     </string>
   </strings>
@@ -142,6 +193,25 @@ Eine majestätisch breite Treppe führte den Berg hinauf auf eine weitere Ebene.
 
 Jetzt endlich offenbarte sich, was ich seit dem Eintritt in Hels Reich nur leise befürchtet, aber nicht ernsthaft zu glauben gewagt hatte - Ykol, wer immer er war oder was immer er geplant hatte - er spielte ein falsches Spiel mit uns! 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+諸神的世界，以一幅虛幻之景在我們眼前展開。
+我們終於抵達終點！這便是：阿斯加德--諸神的世界！
+
+一道巍峨寬闊的階梯，沿山勢而上，通往另一片平原……
+
+……然而正當我們如被蠱惑般凝望這壯麗奇景，伊科爾忽然發出一陣陰冷惡毒的笑聲，轉身沿階梯向上疾奔！他每跨過一級，那級階梯便沒入地下，轉眼間階梯下段已消隱無蹤！
+
+此刻我終於瞭然--自踏入海爾之國起，那令我隱隱不安、卻不敢深信的預感，終究成真--伊科爾，無論他是誰、懷揣何種圖謀--他竟是在對我們耍弄詭詐的騙局！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -208,6 +278,30 @@ Wie auch immer - wir mussten ihn in jedem Fall aufhalten!
 Folge den steinernen Pfad zu den Hallen Asgards!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+我的疑心比想象中更快得到了印證。伊科爾剛跨過幾級階梯、截斷了我們與他之間的通路，便駐足轉身，帶著一副嘲弄的獰笑面向我們。勝券在握的他，向我們袒露了秘密……
+
+他自始至終都在對我們耍弄騙局！
+實則他欲在神界奪取霸主之位，向奧丁與全體諸神復仇，以雪當年被逐之恨！為此他不擇手段……
+
+復仇？所為何來？？……
+被諸神放逐？一個凡人？？……
+伊科爾？？他究竟是誰？？……
+他下一步又意欲何為？？？
+
+無論如何--我們無論如何都要阻止他！
+
+沿石徑前往阿斯加德神殿！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Moje obawy sprawdziły się szybciej niż myślałem. Ykol przebiegł kilka stopni, odcinając nam dalszą drogę do góry, a następnie zatrzymał się i odwrócił do nas z szyderczym uśmiechem. Pewny swego zwycięstwa, wyjawił nam swą tajemnicę...
@@ -247,6 +341,20 @@ GEISTERKRIEGER
 
 Wie aus dem Nichts kamen diese untoten Krieger auf uns zu und griffen uns ohne Vorwarnung an... 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+幽靈戰士
+
+這些不死戰士憑空向我們襲來，不宣而戰……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -290,6 +398,24 @@ Loki, den ihr Ykol nennt, er, der der Gott der Lüge und Falschheit ist, brachte
 
 Niemand geringeres als er selbst war verantwortlich für die Hungersnot in Arabien. Mit seinem bösen Zauber hatte er die Not und das Elend über die Menschen dort gebracht! Und euch hat er mit seiner angeblichen Hilfsbereitschaft nur getäuscht, um sich euer Vertrauen zu erschleichen!" 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+弗蕾亞
+
+"曾幾何時，我們的世界威嚴不可侵犯，如今奧丁卻已癲狂，我們盡成冰中之囚！"那冰雕開口對我們言道，我們立時認出，她便是弗蕾亞--司掌豐饒與戰爭的女神。
+
+洛基，亦即你們口中的伊科爾，那謊言之神，將災禍降於我們與無數生靈之上。
+
+將阿拉伯的饑荒招致的，絕非他人，正是他本人！他以惡毒魔法，將困頓與悲苦傾覆於當地之人！而他以所謂的相助接近你們，不過是欺瞞爾等、騙取信任罷了！"
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -349,6 +475,28 @@ Und hier warf das Amulett dann einen Liebesbann über Odin selbst, der seither n
 
 Allzu groß ist die Gefahr, in der Odin nun schwebt!"
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+巴德爾
+
+"曾幾何時，我們的世界威嚴不可侵犯，如今奧丁卻已癲狂，我們盡成冰中之囚！"那冰雕開口對我們言道，我們立時認出，正是那位仁善之神--司掌光明、純淨與療愈的巴德爾，太陽之子、萬善之源。
+
+"你們可還記得：洛基，亦即你們口中的伊科爾，那謊言之神，雖曾在對抗群狼時助你們一臂之力……
+
+然而那芬里爾狼，實由他親手締造！那狼鏈既開、狼禍降臨大地，亦出自他手！你們助他尋得"奧丁之心"--這護符，比雅尼依洛基之勸，替希拉佩於頸間，竟令她得不死之身。洛基深知此效，也深知芬里爾必會因此將她拖入瓦爾哈拉，拖入那不死的國度！
+
+而這護符，又對奧丁本身施下情愛之咒，令他自此眼中唯有那凡間佩符之人。他再不理會周遭世界，遂在洛基的攻伐與復仇前，毫無防備、任人宰割！
+
+奧丁如今所陷危境，何其深重！"
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -410,6 +558,27 @@ Und nun habt ihr ihn hierher geführt. Dank eures Zutuns steht seiner Rache nun 
 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+尼奧爾德
+
+"曾幾何時，我們的世界威嚴不可侵犯，如今奧丁卻已癲狂，我們盡成冰中之囚！"那冰雕開口對我們言道，我們立時認出，正是司掌風與海之神尼奧爾德。
+
+"你們可還記得：洛基，亦即你們口中的伊科爾，那謊言之神，那蛇災與饑荒，皆由他的黑暗魔法所釀！
+
+他造出這些可怖之物，將阿拉伯大半疆土夷為廢墟！
+而在與他自己造物的對抗中，他騙取了你們的信任與情誼！
+
+如今你們又將他引至此地。託你們之助，他的復仇再無阻攔……"
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 NJIÖRD
@@ -462,6 +631,26 @@ Aber nicht um den Weg für euch zu bahnen, sondern um vor euch Heimdalls Horn zu
 
 In unserer Machtlosigkeit bleibt uns nur, euch unsere Geschichte zu erzählen..."
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+托爾
+
+"曾幾何時，我們的世界威嚴不可侵犯，如今奧丁卻已癲狂，我們盡成冰中之囚！"那冰雕開口對我們言道，我們立時認出托爾--其守護之力，顯於雷電之威。
+
+"你們可還記得：洛基，亦即你們口中的伊科爾，在海爾之國與你們分道揚鑣。
+
+然他並非為你們開路，而是搶在你們之前，去取海姆達爾之角！他暗中以維奧納澤的冰飲塗於角上，待海姆達爾吹響那被施咒的號角，便在不知不覺間令諸神世界冰封。我們今日化作冰雕，正因於此！
+
+無力既久，我們唯有將自身的故事訴與你們……"
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -519,6 +708,27 @@ Sie werden euch Krieger der Götter zur Seite stellen, ohne die ihr den Weg zu d
 Befrage die Götter im Eis und sammle die Krieger! 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+弗麗嘉
+
+"曾幾何時，我們的世界威嚴不可侵犯，如今我的夫君奧丁卻已癲狂，我們盡成冰中之囚！"那冰雕開口對我們言道，我們立時認出弗麗嘉--奧丁之妻，司掌愛、女性、家族與家園的女神。
+
+"洛基，亦即你們口中的伊科爾，那謊言之神，將災禍降於我們與無數生靈之上！
+去問其餘諸神，他們自會向你們道出過往。
+
+他們會將諸神之戰士撥於你們麾下，缺了他們，你們斷難抵達阿斯加德神殿！"
+
+探詢冰中之神，召集戰士！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 FRIGG
@@ -554,6 +764,20 @@ Diese Tore bargen so manches Geheimnis ...
 Sicherlich würden noch unzählige Geisterkrieger hinter diesen Mauern auf uns warten! Wir mussten uns auf einen gewaltigen Kampf einstellen!!!  
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+這些大門內藏著無數秘辛……
+
+無數幽靈戰士，必正於這重重牆後靜候著我們！我們須得準備一場惡戰！！！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Te wrota kryją niejedną tajemnicę...
@@ -578,6 +802,18 @@ We had spoken to all the ice statues. The way into the Halls of Asgard was open 
         <text> 
 Wir hatten alle Eisstatuen befragt. Der Weg in die Hallen Asgards stand uns damit offen. Mehr Unterstützungen konnten wir von den Götter im Eis nicht erwarten ...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+我們已問遍所有冰雕之神。通往阿斯加德神殿之路，就此為我們敞開。冰中之神，再無可助我們的兵力了……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -609,6 +845,20 @@ DIE GÖTTERHALLE
 
 Bevor wir nicht die Geheimnisse der Götter gelüftet die Geisterkrieger Lokis vernichtet haben, bleibt dir der Zugang zu dieser Halle verwehrt.  
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+神之殿
+
+在你未揭開諸神之秘、剿滅洛基的幽靈戰士之前，此殿之門將始終為你緊閉。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -651,6 +901,31 @@ MISSION VERLOREN!
         <text>
 Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+是逞勇還是魯莽？比雅尼隕落之時，諸神亦為之落淚……少了這位英雄，你便無緣得知此役的結局。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -701,6 +976,24 @@ Hahahahaha!"
 Bekämpfe Loki und seine letzten Krieger und entreiße Cyra das Amulett, um den Bann über Odin zu brechen!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+洛基
+
+"你們這些卑劣的造物，竟如此輕易便被矇蔽！如今諸神世界盡在我掌中，只因奧丁被你們珍視的希拉及其情愛護符迷惑，無助不堪！
+
+哈哈哈哈哈！"
+
+擊敗洛基及其殘部，從希拉身上奪回護符，破除籠罩奧丁的魔咒！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 LOKI
@@ -736,6 +1029,20 @@ EISKRIEGER
 Die Göttin im Eis stellte uns 5 tapfere Eiskrieger zur Seite. Wenn wir die anderen Statuen finden würden, konnten wir gewiss noch weitere Krieger für unseren Weg zu den Hallen Asgards gewinnen ....
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+冰戰士
+
+冰中之女神撥予我們五名勇毅的冰戰士。若尋得其餘冰雕，我們定能為通往阿斯加德神殿之路，再贏得更多戰士……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 LODOWI WOJOWNICY
@@ -761,6 +1068,17 @@ We had spoken to the gods in the ice about their story and ours, and all the gho
 
 Die Götter im Eis hatten wir zu ihrer und unserer Geschichte befragt und alle Geisterkrieger waren besiegt. Der Weg in die letzte Halle stand uns nun offen!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+我們已問明冰中之神的過往，亦剿滅了所有幽靈戰士。通往最後一座神殿之路，就此敞開！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -802,6 +1120,31 @@ MISSION VERLOREN!
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Hatschi erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命裡片刻的輕率，便致此般後果！你的摯友與英雄哈奇，因你的疏忽而殞命！少了這位英雄，你便無緣得知此役的結局。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -849,6 +1192,31 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Sigurd erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命裡片刻的輕率，便致此般後果！你的摯友與英雄西格德，因你的疏忽而殞命！少了這位英雄，你便無緣得知此役的結局。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -890,6 +1258,22 @@ Welch arglistiger Plan! Doch nun war er gescheitert und Lokis falsches Spiel end
 Die Macht des Amulettes, die zwar viel Gutes aber auch viel Böses bewirken konnte, sollte weder den Menschen noch den Göttern jemals wieder Schaden zufügen ...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+我們同心協力，終將護符奪回手中。籠罩奧丁的那道情愛之咒，亦隨之破除。那咒術曾令他眼中唯有護符佩者希拉，對周遭世界視而不見……洛基的復仇之路，正因此暢通無阻。
+
+何其詭詐的圖謀！而如今它已破產，洛基的騙局，就此徹底終結！
+
+這護符之力，雖可造福良多，亦能釀禍無窮，絕不該再令它傷及人神分毫……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Wspólnymi siłami udało nam się odzyskać amulet, który nosiła Cyra i uwolnić Odyna od czaru, rzuconego na niego za sprawą amuletu. Pod wpływem czaru Odyn bez pamięci zakochał się w Cyrze, zapominając zupełnie o sprawach świata.
@@ -917,6 +1301,18 @@ Amulet, którego moc może uczynić wiele dobrego, ale i złego, już nigdy wię
 ... dies war das Versprechen, das wir Freunde uns an diesem Tage gaben ...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+……這，便是我們幾位摯友在此日立下的誓約……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 ...taką obietnicę złożyliśmy tego dnia, my, przyjaciele...
@@ -940,6 +1336,17 @@ MISSION COMPLETED!
 
 MISSION GEWONNEN! 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+任務成功！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -965,6 +1372,17 @@ ASGARD
 
 ASGARD
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+阿斯加德
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 

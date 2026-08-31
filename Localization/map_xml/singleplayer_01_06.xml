@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,48 +14,72 @@
       <text lang="CHN">成为你部族中的岛王！</text>
       <text lang="eng">Become the Island King of your people!</text>
       <text lang="ger">Werde zum König Deines Volkes!</text>
+      <text lang="l11">成為你部族中的島王！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zostań Królem Wysp swojego ludu!</text>
     </string>
     <string id="1">
       <text lang="CHN">将部族中的十人训练为战士！</text>
       <text lang="eng">Turn ten people of your tribe into soldiers!</text>
       <text lang="ger">Mache zehn Deines Stammes zu Kriegern!</text>
+      <text lang="l11">將部族中的十人訓練為戰士！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wystaw co najmniej 10 wojów!</text>
     </string>
     <string id="2">
       <text lang="CHN">建造一艘船！</text>
       <text lang="eng">Build a ship!</text>
       <text lang="ger">Baue ein Schiff!</text>
+      <text lang="l11">建造一艘船！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wybuduj statek!</text>
     </string>
     <string id="3">
       <text lang="CHN">在至少三座其他岛屿建立小型营地以定居！</text>
       <text lang="eng">Settle on at least three additional isles by building a small camp there!</text>
       <text lang="ger">Siedle auf mindestens drei anderen Inseln indem Du dort ein kleines Lager errichtest!</text>
+      <text lang="l11">在至少三座其他島嶼建立小型營地以定居！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Osiedl się na co najmniej trzech dalszych wyspach, zakładając tam małe obozy!</text>
     </string>
     <string id="4">
       <text lang="CHN">助你的部族达到 100 人口！</text>
       <text lang="eng">Help your tribe establish a population of 100!</text>
       <text lang="ger">Laß Deinen Stamm eine Population von 100 Leuten erreichen!</text>
+      <text lang="l11">助你的部族達到 100 人口！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Doprowadź swoje plemię do liczebności 100!</text>
     </string>
     <string id="51">
       <text lang="CHN">王室子孙</text>
       <text lang="eng">Royal Children</text>
       <text lang="ger">Königskinder</text>
+      <text lang="l11">王室子孫</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Królewskie dzieci</text>
     </string>
     <string id="98">
       <text lang="CHN">建立起 100 名维京人的人口！为此你也应在其他岛屿定居。</text>
       <text lang="eng">Establish a population of 100 Vikings! To do so you should settle on other isles as well!</text>
       <text lang="ger">Baue eine Bevölkerung mit 100 Wikingern auf! Siedle dafür auch auf anderen Inseln!</text>
+      <text lang="l11">建立起 100 名維京人的人口！為此你也應在其他島嶼定居。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zwiększ populację do 100 Wikingów poprzez osiedlanie się na innych wyspach!</text>
     </string>
     <string id="99">
       <text lang="CHN">岛屿王国</text>
       <text lang="eng">ISLAND REALM</text>
       <text lang="ger">INSELREICH</text>
+      <text lang="l11">島嶼王國</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">WYSPIARSKIE KRÓLESTWO</text>
     </string>
   </strings>
@@ -96,6 +123,23 @@ Eine wahrhaft schwierige Aufgabe!
 
 Erreiche eine Bevölkerung von 100 Einwohnern, von denen mindestens 10 Mann Krieger sein müssen. Dann kannst du dich mit Fug und Recht Inselkönig nennen!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+你是這座小島引以為傲的首領，可惜島子實在太小。你滿心想當國王，可那至少要 100 名居民才行。
+
+多虧奧丁保佑，近旁還有幾座迷你鄰島--它們以資源與建築用地誘人。若你的資源告罄，或急尋新居處，定能在那裡有所收穫！
+
+你能否在數島之間建立起並維繫一套運轉良好的經濟？這可是樁真正艱鉅的任務！
+
+待人口達 100（其中至少 10 名戰士），你便是名副其實的島王！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -155,6 +199,32 @@ Nicht so erfolgreich waren sie beim Siedeln auf der Insel der geizigen Sarazenen
 Aber auf ihre friedliche Siedlungsmission konnten die Wikinger stolz sein, und mit Recht kannst du dich nun "Inselkönig" nennen!
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務成功！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+與大自然之力鏖戰良久--維京人終究勝出！
+
+不過他們在貪婪撒拉遜人的島上定居卻不盡如人意。維京人只得臣服於其統治。儘管屢求和，部族間敵意仍存！
+
+但維京人儘可為其和平定居之舉自豪，而你亦當之無愧地自稱“島王”！
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -199,6 +269,21 @@ Wir teilen mit niemandem, wir geben nichts!
 
 Verschwindet, oder ihr seid des Todes!"
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+這接待實在算不上友善。
+
+“我們，驕傲的撒拉遜人，將抗擊此島上的任何闖入者……我們不與任何人分享，也絕不施捨！
+
+滾開，否則格殺勿論！”
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -248,6 +333,30 @@ Die Wikinger hatten hart und unerschütterlich gegen die Gewalt angekämpft, doc
 Damit endete die Geschichte um das verlockende Inselreich!
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+維京人曾英勇抗擊強敵，終不免落敗。
+
+誘人島嶼王國的故事，到此為止！
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -280,6 +389,19 @@ You've now built a ship - with this ship you can start building up a functioning
 
 Du hast nun ein Schiff gebaut - und mit diesem kannst du nun beginnen, eine laufende, inselübergreifende Wirtschaft aufzubauen!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+你已造出一艘船--憑此船，你便能在各島間建立起運轉良好的經濟！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -314,6 +436,21 @@ Mit Forscherdrang hatten die Wikinger das Eiland betreten und mit viel Entdecker
 Nun konnten sie eine mächtige Bevölkerung werden, und ihren Anführer würden sie zum König ernennen!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+維京人滿懷探索之志踏上此島，以發現者的勇氣與膽魄定居於第三島！
+
+如今他們可壯大為強盛之族，並推舉首領為王！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -342,6 +479,19 @@ The tribe of Saracens has lost the fight for this isle - they will never trouble
 
 Der Stamm der Sarazenen hat den Kampf um diese Insel verloren - er wird dich nie mehr belästigen!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+撒拉遜部族已在這座島的爭奪中落敗--他們再不會來煩你！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -378,6 +528,19 @@ Es war ein langer Kampf gegen die Naturgewalten und den geizigen Stamm der Saraz
 Die Sarazenen haben die Insel dank deiner militärischen Erfolge aufgeben müssen...
 Die Wikinger sind nun der alleinige Stamm im Inselreich, und du bist der souveräne "Inselkönig"!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+與大自然及貪婪的撒拉遜部族鏖戰良久，維京人終獲輝煌勝利！
+
+憑你的戰功，撒拉遜人不得不放棄此島……如今維京人是島嶼王國中唯一的部族，而你便是至高無上的“島王”！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -416,6 +579,21 @@ ISLAND REALM
 INSELREICH
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+島嶼王國
+
+
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

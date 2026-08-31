@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,48 +14,72 @@
       <text lang="CHN">率领全部四位英雄，迎战强大的米德加德之蛇。</text>
       <text lang="eng">Face the Midgard serpent with all four of your heroes.</text>
       <text lang="ger">Stelle dich mit allen vier Helden der mächtigen Midgardschlange zum Kampf.</text>
+      <text lang="l11">率領全部四位英雄，迎戰強大的米德加德之蛇。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Staw czoło Wężowi Migdardu wszystkimi czterema swoimi bohaterami.</text>
     </string>
     <string id="51">
       <text lang="CHN">蛇族</text>
       <text lang="eng">Serpent People</text>
       <text lang="ger">Schlangenvolk</text>
+      <text lang="l11">蛇族</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ludzie-węże</text>
     </string>
     <string id="98">
       <text lang="CHN">历经漫长漂泊，维京人仿佛被魔法指引，于某个清晨搁浅在一片死寂焦黑的海岸。这必是终点--米德加德之蛇的领地，维格里德城墙！</text>
       <text lang="eng">Following a long odyssey, the Vikings land one morning on a dead, barren coast, as though guided there by some invisible hand. This must be their destination, the realm of the Midgard serpent - Wigrid Wall!</text>
       <text lang="ger">Wie von Zauberhand stranden die Wikinger nach einer langen Irrfahrt eines Morgens an einer toten, verbrannten Küste. Dies musste das Ziel sein, das Reich der Midgardschlange - Wigrid Wall!</text>
+      <text lang="l11">歷經漫長漂泊，維京人彷彿被魔法指引，於某個清晨擱淺在一片死寂焦黑的海岸。這必是終點--米德加德之蛇的領地，維格里德城牆！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Po długiej podróży Wikingowie lądują na martwym i pustym wybrzeżu. Doprowadziła ich tu jakaś niewidzialna ręka - to jasne, że to wyspa muru Wigrid, domena Jormundganda, Węża Midgardu!</text>
     </string>
     <string id="99">
       <text lang="CHN">维格里德城墙</text>
       <text lang="eng">WIGRID WALL</text>
       <text lang="ger">WIGRID WALL</text>
+      <text lang="l11">維格里德城牆</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">MUR WIGRID</text>
     </string>
     <string id="101">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="102">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="l11">西格德</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Sigurd</text>
     </string>
     <string id="103">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="l11">希拉</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Cyra</text>
     </string>
     <string id="104">
       <text lang="CHN">哈奇</text>
       <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
+      <text lang="l11">哈奇</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hatchie</text>
     </string>
   </strings>
@@ -98,6 +125,25 @@ Voll ohnmächtiger Wut tobend begann die Schlange nun, die Welt der Menschen mit
 
 Findet die Midgardschlange und vernichtet sie! 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+穿越奇異濃霧，漫長漂泊之後，一日清晨我們如被魔手牽引，擱淺於一片死寂焦黑的海岸。這必是我們的目標--世界蛇之域，傳說中名為耶夢加得！
+
+是，我的幻象正是如此！一切將在此決斷！世界蛇，諸神宿敵、眾生之敵，早於其時便從海中升起--因諸神黃昏，那最後的神戰，尚未開始！
+
+因尚未備戰，諸神只得緊閉阿斯加德神堡之門，無法助我們凡人一臂。
+
+世界蛇狂怒滔天，以其瘟疫之息籠罩人間。米德加爾特之命運，此刻獨系我們手中……
+
+尋找世界蛇，將其摧毀！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -163,6 +209,34 @@ Die Tore Asgards öffneten sich wieder! Ein goldenes Licht brach daraus hervor u
 Für einen Moment lang waren die vier großen Kulturen des Westens ein klein wenig näher zusammengerückt und hatten zusammen das sichere Verderben für alle abgewendet. Was wir nun mit den neugewonnenen Freundschaften anfangen würden, sollte die Zukunft zeigen...
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務成功！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+伴隨震耳欲聾的咆哮，世界蛇殞滅。這壓倒性的威脅終被除去！
+
+我們合力成就諸神未能之事--我們勝利了！
+
+阿斯加德之門重開！金光迸湧，刺破蛇之永夜。已籠罩部分世界的陰影消散，枯萎中毒之物重煥生機。
+
+剎那間，西方四大文明稍稍靠近，攜手免除了眾人的覆滅之災。至於這新得的情誼將導向何方，且待未來見證……
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -214,6 +288,31 @@ MISSION VERLOREN!
 Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ihr Ende war besiegelt und mit ihnen das Ende der Welt der Menschen.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+英雄氣概，還是魯莽輕率？當比雅尼倒下，諸神也在慟哭……他們的命運已定，人類的末日隨之降臨。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -259,6 +358,31 @@ MISSION VERLOREN!
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Held Sigurd aus der Prophezeiung erlag durch deine Unachtsamkeit! Die Welt ist verloren.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+一時的疏忽，便釀成千古恨！預言中的英雄西格德因你的輕率而殞命。世界就此傾覆。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -306,6 +430,31 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin Cyra aus der Prophezeiung erlag durch deine Unachtsamkeit! Die Welt ist verloren.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+一時的疏忽，便釀成千古恨！預言中的女英雄希拉因你的輕率而殞命。世界就此傾覆。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -352,6 +501,31 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Held Hatschi aus der Prophezeiung erlag durch deine Unachtsamkeit! Die Welt ist verloren.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+一時的疏忽，便釀成千古恨！預言中的英雄哈奇因你的輕率而殞命。世界就此傾覆。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -383,6 +557,17 @@ WIGRID WALL
 WIGRID WALL
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+維格里德牆
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

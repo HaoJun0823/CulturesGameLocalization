@@ -1,58 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="06_Die_Entscheidung" export_map_id="06_Die_Entscheidung" map_md5="5563c5e3940d63ed5466029ed907254a" IsC2M="true">
+<localization version="1.3" map_id="06_Die_Entscheidung" export_map_id="06_Die_Entscheidung" map_md5="5563c5e3940d63ed5466029ed907254a" IsC2M="true" deprecated="false">
   <languages>
-    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">抉择</text>
-      <text lang="ger">Die Entscheidung</text>
       <text lang="eng">The Decision</text>
+      <text lang="ger">Die Entscheidung</text>
+      <text lang="l11">抉擇</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Decyzja</text>
     </string>
     <string id="1">
       <text lang="CHN">我们抵达了爱斯基摩人的家乡。尽管我们再三警告他们提防梅林，费利克斯和卡萝还是想回到他们的村庄。</text>
-      <text lang="ger">Wir waren in der Heimat der S-KI-MOS.Felix und Karo wollten zu Ihrem Dorf trotz unserer Warnungen vor Merlin.</text>
       <text lang="eng">We were in the homeland of the S-KI-MOS. Felix and Karo wanted to go to their village despite our warnings about Merlin.</text>
+      <text lang="ger">Wir waren in der Heimat der S-KI-MOS.Felix und Karo wollten zu Ihrem Dorf trotz unserer Warnungen vor Merlin.</text>
+      <text lang="l11">我們抵達了愛斯基摩人的家鄉。儘管我們再三警告他們提防梅林，費利克斯和卡蘿還是想回到他們的村莊。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Byliśmy w ojczyźnie S-KI-MOS. Felix i Karo chcieli iść do swojej wioski pomimo naszych ostrzeżeń o Merlinie.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
-      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得友好。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
-      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得中立。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
-      <text lang="ger">Spieler0</text>
       <text lang="eng">Player0</text>
+      <text lang="ger">Spieler0</text>
+      <text lang="l11">玩家0</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
-      <text lang="ger">Spieler1</text>
       <text lang="eng">Player1</text>
+      <text lang="ger">Spieler1</text>
+      <text lang="l11">玩家1</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
-      <text lang="ger">Spieler2</text>
       <text lang="eng">Player2</text>
+      <text lang="ger">Spieler2</text>
+      <text lang="l11">玩家2</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz2</text>
     </string>
     <string id="53">
       <text lang="CHN">玩家3</text>
-      <text lang="ger">Spieler3</text>
       <text lang="eng">Player3</text>
+      <text lang="ger">Spieler3</text>
+      <text lang="l11">玩家3</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz3</text>
     </string>
   </strings>
@@ -63,6 +90,13 @@
 这处前哨我们很快就能摧毁。
 任务目标：摧毁梅林的前哨。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Merlin's Outpost !!
+We would quickly destroy this outpost.
+Mission goal: Destroy Merlin's outpost.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Merlins Außenposten !!
@@ -71,12 +105,16 @@ Missionsziel: Vernichte Merlins Außenposten.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Merlin's Outpost !!
-We would quickly destroy this outpost.
-Mission goal: Destroy Merlin's outpost.
-</text>
+      <lang code="l11">
+        <text>梅林的前哨！！
+這處前哨我們很快就能摧毀。
+任務目標：摧毀梅林的前哨。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -92,6 +130,13 @@ Cel misji: Zniszcz placówkę Merlina.
 这里想必是梅林精锐近卫队的一处前哨。
 任务目标：摧毁该前哨。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Outpost of the Elite Guard !!
+This must be an outpost of Merlin's Elite Guard.
+Mission goal: Destroy the outpost.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Außenposten der Elite-Leibgarde !!
@@ -100,12 +145,16 @@ Missionsziel: Vernichte den Außenposten.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Outpost of the Elite Guard !!
-This must be an outpost of Merlin's Elite Guard.
-Mission goal: Destroy the outpost.
-</text>
+      <lang code="l11">
+        <text>精銳近衛隊的前哨！！
+這裡想必是梅林精銳近衛隊的一處前哨。
+任務目標：摧毀該前哨。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -119,16 +168,25 @@ Cel misji: Zniszcz placówkę.
       <lang code="CHN">
         <text>我们败了。进攻者太强了。忽然，我们头顶的天空裂开，一个声音对我们说道。朋友们，我再给你们一次机会，从头重新开始吧……</text>
       </lang>
+      <lang code="eng">
+        <text>
+We had lost. The attackers had been too strong. Suddenly the sky opened above us, and a voice spoke to us. Friends, I give you a second chance, just start over from the beginning....
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Wir hatten verloren.Die Angreifer waren zu stark gewesen.Plötzlich tat sich der Himmel über uns auf, und eine Stimme sprach zu uns. Freunde, ich gebe Euch eine zweite Chance, fangt einfach nochmals von vorne an....
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-We had lost. The attackers had been too strong. Suddenly the sky opened above us, and a voice spoke to us. Friends, I give you a second chance, just start over from the beginning....
-</text>
+      <lang code="l11">
+        <text>我們敗了。進攻者太強了。忽然，我們頭頂的天空裂開，一個聲音對我們說道。朋友們，我再給你們一次機會，從頭重新開始吧……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -140,16 +198,25 @@ Przegraliśmy. Atakujący byli zbyt silni. Nagle otworzyło się nad nami niebo 
       <lang code="CHN">
         <text>任务失败！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission verloren!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission lost!
-</text>
+      <lang code="l11">
+        <text>任務失敗！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -161,16 +228,25 @@ Misja przegrana!
       <lang code="CHN">
         <text>我们终于把梅林连同他的前哨一并摧毁了。如今和平终将重返……</text>
       </lang>
+      <lang code="eng">
+        <text>
+Finally we had destroyed Merlin along with his outpost. Now peace would finally return....
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Endlich hatten wir Merlin mitsamt seinem Außenposten vernichtet. Nun würde endlich wieder Frieden einkehren....
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Finally we had destroyed Merlin along with his outpost. Now peace would finally return....
-</text>
+      <lang code="l11">
+        <text>我們終於把梅林連同他的前哨一併摧毀了。如今和平終將重返……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -182,16 +258,25 @@ Wreszcie zniszczyliśmy Merlina wraz z jego placówką. Teraz wreszcie ma zapano
       <lang code="CHN">
         <text>通过一名信使，我们收到了一个可怕的消息。梅林的军队袭击了费利克斯及其族人的村庄，把那里的一切生灵尽数抹除。我们的悲痛化作了仇恨与愤怒。我们发誓要复仇……</text>
       </lang>
+      <lang code="eng">
+        <text>
+Through a messenger we received terrible news. Merlin's troops had attacked the village of Felix and his people and wiped out all living things there. Our grief turned to hatred and wrath. We swore revenge........
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Durch einen Boten bekamen wir eine schreckliche Nachricht. Merlins Truppen hatten das Dorf von Felix und seinem Volk angegriffen und alles lebende dort ausgelöscht. Unsere Trauer änderte sich in Hass und Zorn um. Wir schworen Rache........
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Through a messenger we received terrible news. Merlin's troops had attacked the village of Felix and his people and wiped out all living things there. Our grief turned to hatred and wrath. We swore revenge........
-</text>
+      <lang code="l11">
+        <text>透過一名信使，我們收到了一個可怕的訊息。梅林的軍隊襲擊了費利克斯及其族人的村莊，把那裡的一切生靈盡數抹除。我們的悲痛化作了仇恨與憤怒。我們發誓要復仇……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -203,16 +288,25 @@ Przez posłańca dostaliśmy straszną wieść. Wojska Merlina zaatakowały wios
       <lang code="CHN">
         <text>我们终于把梅林的精锐近卫队连同他的前哨一并摧毁了。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Finally we had destroyed Merlin's Elite Guard along with his outpost.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Endlich hatten wir Merlins Elite-Leibgarde mitsamt seinem Außenposten vernichtet.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Finally we had destroyed Merlin's Elite Guard along with his outpost.
-</text>
+      <lang code="l11">
+        <text>我們終於把梅林的精銳近衛隊連同他的前哨一併摧毀了。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -224,16 +318,25 @@ Wreszcie zniszczyliśmy elitarną gwardię Merlina wraz z jego placówką.
       <lang code="CHN">
         <text>玩家2现在转为敌对。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now hostile.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt feindlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now hostile.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為敵對。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -245,16 +348,25 @@ Gracz 2 jest teraz wrogi.
       <lang code="CHN">
         <text>玩家1现在转为友好。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now friendly.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist jetzt freundlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 is now friendly.
-</text>
+      <lang code="l11">
+        <text>玩家1現在轉為友好。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -266,16 +378,25 @@ Gracz 1 jest teraz przyjazny.
       <lang code="CHN">
         <text>玩家3现在转为友好。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now friendly.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 3 ist jetzt freundlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 3 is now friendly.
-</text>
+      <lang code="l11">
+        <text>玩家3現在轉為友好。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -287,16 +408,25 @@ Gracz 3 jest teraz przyjazny.
       <lang code="CHN">
         <text>玩家1现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家1現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -308,16 +438,25 @@ Gracz 1 jest teraz neutralny.
       <lang code="CHN">
         <text>玩家2现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -329,16 +468,25 @@ Gracz 2 jest teraz neutralny.
       <lang code="CHN">
         <text>玩家3现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 3 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 3 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家3現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -354,6 +502,15 @@ Gracz 3 jest teraz neutralny.
 找到那处前哨并将其一并摧毁。
 提示：也许你只能从海路抵达那处前哨……</text>
       </lang>
+      <lang code="eng">
+        <text>
+Merlin's Troops !!
+I, Merlin, pirate of the seven seas, ruler of the Caribbean, shall now destroy you. You did not pass my outpost unpunished....
+Mission goal: Destroy Merlin the red corsair.
+Find the outpost and destroy it as well.
+Tip: Perhaps you can only reach the outpost by sea....
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Merlins Truppen !!
@@ -365,14 +522,18 @@ Tip: Vielleicht erreichst Du den Außenposten nur über den Seeweg....
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Merlin's Troops !!
-I, Merlin, pirate of the seven seas, ruler of the Caribbean, shall now destroy you. You did not pass my outpost unpunished....
-Mission goal: Destroy Merlin the red corsair.
-Find the outpost and destroy it as well.
-Tip: Perhaps you can only reach the outpost by sea....
-</text>
+      <lang code="l11">
+        <text>梅林的軍隊！！
+我，七海海盜、加勒比海的統治者梅林，現在就要把你們消滅。你們繞過我的前哨，休想不受懲罰……
+任務目標：消滅紅海盜梅林。
+找到那處前哨並將其一併摧毀。
+提示：也許你只能從海路抵達那處前哨……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -388,16 +549,25 @@ Wskazówka: Być może dotrzesz do placówki tylko drogą morską....
       <lang code="CHN">
         <text>这里想必就是费利克斯和他的爱斯基摩族人的村庄了。</text>
       </lang>
+      <lang code="eng">
+        <text>
+This was probably the village of Felix and his S-KI-MOS.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Dies war wohl das Dorf von Felix und seinen S-KI-MOS.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-This was probably the village of Felix and his S-KI-MOS.
-</text>
+      <lang code="l11">
+        <text>這裡想必就是費利克斯和他的愛斯基摩族人的村莊了。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -413,6 +583,15 @@ To była chyba wioska Felixa i jego S-KI-MOS.
 找到精锐近卫队的前哨并将其一并摧毁。
 提示：也许你只能从海路抵达那处前哨……</text>
       </lang>
+      <lang code="eng">
+        <text>
+Merlin's Elite Guard !!
+I, Maverick, supreme commander of Merlin's Elite Guard, prophesy your downfall. But how could you pass my outpost unpunished?
+Mission goal: Destroy Merlin's Elite Guard.
+Find the outpost of the Elite Guard and destroy it as well.
+Tip: Perhaps you can only reach the outpost by sea....
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Merlins Elite-Leibgarde !!
@@ -423,14 +602,18 @@ Tip: Vielleicht erreichst Du den Außenposten nur über den Seeweg....
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Merlin's Elite Guard !!
-I, Maverick, supreme commander of Merlin's Elite Guard, prophesy your downfall. But how could you pass my outpost unpunished?
-Mission goal: Destroy Merlin's Elite Guard.
-Find the outpost of the Elite Guard and destroy it as well.
-Tip: Perhaps you can only reach the outpost by sea....
-</text>
+      <lang code="l11">
+        <text>梅林的精銳近衛隊！！
+我，梅林精銳近衛隊的總指揮官馬弗裡克，預言你們的覆滅。可你們怎能繞過我的前哨而不受懲罰？
+任務目標：消滅梅林的精銳近衛隊。
+找到精銳近衛隊的前哨並將其一併摧毀。
+提示：也許你只能從海路抵達那處前哨……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -452,6 +635,17 @@ Wskazówka: Być może dotrzesz do placówki tylko drogą morską....
 
 制作者：尤基</text>
       </lang>
+      <lang code="eng">
+        <text>
+So the two of them went on their way. We advised them to stay with us, but homesickness was too great. Karo in particular was looking forward to seeing her children again. To be safe, we had built a few defence towers. You could never know. Our scout reported a very small number of berry bushes in the land. So we would have to brew nourishing potions to push further inland. We had not yet caught sight of Merlin, but that would surely change soon....
+Mission goal: Find Merlin, the red corsair, and destroy him once and for all.
+Tip: Quickly build up your defence.
+Brew nourishing potions to explore the inland.
+
+
+Created by: Yogi
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Da gingen die beiden also dahin.Wir rieten ihnen bei uns zu bleiben, aber das Heimweh war halt zu groß.Vor allem Karo freute sich ihre Kinder wiederzusehen.Wir hatten sicherheitshalber ein paar Wachtürme gebaut. Man konnte ja nie wissen.Unser Kundschafter berichtete uns von einer sehr geringen Anzahl an Beerensträuchern im Land. Also mußten wir wohl Nahrungstränke brauen, damit wir weiter ins Landesinnere vordringen konnten.Von Merlin hatten wir noch nichts erblicken können, aber das würden wir bestimmt schon bald....
@@ -464,16 +658,20 @@ Erstellt von: Yogi
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-So the two of them went on their way. We advised them to stay with us, but homesickness was too great. Karo in particular was looking forward to seeing her children again. To be safe, we had built a few defence towers. You could never know. Our scout reported a very small number of berry bushes in the land. So we would have to brew nourishing potions to push further inland. We had not yet caught sight of Merlin, but that would surely change soon....
-Mission goal: Find Merlin, the red corsair, and destroy him once and for all.
-Tip: Quickly build up your defence.
-Brew nourishing potions to explore the inland.
+      <lang code="l11">
+        <text>他倆就這樣走了。我們勸他們留下來和我們一起，可思鄉之情實在太濃。尤其是卡蘿，能再見到自己的孩子讓她欣喜不已。為保險起見，我們建了幾座哨塔。畢竟世事難料。我們的偵察兵稟報說，這片土地上漿果灌木極少。這麼說來我們大概得釀些營養藥水，好繼續朝內陸挺進。梅林的蹤影我們還沒能瞥見，不過想必很快就會……
+任務目標：找到紅海盜梅林，將他徹底消滅。
+提示：儘快擴建你的防禦。
+釀造營養藥水以探索內陸。
 
 
-Created by: Yogi
-</text>
+製作者：尤基</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -491,16 +689,25 @@ Stworzone przez: Yogi
       <lang code="CHN">
         <text>抉择</text>
       </lang>
+      <lang code="eng">
+        <text>
+The Decision
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Die Entscheidung
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-The Decision
-</text>
+      <lang code="l11">
+        <text>抉擇</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -513,6 +720,12 @@ Decyzja
         <text>我们成功了。梅林和他的爪牙都已被消灭。可代价高昂。费利克斯和他的族人被灭绝了。既然这片美丽的土地上再无生灵，我们中有些人便决定留下来，建立一处新的殖民地。忽然，一艘船从我们那遥远的家乡维格利德之墙驶来。那个饿得半死的船长向我们讲述了家乡遭遇的重大变故。
 不过，那已是另一个故事了。也许某一天我会讲给你们听……</text>
       </lang>
+      <lang code="eng">
+        <text>
+We had made it. Merlin and his henchmen were destroyed. But the price was high. Felix and his people had been wiped out. Since there was no more life in this beautiful land, some of us decided to stay and found a new colony. Suddenly a ship arrived from our far, far away homeland Wigrid Wall. The half-starved captain told us of great troubles in our homeland.
+But that is a new story. Perhaps I will tell it to you someday...........
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Wir hatten es geschafft. Merlin und seine Schergen waren vernichtet.Doch der Preis war hoch. Felix und sein Volk waren vernichtet worden. Da es auf diesem schönen Landstrich kein Leben mehr gab, beschlossen einige von uns hierzubleiben und eine neue Kolonie zu gründen. Plötzlich kam ein Schiff aus unserer weit weit entfernten Heimat Wigrid Wall. Der halbverhungerte Kapitän erzählte und von großen Problemen in unserer Heimat.
@@ -520,11 +733,15 @@ Doch dies ist eine neue Geschichte. Vielleicht erzähle ich sie euch irgendwann 
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-We had made it. Merlin and his henchmen were destroyed. But the price was high. Felix and his people had been wiped out. Since there was no more life in this beautiful land, some of us decided to stay and found a new colony. Suddenly a ship arrived from our far, far away homeland Wigrid Wall. The half-starved captain told us of great troubles in our homeland.
-But that is a new story. Perhaps I will tell it to you someday...........
-</text>
+      <lang code="l11">
+        <text>我們成功了。梅林和他的爪牙都已被消滅。可代價高昂。費利克斯和他的族人被滅絕了。既然這片美麗的土地上再無生靈，我們中有些人便決定留下來，建立一處新的殖民地。忽然，一艘船從我們那遙遠的家鄉維格利德之牆駛來。那個餓得半死的船長向我們講述了家鄉遭遇的重大變故。
+不過，那已是另一個故事了。也許某一天我會講給你們聽……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -537,16 +754,25 @@ Lecz to jest już nowa historia. Może opowiem wam ją kiedyś...........
       <lang code="CHN">
         <text>任务达成！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission gewonnen!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission won!
-</text>
+      <lang code="l11">
+        <text>任務達成！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

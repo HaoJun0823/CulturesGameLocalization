@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,60 +14,90 @@
       <text lang="CHN">@解答神谕者的谜题！</text>
       <text lang="eng">@Answer the oracle!</text>
       <text lang="ger">@Löse das Orakel!</text>
+      <text lang="l11">@解答神諭者的謎題！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">@Rozwiąż zagadki wyroczni!</text>
     </string>
     <string id="1">
       <text lang="CHN">寻找一处登陆点！</text>
       <text lang="eng">Find a landing place!</text>
       <text lang="ger">Suche einen Landeplatz!</text>
+      <text lang="l11">尋找一處登陸點！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Poszukaj miejsca na przybicie do brzegu!</text>
     </string>
     <string id="2">
       <text lang="CHN">探查这片区域！</text>
       <text lang="eng">Explore your surroundings!</text>
       <text lang="ger">Erforsche die Gegend!</text>
+      <text lang="l11">探查這片區域！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zbadaj okolicę!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的部族</text>
       <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarni's Stamm</text>
+      <text lang="l11">比雅尼的部族</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Plemię Bjarniego</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="l11">希拉</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
       <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
+      <text lang="l11">哈奇</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hatschi</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="l11">西格德</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">伊科尔</text>
       <text lang="eng">Ykol</text>
       <text lang="ger">Ykol</text>
+      <text lang="l11">伊科爾</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ykol</text>
     </string>
     <string id="99">
       <text lang="CHN">沉默者之岛 - 芬里尔之链 - 支线2</text>
       <text lang="eng">THE ISLAND OF THE SILENT - The Chain of Fenrir - Sub2</text>
       <text lang="ger">INSEL DER SCHWEIGSAMEN - Die Kette des Fenris - Sub2</text>
+      <text lang="l11">沉默者之島 - 芬里爾之鏈 - 支線2</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">WYSPA MILCZĄCYCH - ŁAŃCUCH FENRISA</text>
     </string>
   </strings>
@@ -84,6 +117,17 @@ When the fog cleared, the shore of a small island appeared before us.
         <text>
 Als sich der Nebel lichtete, tauchte vor uns das Ufer einer kleinen verträumten Insel auf. 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+霧氣散去，一座小巧靜謐的島嶼海岸在眼前浮現。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -112,6 +156,19 @@ Dies war ein Platz, der für andere Wesen gemacht war, seine Ruhe und Harmonie e
 
 Suche einen Landeplatz! 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+這是為異族生靈所造的所在，其安寧與和諧於我們人類而言陌生，卻仍迷人……
+
+尋找一處登陸點！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -142,6 +199,19 @@ Die Ufer der Insel boten gute Landemöglichkeiten, und so suchten wir uns eine k
 
 Docke das Schiff an und lass die Leute von Bord gehen, um die Gegend zu erforschen!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+島嶼海岸提供了良好的登陸條件，我們便在西側一處小灣登島。一切如此靜謐平和，一種無聲的魔法籠罩此地……
+
+靠岸停船，讓人們下船，去探索周邊！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -184,6 +254,22 @@ Alles war wie in einem Traum - wir verstanden jedes ihrer Worte, ohne der Sprach
 Löse das Orakel!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+獨角獸
+
+在一片林間空地，我們遇見一道明亮閃耀的身影。它如童話般美麗，耀得人目眩。獨角獸以平靜友善的言語示意，我們備受歡迎，若解開此地謎題，它便贈我們一根獨角獸的魔法之角。一切如夢--我們雖不通其語，卻字字聽懂……
+
+解開神諭！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 
@@ -211,6 +297,17 @@ You have to leave the switches, otherwise the unicorn will remain silent!
         <text> 
 Du musst von den Schaltern herunter gehen, sonst schweigt das Einhorn!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+你們必須從開關上下來，否則獨角獸不會開口！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -241,6 +338,19 @@ The unicorn said: "To answer my riddle, just step on one of the three switches. 
 "Hier seht ihr SCHALTER A"
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+“要回答我的謎題，”獨角獸說道，“請站上三個開關之一。牢記下列記號！若解不開謎題，須重訪此島！”
+
+“你們看，這是開關 A”
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 "Aby odpowiedzieć na moje pytania" mówił jednorożec "udajcie się do jednego z trzech przycisków. Dobrze zapamiętajcie ich oznaczenia! Jeśli nie rozwiążecie zagadki, będziecie musieli jeszcze raz przybyć na wyspę!"
@@ -267,6 +377,18 @@ The unicorn said: "To answer my riddle, just step on one of the three switches. 
 
 "Hier seht ihr SCHALTER B"
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+“你們看，這是開關 B”
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -299,6 +421,20 @@ There are three possible answers to each of my riddles. But only one of them is 
 
 Auf jedes meiner Rätsel gibt es 3 mögliche Antworten, aber nur eine davon ist richtig. Antwortet mir, indem ihr den entsprechenden Schalter betätigt! Seid ihr bereit für dieses Rätsel?" 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+“而這，是開關 C”
+
+我的每個謎題都有 3 個可能的答案，但只有一個正確。按下對應開關來回答我！你們準備好猜謎了嗎？
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -342,6 +478,31 @@ MISSION VERLOREN!
         <text>
 Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+是英勇，還是魯莽？比雅尼死時，諸神也為之落淚……少了這位英雄，你便無從知曉任務的結局。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -389,6 +550,23 @@ B) Erick Gunnarson
 C) Leif Erickson
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+謎題 3
+
+“比雅尼是誰之子？”
+
+A) 斯努裡・斯圖拉松
+B) 埃裡克・貢納松
+C) 萊夫・埃裡克松
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 ZAGADKA 3
@@ -419,6 +597,18 @@ CORRECT!!
 
 RICHTIG!!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+答對了！！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -460,6 +650,31 @@ MISSION VERLOREN!
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin Cyra erlag durch deine Unachtsamkeit! Ohne diese Heldin wird dir das Ende der Mission verborgen bleiben.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命中片刻的魯莽，轉瞬即至！你的女英雄希拉因你的疏忽而殞命！少了這位女英雄，你便無從知曉任務的結局。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -507,6 +722,31 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Hatschi erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命中片刻的魯莽，轉瞬即至！你的朋友與英雄哈奇因你的疏忽而殞命！少了這位英雄，你便無從知曉任務的結局。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -552,6 +792,31 @@ MISSION VERLOREN!
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Sigurd erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命中片刻的魯莽，轉瞬即至！你的朋友與英雄西格德因你的疏忽而殞命！少了這位英雄，你便無從知曉任務的結局。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -599,6 +864,31 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Ykol erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命中片刻的魯莽，轉瞬即至！伊科爾因你的疏忽而殞命！少了這位英雄，你便無從知曉任務的結局。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -627,6 +917,17 @@ We had solved the riddles. The being gave us a horn which contained all the magi
 Wir hatten die Rätsel richtig beantwortet und erhielten von dem Wesen ein Horn, das all die magischen Fähigkeiten der Einhörner in sich barg.   
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+我們答對了謎題，從那生靈手中獲贈一截獸角，其中蘊藏獨角獸全部的魔法本領。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Rozwiązaliśmy zagadkę wyroczni i otrzymaliśmy róg kryjący w sobie wszystkie magiczne zdolności jednorożców.
@@ -648,6 +949,17 @@ Now we had found the second magic component, and we could return to the abbey. M
         <text> 
 Somit war auch die zweite magische Ingredienz gefunden und wir konnten uns zurück zur Abtei begeben. Weitere spannende Abenteuer würden uns noch auf unserer Mission erwarten....
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+至此，第二種魔法原料也已尋得，我們可返回修道院。任務途中，還有更多驚險冒險等著我們……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -673,6 +985,18 @@ MISSION COMPLETED!
 
 MISSION GEWONNEN! 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+任務成功！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -702,6 +1026,19 @@ MÖP!
 
 Falsche Antwort!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+噗！
+
+答錯了！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -744,6 +1081,23 @@ A) Wüstenschiff
 B) Beduinenschaukler 
 C) Fladenscheißer
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+謎題 1
+
+“駱駝有何別稱？”
+
+A) 沙漠之舟
+B) 貝都因搖床
+C) 餅屎客
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -791,6 +1145,23 @@ B) 6
 C) 5
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+謎題 2
+
+“大惡狼吞下了幾隻小羊？”
+
+A) 7
+B) 6
+C) 5
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 ZAGADKA 2
@@ -825,6 +1196,20 @@ THE ISLAND OF THE SILENT
 INSEL DER SCHWEIGSAMEN
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+寂靜之島
+
+
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

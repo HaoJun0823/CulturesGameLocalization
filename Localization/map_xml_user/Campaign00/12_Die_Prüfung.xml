@@ -1,58 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="12_Die_Prüfung" export_map_id="12_Die_Prüfung" map_md5="9e9123c3db0b50a4210d0a48b2973abd" IsC2M="true">
+<localization version="1.3" map_id="12_Die_Prüfung" export_map_id="12_Die_Prüfung" map_md5="9e9123c3db0b50a4210d0a48b2973abd" IsC2M="true" deprecated="false">
   <languages>
-    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">试炼</text>
-      <text lang="ger">Die Prüfung</text>
       <text lang="eng">The Trial</text>
+      <text lang="ger">Die Prüfung</text>
+      <text lang="l11">試煉</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Próba</text>
     </string>
     <string id="1">
       <text lang="CHN">为了进入帝王谷，我们必须迎接最后的试炼。</text>
-      <text lang="ger">Um das in das Tal der Könige zu gelangen, mußten wir uns der letzten Prüfung stellen.</text>
       <text lang="eng">To reach the Valley of the Kings, we had to face the final trial.</text>
+      <text lang="ger">Um das in das Tal der Könige zu gelangen, mußten wir uns der letzten Prüfung stellen.</text>
+      <text lang="l11">為了進入帝王谷，我們必須迎接最後的試煉。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Aby dotrzeć do Doliny Królów, musieliśmy stawić czoło ostatniej próbie.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
-      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得友好。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
-      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得中立。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
-      <text lang="ger">Spieler0</text>
       <text lang="eng">Player0</text>
+      <text lang="ger">Spieler0</text>
+      <text lang="l11">玩家0</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
-      <text lang="ger">Spieler1</text>
       <text lang="eng">Player1</text>
+      <text lang="ger">Spieler1</text>
+      <text lang="l11">玩家1</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
-      <text lang="ger">Spieler2</text>
       <text lang="eng">Player2</text>
+      <text lang="ger">Spieler2</text>
+      <text lang="l11">玩家2</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz2</text>
     </string>
     <string id="53">
       <text lang="CHN">玩家3</text>
-      <text lang="ger">Spieler3</text>
       <text lang="eng">Player3</text>
+      <text lang="ger">Spieler3</text>
+      <text lang="l11">玩家3</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz3</text>
     </string>
   </strings>
@@ -61,16 +88,25 @@
       <lang code="CHN">
         <text>你失败了。也许你该稍微改变一下战术……</text>
       </lang>
+      <lang code="eng">
+        <text>
+You lost. Maybe you should change your tactics a bit...
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Du hast verloren. Vielleicht solltest Du Deine Taktik etwas ändern...
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-You lost. Maybe you should change your tactics a bit...
-</text>
+      <lang code="l11">
+        <text>你失敗了。也許你該稍微改變一下戰術……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -82,16 +118,25 @@ Przegrałeś. Może powinieneś trochę zmienić swoją taktykę...
       <lang code="CHN">
         <text>任务失败！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission verloren!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission lost!
-</text>
+      <lang code="l11">
+        <text>任務失敗！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -103,16 +148,25 @@ Misja przegrana!
       <lang code="CHN">
         <text>群蛇已死。</text>
       </lang>
+      <lang code="eng">
+        <text>
+The snakes have died.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Die Schlangen sind gestorben.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-The snakes have died.
-</text>
+      <lang code="l11">
+        <text>群蛇已死。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -124,16 +178,25 @@ Węże zginęły.
       <lang code="CHN">
         <text>群蛇已死。</text>
       </lang>
+      <lang code="eng">
+        <text>
+The snakes have died.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Die Schlangen sind gestorben.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-The snakes have died.
-</text>
+      <lang code="l11">
+        <text>群蛇已死。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -145,16 +208,25 @@ Węże zginęły.
       <lang code="CHN">
         <text>群蛇已死。</text>
       </lang>
+      <lang code="eng">
+        <text>
+The snakes have died.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Die Schlangen sind gestorben.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-The snakes have died.
-</text>
+      <lang code="l11">
+        <text>群蛇已死。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -166,16 +238,25 @@ Węże zginęły.
       <lang code="CHN">
         <text>玩家1现在转为友好。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now friendly.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist jetzt freundlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 is now friendly.
-</text>
+      <lang code="l11">
+        <text>玩家1現在轉為友好。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -187,16 +268,25 @@ Gracz 1 jest teraz przyjazny.
       <lang code="CHN">
         <text>玩家2现在转为友好。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now friendly.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt freundlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now friendly.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為友好。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -208,16 +298,25 @@ Gracz 2 jest teraz przyjazny.
       <lang code="CHN">
         <text>玩家3现在转为友好。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now friendly.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 3 ist jetzt freundlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 3 is now friendly.
-</text>
+      <lang code="l11">
+        <text>玩家3現在轉為友好。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -229,16 +328,25 @@ Gracz 3 jest teraz przyjazny.
       <lang code="CHN">
         <text>玩家1现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家1現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -250,16 +358,25 @@ Gracz 1 jest teraz neutralny.
       <lang code="CHN">
         <text>玩家2现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -271,16 +388,25 @@ Gracz 2 jest teraz neutralny.
       <lang code="CHN">
         <text>玩家3现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 3 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 3 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家3現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -293,6 +419,12 @@ Gracz 3 jest teraz neutralny.
         <text>群蛇！！
 我们又一次遭到那些模样古怪的生物袭击。不过这次数量倒不算太多。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Snakes!!
+Once again we were attacked by the strangely looking creatures. But this time they weren't too many.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Schlangen !!
@@ -300,11 +432,15 @@ Schon wieder wurden wir von den merkwürdig aussehenden Wesen angegriffen. Aber 
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Snakes!!
-Once again we were attacked by the strangely looking creatures. But this time they weren't too many.
-</text>
+      <lang code="l11">
+        <text>群蛇！！
+我們又一次遭到那些模樣古怪的生物襲擊。不過這次數量倒不算太多。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -318,6 +454,12 @@ Znowu zaatakowały nas dziwnie wyglądające stwory. Ale tym razem nie było ich
         <text>群蛇！！
 是是是，明白了，我们心想。这些我们也照样收拾掉。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Snakes!!
+"Yeah, right," we thought. We would take care of them too.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Schlangen !!
@@ -325,11 +467,15 @@ Jaa, is klar, dachten wir. Die würden wir auch noch erledigen.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Snakes!!
-"Yeah, right," we thought. We would take care of them too.
-</text>
+      <lang code="l11">
+        <text>群蛇！！
+是是是，明白了，我們心想。這些我們也照樣收拾掉。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -344,6 +490,13 @@ Węże!!
 事不过三，是这么说的吧？
 此时我们早已身经百战。最后这批我们很快就能收拾掉。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Snakes!!
+All good things come in threes, or how was that saying?
+By now we were well trained. We would quickly deal with the last ones.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Schlangen !!
@@ -352,12 +505,16 @@ Inzwischen waren wir schon gut trainiert. Die letzten würden wir schnell erledi
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Snakes!!
-All good things come in threes, or how was that saying?
-By now we were well trained. We would quickly deal with the last ones.
-</text>
+      <lang code="l11">
+        <text>群蛇！！
+事不過三，是這麼說的吧？
+此時我們早已身經百戰。最後這批我們很快就能收拾掉。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -376,6 +533,16 @@ W międzyczasie byliśmy już dobrze wytrenowani. Te ostatnie załatwimy szybko.
 
 制作者：尤基</text>
       </lang>
+      <lang code="eng">
+        <text>
+As we stepped out of the exit, we saw a strange-looking figure. "Ah, newcomers," he whispered. "You want to go to the Valley of the Kings? Well, for that you must undergo 10 trials. On 10 small islands enemies await you. You must defeat them all. Only then are you worthy enough to enter the Valley of the Kings. But keep in mind, you must make do with what you have with you. On the eleventh island is finally the gate to the Valley of the Kings.
+Mission objective 1: Defeat all enemies.
+Mission objective 2: Find the gate to the Valley of the Kings.
+
+
+Created by: Yogi
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Als wir aus dem Ausgang traten, sahen wir eine merkwürdig aussehende Gestalt. Aah Neuankömmlinge raunte er, Ihr wollt zum Tal der Könige? Nun dazu müßt ihr Euch 10 Prüfungen unterziehen. Auf 10 kleinen Inseln warten Feinde auf Euch. Ihr müßt sie alle besiegen. Nur dann seit ihr würdig genug um das Tal der Könige zu betreten. Aber bedenkt, ihr müßt mit dem auskommen was ihr bei euch habt. Auf der elften Insel ist dann schließlich das Tor zum Tal der Könige.
@@ -387,15 +554,19 @@ Erstellt von: Yogi
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-As we stepped out of the exit, we saw a strange-looking figure. "Ah, newcomers," he whispered. "You want to go to the Valley of the Kings? Well, for that you must undergo 10 trials. On 10 small islands enemies await you. You must defeat them all. Only then are you worthy enough to enter the Valley of the Kings. But keep in mind, you must make do with what you have with you. On the eleventh island is finally the gate to the Valley of the Kings.
-Mission objective 1: Defeat all enemies.
-Mission objective 2: Find the gate to the Valley of the Kings.
+      <lang code="l11">
+        <text>當我們踏出出口時，看到了一個模樣古怪的身影。啊，新來的，他低聲說道，你們想去帝王谷？那你們就必須經受10場試煉。在10座小島上，敵人正等著你們。你們必須把他們全部擊敗。唯有如此，你們才配踏入帝王谷。但要記住，你們只能憑手頭現有的東西撐過去。而在第十一座島上，最終便是通往帝王谷的那道門。
+任務目標1：擊敗所有敵人。
+任務目標2：找到通往帝王谷的那道門。
 
 
-Created by: Yogi
-</text>
+製作者：尤基</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -412,16 +583,25 @@ Stworzone przez: Yogi
       <lang code="CHN">
         <text>试炼</text>
       </lang>
+      <lang code="eng">
+        <text>
+The Trial
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Die Prüfung
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-The Trial
-</text>
+      <lang code="l11">
+        <text>試煉</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -433,16 +613,25 @@ Próba
       <lang code="CHN">
         <text>我们成功了。其实也没那么难，毕竟在漫长的旅途中我们已积累了大量战斗经验。如今，那就赶紧钻进下一道门吧。我们已经迫不及待想知道，这帝王谷究竟藏着什么名堂……</text>
       </lang>
+      <lang code="eng">
+        <text>
+We made it. It hadn't been that hard, for we had already gathered much combat experience during our long journey. But now straight into the next gate. We were very excited to see what the Valley of the Kings had in store...
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Wir hatten es geschafft. So schwer war es gar nicht gewesen, hatten wir auf unserer langen Reise ja schon viel Kampferfahrung sammeln können. Nun aber nichts wie rein in das nächste Tor. Wir waren schon sehr gespannt, was es mit dem Tal der Könige auf sich hatte...
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-We made it. It hadn't been that hard, for we had already gathered much combat experience during our long journey. But now straight into the next gate. We were very excited to see what the Valley of the Kings had in store...
-</text>
+      <lang code="l11">
+        <text>我們成功了。其實也沒那麼難，畢竟在漫長的旅途中我們已積累了大量戰鬥經驗。如今，那就趕緊鑽進下一道門吧。我們已經迫不及待想知道，這帝王谷究竟藏著什麼名堂……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -454,16 +643,25 @@ Udało nam się. Tak naprawdę nie było trudno, bo podczas długiej podróży z
       <lang code="CHN">
         <text>任务达成！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission gewonnen!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission won!
-</text>
+      <lang code="l11">
+        <text>任務達成！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

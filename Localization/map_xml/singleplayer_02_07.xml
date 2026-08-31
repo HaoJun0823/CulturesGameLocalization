@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,12 +14,18 @@
       <text lang="CHN">与你的对手交战，或仅仅开发利用这片土地！</text>
       <text lang="eng">Fight your enemies or simply exploit the land!</text>
       <text lang="ger">Bekämpfe deine Gegner, oder mache dir einfach nur das Land zunutze!</text>
+      <text lang="l11">與你的對手交戰，或僅僅開發利用這片土地！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Pokonaj przeciwników lub wykorzystaj zasoby kraju!</text>
     </string>
     <string id="1">
       <text lang="CHN">向三个部族缴纳贡品，使他们归顺于你！</text>
       <text lang="eng">Pay the three tribes tribute so they will join you!</text>
       <text lang="ger">Zahle den drei Stämmen ihren Tribut, damit sie sich dir anschließen!</text>
+      <text lang="l11">向三個部族繳納貢品，使他們歸順於你！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać tym trzem plemionom żądany trybut w zamian za przyłączenie się do ciebie!</text>
     </string>
     <string id="3">
@@ -30,78 +39,124 @@
 200 瓦片、大理石、铁制工具、硬币！</text>
       <text lang="eng">To win peacefully, get more than half (10) of the goods listed here into your warehouses:                BASIC RESOURCES:                                                                                          500 clay, stone, wood, wheat, cake, iron, gold,                               1000 food;                                                                                  ADVANCED GOODS:                                                                                       500 flour, wooden tools,                                                                          300 bricks, blocks of stone, furniture, wool, shoes,                                            200 roof tiles, marble, iron tools, coins!</text>
       <text lang="ger">Um friedlich zu siegen, schaffe mehr als die Hälfte(10) der hier aufgelisteten Waren in entsprechender Stückzahl in deine Lager:                GRUNDRESSOURCEN:                                                                                          500 Lehm, Stein, Holz, Weizen, Kuchen, Eisen, Gold,                               1000 Nahrung;                                                                                  ERWEITERTE WAREN:                                                                                       500 Mehl, Holzwerkzeug,                                                                          300 Backstein, Steinblöcke, Möbel, Wolle, Schuhe,                                            200 Dachziegel, Marmor, Eisenwerkzeug, Münzen!</text>
+      <text lang="l11">若要和平取勝，須將下列清單中過半（10 種）物資以相應數量運入你的倉庫：
+基礎資源：
+500 黏土、石料、木材、小麥、糕點、鐵、金，
+1000 食物；
+進階貨物：
+500 麵粉、木製工具，
+300 磚塊、石塊、傢俱、羊毛、鞋履，
+200 瓦片、大理石、鐵製工具、硬幣！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Aby wygrać drogą pokojową, dostarcz do swego magazynu ponad połowę (10) podanych tu towarów:</text>
     </string>
     <string id="4">
       <text lang="CHN">若要以外交之外的手段取胜，消灭全部三个对手！</text>
       <text lang="eng">To win in a less diplomatic way, defeat all three enemies!</text>
       <text lang="ger">Um auf weniger diplomatischem Weg zu siegen, vernichte alle drei Gegner!</text>
+      <text lang="l11">若要以外交之外的手段取勝，消滅全部三個對手！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Aby zwyciężyć w walce, musisz pokonać wszystkich trzech przeciwników!</text>
     </string>
     <string id="10">
       <text lang="CHN">你的部族</text>
       <text lang="eng">Your Tribe</text>
       <text lang="ger">Dein Stamm</text>
+      <text lang="l11">你的部族</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Twoje plemię</text>
     </string>
     <string id="11">
       <text lang="CHN">你的部族</text>
       <text lang="eng">Your Tribe</text>
       <text lang="ger">Dein Stamm</text>
+      <text lang="l11">你的部族</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Twoje plemię</text>
     </string>
     <string id="20">
       <text lang="CHN">普拉特兰人</text>
       <text lang="eng">Flatlanders</text>
       <text lang="ger">Plattländer</text>
+      <text lang="l11">普拉特蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mieszkańcy równiny</text>
     </string>
     <string id="21">
       <text lang="CHN">普拉特</text>
       <text lang="eng">Flat</text>
       <text lang="ger">Platt</text>
+      <text lang="l11">普拉特</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Równ</text>
     </string>
     <string id="30">
       <text lang="CHN">海卢兰人</text>
       <text lang="eng">Hellulanders</text>
       <text lang="ger">Helluländer</text>
+      <text lang="l11">海盧蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mieszkańcy Hellulandu</text>
     </string>
     <string id="31">
       <text lang="CHN">海卢</text>
       <text lang="eng">Hellu</text>
       <text lang="ger">Hellu</text>
+      <text lang="l11">海盧</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hellu</text>
     </string>
     <string id="40">
       <text lang="CHN">马克兰人</text>
       <text lang="eng">Marklanders</text>
       <text lang="ger">Markländer</text>
+      <text lang="l11">馬克蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mieszkańcy Marklandu</text>
     </string>
     <string id="41">
       <text lang="CHN">马克</text>
       <text lang="eng">Mark</text>
       <text lang="ger">Mark</text>
+      <text lang="l11">馬克</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mark</text>
     </string>
     <string id="98">
       <text lang="CHN">将这片土地据为己有，或驱逐你的对手！这里终将成为你维京人殖民地的疆土！</text>
       <text lang="eng">Colonize the country or drive your enemies out! This will become the land of your Viking colony!</text>
       <text lang="ger">Mache dir das Land zu Eigen oder vertreibe deine Gegner! Dies wird einmal das Land deiner Wikingerkolonie sein!</text>
+      <text lang="l11">將這片土地據為己有，或驅逐你的對手！這裡終將成為你維京人殖民地的疆土！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wykorzystaj zasoby tego kraju lub pokonaj swych przeciwników! To będzie kiedyś kolonia twoich Wikingów!</text>
     </string>
     <string id="99">
       <text lang="CHN">殖民时代</text>
       <text lang="eng">COLONIZATION</text>
       <text lang="ger">ZEIT DER KOLONIALISIERUNG</text>
+      <text lang="l11">殖民時代</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">CZAS KOLONIZACJI</text>
     </string>
     <string id="110">
       <text lang="CHN">缴纳如下贡品，以使该部族归顺于你：</text>
       <text lang="eng">Pay the following tribute so the tribe will join you:</text>
       <text lang="ger">Zahle folgenden Tribut, damit sich der Stamm dir anschließt:</text>
+      <text lang="l11">繳納如下貢品，以使該部族歸順於你：</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać następujący trybut, aby to plemię przyłączyło się do ciebie:</text>
     </string>
   </strings>
@@ -167,6 +222,32 @@ Sobald du einen Stamm vollständig besiegt hast, gibt es kein Zurück mehr - es 
 Wenn du dich für den friedlichen Weg über das Anhäufen von Rohstoffen entschieden hast, dann solltest du eventuell den Verbrauch von Wohnhäusern verringern. Es wäre doch schade, wenn deine Wikinger stetig Rohstoffe verbrauchen, die du versuchst zu horten!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+相互競爭的維京部族，選了同一片土地來定居！他們起初一無所有，卻欲統御一切！
+
+隨你高興地玩！你無需懼怕任何侵擾。
+
+欲求勝利，便讓你的部族成為這片土地上最強者！挑一處你以為合適的所在。誰離資源最近，誰便手握勝利之鑰……
+
+這片土地亦藏有許多寶藏可尋！
+
+提示：
+為能安置你的新總部，你獲贈了一封信！你的起點既無金也無鐵，但你仍不應放棄那裡的資源！
+
+要獲勝，你須要麼擊敗其他部族，要麼生產足量資源運入倉庫。而靠後者取勝，所需資源極多！
+
+一旦你徹底擊敗某個部族，便再無回頭之路--此後便不再有和平解決的途徑！
+
+若你選擇了積累資源的和平之路，或許該減少民居的消耗。眼看著你的維京人不斷耗掉你竭力囤積的資源，那可太可惜了！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 Rywalizujące ze sobą plemiona Wikingów chcą skolonizować ten sam kraj! Plemiona te nie mają nic, ale władzy pragną ponad wszystko!
@@ -213,6 +294,20 @@ Das Land ist nun dein Eigen, und niemand kann es dir mehr streitig machen!
 Wenn du magst, kannst du gerne noch weiter siedeln!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+你已征服所有其他部族！
+這片土地如今歸你所有，無人再能與你爭奪！
+
+若你願意，儘可繼續定居下去！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -240,6 +335,17 @@ Get out of our country. We are the rulers here!
 Verschwinde aus unserem Land, wir sind die wahren Eigentümer!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+滾出我們的土地，我們才是真正的主人！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -264,6 +370,17 @@ What do you want in our colony? You have no business here!
 
 Was willst du in unserer Kolonie? Du hast hier nichts zu suchen!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+你來我們的殖民地作甚？這兒沒你的事！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -290,6 +407,17 @@ We are the true rulers of this country! Get out of here while you still can!
 Wir sind die rechtmäßigen Herrscher dieses Landes! Geh, solange du noch kannst!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+我們才是這片土地名正言順的統治者！趁你還走得了，快走！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -314,6 +442,17 @@ The Flatlanders have left this world!
 
 Die Plattländer haben diese Welt verlassen!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+普拉特蘭人已離開了這個世界！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -340,6 +479,17 @@ The Hellulanders have left this world!
 Die Helluländer haben diese Welt verlassen!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+海盧蘭人已離開了這個世界！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -364,6 +514,17 @@ The Marklanders have left this world!
 
 Die Markländer haben diese Welt verlassen!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+馬克蘭人已離開了這個世界！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -392,6 +553,18 @@ Nobody will try to take your land from you any more! The other tribes will join 
 Du hast unheimlich viele Ressourcen abgebaut!
 Niemand wird dir dein Land mehr streitig machen! Die anderen Stämme werden sich dir anschließen, wenn du ihnen ihre Tribute zollst. Das dürfte dir jedoch nicht schwer fallen!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+你開採的資源實在驚人！
+再無人能與你爭奪土地！若你向其他部族繳納貢品，他們便會歸順於你。這對你而言應當不難。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -431,6 +604,21 @@ Die Zukunft des Landes liegt nun in deinen Händen! Auch nach vielen Generatione
 Wenn du magst, kannst du gerne noch weiter siedeln!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+這片土地如今歸你所有，所有其他部族都已歸順於你！
+
+這片土地的未來，自此握於你手！即便歷盡數代，人們仍會傳頌這個值得紀念的日子……
+
+若你願意，儘可繼續定居下去！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -460,6 +648,17 @@ The Flatlanders have joined your tribe!
 Die Plattländer haben sich deinem Stamm angeschlossen!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+普拉特蘭人已歸順你的部族！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -485,6 +684,17 @@ The Hellulanders have joined your tribe!
 Die Helluländer haben sich deinem Stamm angeschlossen!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+海盧蘭人已歸順你的部族！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -509,6 +719,17 @@ The Marklanders have joined your tribe!
 
 Die Markländer haben sich deinem Stamm angeschlossen!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+馬克蘭人已歸順你的部族！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -537,6 +758,17 @@ ZEIT DER KOLONIALISIERUNG
 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+殖民時代
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -561,6 +793,17 @@ MISSION COMPLETED!
 
 MISSION GEWONNEN!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+任務成功！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

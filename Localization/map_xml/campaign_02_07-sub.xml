@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,72 +14,108 @@
       <text lang="CHN">@与诸英雄一同抵达通往阿斯加德平原之门！</text>
       <text lang="eng">@Reach the gate to the plains of Asgard with your heroes!</text>
       <text lang="ger">@Erreiche mit den Helden gemeinsam das Tor in die Ebenen Asgards!</text>
+      <text lang="l11">@與諸英雄一同抵達通往阿斯加德平原之門！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">@Udaj się wraz z bohaterami do wejścia Asgardu!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的部族</text>
       <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarnis Stamm</text>
+      <text lang="l11">比雅尼的部族</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Plemię Bjarniego</text>
     </string>
     <string id="51">
       <text lang="CHN">幽灵战士</text>
       <text lang="eng">Ghost Warriors</text>
       <text lang="ger">Geisterkrieger</text>
+      <text lang="l11">幽靈戰士</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Duchy wojowników</text>
     </string>
     <string id="52">
       <text lang="CHN">蛇战士</text>
       <text lang="eng">Serpent Warriors</text>
       <text lang="ger">Schlangenkrieger</text>
+      <text lang="l11">蛇戰士</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wężołaki</text>
     </string>
     <string id="53">
       <text lang="CHN">狼人战士</text>
       <text lang="eng">Werewolf Warriors</text>
       <text lang="ger">Werwölfkrieger</text>
+      <text lang="l11">狼人戰士</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wilkołaki</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="l11">希拉</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
       <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
+      <text lang="l11">哈奇</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hatschi</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="l11">西格德</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">伊科尔</text>
       <text lang="eng">Ykol</text>
       <text lang="ger">Ykol</text>
+      <text lang="l11">伊科爾</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ykol</text>
     </string>
     <string id="98">
       <text lang="CHN">海姆达尔吹响号角之时，比弗罗斯特桥不仅为我们开启、由此连通阿斯加德之路，更引发了一场冰风暴，令万物冻结。</text>
       <text lang="eng">When Heimdall blew his horn, the bridge of Bifrost opened the way to Asgard, and an ice storm broke out and froze everything.</text>
       <text lang="ger">Als Heimdall in sein Horn blies, öffnete sich nicht nur die Brücke Bifrost für uns und somit der Weg nach Asgard, sondern ein Eissturm brach los und lies alles gefrieren.</text>
+      <text lang="l11">海姆達爾吹響號角之時，比弗羅斯特橋不僅為我們開啟、由此連通阿斯加德之路，更引發了一場冰風暴，令萬物凍結。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gdy Heimdall zadął na rogu, naszym oczom ukazał się most Bifrost. Droga do Asgardu była wolna. I właśnie wtedy zerwała się potężna burza śniegowa, skuwając wszystko lodem.</text>
     </string>
     <string id="99">
       <text lang="CHN">冰之世界</text>
       <text lang="eng">THE ICE WORLD</text>
       <text lang="ger">EISWELT</text>
+      <text lang="l11">冰之世界</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">LODOWA KRAINA</text>
     </string>
   </strings>
@@ -103,6 +142,20 @@ Als Heimdall in sein Horn blies, öffnete sich nicht nur die Brücke Bifrost fü
 
 Plötzlich brach auch ein gewaltiger Eissturm los und lies alles um uns herum zu Eis erstarren. Die Umgebung verwandelte sich blitzschnell in eine kalte, harte und grellweiße Welt, so dass unsere Augen geblendet wurden und unsere Glieder schmerzten. 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+海姆達爾吹響號角，不僅為我們開啟了彩虹橋比弗羅斯特、鋪展了通往阿斯加德之路……
+
+一場浩大的冰風暴驟然爆發，將周遭一切凝為寒冰。周遭景緻瞬息化作冰冷、堅硬而慘白刺目的世界，刺得我們睜不開眼，四肢也陣陣刺痛。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -159,6 +212,28 @@ Und es stellte sich sehr bald heraus, dass diese raue Eiswelt voller Gefahren st
 Erreiche mit den Helden gemeinsam das Portal in die Ebenen Asgards!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+伊科爾忽然又出現了！他多半是搶在我們之前抵達了入口……可他方才去了何處？？
+他說離隊期間有更要緊的事要辦，如今總算歸來。罷了。
+
+縱然我滿心疑竇，縱然一絲疑慮悄然爬上心頭，但在這黑暗險惡的疆域裡他安然無恙，我們終究還是欣慰的。尋得通往神界之入口，也令我們喜不自勝。
+
+然而以諸神之名--我們想象中的阿斯加德，絕非這般模樣！舉目盡是冰雪覆蓋，寒冷而荒蕪，整個世界似已死寂冰封。此處竟是諸神棲居之所？此處竟能令他們安適？這，便是那應許的樂土？？
+
+滿懷疑惑，我們踏入--又一座迷宮……
+很快便見分曉：這片粗糲的冰世界，處處暗藏兇險。
+
+帶領眾英雄共同抵達通往阿斯加德平原的傳送門！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Nagle znów pojawił się Ykol! Jakimś sposobem dotarł do wejścia przed nami... Ale gdzie był przez ten cały czas?
@@ -198,6 +273,20 @@ GEISTERKRIEGER
 Die Seelen verstorbener Wikinger schienen in diesen leeren Hüllen der Krieger zu stecken. Uns missfiel es, gegen Soldaten unseres eigenen Volkes kämpfen zu müssen, aber wenn wir ihnen zu nahe kommen würden, ließen sie uns keine andere Wahl!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+幽靈戰士
+
+已故維京人的魂魄，似乎附在了這些戰士空洞的軀殼之中。我們並不願與同族同胞計程車兵為敵，可一旦過於靠近，他們便不會給我們別的選擇！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 DUCHY WOJOWNIKÓW
@@ -229,6 +318,20 @@ SCHIFF GEFUNDEN!
 Hier in dieser unwirklichen Welt mochte uns dieses Schiff noch einen guten Dienst erweisen. Wenn kein anderer Weg uns weiterführen würde, konnten wir damit den Wasserweg benutzen.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+尋得船隻！
+
+在這虛幻之境，此船或許還能助我們一臂之力。若別無他途，我們便可借水路前行。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 ZNALEZIENIE STATKU
@@ -258,6 +361,20 @@ TORE OFFEN! Schalter 1
 
 Als wir den Schalter betätigten, öffnete sich ein Tor in der näheren Umgebung. Wir mussten einen unserer Leute auf dem Schalter zurücklassen, damit sich dieses Tore nicht wieder schloss. 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+閘門開啟！開關 1
+
+我們扳動開關時，附近一扇門應聲開啟。須留一名部眾守在開關上，方能令此門不致重新閉合。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -289,6 +406,19 @@ TORE OFFEN! Schalter 2
 Als wir den Schalter betätigten, öffnete sich ein Tor in der näheren Umgebung. Wir mussten einen unserer Leute auf dem Schalter zurücklassen, damit sich dieses Tore nicht wieder schloss.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+閘門開啟！開關 2
+
+我們扳動開關時，附近一扇門應聲開啟。須留一名部眾守在開關上，方能令此門不致重新閉合。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 DRZWI OTWARTE! Przycisk 2
@@ -318,6 +448,19 @@ TORE OFFEN! Schalter 3
 
 Als wir den Schalter betätigten, öffnete sich ein Tor in der näheren Umgebung. Wir mussten einen unserer Leute auf dem Schalter zurücklassen, damit sich dieses Tore nicht wieder schloss.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+閘門開啟！開關 3
+
+我們扳動開關時，附近一扇門應聲開啟。須留一名部眾守在開關上，方能令此門不致重新閉合。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -349,6 +492,19 @@ TORE OFFEN! Schalter 4
 Als wir den Schalter betätigten, öffnete sich ein Tor in der näheren Umgebung. Wir mussten einen unserer Leute auf dem Schalter zurücklassen, damit sich dieses Tore nicht wieder schloss.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+閘門開啟！開關 4
+
+我們扳動開關時，附近一扇門應聲開啟。須留一名部眾守在開關上，方能令此門不致重新閉合。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 DRZWI OTWARTE! Przycisk 4
@@ -379,6 +535,19 @@ TORE OFFEN! Schalter 5
 Als wir den Schalter betätigten, öffnete sich ein Tor in der näheren Umgebung. Wir mussten einen unserer Leute auf dem Schalter zurücklassen, damit sich dieses Tore nicht wieder schloss.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+閘門開啟！開關 5
+
+我們扳動開關時，附近一扇門應聲開啟。須留一名部眾守在開關上，方能令此門不致重新閉合。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 DRZWI OTWARTE! Przycisk 5
@@ -408,6 +577,19 @@ TORE OFFEN! Schalter 6
 
 Als wir den Schalter betätigten, öffnete sich ein Tor in der näheren Umgebung. Wir mussten einen unserer Leute auf dem Schalter zurücklassen, damit sich dieses Tore nicht wieder schloss.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+閘門開啟！開關 6
+
+我們扳動開關時，附近一扇門應聲開啟。須留一名部眾守在開關上，方能令此門不致重新閉合。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -450,6 +632,31 @@ MISSION VERLOREN!
         <text>
 Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+是逞勇還是魯莽？比雅尼隕落之時，諸神亦為之落淚……少了這位英雄，你便無緣得知此役的結局。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -497,6 +704,31 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin Cyra erlag durch deine Unachtsamkeit! Ohne diese Heldin wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命裡片刻的輕率，便致此般後果！你的女英雄希拉，因你的疏忽而殞命！少了這位女英雄，你便無緣得知此役的結局。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -542,6 +774,31 @@ MISSION VERLOREN!
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Hatschi erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命裡片刻的輕率，便致此般後果！你的摯友與英雄哈奇，因你的疏忽而殞命！少了這位英雄，你便無緣得知此役的結局。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -589,6 +846,31 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Sigurd erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命裡片刻的輕率，便致此般後果！你的摯友與英雄西格德，因你的疏忽而殞命！少了這位英雄，你便無緣得知此役的結局。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -635,6 +917,31 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Ykol erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命裡片刻的輕率，便致此般後果！伊科爾因你的疏忽而殞命！少了這位英雄，你便無緣得知此役的結局。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -664,6 +971,18 @@ At the end of the huge labyrinth stood a mighty portal, nearly untouched by the 
 Ein großes Portal stand stolz und nahezu unberührt vom Eis am Ende des verwinkelten Labyrinths. Es schillerte in allen erdenklichen Farben, und als wir hindurch schritten, breitete sich vor uns eine wunderbare Ebene aus, an deren Existenz wir schon nicht mehr geglaubt hatten. Voller Ehrfurcht knieten wir nieder...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+一座巍峨的傳送門，傲然矗立於盤曲迷宮的盡頭，幾乎未受冰雪侵蝕。它流光溢彩，當我們穿門而過，一片美妙絕倫的平原在眼前鋪展--我們幾乎已不敢相信它的存在。滿心敬畏，我們跪伏於地……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Na końcu zawiłego labiryntu znajdował się ogromny lodowy portal, który mienił się wszelkimi możliwymi kolorami. Gdy przeszliśmy przez portal, naszym oczom ukazał się wspaniały widok: przed nami rozpościerała się cudowna równina, w której istnienie przestaliśmy już wierzyć. Przepełnieni uczuciem zachwytu i czci, padliśmy na kolana...
@@ -686,6 +1005,18 @@ A majestic staircase wound around a rise. THIS had to be the realm of the gods! 
         <text> 
 Um eine Anhöhe wand sich eine majestätische Treppe. DIES musste das Reich der Götter sein! Und wir waren nur noch einige hundert Treppenstufen davon entfernt ...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+一道宏偉的階梯，盤繞上一處高丘。這，必是諸神之國！而我們距此，僅餘數百級階梯之遙……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -711,6 +1042,17 @@ MISSION COMPLETED!
 MISSION GEWONNEN! 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+任務成功！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 
@@ -735,6 +1077,17 @@ THE ICE WORLD
 
 EISWELT
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+冰世界
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 

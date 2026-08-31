@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,66 +14,99 @@
       <text lang="CHN">击败秘藏守护者的士兵！</text>
       <text lang="eng">Defeat the soldiers of the Keepers of Knowledge!</text>
       <text lang="ger">Besiege die Soldaten der Hüter des Geheimnisses!</text>
+      <text lang="l11">擊敗秘藏守護者計程車兵！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Pokonaj żołnierzy strażników wiedzy!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="51">
       <text lang="CHN">守护者</text>
       <text lang="eng">Keepers</text>
       <text lang="ger">Hüter</text>
+      <text lang="l11">守護者</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Strażnicy</text>
     </string>
     <string id="52">
       <text lang="CHN">守护者首领</text>
       <text lang="eng">Keepers' Leader</text>
       <text lang="ger">Anführer der Hüter</text>
+      <text lang="l11">守護者首領</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Przywódca strażników</text>
     </string>
     <string id="57">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="58">
       <text lang="CHN">守护者士兵</text>
       <text lang="eng">Keepers' Soldiers</text>
       <text lang="ger">Soldaten der Hüter</text>
+      <text lang="l11">守護者士兵</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Żołnierze strażników</text>
     </string>
     <string id="59">
       <text lang="CHN">首领</text>
       <text lang="eng">Keepers' Leader</text>
       <text lang="ger">Anführer</text>
+      <text lang="l11">首領</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Przywódca</text>
     </string>
     <string id="61">
       <text lang="CHN">近卫</text>
       <text lang="eng">Bodyguard</text>
       <text lang="ger">Leibgarde</text>
+      <text lang="l11">近衛</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Straż przyboczna</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">守护者首领</text>
       <text lang="eng">Keepers' Leader</text>
       <text lang="ger">Anführer der Hüter</text>
+      <text lang="l11">守護者首領</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Przywódca strażników</text>
     </string>
     <string id="99">
       <text lang="CHN">最后的决斗</text>
       <text lang="eng">THE LAST DUEL</text>
       <text lang="ger">DER LETZTE ZWEIKAMPF</text>
+      <text lang="l11">最後的決鬥</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">OSTATNI POJEDYNEK</text>
     </string>
   </strings>
@@ -108,6 +144,23 @@ Dies sollte das letzte Mal sein, dass ich mich auf einen Kampf einließe, ansons
 
 Ich würde mich also erneut mit dem Anführer in der Mitte des Schlachtfeldes treffen...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+我再次置身於戰場之上，這本是我求之不得得以避開的事。
+
+知識守護者守護的，確是一個極其危險的秘密……但我漸漸厭倦了，只因他們不願放任何人進入，我便不得不頻頻征戰。
+
+這該是我最後一次捲入戰鬥了，否則我得另謀他法！
+
+於是我將再次於戰場中央與那指揮官會面……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -159,6 +212,24 @@ Du hast wahrlich schon viele unserer Kämpfer besiegt, aber dich zu prüfen hat 
 
 Lass uns nun unsere Posten beziehen!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+指揮官
+
+我們的首領已任命我為新的最高指揮官--而這次，我的任務就是不讓你贏得那麼輕鬆！
+你的部隊在此。盡力而為吧。
+
+你確已擊敗我們許多戰士，但考驗你意義太過重大！證明你配得上付出如此眾多的犧牲--否則戰鬥終了，你必嘗苦果！
+
+現在，各就各位吧！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -212,6 +283,24 @@ Ich war mir nun nicht mehr so sicher, was das größere Übel gewesen wäre...
 Voller Zwiespalt trat ich erneut vor den Anführer der Hüter und hoffte, meine Prüfung damit endlich bestanden zu haben.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+勝利！
+
+這一次，我們也贏得了勝利！可這許多犧牲，只為在此證明我自己……
+但若我不戰，恐怖之霧必將帶來無數其他的犧牲……
+
+我不再確定，何者才是更大的惡了。
+
+滿懷矛盾，我再次走向守護者指揮官，但願此番終能透過我的試煉。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -256,6 +345,21 @@ All die Opfer waren umsonst! Du bist nicht würdig, unser Geheimnis kennen zu le
 Holt euch diesen Schurken!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+戰敗！
+
+所有的犧牲都白費了！你不配知曉我們的秘密！
+
+把這個惡徒給我拿下！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -291,6 +395,19 @@ DER KAMPF BEGINNT!
 Als wir unsere Positionen erreicht hatten, konnte die Schlacht beginnen. Die Soldaten würden mir sicher treu gehorchen. Und so wurde der Kampf auf mein Zeichen hin eröffnet...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+戰鬥開始！
+
+待我們各就各位，戰鬥便可開始。士兵們定會忠實地聽我號令。於是，隨我一聲令下，戰端開啟……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -315,6 +432,17 @@ Take him away!
         <text>
 Abführen!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+帶下去！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -341,6 +469,17 @@ THE LAST DUEL
 DER LETZTE ZWEIKAMPF
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+最後的決鬥
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

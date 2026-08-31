@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,48 +14,72 @@
       <text lang="CHN">@与诸英雄一同抵达瓶中精灵！</text>
       <text lang="eng">@Reach the genie from the bottle with your heroes!</text>
       <text lang="ger">@Erreiche mit den Helden gemeinsam den Flaschengeist!</text>
+      <text lang="l11">@與諸英雄一同抵達瓶中精靈！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">@Odnajdź wraz z bohaterami ducha w butelce!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的部族</text>
       <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarnis Stamm</text>
+      <text lang="l11">比雅尼的部族</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Plemię Bjarniego</text>
     </string>
     <string id="51">
       <text lang="CHN">蛇战士</text>
       <text lang="eng">Serpent Warriors</text>
       <text lang="ger">Schlangenkrieger</text>
+      <text lang="l11">蛇戰士</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wężołaki</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="l11">希拉</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
       <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
+      <text lang="l11">哈奇</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hatschi</text>
     </string>
     <string id="75">
       <text lang="CHN">伊科尔</text>
       <text lang="eng">Ykol</text>
       <text lang="ger">Ykol</text>
+      <text lang="l11">伊科爾</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ykol</text>
     </string>
     <string id="99">
       <text lang="CHN">三个愿望 - 大饥荒 - 支线</text>
       <text lang="eng">THREE WISHES - The Great Famine - Sub</text>
       <text lang="ger">DREI WÜNSCHE - Die Große Hungersnot - Sub</text>
+      <text lang="l11">三個願望 - 大饑荒 - 支線</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">TRZY ŻYCZENIA - WIELKA KLĘSKA GŁODU</text>
     </string>
   </strings>
@@ -72,6 +99,17 @@
         <text> 
 "Unsere Tapferkeit, unsere Stärke und all unser Mut können uns bei der Bekämpfung der Schlangenplage nicht viel weiterhelfen, denn die Plage hat ihre Ursache in dunkler, magischer Kunst. Im Göttlichen, sozusagen..." erklärte Ykol. 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+“我們的勇敢、力量與全部勇氣，在對付蛇災時都幫不上什麼忙，因為這災禍源於黑暗的魔法技藝。可以說，源於神域……”伊科爾解釋道。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -106,6 +144,21 @@ Doch bedenkt: es ist wohl schwierig, zu ihm zu gelangen. Viele Tore versperren d
 
 Öffne die Tore und finde den Geist!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+“這地穴自太初之時便住著一尊神靈，他能化不可能為可能。唯有他足夠強大，擁有所需的法力。
+
+但請想想：抵達他面前絕非易事。重重門扉擋住了去路……”
+
+開啟門扉，找到神靈！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -147,6 +200,22 @@ Wie sich herausstellte, schienen sie aber nicht besonders klug zu sein. Denn die
 Benutze die Türmechanismen gegen die Schlangenwesen!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+蛇形生物
+
+竟還有這出！這些蠢貨孽畜連地下也蔓延到了！
+不過看來它們並不怎麼聰明。機關門讓它們吃盡苦頭，常常被關在這些地穴裡數週之久！
+
+用機關門對付蛇形生物！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 WĘŻE
@@ -179,6 +248,19 @@ DAS ERSTE TOR
 Mit einem gewaltigen Knarren öffnete sich ein hölzernes Tor nicht fern von hier. 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+第一道門
+
+伴隨著巨大的吱嘎聲，不遠處一扇木門緩緩開啟。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 PIERWSZE DRZWI
@@ -209,6 +291,19 @@ DAS ZWEITE TOR
 Mit einem gewaltigen Knarren öffnete sich ein hölzernes Tor nicht fern von hier. 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+第二道門
+
+伴隨著巨大的吱嘎聲，不遠處一扇木門緩緩開啟。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 DRUGIE DRZWI
@@ -238,6 +333,19 @@ DAS DRITTE TOR
 
 Mit einem gewaltigen Knarren öffnete sich ein hölzernes Tor nicht fern von hier.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+第三道門
+
+伴隨著巨大的吱嘎聲，不遠處一扇木門緩緩開啟。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -305,6 +413,31 @@ In diesen Räumen hier befinden sich drei Schalter.
 Merke dir die Symbole der Schalter gut, denn ich zeige sie euch nur ein einziges Mal!" 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+神靈
+
+我們找到了伊科爾所說、並被他寄予厚望的那尊神靈。
+
+他對我們開口道：
+
+“我只為那些願意接受我謎題考驗的人實現一個願望！
+
+怎樣？！
+
+……
+
+這些房間裡共有三個開關。
+
+好好記住開關的記號，因為我只向你們展示一次！”
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 DUCH
@@ -338,6 +471,18 @@ W tych pomieszczeniach znajdują się trzy przyciski. Zapamiętajcie ikony tych 
 "Hier seht ihr Schalter A"
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+“你們看，這是開關 A”
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -363,6 +508,18 @@ W tych pomieszczeniach znajdują się trzy przyciski. Zapamiętajcie ikony tych 
 
 "Hier seht ihr Schalter B"
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+“你們看，這是開關 B”
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -408,6 +565,24 @@ Antwortet mir, indem ihr den entsprechenden Schalter betätigt!
 Seid ihr bereit für dieses Rätsel? Dann tretet einen Schritt näher!"   
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+“而這，是開關 C”
+
+我的每個謎題都有 3 個可能的答案。但當心！其中只有一個正確。你們須將它找出來！
+
+按下對應的開關來回答我！
+
+你們準備好猜謎了嗎？那就走近一步！”
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -439,6 +614,18 @@ You have to leave the switches, otherwise the genie will remain silent!
 
 Du musst von den Schaltern herunter gehen, sonst schweigt der Geist!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+你們必須從開關上下來，否則神靈不會開口！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -481,6 +668,31 @@ MISSION VERLOREN!
 Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+是英勇，還是魯莽？比雅尼死時，諸神也為之落淚……少了這位英雄，你便無從知曉任務的結局。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -515,6 +727,19 @@ MÖP!
 Falsche Antwort!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+噗！
+
+答錯了！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Niestety!
@@ -544,6 +769,19 @@ GEIST
 
 "Nun, ihr habt das Rätsel bestanden und so füge ich mich euren Wünschen. Drei an der Zahl will ich euch erfüllen. Wohlan, was ist eurer erster Wunsch?" 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+神靈
+
+“好吧，你們破解了謎題，我便遵從你們的願望。我願實現三個願望。那麼，你們的第一個願望是什麼？”
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -581,6 +819,21 @@ Wir waren so perplex, dass unsere Mission einfach durch die Aussprache eines Wun
 Bekämpfe die Schlangenplage, so dass die Menschen wieder in Frieden leben können!" 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+我們大感錯愕--只需說出一個願望，任務便算完成。但儘管如此，我們仍坦然要求：
+
+“這片土地上的人民正受惡蛇威脅。儘管拼死抵抗，也只能將他們擊退，卻從未真正消滅。
+
+請消除蛇災，讓人們重歸安寧生活！”
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Chociaż nie mogliśmy uwierzyć, że wypełnienie misji zależało tylko od wypowiedzenia przez nas życzenia, przedstawiliśmy duchowi naszą prośbę:
@@ -615,6 +868,20 @@ PFLOPF ZISCH PENG !!!!
  
 Die ganze SCHLANGENPLAGE war mit einem Schlag vernichtet! Die Menschen, die ihnen zum Opfer gefallen waren, aber noch lebten, erhoben sich aus den sterblichen Überresten ihrer Peiniger!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+噗嗤 嘶 砰！！！！
+……願望就此實現……
+
+整場蛇災瞬間被消滅！那些淪為蛇族犧牲品、卻尚存一息的人，從施暴者的屍骸中站了起來！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -659,6 +926,23 @@ Wir sannen über die Menschen nach: Zwar war die Schlangenplage nun gebannt, abe
 "Geist, wenn es in deiner Macht steht, dann beende die Hungersnot!" 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+“這便是你們的第一個願望。”神靈說道。“我還願實現兩個。
+
+那麼，你們的第二個願望是什麼？”
+
+我們念及百姓：蛇災雖已平息，但村莊與田地盡毀，人們還將長期忍飢挨餓……
+
+“神靈，若你有力為之，請終結這場饑荒！”
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 "To było wasze pierwsze życzenie" rzekł duch. "Do spełnienia zostały jeszcze dwa życzenia.
@@ -695,6 +979,20 @@ PFLOPF ZISCH PENG !!!!
  
 Die HUNGERSNOT ward gebannt und die Leute erhielten Nahrung im Überfluss. Ihre langen Qualen hatten ein Ende...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+噗嗤 嘶 砰！！！！
+……願望就此實現……
+
+饑荒被驅散，人們獲得了豐盛的食物。他們長久的苦痛，終告結束……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -738,6 +1036,23 @@ Wir sannen über unseren dritten Wunsch nach, aber niemanden schien ein bedeuten
 
 Der Geist schien zwar nicht so sehr in der Nordischen Mythologie bewandert zu sein, aber er wollte schauen, was er tun kann... ;0)   
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+“你們真是無私，我的謎題之友！”神靈讚許道。“那麼，我還可實現你們最後一個願望。你們的第三個願望是什麼？”
+
+我們思忖著第三個願望，卻似乎無人心中懸著什麼要緊心願。這時伊科爾衝上前，向神燈精靈求道：
+
+“請將‘奧丁之心’贈予比雅尼獻給希拉--那是一件蘊含魔力的護符！正配得上一位拜占庭公主！”
+
+神靈雖不甚通曉北歐神話，卻願意看看自己能做什麼…… ;0)
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -785,6 +1100,23 @@ B) 712
 C) gar keine!  
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+問題 1
+
+“阿拉丁有幾個強盜？”
+
+A) 40
+B) 712
+C) 一個也沒有！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 PYTANIE 1
@@ -830,6 +1162,23 @@ A) Schneehase
 B) Kamel 
 C) Quastenflosser
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+問題 2
+
+“沙漠之舟是哪種動物？”
+
+A) 雪兔
+B) 駱駝
+C) 腔棘魚
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -877,6 +1226,23 @@ B) Papa Morgana
 C) Nordlichter
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+問題 3
+
+“沙漠中的海市蜃樓稱作什麼？”
+
+A) 海市蜃樓
+B) 爸爸蜃樓
+C) 北極光
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 PYTANIE 3
@@ -907,6 +1273,18 @@ CORRECT!
 
 RICHTIG!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+答對了！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -948,6 +1326,31 @@ MISSION VERLOREN!
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin Cyra erlag durch deine Unachtsamkeit! Ohne diese Heldin wird dir das Ende der Mission verborgen bleiben.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命中片刻的魯莽，轉瞬即至！你的女英雄希拉因你的疏忽而殞命！少了這位女英雄，你便無從知曉任務的結局。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -995,6 +1398,31 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held Hatschi erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命中片刻的魯莽，轉瞬即至！你的朋友與英雄哈奇因你的疏忽而殞命！少了這位英雄，你便無從知曉任務的結局。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1041,6 +1469,31 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Ykol erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+生命中片刻的魯莽，轉瞬即至！伊科爾因你的疏忽而殞命！少了這位英雄，你便無從知曉任務的結局。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1069,6 +1522,17 @@ After the last wish, the genie from the bottle disappeared. But he left a shinin
 Der Flaschengeist verschwand mit dem letzten Wunsch, aber er hinterlies ein leuchtend rotes Amulett. 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+神燈精靈隨最後一個願望消散，卻留下一枚熠熠生輝的紅色護符。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Dżin zniknął po wypowiedzeniu przez nas ostatniego życzenia, ale pozostawił mieniący się na czerwono amulet.
@@ -1090,6 +1554,17 @@ Ykol picked it up and brought it to me. I gave it to Cyra, because Ykol claimed 
         <text> 
 Sogleich hob es Ykol auf und brachte es mir. Ich legte es Cyra an, denn laut Ykol hatte es magische Fähigkeiten und sollte den Träger beschützten... 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+伊科爾立刻拾起它，交到我手中。我把它戴在希拉身上--據伊科爾說，它蘊含魔力，應能護佑佩戴者……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1116,6 +1591,18 @@ MISSION COMPLETED!
 MISSION GEWONNEN! 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+任務成功！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 
@@ -1141,6 +1628,18 @@ THREE WISHES
 
 DREI WÜNSCHE
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+三個願望
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

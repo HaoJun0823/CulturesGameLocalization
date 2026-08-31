@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,108 +14,162 @@
       <text lang="CHN">建立你的食物供给！</text>
       <text lang="eng">Organise a food chain!</text>
       <text lang="ger">Baue deine Nahrungsversorgung auf!</text>
+      <text lang="l11">建立你的食物供給！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zorganizuj łańcuch pokarmowy!</text>
     </string>
     <string id="1">
       <text lang="CHN">开采 100 金与 100 铁，运入你的某一仓库！</text>
       <text lang="eng">Mine 100 gold and 100 iron and deliver them to one of your warehouses!</text>
       <text lang="ger">Baue 100 Gold und 100 Eisen ab und schaffe sie in eines deiner Lager!</text>
+      <text lang="l11">開採 100 金與 100 鐵，運入你的某一倉庫！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wydobądź 100 złota oraz 100 żelaza i dostarcz je do jednego z twoich magazynów!</text>
     </string>
     <string id="2">
       <text lang="CHN">铸造 50 金币，作为归乡赠予比雅尼的小礼！</text>
       <text lang="eng">Mint 50 gold coins as a small welcome back present for Bjarni!</text>
       <text lang="ger">Präge 50 Goldmünzen, als kleines Heimkehrgeschenk an Bjarni!</text>
+      <text lang="l11">鑄造 50 金幣，作為歸鄉贈予比雅尼的小禮！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wybij 50 złotych monet jako mały prezent na powrót Bjarniego!</text>
     </string>
     <string id="3">
       <text lang="CHN">探索你周围的环境！</text>
       <text lang="eng">Explore the area!</text>
       <text lang="ger">Erkunde deine Umgebung!</text>
+      <text lang="l11">探索你周圍的環境！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zbadaj teren!</text>
     </string>
     <string id="4">
       <text lang="CHN">协助邻族在指定位置重建村庄！</text>
       <text lang="eng">Help the neighbouring tribes to rebuild their village at the desired spots!</text>
       <text lang="ger">Hilf dem Nachbarstamm, sein Dorf an den gewünschten Stellen wieder aufzubauen!</text>
+      <text lang="l11">協助鄰族在指定位置重建村莊！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Pomóż sąsiednim plemionom w odbudowie ich wioski w żądanych miejscach!</text>
     </string>
     <string id="5">
       <text lang="CHN">至少聚集 15 头牛与羊！</text>
       <text lang="eng">Round up at least 15 oxen and sheep!</text>
       <text lang="ger">Treibe mindestens 15 Ochsen und Schafe zusammen!</text>
+      <text lang="l11">至少聚集 15 頭牛與羊！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zbierz przynajmniej 15 wołów i owiec!</text>
     </string>
     <string id="6">
       <text lang="CHN">带 10 名平民前往邻村总部参加落成庆典！</text>
       <text lang="eng">Take 10 civilians to the topping-out ceremony at the neighbouring village's headquarters!</text>
       <text lang="ger">Gehe mit 10 Zivilisten zum Richtfest beim Hauptquartier des Nachbarortes!</text>
+      <text lang="l11">帶 10 名平民前往鄰村總部參加落成慶典！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zabierz 10 cywilów do ukończenia ceremonii w kwaterze głównej sąsiedniej wioski!</text>
     </string>
     <string id="7">
       <text lang="CHN">你如今已有 %d / 15 头牛！</text>
       <text lang="eng">Now you have %d of 15 cows!</text>
       <text lang="ger">Du hast jetzt %d von 15 Kühen!</text>
+      <text lang="l11">你如今已有 %d / 15 頭牛！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Teraz masz %d z 15 krów!</text>
     </string>
     <string id="8">
       <text lang="CHN">你如今已有 %d / 15 只羊！</text>
       <text lang="eng">Now you have %d of 15 sheep!</text>
       <text lang="ger">Du hast jetzt %d von 15 Schafen!</text>
+      <text lang="l11">你如今已有 %d / 15 只羊！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Teraz masz %d z 15 owiec!</text>
     </string>
     <string id="9">
       <text lang="CHN">已开采 %d 金</text>
       <text lang="eng">%d mined gold</text>
       <text lang="ger">%d abgebautes Gold</text>
+      <text lang="l11">已開採 %d 金</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">%d wydobytego złota</text>
     </string>
     <string id="10">
       <text lang="CHN">已开采 %d 铁</text>
       <text lang="eng">%d mined iron</text>
       <text lang="ger">%d abgebautes Eisen</text>
+      <text lang="l11">已開採 %d 鐵</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">%d wydobytego żelaza</text>
     </string>
     <string id="11">
       <text lang="CHN">已铸造 %d 硬币</text>
       <text lang="eng">%d minted coins</text>
       <text lang="ger">%d geprägte Münzen</text>
+      <text lang="l11">已鑄造 %d 硬幣</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">%d wybitych monet </text>
     </string>
     <string id="50">
       <text lang="CHN">探险队</text>
       <text lang="eng">Scouts</text>
       <text lang="ger">Erkundungstrupp</text>
+      <text lang="l11">探險隊</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zwiadowcy</text>
     </string>
     <string id="51">
       <text lang="CHN">探险队</text>
       <text lang="eng">Scouts</text>
       <text lang="ger">Erkundungstrupp</text>
+      <text lang="l11">探險隊</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zwiadowcy</text>
     </string>
     <string id="52">
       <text lang="CHN">火山灾民</text>
       <text lang="eng">Volcano Victims</text>
       <text lang="ger">Vulkangeschädigte</text>
+      <text lang="l11">火山災民</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ofiary Wulkanu </text>
     </string>
     <string id="53">
       <text lang="CHN">火山灾民</text>
       <text lang="eng">Volcano Victims</text>
       <text lang="ger">Vulkangeschädigte</text>
+      <text lang="l11">火山災民</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ofiary Wulkanu</text>
     </string>
     <string id="98">
       <text lang="CHN">给新手：一支小小的探险队已深入内陆，去开辟新的资源、或许再建一座新村。</text>
       <text lang="eng">For newbies: A group of scouts had penetrated inland in order to find new deposits of raw materials and possibly build a new settlement.</text>
       <text lang="ger">Für Einsteiger: Ein kleiner Erkundungstrupp war tief ins Innere des Landes vorgestoßen, um neue Rohstoffquellen zu erschließen und eventuell ein neues Dorf zu errichten.</text>
+      <text lang="l11">給新手：一支小小的探險隊已深入內陸，去開闢新的資源、或許再建一座新村。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Dla żółtodziobów: Grupa zwiadowców spenetrowała głąb kraju, aby znaleźć nowe złoża surowców i być może wybudować nową osadę.</text>
     </string>
     <string id="99">
       <text lang="CHN">救援行动</text>
       <text lang="eng">THE RELIEF CAMPAIGN</text>
       <text lang="ger">DIE HILFSAKTION</text>
+      <text lang="l11">救援行動</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">KAMPANIA RATUNKOWA</text>
     </string>
   </strings>
@@ -141,6 +198,19 @@ Unsere Gastgeber hatten schon auf unsere Leute gewartet, und so wurde am Abend e
 In unserer Heimat würde man sehr stolz auf uns sein. Nicht nur, dass wir wertvolle Rohstoffe entdeckt hatten. Nein, wir hatten sogar neue Freunde gefunden und ein sehr günstiges Handelsabkommen geschlossen!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+我們的東道主早已在等候我們的族人，於是傍晚為他們舉辦了一場盛大的答謝慶典，向我們致敬。
+
+在故鄉，人們定會為我們深感驕傲。我們不僅發現了寶貴的資源，更結識了新朋友，還訂立了極有利的交易協定！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -167,6 +237,17 @@ The group of scouts had disappeared from this world. Nobody had ever heard what 
 
 Der Aufklärungstrupp der Wikinger war von dieser Welt verschwunden. Niemand hatte je erfahren, was mit den Angehörigen geschehen war. 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+維京人的偵察隊已從這片世界消失。無人曾知那些同胞究竟遭遇了什麼。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -198,6 +279,19 @@ Wir hatten unsere Nahrungsversorgung vorläufig sicher gestellt und damit begonn
 
 Doch unsere Neugierde trieb uns immer weiter vom Dorf weg, und so schickten wir einen Kundschafter los, das Land zu erforschen...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+我們暫且保障了食物供給，並開始在火山腳下開採資源。
+
+然而好奇心驅使我們越走越遠，於是我們派出一名偵察兵去探察這片土地……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -231,6 +325,19 @@ Wir wollten unserem Häuptling im Heimatdorf wertvolle Rohstoffe von unserer Exk
 
 Jetzt wollten wir als Krönung noch 50 Münzen prägen, auf dass wir Wichtigkeit und Nutzen unseres Unternehmens unter Beweis stellen konnten...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+我們想給家鄉村莊的首領帶去遠征所獲的寶貴資源，而此刻終告完成：我們已開採出 100 金與 100 鐵！
+
+如今我們還要錦上添花，再鑄 50 枚硬幣，以證明此行的重要性與價值……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -289,6 +396,27 @@ Außer sich vor Verzweiflung baten sie uns, zu helfen, ihre Herde zurück ins Do
 Doch zuerst musste man warten, bis sich die Lavaströme etwas abgekühlt hatten...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+火山災民
+
+當我們的偵察兵在火山腳下遇見另一支部族，映入眼簾的竟是一幅滿目瘡痍的景象！
+
+那看似地震的災變，實則是一場短暫卻極其猛烈的火山噴發，熾熱的熔岩一路撕裂了村莊……
+許多房屋只剩餘燼，居民們方才僥倖保住性命。
+
+這個部族賴以生存的龐大牛群與羊群，在震動中四散奔逃。
+他們絕望至極，懇請我們相助，將畜群驅回村中，同時他們要規劃新村、為新的房舍奠基。
+
+只是須先等待熔岩流稍許冷卻……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -323,6 +451,17 @@ After long work it was finally done: The coins for our return were minted! Now w
 
 Nach langer Arbeit war es endlich geschafft: die Münzen für unsere Rückkehr waren geprägt! Nun mussten wir nur noch unseren Nachbarn helfen, bevor wir uns auf den Heimweg machen konnten...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+漫長的勞作後，終於大功告成：歸鄉的硬幣鑄好了！如今在啟程回家前，我們只需再助鄰人一臂之力……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -361,6 +500,21 @@ Man wollte das Dorf genau so wieder aufbauen, wie es vor der Katastrophe dagesta
 Um unsere Freundschaft zu vertiefen - und Freunden hilft man schließlich in der Not - boten wir an, den Aufbau der Baustellen selbst in die Hand zu nehmen. Da die Lava inzwischen etwas abgekühlt war, konnten wir uns sofort an die Arbeit machen.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+我們的偵察兵已聚齊 15 頭牛羊，替鄰人重整了畜群。他們衷心致謝，並向我們講述了進一步的打算。
+
+他們想把村莊重建得與災前一模一樣，只是眾人仍深為這場災禍所苦。
+
+為深化友誼--危難中自當助友--我們主動攬下了工地興建之事。此時熔岩已稍冷卻，我們便能立即動工。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -392,6 +546,18 @@ We were all invited to celebrate. As we could not all take part, we sent a deleg
 Die Arbeit war getan, das Dorf erstrahlte in neuem, alten Glanze! Nun konnte die Einweihungsparty beginnen... 
 Wir wurden alle eingeladen zum Trinken und zum Feiern. Da wir nicht alle gehen konnten, sandten wir eine Abordnung von zehn Leuten zu der Feier, die beim Hauptquartier unserer neuen Freunde stattfinden sollte.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+大功告成，村莊煥發新舊交融的光彩！如今落成慶典可以開始了……
+我們盡數受邀前去暢飲歡慶。既無法全體前往，便派出十人代表團，去參加在我們新朋友總部舉行的慶典。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -437,6 +603,23 @@ Wir hatten neue Freunde gefunden und ein neues Handelsabkommen geschlossen. Alle
 Wir mussten ja noch Gold und Eisen für unsere Leute besorgen. Voller Dankbarkeit boten uns unsere Nachbarn jene Waren und Münzen zu einem niedrigen Preis - so konnten wir diese jetzt einfach erhandeln!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+落成慶典
+
+我們的東道主早已在等候我們的族人，於是傍晚為他們舉辦了一場盛大的答謝慶典，向我們致敬。
+
+我們結識了新朋友，訂立了新的貿易協定。眾人歡喜滿足，可我們的使命尚未全然完成……
+
+我們還須為族人備辦金與鐵。鄰居們滿懷感激，願以低價將這些貨物與硬幣讓與我們--如今我們儘可輕鬆購得！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -480,6 +663,21 @@ Was war das? Die Erde bebte und zitterte... Es musste der Vulkan sein! Er brach 
 Nur unsere Häuser hatten starken Schaden genommen - wir mussten sie schnell reparieren, bevor es zu einem weiteren Beben kam!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+火山噴發
+
+那是什麼？大地震顫搖晃……必是火山！它當真噴發了……所幸熔岩未流經我們的村莊。無人受重傷……
+
+唯獨我們的房屋受損嚴重--須趕在下一次震動前迅速修繕！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -508,6 +706,17 @@ After long, hard work, we had finally managed it: The coins for our return were 
 
 Nach langer, harter Arbeit hatten wir es endlich geschafft: die Münzen für unsere Rückkehr waren geprägt! Ein neues Handelsabkommen, neue Freunde und ein kleiner Schatz - man würde bei unserer Rückkehr sehr stolz auf uns sein!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+漫長艱辛的勞作後，我們終於達成：歸鄉的硬幣鑄好了！新的貿易協定、新的朋友、還有一小筆財寶--我們歸鄉時，定會讓眾人引以為傲！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -558,6 +767,25 @@ Von vielen Häusern war nur noch Asche über geblieben, und die Einwohner waren 
 Die große Herde Rinder und Schafe, von der dieser Stamm lebte, war beim Beben auseinandergestoben und fortgerannt...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+火山災民
+
+當我們的偵察兵在火山腳下遇見另一支部族，映入眼簾的竟是一幅滿目瘡痍的景象！
+
+那看似地震的災變，實則是一場短暫卻極其猛烈的火山噴發，熾熱的熔岩啃噬了這座村莊……
+
+許多房屋只剩餘燼，居民們方才僥倖保住性命。
+
+這個部族賴以生存的龐大牛群與羊群，在震動中四散奔逃……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -603,6 +831,21 @@ Uns erreichte eine Nachricht von unseren Nachbarn, die außer sich vor Verzweifl
 Doch zuerst musste man warten, bis sich die Lavaströme etwas abgekühlt hatten...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+求救
+
+我們收到鄰人幾近絕望的口信：他們懇請我們協助，將畜群驅回村中，同時他們要規劃新村、為新的房舍奠基。
+
+只是須先等待熔岩流稍許冷卻……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -640,6 +883,20 @@ MÜNZEN FERTIG
 Nach langer Arbeit war es endlich geschafft: 
 die Münzen für unsere Rückkehr waren geprägt! Wir wollten jedoch noch ein Dankesfest mit unseren Nachbarn feiern, bevor wir uns auf den Heimweg machten...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+硬幣就緒
+
+漫長的勞作後，終於大功告成：
+歸鄉的硬幣鑄好了！然而在啟程回家前，我們還想與鄰人共慶一場答謝之宴……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -685,6 +942,23 @@ Leider vergaßen wir die Gewalt, die von solch einem "Donnerberg" ausgehen konnt
 Zunächst wollten wir eine kleine Siedlung mit Häusern für unsere Frauen und einer ausreichenden Nahrungsversorgung aufbauen. Außerdem mussten unsere Abbauer erst genügend Erfahrung sammeln...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+春日裡美好的一天，我們的部族決定派出一支偵察隊深入內陸，去尋找新的資源。
+
+當我們抵達一座火山腳下，簡直不敢相信自己的眼睛！火山將寶貴的資源噴吐而出，拋入山谷。金、鐵與碎石密佈一處--我們只消開採入庫！
+
+可惜我們忘了，這樣一座"雷山"所能釋放的偉力……
+
+起初我們想建一座小聚落，為妻小備好房舍與充足的食物，況且我們的礦工也須先積累足夠經驗……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 Pewnego, pięknego dnia na wiosnę, nasze plemię zdecydowało się wysłać grupę zwiadowców w głąb kraju, aby poszukać nowych złóż surowców.
@@ -717,6 +991,17 @@ DIE HILFSAKTION / DER DONNERBERG"
 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+救援行動 / 雷山
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -745,6 +1030,17 @@ MISSION VERLOREN!
 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+任務失敗！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -772,6 +1068,17 @@ MISSION COMPLETED!
 MISSION GEWONNEN!
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+任務成功！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

@@ -1,52 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="03_Verlorene_Welt" export_map_id="03_Verlorene_Welt" map_md5="ee0e51aaa29c5206c4eef1f0962064be" IsC2M="true">
+<localization version="1.3" map_id="03_Verlorene_Welt" export_map_id="03_Verlorene_Welt" map_md5="ee0e51aaa29c5206c4eef1f0962064be" IsC2M="true" deprecated="false">
   <languages>
-    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">失落之地</text>
-      <text lang="ger">Verlorene Welt</text>
       <text lang="eng">Lost World</text>
+      <text lang="ger">Verlorene Welt</text>
+      <text lang="l11">失落之地</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zaginiony Świat</text>
     </string>
     <string id="1">
       <text lang="CHN">在朝北方航行的途中，我们卷入了一个凶险的漩涡，它把我们带到了一个陌生的世界。</text>
-      <text lang="ger">Auf dem Weg Richtung Norden gerieten wir in einen heimtückischen Strudel, der uns in eine fremde Welt brachte.</text>
       <text lang="eng">On the way north we were caught in a treacherous current that brought us to a strange world.</text>
+      <text lang="ger">Auf dem Weg Richtung Norden gerieten wir in einen heimtückischen Strudel, der uns in eine fremde Welt brachte.</text>
+      <text lang="l11">在朝北方航行的途中，我們捲入了一個兇險的漩渦，它把我們帶到了一個陌生的世界。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">W drodze na północ wpadliśmy w zdradziecki prąd, który zabrał nas do obcego świata.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
-      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得友好。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
-      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得中立。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
-      <text lang="ger">Spieler0</text>
       <text lang="eng">Player0</text>
+      <text lang="ger">Spieler0</text>
+      <text lang="l11">玩家0</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
-      <text lang="ger">Spieler1</text>
       <text lang="eng">Player1</text>
+      <text lang="ger">Spieler1</text>
+      <text lang="l11">玩家1</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
-      <text lang="ger">Spieler2</text>
       <text lang="eng">Player2</text>
+      <text lang="ger">Spieler2</text>
+      <text lang="l11">玩家2</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz2</text>
     </string>
   </strings>
@@ -56,6 +80,12 @@
         <text>费利克斯与卡萝！！
 谢谢你们，我的朋友们，为我们建起这座双户宅子。我们希望你们能找到一条路，好让我们从这里出去……</text>
       </lang>
+      <lang code="eng">
+        <text>
+Felix and Karo !!
+Thank you for the semi-detached house, my friends. We hope you will find a way for us to get out of here again.....
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Felix und Karo !!
@@ -63,11 +93,15 @@ Danke für das Zweifamilienhaus meine Freunde. Wir hoffen ihr werdet einen Weg f
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Felix and Karo !!
-Thank you for the semi-detached house, my friends. We hope you will find a way for us to get out of here again.....
-</text>
+      <lang code="l11">
+        <text>費利克斯與卡蘿！！
+謝謝你們，我的朋友們，為我們建起這座雙戶宅子。我們希望你們能找到一條路，好讓我們從這裡出去……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -81,6 +115,12 @@ Dziękujemy za dom dwurodzinny, przyjaciele. Mamy nadzieję, że znajdziecie spo
         <text>一位老者！！
 又来新访客了？很高兴见到你们。但愿你们对我能比前阵子来访的那些阴森身影友善些。他们全副武装，穿着红色制服。红海盗梅林，只可能是他。这么说他也卷进了这个漩涡。你们想从这里出去？那你们得先绕过群蛇，再穿过熔岩之路到达沙漠岛，然后绕过冰之圣徒。之后从那两座方尖碑之间穿过去，你们便能离开这片土地。可那些阴森的身影藏在何处，我却不知道……</text>
       </lang>
+      <lang code="eng">
+        <text>
+An old man !!
+More visitors again? Pleased to see you. I hope you will be kinder to me than the sinister figures who visited me recently. They were heavily armed and wore red uniforms. Merlin the red corsair, it could only be him. So he had also sailed into this maelstrom. You want to get out of here? Well, you must first get past the snakes, then through the lava road to the desert island, then past the Ice Saints. Then sail through the two obelisks, and you will be able to leave this land. But where the sinister figures are staying, I do not know......
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Ein alter Mann !!
@@ -88,11 +128,15 @@ Schon wieder neue Besucher? Freut mich euch zu sehen. Hoffentlich seit ihr freun
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-An old man !!
-More visitors again? Pleased to see you. I hope you will be kinder to me than the sinister figures who visited me recently. They were heavily armed and wore red uniforms. Merlin the red corsair, it could only be him. So he had also sailed into this maelstrom. You want to get out of here? Well, you must first get past the snakes, then through the lava road to the desert island, then past the Ice Saints. Then sail through the two obelisks, and you will be able to leave this land. But where the sinister figures are staying, I do not know......
-</text>
+      <lang code="l11">
+        <text>一位老者！！
+又來新訪客了？很高興見到你們。但願你們對我能比前陣子來訪的那些陰森身影友善些。他們全副武裝，穿著紅色制服。紅海盜梅林，只可能是他。這麼說他也捲進了這個漩渦。你們想從這裡出去？那你們得先繞過群蛇，再穿過熔岩之路到達沙漠島，然後繞過冰之聖徒。之後從那兩座方尖碑之間穿過去，你們便能離開這片土地。可那些陰森的身影藏在何處，我卻不知道……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -105,16 +149,25 @@ Znowu nowi goście? Miło was widzieć. Mam nadzieję, że będziecie dla mnie m
       <lang code="CHN">
         <text>你失败了。如今你将永远被困在这片失落之地。</text>
       </lang>
+      <lang code="eng">
+        <text>
+You have lost. Now you are trapped forever in this lost world.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Du hast verloren. Nun bist Du für immer in dieser verlorenen Welt gefangen.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-You have lost. Now you are trapped forever in this lost world.
-</text>
+      <lang code="l11">
+        <text>你失敗了。如今你將永遠被困在這片失落之地。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -126,16 +179,25 @@ Przegrałeś. Teraz jesteś na zawsze uwięziony w tym zaginionym świecie.
       <lang code="CHN">
         <text>任务失败！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission verloren!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission lost!
-</text>
+      <lang code="l11">
+        <text>任務失敗！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -148,6 +210,12 @@ Misja przegrana!
         <text>好，这些家伙完蛋了。既然陆路走不通，我们便决定造一艘船，好继续探索这一带。
 任务目标：建造一艘船，从海路探索周边。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Well, they were gone. Since we could not get further overland, we decided to build a ship to explore the area further.
+Mission goal: Build a ship and explore the area by sea.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 So, die waren hinüber. Da wir über Land nicht weiterkamen beschlossen wir ein Schiff zu bauen, um die Gegend weiter zu erforschen.
@@ -155,11 +223,15 @@ Missionsziel: Baue ein Schiff und erkunde über den Seeweg die Gegend.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Well, they were gone. Since we could not get further overland, we decided to build a ship to explore the area further.
-Mission goal: Build a ship and explore the area by sea.
-</text>
+      <lang code="l11">
+        <text>好，這些傢伙完蛋了。既然陸路走不通，我們便決定造一艘船，好繼續探索這一帶。
+任務目標：建造一艘船，從海路探索周邊。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -173,6 +245,12 @@ Cel misji: Zbuduj statek i zbadaj okolicę drogą morską.
         <text>胜利我们很快便收入囊中，海盗本就没多少。好，现在我们得绕过冰之圣徒，前往那两座方尖碑。我们决定在岛屿西侧再造一艘船。
 任务目标：在岛屿西侧再造一艘船，找到那两座方尖碑。然后从它们之间穿过去，你便获胜了。</text>
       </lang>
+      <lang code="eng">
+        <text>
+We had victory quickly in the bag, as there were not too many pirates. Right, now we had to get past the Ice Saints to the two obelisks. We decided to build another ship on the western side of the island.
+Mission goal: Build another ship on the west side of the island and find the two obelisks. Then sail through them and you have won.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Den Sieg hatten wir schnell in der Tasche, waren es nicht all zu viele Piraten gewesen. So, nun mußten wir an den Eisheiligen vorbei zu den beiden Obelisken. Wir beschlossen an der westlichen Seite der Insel ein weiteres Schiff zu bauen.
@@ -180,11 +258,15 @@ Missionsziel:Baue westlich der Insel ein weiteres Schiff und suche die beiden Ob
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-We had victory quickly in the bag, as there were not too many pirates. Right, now we had to get past the Ice Saints to the two obelisks. We decided to build another ship on the western side of the island.
-Mission goal: Build another ship on the west side of the island and find the two obelisks. Then sail through them and you have won.
-</text>
+      <lang code="l11">
+        <text>勝利我們很快便收入囊中，海盜本就沒多少。好，現在我們得繞過冰之聖徒，前往那兩座方尖碑。我們決定在島嶼西側再造一艘船。
+任務目標：在島嶼西側再造一艘船，找到那兩座方尖碑。然後從它們之間穿過去，你便獲勝了。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -197,16 +279,25 @@ Cel misji: Zbuduj kolejny statek po zachodniej stronie wyspy i znajdź dwa obeli
       <lang code="CHN">
         <text>玩家1现在转为友好。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now friendly.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist jetzt freundlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 is now friendly.
-</text>
+      <lang code="l11">
+        <text>玩家1現在轉為友好。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -218,16 +309,25 @@ Gracz 1 jest teraz przyjazny.
       <lang code="CHN">
         <text>玩家2现在转为友好。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now friendly.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt freundlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now friendly.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為友好。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -239,16 +339,25 @@ Gracz 2 jest teraz przyjazny.
       <lang code="CHN">
         <text>玩家1现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家1現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -260,16 +369,25 @@ Gracz 1 jest teraz neutralny.
       <lang code="CHN">
         <text>玩家2现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -283,6 +401,13 @@ Gracz 2 jest teraz neutralny.
 哎哟，这里竟有大蛇。想必是这滚烫的熔岩闹的，我们心想。这些一定就是那位老者所说的蛇。若想继续前进，我们必须把它们消灭。
 任务目标：消灭群蛇。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Hiss !! Crackle !! Flicker !!
+Whoa, there were huge snakes here. Must be the hot lava, we thought. These must be the snakes the old man meant. We had to destroy them if we wanted to get further.
+Mission goal: Destroy the snakes.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Zisch !! Knister !! Züngel !!
@@ -291,12 +416,16 @@ Missionsziel: Vernichte die Schlangen.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Hiss !! Crackle !! Flicker !!
-Whoa, there were huge snakes here. Must be the hot lava, we thought. These must be the snakes the old man meant. We had to destroy them if we wanted to get further.
-Mission goal: Destroy the snakes.
-</text>
+      <lang code="l11">
+        <text>嘶嘶！！噼啪！！吐信！！
+哎喲，這裡竟有大蛇。想必是這滾燙的熔岩鬧的，我們心想。這些一定就是那位老者所說的蛇。若想繼續前進，我們必須把它們消滅。
+任務目標：消滅群蛇。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -312,6 +441,13 @@ Cel misji: Zniszcz węże.
 利箭朝我们射来。原来红海盗的军队盘踞在了这里。可他本人似乎不在此处，那么必定有一条出路。那位老者说得没错。不过我们得先把剩下的海盗消灭。
 任务目标：消灭海盗。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Vikings !! Seize them !!
+Arrows flew towards us. So this was where the army of the red corsair had settled. He himself did not seem to be there, so there must be a way out. The old man had been right. But first we had to destroy the remaining pirates.
+Mission goal: Destroy the pirates.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Wickinger !! Ergeift Sie !!
@@ -320,12 +456,16 @@ Missionsziel: Vernichte die Piraten.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Vikings !! Seize them !!
-Arrows flew towards us. So this was where the army of the red corsair had settled. He himself did not seem to be there, so there must be a way out. The old man had been right. But first we had to destroy the remaining pirates.
-Mission goal: Destroy the pirates.
-</text>
+      <lang code="l11">
+        <text>維京人！！抓住他們！！
+利箭朝我們射來。原來紅海盜的軍隊盤踞在了這裡。可他本人似乎不在此處，那麼必定有一條出路。那位老者說得沒錯。不過我們得先把剩下的海盜消滅。
+任務目標：消滅海盜。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -343,6 +483,15 @@ Cel misji: Zniszcz piratów.
 
 制作者：尤基</text>
       </lang>
+      <lang code="eng">
+        <text>
+The maelstrom swept us all away. Nobody could escape it. Our ships smashed against the riverbank of a small island surrounded by solidified lava. Fortunately Felix and his wife Karo escaped unharmed. Some of us as well, but most fell victim to the maelstrom....
+Mission goal: Build a small village, and explore the area.
+
+
+Created by: Yogi
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Der Strudel riss uns alle mit. Niemand konnte ihm entkommen.Unsere Schiffe zerschellten am Flussufer einer kleinen Insel die von erstarrter Lava umgeben war.Zum Glück kamen Felix und seine Frau Karo unverletzt davon.So auch einige von uns, doch die meisten vielen dem Strudel zum Opfer....
@@ -353,14 +502,18 @@ Erstellt von: Yogi
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-The maelstrom swept us all away. Nobody could escape it. Our ships smashed against the riverbank of a small island surrounded by solidified lava. Fortunately Felix and his wife Karo escaped unharmed. Some of us as well, but most fell victim to the maelstrom....
-Mission goal: Build a small village, and explore the area.
+      <lang code="l11">
+        <text>漩渦把我們所有人都捲了進去。無人能夠逃脫。我們的船在一座被凝固熔岩環繞的小島的河岸邊撞得粉碎。所幸費利克斯和他的妻子卡蘿毫髮無傷地脫了險。我們中也有幾人如此，可大多數人都成了漩渦的犧牲品……
+任務目標：建立一座小村莊，並探索周邊。
 
 
-Created by: Yogi
-</text>
+製作者：尤基</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -376,16 +529,25 @@ Stworzone przez: Yogi
       <lang code="CHN">
         <text>失落之地</text>
       </lang>
+      <lang code="eng">
+        <text>
+Lost World
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Verlorene Welt
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Lost World
-</text>
+      <lang code="l11">
+        <text>失落之地</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -397,16 +559,25 @@ Zaginiony Świat
       <lang code="CHN">
         <text>我们终于达成了目标！！第一艘船已穿过方尖碑。如今我们可以去接其余人了。可我们究竟会从哪里出去，对我们仍是个谜。但愿我们能尽快重新找到家乡的水域……</text>
       </lang>
+      <lang code="eng">
+        <text>
+Finally we had reached our goal !! The first ship had passed the obelisks. Now we could fetch the others. But where we would come out was still a mystery to us. Hopefully we would soon find our home waters again.....
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Endlich hatten wir unser Ziel erreicht !! Das erste Schiff hatte die Obelisken passiert. Nun konnten wir die anderen holen. Aber wo wir rauskommen sollten war uns immer noch ein Rätsel. Hoffentlich fanden wir schnell wieder die heimischen Gewässer.....
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Finally we had reached our goal !! The first ship had passed the obelisks. Now we could fetch the others. But where we would come out was still a mystery to us. Hopefully we would soon find our home waters again.....
-</text>
+      <lang code="l11">
+        <text>我們終於達成了目標！！第一艘船已穿過方尖碑。如今我們可以去接其餘人了。可我們究竟會從哪裡出去，對我們仍是個謎。但願我們能儘快重新找到家鄉的水域……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -418,16 +589,25 @@ Wreszcie osiągnęliśmy cel !! Pierwszy statek minął obeliski. Teraz mogliśm
       <lang code="CHN">
         <text>任务达成！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission gewonnen!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission won!
-</text>
+      <lang code="l11">
+        <text>任務達成！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

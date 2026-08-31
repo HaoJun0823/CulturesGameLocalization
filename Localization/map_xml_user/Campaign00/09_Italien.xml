@@ -1,58 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="09_Italien" export_map_id="09_Italien" map_md5="7bc23829c6176c8ed0d3d3d452f8782c" IsC2M="true">
+<localization version="1.3" map_id="09_Italien" export_map_id="09_Italien" map_md5="7bc23829c6176c8ed0d3d3d452f8782c" IsC2M="true" deprecated="false">
   <languages>
-    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">意大利</text>
-      <text lang="ger">Italien</text>
       <text lang="eng">Italy</text>
+      <text lang="ger">Italien</text>
+      <text lang="l11">義大利</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Włochy</text>
     </string>
     <string id="1">
       <text lang="CHN">你来到了意大利。</text>
-      <text lang="ger">Du kommst nach Italien.</text>
       <text lang="eng">You arrive in Italy.</text>
+      <text lang="ger">Du kommst nach Italien.</text>
+      <text lang="l11">你來到了義大利。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Docierasz do Włoch.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
-      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得友好。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
-      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得中立。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
-      <text lang="ger">Spieler0</text>
       <text lang="eng">Player0</text>
+      <text lang="ger">Spieler0</text>
+      <text lang="l11">玩家0</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
-      <text lang="ger">Spieler1</text>
       <text lang="eng">Player1</text>
+      <text lang="ger">Spieler1</text>
+      <text lang="l11">玩家1</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
-      <text lang="ger">Spieler2</text>
       <text lang="eng">Player2</text>
+      <text lang="ger">Spieler2</text>
+      <text lang="l11">玩家2</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz2</text>
     </string>
     <string id="53">
       <text lang="CHN">玩家3</text>
-      <text lang="ger">Spieler3</text>
       <text lang="eng">Player3</text>
+      <text lang="ger">Spieler3</text>
+      <text lang="l11">玩家3</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz3</text>
     </string>
   </strings>
@@ -61,16 +88,25 @@
       <lang code="CHN">
         <text>咦，这里怎么摆着些箱子？出于好奇，我打算立刻打开一个看看。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Hmm, what kind of boxes were standing around here? Curious, I wanted to open one right away.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Nanu, was standen hier denn für Kisten rum? Neugierig wollte ich gleich mal eine öffnen.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Hmm, what kind of boxes were standing around here? Curious, I wanted to open one right away.
-</text>
+      <lang code="l11">
+        <text>咦，這裡怎麼擺著些箱子？出於好奇，我打算立刻開啟一個看看。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -82,16 +118,25 @@ Hmm, co to za skrzyni tu stały? Z ciekawa od razu chciałem jedną otworzyć.
       <lang code="CHN">
         <text>这是一片何等荒凉的地方？放眼望去连一丛浆果灌木都没有。这里想必没人住得下去……</text>
       </lang>
+      <lang code="eng">
+        <text>
+What a bleak region this was? And not a berry bush in sight. Nobody could live here for sure.....
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Was war das für eine trostlose Gegend? Und kein Beerenstrauch weit und breit zu sehen. Hier konnte doch bestimmt keiner wohnen.....
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-What a bleak region this was? And not a berry bush in sight. Nobody could live here for sure.....
-</text>
+      <lang code="l11">
+        <text>這是一片何等荒涼的地方？放眼望去連一叢漿果灌木都沒有。這裡想必沒人住得下去……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -104,6 +149,12 @@ Cóż to była za jałowa okolica? I ani jednego krzaka jagód ze de. Z pewnośc
         <text>你失败了！！
 要不去玩一局“别生气”棋吧</text>
       </lang>
+      <lang code="eng">
+        <text>
+You lost!!
+Try a game of "Man, Don't Get Angry" instead
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Du hast verloren !!
@@ -111,11 +162,15 @@ Versuchs doch mal mit ner Runde "Mensch ärgere Dich nicht"
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-You lost!!
-Try a game of "Man, Don't Get Angry" instead
-</text>
+      <lang code="l11">
+        <text>你失敗了！！
+要不去玩一局“別生氣”棋吧</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -128,16 +183,25 @@ Spróbuj zamiast tego rundkę "Nie gniewaj się, człowieku"
       <lang code="CHN">
         <text>任务失败！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission verloren!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission lost!
-</text>
+      <lang code="l11">
+        <text>任務失敗！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -149,16 +213,25 @@ Misja przegrana!
       <lang code="CHN">
         <text>西西里人已死。</text>
       </lang>
+      <lang code="eng">
+        <text>
+The Sicilians have died.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Die Sizilianer sind gestorben.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-The Sicilians have died.
-</text>
+      <lang code="l11">
+        <text>西西里人已死。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -170,16 +243,25 @@ Sykicylijczycy nie żyją.
       <lang code="CHN">
         <text>匪徒们已死。</text>
       </lang>
+      <lang code="eng">
+        <text>
+The bandits have died.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Die Banditen sind gestorben.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-The bandits have died.
-</text>
+      <lang code="l11">
+        <text>匪徒們已死。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -191,16 +273,25 @@ Bandyci nie żyją.
       <lang code="CHN">
         <text>玩家3已阵亡。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 has died.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 3 ist gestorben.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 3 has died.
-</text>
+      <lang code="l11">
+        <text>玩家3已陣亡。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -212,16 +303,25 @@ Gracz 3 zmarł.
       <lang code="CHN">
         <text>玩家3现在转为敌对。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now hostile.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 3 ist jetzt feindlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 3 is now hostile.
-</text>
+      <lang code="l11">
+        <text>玩家3現在轉為敵對。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -233,16 +333,25 @@ Gracz 3 jest teraz wrogi.
       <lang code="CHN">
         <text>玩家1现在转为友好。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now friendly.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist jetzt freundlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 is now friendly.
-</text>
+      <lang code="l11">
+        <text>玩家1現在轉為友好。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -254,16 +363,25 @@ Gracz 1 jest teraz przyjazny.
       <lang code="CHN">
         <text>玩家2现在转为友好。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now friendly.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt freundlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now friendly.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為友好。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -275,16 +393,25 @@ Gracz 2 jest teraz przyjazny.
       <lang code="CHN">
         <text>谢谢，谢谢，现在你们可以派商人来了，不过要留意让他们随身多带些吃的，否则会在半路饿死。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Thank you, thank you, you can now send your merchants, but make sure they take plenty of food with them, otherwise they will starve on the way.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Danke, danke, ihr könnt nun Eure Händler schicken, aber achtet darauf das sie reichlich essen mit sich führen, sonst verhungern sie unterwegs.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Thank you, thank you, you can now send your merchants, but make sure they take plenty of food with them, otherwise they will starve on the way.
-</text>
+      <lang code="l11">
+        <text>謝謝，謝謝，現在你們可以派商人來了，不過要留意讓他們隨身多帶些吃的，否則會在半路餓死。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -296,16 +423,25 @@ Dzięki, dzięki, możecie teraz wysłać swoich handlarzy, ale upewnijcie się,
       <lang code="CHN">
         <text>玩家1现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家1現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -317,16 +453,25 @@ Gracz 1 jest teraz neutralny.
       <lang code="CHN">
         <text>玩家2现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -340,6 +485,13 @@ Gracz 2 jest teraz neutralny.
 我们是匪徒的盟友。滚开，否则我们就把你们屠个精光。
 任务目标：消灭西西里人。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Sicilians!!
+We are the allies of the bandits. Get lost, or we will massacre you.
+Mission objective: Destroy the Sicilians.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Sizilianer !!
@@ -348,12 +500,16 @@ Missionsziel: Vernichte die Sizilianer.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Sicilians!!
-We are the allies of the bandits. Get lost, or we will massacre you.
-Mission objective: Destroy the Sicilians.
-</text>
+      <lang code="l11">
+        <text>西西里人！！
+我們是匪徒的盟友。滾開，否則我們就把你們屠個精光。
+任務目標：消滅西西里人。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -369,6 +525,13 @@ Cel misji: Zniszcz Sycylijczyków.
 这里终于是匪徒的主要据点了。只要我们把他们解决掉，这片土地便会重归和平。
 任务目标：消灭匪徒。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Bandits!!
+Here was finally the main base of the bandits. When we were done with them, peace would reign in the country again.
+Mission objective: Destroy the bandits.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Banditen !!
@@ -377,12 +540,16 @@ Missionsziel: Vernichte die Banditen.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Bandits!!
-Here was finally the main base of the bandits. When we were done with them, peace would reign in the country again.
-Mission objective: Destroy the bandits.
-</text>
+      <lang code="l11">
+        <text>匪徒！！
+這裡終於是匪徒的主要據點了。只要我們把他們解決掉，這片土地便會重歸和平。
+任務目標：消滅匪徒。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -397,6 +564,12 @@ Cel misji: Zniszcz bandytów.
         <text>保加利亚人！！
 嗬嗬，你们在这儿做什么呢？你们身上有小麦、水和蜂蜜酒吗？有？好，那就分给我们一些，你们便能与我们通商。不过我们能拿出手的不多，因为我们很穷。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Bulgarians!!
+Hey, what are you doing here? Do you have some wheat, water and mead? Do you? Then give us some and you can trade with us. But we don't have much to offer, for we are very poor.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Bulgarier !!
@@ -404,11 +577,15 @@ Huhu, was macht ihr denn hier? Habt ihr vielleicht etwas Weizen, Wasser und Met?
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Bulgarians!!
-Hey, what are you doing here? Do you have some wheat, water and mead? Do you? Then give us some and you can trade with us. But we don't have much to offer, for we are very poor.
-</text>
+      <lang code="l11">
+        <text>保加利亞人！！
+嗬嗬，你們在這兒做什麼呢？你們身上有小麥、水和蜂蜜酒嗎？有？好，那就分給我們一些，你們便能與我們通商。不過我們能拿出手的不多，因為我們很窮。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -426,6 +603,16 @@ Hej, co wy tutaj robicie? Może ma ecie pszenica, woda i miód? Tak? Dobrze, to 
 
 制作者：尤基</text>
       </lang>
+      <lang code="eng">
+        <text>
+Hey helmsman, there is a island with a lighthouse on it coming. Oh nonsense, that's just the moon. Oh well...... craaash, bang, rattle, sink, bubble. Our helmsman had done it again. All ships except one had sunk and the deep sea had swallowed our comrades. Only one soldier could save himself in time.
+Mission objective: Go to northern Italy where hopefully your comrades, who had come from Austria into the country, are waiting for you.
+
+
+
+Created by: Yogi
+</text>
+      </lang>
       <lang code="ger">
         <text>
 He Steuermann, da kommt eine Insel mit nem Leuchtturm drauf. Quatsch, das ist doch nur der Mond. Achso......krach, bumm, schepper,sink,blubber. Unser Steuermann hatte es mal wieder geschafft.Alle Schiffe bis auf eins waren gesunken und die tiefe See hatte unsere Kameraden verschlungen. Nur ein Soldat konnte sich gerade noch retten.
@@ -437,15 +624,19 @@ Erstellt von: Yogi
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Hey helmsman, there is a island with a lighthouse on it coming. Oh nonsense, that's just the moon. Oh well...... craaash, bang, rattle, sink, bubble. Our helmsman had done it again. All ships except one had sunk and the deep sea had swallowed our comrades. Only one soldier could save himself in time.
-Mission objective: Go to northern Italy where hopefully your comrades, who had come from Austria into the country, are waiting for you.
+      <lang code="l11">
+        <text>喂，舵手，那邊來了一座島，上面還有座燈塔。胡說，那不過是月亮。哦……咔嚓、砰、嘩啦、下沉、咕嘟。我們的舵手又“大功告成”了。除了一艘船，其餘全都沉沒，深海吞噬了我們的同伴。只有一名士兵勉強脫險。
+任務目標：前往義大利北部，但願從奧地利入境的同伴們正在那裡等你。
 
 
 
-Created by: Yogi
-</text>
+製作者：尤基</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -462,16 +653,25 @@ Stworzone przez: Yogi
       <lang code="CHN">
         <text>意大利</text>
       </lang>
+      <lang code="eng">
+        <text>
+Italy
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Italien
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Italy
-</text>
+      <lang code="l11">
+        <text>義大利</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -483,16 +683,25 @@ Włochy
       <lang code="CHN">
         <text>我们又一次取得了胜利。匪徒和西西里人都已被消灭。如今和平重归。我们想先歇个假，到阳光明媚的突尼斯好好休整一番……</text>
       </lang>
+      <lang code="eng">
+        <text>
+Once again we had won. The bandits and the Sicilians were destroyed. Now there was peace. We wanted to take a holiday first and rest in sunny Tunisia.....
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Wir hatten wieder einmal gesiegt. Die Banditen und die Sizilianer waren vernichtet. Nun herrschte wieder Frieden. Wir wollten erstmal Urlaub machen und uns im sonnigen Tunesien ausruhen.....
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Once again we had won. The bandits and the Sicilians were destroyed. Now there was peace. We wanted to take a holiday first and rest in sunny Tunisia.....
-</text>
+      <lang code="l11">
+        <text>我們又一次取得了勝利。匪徒和西西里人都已被消滅。如今和平重歸。我們想先歇個假，到陽光明媚的突尼西亞好好休整一番……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -504,16 +713,25 @@ Znowu zwyciężyliśmy. Bandycy i Sycylińczycyzostali zniszczeni. Teraz znowu p
       <lang code="CHN">
         <text>任务达成！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission gewonnen!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission won!
-</text>
+      <lang code="l11">
+        <text>任務達成！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

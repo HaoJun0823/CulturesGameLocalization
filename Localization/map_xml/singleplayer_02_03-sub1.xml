@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,66 +14,99 @@
       <text lang="CHN">击败秘藏守护者的士兵！</text>
       <text lang="eng">Defeat the soldiers of the Keepers of Knowledge!</text>
       <text lang="ger">Besiege die Soldaten der Hüter des Geheimnisses!</text>
+      <text lang="l11">擊敗秘藏守護者計程車兵！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Pokonaj żołnierzy strażników wiedzy!</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="51">
       <text lang="CHN">守护者</text>
       <text lang="eng">Keepers</text>
       <text lang="ger">Hüter</text>
+      <text lang="l11">守護者</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Strażnicy wiedzy</text>
     </string>
     <string id="52">
       <text lang="CHN">守护者首领</text>
       <text lang="eng">Keepers' Leader</text>
       <text lang="ger">Anführer der Hüter</text>
+      <text lang="l11">守護者首領</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Dowódca strażników</text>
     </string>
     <string id="57">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="58">
       <text lang="CHN">守护者士兵</text>
       <text lang="eng">Keepers' Soldiers</text>
       <text lang="ger">Soldaten der Hüter</text>
+      <text lang="l11">守護者士兵</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Żołnierze strażników</text>
     </string>
     <string id="59">
       <text lang="CHN">首领</text>
       <text lang="eng">Leader</text>
       <text lang="ger">Anführer</text>
+      <text lang="l11">首領</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Dowódca</text>
     </string>
     <string id="61">
       <text lang="CHN">近卫</text>
       <text lang="eng">Bodyguard</text>
       <text lang="ger">Leibgarde</text>
+      <text lang="l11">近衛</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Straż przyboczna</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">守护者首领</text>
       <text lang="eng">Keepers' Leader</text>
       <text lang="ger">Anführer der Hüter</text>
+      <text lang="l11">守護者首領</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Dowódca strażników</text>
     </string>
     <string id="99">
       <text lang="CHN">决斗</text>
       <text lang="eng">THE DUEL</text>
       <text lang="ger">DER ZWEIKAMPF</text>
+      <text lang="l11">決鬥</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">POJEDYNEK</text>
     </string>
   </strings>
@@ -120,6 +156,27 @@ Aber für Reue war nun keine Zeit mehr. Ich beschloss, wenigstens durch meinen M
 
 Ich trat also mit stolz erhobenem Haupt vor meinen Widersacher.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+這便是我該證明自己領導才能的地方了。
+
+我被無數守護者戰士團團圍住。不遠處，他們的指揮官也已列陣，身邊簇擁著由弓箭手與彎刀手組成的、全副武裝的"迎賓儀仗隊"。
+我的身側是戰士，面前是士兵，而他們身後--由密匝的柵欄與城牆庇護--還有更多的兵士。
+
+守護者究竟如何設想這場對決？
+難道要我獨自對抗全體？！我深切懊悔，竟接受了守護者的提議。我怎能輕信這些騙子？
+
+但此刻已無暇悔恨。我決意，至少要以勇氣給守護者指揮官留下印象。若今日便是我的末日，我也要光榮地戰至最後！
+
+於是我昂首挺胸，走向我的對手。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -196,6 +253,31 @@ Mir war allerdings überhaupt nicht wohl bei dem Gedanken, was wäre, wenn sich 
 "Höre! Wir beziehen jetzt die Stellung hinter der Kampflinie, und auf mein Zeichen kann der Kampf beginnen. Mische dich nicht kämpfend unter deine Soldaten, sie würden diesen Versuch sofort mit dem Tod bestrafen!"
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+指揮官
+
+"向你致意，維京人部族的比雅尼！"軍隊的首領說道，"你敢直面如此優勢的兵力，勇氣可嘉！"
+
+實話說，我的勇氣早就消逝殆盡了……我暗罵這個怯懦的部族！"我向您致意，只是我疑惑，這般兵力對比，可符合您所謂的榮譽？"我聽見自己如此說道。
+
+"我們自會讓你明白我們所指為何！"指揮官帶著詭異的微笑說道。
+"聽好，比雅尼：身著紅衣的部隊，此戰歸你指揮。因為對你而言，此非廝殺，而是證明你的統帥之才！唯有你的部隊擊敗我的部隊，我們才認你配得知曉本村之秘--此乃我們對待外人的規矩。"
+
+以奧丁之名！我驚愕不已……難道海盧蘭人弄錯了？同部族計程車兵彼此為敵、與自己的兄弟相戰，只為了考驗一個欲窺其秘密的外人是否可靠！我究竟追查到了何等詭譎的謎團？
+
+罷了，無論如何--我準備好了。我對自己的統帥才能抱以全然的信任。
+只是想到，若這些戰士抗命不從，我將如何是好，我著實不安！
+
+"聽令！我們現在退至戰線之後佈陣，待我發令，戰鬥便可開始。你不可親自混入士兵中參戰，否則他們立時會以死相懲！"
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -241,6 +323,20 @@ Ich - nein, MEINE Leute und ich - hatten es geschafft. Unter meinem Befehl waren
 Und nun endlich mussten mich die Hüter des Wissens in das Geheimnis einweihen...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+勝利！
+我--不，是我與我的部眾--做到了。在我的指揮下，他們一路突破至敵方指揮官面前。只剩他與他的近衛尚存。他的部下戰鬥得十分英勇！
+
+如今，知識守護者終須讓我窺見那秘密了……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -280,6 +376,21 @@ Die Schlacht war verloren! Meine Unterstellten hatten brav gekämpft und meinen 
 
 "Nehmt diesen Versager gefangen!!! Deine Niederlage beweist uns deine Unfähigkeit, mit unserem Wissen verantwortungsvoll umgehen zu können. In unserem Kerker wirst du für dein Versagen büßen!"
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+戰敗
+
+戰鬥失敗了！我的部下忠勇作戰、聽我號令，我卻一敗塗地！
+
+"把這個廢物給我拿下！！！你的敗北證明了你無力妥當運用我們的知識。你將在我們的地牢裡，為你的失敗付出代價！"
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -324,6 +435,21 @@ DER KAMPF BEGINNT!
 Edler Bjarni, ich unterstelle euch eure Truppen!"
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+戰鬥開始！
+
+"士兵們！戰鬥開始吧。英勇廝殺，這關乎你們的榮譽！
+
+高貴的比雅尼，你的部隊現歸你統轄！"
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -348,6 +474,17 @@ Take him away!
         <text>
 Führt ihn ab!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+將他帶走！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -375,6 +512,17 @@ THE DUEL
 DER ZWEIKAMPF
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+決鬥
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

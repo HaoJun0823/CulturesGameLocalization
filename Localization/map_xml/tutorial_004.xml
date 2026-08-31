@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,168 +14,252 @@
       <text lang="CHN">建造一座陶艺坊，并指派采泥工担任陶匠、以陶艺坊为工所！</text>
       <text lang="eng">Build a POTTERY and have your clay-worker work as a POTTER there!</text>
       <text lang="ger">Baue eine TÖPFEREI und weise dem Lehmabbauer den Beruf des TÖPFERS und die Töpferei als Arbeitsstätte zu!</text>
+      <text lang="l11">建造一座陶藝坊，並指派採泥工擔任陶匠、以陶藝坊為工所！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wybuduj WARSZTAT GARNCARSKI a kopacz gliny niech pracuje w nim jako GARNCARZ!</text>
     </string>
     <string id="1">
       <text lang="CHN">将陶艺坊建造完毕！</text>
       <text lang="eng">Upgrade the POTTERY!</text>
       <text lang="ger">Baue die TÖPFEREI aus!</text>
+      <text lang="l11">將陶藝坊建造完畢！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ulepsz WARSZTAT GARNCARSKI!</text>
     </string>
     <string id="2">
       <text lang="CHN">将陶艺坊升至 2 级！</text>
       <text lang="eng">Upgrade the POTTERY 2!</text>
       <text lang="ger">Baue die TÖPFEREI 2 aus!</text>
+      <text lang="l11">將陶藝坊升至 2 級！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ulepsz WARSZTAT GARNCARSKI 2!</text>
     </string>
     <string id="3">
       <text lang="CHN">建造一座石匠坊，并指派采石工担任石匠、以石匠坊为工所！</text>
       <text lang="eng">Build a STONEMASON'S WORKSHOP and have your stone collector work as a STONEMASON there!</text>
       <text lang="ger">Baue eine STEINMETZHÜTTE und weise dem Steinabbauer den Beruf des STEINMETZES und die Steinmetzhütte als Arbeitsstätte zu!</text>
+      <text lang="l11">建造一座石匠坊，並指派採石工擔任石匠、以石匠坊為工所！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wybuduj WARSZTAT KAMIENIARSKI, a zbieracz kamieni niech pracuje w nim jako KAMIENIARZ!</text>
     </string>
     <string id="4">
       <text lang="CHN">将石匠坊建造完毕！</text>
       <text lang="eng">Upgrade the STONEMASON'S WORKSHOP!</text>
       <text lang="ger">Baue die STEINMETZHÜTTE aus!</text>
+      <text lang="l11">將石匠坊建造完畢！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ulepsz WARSZTAT KAMIENIARSKI!</text>
     </string>
     <string id="5">
       <text lang="CHN">建造一座木工坊，并指派伐木工担任木工、以木工坊为工所！</text>
       <text lang="eng">Build a CARPENTER'S WORKSHOP and have your woodcutter work as a CARPENTER there!</text>
       <text lang="ger">Baue eine SCHREINEREI und weise dem Holzabbauer den Berufs des SCHREINERS und die Schreinerei als Arbeitsstätte zu!</text>
+      <text lang="l11">建造一座木工坊，並指派伐木工擔任木工、以木工坊為工所！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wybuduj WARSZTAT CIESIELSKI, a drwal niech pracuje w nim jako CIEŚLA!</text>
     </string>
     <string id="6">
       <text lang="CHN">将木工坊建造完毕！</text>
       <text lang="eng">Upgrade the CARPENTER'S WORKSHOP!</text>
       <text lang="ger">Baue die SCHREINEREI aus!</text>
+      <text lang="l11">將木工坊建造完畢！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ulepsz WARSZTAT CIESIELSKI!</text>
     </string>
     <string id="7">
       <text lang="CHN">将木工坊升至 2 级！</text>
       <text lang="eng">Upgrade the CARPENTER'S WORKSHOP 2!</text>
       <text lang="ger">Baue die SCHREINEREI 2 aus!</text>
+      <text lang="l11">將木工坊升至 2 級！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ulepsz WARSZTAT CIESIELSKI 2!</text>
     </string>
     <string id="8">
       <text lang="CHN">将木工坊升至 3 级！</text>
       <text lang="eng">Upgrade the CARPENTER'S WORKSHOP 3!</text>
       <text lang="ger">Baue die SCHREINEREI 3 aus!</text>
+      <text lang="l11">將木工坊升至 3 級！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ulepsz WARSZTAT CIESIELSKI 3!</text>
     </string>
     <string id="9">
       <text lang="CHN">建造一座铁匠铺，并指派采矿工担任铁匠、以铁匠铺为工所！</text>
       <text lang="eng">Build a SMITHY and have your ore miner work as a BLACKSMITH there!</text>
       <text lang="ger">Baue eine SCHMIEDE und weise dem Erzabbauer den Beruf des SCHMIEDES und die Schmiede als Arbeitsstätte zu!</text>
+      <text lang="l11">建造一座鐵匠鋪，並指派採礦工擔任鐵匠、以鐵匠鋪為工所！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wybuduj KUŹNIĘ, a górnik niech pracujeć w niej jako KOWAL!</text>
     </string>
     <string id="10">
       <text lang="CHN">将铁匠铺建造完毕！</text>
       <text lang="eng">Upgrade the SMITHY!</text>
       <text lang="ger">Baue die SCHIEDE aus!</text>
+      <text lang="l11">將鐵匠鋪建造完畢！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ulepsz KUŹNIĘ!</text>
     </string>
     <string id="11">
       <text lang="CHN">建造一座裁缝坊，并指派一名猎人为其掌管！</text>
       <text lang="eng">Build a TAILOR'S WORKSHOP have a hunter work as a TAILOR there!</text>
       <text lang="ger">Baue eine NÄHEREI und weise sie einem Jäger als Arbeitsstätte zu!</text>
+      <text lang="l11">建造一座裁縫坊，並指派一名獵人為其掌管！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wybuduj ZAKŁAD KRAWIECKI, a myśliwy niech pracuje w nim jako KRAWIEC!</text>
     </string>
     <string id="12">
       <text lang="CHN">将裁缝坊建造完毕！</text>
       <text lang="eng">Upgrade the TAILOR'S WORKSHOP!</text>
       <text lang="ger">Baue die NÄHEREI aus!</text>
+      <text lang="l11">將裁縫坊建造完畢！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ulepsz ZAKŁAD KRAWIECKI!</text>
     </string>
     <string id="13">
       <text lang="CHN">建造一座畜牧场，并指派猎人担任畜牧者、以畜牧场为工所！</text>
       <text lang="eng">Build a CATTLE FARM and have a hunter work as a STOCK FARMER there!</text>
       <text lang="ger">Baue eine VIEHZÜCHTEREI und weise dem Jäger den Beruf des VIEHZÜCHTERS und als Arbeitsstätte die Viehzüchterei zu!</text>
+      <text lang="l11">建造一座畜牧場，並指派獵人擔任畜牧者、以畜牧場為工所！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wybuduj FERMĘ BYDŁA, a myśliwy niech pracuje na niej jako HODOWCA BYDŁA!</text>
     </string>
     <string id="14">
       <text lang="CHN">将陶匠的生产转为瓦片！</text>
       <text lang="eng">Change the potter's production to ROOF TILES!</text>
       <text lang="ger">Stelle die Produktion des Töpfers auf DACHZIEGEL um!</text>
+      <text lang="l11">將陶匠的生產轉為瓦片！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zmień produkcję garncarza na DACHÓWKI!</text>
     </string>
     <string id="15">
       <text lang="CHN">将石匠的生产转为大理石！</text>
       <text lang="eng">Change the stonemason's production to MARBLE!</text>
       <text lang="ger">Stelle die Produktion des Steinmetz auf MARMOR um!</text>
+      <text lang="l11">將石匠的生產轉為大理石！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zmień produkcję kamieniarza na MARMUR!</text>
     </string>
     <string id="16">
       <text lang="CHN">将木工的生产转为家具！</text>
       <text lang="eng">Change the carpenter's production to FURNITURE!</text>
       <text lang="ger">Stelle die Produktion des Schreiners auf MÖBEL um!</text>
+      <text lang="l11">將木工的生產轉為傢俱！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zmień produkcję cieśli na MEBLE!</text>
     </string>
     <string id="17">
       <text lang="CHN">将裁缝的生产转为皮甲！</text>
       <text lang="eng">Change the tailor's production to LEATHER ARMOUR!</text>
       <text lang="ger">Stelle die Produktion des Nähers auf LEDERRÜSTUNGEN um!</text>
+      <text lang="l11">將裁縫的生產轉為皮甲！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zmień produkcję krawca na ZBROJĘ SKÓRZANĄ!</text>
     </string>
     <string id="18">
       <text lang="CHN">@为你的维京人兴建最要紧的建筑，并在指定时刻将其建造完毕！</text>
       <text lang="eng">@BUILD THE MOST IMPORTANT BUILDINGS FOR YOUR VIKINGS AND UPGRADE THEM WHEN POSSIBLE!</text>
       <text lang="ger">@ERRICHTE DIE WICHTIGSTEN GEBÄUDE FÜR DEINE WIKINGER UND BAUE SIE ZUM GEGEBENEN ZEITPUNKT AUS!</text>
+      <text lang="l11">@為你的維京人興建最要緊的建築，並在指定時刻將其建造完畢！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">@WYBUDUJ NAJISTOTNIEJSZE DLA TWOICH WIKINGÓW BUDOWLE I ULEPSZ JE, GDY BĘDZIE TO MOŻLIWE!</text>
     </string>
     <string id="19">
       <text lang="CHN">将木工的生产转为手推车！</text>
       <text lang="eng">Change the carpenter's production to HANDCARTS!</text>
       <text lang="ger">Stelle die Produktion des Schreiners auf HANDKARREN um!</text>
+      <text lang="l11">將木工的生產轉為手推車！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zmień produkcję cieśli na WÓZKI RĘCZNE!</text>
     </string>
     <string id="71">
       <text lang="CHN">斯诺里</text>
       <text lang="eng">Snorri </text>
       <text lang="ger">Snorri </text>
+      <text lang="l11">斯諾里</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Snorri </text>
     </string>
     <string id="72">
       <text lang="CHN">海丁</text>
       <text lang="eng">Hedin </text>
       <text lang="ger">Hedin </text>
+      <text lang="l11">海丁</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hedin </text>
     </string>
     <string id="73">
       <text lang="CHN">奥姆</text>
       <text lang="eng">Orm</text>
       <text lang="ger">Orm</text>
+      <text lang="l11">奧姆</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Orm</text>
     </string>
     <string id="74">
       <text lang="CHN">拉尔夫</text>
       <text lang="eng">Ralf </text>
       <text lang="ger">Ralf </text>
+      <text lang="l11">拉爾夫</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ralf </text>
     </string>
     <string id="75">
       <text lang="CHN">盖尔</text>
       <text lang="eng">Geir</text>
       <text lang="ger">Geir</text>
+      <text lang="l11">蓋爾</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Geir</text>
     </string>
     <string id="76">
       <text lang="CHN">埃斯坦</text>
       <text lang="eng">Eystein</text>
       <text lang="ger">Eystein</text>
+      <text lang="l11">埃斯坦</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Eystein</text>
     </string>
     <string id="98">
       <text lang="CHN">本关介绍科技树，并讲解建筑等级的提升机制。</text>
       <text lang="eng">Here the technology tree will be introduced and you will learn how to upgrade building levels.</text>
       <text lang="ger">Hier wird der Technologiebaum eingeführt und erklärt, wie das Ausbauen der Gebäudestufen funktioniert.</text>
+      <text lang="l11">本關介紹科技樹，並講解建築等級的提升機制。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">W tym samouczku nastąpi przedstawienie drzewa technologicznego, a ty nauczysz się, jak podnosić poziomy zaawansowania budowli.</text>
     </string>
     <string id="99">
       <text lang="CHN">4) 科技</text>
       <text lang="eng">4) TECHNOLOGIES</text>
       <text lang="ger">4) TECHNOLOGIEN</text>
+      <text lang="l11">4) 科技</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">4) TECHNOLOGIE</text>
     </string>
   </strings>
@@ -206,6 +293,21 @@ Die grundlegende Nahrungsversorgung ist in diesem Dorf schon gegeben, denn wir w
 Auch hier bilden unsere Abbauer Snorri, Hedin und Orm die Grundlage für alle Bauvorhaben. 
 Der Abbauer übt einen Beruf ohne eigene Arbeitsstätte aus. Die Art eines Rohstoffes, der gesammelt werden soll, kann ebenso wie die Ware, die ein Arbeiter produziert, geändert werden. Voraussetzung dafür ist stets nur, dass der Arbeiter die entsprechende Erfahrung besitzt und ggf. die Arbeitsstätte in der entsprechenden Ausbaustufe vorhanden ist. 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+這裡介紹科技樹，並解釋你的維京人如何透過新建和升級建築來解鎖新技術。
+
+你將學習如何把原材料加工成更有價值的產品。
+
+按照選單欄旁邊出現的任務提示操作。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -247,6 +349,21 @@ Dein Lehmabbauer hat nun genügend Erfahrung und könnte ein Töpfer werden. Daz
 
 Baue in der Nähe der Lehmgrube eine TÖPFEREI und weise sie dem Lehmabbauer als Arbeitsstätte zu!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+從陶土到陶匠
+
+你的陶土採集工現在有了足夠的經驗，可以成為陶匠了。作為陶匠，他能將黏土塊燒製成實用的陶器。
+
+把他派到陶藝坊去當陶匠。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -295,6 +412,23 @@ Diese brauchst du zum Bau von Gebäuden, die anstatt der Strohdächer gedeckte D
 Baue die TÖPFEREI aus! Klicke dazu die Töpferei an, so dass das Gebäudefenster erscheint. Klicke dann den Button "AUSBAU STARTEN". Dieser Button erscheint nur, wenn alle für den Ausbau benötigten Waren auch vorhanden sind.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+擴建陶藝坊
+
+陶匠現在有了足夠的生產經驗。
+
+他可以進一步擴建他的陶藝坊，以便生產更多的陶器。
+
+選擇你的陶匠，開啟擴建選單。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -338,6 +472,21 @@ Der Töpfer hat nun genügend Erfahrung bei der Herstellung von Ziegel erlangt u
 Baue die TÖPFEREI 2 aus! Klicke dazu die Töpferei an, so dass das Gebäudefenster erscheint. Klicke dann den Button "AUSBAU STARTEN". Dieser Button erscheint nur, wenn alle für den Ausbau benötigten Waren auch vorhanden sind.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+擴建陶藝坊 2
+
+陶匠現在已經相當精通他的工作了。
+
+給他再擴建一次陶藝坊吧--這一次可以升級到第三級。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -378,6 +527,21 @@ Der Steinabbauer hat nun genügend Erfahrung und könnte als Steinmetz arbeiten.
 
 Baue eine STEINMETZHÜTTE in der Nähe der Steingrube und weise sie dem Steinabbauer als Arbeitsstätte zu!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+從石匠到雕刻師
+
+你的石匠現在有了足夠的知識來加工花崗岩和大理石。
+
+讓他成為一名雕刻師，以便能用這些材料製作建築物。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -424,6 +588,21 @@ Ein Ausbau der Steinmetzhütte wäre sinnvoll. Um aus Bruchstein Marmor herzuste
 Baue die STEINMETZHÜTTE aus! Klicke dazu die Steinmetzhütte an, so dass das Gebäudefenster erscheint. Klicke dann den Button "AUSBAU STARTEN". Dieser Button erscheint nur, wenn alle für den Ausbau benötigten Waren auch vorhanden sind.
 </text>
       </lang>
+      <lang code="l11">
+        <text>擴建石匠小屋
+
+你的雕刻師現在有了
+
+足夠的經驗，可以讓
+
+他的小屋進一步升級。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -466,6 +645,21 @@ Dein Holzabbauer hat nun genügend Erfahrung und könnte ein Schreiner werden. D
 
 Baue eine SCHREINEREI und weise sie dem Holzabbauer als Arbeitsstätte zu!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+從伐木工到木匠
+
+你的伐木工已經瞭解了木材的性質，可以作為木匠進行更復雜的加工了。
+
+把他派到木匠鋪去工作。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -514,6 +708,23 @@ Hat er dann in der Möbelherstellung genug Erfahrung gesammelt, wird er sogar Ho
 Baue die SCHREINEREI aus! Klicke dazu auf die Schreinerei, so dass das Gebäudefenster erscheint. Klicke dann den Button "AUSBAU STARTEN". Dieser Button erscheint nur, wenn alle für den Ausbau benötigten Waren auch vorhanden sind. 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+擴建木匠鋪
+
+木匠現在有了足夠的
+
+經驗來擴建他的作坊。
+
+將木匠鋪升到第二級。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -557,6 +768,21 @@ Der Schreiner hat nun genügend Erfahrung gesammelt, um auch Handkarren herzuste
 Baue die SCHREINEREI 2 aus! Klicke dazu auf die Schreinerei, so dass das Gebäudefenster erscheint. Klicke dann den Button "AUSBAU STARTEN". Dieser Button erscheint nur, wenn alle für den Ausbau benötigten Waren auch vorhanden sind. 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+擴建木匠鋪 2
+
+木匠現在手藝精湛，有了新的想法。他的木匠鋪需要再次擴建。
+
+將其升級到第三級。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -598,6 +824,21 @@ Der Schreiner hat nun genügend Erfahrung gesammelt und könnte auch Handelsschi
 Baue die SCHREINEREI 3 trotzdem aus! Klicke dazu auf die Schreinerei, so dass das Gebäudefenster erscheint. Klicke dann den Button "AUSBAU STARTEN". Dieser Button erscheint nur, wenn alle für den Ausbau benötigten Waren auch vorhanden sind. 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+擴建木匠鋪 3
+
+木匠鋪達到了最高階別！你的木匠現在可以生產各種各樣的產品。
+
+升級到第四級。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -638,6 +879,21 @@ Der Erzabbauer hat nun genügend Erfahrung und könnte ein Schmied werden. Dazu 
 
 Baue eine Schmiede und weise sie dem Erzabbauer als Arbeitsstätte zu!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+從礦工到鐵匠
+
+你的礦工現在對礦石有了足夠的瞭解。讓他成為鐵匠吧！
+
+派他到鐵匠鋪工作。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -683,6 +939,23 @@ Später kann er noch die Fähigkeit lernen, Kettenhemden oder sogar Plattenrüst
 
 Baue die SCHIEDE aus! Klicke dazu auf die Schmiede, so dass das Gebäudefenster erscheint. Klicke dann den Button "AUSBAU STARTEN". Dieser Button erscheint nur, wenn alle für den Ausbau benötigten Waren auch vorhanden sind. 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+擴建鐵匠鋪
+
+鐵匠現在有了足夠的
+
+經驗來擴大他的作坊。
+
+把鐵匠鋪升到第二級！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -742,6 +1015,23 @@ Baue eine Näherei und eine Viehzüchterei und weise sie den Jägern als Arbeits
 Bedenke, dass du für den Bau der Viehzüchterei Dachziegel benötigst, die später in der ausgebauten Töpferei hergestellt werden. Du kannst eine Viehzüchterei folglich erst bauen, wenn du auch eine Töpferei 2 besitzt.
 </text>
       </lang>
+      <lang code="l11">
+        <text>從獵人到裁縫或畜牧人
+
+獵人如今已積累了足夠的經
+
+驗，可以轉任裁縫或畜牧人。
+
+作為裁縫，他需要皮毛來製作衣物。
+
+作為畜牧人，他負責照料牲畜。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -794,6 +1084,21 @@ Mit zunehmender Erfahrung wird er zudem die Fähigkeit lernen, Waffenröcke herz
 Baue die NÄHEREI aus! Klicke dazu auf die Näherei, so dass das Gebäudefenster erscheint. Klicke dann den Button "AUSBAU STARTEN". Dieser Button erscheint nur, wenn alle für den Ausbau benötigten Waren auch vorhanden sind. 
 </text>
       </lang>
+      <lang code="l11">
+        <text>擴建裁縫鋪
+
+你的裁縫如今在服
+
+裝製作方面積累了足
+
+夠的經驗，可以生產出更優質的產品。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -837,6 +1142,19 @@ Du hast es geschafft, wirklich gut funktionierende Produktionsketten aufzubauen 
 Auf zum nächsten Tutorial!
 </text>
       </lang>
+      <lang code="l11">
+        <text>非常好！
+
+你的建築升級堪稱典範！你已經做到了--
+
+現在你的維京人有了一座欣欣向榮的聚居地。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -878,6 +1196,19 @@ Um dem Töpfer zu sagen, dass er Ziegel produzieren soll, wähle ihn aus und kli
 
 Stelle die Produktion des Töpfers auf Ziegel um!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>幹得好！
+
+你已將陶藝坊擴建完畢，但不幸的是，
+
+陶匠還不知道該如何善用這些新的可能性。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -922,6 +1253,19 @@ Um dem Steinmetz zu sagen, dass er Marmor produzieren soll, wähle ihn aus und k
 Stelle die Produktion des Steinmetz auf Marmor um!
 </text>
       </lang>
+      <lang code="l11">
+        <text>幹得好！
+
+你已將石匠小屋擴建完畢，但不幸的是
+
+，石匠還不知道如何充分利用新的空間。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -963,6 +1307,19 @@ Um dem Schreiner zu sagen, dass er Möbel produzieren soll, wähle ihn aus und k
 
 Stelle die Produktion des Schreiners auf Möbel um!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>幹得好！
+
+你已將木匠鋪擴建完畢，但不幸的是
+
+，木匠還不知道如何利用這些新條件。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1006,6 +1363,19 @@ Um dem Näher zu sagen, dass er Lederrüstungen produzieren soll, wähle ihn aus
 Stelle die Produktion des Nähers auf Lederrüstungen um!
 </text>
       </lang>
+      <lang code="l11">
+        <text>幹得好！
+
+你已將裁縫鋪擴建完畢，但不幸的是
+
+，裁縫還不知道如何運用這些新資源。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -1042,6 +1412,19 @@ Viehzüchterei zu bauen!
 Jetzt kannst du auch eine Viehzüchterei bauen, denn die erforderlichen Dachziegel wurden von deinem Töpfer produziert!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+建造畜牧場！
+
+現在你也可以建造畜牧場了，因為獵人已經積累了足夠的經驗來照料牲畜。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -1068,6 +1451,17 @@ TECHNOLOGIES
 TECHNOLOGIEN
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+科技--讓你的維京人掌握新能力
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 

@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,48 +14,72 @@
       <text lang="CHN">建立一座新文明。随你玩多久都行。</text>
       <text lang="eng">Build up a new civilization. Play as long as you like.</text>
       <text lang="ger">Baue eine neue Zivilisation auf. Spiele, solange du willst.</text>
+      <text lang="l11">建立一座新文明。隨你玩多久都行。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zbuduj nową cywilizację. Graj, jak długo chcesz.</text>
     </string>
     <string id="2">
       <text lang="CHN">无目标畅玩。只要玩得开心……</text>
       <text lang="eng">Play without objectives for as long as you want ...</text>
       <text lang="ger">Spielen ohne Ziel. Solange man Spaß hat...</text>
+      <text lang="l11">無目標暢玩。只要玩得開心……</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">W tej rozgrywce nie ma zadań do wykonania. Graj, jak długo masz ochotę...</text>
     </string>
     <string id="50">
       <text lang="CHN">维京人</text>
       <text lang="eng">Vikings</text>
       <text lang="ger">Wikinger</text>
+      <text lang="l11">維京人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wikingowie</text>
     </string>
     <string id="51">
       <text lang="CHN">阿尔迪诺波利斯</text>
       <text lang="eng">Tesskopolis</text>
       <text lang="ger">Aldinopolis</text>
+      <text lang="l11">阿爾迪諾波利斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Aldinopolis</text>
     </string>
     <string id="98">
       <text lang="CHN">一片沃野向你敞开，正邀你定居。</text>
       <text lang="eng">A fertile plain invites you to settle there.</text>
       <text lang="ger">Eine fruchtbare Ebene lädt zum Siedeln ein.</text>
+      <text lang="l11">一片沃野向你敞開，正邀你定居。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Osiedl się na tych urodzajnych terenach.</text>
     </string>
     <string id="99">
       <text lang="CHN">新视野</text>
       <text lang="eng">NEW HORIZONS</text>
       <text lang="ger">NEUE HORIZONTE</text>
+      <text lang="l11">新視野</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">NOWE HORYZONTY</text>
     </string>
     <string id="100">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="101">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="l11">希拉</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Cyra</text>
     </string>
   </strings>
@@ -82,6 +109,20 @@ Nach wochenlangem, entbehrungsreichem Marsch durch die Wüste breitete sich nun 
 Spiel wie es dir gefällt und errichte eine neue Zivilisation. Kein Ziel, keine Aufgabe! ...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+歷經數週艱苦卓絕的沙漠跋涉，一片豐饒青翠的土地在維京人眼前欣然鋪展。此地想必宜居。
+
+
+隨心所欲地遊玩，建立一座新文明。沒有目標，沒有任務！……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -109,6 +150,17 @@ What a triumph! Your tribe has reached the size of 200 inhabitants! This is a gr
 Welch ein Triumph! Dein Volk hat eine Größe von 200 Einwohnern erreicht! Dies ist eine tolle Leistung, und sie beweist deine Fähigkeiten als Lenker deines Volkes!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+何等輝煌！你的部族已繁衍至二百之眾！這是了不起的成就，足證你統率子民之能！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -131,6 +183,17 @@ Your entire tribe has died! You have let them all down! Odin is enraged! There w
         <text>
 Dein ganzes Volk ist gestorben! Du hast sie alle im Stich gelassen! Odin ist entzürnt! An seiner langen Tafel wird kein Platz für dich sein!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+你的整個部族都死絕了！你將他們盡數棄之不顧！奧丁震怒！他的長桌之上，斷無你的座位！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -156,6 +219,17 @@ Our scouts have reached the mighty city of Tesskopolis. The inhabitants are frie
 
 Deine Kundschafter gelangen in die mächtige Stadt Aldinopolis. Die Bewohner sind dir freundlich gesinnt. Hier lässt sich sicher gut Handel treiben!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+你的偵察兵抵達了強大的城市阿爾迪諾波利斯。居民對你友善。此處定能好好做番買賣！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -184,6 +258,17 @@ NEUE HORIZONTE
 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+新視野
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -208,6 +293,17 @@ MISSION FAILED!
 
 MISSION VERLOREN!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+任務失敗！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

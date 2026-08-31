@@ -1,58 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="15_Australien" export_map_id="15_Australien" map_md5="137d2e1d6bb8f8813e248fb8cebc2c85" IsC2M="true">
+<localization version="1.3" map_id="15_Australien" export_map_id="15_Australien" map_md5="137d2e1d6bb8f8813e248fb8cebc2c85" IsC2M="true" deprecated="false">
   <languages>
-    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">澳大利亚</text>
-      <text lang="ger">Australien</text>
       <text lang="eng">Australia</text>
+      <text lang="ger">Australien</text>
+      <text lang="l11">澳大利亞</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Australia</text>
     </string>
     <string id="1">
       <text lang="CHN">我们终于重见天日。</text>
-      <text lang="ger">Das Tageslicht hatte uns endlich wieder.</text>
       <text lang="eng">Daylight had finally returned to us.</text>
+      <text lang="ger">Das Tageslicht hatte uns endlich wieder.</text>
+      <text lang="l11">我們終於重見天日。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Światło dzienne wreszcie do nas powróciło.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
-      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得友好。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
-      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得中立。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
-      <text lang="ger">Spieler0</text>
       <text lang="eng">Player0</text>
+      <text lang="ger">Spieler0</text>
+      <text lang="l11">玩家0</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
-      <text lang="ger">Spieler1</text>
       <text lang="eng">Player1</text>
+      <text lang="ger">Spieler1</text>
+      <text lang="l11">玩家1</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
-      <text lang="ger">Spieler2</text>
       <text lang="eng">Player2</text>
+      <text lang="ger">Spieler2</text>
+      <text lang="l11">玩家2</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz2</text>
     </string>
     <string id="53">
       <text lang="CHN">玩家3</text>
-      <text lang="ger">Spieler3</text>
       <text lang="eng">Player3</text>
+      <text lang="ger">Spieler3</text>
+      <text lang="l11">玩家3</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz3</text>
     </string>
   </strings>
@@ -61,16 +88,25 @@
       <lang code="CHN">
         <text>你失败了！！</text>
       </lang>
+      <lang code="eng">
+        <text>
+You lost!!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Du hast verloren !!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-You lost!!
-</text>
+      <lang code="l11">
+        <text>你失敗了！！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -82,16 +118,25 @@ Przegrałeś!!
       <lang code="CHN">
         <text>任务失败！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission verloren!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission lost!
-</text>
+      <lang code="l11">
+        <text>任務失敗！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -103,16 +148,25 @@ Misja przegrana!
       <lang code="CHN">
         <text>玩家1已阵亡。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 has died.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist gestorben.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 has died.
-</text>
+      <lang code="l11">
+        <text>玩家1已陣亡。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -124,16 +178,25 @@ Gracz 1 zmarł.
       <lang code="CHN">
         <text>玩家2已阵亡。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 has died.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist gestorben.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 has died.
-</text>
+      <lang code="l11">
+        <text>玩家2已陣亡。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -145,16 +208,25 @@ Gracz 2 zmarł.
       <lang code="CHN">
         <text>玩家3已阵亡。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 has died.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 3 ist gestorben.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 3 has died.
-</text>
+      <lang code="l11">
+        <text>玩家3已陣亡。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -166,16 +238,25 @@ Gracz 3 zmarł.
       <lang code="CHN">
         <text>玩家1现在转为敌对。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now hostile.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist jetzt feindlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 is now hostile.
-</text>
+      <lang code="l11">
+        <text>玩家1現在轉為敵對。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -187,16 +268,25 @@ Gracz 1 jest teraz wrogi.
       <lang code="CHN">
         <text>玩家2现在转为敌对。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now hostile.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt feindlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now hostile.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為敵對。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -208,16 +298,25 @@ Gracz 2 jest teraz wrogi.
       <lang code="CHN">
         <text>玩家3现在转为敌对。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now hostile.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 3 ist jetzt feindlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 3 is now hostile.
-</text>
+      <lang code="l11">
+        <text>玩家3現在轉為敵對。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -229,16 +328,25 @@ Gracz 3 jest teraz wrogi.
       <lang code="CHN">
         <text>玩家1现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家1現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -250,16 +358,25 @@ Gracz 1 jest teraz neutralny.
       <lang code="CHN">
         <text>玩家2现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -271,16 +388,25 @@ Gracz 2 jest teraz neutralny.
       <lang code="CHN">
         <text>玩家3现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 3 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 3 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家3現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -293,6 +419,12 @@ Gracz 3 jest teraz neutralny.
         <text>珀斯！！
 你们好，可爱的人们！我们是珀斯的居民。派你们的商人来吧。我们的石匠“文化师”能打造一流的货物。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Perth!!
+Hello dear people! We are the inhabitants of Perth. Send your merchants. Culturator, our stonemason, makes first-class goods.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Perth !!
@@ -300,11 +432,15 @@ Hallo liebe Leut ! Wir sind die Bewohner von Perth. Schickt Eure Händler. Cultu
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Perth!!
-Hello dear people! We are the inhabitants of Perth. Send your merchants. Culturator, our stonemason, makes first-class goods.
-</text>
+      <lang code="l11">
+        <text>珀斯！！
+你們好，可愛的人們！我們是珀斯的居民。派你們的商人來吧。我們的石匠“文化師”能打造一流的貨物。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -318,6 +454,12 @@ Witajcie drogi ludzie! Jesteśmyście mieszkańcy Perth. Wyślij swoich handlowc
         <text>墨尔本！！
 嗬嗬！我们，墨尔本的居民，问候你们。派你们的商人过来吧。我们的工匠马尔特能打造全国最好的工具。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Melbourne!!
+Hey! We, the inhabitants of Melbourne, greet you. Send your merchants over. Malte, our tool maker, makes the best tools in the whole country.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Melbourne !!
@@ -325,11 +467,15 @@ Huhu ! Wir, die Einwohner von Melbourne grüßen Euch. Schickt eure Händler vor
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Melbourne!!
-Hey! We, the inhabitants of Melbourne, greet you. Send your merchants over. Malte, our tool maker, makes the best tools in the whole country.
-</text>
+      <lang code="l11">
+        <text>墨爾本！！
+嗬嗬！我們，墨爾本的居民，問候你們。派你們的商人過來吧。我們的工匠馬爾特能打造全國最好的工具。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -343,6 +489,13 @@ Huhu! My, mieszkańcy Melbourne, pozdrawiamy Cię. Poślij swoich handlowców. M
         <text>悉尼！！
 你们好，可爱的人们。你们想与我们通商吗？我们的草药专家穆利以他那用途无所不包的草药闻名。我们甚至向瑞士供货，用于酿造著名的里克-奥拉草药药水。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Sydney!!
+Hello, dear folks. Do you want to trade with us? Mully, our herbal expert, is famous for his herbs that can be used for everything. We even supply to Switzerland for the famous Rik-Ola herbal potions.
+
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Sydney !!
@@ -350,12 +503,15 @@ Guten Tag liebe Leut. Wollt ihr mit uns handeln? Mully, unser Kräuterexperte is
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Sydney!!
-Hello, dear folks. Do you want to trade with us? Mully, our herbal expert, is famous for his herbs that can be used for everything. We even supply to Switzerland for the famous Rik-Ola herbal potions.
-
-</text>
+      <lang code="l11">
+        <text>悉尼！！
+你們好，可愛的人們。你們想與我們通商嗎？我們的草藥專家穆利以他那用途無所不包的草藥聞名。我們甚至向瑞士供貨，用於釀造著名的裡克-奧拉草藥藥水。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -373,6 +529,16 @@ Dzień dobry, drodzzy przyjaciele. Chcesz handlować z nami? Mully, nasz ekspert
 
 制作者：尤基</text>
       </lang>
+      <lang code="eng">
+        <text>
+Finally we had daylight again! But what a strange land this was! Some of us believed they had seen a strange animal in the thicket with big feet and long ears that moved by hopping. Because we didn't want to make ourselves look silly to the others, everyone kept their opinion. And slowly the homesickness for Wigrid Wall seized us. We decided to store the required goods and set the sails towards home.
+Mission objective: Store the following goods.
+90 food, 90 cakes, 90 mead, 90 wood tools, 90 small food potions.
+
+
+Created by: Yogi
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Endlich hatte uns das Tageslicht wieder. Doch was war das für ein merkwürdiges Land? Einige von uns glaubten im Dickicht ein merkwürdiges Tier gesehn zu haben mit großen Füßen und langen Ohren,daß sich hüpfend fortbewegte.Da wir uns aber vor den anderen nicht lächerlich machen wollten,behielt jeder seine Meinung für sich. Doch langsam packte uns das Heimweh nach Wigrid Wall. Wir beschlossen die benötigten Waren einzulagern, und die Segel Richtung Heimat zu setzen.
@@ -384,15 +550,19 @@ Erstellt von: Yogi
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Finally we had daylight again! But what a strange land this was! Some of us believed they had seen a strange animal in the thicket with big feet and long ears that moved by hopping. Because we didn't want to make ourselves look silly to the others, everyone kept their opinion. And slowly the homesickness for Wigrid Wall seized us. We decided to store the required goods and set the sails towards home.
-Mission objective: Store the following goods.
-90 food, 90 cakes, 90 mead, 90 wood tools, 90 small food potions.
+      <lang code="l11">
+        <text>我們終於重見天日。可這是一片何等奇異的土地？我們中有些人自稱在灌木叢裡看到一隻古怪的動物，長著大腳和長耳，蹦蹦跳跳地移動。可我們誰都不想在旁人面前出醜，便各自把想法藏在了心裡。然而對維格利德之牆的思鄉之情漸漸湧上心頭。我們決定儲備好所需的物資，揚帆返鄉。
+任務目標：儲備以下物資。
+90份食物、90份蛋糕、90份蜂蜜酒、90件木質工具、90瓶小型營養藥水。
 
 
-Created by: Yogi
-</text>
+製作者：尤基</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -409,16 +579,25 @@ Stworzy przez: Yogi
       <lang code="CHN">
         <text>澳大利亚</text>
       </lang>
+      <lang code="eng">
+        <text>
+Australia
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Australien
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Australia
-</text>
+      <lang code="l11">
+        <text>澳大利亞</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -430,16 +609,25 @@ Australia
       <lang code="CHN">
         <text>为如此漫长的旅程所需的物资，我们已备齐。这段时间里，我们的造船匠已造好了数艘将载我们返乡的船。可我们中有些人想留在这里。我们无法责怪他们，毕竟这是一片十分好客的土地。装满所有船只后，我们与其余人道别。我们意识到，这将是永别……</text>
       </lang>
+      <lang code="eng">
+        <text>
+We had all the goods together that were needed for such a long journey. Our shipwright had meanwhile built several ships that should bring us home. But some of us wanted to stay here. We couldn't blame them, because it was a very hospitable land. When we had loaded all ships, we said goodbye to the others. We realized it would be a farewell for all time...
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Wir hatten alle Waren zusammen, die für eine so lange Reise nötig waren. Unser Schiffsbauer hatte inzwischen mehrere Schiffe gebaut, die uns Richtung Heimat bringen sollten. Einige von uns aber wollten hier bleiben. Wir konnten es Ihnen nicht verübeln, war es doch ein sehr gastfreundliches Land. Als wir alle Schiffe beladen hatten, verabschiedeten wir uns von den anderen. Wir merkten das es ein Abschied für immer sein würde...
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-We had all the goods together that were needed for such a long journey. Our shipwright had meanwhile built several ships that should bring us home. But some of us wanted to stay here. We couldn't blame them, because it was a very hospitable land. When we had loaded all ships, we said goodbye to the others. We realized it would be a farewell for all time...
-</text>
+      <lang code="l11">
+        <text>為如此漫長的旅程所需的物資，我們已備齊。這段時間裡，我們的造船匠已造好了數艘將載我們返鄉的船。可我們中有些人想留在這裡。我們無法責怪他們，畢竟這是一片十分好客的土地。裝滿所有船隻後，我們與其餘人道別。我們意識到，這將是永別……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -451,16 +639,25 @@ Mieliśmy wszystkie produkty potrzebne do tak długą podróż. Nasz budowniczy 
       <lang code="CHN">
         <text>任务达成！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission gewonnen!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission won!
-</text>
+      <lang code="l11">
+        <text>任務達成！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

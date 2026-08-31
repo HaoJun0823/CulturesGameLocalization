@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,18 +14,27 @@
       <text lang="CHN">走向那生灵！</text>
       <text lang="eng">Step in front of the being!</text>
       <text lang="ger">Tritt vor das Wesen!</text>
+      <text lang="l11">走向那生靈！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Podejdź z przodu istoty!</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="99">
       <text lang="CHN">神谕侍者</text>
       <text lang="eng">SERVANT OF THE ORACLE</text>
       <text lang="ger">DIENER DES ORAKELS</text>
+      <text lang="l11">神諭侍者</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">SŁUGA WYROCZNI</text>
     </string>
   </strings>
@@ -84,6 +96,30 @@ Diese Bitte konnten wir - auch in unserem eigenen Interesse - natürlich nicht a
 Nehmt 30 Flaschen Wasser mit an Bord, um den Kreis aus Feuer zu löschen! Und wenn das Orakel durch eure Hilfe wieder frei ist, werden die Übeltäter ihre gerechte Strafe schon bekommen..."
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+水之生靈
+
+"向你致意，俊偉的勇士！
+數百年來，我在此再未見半個人影……
+
+聽我說！我是水之神諭的侍者，守護吾主安危！沙漠盜匪在四周燃起一圈火，封禁了神諭的力量。如今它被囚，我亦無力相助！我對水的力量僅限於這圍牆之內，但至少足以滋養其上的草木。
+
+若你們助我解放神諭……我也能引你們通入神諭，越過那些可惡的生靈……"
+
+這請求我們--即便為己計--自然無法推拒。
+
+"多謝！且聽：造一艘船，循水路駛向神諭。環繞它的險礁，如今你們可通行了！
+
+帶上 30 瓶水登船，以撲滅那圈火！待神諭因你們之助重獲自由，作惡者自會受應得之懲……"
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -126,6 +162,19 @@ Der Unterbau des Tempels war kühl und feucht, obwohl es hier kein Wasser gab! V
 Ob der Häuptling der Oasenbauer davon wusste? Ich trat vor das Wesen...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+神廟的地基陰涼而潮溼，儘管此處無水！幽藍的異光自地面透出，房間中央佇立著一個宛自異界的生靈……
+
+綠洲農人的首領可知此事？我走向那生靈……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 Fundamenty świątyni były chłodne i wilgotne, chociaż nie było tam żadnej wody! To niezwykłe, błękitne światło promieniowało z ziemi, a na środku pomieszczenia stała istota, która wyglądała, jakby przybyła z innego świata ...
@@ -153,6 +202,17 @@ SERVANT OF THE ORACLE
 DIENER DES ORAKELS
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+神諭侍者
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

@@ -1,305 +1,457 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="_campaign_04_01" export_map_id="_campaign_04_01" map_md5="c8b693c3b2f12576699e3d8d3da59564" IsC2M="false">
+<localization version="1.3" map_id="_campaign_04_01" export_map_id="_campaign_04_01" map_md5="c8b693c3b2f12576699e3d8d3da59564" IsC2M="false" deprecated="false">
   <languages>
-    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">寻找当地的龙。</text>
-      <text lang="ger">Suche die einheimischen Drachen auf.</text>
       <text lang="eng">Seek out the native dragons.</text>
+      <text lang="ger">Suche die einheimischen Drachen auf.</text>
+      <text lang="l11">尋找當地的龍。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wyrusz na poszukiwanie miejscowych smoków.</text>
     </string>
     <string id="1">
       <text lang="CHN">@安抚生活于此的龙与人！</text>
-      <text lang="ger">@BEFRIEDE DIE HIER LEBENDEN DRACHEN UND MENSCHEN!</text>
       <text lang="eng">@PACIFY THE DRAGONS AND HUMANS LIVING HERE!</text>
+      <text lang="ger">@BEFRIEDE DIE HIER LEBENDEN DRACHEN UND MENSCHEN!</text>
+      <text lang="l11">@安撫生活於此的龍與人！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">@UJEDNOŚĆ ŻYJĄCE TU SMOKI I LUDZI!</text>
     </string>
     <string id="2">
       <text lang="CHN">与渡船夫交谈。</text>
-      <text lang="ger">Sprich mit dem Fährmann.</text>
       <text lang="eng">Speak to the ferryman.</text>
+      <text lang="ger">Sprich mit dem Fährmann.</text>
+      <text lang="l11">與渡船伕交談。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Porozmawiaj z przewoźnikiem.</text>
     </string>
     <string id="3">
       <text lang="CHN">与玛尼和诺伯特一同去寻找水龙。</text>
-      <text lang="ger">Suche die Wasserdrachen mit Mani und Norbert auf.</text>
       <text lang="eng">Seek out the water dragons with Mani and Norbert.</text>
+      <text lang="ger">Suche die Wasserdrachen mit Mani und Norbert auf.</text>
+      <text lang="l11">與瑪尼和諾伯特一同去尋找水龍。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wyrusz z Manim i Norbertem na poszukiwanie smoków wodnych.</text>
     </string>
     <string id="4">
       <text lang="CHN">与玛尼和诺伯特进入石龙的神殿大厅。</text>
-      <text lang="ger">Gehe mit Mani und Norbert in die geweihten Hallen der Steindrachen.</text>
       <text lang="eng">Go with Mani and Norbert to the sacred halls of the stone dragons.</text>
+      <text lang="ger">Gehe mit Mani und Norbert in die geweihten Hallen der Steindrachen.</text>
+      <text lang="l11">與瑪尼和諾伯特進入石龍的神殿大廳。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Udaj się z Manim i Norbertem do świętych komnat smoków kamiennych.</text>
     </string>
     <string id="5">
       <text lang="CHN">找到那个惧怕龙族的女孩。</text>
-      <text lang="ger">Finde das Mädchen, das solche Angst vor Drachen hat.</text>
       <text lang="eng">Find the girl who is so afraid of dragons.</text>
+      <text lang="ger">Finde das Mädchen, das solche Angst vor Drachen hat.</text>
+      <text lang="l11">找到那個懼怕龍族的女孩。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Znajdź dziewczynę, która tak bardzo boi się smoków.</text>
     </string>
     <string id="6">
       <text lang="CHN">与玛尼和诺伯特一同前往阿夸里乌斯。</text>
-      <text lang="ger">Gehe mit Mani und Norbert zu Aquarius.</text>
       <text lang="eng">Go with Mani and Norbert to Aquarius.</text>
+      <text lang="ger">Gehe mit Mani und Norbert zu Aquarius.</text>
+      <text lang="l11">與瑪尼和諾伯特一同前往阿誇裡烏斯。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Udaj się z Manim i Norbertem do Aquariusa.</text>
     </string>
     <string id="7">
       <text lang="CHN">烘烤蛋糕并赠予龙族，让他们派维京人随你完成任务。</text>
-      <text lang="ger">Backe Kuchen und überreiche sie den Drachen, damit sie deine Wikinger bei der Mission begleiten.</text>
       <text lang="eng">Bake cakes and present them to the dragons so they accompany your Vikings on the mission.</text>
+      <text lang="ger">Backe Kuchen und überreiche sie den Drachen, damit sie deine Wikinger bei der Mission begleiten.</text>
+      <text lang="l11">烘烤蛋糕並贈予龍族，讓他們派維京人隨你完成任務。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Upiecz ciasta i ofiaruj je smokom, aby towarzyszyły twoim wikingom w misji.</text>
     </string>
     <string id="8">
       <text lang="CHN">向维京人展示如何烤蛋糕！（建造二级面包坊，并吩咐面包师烘烤蛋糕）</text>
-      <text lang="ger">Zeige den Wikingern, wie man Kuchen backt! (Baue eine Bäckerei Level 2 und sag dem Bäcker er soll Kuchen backen)</text>
       <text lang="eng">Show the Vikings how to bake cakes! (Build a Level 2 Bakery and tell the baker to bake cakes)</text>
+      <text lang="ger">Zeige den Wikingern, wie man Kuchen backt! (Baue eine Bäckerei Level 2 und sag dem Bäcker er soll Kuchen backen)</text>
+      <text lang="l11">向維京人展示如何烤蛋糕！（建造二級麵包坊，並吩咐麵包師烘烤蛋糕）</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Pokaż wikingom, jak piec ciasta! (Zbuduj Piekarnię Poziom 2 i każ piekarzowi piec ciasta)</text>
     </string>
     <string id="9">
       <text lang="CHN">可选：向维京人展示如何从事畜牧！（为此捕获 5 头牛，建造畜牧场并培训一名畜牧人）</text>
-      <text lang="ger">Optional: Zeige den Wikingern, wie man Viehzucht betreibt! (Fange dazu 5 Rinder, errichte eine Viehzüchterei und bilde einen Viehzüchter aus)</text>
       <text lang="eng">Optional: Show the Vikings how to raise cattle! (Catch 5 cattle, build a cattle farm and train a cattle breeder)</text>
+      <text lang="ger">Optional: Zeige den Wikingern, wie man Viehzucht betreibt! (Fange dazu 5 Rinder, errichte eine Viehzüchterei und bilde einen Viehzüchter aus)</text>
+      <text lang="l11">可選：向維京人展示如何從事畜牧！（為此捕獲 5 頭牛，建造畜牧場並培訓一名畜牧人）</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Opcjonalnie: Pokaż wikingom, jak hodować bydło! (Złap 5 sztuk bydła, zbuduj zagrodę i wyszkol hodowcę bydła)</text>
     </string>
     <string id="10">
       <text lang="CHN">预先付给渡船夫劳动报酬。</text>
-      <text lang="ger">Bezahle den Fährmann für seine Dienste im voraus.</text>
       <text lang="eng">Pay the ferryman for his services in advance.</text>
+      <text lang="ger">Bezahle den Fährmann für seine Dienste im voraus.</text>
+      <text lang="l11">預先付給渡船伕勞動報酬。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać przewoźnikowi z góry za jego usługi.</text>
     </string>
     <string id="11">
       <text lang="CHN">把男孩带到那个惧怕龙的女孩身边。</text>
-      <text lang="ger">Bringe den Jungen zum Mädchen, das Angst vor Drachen hat.</text>
       <text lang="eng">Bring the boy to the girl who is afraid of dragons.</text>
+      <text lang="ger">Bringe den Jungen zum Mädchen, das Angst vor Drachen hat.</text>
+      <text lang="l11">把男孩帶到那個懼怕龍的女孩身邊。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zabierz chłopca do dziewczyny, która boi się smoków.</text>
     </string>
     <string id="12">
       <text lang="CHN">护送队伍前往火龙处。</text>
-      <text lang="ger">Geleite die Eskorte zu den Feuerdrachen.</text>
       <text lang="eng">Escort the convoy to the fire dragons.</text>
+      <text lang="ger">Geleite die Eskorte zu den Feuerdrachen.</text>
+      <text lang="l11">護送隊伍前往火龍處。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Eskortuj konwój do smoków ognistych.</text>
     </string>
     <string id="13">
       <text lang="CHN">向纳帕利亚人缴纳 25 份大型治疗药剂作为贡品。</text>
-      <text lang="ger">Reiche den Nabalianern 25 große Heiltränke zum Tribut.</text>
       <text lang="eng">Offer the Nabalians 25 large healing potions as tribute.</text>
+      <text lang="ger">Reiche den Nabalianern 25 große Heiltränke zum Tribut.</text>
+      <text lang="l11">向納帕利亞人繳納 25 份大型治療藥劑作為貢品。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Złóż Nabalianom 25 dużych mikstur leczących jako trybut.</text>
     </string>
     <string id="14">
       <text lang="CHN">前往纳帕利亚人处尝试调解！</text>
-      <text lang="ger">Gehe zu den Nabalianern und versuche zu schlichten!</text>
       <text lang="eng">Go to the Nabalians and try to mediate!</text>
+      <text lang="ger">Gehe zu den Nabalianern und versuche zu schlichten!</text>
+      <text lang="l11">前往納帕利亞人處嘗試調解！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Udaj się do Nabalian i spróbuj rozsądzić!</text>
     </string>
     <string id="15">
       <text lang="CHN">拜访格罗尔斯--石龙一族。</text>
-      <text lang="ger">Besuche die Gerols - die Steindrachen.</text>
       <text lang="eng">Visit the Gerols - the stone dragons.</text>
+      <text lang="ger">Besuche die Gerols - die Steindrachen.</text>
+      <text lang="l11">拜訪格羅爾斯--石龍一族。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Odwiedź Gerols - smoki kamienne.</text>
     </string>
     <string id="16">
       <text lang="CHN">前往卢米斯--火龙一族。</text>
-      <text lang="ger">Gehe zu den Lumis - die Feuerdrachen.</text>
       <text lang="eng">Go to the Lumis - the fire dragons.</text>
+      <text lang="ger">Gehe zu den Lumis - die Feuerdrachen.</text>
+      <text lang="l11">前往盧米斯--火龍一族。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Udaj się do Lumis - smoki ogniste.</text>
     </string>
     <string id="17">
       <text lang="CHN">拜访阿夸斯--水龙一族。</text>
-      <text lang="ger">Besuche die Aquas - die Wasserdrachen.</text>
       <text lang="eng">Visit the Aquas - the water dragons.</text>
+      <text lang="ger">Besuche die Aquas - die Wasserdrachen.</text>
+      <text lang="l11">拜訪阿誇斯--水龍一族。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Odwiedź Aquas - smoki wodne.</text>
     </string>
     <string id="18">
       <text lang="CHN">可选：为火龙烘烤更多蛋糕。</text>
-      <text lang="ger">Optional: Backe mehr Kuchen für die Feuerdrachen.</text>
       <text lang="eng">Optional: Bake more cakes for the fire dragons.</text>
+      <text lang="ger">Optional: Backe mehr Kuchen für die Feuerdrachen.</text>
+      <text lang="l11">可選：為火龍烘烤更多蛋糕。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Opcjonalnie: Upiecz więcej ciast dla smoków ognistych.</text>
     </string>
     <string id="19">
       <text lang="CHN">与玛尼、诺伯特及一条火龙一同前往阿夸里乌斯。</text>
-      <text lang="ger">Gehe mit Mani und Norbert und einem Feuerdrachen zu Aquarius.</text>
       <text lang="eng">Go with Mani, Norbert and a fire dragon to Aquarius.</text>
+      <text lang="ger">Gehe mit Mani und Norbert und einem Feuerdrachen zu Aquarius.</text>
+      <text lang="l11">與瑪尼、諾伯特及一條火龍一同前往阿誇裡烏斯。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Udaj się z Manim, Norbertem i smokiem ognistym do Aquariusa.</text>
     </string>
     <string id="21">
       <text lang="CHN">蛋糕 %d/15</text>
-      <text lang="ger">Kuchen %d/15</text>
       <text lang="eng">Cakes %d/15</text>
+      <text lang="ger">Kuchen %d/15</text>
+      <text lang="l11">蛋糕 %d/15</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ciasta %d/15</text>
     </string>
     <string id="33">
       <text lang="CHN">带给火龙 15 块蛋糕，或缴纳 40 作为贡品！</text>
-      <text lang="ger">Bringe den Feuerdrachen 15 Kuchen, oder zahle 40 als Tribut!</text>
       <text lang="eng">Bring the fire dragons 15 cakes, or pay 40 as tribute!</text>
+      <text lang="ger">Bringe den Feuerdrachen 15 Kuchen, oder zahle 40 als Tribut!</text>
+      <text lang="l11">帶給火龍 15 塊蛋糕，或繳納 40 作為貢品！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Przynieś smokom ognistym 15 ciast lub zapłać 40 jako trybut!</text>
     </string>
     <string id="34">
       <text lang="CHN">向渡船夫缴纳 10 木材作为前往水龙的渡资。</text>
-      <text lang="ger">Zahle dem Fährmann 10 Met Tribut für die Überfahrt zu den Wasserdrachen.</text>
       <text lang="eng">Pay the ferryman 10 mead as tribute for the crossing to the water dragons.</text>
+      <text lang="ger">Zahle dem Fährmann 10 Met Tribut für die Überfahrt zu den Wasserdrachen.</text>
+      <text lang="l11">向渡船伕繳納 10 木材作為前往水龍的渡資。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać przewoźnikowi 10 miodów pitnych za przeprawę do smoków wodnych.</text>
     </string>
     <string id="36">
       <text lang="CHN">向纳帕利亚人缴纳 25 份大型治疗药剂作为贡品。</text>
-      <text lang="ger">Reiche den Nabalianern 25 große Heiltränke zum Tribut.</text>
       <text lang="eng">Offer the Nabalians 25 large healing potions as tribute.</text>
+      <text lang="ger">Reiche den Nabalianern 25 große Heiltränke zum Tribut.</text>
+      <text lang="l11">向納帕利亞人繳納 25 份大型治療藥劑作為貢品。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Złóż Nabalianom 25 dużych mikstur leczących jako trybut.</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的部族</text>
-      <text lang="ger">Bjarnis Stamm</text>
       <text lang="eng">Bjarni's Tribe</text>
+      <text lang="ger">Bjarnis Stamm</text>
+      <text lang="l11">比雅尼的部族</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Plemię Bjarniego</text>
     </string>
     <string id="51">
       <text lang="CHN">石龙</text>
-      <text lang="ger">Steindrachen</text>
       <text lang="eng">Stone Dragons</text>
+      <text lang="ger">Steindrachen</text>
+      <text lang="l11">石龍</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Smoki Kamienne</text>
     </string>
     <string id="52">
       <text lang="CHN">火龙</text>
-      <text lang="ger">Feuerdrachen</text>
       <text lang="eng">Fire Dragons</text>
+      <text lang="ger">Feuerdrachen</text>
+      <text lang="l11">火龍</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Smoki Ogniste</text>
     </string>
     <string id="53">
       <text lang="CHN">水龙</text>
-      <text lang="ger">Wasserdrachen</text>
       <text lang="eng">Water Dragons</text>
+      <text lang="ger">Wasserdrachen</text>
+      <text lang="l11">水龍</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Smoki Wodne</text>
     </string>
     <string id="54">
       <text lang="CHN">维京人</text>
-      <text lang="ger">Wikinger</text>
       <text lang="eng">Vikings</text>
+      <text lang="ger">Wikinger</text>
+      <text lang="l11">維京人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wikingowie</text>
     </string>
     <string id="55">
       <text lang="CHN">渡船夫</text>
-      <text lang="ger">Fährmann</text>
       <text lang="eng">Ferryman</text>
+      <text lang="ger">Fährmann</text>
+      <text lang="l11">渡船伕</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Przewoźnik</text>
     </string>
     <string id="56">
       <text lang="CHN">纳帕利亚人</text>
-      <text lang="ger">Napalianer</text>
       <text lang="eng">Nabalians</text>
+      <text lang="ger">Napalianer</text>
+      <text lang="l11">納帕利亞人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Nabalianie</text>
     </string>
     <string id="61">
       <text lang="CHN">格罗尔斯</text>
-      <text lang="ger">Gerols</text>
       <text lang="eng">Gerols</text>
+      <text lang="ger">Gerols</text>
+      <text lang="l11">格羅爾斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gerols</text>
     </string>
     <string id="62">
       <text lang="CHN">卢米斯</text>
-      <text lang="ger">Lumis</text>
       <text lang="eng">Lumis</text>
+      <text lang="ger">Lumis</text>
+      <text lang="l11">盧米斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Lumis</text>
     </string>
     <string id="63">
       <text lang="CHN">阿夸斯</text>
-      <text lang="ger">Aquas</text>
       <text lang="eng">Aquas</text>
+      <text lang="ger">Aquas</text>
+      <text lang="l11">阿誇斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Aquas</text>
     </string>
     <string id="64">
       <text lang="CHN">维基斯</text>
-      <text lang="ger">Wikis</text>
       <text lang="eng">Viks</text>
+      <text lang="ger">Wikis</text>
+      <text lang="l11">維基斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wikingowie</text>
     </string>
     <string id="65">
       <text lang="CHN">渡船</text>
-      <text lang="ger">Fährm.</text>
       <text lang="eng">Ferry.</text>
+      <text lang="ger">Fährm.</text>
+      <text lang="l11">渡船</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Przew.</text>
     </string>
     <string id="66">
       <text lang="CHN">纳帕</text>
-      <text lang="ger">Napal.</text>
       <text lang="eng">Nabal.</text>
+      <text lang="ger">Napal.</text>
+      <text lang="l11">納帕</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Nabal.</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
-      <text lang="ger">Bjarni</text>
       <text lang="eng">Bjarni</text>
+      <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
-      <text lang="ger">Cyra</text>
       <text lang="eng">Cyra</text>
+      <text lang="ger">Cyra</text>
+      <text lang="l11">希拉</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Cyra</text>
     </string>
     <string id="75">
       <text lang="CHN">玛尼</text>
-      <text lang="ger">Mani</text>
       <text lang="eng">Mani</text>
+      <text lang="ger">Mani</text>
+      <text lang="l11">瑪尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mani</text>
     </string>
     <string id="76">
       <text lang="CHN">诺伯特</text>
-      <text lang="ger">Norbert</text>
       <text lang="eng">Norbert</text>
+      <text lang="ger">Norbert</text>
+      <text lang="l11">諾伯特</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Norbert</text>
     </string>
     <string id="78">
       <text lang="CHN">女孩</text>
-      <text lang="ger">Mädchen</text>
       <text lang="eng">Girl</text>
+      <text lang="ger">Mädchen</text>
+      <text lang="l11">女孩</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Dziewczyna</text>
     </string>
     <string id="79">
       <text lang="CHN">男孩</text>
-      <text lang="ger">Junge</text>
       <text lang="eng">Boy</text>
+      <text lang="ger">Junge</text>
+      <text lang="l11">男孩</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Chłopiec</text>
     </string>
     <string id="80">
       <text lang="CHN">渡船夫</text>
-      <text lang="ger">Fährmann</text>
       <text lang="eng">Ferryman</text>
+      <text lang="ger">Fährmann</text>
+      <text lang="l11">渡船伕</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Przewoźnik</text>
     </string>
     <string id="98">
       <text lang="CHN">在前往丰饶新平原的途中，少年玛尼与巨龙诺伯特瞒着部族，各奔前程……这结局会是好的吗？</text>
-      <text lang="ger">Auf den Weg zu neuen fruchtbaren Ebenen, gehen der junge Mani und Norbert der Drache ihre eigenen Wege ohne ihren Stamm davon zu informieren... ob das mal gut geht?</text>
       <text lang="eng">On the way to new fertile plains, young Mani and Norbert the dragon go their own way without informing their tribe... will that turn out well?</text>
+      <text lang="ger">Auf den Weg zu neuen fruchtbaren Ebenen, gehen der junge Mani und Norbert der Drache ihre eigenen Wege ohne ihren Stamm davon zu informieren... ob das mal gut geht?</text>
+      <text lang="l11">在前往豐饒新平原的途中，少年瑪尼與巨龍諾伯特瞞著部族，各奔前程……這結局會是好的嗎？</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">W drodze na nowe żyzne równiny, młody Mani i smok Norbert idą swoją własną drogą bez poinformowania plemienia... czy to się dobrze skończy?</text>
     </string>
     <string id="99">
       <text lang="CHN">龙之大陆的冒险</text>
-      <text lang="ger">ABENTEUER IM DRACHENLAND</text>
       <text lang="eng">ADVENTURE IN DRAGONLAND</text>
+      <text lang="ger">ABENTEUER IM DRACHENLAND</text>
+      <text lang="l11">龍之大陸的冒險</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">PRZYGODA W KRAINIE SMOKÓW</text>
     </string>
   </strings>
   <briefings>
     <block id="00_start">
       <lang code="CHN">
-                <text>
+        <text>
 这片土地荒芜贫瘠，稀少的资源不足以保证我们的生存。于是我们决定另寻他处，重建村落。穿越干涸河床的道路，将指引我们前往新的定居之地。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+The land lay fallow and its meager resources could not secure our survival. So we decided to rebuild our village in another place. The path through a dried-up riverbed was to lead us to our new settlement.
+</text>
       </lang>
       <lang code="ger">
         <text> 
 Das Land lag brach und seine kargen Rohstoffe konnten unser Überleben nicht sichern. So beschlossen wir, an einen anderen Ort unser Dorf neu zu errichten. Der Weg durch ein ausgetrocknetes Flussbett sollte uns zu unserer neuen Siedlungsstätte führen.
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-The land lay fallow and its meager resources could not secure our survival. So we decided to rebuild our village in another place. The path through a dried-up riverbed was to lead us to our new settlement.
-</text>
+這片土地荒蕪貧瘠，稀少的資源不足以保證我們的生存。於是我們決定另尋他處，重建村落。穿越乾涸河床的道路，將指引我們前往新的定居之地。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -309,12 +461,20 @@ Ziemia leżała odłogiem, a jej skąpe zasoby nie mogły zapewnić nam przetrwa
     </block>
     <block id="00_start1">
       <lang code="CHN">
-                <text>
+        <text>
 那时我们尚不知晓部族中最年轻一辈的计划……
 玛尼--酋长比雅尼与希拉之子
 和诺伯特--那条龙
 却另有打算……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+We had no inkling of the plans of our tribe's youngest... 
+Mani - son of Chief Bjarni and Cyra
+and Norbert - the dragon 
+had other plans...
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -324,13 +484,19 @@ und Norbert - der Drache
 hatten andere Pläne... 
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-We had no inkling of the plans of our tribe's youngest... 
-Mani - son of Chief Bjarni and Cyra
-and Norbert - the dragon 
-had other plans...
-</text>
+那時我們尚不知曉部族中最年輕一輩的計劃……
+瑪尼--酋長比雅尼與希拉之子
+和諾伯特--那條龍
+卻另有打算……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -343,19 +509,33 @@ mieli inne plany...
     </block>
     <block id="01">
       <lang code="CHN">
-                <text>
+        <text>
 出走者
 
 龙诺伯特郁郁不乐。夜深时他常独自清醒难眠，作为人群之中唯一的龙，他思念着同类的身影。他与我们的儿子、人类挚友玛尼商议，决定动身去寻找诺伯特的同类。
         </text>
         <usericon>2,5</usericon>
-                <text>
+        <text>
 
 
 于是两人悄无声息、瞒着我们踏上了前路，走向广阔而未知的世界……
 
 去寻找当地的龙。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+THE RUNAWAYS
+
+Norbert the dragon was sad. Often he lay awake at night, for as the only dragon among humans he missed his own kind. 
+With Mani, our son and his best friend from the human folk, he decided to set out in search of Norbert's kin. 
+
+
+
+And so the two of them set off all alone and without our knowledge into the wide, uncertain world...
+
+Find the native dragons.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -373,19 +553,30 @@ Und so machten sich die beiden ganz alleine und ohne unsere Wissen auf den Weg i
 Finde die einheimischen Drachen. 
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-THE RUNAWAYS
+出走者
 
-Norbert the dragon was sad. Often he lay awake at night, for as the only dragon among humans he missed his own kind. 
-With Mani, our son and his best friend from the human folk, he decided to set out in search of Norbert's kin. 
+龍諾伯特鬱鬱不樂。夜深時他常獨自清醒難眠，作為人群之中唯一的龍，他思念著同類的身影。他與我們的兒子、人類摯友瑪尼商議，決定動身去尋找諾伯特的同類。
+        </text>
+        <usericon>2,5</usericon>
+        <text>
 
 
+於是兩人悄無聲息、瞞著我們踏上了前路，走向廣闊而未知的世界……
 
-And so the two of them set off all alone and without our knowledge into the wide, uncertain world...
-
-Find the native dragons.
-</text>
+去尋找當地的龍。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,5</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,5</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -404,19 +595,33 @@ Znajdź tubylcze smoki.
     </block>
     <block id="02">
       <lang code="CHN">
-                <text>
+        <text>
 老者
 
 “噢，这些狼！它们不让我靠近那座古老废墟。可我急需要那口大箱子里的东西。可这种事我总不能交给孩子们去办……”
         </text>
         <usericon>1,95,189</usericon>
-                <text>
+        <text>
 
 
 ……不过我的情报或许对你们有用。但我还得再想想，该怎么把狼群赶走……我一个老弱之人，要怎么把它们引入陷阱？只要它们进了上方那座城堡废墟，就会温顺得像绵羊！”
 
 若想听老者的情报，至少要把三头狼引入上方城堡废墟。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+THE OLD MAN
+
+"Oh these wolves! They won't let me reach the old ruins. Yet I urgently need the contents of the large chest. But I can hardly entrust children with such a task...
+
+
+
+...and yet my information could be useful to you. But first I must think further about how to drive the wolves away...
+How can I, an old frail man, lure them into a trap? Once they are in the upper castle ruins, they would be tame as sheep!"
+
+Lure at least three wolves into the upper castle ruins if you wish to hear the old man's information.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -434,19 +639,30 @@ Wie kann ich alter gebrechlicher Mann sie nur in die Falle locken? Sind sie erst
 Locke mindestens drei Wölfe in die obere Burgruine, wenn du die Informationen des alten Mannes hören willst.
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-THE OLD MAN
+老者
 
-"Oh these wolves! They won't let me reach the old ruins. Yet I urgently need the contents of the large chest. But I can hardly entrust children with such a task...
+“噢，這些狼！它們不讓我靠近那座古老廢墟。可我急需要那口大箱子裡的東西。可這種事我總不能交給孩子們去辦……”
+        </text>
+        <usericon>1,95,189</usericon>
+        <text>
 
 
+……不過我的情報或許對你們有用。但我還得再想想，該怎麼把狼群趕走……我一個老弱之人，要怎麼把它們引入陷阱？只要它們進了上方那座城堡廢墟，就會溫順得像綿羊！”
 
-...and yet my information could be useful to you. But first I must think further about how to drive the wolves away...
-How can I, an old frail man, lure them into a trap? Once they are in the upper castle ruins, they would be tame as sheep!"
-
-Lure at least three wolves into the upper castle ruins if you wish to hear the old man's information.
-</text>
+若想聽老者的情報，至少要把三頭狼引入上方城堡廢墟。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,95,189</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,95,189</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -465,13 +681,13 @@ Zwab co najmniej trzy wilki do górnych ruin zamku, jeśli chcesz usłyszeć inf
     </block>
     <block id="03">
       <lang code="CHN">
-                <text>
+        <text>
 老者
 
 “你们做到了！这些猛兽不再构成威胁。那么听好我的指点：”
         </text>
         <usericon>1,103,211</usericon>
-                <text>
+        <text>
 
 
 “这一带龙不少，可你那朋友属于哪一类，我说不准。
@@ -479,7 +695,7 @@ Zwab co najmniej trzy wilki do górnych ruin zamku, jeśli chcesz usłyszeć inf
 这里有格罗尔斯一族--古老而聪慧的石龙。”
         </text>
         <usericon>1,258,255</usericon>
-                <text>
+        <text>
 
 
 它们性情温厚，是最古老悠久的族群之一。若说有谁能助你们寻路，必是它们无疑。但唯有你们先为它们做一件公益之事，它们才会吐露智慧。”
@@ -487,7 +703,7 @@ Zwab co najmniej trzy wilki do górnych ruin zamku, jeśli chcesz usłyszeć inf
 东边的火龙虽被视为极其危险，可一旦填饱肚子，便格外可爱。
         </text>
         <usericon>1,467,270</usericon>
-                <text>
+        <text>
 
 
 无人知晓的秘密：它们酷爱烘焙点心！
@@ -495,13 +711,44 @@ Zwab co najmniej trzy wilki do górnych ruin zamku, jeśli chcesz usłyszeć inf
 还有阿夸斯一族--盘踞东南的水中水龙。
         </text>
         <usericon>1,570,597</usericon>
-                <text>
+        <text>
 
 
 它们生性平和，只以鱼与海藻为食。
 
 世间根本没有哪条龙会伤害人类，只是偏见太深！”
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+THE OLD MAN
+
+"You did it! These wild beasts are no longer a threat. So now hear my clues:" 
+
+
+
+"There are many dragons in this area, but which kind your friend belongs to, I cannot say.
+
+There are the GEROLS - the old wise STONE DRAGONS.
+
+ 
+
+They are very good-natured and belong to probably the oldest folk. If anyone can help you in your search, it is them. But they will surely only share their knowledge if you do them a selfless favor." 
+
+The fire dragons in the east are considered very dangerous, but they are exceedingly sweet once their hunger is stilled. 
+
+ 
+
+What nobody knows: they love baked goods!
+
+Then there are the AQUAS - the swimming water dragons in the southeast.
+
+ 
+
+They are very peace-loving and feed exclusively on fish and algae. 
+
+In fact, there are no dragons that would harm humans, but many prejudices abound!"
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -542,36 +789,66 @@ Sie sind sehr friedliebend und ernähren sich ausschließlich von Fisch und Alge
 Überhaupt gibt es keine Drachen, die den Menschen etwas antun würden, aber es herrschen viele Vorurteile!"
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-THE OLD MAN
+老者
 
-"You did it! These wild beasts are no longer a threat. So now hear my clues:" 
+“你們做到了！這些猛獸不再構成威脅。那麼聽好我的指點：”
+        </text>
+        <usericon>1,103,211</usericon>
+        <text>
 
 
+“這一帶龍不少，可你那朋友屬於哪一類，我說不準。
 
-"There are many dragons in this area, but which kind your friend belongs to, I cannot say.
+這裡有格羅爾斯一族--古老而聰慧的石龍。”
+        </text>
+        <usericon>1,258,255</usericon>
+        <text>
 
-There are the GEROLS - the old wise STONE DRAGONS.
 
- 
+它們性情溫厚，是最古老悠久的族群之一。若說有誰能助你們尋路，必是它們無疑。但唯有你們先為它們做一件公益之事，它們才會吐露智慧。”
 
-They are very good-natured and belong to probably the oldest folk. If anyone can help you in your search, it is them. But they will surely only share their knowledge if you do them a selfless favor." 
+東邊的火龍雖被視為極其危險，可一旦填飽肚子，便格外可愛。
+        </text>
+        <usericon>1,467,270</usericon>
+        <text>
 
-The fire dragons in the east are considered very dangerous, but they are exceedingly sweet once their hunger is stilled. 
 
- 
+無人知曉的秘密：它們酷愛烘焙點心！
 
-What nobody knows: they love baked goods!
+還有阿誇斯一族--盤踞東南的水中水龍。
+        </text>
+        <usericon>1,570,597</usericon>
+        <text>
 
-Then there are the AQUAS - the swimming water dragons in the southeast.
 
- 
+它們生性平和，只以魚與海藻為食。
 
-They are very peace-loving and feed exclusively on fish and algae. 
-
-In fact, there are no dragons that would harm humans, but many prejudices abound!"
-</text>
+世間根本沒有哪條龍會傷害人類，只是偏見太深！”
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,103,211</usericon>
+        <text />
+        <usericon>1,258,255</usericon>
+        <text />
+        <usericon>1,467,270</usericon>
+        <text />
+        <usericon>1,570,597</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,103,211</usericon>
+        <text />
+        <usericon>1,258,255</usericon>
+        <text />
+        <usericon>1,467,270</usericon>
+        <text />
+        <usericon>1,570,597</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -607,13 +884,13 @@ W rzeczywistości nie ma smoków, które chciałyby skrzywdzić ludzi, ale panuj
     </block>
     <block id="04">
       <lang code="CHN">
-                <text>
+        <text>
 格罗尔斯--石龙
 
 在嶙峋山脉中，玛尼与诺伯特遇见了古老的智慧石龙。
         </text>
         <usericon>1,259,260</usericon>
-                <text>
+        <text>
 
 
 我们定能助你们一臂之力！不过，众石龙中最睿智的格拉乌霍尔姆，唯有待你们应他所愿、安抚此地群龙之后，才会接见你们。
@@ -622,6 +899,21 @@ W rzeczywistości nie ma smoków, które chciałyby skrzywdzić ludzi, ale panuj
 
 南边有一座维京村庄，或许能助你们一臂之力。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+GEROLS - THE STONE DRAGONS
+
+In the rocky mountains, Mani and Norbert encountered old wise stone dragons. 
+
+
+
+"Surely we could help you! But GRAUHOLM, the wisest of all stone dragons, will only receive you once you fulfill his wish to pacify the dragons of the region."
+
+Find all dragons AND humans in this terrain and ensure they understand each other.
+
+A Viking village south of here may support you in this.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -640,20 +932,32 @@ Finde alle Drachen UND Menschen in diesem Terrain und sorge dafür, dass sie ein
 Ein Wikingerdorf südlich von hier, wird euch vielleicht dabei unterstützen.
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-GEROLS - THE STONE DRAGONS
+格羅爾斯--石龍
 
-In the rocky mountains, Mani and Norbert encountered old wise stone dragons. 
+在嶙峋山脈中，瑪尼與諾伯特遇見了古老的智慧石龍。
+        </text>
+        <usericon>1,259,260</usericon>
+        <text>
 
 
+我們定能助你們一臂之力！不過，眾石龍中最睿智的格拉烏霍爾姆，唯有待你們應他所願、安撫此地群龍之後，才會接見你們。
 
-"Surely we could help you! But GRAUHOLM, the wisest of all stone dragons, will only receive you once you fulfill his wish to pacify the dragons of the region."
+找出這片地域中的所有龍與人，使他們彼此理解。
 
-Find all dragons AND humans in this terrain and ensure they understand each other.
-
-A Viking village south of here may support you in this.
-</text>
+南邊有一座維京村莊，或許能助你們一臂之力。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,259,260</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,259,260</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -673,12 +977,19 @@ Wieś Wikingów na południe stąd może wam w tym pomóc.
     </block>
     <block id="05">
       <lang code="CHN">
-                <text>
+        <text>
 石龙
 
 若想前往我们神圣的殿堂、觐见最睿智的石龙格拉乌霍尔姆，你们必须先安抚这片区域中的所有龙与人。
         </text>
         <usericon>1,261,241</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+STONE DRAGONS
+
+If you wish to reach our sacred halls and GRAUHOLM, the wisest of all stone dragons, you must pacify all dragons AND humans of this region.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -689,12 +1000,21 @@ Wollt ihr zu unseren geheiligten Hallen zu GRAUHOLM, den weisesten aller Steindr
 </text>
         <usericon>1,261,241</usericon>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-STONE DRAGONS
+石龍
 
-If you wish to reach our sacred halls and GRAUHOLM, the wisest of all stone dragons, you must pacify all dragons AND humans of this region.
-</text>
+若想前往我們神聖的殿堂、覲見最睿智的石龍格拉烏霍爾姆，你們必須先安撫這片區域中的所有龍與人。
+        </text>
+        <usericon>1,261,241</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,261,241</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,261,241</usericon>
       </lang>
       <lang code="pol">
         <text>
@@ -706,19 +1026,33 @@ Jeśli chcecie dotrzeć do naszych świętych sal i do GRAUHOLMA, najmędrzejsze
     </block>
     <block id="06">
       <lang code="CHN">
-                <text>
+        <text>
 维京村庄
 
 “一个孩子和一条龙……你们真是古怪的组合！”
         </text>
         <usericon>2,5</usericon>
-                <text>
+        <text>
 
 
 人们对龙怀有诸多偏见，可我们村庄极为包容。你们来自何处？也许能帮我们建起一座蛋糕烘焙坊和一处畜牧场？”
 
 建造一座能运转的蛋糕烘焙坊与一处畜牧场！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+VIKING VILLAGE
+
+"A child and a dragon... You are a peculiar pair! 
+
+
+
+Many prejudices against dragons exist, but our village is exceedingly tolerant.
+Where do you come from? Perhaps you can help us build a cake bakery and a cattle farm?"
+
+Build a working cake bakery and a cattle farm!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -736,19 +1070,30 @@ Woher kommt ihr? Vielleicht könnt ihr uns helfen, eine Kuchenbäckerei und eine
 Baue eine funktionierende Kuchenbäckerei und eine Viehzucht auf!
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-VIKING VILLAGE
+維京村莊
 
-"A child and a dragon... You are a peculiar pair! 
+“一個孩子和一條龍……你們真是古怪的組合！”
+        </text>
+        <usericon>2,5</usericon>
+        <text>
 
 
+人們對龍懷有諸多偏見，可我們村莊極為包容。你們來自何處？也許能幫我們建起一座蛋糕烘焙坊和一處畜牧場？”
 
-Many prejudices against dragons exist, but our village is exceedingly tolerant.
-Where do you come from? Perhaps you can help us build a cake bakery and a cattle farm?"
-
-Build a working cake bakery and a cattle farm!
-</text>
+建造一座能運轉的蛋糕烘焙坊與一處畜牧場！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,5</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,5</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -767,17 +1112,28 @@ Zbuduj funkcjonującą piekarnię ciast i hodowlę bydła!
     </block>
     <block id="07">
       <lang code="CHN">
-                <text>
+        <text>
 畜牧场落成！
 
 “我们终于能自己繁育牲畜，让林中野兽得以安享宁静。这份恩情我们永志不忘。”村民说道。
         </text>
         <usericon>1,238,421</usericon>
-                <text>
+        <text>
 
 
 有了畜牧场，饱腹的人多了，村庄也随之添了些新居民。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+CATTLE FARM ESTABLISHED!
+
+"At last we can breed our own cattle and let the forest animals live in peace. Our gratitude is yours forever," spoke the folk. 
+
+
+
+And our village grew by several new villagers, for thanks to the cattle farm many more people were fed!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -792,16 +1148,28 @@ VIEHZUCHT ERRICHTET!
 Und unser Dorf wuchs um einige neue Dorfbewohner, denn dank der Viehzüchterei wurden viel mehr Leute satt!
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-CATTLE FARM ESTABLISHED!
+畜牧場落成！
 
-"At last we can breed our own cattle and let the forest animals live in peace. Our gratitude is yours forever," spoke the folk. 
+“我們終於能自己繁育牲畜，讓林中野獸得以安享寧靜。這份恩情我們永誌不忘。”村民說道。
+        </text>
+        <usericon>1,238,421</usericon>
+        <text>
 
 
-
-And our village grew by several new villagers, for thanks to the cattle farm many more people were fed!
-</text>
+有了畜牧場，飽腹的人多了，村莊也隨之添了些新居民。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,238,421</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,238,421</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -817,19 +1185,32 @@ A nasza wieś powiększyła się o kilku nowych mieszkańców, bo dzięki hodowl
     </block>
     <block id="08">
       <lang code="CHN">
-                <text>
+        <text>
 可运转的蛋糕烘焙坊落成！
 
 “这下我们部族终于能安抚火龙了！”村民说道。
         </text>
         <usericon>1,238,373</usericon>
-                <text>
+        <text>
 
 
 “年轻的玛尼，你与龙友这就领着蛋糕商队前往火龙处吧。说不定能从它们那里探听到你身世的线索……”
 
 护送商队前往火龙处，并在它们的石圈中卸下货物！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+WORKING CAKE BAKERY ESTABLISHED!
+
+"With this, our folk will finally be able to appease the fire dragons!" spoke the village folk. 
+
+
+
+"Young Mani, guide the escort with the cakes to the fire dragons together with your friend the dragon. Perhaps you will learn more about your origins from them..."
+
+Guide the escort to the fire dragons and unload the goods there in their stone circle!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -846,18 +1227,30 @@ FUNKTIONIERENDE KUCHENBÄCKEREI ERRICHTET!
 Geleite die Eskorte zu den Feuerdrachen und entlade dort die Waren in deren Steinkreis!  
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-WORKING CAKE BAKERY ESTABLISHED!
+可運轉的蛋糕烘焙坊落成！
 
-"With this, our folk will finally be able to appease the fire dragons!" spoke the village folk. 
+“這下我們部族終於能安撫火龍了！”村民說道。
+        </text>
+        <usericon>1,238,373</usericon>
+        <text>
 
 
+“年輕的瑪尼，你與龍友這就領著蛋糕商隊前往火龍處吧。說不定能從它們那裡探聽到你身世的線索……”
 
-"Young Mani, guide the escort with the cakes to the fire dragons together with your friend the dragon. Perhaps you will learn more about your origins from them..."
-
-Guide the escort to the fire dragons and unload the goods there in their stone circle!
-</text>
+護送商隊前往火龍處，並在它們的石圈中卸下貨物！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,238,373</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,238,373</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -875,13 +1268,13 @@ Poprowadź eskortę do smoków ognia i rozładuj tam towary w ich kamiennym krę
     </block>
     <block id="09">
       <lang code="CHN">
-                <text>
+        <text>
 火龙
 
 “我们对其他生灵素无好感。饥饿总来纠缠，令我们乖戾易怒。我们本无意伤人，可这饥肠……”
         </text>
         <usericon>1,467,270</usericon>
-                <text>
+        <text>
 
 
 而且东边的纳帕利亚人让我们苦不堪言。他们趁夜偷走我们仅存的食物，还毁坏土地。
@@ -890,6 +1283,21 @@ Poprowadź eskortę do smoków ognia i rozładuj tam towary w ich kamiennym krę
 
 前往纳帕利亚人处，设法调停！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+FIRE DRAGONS
+
+"We are not well disposed toward other creatures. Hunger constantly plagues us and makes us grumpy. We don't want to harm anyone, but the hunger..."
+
+
+
+and the Nabalians east of here make our lives difficult. They steal our meager food at night and destroy the land.
+
+Bring cakes to the fire dragons, perhaps that will ease their appetite!
+
+Go to the Nabalians and try to mediate!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -908,20 +1316,32 @@ Bringe Kuchen zu den Feuerdrachen, vielleicht lindert das ihren Appetit!
 Gehe zu den Napalianern und versuche zu schlichten!
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-FIRE DRAGONS
+火龍
 
-"We are not well disposed toward other creatures. Hunger constantly plagues us and makes us grumpy. We don't want to harm anyone, but the hunger..."
+“我們對其他生靈素無好感。飢餓總來糾纏，令我們乖戾易怒。我們本無意傷人，可這飢腸……”
+        </text>
+        <usericon>1,467,270</usericon>
+        <text>
 
 
+而且東邊的納帕利亞人讓我們苦不堪言。他們趁夜偷走我們僅存的食物，還毀壞土地。
 
-and the Nabalians east of here make our lives difficult. They steal our meager food at night and destroy the land.
+給火龍送去蛋糕，或許能稍減它們的食慾！
 
-Bring cakes to the fire dragons, perhaps that will ease their appetite!
-
-Go to the Nabalians and try to mediate!
-</text>
+前往納帕利亞人處，設法調停！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,467,270</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,467,270</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -941,17 +1361,29 @@ Udaj się do Nabalian i spróbuj ich pogodzić!
     </block>
     <block id="10">
       <lang code="CHN">
-                <text>
+        <text>
 火龙
 
 “你们真是烘焙大师！我们定当鼎力相助！”火龙们说道。
         </text>
         <usericon>1,467,270</usericon>
-                <text>
+        <text>
 
 
 从今往后，我们中有五条将听命于你们！若还需更多，尽管缴纳贡品！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+FIRE DRAGONS
+ 
+"You are true master bakers! Our support is yours!"
+spoke the fire dragons.
+
+
+
+Five of us shall from now on be at your service! If you need more of us, pay the tribute!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -967,17 +1399,28 @@ sprachen die Feuerdrachen.
 Fünf von uns werden von nun an in eurem Dienste stehen! Falls ihr mehr von uns benötigt, zahlt den Tribut!
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-FIRE DRAGONS
- 
-"You are true master bakers! Our support is yours!"
-spoke the fire dragons.
+火龍
+
+“你們真是烘焙大師！我們定當鼎力相助！”火龍們說道。
+        </text>
+        <usericon>1,467,270</usericon>
+        <text>
 
 
-
-Five of us shall from now on be at your service! If you need more of us, pay the tribute!
-</text>
+從今往後，我們中有五條將聽命於你們！若還需更多，儘管繳納貢品！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,467,270</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,467,270</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -995,14 +1438,21 @@ Pięciu z nas będzie od teraz w waszej służbie! Jeśli potrzebujecie więcej,
     <block id="100">
       <lang code="CHN">
         <font>$local$\fonts\fonthead16bld.fnt</font>
-                <text>
+        <text>
 任务失败！
         </text>
         <font>$local$\fonts\font12.fnt</font>
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
-                <text>
+        <text>
 一时的轻率，生命便转瞬即逝！比雅尼与希拉之子玛尼，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+MISSION LOST!
+
+A brief moment of carelessness, so quickly it happens in life! MANI - son of Bjarni and Cyra - perished through your inattention! Without this hero, the end of the mission will remain hidden from you.
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -1015,12 +1465,30 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
-MISSION LOST!
-
-A brief moment of carelessness, so quickly it happens in life! MANI - son of Bjarni and Cyra - perished through your inattention! Without this hero, the end of the mission will remain hidden from you.
-</text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+一時的輕率，生命便轉瞬即逝！比雅尼與希拉之子瑪尼，因你的疏忽而殞命！少了這位英雄，任務的結局將永遠對你隱藏。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1032,17 +1500,27 @@ Chwilka lekkomyślności, tak szybko to w życiu przychodzi! MANI - syn Bjarnieg
     </block>
     <block id="11">
       <lang code="CHN">
-                <text>
+        <text>
 惧怕龙的女孩
 
 
         </text>
         <usericon>2,8</usericon>
-                <text>
+        <text>
 
 
 “哥哥曾告诉我，火龙最爱吃到了一定年纪的女孩。所以我才离家出走。我好害怕！”
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+GIRL WHO IS AFRAID OF DRAGONS
+
+
+
+"My big brother told me that fire dragons love to devour girls who have reached a certain age. That is why I ran away from home. 
+I am so afraid!"
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1056,15 +1534,28 @@ MÄDCHEN, DAS ANGST VOR DRACHEN HAT
 Ich habe solche Angst!"
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-GIRL WHO IS AFRAID OF DRAGONS
+懼怕龍的女孩
 
 
+        </text>
+        <usericon>2,8</usericon>
+        <text>
 
-"My big brother told me that fire dragons love to devour girls who have reached a certain age. That is why I ran away from home. 
-I am so afraid!"
-</text>
+
+“哥哥曾告訴我，火龍最愛吃到了一定年紀的女孩。所以我才離家出走。我好害怕！”
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,8</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,8</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1079,17 +1570,28 @@ Tak się boję!"
     </block>
     <block id="12">
       <lang code="CHN">
-                <text>
+        <text>
 顽童
 
 “我告诉妹妹，火龙最爱吃到了一定年纪的女孩。结果她竟离家出走了！全都是我的错！我必须找到她，因为只有我她才肯信……”
         </text>
         <usericon>2,9</usericon>
-                <text>
+        <text>
 
 
 你们能帮我找到她吗？
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+THE RASCAL
+
+"I told my sister that fire dragons love to devour girls who have reached a certain age. Now she has run away from home! It's all my fault! I must find her, for she will believe only me..." 
+
+
+
+Can you help me find her?
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1104,16 +1606,28 @@ LAUSBUB
 Könnt ihr mir helfen, sie zu finden?
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-THE RASCAL
+頑童
 
-"I told my sister that fire dragons love to devour girls who have reached a certain age. Now she has run away from home! It's all my fault! I must find her, for she will believe only me..." 
+“我告訴妹妹，火龍最愛吃到了一定年紀的女孩。結果她竟離家出走了！全都是我的錯！我必須找到她，因為只有我她才肯信……”
+        </text>
+        <usericon>2,9</usericon>
+        <text>
 
 
-
-Can you help me find her?
-</text>
+你們能幫我找到她嗎？
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,9</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,9</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1129,17 +1643,26 @@ Czy pomożecie mi ją znaleźć?
     </block>
     <block id="13">
       <lang code="CHN">
-                <text>
+        <text>
 不再害怕的女孩
 
 
         </text>
         <usericon>2,8</usericon>
-                <text>
+        <text>
 
 
 “哥哥真坏，编这种谎话吓我。可我现在知道了，那不是真的，再也不用怕火龙了。”
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+GIRL WHO IS NO LONGER AFRAID 
+
+
+
+"It was not very nice of my brother to tell me such tall tales to frighten me. But now I know it is not true and no longer need to be afraid of fire dragons."
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1152,14 +1675,28 @@ MÄDCHEN, das nun keine Angst mehr hat
 "Das war nicht sehr nett von meinem Bruder, mir solche Lügengeschichten zu erzählen, um mir damit Angst einzuflössen. Aber nun weiß ich ja, das es nicht wahr ist und brauche keine Angst mehr vor Feuerdrachen zu haben."  
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-GIRL WHO IS NO LONGER AFRAID 
+不再害怕的女孩
 
 
+        </text>
+        <usericon>2,8</usericon>
+        <text>
 
-"It was not very nice of my brother to tell me such tall tales to frighten me. But now I know it is not true and no longer need to be afraid of fire dragons."
-</text>
+
+“哥哥真壞，編這種謊話嚇我。可我現在知道了，那不是真的，再也不用怕火龍了。”
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,8</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,8</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1173,17 +1710,28 @@ DZIEWCZYNKA, KTÓRA JUŻ SIĘ NIE BOI
     </block>
     <block id="14">
       <lang code="CHN">
-                <text>
+        <text>
 村民
 
 虽说我们的木匠能学会造船，但他需要一座朝南临水的木工坊，方能在水深足够、可驶向水龙之处下水。南方有个渡船夫，认得去岛上的路，能载你们渡过。你们该找到他。”
         </text>
         <usericon>2,10</usericon>
-                <text>
+        <text>
 
 
 找到那个载玛尼与诺伯特前往水龙之岛的渡船夫。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+THE VILLAGE INHABITANTS
+
+"Our carpenter can learn boatbuilding, but he would need a carpentry workshop by the southern waters to launch the boat where the depth is sufficient to sail to the water dragons. There is a ferryman in the south who knows the way to the island and can ferry you across. You should find him." 
+
+
+
+Find the ferryman who will ferry Mani and Norbert to the island of the water dragons.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1198,16 +1746,28 @@ Zwar kann unser Schreiner den Bootsbau erlernen, aber er bräuchte eine Schreine
 Finde den Fährmann, der Mani und Norbert zur Insel der Wasserdrachen übersetzt.
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-THE VILLAGE INHABITANTS
+村民
 
-"Our carpenter can learn boatbuilding, but he would need a carpentry workshop by the southern waters to launch the boat where the depth is sufficient to sail to the water dragons. There is a ferryman in the south who knows the way to the island and can ferry you across. You should find him." 
+雖說我們的木匠能學會造船，但他需要一座朝南臨水的木工坊，方能在水深足夠、可駛向水龍之處下水。南方有個渡船伕，認得去島上的路，能載你們渡過。你們該找到他。”
+        </text>
+        <usericon>2,10</usericon>
+        <text>
 
 
-
-Find the ferryman who will ferry Mani and Norbert to the island of the water dragons.
-</text>
+找到那個載瑪尼與諾伯特前往水龍之島的渡船伕。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,10</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,10</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1223,19 +1783,32 @@ Znajdź przewoźnika, który przewiezie Maniego i Norberta na wyspę smoków wod
     </block>
     <block id="15">
       <lang code="CHN">
-                <text>
+        <text>
 渡船夫
 
 “许久不曾在这片土地上见到生客了！近前来！”渡船夫朝我们喊道。
         </text>
         <usericon>2,10</usericon>
-                <text>
+        <text>
 
 
 “我认得去阿夸斯--水龙所在的路，我的船也还能用。不过总得收点小费才行！”
 
 向渡船夫缴纳贡品！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+FERRYMAN
+
+"It has been a long time since I last saw strangers in these parts! Step closer!" the ferryman called out to us. 
+
+
+
+"I know the way to the Aquas - the water dragons - and my boat is seaworthy. But a small fee must be included!"
+
+Pay the tribute to the ferryman!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1252,18 +1825,30 @@ FÄHRMANN
 Zahle den Tribut an den Fährmann!
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-FERRYMAN
+渡船伕
 
-"It has been a long time since I last saw strangers in these parts! Step closer!" the ferryman called out to us. 
+“許久不曾在這片土地上見到生客了！近前來！”渡船伕朝我們喊道。
+        </text>
+        <usericon>2,10</usericon>
+        <text>
 
 
+“我認得去阿誇斯--水龍所在的路，我的船也還能用。不過總得收點小費才行！”
 
-"I know the way to the Aquas - the water dragons - and my boat is seaworthy. But a small fee must be included!"
-
-Pay the tribute to the ferryman!
-</text>
+向渡船伕繳納貢品！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,10</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,10</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1281,17 +1866,28 @@ Zapłać przewoźnikowi trybut!
     </block>
     <block id="16">
       <lang code="CHN">
-                <text>
+        <text>
 渡船夫
 
 “现在我乐意送你们过岛。这片水域，没人比我更熟！”
         </text>
         <usericon>2,10</usericon>
-                <text>
+        <text>
 
 
 “你做了个明智的决定！”
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+FERRYMAN
+
+"Now I am happy to ferry you across to the island. No one knows these waters as well as I do! 
+
+
+
+You have made a wise decision!"
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1306,16 +1902,28 @@ FÄHRMANN
 Ihr habt eine weise Entscheidung getroffen!" 
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-FERRYMAN
+渡船伕
 
-"Now I am happy to ferry you across to the island. No one knows these waters as well as I do! 
+“現在我樂意送你們過島。這片水域，沒人比我更熟！”
+        </text>
+        <usericon>2,10</usericon>
+        <text>
 
 
-
-You have made a wise decision!"
-</text>
+“你做了個明智的決定！”
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,10</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,10</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1331,19 +1939,30 @@ Podjęliście mądrą decyzję!"
     </block>
     <block id="17">
       <lang code="CHN">
-                <text>
+        <text>
 在这不起眼的湖泊中央，竟有一道巨大的漩涡！我们辨不清渡船夫将我们带向何方，因为在雾霭迷蒙之地，我们彻底迷失了方向……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+In the middle of the unremarkable lake there was a mighty whirlpool! We could not tell where the ferryman had brought us, for we lost all sense of direction in the misty realm...
+</text>
       </lang>
       <lang code="ger">
         <text> 
 In der Mitte des unscheinbaren Sees war ein mächtiger Strudel! Wir vermochten nicht zu sagen, wo der Fährmann uns hin brachte, denn wir verloren in den nebligen Gefilden jegliche Orientierung... 
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-In the middle of the unremarkable lake there was a mighty whirlpool! We could not tell where the ferryman had brought us, for we lost all sense of direction in the misty realm...
-</text>
+在這不起眼的湖泊中央，竟有一道巨大的漩渦！我們辨不清渡船伕將我們帶向何方，因為在霧靄迷濛之地，我們徹底迷失了方向……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1353,17 +1972,26 @@ W środku niepozornego jeziora szalał potężny wir! Nie potrafiliśmy powiedzi
     </block>
     <block id="18">
       <lang code="CHN">
-                <text>
+        <text>
 阿夸斯--水龙
 
 
         </text>
         <usericon>1,571,600</usericon>
-                <text>
+        <text>
 
 
 我们是爱好和平的龙。若你们是友，便请进来，拜会强大的阿夸里乌斯！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+AQUAS - THE WATER DRAGONS
+
+
+
+We are peace-loving dragons. Enter if you come as friends and visit the mighty Aquarius!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1376,14 +2004,28 @@ AQUAS - DIE WASSERDRACHEN
 Wir sind friedliebende Drachen. Tretet ein, wenn ihr Freund seit und besucht den mächtigen Aquarius! 
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-AQUAS - THE WATER DRAGONS
+阿誇斯--水龍
 
 
+        </text>
+        <usericon>1,571,600</usericon>
+        <text>
 
-We are peace-loving dragons. Enter if you come as friends and visit the mighty Aquarius!
-</text>
+
+我們是愛好和平的龍。若你們是友，便請進來，拜會強大的阿誇裡烏斯！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,571,600</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,571,600</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1397,17 +2039,28 @@ Jesteśmy pokojowo usposobionymi smokami. Wejdźcie, jeśli jesteście przyjaci�
     </block>
     <block id="19">
       <lang code="CHN">
-                <text>
+        <text>
 石龙的神圣殿堂
 
 玛尼与诺伯特终于获准进入石龙殿堂，来到最年长、最睿智的石龙格拉乌霍尔姆面前。
         </text>
         <usericon>1,261,241</usericon>
-                <text>
+        <text>
 
 
 他定能指引方向，引领他们的搜寻走上正途。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+THE SACRED HALLS OF THE STONE DRAGONS
+
+Now Mani and Norbert were permitted to enter the halls of the stone dragons, to stand before GRAUHOLM, the oldest and wisest of the stone dragons. 
+
+
+
+Surely he could help them further and guide their search in the right direction.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1422,16 +2075,28 @@ Nun durften Mani und Norbert die Hallen der Steindrachen beteten, um vor GRAUHOL
 Sicherlich konnte er ihnen weiterhelfen und ihre Suche in die richtige Richtung leiten.
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-THE SACRED HALLS OF THE STONE DRAGONS
+石龍的神聖殿堂
 
-Now Mani and Norbert were permitted to enter the halls of the stone dragons, to stand before GRAUHOLM, the oldest and wisest of the stone dragons. 
+瑪尼與諾伯特終於獲准進入石龍殿堂，來到最年長、最睿智的石龍格拉烏霍爾姆面前。
+        </text>
+        <usericon>1,261,241</usericon>
+        <text>
 
 
-
-Surely he could help them further and guide their search in the right direction.
-</text>
+他定能指引方向，引領他們的搜尋走上正途。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,261,241</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,261,241</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1447,19 +2112,32 @@ Z pewnością mógł im pomóc i pokierować ich poszukiwaniami w właściwym ki
     </block>
     <block id="20">
       <lang code="CHN">
-                <text>
+        <text>
 纳帕利亚人
 
 “我们的村庄染了瘟疫！不想被传染就离远点！否则我们可要动武了！”
         </text>
         <usericon>1,581,291</usericon>
-                <text>
+        <text>
 
 
 我们从未受过如此无礼的对待。莫非疾病也侵蚀了他们的神智？
 
 向纳帕利亚人进贡 25 瓶大型治疗药剂。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+NABALIANS
+
+"Our village is plagued by plague! If you do not wish to be infected, you had best stay away! Otherwise we shall use our weapons!"
+
+ 
+ 
+Never were we received so hostilely. Did the disease also afflict their minds?
+
+Deliver 25 large healing potions to the Nabalians as tribute.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1476,18 +2154,30 @@ So unfreundlich wurden wir noch nie empfangen. Ob die Krankheit auch ihren Geist
 Reiche den Napalianern 25 große Heiltränke zum Tribut.
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-NABALIANS
+納帕利亞人
 
-"Our village is plagued by plague! If you do not wish to be infected, you had best stay away! Otherwise we shall use our weapons!"
+“我們的村莊染了瘟疫！不想被傳染就離遠點！否則我們可要動武了！”
+        </text>
+        <usericon>1,581,291</usericon>
+        <text>
 
- 
- 
-Never were we received so hostilely. Did the disease also afflict their minds?
 
-Deliver 25 large healing potions to the Nabalians as tribute.
-</text>
+我們從未受過如此無禮的對待。莫非疾病也侵蝕了他們的神智？
+
+向納帕利亞人進貢 25 瓶大型治療藥劑。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,581,291</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,581,291</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1506,14 +2196,21 @@ Dostarcz Nabalianom 25 dużych mikstur leczniczych jako trybut.
     <block id="200">
       <lang code="CHN">
         <font>$local$\fonts\fonthead16bld.fnt</font>
-                <text>
+        <text>
 任务失败！
         </text>
         <font>$local$\fonts\font12.fnt</font>
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
-                <text>
+        <text>
 一时的轻率，生命便转瞬即逝！你的挚友、英雄之龙诺伯特，因你的疏忽而殒命！少了这位英雄，任务的结局将永远对你隐藏。
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+MISSION LOST!
+
+A brief moment of carelessness, so quickly it happens in life! Your friend and hero, the dragon NORBERT, perished through your inattention! Without this hero, the end of the mission will remain hidden from you.
+</text>
       </lang>
       <lang code="ger">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -1526,12 +2223,30 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
-MISSION LOST!
-
-A brief moment of carelessness, so quickly it happens in life! Your friend and hero, the dragon NORBERT, perished through your inattention! Without this hero, the end of the mission will remain hidden from you.
-</text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+一時的輕率，生命便轉瞬即逝！你的摯友、英雄之龍諾伯特，因你的疏忽而殞命！少了這位英雄，任務的結局將永遠對你隱藏。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1543,12 +2258,19 @@ Chwilka lekkomyślności, tak szybko to w życiu przychodzi! Twój przyjaciel i 
     </block>
     <block id="21">
       <lang code="CHN">
-                <text>
+        <text>
 纳帕利亚人败北！
 
 纳帕利亚人虽被击败、火龙也摆脱了威胁，可若当初本也能和平了结。毕竟他们身染疾病，所求不过是援助，纵然方式古怪……
         </text>
         <usericon>1,578,299</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+NABALIANS DEFEATED!
+
+Though the Nabalians were vanquished and the fire dragons freed from their threat, could a peaceful settlement not also have been possible? After all, they were sick and only wanted help, albeit in a peculiar way...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1559,12 +2281,21 @@ Zwar waren die Napalianer geschlagen und die Feuerdrachen von ihrer Bedrohung be
 </text>
         <usericon>1,578,299</usericon>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-NABALIANS DEFEATED!
+納帕利亞人敗北！
 
-Though the Nabalians were vanquished and the fire dragons freed from their threat, could a peaceful settlement not also have been possible? After all, they were sick and only wanted help, albeit in a peculiar way...
-</text>
+納帕利亞人雖被擊敗、火龍也擺脫了威脅，可若當初本也能和平了結。畢竟他們身染疾病，所求不過是援助，縱然方式古怪……
+        </text>
+        <usericon>1,578,299</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,578,299</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,578,299</usericon>
       </lang>
       <lang code="pol">
         <text>
@@ -1576,17 +2307,28 @@ Choć Nabalianie zostali pokonani, a smoki ognia uwolnione od ich zagrożenia, c
     </block>
     <block id="22">
       <lang code="CHN">
-                <text>
+        <text>
 各族和睦！
 
 石龙一族定会为此欣喜！如今它们必须放行玛尼与诺伯特了。这片区域的所有龙，都已与人、彼此交好。
         </text>
         <usericon>2,6</usericon>
-                <text>
+        <text>
 
 
 与玛尼和诺伯特一同前往石龙的神圣殿堂！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+PEOPLES PACIFIED!
+
+The stone dragons would rejoice at this news! Now the stone dragons would have to grant Mani and Norbert admittance. All dragons of this region had become friends with the humans and among themselves.
+ 
+
+ 
+Go with Mani and Norbert to the SACRED HALLS OF THE STONE DRAGONS!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1601,16 +2343,28 @@ VÖLKER BEFRIEDET!
 Gehe mit Mani und Norbert zu den HEILIGEN HALLEN DER STEINDRACHEN!
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-PEOPLES PACIFIED!
+各族和睦！
 
-The stone dragons would rejoice at this news! Now the stone dragons would have to grant Mani and Norbert admittance. All dragons of this region had become friends with the humans and among themselves.
- 
+石龍一族定會為此欣喜！如今它們必須放行瑪尼與諾伯特了。這片區域的所有龍，都已與人、彼此交好。
+        </text>
+        <usericon>2,6</usericon>
+        <text>
 
- 
-Go with Mani and Norbert to the SACRED HALLS OF THE STONE DRAGONS!
-</text>
+
+與瑪尼和諾伯特一同前往石龍的神聖殿堂！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,6</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,6</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1626,17 +2380,26 @@ Idź z Manim i Norbertem do ŚWIĘTYCH SAL SMOKÓW KAMIENNYCH!
     </block>
     <block id="23">
       <lang code="CHN">
-                <text>
+        <text>
 前哨站
 
 
         </text>
         <usericon>1,496,224</usericon>
-                <text>
+        <text>
 
 
 这座前哨阴森诡异！曾居于此的人们，必是出于某种缘由才离它而去……
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+OUTPOST
+
+
+
+This outpost was eerie! All the people who once lived here must have abandoned it for some reason...
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1649,14 +2412,28 @@ VORPOSTEN
 Dieser Vorposten war gespenstisch! All die Menschen die hier einmal lebten mussten ihn aus irgend einen Grund verlassen haben...
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-OUTPOST
+前哨站
 
 
+        </text>
+        <usericon>1,496,224</usericon>
+        <text>
 
-This outpost was eerie! All the people who once lived here must have abandoned it for some reason...
-</text>
+
+這座前哨陰森詭異！曾居於此的人們，必是出於某種緣由才離它而去……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,496,224</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,496,224</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1670,12 +2447,20 @@ Ta placówka była upiorna! Wszyscy ludzie, którzy tu kiedyś żyli, musieli j�
     </block>
     <block id="24">
       <lang code="CHN">
-                <text>
+        <text>
 治疗药剂已送达！
 
 “多谢你们用药剂救了我们！”纳帕利亚人朝我们喊道，并即刻改变了对待我们的外交姿态。
         </text>
         <usericon>1,581,291</usericon>
+      </lang>
+      <lang code="eng">
+        <text>
+HEALING POTIONS DELIVERED!
+
+"Thank you for saving us with your healing potions!" the Nabalians called out to us
+and immediately changed their diplomatic stance toward us.
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1687,13 +2472,21 @@ und änderten augenblicklich ihren Diplomatiestatus uns gegenüber.
 </text>
         <usericon>1,581,291</usericon>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-HEALING POTIONS DELIVERED!
+治療藥劑已送達！
 
-"Thank you for saving us with your healing potions!" the Nabalians called out to us
-and immediately changed their diplomatic stance toward us.
-</text>
+“多謝你們用藥劑救了我們！”納帕利亞人朝我們喊道，並即刻改變了對待我們的外交姿態。
+        </text>
+        <usericon>1,581,291</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,581,291</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,581,291</usericon>
       </lang>
       <lang code="pol">
         <text>
@@ -1706,17 +2499,29 @@ i natychmiast zmienili swój status dyplomatyczny wobec nas.
     </block>
     <block id="25">
       <lang code="CHN">
-                <text>
+        <text>
 商人
 
 “家兄与我，前些时日在此落脚定居。往日我曾驾船巡游四海。如今这水域水浅难行，我的船只会搁浅。”
         </text>
         <usericon>1,360,452</usericon>
-                <text>
+        <text>
 
 
 “所以我在此安顿下来，售货营生。不妨看看，可有合用的物件！我的价钱公道的！”
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+MERCHANT
+
+"My brother and I settled down here some time ago. I used to sail the seas with my ship. Today these waters are no longer deep enough and my ship would run aground."
+
+ 
+
+"That is why I settled here and offer my wares for sale. Take a look, perhaps you can use something!
+My terms are favorable!"
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1732,17 +2537,28 @@ HÄNDLER
 Meine Konditionen sind günstig!"
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-MERCHANT
+商人
 
-"My brother and I settled down here some time ago. I used to sail the seas with my ship. Today these waters are no longer deep enough and my ship would run aground."
+“家兄與我，前些時日在此落腳定居。往日我曾駕船巡遊四海。如今這水域水淺難行，我的船隻會擱淺。”
+        </text>
+        <usericon>1,360,452</usericon>
+        <text>
 
- 
 
-"That is why I settled here and offer my wares for sale. Take a look, perhaps you can use something!
-My terms are favorable!"
-</text>
+“所以我在此安頓下來，售貨營生。不妨看看，可有合用的物件！我的價錢公道的！”
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,360,452</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,360,452</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1759,11 +2575,19 @@ Moje warunki są korzystne!"
     </block>
     <block id="50_end">
       <lang code="CHN">
-                <text>
+        <text>
 玛尼与诺伯特安抚了本地的龙与人。从智慧的石龙口中，他们得知了诺伯特身世的更多线索，也明确了该去何处寻觅他的同类……他们必须向南而行！
 
 虽说玛尼与诺伯特既未寻得诺伯特的亲属，也尚未平安归返父母身边，但他们的寻觅已迈进了一大步。可那是何物？忽然，他们遭人突袭，被塞进巨大的牢笼，掳劫而去！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+Mani and Norbert had pacified the dragons and humans of the local region. From the wise stone dragons they learned more about Norbert's origin and now knew where to seek his kin... They had to go south!
+Though Mani and Norbert had found neither relatives of Norbert nor safely returned to their parents, they had advanced a great step in their search. 
+
+But what was this? Suddenly they were ambushed, locked in large cages and carried off!
+</text>
       </lang>
       <lang code="ger">
         <text> 
@@ -1773,13 +2597,18 @@ Zwar hatten Mani und Norbert weder Verwandte von Norbert gefunden, noch waren si
 Doch was war das? Plötzlich wurden sie überrumpelt, in große Käfige gesperrt und verschleppt!
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-Mani and Norbert had pacified the dragons and humans of the local region. From the wise stone dragons they learned more about Norbert's origin and now knew where to seek his kin... They had to go south!
-Though Mani and Norbert had found neither relatives of Norbert nor safely returned to their parents, they had advanced a great step in their search. 
+瑪尼與諾伯特安撫了本地的龍與人。從智慧的石龍口中，他們得知了諾伯特身世的更多線索，也明確了該去何處尋覓他的同類……他們必須向南而行！
 
-But what was this? Suddenly they were ambushed, locked in large cages and carried off!
-</text>
+雖說瑪尼與諾伯特既未尋得諾伯特的親屬，也尚未平安歸返父母身邊，但他們的尋覓已邁進了一大步。可那是何物？忽然，他們遭人突襲，被塞進巨大的牢籠，擄劫而去！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1792,19 +2621,30 @@ Ale co to? Nagle zostali zaskoczeni, zamknięci w wielkich klatkach i uprowadzen
     </block>
     <block id="50_end1">
       <lang code="CHN">
-                <text>
+        <text>
 他们思念家乡，满心恐惧，悔恨这场鲁莽的冒险。他们还能否毫发无伤地离开此地？
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+They were homesick, terribly afraid, and regretted their daring adventure. Would they ever get out of here safely?
+</text>
       </lang>
       <lang code="ger">
         <text>
 Sie hatten Heimweh, große Angst und bereuten ihr waghalsiges Abenteuer. Ob sie hier jemals wieder heil rauskommen würden?
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-They were homesick, terribly afraid, and regretted their daring adventure. Would they ever get out of here safely?
-</text>
+他們思念家鄉，滿心恐懼，悔恨這場魯莽的冒險。他們還能否毫髮無傷地離開此地？
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1814,19 +2654,30 @@ Tęsknili za domem, bardzo się bali i żałowali swojego śmiałego przygody. C
     </block>
     <block id="50_endheader">
       <lang code="CHN">
-                <text>
+        <text>
 任务成功！
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+MISSION WON!
+</text>
       </lang>
       <lang code="ger">
         <text> 
 MISSION GEWONNEN! 
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-MISSION WON!
-</text>
+任務成功！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -1836,19 +2687,30 @@ MISJA WYGRANA!
     </block>
     <block id="header">
       <lang code="CHN">
-                <text>
+        <text>
 巨龙之国大冒险
         </text>
+      </lang>
+      <lang code="eng">
+        <text>
+ADVENTURE IN DRAGON LAND
+</text>
       </lang>
       <lang code="ger">
         <text> 
 ABENTEUER IM DRACHENLAND
 </text>
       </lang>
-      <lang code="eng">
+      <lang code="l11">
         <text>
-ADVENTURE IN DRAGON LAND
-</text>
+巨龍之國大冒險
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

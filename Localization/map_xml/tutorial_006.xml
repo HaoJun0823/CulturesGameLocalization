@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,90 +14,135 @@
       <text lang="CHN">现在派 15 名平民进入兵营，训练为士兵。</text>
       <text lang="eng">Send 15 civilians to the barracks and train them to be soldiers.</text>
       <text lang="ger">Schicke nun 15 Zivilisten in die Kaserne und bilde sie zum Soldaten aus.</text>
+      <text lang="l11">現在派 15 名平民進入兵營，訓練為士兵。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wyślij 15 cywili do baraków i wytrenuj ich na żołnierzy.</text>
     </string>
     <string id="1">
       <text lang="CHN">建造一座兵营！</text>
       <text lang="eng">Build a barracks!</text>
       <text lang="ger">Baue eine Kaserne!</text>
+      <text lang="l11">建造一座兵營！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wybuduj baraki!</text>
     </string>
     <string id="2">
       <text lang="CHN">将装备物资运入兵营。</text>
       <text lang="eng">Take the equipment to the barracks.</text>
       <text lang="ger">Bringe die Ausrüstungsgegenstände in die Kaserne.</text>
+      <text lang="l11">將裝備物資運入兵營。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zabierz ekwipunek do baraków.</text>
     </string>
     <string id="3">
       <text lang="CHN">各训练 5 名木栅兵、长弓手与短剑士！</text>
       <text lang="eng">Train 5 spearmen with wooden spears, 5 longbow archers and 5 shortsword fighters!</text>
       <text lang="ger">Bilde je 5 Holzsperrträger, Langbogenschützen und Kurzschwertkämpfer aus!</text>
+      <text lang="l11">各訓練 5 名木柵兵、長弓手與短劍士！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wytrenuj 5 włóczników z drewnianymi włóczniami, 5 łuczników z długimi łukami i 5 wojowników z krótkimi mieczami!</text>
     </string>
     <string id="4">
       <text lang="CHN">建造 2 座小型哨塔！</text>
       <text lang="eng">Build 2 small defence towers!</text>
       <text lang="ger">Baue 2 kleine Wachtürme!</text>
+      <text lang="l11">建造 2 座小型哨塔！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wybuduj 2 małe wieże obronne!</text>
     </string>
     <string id="5">
       <text lang="CHN">为投石机配属士兵！</text>
       <text lang="eng">Assign soldiers to the catapults!</text>
       <text lang="ger">Weise den Katapulten Soldaten zu!</text>
+      <text lang="l11">為投石機配屬士兵！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Przydziel żołnierzy do katapult!</text>
     </string>
     <string id="6">
       <text lang="CHN">雇佣 5 名雇佣兵！</text>
       <text lang="eng">Hire 5 mercenaries!</text>
       <text lang="ger">Heuere 5 Söldner an!</text>
+      <text lang="l11">僱傭 5 名僱傭兵！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wynajmij 5 najemników!</text>
     </string>
     <string id="7">
       <text lang="CHN">@寻得制伏撒拉逊人之法！</text>
       <text lang="eng">@Find a way to master the Saracens!</text>
       <text lang="ger">@Finde einen Weg, den Sarazenen Herr zu werden!</text>
+      <text lang="l11">@尋得制伏撒拉遜人之法！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">@Znajdź sposób, by podbić Saracenów!</text>
     </string>
     <string id="8">
       <text lang="CHN">击溃撒拉逊人的前哨！</text>
       <text lang="eng">Defeat the Saracens' outpost!</text>
       <text lang="ger">Besiege den Außenposten der Sarazenen!</text>
+      <text lang="l11">擊潰撒拉遜人的前哨！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Pokonaj placówkę Saracenów!</text>
     </string>
     <string id="31">
       <text lang="CHN">向法兰克人缴纳 10 单位蘑菇，换取 5 名雇佣兵。</text>
       <text lang="eng">Pay the Franks a tribute of 10 mushrooms for 5 mercenaries.</text>
       <text lang="ger">Zahle den Franken für 5 Söldner einen Tribut von 10 Pilzen.</text>
+      <text lang="l11">向法蘭克人繳納 10 單位蘑菇，換取 5 名僱傭兵。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać Frankom trybut w wysokości 10 grzybów za 5 najemników.</text>
     </string>
     <string id="32">
       <text lang="CHN">向撒拉逊人缴纳以下贡金，以平息其敌意：</text>
       <text lang="eng">Pay the Saracens the following tribute to make them friendly:</text>
       <text lang="ger">Zahle den Sarazenen folgenden Tribut, um sie friedlich zu stimmen:</text>
+      <text lang="l11">向撒拉遜人繳納以下貢金，以平息其敵意：</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać Saracenom następny trybut, aby uczynić ich przyjaźnie nastawionymi:</text>
     </string>
     <string id="51">
       <text lang="CHN">法兰克人</text>
       <text lang="eng">Franks</text>
       <text lang="ger">Franken</text>
+      <text lang="l11">法蘭克人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Frankowie</text>
     </string>
     <string id="52">
       <text lang="CHN">撒拉逊人</text>
       <text lang="eng">Saracens</text>
       <text lang="ger">Sarazenen</text>
+      <text lang="l11">撒拉遜人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Saraceni</text>
     </string>
     <string id="98">
       <text lang="CHN">本关以若干小例，讲解各类军事单位的训练与升级，以及与异族的外交，贡金缴纳亦在其中。</text>
       <text lang="eng">This chapter will explain training and upgrades for different military units, as well as giving some examples of diplomatic negotiations with other tribes and paying tributes.</text>
       <text lang="ger">Ausbildung und Upgrade der verschiedenen militärischen Einheiten und die Diplomatie mit anderen Völkern wird anhand kleiner Beispiele erklärt. Ebenso Tributzahlung.</text>
+      <text lang="l11">本關以若干小例，講解各類軍事單位的訓練與升級，以及與異族的外交，貢金繳納亦在其中。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ten rozdział wyjaśni trening i ulepszenia dla różnych jednostek wojskowych, jak również da kilka przykładów negocjacji dyplomatycznych z innymi plemionami i płacenia trybutów.</text>
     </string>
     <string id="99">
       <text lang="CHN">6) 战斗与外交系统</text>
       <text lang="eng">6) BATTLE AND DIPLOMACY SYSTEM</text>
       <text lang="ger">6) KAMPF- UND DIPLOMATIESYSTEM</text>
+      <text lang="l11">6) 戰鬥與外交系統</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">6) WALKA I SYSTEM DYPLOMACJI </text>
     </string>
   </strings>
@@ -117,6 +165,18 @@ Any Vikings can defend themselves very well. Even women can fight off approachin
 Dein Wikingervölkchen ist aus Prinzip äußert friedliebend. Doch wenn feindliche Stämme ihnen das Leben schwer machen, wissen sie sich wohl zu wehren ...
 Grundsätzlich sind alle Wikinger verteidigungsfähig. Selbst die Frauen können sich gegen nahende Gegner mit Fausthieben zur Wehr setzen. Wenn du allerdings in Kriegshandlungen verwickelt oder von einer Übermacht angegriffen wirst, brauchst du eine schlagkräftige Truppe tapferer Helden ...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+你的維京人民族本質上是極其愛好和平的。但有時來自遠方的敵人會宣稱這片土地屬於他們，這時就必須進行防禦。
+按照給出的目標操作。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -151,6 +211,20 @@ Und das sind sie, deine Helden!
 Soldaten sind die effektive Streit- und Verteidigungsmacht deiner Wikinger. 
 Sie unterscheiden sich von der Zivilbevölkerung vor allem durch ihre Kampf- und durch ihre Vereidigungsfähigkeit und definieren sich über die Ausrüstung und ihre Erfahrung. Es gibt grundsätzlich drei Arten von Soldaten, die sich in der Effizienz ihrer Waffen unterscheiden:
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+士兵
+這些就是你的英雄！
+
+士兵是比普通維京人更強壯、更堅韌的戰士。他們可以裝備更好的武器和盔甲。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -198,6 +272,26 @@ Dies sind deine SPEERTRÄGER.
 Sie kämpfen mit einem mächtigen HOLZ- oder EISENSPEER. 
 Speerträger sind eine reine Nahkampfeinheit und am erfolgreichsten, wenn mehrere gemeinsam ein Ziel bekämpfen. Ihre Reichweite ist größer als die eines Schwertkämpfers. 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+這些是你的長矛兵。
+        </text>
+        <usericon>1,80,139</usericon>
+        <text>
+他們使用強大的木製或鐵製長矛進行戰鬥。
+長矛兵是純粹的近戰單位，當他們多兵種協同攻擊時最為有效。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,80,139</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,80,139</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -247,6 +341,25 @@ Das sind die BOGENSCHÜTZEN.
 Bogenschützen kämpfen mit Pfeil und Bogen. Sie können mit KURZBOGEN oder LANGBOGEN ausgestattet sein. Ihr Vorteil liegt in der großen Reichweite ihrer Pfeile. Deshalb sind sie effektiv, wenn sie aus sicherer Entfernung ihr Ziel bekämpfen können. Einem Nahkampf sollten sie aber besser aus dem Weg gehen. 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+這些是弓箭手。
+        </text>
+        <usericon>1,102,133</usericon>
+        <text>
+弓箭手使用弓箭進行戰鬥。他們可以配備短弓或長弓。其優勢在於遠端攻擊範圍很大，可以對遠處的敵人造成傷害。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,102,133</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,102,133</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 
@@ -294,6 +407,25 @@ Und dies sind deine SCHWERTKÄMPFER.
 Schwertkämpfer kämpfen mit einem mächtigen KURZ- oder LANGSCHWERT. Sie sind eine gefährliche und ausdauernde Nahkampfeinheit, die auch gegen feindliche Gebäude einiges ausrichten kann.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+這些是你的劍士。
+        </text>
+        <usericon>1,92,132</usericon>
+        <text>
+劍士使用強大的短劍或長劍進行戰鬥。他們是一種危險且持久的近戰單位，甚至能對抗敵方的長矛兵--尤其是在受到弓箭手支援的情況下。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,92,132</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,92,132</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 
@@ -334,6 +466,21 @@ Wenn sich deine Wikinger effektiv verteidigen müssen oder du einen Angriff plan
 
 Baue eine Kaserne!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+兵營
+
+為了讓你的維京人有效防禦，他們需要完善的訓練場所和充足的裝備。
+
+兵營提供了這樣的設施。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -376,6 +523,21 @@ Hinweis: Wenn du einen Träger, Kundschafter oder Händler rekrutieren willst, m
 
 Bringe die Ausrüstungsgegenstände in die Kaserne und bilde je 5 weitere Sperrträger, Bogenschützen und Schwertkämpfer aus! 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+幹得好！兵營已建成。
+
+現在把平民訓練成士兵吧--每位平民都需要相應
+
+的武器和盔甲才能開始訓練。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -426,6 +588,23 @@ Günstig ist es, rechtzeitig alle nötigen Ausrüstungsgegenstände (Waffen, Rü
 
 Bilde je 5 weitere Sperrträger, Bogenschützen und Schwertkämpfer aus!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>兵營的功能
+
+你可以在兵營裡生
+
+產不同的軍事單位。
+
+根據可用的資源選擇
+
+你想要生產的兵種。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -482,6 +661,23 @@ Jeder Soldat kann beliebig oft trainiert werden. Für jedes Training in der Kase
 
 Schicke nun die 15 Zivilisten in die Kaserne und bilde sie zum Soldaten aus.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>啊，還缺願
+
+意入伍的人！
+
+碰巧法蘭克人和撒拉遜人
+
+在你的營地附近紮了營。
+
+也許你可以招募他們。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -543,6 +739,23 @@ In deinem Lagerhaus neben der Kaserne sollten sich genug Rüstungen und Waffen b
 Mache damit 5 Soldaten zu Kurzschwertkämpfern, 5 zu Langbogenschützen und 5 zu Holzsperrträgern!
 </text>
       </lang>
+      <lang code="l11">
+        <text>好！你已建立了
+
+15 名士兵。
+
+但只有裝備
+
+精良、訓練有
+
+素的軍隊才能帶來勝利。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -587,6 +800,21 @@ Deine Soldaten können zu ihrem Schutz mit Rüstungen ausgestattet sein. Davon g
 Hinweis: Wird ein Soldat wieder Zivilist oder übt einen anderen Beruf aus, legt er seine Ausrüstung in der Kaserne, in Wachtürmen, in einem Lager oder in der Landschaft ab, damit sie wieder verwendet werden kann. Er kann jederzeit problemlos wieder in seinen Soldatenberuf ("Wechsle Beruf") zurückkehren, allerdings ohne Ausrüstung. 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+盔甲
+
+你可以為你計程車兵配備防具來保護他們。
+
+劍士需要鍊甲。弓箭手需要皮甲。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 ZBROJA
@@ -626,6 +854,27 @@ MISSION VERLOREN!
         <text>
 Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ohne diesen Held wäre dir in den Kampagnen das Ende verborgen geblieben und du hättest von vorne beginnen müssen! 
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>任務失敗！ 你的英雄隕落了。在真正的遊戲中，這意味著任務失敗。</text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>英勇還是魯莽？當比雅尼陣亡時，眾神也為之落淚…… 失去這位英雄，你將在戰役中無法得知結局，不得不從頭開始！</text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -679,6 +928,25 @@ Du weist einem Wikinger mit dem Aktionsbutton Fahrzeug zuweisen ein Katapult zu.
 Weise den Katapulten Soldaten zu!
 </text>
       </lang>
+      <lang code="l11">
+        <text>投石機
+
+士兵和英雄也可以使用投石機。 投石機是重型攻城武器，但只能緩慢移動。</text>
+        <usericon>1,96,154</usericon>
+        <text>你使用操作按鈕“分配載具”為一位維京人分配投石機。
+
+點選該按鈕後，可用的投石機會高亮顯示。右鍵點選投石機將其分配給選中計程車兵或英雄。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,96,154</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,96,154</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 KATAPULTY 
@@ -722,6 +990,19 @@ Die bisher friedlichen Sarazenen haben einen Außenposten von dir angegriffen. W
 
 Dränge die Sarazenen zurück!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>哎呀！
+
+那些一直和平的撒拉遜人偷襲了你的營地！
+
+立即進行反擊！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -773,6 +1054,23 @@ Bei einem einzelnen Soldaten öffnest du das Aktionsmenü wie gewohnt. Hast du j
 
 Klickst du mit der rechten Maustaste auf einen Feind oder ein feindliches Gebäude, werden die selektierten Soldaten den Feind bzw. das Gebäude angreifen. Beachte: um jemanden als Feind zu erkennen, muss dein Diplomatiestatus ihm gegenüber zuerst auf feindlich gestellt sein, sonst werden deine Soldaten ihn auch nicht angreifen.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>士兵編組與攻擊
+
+選中多個士兵的方式與普通維京人一樣。
+
+雙擊一個士兵可以選擇所有同型別計程車兵。
+
+要發起攻擊，只需選擇你的
+
+士兵，然後點選敵人即可。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -844,6 +1142,27 @@ Verbiete Regeneration: Mit dieser Funktion wird ein Soldat weder essen noch schl
 Hinweis:
 Mit dem Aktionsbutton: Arbeitsplatz zuweisen kannst du Soldaten in eine Kaserne schicken oder Bogenschützen in einem Verteidigungsturm oder Hauptlager postieren. Sie werden dann dieses Gebäude im Falle eines Angriffs verteidigen. Anstatt den Button zu benutzen, kannst du auch direkt mit Klick der rechten Maustaste auf das entsprechende Gebäude einen selektierten Soldaten in ein Gebäude schicken.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>士兵模式
+
+攻擊模式：士兵只攻擊面前之敵。
+
+防禦模式：士兵會攻擊任何接近的敵人。
+
+在防禦模式下，士兵會主動追擊進入警戒範圍的敵人。
+
+右鍵點選士兵可切換攻擊與防禦模式。
+
+模式圖示會顯示在士兵上方--紅色為攻擊，藍色為防禦。
+
+合理運用模式切換是在戰場上取勝的關鍵。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -920,6 +1239,27 @@ WÄLLE sind nicht nur gut gegen Angreifer, auch sind sie ein wirksamer Schutz ge
 Baue also am besten hier 2 Wachtürme! Finde eine Lösung den Sarazenen Herr zu werden.
 </text>
       </lang>
+      <lang code="l11">
+        <text>太棒了！
+
+你奪回了前哨站。
+
+但不幸的是，你不知道南方的撒拉森村莊會如何反應。
+
+他們可能會集結部隊發動反擊。
+
+也可能選擇與你談判。
+
+密切觀察他們的動向。
+
+做好萬全準備--戰爭還是和平，全在你的掌握之中。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 
@@ -984,6 +1324,23 @@ Hast du die geforderten Waren in deinem Lagergebäuden, kannst du den entspreche
 Heuere 5 Söldner von den Franken an!
 </text>
       </lang>
+      <lang code="l11">
+        <text>為了安全起見
+
+，你也可以請
+
+求友好民族的
+
+援助，他們會
+
+在戰鬥中支援你。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 
@@ -1032,6 +1389,23 @@ Und schon ist deine Armee um einige tapfere Krieger gewachsen!
 
 Heuere, wenn du willst, weitere 5 Söldner von den  Franken an!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+僱傭兵
+
+你的軍隊又增加了一些勇敢的戰士！
+
+你還可以透過僱傭兵來進一步招募士兵。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1086,6 +1460,23 @@ Neutral bedeutet, dass jeder zufrieden vor sich hin lebt. Ohne Streit und Hände
 Diplomatiezustände kannst du nur zu Völkern einstellen, die du auch schon entdeckt hast. Klicke dazu auf den Farbbutton des jeweiligen Volkes und stelle deine Sichtwiese ein oder bezahle einen Tribut. 
 </text>
       </lang>
+      <lang code="l11">
+        <text>外交（F5）
+
+開啟外交視窗時，會顯示一份
+
+關於各民族之間關係的概覽。
+
+在這裡，你可以
+
+結成聯盟或宣戰。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 
@@ -1138,6 +1529,21 @@ Hast du alle geforderten Waren in deinen Lagergebäuden, kannst du den entsprech
 Zahle den geforderten Tribut, um die Sarazenen freundlich zu stimmen, oder besiege sie im Kampf!
 </text>
       </lang>
+      <lang code="l11">
+        <text>進貢
+
+如果某部落對你懷有敵意或保持中立，透過進貢可能改變他們的態度。
+
+開啟外交官選單檢視是否可行。
+
+你也可以索要貢品，但需謹慎--這可能會激怒對方。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 
@@ -1180,6 +1586,19 @@ Sowohl im Finden von friedlichen Lösungen als auch in kämpferischen Auseinande
 Auf zum nächsten Tutorial!
 </text>
       </lang>
+      <lang code="l11">
+        <text>太棒了！
+
+無論是尋求和平方案還是戰鬥對抗，你都已經掌握了要領！
+
+繼續下一課吧！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 
@@ -1219,6 +1638,19 @@ In kämpferischen Auseinandersetzungen erfüllst du die besten Vorausstetzungen!
 Auf zum nächsten Tutorial!
 </text>
       </lang>
+      <lang code="l11">
+        <text>太棒了！
+
+在戰鬥中你展現了過人的能力！至於和平解決之道，我們還需多加磨練……;0)
+
+繼續下一課吧！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 
@@ -1245,6 +1677,17 @@ BATTLE AND DIPLOMACY SYSTEM
         <text> 
 KAMPF- UND DIPLOMATIESYSTEM
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+戰鬥與外交系統--組建軍隊進行征服
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 

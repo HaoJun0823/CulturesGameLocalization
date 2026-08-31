@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,24 +14,36 @@
       <text lang="CHN">击杀那可怖的怪物，但须提防周围的群狼！</text>
       <text lang="eng">Kill the dreadful monster, but beware of the wolves!</text>
       <text lang="ger">Töte das grauenhafte Monster, doch hüte dich vor den Wölfen!</text>
+      <text lang="l11">擊殺那可怖的怪物，但須提防周圍的群狼！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zabij strasznego potwora, ale strzeż się wilków!</text>
     </string>
     <string id="99">
       <text lang="CHN">意大利 - 支线</text>
       <text lang="eng">ITALY - Sub</text>
       <text lang="ger">ITALIEN - Sub</text>
+      <text lang="l11">義大利 - 支線</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">ITALIA - zadanie dodatkowe</text>
     </string>
     <string id="101">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="102">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="l11">西格德</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Sigurd</text>
     </string>
   </strings>
@@ -67,6 +82,31 @@ MISSION VERLOREN!
 Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ihr Ende war besiegelt und mit ihnen das Ende der Welt der Menschen.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+英雄氣概，還是魯莽輕率？當比雅尼倒下，諸神也在慟哭……他們的命運已定，人類的末日隨之降臨。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -101,6 +141,19 @@ Wir hatten ein unscheinbares Amulett mit seltsamen Zeichen darauf gefunden. Ein 
 Das musste hohe Magie sein!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+我們尋得一枚不起眼的護符，其上刻著奇異紋樣，隱隱透出詭譎微光。
+
+那必是至高魔法無疑！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 Znaleźliśmy trudny do opisania, emanujący jakąś energią amulet z dziwną inskrypcją.
@@ -131,6 +184,19 @@ Eine seltsame Flasche mit einem übelriechenden Trank war uns in die Hände gefa
 Es konnte sich nur um einen magischen Trank handeln!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+一隻怪味撲鼻的奇異瓶子落入我們手中。
+
+這定是魔法藥劑無疑！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 Wpadła nam w ręce dziwna flasza wypełniona straszliwie śmierdzącym płynem.
@@ -154,6 +220,17 @@ We had found one of the magic weapons our sagas mentioned. Used correctly, it wo
         <text>
 Wir hatten eine der magischen Waffen gefunden, von denn unsere Sagen erzählten. Richtig eingesetzt, konnte sie uns im Kampf von großem Nutzen sein.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+我們找到了傳說中吟遊詩人傳唱的魔法兵器之一。若用之得法，它能在戰鬥中助我們大忙。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -197,6 +274,23 @@ Obwohl ihm die Zähne klapperten vor Angst, bestand er darauf mich zu begleiten,
 Suche das Monster im Labyrinth und stelle dich ihm!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+當我攀下深淵之口，很快便尋到聲響的源頭！洞口近旁蜷著一名全副武裝的巨漢，臉上寫滿驚怖。
+
+他聲音發顫地警告我："洞穴深處盤踞著一頭邪惡可怖的怪物，乃我屠龍生涯中所見最駭人之物！它猙獰不堪，任誰瞥見都要魂飛魄散！"
+
+雖則牙齒打顫，當我憂心忡忡繼續前行時，他仍執意相隨……
+
+在迷宮中尋得怪物，與之決戰！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 Ledwo zagłębiłem się nieco w jaskinie, gdy odkryłem źródło słyszalnych aż na powierzchni upiornych dźwięków. W pobliżu przejścia tulił się do ściany uzbrojony po zęby wojownik olbrzymiej postury. Z każdego elementu jego osoby emanowało zwierzęce wręcz przerażenie.
@@ -238,6 +332,21 @@ Dies musste das Ungeheuer sein, vor dem sich die Einwohner der Frankenstadt für
 Ein KANINCHEN mit feuerroten, blutunterlaufenen Augen starrte uns an!!!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+這必是法蘭克人恐懼的那頭怪物無疑！
+
+……
+
+一隻雙眼赤紅、佈滿血絲的兔子死死瞪著我們！！！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 I to tego potwora tak się bali wszyscy Frankowie?!?!
@@ -267,6 +376,17 @@ THE MONSTER'S DEN
 DIE MONSTERHÖHLE
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+怪物洞穴
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -309,6 +429,31 @@ MISSION VERLOREN!
         <text>
 Ein kleiner Moment des Leichtsinns - so schnell kommt es im Leben! Einer der Helden aus der Prophezeiung erlag durch deine Unachtsamkeit! Die Welt ist verloren!
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+一時的疏忽，便釀成千古恨！預言中的一位英雄因你的輕率而殞命，世界就此傾覆！
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -370,6 +515,34 @@ Am Abend, als die Methumpen kreisten, erzählte ich ihm von unserer Mission. Sof
 
 Ich kniff die Augen zusammen und betrachtete ihn im Flammenschein genauer - ER WAR ES! Er war einer der Helden, die ich in meiner Vision gesehen hatte!
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務成功！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+法蘭克人聞之色變的那頭巨獸，終被斬除！
+
+鎮民們如今方能安眠。我向那位臨危顯出真英雄本色的法蘭克人致謝，並邀他來到我們的村莊。
+
+入夜篝火升騰，我向他道出我們的使命。他頓時熱血沸騰，執意隨行--畢竟他可是貨真價實的屠龍者！
+
+我眯起眼，藉著火光將他細看--果然是他！他正是我在幻象中見過的英雄之一！
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>

@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,48 +14,72 @@
       <text lang="CHN">解答神谕者的谜题，直抵沙漠神殿最隐秘的宝藏。</text>
       <text lang="eng">Answer the oracle's questions and proceed to the secret treasure in the desert temple.</text>
       <text lang="ger">Löse die Fragen des Orakels und dringe bis zum geheimsten Schatz des Wüstentempels vor.</text>
+      <text lang="l11">解答神諭者的謎題，直抵沙漠神殿最隱秘的寶藏。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Odpowiedz na pytania wyroczni i dotrzyj do skarbu ukrytego w pustynnej świątyni.</text>
     </string>
     <string id="51">
       <text lang="CHN">蛇卫</text>
       <text lang="eng">Serpent Guard</text>
       <text lang="ger">Schlangenwächter</text>
+      <text lang="l11">蛇衛</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wężowy strażnik</text>
     </string>
     <string id="52">
       <text lang="CHN">蛇卫</text>
       <text lang="eng">Serpent Guard</text>
       <text lang="ger">Schlangenwächter</text>
+      <text lang="l11">蛇衛</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wężowy strażnik</text>
     </string>
     <string id="99">
       <text lang="CHN">巴格达 - 支线</text>
       <text lang="eng">BAGHDAD - Sub</text>
       <text lang="ger">BAGDAD - Sub</text>
+      <text lang="l11">巴格達 - 支線</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">BAGDAD - zadanie dodatkowe</text>
     </string>
     <string id="101">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="102">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="l11">西格德</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Sigurd</text>
     </string>
     <string id="103">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="l11">希拉</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Cyra</text>
     </string>
     <string id="104">
       <text lang="CHN">哈奇</text>
       <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
+      <text lang="l11">哈奇</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hatchie</text>
     </string>
   </strings>
@@ -90,6 +117,31 @@ MISSION VERLOREN!
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Held Sigurd aus der Prophezeiung erlag durch deine Unachtsamkeit! Die Welt ist verloren.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+片刻的疏忽，人生便如此急轉直下！預言中的英雄西格德因你的大意而隕落！世界已淪喪。
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -141,6 +193,35 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin Cyra aus der Prophezeiung erlag durch deine Unachtsamkeit! Die Welt ist verloren.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+一時的疏忽，便釀成千古恨！預言中的女英雄希拉因你的輕率而殞命。世界就此傾覆。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -190,6 +271,35 @@ MISSION VERLOREN!
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Held Hatschi aus der Prophezeiung erlag durch deine Unachtsamkeit! Die Welt ist verloren.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+一時的疏忽，便釀成千古恨！預言中的英雄哈奇因你的輕率而殞命。世界就此傾覆。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -241,6 +351,35 @@ MISSION VERLOREN!
 Heldenmut oder Leichtsinn? Als Bjarni starb, weinten die Götter... Ihr Ende war besiegelt und mit ihnen das Ende der Welt der Menschen.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+英雄氣概，還是魯莽輕率？當比雅尼倒下，諸神也在慟哭……他們的命運已定，人類的末日隨之降臨。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -271,6 +410,19 @@ Heroizm czy głupota? Bjarni zginął, a bogowie płaczą... Ich los jest już p
 "Hier siehst du Schalter A"
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+"此乃開關甲。"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 "Przełącznik A."
@@ -295,6 +447,19 @@ Heroizm czy głupota? Bjarni zginął, a bogowie płaczą... Ich los jest już p
 "Hier siehst du Schalter B"
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+"此乃開關乙。"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 "Przełącznik B."
@@ -318,6 +483,19 @@ Heroizm czy głupota? Bjarni zginął, a bogowie płaczą... Ich los jest już p
         <text>
 "Hier siehst du Schalter C"
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+"此乃開關丙。"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -348,6 +526,21 @@ Falsch!
 
 Du hast dem Orakel falsch geantwortet! Mit jeder falschen Antwort wird es schwieriger für dich zu bestehen!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+錯了！
+
+你答錯了神諭！每錯一答，通關便更難！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -389,6 +582,24 @@ A) Rot ...äh... nein Grün... nein BLAU!
 B) Rotzgelb
 C) Popelgrün... oder doch Schimmelblau?
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+"第一問：
+你最愛的顏色是？"
+
+A) 紅……呃……不，綠……不，藍！
+B) 鼻涕黃
+C) 鼻屎綠……還是黴藍？
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -434,6 +645,24 @@ B) Federn
 C) Eisen
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+"第二問：
+何者更重：一磅羽毛，或一磅鐵？"
+
+A) 不知，大概是一樣重！
+B) 羽毛
+C) 鐵
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 "Drugie pytanie:
@@ -477,6 +706,24 @@ A) Der Kalif von Bagdad
 B) Der Kaiser von Byzanz
 C) Der König von Frankreich
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+"第三問：
+法蘭克王比拜占庭皇帝更貧。巴格達哈里發比法蘭克王更富。拜占庭皇帝與巴格達哈里發一樣富。誰最貧？"
+
+A) 巴格達哈里發
+B) 拜占庭皇帝
+C) 法蘭克王
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -522,6 +769,24 @@ B) Der Kundschafter
 C) Der Schmied
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+"第四問：
+斥候快於鐵匠。鐵匠慢於農夫。斥候慢於農夫。誰最快？"
+
+A) 農夫
+B) 斥候
+C) 鐵匠
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 "Czwarte pytanie:
@@ -565,6 +830,24 @@ A) Am Nordpol
 B) Am Südpol
 C) Am Äquator
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+"第五問：
+你於異邦建總部，其中所有窗皆朝北。你在何處？"
+
+A) 北極
+B) 南極
+C) 赤道
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -610,6 +893,24 @@ B) Bjarnis Socken
 C) Ein Erdloch
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+"第六問：
+此為何物：添之則小，減之則大！"
+
+A) 一杯蜜酒
+B) 比雅尼的襪子
+C) 一個土坑
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 "Szóste pytanie:
@@ -654,6 +955,24 @@ B) Ich bin Bjarnis Sohn
 C) Ich bin Bjarnis Vater
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+"第七問：
+若比雅尼之子乃我父之子，我者何人？"
+
+A) 我是比雅尼
+B) 我是比雅尼之子
+C) 我是比雅尼之父
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 "Siódme pytanie:
@@ -686,6 +1005,19 @@ THE ORACLE
 DAS ORAKEL
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+神諭
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -725,6 +1057,23 @@ There are 3 answers to every question. Answer me by activating the corresponding
 Auf jede Frage gibt es 3 Antworten. Antworte mir, indem du den entsprechenden Schalter betätigst! Merke dir die Symbole gut, ich erkläre es dir nur ein einziges Mal!" 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+"來者何人？"一聲如自巖中轟鳴的巨響。
+
+"不速之徒！我是沙漠神廟之神諭！想過我這一關，須答七問，並敗我蛇衛！
+
+每問有三答。扳動相應之開關以作答！謹記符號，我僅解說這一次！"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 "Kto tam?" zagrzmiał głos wydający wydobywać się z kamiennych ścian.
@@ -759,6 +1108,21 @@ Richtig!
 Das Orakel ist mit deiner Antwort zufrieden. Einer der Wächter verschwindet!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+對了！
+
+神諭對你的回答感到滿意。一名守衛消失了！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 Dobrze!
@@ -784,6 +1148,19 @@ You must leave the button, or the oracle will remain silent!
         <text>
 Du musst von den Schaltern herunter gehen, sonst schweigt das Orakel!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+你必須離開開關，否則神諭將沉默！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -820,6 +1197,23 @@ Dann, am Fuße einer Treppe, fanden wir eine alte, verwitterte Inschrift, die un
 
 Wir waren nun im innersten Bereich des Tempels, der bewacht wurde von uralten Tempelwächtern. Bestehen würden wir nur, wenn wir uns einem Orakel stellen würden. Nur wer sich hier als ebenso klug wie mutig erwies, würde den letzten Preis erringen...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+我們愈深入寶藏神廟的幽暗，直至哈奇尋得一支舊火炬並點燃。
+
+繼而，在梯腳我們發現一段風化古銘，由我們本地的友人譯出：
+
+我們已至神廟最深處，由遠古殿衛把守。唯直面神諭方能過關。在此處既顯智勇者，方得最後之賞……
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -886,6 +1280,39 @@ Groß war unsere Freude, als wir es endlich in Händen hielten. Der Kalif hingeg
 
 Hatschi bot sich an, uns dabei zu helfen...
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+任務成功！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+
+憑勇智我們克服了可怖的守門者，直入被詛咒沙漠神廟的最深處。
+
+一小室中，我們撞見一口遠古箱匣。蓋吱呀緩啟。我們探頭細看，呼吸為之一窒：
+那裡既無奇物，亦無魔法珍寶……塵埃覆蓋的箱底，靜臥著我們遍尋半世所得的第三塊地圖碎片，它勝過一切瑰寶！
+
+當它終入手，我們喜不自勝。若空手回見哈里發，他必不悅。我們遂取了碎片，以最快之路離此國境。
+
+哈奇自請助我們一臂……
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>

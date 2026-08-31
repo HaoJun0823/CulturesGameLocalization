@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,102 +14,153 @@
       <text lang="CHN">合作：黑暗城堡</text>
       <text lang="eng">CO-OP: THE DARK CASTLE</text>
       <text lang="ger">COOP: DIE DUNKLE BURG</text>
+      <text lang="l11">合作：黑暗城堡</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">SPECJALNA: FORTECA</text>
     </string>
     <string id="1">
       <text lang="CHN">4 个维京部族及其盟友，共同对抗黑暗城堡的爪牙。</text>
       <text lang="eng">4 Viking tribes and their allies fight the henchmen of the sinister castle.</text>
       <text lang="ger">4 Wikingerstämme und deren Verbündete kämpfen gegen die Schergen der finsteren Burg.</text>
+      <text lang="l11">4 個維京部族及其盟友，共同對抗黑暗城堡的爪牙。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">4 plemiona Wikingów i ich sojusznicy walczą przeciwko siepaczom z fortecy.</text>
     </string>
     <string id="2">
       <text lang="CHN">寻找盟友，摧毁黑暗城堡，将维京人从压迫者手中解放！</text>
       <text lang="eng">Find allies and destroy the castle to free the Vikings from their oppressors!</text>
       <text lang="ger">Suche dir Verbündete und zerstöre die dunkle Burg, um die Wikinger von ihren Unterdrückern zu befreien!</text>
+      <text lang="l11">尋找盟友，摧毀黑暗城堡，將維京人從壓迫者手中解放！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Poszukaj sojuszników i zniszcz fortecę, aby uwolnić Wikingów od ciemiężycieli!</text>
     </string>
     <string id="10">
       <text lang="CHN">格陵兰人</text>
       <text lang="eng">Grasslanders</text>
       <text lang="ger">Grünländer</text>
+      <text lang="l11">格陵蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mieszkańcy Zielonego Kraju</text>
     </string>
     <string id="11">
       <text lang="CHN">格陵</text>
       <text lang="eng">Grass</text>
       <text lang="ger">Grün</text>
+      <text lang="l11">格陵</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ziel</text>
     </string>
     <string id="20">
       <text lang="CHN">文兰人</text>
       <text lang="eng">Vinlanders</text>
       <text lang="ger">Vinländer</text>
+      <text lang="l11">文蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mieszkańcy Winnlandu</text>
     </string>
     <string id="21">
       <text lang="CHN">文兰</text>
       <text lang="eng">Vin</text>
       <text lang="ger">Vin</text>
+      <text lang="l11">文蘭</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Winn</text>
     </string>
     <string id="30">
       <text lang="CHN">海卢兰人</text>
       <text lang="eng">Hellulanders</text>
       <text lang="ger">Helluländer</text>
+      <text lang="l11">海盧蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mieszkańcy Hellulandu</text>
     </string>
     <string id="31">
       <text lang="CHN">海卢</text>
       <text lang="eng">Hellu</text>
       <text lang="ger">Hellu</text>
+      <text lang="l11">海盧</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hellu</text>
     </string>
     <string id="40">
       <text lang="CHN">马克兰人</text>
       <text lang="eng">Marklanders</text>
       <text lang="ger">Markländer</text>
+      <text lang="l11">馬克蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mieszkańcy Marklandu</text>
     </string>
     <string id="41">
       <text lang="CHN">马克</text>
       <text lang="eng">Mark</text>
       <text lang="ger">Mark</text>
+      <text lang="l11">馬克</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mark</text>
     </string>
     <string id="50">
       <text lang="CHN">普拉特兰人</text>
       <text lang="eng">Flatlanders</text>
       <text lang="ger">Plattländer</text>
+      <text lang="l11">普拉特蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mieszkańcy równiny</text>
     </string>
     <string id="51">
       <text lang="CHN">普拉特</text>
       <text lang="eng">Flat</text>
       <text lang="ger">Platt</text>
+      <text lang="l11">普拉特</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Równ</text>
     </string>
     <string id="60">
       <text lang="CHN">高地人</text>
       <text lang="eng">Highlanders</text>
       <text lang="ger">Highländer</text>
+      <text lang="l11">高地人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Górale</text>
     </string>
     <string id="61">
       <text lang="CHN">高地</text>
       <text lang="eng">High</text>
       <text lang="ger">High</text>
+      <text lang="l11">高地</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gór</text>
     </string>
     <string id="70">
       <text lang="CHN">暗境人</text>
       <text lang="eng">Darklanders</text>
       <text lang="ger">Dunkelländer</text>
+      <text lang="l11">暗境人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mieszkańcy Krainy Ciemności</text>
     </string>
     <string id="71">
       <text lang="CHN">暗境</text>
       <text lang="eng">Dark</text>
       <text lang="ger">Dunkel</text>
+      <text lang="l11">暗境</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ciemn</text>
     </string>
   </strings>
@@ -148,6 +202,23 @@ Wenn du einem Partner ein paar Wikinger überlassen möchtest, schicke sie zur h
 
 Ein Hinweis an den tapferen Krieger: Es befinden sich einige Briefe für Gebäude in deinem Besitz, nutze sie schnell und weise!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+對維京人而言，這是個暗無天日的年代……
+
+這片土地上還有其他部族，也深受其苦。
+
+若你想分幾個維京人給同伴，只需將他們就近交付便可。
+
+給勇敢戰士的一點提示：你行囊中已備有幾封書信。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -193,6 +264,21 @@ Die Dunkle Burg ist gefallen!
 Nun kann Frieden einziehen, und die Stämme, die Seite an Seite gekämpft haben, können in Friedenszeiten hervorragende Beziehungen aufbauen!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+恭喜！
+
+黑暗城堡已被攻陷！
+
+如今和平可期，並肩作戰的部族們終得安享寧靜。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -223,6 +309,17 @@ THE DARK CASTLE
 DIE DUNKLE BURG
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+黑暗城堡
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,54 +14,81 @@
       <text lang="CHN">军事：合作</text>
       <text lang="eng">Military: CO-OP</text>
       <text lang="ger">Militär: COOP</text>
+      <text lang="l11">軍事：合作</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Walka: POROZUMIENIE</text>
     </string>
     <string id="1">
       <text lang="CHN">2 名玩家：与同伴一道对抗北方强敌！</text>
       <text lang="eng">2 players: Fight with your partner against a powerful enemy in the north!</text>
       <text lang="ger">2 Spieler: Kämpfe mit deinem Partner gegen einen mächtigen Feind im Norden!</text>
+      <text lang="l11">2 名玩家：與同伴一道對抗北方強敵！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">2 graczy: wraz z sąsiadem pokonaj potężnego wroga z północy!</text>
     </string>
     <string id="2">
       <text lang="CHN">建起你的聚落并加以巩固。若自觉能守住村寨，便尝试与邻邦携手，共灭此敌！</text>
       <text lang="eng">Build up your settlement and fortify it. Try to destroy your enemy together with your neighbouring tribe as soon as your village seems strong enough!</text>
       <text lang="ger">Baue deine Siedlung auf und befestige sie. Versuche, gemeinsam mit deinem Nachbarstamm den Gegner zu vernichten, wenn du meinst, dein Dorf verteidigen zu können!</text>
+      <text lang="l11">建起你的聚落並加以鞏固。若自覺能守住村寨，便嘗試與鄰邦攜手，共滅此敵！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Załóż osadę, ufortyfikuj ją i jak najszybciej postaraj się pokonać wroga przy wsparciu sąsiada.</text>
     </string>
     <string id="10">
       <text lang="CHN">格陵兰人</text>
       <text lang="eng">Greenlander</text>
       <text lang="ger">Grönländer</text>
+      <text lang="l11">格陵蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Grenlandczyk</text>
     </string>
     <string id="11">
       <text lang="CHN">格陵兰人</text>
       <text lang="eng">Greenlander</text>
       <text lang="ger">Grönländer</text>
+      <text lang="l11">格陵蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Grenlandczyk</text>
     </string>
     <string id="20">
       <text lang="CHN">文兰人</text>
       <text lang="eng">Vinlander</text>
       <text lang="ger">Vinländer</text>
+      <text lang="l11">文蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Winlandczyk</text>
     </string>
     <string id="21">
       <text lang="CHN">文兰人</text>
       <text lang="eng">Vinlander</text>
       <text lang="ger">Vinländer</text>
+      <text lang="l11">文蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Winlandczyk</text>
     </string>
     <string id="30">
       <text lang="CHN">海卢兰人</text>
       <text lang="eng">Hellulander</text>
       <text lang="ger">Helluländer</text>
+      <text lang="l11">海盧蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hellulandczyk</text>
     </string>
     <string id="31">
       <text lang="CHN">海卢兰人</text>
       <text lang="eng">Hellulander</text>
       <text lang="ger">Helluländer</text>
+      <text lang="l11">海盧蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hellulandczyk</text>
     </string>
   </strings>
@@ -103,6 +133,23 @@ Hinweis:
 Du bist bereits von Beginn an im Besitz wertvoller Schriftrollen! Nutze sie geschickt, um dein Dorf aufzubauen.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+在維京人的土地上，兩個部族聯手後逐漸坐大，儼然一方霸主。
+
+所幸你還有個鄰居，與你同歷此險，正可互為臂助。
+
+同心協力，你們或許能在戰鬥中站穩腳跟……
+
+提示：開局起你便坐擁一批寶貴資源。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 W krainie Wikingów dwa potężne plemiona połączyły swe siły, zakładając wspólnie ogromną osadę wojowników.
@@ -137,6 +184,17 @@ CO-OP
 COOP
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+合作
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

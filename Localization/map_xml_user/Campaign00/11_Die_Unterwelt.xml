@@ -1,58 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="11_Die_Unterwelt" export_map_id="11_Die_Unterwelt" map_md5="1a0c7392fbbfd8c3ba4171ce0ca0b947" IsC2M="true">
+<localization version="1.3" map_id="11_Die_Unterwelt" export_map_id="11_Die_Unterwelt" map_md5="1a0c7392fbbfd8c3ba4171ce0ca0b947" IsC2M="true" deprecated="false">
   <languages>
-    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">地下世界</text>
-      <text lang="ger">Die Unterwelt</text>
       <text lang="eng">The Underworld</text>
+      <text lang="ger">Die Unterwelt</text>
+      <text lang="l11">地下世界</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Podziemie</text>
     </string>
     <string id="1">
       <text lang="CHN">我们抵达了地下世界。这里究竟会有什么在等着我们呢？</text>
-      <text lang="ger">Wir waren in der Unterwelt angekommen. Was würde und hier nur erwarten?</text>
       <text lang="eng">We had arrived in the underworld. What could await us here?</text>
+      <text lang="ger">Wir waren in der Unterwelt angekommen. Was würde und hier nur erwarten?</text>
+      <text lang="l11">我們抵達了地下世界。這裡究竟會有什麼在等著我們呢？</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Dotarliśmy do podziemia. Co mogło nas tu czekać?</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
-      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得友好。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
-      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得中立。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
-      <text lang="ger">Spieler0</text>
       <text lang="eng">Player0</text>
+      <text lang="ger">Spieler0</text>
+      <text lang="l11">玩家0</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
-      <text lang="ger">Spieler1</text>
       <text lang="eng">Player1</text>
+      <text lang="ger">Spieler1</text>
+      <text lang="l11">玩家1</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
-      <text lang="ger">Spieler2</text>
       <text lang="eng">Player2</text>
+      <text lang="ger">Spieler2</text>
+      <text lang="l11">玩家2</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz2</text>
     </string>
     <string id="53">
       <text lang="CHN">玩家3</text>
-      <text lang="ger">Spieler3</text>
       <text lang="eng">Player3</text>
+      <text lang="ger">Spieler3</text>
+      <text lang="l11">玩家3</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz3</text>
     </string>
   </strings>
@@ -61,16 +88,25 @@
       <lang code="CHN">
         <text>宝箱！？！嗯，里面究竟会装着什么呢？？</text>
       </lang>
+      <lang code="eng">
+        <text>
+Treasure chests!?! Hmm, what might be inside them??
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Schatztruhen !?! Hmm, was mochte dort nur drin sein??
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Treasure chests!?! Hmm, what might be inside them??
-</text>
+      <lang code="l11">
+        <text>寶箱！？！嗯，裡面究竟會裝著什麼呢？？</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -82,16 +118,25 @@ Skrzynie ze skarbami!?! Hmm, co może w nich być??
       <lang code="CHN">
         <text>嗯，从这里往前似乎再也找不到能吃的东西了。我们打算先回去酿些营养药水……</text>
       </lang>
+      <lang code="eng">
+        <text>
+Hmm, from here on there seemed to be nothing more edible. We wanted to first go back and make food potions....
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Hmm, ab hier schien es wohl nichts essbares mehr zu geben. Wir wollten erstmal zurück um Nahrungstränke herzustellen....
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Hmm, from here on there seemed to be nothing more edible. We wanted to first go back and make food potions....
-</text>
+      <lang code="l11">
+        <text>嗯，從這裡往前似乎再也找不到能吃的東西了。我們打算先回去釀些營養藥水……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -104,6 +149,12 @@ Hmm, od tego miejsca wyglądało, że nie ma nic do zjedzenia. Chcieliśmy wróc
         <text>你失败了！！
 要不去玩一局大富翁吧。</text>
       </lang>
+      <lang code="eng">
+        <text>
+You lost!!
+Try a game of Monopoly instead.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Du hast verloren !!
@@ -111,11 +162,15 @@ Versuchs doch mal mit einer Partie Monopoly.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-You lost!!
-Try a game of Monopoly instead.
-</text>
+      <lang code="l11">
+        <text>你失敗了！！
+要不去玩一局大富翁吧。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -128,16 +183,25 @@ Spróbuj zamiast tego partie Monopoly.
       <lang code="CHN">
         <text>任务失败！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission verloren!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission lost!
-</text>
+      <lang code="l11">
+        <text>任務失敗！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -149,16 +213,25 @@ Misja przegrana!
       <lang code="CHN">
         <text>我们诅咒你们。愿黑暗之蛇将你们毁灭。</text>
       </lang>
+      <lang code="eng">
+        <text>
+We curse you. May the snakes of darkness destroy you.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Wir verfluchen Euch.Mögen die Schlangen der Finsternis Euch vernichten.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-We curse you. May the snakes of darkness destroy you.
-</text>
+      <lang code="l11">
+        <text>我們詛咒你們。願黑暗之蛇將你們毀滅。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -170,16 +243,25 @@ My was przekłanamy. Niech zniszczą was węże ciemności.
       <lang code="CHN">
         <text>守门者也被消灭了。如今我们可以踏入那道门了。</text>
       </lang>
+      <lang code="eng">
+        <text>
+The gatekeepers were also destroyed. Now we could enter the gate.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Die Torwächter waren auch vernichtet.Nun konnten wir das Tor betreten.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-The gatekeepers were also destroyed. Now we could enter the gate.
-</text>
+      <lang code="l11">
+        <text>守門者也被消滅了。如今我們可以踏入那道門了。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -191,16 +273,25 @@ Strażnicy bramy też zostali zniszczone. Teraz mogliśmy wejść przez bramę.
       <lang code="CHN">
         <text>嘶嘶、咝咝、吐信……我们一句也没听懂。这该不会又是一句诅咒吧？</text>
       </lang>
+      <lang code="eng">
+        <text>
+Ssss, hiss, flicker... We couldn't understand anything. Was that meant to be a curse again?
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Zisch,Pfeiff,Züngel...Wir verstanden nur Bahnhof.Sollte das wieder ein Fluch gewesen sein?
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Ssss, hiss, flicker... We couldn't understand anything. Was that meant to be a curse again?
-</text>
+      <lang code="l11">
+        <text>嘶嘶、噝噝、吐信……我們一句也沒聽懂。這該不會又是一句詛咒吧？</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -212,16 +303,25 @@ Sss, sycz, mlaszcz... nie rozumieliśmy nic. Czy to znów była przeklina?
       <lang code="CHN">
         <text>玩家1现在转为友好。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now friendly.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist jetzt freundlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 is now friendly.
-</text>
+      <lang code="l11">
+        <text>玩家1現在轉為友好。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -233,16 +333,25 @@ Gracz 1 jest teraz przyjazny.
       <lang code="CHN">
         <text>玩家2现在转为友好。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now friendly.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt freundlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now friendly.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為友好。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -254,16 +363,25 @@ Gracz 2 jest teraz przyjazny.
       <lang code="CHN">
         <text>玩家3现在转为友好。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now friendly.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 3 ist jetzt freundlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 3 is now friendly.
-</text>
+      <lang code="l11">
+        <text>玩家3現在轉為友好。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -275,16 +393,25 @@ Gracz 3 jest teraz przyjazny.
       <lang code="CHN">
         <text>玩家1现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家1現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -296,16 +423,25 @@ Gracz 1 jest teraz neutralny.
       <lang code="CHN">
         <text>玩家2现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -317,16 +453,25 @@ Gracz 2 jest teraz neutralny.
       <lang code="CHN">
         <text>玩家3现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 3 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 3 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家3現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -341,6 +486,14 @@ Gracz 3 jest teraz neutralny.
 任务目标1：消灭守卫。
 任务目标2：找到通往帝王谷的入口。</text>
       </lang>
+      <lang code="eng">
+        <text>
+The Guardians!!
+"Stop, you strangers! We are the guardians of the entrance to the Valley of the Kings. If your life means something to you, do not continue."
+Mission objective 1: Destroy the guardians.
+Mission objective 2: Search for the entrance to the Valley of the Kings.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Die Wächter !!
@@ -350,13 +503,17 @@ Missionsziel 2: Suche den Eingang zum Tal der Könige.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-The Guardians!!
-"Stop, you strangers! We are the guardians of the entrance to the Valley of the Kings. If your life means something to you, do not continue."
-Mission objective 1: Destroy the guardians.
-Mission objective 2: Search for the entrance to the Valley of the Kings.
-</text>
+      <lang code="l11">
+        <text>守衛！！
+站住，外來者。我們是帝王谷入口的守衛。若還惜命，就別再往前。
+任務目標1：消滅守衛。
+任務目標2：找到通往帝王谷的入口。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -373,6 +530,13 @@ Cel misji 2: Szukaj wejścia do Doliny Królów.
 你们将葬身此地，一个声音喊道。他这话倒也不算全错，毕竟这些守门者在人数上占了上风……
 任务目标：消灭守门者。</text>
       </lang>
+      <lang code="eng">
+        <text>
+The Gatekeepers!!
+"Here you will die," a voice called. It wasn't quite wrong, since these gatekeepers were superior in numbers...
+Mission objective: Destroy the gatekeepers.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Die Torwächter !!
@@ -381,12 +545,16 @@ Missionsziel:Vernichte die Torwächter.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-The Gatekeepers!!
-"Here you will die," a voice called. It wasn't quite wrong, since these gatekeepers were superior in numbers...
-Mission objective: Destroy the gatekeepers.
-</text>
+      <lang code="l11">
+        <text>守門者！！
+你們將葬身此地，一個聲音喊道。他這話倒也不算全錯，畢竟這些守門者在人數上佔了上風……
+任務目標：消滅守門者。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -402,6 +570,13 @@ Cel misji: Zniszcz bramkarzy.
 原来这就是那句诅咒。它们像秃鹫一样朝我们扑来。若想抵达帝王谷，我们也必须把它们消灭。
 任务目标：消灭黑暗之蛇。</text>
       </lang>
+      <lang code="eng">
+        <text>
+The Snakes of Darkness!!
+So this was the curse. Like vultures they fell upon us. We had to destroy them too if we wanted to reach the Valley of the Kings.
+Mission objective: Destroy the Snakes of Darkness.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Die Schlangen der Finsternis !!
@@ -410,12 +585,16 @@ Missionsziel: Vernichte die Schlangen der Finsternis.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-The Snakes of Darkness!!
-So this was the curse. Like vultures they fell upon us. We had to destroy them too if we wanted to reach the Valley of the Kings.
-Mission objective: Destroy the Snakes of Darkness.
-</text>
+      <lang code="l11">
+        <text>黑暗之蛇！！
+原來這就是那句詛咒。它們像禿鷲一樣朝我們撲來。若想抵達帝王谷，我們也必須把它們消滅。
+任務目標：消滅黑暗之蛇。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -433,6 +612,15 @@ Wyznaczony cel: Zniszcz Węże Ciemności.
 
 制作者：尤基</text>
       </lang>
+      <lang code="eng">
+        <text>
+Hey, you were supposed to only find the entrance, not to go inside. You went inside, I only followed you. No man. No man. In the meantime one of us had explored the area. "Hey folks, don't argue, to the north lies a beautiful valley. An ideal place to settle." "Really? Great. Hurry up..."
+Mission objective: Search the valley in the north and build a new settlement, then continue to explore the area.
+
+
+Created by: Yogi
+</text>
+      </lang>
       <lang code="ger">
         <text>
 He, Du solltest den Eingang nur finden, aber nicht hineingehen. Du bist hineingegangen, ich bin Dir nur gefolgt. Nee Du. Nee Du. Inzwischen hatte einer von uns die Gegend erkundet. Hee Leute, streitet Euch nicht, im Norden liegt ein schönes Tal. Ein idealer Platz zum Siedeln. Echt? Super. Nichts wie hin...
@@ -443,14 +631,18 @@ Erstellt von: Yogi
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Hey, you were supposed to only find the entrance, not to go inside. You went inside, I only followed you. No man. No man. In the meantime one of us had explored the area. "Hey folks, don't argue, to the north lies a beautiful valley. An ideal place to settle." "Really? Great. Hurry up..."
-Mission objective: Search the valley in the north and build a new settlement, then continue to explore the area.
+      <lang code="l11">
+        <text>喂，你只該找到入口，不該走進去。是你先進去的，我只是跟著你罷了。才不是呢。才不是呢。就在這時，我們中有人已經探過了周邊。喂，大夥兒別吵了，北邊有一座美麗的山谷。是個安家落戶的理想之地。真的？太好了。那還等什麼，走……
+任務目標：找到北邊的山谷並建立一處新的定居點，之後繼續探索周邊。
 
 
-Created by: Yogi
-</text>
+製作者：尤基</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -466,16 +658,25 @@ Stworzone przez: Yogi
       <lang code="CHN">
         <text>地下世界</text>
       </lang>
+      <lang code="eng">
+        <text>
+The Underworld
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Die Unterwelt
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-The Underworld
-</text>
+      <lang code="l11">
+        <text>地下世界</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -487,16 +688,25 @@ Podziemny Świat
       <lang code="CHN">
         <text>我们险之又险地取得了胜利。帝王谷里又会有什么在等着我们呢？</text>
       </lang>
+      <lang code="eng">
+        <text>
+We had won by a hair's width. What was about to wait for us in the Valley of the Kings?
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Wir hatten um haaresbreite gesiegt. Was würde uns im Tal der Könige erwarten?
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-We had won by a hair's width. What was about to wait for us in the Valley of the Kings?
-</text>
+      <lang code="l11">
+        <text>我們險之又險地取得了勝利。帝王谷裡又會有什麼在等著我們呢？</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -508,16 +718,25 @@ Zwyciężyliśmy, choć było ciasną. Co miał nas czekać w Dolinie Krółów?
       <lang code="CHN">
         <text>任务达成！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission gewonnen!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission won!
-</text>
+      <lang code="l11">
+        <text>任務達成！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

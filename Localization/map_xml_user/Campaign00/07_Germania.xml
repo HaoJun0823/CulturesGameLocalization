@@ -1,52 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="07_Germania" export_map_id="07_Germania" map_md5="dc5bd977f98101729a4d817f9b06c9c5" IsC2M="true">
+<localization version="1.3" map_id="07_Germania" export_map_id="07_Germania" map_md5="dc5bd977f98101729a4d817f9b06c9c5" IsC2M="true" deprecated="false">
   <languages>
-    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">日耳曼尼亚</text>
-      <text lang="ger">Germania</text>
       <text lang="eng">Germania</text>
+      <text lang="ger">Germania</text>
+      <text lang="l11">日耳曼尼亞</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Germania</text>
     </string>
     <string id="1">
       <text lang="CHN">你来到了美丽的日耳曼尼亚。</text>
-      <text lang="ger">Du kommst in das schöne Germania.</text>
       <text lang="eng">You arrive in beautiful Germania.</text>
+      <text lang="ger">Du kommst in das schöne Germania.</text>
+      <text lang="l11">你來到了美麗的日耳曼尼亞。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Docierasz do pięknej Germanii.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
-      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得友好。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
-      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得中立。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
-      <text lang="ger">Spieler0</text>
       <text lang="eng">Player0</text>
+      <text lang="ger">Spieler0</text>
+      <text lang="l11">玩家0</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
-      <text lang="ger">Spieler1</text>
       <text lang="eng">Player1</text>
+      <text lang="ger">Spieler1</text>
+      <text lang="l11">玩家1</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
-      <text lang="ger">Spieler2</text>
       <text lang="eng">Player2</text>
+      <text lang="ger">Spieler2</text>
+      <text lang="l11">玩家2</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz2</text>
     </string>
   </strings>
@@ -56,6 +80,12 @@
         <text>阿尔特纳城堡！！
 这里想必就是阿尔特纳城堡的废墟了。可究竟是谁有本事摧毁这么大的一座城堡？</text>
       </lang>
+      <lang code="eng">
+        <text>
+Altena Castle!!
+These must be the ruins of Altena Castle. But who was able to destroy such a large castle?
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Burg Altena !!
@@ -63,11 +93,15 @@ Dies mußten die Ruinen von Burg Altena sein. Aber wer war in der Lage eine so g
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Altena Castle!!
-These must be the ruins of Altena Castle. But who was able to destroy such a large castle?
-</text>
+      <lang code="l11">
+        <text>阿爾特納城堡！！
+這裡想必就是阿爾特納城堡的廢墟了。可究竟是誰有本事摧毀這麼大的一座城堡？</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -80,16 +114,25 @@ To musiały być ruiny zamku Altena. Ale kto był w stanie zniszczy tak duży za
       <lang code="CHN">
         <text>你失败了！！要不去玩一局“喵喵”纸牌吧。</text>
       </lang>
+      <lang code="eng">
+        <text>
+You lost!! Try a game of Mau Mau instead.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Du hast verloren !! Versuchs doch mit der Partie Mau Mau.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-You lost!! Try a game of Mau Mau instead.
-</text>
+      <lang code="l11">
+        <text>你失敗了！！要不去玩一局“喵喵”紙牌吧。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -101,16 +144,25 @@ Przegrałeś!! Spróbuj zamiast tego partie Mau Mau.
       <lang code="CHN">
         <text>任务失败！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission verloren!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission lost!
-</text>
+      <lang code="l11">
+        <text>任務失敗！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -122,16 +174,25 @@ Misja przegrana!
       <lang code="CHN">
         <text>玩家1已阵亡。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 has died.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist gestorben.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 has died.
-</text>
+      <lang code="l11">
+        <text>玩家1已陣亡。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -143,16 +204,25 @@ Gracz 1 zmarł.
       <lang code="CHN">
         <text>匪徒们已被消灭。可那是什么？响起了一个声音。你们虽在此地击败了我们，但别踏进我们在意大利的家乡。到了那里，你们会被屠戮殆尽……</text>
       </lang>
+      <lang code="eng">
+        <text>
+The bandits are destroyed. But what was that? A voice sounded. "You may have beaten us here, but don't come to our homeland in Italy. There you will be slaughtered..."
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Die Banditen sind vernichtet. Doch was war das? Es ertönte eine Stimme. Ihr habt uns zwar hier besiegt, doch kommt nicht in unsere Heimat nach Italien. Dort werdet ihr niedergemetzelt...
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-The bandits are destroyed. But what was that? A voice sounded. "You may have beaten us here, but don't come to our homeland in Italy. There you will be slaughtered..."
-</text>
+      <lang code="l11">
+        <text>匪徒們已被消滅。可那是什麼？響起了一個聲音。你們雖在此地擊敗了我們，但別踏進我們在義大利的家鄉。到了那裡，你們會被屠戮殆盡……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -164,16 +234,25 @@ Bandyci są zniszczeni. Ale co to było? Rozbrzmiał głos. „Nawet jeśli pobi
       <lang code="CHN">
         <text>玩家1现在转为敌对。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now hostile.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist jetzt feindlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 is now hostile.
-</text>
+      <lang code="l11">
+        <text>玩家1現在轉為敵對。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -186,6 +265,12 @@ Gracz 1 jest teraz wrogi.
         <text>谢谢你们的甜点。现在你们可以派商人到我们这里来了。要当心东北方。那里盘踞着极其危险的匪徒。
 任务目标：找出东北方的匪徒。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Thanks for the sweets. You can now send merchants to us. Beware of the northeast. Very dangerous bandits are lurking there.
+Mission objective: Search for the bandits in the northeast.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Danke für die Süßigkeiten.Ihr könnt jetzt Händler zu uns schicken. Hütet Euch vor dem Nordosten. Dort hausen sehr gefährliche Banditen.
@@ -193,11 +278,15 @@ Missionsziel:Suche die Banditen im Nordosten.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Thanks for the sweets. You can now send merchants to us. Beware of the northeast. Very dangerous bandits are lurking there.
-Mission objective: Search for the bandits in the northeast.
-</text>
+      <lang code="l11">
+        <text>謝謝你們的甜點。現在你們可以派商人到我們這裡來了。要當心東北方。那裡盤踞著極其危險的匪徒。
+任務目標：找出東北方的匪徒。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -210,16 +299,25 @@ Cel misja: Poszukaj bandytów na północnym wschodzie.
       <lang code="CHN">
         <text>玩家2现在转为友好。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now friendly.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt freundlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now friendly.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為友好。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -231,16 +329,25 @@ Gracz 2 jest teraz przyjazny.
       <lang code="CHN">
         <text>玩家2现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -256,6 +363,15 @@ Gracz 2 jest teraz neutralny.
 嗯，看来我们的德鲁伊弗里迪说得没错。硬币对我们有用，因为剩下的硬币都在巴黎给士兵们花光了。
 任务目标：在仓库中储备50枚硬币。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Dutch!!
+Yay, greetings, we are the Dutch. Do you have any mead or honey or cakes?
+Best a bit of each. You'll get nice coins too, if you bring us sweets.
+Hmm, so our druid Fridi had been right after all. Coins could be used, since we had spent the rest in Paris for our soldiers.
+Mission objective: Store away 50 coins in your warehouse.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Holländer !!
@@ -266,14 +382,18 @@ Missionsziel: Lagere 50 Münzen in Dein Lager ein.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Dutch!!
-Yay, greetings, we are the Dutch. Do you have any mead or honey or cakes?
-Best a bit of each. You'll get nice coins too, if you bring us sweets.
-Hmm, so our druid Fridi had been right after all. Coins could be used, since we had spent the rest in Paris for our soldiers.
-Mission objective: Store away 50 coins in your warehouse.
-</text>
+      <lang code="l11">
+        <text>荷蘭人！！
+呀嗬，你們好，我們是荷蘭人。你們有蜂蜜酒、蜂蜜或蛋糕嗎？
+最好每樣都來一點。只要你們給我們送來甜點，就能從我們這兒換到上好的硬幣。
+嗯，看來我們的德魯伊弗裡迪說得沒錯。硬幣對我們有用，因為剩下的硬幣都在巴黎給士兵們花光了。
+任務目標：在倉庫中儲備50枚硬幣。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -292,6 +412,14 @@ Cel misjist: Zmagazynuj 50 monet w swoich magazynach.
 我们发誓要复仇。
 任务目标：消灭匪徒。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Bandits!!
+Arrows shot at us from all directions. "Heavens," we thought. Only they could be responsible for the destruction of the castle.
+We swore to take revenge.
+Mission objective: Destroy the bandits.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Banditen !!
@@ -301,13 +429,17 @@ Missionsziel: Vernichte die Banditen.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Bandits!!
-Arrows shot at us from all directions. "Heavens," we thought. Only they could be responsible for the destruction of the castle.
-We swore to take revenge.
-Mission objective: Destroy the bandits.
-</text>
+      <lang code="l11">
+        <text>匪徒！！
+利箭從四面八方朝我們射來。老天，我們心想。摧毀那座城堡的只可能是他們。
+我們發誓要復仇。
+任務目標：消滅匪徒。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -326,6 +458,15 @@ Cel misji: Zniszcz bandytów.
 
 制作者：尤基</text>
       </lang>
+      <lang code="eng">
+        <text>
+Now we had arrived in beautiful Germania. But we didn't quite know what we were supposed to do here. Suddenly came our master druid Fridi. "Dear friends, when I was still young, I discovered a peaceful people who call themselves Dutch. They should be far far in the northwest. There you could get great coins in exchange for a simple cake." We looked at Fridi suspiciously. Had he swallowed too much mead again? Cakes in exchange for coins? Who would do that? But since we didn't know anyone else in this country, we sent out a scout.
+Mission objective: Search the Dutch in the northwest.
+
+
+Created by: Yogi
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Nun waren wir im schönen Germania angekommen.Nur wußten wir nicht so recht, was wir hier eigentlich sollten. Plötzlich kam Fridi unser Meisterdruide. Liebe Freunde,als ich noch jung an Jahren war, entdeckte ich ein friedliches Volk welches sich Holländer nennt. Sie müßten sich weit weit im Nordwesten befinden. Man konnte dort gegen einfachen Kuchen tolle Münzen erwerben. Mißtrauisch sahen wir uns Fridi an. Ob er wieder zuviel Met geschluckt hatte ? Kuchen gegen Münzen ? Wer macht denn sowas ? Aber da wir aber sonst niemanden in diesem Land kannten, schickten wir mal einen Kundschafter los.
@@ -336,14 +477,18 @@ Erstellt von: Yogi
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Now we had arrived in beautiful Germania. But we didn't quite know what we were supposed to do here. Suddenly came our master druid Fridi. "Dear friends, when I was still young, I discovered a peaceful people who call themselves Dutch. They should be far far in the northwest. There you could get great coins in exchange for a simple cake." We looked at Fridi suspiciously. Had he swallowed too much mead again? Cakes in exchange for coins? Who would do that? But since we didn't know anyone else in this country, we sent out a scout.
-Mission objective: Search the Dutch in the northwest.
+      <lang code="l11">
+        <text>如今我們已抵達美麗的日耳曼尼亞。只是我們並不太清楚自己在這裡究竟該做什麼。忽然，我們的德魯伊大師弗裡迪走了過來。親愛的朋友們，在我還年輕的時候，曾發現過一個自稱荷蘭人的和平民族。他們應當在遙遠的西北方。在那裡，用簡簡單單的蛋糕就能換到上好的硬幣。我們滿腹狐疑地看著弗裡迪。他是不是又灌了太多蜂蜜酒？拿蛋糕換硬幣？誰會幹這種事？可我們在這片土地上又不認識旁人，便姑且派了一名偵察兵出去。
+任務目標：在西北方找到荷蘭人。
 
 
-Created by: Yogi
-</text>
+製作者：尤基</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -359,16 +504,25 @@ Stworzone przez: Yogi
       <lang code="CHN">
         <text>日耳曼尼亚</text>
       </lang>
+      <lang code="eng">
+        <text>
+Germania
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Germania
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Germania
-</text>
+      <lang code="l11">
+        <text>日耳曼尼亞</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -381,6 +535,12 @@ Germania
         <text>我们击败了匪徒，并与荷兰人结下了友谊。可匪徒的主要据点在意大利，于是我们立刻动身，要把他们在那里也一并消灭。
 然而要前往意大利，我们必须先经过奥地利……</text>
       </lang>
+      <lang code="eng">
+        <text>
+We had defeated the bandits and made friends with the Dutch. But since the bandits had their main base in Italy, we set off immediately to destroy them there as well.
+But to get to Italy, we had to go to Austria first....
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Wir hatten die Banditen besiegt und mit den Holländern Freundschaft geschlossen. Da die Banditen aber in Italien ihren Hauptstützpunkt hatten, brachen wir sofort auf um sie dort auch zu vernichten.
@@ -388,11 +548,15 @@ Doch um nach Italien zu kommen, mußten wir zunächst nach Österreich....
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-We had defeated the bandits and made friends with the Dutch. But since the bandits had their main base in Italy, we set off immediately to destroy them there as well.
-But to get to Italy, we had to go to Austria first....
-</text>
+      <lang code="l11">
+        <text>我們擊敗了匪徒，並與荷蘭人結下了友誼。可匪徒的主要據點在義大利，於是我們立刻動身，要把他們在那裡也一併消滅。
+然而要前往義大利，我們必須先經過奧地利……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -405,16 +569,25 @@ Ale żeby dotrzeć do Włoch, musieliśmy najpierw przez Austrię....
       <lang code="CHN">
         <text>任务达成！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission gewonnen!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission won!
-</text>
+      <lang code="l11">
+        <text>任務達成！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

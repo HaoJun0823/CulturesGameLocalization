@@ -1,52 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="14_Die_Eiswelt" export_map_id="14_Die_Eiswelt" map_md5="8280cbeac67f96f4ea180a0bb5a6d1ea" IsC2M="true">
+<localization version="1.3" map_id="14_Die_Eiswelt" export_map_id="14_Die_Eiswelt" map_md5="8280cbeac67f96f4ea180a0bb5a6d1ea" IsC2M="true" deprecated="false">
   <languages>
-    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">冰之世界</text>
-      <text lang="ger">Die Eiswelt</text>
       <text lang="eng">The Ice World</text>
+      <text lang="ger">Die Eiswelt</text>
+      <text lang="l11">冰之世界</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Lodowy Świat</text>
     </string>
     <string id="1">
       <text lang="CHN">我们偏离了道路，被困在了一处夹缝之间的世界里。</text>
-      <text lang="ger">Wir waren vom Weg abgekommen und in einer Zwischenwelt gefangen.</text>
       <text lang="eng">We had strayed from the path and were trapped in a limbo.</text>
+      <text lang="ger">Wir waren vom Weg abgekommen und in einer Zwischenwelt gefangen.</text>
+      <text lang="l11">我們偏離了道路，被困在了一處夾縫之間的世界裡。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zboczyliśmy z drogi i utknęliśmy w zaświatach.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
-      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得友好。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
-      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得中立。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
-      <text lang="ger">Spieler0</text>
       <text lang="eng">Player0</text>
+      <text lang="ger">Spieler0</text>
+      <text lang="l11">玩家0</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
-      <text lang="ger">Spieler1</text>
       <text lang="eng">Player1</text>
+      <text lang="ger">Spieler1</text>
+      <text lang="l11">玩家1</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
-      <text lang="ger">Spieler2</text>
       <text lang="eng">Player2</text>
+      <text lang="ger">Spieler2</text>
+      <text lang="l11">玩家2</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz2</text>
     </string>
   </strings>
@@ -56,6 +80,12 @@
         <text>站住！！我，冰之魔女斯图普西，这片土地的统治者，卡纳克（又名图勒）的公主，命令你们立即掉头返回。否则我那些黑色的精锐冰魔将把你们毁灭。
 任务目标：找到冰魔女的大本营并将其彻底摧毁。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Stop!! I, Stupsie, the ice demon, ruler of this land, princess of Qaanaaq, also called Thule, order you to turn around immediately. Otherwise my black elite ice demons will destroy you.
+Mission objective: Find the headquarter of the ice demon and destroy it completely.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Halt !! Ich Stupsie, die Dämonin des Eises, Herrscherin über dieses Land, Prinzessin von Qaanaaq, welches auch Thule genannt wird, befehle Euch sofort umzukehren. Ansonsten werden meine schwarzen Elite-Eisdämonen Euch vernichten.
@@ -63,11 +93,15 @@ Missionsziel: Finde das Hauptquartier der Eisdämonin und vernichte es komplett.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Stop!! I, Stupsie, the ice demon, ruler of this land, princess of Qaanaaq, also called Thule, order you to turn around immediately. Otherwise my black elite ice demons will destroy you.
-Mission objective: Find the headquarter of the ice demon and destroy it completely.
-</text>
+      <lang code="l11">
+        <text>站住！！我，冰之魔女斯圖普西，這片土地的統治者，卡納克（又名圖勒）的公主，命令你們立即掉頭返回。否則我那些黑色的精銳冰魔將把你們毀滅。
+任務目標：找到冰魔女的大本營並將其徹底摧毀。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -81,6 +115,12 @@ Cel misji: Znajdź siedzibę główną demonicy lodu i znisz ją w 100%.
         <text>你失败了！！
 要不去玩一局西洋跳棋吧。</text>
       </lang>
+      <lang code="eng">
+        <text>
+You lost!! 
+Try a game of checkers instead.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Du hast verloren !! 
@@ -88,11 +128,15 @@ Versuchs doch mal mit einer Runde Dame.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-You lost!! 
-Try a game of checkers instead.
-</text>
+      <lang code="l11">
+        <text>你失敗了！！
+要不去玩一局西洋跳棋吧。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -105,16 +149,25 @@ Spróbuj zamiast tego rundkę warcab.
       <lang code="CHN">
         <text>任务失败！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission verloren!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission lost!
-</text>
+      <lang code="l11">
+        <text>任務失敗！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -126,16 +179,25 @@ Misja przegrana!
       <lang code="CHN">
         <text>冰魔们已被消灭。为表谢意，善良的冰之精灵卡萝把她最出色的战士托付给了我们，从今往后他将一直在我们身边并肩作战。</text>
       </lang>
+      <lang code="eng">
+        <text>
+The ice demons were destroyed. As a thank you, Karo, the good ice fairy, gave us her best fighter, who from now on should always fight by our side.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Die Eisdämonen waren vernichtet. Als Dank gab uns Karo, die gute Eisfee ihren besten Kämpfer mit, der von nun an immer an unserer Seite kämpfen sollte.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-The ice demons were destroyed. As a thank you, Karo, the good ice fairy, gave us her best fighter, who from now on should always fight by our side.
-</text>
+      <lang code="l11">
+        <text>冰魔們已被消滅。為表謝意，善良的冰之精靈卡蘿把她最出色的戰士託付給了我們，從今往後他將一直在我們身邊並肩作戰。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -147,16 +209,25 @@ Demony lodu zostały zniszczone. W podziękowaniu Karo, dobra wróżka lodowa, d
       <lang code="CHN">
         <text>玩家2已阵亡。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 has died.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist gestorben.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 has died.
-</text>
+      <lang code="l11">
+        <text>玩家2已陣亡。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -168,16 +239,25 @@ Gracz 2 zmarł.
       <lang code="CHN">
         <text>玩家2现在转为敌对。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now hostile.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt feindlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now hostile.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為敵對。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -187,11 +267,21 @@ Gracz 2 jest teraz wrogi.
     </block>
     <block id="playerfriendly1">
       <lang code="CHN" />
+      <lang code="eng" />
       <lang code="ger" />
+      <lang code="l11" />
+      <lang code="l12" />
+      <lang code="l13" />
+      <lang code="pol" />
     </block>
     <block id="playerfriendly2">
       <lang code="CHN">
         <text>谢谢你们的馈赠。现在派你们的商人来吧。有了我们的寒冰之刃，你们很快就能消灭那冰魔女。</text>
+      </lang>
+      <lang code="eng">
+        <text>
+Thank you for your gifts. Now send your merchants. With our ice blades you will quickly destroy the ice demon.
+</text>
       </lang>
       <lang code="ger">
         <text>
@@ -199,10 +289,14 @@ Danke für Eure Gaben. Schickt nun Eure Händler. Mit unseren Eisklingen werdet 
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Thank you for your gifts. Now send your merchants. With our ice blades you will quickly destroy the ice demon.
-</text>
+      <lang code="l11">
+        <text>謝謝你們的饋贈。現在派你們的商人來吧。有了我們的寒冰之刃，你們很快就能消滅那冰魔女。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -214,16 +308,25 @@ Dziękuję za wasze prezenty. Teraz wyślijcie swoich handlarzy. Z naszymi ostrz
       <lang code="CHN">
         <text>玩家1现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家1現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -238,6 +341,14 @@ Gracz 1 jest teraz neutralny.
 任务目标：消灭冰魔。
 找到通往地上世界的那道门。</text>
       </lang>
+      <lang code="eng">
+        <text>
+The Elite Ice Demons!! There they are!! Get them!! Surround them!! Kill them all!!
+Suddenly we were attacked from all sides. It would be difficult to destroy these ice demons.
+Mission objective: Destroy the ice demons. 
+Search the gate to the upper world.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Die Elite-Eisdämonen !! Da sind sie !! Auf sie !! Kreist sie ein !! Macht sie alle !!
@@ -247,13 +358,17 @@ Suche das Tor zur Oberwelt.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-The Elite Ice Demons!! There they are!! Get them!! Surround them!! Kill them all!!
-Suddenly we were attacked from all sides. It would be difficult to destroy these ice demons.
-Mission objective: Destroy the ice demons. 
-Search the gate to the upper world.
-</text>
+      <lang code="l11">
+        <text>精銳冰魔！！在那兒！！衝上去！！把他們圍起來！！統統解決掉！！
+我們突然遭到四面八方的攻擊。要消滅這些冰魔可不容易。
+任務目標：消滅冰魔。
+找到通往地上世界的那道門。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -271,6 +386,14 @@ Szukaj bramy do świata powierzchni.
 任务目标：若你想从卡萝那里换取兵器，就给她缴纳贡品。
 在这片土地的北方寻找冰魔女斯图普西。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Hello, you proud Vikings!!
+I, Karo, the good ice fairy of the lava lake, greet you. If you are friendly, you may settle here as long as you wish. But beware of the north. There Stupsie, the evil ice demon, lives. We once fought her, but she defeated all our soldiers. She demands a monthly tribute from us. We secretly built a weapons forge. We'd like to trade weapons with you, for a small tribute of course.
+Mission objective: Give Karo a tribute if you want to trade weapons from her.
+Search for Stupsie, the ice demon, in the north of the country.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Hallo ihr stolzen Wickinger !!
@@ -280,13 +403,17 @@ Suche Stupsie, die Eisdämonin im Norden des Landes.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Hello, you proud Vikings!!
-I, Karo, the good ice fairy of the lava lake, greet you. If you are friendly, you may settle here as long as you wish. But beware of the north. There Stupsie, the evil ice demon, lives. We once fought her, but she defeated all our soldiers. She demands a monthly tribute from us. We secretly built a weapons forge. We'd like to trade weapons with you, for a small tribute of course.
-Mission objective: Give Karo a tribute if you want to trade weapons from her.
-Search for Stupsie, the ice demon, in the north of the country.
-</text>
+      <lang code="l11">
+        <text>你們好，驕傲的維京人！！
+我，熔岩湖畔善良的冰之精靈卡蘿，問候你們。只要你們心懷善意，便可隨意在此定居，想住多久都行。但要當心北方。邪惡的冰魔女斯圖普西住在那裡。我們曾與她交手，可她把我們計程車兵全都打敗了。她要我們每月繳納貢品。我們偷偷建了一座兵器鋪。我們樂意與你們做兵器買賣，當然，得收一點貢品。
+任務目標：若你想從卡蘿那裡換取兵器，就給她繳納貢品。
+在這片土地的北方尋找冰魔女斯圖普西。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -305,6 +432,15 @@ Poszukaj Stupsi, demonicy lodu, na północy kraju.
 
 制作者：尤基</text>
       </lang>
+      <lang code="eng">
+        <text>
+Didn't I say, take the right way? But no, you know it all better. Why did you follow me? Couldn't you have taken the right way? Well, this could not be the upper world. It looked like we were trapped in some kind of world in between...
+Mission objective: Build your village. Search for a way to get to the upper world.
+
+
+Created by: Yogi
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Sagte ich nicht, geh den rechten Weg entlang? Aber nein, Du weißt ja wieder alles besser. Wieso bist Du mir denn nachgegangen? Hättest doch den rechten Weg nehmen können. Irgendwie konnte dies nicht die Oberwelt sein.Wie es aussah waren wir in einer Art Zwischenwelt gefangen...
@@ -315,14 +451,18 @@ Erstellt von: Yogi
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Didn't I say, take the right way? But no, you know it all better. Why did you follow me? Couldn't you have taken the right way? Well, this could not be the upper world. It looked like we were trapped in some kind of world in between...
-Mission objective: Build your village. Search for a way to get to the upper world.
+      <lang code="l11">
+        <text>我不是說了，沿著右邊那條路走嗎？可你偏不，你又什麼都比別人懂。那你幹嘛跟著我？你大可以走右邊那條路啊。不知怎的，這裡絕不可能是地上世界。看樣子我們被困在了某種夾縫之間的世界裡……
+任務目標：建立你的村莊。找到一條通往地上世界的路。
 
 
-Created by: Yogi
-</text>
+製作者：尤基</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -338,16 +478,25 @@ Stworzone przez: Yogi
       <lang code="CHN">
         <text>冰之世界</text>
       </lang>
+      <lang code="eng">
+        <text>
+The Ice World
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Die Eiswelt
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-The Ice World
-</text>
+      <lang code="l11">
+        <text>冰之世界</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -359,16 +508,25 @@ The Ice World
       <lang code="CHN">
         <text>我们击败了冰魔女。如今我们终于可以穿过那道门，离开这片土地了。我们已迫不及待地期待着前方的下一场冒险。</text>
       </lang>
+      <lang code="eng">
+        <text>
+We had defeated the ice demon. Now we could go through the gate to finally leave this country. We were looking forward to the adventures that still lay ahead of us.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Wir hatten die Eisdämonin besiegt. Nun konnten wir durch das Tor treten um endlich dieses Land zu verlassen. Wir waren schon gespannt auf die nächsten Abenteuer, die noch vor uns lagen.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-We had defeated the ice demon. Now we could go through the gate to finally leave this country. We were looking forward to the adventures that still lay ahead of us.
-</text>
+      <lang code="l11">
+        <text>我們擊敗了冰魔女。如今我們終於可以穿過那道門，離開這片土地了。我們已迫不及待地期待著前方的下一場冒險。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -380,16 +538,25 @@ Pokonarisśmy demonicę lodu. Teraz mogliśmy przejść przez bramę, aby wreszc
       <lang code="CHN">
         <text>任务达成！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission gewonnen!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission won!
-</text>
+      <lang code="l11">
+        <text>任務達成！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,60 +14,90 @@
       <text lang="CHN">@寻一条穿越沼泽之路！</text>
       <text lang="eng">@FIND A WAY THROUGH THE SWAMPS!</text>
       <text lang="ger">@SUCHE EINEN WEG DURCH DIE SÜMPFE!</text>
+      <text lang="l11">@尋一條穿越沼澤之路！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">@ZNAJDŹ DROGĘ PRZEZ BAGNA!</text>
     </string>
     <string id="51">
       <text lang="CHN">沼泽部族</text>
       <text lang="eng">Swamp Tribe</text>
       <text lang="ger">Sumpfvolk</text>
+      <text lang="l11">沼澤部族</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Plemię z bagien</text>
     </string>
     <string id="61">
       <text lang="CHN">沼泽部族</text>
       <text lang="eng">Swamp Tribe</text>
       <text lang="ger">Sumpfvolk</text>
+      <text lang="l11">沼澤部族</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Plemię z bagien</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="l11">希拉</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
       <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
+      <text lang="l11">哈奇</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hatchie</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="l11">西格德</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">诺伯特</text>
       <text lang="eng">Norbert</text>
       <text lang="ger">Norbert</text>
+      <text lang="l11">諾伯特</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Norbert</text>
     </string>
     <string id="76">
       <text lang="CHN">玛尼</text>
       <text lang="eng">Mani</text>
       <text lang="ger">Mani</text>
+      <text lang="l11">瑪尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mani</text>
     </string>
     <string id="99">
       <text lang="CHN">迷失沼泽</text>
       <text lang="eng">THE LOST SWAMPS</text>
       <text lang="ger">DIE VERLORENEN SÜMPFE</text>
+      <text lang="l11">迷失沼澤</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">ZAGINIONE BAGNA</text>
     </string>
   </strings>
@@ -107,6 +140,27 @@ Die Bewohner von Ephesos sprachen von "Sumpfweisen", die irgendwo verborgen in d
 Vielleicht konnten sie uns einen Weg aufzeigen. Darin lag unsere Hoffnung...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+我們尚不知如何在沼澤中找到遏制其蔓延之法。
+        </text>
+        <usericon>1,208,156</usericon>
+        <text>
+以弗所居民說起"沼澤智者"，據說他們藏身於沼澤深處。
+
+或許他們能為我們指明道路。我們的希望全寄託於此……
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,208,156</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,208,156</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Nie mieliśmy zielonego pojęcia, jak znaleźć rozwiązanie, aby walczyć z powiększającymi się bagnami. 
@@ -140,6 +194,21 @@ Pay the wise men a visit!
         <text> 
 Suche die Sumpfweisen auf!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+尋訪沼澤智者！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -195,6 +264,37 @@ SUMPFVOLK
 "Aber wir wünschen euch dennoch viel Glück! Haltet die Augen offen und erkundet die Umgebung, wenn ihr das nächste Loch durchschreitet!"
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+沼澤部族
+
+"你們是來尋沼澤智者的？我等部族雖可入內，你們卻斷難透過沼澤之孔的試煉！"沼澤女子言道。
+
+
+        
+        </text>
+        <usericon>1,409,47</usericon>
+        <text>
+
+
+
+"然仍祝你們好運！穿過下一孔時，睜大眼睛，細察四周！"
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,409,47</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,409,47</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 PLEMIĘ Z BAGIEN
@@ -235,6 +335,23 @@ SUMPFLOCH
 In diesem Gebiet gab es Sumpflöcher. Unseren Berichten zu Folge konnte man sich durch diese leicht verirren, da sie die Menschen an einen völlig anderen Platz brachten. Aber wir mussten sie zu unseren Gunsten nutzen...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+沼澤之孔
+
+此地名為沼澤之孔。據聞人行其間極易迷途，因它將人送至全然異地。然我們須善加利用……
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 BAGIENNA DZIURA
@@ -269,6 +386,23 @@ ZURÜCK ZUM ANFANG
 Als wir durch dieses Loch schritten, waren wir wieder am Anfang unserer Mission. Dies konnte also kaum der richtige Weg sein!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+重返起點
+
+我們穿過此孔，竟回到任務之初。這斷非正途！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Z POWROTEM NA POCZĄTEK 
@@ -302,6 +436,23 @@ VORSICHT!
 
 Wir mussten zweifelsohne auch dieses Sumpfloch durchschreiten, aber dabei hatten wir ein komisches Gefühl im Magen. Was mochte uns wohl auf der anderen Seite erwarten?
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+當心！
+
+我們無疑也須穿過此孔，心中卻隱隱不安。對面究竟有何在候？
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -359,6 +510,37 @@ Eine seltsame Magie umgab diesen Ort...
 All unsere Männer fühlten sich hier wie neu geboren!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+生命能量
+
+一種奇異魔法籠罩此地……
+
+
+        
+        </text>
+        <usericon>1,268,116</usericon>
+        <text>
+
+
+
+我等眾人，皆覺如獲新生！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,268,116</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,268,116</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 ENERGIA ŻYCIOWA
@@ -409,6 +591,29 @@ HATSCHI
 Hier gibt es zwar einen Weg hinein, aber keinen heraus!" 
 
 </text>
+        <usericon>2,3 </usericon>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+哈奇
+
+"你們可回來了！什麼事耽擱這麼久？
+
+此處雖有入路，卻無歸途！"
+
+
+        
+        </text>
+        <usericon>2,3 </usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,3 </usericon>
+      </lang>
+      <lang code="l13">
+        <text />
         <usericon>2,3 </usericon>
       </lang>
       <lang code="pol">
@@ -463,6 +668,37 @@ MISSION VERLOREN!
 Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+英雄氣概，還是魯莽？當比雅尼殞命，眾神落淚……失此英雄，你便無緣得見任務終局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -514,6 +750,37 @@ MISSION VERLOREN!
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時疏忽，人生便急轉直下！你的女英雄希拉因你大意而殞命！失此英雄，你便無緣得見任務終局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -567,6 +834,37 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held HATSCHI erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時疏忽，人生便急轉直下！你的摯友與英雄哈奇因你大意而殞命！失此英雄，你便無緣得見任務終局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -618,6 +916,37 @@ MISSION VERLOREN!
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held SIGURD erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時疏忽，人生便急轉直下！你的摯友與英雄西格德因你大意而殞命！失此英雄，你便無緣得見任務終局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -671,6 +1000,37 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時疏忽，人生便急轉直下！你的摯友與英雄--巨龍諾伯特--因你大意而殞命！失此英雄，你便無緣得見任務終局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -702,6 +1062,21 @@ When we crossed the bridge, we saw the wise men approaching us. They spoke to us
         <text> 
 Als wir über die Brücke traten, sahen wir die Sumpfweisen auf uns zukommen. Sie sprachen mit sanfter, dumpfer Stimme zu uns:
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+我們踏過橋，見沼澤智者迎面而來。他們以輕柔而低沉之聲對我們言道：
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -763,6 +1138,39 @@ Wir kennen euer Anliegen und werden das Fortschreiten des Sumpfes für eine gewi
 Euer Held Hatschi jedoch soll dafür eine Weile bei uns bleiben, denn wir Sumpfweisen möchten von ihm vieles über die fremde Kultur seines Heimatlandes lernen."
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+沼澤智者
+
+"勇毅的英雄們！你們竟穿透重重險阻，來到我等沼澤智者面前！此等勇毅與壯志，當有所酬。
+
+
+        
+        </text>
+        <usericon>1,120,15</usericon>
+        <text>
+
+
+
+我們知你們所請，願暫止沼澤蔓延。時日足夠，只要你等用心，必能畢其工……
+
+然你等英雄哈奇，須留我等處些時日--我等沼澤智者，欲從他身上習知諸多異鄉風物。"
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,120,15</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,120,15</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 MĘDRCY
@@ -798,6 +1206,21 @@ MISSION COMPLETED!
         <text> 
 MISSION GEWONNEN! 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+任務成功！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -845,6 +1268,37 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時疏忽，人生便急轉直下！瑪尼--比雅尼與希拉之子--因你大意而殞命！失此英雄，你便無緣得見任務終局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -876,6 +1330,21 @@ THE LOST SWAMPS
         <text> 
 DIE VERLORENEN SÜMPFE
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+迷失沼澤
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 

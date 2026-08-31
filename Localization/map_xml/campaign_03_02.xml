@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,264 +14,396 @@
       <text lang="CHN">@协助建造塞米拉米斯空中花园！</text>
       <text lang="eng">@HELP BUILD THE HANGING GARDENS OF SEMIRAMIS!</text>
       <text lang="ger">@HILF BEI DER ERRICHTUNG DER HÄNGENDEN GÄRTEN VON SEMIRAMIS!</text>
+      <text lang="l11">@協助建造塞米拉米斯空中花園！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">@POMÓŻ ZBUDOWAĆ WISZĄCE OGRODY SEMIRAMIDY!</text>
     </string>
     <string id="1">
       <text lang="CHN">寻找营建花园的地点！</text>
       <text lang="eng">Look for a site to build the Gardens!</text>
       <text lang="ger">Suche den Platz zur Errichtung der Gärten!</text>
+      <text lang="l11">尋找營建花園的地點！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Rozglądnij się za miejscem na budowę Ogrodów!</text>
     </string>
     <string id="2">
       <text lang="CHN">建立一座小型聚落。</text>
       <text lang="eng">Establish a small settlement.</text>
       <text lang="ger">Baue eine kleine Siedlung auf.</text>
+      <text lang="l11">建立一座小型聚落。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Załóż małą osadę.</text>
     </string>
     <string id="3">
       <text lang="CHN">向花园运送 80 木材、40 石料、40 黏土与 40 砖块，以筑人造山阶！</text>
       <text lang="eng">Deliver 80 wood, 40 stones, 40 clay and 40 tiles to the Gardens for the artificial mountain terraces!</text>
       <text lang="ger">Liefere 80 Holz, 40 Steine, 40 Lehm und 40 Ziegel zu den Gärten für die künstlichen Bergterrassen!</text>
+      <text lang="l11">向花園運送 80 木材、40 石料、40 黏土與 40 磚塊，以築人造山階！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Dostarcz 80 drewna, 40 kamienia, 40 gliny i 40 dachówek do Ogrodów na sztuczne, górskie tarasy!</text>
     </string>
     <string id="4">
       <text lang="CHN">在花园附近开凿 9 口井，以引水上行。</text>
       <text lang="eng">Build 9 wells near the Gardens to produce water.</text>
       <text lang="ger">Errichte 9 Brunnen in der Nähe der Gärten, um Wasser zu fördern.</text>
+      <text lang="l11">在花園附近開鑿 9 口井，以引水上行。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wybuduj blisko Ogrodów 9 studni, które będą produkować wodę.</text>
     </string>
     <string id="5">
       <text lang="CHN">寻找 25 头牛！</text>
       <text lang="eng">Search 25 cattle!</text>
       <text lang="ger">Suche 25 Rinder!</text>
+      <text lang="l11">尋找 25 頭牛！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Szukaj 25 sztuk bydła!</text>
     </string>
     <string id="6">
       <text lang="CHN">解救牧人的妇孺，以换得他们的牛与一份建造图样。</text>
       <text lang="eng">Free the shepherds' wives to earn their cattle and the piece of the construction plan.</text>
       <text lang="ger">Befreie die Frauen der Hirten, um ihre Rinder und das Stück der Bauzeichnung zu erhalten.</text>
+      <text lang="l11">解救牧人的婦孺，以換得他們的牛與一份建造圖樣。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Uwolnij żony pasterzy, czym zasłużysz sobie na ich bydło oraz kawałek planu konstrukcyjnego.</text>
     </string>
     <string id="7">
       <text lang="CHN">向强盗缴纳 50 枚钱币，否则与之交战。</text>
       <text lang="eng">Pay the robbers 50 coins or fight them.</text>
       <text lang="ger">Zahle den Räubern 50 Münzen oder bekämpfe sie.</text>
+      <text lang="l11">向強盜繳納 50 枚錢幣，否則與之交戰。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać rabusiom 50 monet lub walcz z nimi.</text>
     </string>
     <string id="8">
       <text lang="CHN">搜查强盗的营地。</text>
       <text lang="eng">Search the robbers' camp.</text>
       <text lang="ger">Durchsuche das Räuberlager.</text>
+      <text lang="l11">搜查強盜的營地。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Przeszukaj obozowisko rabusiów.</text>
     </string>
     <string id="9">
       <text lang="CHN">将妇孺送返她们的村庄。</text>
       <text lang="eng">Take the women back to their village.</text>
       <text lang="ger">Bringe die Frauen zurück in ihr Dorf.</text>
+      <text lang="l11">將婦孺送返她們的村莊。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zabierz kobiety z powrotem do ich wioski.</text>
     </string>
     <string id="10">
       <text lang="CHN">寻得建造图样。</text>
       <text lang="eng">Find the construction plans.</text>
       <text lang="ger">Finde die Bauzeichnungen.</text>
+      <text lang="l11">尋得建造圖樣。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Znajdź plany konstrukcyjne.</text>
     </string>
     <string id="11">
       <text lang="CHN">为换取巴比伦的勇兵，须缴 5 单位铁作贡金。</text>
       <text lang="eng">Pay the Babylonians a tribute of 5 iron for their brave soldiers.</text>
       <text lang="ger">Zahle den Babyloniern für tapfere Soldaten 5 Eisen Tribut.</text>
+      <text lang="l11">為換取巴比倫的勇兵，須繳 5 單位鐵作貢金。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać Babilończykom trybut w wysokości 5 jednostek żelaza dla ich dzielnych żołnierzy.</text>
     </string>
     <string id="12">
       <text lang="CHN">向科布尔人进献 10 双鞋作贡金。</text>
       <text lang="eng">Pay the Kobulians a tribute of 10 shoes.</text>
       <text lang="ger">Bringe den Kobulianern 10 Schuhe als Tribut.</text>
+      <text lang="l11">向科布林人進獻 10 雙鞋作貢金。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać Kobulianom trybut w wysokości 10 par butów.</text>
     </string>
     <string id="13">
       <text lang="CHN">前往地下厅堂！</text>
       <text lang="eng">Go to the underground halls!</text>
       <text lang="ger">Gehe zu den unterirdischen Hallen!</text>
+      <text lang="l11">前往地下廳堂！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Idź do podziemnych korytarzy!</text>
     </string>
     <string id="14">
       <text lang="CHN">与你的英雄返回花园！</text>
       <text lang="eng">Take your heroes back to the Gardens!</text>
       <text lang="ger">Gehe mit deine Helden zurück zu den Gärten!</text>
+      <text lang="l11">與你的英雄返回花園！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Weź swoich bohaterów z powrotem do Ogrodów!</text>
     </string>
     <string id="20">
       <text lang="CHN">水井 %d/9</text>
       <text lang="eng">Well %d/9</text>
       <text lang="ger">Brunnen %d/9</text>
+      <text lang="l11">水井 %d/9</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Studnia %d/9</text>
     </string>
     <string id="21">
       <text lang="CHN">木材 %d/80</text>
       <text lang="eng">Wood %d/80</text>
       <text lang="ger">Holz %d/80</text>
+      <text lang="l11">木材 %d/80</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Drewno %d/80</text>
     </string>
     <string id="22">
       <text lang="CHN">石料 %d/40</text>
       <text lang="eng">Stone %d/40</text>
       <text lang="ger">Steine %d/40</text>
+      <text lang="l11">石料 %d/40</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Kamień %d/40</text>
     </string>
     <string id="23">
       <text lang="CHN">黏土 %d/40</text>
       <text lang="eng">Clay %d/40</text>
       <text lang="ger">Lehm %d/40</text>
+      <text lang="l11">黏土 %d/40</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Glina %d/40</text>
     </string>
     <string id="24">
       <text lang="CHN">砖块 %d/40</text>
       <text lang="eng">Tiles %d/40</text>
       <text lang="ger">Ziegel %d/40</text>
+      <text lang="l11">磚塊 %d/40</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Dachówki %d/40</text>
     </string>
     <string id="25">
       <text lang="CHN">水井已凿成</text>
       <text lang="eng">Well built</text>
       <text lang="ger">Brunnen errichtet</text>
+      <text lang="l11">水井已鑿成</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Studnia wybudowana</text>
     </string>
     <string id="26">
       <text lang="CHN">物资已送达</text>
       <text lang="eng">Goods delivered</text>
       <text lang="ger">Waren geliefert</text>
+      <text lang="l11">物資已送達</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Towary dostarczone</text>
     </string>
     <string id="27">
       <text lang="CHN">牛 %d/25</text>
       <text lang="eng">Cows %d/25</text>
       <text lang="ger">Kühe %d/25</text>
+      <text lang="l11">牛 %d/25</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Krowy %d/25</text>
     </string>
     <string id="28">
       <text lang="CHN">牛已捕获</text>
       <text lang="eng">Cows caught</text>
       <text lang="ger">Kühe gefangen</text>
+      <text lang="l11">牛已捕獲</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Krowy złapane </text>
     </string>
     <string id="51">
       <text lang="CHN">科布尔</text>
       <text lang="eng">Kobul</text>
       <text lang="ger">Kobul</text>
+      <text lang="l11">科布林</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Kobul</text>
     </string>
     <string id="52">
       <text lang="CHN">巴比伦</text>
       <text lang="eng">Babylon</text>
       <text lang="ger">Babylon</text>
+      <text lang="l11">巴比倫</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Babilon</text>
     </string>
     <string id="53">
       <text lang="CHN">牧民部族</text>
       <text lang="eng">Pastoral Tribe</text>
       <text lang="ger">Hirtenvolk</text>
+      <text lang="l11">牧民部族</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Plemię Pasterzy </text>
     </string>
     <string id="54">
       <text lang="CHN">强盗</text>
       <text lang="eng">Robbers</text>
       <text lang="ger">Räuber</text>
+      <text lang="l11">強盜</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Rabusie</text>
     </string>
     <string id="55">
       <text lang="CHN">游牧民</text>
       <text lang="eng">Nomads</text>
       <text lang="ger">Nomaden</text>
+      <text lang="l11">遊牧民</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Nomadzi</text>
     </string>
     <string id="56">
       <text lang="CHN">游牧工兵</text>
       <text lang="eng">Builder Nomads</text>
       <text lang="ger">Bauarbeiternomaden</text>
+      <text lang="l11">遊牧工兵</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Budowniczy Nomadów</text>
     </string>
     <string id="61">
       <text lang="CHN">科布尔</text>
       <text lang="eng">Kobul</text>
       <text lang="ger">Kobul</text>
+      <text lang="l11">科布林</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Kobul</text>
     </string>
     <string id="62">
       <text lang="CHN">巴比伦</text>
       <text lang="eng">Babylon</text>
       <text lang="ger">Babylon</text>
+      <text lang="l11">巴比倫</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Babilon</text>
     </string>
     <string id="63">
       <text lang="CHN">牧人</text>
       <text lang="eng">Shepherds</text>
       <text lang="ger">Hirten</text>
+      <text lang="l11">牧人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Pasterze</text>
     </string>
     <string id="64">
       <text lang="CHN">强盗</text>
       <text lang="eng">Robbers</text>
       <text lang="ger">Räuber</text>
+      <text lang="l11">強盜</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Rabusie</text>
     </string>
     <string id="65">
       <text lang="CHN">游牧.</text>
       <text lang="eng">Nomads</text>
       <text lang="ger">Nomad.</text>
+      <text lang="l11">遊牧.</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Nomadzi</text>
     </string>
     <string id="66">
       <text lang="CHN">村庄</text>
       <text lang="eng">Village</text>
       <text lang="ger">Dorf</text>
+      <text lang="l11">村莊</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wioska</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="l11">希拉</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
       <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
+      <text lang="l11">哈奇</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hatchie</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="l11">西格德</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">诺伯特</text>
       <text lang="eng">Norbert</text>
       <text lang="ger">Norbert</text>
+      <text lang="l11">諾伯特</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Norbert</text>
     </string>
     <string id="76">
       <text lang="CHN">玛尼</text>
       <text lang="eng">Mani</text>
       <text lang="ger">Mani</text>
+      <text lang="l11">瑪尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mani</text>
     </string>
     <string id="98">
       <text lang="CHN">在幼发拉底故道之畔，我们建起新的聚落。因为传说中，塞米拉米斯的空中花园曾在此傲视荒漠……</text>
       <text lang="eng">We established a new settlement near the old riverbed of the Euphrates, as this was the site where the legendary Hanging Gardens of Semiramis were said to have defied the desert ...</text>
       <text lang="ger">In der Nähe des alten Flussbettes des Euphrat errichteten wir eine neue Siedlung, denn dort sollten die sagenhaften hängenden Gärten der Semiramis einst der Wüste getrotzt haben...</text>
+      <text lang="l11">在幼發拉底故道之畔，我們建起新的聚落。因為傳說中，塞米拉米斯的空中花園曾在此傲視荒漠……</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Założyliśmy nową osadę blisko starego koryta rzecznego Eufratu, ponieważ było to miejsce, o którym mówiło się, że tam legendarne Wiszące Ogrody Semiramidy przeciwstawiły się pustyni ...</text>
     </string>
     <string id="99">
       <text lang="CHN">塞米拉米斯空中花园</text>
       <text lang="eng">THE HANGING GARDENS OF SEMIRAMIS</text>
       <text lang="ger">DIE HÄNGENDEN GÄRTEN VON SEMIRAMIS</text>
+      <text lang="l11">塞米拉米斯空中花園</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">WISZĄCE OGRODY SEMIRAMIDY </text>
     </string>
   </strings>
@@ -296,6 +431,19 @@ Wir siedelten entlang des Euphrat. Dort stand sie, die große und mächtige Stad
 Dies war also das zweite Weltwunder der antiken Welt, das durch unsere Hilfe wieder errichtet werden musste...
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+我們沿幼發拉底河定居。雄偉的大城巴比倫就矗立在那裡。
+
+相傳就在此處，尼布甲尼撒王曾為他的王后修建空中花園，因王后喜愛林木蔥鬱的山巒。這些花園以古亞述傳奇女王塞米拉米斯之名命名。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -330,6 +478,22 @@ Doch wir hatten tatkräftige Unterstützung: Die Babylonier versuchten schon sei
 
 Suche die Stelle zur Errichtung der sagenhaften hängenden Gärten auf. Dort erhältst du nähere Anweisungen. 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+然而我們得到了有力的支援：巴比倫人數月來一直嘗試灌溉周邊土地，並在此培育最為珍稀的植物。但大地母親釋放的養分不足，空中花園的圖樣似乎也有所殘缺……
+
+去尋找建造這座傳說花園的地點。到了那裡，你會得到更具體的指示。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -390,6 +554,34 @@ Wir mussten einige Brunnen graben und uns um die Baumaterialien für die künstl
 Baue 9 Brunnen in der Nähe der Gärten, um Wasser zu fördern. Liefere außerdem 80 Holz, 40 Steine, 40 Lehm und 40 Ziegel zu den Gärten für die künstlichen Bergterrassen! 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+空中花園建造場
+
+我們在此找到了適宜的建造地點。巴比倫居民與周邊村落的遊牧民雖已灌溉了這些地塊，卻遠遠不夠。
+        
+        </text>
+        <usericon>1,368,115</usericon>
+        <text>
+
+我們須開鑿數口井，並籌備人造梯田景觀所需的建材！
+
+在花園附近建造 9 口井以汲取水源。此外，向花園運送 80 木材、40 石料、40 黏土與 40 瓦片，用於人造梯田！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,368,115</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,368,115</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 MIEJSCE NA WISZĄCE OGRODY 
@@ -432,6 +624,22 @@ BRUNNEN ERRICHTET
 Wir hatten gute Arbeit geleistet, denn wir hatten es geschafft, 9 Brunnen in dem Gebiet zu errichten! Nun mussten wir nur noch die benötigten Waren zu diesem Bauplatz bringen. 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+水井已建成
+
+我們幹得漂亮，終於在區域內鑿成了 9 口井！現在只需把所需物資運抵這片建造場了。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 STUDNIE WYBUDOWANE
@@ -464,6 +672,22 @@ WAREN GELIEFERT!
 
 Wir hatten die benötigten Waren am Bauplatz abgeliefert. Aber noch mussten wir die Brunnen bauen, um die Gärten mit Wasser zu versorgen...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+物資已送達！
+
+我們已將所需物資運抵建造場。但還需建造水井，方能引水灌溉花園……
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -543,6 +767,41 @@ Und richtig florieren wollten die Pflänzchen der Babylonier auch nicht. Die Vor
 Begib dich auf dessen Spur! Sammle Rinder!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+世界奇蹟新進度
+
+我們已建好水井，並將所需物資運抵建造場。沒過多久，地基便奠定了。
+        
+        </text>
+        <usericon>1,357,112</usericon>
+        <text>
+
+
+巴比倫人用剩餘的黏土捏成陶粒，將幼苗埋入其中。水分能在這些陶粒中蓄積數日--真是奇妙的特質！他們以亞述女王塞米拉米斯之名為這項發明命名。後來這陶粒卻因一位年輕學者筆誤，以"塞拉米斯"之名流傳於世……
+
+既然空中花園的圖樣似乎殘缺不全，我們的工程便難以為繼……
+
+去尋找建築圖樣的另一半！
+
+巴比倫人的幼苗也始終長勢不佳。先輩在培育植物時，想必還藏著什麼秘方？！
+
+循著線索去追查吧！收集牛群！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,357,112</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,357,112</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 NOWY POZIOM ULEPSZENIA CUDU 
@@ -616,6 +875,35 @@ Sie bemerkten unsere guten Schuharbeiten, auch wenn diese schon sehr ausgetreten
 Reiche den Kobulianern ein paar Schuhe und sie werden dir ihre Handelsangebote offerieren! 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+科布林
+
+當我們渡過岔流，遇上一座小村的居民。他們不友不敵，只願在收取貢品後與我們交易。
+        
+        </text>
+        <usericon>1,533,22</usericon>
+        <text>
+
+
+他們看中了我們精良的製鞋手藝，儘管鞋底已被磨得破舊不堪。他們很想討上幾雙！
+
+向科布林人獻上幾雙鞋，他們便會向你開出不凡的買賣。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,533,22</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,533,22</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 KOBUL
@@ -677,6 +965,33 @@ Voller Neugier und Ungewissheit betraten wir ihr Innerstes.
 
 Was würde die Stadt für uns bereithalten? 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+巴比倫
+
+這便是傳說之城巴比倫的城門。我們滿懷好奇與忐忑，踏入了它的內城。
+        
+        </text>
+        <usericon>1,320,164</usericon>
+        <text>
+
+
+這座城會為我們備下什麼？
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,320,164</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,320,164</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -762,6 +1077,46 @@ Weit im Süden lebte ein braves Hirtenvolk, dem ein großes Unglück widerfuhr.
 Befreie die Frauen der Hirten!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+牧民
+
+在遙遠的南方，生活著一個安分的牧民部族，卻遭逢了一樁大不幸。
+        
+        </text>
+        <usericon>1,321,382</usericon>
+        <text>
+
+
+"我們可憐的女人們，"他們哀訴道，"昨夜被野蠻的撒拉遜盜匪擄走了！"他們已派出搜尋隊，卻毫無音訊！"救回我們的女人，我們便在任務中助你一臂之力！其餘的女人我們安置在地下大廳，免受這些蠻人侵擾！"
+
+"今晨這三頭龍隨我們一同走出地下大廳。我們和睦相處、患難相扶。它們也樂意為你效勞。"
+        
+        </text>
+        <usericon>2,20</usericon>
+        <text>
+
+
+解救牧民的婦女！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,321,382</usericon>
+        <text />
+        <usericon>2,20</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,321,382</usericon>
+        <text />
+        <usericon>2,20</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 PASTERZE
@@ -814,6 +1169,25 @@ RÄUBER
 </text>
         <usericon>1,103,196</usericon>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+盜匪
+
+"嘿，你們幾個！我們這兒不歡迎你們！乖乖交上貢品，我們就不動你們一根汗毛！"
+        
+        </text>
+        <usericon>1,103,196</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,103,196</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,103,196</usericon>
+      </lang>
       <lang code="pol">
         <text> 
 RABUSIE
@@ -854,6 +1228,24 @@ Unberührt von der restlichen Welt tat sich hier eine kleine Oase inmitten der W
 
 Hier verlief alles noch in ruhigen Bahnen, die Menschen waren freundlich und entgegenkommend. Und niemand ahnte, wie dringlich unsere Mission war, die Weltwunder erneut zu errichten... 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+遊牧民
+
+與世隔絕之中，一片小小的綠洲在荒漠裡浮現於我們眼前。
+
+這裡一切仍按平靜的節奏運轉，人們友善而好客。沒人料到，我們重建世界奇蹟的使命竟如此緊迫……
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -901,6 +1293,26 @@ Auch ist für euch nun der Weg zu den unterirdischen Hallen frei! Dort haben wir
 
 Gehe mit deinen Helden zu den unterirdischen Hallen!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+牧民
+
+"你們把心愛的女人們安然無恙地送了回來！"當我們帶著他們的女人回到村子，牧民們喜出望外。"作為報答，我們把所有的牛都給你！它們產奶，還能為珍稀植物提供糞肥！或許你們用得上？
+
+如今通往地下大廳的道路也向你敞開！未被撒拉遜人擄走的女人都安置在那裡。她們若得知你如何相助，定會將建築圖樣交予你！"
+
+與你的英雄一同前往地下大廳！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -954,6 +1366,37 @@ MISSION VERLOREN!
 Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+是英勇還是魯莽？當比雅尼倒下時，眾神為之落淚……失去這位英雄，你將無緣見到任務的結局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -962,7 +1405,8 @@ ZADANIE NIEWYKONANE!
         <font>$local$\fonts\font12.fnt</font>
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
-Heroizm czy beztroska? Gdy Bjarni umarł, bogowie płakali ... bez tego bohatera, cel misji pozostanie dla ciebie nieosiągalny!
+Heroizm czy beztroska? Gdy Bjarni umarł, bogowie płakali ... bez tego 
+bohatera, cel misji pozostanie dla ciebie nieosiągalny!
 </text>
       </lang>
     </block>
@@ -1010,6 +1454,33 @@ Anhand der bisher fehlenden Bauzeichnung musste es nun möglich sein, ein stabil
 Wir hatten bei dieser Mission einen neuen kleinen Freund hinzugewonnen. Noch ahnten wir nicht, wie sehr er uns noch helfen würde!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+世界奇蹟新進度
+
+憑這張此前缺失的建築圖樣，如今應能搭建起空中花園穩固的支架了。
+        
+        </text>
+        <usericon>2,5</usericon>
+        <text>
+
+
+這次任務中，我們結識了一位新朋友。當時還無人知曉，他日後會給予我們多大的幫助！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,5</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,5</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 NOWY POZIOM ULEPSZENIA CUDU
@@ -1054,6 +1525,25 @@ Die Gewächse des Gartens rekelten sich mit ihren prallen, glänzend grünen Bl�
 </text>
         <usericon>1,357,112</usericon>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+世界奇蹟新進度
+
+花園裡的草木舒展著飽滿油亮的綠葉迎向陽光，直竄雲霄！有了牛糞滋養，植物也獲得了必需的養分。
+        
+        </text>
+        <usericon>1,357,112</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,357,112</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,357,112</usericon>
+      </lang>
       <lang code="pol">
         <text> 
 NOWY POZIOM ULEPSZENIA CUDU
@@ -1089,6 +1579,22 @@ TRIBUT AN KOBUL ÜBERREICHT!
 Wir hatten den Kobulianer die Schuhe zum Tribut überreicht. Sie wechselten ihre Haltung uns gegenüber augenblicklich. Ihre Freude über die Schuhe war sogar so groß, dass sie uns überaus günstige Handelsangebote anboten. 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+已向科布林進獻貢品！
+
+我們將鞋作為貢品交到科布林人手中。他們對我們的態度頓時改觀。他們對鞋的喜悅如此之大，竟向我們開出了極為優厚的買賣條件。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 TRYBUT ZAPŁACONY KOBULOWI!
@@ -1121,6 +1627,22 @@ TRIBUT AN RÄUBER ÜBERREICHT!
 
 Wir hatten den Räubern den enormen Tribut bezahlt und so gaben sie die Frauen der Sarazenenhirten widerwillig frei. Sie meinten, die Sarazenenhirten seien eh solch leichte Opfer, das sie sie auch jederzeit wieder überfallen und plündern könnten...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+已向盜匪繳納貢品！
+
+我們向盜匪付清了鉅額貢金，他們才不甘不願地放還了撒拉遜牧民的婦女。他們說，撒拉遜牧民本就是這般軟弱的獵物，隨時可再劫掠一番……
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1160,6 +1682,25 @@ Du hast keine Erlaubnis, in die unterirdischen Hallen vorzudringen. Geh und hilf
 </text>
         <usericon>1,39,473</usericon>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+地下大廳入口
+
+你無權擅入地下大廳。去幫助牧民部族吧。待你與英雄們返回此處，入口自會為你敞開！
+        
+        </text>
+        <usericon>1,39,473</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,39,473</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,39,473</usericon>
+      </lang>
       <lang code="pol">
         <text> 
 WEJŚCIE DO PODZIEMNYCH KORYTARZY 
@@ -1188,6 +1729,20 @@ Nie masz pozwolenia na wejście do podziemnych korytarzy. Idź i pomóż plemien
         <text> 
 "Vielleicht würde Rinderdung den Pflanzen der hängenden Gärten gut tun?", sagten wir zu uns, als wir das erste Rind fanden...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+"牛糞或許對空中花園的植物大有裨益？"當我們尋得第一頭牛時，不禁如此思忖……
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1239,6 +1794,33 @@ BAUARBEITER
 "Gerne könnt ihr die Rohstoffe aus unserem Lager nutzen."
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+建築工
+
+"我們是來幫忙建造空中花園的……"建造場上方的這群幹練之人向我們說明。
+        
+        </text>
+        <usericon>1,373,35</usericon>
+        <text>
+
+
+"你們儘可取用我們倉庫裡的原料。"
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,373,35</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,373,35</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 BUDOWNICZY
@@ -1277,6 +1859,22 @@ MAGISCHE FELDER
 
 Eine seltsame Magie umgibt diese hellen Felder, die von den fünfmannshohen Obelisken umgeben sind. Das Eine bringt dich zu einem Tal in der Wüste, auf dem Anderen gelangst du zurück!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+魔法傳送場
+
+一股奇異的魔力環繞著這片明亮的場地，四周圍著兩人高的方尖碑。其一將你送往荒漠中的一處山谷，其二則送你返回！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1325,6 +1923,33 @@ There were 50 quarrystones in this magic chest. They were automatically transfer
 
 In dieser magischen Kiste befanden sich 50 Bruchsteine, die automatisch in unser Hauptquartier gelangten!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+50 塊碎石
+
+
+        
+        </text>
+        <usericon>1,367,38</usericon>
+        <text>
+
+
+這隻魔法箱裡裝著 50 塊碎石，已自動送入我們的主基地！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,367,38</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,367,38</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1378,6 +2003,33 @@ There were 100 gold coins in this magic chest. They were automatically transferr
 In dieser magischen Kiste befanden sich 100 Goldmünzen, die automatisch in unser Hauptquartier gelangten!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+100 枚錢幣
+
+
+        
+        </text>
+        <usericon>1,289,124</usericon>
+        <text>
+
+
+這隻魔法箱裡裝著 100 枚金幣，已自動送入我們的主基地！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,289,124</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,289,124</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 100 MONET
@@ -1430,6 +2082,37 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時的疏忽，人生便會急轉直下！你的女英雄希拉因你的大意而喪命！失去這位英雄，你將無緣見到任務的結局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1438,7 +2121,9 @@ ZADANIE NIEWYKONANE!
         <font>$local$\fonts\font12.fnt</font>
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
-Krótka chwila niedbalstwa, tyle tylko trzeba, żebyś stracił życie! Twoja bohaterka CYRA zginęła z powodu twojego niedbalstwa! Bez tej bohaterki, cel misji pozostanie dla ciebie nieosiągalny!
+Krótka chwila niedbalstwa, tyle tylko trzeba, żebyś stracił życie! Twoja 
+bohaterka CYRA zginęła z powodu twojego niedbalstwa! Bez tej bohaterki, 
+cel misji pozostanie dla ciebie nieosiągalny!
 </text>
       </lang>
     </block>
@@ -1466,6 +2151,22 @@ SARAZENENFRAUEN GESTORBEN!
 
 Oh je, die Frauen der Hirten sind gestorben. Ohne diese Frauen wird dir das Ende der Mission verborgen bleiben!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+撒拉遜婦女已殞命！
+
+哎呀，牧民的婦女死了。失去這些女人，你將無緣見到任務的結局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1499,6 +2200,22 @@ RÄUBER BESIEGT!
 
 Wir hatten die Räuber siegreich geschlagen! Nie wieder würden sie dem Hirtenvolk einen Schaden zufügen. 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+盜匪已被擊敗！
+
+我們大勝盜匪！他們再也無法傷害牧民部族分毫。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1547,6 +2264,33 @@ KATAPULTE GEFUNDEN
 
 Wer hatte diese Katapulte hier wohl stehen lassen? Uns konnten sie jedenfalls gute Dienste erweisen!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+發現投石機
+
+
+        
+        </text>
+        <usericon>1,103,74</usericon>
+        <text>
+
+
+會是誰把這些投石機留置此處？無論如何，它們必能為我們效犬馬之勞！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,103,74</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,103,74</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1600,6 +2344,33 @@ NEUE FREUNDE
 Als sich MANI und NORBERT das erste Mal sahen, wussten sie sofort, dass sie die besten Freunde werden würden! 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+新朋友
+
+
+        
+        </text>
+        <usericon>2,6</usericon>
+        <text>
+
+
+當瑪尼與諾伯特初次相見，便心知他們註定成為最好的朋友！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,6</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,6</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 NOWI PRZYJACIELE
@@ -1652,6 +2423,33 @@ MANI
 Mani möchte einmal ein Held werden, wie Cyra und Bjarni. Doch für diese Mission ist er noch zu klein!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+瑪尼
+
+
+        
+        </text>
+        <usericon>2,6</usericon>
+        <text>
+
+
+瑪尼夢想成為像希拉與比雅尼那般的英雄。但在這場任務裡，他年紀還太小！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,6</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,6</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 MANI
@@ -1688,6 +2486,22 @@ KÜHE GEFANGEN!
 
 Wir hatten zwar die Kühe gefangen, aber ohne die Bauzeichnungen und dem vollendeten Bau der hängenden Gärten waren sie uns noch zu nichts nutze!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+牛已捕獲！
+
+我們雖已捕獲牛群，但若無建築圖樣、未竟全功，它們眼下仍派不上用場！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1737,6 +2551,37 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held HATSCHI erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben. 
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時的疏忽，人生便會急轉直下！你的摯友與英雄哈奇因你的大意而喪命！失去這位英雄，你將無緣見到任務的結局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1745,7 +2590,9 @@ ZADANIE NIEWYKONANE!
         <font>$local$\fonts\font12.fnt</font>
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
-Krótka chwila niedbalstwa, tyle tylko trzeba, żebyś stracił życie! Twój przyjaciel i bohater HATCHIE zginął z powodu twojego niedbalstwa! Bez tego bohatera, cel misji pozostanie dla ciebie nieosiągalny!
+Krótka chwila niedbalstwa, tyle tylko trzeba, żebyś stracił życie! Twój 
+przyjaciel i bohater HATCHIE zginął z powodu twojego niedbalstwa! Bez 
+tego bohatera, cel misji pozostanie dla ciebie nieosiągalny!
 </text>
       </lang>
     </block>
@@ -1789,6 +2636,37 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held SIGURD erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時的疏忽，人生便會急轉直下！你的摯友與英雄西格德因你的大意而喪命！失去這位英雄，你將無緣見到任務的結局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1797,7 +2675,9 @@ ZADANIE NIEWYKONANE!
         <font>$local$\fonts\font12.fnt</font>
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
-Krótka chwila niedbalstwa, tyle tylko trzeba, żebyś stracił życie! Twój przyjaciel i bohater SIGURD zginął z powodu twojego niedbalstwa! Bez tego bohatera, cel misji pozostanie dla ciebie nieosiągalny!
+Krótka chwila niedbalstwa, tyle tylko trzeba, żebyś stracił życie! Twój 
+przyjaciel i bohater SIGURD zginął z powodu twojego niedbalstwa! Bez 
+tego bohatera, cel misji pozostanie dla ciebie nieosiągalny!
 </text>
       </lang>
     </block>
@@ -1841,6 +2721,37 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時的疏忽，人生便會急轉直下！你的摯友與英雄--巨龍諾伯特因你的大意而喪命！失去這位英雄，你將無緣見到任務的結局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1849,7 +2760,9 @@ ZADANIE NIEWYKONANE!
         <font>$local$\fonts\font12.fnt</font>
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
-Krótka chwila niedbalstwa, tyle tylko trzeba, żebyś stracił życie! Twój przyjaciel i bohater smok NORBERT zginął z powodu twojego niedbalstwa! Bez tego bohatera, cel misji pozostanie dla ciebie nieosiągalny!
+Krótka chwila niedbalstwa, tyle tylko trzeba, żebyś stracił życie! Twój 
+przyjaciel i bohater smok NORBERT zginął z powodu twojego niedbalstwa! Bez 
+tego bohatera, cel misji pozostanie dla ciebie nieosiągalny!
 </text>
       </lang>
     </block>
@@ -1873,6 +2786,20 @@ We were full of pride when the first plants began to grow and the trees took roo
 Voller Stolz waren wir, als die ersten Pflanzen blühten und die Bäume in der künstlichen Terrassenlandschaft ihre Wurzeln schlugen.
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+當第一株植物綻放、樹木在人造梯田中紮下根鬚，我們心中滿是自豪。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1900,6 +2827,20 @@ The people of Babylon were full of gratitude for our help. The Council of Nation
 Die Bewohner Babylons zeigten sich voll Dankbarkeit für unsere Mithilfe. Auch der Rat der Völker war überaus zufrieden mit uns. Unsere nächste Aufgabe erwartete uns nun im Land der Griechen: DER KOLOSS VON RHODOS!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+巴比倫居民對我們的協助感激不盡。各族議會也對我們極為滿意。下一樁任務已在希臘之地等候我們：羅德島巨像！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Mieszkańcy Babilonu byli nam niezmiernie wdzięczni za pomoc. Rada Narodów również była mocno usatysfakcjonowana. Nasze następne zadanie czeka w kraju Greków: KOLOS RODYJSKI!
@@ -1924,6 +2865,20 @@ MISSION COMPLETED!
         <text> 
 MISSION GEWONNEN! 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+任務成功！
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1971,6 +2926,37 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時的疏忽，人生便會急轉直下！瑪尼--比雅尼與希拉之子因你的大意而喪命！失去這位英雄，你將無緣見到任務的結局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -1979,7 +2965,9 @@ ZADANIE NIEWYKONANE!
         <font>$local$\fonts\font12.fnt</font>
         <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
         <text>
-Krótka chwila niedbalstwa, tyle tylko trzeba, żebyś stracił życie! MANI, syn Bjarniego i Cyry zginął z powodu twojego niedbalstwa! Bez niego, cel misji pozostanie dla ciebie nieosiągalny!
+Krótka chwila niedbalstwa, tyle tylko trzeba, żebyś stracił życie! MANI, 
+syn Bjarniego i Cyry zginął z powodu twojego niedbalstwa! Bez niego, cel 
+misji pozostanie dla ciebie nieosiągalny!
 </text>
       </lang>
     </block>
@@ -2004,6 +2992,21 @@ OF SEMIRAMIS
 DIE HÄNGENDEN GÄRTEN 
 VON SEMIRAMIS
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+塞米拉米斯
+空中花園
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 

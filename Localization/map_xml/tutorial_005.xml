@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,102 +14,153 @@
       <text lang="CHN">指派一名商人掌管两座仓库，看看会发生什么。</text>
       <text lang="eng">Give a merchant two warehouses and watch what happens.</text>
       <text lang="ger">Weise einem Händler zwei Lagerhäuser zu und schau, was passiert.</text>
+      <text lang="l11">指派一名商人掌管兩座倉庫，看看會發生什麼。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Daj kupcowi dwa magazyny i patrz, co się dzieje.</text>
     </string>
     <string id="1">
       <text lang="CHN">为雷米与施泰尼的仓库运去 5 件铁质工具！</text>
       <text lang="eng">Take 5 IRON TOOLS to Clayme and Stony's warehouse!</text>
       <text lang="ger">Bringe dem Lagerhaus vom Lehmi und Steini 5 EISENWERKZEUGE!</text>
+      <text lang="l11">為雷米與施泰尼的倉庫運去 5 件鐵質工具！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zabierz 5 ŻELAZNYCH NARZĘDZI do magazynu Clayma and Stoniego!</text>
     </string>
     <string id="2">
       <text lang="CHN">与法兰克村落交易 10 件家具！</text>
       <text lang="eng">Trade 10 furniture with the Frankish village!</text>
       <text lang="ger">Handele 10 MÖBEL mit den Frankendörfchen!</text>
+      <text lang="l11">與法蘭克村落交易 10 件傢俱！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Dokonaj wymiany 10 mebli z wioską Franków!</text>
     </string>
     <string id="3">
       <text lang="CHN">为船只配属一名商人与一辆推车，并经由搬运工将至少 5 袋面粉装船！</text>
       <text lang="eng">Have a merchant with a CART work on the ship and get a carrier to load it with at least 5 sacks of FLOUR!</text>
       <text lang="ger">Weise dem Schiff einen Händler samt KARREN zu und belade das Schiff mit mindestens 5 Säcken MEHL, durch den Träger!</text>
+      <text lang="l11">為船隻配屬一名商人與一輛推車，並經由搬運工將至少 5 袋麵粉裝船！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Niech kupiec zajmie się PRZEWOZEM na statku, oraz zabierz tragarza, aby załadował statek przynajmniej 5 workami MĄKI!</text>
     </string>
     <string id="4">
       <text lang="CHN">乘船驶往撒拉逊岛屿！</text>
       <text lang="eng">Sail to the Saracens' island!</text>
       <text lang="ger">Fahre mit dem Schiff zu der Sarazeneninsel!</text>
+      <text lang="l11">乘船駛往撒拉遜島嶼！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Pożegluj na wyspę Saracenów!</text>
     </string>
     <string id="5">
       <text lang="CHN">卸下货物，与撒拉逊人展开贸易！</text>
       <text lang="eng">Unload the goods and trade with the Saracens!</text>
       <text lang="ger">Entlade die Waren und treibe mit den Sarazenen Handel!</text>
+      <text lang="l11">卸下貨物，與撒拉遜人展開貿易！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wyładuj towary i handluj z Saracenami!</text>
     </string>
     <string id="51">
       <text lang="CHN">法兰克人</text>
       <text lang="eng">Franks</text>
       <text lang="ger">Franken</text>
+      <text lang="l11">法蘭克人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Frankowie</text>
     </string>
     <string id="52">
       <text lang="CHN">撒拉逊人</text>
       <text lang="eng">Saracens</text>
       <text lang="ger">Sarazenen</text>
+      <text lang="l11">撒拉遜人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Saraceni</text>
     </string>
     <string id="71">
       <text lang="CHN">索尔芬</text>
       <text lang="eng">Thorfinn</text>
       <text lang="ger">Thorfinn</text>
+      <text lang="l11">索爾芬</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Thorfinn</text>
     </string>
     <string id="72">
       <text lang="CHN">洛丁</text>
       <text lang="eng">Lodin</text>
       <text lang="ger">Lodin</text>
+      <text lang="l11">洛丁</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Lodin</text>
     </string>
     <string id="73">
       <text lang="CHN">雷米</text>
       <text lang="eng">Clayme</text>
       <text lang="ger">Lehmi</text>
+      <text lang="l11">雷米</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Clayme</text>
     </string>
     <string id="74">
       <text lang="CHN">施泰尼</text>
       <text lang="eng">Stony</text>
       <text lang="ger">Steini</text>
+      <text lang="l11">施泰尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Stony</text>
     </string>
     <string id="75">
       <text lang="CHN">斯图尔拉</text>
       <text lang="eng">Sturla</text>
       <text lang="ger">Sturla</text>
+      <text lang="l11">斯圖爾拉</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Sturla</text>
     </string>
     <string id="76">
       <text lang="CHN">斯诺里</text>
       <text lang="eng">Snorri</text>
       <text lang="ger">Snorri</text>
+      <text lang="l11">斯諾里</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Snorri</text>
     </string>
     <string id="79">
       <text lang="CHN">阿里</text>
       <text lang="eng">Ari</text>
       <text lang="ger">Ari</text>
+      <text lang="l11">阿里</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Ari</text>
     </string>
     <string id="98">
       <text lang="CHN">本关介绍与异族的陆上与海上贸易，以及商人在本村中的运用。</text>
       <text lang="eng">Here you will be shown how to trade with other people by land and sea, and how to use the merchant in your own village.</text>
       <text lang="ger">Hier wirst du eingeführt, in den Land und Seehandel mit anderen Völkern, aber auch in die Verwendung des Händlers im eigenen Dorf.</text>
+      <text lang="l11">本關介紹與異族的陸上與海上貿易，以及商人在本村中的運用。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">W tym samouczku dowiesz się, jak handlować z innymi ludami na lądzie i morzu oraz jak wykorzystać kupca we własnej wiosce.</text>
     </string>
     <string id="99">
       <text lang="CHN">5) 贸易</text>
       <text lang="eng">5) TRADE AND SHIPS</text>
       <text lang="ger">5) HANDEL</text>
+      <text lang="l11">5) 貿易</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">5) HANDEL I STATKI</text>
     </string>
   </strings>
@@ -133,6 +187,20 @@ Waren können innerhalb deines Dorfes, aber auch außerhalb des Dorfes zum Tausc
 
 Hier wirst du eingeführt, in den Land und Seehandel mit anderen Völkern, aber auch in die Verwendung des Händlers im eigenen Dorf ...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+商品可以在村莊內部交換，也可以與外部民族進行貿易。
+
+要建立貿易聯絡，你首先需要一個運作良好的手推車系統和一個倉庫。
+按照出現的任務提示進行操作。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -182,6 +250,23 @@ Der Handel ist im eigenen Volk zwischen allen Gebäuden mit entsprechendem Lager
 Weise einem Händler zwei Lagerhäuser zu.
 </text>
       </lang>
+      <lang code="l11">
+        <text>商人
+
+這是索爾芬、洛丁和阿里，三位資質很好的年
+
+輕維京人，他們願意為你效勞--作為商人。
+
+每位商人需要至少兩座倉
+
+庫，以便存放他們的貨物。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 KUPCY
@@ -222,6 +307,19 @@ Hast du die beiden Handelsposten zugewiesen, solltest du den "HÄNDLER EINSTELLE
 Handelst du innerhalb deines Volkes, erscheint ein Fenster mit beiden Handelsposten und in der Mitte siehst du eine Liste mit den Waren, die gehandelt werden können. Klickst du nichts an, versucht der Händler, die Warenbestände der Lager auszugleichen. Die Pfeile neben der Liste symbolisieren einerseits die Richtung, in welche die Ware gebracht wird, andererseits wählst du damit auch deine Waren aus. 
 Klickst du mit einem Linksklick auf einen oder mehrere Pfeile, werden nur noch die Waren transportiert, deren Richtungspfeile aktiv, also hell sind. 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+如果你不告訴商人該做什麼，他會隨心所欲地交易，而不考慮你的利益。
+
+給他分配兩座倉庫，以便他能有效工作。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -266,6 +364,21 @@ Wähle Thorfinn, Lodin oder Ari aus und weise ihm als Handelhaus 1 das nördlich
 
 Bringe dem Lagerhaus dann 5 EISENWERKZEUGE! 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>雷米和施泰尼需要工具（內部貿易）
+
+你的維京人經常需要工
+
+具來加快他們的工作。
+
+讓你的手推車系統把貨物送到各處吧。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -312,6 +425,21 @@ Hinweis:
 Du kannst einen Karren einem Wikinger auch über die Tooltip-Option direkt mit rechtem Mausklick als Fahrzeug zuweisen.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+手推車和牛車
+
+手推車對貨物的內部運輸至關重要。手推車越多，你的商人就越能充分發揮效率。
+
+每個倉庫至少有一輛手推車。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 WÓZKI RĘCZNE I WOZY ZAPRZĘGOWE 
@@ -351,6 +479,21 @@ Nun haben Lehmi und Steini ihre Werkzeuge und können besser arbeiten.
 
 Unsere Händler werden indes neue Handelsbeziehungen zu einem Frankenvolk aufbauen...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+棒極了！
+
+現在雷米和施泰尼有了他們的工具，可以開始工作了。
+
+但商人還需要更多的商品來交易。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -398,6 +541,21 @@ Willst du ein anderes Handelhaus auswählen, wähle den Button Handelshaus wegne
 Handele mit den Franken 10 Möbel! Du erhältst dafür 20 Goldstücke.
 </text>
       </lang>
+      <lang code="l11">
+        <text>與異族進行貿易
+
+要與另一個民族進行遠端貿易
+
+，你必須與它簽訂貿易協定。
+
+可以透過向該民族進貢來獲得這個協定。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 HANDLOWANIE Z INNYMI NACJAMI
@@ -433,6 +591,19 @@ SEHR GUT!
 
 Du hast 20 Goldstücke von den Franken für deine Möbel erhalten. Damit hast du deinen Handelsvertrag erfüllt.
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+非常好！
+
+你從法蘭克人那裡透過貿易獲得了 20 枚金幣。這證明了貿易是非常有利可圖的！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -476,6 +647,23 @@ Um ein Schiff zu beladen, muss ihm immer ein TRÄGER zugewiesen sein. Die Schiff
 Belade das Schiff mit mindestens 5 Säcke Mehl und weise ihm einen TRÄGER samt KARREN zu. (Weise dazu erst dem Träger einen Karren als Fahrzeug zu, wähle dann den KARREN aus und weise ihm den Schiff zu.)
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+與此同時，我們轉向遠洋貿易。
+
+有時需要裝載船隻，將貨物運往遙遠的彼岸……
+
+為此，你需要將貨物裝上一
+
+艘船！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Rzućmy okiem na handel morski. Czasami będziesz potrzebował załadować statki, aby przewieźć towary do odległych krajów ... ja np. ta przyjazna wioska Saracenów.
@@ -517,6 +705,21 @@ Steuern kann ein Schiff jeder erwachsene Wikinger, dem das Schiff als Fahrzeug z
 
 Steuere das Schiff, wie einen deiner Wikinger, mit den "SENDEN NACH" Befehl an das Ufer der Sarazenen. 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+你的船已裝載完畢，可以揚帆出海了！
+
+任何成年維京人都可以操控一艘分配給他的船。
+
+設定好航線，然後就可以欣賞你的維京人把船開往遠方的情景了。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -569,6 +772,23 @@ Deine Wikinger waren schon fleißig und haben ein Lagerhaus am Sarazenenufer err
 Entlade die Waren (indem du das Schiff auswählst, die Leertaste und den Button "Alle Waren ausladen" drückst) und treibe mit den Sarazenen Handel!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+你已抵達撒拉森人的海岸。想用船靠岸，你必須先“停靠”，因為只有停靠後，維京人才能上下船、裝卸貨物！！！
+
+為此先選中船，按空格鍵顯示船隻的當前操作。選擇“停靠”項，再右鍵點選岸邊亮起的某個位置。停靠的船以揚起的船帆為標誌。
+
+船有自己的倉庫，和主屋、倉庫類似，但船是運輸工具而不是房屋。不能直接從船上交易，你需要一座固定的貿易站，也就是倉庫。你的維京人已經勤快地建好了一座岸邊倉庫。
+
+卸下貨物（選中船，按空格鍵，再按“卸下所有貨物”按鈕），然後和撒拉森人做生意！
+</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Osiągnąłeś wybrzeże Saracenów.
@@ -610,6 +830,19 @@ Du hast auch den Handelsvertrag mit den Sarazenen erfüllt und kannst dich jetzt
 Auf zum nächsten Tutorial!
 </text>
       </lang>
+      <lang code="l11">
+        <text>太棒了！
+
+你也履行了與撒拉森人的貿易協定，
+
+現在可以去跟他們談更多的交易了。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 FANTASTYCZNIE!
@@ -642,6 +875,17 @@ Assign the two warehouses to the merchant!
 Weise dem Händler die zwei Lagerhäuser zu!
 </text>
       </lang>
+      <lang code="l11">
+        <text>檢查一下你是否已將北方的倉庫分配為貿易站 1，
+
+並將南方的一座倉庫作為另一個貿易站分配給了商人。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 
@@ -669,6 +913,17 @@ Have one merchant take iron tools to Clayme and Stony's warehouse!
 Lasse einen Händler Eisenwerkzeuge zum Lagerhaus von Lehmi und Steini bringen!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+讓一名商人把鐵製工具送到雷米的倉庫和施泰尼的倉庫，這兩樣貨物可以繼續交換。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 
@@ -694,6 +949,17 @@ Trade furniture for gold with the Franks.
 Handle bei Franken Möbel gegen Gold. 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+用法蘭克人的傢俱換取黃金--這是非常划算的交易。你的商人已經與多方建立了廣泛的聯絡。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 
@@ -716,6 +982,17 @@ TRADE AND SHIPS
         <text> 
 HANDEL UND SCHIFFFAHRT
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+貿易與航海--透過貿易獲取外商的新商品
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 

@@ -1,58 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="02_Spanien" export_map_id="02_Spanien" map_md5="e2c43f5aa7e29fc5c375dd316bb404a6" IsC2M="true">
+<localization version="1.3" map_id="02_Spanien" export_map_id="02_Spanien" map_md5="e2c43f5aa7e29fc5c375dd316bb404a6" IsC2M="true" deprecated="false">
   <languages>
-    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">西班牙</text>
-      <text lang="ger">Spanien</text>
       <text lang="eng">Spain</text>
+      <text lang="ger">Spanien</text>
+      <text lang="l11">西班牙</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hiszpania</text>
     </string>
     <string id="1">
       <text lang="CHN">你已抵达西班牙。</text>
-      <text lang="ger">Du bist in Spanien angekommen.</text>
       <text lang="eng">You have arrived in Spain.</text>
+      <text lang="ger">Du bist in Spanien angekommen.</text>
+      <text lang="l11">你已抵達西班牙。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Dotarłeś do Hiszpanii.</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
-      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得友好。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
-      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得中立。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
-      <text lang="ger">Spieler0</text>
       <text lang="eng">Player0</text>
+      <text lang="ger">Spieler0</text>
+      <text lang="l11">玩家0</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
-      <text lang="ger">Spieler1</text>
       <text lang="eng">Player1</text>
+      <text lang="ger">Spieler1</text>
+      <text lang="l11">玩家1</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
-      <text lang="ger">Spieler2</text>
       <text lang="eng">Player2</text>
+      <text lang="ger">Spieler2</text>
+      <text lang="l11">玩家2</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz2</text>
     </string>
     <string id="53">
       <text lang="CHN">玩家3</text>
-      <text lang="ger">Spieler3</text>
       <text lang="eng">Player3</text>
+      <text lang="ger">Spieler3</text>
+      <text lang="l11">玩家3</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz3</text>
     </string>
   </strings>
@@ -61,16 +88,25 @@
       <lang code="CHN">
         <text>你失败了！</text>
       </lang>
+      <lang code="eng">
+        <text>
+You have lost!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Du hast verloren!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-You have lost!
-</text>
+      <lang code="l11">
+        <text>你失敗了！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -82,16 +118,25 @@ Przegrałeś!
       <lang code="CHN">
         <text>任务失败！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission verloren!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission lost!
-</text>
+      <lang code="l11">
+        <text>任務失敗！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -103,16 +148,25 @@ Misja przegrana!
       <lang code="CHN">
         <text>玩家1已阵亡。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 has died.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist gestorben.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 has died.
-</text>
+      <lang code="l11">
+        <text>玩家1已陣亡。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -124,16 +178,25 @@ Gracz 1 zmarł.
       <lang code="CHN">
         <text>玩家2已阵亡。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 has died.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist gestorben.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 has died.
-</text>
+      <lang code="l11">
+        <text>玩家2已陣亡。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -145,16 +208,25 @@ Gracz 2 zmarł.
       <lang code="CHN">
         <text>玩家3已阵亡。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 has died.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 3 ist gestorben.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 3 has died.
-</text>
+      <lang code="l11">
+        <text>玩家3已陣亡。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -166,16 +238,25 @@ Gracz 3 zmarł.
       <lang code="CHN">
         <text>玩家2现在转为敌对。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now hostile.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt feindlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now hostile.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為敵對。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -187,16 +268,25 @@ Gracz 2 jest teraz wrogi.
       <lang code="CHN">
         <text>玩家3现在转为敌对。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now hostile.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 3 ist jetzt feindlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 3 is now hostile.
-</text>
+      <lang code="l11">
+        <text>玩家3現在轉為敵對。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -208,16 +298,25 @@ Gracz 3 jest teraz wrogi.
       <lang code="CHN">
         <text>玩家1现在转为友好。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now friendly.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist jetzt freundlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 is now friendly.
-</text>
+      <lang code="l11">
+        <text>玩家1現在轉為友好。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -229,16 +328,25 @@ Gracz 1 jest teraz przyjazny.
       <lang code="CHN">
         <text>玩家2现在转为友好。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now friendly.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt freundlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now friendly.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為友好。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -250,16 +358,25 @@ Gracz 2 jest teraz przyjazny.
       <lang code="CHN">
         <text>玩家1现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家1現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -271,16 +388,25 @@ Gracz 1 jest teraz neutralny.
       <lang code="CHN">
         <text>玩家3现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 3 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 3 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 3 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家3現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -293,6 +419,12 @@ Gracz 3 jest teraz neutralny.
         <text>站住！不许再往前一步。这是我们的领土。滚开。
 利箭朝我们射来。这里似乎是通往葡萄牙王国的边界。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Halt! Not another step. This is our land. Be gone.
+Arrows flew toward us. This appeared to be the border to the Portuguese empire.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Halt! Keinen Schritt weiter. Das ist unser Land. Schert Euch weg.
@@ -300,11 +432,15 @@ Pfeile schossen auf uns zu. Dies schien die Grenze zum portugisischen Reichs zu 
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Halt! Not another step. This is our land. Be gone.
-Arrows flew toward us. This appeared to be the border to the Portuguese empire.
-</text>
+      <lang code="l11">
+        <text>站住！不許再往前一步。這是我們的領土。滾開。
+利箭朝我們射來。這裡似乎是通往葡萄牙王國的邊界。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -318,6 +454,12 @@ Strzały poleciały w naszą stronę. Wydawało się, że to granica portugalski
         <text>你好，我们是法国人。给我们缴纳一份“微薄的”贡品，我们便乐意与你们通商。
 你们有蜂蜜酒吗？我们的族人想要很多蜂蜜酒。顺带一提，我们打造的长剑和板甲是全法国最好的……</text>
       </lang>
+      <lang code="eng">
+        <text>
+Bonjour, we are the French. Pay us a "modest" tribute, and we will gladly trade with you.
+Do you have mead? Our people want much mead. By the way, we make the finest long swords and plate armor in all of France....
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Bonjour, wir sind die Franzosen. Zahlt uns einen "bescheidenen" Tribut, und wir handeln gerne mit Euch.
@@ -325,11 +467,15 @@ Habt Ihr Met ? Unser Volk möchte viel Met. Wir stellen übrigens die besten Lan
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Bonjour, we are the French. Pay us a "modest" tribute, and we will gladly trade with you.
-Do you have mead? Our people want much mead. By the way, we make the finest long swords and plate armor in all of France....
-</text>
+      <lang code="l11">
+        <text>你好，我們是法國人。給我們繳納一份“微薄的”貢品，我們便樂意與你們通商。
+你們有蜂蜜酒嗎？我們的族人想要很多蜂蜜酒。順帶一提，我們打造的長劍和板甲是全法國最好的……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -346,6 +492,15 @@ Czy macie miód pitny? Nasz lud chce dużo miodu pitnego. Przy okazji produkujem
 你们的头发怎么这么长？
 不管怎样，显然这个民族是头一回见到维京人。我们坐下来，先一起喝了几瓶蜂蜜酒。随后他们便向我们提出了慷慨的交易条件。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Yoo-hoo, welcome, dear folks! Who are you, then?
+What long beards you have!
+What strange helmets you're wearing!
+What long hair you have!
+One thing was clear — these people were seeing a Viking for the first time. We sat down and shared a few bottles of mead together. After that, we were offered generous trade deals.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Juhuu, willkommen ihr lieben Leut'. Wer seit ihr denn ?
@@ -356,14 +511,18 @@ Klar war jedenfalls, daß dieses Volk zum ersten Mal einen Wickinger sah. Wir se
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Yoo-hoo, welcome, dear folks! Who are you, then?
-What long beards you have!
-What strange helmets you're wearing!
-What long hair you have!
-One thing was clear — these people were seeing a Viking for the first time. We sat down and shared a few bottles of mead together. After that, we were offered generous trade deals.
-</text>
+      <lang code="l11">
+        <text>呀嗬，歡迎啊，可愛的人們。你們究竟是誰呀？
+你們的鬍子怎麼這麼長？
+你們頭上戴的頭盔怎麼這麼古怪？
+你們的頭髮怎麼這麼長？
+不管怎樣，顯然這個民族是頭一回見到維京人。我們坐下來，先一起喝了幾瓶蜂蜜酒。隨後他們便向我們提出了慷慨的交易條件。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -393,6 +552,25 @@ Jedno było jasne — ten lud po raz pierwszy widział Wikinga. Usiedliśmy i ra
 
 制作者：尤基</text>
       </lang>
+      <lang code="eng">
+        <text>
+Finally we had arrived in Spain. Our helmsman was so drunk that he ran aground on a reef off the coast. We could only save a few crates of weapons, which Bjarni did not like at all.
+Angry about this, he gave us the following order:
+Store 40 long swords, 40 defense amulets, and 40 plate armor in the warehouses now.
+Furthermore, he ordered, the Portuguese live in the west.
+Destroy them all!!
+But why we had to sail to Spain, he did not say.
+Well, grumbling, we set to work. But where were we supposed to get the amulets?
+We decided to send a scout. Perhaps there were other peoples here with whom we could trade..........
+
+1. Build your village
+2. Defeat the Portuguese in the west
+3. Store 40 long swords, 40 defense amulets, and 40 plate armor in your future warehouses.
+
+
+Created by: Yogi
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Endlich waren wir in Spanien angekommen. Unser Steuermann war so betrunken, daß er vor der Küste auf ein Riff gefahren war. Wir konnten nur wenige Kisten mit Waffen retten, was Bjarni gar nicht gut fand.
@@ -413,24 +591,28 @@ Erstellt von: Yogi
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Finally we had arrived in Spain. Our helmsman was so drunk that he ran aground on a reef off the coast. We could only save a few crates of weapons, which Bjarni did not like at all.
-Angry about this, he gave us the following order:
-Store 40 long swords, 40 defense amulets, and 40 plate armor in the warehouses now.
-Furthermore, he ordered, the Portuguese live in the west.
-Destroy them all!!
-But why we had to sail to Spain, he did not say.
-Well, grumbling, we set to work. But where were we supposed to get the amulets?
-We decided to send a scout. Perhaps there were other peoples here with whom we could trade..........
+      <lang code="l11">
+        <text>我們終於抵達了西班牙。我們的舵手醉得厲害，竟在近岸處把船撞上了一處暗礁。我們只搶救出寥寥幾箱武器，這讓比雅尼極為不滿。
+他怒氣衝衝地向我們下令：
+立刻在倉庫中儲備40把長劍、40件防禦護符和40副板甲。
+他還接著命令道，西邊住著葡萄牙人。
+把他們統統消滅！！
+可我們究竟為何非得航行到西班牙，他卻隻字未提。
+罷了，我們只好一邊嘟囔一邊動工。可這些護符又該從哪兒弄來？
+我們決定派出一名偵察兵。也許這附近還有可以通商的族群……
 
-1. Build your village
-2. Defeat the Portuguese in the west
-3. Store 40 long swords, 40 defense amulets, and 40 plate armor in your future warehouses.
+1. 建立你的村莊
+2. 擊敗西邊的葡萄牙人
+3. 在你未來的倉庫中儲備40把長劍、40件防禦護符和40副板甲。
 
 
-Created by: Yogi
-</text>
+製作者：尤基</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -456,16 +638,25 @@ Zadanie przygotował: Yogi
       <lang code="CHN">
         <text>西班牙</text>
       </lang>
+      <lang code="eng">
+        <text>
+Spain
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spanien
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Spain
-</text>
+      <lang code="l11">
+        <text>西班牙</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -481,6 +672,15 @@ Hiszpania
 我们惊讶地面面相觑。比雅尼到底想在法国做什么？
 再说法国人会不会张开双臂欢迎我们，实在很难说。于是我们把货物装上牛车，踏上了前往法国的路。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Finally we had stored away all the goods and defeated the Portuguese.
+"Bravo," Bjarni praised us. "You are really good. Let's set off now."
+Our next target was France.
+We looked at each other in astonishment. What did Bjarni want in France?
+And whether the French would welcome us with open arms was more than doubtful. So we loaded our oxen and set off in the direction of France.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Endlich hatten wir alle Waren eingelagert, und die Portugiesen besiegt.
@@ -491,14 +691,18 @@ Und ob uns die Franzosen mit offenen Armen empfingen, war doch mehr als fraglich
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Finally we had stored away all the goods and defeated the Portuguese.
-"Bravo," Bjarni praised us. "You are really good. Let's set off now."
-Our next target was France.
-We looked at each other in astonishment. What did Bjarni want in France?
-And whether the French would welcome us with open arms was more than doubtful. So we loaded our oxen and set off in the direction of France.
-</text>
+      <lang code="l11">
+        <text>我們終於儲備好了所有物資，也擊敗了葡萄牙人。
+幹得好，比雅尼稱讚我們。你們可真了不起。現在我們該出發了。
+我們的下一個目標是法國。
+我們驚訝地面面相覷。比雅尼到底想在法國做什麼？
+再說法國人會不會張開雙臂歡迎我們，實在很難說。於是我們把貨物裝上牛車，踏上了前往法國的路。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -514,16 +718,25 @@ A to, czy Francuzi przyjmą nas z otwartymi ramionami, było więcej niż wątpl
       <lang code="CHN">
         <text>任务达成！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission gewonnen!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission won!
-</text>
+      <lang code="l11">
+        <text>任務達成！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

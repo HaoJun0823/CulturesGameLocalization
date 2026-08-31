@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,42 +14,63 @@
       <text lang="CHN">猎杀最多的狼</text>
       <text lang="eng">Kill the most wolves.</text>
       <text lang="ger">Erlege die meisten Wölfe</text>
+      <text lang="l11">獵殺最多的狼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zabij jak najwięcej wilków.</text>
     </string>
     <string id="50">
       <text lang="CHN">比雅尼的子民</text>
       <text lang="eng">Bjarni's Tribe</text>
       <text lang="ger">Bjarnis Volk</text>
+      <text lang="l11">比雅尼的子民</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Lud Bjarniego</text>
     </string>
     <string id="51">
       <text lang="CHN">法兰克国王</text>
       <text lang="eng">King of the Franks</text>
       <text lang="ger">Frankenkönig</text>
+      <text lang="l11">法蘭克國王</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Król Franków</text>
     </string>
     <string id="52">
       <text lang="CHN">拜占庭人</text>
       <text lang="eng">Byzantines</text>
       <text lang="ger">Byzantiner</text>
+      <text lang="l11">拜占庭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bizantyjczycy</text>
     </string>
     <string id="98">
       <text lang="CHN">国王号召全民参与一年一度的猎狼行动。今年，谁将成为狩猎之王？</text>
       <text lang="eng">The King is inviting everyone to take part in the yearly wolf hunt. Who will be King of the Hunt this year?</text>
       <text lang="ger">Der König ruft zur alljährlichen Wolfsjagd auf. Wer wird dieses Jahr König der Jagd?</text>
+      <text lang="l11">國王號召全民參與一年一度的獵狼行動。今年，誰將成為狩獵之王？</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Król zaprasza wszystkich na doroczne łowy. Kto tym razem upoluje najwięcej wilków?</text>
     </string>
     <string id="99">
       <text lang="CHN">大狩猎</text>
       <text lang="eng">THE GREAT HUNT</text>
       <text lang="ger">AUF DER JAGD</text>
+      <text lang="l11">大狩獵</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">WIELKIE ŁOWY</text>
     </string>
     <string id="100">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
   </strings>
@@ -86,6 +110,23 @@ Dieses Jahr haben sich deine Wikinger fest vorgenommen, den Preis zu erringen, a
 
 Wer wird in kürzester Zeit die meisten Wölfe erlegen?
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+和每年春天一樣，國王今年再次號召舉行盛大的狩獵。他要求每位臣民肅清境內的狼群--那些寒冬裡餓著肚子在牲畜棚周圍遊蕩的狼群……
+
+誰能將森林裡的狼清除乾淨，誰就會被封為狩獵之王，並且整整一年免除一切賦稅。
+
+今年，你的維京人下定決心要奪下這個獎賞，但他們遇到了強勁的對手：著名的拜占庭獵人在河對岸安營紮寨，同樣志在必得。
+
+誰能在最短的時間內獵殺最多的狼？
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -143,6 +184,32 @@ Mit reichen Geschenken beladen kehrten wir einige Tage später in unser Dorf zur
 Das nächste Jahr würden wir es wieder versuchen!
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務成功！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+成了！在一場盛大的典禮上，國王以最隆重的排場接見了我們。在歡騰的宴會上，他授予我們“狩獵之王”的榮譽稱號。
+
+滿載豐厚禮物的我們，幾天後回到村莊--今年一整年，村莊都免於一切賦稅。
+
+明年，我們要再來一較高下！
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -175,6 +242,17 @@ What a shame! Your hero Bjarni is sadly pushing up daisies! You had better take 
 
 Was für ein Unglück! Bjarni, dein Held, schaut sich nun leider die Radieschen von unten an! Pass beim nächsten Mal besser auf!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+真是飛來橫禍！你的英雄比雅尼，如今只能無奈地翹辮子了！下次可得小心些！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -220,6 +298,30 @@ Verloren! Die anderen Jäger waren uns zuvorgekommen! Widerwillig mussten wir un
 Oder war es nur Glück gewesen? Als der König ihnen in einer prächtigen Zeremonie den Titel "König der Jagd" verlieh, schworen wir uns, es nächstes Jahr wieder zu versuchen!
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+輸了！其他獵人搶在了我們前頭！我們滿心不情願，卻也不得不承認他們確實比我們更勝一籌。
+
+還是說，那僅僅是運氣使然？當國王在盛大典禮上把“狩獵之王”的頭銜授予他們時，我們暗暗發誓：明年定要再來！
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -251,6 +353,17 @@ Here, in the capital, the King resided. Here we would be able to trade.
 Hier, in der Hauptstadt des Landes, residierte der König. Hier konnten wir Handel treiben.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+在這片國土的首都，國王坐鎮於此。在這裡，我們可以進行貿易。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -275,6 +388,17 @@ When we met the strange hunters, we weren't exactly received with joy. They want
 
 Als wir auf die fremden Jäger trafen, wurden wir nicht sonderlich freundlich empfangen. Sie wollten unbedingt den Titel erlangen und dazu war ihnen jedes Mittel recht!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+當我們遇見那些陌生的獵人時，並未受到多少熱情的款待。他們志在必得地要奪下這個頭銜，為此不惜不擇手段！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -326,6 +450,32 @@ Bei einem rauschenden Fest verlieh er uns den Ehrentitel "König der Jagd". Mit 
 Das nächste Jahr würden wir es wieder versuchen!
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務成功！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+我們的戰士將那些外人擊潰逃竄。國王對這場較量的結局並不十分滿意--這勢必會引發外交上的糾葛。但如今，他再也無法將獎賞從我們手中奪走了！
+
+在一場歡騰的宴會上，他授予我們“狩獵之王”的榮譽稱號。滿載豐厚禮物的我們，幾天後回到村莊--今年一整年，村莊都免於一切賦稅。
+
+明年，我們要再來一較高下！
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -359,6 +509,17 @@ W przyszłym roku znowu spróbujemy szczęścia!
 "Ihr werdet schon sehen, wer von uns der Stärkere ist!" erwiderten die anderen Jäger auf unsere Reaktion. 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+“你們很快就會知道，咱們誰更勝一籌！”其他獵人回應道。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -385,6 +546,17 @@ THE GREAT HUNT
 AUF DER JAGD
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+大狩獵
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -431,6 +603,30 @@ Die Konkurrenz hat deinen gesamten Stamm niedergestreckt und somit natürlich di
 Was dich logisch gesehen zum Verlierer macht, aber was kümmern sich Tote schon um Logik...
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+任務失敗！
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <text>
+競爭對手將你的整個部族擊潰，自然也由此贏得了這場狩獵。
+
+從邏輯上講，你確實成了輸家--可逝者又何必在乎什麼邏輯……
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -461,6 +657,17 @@ Our hunt was going well, but we heard rumours that our competition was planning 
 
 Unsere Jagd schien gut voranzugehen, doch uns erreichten Gerüchte, die Konkurrenz plane einen hinterhältigen Angriff, um uns am Sieg zu hindern!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+我們的狩獵看似進展順利，卻有風聲傳來：競爭對手正密謀發動陰險的突襲，意圖將我們拒於勝利門外！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

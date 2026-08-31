@@ -1,52 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<localization version="1.3" map_id="02_Die_Lavainsel" export_map_id="02_Die_Lavainsel" map_md5="c0ca5cddb4075c3925d8121a67adc1ca" IsC2M="true">
+<localization version="1.3" map_id="02_Die_Lavainsel" export_map_id="02_Die_Lavainsel" map_md5="c0ca5cddb4075c3925d8121a67adc1ca" IsC2M="true" deprecated="false">
   <languages>
-    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" />
-    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" />
+    <language code="CHN" alias="CHN" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
     <string id="0">
       <text lang="CHN">熔岩岛</text>
-      <text lang="ger">Die Lavainsel</text>
       <text lang="eng">The Lava Island</text>
+      <text lang="ger">Die Lavainsel</text>
+      <text lang="l11">熔岩島</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wyspa Lawy</text>
     </string>
     <string id="1">
       <text lang="CHN">费利克斯的族人在这里曾有一处小型前哨，可当我们抵达时，它却已不见踪影……</text>
-      <text lang="ger">Das Volk von Felix hatte hier einen kleinen Außenposten, doch als wir ankamen war er verschwunden.....</text>
       <text lang="eng">Felix's people had a small outpost here, but when we arrived it had vanished...</text>
+      <text lang="ger">Das Volk von Felix hatte hier einen kleinen Außenposten, doch als wir ankamen war er verschwunden.....</text>
+      <text lang="l11">費利克斯的族人在這裡曾有一處小型前哨，可當我們抵達時，它卻已不見蹤影……</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Lud Felixa miał tu mały przyczółek, lecz gdy dotarliśmy, zniknął...</text>
     </string>
     <string id="3">
       <text lang="CHN">缴纳贡品，使玩家变得友好。</text>
-      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player friendly.</text>
+      <text lang="ger">Zahle Tribut, um Spieler freundlich zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得友好。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza przyjaźnie.</text>
     </string>
     <string id="4">
       <text lang="CHN">缴纳贡品，使玩家变得中立。</text>
-      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
       <text lang="eng">Pay tribute to make the player neutral.</text>
+      <text lang="ger">Zahle Tribut, um Spieler neutral zu stimmen.</text>
+      <text lang="l11">繳納貢品，使玩家變得中立。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać trybut, aby usposobić gracza neutralnie.</text>
     </string>
     <string id="50">
       <text lang="CHN">玩家0</text>
-      <text lang="ger">Spieler0</text>
       <text lang="eng">Player0</text>
+      <text lang="ger">Spieler0</text>
+      <text lang="l11">玩家0</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz0</text>
     </string>
     <string id="51">
       <text lang="CHN">玩家1</text>
-      <text lang="ger">Spieler1</text>
       <text lang="eng">Player1</text>
+      <text lang="ger">Spieler1</text>
+      <text lang="l11">玩家1</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz1</text>
     </string>
     <string id="52">
       <text lang="CHN">玩家2</text>
-      <text lang="ger">Spieler2</text>
       <text lang="eng">Player2</text>
+      <text lang="ger">Spieler2</text>
+      <text lang="l11">玩家2</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Gracz2</text>
     </string>
   </strings>
@@ -57,6 +81,13 @@
 此外，此地西南方还住着一个岛屿民族。当年我们曾从他们那里换到过珍贵的货物。
 任务目标：去拜访西南方的那个民族。为此建造一艘船。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Thank you for building this little dwelling for me, my friends. Beware of the Lava Island. It is said there is nothing edible there. But it is only a rumour, for everyone who had set foot on the island never came back.....
+Besides, there is an island people southwest of here. In the past we were able to trade valuable goods with them.
+Mission goal: Seek out the people in the southwest. Build a ship for this purpose.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Danke, das ihr für mich dieses kleine Domizil gebaut habt meine Freunde. Seit auf der Lavainsel auf der Hut. Es heißt es gäbe dort nichts essbares. Es ist aber nur ein Gerücht, denn jeder der die Insel betreten hatte kam niemals zurück.....
@@ -65,12 +96,16 @@ Missionsziel: Suche das Volk im Südwesten auf. Baue dazu ein Schiff.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Thank you for building this little dwelling for me, my friends. Beware of the Lava Island. It is said there is nothing edible there. But it is only a rumour, for everyone who had set foot on the island never came back.....
-Besides, there is an island people southwest of here. In the past we were able to trade valuable goods with them.
-Mission goal: Seek out the people in the southwest. Build a ship for this purpose.
-</text>
+      <lang code="l11">
+        <text>謝謝你們，我的朋友們，為我建起這座小小的居所。在熔岩島上要多加小心。據說那裡沒有能吃的東西。不過那只是傳言，因為凡是踏上那座島的人都再沒回來過……
+此外，此地西南方還住著一個島嶼民族。當年我們曾從他們那裡換到過珍貴的貨物。
+任務目標：去拜訪西南方的那個民族。為此建造一艘船。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -84,16 +119,25 @@ Cel misji: Odnajdź lud na południowym zachodzie. Zbuduj w tym celu statek.
       <lang code="CHN">
         <text>站住！！我，熔岩魔女雪莉，警告你们！！你们若再往前，那便是你们的末日！！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Halt !! I, Cherry, the lava demoness, warn you !! If you go further, it will be your doom !!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Halt !! Ich Cherry, die Lavadämonin warne euch !! Wenn ihr weitergeht wird es euer Untergang sein !!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Halt !! I, Cherry, the lava demoness, warn you !! If you go further, it will be your doom !!
-</text>
+      <lang code="l11">
+        <text>站住！！我，熔岩魔女雪莉，警告你們！！你們若再往前，那便是你們的末日！！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -105,16 +149,25 @@ Stójcie !! Ja, Cherry, demonica lawy, ostrzegam was !! Jeśli pójdziecie dalej
       <lang code="CHN">
         <text>你失败了！！要不去下一局国际象棋吧。</text>
       </lang>
+      <lang code="eng">
+        <text>
+You have lost !! Why not try a round of chess.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Du hast verloren !! Versuchs doch mal mit ner Runde Schach.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-You have lost !! Why not try a round of chess.
-</text>
+      <lang code="l11">
+        <text>你失敗了！！要不去下一局國際象棋吧。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -126,16 +179,25 @@ Przegrałeś !! Spróbuj partii szachów.
       <lang code="CHN">
         <text>任务失败！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission lost!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission verloren!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission lost!
-</text>
+      <lang code="l11">
+        <text>任務失敗！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -147,16 +209,25 @@ Misja przegrana!
       <lang code="CHN">
         <text>玩家1已阵亡。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 has died.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist gestorben.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 has died.
-</text>
+      <lang code="l11">
+        <text>玩家1已陣亡。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -168,16 +239,25 @@ Gracz 1 zmarł.
       <lang code="CHN">
         <text>卡萝终于获救了，重逢之际她扑进了费利克斯的怀里。可红海盗梅林又一次从我们手中逃脱。他在远离岛屿的一处小海湾里备好了一艘逃亡之船，正朝费利克斯的家乡驶去……</text>
       </lang>
+      <lang code="eng">
+        <text>
+Finally, Karo was freed and fell into Felix's arms when they saw each other again. Merlin, the red corsair, however, managed to escape us once more. He had readied an escape ship in a small cove away from the island, and steered towards Felix's homeland.....
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Endlich, Karo war befreit und fiel Felix in die Arme als sie sich wiedersahen. Merlin, der rote Korsar aber konnte uns wieder entkommen. Er hatte in einer kleinen Bucht abseits der Insel ein Fluchtschiff bereitgestellt, und steuerte die Heimat von Felix an.....
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Finally, Karo was freed and fell into Felix's arms when they saw each other again. Merlin, the red corsair, however, managed to escape us once more. He had readied an escape ship in a small cove away from the island, and steered towards Felix's homeland.....
-</text>
+      <lang code="l11">
+        <text>卡蘿終於獲救了，重逢之際她撲進了費利克斯的懷裡。可紅海盜梅林又一次從我們手中逃脫。他在遠離島嶼的一處小海灣裡備好了一艘逃亡之船，正朝費利克斯的家鄉駛去……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -189,16 +269,25 @@ Wreszcie, Karo została uwolniona i wpadła Felixowi w ramiona, gdy się ponowni
       <lang code="CHN">
         <text>玩家1现在转为敌对。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 1 is now hostile.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 1 ist jetzt feindlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 1 is now hostile.
-</text>
+      <lang code="l11">
+        <text>玩家1現在轉為敵對。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -210,16 +299,25 @@ Gracz 1 jest teraz wrogi.
       <lang code="CHN">
         <text>谢谢你们的草药。你们若想要护符，就派商人过来吧。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Thank you for the herbs. If you want amulets, send your traders over.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Danke für die Kräuter. Wenn ihr Amulette haben wollt, schickt eure Händler vorbei.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Thank you for the herbs. If you want amulets, send your traders over.
-</text>
+      <lang code="l11">
+        <text>謝謝你們的草藥。你們若想要護符，就派商人過來吧。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -231,16 +329,25 @@ Dziękujemy za zioła. Jeśli chcecie amuletów, przysyłajcie swoich handlarzy.
       <lang code="CHN">
         <text>玩家2现在转为友好。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now friendly.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt freundlich.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now friendly.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為友好。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -252,16 +359,25 @@ Gracz 2 jest teraz przyjazny.
       <lang code="CHN">
         <text>玩家2现在转为中立。</text>
       </lang>
+      <lang code="eng">
+        <text>
+Player 2 is now neutral.
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Spieler 2 ist jetzt neutral.
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Player 2 is now neutral.
-</text>
+      <lang code="l11">
+        <text>玩家2現在轉為中立。</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -273,16 +389,25 @@ Gracz 2 jest teraz neutralny.
       <lang code="CHN">
         <text>呀嗬！！我，撒拉逊人的大公夫人斯图普西，问候你们。你们身上碰巧有草药吗？我们需要草药，因为我们的草药园丁驾船在此地以南撞上了暗礁。给我们送来草药，你们便可与我们通商。要知道，我们能制作一流的护符和药水。这么说你们在找熔岩岛？可那里没有能吃的东西，而且岛上的海盗太强了。这对你们绝不是件轻松的差事……</text>
       </lang>
+      <lang code="eng">
+        <text>
+Yoo-hoo !! I, Stupsie, grand princess of the Saracens, greet you. Do you happen to have herbs for us? We need herbs, for our herb gardener ran his ship onto a reef south of here. Bring us herbs and you may trade with us. We produce first-rate amulets and potions, you see. So you seek the Lava Island? There is nothing edible there, and the pirates are too powerful. It will not be an easy task for you......
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Juhuu !! Ich Stupsie, Großfürstin der Sarazenen grüße Euch. Habt ihr zufällig Kräuter für uns? Wir brauchen Kräuter, denn unser Kräutergärtner ist mit seinem Schiff südlich von hier auf ein Riff gefahren. Bringt uns Kräuter und ihr dürft mit uns handeln. Wir stellen nämlich erstklassige Amulette und Tränke her müßt ihr wissen. So ihr sucht die Lavainsel? Dort gibt es aber nichts essbares, und die Piraten sind dort zu mächtig. Es wird keine leichte Aufgabe werden für euch......
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Yoo-hoo !! I, Stupsie, grand princess of the Saracens, greet you. Do you happen to have herbs for us? We need herbs, for our herb gardener ran his ship onto a reef south of here. Bring us herbs and you may trade with us. We produce first-rate amulets and potions, you see. So you seek the Lava Island? There is nothing edible there, and the pirates are too powerful. It will not be an easy task for you......
-</text>
+      <lang code="l11">
+        <text>呀嗬！！我，撒拉遜人的大公夫人斯圖普西，問候你們。你們身上碰巧有草藥嗎？我們需要草藥，因為我們的草藥園丁駕船在此地以南撞上了暗礁。給我們送來草藥，你們便可與我們通商。要知道，我們能製作一流的護符和藥水。這麼說你們在找熔岩島？可那裡沒有能吃的東西，而且島上的海盜太強了。這對你們絕不是件輕鬆的差事……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -295,6 +420,12 @@ Hej !! Ja, Stupsie, wielka księżna Saracenów, pozdrawiam was. Macie czasem zi
         <text>站住！！我，七海海盗、加勒比海的统治者、红旗海盗的大公与大君主、卡萝未来的丈夫梅林，命令你们退回去，否则我的精锐士兵会把你们消灭……
 我们真的强到足以抵挡这样一支占尽优势的敌军吗？</text>
       </lang>
+      <lang code="eng">
+        <text>
+Halt !! I, Merlin, pirate of the seven seas, ruler of the Caribbean, grand prince and grand mogul of the pirates of the red flag, future husband of Karo, order you to withdraw, otherwise my elite soldiers will destroy you....
+Were we also strong enough to stand against such an overwhelming force?
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Halt !! Ich Merlin, Pirat der sieben Meere, Herrscher über der Karibik, Großfürst und Großmogul der Piraten der roten Flagge, zukünftiger  Mann von Karo, gebe euch den Befehl euch zurückzuziehen, ansonsten werden meine Elite-Soldaten Euch vernichten....
@@ -302,11 +433,15 @@ Waren wir auch stark genug um gegen so eine Übermacht zu bestehen?
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Halt !! I, Merlin, pirate of the seven seas, ruler of the Caribbean, grand prince and grand mogul of the pirates of the red flag, future husband of Karo, order you to withdraw, otherwise my elite soldiers will destroy you....
-Were we also strong enough to stand against such an overwhelming force?
-</text>
+      <lang code="l11">
+        <text>站住！！我，七海海盜、加勒比海的統治者、紅旗海盜的大公與大君主、卡蘿未來的丈夫梅林，命令你們退回去，否則我的精銳士兵會把你們消滅……
+我們真的強到足以抵擋這樣一支佔盡優勢的敵軍嗎？</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -323,6 +458,15 @@ Czy byliśmy wystarczająco silni, by przeciwstawić się takiej przewadze?
 
 制作者：尤基</text>
       </lang>
+      <lang code="eng">
+        <text>
+The island was empty, no outpost in sight. On the beach we met a wounded man. Those damn pirates, he cursed. Out of nowhere they came from the sea and attacked us. There were hundreds. We had no chance. Suddenly Felix came running up. And my wife? Where is my wife Karo? With his last words, the wounded man told us that the pirates had kidnapped her and taken her to their island, which is also called the Lava Island. First we built a small dwelling for Felix, and he also wanted to try his hand as a fisherman to distract himself. Then we wanted to search for the Lava Island....
+Mission goal: Find the Lava Island, and destroy the pirates of the red corsair.
+
+
+Created by: Yogi
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Die Insel war leer, kein Außenposten zu sehen. Am Strand trafen wir auf einen verletzten Mann. Diese verdammten Piraten, schimpfte er. Wie aus dem nichts kamen sie vom Meer und griffen uns an. Es waren hunderte. Wir hatten keine Chance. Plötzlich kam Felix angelaufen. Und meine Frau ? Wo ist meine Frau Karo? Mit den letzten Worten sagte uns der Verletzte noch das die Piraten sie entführt,und auf ihre Insel die man auch Die Lavainsel nennt verschleppt hatten. Wir bauten zunächst für Felix ein kleines Domizil, außerdem wollte er sich als Fischer versuchen, um sich abzulenken. Danach wollten wir die Lavainsel suchen....
@@ -333,14 +477,18 @@ Erstellt von: Yogi
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-The island was empty, no outpost in sight. On the beach we met a wounded man. Those damn pirates, he cursed. Out of nowhere they came from the sea and attacked us. There were hundreds. We had no chance. Suddenly Felix came running up. And my wife? Where is my wife Karo? With his last words, the wounded man told us that the pirates had kidnapped her and taken her to their island, which is also called the Lava Island. First we built a small dwelling for Felix, and he also wanted to try his hand as a fisherman to distract himself. Then we wanted to search for the Lava Island....
-Mission goal: Find the Lava Island, and destroy the pirates of the red corsair.
+      <lang code="l11">
+        <text>那座島空空蕩蕩，看不到任何前哨。在海灘上我們遇到了一個受傷的人。這些該死的海盜，他罵道。他們不知從哪兒冒出來，從海上向我們發起進攻。足有數百人。我們毫無勝算。費利克斯忽然跑了過來。我的妻子呢？我的妻子卡蘿在哪兒？那受傷的人用最後的力氣告訴我們，海盜把她擄走了，擄到了他們那座又名熔岩島的島上。我們先為費利克斯建起一座小小的居所，此外他還想試著當個漁夫，好分散心神。之後我們便要去尋找熔岩島……
+任務目標：找到熔岩島，消滅紅海盜的手下。
 
 
-Created by: Yogi
-</text>
+製作者：尤基</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -356,16 +504,25 @@ Stworzone przez: Yogi
       <lang code="CHN">
         <text>熔岩岛</text>
       </lang>
+      <lang code="eng">
+        <text>
+The Lava Island
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Die Lavainsel
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-The Lava Island
-</text>
+      <lang code="l11">
+        <text>熔岩島</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -377,16 +534,25 @@ Wyspa Lawowa
       <lang code="CHN">
         <text>我们取得了胜利。红海盗的爪牙也被逐出了这个世界。可梅林又一次从我们眼皮底下溜掉了。从他船尾的航迹判断，他朝北方驶去，径直驶向费利克斯及其族人的家园世界……</text>
       </lang>
+      <lang code="eng">
+        <text>
+We had triumphed. The henchmen of the red corsair had also been driven from this world. But once again Merlin slipped through our fingers. Judging by his wake, he was heading north, straight into the homeland of Felix and his people...
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Wir hatten gesiegt. Die Schergen des roten Korsaren waren auch von dieser Welt vertrieben. Doch wieder einmal ging uns Merlin durch die Lappen. Seinem Kielwasser zu urteilen, fuhr er Richtung Norden, direkt in die Heimatwelt von Felix und seinem Volk...
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-We had triumphed. The henchmen of the red corsair had also been driven from this world. But once again Merlin slipped through our fingers. Judging by his wake, he was heading north, straight into the homeland of Felix and his people...
-</text>
+      <lang code="l11">
+        <text>我們取得了勝利。紅海盜的爪牙也被逐出了這個世界。可梅林又一次從我們眼皮底下溜掉了。從他船尾的航跡判斷，他朝北方駛去，徑直駛向費利克斯及其族人的家園世界……</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -398,16 +564,25 @@ Zwyciężyliśmy. Sługi czerwonego korsarza zostały też wypędzone z tego św
       <lang code="CHN">
         <text>任务达成！</text>
       </lang>
+      <lang code="eng">
+        <text>
+Mission won!
+</text>
+      </lang>
       <lang code="ger">
         <text>
 Mission gewonnen!
 
 </text>
       </lang>
-      <lang code="eng">
-        <text>
-Mission won!
-</text>
+      <lang code="l11">
+        <text>任務達成！</text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

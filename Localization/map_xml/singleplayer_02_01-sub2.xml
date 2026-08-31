@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,18 +14,27 @@
       <text lang="CHN">找到地下迷宫的出口！</text>
       <text lang="eng">Find the exit from the underground maze!</text>
       <text lang="ger">Finde den Ausgang aus dem unterirdischen Labyrinth!</text>
+      <text lang="l11">找到地下迷宮的出口！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Znajdź wyjście z podziemnego labiryntu!</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="99">
       <text lang="CHN">洞穴迷宫</text>
       <text lang="eng">THE CAVE MAZE</text>
       <text lang="ger">DAS HÖHLENLABYRINTH</text>
+      <text lang="l11">洞穴迷宮</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">PODZIEMNY LABIRYNT</text>
     </string>
   </strings>
@@ -48,6 +60,19 @@ Ich hatte den Eingang passiert, begleitet von unheimlichem Knarren und Quietsche
 
 Überall die heruntergefallenen Bruchsteine... und Wasser hatte die Höhle auch schon teilweise geflutet!!!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+我穿過入口，頭頂梁木吱嘎作響，令人不安。這條坑道眼看就要坍塌！
+
+到處是墜落的碎石……洞穴還被水淹了一部分！！！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>
@@ -75,6 +100,17 @@ Bjarni has died!
 Bjarni ist gestorben!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+比雅尼犧牲了！
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 
@@ -101,6 +137,17 @@ THE CAVE MAZE
 DAS HÖHLENLABYRINTH
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+洞穴迷宮
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

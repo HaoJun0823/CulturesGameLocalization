@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="windows-1252" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,54 +14,81 @@
       <text lang="CHN">经济：合作</text>
       <text lang="eng">Economy: CO-OP</text>
       <text lang="ger">Wirtschaft: COOP</text>
+      <text lang="l11">經濟：合作</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Walka: POROZUMIENIE</text>
     </string>
     <string id="1">
       <text lang="CHN">2 名玩家：与同伴一道抵御北方强敌，并保障自己的资源补给！</text>
       <text lang="eng">2 players: Defend yourself with your partner against a powerful enemy in the north and collect resources!</text>
       <text lang="ger">2 Spieler: Verteidige dich mit Deinem Partner gegen einen mächtigen Feind im Norden und kümmere dich um deinen Rohstoffnachschub!</text>
+      <text lang="l11">2 名玩家：與同伴一道抵禦北方強敵，並保障自己的資源補給！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">2 graczy: wraz z sąsiadem pokonaj potężnego wroga z północy!</text>
     </string>
     <string id="2">
       <text lang="CHN">建起你的聚落并加以巩固。积攒 150 木材、石料与铁各 75，以及 100 金。你不必消灭敌人，资源才是重中之重！</text>
       <text lang="eng">Build up your settlement and fortify it. Collect 150 units of wood, 75 units each of stone and iron, as well as 100 units of gold. You don't have to destroy your enemy. Resources are more important!</text>
       <text lang="ger">Baue deine Siedlung auf und befestige sie. Sammle 150 Holz, je 75 Stein und Eisen sowie 100 Gold. du mußt Deinen Feind nicht vernichten, nur die Rohstoffe haben Priorität!</text>
+      <text lang="l11">建起你的聚落並加以鞏固。積攢 150 木材、石料與鐵各 75，以及 100 金。你不必消滅敵人，資源才是重中之重！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Załóż osadę, ufortyfikuj ją i jak najszybciej postaraj się pokonać wroga przy wsparciu sąsiada.</text>
     </string>
     <string id="10">
       <text lang="CHN">格陵兰人</text>
       <text lang="eng">Greenlander</text>
       <text lang="ger">Grönländer</text>
+      <text lang="l11">格陵蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Grenlandczyk</text>
     </string>
     <string id="11">
       <text lang="CHN">格陵兰人</text>
       <text lang="eng">Greenlander</text>
       <text lang="ger">Grönländer</text>
+      <text lang="l11">格陵蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Grenlandczyk</text>
     </string>
     <string id="20">
       <text lang="CHN">文兰人</text>
       <text lang="eng">Vinlander</text>
       <text lang="ger">Vinländer</text>
+      <text lang="l11">文蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Winlandczyk</text>
     </string>
     <string id="21">
       <text lang="CHN">文兰人</text>
       <text lang="eng">Vinlander</text>
       <text lang="ger">Vinländer</text>
+      <text lang="l11">文蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Winlandczyk</text>
     </string>
     <string id="30">
       <text lang="CHN">海卢兰人</text>
       <text lang="eng">Hellulander</text>
       <text lang="ger">Helluländer</text>
+      <text lang="l11">海盧蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hellulandczyk</text>
     </string>
     <string id="31">
       <text lang="CHN">海卢兰人</text>
       <text lang="eng">Hellulander</text>
       <text lang="ger">Helluländer</text>
+      <text lang="l11">海盧蘭人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hellulandczyk</text>
     </string>
   </strings>
@@ -109,6 +139,27 @@ Hinweis:
 Du bist bereits von Beginn an im Besitz wertvoller Schriftrollen! Nutze sie geschickt, um dein Dorf aufzubauen.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+在維京人的土地上，兩大強盛部族聯手後，形成了一個龐大的好戰村莊。
+實力大增之後，他們很快決定肅清境內其它所有部族——這同樣關乎你的部族！
+
+所幸你還有一位鄰居，正面臨同樣的威脅。
+
+只要你們在倉庫中備足資源，就無需徹底消滅對手。同心協力，或許便能守住你們的村莊。
+儘快收集資源，說不定能搶在敵軍進攻之前做好準備……
+
+
+提示：
+你從一開始便擁有珍貴的卷軸！善用它們來建設你的村莊。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text>
 W krainie Wikingów dwa potężne plemiona połączyły swe siły, zakładając wspólnie ogromną osadę wojowników.
@@ -143,6 +194,17 @@ CO-OP
 COOP
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+合作
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text>

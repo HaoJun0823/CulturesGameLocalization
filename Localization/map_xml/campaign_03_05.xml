@@ -4,6 +4,9 @@
     <language code="CHN" alias="l10" encoding="GB2312" fix_1251="true" base="false" />
     <language code="eng" alias="eng" encoding="windows-1252" fix_1251="false" base="false" />
     <language code="ger" alias="ger" encoding="windows-1252" fix_1251="false" base="false" />
+    <language code="l11" alias="l11" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l12" alias="l12" encoding="utf-8" fix_1251="false" base="false" />
+    <language code="l13" alias="l13" encoding="utf-8" fix_1251="false" base="false" />
     <language code="pol" alias="pol" encoding="UTF-8" fix_1251="false" base="false" />
   </languages>
   <strings>
@@ -11,228 +14,342 @@
       <text lang="CHN">@在以弗所兴建阿尔忒弥斯神庙。</text>
       <text lang="eng">@BUILD THE ARTEMIS TEMPLE AT EPHESUS.</text>
       <text lang="ger">@ERRICHTE DEN ARTEMIS TEMPEL ZU EPHESOS.</text>
+      <text lang="l11">@在以弗所興建阿爾忒彌斯神廟。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">@WYBUDUJ ŚWIĄTYNIĘ ARTEMIDY W EFEZIE.</text>
     </string>
     <string id="1">
       <text lang="CHN">建立一座小型聚落。</text>
       <text lang="eng">Establish a small settlement.</text>
       <text lang="ger">Baue eine kleine Siedlung auf.</text>
+      <text lang="l11">建立一座小型聚落。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Załóż małą osadę.</text>
     </string>
     <string id="2">
       <text lang="CHN">前往神庙工地。</text>
       <text lang="eng">Go to the temple site.</text>
       <text lang="ger">Gehe zum Tempelbauplatz.</text>
+      <text lang="l11">前往神廟工地。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Idź na miejsce świątyni.</text>
     </string>
     <string id="3">
       <text lang="CHN">设法排退沼泽、加固神庙工地。</text>
       <text lang="eng">Look for a way to drive back the swamp and fortify the temple site.</text>
       <text lang="ger">Suche eine Möglichkeit den Sumpf zurückzudrängen und den Tempelbauplatz zu befestigen.</text>
+      <text lang="l11">設法排退沼澤、加固神廟工地。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Poszukaj sposobu na usunięcie bagna i umocnienia miejsca świątyni.</text>
     </string>
     <string id="4">
       <text lang="CHN">向神庙工地运送 127 根大理石柱。</text>
       <text lang="eng">Take 127 marble columns to the temple site.</text>
       <text lang="ger">Bringe 127 Marmorsäulen zum Tempelbauplatz.</text>
+      <text lang="l11">向神廟工地運送 127 根大理石柱。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zabierz 127 marmurowych kolumn na miejsce świątyni.</text>
     </string>
     <string id="5">
       <text lang="CHN">向港口民缴纳 15 单位铁制工具作贡金。</text>
       <text lang="eng">Pay the harbour people a tribute of 15 iron tools.</text>
       <text lang="ger">Zahle dem Hafenvolk 15 Eisenwerkzeuge zum Tribut.</text>
+      <text lang="l11">向港口民繳納 15 單位鐵製工具作貢金。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać robotnikom portowym trybut w wysokości 15 narzędzi z żelaza.</text>
     </string>
     <string id="6">
       <text lang="CHN">向士兵缴纳 15 单位蜂蜜酒作贡金，换取其支援。</text>
       <text lang="eng">Pay the soldiers a tribute of 15 mead for their support.</text>
       <text lang="ger">Gib den Soldaten 15 Met zum Tribut für ihre Unterstützung.</text>
+      <text lang="l11">向士兵繳納 15 單位蜂蜜酒作貢金，換取其支援。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać żołnierzom trybut w wysokości 15 miodów za ich wsparcie.</text>
     </string>
     <string id="7">
       <text lang="CHN">寻找阿梅利亚。</text>
       <text lang="eng">Look for Amelia.</text>
       <text lang="ger">Suche Amelia.</text>
+      <text lang="l11">尋找阿梅利亞。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Poszukaj Amelii.</text>
     </string>
     <string id="8">
       <text lang="CHN">将阿梅利亚送回双亲身边。</text>
       <text lang="eng">Take Amelia to her parents.</text>
       <text lang="ger">Bringe Amelia zu ihren Eltern.</text>
+      <text lang="l11">將阿梅利亞送回雙親身邊。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zabierz Amelię do jej rodziców.</text>
     </string>
     <string id="9">
       <text lang="CHN">寻得年幼的希罗斯特拉特斯，将其关入地牢。</text>
       <text lang="eng">Find Herostrates the Younger and put him in the dungeon.</text>
       <text lang="ger">Finde Herostrates den Jüngeren und stecke ihn in das Verlies.</text>
+      <text lang="l11">尋得年幼的希羅斯特拉特斯，將其關入地牢。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">znajdź Herostratesa Młodszego i wtrąć go do lochu.</text>
     </string>
     <string id="10">
       <text lang="CHN">向商人缴纳 15 单位蜂蜜作贡金。</text>
       <text lang="eng">Pay the merchant a tribute of 15 bowls of honey.</text>
       <text lang="ger">Zahle dem Händler 15 Schalen Honig zum Tribut.</text>
+      <text lang="l11">向商人繳納 15 單位蜂蜜作貢金。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać kupcowi trybut w wysokości 15 misek miodu.</text>
     </string>
     <string id="11">
       <text lang="CHN">与你的英雄前往山中秘道！</text>
       <text lang="eng">Take your heroes to the secret entrance in the mountains!</text>
       <text lang="ger">Gehe mit deinen Helden zu dem geheimen Eingang in den Bergen!</text>
+      <text lang="l11">與你的英雄前往山中秘道！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zabierz swoich bohaterów do sekretnego wejścia w górach!</text>
     </string>
     <string id="12">
       <text lang="CHN">与你的英雄进入沼泽中的泽地！</text>
       <text lang="eng">Take your heroes to the wise men in the swamp!</text>
       <text lang="ger">Gehe mit deinen Helden in den Sumpf zu den Sumpfweisen!</text>
+      <text lang="l11">與你的英雄進入沼澤中的澤地！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zabierz swoich bohaterów do mędrców na bagnach!</text>
     </string>
     <string id="14">
       <text lang="CHN">与你的英雄返回阿尔忒弥斯神庙！</text>
       <text lang="eng">Return to the Artemis Temple with your heroes!</text>
       <text lang="ger">Gehe mit deinen Helden zurück zu dem Artemis-Tempel!</text>
+      <text lang="l11">與你的英雄返回阿爾忒彌斯神廟！</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Wróć do Świątyni Artemidy ze swoimi bohaterami!</text>
     </string>
     <string id="15">
       <text lang="CHN">再向将军的士兵缴纳 50 单位蜂蜜酒，换取其支援。</text>
       <text lang="eng">Pay the general's soldiers another tribute of 50 mead for their support.</text>
       <text lang="ger">Gib den Soldaten des Generals nochmals 50 Met für ihre Unterstützung.</text>
+      <text lang="l11">再向將軍計程車兵繳納 50 單位蜂蜜酒，換取其支援。</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Zapłać generałom żołnierzy kolejny trybut w wysokości 50 miodów za ich wsparcie.</text>
     </string>
     <string id="20">
       <text lang="CHN">大理石柱 %d/127</text>
       <text lang="eng">Marble columns %d/127</text>
       <text lang="ger">Marmorsäulen %d/127</text>
+      <text lang="l11">大理石柱 %d/127</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Marmurowe kolumny %d/127</text>
     </string>
     <string id="21">
       <text lang="CHN">物资已送达</text>
       <text lang="eng">Goods delivered</text>
       <text lang="ger">Waren geliefert</text>
+      <text lang="l11">物資已送達</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Towary dostarczone </text>
     </string>
     <string id="51">
       <text lang="CHN">以弗所</text>
       <text lang="eng">Ephesus</text>
       <text lang="ger">Ephesos</text>
+      <text lang="l11">以弗所</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Efez</text>
     </string>
     <string id="52">
       <text lang="CHN">港口民</text>
       <text lang="eng">Harbour People</text>
       <text lang="ger">Hafenvolk </text>
+      <text lang="l11">港口民</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Robotnicy portowi </text>
     </string>
     <string id="53">
       <text lang="CHN">商人</text>
       <text lang="eng">Merchant</text>
       <text lang="ger">Händler</text>
+      <text lang="l11">商人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Kupiec</text>
     </string>
     <string id="54">
       <text lang="CHN">撒拉逊人</text>
       <text lang="eng">Saracens</text>
       <text lang="ger">Sarazenen</text>
+      <text lang="l11">撒拉遜人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Saraceni</text>
     </string>
     <string id="55">
       <text lang="CHN">希罗斯特拉特斯的继承者</text>
       <text lang="eng">Herostrates' Heirs</text>
       <text lang="ger">Herostrates Erben</text>
+      <text lang="l11">希羅斯特拉特斯的繼承者</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Spadkobiercy Herostratesa</text>
     </string>
     <string id="61">
       <text lang="CHN">以弗.</text>
       <text lang="eng">Ephes.</text>
       <text lang="ger">Ephes.</text>
+      <text lang="l11">以弗.</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Efez</text>
     </string>
     <string id="62">
       <text lang="CHN">港.</text>
       <text lang="eng">Harb. P.</text>
       <text lang="ger">Hafenv.</text>
+      <text lang="l11">港.</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Robot. P.</text>
     </string>
     <string id="63">
       <text lang="CHN">商人</text>
       <text lang="eng">Merch.</text>
       <text lang="ger">Händler</text>
+      <text lang="l11">商人</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Kupiec</text>
     </string>
     <string id="64">
       <text lang="CHN">撒.</text>
       <text lang="eng">Sarac.</text>
       <text lang="ger">Saraz.</text>
+      <text lang="l11">撒.</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Sarac.</text>
     </string>
     <string id="65">
       <text lang="CHN">继承者</text>
       <text lang="eng">Heirs</text>
       <text lang="ger">Erben</text>
+      <text lang="l11">繼承者</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Spadk.</text>
     </string>
     <string id="71">
       <text lang="CHN">比雅尼</text>
       <text lang="eng">Bjarni</text>
       <text lang="ger">Bjarni</text>
+      <text lang="l11">比雅尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Bjarni</text>
     </string>
     <string id="72">
       <text lang="CHN">希拉</text>
       <text lang="eng">Cyra</text>
       <text lang="ger">Cyra</text>
+      <text lang="l11">希拉</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Cyra</text>
     </string>
     <string id="73">
       <text lang="CHN">哈奇</text>
       <text lang="eng">Hatchie</text>
       <text lang="ger">Hatschi</text>
+      <text lang="l11">哈奇</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hatchie</text>
     </string>
     <string id="74">
       <text lang="CHN">西格德</text>
       <text lang="eng">Sigurd</text>
       <text lang="ger">Sigurd</text>
+      <text lang="l11">西格德</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Sigurd</text>
     </string>
     <string id="75">
       <text lang="CHN">诺伯特</text>
       <text lang="eng">Norbert</text>
       <text lang="ger">Norbert</text>
+      <text lang="l11">諾伯特</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Norbert</text>
     </string>
     <string id="76">
       <text lang="CHN">玛尼</text>
       <text lang="eng">Mani</text>
       <text lang="ger">Mani</text>
+      <text lang="l11">瑪尼</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Mani</text>
     </string>
     <string id="78">
       <text lang="CHN">阿梅利亚</text>
       <text lang="eng">Amelia</text>
       <text lang="ger">Amelia</text>
+      <text lang="l11">阿梅利亞</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Amelia</text>
     </string>
     <string id="79">
       <text lang="CHN">赫尔梅亚斯</text>
       <text lang="eng">Hermeias</text>
       <text lang="ger">Hermeias</text>
+      <text lang="l11">赫爾梅亞斯</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Hermeias</text>
     </string>
     <string id="80">
       <text lang="CHN">将军</text>
       <text lang="eng">The General</text>
       <text lang="ger">Der General</text>
+      <text lang="l11">將軍</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Generał</text>
     </string>
     <string id="98">
       <text lang="CHN">以弗所的阿尔忒弥斯神庙之建，正受一群纵火者--希罗斯特拉特斯的继承者--所威胁，亦为不断蔓延的沼泽所危及……</text>
       <text lang="eng">The construction of the Artemis Temple at Ephesus is threatened by a group of arsonists - the heirs of Herostrates - and by the rising swamps ...</text>
       <text lang="ger">Das Bau des Artemis Tempels zu Ephesos wird durch eine Schaar Brandstifter - die Erben Herostrates - bedroht und von ansteigendem Sumpfgelände gefährdet...</text>
+      <text lang="l11">以弗所的阿爾忒彌斯神廟之建，正受一群縱火者--希羅斯特拉特斯的繼承者--所威脅，亦為不斷蔓延的沼澤所危及……</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">Budowa Świątyni Artemidy jest zagrożona przez grupę podpalaczy - spadkobierców Herostratesa - i przez rozszerzające się bagna ...</text>
     </string>
     <string id="99">
       <text lang="CHN">阿尔忒弥斯神庙</text>
       <text lang="eng">THE TEMPLE OF ARTEMIS</text>
       <text lang="ger">DER TEMPEL DER ARTEMIS </text>
+      <text lang="l11">阿爾忒彌斯神廟</text>
+      <text lang="l12" />
+      <text lang="l13" />
       <text lang="pol">ŚWIĄTYNIA ARTEMIDY</text>
     </string>
   </strings>
@@ -254,6 +371,17 @@ The biggest temple of the Ancient World was to be resurrected by the time the Ar
 Hier in Ephesos sollte der größte Tempel der Antike bis zum Artemisfest im April wieder errichtet werden! Und die Bauarbeiten dafür waren bereits in vollem Gange. Das konnte uns unseren Auftrag erleichtern. So mussten wir nicht alleine diese schwere Aufgabe erledigen.
 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+我們來到以弗所，本是要在四月阿爾忒彌斯節前，重建古代最宏偉的神廟！建築工程早已如火如荼。這倒省了我們不少力氣--但黑暗勢力顯然也不會袖手旁觀。
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -288,6 +416,23 @@ Die Menschen von Ephesos hatten den Tempel schon fast fertig errichtet, aber ihn
 Folge der mächtigen Straße nach Norden zur Baustelle des Artemis-Tempels. Dort erhältst du nähere Anweisungen.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+以弗所人幾乎已將神廟建成，卻為蔓延的沼澤所苦。儘管如此，此廟仍須儘快完工，好讓我們隨後能赴奧林匹亞，助菲迪亞斯豎起宙斯巨像。
+
+循北面大道前往阿爾忒彌斯神廟工地。那裡自有詳示。
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Mieszkańcy Efezu prawie zakończyli budowę świątyni, ale mieli kłopot z podnoszącym się bagnem. Pomimo to, budowa miała zostać ukończona tak szybko, jak to było możliwe, tak więc mogliśmy pomóc budować Statuę Zeusa dłuta Fidiasza w Olimpie. 
@@ -321,6 +466,23 @@ DIE BÜRGER VON EPHESOS
 
 "Seid gegrüßt! Wir haben euch schon erwartet. Es ist wirklich schrecklich mit diesen Brandstiftern. Es wird Zeit, dass ihnen jemand das Handwerk legt!"
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+以弗所市民
+
+"幸會！我們早候著你們了。這些縱火賊實在可惡，是時候有人去治治他們了！"
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -405,6 +567,46 @@ Dazu kam noch die Ausbreitung des Sumpfes:
 Suche eine Möglichkeit, den Sumpf zurückzudrängen und den Tempelbauplatz zu befestigen.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+阿爾忒彌斯神廟工地
+
+"哎呀，工程本已推進至此，幾乎就要完工了！"以弗所勤懇的工匠們哀嘆道。
+
+
+        
+        </text>
+        <usericon>1,269,121</usericon>
+        <text>
+
+
+
+"要重建此廟，非數年不能成，皆因我們缺了那大理石柱！"
+
+若有必要，於神廟工地周圍多建貨倉，運送 127 根大理石柱！
+
+況且沼澤尚在蔓延：
+
+"單是一梁便重二十噸，縱使阿爾忒彌斯女神親臨，將之安於其所--這沼澤軟土也承它不住。"建築師說道，"欲在此重現這重要豐碑，必止住沼澤的蔓延！"
+
+
+尋法退去沼澤，並加固神廟工地。
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,269,121</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,269,121</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 MIEJSCE BUDOWY ŚWIĄTYNI ARTEMIDY 
@@ -454,6 +656,23 @@ The King of Lydia, Croesus the Younger, donates 100 marble columns to the constr
 Der lydische König Krösus der Jüngere spendet 100 Marmorsäulen für die Errichtung des Artemistempels. 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+100 根大理石柱
+
+呂底亞幼王克羅伊斯，捐百根大理石柱以建阿爾忒彌斯神廟。
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 100 MARMUROWYCH KOLUMN
@@ -492,6 +711,27 @@ WAREN GELIEFERT
 Wir hatten die benötigten Waren am Bauplatz abgeliefert. Der Tempelbau dauerte von diesem Zeitpunkt an nicht mehr lange. 
 
 </text>
+        <usericon>1,269,121</usericon>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+貨物已送達
+
+所需貨物已運抵工地。自此神廟營建不日可成。
+
+
+        
+        </text>
+        <usericon>1,269,121</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,269,121</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
         <usericon>1,269,121</usericon>
       </lang>
       <lang code="pol">
@@ -536,6 +776,25 @@ Wir hatten sowohl Herostrates den Jüngeren gefangen genommen, die Ausbreitung d
 Suche mit deinen Helden den Tempelplatz auf, um dich vom ordnungsgemäßen Bau zu überzeugen! 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+所有主線目標皆已達成！
+
+我們既擒得幼者希羅斯特拉特斯，又止住沼澤蔓延，更運來所需建材。神廟竣工，再無阻滯！
+
+率眾英雄親臨廟址，驗看工程是否合度！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 WSZYSTKIE GŁÓWNE CELE MISJI WYPEŁNIONE!
@@ -577,6 +836,25 @@ Die Erben Herostrates hatten wir verbannt und durch Zauberhand konnte die Natur 
 
 ... die Tempelarbeiten konnten endlich beginnen!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+神廟工地加固
+
+希羅斯特拉特斯之裔已被逐走，憑魔法之力，自然暫被遏止--然不久它必重索其債，神廟恐將再度沉入沼澤……
+
+……廟工終得開啟！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -648,6 +926,41 @@ Die Angriffe werden erst dann enden, nachdem man Herostrates den Jüngeren gefun
 Finde Herostrates den Jüngeren und sperre ihn in ein Verlies! 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+希羅斯特拉特斯之裔
+
+哎呀！神廟營建危矣！一夥縱火賊--希羅斯特拉特斯之裔--撲將上來，燃起烈火，此廟幾不能支！
+
+
+        
+        </text>
+        <usericon>1,258,128</usericon>
+        <text>
+
+
+
+其首領乃幼者希羅斯特拉特斯。其先祖赫羅斯特拉託斯，昔年便將舊廟焚為平地，只為一己癲狂的揚名之慾！其"門徒"今循舊轍，屢屢來犯工地。
+
+唯有尋得幼者希羅斯特拉特斯，將其囚於地牢，使他再不能煽惑眾人，攻擊方止。
+
+尋得幼者希羅斯特拉特斯，將其囚入地牢！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,258,128</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,258,128</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 SPADKOBIERCY HEROSTRATESA
@@ -685,6 +998,21 @@ Only four brave heroes should enter this place if they receive the order!
         <text> 
 Nur vier tapfere Helden sollten diesen Ort betreten, wenn sie den Auftrag dazu erhalten! 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+唯四名勇毅英雄，受命方可入此秘地！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -745,6 +1073,39 @@ Sie hörten von unseren guten Eisenwerkzeugen. Auch wenn sie schon sehr abgenutz
 
 Reiche dem Hafenvolk ein paar Eisenwerkzeuge zum Tribut und sie werden dir ihre Handelsangebote offerieren! 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+港口部落
+
+我們探勘海岸時，遇一小小港灣村落之民。他們於我們非友非敵。
+
+
+        
+        </text>
+        <usericon>1,146,352</usericon>
+        <text>
+
+
+
+他們聽聞我們上好鐵製工具，雖已磨損，仍欲討得幾件！
+
+向港口部落繳納幾件鐵製工具為貢，他們便向你呈上交易之邀！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,146,352</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,146,352</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -810,6 +1171,37 @@ Wir hatten dem Hafenvolk die Werkzeuge zum Tribut überreicht und sie wechselten
 Ihre Freude war darüber sogar so groß, dass sie uns überaus günstige Handelsangebote machten. 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+已向港口部落進貢！
+
+我們已將工具作貢奉上，他們對我等態度立轉。
+
+
+        
+        </text>
+        <usericon>1,146,352</usericon>
+        <text>
+
+
+
+其喜甚，竟向我們開出極惠之交易條件。
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,146,352</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,146,352</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 TRYBUT DANY MIESZKAŃCOM PORTU!
@@ -863,6 +1255,37 @@ MISSION VERLOREN!
         <text>
 Heldenmut oder Leichtsinn? Als BJARNI starb, weinten die Götter... Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+英雄氣概，還是魯莽？當比雅尼殞命，眾神落淚……失此英雄，你便無緣得見任務終局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -929,6 +1352,39 @@ Leider lag große Trauer über diesem Volk, da ein alter und geachteter Mann der
 
 Suche Hermeias! 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+撒拉遜城
+
+我們探勘沙漠時，遇一城之民。他們對我們極為友善。
+
+
+        
+        </text>
+        <usericon>1,398,28</usericon>
+        <text>
+
+
+
+然此族籠罩深悲--城中一位德高望重老者，數日來尋不見其女。我們決意去探望他……
+
+尋訪赫爾梅亞斯！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,398,28</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,398,28</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1000,6 +1456,39 @@ HERMEIAS
 Suche Hermeias Tochter Amelia!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+赫爾梅亞斯
+
+"噢，我可憐的女兒！她不過想去採些稀有草木，定是在西南面林中迷了路……抑或遭了什麼不測……"
+
+
+        
+        </text>
+        <usericon>2,9</usericon>
+        <text>
+
+
+
+"你們能否將她帶回？老朽腿腳沉重，走到她那裡怕要數日。"
+
+尋訪赫爾梅亞斯之女阿梅利亞！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,9</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,9</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 HERMEIAS
@@ -1046,6 +1535,27 @@ HERMEIAS
 "Oh meine Tochter! Ihr habt sie gefunden! Ich werde dem lydischen König vorsprechen, damit er euch bei eurer Mission unterstützt!"
 
 </text>
+        <usericon>2,9</usericon>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+赫爾梅亞斯
+
+"噢，我兒！你們尋到她了！我當面見呂底亞王，請他助你們一臂之力！"
+
+
+        
+        </text>
+        <usericon>2,9</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,9</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
         <usericon>2,9</usericon>
       </lang>
       <lang code="pol">
@@ -1105,6 +1615,37 @@ AMELIA
 
 Begleite Amelia zurück zu ihrem Vater!
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+阿梅利亞
+
+"噢，父親定已為我憂心如焚！可否護送我回去？我可再不願迷路了！"
+
+
+        
+        </text>
+        <usericon>2,8</usericon>
+        <text>
+
+
+
+護送阿梅利亞回到其父身邊！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,8</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,8</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1168,6 +1709,37 @@ Als wir die Küste erforschten, begegnete uns ein Handelsvolk. Sie waren uns wed
 Reiche dem Händlern ein paar Schalen Honig zum Tribut und sie werden dir ihre Handelsangebote offerieren und dir ein Geschenk überreichen! 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+商人
+
+我們探勘海岸，遇一商族。他們於我們非友非敵，只欲收貢貿易，並贈我們一份禮。
+
+
+        
+        </text>
+        <usericon>1,184,439</usericon>
+        <text>
+
+
+
+向商人繳納幾罐蜂蜜為貢，他們便向你呈上交易之邀，並贈你一份禮！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,184,439</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,184,439</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 KUPIEC
@@ -1230,6 +1802,37 @@ Wir hatten den Händlern den Tribut überreicht und sie übergaben uns zum Dank 
 ...und boten sich günstige Handelsverträge an.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+商人
+
+我們已將貢奉予商人，他們為謝，竟贈我們 30 根渴求的大理石柱……
+
+
+        
+        </text>
+        <usericon>1,186,443</usericon>
+        <text>
+
+
+
+……更開出優厚商約。
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,186,443</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,186,443</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 KUPCY
@@ -1291,6 +1894,37 @@ DER ALTE MANN
 
 Dann verschwand er wieder im Nebel, ebenso plötzlich, wie er gekommen war... 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+老者
+
+"沼澤險惡，毒蟲猛獸出沒其間。然你若欲往沼澤智者處，循東北向之路便是。"老者言道。
+
+
+        
+        </text>
+        <usericon>1,251,59</usericon>
+        <text>
+
+
+
+言罷，他覆沒入霧中，來去一般突兀……
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,251,59</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,251,59</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1357,6 +1991,38 @@ Hoffentlich ist ihr nichts passiert..." sagte der alte Mann.
 Dann verschwand er wieder im Nebel, ebenso plötzlich, wie er gekommen war...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+老者
+
+"前幾日，一好姑娘沿此路去，欲往西面林中。我卻未見她回來……
+
+
+        
+        </text>
+        <usericon>1,121,288</usericon>
+        <text>
+
+
+
+但願她無恙……"老者言道。
+言罷，他覆沒入霧中，來去一般突兀……
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,121,288</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,121,288</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 STARZEC
@@ -1416,6 +2082,36 @@ DER ALTE MANN
 "Ein Händlervolk hat sich weiter im Süden niedergelassen. Sind sie dir erst einmal freundlich gesinnt, sind ihre Gaben und Handelsangebote sehr großzügig!" sagte der alte Mann. 
 Dann verschwand er wieder im Nebel, ebenso plötzlich, wie er gekommen war...
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+老者
+
+
+        
+        </text>
+        <usericon>1,243,386</usericon>
+        <text>
+
+
+
+"南面更遠，有一商族定居。你等一旦與他們交好，其饋贈與交易之邀便極是慷慨！"老者言道。
+言罷，他覆沒入霧中，來去一般突兀……
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,243,386</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,243,386</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1484,6 +2180,39 @@ DER GENERAL VON EPHESOS
 Zahle, wenn du willst, den Tribut für das Ablenkungsmanöver.
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+以弗所將軍
+
+"幸會，異鄉人！希羅斯特拉特斯之裔屢屢肆虐我廟，實在令人髮指！"
+
+
+        
+        </text>
+        <usericon>2,10</usericon>
+        <text>
+
+
+
+"我正整備士兵以備不測。他們至今仍怯，畏那縱火者。然得你們些許蜜酒，定能壯膽，發動牽制之術。那時山中秘道入口便無人把守。如此，如你們這般勇毅的英雄，必能治住希羅斯特拉特斯！"
+
+若願，可繳貢以行牽制之術。
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,10</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,10</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 GENERAŁ Z EFEZU 
@@ -1539,6 +2268,37 @@ MISSION VERLOREN!
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Deine Heldin CYRA erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時疏忽，人生便急轉直下！你的女英雄希拉因你大意而殞命！失此英雄，你便無緣得見任務終局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -1600,6 +2360,37 @@ TRIBUT AN GENERAL VON EPHESOS BEZAHLT!
 "Falls euch diese Hilfe nicht genug ist, könnt ihr uns erneut einen Tribut leisten. Wir werden dann alle uns zur Verfügung stehenden Mittel einsetzen! Darauf gebe ich euch mein Wort!"
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+已向以弗所將軍繳貢！
+
+
+        
+        </text>
+        <usericon>2,10</usericon>
+        <text>
+
+
+
+"君之蜜酒，予我男兒以所需之勇。今再無可擋，牽制之術立時可發！你等或可安然自西越橋，直達山間入口。"
+
+"若此助不足，可再向我納貢。我等必傾力而為！此言為誓！"
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,10</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,10</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 TRYBUT ZAPŁACONY GENERAŁOWI Z EFEZU!
@@ -1656,6 +2447,35 @@ EPHESER BEKÄMPFEN HEROSTRATOS ERBEN!
 Die Armee des Generals trat den Brandstiftern unerschrocken entgegen. Diese konnten ihnen kaum etwas anhaben!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+以弗所人迎戰希羅斯特拉特斯之裔！
+
+
+        
+        </text>
+        <usericon>1,197,104</usericon>
+        <text>
+
+
+
+將軍之師，無畏迎向縱火賊，後者幾不能傷其分毫！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,197,104</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,197,104</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 MIESZKAŃCY EFEZU WALCZĄ ZE SPADKOBIERCAMI HEROSTRATESA!
@@ -1710,6 +2530,35 @@ HATSCHI GEHT AUF ERKUNDUNGSTOUR!
 Hatschi beschloss, sich das Gebiet oberhalb des Tempels genauer anzuschauen. 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+哈奇出發偵察！
+
+
+        
+        </text>
+        <usericon>2,3</usericon>
+        <text>
+
+
+
+哈奇決意細察神廟上方之地。
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,3</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,3</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 HATCHIE NA MISJI ROZPOZNAWCZEJ!
@@ -1746,6 +2595,25 @@ MANI and NORBERT are now old enough to take part in the heroes' adventures!
 MANI und NORBERT sind nun groß genug und sollten an den Abenteuern der Helden teilnehmen!
 
 </text>
+        <usericon>2,5</usericon>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+瑪尼與諾伯特已然長大，當隨英雄們共歷冒險！
+
+
+        
+        </text>
+        <usericon>2,5</usericon>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,5</usericon>
+      </lang>
+      <lang code="l13">
+        <text />
         <usericon>2,5</usericon>
       </lang>
       <lang code="pol">
@@ -1803,6 +2671,37 @@ Dies war die Feste der Erben Herostrates. In dem Bergmassiv sollte sich ein gehe
 
 Gehe mit ALLEN deinen Helden zum Eingang in den Bergen! 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+希羅斯特拉特斯之裔
+
+此乃希羅斯特拉特斯之裔的堡壘。山體之中，應有一處秘道入口，希羅斯特拉特斯便藏身其間！
+
+
+        
+        </text>
+        <usericon>1,143,43</usericon>
+        <text>
+
+
+
+與你的英雄前往山中秘道！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,143,43</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,143,43</usericon>
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -1872,6 +2771,39 @@ Wir mussten zuvor den BEIDEN anderen Aufgaben nachgehen: die Verhinderung der Au
 Die Bauarbeiter von Ephesos nahmen die Waren in ihre Obhut, wollten aber erst mit dem Bau fortfahren, wenn beide Gefahren gebannt waren...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+貨物已送達
+
+所需貨物已運抵工地。然廟工尚不能啟。
+
+
+        
+        </text>
+        <usericon>1,269,121</usericon>
+        <text>
+
+
+
+我們須先了卻另兩樁要務：止住沼澤蔓延，並擊退希羅斯特拉特斯之裔的縱火之眾！
+
+以弗所工匠收下貨物，卻言兩害未除，不願續建……
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>1,269,121</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>1,269,121</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 TOWARY DOSTARCZONE
@@ -1930,6 +2862,35 @@ TRIBUT AN GENERAL VON EPHESOS BEZAHLT!
 "Euer Met und euer Geld ist Lohn genug für meine Armee. Wir werden bis auf den letzen Mann kämpfen!" 
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+已向以弗所將軍繳貢！
+
+
+        
+        </text>
+        <usericon>2,10</usericon>
+        <text>
+
+
+
+"君之蜜酒與金銀，足酬我師。吾等將戰至最後一人！"
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+        <usericon>2,10</usericon>
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+        <usericon>2,10</usericon>
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 TRYBUT ZAPŁACONY GENERAŁOWI Z EFEZU!
@@ -1981,6 +2942,37 @@ MISSION VERLOREN!
         <text>
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held SIGURD erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
+      </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時疏忽，人生便急轉直下！你的摯友與英雄西格德因你大意而殞命！失此英雄，你便無緣得見任務終局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
       </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
@@ -2034,6 +3026,37 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! Dein Freund und Held der Drache NORBERT erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時疏忽，人生便急轉直下！你的摯友與英雄--巨龍諾伯特--因你大意而殞命！失此英雄，你便無緣得見任務終局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -2072,6 +3095,23 @@ Da stand er nun in seiner vollen Schönheit! Der größte Tempel der antiken Zei
 Trotz der vielen Hindernisse hatten wir es geschafft, den Tempel rechtzeitig zum Artemisfest im April fertig zu stellen!
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+它如今巍然立於眼前，盡顯其美！這古代最宏偉的神廟，重煥新輝！我們著實可以自豪！
+
+縱有諸多阻礙，我們終在四月阿爾忒彌斯節前，及時將神廟建成！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 To było to! Największa świątynia Świata Antycznego znów lśniła w całej swojej chwale! To było naprawdę coś, z czego mogliśmy być z siebie dumni! 
@@ -2109,6 +3149,24 @@ Doch verweilten wir nicht lange, denn unser Blick streifte gen Westen.
 Dort musste das Sechste der Antiken Weltwunder wieder ins Leben gerufen werden...
 </text>
       </lang>
+      <lang code="l11">
+        <text>
+
+
+無論是縱火者希羅斯特拉特斯與其門徒，沼澤的蔓延，還是籌措建材之艱，皆未能使我們偏離初衷。
+
+然我們未及久留，目光已投向西方。
+那裡，遠古世界第六大奇蹟，正待重生……
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
+      </lang>
       <lang code="pol">
         <text> 
 Ani podpalacz Herostrates i jego uczniowie, ani podnoszące się bagno, ani czasowe problemy z dostawą materiałów budowlanych nie mogły zniechęcić nas do naszej misji. 
@@ -2137,6 +3195,21 @@ MISSION COMPLETED!
         <text> 
 MISSION GEWONNEN! 
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+任務成功！
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 
@@ -2184,6 +3257,37 @@ MISSION VERLOREN!
 Ein kleiner Moment des Leichtsinns, so schnell kommt es im Leben! MANI - Sohn von Bjarni und Cyra erlag durch deine Unachtsamkeit! Ohne diesen Held wird dir das Ende der Mission verborgen bleiben.
 </text>
       </lang>
+      <lang code="l11">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text>
+
+
+任務失敗！
+        
+        </text>
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text>
+
+
+一時疏忽，人生便急轉直下！瑪尼--比雅尼與希拉之子--因你大意而殞命！失此英雄，你便無緣得見任務終局。
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
+      <lang code="l13">
+        <font>$local$\fonts\fonthead16bld.fnt</font>
+        <text />
+        <font>$local$\fonts\font12.fnt</font>
+        <picture>$local$\graphics\Hero_Dead_F.pcx</picture>
+        <text />
+      </lang>
       <lang code="pol">
         <font>$local$\fonts\fonthead16bld.fnt</font>
         <text>
@@ -2215,6 +3319,21 @@ THE ARTEMIS TEMPLE IN EPHESUS
         <text> 
 DER ARTEMIS-TEMPEL IN EPHESOS
 </text>
+      </lang>
+      <lang code="l11">
+        <text>
+
+
+以弗所的阿爾忒彌斯神廟
+
+        
+        </text>
+      </lang>
+      <lang code="l12">
+        <text />
+      </lang>
+      <lang code="l13">
+        <text />
       </lang>
       <lang code="pol">
         <text> 

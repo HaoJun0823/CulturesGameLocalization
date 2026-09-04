@@ -9,11 +9,12 @@ Differences vs. build_text.py:
   1. Output root is dist/ (not _build/).
   2. Only the CHN language is built from XML (all other languages are
      skipped entirely — no eng/ger/pol/l11/l12/l13 text dirs are created).
-  3. Non-text resources (map.dat, map.ini, logic/, ...) are still copied
-     from the original game data, and ger resource files (.hlt/.fnt/
-     .pcx etc., excluding strings.ini / briefings) are copied into text/l10/
-     so the Chinese layer is self-contained and loadable.
-     Voice-over under sfx/ keeps ONLY l10 — ger/pol/eng audio is dropped.
+   3. Non-text resources (map.dat, map.ini, logic/, ...) are still copied
+      from the original game data, and ger resource files (.hlt/.fnt/
+      .pcx etc., excluding strings.ini / briefings) are copied into text/l10/
+      so the Chinese layer is self-contained and loadable.
+      Voice-over under sfx/ keeps ONLY l10 — the ENGLISH voice-over (eng/)
+      is RENAMED to l10 (fallback ger/); other languages are dropped.
   4. copy_additional_assets() only copies Localization/text/l10/ (the
      Simplified-Chinese part of Data/Text) — other languages are dropped.
   5. User campaigns strictly mirror the mapdata/ source layout: everything
@@ -29,7 +30,7 @@ Usage:
 Output:
   dist/
     Data/maps/<map_id>/text/l10/          → Simplified-Chinese map text
-    Data/maps/<map_id>/sfx/l10/           → (only Chinese voice-over, if any)
+    Data/maps/<map_id>/sfx/l10/           → (English voice-over renamed to l10, if any)
     DataX/UserCampaigns/<C>/<map>/currentusermap/text/l10/
                                           → Simplified-Chinese user maps
     Data/Text/                            → Simplified-Chinese game text
@@ -39,6 +40,26 @@ import shutil
 import sys
 import time
 from pathlib import Path
+
+
+def _rename_dir_retry(src: Path, dst: Path, attempts: int = 5, delay: float = 0.5):
+    """Rename a directory with retries (Windows AV/indexer may lock new dirs
+    transiently), falling back to copy+delete when rename keeps failing."""
+    last_err = None
+    for i in range(attempts):
+        try:
+            src.rename(dst)
+            return
+        except PermissionError as e:
+            last_err = e
+            time.sleep(delay)
+    # Fallback: copy tree then delete the source (rename not possible).
+    try:
+        shutil.copytree(src, dst)
+        shutil.rmtree(src)
+        return
+    except Exception as e:
+        raise RuntimeError(f"rename failed for {src} -> {dst}: {last_err}; copy fallback failed: {e}") from e
 
 # ============================================================
 # Path Configuration (modify only these)
@@ -134,14 +155,33 @@ def copy_ger_resources(ger_text: Path, l10_text: Path):
 
 
 def clean_sfx_languages(target_dir: Path):
-    """Drop non-Chinese voice-over under sfx/ (ger/pol/eng ...).
+    """Normalize voice-over under sfx/ to a single l10 layer.
 
-    The Chinese-only dist keeps only sfx/l10/ (if present). If nothing
-    remains the empty sfx/ directory is removed as well.
+    The Simplified-Chinese dist has no Chinese voice-over; per project
+    decision the ENGLISH voice-over (sfx/eng/) is kept and renamed to
+    sfx/l10/ (fallback: ger/ when eng is missing). All other language
+    directories (pol/ger/...) are dropped. If nothing remains the empty
+    sfx/ directory is removed as well.
     """
     sfx_dir = target_dir / "sfx"
     if not sfx_dir.exists():
         return
+
+    # Pick the source voice-over language: prefer English, fallback German.
+    voice_src = None
+    for lang in ("eng", "ger"):
+        candidate = sfx_dir / lang
+        if candidate.is_dir():
+            voice_src = candidate
+            break
+
+    l10_dir = sfx_dir / TARGET_TEXT_DIR
+    if voice_src is not None:
+        if l10_dir.exists():
+            shutil.rmtree(l10_dir)
+        voice_src.rename(l10_dir)
+
+    # Drop every remaining non-l10 language directory.
     for entry in list(sfx_dir.iterdir()):
         if entry.is_dir() and entry.name != TARGET_TEXT_DIR:
             shutil.rmtree(entry)
@@ -224,7 +264,7 @@ def build_main_maps(loc_tools):
                 if lang_dir.is_dir() and lang_dir.name != "ger":
                     shutil.rmtree(lang_dir)
 
-        # 2b) Drop non-Chinese voice-over under sfx/ (ger/pol/eng ...)
+        # 2b) Normalize voice-over: eng → l10 (fallback ger), drop others
         clean_sfx_languages(target_dir)
 
         # 3) Build ONLY Simplified Chinese from XML (overwrites text/l10/strings.ini etc.)
@@ -305,7 +345,7 @@ def build_user_maps(loc_tools):
         if text_dir.exists():
             ger_dir = text_dir / "ger"
             if ger_dir.exists():
-                ger_dir.rename(text_dir / TARGET_TEXT_DIR)
+                _rename_dir_retry(ger_dir, text_dir / TARGET_TEXT_DIR)
             for lang_dir in list(text_dir.iterdir()):
                 if lang_dir.is_dir() and lang_dir.name != TARGET_TEXT_DIR:
                     shutil.rmtree(lang_dir)
@@ -338,7 +378,7 @@ def build_user_maps(loc_tools):
         if root_text.exists():
             shutil.rmtree(root_text)
 
-        # 4) Defensive: drop non-Chinese voice-over (user maps carry no sfx)
+        # 4) Defensive: normalize voice-over (user maps carry no sfx)
         clean_sfx_languages(target_dir)
 
         print(f"  [OK] {campaign}/{map_id} ({TARGET_TEXT_DIR})")

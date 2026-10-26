@@ -636,8 +636,15 @@ and does not itself modify or grant any license.
     this project imposes on them no restriction beyond what their own
     licenses require.
 
-    （暂无。本仓库未随附任何需收录许可全文的第三方组件。）
-    (None. No third-party component requiring a license text is bundled.)
+    - cultures2_converter.py（archives/tools/）
+      GPL-3.0-or-later -- Copyright (C) Mikulus6 及 Cultures-map-editor 贡献者
+      参见 See ./LICENSES/GPLv3.txt
+      用途 Used for: Cultures 2 ini/cif 转换与 c2m 打包解包 / ini-cif conversion and c2m packing
+      说明 Note: 提取自 Mikulus6/Cultures-map-editor（GPL-3.0）。该文件按
+      GPL-3.0-or-later 授权；本许可第 3 节的附加条件不适用于该文件。
+      Extracted from Mikulus6/Cultures-map-editor (GPL-3.0). That file is
+      licensed under GPL-3.0-or-later; the additional conditions in
+      Section 3 of this license do not apply to it.
 
 6.5 逐字全文与文件级声明 / Verbatim texts and file-level notices
     上文提及的每一项许可，其全文均逐字收录于 ./LICENSES/，本项目未作
